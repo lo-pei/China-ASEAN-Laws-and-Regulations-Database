@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p11
-   法规 77 部 / 译文 1043 条
+   法规 79 部 / 译文 2246 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -369,6 +369,4971 @@
         },
         "noLabel": {
           "en": "Article 39."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0427'] = {
+    "lawId": "CN-JI-0427",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 550 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Major cases involving foreign elements provided in item 1 of Article 19 of the Civil Procedure Law include cases with a large amount in dispute, cases with complex facts and cases with a large number of parties on one side or other major impact."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Cases of patent disputes shall be under the jurisdiction of intellectual property courts, and of intermediate people's courts and basic-level people's courts designated by the Supreme People's Court.\nMaritime and admiralty cases shall be under the jurisdiction of maritime courts."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The domicile of a citizen means the place of his household registration; the domicile of a legal person or other organisation means the place where its principal office is located.\nWhere the place of the principal office of a legal person or other organisation cannot be determined, its place of registration or of incorporation shall be its domicile."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The habitual residence of a citizen means the place where the citizen has continuously resided for more than one year from the time he left his domicile until the action is brought, except the place where he is hospitalised for medical treatment."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "An action brought against an individual partnership or a partnership-type joint venture without an office shall be under the jurisdiction of the people's court at the place of its registration. Where there is no registration and the several defendants are not in the same jurisdictional area, the people's courts at the domiciles of the defendants shall all have jurisdiction."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Where the household registration of the defendant has been cancelled, jurisdiction shall be determined in accordance with Article 23 of the Civil Procedure Law; where the household registration of both the plaintiff and the defendant has been cancelled, the case shall be under the jurisdiction of the people's court at the place of residence of the defendant."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Where the household registration of a party has been moved out and no new registration has yet been made, and he has a habitual residence, the case shall be under the jurisdiction of the people's court at that place; where he has no habitual residence, the case shall be under the jurisdiction of the people's court at the place of his former household registration."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Where both parties are imprisoned or subject to compulsory measures of education, the case shall be under the jurisdiction of the people's court at the former domicile of the defendant. Where the defendant has been imprisoned or subject to compulsory measures of education for more than one year, the case shall be under the jurisdiction of the people's court at the place of imprisonment or of the compulsory measures of education."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Where the domiciles of the several defendants in a case claiming maintenance, support or alimony are not within the same jurisdictional area, the case may be under the jurisdiction of the people's court at the domicile of the plaintiff."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "A case of dissatisfaction with designated guardianship or of change in the relationship of guardianship may be under the jurisdiction of the people's court at the domicile of the ward."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Civil cases in which both parties are military personnel or military units shall be under the jurisdiction of military courts."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Where one spouse has left the domicile for more than one year and the other brings an action for divorce, the case may be under the jurisdiction of the people's court at the domicile of the plaintiff.\nWhere both spouses have left the domicile for more than one year and one of them brings an action for divorce, the case shall be under the jurisdiction of the people's court at the habitual residence of the defendant; where there is no habitual residence, the case shall be under the jurisdiction of the people's court at the place of residence of the defendant at the time the action is brought."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where overseas Chinese who married in China and have settled abroad bring an action for divorce before a people's court because the court of the country of settlement refuses to accept the case on the ground that the divorce action should be under the jurisdiction of the court of the place where the marriage was concluded, the case shall be under the jurisdiction of the people's court at the place where the marriage was concluded or at the last place of residence in China of one of the parties."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Where overseas Chinese who married abroad and have settled abroad bring an action for divorce before a people's court because the court of the country of settlement refuses to accept the case on the ground that the divorce action should be under the jurisdiction of the court of the State of nationality, the case shall be under the jurisdiction of the people's court at the former domicile of one of the parties or at the last place of residence in China of one of the parties."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where one Chinese citizen resides abroad and the other resides in China, the people's court at the domicile of the party in China shall have jurisdiction regardless of which party brings the divorce action before a people's court. Where the party abroad brings an action in the court of the country of residence and the party in China brings an action before a people's court, the people's court accepting the action shall have jurisdiction."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where both Chinese citizens are abroad but have not settled there and one of them brings an action for divorce before a people's court, the case shall be under the jurisdiction of the people's court at the former domicile of the plaintiff or of the defendant."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Where Chinese citizens who have already divorced and both have settled abroad bring an action solely concerning the division of property in China, the case shall be under the jurisdiction of the people's court at the place where the principal property is located."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where a contract provides for the place of performance, the place of performance so provided shall be the place of performance of the contract.\nWhere a contract does not provide for the place of performance or the provision is unclear, and the subject matter in dispute is the payment of money, the place of the party receiving the money shall be the place of performance of the contract; where the subject matter is the delivery of immovable property, the place where the immovable property is located shall be the place of performance; for other subject matters, the place of the party performing the obligation shall be the place of performance. For a contract settled concurrently with the transaction, the place of the transactional act shall be the place of performance.\nWhere the contract has not actually been performed and the domiciles of both parties are not at the place of performance provided in the contract, the case shall be under the jurisdiction of the people's court at the domicile of the defendant."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "For contracts of lease of property and contracts of financial lease, the place where the leased property is used shall be the place of performance. Where the contract provides for the place of performance, that provision shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "For contracts of sale concluded by means of an information network, where the subject matter is delivered through an information network, the domicile of the buyer shall be the place of performance; where the subject matter is delivered by other means, the place of receipt of the goods shall be the place of performance. Where the contract provides for the place of performance, that provision shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "In an action arising from a dispute over a contract of property insurance, where the insured subject matter is a means of transport or goods in transit, the case may be under the jurisdiction of the people's court at the place of registration of the means of transport, at the place of destination of the transport or at the place where the insured peril occurred.\nIn an action arising from a dispute over a contract of personal insurance, the case may be under the jurisdiction of the people's court at the domicile of the insured."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "In actions arising from disputes over the entries in the register of shareholders, requests to change the registration of a company, shareholders' right to know, company resolutions, merger of companies, division of companies, reduction of capital or increase of capital of companies, jurisdiction shall be determined in accordance with Article 27 of the Civil Procedure Law."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where a creditor applies for an order for payment, Article 22 of the Civil Procedure Law shall apply, and the case shall be under the jurisdiction of the basic-level people's court at the domicile of the debtor."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The place of the tort provided in Article 29 of the Civil Procedure Law includes the place where the tortious act was committed and the place where the result of the tort occurred."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "For torts committed through information networks, the place where the tortious act was committed includes the place where the computers and other information equipment used to commit the alleged tort are located, and the place where the result of the tort occurred includes the domicile of the person whose rights were infringed."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "In an action brought for damage to property or personal injury caused by the substandard quality of a product or service, the people's courts at the place of manufacture of the product, the place of sale of the product, the place where the service was provided, the place of the tort and the domicile of the defendant shall all have jurisdiction."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "An action arising from loss caused to the respondent or an interested party because the party concerned, after applying for pre-litigation preservation, failed to bring an action or apply for arbitration within the statutory period shall be under the jurisdiction of the people's court which took the preservation measures.\nWhere the party concerned, after applying for pre-litigation preservation, brings an action or applies for arbitration within the statutory period, and the respondent or an interested party brings an action for loss suffered as a result of the preservation, the case shall be under the jurisdiction of the people's court which accepted the action or the people's court which took the preservation measures."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Disputes over immovable property provided in item 1 of Article 34 of the Civil Procedure Law mean disputes over real rights arising from the confirmation and division of rights in immovable property, neighbouring relations and the like.\nDisputes over contracts for the contractual operation of rural land, disputes over contracts of lease of housing, disputes over contracts for construction projects and disputes over contracts for the sale of policy-based housing shall be subject to jurisdiction determined as disputes over immovable property.\nWhere the immovable property has been registered, the place recorded in the register of immovable property shall be the place where the immovable property is located; where the immovable property has not been registered, the place where the immovable property is actually located shall be the place where it is located."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The written agreement provided in Article 35 of the Civil Procedure Law includes a clause on agreed jurisdiction contained in a written contract and an agreement in writing concluded before the action to choose jurisdiction."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where, under a jurisdiction agreement, the court having jurisdiction can be determined at the time the action is brought, that agreement shall prevail; where it cannot be determined, jurisdiction shall be determined in accordance with the relevant provisions of the Civil Procedure Law.\nWhere a jurisdiction agreement provides that the people's courts at two or more places having an actual connection with the dispute shall have jurisdiction, the plaintiff may bring the action before any one of those people's courts."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where a business operator uses standard clauses to conclude a jurisdiction agreement with a consumer without taking reasonable steps to draw the consumer's attention to it, and the consumer asserts that the jurisdiction agreement is void, the people's court shall support the assertion."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Where a jurisdiction agreement provides that the people's court at the domicile of one party shall have jurisdiction and the domicile of that party changes after the agreement is concluded, the people's court at the domicile at the time the jurisdiction agreement was concluded shall have jurisdiction, unless the parties have agreed otherwise."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Where a contract is assigned, the jurisdiction agreement of the contract shall be binding on the assignee, unless the assignee did not know of the jurisdiction agreement at the time of the assignment, or the assignment agreement provides otherwise and the other party to the original contract consents."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Where parties have a property dispute arising from cohabitation or after the dissolution of a marriage or adoptive relationship and agree on jurisdiction, the provisions of Article 35 of the Civil Procedure Law may be applied to determine jurisdiction."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Where a party does not respond or defend after the expiry of the period for defence and the people's court, before the opening of the first-instance hearing, finds that the case is not within its jurisdiction, it shall rule to transfer the case to the people's court having jurisdiction."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "In an action over which two or more people's courts have jurisdiction, the people's court which first filed the case may not transfer it to another people's court having jurisdiction. Where, before filing the case, a people's court finds that another people's court having jurisdiction has already filed the case, it may not file the case again; where it finds after filing the case that another people's court having jurisdiction has already filed it, it shall rule to transfer the case to the people's court which first filed it."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "After a case is accepted, the jurisdiction of the people's court accepting it shall not be affected by a change in the domicile or habitual residence of a party."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "After a people's court having jurisdiction has accepted a case, it may not transfer the case to the people's court having jurisdiction after the change, on the ground of a change in the administrative division. Appeals from judgments and cases retried under the procedure for trial supervision shall be tried by the people's court at the next higher level to the original trial court; cases in which the people's court at a higher level orders a retrial or remands for retrial shall be retried or reheard by the original trial court."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where a people's court determines after examining an objection to jurisdiction that it has jurisdiction, the jurisdiction shall not be changed by reason of a counterclaim brought, or an increase or change in the claims, by a party, except where the provisions on jurisdiction by level or exclusive jurisdiction are violated.\nWhere a case is remanded for retrial or retried under first-instance procedure and a party raises an objection to jurisdiction, the people's court shall not examine it."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "In accordance with the provisions of paragraph 2 of Article 38 of the Civil Procedure Law, where two people's courts in a dispute over jurisdiction fail to reach agreement through consultation and request the people's court at their common higher level to designate jurisdiction, if both are basic-level people's courts within the jurisdiction of the same prefecture or city, the intermediate people's court of that prefecture or city shall promptly designate jurisdiction; if both are people's courts within the same province, autonomous region or municipality directly under the Central Government, the higher people's court of that province, autonomous region or municipality shall promptly designate jurisdiction; if they are people's courts in different provinces, autonomous regions or municipalities directly under the Central Government and the higher people's courts fail to reach agreement through consultation, the Supreme People's Court shall promptly designate jurisdiction.\nRequests made in accordance with the preceding paragraph to a people's court at a higher level for designation of jurisdiction shall be made level by level."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where a people's court designates jurisdiction in accordance with the provisions of paragraph 2 of Article 38 of the Civil Procedure Law, it shall make a ruling.\nFor a case in respect of which a request for designation of jurisdiction has been made to a people's court at a higher level, the lower-level people's court shall suspend the trial. Where the lower-level people's court makes a judgment or ruling in the case before the ruling designating jurisdiction is made, the higher-level people's court shall, at the same time as it rules to designate jurisdiction, set aside the judgment or ruling of the lower-level people's court."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "In any of the following first-instance civil cases, a people's court may, in accordance with the provisions of paragraph 1 of Article 39 of the Civil Procedure Law, refer the case to a lower-level people's court for trial before the hearing is opened:\n(1) actions concerning the debtor in bankruptcy proceedings;\n(2) cases with a large number of parties and inconvenient to litigate;\n(3) other types of cases designated by the Supreme People's Court.\nBefore referring a case to a lower-level people's court for trial, the people's court shall request the approval of the people's court at the next higher level. After approval by the higher-level people's court, the people's court shall rule to refer the case to the lower-level people's court for trial.\nII. Withdrawal"
+        },
+        "noLabel": {
+          "en": "Article 42."
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Judicial personnel shall withdraw on their own initiative, and a party shall have the right to apply for their withdrawal, under any of the following circumstances:\n(1) they are a party to the case or a close relative of a party;\n(2) they or their close relatives have an interest in the case;\n(3) they have served as a witness, expert, defender, agent ad litem or interpreter in the case;\n(4) they are a close relative of an agent ad litem in the case;\n(5) they or their close relatives hold shares or equity in a party to the case which is a non-listed company;\n(6) they have other interests with a party or an agent ad litem in the case which may affect the impartial conduct of the trial."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "A party shall have the right to apply for the withdrawal of judicial personnel under any of the following circumstances:\n(1) they have accepted a banquet given by a party to the case or by a person entrusted by a party, or have participated in activities the expenses of which were paid by a party or a person entrusted by a party;\n(2) they have solicited or accepted property or other benefits from a party to the case or a person entrusted by a party;\n(3) they have met, in violation of regulations, with a party to the case or an agent ad litem;\n(4) they have recommended or introduced an agent ad litem to a party to the case, or have introduced a lawyer or other person to act as agent in the case;\n(5) they have borrowed money or articles from a party to the case or a person entrusted by a party;\n(6) they have other improper conduct which may affect the impartial conduct of the trial."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Judicial personnel who have participated in the trial of a case in one trial procedure may not participate in the trial of the same case in another procedure.\nWhere a case remanded for retrial enters second-instance procedure after the first-instance court has made a judgment or ruling, the judicial personnel of the original second-instance procedure shall not be bound by the provisions of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where judicial personnel are under a circumstance requiring withdrawal but do not withdraw on their own initiative and no party applies for their withdrawal, the president of the court or the judicial committee shall decide on their withdrawal."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "People's courts shall, in accordance with law, inform the parties of their right to apply for the withdrawal of the members of the collegial panel, the sole judge, the clerk and other personnel."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Judicial personnel referred to in Article 47 of the Civil Procedure Law include the president and vice-presidents of the people's court, the members of the judicial committee, the chief judge and deputy chief judges of a division, judges and people's assessors participating in the trial of the case."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "The relevant provisions on the withdrawal of judicial personnel shall apply to clerks and execution officers.\nIII. Participants in Proceedings"
+        },
+        "noLabel": {
+          "en": "Article 49."
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "The legal representative of a legal person shall be the person registered in accordance with law, unless otherwise provided by law. For a legal person not required by law to be registered, its principal responsible person shall be its legal representative; where there is no principal responsible person, the deputy responsible person in charge of its work shall be its legal representative.\nWhere the legal representative has already been changed but the registration has not been completed, and the changed legal representative requests to represent the legal person in the proceedings, the people's court may permit it.\nFor other organisations, the principal responsible person shall be their representative."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where the legal representative of a legal person changes in the course of proceedings, the new legal representative shall continue the proceedings and shall submit to the people's court a certificate of identity of the new legal representative. The procedural acts performed by the original legal representative shall remain valid.\nThe provisions of the preceding paragraph shall apply to proceedings in which other organisations participate."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Other organisations provided in Article 51 of the Civil Procedure Law mean organisations lawfully established which have a certain organisational structure and property but do not have the status of a legal person, including:\n(1) sole proprietorship enterprises registered in accordance with law and holding a business licence;\n(2) partnership enterprises registered in accordance with law and holding a business licence;\n(3) Chinese-foreign co-operative joint ventures and wholly foreign-owned enterprises registered in accordance with law and holding a business licence of China;\n(4) branches and representative offices of lawfully established social organisations;\n(5) branches of legal persons lawfully established and holding a business licence;\n(6) branches of commercial banks, policy banks and non-bank financial institutions lawfully established and holding a business licence;\n(7) township enterprises and neighbourhood enterprises registered in accordance with law and holding a business licence;\n(8) other organisations meeting the conditions provided in this Article."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where a branch of a legal person is not lawfully established, or is lawfully established but has not obtained a business licence, the legal person which established the branch shall be the party."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where civil activities are carried on in the form of affiliation and a party requests that the affiliated person and the affiliated entity bear civil liability in accordance with law, the affiliated person and the affiliated entity shall be joint parties to the proceedings."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where a party dies in the course of proceedings and it is necessary to wait for the heirs to indicate whether they will participate in the proceedings, the court shall rule to suspend the proceedings. The people's court shall promptly notify the heirs to assume the proceedings as parties, and the procedural acts already performed by the deceased shall be binding on the heirs assuming the proceedings."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where a staff member of a legal person or other organisation causes damage to another person in the performance of work tasks, that legal person or other organisation shall be the party."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where a person providing labour services causes damage to another person in the course of those services and the injured person brings an action, the party accepting the labour services shall be the defendant."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "During the period of labour dispatch, where a dispatched staff member causes damage to another person in the performance of work tasks, the employing unit accepting the dispatched labour shall be the party. Where a party asserts that the labour dispatch unit should bear liability, that labour dispatch unit shall be a joint defendant."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "In proceedings, an individual industrial and commercial household shall be represented by the operator registered in the business licence as the party. Where it has a trade name, the trade name registered in the business licence shall be the party, provided that the basic information of the operator under that trade name is also stated.\nWhere the operator registered in the business licence is inconsistent with the actual operator, the registered operator and the actual operator shall be joint parties to the proceedings."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "In proceedings, all partners of an individual partnership which has not been registered in accordance with law and has not obtained a business licence shall be joint parties to the proceedings. Where the individual partnership has a trade name approved and registered in accordance with law, the registered trade name shall be stated in the legal documents. All partners may elect a representative, and the elected representative shall be issued with a letter of election by all partners."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where a dispute between parties has been mediated by a people's mediation committee or another mediation organisation lawfully established and an agreement has been reached, and one party fails to perform the mediation agreement and the other party brings an action before a people's court, the other party shall be the defendant."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "In any of the following circumstances, the person who committed the act shall be the party:\n(1) a legal person or other organisation should have been registered but was not, and the person carried on civil activities in the name of that legal person or other organisation;\n(2) the person carried on civil activities in the name of the principal without authority to act as agent, beyond the authority of agency, or after the termination of the authority of agency, unless the other party had reason to believe that the person had authority to act as agent;\n(3) after the lawful termination of a legal person or other organisation, the person continued to carry on civil activities in its name."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Where legal person enterprises merge, the enterprise after the merger shall be the party in disputes arising from civil activities before the merger; where legal person enterprises divide, the enterprises after the division shall be joint parties to the proceedings in disputes arising from civil activities before the division."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Where a legal person enterprise is dissolved, the legal person enterprise shall be the party before it is liquidated in accordance with law and deregistered; where it is deregistered without lawful liquidation, its shareholders, promoters or investors shall be the party."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Where a business letter of introduction, a special seal for contracts, a blank contract bearing a seal or a bank account is lent, the lending unit and the borrower shall be joint parties to the proceedings."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "In an action arising from a dispute over a contract of guarantee, where the creditor asserts rights against both the guarantor and the guaranteed person, the people's court shall list the guarantor and the guaranteed person as joint defendants. Where the contract of guarantee provides for general guarantee and the creditor sues only the guarantor, the people's court shall notify the guaranteed person to participate in the proceedings as a joint defendant; where the creditor sues only the guaranteed person, only the guaranteed person may be listed as the defendant."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Where a person without capacity for civil conduct or with limited capacity for civil conduct causes damage to another person, that person and his guardian shall be joint defendants."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "Where a residents' committee, a villagers' committee or a villagers' group has a civil dispute with another person, the residents' committee, the villagers' committee or the villagers' group with independent property shall be the party."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "In an action brought in respect of acts infringing the remains or ashes of a deceased person, or his name, likeness, reputation, honour, privacy and the like, the close relatives of the deceased shall be the parties."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "In an action concerning inheritance, where some of the heirs bring the action, the people's court shall notify the other heirs to participate in the proceedings as joint plaintiffs; where the heirs notified are unwilling to participate in the proceedings but have not expressly waived their substantive rights, the people's court shall still list them as joint plaintiffs."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "Where the plaintiff sues the principal and the agent and requests that they bear joint and several liability, the principal and the agent shall be joint defendants.\nWhere the plaintiff sues the agent and the other party and requests that they bear joint and several liability, the agent and the other party shall be joint defendants."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "Where joint property rights are infringed by another person and some of the joint owners bring an action, the other joint owners shall be joint parties to the proceedings."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "Where a party who must participate jointly in the proceedings has not done so, the people's court shall, in accordance with Article 135 of the Civil Procedure Law, notify him to participate; a party may also apply to the people's court for his joinder. The people's court shall examine the application made by a party and, where the grounds are not established, rule to reject it; where the grounds are established, notify the joined party in writing to participate in the proceedings."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "Where the people's court joins a party to joint proceedings, it shall notify the other parties. A plaintiff who should be joined and has expressly waived his substantive rights need not be joined; one who is neither willing to participate in the proceedings nor willing to waive his substantive rights shall still be joined as a joint plaintiff, and his failure to participate shall not affect the people's court's trial of the case and its judgment in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "A large number of persons provided in Articles 56 and 57 and Article 206 of the Civil Procedure Law generally means ten or more persons."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "In accordance with Article 56 of the Civil Procedure Law, where a party side consisting of a large number of persons is determined at the time the action is brought, all the parties may elect a common representative, or some of the parties may elect their own representatives; parties who cannot elect a representative may participate in the proceedings themselves in necessary joint proceedings, and may bring separate actions in ordinary joint proceedings."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "In accordance with Article 57 of the Civil Procedure Law, where a party side consisting of a large number of persons is not determined at the time the action is brought, the parties shall elect a representative. Where the parties cannot elect one, the people's court may propose candidates for consultation with the parties; where consultation fails, the people's court may designate a representative from among the parties who brought the action."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "The representatives provided in Articles 56 and 57 of the Civil Procedure Law shall number from two to five, and each representative may entrust one or two persons as agents ad litem."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "For a case accepted in accordance with Article 57 of the Civil Procedure Law, the people's court may issue a public announcement notifying right holders to register with the people's court. The period of the announcement shall be determined according to the specific circumstances of the case, but shall not be less than 30 days."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "A right holder registering with the people's court in accordance with Article 57 of the Civil Procedure Law shall prove his legal relationship with the other party and the damage he has suffered. Where he cannot prove them, registration shall not be made, and the right holder may bring a separate action. The judgment or ruling of the people's court shall be enforced within the scope of the registration. Where a right holder who has not registered brings an action and the people's court finds his claim established, it shall rule that the judgment or ruling already made by the people's court shall apply."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "In accordance with Article 59 of the Civil Procedure Law, a third party with independent claims shall have the right to put forward claims, facts and reasons to the people's court and become a party; a third party without independent claims may apply, or be notified by the people's court, to participate in the proceedings.\nWhere a third party who did not participate in the first-instance proceedings applies to participate in the second-instance proceedings, the people's court may permit it."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "In first-instance proceedings, a third party without independent claims shall have no right to raise an objection to jurisdiction and no right to waive or change claims or to apply to withdraw the action, but shall have the right to appeal where he is judged to bear civil liability."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "In proceedings, the guardian of a person without capacity for civil conduct or with limited capacity for civil conduct shall be his legal agent. Where no guardian has been determined in advance, one may be determined through consultation among persons qualified to act as guardian; where consultation fails, the people's court shall designate a legal agent in the proceedings from among them. Where a party has no guardian provided in Articles 27 and 28 of the Civil Code, a relevant organisation provided in Article 32 of the Civil Code may be designated to act as legal agent in the proceedings."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "A party may not entrust a person without capacity for civil conduct, a person with limited capacity for civil conduct, or any other person who cannot lawfully act as agent ad litem, to act as his agent ad litem."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "In accordance with item 2 of paragraph 2 of Article 61 of the Civil Procedure Law, relatives who have with the party a relationship of husband and wife, direct blood relationship, collateral blood relationship within three generations or close affinity, or other relationship of support or maintenance, may act as agents ad litem in the name of close relatives of the party."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "In accordance with item 2 of paragraph 2 of Article 61 of the Civil Procedure Law, staff members who have a lawful labour or personnel relationship with a party may act as agents ad litem in the name of staff members of the party."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "In accordance with item 3 of paragraph 2 of Article 61 of the Civil Procedure Law, where a relevant social organisation recommends a citizen to act as agent ad litem, the following conditions shall be met:\n(1) the social organisation is a non-profit legal person organisation registered and established in accordance with law or exempt from registration in accordance with law;\n(2) the principal is a member of the social organisation, or the domicile of one party is located in the area of activity of the social organisation;\n(3) the matter of agency falls within the scope of business stated in the constitution of the social organisation;\n(4) the citizen recommended is a responsible person of the social organisation or a staff member having a lawful labour or personnel relationship with it.\nA patent agent recommended by the All-China Patent Agents Association may act as agent ad litem in patent dispute cases."
+        },
+        "noLabel": {
+          "en": "Article 87."
+        }
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "Apart from submitting a power of attorney in accordance with Article 62 of the Civil Procedure Law, an agent ad litem shall also submit the relevant materials to the people's court in accordance with the following provisions:\n(1) a lawyer shall submit his lawyer's practice certificate and supporting materials from his law firm;\n(2) a grassroots legal service worker shall submit his legal service worker's practice certificate, a letter of introduction issued by the grassroots legal service office, and materials proving that one party is located within the jurisdiction;\n(3) a close relative of a party shall submit identity documents and materials proving the close relative relationship with the principal;\n(4) a staff member of a party shall submit identity documents and materials proving a lawful labour or personnel relationship with the party;\n(5) a citizen recommended by the community or unit where a party is located shall submit identity documents, the recommendation materials and materials proving that the party belongs to that community or unit;\n(6) a citizen recommended by a relevant social organisation shall submit identity documents and materials proving that the conditions provided in Article 87 of these Interpretations are met."
+        },
+        "noLabel": {
+          "en": "Article 88."
+        }
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "A power of attorney submitted by a party to the people's court shall be delivered to the people's court before the hearing. Where a power of attorney states only 'general authority to act' without specific authorisation, the agent ad litem shall have no right to admit, waive or change claims, to reach a settlement, to bring a counterclaim or to appeal on behalf of the party.\nIn a case tried under summary procedure, where both parties appear in court at the same time and the hearing is held directly, an agent ad litem may be entrusted orally on the spot, and the people's court shall record it in the transcript.\nIV. Evidence"
+        },
+        "noLabel": {
+          "en": "Article 89."
+        }
+      },
+      {
+        "no": 90,
+        "text": {
+          "en": "A party shall provide evidence to prove the facts on which his claims are based or the facts on which he relies to refute the other party's claims, unless otherwise provided by law.\nWhere, before a judgment is made, a party fails to provide evidence or the evidence is insufficient to prove his assertion of fact, the party bearing the burden of proof shall bear the adverse consequences."
+        },
+        "noLabel": {
+          "en": "Article 90."
+        }
+      },
+      {
+        "no": 91,
+        "text": {
+          "en": "People's courts shall determine the allocation of the burden of proof in accordance with the following principles, unless otherwise provided by law:\n(1) the party asserting the existence of a legal relationship shall bear the burden of proving the basic facts giving rise to that legal relationship;\n(2) the party asserting the modification or extinction of a legal relationship, or the impediment of a right, shall bear the burden of proving the basic facts of the modification or extinction of that legal relationship or of the impediment of the right."
+        },
+        "noLabel": {
+          "en": "Article 91."
+        }
+      },
+      {
+        "no": 92,
+        "text": {
+          "en": "Where a party expressly admits in the court hearing, or in written materials such as the statement of claim, the statement of defence or the written argument, facts unfavourable to himself, the other party need not prove them.\nThe provisions on admission in the preceding paragraph shall not apply to facts involving status relationships, the interests of the State or the public interest which should be investigated by the people's court ex officio.\nWhere facts admitted are inconsistent with the facts ascertained, the people's court shall not confirm them."
+        },
+        "noLabel": {
+          "en": "Article 92."
+        }
+      },
+      {
+        "no": 93,
+        "text": {
+          "en": "Parties need not prove the following facts:\n(1) natural laws and theorems and laws of science;\n(2) facts well known to all;\n(3) facts presumed in accordance with the provisions of law;\n(4) another fact inferred from known facts in accordance with the rules of daily life experience;\n(5) facts confirmed by a legally effective judgment of a people's court;\n(6) facts confirmed by a legally effective award of an arbitration institution;\n(7) facts proved by a valid notarial document.\nThe facts provided in items (2) to (4) of the preceding paragraph are subject to the exception that a party has contrary evidence sufficient to refute them; the facts provided in items (5) to (7) are subject to the exception that a party has contrary evidence sufficient to overturn them."
+        },
+        "noLabel": {
+          "en": "Article 93."
+        }
+      },
+      {
+        "no": 94,
+        "text": {
+          "en": "Evidence which a party and his agent ad litem cannot collect themselves for objective reasons, as provided in paragraph 2 of Article 67 of the Civil Procedure Law, includes:\n(1) evidence kept by the relevant State department which the party and his agent ad litem have no right to consult or obtain;\n(2) evidence involving State secrets, trade secrets or personal privacy;\n(3) other evidence which the party and his agent ad litem cannot collect themselves for objective reasons.\nEvidence which a party and his agent ad litem cannot collect themselves for objective reasons may be applied for in writing to the people's court for investigation and collection before the expiry of the time limit for adducing evidence."
+        },
+        "noLabel": {
+          "en": "Article 94."
+        }
+      },
+      {
+        "no": 95,
+        "text": {
+          "en": "Where evidence applied for by a party for investigation and collection has no relevance to the facts to be proved, is of no significance for proving the facts to be proved, or there is otherwise no necessity to investigate and collect it, the people's court shall not grant the application."
+        },
+        "noLabel": {
+          "en": "Article 95."
+        }
+      },
+      {
+        "no": 96,
+        "text": {
+          "en": "Evidence which a people's court considers necessary for the trial of a case, as provided in paragraph 2 of Article 67 of the Civil Procedure Law, includes evidence:\n(1) involving possible harm to the interests of the State or the public interest;\n(2) involving a status relationship;\n(3) involving proceedings provided in Article 58 of the Civil Procedure Law;\n(4) where the parties may have maliciously colluded to harm the lawful rights and interests of another person;\n(5) involving procedural matters such as ex officio joinder of parties, suspension of proceedings, termination of proceedings and withdrawal.\nApart from the circumstances provided in the preceding paragraph, a people's court shall investigate and collect evidence upon the application of a party."
+        },
+        "noLabel": {
+          "en": "Article 96."
+        }
+      },
+      {
+        "no": 97,
+        "text": {
+          "en": "Where a people's court investigates and collects evidence, it shall be done jointly by two or more persons. The materials of the investigation shall be signed, fingerprinted or sealed by the investigator, the person investigated and the recorder."
+        },
+        "noLabel": {
+          "en": "Article 97."
+        }
+      },
+      {
+        "no": 98,
+        "text": {
+          "en": "Where a party applies for preservation of evidence in accordance with paragraph 1 of Article 84 of the Civil Procedure Law, it may do so in writing before the expiry of the time limit for adducing evidence.\nWhere preservation of evidence may cause loss to another person, the people's court shall order the applicant to provide corresponding security."
+        },
+        "noLabel": {
+          "en": "Article 98."
+        }
+      },
+      {
+        "no": 99,
+        "text": {
+          "en": "A people's court shall determine the time limit for adducing evidence at the preparation stage before the trial. The time limit for adducing evidence may be agreed upon by the parties and shall be subject to the permission of the people's court.\nWhere a people's court determines the time limit for adducing evidence, it shall not be less than 15 days in a case under ordinary first-instance procedure, and not less than 10 days in a second-instance case in which a party provides new evidence.\nAfter the expiry of the time limit for adducing evidence, where a party applies to provide rebutting evidence in respect of evidence already provided, or to correct defects in the source, form or other aspects of the evidence, the people's court may determine a further time limit for adducing evidence as appropriate, and that time limit shall not be subject to the provisions of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 99."
+        }
+      },
+      {
+        "no": 100,
+        "text": {
+          "en": "Where a party applies to extend the time limit for adducing evidence, it shall submit a written application to the people's court before the expiry of the time limit.\nWhere the grounds for the application are established, the people's court shall permit it, appropriately extend the time limit for adducing evidence and notify the other parties. The extended time limit for adducing evidence shall apply to the other parties.\nWhere the grounds for the application are not established, the people's court shall not permit it and shall notify the applicant."
+        },
+        "noLabel": {
+          "en": "Article 100."
+        }
+      },
+      {
+        "no": 101,
+        "text": {
+          "en": "Where a party provides evidence after the time limit, the people's court shall order him to explain the reasons and, where necessary, may require him to provide corresponding evidence.\nWhere a party provides evidence after the time limit for objective reasons, or the other party raises no objection to the late provision of evidence, it shall be deemed not to be late."
+        },
+        "noLabel": {
+          "en": "Article 101."
+        }
+      },
+      {
+        "no": 102,
+        "text": {
+          "en": "Evidence provided by a party after the time limit intentionally or through gross negligence shall not be admitted by the people's court. However, where the evidence relates to the basic facts of the case, the people's court shall admit it and shall admonish or fine the party in accordance with Articles 68 and paragraph 1 of Article 118 of the Civil Procedure Law.\nEvidence provided by a party after the time limit otherwise than intentionally or through gross negligence shall be admitted by the people's court, and the party shall be admonished.\nWhere one party requests the other to compensate the necessary expenses incurred as a result of the late provision of evidence, such as travel, accommodation, meals, loss of working time and the expenses of witnesses appearing in court to testify, the people's court may support the request."
+        },
+        "noLabel": {
+          "en": "Article 102."
+        }
+      },
+      {
+        "no": 103,
+        "text": {
+          "en": "Evidence shall be produced in court and cross-examined by the parties. Evidence not cross-examined by the parties may not serve as a basis for determining the facts of the case.\nEvidence admitted by the parties at the preparation stage before the trial shall, after being explained by the judicial personnel at the hearing, be deemed to have been cross-examined.\nEvidence involving State secrets, trade secrets or personal privacy, or which should be kept confidential in accordance with law, may not be cross-examined in public."
+        },
+        "noLabel": {
+          "en": "Article 103."
+        }
+      },
+      {
+        "no": 104,
+        "text": {
+          "en": "People's courts shall organise the parties to cross-examine evidence with regard to its authenticity, legality and relevance to the facts to be proved, and to make statements and debate on whether the evidence has probative force and on the degree of such probative force.\nEvidence which can reflect the true circumstances of the case, is relevant to the facts to be proved, and whose source and form conform to the provisions of law, shall serve as a basis for determining the facts of the case."
+        },
+        "noLabel": {
+          "en": "Article 104."
+        }
+      },
+      {
+        "no": 105,
+        "text": {
+          "en": "People's courts shall, in accordance with statutory procedures, examine evidence comprehensively and objectively, and in accordance with the provisions of law and by applying logical reasoning and the rules of daily life experience, judge whether the evidence has probative force and the degree of such probative force, and shall disclose the reasons for and results of the judgment."
+        },
+        "noLabel": {
+          "en": "Article 105."
+        }
+      },
+      {
+        "no": 106,
+        "text": {
+          "en": "Evidence formed or obtained by methods seriously infringing the lawful rights and interests of another person, violating prohibitive provisions of law or seriously offending public order and good morals may not serve as a basis for determining the facts of the case."
+        },
+        "noLabel": {
+          "en": "Article 106."
+        }
+      },
+      {
+        "no": 107,
+        "text": {
+          "en": "In proceedings, facts acknowledged by a party as a compromise for the purpose of reaching a mediation agreement or a settlement agreement may not serve as a basis unfavourable to him in subsequent proceedings, unless otherwise provided by law or agreed by both parties."
+        },
+        "noLabel": {
+          "en": "Article 107."
+        }
+      },
+      {
+        "no": 108,
+        "text": {
+          "en": "Where, after examination and in the light of the relevant facts, a people's court is satisfied that there is a high probability of the existence of the facts to be proved on the basis of the evidence provided by the party bearing the burden of proof, it shall determine that those facts exist.\nWhere, after examination and in the light of the relevant facts, a people's court considers that the facts to be proved remain unclear as to their truth on the basis of the evidence provided by one party to refute the facts asserted by the party bearing the burden of proof, it shall determine that those facts do not exist.\nWhere the law provides otherwise for the standard of proof to be met in respect of the facts to be proved, those provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 108."
+        }
+      },
+      {
+        "no": 109,
+        "text": {
+          "en": "Where a party proves facts of fraud, coercion or malicious collusion, or proves facts of an oral will or of a gift, and the people's court is satisfied that the possibility of the existence of the facts to be proved can exclude reasonable doubt, it shall determine that those facts exist."
+        },
+        "noLabel": {
+          "en": "Article 109."
+        }
+      },
+      {
+        "no": 110,
+        "text": {
+          "en": "Where a people's court considers it necessary, it may require a party to appear in court in person to be questioned on the relevant facts of the case. Before questioning a party, it may require him to sign a letter of guarantee.\nThe letter of guarantee shall state that the party will make a truthful statement and that he is willing to accept punishment if he makes a false statement. The party shall sign or fingerprint the letter of guarantee.\nWhere a party bearing the burden of proof refuses to appear in court, refuses to be questioned or refuses to sign the letter of guarantee, and the facts to be proved lack proof by other evidence, the people's court shall not determine the facts asserted by him."
+        },
+        "noLabel": {
+          "en": "Article 110."
+        }
+      },
+      {
+        "no": 111,
+        "text": {
+          "en": "Genuine difficulty in submitting the original of documentary evidence provided in Article 73 of the Civil Procedure Law includes the following circumstances:\n(1) the original has been lost, destroyed or damaged;\n(2) the original is under the control of the other party and has been refused to be submitted despite lawful notice to submit it;\n(3) the original is under the control of another person who has the right not to submit it;\n(4) the original is inconvenient to submit because it is too long or too bulky;\n(5) the party bearing the burden of proof is unable to obtain the original through application to the people's court for investigation and collection or by other means.\nIn the circumstances provided in the preceding paragraph, the people's court shall, in the light of other evidence and the specific circumstances of the case, examine and determine whether copies of documentary evidence and the like may serve as a basis for determining the facts of the case."
+        },
+        "noLabel": {
+          "en": "Article 111."
+        }
+      },
+      {
+        "no": 112,
+        "text": {
+          "en": "Where documentary evidence is under the control of the other party, the party bearing the burden of proof may, before the expiry of the time limit for adducing evidence, apply in writing to the people's court to order the other party to submit it.\nWhere the grounds for the application are established, the people's court shall order the other party to submit it, and the expenses incurred in submitting the documentary evidence shall be borne by the applicant. Where the other party refuses to submit it without justified reason, the people's court may determine that the content of the documentary evidence asserted by the applicant is true."
+        },
+        "noLabel": {
+          "en": "Article 112."
+        }
+      },
+      {
+        "no": 113,
+        "text": {
+          "en": "Where a party holding documentary evidence destroys the relevant documentary evidence, or commits other acts rendering the documentary evidence unusable, for the purpose of preventing the other party from using it, the people's court may, in accordance with Article 114 of the Civil Procedure Law, impose a fine or detention on him."
+        },
+        "noLabel": {
+          "en": "Article 113."
+        }
+      },
+      {
+        "no": 114,
+        "text": {
+          "en": "Matters recorded in documents made by State organs or other organisations lawfully having the function of social administration within the scope of their functions and powers are presumed to be true, unless there is contrary evidence sufficient to overturn the presumption. Where necessary, the people's court may require the organ or organisation which made the document to explain its authenticity."
+        },
+        "noLabel": {
+          "en": "Article 114."
+        }
+      },
+      {
+        "no": 115,
+        "text": {
+          "en": "Materials of proof submitted by a unit to a people's court shall be signed or sealed by the responsible person of the unit and the persons who made the materials, and shall bear the seal of the unit. A people's court may investigate and verify with the unit and the persons who made the materials the materials of proof issued by the unit. Where necessary, it may require the persons who made the materials to appear in court to testify.\nWhere the unit and the persons who made the materials refuse the people's court's investigation and verification, or the persons who made the materials refuse without justified reason to appear in court to testify, the materials of proof may not serve as a basis for determining the facts of the case."
+        },
+        "noLabel": {
+          "en": "Article 115."
+        }
+      },
+      {
+        "no": 116,
+        "text": {
+          "en": "Audio-visual materials include audio recordings and video recordings.\nElectronic data means information formed or stored in electronic media through electronic mail, electronic data interchange, online chat records, blogs, microblogs, mobile phone text messages, electronic signatures, domain names and the like.\nAudio recordings and video recordings stored in electronic media shall be governed by the provisions on electronic data."
+        },
+        "noLabel": {
+          "en": "Article 116."
+        }
+      },
+      {
+        "no": 117,
+        "text": {
+          "en": "Where a party applies for a witness to appear in court to testify, it shall do so before the expiry of the time limit for adducing evidence.\nIn the circumstances provided in paragraph 1 of Article 96 of these Interpretations, the people's court may notify a witness ex officio to appear in court to testify.\nWithout notification by the people's court, a witness may not appear in court to testify, except where both parties consent and the people's court permits it."
+        },
+        "noLabel": {
+          "en": "Article 117."
+        }
+      },
+      {
+        "no": 118,
+        "text": {
+          "en": "The necessary expenses incurred by a witness in appearing in court to testify in the performance of his duty, such as travel, accommodation and meals, as provided in Article 77 of the Civil Procedure Law, shall be calculated in accordance with the standards for travel expenses and subsidies of staff members of State organs and public institutions; the loss of working time shall be calculated in accordance with the standard of the average daily wage of staff and workers of the State in the previous year.\nWhere a people's court permits an application for a witness to appear in court to testify, it shall notify the applicant to pay in advance the expenses of the witness appearing in court to testify."
+        },
+        "noLabel": {
+          "en": "Article 118."
+        }
+      },
+      {
+        "no": 119,
+        "text": {
+          "en": "Before a witness appears in court to testify, the people's court shall inform him of his duty to testify truthfully and of the legal consequences of giving false testimony, and shall order him to sign a letter of guarantee, except persons without capacity for civil conduct and persons with limited capacity for civil conduct.\nThe provisions of these Interpretations on the signing of letters of guarantee by parties shall apply to the signing of letters of guarantee by witnesses."
+        },
+        "noLabel": {
+          "en": "Article 119."
+        }
+      },
+      {
+        "no": 120,
+        "text": {
+          "en": "Where a witness refuses to sign a letter of guarantee, he may not testify and shall bear the relevant expenses himself."
+        },
+        "noLabel": {
+          "en": "Article 120."
+        }
+      },
+      {
+        "no": 121,
+        "text": {
+          "en": "A party may apply for expert evaluation before the expiry of the time limit for adducing evidence. Where the matters applied to be evaluated are unrelated to the facts to be proved, or are of no significance for proving the facts to be proved, the people's court shall not grant the application.\nWhere a people's court grants a party's application for evaluation, it shall organise both parties to consult and determine a qualified expert. Where consultation between the parties fails, the people's court shall designate one.\nWhere the conditions for ex officio investigation and collection of evidence are met, the people's court shall entrust expert evaluation ex officio and, after consulting the parties, designate a qualified expert."
+        },
+        "noLabel": {
+          "en": "Article 121."
+        }
+      },
+      {
+        "no": 122,
+        "text": {
+          "en": "A party may, in accordance with Article 82 of the Civil Procedure Law, apply before the expiry of the time limit for adducing evidence for one or two persons with specialised knowledge to appear in court to cross-examine the expert opinion on behalf of the party, or to give opinions on the professional issues involved in the facts of the case.\nOpinions given in court by persons with specialised knowledge on professional issues shall be deemed to be statements of the party.\nWhere a people's court grants a party's application, the relevant expenses shall be borne by the party making the application."
+        },
+        "noLabel": {
+          "en": "Article 122."
+        }
+      },
+      {
+        "no": 123,
+        "text": {
+          "en": "A people's court may question persons with specialised knowledge who appear in court. With the permission of the court, the parties may question persons with specialised knowledge appearing in court, and the persons with specialised knowledge applied for by each party may confront each other on the relevant issues in the case.\nPersons with specialised knowledge may not participate in court trial activities other than those concerning professional issues."
+        },
+        "noLabel": {
+          "en": "Article 123."
+        }
+      },
+      {
+        "no": 124,
+        "text": {
+          "en": "Where a people's court considers it necessary, it may, upon the application of a party or ex officio, conduct an inspection of physical evidence or of a site. In conducting the inspection, the privacy and dignity of others shall be protected.\nA people's court may require an expert to participate in the inspection. Where necessary, it may require the expert to carry out an evaluation in the course of the inspection.\nV. Periods and Service"
+        },
+        "noLabel": {
+          "en": "Article 124."
+        }
+      },
+      {
+        "no": 125,
+        "text": {
+          "en": "In accordance with paragraph 2 of Article 85 of the Civil Procedure Law, a period in civil proceedings calculated by hour shall run from the next hour; a period calculated by day, month or year shall run from the next day."
+        },
+        "noLabel": {
+          "en": "Article 125."
+        }
+      },
+      {
+        "no": 126,
+        "text": {
+          "en": "The time limit for filing a case provided in Article 126 of the Civil Procedure Law, where the plaintiff is notified to correct a deficient statement of claim, shall run from the day following the delivery of the corrected statement to the people's court. Where a case is transferred by a people's court at a higher level to a lower-level people's court for filing, the period shall run from the day following the receipt of the statement of claim by the people's court accepting the case."
+        },
+        "noLabel": {
+          "en": "Article 126."
+        }
+      },
+      {
+        "no": 127,
+        "text": {
+          "en": "The six months provided in paragraph 3 of Article 59 and Article 212 of the Civil Procedure Law and in Articles 372, 382, 399, 420 and 421 of these Interpretations, and the one year provided in Article 230 of the Civil Procedure Law, are invariable periods, to which the provisions on suspension, interruption and extension of the limitation of action shall not apply."
+        },
+        "noLabel": {
+          "en": "Article 127."
+        }
+      },
+      {
+        "no": 128,
+        "text": {
+          "en": "Where a case for retrial is tried under first-instance or second-instance procedure, the time limits for trial provided in Articles 152 and 183 of the Civil Procedure Law shall apply. The time limit for trial shall run from the day following the filing of the case for retrial."
+        },
+        "noLabel": {
+          "en": "Article 128."
+        }
+      },
+      {
+        "no": 129,
+        "text": {
+          "en": "For an application for retrial, the people's court shall complete its examination within three months from the date of acceptance, provided that the period of public announcement and the period of settlement between the parties shall not be counted in the examination period. Where extension is needed under special circumstances, it shall be approved by the president of the court."
+        },
+        "noLabel": {
+          "en": "Article 129."
+        }
+      },
+      {
+        "no": 130,
+        "text": {
+          "en": "Service of procedural documents on a legal person or other organisation shall be made by acceptance with signature or seal by the legal representative of the legal person, the principal responsible person of the organisation, or the person responsible for receiving mail in the office, the mail room, the duty room or the like; where acceptance with signature or seal is refused, service by leaving the documents shall apply.\nThe relevant grassroots organisation and the representative of the unit where the person is located provided in Article 89 of the Civil Procedure Law may be staff members of the residents' committee or villagers' committee at the domicile of the person on whom service is to be made, and staff members of the unit to which the person on whom service is to be made belongs."
+        },
+        "noLabel": {
+          "en": "Article 130."
+        }
+      },
+      {
+        "no": 131,
+        "text": {
+          "en": "Where a people's court serves procedural documents directly, it may notify the party to collect them at the people's court. Where the party arrives at the people's court and refuses to sign the receipt of service, service shall be deemed to have been made. The judicial personnel and the clerk shall note the circumstances of service on the receipt of service and sign it.\nA people's court may effect direct service of procedural documents on a party outside the party's domicile. Where the party refuses to sign the receipt of service, service shall be deemed to have been made where the process of service is recorded by photographing, video recording or other means. The judicial personnel and the clerk shall note the circumstances of service on the receipt of service and sign it."
+        },
+        "noLabel": {
+          "en": "Article 131."
+        }
+      },
+      {
+        "no": 132,
+        "text": {
+          "en": "Where the person on whom service is to be made has an agent ad litem, the people's court may serve the documents either on the person on whom service is to be made or on his agent ad litem. Where the person on whom service is to be made has designated his agent ad litem as the recipient, service on the agent ad litem shall be subject to the provisions on service by leaving the documents."
+        },
+        "noLabel": {
+          "en": "Article 132."
+        }
+      },
+      {
+        "no": 133,
+        "text": {
+          "en": "A mediation statement shall be served directly on the party in person, and the provisions on service by leaving the documents shall not apply. Where the party is unable to accept it with signature for any reason, it may be accepted with signature by a recipient designated by him."
+        },
+        "noLabel": {
+          "en": "Article 133."
+        }
+      },
+      {
+        "no": 134,
+        "text": {
+          "en": "In accordance with Article 91 of the Civil Procedure Law, where service is entrusted to another people's court, the commissioning court shall issue a letter of entrustment and attach the procedural documents to be served and the receipt of service, and the date of signature for receipt by the person on whom service is to be made on the receipt of service shall be the date of service.\nWhere service is entrusted, the entrusted people's court shall effect service within ten days from the date of receipt of the letter of entrustment and the relevant procedural documents."
+        },
+        "noLabel": {
+          "en": "Article 134."
+        }
+      },
+      {
+        "no": 135,
+        "text": {
+          "en": "Electronic service may use specific systems permitting immediate receipt, such as facsimile, electronic mail and mobile communications, as the medium of service.\nThe date on which the documents reach the specific system of the person on whom service is to be made, as provided in paragraph 2 of Article 90 of the Civil Procedure Law, shall be the date shown by the corresponding system of the people's court as the date of successful transmission; however, where the person on whom service is to be made proves that the date on which the documents reached his specific system differs from the date shown by the corresponding system of the people's court as the date of successful transmission, the date proved by him shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 135."
+        }
+      },
+      {
+        "no": 136,
+        "text": {
+          "en": "Where the person on whom service is to be made agrees to accept service by electronic means, he shall confirm this in the confirmation of address for service."
+        },
+        "noLabel": {
+          "en": "Article 136."
+        }
+      },
+      {
+        "no": 137,
+        "text": {
+          "en": "Where a party does not change his address for service in writing when bringing an appeal, applying for retrial or applying for enforcement, the address for service confirmed in the first-instance proceedings may serve as the address for service in the second-instance proceedings, the procedure for trial supervision and the enforcement procedure."
+        },
+        "noLabel": {
+          "en": "Article 137."
+        }
+      },
+      {
+        "no": 138,
+        "text": {
+          "en": "Service by public announcement may be effected by posting an announcement on the notice board of the court and at the domicile of the person on whom service is to be made, or by publishing an announcement in newspapers, information networks or other media, and the date of issuance of the announcement shall be the date of the last posting or publication. Where there are special requirements as to the manner of service by public announcement, service shall be effected in the required manner. Upon the expiry of the period of the announcement, service shall be deemed to have been made.\nWhere a people's court posts an announcement at the domicile of the person on whom service is to be made, it shall record the process of posting by photographing, video recording or other means."
+        },
+        "noLabel": {
+          "en": "Article 138."
+        }
+      },
+      {
+        "no": 139,
+        "text": {
+          "en": "Service by public announcement shall state the reasons for such service; where a copy of the statement of claim or of the statement of appeal is served by public announcement, the main points of the claim or appeal, the time limit for the defendant to respond and the legal consequences of failure to respond within the time limit shall be stated; where a summons is served by public announcement, the time and place of appearance and the legal consequences of failure to appear within the time limit shall be stated; where a judgment or ruling is served by public announcement, the main content of the judgment or ruling shall be stated and, where a party has the right to appeal, the right to appeal, the time limit for appeal and the people's court to which the appeal lies shall also be stated."
+        },
+        "noLabel": {
+          "en": "Article 139."
+        }
+      },
+      {
+        "no": 140,
+        "text": {
+          "en": "In cases tried under summary procedure, service by public announcement shall not apply."
+        },
+        "noLabel": {
+          "en": "Article 140."
+        }
+      },
+      {
+        "no": 141,
+        "text": {
+          "en": "Where, at a scheduled pronouncement of judgment, a party refuses to accept the judgment or ruling with signature, service shall be deemed to have been made, and this shall be noted in the transcript of the pronouncement.\nVI. Mediation"
+        },
+        "noLabel": {
+          "en": "Article 141."
+        }
+      },
+      {
+        "no": 142,
+        "text": {
+          "en": "After accepting a case, where a people's court considers, upon examination, that the legal relationship is clear and the facts are clear, it may directly conduct mediation after obtaining the consent of both parties."
+        },
+        "noLabel": {
+          "en": "Article 142."
+        }
+      },
+      {
+        "no": 143,
+        "text": {
+          "en": "Mediation shall not be conducted in cases to which special procedure, procedure for hastening debt recovery or procedure for public summons apply, in cases confirming status relationships such as marriage, or in other cases in which mediation cannot be conducted according to the nature of the case."
+        },
+        "noLabel": {
+          "en": "Article 143."
+        }
+      },
+      {
+        "no": 144,
+        "text": {
+          "en": "Where, in trying a civil case, a people's court discovers that the parties have maliciously colluded in an attempt to infringe the lawful rights and interests of another person through settlement or mediation, it shall handle the matter in accordance with Article 115 of the Civil Procedure Law."
+        },
+        "noLabel": {
+          "en": "Article 144."
+        }
+      },
+      {
+        "no": 145,
+        "text": {
+          "en": "In trying civil cases, people's courts shall conduct mediation on the principles of voluntariness and legality. Where one or both parties insist on not mediating, a judgment shall be made promptly.\nIn trying divorce cases, people's courts shall conduct mediation, but shall not engage in prolonged mediation without decision."
+        },
+        "noLabel": {
+          "en": "Article 145."
+        }
+      },
+      {
+        "no": 146,
+        "text": {
+          "en": "In trying civil cases, people's courts shall not make the process of mediation public, unless the parties agree to make it public.\nThe content of a mediation agreement shall not be made public, unless the people's court considers it truly necessary to make it public in order to protect the interests of the State, the public interest or the lawful rights and interests of another person.\nPersons presiding over or participating in mediation shall keep confidential the process of mediation and the State secrets, trade secrets, personal privacy and other information unsuitable for disclosure learnt in the course of mediation, except for the protection of the interests of the State, the public interest or the lawful rights and interests of another person."
+        },
+        "noLabel": {
+          "en": "Article 146."
+        }
+      },
+      {
+        "no": 147,
+        "text": {
+          "en": "Where, in mediating a case, a people's court finds that a party is unable to appear in court, his agent ad litem may, with his special authorisation, participate in the mediation, and the mediation agreement reached may be signed by the agent ad litem.\nWhere a party to a divorce case is genuinely unable to appear in court to participate in mediation for special reasons, he shall issue a written opinion, unless he is unable to express his will."
+        },
+        "noLabel": {
+          "en": "Article 147."
+        }
+      },
+      {
+        "no": 148,
+        "text": {
+          "en": "Where, after the parties have reached a settlement on their own or a mediation agreement, a party requests the people's court to make a judgment in accordance with the content of the settlement agreement or mediation agreement, the people's court shall not permit it.\nIn a divorce case concerning a person without capacity for civil conduct, the proceedings shall be conducted by his legal agent. Where the legal agent reaches an agreement with the other party and requests the issuance of a judgment, a judgment may be made in accordance with the content of the agreement."
+        },
+        "noLabel": {
+          "en": "Article 148."
+        }
+      },
+      {
+        "no": 149,
+        "text": {
+          "en": "Where a mediation statement takes legal effect only after being accepted with signature by the parties, the date of signature for receipt by the party who last receives the mediation statement shall be the date on which the mediation statement takes effect."
+        },
+        "noLabel": {
+          "en": "Article 149."
+        }
+      },
+      {
+        "no": 150,
+        "text": {
+          "en": "Where, in mediating a civil case, a people's court finds that a third party without independent claims should bear liability, his consent shall be obtained. Where the third party retracts before the mediation statement is served, the people's court shall make a judgment promptly."
+        },
+        "noLabel": {
+          "en": "Article 150."
+        }
+      },
+      {
+        "no": 151,
+        "text": {
+          "en": "In accordance with item 4 of paragraph 1 of Article 101 of the Civil Procedure Law, where the parties agree that the mediation agreement shall take legal effect upon signature or seal, it shall, after examination and confirmation by the people's court, be recorded in the transcript or the mediation agreement shall be placed on the case file, and it shall take legal effect upon signature or seal by the parties, the judicial personnel and the clerk.\nIn the circumstances provided in the preceding paragraph, where a party requests the making of a mediation statement, the people's court may, after examination and confirmation, make a mediation statement and deliver it to the parties. Where a party refuses to accept the mediation statement, the validity of the mediation agreement shall not be affected.\nVII. Preservation and Advance Enforcement"
+        },
+        "noLabel": {
+          "en": "Article 151."
+        }
+      },
+      {
+        "no": 152,
+        "text": {
+          "en": "In accordance with Articles 103 and 104 of the Civil Procedure Law, where a people's court, when taking measures of pre-litigation preservation or litigation preservation, orders an interested party or a party to provide security, it shall notify them in writing.\nWhere an interested party applies for pre-litigation preservation, it shall provide security. Where it applies for pre-litigation preservation of property, it shall provide security equivalent to the amount for which preservation is requested; in special circumstances, the people's court may deal with the matter as appropriate. Where it applies for pre-litigation preservation of conduct, the amount of security shall be determined by the people's court according to the specific circumstances of the case.\nWhere, in the course of proceedings, a people's court takes preservation measures upon application or ex officio, it shall decide, according to the specific circumstances of the case, whether a party should provide security and the amount of such security."
+        },
+        "noLabel": {
+          "en": "Article 152."
+        }
+      },
+      {
+        "no": 153,
+        "text": {
+          "en": "Where a people's court takes preservation measures in respect of seasonal goods, fresh and live goods, goods which easily rot or deteriorate and other articles unsuitable for long-term preservation, it may order a party to dispose of them promptly and the people's court shall keep the proceeds; where necessary, the people's court may sell them and keep the proceeds."
+        },
+        "noLabel": {
+          "en": "Article 153."
+        }
+      },
+      {
+        "no": 154,
+        "text": {
+          "en": "Where a people's court takes measures of sealing up, seizure or freezing of property in property preservation, it shall properly keep the property sealed up, seized or frozen. Where it is inappropriate for the people's court to keep it, it may designate the person whose property is preserved to keep it; where it is inappropriate for that person to keep it, it may entrust another person or the person applying for preservation to keep it.\nWhere security property in the possession of a holder of a security interest is sealed up, seized or frozen, it shall generally be kept by the holder of the security interest; where it is kept by the people's court, the pledge or the possessory lien shall not be extinguished by reason of the preservation measures."
+        },
+        "noLabel": {
+          "en": "Article 154."
+        }
+      },
+      {
+        "no": 155,
+        "text": {
+          "en": "Where property is kept by a person whose property is preserved as designated by the people's court and its continued use does not significantly affect its value, that person may be permitted to continue using it; property kept by the people's court, by another person entrusted or by the person applying for preservation may not be used by the people's court or by the other keepers."
+        },
+        "noLabel": {
+          "en": "Article 155."
+        }
+      },
+      {
+        "no": 156,
+        "text": {
+          "en": "The methods and measures of property preservation adopted by people's courts shall be handled in accordance with the relevant provisions on execution procedure."
+        },
+        "noLabel": {
+          "en": "Article 156."
+        }
+      },
+      {
+        "no": 157,
+        "text": {
+          "en": "People's courts may take property preservation measures in respect of mortgaged property, pledged property and property under possessory lien, without affecting the priority of the mortgagee, pledgee or holder of the possessory lien."
+        },
+        "noLabel": {
+          "en": "Article 157."
+        }
+      },
+      {
+        "no": 158,
+        "text": {
+          "en": "People's courts may take property preservation measures in respect of income due to the debtor on maturity, restricting his withdrawal of it, and notify the relevant units to assist in execution."
+        },
+        "noLabel": {
+          "en": "Article 158."
+        }
+      },
+      {
+        "no": 159,
+        "text": {
+          "en": "Where the property of the debtor is insufficient to satisfy a preservation claim but the debtor has a claim due from another person, the people's court may, upon the application of the creditor, rule that that other person shall not make payment to the debtor in the case. Where that other person requests to make payment, the people's court shall deposit the property or the money."
+        },
+        "noLabel": {
+          "en": "Article 159."
+        }
+      },
+      {
+        "no": 160,
+        "text": {
+          "en": "Where a party brings an action before another people's court having jurisdiction other than the court which took pre-litigation preservation measures, the court which took the pre-litigation preservation measures shall transfer the preservation formalities to the people's court accepting the case. The ruling on pre-litigation preservation shall be deemed to be a ruling made by the people's court to which the case is transferred."
+        },
+        "noLabel": {
+          "en": "Article 160."
+        }
+      },
+      {
+        "no": 161,
+        "text": {
+          "en": "In a case in which a party appeals against a first-instance judgment, where before the second-instance people's court receives the transferred case the party transfers, conceals, sells or damages property and preservation measures must be taken, the first-instance people's court shall take them upon the application of a party or ex officio. The preservation ruling of the first-instance people's court shall be promptly submitted to the second-instance people's court."
+        },
+        "noLabel": {
+          "en": "Article 161."
+        }
+      },
+      {
+        "no": 162,
+        "text": {
+          "en": "Where the second-instance people's court rules to extend the preservation measures taken by the first-instance people's court or to take new preservation measures, it may implement them itself or entrust the first-instance people's court to implement them.\nWhere a people's court retrying a case rules to extend the original preservation measures or to take new preservation measures, it may implement them itself or entrust the original trial court or the executing court to implement them."
+        },
+        "noLabel": {
+          "en": "Article 162."
+        }
+      },
+      {
+        "no": 163,
+        "text": {
+          "en": "After a legal document takes effect and before execution procedure begins, where, owing to urgent circumstances such as the transfer of property by the other party, failure to apply for preservation may render the effective legal document impossible or difficult to enforce, the creditor may apply to the executing court for preservation measures. Where the creditor fails to apply for execution within five days after the expiry of the period for performance specified in the legal document, the people's court shall lift the preservation."
+        },
+        "noLabel": {
+          "en": "Article 163."
+        }
+      },
+      {
+        "no": 164,
+        "text": {
+          "en": "In respect of the security property provided by the person applying for preservation or by another person, the people's court shall complete the formalities of sealing up, seizure or freezing in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 164."
+        }
+      },
+      {
+        "no": 165,
+        "text": {
+          "en": "After a people's court has ruled to take preservation measures, no unit may lift the preservation measures during the preservation period, except where the people's court which made the preservation ruling lifts them on its own or the people's court at a higher level decides to lift them."
+        },
+        "noLabel": {
+          "en": "Article 165."
+        }
+      },
+      {
+        "no": 166,
+        "text": {
+          "en": "After preservation measures are ruled to be taken, a people's court shall rule to lift the preservation under any of the following circumstances:\n(1) the preservation is erroneous;\n(2) the applicant withdraws the application for preservation;\n(3) the applicant's action or claims are dismissed by a legally effective judgment or ruling;\n(4) other circumstances in which the people's court considers that the preservation should be lifted.\nWhere preservation measures implemented by way of registration are lifted, a notice of assistance in execution shall be sent to the registration authority."
+        },
+        "noLabel": {
+          "en": "Article 166."
+        }
+      },
+      {
+        "no": 167,
+        "text": {
+          "en": "Where the person whose property is preserved provides other security property of equivalent value and this is conducive to execution, the people's court may rule to change the subject matter of preservation to the security property provided by that person."
+        },
+        "noLabel": {
+          "en": "Article 167."
+        }
+      },
+      {
+        "no": 168,
+        "text": {
+          "en": "Where a preservation ruling has not been revoked or lifted by a people's court in accordance with law, it shall automatically become a measure of sealing up, seizure or freezing in execution once execution procedure begins, and the period shall be calculated consecutively, and the executing court need not make a new written ruling, except where the period of sealing up, seizure or freezing has expired."
+        },
+        "noLabel": {
+          "en": "Article 168."
+        }
+      },
+      {
+        "no": 169,
+        "text": {
+          "en": "Advance enforcement provided in the Civil Procedure Law shall be taken by a people's court after acceptance of the case and before the making of the final judgment. Advance enforcement shall be limited to the scope of the parties' claims and to the urgent needs of the parties' livelihood and production and business operations."
+        },
+        "noLabel": {
+          "en": "Article 169."
+        }
+      },
+      {
+        "no": 170,
+        "text": {
+          "en": "Urgent circumstances provided in item 3 of Article 109 of the Civil Procedure Law include:\n(1) the need to immediately stop an infringement or remove an obstruction;\n(2) the need to immediately stop a certain act;\n(3) claims for insurance indemnity urgently needed to restore production or business operations;\n(4) the need to immediately return social insurance funds or social assistance funds;\n(5) failure to immediately return the money would seriously affect the livelihood and production and business operations of the right holder."
+        },
+        "noLabel": {
+          "en": "Article 170."
+        }
+      },
+      {
+        "no": 171,
+        "text": {
+          "en": "Where a party is dissatisfied with a ruling on preservation or advance enforcement, he may, within five days from the date of receipt of the written ruling, apply to the people's court which made the ruling for reconsideration. The people's court shall examine the matter within ten days after receipt of the application for reconsideration. Where the ruling is correct, the party's application shall be rejected; where the ruling is inappropriate, the original ruling shall be modified or revoked."
+        },
+        "noLabel": {
+          "en": "Article 171."
+        }
+      },
+      {
+        "no": 172,
+        "text": {
+          "en": "Where an interested party is dissatisfied with a ruling on preservation or advance enforcement and applies for reconsideration, the people's court which made the ruling shall handle the matter in accordance with Article 111 of the Civil Procedure Law."
+        },
+        "noLabel": {
+          "en": "Article 172."
+        }
+      },
+      {
+        "no": 173,
+        "text": {
+          "en": "Where, after advance enforcement by a people's court, the applicant should return the benefits obtained through advance enforcement according to a legally effective judgment, Article 240 of the Civil Procedure Law shall apply.\nVIII. Compulsory Measures against Obstruction of Civil Proceedings"
+        },
+        "noLabel": {
+          "en": "Article 173."
+        }
+      },
+      {
+        "no": 174,
+        "text": {
+          "en": "Defendants who must appear in court provided in Article 112 of the Civil Procedure Law mean defendants who bear the obligation of maintenance, upbringing or support and defendants without whose appearance the circumstances of the case cannot be ascertained.\nWhere a plaintiff whose appearance is necessary to ascertain the basic facts of the case, after being summoned twice by summons, refuses to appear without justified reason, the people's court may compel his appearance."
+        },
+        "noLabel": {
+          "en": "Article 174."
+        }
+      },
+      {
+        "no": 175,
+        "text": {
+          "en": "Compelled appearance must be effected by a warrant of compelled appearance, which shall be served directly on the person concerned; before compelling appearance, the consequences of refusing to appear shall be explained to him, and where he still refuses to appear after criticism and education, he may be compelled to appear in court."
+        },
+        "noLabel": {
+          "en": "Article 175."
+        }
+      },
+      {
+        "no": 176,
+        "text": {
+          "en": "Where a participant in proceedings or another person commits any of the following acts, the people's court may handle the matter by applying Article 113 of the Civil Procedure Law:\n(1) making audio recordings, video recordings or photographs without permission;\n(2) transmitting the trial activities live on the spot by mobile communications or other means without permission;\n(3) other acts disrupting order in court and obstructing the conduct of trial activities.\nIn the circumstances provided in the preceding paragraph, the people's court may temporarily seize the equipment used by the participant in proceedings or other person for audio recording, video recording, photographing or transmitting the trial activities and order him to delete the relevant content; where he refuses to delete it, the people's court may take necessary means to delete it compulsorily."
+        },
+        "noLabel": {
+          "en": "Article 176."
+        }
+      },
+      {
+        "no": 177,
+        "text": {
+          "en": "Admonition and an order to leave the court shall be decided by the collegial panel or the sole judge. The content of the admonition and the facts of the violation of the person ordered to leave the court shall be recorded in the transcript of the hearing."
+        },
+        "noLabel": {
+          "en": "Article 177."
+        }
+      },
+      {
+        "no": 178,
+        "text": {
+          "en": "Where a people's court takes the measure of detention in accordance with Articles 113 to 117 of the Civil Procedure Law, the detention shall be approved by the president of the court, a written decision on detention shall be made, and the detained person shall be delivered by judicial police to the local public security organ for custody."
+        },
+        "noLabel": {
+          "en": "Article 178."
+        }
+      },
+      {
+        "no": 179,
+        "text": {
+          "en": "Where the person to be detained is not within its jurisdiction, the people's court which made the detention decision shall send personnel to the people's court at the place where the person to be detained is located and request that court to assist in execution, and the entrusted people's court shall promptly send personnel to assist in execution. Where the detained person applies for reconsideration, or admits and corrects his error during detention and early lifting of detention is needed, the entrusted people's court shall convey this to or make a recommendation to the commissioning people's court, which shall examine and decide."
+        },
+        "noLabel": {
+          "en": "Article 179."
+        }
+      },
+      {
+        "no": 180,
+        "text": {
+          "en": "After taking the measure of detention against a person, the people's court shall notify his family members within 24 hours; where notification on time is genuinely impossible or cannot be effected, this shall be recorded on file."
+        },
+        "noLabel": {
+          "en": "Article 180."
+        }
+      },
+      {
+        "no": 181,
+        "text": {
+          "en": "In urgent circumstances such as creating a disturbance, storming the court, or resisting the execution of official duties by violence or threat, where the measure of detention must be taken immediately, the matter may be reported immediately to the president of the court after detention for completion of the approval formalities. Where the president considers the detention inappropriate, the detention shall be lifted."
+        },
+        "noLabel": {
+          "en": "Article 181."
+        }
+      },
+      {
+        "no": 182,
+        "text": {
+          "en": "Where a detained person admits his error and repents during detention, he may be ordered to sign a pledge of repentance and the detention may be lifted early. Early lifting of detention shall be reported to the president of the court for approval, a written decision on early lifting of detention shall be made and delivered to the public security organ responsible for custody for execution."
+        },
+        "noLabel": {
+          "en": "Article 182."
+        }
+      },
+      {
+        "no": 183,
+        "text": {
+          "en": "The fines and detention provided in Articles 113 to 116 of the Civil Procedure Law may be applied separately or concurrently."
+        },
+        "noLabel": {
+          "en": "Article 183."
+        }
+      },
+      {
+        "no": 184,
+        "text": {
+          "en": "Fines and detention may not be applied consecutively for the same act obstructing civil proceedings. Where a new act obstructing civil proceedings occurs, the people's court may again impose a fine or detention."
+        },
+        "noLabel": {
+          "en": "Article 184."
+        }
+      },
+      {
+        "no": 185,
+        "text": {
+          "en": "Where a person fined or detained is dissatisfied with the decision on fine or detention and applies for reconsideration, he shall do so within three days from the date of receipt of the written decision. The people's court at a higher level shall make a decision within five days after receipt of the application for reconsideration and shall notify the lower-level people's court and the party concerned of the result of the reconsideration."
+        },
+        "noLabel": {
+          "en": "Article 185."
+        }
+      },
+      {
+        "no": 186,
+        "text": {
+          "en": "Where, on reconsideration, a people's court at a higher level considers that a compulsory measure is inappropriate, it shall make a written decision revoking or modifying the decision on detention or fine made by the lower-level people's court. In urgent circumstances, the written decision may be issued within three days after oral notification."
+        },
+        "noLabel": {
+          "en": "Article 186."
+        }
+      },
+      {
+        "no": 187,
+        "text": {
+          "en": "Acts of obstructing judicial personnel in the performance of their duties by violence, threat or other means, provided in item 5 of paragraph 1 of Article 114 of the Civil Procedure Law, include:\n(1) creating a disturbance or lingering in a people's court without obeying the dissuasion of judicial personnel;\n(2) intentionally damaging or snatching legal documents or seals of sealing up of a people's court;\n(3) creating a disturbance at or storming the scene of execution of official duties, or besieging or holding judicial personnel executing or assisting in the execution of official duties;\n(4) damaging, snatching or detaining case materials, vehicles for the execution of official duties, other instruments for the execution of official duties, uniforms of personnel executing official duties or certificates for the execution of official duties;\n(5) obstructing judicial personnel by violence, threat or other means in inquiring into, sealing up, seizing, freezing, transferring, auctioning or selling property;\n(6) other acts of obstructing judicial personnel in the performance of their duties by violence, threat or other means."
+        },
+        "noLabel": {
+          "en": "Article 187."
+        }
+      },
+      {
+        "no": 188,
+        "text": {
+          "en": "Acts of refusing to perform legally effective judgments or rulings of a people's court, provided in item 6 of paragraph 1 of Article 114 of the Civil Procedure Law, include:\n(1) after a legal document takes legal effect, concealing, transferring, selling or damaging property, or transferring property without consideration, transacting property at a manifestly unreasonable price, waiving a claim due, or providing security for another person without consideration, thereby rendering enforcement by the people's court impossible;\n(2) concealing, transferring or damaging property already provided as security to the people's court, or disposing of it without the permission of the people's court;\n(3) consuming in violation of an order of the people's court restricting high-level consumption;\n(4) having the ability to perform but refusing to perform the obligations determined by the effective legal document in accordance with the notice of execution of the people's court;\n(5) an individual obliged to assist in execution refusing to assist after receiving the notice of assistance in execution of the people's court."
+        },
+        "noLabel": {
+          "en": "Article 188."
+        }
+      },
+      {
+        "no": 189,
+        "text": {
+          "en": "Where a participant in proceedings or another person commits any of the following acts, the people's court may handle the matter by applying Article 114 of the Civil Procedure Law:\n(1) impersonating another person to bring or participate in an action;\n(2) a witness giving false testimony after signing a letter of guarantee, thereby obstructing the people's court's trial of the case;\n(3) forging, concealing or destroying important evidence concerning the ability of the person subject to execution to perform, or refusing to hand it over, thereby obstructing the people's court in ascertaining the property situation of the person subject to execution;\n(4) lifting without authorisation a freezing already imposed by a people's court;\n(5) after receiving a notice of assistance in execution from a people's court, tipping off a party and assisting him in transferring or concealing property."
+        },
+        "noLabel": {
+          "en": "Article 189."
+        }
+      },
+      {
+        "no": 190,
+        "text": {
+          "en": "The lawful rights and interests of another person provided in Article 115 of the Civil Procedure Law include the lawful rights and interests of a person not party to the case, the interests of the State and the public interest.\nWhere a third party brings an action for revocation in accordance with paragraph 3 of Article 59 of the Civil Procedure Law and, after examination, the parties to the original case maliciously colluded in a false action, the matter shall be handled by applying Article 115 of the Civil Procedure Law."
+        },
+        "noLabel": {
+          "en": "Article 190."
+        }
+      },
+      {
+        "no": 191,
+        "text": {
+          "en": "Where a unit commits an act provided in Article 115 or Article 116 of the Civil Procedure Law, the people's court shall impose a fine on the unit and may impose a fine or detention on its principal responsible person or the persons directly responsible; where the act constitutes a crime, criminal responsibility shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 191."
+        }
+      },
+      {
+        "no": 192,
+        "text": {
+          "en": "Where, after receiving a notice of assistance in execution from a people's court, a relevant unit commits any of the following acts, the people's court may handle the matter by applying Article 117 of the Civil Procedure Law:\n(1) permitting the person subject to execution to engage in high-level consumption;\n(2) permitting the person subject to execution to leave the country;\n(3) refusing to stop handling formalities for the transfer of certificates of property rights, registration of change of title, planning approval and the like;\n(4) delaying handling on the ground that internal requests for instructions or internal approval are required or that there are internal provisions."
+        },
+        "noLabel": {
+          "en": "Article 192."
+        }
+      },
+      {
+        "no": 193,
+        "text": {
+          "en": "In imposing a fine on an individual or unit, a people's court shall, on the basis of the nature, circumstances and consequences of the act obstructing civil proceedings, the local level of economic development and the amount in dispute, determine the corresponding amount of the fine within the limit provided in paragraph 1 of Article 118 of the Civil Procedure Law.\nIX. Litigation Costs"
+        },
+        "noLabel": {
+          "en": "Article 193."
+        }
+      },
+      {
+        "no": 194,
+        "text": {
+          "en": "In a case tried in accordance with Article 57 of the Civil Procedure Law, the case acceptance fee shall not be paid in advance, and shall be paid by the losing party after the conclusion of the case according to the amount in dispute."
+        },
+        "noLabel": {
+          "en": "Article 194."
+        }
+      },
+      {
+        "no": 195,
+        "text": {
+          "en": "Where an order for payment becomes ineffective and the case is transferred to litigation procedure, the creditor shall pay the case acceptance fee in accordance with the Measures for the Payment of Litigation Costs.\nWhere an order for payment is revoked and the creditor brings a separate action, litigation costs shall be paid in accordance with the Measures for the Payment of Litigation Costs."
+        },
+        "noLabel": {
+          "en": "Article 195."
+        }
+      },
+      {
+        "no": 196,
+        "text": {
+          "en": "Where a people's court changes the original judgment, ruling or mediation result, it shall deal with the bearing of the litigation costs of the original trial in the written judgment or ruling."
+        },
+        "noLabel": {
+          "en": "Article 196."
+        }
+      },
+      {
+        "no": 197,
+        "text": {
+          "en": "Where the subject matter in dispute consists of securities, the amount in dispute shall be calculated in accordance with the securities trading rules and on the basis of the closing price on the last trading day before the date on which the party brought the action, the market price on that day or the amount stated."
+        },
+        "noLabel": {
+          "en": "Article 197."
+        }
+      },
+      {
+        "no": 198,
+        "text": {
+          "en": "Where the subject matter in dispute is a specific thing such as a house, land, forest trees, a vehicle, a ship or a cultural relic, or is intellectual property, and its value is difficult to determine at the time the action is brought, the people's court shall explain to the plaintiff the litigation risk of asserting a value that is too high or too low, and shall determine the amount in dispute on the basis of the value asserted by the plaintiff."
+        },
+        "noLabel": {
+          "en": "Article 198."
+        }
+      },
+      {
+        "no": 199,
+        "text": {
+          "en": "Where a case tried under summary procedure is converted to ordinary procedure, the plaintiff shall pay the case acceptance fee within seven days from the date of receipt of the notice of the people's court to pay litigation costs.\nWhere the plaintiff fails to pay the full amount within the time limit without justified reason, the action shall be treated as withdrawn, and half of the litigation costs already collected shall be refunded."
+        },
+        "noLabel": {
+          "en": "Article 199."
+        }
+      },
+      {
+        "no": 200,
+        "text": {
+          "en": "In civil actions concerning the debtor in bankruptcy proceedings, litigation costs shall be paid in accordance with the standard for property cases, except cases of labour disputes."
+        },
+        "noLabel": {
+          "en": "Article 200."
+        }
+      },
+      {
+        "no": 201,
+        "text": {
+          "en": "Where there are both property claims and non-property claims, litigation costs shall be paid in accordance with the standard for property claims.\nWhere there are several property claims, the litigation costs shall be calculated on a consolidated basis; where there are several non-property claims, litigation costs shall be paid as for one case."
+        },
+        "noLabel": {
+          "en": "Article 201."
+        }
+      },
+      {
+        "no": 202,
+        "text": {
+          "en": "Where the plaintiff, the defendant and a third party appeal separately, they shall each pay in advance the second-instance case acceptance fee in accordance with their respective claims on appeal.\nWhere several persons on the same side appeal jointly, only one second-instance case acceptance fee shall be paid in advance; where they appeal separately, they shall each pay in advance the second-instance case acceptance fee in accordance with their respective claims on appeal."
+        },
+        "noLabel": {
+          "en": "Article 202."
+        }
+      },
+      {
+        "no": 203,
+        "text": {
+          "en": "Where parties bearing joint and several liability lose the case, they shall bear the litigation costs jointly."
+        },
+        "noLabel": {
+          "en": "Article 203."
+        }
+      },
+      {
+        "no": 204,
+        "text": {
+          "en": "In a case for the realisation of a security interest, where the people's court rules to auction or sell the security property, the application fee shall be borne by the debtor and the guarantor; where the people's court rules to reject the application, the application fee shall be borne by the applicant.\nWhere the applicant brings a separate action, the application fee already paid may be deducted from the case acceptance fee."
+        },
+        "noLabel": {
+          "en": "Article 204."
+        }
+      },
+      {
+        "no": 205,
+        "text": {
+          "en": "Where, after a ruling on auction or sale of security property is made, the people's court enforces it compulsorily, an execution application fee shall be charged according to the amount of execution."
+        },
+        "noLabel": {
+          "en": "Article 205."
+        }
+      },
+      {
+        "no": 206,
+        "text": {
+          "en": "Where a people's court decides to charge half of the case acceptance fee, the reduction may be made only once."
+        },
+        "noLabel": {
+          "en": "Article 206."
+        }
+      },
+      {
+        "no": 207,
+        "text": {
+          "en": "After a judgment takes effect, litigation costs paid in advance by the winning party but not to be borne by it shall be refunded by the people's court, and the losing party shall pay them to the people's court, unless the winning party is willing to bear them or agrees that the losing party pay them directly to it.\nWhere a party refuses to pay litigation costs, the people's court may enforce payment compulsorily.\nX. Ordinary First-Instance Procedure"
+        },
+        "noLabel": {
+          "en": "Article 207."
+        }
+      },
+      {
+        "no": 208,
+        "text": {
+          "en": "When a people's court receives a civil statement of claim submitted by a party, it shall register and file the case where the provisions of Article 122 of the Civil Procedure Law are met and the circumstances provided in Article 127 do not exist; where it cannot determine on the spot whether the conditions for bringing an action are met, it shall accept the materials of action and issue a written voucher indicating the date of receipt.\nWhere necessary relevant materials need to be supplemented, the people's court shall promptly inform the party. After the relevant materials are completed, it shall decide within seven days whether to file the case.\nWhere, after filing the case, it is found that the conditions for bringing an action are not met or that the circumstances provided in Article 127 of the Civil Procedure Law exist, a ruling shall be made to dismiss the action."
+        },
+        "noLabel": {
+          "en": "Article 208."
+        }
+      },
+      {
+        "no": 209,
+        "text": {
+          "en": "Where the information provided by the plaintiff on the name or designation, domicile and the like of the defendant is specific and clear enough to distinguish the defendant from other persons, the defendant may be determined to be a definite defendant.\nWhere the information on the defendant set out in the statement of claim is insufficient to determine a definite defendant, the people's court may inform the plaintiff to make corrections. Where the plaintiff still cannot determine a definite defendant after correction, the people's court shall rule not to accept the case."
+        },
+        "noLabel": {
+          "en": "Article 209."
+        }
+      },
+      {
+        "no": 210,
+        "text": {
+          "en": "Where a statement of claim contains abusive language or personal attacks, the people's court shall inform the plaintiff to bring the action after revising it."
+        },
+        "noLabel": {
+          "en": "Article 210."
+        }
+      },
+      {
+        "no": 211,
+        "text": {
+          "en": "For a case over which the court has no jurisdiction, the plaintiff shall be informed to bring the action before a people's court having jurisdiction; where the plaintiff insists on bringing the action, a ruling shall be made not to accept the case; where it is found after filing the case that the court has no jurisdiction, the case shall be transferred to the people's court having jurisdiction."
+        },
+        "noLabel": {
+          "en": "Article 211."
+        }
+      },
+      {
+        "no": 212,
+        "text": {
+          "en": "Where a case has been ruled not to be accepted or the action has been dismissed, and the plaintiff brings the action again and the conditions for bringing an action are met and the circumstances provided in Article 127 of the Civil Procedure Law do not exist, the people's court shall accept the case."
+        },
+        "noLabel": {
+          "en": "Article 212."
+        }
+      },
+      {
+        "no": 213,
+        "text": {
+          "en": "Where a plaintiff should have paid the case acceptance fee in advance but has not done so, the people's court shall notify him to pay it in advance; where he still does not pay after notification, or where his application for reduction, deferral or exemption is not approved and he still does not pay, a ruling shall be made treating the action as withdrawn."
+        },
+        "noLabel": {
+          "en": "Article 213."
+        }
+      },
+      {
+        "no": 214,
+        "text": {
+          "en": "Where a plaintiff withdraws the action or the people's court treats the action as withdrawn, and the plaintiff brings the action again on the same claims, the people's court shall accept the case.\nIn a divorce case in which the plaintiff withdraws the action or the action is treated as withdrawn, where the plaintiff brings the action again within six months without new circumstances or new grounds, the case shall not be accepted by reference to the provisions of item 7 of Article 127 of the Civil Procedure Law."
+        },
+        "noLabel": {
+          "en": "Article 214."
+        }
+      },
+      {
+        "no": 215,
+        "text": {
+          "en": "In accordance with item 2 of Article 127 of the Civil Procedure Law, where the parties have included an arbitration clause in a written contract or have reached a written arbitration agreement after a dispute arose, and one party brings an action before a people's court, the people's court shall inform the plaintiff to apply to an arbitration institution for arbitration, and where he insists on bringing the action, shall rule not to accept the case, except where the arbitration clause or arbitration agreement is not established, is void, has lapsed or is unclear in content and cannot be performed."
+        },
+        "noLabel": {
+          "en": "Article 215."
+        }
+      },
+      {
+        "no": 216,
+        "text": {
+          "en": "Before the first hearing of a people's court, where the defendant raises an objection to the acceptance of a civil case on the ground that a written arbitration agreement exists, the people's court shall examine it.\nWhere, after examination, any of the following circumstances is met, the people's court shall rule to dismiss the action:\n(1) the arbitration institution or a people's court has already confirmed the validity of the arbitration agreement;\n(2) the parties did not raise an objection to the validity of the arbitration agreement before the first hearing of the arbitral tribunal;\n(3) the arbitration agreement conforms to Article 16 of the Arbitration Law and does not fall under the circumstances provided in Article 17 of the Arbitration Law."
+        },
+        "noLabel": {
+          "en": "Article 216."
+        }
+      },
+      {
+        "no": 217,
+        "text": {
+          "en": "Where one spouse's whereabouts are unknown and the other brings an action before a people's court only for divorce without applying for a declaration that the person whose whereabouts are unknown is missing or dead, the people's court shall accept the case and serve the procedural documents on the person whose whereabouts are unknown by public announcement."
+        },
+        "noLabel": {
+          "en": "Article 217."
+        }
+      },
+      {
+        "no": 218,
+        "text": {
+          "en": "In a case concerning maintenance, support or alimony, where after the judgment or ruling takes legal effect a party brings a further action for an increase or decrease in the amount on new circumstances or new grounds, the people's court shall accept it as a new case."
+        },
+        "noLabel": {
+          "en": "Article 218."
+        }
+      },
+      {
+        "no": 219,
+        "text": {
+          "en": "Where a party brings an action after the expiry of the limitation period, the people's court shall accept it. Where, after acceptance, the other party raises a defence of limitation of action and the people's court, after trial, considers the grounds of the defence established, it shall make a judgment dismissing the plaintiff's claims."
+        },
+        "noLabel": {
+          "en": "Article 219."
+        }
+      },
+      {
+        "no": 220,
+        "text": {
+          "en": "Trade secrets provided in Articles 71, 137 and 159 of the Civil Procedure Law mean technical secrets, commercial intelligence and information which the parties are unwilling to make public, such as production processes, formulas, trade connections and purchase and sales channels."
+        },
+        "noLabel": {
+          "en": "Article 220."
+        }
+      },
+      {
+        "no": 221,
+        "text": {
+          "en": "Where disputes arising from the same facts are brought by the parties separately before the same people's court, the people's court may consolidate the trial."
+        },
+        "noLabel": {
+          "en": "Article 221."
+        }
+      },
+      {
+        "no": 222,
+        "text": {
+          "en": "Where a plaintiff directly lists a third party in the statement of claim, this shall be deemed to be an application to the people's court to join that third party in the proceedings. Whether to notify the third party to participate in the proceedings shall be examined and decided by the people's court."
+        },
+        "noLabel": {
+          "en": "Article 222."
+        }
+      },
+      {
+        "no": 223,
+        "text": {
+          "en": "Where a party raises an objection to jurisdiction during the period for submitting the statement of defence and also defends on the content of the statement of claim, the people's court shall, in accordance with paragraph 1 of Article 130 of the Civil Procedure Law, examine the objection to jurisdiction.\nWhere a party does not raise an objection to jurisdiction but defends, makes statements or brings a counterclaim on the substantive content of the case, this may be determined to be a response and defence as provided in paragraph 2 of Article 130 of the Civil Procedure Law."
+        },
+        "noLabel": {
+          "en": "Article 223."
+        }
+      },
+      {
+        "no": 224,
+        "text": {
+          "en": "In accordance with item 4 of Article 136 of the Civil Procedure Law, a people's court may, after the expiry of the period for defence, make preparations for trial by organising the exchange of evidence, convening a pre-trial conference and other means."
+        },
+        "noLabel": {
+          "en": "Article 224."
+        }
+      },
+      {
+        "no": 225,
+        "text": {
+          "en": "According to the specific circumstances of the case, a pre-trial conference may include the following:\n(1) clarifying the claims of the plaintiff and the defence opinions of the defendant;\n(2) examining and handling applications by parties to increase or change claims and counterclaims raised, as well as claims relating to the case raised by third parties;\n(3) deciding, upon the application of a party, to investigate and collect evidence, to entrust expert evaluation, to require a party to provide evidence, to conduct an inspection and to preserve evidence;\n(4) organising the exchange of evidence;\n(5) summarising the issues in dispute;\n(6) conducting mediation."
+        },
+        "noLabel": {
+          "en": "Article 225."
+        }
+      },
+      {
+        "no": 226,
+        "text": {
+          "en": "A people's court shall, on the basis of the parties' claims, defence opinions and the exchange of evidence, summarise the issues in dispute and shall seek the parties' views on the issues in dispute so summarised."
+        },
+        "noLabel": {
+          "en": "Article 226."
+        }
+      },
+      {
+        "no": 227,
+        "text": {
+          "en": "Where a people's court tries a case under ordinary procedure, it shall summon the parties by summons three days before the hearing. Agents ad litem, witnesses, experts, inspectors and interpreters shall be notified to appear in court by notice. Where a party or another participant in proceedings is in another place, necessary time for travel shall be allowed."
+        },
+        "noLabel": {
+          "en": "Article 227."
+        }
+      },
+      {
+        "no": 228,
+        "text": {
+          "en": "The court hearing shall focus on the issues in dispute between the parties, such as the facts, the evidence and the application of law."
+        },
+        "noLabel": {
+          "en": "Article 228."
+        }
+      },
+      {
+        "no": 229,
+        "text": {
+          "en": "Where a party raises differing views at the hearing on facts and evidence admitted at the preparation stage before the trial, the people's court shall order him to explain the reasons. Where necessary, it may order him to provide corresponding evidence. The people's court shall examine the matter in the light of the litigation capacity of the parties, the evidence and the specific circumstances of the case. Where the reasons are established, the matter may be included among the issues in dispute for trial."
+        },
+        "noLabel": {
+          "en": "Article 229."
+        }
+      },
+      {
+        "no": 230,
+        "text": {
+          "en": "A people's court may, according to the specific circumstances of the case and with the consent of the parties, conduct the court investigation and the court debate together."
+        },
+        "noLabel": {
+          "en": "Article 230."
+        }
+      },
+      {
+        "no": 231,
+        "text": {
+          "en": "Where a party produces new evidence in court, the people's court shall handle the matter in accordance with paragraph 2 of Article 68 of the Civil Procedure Law and the relevant provisions of these Interpretations."
+        },
+        "noLabel": {
+          "en": "Article 231."
+        }
+      },
+      {
+        "no": 232,
+        "text": {
+          "en": "After acceptance of a case and before the conclusion of the court debate, where the plaintiff increases his claims, the defendant brings a counterclaim, or a third party raises claims relating to the case, and consolidation of trial is possible, the people's court shall consolidate the trial."
+        },
+        "noLabel": {
+          "en": "Article 232."
+        }
+      },
+      {
+        "no": 233,
+        "text": {
+          "en": "The parties to a counterclaim shall be limited to the scope of the parties to the original action.\nWhere the claims of the counterclaim and of the original action are based on the same legal relationship, there is a causal relationship between the claims, or the claims of the counterclaim and of the original action are based on the same facts, the people's court shall consolidate the trial.\nWhere the counterclaim should be under the exclusive jurisdiction of another people's court, or has no connection with the subject matter in dispute of the original action and the facts and grounds on which the claims are based, a ruling shall be made not to accept it, and the party shall be informed to bring a separate action."
+        },
+        "noLabel": {
+          "en": "Article 233."
+        }
+      },
+      {
+        "no": 234,
+        "text": {
+          "en": "In a divorce action concerning a person without capacity for civil conduct, the legal agent of the party shall appear in court; where the legal agent is unable to appear, the people's court shall make a judgment in accordance with law on the basis of ascertained facts."
+        },
+        "noLabel": {
+          "en": "Article 234."
+        }
+      },
+      {
+        "no": 235,
+        "text": {
+          "en": "Where the legal agent of a party without capacity for civil conduct, after being summoned by summons, refuses to appear without justified reason, and the party is on the plaintiff's side, the action shall be treated as withdrawn by reference to Article 146 of the Civil Procedure Law; where the party is on the defendant's side, a default judgment shall be made by reference to Article 147 of the Civil Procedure Law. Where necessary, the people's court may compel his appearance in court."
+        },
+        "noLabel": {
+          "en": "Article 235."
+        }
+      },
+      {
+        "no": 236,
+        "text": {
+          "en": "Where a third party with independent claims, after being summoned by summons of the people's court, refuses to appear without justified reason, or withdraws from the court midway without the permission of the court, the action shall be treated as withdrawn by reference to Article 146 of the Civil Procedure Law."
+        },
+        "noLabel": {
+          "en": "Article 236."
+        }
+      },
+      {
+        "no": 237,
+        "text": {
+          "en": "Where, after a third party with independent claims has participated in the proceedings, the plaintiff applies to withdraw the action and the people's court permits the withdrawal, the third party with independent claims shall become the plaintiff in a separate case, the original plaintiff and defendant shall become the defendants in that separate case, and the proceedings shall continue."
+        },
+        "noLabel": {
+          "en": "Article 237."
+        }
+      },
+      {
+        "no": 238,
+        "text": {
+          "en": "Where a party applies to withdraw the action or the action may lawfully be treated as withdrawn, and the party has committed an unlawful act which needs to be dealt with in accordance with law, the people's court may not permit the withdrawal or treat the action as withdrawn.\nWhere a plaintiff applies to withdraw the action after the conclusion of the court debate and the defendant disagrees, the people's court may refuse to permit it."
+        },
+        "noLabel": {
+          "en": "Article 238."
+        }
+      },
+      {
+        "no": 239,
+        "text": {
+          "en": "Where a people's court permits the plaintiff in the original action to withdraw the action, it shall continue to try the counterclaim; where the defendant applies to withdraw the counterclaim, the people's court shall permit it."
+        },
+        "noLabel": {
+          "en": "Article 239."
+        }
+      },
+      {
+        "no": 240,
+        "text": {
+          "en": "Where a third party without independent claims, after being summoned by summons of the people's court, refuses to appear without justified reason, or withdraws from the court midway without the permission of the court, the trial of the case shall not be affected."
+        },
+        "noLabel": {
+          "en": "Article 240."
+        }
+      },
+      {
+        "no": 241,
+        "text": {
+          "en": "Where a defendant, after being summoned by summons, refuses to appear without justified reason, or withdraws from the court midway without the permission of the court, the people's court shall hold the hearing as scheduled or continue the hearing, and may make a default judgment in accordance with law after trying the claims of the parties present, the arguments of both sides and the evidence and other litigation materials already submitted."
+        },
+        "noLabel": {
+          "en": "Article 241."
+        }
+      },
+      {
+        "no": 242,
+        "text": {
+          "en": "After a first-instance judgment is pronounced, where the original trial court discovers an error in the judgment and a party appeals within the period for appeal, the original trial court may put forward an opinion that the original judgment is erroneous and submit it to the second-instance people's court, which shall try the case under second-instance procedure; where no party appeals, the matter shall be handled under the procedure for trial supervision."
+        },
+        "noLabel": {
+          "en": "Article 242."
+        }
+      },
+      {
+        "no": 243,
+        "text": {
+          "en": "The time limit for trial provided in Article 152 of the Civil Procedure Law means the period from the date of filing the case to the date of pronouncement of the judgment or of service of the mediation statement, provided that the period of public announcement, the period of expert evaluation, the period of settlement between the parties, the period for examining an objection to jurisdiction raised by a party and the period for handling a dispute over jurisdiction between people's courts shall not be counted."
+        },
+        "noLabel": {
+          "en": "Article 243."
+        }
+      },
+      {
+        "no": 244,
+        "text": {
+          "en": "Where an appealable judgment or ruling cannot be served on both parties at the same time, the period for appeal shall be calculated from the date on which each party receives the judgment or ruling."
+        },
+        "noLabel": {
+          "en": "Article 244."
+        }
+      },
+      {
+        "no": 245,
+        "text": {
+          "en": "Clerical errors provided in item 7 of paragraph 1 of Article 157 of the Civil Procedure Law mean erroneous writing and erroneous calculation in legal documents, omissions and erroneous calculations of litigation costs, and other clerical errors."
+        },
+        "noLabel": {
+          "en": "Article 245."
+        }
+      },
+      {
+        "no": 246,
+        "text": {
+          "en": "Where the cause of the suspension of proceedings is removed and the proceedings are resumed, the original ruling need not be revoked, and the ruling suspending the proceedings shall lose effect from the time the people's court notifies or permits both parties to continue the proceedings."
+        },
+        "noLabel": {
+          "en": "Article 246."
+        }
+      },
+      {
+        "no": 247,
+        "text": {
+          "en": "Where a party brings an action again in respect of a matter already litigated, during the proceedings or after the judgment or ruling takes effect, and the following conditions are concurrently met, this constitutes repeated litigation:\n(1) the parties to the later action are the same as those to the earlier action;\n(2) the subject matter in dispute in the later action is the same as that in the earlier action;\n(3) the claims in the later action are the same as those in the earlier action, or the claims in the later action substantively negate the result of the judgment or ruling in the earlier action.\nWhere a party engages in repeated litigation, a ruling shall be made not to accept the case; where the case has already been accepted, a ruling shall be made to dismiss the action, unless otherwise provided by law or judicial interpretation."
+        },
+        "noLabel": {
+          "en": "Article 247."
+        }
+      },
+      {
+        "no": 248,
+        "text": {
+          "en": "Where, after a judgment or ruling takes effect, new facts occur and a party brings an action again, the people's court shall accept the case in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 248."
+        }
+      },
+      {
+        "no": 249,
+        "text": {
+          "en": "Where, in the course of proceedings, the civil rights and obligations in dispute are transferred, this shall not affect the capacity of the party as a subject of the proceedings or his status in the proceedings. A legally effective judgment or ruling made by the people's court shall be binding on the transferee.\nWhere the transferee applies to participate in the proceedings as a third party without independent claims, the people's court may permit it. Where the transferee applies to replace the party in the proceedings, the people's court may decide whether to permit it according to the specific circumstances of the case; where it does not permit it, it may join the transferee as a third party without independent claims."
+        },
+        "noLabel": {
+          "en": "Article 249."
+        }
+      },
+      {
+        "no": 250,
+        "text": {
+          "en": "Where, in accordance with Article 249 of these Interpretations, a people's court permits a transferee to replace a party in the proceedings, it shall rule to change the party.\nAfter the change of party, the proceedings shall continue with the transferee as the party, and the original party shall withdraw from the proceedings. Procedural acts already completed by the original party shall be binding on the transferee."
+        },
+        "noLabel": {
+          "en": "Article 250."
+        }
+      },
+      {
+        "no": 251,
+        "text": {
+          "en": "In a case in which a second-instance ruling revokes the first-instance judgment and remands it for retrial, where a party applies to change or increase his claims or brings a counterclaim, or a third party raises claims relating to the case, the matter shall be handled in accordance with Article 143 of the Civil Procedure Law."
+        },
+        "noLabel": {
+          "en": "Article 251."
+        }
+      },
+      {
+        "no": 252,
+        "text": {
+          "en": "In a case in which a ruling on retrial revokes the original judgment or ruling and remands it for retrial, where a party applies to change or increase his claims or brings a counterclaim, the people's court shall permit it where any of the following circumstances is met:\n(1) the original trial made a default judgment without lawful summons, affecting the exercise of procedural rights by the party;\n(2) a new party is joined to the proceedings;\n(3) the subject matter in dispute has been lost or has changed so that the original claims cannot be realised;\n(4) the claims which the party applies to change or increase, or the counterclaim raised, cannot be resolved through a separate action."
+        },
+        "noLabel": {
+          "en": "Article 252."
+        }
+      },
+      {
+        "no": 253,
+        "text": {
+          "en": "In a case in which judgment is pronounced in court, apart from where a party requests in court that the written judgment be sent by post, the people's court shall inform the party or his agent ad litem of the time and place for collecting the written judgment and of the legal consequences of failure to collect it in time. The above circumstances shall be recorded in the transcript."
+        },
+        "noLabel": {
+          "en": "Article 253."
+        }
+      },
+      {
+        "no": 254,
+        "text": {
+          "en": "Where a citizen, legal person or other organisation applies to consult a legally effective written judgment or ruling, it shall apply to the people's court which made the effective judgment or ruling. The application shall be made in writing and shall state the specific case number or the name or designation of the party."
+        },
+        "noLabel": {
+          "en": "Article 254."
+        }
+      },
+      {
+        "no": 255,
+        "text": {
+          "en": "In respect of an application to consult a written judgment or ruling, the people's court shall handle the matter respectively according to the following circumstances:\n(1) where the written judgment or ruling has already been made public to society through an information network, the applicant shall be guided to consult it himself;\n(2) where the written judgment or ruling has not been made public to society through an information network and the application meets the requirements, convenient consultation services shall be provided promptly;\n(3) where the written judgment or ruling has not yet taken legal effect or has lost legal effect, consultation shall not be provided and the applicant shall be informed;\n(4) where the legally effective written judgment or ruling was not made by this court, the applicant shall be informed to apply for consultation to the people's court which made the effective judgment or ruling;\n(5) where the content applied to be consulted involves State secrets, trade secrets or personal privacy, the application shall not be permitted and the applicant shall be informed.\nXI. Summary Procedure"
+        },
+        "noLabel": {
+          "en": "Article 255."
+        }
+      },
+      {
+        "no": 256,
+        "text": {
+          "en": "Clear facts in simple civil cases provided in Article 160 of the Civil Procedure Law means that the parties' statements on the facts in dispute are basically consistent and they can provide corresponding evidence, and the facts can be ascertained without the people's court investigating and collecting evidence; clear rights and obligations means that it can be clearly distinguished who bears liability and who enjoys rights; minor dispute means that the parties have no difference in principle as to the right and wrong of the case, the bearing of liability and the subject matter in dispute."
+        },
+        "noLabel": {
+          "en": "Article 256."
+        }
+      },
+      {
+        "no": 257,
+        "text": {
+          "en": "Summary procedure shall not apply to the following cases:\n(1) where the whereabouts of the defendant are unknown at the time the action is brought;\n(2) cases remanded for retrial;\n(3) cases with a large number of persons on one side;\n(4) cases to which the procedure for trial supervision applies;\n(5) cases involving the interests of the State or the public interest;\n(6) cases in which a third party brings an action requesting the change or revocation of an effective judgment, ruling or mediation statement;\n(7) other cases unsuitable for summary procedure."
+        },
+        "noLabel": {
+          "en": "Article 257."
+        }
+      },
+      {
+        "no": 258,
+        "text": {
+          "en": "In a case tried under summary procedure, where the time limit for trial has expired and extension is needed under special circumstances, the time limit may be extended with the approval of the president of the court. The cumulative extended time limit for trial shall not exceed four months.\nWhere a people's court finds that a case is unsuitable for summary procedure and needs to be converted to ordinary procedure, it shall make a ruling before the expiry of the time limit for trial and notify both parties in writing of the judicial personnel and the relevant matters.\nWhere a case is converted to ordinary procedure, the time limit for trial shall be calculated from the date of filing of the case by the people's court."
+        },
+        "noLabel": {
+          "en": "Article 258."
+        }
+      },
+      {
+        "no": 259,
+        "text": {
+          "en": "The parties may apply to the people's court in respect of the manner of hearing, and the people's court shall decide whether to permit it. With the consent of both parties, the hearing may be held by means such as audio-visual transmission technology."
+        },
+        "noLabel": {
+          "en": "Article 259."
+        }
+      },
+      {
+        "no": 260,
+        "text": {
+          "en": "A case already tried under ordinary procedure may not be converted to summary procedure after the hearing has been opened."
+        },
+        "noLabel": {
+          "en": "Article 260."
+        }
+      },
+      {
+        "no": 261,
+        "text": {
+          "en": "In trying a case under summary procedure, a people's court may, in accordance with Articles 90 and 162 of the Civil Procedure Law, summon both parties, notify witnesses and serve procedural documents by simplified means such as passing on a verbal message, telephone, text message, facsimile and electronic mail.\nWhere a notice of hearing served by simplified means has not been confirmed by the party and there is no other evidence proving that the party has received it, the people's court may not make a default judgment.\nIn trying a case under summary procedure, a judge shall try the case alone and a clerk shall serve as recorder."
+        },
+        "noLabel": {
+          "en": "Article 261."
+        }
+      },
+      {
+        "no": 262,
+        "text": {
+          "en": "Written judgments, rulings and mediation statements made by a people's tribunal must bear the seal of the basic-level people's court, and the seal of the people's tribunal may not be used in place of the seal of the basic-level people's court."
+        },
+        "noLabel": {
+          "en": "Article 262."
+        }
+      },
+      {
+        "no": 263,
+        "text": {
+          "en": "In trying a case under summary procedure, the case file shall contain the following materials:\n(1) the statement of claim or the transcript of an oral action;\n(2) the statement of defence or the transcript of an oral defence;\n(3) materials proving the identity of the parties;\n(4) the power of attorney entrusting another person to act in the proceedings, or the transcript of an oral entrustment;\n(5) the evidence;\n(6) the transcript of the questioning of the parties;\n(7) the transcript of the trial (including mediation);\n(8) the written judgment, ruling, mediation statement or mediation agreement;\n(9) the transcript of service and of pronouncement of judgment;\n(10) the situation of execution;\n(11) receipts for litigation costs;\n(12) where the case is tried in accordance with Article 165 of the Civil Procedure Law, the written notification concerning the application of procedure."
+        },
+        "noLabel": {
+          "en": "Article 263."
+        }
+      },
+      {
+        "no": 264,
+        "text": {
+          "en": "Where both parties agree, in accordance with paragraph 2 of Article 160 of the Civil Procedure Law, to apply summary procedure, they shall do so before the hearing is opened. Where the agreement is made orally, it shall be recorded in the transcript and confirmed by the signatures or fingerprints of both parties.\nWhere the parties agree to apply summary procedure to a case provided in Article 257 of these Interpretations, the people's court shall not permit it."
+        },
+        "noLabel": {
+          "en": "Article 264."
+        }
+      },
+      {
+        "no": 265,
+        "text": {
+          "en": "Where a plaintiff brings an action orally, the people's court shall accurately record in the transcript the basic information of the party such as name, sex, work unit, domicile and means of contact, as well as the claims, facts and grounds, and the plaintiff shall sign or fingerprint it after checking that it is correct. A receipt shall be issued for the evidentiary materials submitted by the party."
+        },
+        "noLabel": {
+          "en": "Article 265."
+        }
+      },
+      {
+        "no": 266,
+        "text": {
+          "en": "The time limit for adducing evidence in a case under summary procedure shall be determined by the people's court, or may be agreed upon by the parties and permitted by the people's court, but shall not exceed 15 days. Where the defendant requests to defend in writing, the people's court may, on the basis of his consent, reasonably determine the period for defence.\nThe people's court shall inform both parties of the time limit for adducing evidence and the date of the hearing, explain to them the legal consequences of adducing evidence after the time limit and of refusing to appear, and have both parties sign or fingerprint the transcript and the receipt of service of the summons.\nWhere both parties indicate that they do not need a time limit for adducing evidence or a period for defence, the people's court may hold the hearing immediately or fix a date for the hearing."
+        },
+        "noLabel": {
+          "en": "Article 266."
+        }
+      },
+      {
+        "no": 267,
+        "text": {
+          "en": "In trying a case under summary procedure, preparations for trial may be made in a simplified manner."
+        },
+        "noLabel": {
+          "en": "Article 267."
+        }
+      },
+      {
+        "no": 268,
+        "text": {
+          "en": "In respect of a party who has not entrusted a lawyer or a grassroots legal service worker to act in the proceedings, the people's court may, in the course of the hearing, give him the necessary explanations or clarifications on matters such as withdrawal, admission and the burden of proof, and may appropriately prompt the party in the course of the hearing to exercise his procedural rights correctly and perform his procedural obligations."
+        },
+        "noLabel": {
+          "en": "Article 268."
+        }
+      },
+      {
+        "no": 269,
+        "text": {
+          "en": "Where a party raises an objection to the application of summary procedure to the case and, after examination, the people's court finds the objection established, it shall rule to convert the case to ordinary procedure; where the objection is not established, it shall rule to reject it. Where the ruling is made orally, it shall be recorded in the transcript.\nWhere the case is converted to ordinary procedure, the people's court shall notify both parties in writing of the judicial personnel and the relevant matters.\nFacts already confirmed by both parties before conversion to ordinary procedure need not again be proved or cross-examined."
+        },
+        "noLabel": {
+          "en": "Article 269."
+        }
+      },
+      {
+        "no": 270,
+        "text": {
+          "en": "In a case tried under summary procedure, the people's court may appropriately simplify the parts concerning the facts ascertained or the reasons for the judgment when making a written judgment, ruling or mediation statement under any of the following circumstances:\n(1) the parties have reached a mediation agreement and a civil mediation statement needs to be made;\n(2) one party expressly admits all or part of the other party's claims;\n(3) in a case involving trade secrets or personal privacy, one party requests simplification of the relevant content in the written judgment and the people's court considers the reasons justified;\n(4) both parties agree to simplification.\nXII. Small Claims in Summary Procedure"
+        },
+        "noLabel": {
+          "en": "Article 270."
+        }
+      },
+      {
+        "no": 271,
+        "text": {
+          "en": "In trying small claims cases, people's courts shall apply the provisions of Article 165 of the Civil Procedure Law, and the judgment at first instance shall be final."
+        },
+        "noLabel": {
+          "en": "Article 271."
+        }
+      },
+      {
+        "no": 272,
+        "text": {
+          "en": "The average annual wage of employed persons in the previous year in each province, autonomous region and municipality directly under the Central Government provided in Article 165 of the Civil Procedure Law means the published average annual wage of employed persons in the previous year in each province, autonomous region and municipality directly under the Central Government. Before the average annual wage of employed persons in the previous year is published, the published average annual wage of employed persons in the most recent year shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 272."
+        }
+      },
+      {
+        "no": 273,
+        "text": {
+          "en": "Maritime courts may try maritime and admiralty cases under the small claims procedure. The amount in dispute shall be calculated on the basis of the average annual wage of employed persons in the previous year in the province, autonomous region or municipality directly under the Central Government in which the maritime court actually accepting the case or its dispatched tribunal is located."
+        },
+        "noLabel": {
+          "en": "Article 273."
+        }
+      },
+      {
+        "no": 274,
+        "text": {
+          "en": "Where a people's court accepts a small claims case, it shall inform the parties of the organisation of the trial, the finality of the first-instance judgment, the time limit for trial, the standard for payment of litigation costs and other relevant matters."
+        },
+        "noLabel": {
+          "en": "Article 274."
+        }
+      },
+      {
+        "no": 275,
+        "text": {
+          "en": "The time limit for adducing evidence in a small claims case shall be determined by the people's court, or may be agreed upon by the parties and permitted by the people's court, but shall generally not exceed seven days.\nWhere the defendant requests to defend in writing, the people's court may reasonably determine the period for defence on the basis of his consent, but it shall not exceed 15 days at the longest.\nWhere the parties indicate after appearing in court that they do not need a time limit for adducing evidence or a period for defence, the people's court may hold the hearing immediately."
+        },
+        "noLabel": {
+          "en": "Article 275."
+        }
+      },
+      {
+        "no": 276,
+        "text": {
+          "en": "Where a party raises an objection to jurisdiction in a small claims case, the people's court shall make a ruling. The ruling shall take effect once made."
+        },
+        "noLabel": {
+          "en": "Article 276."
+        }
+      },
+      {
+        "no": 277,
+        "text": {
+          "en": "Where, after accepting a small claims case, a people's court finds that the action does not meet the conditions for bringing an action provided in Article 122 of the Civil Procedure Law, it shall rule to dismiss the action. The ruling shall take effect once made."
+        },
+        "noLabel": {
+          "en": "Article 277."
+        }
+      },
+      {
+        "no": 278,
+        "text": {
+          "en": "Where, because a party applies to increase or change claims, brings a counterclaim or joins a party, the case no longer meets the conditions for a small claims case, the other provisions on summary procedure shall apply to the trial.\nWhere a case provided in the preceding paragraph should be tried under ordinary procedure, a ruling shall be made to convert it to ordinary procedure.\nFacts already confirmed by both parties before the trial under the other provisions on summary procedure or under ordinary procedure need not again be proved or cross-examined."
+        },
+        "noLabel": {
+          "en": "Article 278."
+        }
+      },
+      {
+        "no": 279,
+        "text": {
+          "en": "Where a party objects to the trial of the case as a small claims case, it shall raise the objection before the hearing is opened. Where, after examination, the people's court finds the objection established, it shall apply the other provisions on summary procedure or rule to convert the case to ordinary procedure; where the objection is not established, it shall rule to reject it. Where the ruling is made orally, it shall be recorded in the transcript."
+        },
+        "noLabel": {
+          "en": "Article 279."
+        }
+      },
+      {
+        "no": 280,
+        "text": {
+          "en": "The written judgment or ruling in a small claims case may be simplified and mainly record the basic information of the parties, the claims and the operative part of the judgment."
+        },
+        "noLabel": {
+          "en": "Article 280."
+        }
+      },
+      {
+        "no": 281,
+        "text": {
+          "en": "In trying small claims cases, people's courts shall apply the other provisions on summary procedure where these Interpretations contain no provisions.\nXIII. Public Interest Litigation"
+        },
+        "noLabel": {
+          "en": "Article 281."
+        }
+      },
+      {
+        "no": 282,
+        "text": {
+          "en": "Where organs and relevant organisations provided in laws such as the Environmental Protection Law and the Law on the Protection of the Rights and Interests of Consumers bring public interest litigation in accordance with Article 58 of the Civil Procedure Law in respect of acts harming the public interest such as polluting the environment and infringing the lawful rights and interests of numerous consumers, and the following conditions are met, the people's court shall accept the case:\n(1) there is a definite defendant;\n(2) there are specific claims;\n(3) there is prima facie evidence that the public interest has been harmed;\n(4) the case falls within the scope of civil actions accepted by people's courts and within the jurisdiction of the people's court accepting it."
+        },
+        "noLabel": {
+          "en": "Article 282."
+        }
+      },
+      {
+        "no": 283,
+        "text": {
+          "en": "Cases of public interest litigation shall be under the jurisdiction of the intermediate people's court at the place of the tort or at the domicile of the defendant, unless otherwise provided by law or judicial interpretation.\nPublic interest litigation brought in respect of pollution of the marine environment shall be under the jurisdiction of the maritime court at the place where the pollution occurred, at the place where the damage resulted or at the place where measures to prevent pollution were taken.\nWhere public interest litigation is brought before two or more people's courts in respect of the same tort, the case shall be under the jurisdiction of the people's court which first filed the case, and where necessary, the people's court at their common higher level shall designate jurisdiction."
+        },
+        "noLabel": {
+          "en": "Article 283."
+        }
+      },
+      {
+        "no": 284,
+        "text": {
+          "en": "After accepting a case of public interest litigation, a people's court shall notify the relevant competent administrative department in writing within ten days."
+        },
+        "noLabel": {
+          "en": "Article 284."
+        }
+      },
+      {
+        "no": 285,
+        "text": {
+          "en": "After a people's court has accepted a case of public interest litigation, other organs and relevant organisations which may lawfully bring an action may, before the hearing is opened, apply to the people's court to participate in the proceedings. Where the people's court permits them to participate, they shall be listed as joint plaintiffs."
+        },
+        "noLabel": {
+          "en": "Article 285."
+        }
+      },
+      {
+        "no": 286,
+        "text": {
+          "en": "The acceptance of a case of public interest litigation by a people's court shall not affect the bringing of an action by a victim of the same tort in accordance with Article 122 of the Civil Procedure Law."
+        },
+        "noLabel": {
+          "en": "Article 286."
+        }
+      },
+      {
+        "no": 287,
+        "text": {
+          "en": "In a case of public interest litigation, the parties may reach a settlement, and the people's court may conduct mediation.\nAfter the parties reach a settlement or mediation agreement, the people's court shall make it public by announcement. The period of the announcement shall not be less than 30 days.\nAfter the expiry of the announcement period, where, after examination, the people's court considers that the settlement or mediation agreement does not violate the public interest, it shall issue a mediation statement; where the settlement or mediation agreement violates the public interest, it shall not issue a mediation statement, shall continue to try the case and shall make a judgment in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 287."
+        }
+      },
+      {
+        "no": 288,
+        "text": {
+          "en": "Where the plaintiff in a case of public interest litigation applies to withdraw the action after the conclusion of the court debate, the people's court shall not permit it."
+        },
+        "noLabel": {
+          "en": "Article 288."
+        }
+      },
+      {
+        "no": 289,
+        "text": {
+          "en": "After the judgment or ruling in a case of public interest litigation takes legal effect, where another organ or relevant organisation lawfully qualified as a plaintiff brings a separate public interest litigation in respect of the same tort, the people's court shall rule not to accept the case, unless otherwise provided by law or judicial interpretation.\nXIV. Actions by Third Parties for Revocation"
+        },
+        "noLabel": {
+          "en": "Article 289."
+        }
+      },
+      {
+        "no": 290,
+        "text": {
+          "en": "Where a third party brings an action for revocation in respect of a legally effective judgment, ruling or mediation statement, it shall do so within six months from the date on which it knew or ought to have known that its civil rights and interests were harmed, before the people's court which made the effective judgment, ruling or mediation statement, and shall provide evidentiary materials proving the existence of the following circumstances:\n(1) it did not participate in the proceedings for reasons not attributable to itself;\n(2) all or part of the content of the legally effective judgment, ruling or mediation statement is erroneous;\n(3) the erroneous content of the legally effective judgment, ruling or mediation statement has harmed its civil rights and interests."
+        },
+        "noLabel": {
+          "en": "Article 290."
+        }
+      },
+      {
+        "no": 291,
+        "text": {
+          "en": "A people's court shall deliver the statement of claim and evidentiary materials to the other party within five days from the date of receipt, and the other party may submit written opinions within ten days from the date of receipt of the statement of claim.\nThe people's court shall examine the statement of claim and evidentiary materials submitted by the third party and the written opinions of the other party. Where necessary, it may question both parties.\nWhere, after examination, the conditions for bringing an action are met, the people's court shall file the case within 30 days from the date of receipt of the statement of claim. Where the conditions are not met, it shall rule within 30 days from the date of receipt of the statement of claim not to accept the case."
+        },
+        "noLabel": {
+          "en": "Article 291."
+        }
+      },
+      {
+        "no": 292,
+        "text": {
+          "en": "For a case of an action by a third party for revocation, the people's court shall form a collegial panel and hold a hearing."
+        },
+        "noLabel": {
+          "en": "Article 292."
+        }
+      },
+      {
+        "no": 293,
+        "text": {
+          "en": "Failure to participate in the proceedings for reasons not attributable to oneself provided in paragraph 3 of Article 59 of the Civil Procedure Law means the situation where the person was not listed as a party to the effective judgment, ruling or mediation statement and is without fault or without obvious fault, including:\n(1) not participating because of ignorance of the proceedings;\n(2) having applied to participate but not having been permitted;\n(3) knowing of the proceedings but being unable to participate for objective reasons;\n(4) not participating in the proceedings for other reasons not attributable to oneself."
+        },
+        "noLabel": {
+          "en": "Article 293."
+        }
+      },
+      {
+        "no": 294,
+        "text": {
+          "en": "All or part of the content of a judgment, ruling or mediation statement provided in paragraph 3 of Article 59 of the Civil Procedure Law means the operative part of the judgment or ruling, and the result in the mediation statement dealing with the civil rights and obligations of the parties."
+        },
+        "noLabel": {
+          "en": "Article 294."
+        }
+      },
+      {
+        "no": 295,
+        "text": {
+          "en": "A people's court shall not accept an action by a third party for revocation brought in respect of the following circumstances:\n(1) cases handled under non-contentious procedures such as special procedure, procedure for hastening debt recovery, procedure for public summons and bankruptcy procedure;\n(2) the content of a judgment, ruling or mediation statement concerning a status relationship, such as a declaration of nullity of marriage, annulment of marriage or dissolution of the marriage relationship;\n(3) the effective judgment or ruling in a representative action, brought by a right holder who did not register as provided in Article 57 of the Civil Procedure Law;\n(4) the effective judgment or ruling in a public interest litigation case, brought by a victim of the act harming the public interest provided in Article 58 of the Civil Procedure Law."
+        },
+        "noLabel": {
+          "en": "Article 295."
+        }
+      },
+      {
+        "no": 296,
+        "text": {
+          "en": "Where a third party brings an action for revocation, the people's court shall list the third party as the plaintiff and the parties to the effective judgment, ruling or mediation statement as the defendants, provided that a third party without independent claims who does not bear liability in the effective judgment, ruling or mediation statement shall be listed as a third party."
+        },
+        "noLabel": {
+          "en": "Article 296."
+        }
+      },
+      {
+        "no": 297,
+        "text": {
+          "en": "After accepting a case of an action by a third party for revocation, where the plaintiff provides corresponding security and requests suspension of execution, the people's court may permit it."
+        },
+        "noLabel": {
+          "en": "Article 297."
+        }
+      },
+      {
+        "no": 298,
+        "text": {
+          "en": "In respect of a request to revoke or partially revoke the content of a legally effective judgment, ruling or mediation statement, the people's court shall, after trial, handle the matter respectively according to the following circumstances:\n(1) where the request is established and the claim to confirm his civil rights is wholly or partly established, the erroneous part of the content of the original judgment, ruling or mediation statement shall be changed;\n(2) where the request is established but the claim to confirm all or part of his civil rights is not established, or no claim to confirm his civil rights was made, the erroneous part of the content of the original judgment, ruling or mediation statement shall be revoked;\n(3) where the request is not established, the claims shall be dismissed.\nA party dissatisfied with a judgment or ruling provided in the preceding paragraph may appeal.\nThe part of the content of the original judgment, ruling or mediation statement that has not been changed or revoked shall remain valid."
+        },
+        "noLabel": {
+          "en": "Article 298."
+        }
+      },
+      {
+        "no": 299,
+        "text": {
+          "en": "During the trial of a case of an action by a third party for revocation, where the people's court rules to retry the effective judgment, ruling or mediation statement, the people's court accepting the action for revocation shall rule to merge the third party's claims into the retrial procedure. However, where there is evidence proving that the parties to the original trial maliciously colluded to harm the lawful rights and interests of the third party, the people's court shall first try the case of the action for revocation and rule to suspend the retrial proceedings."
+        },
+        "noLabel": {
+          "en": "Article 299."
+        }
+      },
+      {
+        "no": 300,
+        "text": {
+          "en": "Where the claims of a third party are merged into retrial procedure for trial, the following provisions shall apply respectively:\n(1) where the case is tried under first-instance procedure, the people's court shall try the third party's claims together, and the judgment made may be appealed;\n(2) where the case is tried under second-instance procedure, the people's court may conduct mediation and, where no mediation agreement is reached, shall rule to revoke the original judgment, ruling or mediation statement and remand the case to the first-instance court for retrial, and the third party shall be listed in the retrial."
+        },
+        "noLabel": {
+          "en": "Article 300."
+        }
+      },
+      {
+        "no": 301,
+        "text": {
+          "en": "Where, after a third party brings an action for revocation, the execution of the effective judgment, ruling or mediation statement has not been suspended, the executing court shall examine the objection to execution raised by the third party in accordance with Article 234 of the Civil Procedure Law. Where the third party refuses to accept the ruling rejecting the objection to execution and applies for a retrial of the original judgment, ruling or mediation statement, the people's court shall not accept the application.\nWhere a person not a party to the case refuses to accept the ruling of the people's court rejecting his objection to execution and considers that the content of the original judgment, ruling or mediation statement is erroneous and impairs his lawful rights and interests, he shall apply for a retrial in accordance with Article 234 of the Civil Procedure Law; where he brings an action for revocation by a third party, the people's court shall not accept it.\nXV. Actions Objecting to Execution"
+        },
+        "noLabel": {
+          "en": "Article 301."
+        }
+      },
+      {
+        "no": 302,
+        "text": {
+          "en": "In accordance with Article 234 of the Civil Procedure Law, where a person not a party to the case or a party refuses to accept a ruling on an objection to execution and brings an action objecting to execution before a people's court within 15 days from the date of service of the ruling, the case shall be under the jurisdiction of the executing court."
+        },
+        "noLabel": {
+          "en": "Article 302."
+        }
+      },
+      {
+        "no": 303,
+        "text": {
+          "en": "In addition to meeting the requirements of Article 122 of the Civil Procedure Law, an action objecting to execution brought by a person not a party to the case shall satisfy the following conditions:\n(1) the application of the person not a party to the case for an objection to execution has been rejected by a ruling of the people's court;\n(2) there is a clear claim to exclude the subject matter of execution from execution, and the claim is unrelated to the original judgment or ruling;\n(3) the action is brought within 15 days from the date of service of the ruling on the objection to execution.\nThe people's court shall, within 15 days from the date of receipt of the statement of claim, decide whether to docket the case."
+        },
+        "noLabel": {
+          "en": "Article 303."
+        }
+      },
+      {
+        "no": 304,
+        "text": {
+          "en": "In addition to meeting the requirements of Article 122 of the Civil Procedure Law, an action objecting to execution brought by the applicant for execution shall satisfy the following conditions:\n(1) the people's court has ruled to suspend execution upon the application of the person not a party to the case for an objection to execution;\n(2) there is a clear claim for continued execution against the subject matter of execution, and the claim is unrelated to the original judgment or ruling;\n(3) the action is brought within 15 days from the date of service of the ruling on the objection to execution.\nThe people's court shall, within 15 days from the date of receipt of the statement of claim, decide whether to docket the case."
+        },
+        "noLabel": {
+          "en": "Article 304."
+        }
+      },
+      {
+        "no": 305,
+        "text": {
+          "en": "Where a person not a party to the case brings an action objecting to execution, the applicant for execution shall be the defendant. Where the person subject to execution objects to the objection of the person not a party to the case, the person subject to execution shall be a joint defendant; where the person subject to execution does not object to the objection of the person not a party to the case, the person subject to execution may be listed as a third party."
+        },
+        "noLabel": {
+          "en": "Article 305."
+        }
+      },
+      {
+        "no": 306,
+        "text": {
+          "en": "Where the applicant for execution brings an action objecting to execution, the person not a party to the case shall be the defendant. Where the person subject to execution objects to the claim of the applicant for execution, the person not a party to the case and the person subject to execution shall be joint defendants; where the person subject to execution does not object to the claim of the applicant for execution, the person subject to execution may be listed as a third party."
+        },
+        "noLabel": {
+          "en": "Article 306."
+        }
+      },
+      {
+        "no": 307,
+        "text": {
+          "en": "Where the applicant for execution does not bring an action objecting to execution against the ruling to suspend execution, and the person subject to execution brings such an action, the people's court shall inform him to bring a separate action."
+        },
+        "noLabel": {
+          "en": "Article 307."
+        }
+      },
+      {
+        "no": 308,
+        "text": {
+          "en": "A people's court trying a case of an action objecting to execution shall apply ordinary procedure."
+        },
+        "noLabel": {
+          "en": "Article 308."
+        }
+      },
+      {
+        "no": 309,
+        "text": {
+          "en": "Where a person not a party to the case or the applicant for execution brings an action objecting to execution, the person not a party to the case shall bear the burden of proving that he enjoys civil rights and interests in the subject matter of execution that are sufficient to exclude compulsory execution."
+        },
+        "noLabel": {
+          "en": "Article 309."
+        }
+      },
+      {
+        "no": 310,
+        "text": {
+          "en": "Where a people's court, after trial of an action objecting to execution brought by a person not a party to the case, shall deal with the matter respectively according to the following circumstances:\n(1) where the person not a party to the case enjoys civil rights and interests in the subject matter of execution that are sufficient to exclude compulsory execution, it shall be adjudged that the subject matter of execution shall not be executed;\n(2) where the person not a party to the case does not enjoy civil rights and interests in the subject matter of execution that are sufficient to exclude compulsory execution, it shall be adjudged that the claim be rejected.\nWhere the person not a party to the case concurrently makes a claim for confirmation of his rights, the people's court may make a ruling on it together in the judgment."
+        },
+        "noLabel": {
+          "en": "Article 310."
+        }
+      },
+      {
+        "no": 311,
+        "text": {
+          "en": "Where a people's court, after trial of an action objecting to execution brought by the applicant for execution, shall deal with the matter respectively according to the following circumstances:\n(1) where the person not a party to the case does not enjoy civil rights and interests in the subject matter of execution that are sufficient to exclude compulsory execution, it shall be adjudged that execution against the subject matter of execution be permitted;\n(2) where the person not a party to the case enjoys civil rights and interests in the subject matter of execution that are sufficient to exclude compulsory execution, it shall be adjudged that the claim be rejected."
+        },
+        "noLabel": {
+          "en": "Article 311."
+        }
+      },
+      {
+        "no": 312,
+        "text": {
+          "en": "Where, in an action objecting to execution brought by a person not a party to the case, the people's court adjudges that the subject matter of execution shall not be executed, the ruling on the objection to execution shall cease to be effective.\nWhere, in an action objecting to execution brought by the applicant for execution, the people's court adjudges that execution against the subject matter of execution be permitted, the ruling on the objection to execution shall cease to be effective, and the executing court may resume execution upon the application of the applicant for execution or ex officio."
+        },
+        "noLabel": {
+          "en": "Article 312."
+        }
+      },
+      {
+        "no": 313,
+        "text": {
+          "en": "During the trial of an action objecting to execution brought by a person not a party to the case, the people's court shall not dispose of the subject matter of execution. Where the applicant for execution requests the people's court to continue execution and provides corresponding security, the people's court may permit it.\nWhere the person subject to execution and a person not a party to the case collude in bad faith to obstruct execution through an objection to execution or an action objecting to execution, the people's court shall deal with the matter in accordance with Article 116 of the Civil Procedure Law. Where the applicant for execution suffers loss as a result, he may bring an action to require the person subject to execution and the person not a party to the case to make compensation."
+        },
+        "noLabel": {
+          "en": "Article 313."
+        }
+      },
+      {
+        "no": 314,
+        "text": {
+          "en": "Where, after a people's court rules to suspend execution against the subject matter of execution, the applicant for execution does not bring an action objecting to execution within the period provided by law, the people's court shall, within seven days from the date of expiry of the time limit for bringing the action, lift the enforcement measures taken against the subject matter of execution.\nXVI. Procedure of Second Instance"
+        },
+        "noLabel": {
+          "en": "Article 314."
+        }
+      },
+      {
+        "no": 315,
+        "text": {
+          "en": "Where both parties and a third party file appeals, all of them shall be listed as appellants. The people's court may ex officio determine the litigation status of the parties in the procedure of second instance."
+        },
+        "noLabel": {
+          "en": "Article 315."
+        }
+      },
+      {
+        "no": 316,
+        "text": {
+          "en": "The opposing party as provided in Article 173 and Article 174 of the Civil Procedure Law includes the appellee and the other parties to the original trial."
+        },
+        "noLabel": {
+          "en": "Article 316."
+        }
+      },
+      {
+        "no": 317,
+        "text": {
+          "en": "Where one or some of the persons in a necessary joint action file an appeal, the matter shall be dealt with respectively according to the following circumstances:\n(1) where the appeal only expresses disagreement with the allocation of rights and obligations as between the appellant and the opposing party and does not involve the interests of the other persons in the joint action, the opposing party shall be the appellee, and the parties on the same side that did not appeal shall be listed according to their litigation status in the original trial;\n(2) where the appeal only expresses disagreement with the allocation of rights and obligations among the persons in the joint action and does not involve the interests of the opposing party, the parties on the same side that did not appeal shall be the appellees, and the opposing party shall be listed according to its litigation status in the original trial;\n(3) where the appeal expresses disagreement with the assumption of rights and obligations both as between the parties and among the persons in the joint action, all the other parties that did not appeal shall be the appellees."
+        },
+        "noLabel": {
+          "en": "Article 317."
+        }
+      },
+      {
+        "no": 318,
+        "text": {
+          "en": "Where, at the time of pronouncement of judgment at first instance or at the time of service of the written judgment or ruling, a party orally states that he will appeal, the people's court shall inform him that he must submit a petition of appeal within the statutory period for appeal. Where a petition of appeal is not submitted within the statutory period for appeal, the party shall be deemed not to have appealed. Where a petition of appeal is submitted but the appeal fee is not paid within the designated time limit, the appeal shall be treated as automatically withdrawn."
+        },
+        "noLabel": {
+          "en": "Article 318."
+        }
+      },
+      {
+        "no": 319,
+        "text": {
+          "en": "The statutory agent of a person without capacity for civil conduct or a person with limited capacity for civil conduct may file an appeal on behalf of the party."
+        },
+        "noLabel": {
+          "en": "Article 319."
+        }
+      },
+      {
+        "no": 320,
+        "text": {
+          "en": "Where a party to a case on appeal dies or terminates, the people's court shall, in accordance with law, notify the successor to his rights and obligations to participate in the proceedings.\nWhere it is necessary to terminate the proceedings, Article 154 of the Civil Procedure Law shall apply."
+        },
+        "noLabel": {
+          "en": "Article 320."
+        }
+      },
+      {
+        "no": 321,
+        "text": {
+          "en": "The people's court of second instance shall conduct the trial in relation to the claims raised in the appeal.\nClaims not raised by the parties shall not be tried, except where the judgment at first instance violates prohibitive provisions of law or impairs the interests of the State, the public interest or the lawful rights and interests of others."
+        },
+        "noLabel": {
+          "en": "Article 321."
+        }
+      },
+      {
+        "no": 322,
+        "text": {
+          "en": "In a case on appeal tried at a hearing, the people's court of second instance may make preparations for trial in accordance with Item 4 of Article 136 of the Civil Procedure Law."
+        },
+        "noLabel": {
+          "en": "Article 322."
+        }
+      },
+      {
+        "no": 323,
+        "text": {
+          "en": "Any of the following circumstances may be determined to be a serious violation of statutory procedure as provided in Item 4 of Paragraph 1 of Article 177 of the Civil Procedure Law:\n(1) the composition of the judicial organisation is unlawful;\n(2) a judicial officer who should have withdrawn did not withdraw;\n(3) a person without capacity to conduct litigation conducted litigation without a statutory agent acting on his behalf;\n(4) the party's right to debate was unlawfully deprived."
+        },
+        "noLabel": {
+          "en": "Article 323."
+        }
+      },
+      {
+        "no": 324,
+        "text": {
+          "en": "Where the people's court of original trial failed to try and adjudicate a claim already raised by a party in the procedure of first instance, the people's court of second instance may conduct mediation on the principle of the parties' voluntariness; where mediation fails, the case shall be remanded for retrial."
+        },
+        "noLabel": {
+          "en": "Article 324."
+        }
+      },
+      {
+        "no": 325,
+        "text": {
+          "en": "Where a party who must participate in the proceedings, or a third party with an independent claim, did not participate in the proceedings at first instance, the people's court of second instance may conduct mediation on the principle of the parties' voluntariness; where mediation fails, the case shall be remanded for retrial."
+        },
+        "noLabel": {
+          "en": "Article 325."
+        }
+      },
+      {
+        "no": 326,
+        "text": {
+          "en": "In the procedure of second instance, where the plaintiff of the original trial adds an independent claim or the defendant of the original trial files a counterclaim, the people's court of second instance may conduct mediation on the newly added claim or counterclaim on the principle of the parties' voluntariness; where mediation fails, the party shall be informed to bring a separate action.\nWhere both parties agree that the people's court of second instance should try the matter together, the people's court of second instance may adjudicate on it together."
+        },
+        "noLabel": {
+          "en": "Article 326."
+        }
+      },
+      {
+        "no": 327,
+        "text": {
+          "en": "Where, in a case in which the judgment at first instance does not grant a divorce, the people's court of second instance after appeal considers that a divorce should be granted, it may, on the principle of the parties' voluntariness, conduct mediation together on the matters of child custody and property; where mediation fails, the case shall be remanded for retrial.\nWhere both parties agree that the people's court of second instance should try the matter together, the people's court of second instance may adjudicate on it together."
+        },
+        "noLabel": {
+          "en": "Article 327."
+        }
+      },
+      {
+        "no": 328,
+        "text": {
+          "en": "Where a people's court trying a case under the procedure of second instance considers that the case should not be accepted by a people's court in accordance with law, the people's court of second instance may directly rule to revoke the original judgment or ruling and reject the action."
+        },
+        "noLabel": {
+          "en": "Article 328."
+        }
+      },
+      {
+        "no": 329,
+        "text": {
+          "en": "Where a people's court trying a case under the procedure of second instance considers that the acceptance of the case by the people's court of first instance violates the provisions on exclusive jurisdiction, it shall rule to revoke the original judgment or ruling and transfer the case to the people's court with jurisdiction."
+        },
+        "noLabel": {
+          "en": "Article 329."
+        }
+      },
+      {
+        "no": 330,
+        "text": {
+          "en": "Where the people's court of second instance ascertains that the ruling of the people's court of first instance not to accept the case is erroneous, it shall, while revoking the original ruling, direct the people's court of first instance to docket and accept the case; where it ascertains that the ruling of the people's court of first instance rejecting the action is erroneous, it shall, while revoking the original ruling, direct the people's court of first instance to try the case."
+        },
+        "noLabel": {
+          "en": "Article 330."
+        }
+      },
+      {
+        "no": 331,
+        "text": {
+          "en": "A people's court of second instance may, in accordance with Article 176 of the Civil Procedure Law, try the following cases on appeal without a hearing:\n(1) cases on appeal against rulings not to accept a case, rulings on objections to jurisdiction and rulings rejecting an action;\n(2) cases in which the claims raised in the appeal manifestly cannot be sustained;\n(3) cases in which the original judgment or ruling clearly ascertains the facts but errs in the application of law;\n(4) cases in which the original judgment seriously violates statutory procedure and requires remand for retrial."
+        },
+        "noLabel": {
+          "en": "Article 331."
+        }
+      },
+      {
+        "no": 332,
+        "text": {
+          "en": "Where the original judgment or ruling contains flaws in the ascertainment of facts or in the application of law but the outcome of the adjudication is correct, the people's court of second instance may, after correcting the flaws in the judgment or ruling, uphold it in accordance with Item 1 of Paragraph 1 of Article 177 of the Civil Procedure Law."
+        },
+        "noLabel": {
+          "en": "Article 332."
+        }
+      },
+      {
+        "no": 333,
+        "text": {
+          "en": "The basic facts as provided in Item 3 of Paragraph 1 of Article 177 of the Civil Procedure Law means the facts used to determine the qualifications of the subjects, the nature of the case, the civil rights and obligations and other matters that have a substantive effect on the outcome of the original judgment or ruling."
+        },
+        "noLabel": {
+          "en": "Article 333."
+        }
+      },
+      {
+        "no": 334,
+        "text": {
+          "en": "In the procedure of second instance, where a legal person or other organisation that is a party is divided, the people's court may directly list the legal persons or other organisations resulting from the division as joint parties to the proceedings; where it is merged, the legal person or other organisation resulting from the merger shall be listed as a party."
+        },
+        "noLabel": {
+          "en": "Article 334."
+        }
+      },
+      {
+        "no": 335,
+        "text": {
+          "en": "In the procedure of second instance, where a party applies to withdraw the appeal and the people's court, upon examination, considers that the judgment at first instance is indeed erroneous, or that the parties have colluded in bad faith to impair the interests of the State, the public interest or the lawful rights and interests of others, the withdrawal shall not be permitted."
+        },
+        "noLabel": {
+          "en": "Article 335."
+        }
+      },
+      {
+        "no": 336,
+        "text": {
+          "en": "In the procedure of second instance, where the plaintiff of the original trial applies to withdraw the action, and the other parties consent and the interests of the State, the public interest and the lawful rights and interests of others are not impaired, the people's court may permit it. Where withdrawal of the action is permitted, a ruling shall be made at the same time to revoke the judgment or ruling of first instance.\nWhere the plaintiff of the original trial brings the action again after withdrawing it in the procedure of second instance, the people's court shall not accept it."
+        },
+        "noLabel": {
+          "en": "Article 336."
+        }
+      },
+      {
+        "no": 337,
+        "text": {
+          "en": "Where the parties reach a settlement agreement in the procedure of second instance, the people's court may, upon the request of the parties, examine the settlement agreement reached by both parties and prepare a mediation statement to be served on the parties; where an application is made to withdraw the action on the ground of settlement and, upon examination, the conditions for withdrawal are met, the people's court shall permit it."
+        },
+        "noLabel": {
+          "en": "Article 337."
+        }
+      },
+      {
+        "no": 338,
+        "text": {
+          "en": "A people's court of second instance may pronounce the judgment itself, or may entrust the people's court of original trial or the people's court of the place where the parties are located to pronounce the judgment on its behalf."
+        },
+        "noLabel": {
+          "en": "Article 338."
+        }
+      },
+      {
+        "no": 339,
+        "text": {
+          "en": "A people's court trying a case on appeal against a ruling shall make a final ruling within 30 days from the date of docketing the case at second instance. Where the time limit for trial needs to be extended under special circumstances, the approval of the president of the court shall be obtained."
+        },
+        "noLabel": {
+          "en": "Article 339."
+        }
+      },
+      {
+        "no": 340,
+        "text": {
+          "en": "Litigation acts performed by a party in the procedure of first instance remain binding on that party in the procedure of second instance.\nWhere a party retracts a litigation act performed in the procedure of first instance, the people's court shall order him to explain the reasons. Where the reasons are not sustained, the retraction shall not be supported.\nXVII. Special Procedure"
+        },
+        "noLabel": {
+          "en": "Article 340."
+        }
+      },
+      {
+        "no": 341,
+        "text": {
+          "en": "In a case of declaration of disappearance or declaration of death, the people's court may, upon the request of the applicant, take charge of the property of the person whose whereabouts are unknown and designate an administrator of the property during the trial of the case. Where, after the expiry of the period of public announcement, the people's court adjudges a declaration of disappearance, it shall at the same time designate a custodian of the property of the missing person in accordance with Article 42 of the Civil Code."
+        },
+        "noLabel": {
+          "en": "Article 341."
+        }
+      },
+      {
+        "no": 342,
+        "text": {
+          "en": "Where, after the custodian of the property of a missing person has been designated by a people's court, the custodian applies to change the custodianship, the matter shall be tried by reference to the relevant provisions of the Civil Procedure Law on special procedure. Where the grounds for the application are sustained, it shall be ruled to revoke the applicant's status as custodian and a new custodian of the property shall be designated at the same time; where the grounds for the application are not sustained, it shall be ruled to reject the application.\nWhere another interested person of the missing person applies to change the custodianship, the people's court shall inform him to bring an action against the originally designated custodian as the defendant, and the case shall be tried under ordinary procedure."
+        },
+        "noLabel": {
+          "en": "Article 342."
+        }
+      },
+      {
+        "no": 343,
+        "text": {
+          "en": "Where, after a people's court has adjudged a citizen to be missing, an interested person applies to the people's court for a declaration of death of the missing person and four years have elapsed from the date of disappearance, the people's court shall accept the application; the judgment declaring the citizen missing shall serve as proof of the citizen's disappearance, and a public announcement shall still be made in the trial in accordance with Article 192 of the Civil Procedure Law."
+        },
+        "noLabel": {
+          "en": "Article 343."
+        }
+      },
+      {
+        "no": 344,
+        "text": {
+          "en": "Where several interested persons who meet the requirements of law file applications for declaration of disappearance or declaration of death, they shall be listed as joint applicants."
+        },
+        "noLabel": {
+          "en": "Article 344."
+        }
+      },
+      {
+        "no": 345,
+        "text": {
+          "en": "A public announcement seeking a person whose whereabouts are unknown shall record the following:\n(1) the respondent shall, within the prescribed period, report his specific address and means of contact to the court accepting the case; otherwise, the respondent will be declared missing or declared dead;\n(2) any person who knows the current existence of the respondent shall, within the period of public announcement, report the circumstances known to him to the court accepting the case."
+        },
+        "noLabel": {
+          "en": "Article 345."
+        }
+      },
+      {
+        "no": 346,
+        "text": {
+          "en": "Where, after a people's court has accepted a case of declaration of disappearance or declaration of death and before a judgment is made, the applicant withdraws the application, the people's court shall rule to terminate the case, unless another interested person who meets the requirements of law joins the proceedings and requests that the trial continue."
+        },
+        "noLabel": {
+          "en": "Article 346."
+        }
+      },
+      {
+        "no": 347,
+        "text": {
+          "en": "In the course of proceedings, where an interested person of a party or a relevant organisation asserts that the party cannot recognise or cannot fully recognise his own conduct and requests a declaration that the party has no capacity for civil conduct or has limited capacity for civil conduct, an application shall be filed by the interested person or relevant organisation with the people's court, and the court to which the application is made shall docket and try the case under special procedure, and the original proceedings shall be suspended."
+        },
+        "noLabel": {
+          "en": "Article 347."
+        }
+      },
+      {
+        "no": 348,
+        "text": {
+          "en": "In a case for determination that property is ownerless, where a person makes a claim to the property during the period of public announcement, the people's court shall rule to terminate the special procedure and inform the applicant to bring a separate action, which shall be tried under ordinary procedure."
+        },
+        "noLabel": {
+          "en": "Article 348."
+        }
+      },
+      {
+        "no": 349,
+        "text": {
+          "en": "Where a designated guardian refuses to accept the designation by a residents' committee, a villagers' committee or a civil affairs department, he shall raise an objection to the people's court within 30 days from the date of receipt of the notice. Where, upon trial, the court considers that the designation is not improper, it shall rule to reject the objection; where the designation is improper, it shall adjudge to revoke the designation and designate another guardian at the same time. The written judgment shall be served on the objector, the designating unit and the guardian designated by the judgment.\nWhere a relevant party directly applies to a people's court for designation of a guardian in accordance with Paragraph 1 of Article 31 of the Civil Code, the case shall be tried under special procedure and a guardian shall be designated by judgment. The written judgment shall be served on the applicant and the guardian designated by the judgment."
+        },
+        "noLabel": {
+          "en": "Article 349."
+        }
+      },
+      {
+        "no": 350,
+        "text": {
+          "en": "In a case of application for determination that a citizen has no capacity for civil conduct or has limited capacity for civil conduct, where the respondent has no close relative, the people's court may designate as agent an individual or organisation that has the consent of the residents' committee, the villagers' committee or the civil affairs department of the place of domicile of the respondent and that is willing to act as agent.\nWhere there is no agent as provided in the preceding paragraph, the residents' committee, the villagers' committee or the civil affairs department of the place of domicile of the respondent shall act as agent.\nThe agent may be one person, or two persons of the same order of succession."
+        },
+        "noLabel": {
+          "en": "Article 350."
+        }
+      },
+      {
+        "no": 351,
+        "text": {
+          "en": "An application for judicial confirmation of a mediation agreement shall be filed by both parties in person or by an agent who meets the requirements of Article 61 of the Civil Procedure Law in accordance with Article 201 of the Civil Procedure Law."
+        },
+        "noLabel": {
+          "en": "Article 351."
+        }
+      },
+      {
+        "no": 352,
+        "text": {
+          "en": "Where mediation is conducted by mediation organisations on their own initiative and two or more mediation organisations participate, the people's courts of the places where each of the mediation organisations that meet the requirements of Article 201 of the Civil Procedure Law are located shall all have jurisdiction.\nBoth parties may jointly apply to one of the people's courts with jurisdiction that meets the requirements of Article 201 of the Civil Procedure Law; where both parties jointly apply to two or more people's courts with jurisdiction, the case shall be under the jurisdiction of the people's court that dockets it first."
+        },
+        "noLabel": {
+          "en": "Article 352."
+        }
+      },
+      {
+        "no": 353,
+        "text": {
+          "en": "A party applying for judicial confirmation of a mediation agreement may do so in written or oral form. Where a party applies orally, the people's court shall record it in the transcript, and the party shall sign, affix his fingerprint or seal it."
+        },
+        "noLabel": {
+          "en": "Article 353."
+        }
+      },
+      {
+        "no": 354,
+        "text": {
+          "en": "A party applying for judicial confirmation of a mediation agreement shall submit to the people's court the mediation agreement, proof that the mediation was presided over by a mediation organisation, proof of the property rights related to the mediation agreement and other materials, and shall provide basic information such as the identity, domicile and means of contact of both parties.\nWhere a party fails to submit the above materials, the people's court shall require the party to submit them within a time limit."
+        },
+        "noLabel": {
+          "en": "Article 354."
+        }
+      },
+      {
+        "no": 355,
+        "text": {
+          "en": "Where a party applies for judicial confirmation of a mediation agreement and any of the following circumstances exists, the people's court shall rule not to accept the application:\n(1) the matter does not fall within the scope of cases accepted by people's courts;\n(2) the matter does not fall within the jurisdiction of the people's court receiving the application;\n(3) the application seeks confirmation of the invalidity, validity or dissolution of a personal relationship such as a marriage relationship, a parent-child relationship or an adoptive relationship;\n(4) the matter involves trial under other special procedure, procedure for public summons or bankruptcy procedure;\n(5) the content of the mediation agreement involves confirmation of real rights or intellectual property rights.\nWhere, after accepting an application, the people's court discovers any of the above circumstances under which the application should not be accepted, it shall rule to reject the party's application."
+        },
+        "noLabel": {
+          "en": "Article 355."
+        }
+      },
+      {
+        "no": 356,
+        "text": {
+          "en": "When examining the relevant circumstances, the people's court shall notify both parties to appear together to verify the case.\nWhere, upon examination, the people's court considers that the statements of the parties or the supporting materials provided are insufficient, incomplete or doubtful, it may require the parties to supplement their statements or supporting materials within a time limit. Where necessary, the people's court may verify the relevant circumstances with the mediation organisation."
+        },
+        "noLabel": {
+          "en": "Article 356."
+        }
+      },
+      {
+        "no": 357,
+        "text": {
+          "en": "Where a party withdraws the application before a ruling confirming the mediation agreement is made, the people's court may rule to permit it.\nWhere a party, without justified reasons, fails to supplement its statements or supporting materials within the time limit or refuses to accept inquiry, the people's court may treat the application as withdrawn."
+        },
+        "noLabel": {
+          "en": "Article 357."
+        }
+      },
+      {
+        "no": 358,
+        "text": {
+          "en": "Where, upon examination, the mediation agreement falls under any of the following circumstances, the people's court shall rule to reject the application:\n(1) it violates mandatory provisions of law;\n(2) it impairs the interests of the State, the public interest or the lawful rights and interests of others;\n(3) it is contrary to public order and good morals;\n(4) it violates the principle of voluntariness;\n(5) its content is unclear;\n(6) there are other circumstances under which judicial confirmation cannot be made."
+        },
+        "noLabel": {
+          "en": "Article 358."
+        }
+      },
+      {
+        "no": 359,
+        "text": {
+          "en": "The holder of a security interest as provided in Article 203 of the Civil Procedure Law includes a mortgagee, a pledgee and a lien holder; other persons entitled to request realisation of a security interest include the mortgagor, the pledgor, the debtor whose property is subject to a lien, and the owner."
+        },
+        "noLabel": {
+          "en": "Article 359."
+        }
+      },
+      {
+        "no": 360,
+        "text": {
+          "en": "A case for realisation of a pledge of rights in instruments, warehouse receipts, bills of lading or other rights evidenced by a certificate of rights may be under the jurisdiction of the people's court of the place of domicile of the holder of the certificate of rights; a pledge of rights without a certificate of rights shall be under the jurisdiction of the people's court of the place where the pledge is registered."
+        },
+        "noLabel": {
+          "en": "Article 360."
+        }
+      },
+      {
+        "no": 361,
+        "text": {
+          "en": "Where a case for realisation of a security interest falls within the jurisdiction of a special people's court such as a maritime court, it shall be under the jurisdiction of the special people's court."
+        },
+        "noLabel": {
+          "en": "Article 361."
+        }
+      },
+      {
+        "no": 362,
+        "text": {
+          "en": "Where there are multiple things securing the same claim and they are located in different places, and the applicant separately applies to the people's courts with jurisdiction for realisation of the security interest, the people's courts shall accept the applications in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 362."
+        }
+      },
+      {
+        "no": 363,
+        "text": {
+          "en": "In accordance with Article 392 of the Civil Code, where a secured claim is secured both by a security in property and by a personal surety, and the parties have agreed on the order of realisation of the security interest, an application for realisation of the security interest that violates such agreement shall be ruled not to be accepted by the people's court; where there is no agreement or the agreement is unclear, the people's court shall accept the application."
+        },
+        "noLabel": {
+          "en": "Article 363."
+        }
+      },
+      {
+        "no": 364,
+        "text": {
+          "en": "Where multiple security interests are created over the same property and the security interest registered first has not yet been realised, this does not affect the holder of a security interest of a later order in applying to the people's court for realisation of the security interest."
+        },
+        "noLabel": {
+          "en": "Article 364."
+        }
+      },
+      {
+        "no": 365,
+        "text": {
+          "en": "An application for realisation of a security interest shall be accompanied by the following materials:\n(1) an application, which shall state the names and means of contact and other basic information of the applicant and the respondent, and the specific request, facts and reasons;\n(2) materials proving the existence of the security interest, including the principal contract, the security contract, the certificate of mortgage registration or the certificate of other rights, and, for a pledge of rights, the certificate of rights or the certificate of pledge registration;\n(3) materials proving that the conditions for realisation of the security interest have been satisfied;\n(4) a statement of the current condition of the secured property;\n(5) other materials that the people's court considers necessary to be submitted."
+        },
+        "noLabel": {
+          "en": "Article 365."
+        }
+      },
+      {
+        "no": 366,
+        "text": {
+          "en": "After accepting an application, the people's court shall, within five days, serve on the respondent a copy of the application, a notice of the right to object and other documents.\nWhere the respondent has an objection, he shall raise it with the people's court within five days after receipt of the notice of the people's court, stating the reasons and providing the corresponding evidentiary materials at the same time."
+        },
+        "noLabel": {
+          "en": "Article 366."
+        }
+      },
+      {
+        "no": 367,
+        "text": {
+          "en": "A case for realisation of a security interest may be examined by a single judge alone. Where the amount of the subject matter of the secured property exceeds the scope of jurisdiction of a basic people's court, a collegial panel shall be formed to conduct the examination."
+        },
+        "noLabel": {
+          "en": "Article 367."
+        }
+      },
+      {
+        "no": 368,
+        "text": {
+          "en": "In examining a case for realisation of a security interest, the people's court may question the applicant, the respondent and interested persons, and may ex officio investigate the relevant facts where necessary."
+        },
+        "noLabel": {
+          "en": "Article 368."
+        }
+      },
+      {
+        "no": 369,
+        "text": {
+          "en": "The people's court shall examine such matters as the validity, term and performance of the principal contract, whether the security interest has been validly created, the scope of the secured property, the scope of the secured claim, whether the secured claim has fallen due and other conditions for realisation of the security interest, and whether the lawful rights and interests of others are impaired.\nWhere the respondent or an interested person raises an objection, the people's court shall examine it together."
+        },
+        "noLabel": {
+          "en": "Article 369."
+        }
+      },
+      {
+        "no": 370,
+        "text": {
+          "en": "After examination, the people's court shall deal with the matter respectively according to the following circumstances:\n(1) where the parties have no substantive dispute over the realisation of the security interest and the conditions for realisation of the security interest have been satisfied, it shall rule to permit the auction or sale of the secured property;\n(2) where the parties have a partial substantive dispute over the realisation of the security interest, it may rule to permit the auction or sale of the secured property in respect of the part not in dispute;\n(3) where the parties have a substantive dispute over the realisation of the security interest, it shall rule to reject the application and inform the applicant to bring an action before a people's court."
+        },
+        "noLabel": {
+          "en": "Article 370."
+        }
+      },
+      {
+        "no": 371,
+        "text": {
+          "en": "Where, after the people's court accepts an application, the applicant applies for preservation of the secured property, the matter may be handled in accordance with the provisions of the Civil Procedure Law on litigation preservation."
+        },
+        "noLabel": {
+          "en": "Article 371."
+        }
+      },
+      {
+        "no": 372,
+        "text": {
+          "en": "Where a party or an interested person considers that a judgment or ruling made under special procedure is erroneous, he may raise an objection with the people's court that made the judgment or ruling. Where, upon examination, the people's court considers that the objection is sustained or partly sustained, it shall make a new judgment or ruling to revoke or alter the original judgment or ruling; where the objection is not sustained, it shall rule to reject it.\nWhere a party has an objection to a ruling of a people's court confirming a mediation agreement or permitting realisation of a security interest, he shall raise it within 15 days from the date of receipt of the ruling; where an interested person has an objection, he shall raise it within six months from the date on which he knew or ought to have known that his civil rights and interests were impaired.\nXVIII. Procedure for Trial Supervision"
+        },
+        "noLabel": {
+          "en": "Article 372."
+        }
+      },
+      {
+        "no": 373,
+        "text": {
+          "en": "Where a party dies or terminates, the successor to his rights and obligations may apply for a retrial in accordance with Article 206 and Article 208 of the Civil Procedure Law.\nWhere, after a judgment or mediation statement takes effect, a party transfers the claim confirmed by the judgment or mediation statement and the assignee of the claim refuses to accept the judgment or mediation statement and applies for a retrial, the people's court shall not accept the application."
+        },
+        "noLabel": {
+          "en": "Article 373."
+        }
+      },
+      {
+        "no": 374,
+        "text": {
+          "en": "The party with a large number of persons as provided in Article 206 of the Civil Procedure Law includes citizens, legal persons and other organisations.\nA case in which both parties are citizens as provided in Article 206 of the Civil Procedure Law means a case in which both the plaintiff and the defendant are citizens."
+        },
+        "noLabel": {
+          "en": "Article 374."
+        }
+      },
+      {
+        "no": 375,
+        "text": {
+          "en": "A party applying for a retrial shall submit the following materials:\n(1) an application for retrial, together with copies submitted according to the number of the respondent and the other parties to the original trial;\n(2) where the applicant for retrial is a natural person, proof of identity; where the applicant for retrial is a legal person or other organisation, a business licence, a certificate of organisation code, and a certificate of identity of the legal representative or principal person in charge. Where another person is entrusted to apply on his behalf, a power of attorney and proof of identity of the agent shall be submitted;\n(3) the written judgment, ruling and mediation statement of the original trial;\n(4) the main evidence reflecting the basic facts of the case and other materials.\nThe materials provided in Items 2, 3 and 4 of the preceding paragraph may be photocopies verified as identical with the originals."
+        },
+        "noLabel": {
+          "en": "Article 375."
+        }
+      },
+      {
+        "no": 376,
+        "text": {
+          "en": "An application for retrial shall record the following matters:\n(1) the basic information of the applicant for retrial, the respondent and the other parties to the original trial;\n(2) the name of the people's court of original trial and the case number of the original adjudicative document;\n(3) the specific request for retrial;\n(4) the statutory circumstances for applying for a retrial and the specific facts and reasons.\nThe application for retrial shall clearly identify the people's court to which the application is made, and shall be signed, fingerprinted or sealed by the applicant for retrial."
+        },
+        "noLabel": {
+          "en": "Article 376."
+        }
+      },
+      {
+        "no": 377,
+        "text": {
+          "en": "In a case in which one party has a large number of persons or both parties are citizens, where the parties separately apply for a retrial to the people's court of original trial and to the people's court at the next higher level and cannot reach agreement through consultation, the people's court of original trial shall accept the application."
+        },
+        "noLabel": {
+          "en": "Article 377."
+        }
+      },
+      {
+        "no": 378,
+        "text": {
+          "en": "In a case tried under special procedure, procedure for hastening debt recovery, procedure for public summons, bankruptcy procedure or other non-contentious procedure, a party may not apply for a retrial."
+        },
+        "noLabel": {
+          "en": "Article 378."
+        }
+      },
+      {
+        "no": 379,
+        "text": {
+          "en": "Where a party considers that an effective ruling not to accept a case or ruling rejecting an action is erroneous, he may apply for a retrial."
+        },
+        "noLabel": {
+          "en": "Article 379."
+        }
+      },
+      {
+        "no": 380,
+        "text": {
+          "en": "Where a party applies for a retrial on the issue of division of property in a divorce case, if the matter involves property already divided in the judgment, the people's court shall examine it in accordance with Article 207 of the Civil Procedure Law, and shall rule for a retrial where the conditions for retrial are met; if the matter involves community property of the spouses not dealt with in the judgment, the party shall be informed to bring a separate action."
+        },
+        "noLabel": {
+          "en": "Article 380."
+        }
+      },
+      {
+        "no": 381,
+        "text": {
+          "en": "Where a party applies for a retrial and any of the following circumstances exists, the people's court shall not accept the application:\n(1) the application is filed again after a previous application for retrial has been rejected;\n(2) the application is filed against a judgment or ruling made in a retrial;\n(3) the application is filed after a people's procuratorate has decided not to make a procuratorial recommendation for retrial or not to lodge a protest against the party's application.\nIn the circumstances provided in Items 1 and 2 of the preceding paragraph, the people's court shall inform the party that he may apply to a people's procuratorate for a procuratorial recommendation for retrial or for a protest, except where the judgment or ruling is made in a retrial conducted because a people's procuratorate made a procuratorial recommendation for retrial or lodged a protest."
+        },
+        "noLabel": {
+          "en": "Article 381."
+        }
+      },
+      {
+        "no": 382,
+        "text": {
+          "en": "Where a party applies for a retrial of a mediation statement that has already taken effect in law, the application shall be filed within six months after the mediation statement takes effect in law."
+        },
+        "noLabel": {
+          "en": "Article 382."
+        }
+      },
+      {
+        "no": 383,
+        "text": {
+          "en": "The people's court shall, within five days from the date of receipt of a qualifying application for retrial and other materials, send a notice of acceptance to the applicant for retrial, and send a notice to respond to the action, a copy of the application for retrial and other materials to the respondent and the other parties to the original trial."
+        },
+        "noLabel": {
+          "en": "Article 383."
+        }
+      },
+      {
+        "no": 384,
+        "text": {
+          "en": "After accepting a case of application for retrial, the people's court shall, in accordance with Article 207, Article 208 and Article 211 of the Civil Procedure Law, examine the grounds for retrial asserted by the party."
+        },
+        "noLabel": {
+          "en": "Article 384."
+        }
+      },
+      {
+        "no": 385,
+        "text": {
+          "en": "Where new evidence provided by the applicant for retrial can prove that the basic facts ascertained or the outcome of the adjudication in the original judgment or ruling are erroneous, it shall be determined to be a circumstance provided in Item 1 of Article 207 of the Civil Procedure Law.\nFor evidence that meets the requirements of the preceding paragraph, the people's court shall order the applicant for retrial to explain the reasons for providing it after the time limit; where he refuses to explain the reasons or the reasons are not sustained, the matter shall be dealt with in accordance with Paragraph 2 of Article 68 of the Civil Procedure Law and Article 102 of these Interpretations."
+        },
+        "noLabel": {
+          "en": "Article 385."
+        }
+      },
+      {
+        "no": 386,
+        "text": {
+          "en": "Where the applicant for retrial proves that the new evidence submitted meets any of the following circumstances, the reasons for providing evidence after the time limit may be determined to be sustained:\n(1) the evidence already existed before the conclusion of the hearing of the original trial but was discovered only after the conclusion of the hearing for objective reasons;\n(2) the evidence was already discovered before the conclusion of the hearing of the original trial but could not be obtained or could not be provided within the prescribed time limit for objective reasons;\n(3) the evidence was formed after the conclusion of the hearing of the original trial and no separate action can be brought on the basis of it.\nWhere evidence submitted by the applicant for retrial was already provided in the original trial but the people's court of original trial did not organise cross-examination of it and did not use it as the basis of adjudication, the reasons for providing evidence after the time limit shall be deemed sustained, unless the people's court of original trial refused to admit it in accordance with Article 68 of the Civil Procedure Law."
+        },
+        "noLabel": {
+          "en": "Article 386."
+        }
+      },
+      {
+        "no": 387,
+        "text": {
+          "en": "Where a party, in the original trial, refused to express an opinion in cross-examination on the main evidence on which the original judgment or ruling ascertains the facts, or did not express an opinion on the evidence in cross-examination, this does not constitute the circumstance of evidence not having been cross-examined as provided in Item 4 of Article 207 of the Civil Procedure Law."
+        },
+        "noLabel": {
+          "en": "Article 387."
+        }
+      },
+      {
+        "no": 388,
+        "text": {
+          "en": "Where any of the following circumstances leads to an erroneous outcome in a judgment or ruling, it shall be determined that the original judgment or ruling is indeed erroneous in the application of law as provided in Item 6 of Article 207 of the Civil Procedure Law:\n(1) the law applied is manifestly inconsistent with the nature of the case;\n(2) the determination of civil liability manifestly contravenes the agreement of the parties or the provisions of law;\n(3) a law that has ceased to be effective or has not yet come into force is applied;\n(4) the provisions on the retroactive effect of law are violated;\n(5) the rules on the application of law are violated;\n(6) the legislative intent is manifestly contravened."
+        },
+        "noLabel": {
+          "en": "Article 388."
+        }
+      },
+      {
+        "no": 389,
+        "text": {
+          "en": "Where any of the following circumstances exists in the hearing of the original trial, it shall be determined to be a deprivation of the party's right to debate as provided in Item 9 of Article 207 of the Civil Procedure Law:\n(1) the party is not permitted to express opinions in debate;\n(2) the case should have been tried at a hearing but was not tried at a hearing;\n(3) a copy of the statement of claim or a copy of the petition of appeal was served in violation of the provisions of law, so that the party was unable to exercise his right to debate;\n(4) other circumstances in which the party's right to debate was unlawfully deprived."
+        },
+        "noLabel": {
+          "en": "Article 389."
+        }
+      },
+      {
+        "no": 390,
+        "text": {
+          "en": "The claims as provided in Item 11 of Article 207 of the Civil Procedure Law include the claims at first instance and the claims raised in the appeal at second instance, except where the party did not appeal against the omission of a claim or the inclusion of a claim beyond the scope of the claims in the judgment or ruling at first instance."
+        },
+        "noLabel": {
+          "en": "Article 390."
+        }
+      },
+      {
+        "no": 391,
+        "text": {
+          "en": "The legal documents as provided in Item 12 of Article 207 of the Civil Procedure Law include:\n(1) effective written judgments, rulings and mediation statements;\n(2) effective arbitral awards;\n(3) notarial instruments of debt with the force of compulsory execution."
+        },
+        "noLabel": {
+          "en": "Article 391."
+        }
+      },
+      {
+        "no": 392,
+        "text": {
+          "en": "The circumstance provided in Item 13 of Article 207 of the Civil Procedure Law, namely that a judicial officer committed embezzlement, accepted bribes, practised favouritism and irregularities or perverted the law in adjudication when trying the case, means conduct that has already been confirmed by an effective criminal legal document or a decision on disciplinary sanction."
+        },
+        "noLabel": {
+          "en": "Article 392."
+        }
+      },
+      {
+        "no": 393,
+        "text": {
+          "en": "Where the grounds for retrial asserted by the party are sustained and the conditions for applying for a retrial provided in the Civil Procedure Law and these Interpretations are met, the people's court shall rule for a retrial.\nWhere the grounds for retrial asserted by the party are not sustained, or where the party's application for a retrial exceeds the statutory time limit for applying for a retrial, goes beyond the statutory scope of grounds for retrial or otherwise fails to meet the conditions for applying for a retrial provided in the Civil Procedure Law and these Interpretations, the people's court shall rule to reject the application for retrial."
+        },
+        "noLabel": {
+          "en": "Article 393."
+        }
+      },
+      {
+        "no": 394,
+        "text": {
+          "en": "Where a people's court decides in accordance with law to retry an effective judgment, ruling or mediation statement and, in accordance with Article 213 of the Civil Procedure Law, needs to suspend execution, it shall at the same time state in the ruling for retrial that execution of the original judgment, ruling or mediation statement is suspended; where the circumstances are urgent, it may orally notify the people's court responsible for execution of the ruling to suspend execution, and shall issue the written ruling within ten days after the notification."
+        },
+        "noLabel": {
+          "en": "Article 394."
+        }
+      },
+      {
+        "no": 395,
+        "text": {
+          "en": "The people's court shall decide whether to question the parties according to the needs of examining the case. Where new evidence may overturn the original judgment or ruling, the people's court shall question the parties."
+        },
+        "noLabel": {
+          "en": "Article 395."
+        }
+      },
+      {
+        "no": 396,
+        "text": {
+          "en": "During the examination of an application for retrial, where the respondent and the other parties to the original trial apply for a retrial in accordance with law, the people's court shall list them as applicants for retrial, examine their grounds for retrial together, and recalculate the time limit for examination. Where, upon examination, the grounds for retrial asserted by one of the applicants for retrial are sustained, it shall rule for a retrial. Where the grounds for retrial asserted by all the applicants for retrial are not sustained, it shall rule to reject the applications for retrial together."
+        },
+        "noLabel": {
+          "en": "Article 396."
+        }
+      },
+      {
+        "no": 397,
+        "text": {
+          "en": "During the examination of an application for retrial, where the applicant for retrial applies to the people's court to entrust appraisal or inspection, the people's court shall not permit it."
+        },
+        "noLabel": {
+          "en": "Article 397."
+        }
+      },
+      {
+        "no": 398,
+        "text": {
+          "en": "During the examination of an application for retrial, where the applicant for retrial withdraws the application for retrial, whether to permit it shall be ruled on by the people's court.\nWhere the applicant for retrial, having been summoned by summons, refuses to accept questioning without justified reasons, the application for retrial may be treated as withdrawn."
+        },
+        "noLabel": {
+          "en": "Article 398."
+        }
+      },
+      {
+        "no": 399,
+        "text": {
+          "en": "Where, after a people's court permits the withdrawal of an application for retrial or treats an application for retrial as withdrawn, the applicant for retrial applies for a retrial again, the application shall not be accepted, except where it is filed within six months from the date on which he knew or ought to have known of a circumstance provided in Items 1, 3, 12 and 13 of Article 207 of the Civil Procedure Law."
+        },
+        "noLabel": {
+          "en": "Article 399."
+        }
+      },
+      {
+        "no": 400,
+        "text": {
+          "en": "During the examination of an application for retrial, where any of the following circumstances exists, it shall be ruled to terminate the examination:\n(1) the applicant for retrial dies or terminates, and there is no successor to his rights and obligations, or the successor to his rights and obligations declares that he waives the application for retrial;\n(2) in an action for payment, the respondent who bears an obligation to pay dies or terminates, there is no property available for execution and there is no person who should assume the obligation;\n(3) the parties have reached a settlement agreement and have fully performed it, unless the parties declared in the settlement agreement that they would not waive the right to apply for a retrial;\n(4) another person applies for a retrial in the name of a party without authorisation;\n(5) the people's court of original trial or the people's court at the next higher level has already ruled for a retrial;\n(6) a circumstance provided in Paragraph 1 of Article 381 of these Interpretations exists."
+        },
+        "noLabel": {
+          "en": "Article 400."
+        }
+      },
+      {
+        "no": 401,
+        "text": {
+          "en": "A people's court trying a case of retrial shall form a collegial panel and hold a hearing, unless the case is tried under the procedure of second instance and, under special circumstances, or where both parties have already fully expressed their opinions through other means and have agreed in writing not to hold a hearing, this is not required.\nWhere the conditions for a default judgment are met, a default judgment may be made."
+        },
+        "noLabel": {
+          "en": "Article 401."
+        }
+      },
+      {
+        "no": 402,
+        "text": {
+          "en": "Where a people's court holds a hearing to try a case of retrial, the proceedings shall be conducted respectively according to the following circumstances:\n(1) where the retrial is conducted upon the application of a party, the applicant for retrial shall first state the request for retrial and the reasons, after which the respondent shall respond and the other parties to the original trial shall express their opinions;\n(2) where the retrial is conducted on the basis of a protest, the protesting organ shall first read out the written protest, then the party applying for the protest shall make a statement, after which the respondent shall respond and the other parties to the original trial shall express their opinions;\n(3) where the people's court conducts a retrial ex officio and there is a complainant, the complainant shall first state the request for retrial and the reasons, after which the person complained against shall respond and the other parties to the original trial shall express their opinions;\n(4) where the people's court conducts a retrial ex officio and there is no complainant, the plaintiff or appellant of the original trial shall first make a statement, after which the other parties to the original trial shall express their opinions.\nIn the circumstances provided in Items 1 to 3 of the preceding paragraph, the people's court shall require the parties to clarify their requests for retrial."
+        },
+        "noLabel": {
+          "en": "Article 402."
+        }
+      },
+      {
+        "no": 403,
+        "text": {
+          "en": "A people's court trying a case of retrial shall focus on the request for retrial. Where a party's request for retrial exceeds the claims of the original trial, it shall not be tried; where the conditions for a separate action are met, the party shall be informed that he may bring a separate action.\nWhere a request for retrial raised by the respondent and the other parties to the original trial before the conclusion of the debate at the hearing meets the requirements of Article 212 of the Civil Procedure Law, the people's court shall try it together.\nWhere, upon retrial, the people's court discovers that the effective judgment or ruling impairs the interests of the State, the public interest or the lawful rights and interests of others, it shall try the matter together."
+        },
+        "noLabel": {
+          "en": "Article 403."
+        }
+      },
+      {
+        "no": 404,
+        "text": {
+          "en": "During the retrial, where any of the following circumstances exists, it may be ruled to terminate the retrial procedure:\n(1) the applicant for retrial withdraws the request for retrial during the retrial and the people's court permits it;\n(2) the applicant for retrial, having been summoned by summons, refuses to appear in court without justified reasons, or leaves the court midway without the permission of the court, and the request for retrial is treated as withdrawn;\n(3) the people's procuratorate withdraws the protest;\n(4) a circumstance provided in Items 1 to 4 of Paragraph 1 of Article 400 of these Interpretations exists.\nWhere, in a case in which a retrial is ruled because a people's procuratorate lodged a protest, the party applying for the protest falls under a circumstance provided in the preceding paragraph and the interests of the State, the public interest or the lawful rights and interests of others are not impaired, the people's court shall rule to terminate the retrial procedure.\nAfter the retrial procedure is terminated, the original effective judgment whose execution was suspended by the ruling of the people's court shall automatically resume execution."
+        },
+        "noLabel": {
+          "en": "Article 404."
+        }
+      },
+      {
+        "no": 405,
+        "text": {
+          "en": "Where, upon retrial, the people's court considers that the original judgment or ruling clearly ascertains the facts and correctly applies the law, it shall uphold it; where the original judgment or ruling contains flaws in the ascertainment of facts or in the application of law but the outcome of the adjudication is correct, it shall uphold it after correcting the flaws in the judgment or ruling of retrial.\nWhere the original judgment or ruling errs in the ascertainment of facts or in the application of law and thereby causes an erroneous outcome, it shall be amended, revoked or altered in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 405."
+        }
+      },
+      {
+        "no": 406,
+        "text": {
+          "en": "In a case retried under the procedure of second instance, where the people's court, upon trial, considers that the conditions for bringing an action provided in the Civil Procedure Law are not met or that a circumstance provided in Article 127 of the Civil Procedure Law under which the action should not be accepted exists, it shall rule to revoke the judgments of the first and second instances and reject the action."
+        },
+        "noLabel": {
+          "en": "Article 406."
+        }
+      },
+      {
+        "no": 407,
+        "text": {
+          "en": "After ruling for a retrial of a mediation statement, the people's court shall deal with the matter respectively according to the following circumstances:\n(1) where the ground asserted by the party that the mediation violated the principle of voluntariness is not sustained and the content of the mediation statement does not violate mandatory provisions of law, it shall rule to reject the application for retrial;\n(2) where the ground asserted in the protest of the people's procuratorate or in the procuratorial recommendation for retrial, namely that the interests of the State or the public interest are impaired, is not sustained, it shall rule to terminate the retrial procedure.\nIn the circumstances provided in the preceding paragraph, where a mediation statement whose execution was suspended by a ruling of the people's court needs to continue to be executed, execution shall automatically resume."
+        },
+        "noLabel": {
+          "en": "Article 407."
+        }
+      },
+      {
+        "no": 408,
+        "text": {
+          "en": "Where the plaintiff of the first instance applies to withdraw the action in the procedure of retrial and the other parties consent and the interests of the State, the public interest and the lawful rights and interests of others are not impaired, the people's court may permit it. Where a ruling is made permitting the withdrawal of the action, the original judgment shall be revoked at the same time.\nWhere the plaintiff of the first instance brings the action again after withdrawing it in the procedure of retrial, the people's court shall not accept it."
+        },
+        "noLabel": {
+          "en": "Article 408."
+        }
+      },
+      {
+        "no": 409,
+        "text": {
+          "en": "Where new evidence submitted by a party causes the judgment to be changed on retrial and, through the fault of the applicant for retrial or of the party applying for procuratorial supervision, the evidence could not be adduced in time in the original procedure, and the respondent or another party requests compensation for the necessary expenses thereby increased, such as transportation, accommodation, meals and loss of working time, the people's court shall support the request."
+        },
+        "noLabel": {
+          "en": "Article 409."
+        }
+      },
+      {
+        "no": 410,
+        "text": {
+          "en": "Where some parties appear in court and reach a mediation agreement while the other parties have not made a written statement, the people's court shall state this fact in the judgment; where the content of the mediation agreement does not violate the provisions of law and does not impair the lawful rights and interests of the other parties, it may be confirmed in the operative part of the judgment."
+        },
+        "noLabel": {
+          "en": "Article 410."
+        }
+      },
+      {
+        "no": 411,
+        "text": {
+          "en": "Where a people's procuratorate lodges a protest in accordance with law against an effective judgment, ruling or mediation statement that impairs the interests of the State or the public interest, or makes a procuratorial recommendation for retrial upon discussion and decision of the procuratorial committee of the people's procuratorate, the people's court shall accept it."
+        },
+        "noLabel": {
+          "en": "Article 411."
+        }
+      },
+      {
+        "no": 412,
+        "text": {
+          "en": "Where a people's procuratorate lodges a protest in accordance with law against an effective judgment and against a ruling not to accept a case or ruling rejecting an action, the people's court shall accept it, except for judgments and rulings to which the procedure for trial supervision does not apply, such as judgments and rulings made under special procedure, procedure for hastening debt recovery, procedure for public summons or bankruptcy procedure, and judgments and rulings dissolving a marriage relationship."
+        },
+        "noLabel": {
+          "en": "Article 412."
+        }
+      },
+      {
+        "no": 413,
+        "text": {
+          "en": "Where a people's procuratorate lodges a protest or makes a procuratorial recommendation for retrial in accordance with Item 3 of Paragraph 1 of Article 216 of the Civil Procedure Law against a judgment or ruling in a retrial that is manifestly erroneous, the people's court shall accept it."
+        },
+        "noLabel": {
+          "en": "Article 413."
+        }
+      },
+      {
+        "no": 414,
+        "text": {
+          "en": "Where a people's procuratorate at any local level, upon the application of a party, makes a procuratorial recommendation for retrial to the people's court at the same level against an effective judgment or ruling, and the following conditions are met, it shall be accepted:\n(1) the written procuratorial recommendation for retrial, the application of the party to the original trial and the relevant evidentiary materials have been submitted;\n(2) the subject of the recommended retrial is a judgment or ruling that may be retried in accordance with the Civil Procedure Law and these Interpretations;\n(3) the written procuratorial recommendation for retrial states that the judgment or ruling falls under a circumstance provided in Paragraph 2 of Article 215 of the Civil Procedure Law;\n(4) a circumstance provided in Items 1 and 2 of Paragraph 1 of Article 216 of the Civil Procedure Law is met;\n(5) the procuratorial recommendation for retrial has been discussed and decided by the procuratorial committee of that people's procuratorate.\nWhere the preceding paragraph is not met, the people's court may recommend that the people's procuratorate supplement or correct the matter or withdraw it; where it is not supplemented or corrected or withdrawn, the people's court shall notify the people's procuratorate in writing that it will not accept it."
+        },
+        "noLabel": {
+          "en": "Article 414."
+        }
+      },
+      {
+        "no": 415,
+        "text": {
+          "en": "Where a people's procuratorate lodges a protest upon the application of a party against an effective judgment or ruling and the following conditions are met, the people's court shall rule for a retrial within 30 days:\n(1) the written protest, the application of the party to the original trial and the relevant evidentiary materials have been submitted;\n(2) the subject of the protest is a judgment or ruling that may be retried in accordance with the Civil Procedure Law and these Interpretations;\n(3) the written protest states that the judgment or ruling falls under a circumstance provided in Paragraph 1 of Article 215 of the Civil Procedure Law;\n(4) a circumstance provided in Items 1 and 2 of Paragraph 1 of Article 216 of the Civil Procedure Law is met.\nWhere the preceding paragraph is not met, the people's court may recommend that the people's procuratorate supplement or correct the matter or withdraw it; where it is not supplemented or corrected or withdrawn, the people's court may rule not to accept it."
+        },
+        "noLabel": {
+          "en": "Article 415."
+        }
+      },
+      {
+        "no": 416,
+        "text": {
+          "en": "Where, after a party's application for retrial has been rejected by a ruling of a people's court at a higher level, a people's procuratorate lodges a protest against the original judgment, ruling or mediation statement and the ground for the protest falls under any of the circumstances provided in Items 1 to 5 of Article 207 of the Civil Procedure Law, the people's court accepting the protest may refer the case to the people's court at the next lower level for retrial."
+        },
+        "noLabel": {
+          "en": "Article 416."
+        }
+      },
+      {
+        "no": 417,
+        "text": {
+          "en": "After receiving a procuratorial recommendation for retrial, the people's court shall form a collegial panel and conduct an examination within three months; where it discovers that the original judgment, ruling or mediation statement is indeed erroneous and requires a retrial, it shall rule for a retrial in accordance with Article 205 of the Civil Procedure Law and notify the parties; where, upon examination, it decides not to retry the case, it shall reply to the people's procuratorate in writing."
+        },
+        "noLabel": {
+          "en": "Article 417."
+        }
+      },
+      {
+        "no": 418,
+        "text": {
+          "en": "A people's court trying a case in which a retrial is ruled because of a protest lodged by a people's procuratorate or a procuratorial recommendation shall not be affected by a previously made ruling rejecting the party's application for retrial."
+        },
+        "noLabel": {
+          "en": "Article 418."
+        }
+      },
+      {
+        "no": 419,
+        "text": {
+          "en": "Where a people's court holds a hearing to try a case of protest, it shall notify the people's procuratorate, the parties and the other participants in the proceedings three days before the hearing. The people's procuratorate at the same level or the people's procuratorate that lodged the protest shall send personnel to appear in court.\nThe circumstances investigated and verified by a people's procuratorate with a party or a person not a party to the case in the performance of its duties of legal supervision shall be submitted to the court and explained, and shall be subject to cross-examination by both parties."
+        },
+        "noLabel": {
+          "en": "Article 419."
+        }
+      },
+      {
+        "no": 420,
+        "text": {
+          "en": "Where a party who must participate in joint proceedings did not participate in the proceedings for reasons not attributable to himself or to his agent ad litem, he may, in accordance with Item 8 of Article 207 of the Civil Procedure Law, apply for a retrial within six months from the date on which he knew or ought to have known of the matter, except where a circumstance provided in Article 421 of these Interpretations exists.\nWhere a people's court rules for a retrial upon the application of a party as provided in the preceding paragraph and the case is retried under the procedure of first instance, it shall add him as a party and make a new judgment or ruling; where the case is retried under the procedure of second instance and no agreement can be reached through mediation, it shall revoke the original judgment or ruling and remand the case for retrial, and he shall be added as a party in the retrial."
+        },
+        "noLabel": {
+          "en": "Article 420."
+        }
+      },
+      {
+        "no": 421,
+        "text": {
+          "en": "In accordance with Article 234 of the Civil Procedure Law, where a person not a party to the case refuses to accept a ruling rejecting his objection to execution and considers that the content of the original judgment, ruling or mediation statement is erroneous and impairs his civil rights and interests, he may, within six months from the date of service of the ruling on the objection to execution, apply to the people's court that made the original judgment, ruling or mediation statement for a retrial."
+        },
+        "noLabel": {
+          "en": "Article 421."
+        }
+      },
+      {
+        "no": 422,
+        "text": {
+          "en": "In accordance with Article 234 of the Civil Procedure Law, where, after the people's court rules for a retrial, the person not a party to the case is a party to a necessary joint action, the matter shall be dealt with in accordance with Paragraph 2 of Article 420 of these Interpretations.\nWhere the person not a party to the case is not a party to a necessary joint action, the people's court shall try only the content of the original judgment, ruling or mediation statement that impairs his civil rights and interests. Where, upon trial, the request for retrial is sustained, the original judgment, ruling or mediation statement shall be revoked or altered; where the request for retrial is not sustained, the original judgment, ruling or mediation statement shall be upheld."
+        },
+        "noLabel": {
+          "en": "Article 422."
+        }
+      },
+      {
+        "no": 423,
+        "text": {
+          "en": "Article 338 of these Interpretations applies to the procedure for trial supervision."
+        },
+        "noLabel": {
+          "en": "Article 423."
+        }
+      },
+      {
+        "no": 424,
+        "text": {
+          "en": "Where, in respect of a judgment or ruling in a small claim case, a party applies to the people's court of original trial for a retrial on a ground provided in Article 207 of the Civil Procedure Law, the people's court shall accept the application. Where the ground for the application for retrial is sustained, it shall rule for a retrial and form a collegial panel to conduct the trial. The party may not appeal against the judgment or ruling made in the retrial.\nWhere a party applies to the people's court of original trial for a retrial on the ground that the case should not have been tried as a small claim case, the people's court shall accept the application. Where the ground is sustained, it shall rule for a retrial and form a collegial panel to conduct the trial. The party may appeal against the judgment or ruling made in the retrial.\nXIX. Procedure for Hastening Debt Recovery"
+        },
+        "noLabel": {
+          "en": "Article 424."
+        }
+      },
+      {
+        "no": 425,
+        "text": {
+          "en": "Where two or more people's courts all have jurisdiction, the creditor may apply to one of the basic people's courts for an order for payment.\nWhere a creditor applies to two or more basic people's courts with jurisdiction for an order for payment, the case shall be under the jurisdiction of the people's court that dockets it first."
+        },
+        "noLabel": {
+          "en": "Article 425."
+        }
+      },
+      {
+        "no": 426,
+        "text": {
+          "en": "After receiving a creditor's application for an order for payment, where the people's court considers that the application does not meet the requirements, it may notify the creditor to supplement or correct it within a time limit. The people's court shall, within five days from the date of receipt of the supplemented or corrected materials, notify the creditor whether it accepts the application."
+        },
+        "noLabel": {
+          "en": "Article 426."
+        }
+      },
+      {
+        "no": 427,
+        "text": {
+          "en": "Where a creditor applies for an order for payment and the following conditions are met, the basic people's court shall accept the application and notify the creditor within five days after receipt of the application:\n(1) the request is for payment of money or of negotiable instruments such as bills of exchange, promissory notes, cheques, shares, bonds, treasury bonds and transferable deposit receipts;\n(2) the money or negotiable instruments requested to be paid have fallen due and the amount is definite, and the facts and evidence on which the request is based are stated;\n(3) the creditor bears no obligation of counter-performance;\n(4) the debtor is within the territory of China and his whereabouts are not unknown;\n(5) the order for payment can be served on the debtor;\n(6) the people's court receiving the application has jurisdiction;\n(7) the creditor has not applied to a people's court for pre-litigation preservation.\nWhere the preceding paragraph is not met, the people's court shall, within five days after receipt of the application for an order for payment, notify the creditor that it will not accept the application.\nThe acceptance by a basic people's court of an application for an order for payment is not limited by the amount of the claim."
+        },
+        "noLabel": {
+          "en": "Article 427."
+        }
+      },
+      {
+        "no": 428,
+        "text": {
+          "en": "After the people's court accepts an application, the examination shall be conducted by a single judge. Where, upon examination, any of the following circumstances exists, it shall rule to reject the application:\n(1) the applicant does not have the qualifications of a party;\n(2) the document proving the payment of money or negotiable instruments does not stipulate interest on overdue payment, liquidated damages or compensation, and the creditor insists on payment of interest, liquidated damages or compensation;\n(3) the money or negotiable instruments requested to be paid are proceeds of unlawful gain;\n(4) the money or negotiable instruments requested to be paid have not yet fallen due or the amount is uncertain.\nWhere, after accepting an application for an order for payment, the people's court discovers that the conditions for acceptance provided in these Interpretations are not met, it shall rule to reject the application within 15 days from the date of acceptance."
+        },
+        "noLabel": {
+          "en": "Article 428."
+        }
+      },
+      {
+        "no": 429,
+        "text": {
+          "en": "Where an order for payment is served on the debtor in person and the debtor refuses to accept it, the people's court may serve it by leaving it at his place."
+        },
+        "noLabel": {
+          "en": "Article 429."
+        }
+      },
+      {
+        "no": 430,
+        "text": {
+          "en": "Where any of the following circumstances exists, the people's court shall rule to terminate the procedure for hastening debt recovery, and where an order for payment has already been issued, the order shall automatically cease to be effective:\n(1) after the people's court accepts the application for an order for payment, the creditor brings an action in respect of the same creditor-debtor relationship;\n(2) the order for payment cannot be served on the debtor within 30 days from the date of issuance;\n(3) the creditor withdraws the application before the debtor receives the order for payment."
+        },
+        "noLabel": {
+          "en": "Article 430."
+        }
+      },
+      {
+        "no": 431,
+        "text": {
+          "en": "Where, after receiving the order for payment, the debtor does not raise a written objection within the statutory period but brings an action before another people's court, this does not affect the effect of the order for payment.\nWhere the debtor raises an objection beyond the statutory period, he shall be deemed not to have raised an objection."
+        },
+        "noLabel": {
+          "en": "Article 431."
+        }
+      },
+      {
+        "no": 432,
+        "text": {
+          "en": "Where, on the basis of the same creditor-debtor relationship, a creditor raises several claims for payment against the debtor in the same application for an order for payment and the debtor raises an objection only to one or several of them, this does not affect the effect of the other claims."
+        },
+        "noLabel": {
+          "en": "Article 432."
+        }
+      },
+      {
+        "no": 433,
+        "text": {
+          "en": "Where, on the basis of the same creditor-debtor relationship, a creditor raises claims for payment against several debtors in respect of a divisible debt and one or several of the several debtors raise an objection, this does not affect the effect of the other claims."
+        },
+        "noLabel": {
+          "en": "Article 433."
+        }
+      },
+      {
+        "no": 434,
+        "text": {
+          "en": "An order for payment issued to the principal debtor of a debt secured by a security is not binding on the surety.\nWhere the creditor brings a separate action in respect of the suretyship relationship, the order for payment shall cease to be effective from the date on which the people's court accepts the case."
+        },
+        "noLabel": {
+          "en": "Article 434."
+        }
+      },
+      {
+        "no": 435,
+        "text": {
+          "en": "Where, upon formal examination, a written objection raised by the debtor falls under any of the following circumstances, the objection shall be determined to be sustained, it shall be ruled to terminate the procedure for hastening debt recovery, and the order for payment shall automatically cease to be effective:\n(1) a circumstance provided in these Interpretations under which the application should not be accepted;\n(2) a circumstance provided in these Interpretations under which the application should be rejected by ruling;\n(3) a circumstance provided in these Interpretations under which the procedure for hastening debt recovery should be terminated by ruling;\n(4) the people's court has reasonable doubt as to whether the conditions for issuing an order for payment are met."
+        },
+        "noLabel": {
+          "en": "Article 435."
+        }
+      },
+      {
+        "no": 436,
+        "text": {
+          "en": "Where the debtor has no objection to the debt itself but only raises an objection on grounds such as lack of capacity to pay, postponement of the time limit for payment of the debt or change of the method of payment of the debt, this does not affect the effect of the order for payment.\nWhere, upon examination, the people's court considers that the objection is not sustained, it shall rule to reject it.\nAn oral objection by the debtor is invalid."
+        },
+        "noLabel": {
+          "en": "Article 436."
+        }
+      },
+      {
+        "no": 437,
+        "text": {
+          "en": "Where, before the people's court makes a ruling to terminate the procedure for hastening debt recovery or to reject the objection, the debtor requests to withdraw the objection, it shall be ruled to permit it.\nWhere the debtor goes back on his withdrawal of the objection, the people's court shall not support it."
+        },
+        "noLabel": {
+          "en": "Article 437."
+        }
+      },
+      {
+        "no": 438,
+        "text": {
+          "en": "Where, after the order for payment ceases to be effective, the party that applied for the order for payment does not agree to bring an action, he shall so indicate to the people's court that accepted the application within seven days from the date of receipt of the ruling terminating the procedure for hastening debt recovery.\nWhere the party that applied for the order for payment does not agree to bring an action, this does not affect his right to bring an action before another people's court with jurisdiction."
+        },
+        "noLabel": {
+          "en": "Article 438."
+        }
+      },
+      {
+        "no": 439,
+        "text": {
+          "en": "Where, after the order for payment ceases to be effective, the party that applied for the order for payment fails to indicate to the people's court that accepted the application, within seven days from the date of receipt of the ruling terminating the procedure for hastening debt recovery, that he does not agree to bring an action, he shall be deemed to have brought an action before the people's court that accepted the application.\nThe time at which the creditor filed the application for an order for payment shall be the time at which the action is brought before the people's court."
+        },
+        "noLabel": {
+          "en": "Article 439."
+        }
+      },
+      {
+        "no": 440,
+        "text": {
+          "en": "The period during which a creditor applies to a people's court for execution of an order for payment shall be governed by Article 246 of the Civil Procedure Law."
+        },
+        "noLabel": {
+          "en": "Article 440."
+        }
+      },
+      {
+        "no": 441,
+        "text": {
+          "en": "Where the president of a people's court discovers that an order for payment issued by his court that has already taken effect is indeed erroneous and considers that it needs to be revoked, he shall submit the matter to the judicial committee of his court for discussion and decision, after which a ruling shall be made to revoke the order for payment and reject the creditor's application.\nXX. Procedure for Public Summons"
+        },
+        "noLabel": {
+          "en": "Article 441."
+        }
+      },
+      {
+        "no": 442,
+        "text": {
+          "en": "The holder of an instrument as provided in Article 225 of the Civil Procedure Law means the last holder of the instrument before it was stolen, lost or destroyed."
+        },
+        "noLabel": {
+          "en": "Article 442."
+        }
+      },
+      {
+        "no": 443,
+        "text": {
+          "en": "After receiving an application for public summons, the people's court shall examine it immediately and decide whether to accept it. Where, upon examination, it considers that the conditions for acceptance are met, it shall notify the applicant of acceptance and at the same time notify the payer to stop payment; where it considers that the conditions for acceptance are not met, it shall rule to reject the application within seven days."
+        },
+        "noLabel": {
+          "en": "Article 443."
+        }
+      },
+      {
+        "no": 444,
+        "text": {
+          "en": "Where an application for public summons is filed on the ground of loss of an instrument, the people's court shall decide whether to accept it in the light of evidence such as the stub of the instrument, a photocopy of the lost instrument, the drawer's proof of the issuance of the instrument, proof that the applicant lawfully obtained the instrument, the bank's notice of reporting the loss and stopping payment, and the record of the report to the police."
+        },
+        "noLabel": {
+          "en": "Article 444."
+        }
+      },
+      {
+        "no": 445,
+        "text": {
+          "en": "The public announcement of acceptance of an application issued by a people's court in accordance with Article 226 of the Civil Procedure Law shall state the following:\n(1) the name of the applicant for public summons;\n(2) the type, number, face amount, drawer, endorser, holder, time limit for payment and other particulars of the instrument, and the type, number, scope of rights, obligee, obligor, date of exercise and other particulars of other certificates of rights in respect of which public summons may be applied for;\n(3) the period for declaring rights;\n(4) the legal consequences, where an instrument or other certificate of rights is transferred during the period of public summons, of an interested person's failure to declare his rights."
+        },
+        "noLabel": {
+          "en": "Article 445."
+        }
+      },
+      {
+        "no": 446,
+        "text": {
+          "en": "The public announcement shall be published in a relevant newspaper or other media and shall be posted on the same day on the notice board of the people's court. Where there is a stock exchange at the place where the people's court is located, the announcement shall also be published at that exchange on the same day."
+        },
+        "noLabel": {
+          "en": "Article 446."
+        }
+      },
+      {
+        "no": 447,
+        "text": {
+          "en": "The period of public announcement shall be not less than 60 days, and the date of expiry of the period of public summons shall be not earlier than 15 days after the date of payment of the instrument."
+        },
+        "noLabel": {
+          "en": "Article 447."
+        }
+      },
+      {
+        "no": 448,
+        "text": {
+          "en": "Where an interested person declares his rights after the expiry of the period for declaration and before a judgment is made, Paragraphs 2 and 3 of Article 228 of the Civil Procedure Law shall apply."
+        },
+        "noLabel": {
+          "en": "Article 448."
+        }
+      },
+      {
+        "no": 449,
+        "text": {
+          "en": "Where an interested person declares his rights, the people's court shall notify him to present the instrument to the court, and shall notify the applicant for public summons to inspect the instrument within a designated period. Where the instrument in respect of which the applicant applied for public summons is inconsistent with the instrument presented by the interested person, it shall rule to reject the interested person's declaration."
+        },
+        "noLabel": {
+          "en": "Article 449."
+        }
+      },
+      {
+        "no": 450,
+        "text": {
+          "en": "Where no one declares rights during the period for declaration of rights, or a declaration has been rejected, the applicant shall, within one month from the date of expiry of the period of public summons, apply for a judgment to be made. Where he fails to apply for a judgment within that time limit, the procedure for public summons shall be terminated.\nWhere it is ruled to terminate the procedure for public summons, the applicant and the payer shall be notified."
+        },
+        "noLabel": {
+          "en": "Article 450."
+        }
+      },
+      {
+        "no": 451,
+        "text": {
+          "en": "From the date of the public announcement of the judgment, the applicant for public summons is entitled to request payment from the payer on the basis of the judgment.\nWhere the payer refuses to pay and the applicant brings an action before a people's court, the people's court shall accept it if the conditions for bringing an action provided in Article 122 of the Civil Procedure Law are met."
+        },
+        "noLabel": {
+          "en": "Article 451."
+        }
+      },
+      {
+        "no": 452,
+        "text": {
+          "en": "A case tried under the procedure for public summons may be tried by a single judge alone; where a judgment is made declaring an instrument invalid, a collegial panel shall be formed to conduct the trial."
+        },
+        "noLabel": {
+          "en": "Article 452."
+        }
+      },
+      {
+        "no": 453,
+        "text": {
+          "en": "An applicant for public summons who withdraws the application shall do so before the public summons is made; where withdrawal is applied for during the period of public summons, the people's court may directly rule to terminate the procedure for public summons."
+        },
+        "noLabel": {
+          "en": "Article 453."
+        }
+      },
+      {
+        "no": 454,
+        "text": {
+          "en": "Where a people's court notifies the payer to stop payment in accordance with Article 227 of the Civil Procedure Law, the provisions on preservation of property shall be complied with. Where the payer, after receiving the notice to stop payment, refuses to stop payment, in addition to compulsory measures that may be taken in accordance with Article 114 and Article 117 of the Civil Procedure Law, the payer shall still bear the obligation to pay after the judgment is made."
+        },
+        "noLabel": {
+          "en": "Article 454."
+        }
+      },
+      {
+        "no": 455,
+        "text": {
+          "en": "After a people's court terminates the procedure for public summons in accordance with Article 228 of the Civil Procedure Law, where the applicant for public summons or the person declaring rights brings an action before a people's court, the case shall, if it is brought as a dispute over rights in the instrument, be under the jurisdiction of the people's court of the place of payment of the instrument or of the place of domicile of the defendant; if it is brought as a dispute not concerning rights in the instrument, it shall be under the jurisdiction of the people's court of the place of domicile of the defendant."
+        },
+        "noLabel": {
+          "en": "Article 455."
+        }
+      },
+      {
+        "no": 456,
+        "text": {
+          "en": "A written ruling terminating the procedure for public summons made in accordance with Article 228 of the Civil Procedure Law shall be signed by the judge and the court clerk and sealed with the seal of the people's court."
+        },
+        "noLabel": {
+          "en": "Article 456."
+        }
+      },
+      {
+        "no": 457,
+        "text": {
+          "en": "Where, in accordance with Article 230 of the Civil Procedure Law, an interested person brings an action before a people's court, the people's court may try the case under ordinary procedure as a dispute over an instrument."
+        },
+        "noLabel": {
+          "en": "Article 457."
+        }
+      },
+      {
+        "no": 458,
+        "text": {
+          "en": "The justified reasons as provided in Article 230 of the Civil Procedure Law include:\n(1) the occurrence of an accident or force majeure made it impossible for the interested person to know of the fact of the public announcement;\n(2) the interested person was unable to know of the fact of the public announcement because his personal freedom was restricted, or, although he knew of the fact of the public announcement, was unable to declare his rights himself or through another person entrusted by him;\n(3) the case does not fall within the circumstances under which an application for public summons may lawfully be made;\n(4) no public announcement was made, or the public announcement was not made in the manner provided by law;\n(5) other objective grounds that prevented the interested person from declaring his rights to the people's court before the judgment was made."
+        },
+        "noLabel": {
+          "en": "Article 458."
+        }
+      },
+      {
+        "no": 459,
+        "text": {
+          "en": "In accordance with Article 230 of the Civil Procedure Law, where an interested person requests a people's court to revoke a judgment annulling the instrument, the applicant shall be listed as the defendant.\nWhere an interested person only claims confirmation that he is the lawful holder of the instrument, the people's court shall state in the adjudicative document that the judgment annulling the instrument shall be revoked upon the making of the judgment confirming that the interested person is the person entitled to the rights in the instrument.\nXXI. Procedure for Execution"
+        },
+        "noLabel": {
+          "en": "Article 459."
+        }
+      },
+      {
+        "no": 460,
+        "text": {
+          "en": "An effective ruling on realisation of a security interest, ruling confirming a mediation agreement or order for payment shall be executed by the people's court that made the ruling or the order for payment, or by the people's court at the same level as that court for the place where the property subject to execution is located.\nA judgment determining that property is ownerless shall be executed by the people's court that made the judgment by transferring the ownerless property to State or collective ownership."
+        },
+        "noLabel": {
+          "en": "Article 460."
+        }
+      },
+      {
+        "no": 461,
+        "text": {
+          "en": "An effective legal document on the basis of which a party applies to a people's court for execution shall meet the following conditions:\n(1) the subjects of the rights and obligations are clear;\n(2) the content of the performance is clear.\nWhere a legal document determines continued performance of a contract, the specific content of the continued performance shall be clarified."
+        },
+        "noLabel": {
+          "en": "Article 461."
+        }
+      },
+      {
+        "no": 462,
+        "text": {
+          "en": "In accordance with Article 234 of the Civil Procedure Law, where a person not a party to the case raises an objection to the subject matter of execution, he shall do so before the procedure for execution of that subject matter is concluded."
+        },
+        "noLabel": {
+          "en": "Article 462."
+        }
+      },
+      {
+        "no": 463,
+        "text": {
+          "en": "Where, upon examination, an objection raised by a person not a party to the case to the subject matter of execution shall be dealt with respectively according to the following circumstances:\n(1) where the person not a party to the case does not enjoy rights and interests in the subject matter of execution that are sufficient to exclude compulsory execution, it shall be ruled to reject his objection;\n(2) where the person not a party to the case enjoys rights and interests in the subject matter of execution that are sufficient to exclude compulsory execution, it shall be ruled to suspend execution.\nWithin 15 days from the date of service on the person not a party to the case of the ruling rejecting his objection to execution, the people's court shall not dispose of the subject matter of execution."
+        },
+        "noLabel": {
+          "en": "Article 463."
+        }
+      },
+      {
+        "no": 464,
+        "text": {
+          "en": "Where, after reaching a settlement agreement with the person subject to execution, the applicant for execution requests suspension of execution or withdrawal of the application for execution, the people's court may rule to suspend execution or terminate execution."
+        },
+        "noLabel": {
+          "en": "Article 464."
+        }
+      },
+      {
+        "no": 465,
+        "text": {
+          "en": "Where one party fails to perform or does not fully perform a settlement agreement voluntarily reached by both parties in the course of execution, and the other party applies for execution of the original effective legal document, the people's court shall resume execution, but the part already performed under the settlement agreement shall be deducted. Where the settlement agreement has been fully performed, the people's court shall not resume execution."
+        },
+        "noLabel": {
+          "en": "Article 465."
+        }
+      },
+      {
+        "no": 466,
+        "text": {
+          "en": "An application to resume execution of the original effective legal document shall be governed by the provisions of Article 246 of the Civil Procedure Law on the period for applying for execution. Where the period for applying for execution is interrupted because of the reaching of a settlement agreement in the course of execution, the period shall be recalculated from the last day of the time limit for performance agreed in the settlement agreement."
+        },
+        "noLabel": {
+          "en": "Article 466."
+        }
+      },
+      {
+        "no": 467,
+        "text": {
+          "en": "Where a people's court decides to postpone execution in accordance with Article 238 of the Civil Procedure Law and the security is subject to a time limit, the period of postponement of execution shall be consistent with the period of the security, but shall not exceed one year at the longest. Where the person subject to execution or the surety transfers, conceals, sells off or damages the secured property during the period of postponed execution, the people's court may resume compulsory execution."
+        },
+        "noLabel": {
+          "en": "Article 467."
+        }
+      },
+      {
+        "no": 468,
+        "text": {
+          "en": "Where security for execution is provided to a people's court in accordance with Article 238 of the Civil Procedure Law, the person subject to execution or another person may provide a security in property, or another person may provide a suretyship. The surety shall have the capacity to perform on behalf of the person subject to execution or to bear liability for compensation on his behalf.\nWhere another person provides a guarantee for execution, he shall issue a letter of guarantee to the executing court and deliver a copy of the letter of guarantee to the applicant for execution. Where the person subject to execution or another person provides a security in property, the corresponding formalities shall be completed by reference to the relevant provisions of the Civil Code."
+        },
+        "noLabel": {
+          "en": "Article 468."
+        }
+      },
+      {
+        "no": 469,
+        "text": {
+          "en": "Where the person subject to execution still fails to perform his obligations after the expiry of the period of postponed execution decided by the people's court, the people's court may directly execute the secured property, or rule to execute the property of the surety, provided that execution against the property of the surety is limited to the part of the property corresponding to the obligations the surety should perform."
+        },
+        "noLabel": {
+          "en": "Article 469."
+        }
+      },
+      {
+        "no": 470,
+        "text": {
+          "en": "In accordance with Article 239 of the Civil Procedure Law, where a legal person or other organisation that is the person subject to execution in the course of execution is divided or merged, the people's court may rule that the legal person or other organisation resulting from the change be the person subject to execution; where it is deregistered and, under the provisions of the relevant substantive law, there is a successor to its rights and obligations, it may rule that such successor be the person subject to execution."
+        },
+        "noLabel": {
+          "en": "Article 470."
+        }
+      },
+      {
+        "no": 471,
+        "text": {
+          "en": "Where another organisation is unable to perform the obligations determined by a legal document in the course of execution, the people's court may rule to execute the property of the legal person or citizen that bears obligations in accordance with law for that other organisation."
+        },
+        "noLabel": {
+          "en": "Article 471."
+        }
+      },
+      {
+        "no": 472,
+        "text": {
+          "en": "In the course of execution, where the name of a legal person or other organisation that is the person subject to execution is changed, the people's court may rule that the legal person or other organisation after the change be the person subject to execution."
+        },
+        "noLabel": {
+          "en": "Article 472."
+        }
+      },
+      {
+        "no": 473,
+        "text": {
+          "en": "Where a citizen who is the person subject to execution dies and his heir has not waived the inheritance, the people's court may rule to change the person subject to execution, and the heir shall repay the debt to the extent of the inherited estate. Where the heir waives the inheritance, the people's court may directly execute the estate of the person subject to execution."
+        },
+        "noLabel": {
+          "en": "Article 473."
+        }
+      },
+      {
+        "no": 474,
+        "text": {
+          "en": "Where, after the execution of another legal document that is to be executed by a people's court in accordance with law has been completed, that legal document is revoked in accordance with law by the relevant organ or organisation, Article 240 of the Civil Procedure Law shall apply upon the application of a party."
+        },
+        "noLabel": {
+          "en": "Article 474."
+        }
+      },
+      {
+        "no": 475,
+        "text": {
+          "en": "Where part of the matters adjudicated by an arbitration institution falls under a circumstance provided in Paragraph 2 or Paragraph 3 of Article 244 of the Civil Procedure Law, the people's court shall rule not to execute that part.\nWhere the part that should not be executed is inseparable from the other parts, the people's court shall rule not to execute the arbitral award."
+        },
+        "noLabel": {
+          "en": "Article 475."
+        }
+      },
+      {
+        "no": 476,
+        "text": {
+          "en": "In accordance with Paragraph 2 and Paragraph 3 of Article 244 of the Civil Procedure Law, after a people's court has ruled not to execute an arbitral award, where a party raises an objection to execution or applies for reconsideration in respect of that ruling, the people's court shall not accept it. The party may reach a new written arbitration agreement on the civil dispute and apply for arbitration, or may bring an action before a people's court."
+        },
+        "noLabel": {
+          "en": "Article 476."
+        }
+      },
+      {
+        "no": 477,
+        "text": {
+          "en": "In the course of execution, where the person subject to execution, through arbitration proceedings, confirms the title to or allocates to a person not a party to the case property that has been sealed up, distrained or frozen by the people's court, this does not affect the conduct of the execution procedure of the people's court.\nWhere the person not a party to the case refuses to accept it, he may raise an objection in accordance with Article 234 of the Civil Procedure Law."
+        },
+        "noLabel": {
+          "en": "Article 477."
+        }
+      },
+      {
+        "no": 478,
+        "text": {
+          "en": "Where any of the following circumstances exists, it may be determined that a notarial instrument of debt is indeed erroneous as provided in Paragraph 2 of Article 245 of the Civil Procedure Law:\n(1) the notarial instrument of debt is an instrument of debt to which the force of compulsory execution may not be given;\n(2) the person subject to execution did not appear in person or through an entrusted agent for the notarisation, or other serious violations of the notarisation procedure provided by law occurred;\n(3) the content of the notarial instrument of debt is inconsistent with the facts or violates mandatory provisions of law;\n(4) the notarial instrument of debt does not state that the person subject to execution agrees to accept compulsory execution when he fails to perform or does not fully perform his obligations.\nWhere the people's court determines that execution of the notarial instrument of debt is contrary to the public interest, it shall rule not to execute it.\nAfter a notarial instrument of debt has been ruled not to be executed, the parties and the interested persons in the notarised matter may bring an action in respect of the dispute over the debt."
+        },
+        "noLabel": {
+          "en": "Article 478."
+        }
+      },
+      {
+        "no": 479,
+        "text": {
+          "en": "Where a party requests that an arbitral award or a notarial instrument of debt not be executed, it shall make the request to the executing court before execution is concluded."
+        },
+        "noLabel": {
+          "en": "Article 479."
+        }
+      },
+      {
+        "no": 480,
+        "text": {
+          "en": "The people's court shall issue a notice of execution within ten days after receipt of the written application for execution or the written referral for execution.\nIn addition to ordering the person subject to execution to perform the obligations determined by the legal document, the notice of execution shall also notify him that he shall bear the interest on delayed performance or the payment for delayed performance provided in Article 260 of the Civil Procedure Law."
+        },
+        "noLabel": {
+          "en": "Article 480."
+        }
+      },
+      {
+        "no": 481,
+        "text": {
+          "en": "Where an applicant for execution applies to a people's court for compulsory execution beyond the period of limitation for applying for execution, the people's court shall accept the application. Where the person subject to execution raises an objection to the period of limitation for applying for execution and the people's court, upon examination, finds the objection sustained, it shall rule not to execute.\nWhere, after performing all or part of his obligations, the person subject to execution requests recovery of what was executed on the ground that he did not know that the period of limitation for applying for execution had expired, the people's court shall not support it."
+        },
+        "noLabel": {
+          "en": "Article 481."
+        }
+      },
+      {
+        "no": 482,
+        "text": {
+          "en": "Where a person subject to execution, or the legal representative, person in charge or actual controller of the person subject to execution, who must accept investigation and questioning, refuses to appear after being lawfully summoned without justified reasons, the people's court may compel him to appear by warrant.\nThe people's court shall promptly conduct investigation and questioning of the person compelled to appear, and the duration of the investigation and questioning shall not exceed eight hours; where the circumstances are complex and detention may lawfully be imposed, the duration of the investigation and questioning shall not exceed 24 hours.\nWhere the people's court takes the measure of compelling appearance outside its jurisdiction, it may compel the person to appear before the local people's court, and the local people's court shall assist."
+        },
+        "noLabel": {
+          "en": "Article 482."
+        }
+      },
+      {
+        "no": 483,
+        "text": {
+          "en": "The people's court has the power to inquire into the identity information and property information of the person subject to execution, and the units and individuals in possession of the relevant information must act in accordance with the notice of assistance in execution."
+        },
+        "noLabel": {
+          "en": "Article 483."
+        }
+      },
+      {
+        "no": 484,
+        "text": {
+          "en": "The people's court may not dispose of property under execution without having sealed up, distrained or frozen it. For bank deposits and other property that may be directly deducted and transferred, the ruling of the people's court on deduction and transfer shall at the same time have the legal effect of freezing."
+        },
+        "noLabel": {
+          "en": "Article 484."
+        }
+      },
+      {
+        "no": 485,
+        "text": {
+          "en": "The period for which a people's court freezes the bank deposits of the person subject to execution shall not exceed one year, the period for which it seals up or distrains movable property shall not exceed two years, and the period for which it seals up immovable property or freezes other property rights shall not exceed three years.\nWhere the applicant for execution applies to extend the period, the people's court shall complete the formalities for extending the sealing up, distraint or freezing before the expiry of the period of sealing up, distraint or freezing, and the extended period shall not exceed the period provided in the preceding paragraph.\nThe people's court may also complete the formalities for extending the sealing up, distraint or freezing ex officio."
+        },
+        "noLabel": {
+          "en": "Article 485."
+        }
+      },
+      {
+        "no": 486,
+        "text": {
+          "en": "In accordance with Article 254 of the Civil Procedure Law, where a people's court needs to auction the property of the person subject to execution in the course of execution, it may organise the auction itself or may refer the property to an auction institution with the corresponding qualifications for auction.\nWhere the property is referred to an auction institution for auction, the people's court shall supervise the auction activities."
+        },
+        "noLabel": {
+          "en": "Article 486."
+        }
+      },
+      {
+        "no": 487,
+        "text": {
+          "en": "Where an auction evaluation requires on-site inspection or survey, the people's court shall order the person subject to execution and the person under an obligation to assist to cooperate. Where the person subject to execution or the person under an obligation to assist does not cooperate, the people's court may carry out the inspection or survey by compulsory means."
+        },
+        "noLabel": {
+          "en": "Article 487."
+        }
+      },
+      {
+        "no": 488,
+        "text": {
+          "en": "Where a people's court needs to sell off the property of the person subject to execution in the course of execution, it may refer the property to a relevant unit for sale or may sell it off directly itself.\nThe people's court or its staff members may not purchase property sold off."
+        },
+        "noLabel": {
+          "en": "Article 488."
+        }
+      },
+      {
+        "no": 489,
+        "text": {
+          "en": "Where the applicant for execution and the person subject to execution consent and the lawful rights and interests of other creditors and the public interest are not impaired, the people's court may, without auction or sale, directly set a price on the property of the person subject to execution and deliver it to the applicant for execution in satisfaction of the debt. The person subject to execution shall continue to discharge the remaining debt."
+        },
+        "noLabel": {
+          "en": "Article 489."
+        }
+      },
+      {
+        "no": 490,
+        "text": {
+          "en": "Where the property of the person subject to execution cannot be auctioned or sold off, and the applicant for execution consents and the lawful rights and interests of other creditors and the public interest are not impaired, the people's court may set a price on the property and deliver it to the applicant for execution in satisfaction of the debt, or deliver it to the applicant for execution to manage; where the applicant for execution refuses to accept or manage it, it shall be returned to the person subject to execution."
+        },
+        "noLabel": {
+          "en": "Article 490."
+        }
+      },
+      {
+        "no": 491,
+        "text": {
+          "en": "Where an auction is concluded or it is ruled in accordance with statutory procedure that property be applied to the debt, the ownership of the subject matter shall be transferred when the ruling on the conclusion of the auction or the ruling on application of the property to the debt is served on the buyer or on the creditor accepting the property in satisfaction of the debt."
+        },
+        "noLabel": {
+          "en": "Article 491."
+        }
+      },
+      {
+        "no": 492,
+        "text": {
+          "en": "Where the subject matter of execution is a specific thing, the original thing shall be executed. Where the original thing has indeed been damaged or destroyed, compensation may be made at a reduced price upon the consent of both parties.\nWhere both parties cannot reach agreement on compensation at a reduced price, the people's court shall terminate the execution procedure. The applicant for execution may bring a separate action."
+        },
+        "noLabel": {
+          "en": "Article 492."
+        }
+      },
+      {
+        "no": 493,
+        "text": {
+          "en": "Where another person holds property or certificates designated for delivery by a legal document and refuses to hand them over after the people's court issues a notice of assistance in execution in accordance with Paragraph 2 and Paragraph 3 of Article 256 of the Civil Procedure Law, compulsory execution may be carried out, and the matter may be dealt with in accordance with Article 117 and Article 118 of the Civil Procedure Law.\nWhere the property or certificates are damaged or destroyed during the period of another person's holding, the matter shall be dealt with by reference to Article 492 of these Interpretations.\nWhere another person asserts that he lawfully holds the property or certificates, he may raise an objection to execution in accordance with Article 234 of the Civil Procedure Law."
+        },
+        "noLabel": {
+          "en": "Article 493."
+        }
+      },
+      {
+        "no": 494,
+        "text": {
+          "en": "In the course of execution, where the person subject to execution conceals property, accounting books or other materials, the people's court may, in addition to dealing with him in accordance with Item 6 of Paragraph 1 of Article 114 of the Civil Procedure Law, order the person subject to execution to hand over the concealed property, accounting books and other materials. Where the person subject to execution refuses to hand them over, the people's court may take the measure of search."
+        },
+        "noLabel": {
+          "en": "Article 494."
+        }
+      },
+      {
+        "no": 495,
+        "text": {
+          "en": "Search personnel shall wear the prescribed uniform and produce the search warrant and their work identification."
+        },
+        "noLabel": {
+          "en": "Article 495."
+        }
+      },
+      {
+        "no": 496,
+        "text": {
+          "en": "During a search by a people's court, unauthorised persons are prohibited from entering the search scene; where the subject of the search is a citizen, the person subject to execution or his adult family member and a representative of the grassroots organisation shall be notified to be present; where the subject of the search is a legal person or other organisation, the legal representative or principal person in charge shall be notified to be present. Refusal to be present shall not affect the search.\nA search of the person of a woman shall be conducted by female execution personnel."
+        },
+        "noLabel": {
+          "en": "Article 496."
+        }
+      },
+      {
+        "no": 497,
+        "text": {
+          "en": "Where property in respect of which sealing up or distraint should be taken in accordance with law is discovered during a search, the matter shall be handled in accordance with Paragraph 2 of Article 252 and Article 254 of the Civil Procedure Law."
+        },
+        "noLabel": {
+          "en": "Article 497."
+        }
+      },
+      {
+        "no": 498,
+        "text": {
+          "en": "A record of the search shall be made and shall be signed, fingerprinted or sealed by the search personnel, the person searched and the other persons present. Where a person refuses to sign, fingerprint or seal it, this shall be recorded in the record of the search."
+        },
+        "noLabel": {
+          "en": "Article 498."
+        }
+      },
+      {
+        "no": 499,
+        "text": {
+          "en": "Where a people's court executes a due claim of the person subject to execution against another person, it may make a ruling to freeze the claim and notify that other person to perform towards the applicant for execution.\nWhere that other person raises an objection to the due claim and the applicant for execution requests compulsory execution of the part objected to, the people's court shall not support it. Where an interested person raises an objection to the due claim, the people's court shall deal with the matter in accordance with Article 234 of the Civil Procedure Law.\nWhere that other person denies a due claim determined by an effective legal document, the people's court shall not support the denial."
+        },
+        "noLabel": {
+          "en": "Article 499."
+        }
+      },
+      {
+        "no": 500,
+        "text": {
+          "en": "Where, in the course of execution, a people's court needs to complete formalities for the transfer of certificates of property rights such as property ownership certificates, land certificates, forest rights certificates, patent certificates, trademark certificates and vehicle and vessel licences, it may do so in accordance with Article 258 of the Civil Procedure Law."
+        },
+        "noLabel": {
+          "en": "Article 500."
+        }
+      },
+      {
+        "no": 501,
+        "text": {
+          "en": "Where the person subject to execution fails to perform an obligation to act determined by an effective legal document and that obligation can be completed by another person, the people's court may select a substitute performer; where law or administrative regulations impose qualification requirements for the performance of that obligation to act, the substitute performer shall be selected from among qualified persons. Where necessary, the substitute performer may be determined by means of tender.\nThe applicant for execution may recommend a substitute performer from among qualified persons, or may apply to perform on behalf of the person subject to execution himself, and whether to permit it shall be decided by the people's court."
+        },
+        "noLabel": {
+          "en": "Article 501."
+        }
+      },
+      {
+        "no": 502,
+        "text": {
+          "en": "The amount of the fee for substitute performance shall be determined by the people's court according to the specific circumstances of the case, and shall be paid in advance by the person subject to execution within the designated time limit. Where the person subject to execution fails to pay in advance, the people's court may compulsorily execute for that fee.\nAfter the substitute performance is completed, the person subject to execution may consult and copy the itemised list of fees and the main vouchers."
+        },
+        "noLabel": {
+          "en": "Article 502."
+        }
+      },
+      {
+        "no": 503,
+        "text": {
+          "en": "Where the person subject to execution fails to perform an act designated by a legal document and that act can only be completed by the person subject to execution, the people's court may deal with the matter in accordance with Item 6 of Paragraph 1 of Article 114 of the Civil Procedure Law.\nWhere the person subject to execution still fails to perform within the period for performance determined by the people's court, the people's court may again deal with the matter in accordance with Item 6 of Paragraph 1 of Article 114 of the Civil Procedure Law."
+        },
+        "noLabel": {
+          "en": "Article 503."
+        }
+      },
+      {
+        "no": 504,
+        "text": {
+          "en": "Where the person subject to execution delays performance, the interest on delayed performance or the payment for delayed performance for the period of delayed performance shall be calculated from the date of expiry of the period for performance designated by the judgment, ruling and other legal documents."
+        },
+        "noLabel": {
+          "en": "Article 504."
+        }
+      },
+      {
+        "no": 505,
+        "text": {
+          "en": "Where the person subject to execution fails to perform a non-monetary obligation within the period designated by the judgment, ruling or other legal document, he shall pay the payment for delayed performance regardless of whether loss has already been caused to the applicant for execution. Where loss has already been caused, he shall compensate the applicant for execution for the loss already suffered at twice the amount; where no loss has been caused, the payment for delayed performance may be determined by the people's court according to the specific circumstances of the case."
+        },
+        "noLabel": {
+          "en": "Article 505."
+        }
+      },
+      {
+        "no": 506,
+        "text": {
+          "en": "Where the person subject to execution is a citizen or other organisation, and after the execution procedure begins, other creditors of the person subject to execution who have already obtained an execution basis discover that the property of the person subject to execution is insufficient to satisfy all claims, they may apply to the people's court for participation in distribution.\nCreditors who enjoy a priority right or a security interest in property sealed up, distrained or frozen by the people's court may directly apply to participate in distribution and assert the right to priority of payment."
+        },
+        "noLabel": {
+          "en": "Article 506."
+        }
+      },
+      {
+        "no": 507,
+        "text": {
+          "en": "To apply for participation in distribution, the applicant shall submit an application. The application shall state the facts and reasons for participating in distribution and for the assertion that the property of the person subject to execution is insufficient to satisfy all claims, and shall be accompanied by the execution basis.\nAn application to participate in distribution shall be filed after the execution procedure begins and before the execution of the property of the person subject to execution is concluded."
+        },
+        "noLabel": {
+          "en": "Article 507."
+        }
+      },
+      {
+        "no": 508,
+        "text": {
+          "en": "In execution with participation in distribution, after the proceeds of execution are applied to deduct the execution expenses and to satisfy the claims that enjoy priority of payment, ordinary claims shall in principle be satisfied in proportion to the amount of each claim in the total amount of claims of all those applying to participate in distribution. The remaining debt after satisfaction shall continue to be discharged by the person subject to execution. Where a creditor discovers that the person subject to execution has other property, he may at any time request the people's court to execute it."
+        },
+        "noLabel": {
+          "en": "Article 508."
+        }
+      },
+      {
+        "no": 509,
+        "text": {
+          "en": "Where several creditors apply to participate in distribution of the property under execution, the executing court shall prepare a distribution plan and serve it on each creditor and on the person subject to execution. Where a creditor or the person subject to execution has an objection to the distribution plan, he shall raise a written objection with the executing court within 15 days from the date of receipt of the distribution plan."
+        },
+        "noLabel": {
+          "en": "Article 509."
+        }
+      },
+      {
+        "no": 510,
+        "text": {
+          "en": "Where a creditor or the person subject to execution raises a written objection to the distribution plan, the executing court shall notify the creditors and the person subject to execution that did not raise an objection.\nWhere the creditors and the person subject to execution that did not raise an objection do not raise a contrary opinion within 15 days from the date of receipt of the notice, the executing court shall, after examining and amending the distribution plan in accordance with the opinion of the objector, carry out the distribution; where a contrary opinion is raised, the objector shall be notified. The objector may, within 15 days from the date of receipt of the notice, bring an action before the executing court against the creditors and the person subject to execution that raised the contrary opinion as defendants; where the objector fails to bring an action within the time limit, the executing court shall carry out the distribution according to the original distribution plan.\nWhere distribution is carried out during the proceedings, the executing court shall deposit an amount corresponding to the amount of the claim in dispute."
+        },
+        "noLabel": {
+          "en": "Article 510."
+        }
+      },
+      {
+        "no": 511,
+        "text": {
+          "en": "In the course of execution, where an enterprise legal person that is the person subject to execution meets the circumstances provided in Paragraph 1 of Article 2 of the Enterprise Bankruptcy Law, the executing court shall, with the consent of one of the applicants for execution or of the person subject to execution, rule to suspend execution against that person subject to execution and refer the relevant materials of the execution case to the people's court of the place of domicile of the person subject to execution."
+        },
+        "noLabel": {
+          "en": "Article 511."
+        }
+      },
+      {
+        "no": 512,
+        "text": {
+          "en": "The people's court of the place of domicile of the person subject to execution shall, within 30 days from the date of receipt of the relevant materials of the execution case, inform the executing court of its ruling on whether to accept the bankruptcy case. Where it does not accept the case, it shall return the relevant case materials to the executing court."
+        },
+        "noLabel": {
+          "en": "Article 512."
+        }
+      },
+      {
+        "no": 513,
+        "text": {
+          "en": "Where the people's court of the place of domicile of the person subject to execution rules to accept the bankruptcy case, the executing court shall lift the preservation measures taken against the property of the person subject to execution. Where the people's court of the place of domicile of the person subject to execution rules to declare the person subject to execution bankrupt, the executing court shall rule to terminate execution against that person subject to execution.\nWhere the people's court of the place of domicile of the person subject to execution does not accept the bankruptcy case, the executing court shall resume execution."
+        },
+        "noLabel": {
+          "en": "Article 513."
+        }
+      },
+      {
+        "no": 514,
+        "text": {
+          "en": "Where the parties do not agree to refer the case for bankruptcy or the people's court of the place of domicile of the person subject to execution does not accept the bankruptcy case, the executing court shall, in respect of the property realised in execution, after deducting the execution expenses and satisfying the claims that enjoy priority of payment, satisfy ordinary claims in the order of priority of property preservation and of the sealing up, distraint or freezing of property in the course of execution."
+        },
+        "noLabel": {
+          "en": "Article 514."
+        }
+      },
+      {
+        "no": 515,
+        "text": {
+          "en": "Where a creditor requests a people's court to continue execution in accordance with Article 261 of the Civil Procedure Law, it is not subject to the limitation of the period of limitation for applying for execution provided in Article 246 of the Civil Procedure Law."
+        },
+        "noLabel": {
+          "en": "Article 515."
+        }
+      },
+      {
+        "no": 516,
+        "text": {
+          "en": "Where the person subject to execution fails to perform the obligations determined by a legal document, the people's court may, in addition to imposing a sanction on the person subject to execution, include him in the list of judgment debtors that have lost credit according to the circumstances, and report the information that the person subject to execution has failed to perform or has not fully performed his obligations to his unit, to credit reporting agencies and to other relevant institutions."
+        },
+        "noLabel": {
+          "en": "Article 516."
+        }
+      },
+      {
+        "no": 517,
+        "text": {
+          "en": "Where no property available for execution is discovered after an investigation of property, the current execution procedure may be ruled to terminate after the applicant for execution signs to confirm it, or after the executing court forms a collegial panel to examine and verify the matter and the president of the court approves it.\nAfter execution is terminated in accordance with the preceding paragraph, where the applicant for execution discovers that the person subject to execution has property available for execution, he may apply for execution again. A further application is not subject to the limitation of the period of limitation for applying for execution."
+        },
+        "noLabel": {
+          "en": "Article 517."
+        }
+      },
+      {
+        "no": 518,
+        "text": {
+          "en": "Where, after execution is terminated because the application is withdrawn, a party applies for execution again within the period of limitation for applying for execution provided in Article 246 of the Civil Procedure Law, the people's court shall accept it."
+        },
+        "noLabel": {
+          "en": "Article 518."
+        }
+      },
+      {
+        "no": 519,
+        "text": {
+          "en": "Within six months after the conclusion of execution, where the person subject to execution or another person commits a nuisance in respect of the subject matter already executed, the people's court may, upon application, remove the nuisance, and may impose a sanction in accordance with Article 114 of the Civil Procedure Law. Where the nuisance causes loss to the execution creditor or to another person, the victim may bring a separate action.\nXXII. Special Provisions on Civil Procedure Involving Foreign Elements"
+        },
+        "noLabel": {
+          "en": "Article 519."
+        }
+      },
+      {
+        "no": 520,
+        "text": {
+          "en": "Where any of the following circumstances exists, a people's court may determine that a civil case involves foreign elements:\n(1) one or both parties are foreigners, stateless persons, foreign enterprises or organisations;\n(2) the habitual residence of one or both parties is outside the territory of the People's Republic of China;\n(3) the subject matter is outside the territory of the People's Republic of China;\n(4) the legal facts that create, alter or extinguish the civil relationship occurred outside the territory of the People's Republic of China;\n(5) other circumstances under which the civil case may be determined to involve foreign elements."
+        },
+        "noLabel": {
+          "en": "Article 520."
+        }
+      },
+      {
+        "no": 521,
+        "text": {
+          "en": "A foreigner participating in proceedings shall submit to the people's court a passport or other document proving his identity.\nA foreign enterprise or organisation participating in proceedings shall submit identity documents to the people's court that have been notarised by a notarial institution of the country where it is located and authenticated by the embassy or consulate of the People's Republic of China in that country, or that have undergone the certification formalities provided in the relevant treaty concluded between the People's Republic of China and that country.\nA person participating in proceedings on behalf of a foreign enterprise or organisation shall submit to the people's court proof that he is entitled to participate in the proceedings as its representative, and that proof shall be notarised by a notarial institution of the country where the enterprise or organisation is located and authenticated by the embassy or consulate of the People's Republic of China in that country, or shall undergo the certification formalities provided in the relevant treaty concluded between the People's Republic of China and that country.\nThe \"country where it is located\" referred to in this Article means the country in which the foreign enterprise or organisation is registered and established, and may also be a third country in which the formalities for business registration have been completed."
+        },
+        "noLabel": {
+          "en": "Article 521."
+        }
+      },
+      {
+        "no": 522,
+        "text": {
+          "en": "In accordance with Article 271 of the Civil Procedure Law and Article 521 of these Interpretations, where notarisation and authentication formalities need to be completed but the country where the foreign party is located has no diplomatic relations with the People's Republic of China, the document may be notarised by a notarial institution of that country, authenticated by the embassy or consulate of a third country that has diplomatic relations with the People's Republic of China and is accredited to that country, and then authenticated by the embassy or consulate of the People's Republic of China in that third country."
+        },
+        "noLabel": {
+          "en": "Article 522."
+        }
+      },
+      {
+        "no": 523,
+        "text": {
+          "en": "Where a foreigner, or the representative of a foreign enterprise or organisation, signs a power of attorney in the presence of a judge of a people's court and entrusts an agent to conduct civil proceedings, the people's court shall recognise it."
+        },
+        "noLabel": {
+          "en": "Article 523."
+        }
+      },
+      {
+        "no": 524,
+        "text": {
+          "en": "Where a foreigner, or the representative of a foreign enterprise or organisation, signs a power of attorney within the territory of the People's Republic of China and entrusts an agent to conduct civil proceedings, and the power of attorney is notarised by a notarial institution of the People's Republic of China, the people's court shall recognise it."
+        },
+        "noLabel": {
+          "en": "Article 524."
+        }
+      },
+      {
+        "no": 525,
+        "text": {
+          "en": "Where written materials submitted by a party to a people's court are in a foreign language, a Chinese translation shall be submitted to the people's court at the same time.\nWhere a party has an objection to the Chinese translation, the parties shall jointly entrust a translation agency to provide the translated text; where the parties cannot reach agreement on the choice of translation agency, it shall be determined by the people's court."
+        },
+        "noLabel": {
+          "en": "Article 525."
+        }
+      },
+      {
+        "no": 526,
+        "text": {
+          "en": "In civil proceedings involving foreign elements, a foreign party may entrust a national of his own country as agent ad litem, or may entrust a lawyer of his own country to act as agent ad litem in a non-lawyer capacity; an official of a foreign embassy or consulate in China may, upon the entrustment of a citizen of his own country, act as agent ad litem in a personal capacity, but shall not enjoy diplomatic or consular privileges and immunities in the proceedings."
+        },
+        "noLabel": {
+          "en": "Article 526."
+        }
+      },
+      {
+        "no": 527,
+        "text": {
+          "en": "In civil proceedings involving foreign elements, a foreign embassy or consulate in China may authorise an official of that embassy or consulate, where a national of its own country who is a party is not within the territory of the People's Republic of China, to engage, in a diplomatic representative capacity and on behalf of that national, a lawyer of the People's Republic of China or a citizen of the People's Republic of China to act as agent in civil proceedings."
+        },
+        "noLabel": {
+          "en": "Article 527."
+        }
+      },
+      {
+        "no": 528,
+        "text": {
+          "en": "In civil proceedings involving foreign elements, where the parties reach an agreement through mediation, a mediation statement shall be prepared and issued. Where a party requests that a written judgment be issued, a written judgment may be prepared in accordance with the content of the agreement and served on the parties."
+        },
+        "noLabel": {
+          "en": "Article 528."
+        }
+      },
+      {
+        "no": 529,
+        "text": {
+          "en": "Parties to a contract involving foreign elements or to another dispute over property rights and interests may, by written agreement, choose the court of a foreign country at a place having an actual connection with the dispute, such as the place of domicile of the defendant, the place of performance of the contract, the place of conclusion of the contract, the place of domicile of the plaintiff, the place where the subject matter is located and the place of the tort, to exercise jurisdiction.\nIn accordance with Article 34 and Article 273 of the Civil Procedure Law, in a case subject to the exclusive jurisdiction of the courts of the People's Republic of China, the parties may not choose by agreement the jurisdiction of a foreign court, except where they choose arbitration by agreement."
+        },
+        "noLabel": {
+          "en": "Article 529."
+        }
+      },
+      {
+        "no": 530,
+        "text": {
+          "en": "Where a civil case involving foreign elements concurrently meets the following circumstances, the people's court may rule to reject the plaintiff's action and inform him to bring the action before a more convenient foreign court:\n(1) the defendant requests that the case be under the jurisdiction of a more convenient foreign court, or raises an objection to jurisdiction;\n(2) there is no agreement between the parties choosing the jurisdiction of a court of the People's Republic of China;\n(3) the case is not subject to the exclusive jurisdiction of the courts of the People's Republic of China;\n(4) the case does not involve the interests of the State, citizens, legal persons or other organisations of the People's Republic of China;\n(5) the main facts in dispute in the case did not occur within the territory of the People's Republic of China, the law of the People's Republic of China does not apply to the case, and the people's court faces major difficulties in ascertaining the facts and applying the law in trying the case;\n(6) the foreign court has jurisdiction over the case and it is more convenient for that court to try the case."
+        },
+        "noLabel": {
+          "en": "Article 530."
+        }
+      },
+      {
+        "no": 531,
+        "text": {
+          "en": "In a case over which both a court of the People's Republic of China and a foreign court have jurisdiction, where one party brings an action before the foreign court and the other party brings an action before a court of the People's Republic of China, the people's court may accept the case. After the judgment is made, where the foreign court applies, or a party requests the people's court, for recognition and enforcement of the judgment or ruling made by the foreign court in the case, it shall not be permitted, unless otherwise provided in an international treaty concluded or acceded to by both sides.\nWhere a judgment or ruling of a foreign court has already been recognised by a people's court and a party brings an action before a people's court in respect of the same dispute, the people's court shall not accept it."
+        },
+        "noLabel": {
+          "en": "Article 531."
+        }
+      },
+      {
+        "no": 532,
+        "text": {
+          "en": "For a party that has no domicile within the territory of the People's Republic of China, where the procedural documents are served by way of public announcement and the party does not respond after the period of public announcement expires, the people's court shall, after making a default judgment, still serve the adjudicative document by public announcement in accordance with Item 8 of Article 274 of the Civil Procedure Law. Where the party does not appeal within the 30-day appeal period counted from the date on which three months have elapsed since the service of the adjudicative document by public announcement, the judgment of first instance shall take effect in law."
+        },
+        "noLabel": {
+          "en": "Article 532."
+        }
+      },
+      {
+        "no": 533,
+        "text": {
+          "en": "Where a foreigner, or the representative or principal person in charge of a foreign enterprise or organisation, is within the territory of the People's Republic of China, the people's court may serve documents on that natural person or on the representative or principal person in charge of the foreign enterprise or organisation.\nThe principal person in charge of a foreign enterprise or organisation includes its directors, supervisors and senior management personnel."
+        },
+        "noLabel": {
+          "en": "Article 533."
+        }
+      },
+      {
+        "no": 534,
+        "text": {
+          "en": "Where the country in which the person to be served is located permits service by post, the people's court may serve by post.\nService by post shall be accompanied by an acknowledgement of service. Where the person to be served does not sign the acknowledgement of service but signs the receipt for the postal item, it shall be deemed served, and the date of signature shall be the date of service.\nWhere three months have elapsed since the date of posting and no document proving service has been received, and the various circumstances are insufficient to establish that service has been effected, it shall be deemed that service cannot be effected by post."
+        },
+        "noLabel": {
+          "en": "Article 534."
+        }
+      },
+      {
+        "no": 535,
+        "text": {
+          "en": "Where a people's court served procedural documents on a party by way of public announcement at first instance, it may directly serve procedural documents on him by way of public announcement at second instance, unless the people's court is able to effect service by means other than public announcement."
+        },
+        "noLabel": {
+          "en": "Article 535."
+        }
+      },
+      {
+        "no": 536,
+        "text": {
+          "en": "The appeal period for refusing to accept a judgment or ruling of a people's court of first instance shall, for a party having a domicile within the territory of the People's Republic of China, be governed by the period provided in Article 171 of the Civil Procedure Law, and, for a party having no domicile within the territory of the People's Republic of China, be governed by the period provided in Article 276 of the Civil Procedure Law. Where the appeal periods of all parties have expired and no appeal has been filed, the judgment or ruling of the people's court of first instance shall take effect in law."
+        },
+        "noLabel": {
+          "en": "Article 536."
+        }
+      },
+      {
+        "no": 537,
+        "text": {
+          "en": "The period during which a people's court examines an application for retrial filed by a party to a civil case involving foreign elements is not subject to the restriction of Article 211 of the Civil Procedure Law."
+        },
+        "noLabel": {
+          "en": "Article 537."
+        }
+      },
+      {
+        "no": 538,
+        "text": {
+          "en": "An applicant applying to a people's court for execution of an award of a foreign-related arbitration institution of the People's Republic of China shall submit a written application accompanied by the original award. Where the applicant is a foreign party, the application shall be submitted in a Chinese text."
+        },
+        "noLabel": {
+          "en": "Article 538."
+        }
+      },
+      {
+        "no": 539,
+        "text": {
+          "en": "Where a people's court compulsorily executes an arbitral award of a foreign-related arbitration institution and the person subject to execution raises a defence on the ground that a circumstance provided in Paragraph 1 of Article 281 of the Civil Procedure Law exists, the people's court shall examine the defence of the person subject to execution and, according to the result of the examination, rule to execute or not to execute."
+        },
+        "noLabel": {
+          "en": "Article 539."
+        }
+      },
+      {
+        "no": 540,
+        "text": {
+          "en": "In accordance with Article 279 of the Civil Procedure Law, where a foreign-related arbitration institution of the People's Republic of China refers a party's application for preservation to a people's court for a ruling, the people's court may conduct an examination and rule on whether to grant preservation. Where it rules to grant preservation, it shall order the applicant to provide security; where the applicant does not provide security, it shall rule to reject the application.\nWhere a party applies for preservation of evidence and the people's court, upon examination, considers that no security need be provided, the applicant may refrain from providing security."
+        },
+        "noLabel": {
+          "en": "Article 540."
+        }
+      },
+      {
+        "no": 541,
+        "text": {
+          "en": "An applicant applying to a people's court for recognition and enforcement of an effective judgment or ruling made by a foreign court shall submit an application accompanied by the original effective judgment or ruling made by the foreign court, or a certified copy thereof, and a Chinese translation. Where the judgment or ruling of the foreign court is a default judgment or ruling, the applicant shall at the same time submit a document proving that the foreign court has lawfully summoned the parties, unless the judgment or ruling already states this clearly.\nWhere an international treaty concluded or acceded to by the People's Republic of China contains provisions on the submission of documents, those provisions shall be complied with."
+        },
+        "noLabel": {
+          "en": "Article 541."
+        }
+      },
+      {
+        "no": 542,
+        "text": {
+          "en": "Where a party applies to an intermediate people's court of the People's Republic of China with jurisdiction for recognition and enforcement of an effective judgment or ruling made by a foreign court and the country in which that court is located has neither concluded nor jointly acceded to an international treaty with the People's Republic of China and there is no relationship of reciprocity, it shall rule to reject the application, except where the party applies to the people's court for recognition of an effective divorce judgment made by a foreign court.\nWhere an application for recognition and enforcement is rejected by ruling, the party may bring an action before a people's court."
+        },
+        "noLabel": {
+          "en": "Article 542."
+        }
+      },
+      {
+        "no": 543,
+        "text": {
+          "en": "In respect of an arbitral award made by an ad hoc arbitral tribunal outside the territory of the People's Republic of China, where a party applies to a people's court for recognition and enforcement, the people's court shall deal with the matter in accordance with Article 290 of the Civil Procedure Law."
+        },
+        "noLabel": {
+          "en": "Article 543."
+        }
+      },
+      {
+        "no": 544,
+        "text": {
+          "en": "Where an effective judgment or ruling made by a foreign court, or a foreign arbitral award, needs to be enforced by a court of the People's Republic of China, the party shall first apply to a people's court for recognition. After the people's court, upon examination, rules to recognise it, it shall then be enforced in accordance with the provisions of Part III of the Civil Procedure Law.\nWhere a party only applies for recognition and does not at the same time apply for enforcement, the people's court shall only examine and rule on whether recognition should be granted."
+        },
+        "noLabel": {
+          "en": "Article 544."
+        }
+      },
+      {
+        "no": 545,
+        "text": {
+          "en": "The period for a party to apply for recognition and enforcement of an effective judgment or ruling made by a foreign court or of a foreign arbitral award shall be governed by Article 246 of the Civil Procedure Law.\nWhere a party only applies for recognition and does not at the same time apply for enforcement, the period for applying for enforcement shall be recalculated from the date on which the ruling of the people's court on the application for recognition takes effect."
+        },
+        "noLabel": {
+          "en": "Article 545."
+        }
+      },
+      {
+        "no": 546,
+        "text": {
+          "en": "In a case of recognition and enforcement of an effective judgment or ruling made by a foreign court or of a foreign arbitral award, the people's court shall form a collegial panel to conduct the examination.\nThe people's court shall serve the application on the respondent. The respondent may state his opinions.\nA ruling made by the people's court after examination shall take effect in law upon service."
+        },
+        "noLabel": {
+          "en": "Article 546."
+        }
+      },
+      {
+        "no": 547,
+        "text": {
+          "en": "Where a court of a country that has neither a judicial assistance treaty nor a relationship of reciprocity with the People's Republic of China directly requests a people's court to provide judicial assistance without going through diplomatic channels, the people's court shall return the request and state the reasons."
+        },
+        "noLabel": {
+          "en": "Article 547."
+        }
+      },
+      {
+        "no": 548,
+        "text": {
+          "en": "Where a party uses a written judgment or ruling of a court of the People's Republic of China outside the territory of the People's Republic of China and requests a court of the People's Republic of China to certify its legal effect, or where a foreign court requests a court of the People's Republic of China to certify the legal effect of a written judgment or ruling, the court of the People's Republic of China that made the judgment or ruling may issue a certificate in the name of that court."
+        },
+        "noLabel": {
+          "en": "Article 548."
+        }
+      },
+      {
+        "no": 549,
+        "text": {
+          "en": "In trying civil cases involving Hong Kong, China, the Macao Special Administrative Region and the Taiwan region, a people's court may apply the special provisions on civil procedure involving foreign elements by reference.\nXXIII. Supplementary Provisions"
+        },
+        "noLabel": {
+          "en": "Article 549."
+        }
+      },
+      {
+        "no": 550,
+        "text": {
+          "en": "After these Interpretations are promulgated and come into force, the Opinions on Several Issues Concerning the Application of the Civil Procedure Law of the People's Republic of China issued by the Supreme People's Court on 14 July 1992 shall be repealed at the same time; where judicial interpretations previously issued by the Supreme People's Court are inconsistent with these Interpretations, they shall no longer apply."
+        },
+        "noLabel": {
+          "en": "Article 550."
         }
       }
     ]
@@ -1878,6 +6843,7779 @@
         },
         "noLabel": {
           "en": "Article 7."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0435'] = {
+    "lawId": "CN-JI-0435",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 653 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Cases of private prosecution directly accepted by a people's court include:\n(1) cases handled only upon complaint:\n1. cases of insult or defamation (as provided in Article 246 of the Criminal Law, except where social order and the interests of the State are seriously endangered);\n2. cases of interference with the freedom of marriage by violence (as provided in Paragraph 1 of Article 257 of the Criminal Law);\n3. cases of maltreatment (as provided in Paragraph 1 of Article 260 of the Criminal Law, except where the victim is unable to complain or is unable to complain because he has been subjected to coercion or intimidation);\n4. cases of misappropriation (as provided in Article 270 of the Criminal Law).\n(2) minor criminal cases in which the people's procuratorate has not instituted public prosecution and the victim has evidence to prove the offence:\n1. cases of intentional injury (as provided in Paragraph 1 of Article 234 of the Criminal Law);\n2. cases of unlawful intrusion into a dwelling (as provided in Article 245 of the Criminal Law);\n3. cases of infringement of the freedom of correspondence (as provided in Article 252 of the Criminal Law);\n4. cases of bigamy (as provided in Article 258 of the Criminal Law);\n5. cases of abandonment (as provided in Article 261 of the Criminal Law);\n6. cases of producing or selling substandard commodities (as provided in Section 1 of Chapter III of the Specific Provisions of the Criminal Law, except where social order and the interests of the State are seriously endangered);\n7. cases of infringement of intellectual property rights (as provided in Section 7 of Chapter III of the Specific Provisions of the Criminal Law, except where social order and the interests of the State are seriously endangered);\n8. cases provided in Chapters IV and V of the Specific Provisions of the Criminal Law in which a sentence of not more than three years of fixed-term imprisonment may be imposed.\nWhere the victim in a case provided in this item directly brings an action before a people's court, the people's court shall accept it in accordance with law. Where the evidence in the case is insufficient and the case may be accepted by a public security organ, or where it considers that a sentence of three years or more of fixed-term imprisonment may be imposed on the defendant, it shall inform the victim to report the case to the public security organ, or transfer the case to the public security organ for filing and investigation.\n(3) cases in which the victim has evidence to prove that the defendant's act infringing his personal or property rights should be pursued for criminal responsibility in accordance with law, and has evidence to prove that a complaint has been made, but the public security organ or the people's procuratorate does not pursue the defendant's criminal responsibility."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The place of crime includes the place where the criminal act is committed and the place where the criminal result occurs.\nFor a crime committed against or mainly by making use of a computer network, the place of crime includes the place where the server used by the network service for committing the criminal act is located, the place where the network service provider is located, the place where the infringed information network system and its administrator are located, the place where the information network system used by the defendant and the victim in the course of the crime is located, as well as the place where the victim was infringed and the place where the victim's property suffered loss."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The place of household registration of the defendant is his place of residence. Where the habitual residence is inconsistent with the place of household registration, the habitual residence is his place of residence. The habitual residence is the place where the defendant had continuously resided for more than one year before he was prosecuted, except where he resided there for hospital treatment.\nThe registered domicile of a defendant unit is its place of residence. Where the principal place of business or the place where the principal office is located is inconsistent with the registered domicile, the principal place of business or the place where the principal office is located is its place of residence."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "A criminal case occurring in the inland waters or territorial sea of the People's Republic of China shall be under the jurisdiction of the people's court of the place of crime or of the place where the defendant landed. Where it is more appropriate for the people's court of the place of residence of the defendant to try the case, it may be under the jurisdiction of the people's court of the place of residence of the defendant."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "For a crime committed on a train, where the defendant is caught while the train is running, the case shall be under the jurisdiction of the people's court responsible for trying railway transport criminal cases at the place where the next stop is located. Where necessary, it may also be under the jurisdiction of the people's court responsible for trying railway transport criminal cases at the place where the originating station or the terminal station is located.\nWhere the defendant is not caught while the train is running, the case shall be under the jurisdiction of the people's court responsible for trying railway transport criminal cases corresponding to the railway public security organ responsible for the train service; where the defendant is caught at a station passed by the train, the case may also be under the jurisdiction of the people's court responsible for trying railway transport criminal cases at the place where that station is located."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "For a crime committed on an international train, jurisdiction shall be determined in accordance with the agreements concluded between China and the relevant countries; where there is no agreement, the case shall be under the jurisdiction of the people's court responsible for trying railway transport criminal cases at the place where the Chinese station from which the train departed or at which it next stops is located."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "For a crime committed on board a Chinese vessel outside the territory of the People's Republic of China, the case shall be under the jurisdiction of the people's court of the place of the Chinese port where the vessel first anchored, or of the place where the defendant landed or entered the country."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "For a crime committed on board a Chinese aircraft outside the territory of the People's Republic of China, the case shall be under the jurisdiction of the people's court of the place where the aircraft first landed in China."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "For a crime committed by a Chinese citizen within a Chinese embassy or consulate abroad, the case shall be under the jurisdiction of the people's court of the place where the competent unit to which he belongs is located or of his original place of household registration."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "For a crime committed against a Chinese citizen outside the territory of the People's Republic of China, where the place of crime is a foreign place and the place of residence of the defendant is within the territory of China, the case shall be under the jurisdiction of the people's court of the place of residence of the defendant."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "For a crime committed by a foreigner against a Chinese citizen outside the territory of the People's Republic of China, where the crime is provided in the Criminal Law and the place of entry of the foreigner is within the territory of China, the case shall be under the jurisdiction of the people's court of the place of entry of the defendant or of the place of residence of the victim."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "For a crime committed against a Chinese citizen outside the territory of the People's Republic of China and not under the jurisdiction of a people's court in accordance with the preceding Article and Article 10 of these Interpretations, the case shall be under the jurisdiction of the people's court of the place of residence of the victim or of the place where the victim last resided within the territory of China."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "At the time of docketing and trial, a people's court that discovers that a case should be under the jurisdiction of another people's court shall transfer the case to the people's court with jurisdiction; where the people's court to which the case is transferred considers that the transfer is improper and that the case should be under the jurisdiction of the people's court that transferred it, it shall report to the people's court at the next higher level for designation of jurisdiction, and shall not transfer the case again itself.\nWhere a people's court that discovers that a case should be under the jurisdiction of a people's court at a higher level does not transfer the case, it may, after trial, render a judgment according to law and with reference to the provisions of the Criminal Procedure Law on procedure of first instance.\nWhere a people's court that discovers that a case should be under the jurisdiction of a people's court at the same level as another people's court transfers the case to that court, the transfer may be made only after consultation with that court."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Where a people's procuratorate institutes public prosecution before an intermediate people's court in a case in which it considers that life imprisonment or the death penalty may be imposed, and the intermediate people's court, after accepting the case, considers that life imprisonment or the death penalty need not be imposed, it shall try the case in accordance with law and shall not refer it to a basic people's court for trial."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "In a case in which one person commits several crimes, a joint crime or another case requiring consolidated trial, where one of the persons or one of the crimes is under the jurisdiction of a people's court at a higher level, the whole case shall be under the jurisdiction of the people's court at the higher level."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where a people's court at a higher level decides to try a criminal case of first instance under the jurisdiction of a people's court at a lower level, it shall issue to the lower court a written decision on change of jurisdiction and notify the people's procuratorate at the same level in writing."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "A basic people's court shall transfer to an intermediate people's court for trial a criminal case of first instance in which life imprisonment or the death penalty may be imposed.\nA basic people's court may request transfer to an intermediate people's court for trial in respect of the following criminal cases of first instance:\n(1) major and complex cases;\n(2) difficult cases of a new type;\n(3) cases of general guiding significance in the application of law.\nWhere a case needs to be transferred to an intermediate people's court for trial, a written request for transfer shall be made, after submission to the president of the court for decision, no later than 15 days before the expiry of the time limit for trial of the case. The intermediate people's court shall make a decision within ten days after receipt of the request. Where it does not agree to the transfer, it shall issue a written decision not agreeing to the transfer, and the people's court requesting the transfer shall try the case in accordance with law; where it agrees to the transfer, it shall issue a written decision agreeing to the transfer and notify the people's procuratorate at the same level in writing."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where a people's court with jurisdiction is unsuited to exercise jurisdiction because the case involves the president of that court who should withdraw or for another reason, it may request transfer of jurisdiction to the people's court at the next higher level. The people's court at the next higher level may itself exercise jurisdiction, or may designate another people's court at the same level as the people's court making the request to exercise jurisdiction."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Where two or more people's courts at the same level all have jurisdiction over a case, the case shall be tried by the people's court that first accepted it. Where necessary, it may be transferred to the people's court of the principal place of crime for trial.\nWhere a dispute over jurisdiction arises, it shall be resolved through consultation within the time limit for trial; where consultation fails, the people's courts in dispute shall report separately through the levels to their common people's court at a higher level for designation of jurisdiction."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where the jurisdiction over a case is unclear, the people's court at a higher level may designate a people's court at a lower level to try it.\nWhere it is more appropriate for a people's court other than that of the place of crime or of the place of residence of the defendant to try a case, the people's court at a higher level may designate a people's court at a lower level to exercise jurisdiction."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where a people's court at a higher level designates jurisdiction, it shall serve the written decision on designation of jurisdiction on the people's court designated to exercise jurisdiction and on the other relevant people's courts."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "After a people's court that originally accepted a case receives a written decision of a people's court at a higher level on change of jurisdiction, a written decision agreeing to transfer or a written decision designating another people's court to exercise jurisdiction, it shall, in respect of a case of public prosecution, notify the people's procuratorate at the same level in writing, return the case file materials and notify the parties in writing at the same time; in respect of a case of private prosecution, it shall transfer the case file materials to the people's court designated to exercise jurisdiction and notify the parties in writing."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where a case is remanded by a people's court of second instance for retrial, and after the people's procuratorate withdraws the prosecution it again institutes public prosecution before a people's court at a lower level than the people's court of original first instance, the people's court at the lower level shall report the relevant circumstances through the levels to the original people's court of second instance. The original people's court of second instance may, according to the specific circumstances, decide to transfer the case to the people's court of original first instance or to another people's court for trial."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Where a people's court discovers that the defendant has been prosecuted for other crimes, it may try the cases together; where the crimes are of the same kind, the cases shall in general be tried together.\nWhere a people's court discovers that the defendant's other crimes are under examination for prosecution, under investigation after filing, or under investigation after docketing, it may, by reference to the preceding paragraph, consult the people's procuratorate, the public security organ and the supervisory organ on handling the cases together, except where this may cause excessive delay in the trial.\nA case handled together in accordance with the preceding two paragraphs shall be tried by the people's court of the place that first accepted it. Where necessary, it may be tried by the people's court of the principal place of crime."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Where, in the course of trial, a people's court of second instance discovers that the defendant has other crimes for which no judgment has been made, the matter shall be handled by reference to the preceding Article. Where the people's court of second instance decides to try the cases together, it shall remand the case to the people's court of first instance, which shall deal with it."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Jurisdiction over criminal cases involving both military and civilian elements shall be determined in accordance with the relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where a judicial officer falls under any of the following circumstances, he shall withdraw on his own initiative, and the parties and their statutory agents have the right to apply for his withdrawal:\n(1) he is a party to the case or a close relative of a party;\n(2) he or his close relative has an interest in the case;\n(3) he has served as a witness, appraiser, defender, agent ad litem or interpreter in the case;\n(4) he is a close relative of the defender or agent ad litem in the case;\n(5) he has another interest in a party to the case that may affect the impartial trial of the case."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter II Withdrawal"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Where a judicial officer falls under any of the following circumstances, the parties and their statutory agents have the right to apply for his withdrawal:\n(1) he meets a party to the case, a defender or an agent ad litem in violation of the provisions;\n(2) he recommends or introduces a defender or agent ad litem to a party to the case, or introduces a lawyer or another person to handle the case;\n(3) he solicits or accepts property or other benefits from a party to the case or from a person entrusted by a party;\n(4) he accepts a banquet given by a party to the case or by a person entrusted by a party, or participates in activities the expenses of which are paid by such persons;\n(5) he borrows money or property from a party to the case or from a person entrusted by a party;\n(6) he has other improper conduct that may affect the impartial trial of the case."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter II Withdrawal"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "A supervisory, investigative or procuratorial officer who has participated in the investigation, detection or examination for prosecution of a case may not serve as a judicial officer in the case after being transferred to work in a people's court.\nA member of a collegial panel or a sole judge who has participated in the trial of a case in one trial procedure may not participate in the trial of the case in another procedure. However, where a case is remanded for retrial and, after the people's court of first instance makes an adjudication, enters the procedure of second instance, the procedure for review of a sentence below the statutory minimum penalty or the procedure for review of a death sentence, the members of the collegial panel in the original procedure of second instance, procedure for review of a sentence below the statutory minimum penalty or procedure for review of a death sentence are not subject to the restriction of this paragraph."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter II Withdrawal"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "A person who is required by law and the relevant provisions to observe withdrawal on account of his post may not serve as a judicial officer in a case."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter II Withdrawal"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "A people's court shall inform the parties and their statutory agents in accordance with law of their right to apply for withdrawal, and shall inform them of the names of the members of the collegial panel, the sole judge, the judge's assistants, the court clerks and other personnel."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter II Withdrawal"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Where a judicial officer applies for withdrawal on his own initiative, or a party or his statutory agent applies for the withdrawal of a judicial officer, the application may be made orally or in writing, shall state the reasons, and shall be decided by the president of the court.\nWhere the president of the court applies for withdrawal on his own initiative, or a party or his statutory agent applies for the withdrawal of the president, the matter shall be discussed and decided by the judicial committee. When the judicial committee discusses the matter, it shall be presided over by a vice-president, and the president may not participate."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter II Withdrawal"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Where a party or his statutory agent applies for withdrawal in accordance with Article 30 of the Criminal Procedure Law and Article 28 of these Interpretations, he shall provide supporting materials."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter II Withdrawal"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Where a judicial officer who should withdraw does not withdraw on his own initiative and a party or his statutory agent has not applied for his withdrawal, the president of the court or the judicial committee shall decide that he withdraw."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter II Withdrawal"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "In respect of an application for withdrawal raised by a party or his statutory agent, the people's court may make a decision orally or in writing and shall inform the applicant of the decision.\nWhere an application for withdrawal raised by a party or his statutory agent is rejected, the applicant may apply once for reconsideration upon receipt of the decision. An application for withdrawal that does not fall under the circumstances provided in Article 29 or Article 30 of the Criminal Procedure Law shall be rejected by the court in open court, and no reconsideration may be applied for."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter II Withdrawal"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Where a party or his statutory agent applies for the withdrawal of a procuratorial officer appearing in court, the people's court shall deal with the matter according to the different circumstances:\n(1) where the application for withdrawal falls under the circumstances provided in Article 29 or Article 30 of the Criminal Procedure Law, it shall decide to adjourn the hearing and notify the people's procuratorate to make a decision as soon as possible;\n(2) where the application for withdrawal does not fall under the circumstances provided in Article 29 or Article 30 of the Criminal Procedure Law, it shall be rejected in open court, and no reconsideration may be applied for."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter II Withdrawal"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The judicial officers referred to in this Chapter include the president and vice-presidents of a people's court, the members of the judicial committee, the chief judge and deputy chief judges of a division, judges and people's assessors."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter II Withdrawal"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "The relevant provisions on the withdrawal of judicial officers apply to judge's assistants, court clerks, interpreters and appraisers, and the question of their withdrawal shall be decided by the president of the court."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter II Withdrawal"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "A defender or agent ad litem may, in accordance with the relevant provisions of this Chapter, request withdrawal and apply for reconsideration."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter II Withdrawal"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "In trying a case, a people's court shall fully safeguard the right of defence enjoyed by the defendant in accordance with law.\nIn addition to exercising the right of defence himself, the defendant may also entrust a defender to defend him. The following persons may not serve as defenders:\n(1) persons who are serving a criminal sentence or are within the period of probation of a suspended sentence or of release on parole;\n(2) persons who have been deprived of or whose personal freedom has been restricted in accordance with law;\n(3) persons who have been dismissed from public office or whose lawyer's or notary's practice certificate has been revoked;\n(4) persons currently employed by a people's court, a people's procuratorate, a supervisory organ, a public security organ, a State security organ or a prison;\n(5) people's assessors;\n(6) persons having an interest in the outcome of the trial of the case;\n(7) foreigners or stateless persons;\n(8) persons without capacity for conduct or with limited capacity for conduct.\nWhere a person provided in Items 3 to 7 of the preceding paragraph is the guardian or a close relative of the defendant, and the defendant entrusts him to serve as defender, this may be permitted."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter III Defence and Representation"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Within two years after a judicial officer or other staff member of a people's court leaves the people's court, he may not serve as a defender in the capacity of a lawyer.\nAfter a judicial officer or other staff member of a people's court leaves the people's court, he may not serve as a defender in a case tried by the court in which he originally held office, except where he is the guardian or a close relative of the defendant.\nThe spouse, child or parent of a judicial officer or other staff member of a people's court may not serve as a defender in a case tried by the court in which that person holds office, except where he or she is the guardian or a close relative of the defendant."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter III Defence and Representation"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where a person accepts an entrustment to serve as a defender, the people's court shall verify his identity document and power of attorney."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter III Defence and Representation"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "One defendant may entrust one or two persons to serve as defenders.\nOne defender may not defend two or more co-defendants in the same case, or defendants not tried in the same case but whose criminal facts are connected."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter III Defence and Representation"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where a defendant has not entrusted a defender, the people's court shall, within three days from the date of accepting the case, inform him that he has the right to entrust a defender; where the defendant has not entrusted a defender because of financial difficulty or for another reason, it shall inform him that he may apply for legal aid; where the defendant falls under a circumstance in which legal aid should be provided, it shall inform him that it will notify the legal aid institution in accordance with law to assign a lawyer to defend him.\nWhere a defendant has not entrusted a defender and the legal aid institution has also not assigned a lawyer to defend him, the people's court shall inform the defendant that he has the right to meet a duty lawyer and shall facilitate the defendant's meeting with a duty lawyer.\nThe notification may be given orally or in writing."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter III Defence and Representation"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "During the trial, where a defendant in custody requests to entrust a defender, the people's court shall, within three days, convey the request to his guardian, close relative or a person designated by him. The defendant shall provide the means of contact of the relevant person. Where the relevant person cannot be notified, the defendant shall be so informed."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter III Defence and Representation"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where a people's court receives an application for legal aid or legal assistance made by a defendant in custody, it shall promptly forward it to the legal aid institution or notify a duty lawyer in accordance with the relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter III Defence and Representation"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "For the following defendants who have not entrusted defenders, the people's court shall notify the legal aid institution to assign a lawyer to defend them:\n(1) blind, deaf or mute persons;\n(2) persons with mental illness who have not yet completely lost the capacity to recognise or control their own conduct;\n(3) persons on whom life imprisonment or the death penalty may be imposed.\nWhere a people's court at a higher level reviews a death penalty case and the defendant has not entrusted a defender, it shall notify the legal aid institution to assign a lawyer to defend him.\nThe preceding two paragraphs shall apply to a case in which a crime is intentionally committed during the period of suspension of a death sentence."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter III Defence and Representation"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where any of the following circumstances exists and the defendant has not entrusted a defender, the people's court may notify the legal aid institution to assign a lawyer to defend him:\n(1) in a joint crime case, the other defendants have already entrusted defenders;\n(2) the case has a major social impact;\n(3) the people's procuratorate lodges a protest;\n(4) the defendant's conduct may not constitute a crime;\n(5) other circumstances in which it is necessary to assign a lawyer to provide a defence."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter III Defence and Representation"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where a people's court notifies the legal aid institution to assign a lawyer to provide a defence, it shall serve the notice of legal aid and a copy of the bill of indictment or of the written judgment on the legal aid institution; where it decides to hold a hearing, it shall, except in a case tried under summary procedure or the procedure for expedited adjudication, serve the above materials on the legal aid institution 15 days before the hearing.\nThe notice of legal aid shall state the cause of action, the name of the defendant, the reasons for providing legal aid and the names and means of contact of the judicial officers; where a hearing has been fixed, it shall state the time and place of the hearing."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter III Defence and Representation"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where a defendant refuses a lawyer assigned by the legal aid institution to defend him and insists on exercising the right of defence himself, the people's court shall permit it.\nWhere the case falls under a circumstance in which legal aid should be provided and the defendant refuses the assigned lawyer to defend him, the people's court shall ascertain the reasons. Where the reasons are justified, it shall permit the refusal, but the defendant shall entrust another defender within five days; where the defendant does not entrust another defender, the people's court shall, within three days, notify the legal aid institution to assign another lawyer to defend him."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter III Defence and Representation"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where a lawyer is assigned by a legal aid institution to defend a defendant and the defendant's guardian or close relative also entrusts a defender on his behalf, the defendant's opinion shall be sought, and the defendant shall decide the choice of defender."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter III Defence and Representation"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "During the trial, where a defender accepts the entrustment of a defendant, he shall submit the entrustment formalities to the people's court within three days from the date of accepting the entrustment.\nThe preceding paragraph shall apply where a lawyer accepts assignment by a legal aid institution to defend a defendant."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter III Defence and Representation"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Defence counsel may consult, take notes from and copy the case file materials. Other defenders may also consult, take notes from and copy the case file materials with the permission of the people's court. The records of discussions of the collegial panel and the judicial committee and other materials not made public in accordance with law may not be consulted, copied from or reproduced.\nWhere a defender consults, takes notes from or copies the case file materials, the people's court shall provide facilities and guarantee the necessary time.\nThe preceding two paragraphs shall apply where a duty lawyer consults the case file materials.\nCopies of the case file materials may be made by photocopying, photographing, scanning, copying electronic data or other means."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter III Defence and Representation"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where a defence lawyer applies to consult audio-visual recordings of interrogation submitted to the people's court as evidentiary materials, the people's court shall permit it."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter III Defence and Representation"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where consulting, taking notes from or copying of case file materials involves State secrets, commercial secrets or personal privacy, confidentiality shall be maintained; information and materials concerning a case tried in camera, or important information and evidentiary materials of a case learned in the course of handling the case, may not be divulged or disclosed in violation of the provisions, and may not be used for purposes other than handling the case. The people's court may require the relevant persons to issue a letter of undertaking.\nWhere the preceding paragraph is violated, the people's court may report the matter to the judicial administrative organ or the relevant department and recommend that the corresponding sanction be imposed; where a crime is constituted, criminal responsibility shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter III Defence and Representation"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Defence counsel may meet and correspond with a defendant in custody or under residential surveillance. Other defenders may also meet and correspond with a defendant in custody or under residential surveillance with the permission of the people's court."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter III Defence and Representation"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where a defender considers that evidence collected by a supervisory organ, a public security organ or a people's procuratorate during investigation, detection or examination for prosecution which proves the defendant's innocence or the minor nature of his crime has not been transferred with the case, and applies to the people's court to obtain it, the application shall be made in writing and shall be accompanied by the relevant leads or materials. After accepting the application, the people's court shall obtain the evidence from the people's procuratorate. After the people's procuratorate transfers the relevant evidentiary materials, the people's court shall promptly notify the defender."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter III Defence and Representation"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where defence counsel applies to collect materials related to the case from the victim, his close relatives or witnesses provided by the victim, and the people's court considers it truly necessary, it shall issue a written permission to investigate."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter III Defence and Representation"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where defence counsel collects or obtains evidentiary materials related to the case from a witness or from a relevant unit or individual and, because the witness, unit or individual does not consent, applies to the people's court to collect or obtain them, or applies for the witness to be notified to testify in court, and the people's court considers it truly necessary, it shall agree."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter III Defence and Representation"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Where defence counsel directly applies to the people's court to collect or obtain evidentiary materials from a witness or from a relevant unit or individual, and the people's court considers it truly necessary and that it is inappropriate or impossible for defence counsel to collect or obtain them, it shall agree.\nWritten evidentiary materials collected or obtained by the people's court from a relevant unit must be signed by the provider and sealed with the seal of the unit; written evidentiary materials collected or obtained from an individual must be signed by the provider.\nThe people's court shall issue a receipt for evidentiary materials provided by a relevant unit or individual, stating the name of the evidentiary materials, the time of receipt, the number of items, the number of pages and whether they are originals, and the receipt shall be signed by the court clerk, the judge's assistant or the judicial officer.\nAfter collecting or obtaining the evidentiary materials, the people's court shall promptly notify defence counsel to consult, take notes from and copy them and shall inform the people's procuratorate."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter III Defence and Representation"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "An application provided in Article 58 to Article 60 of these Interpretations shall be made in writing, state the reasons, and set out the content of the evidentiary materials to be collected or obtained or an outline of the questions to be investigated.\nIn respect of an application by defence counsel, the people's court shall, within five days, decide whether to permit or agree and notify the applicant; where it decides not to permit or not to agree, it shall state the reasons."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter III Defence and Representation"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "A people's court shall, within three days from the date of accepting a case of private prosecution, inform the private prosecutor and his statutory agent and the parties to the civil action ancillary to the criminal proceedings and their statutory agents that they have the right to entrust an agent ad litem, and inform them that they may apply for legal aid if they have financial difficulties."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter III Defence and Representation"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Where a party entrusts an agent ad litem, Article 33 of the Criminal Procedure Law and the relevant provisions of these Interpretations shall apply by reference."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter III Defence and Representation"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "An agent ad litem has the right, on the basis of facts and law, to safeguard the procedural rights and other lawful rights and interests of the victim, the private prosecutor or a party to the civil action ancillary to the criminal proceedings."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter III Defence and Representation"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Where a lawyer serves as agent ad litem, he may consult, take notes from and copy the case file materials. Other agents ad litem may also consult, take notes from and copy the case file materials with the permission of the people's court.\nWhere a lawyer serving as agent ad litem needs to collect or obtain evidentiary materials related to the case, Article 59 to Article 61 of these Interpretations shall apply by reference."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter III Defence and Representation"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "After an agent ad litem accepts the entrustment of a party or assignment by a legal aid institution, he shall submit the entrustment formalities or the legal aid formalities to the people's court within three days."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter III Defence and Representation"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Where defence counsel informs a people's court that his client or another person is preparing to commit or is committing a crime endangering national security or public security or seriously endangering the personal safety of others, the people's court shall record it in the file, promptly transmit it to the competent organ for handling in accordance with law, and keep confidential the identity of the defence counsel who reported the relevant circumstances."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter III Defence and Representation"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "Where a lawyer serving as defender or agent ad litem has obtained the permission of the people's court, he may bring one assistant to participate in the court hearing. Where a lawyer's assistant participates in the court hearing, he may perform auxiliary work but may not express opinions of defence or agency."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter III Defence and Representation"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "The ascertainment of the facts of a case must be based on evidence."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "Judicial officers shall collect, examine, verify and determine evidence in accordance with statutory procedure."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "Evidence that has not been verified through the court investigation procedure such as being produced in court, identified and cross-examined may not be used as the basis of adjudication."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "The facts of a case that need to be proved by evidence include:\n(1) the identity of the defendant and the victim;\n(2) whether the alleged crime exists;\n(3) whether the alleged crime was committed by the defendant;\n(4) whether the defendant has criminal responsibility, whether he was at fault, and the motive and purpose of committing the crime;\n(5) the time, place, means and consequences of committing the crime and the cause of the case;\n(6) whether it is a joint crime or whether the criminal facts are connected, and the defendant's status and role in the crime;\n(7) whether the defendant is subject to circumstances of heavier, lighter or mitigated punishment or exemption from punishment;\n(8) the facts concerning the handling of property involved in the case;\n(9) the facts concerning the civil action ancillary to the criminal proceedings;\n(10) the procedural facts concerning jurisdiction, withdrawal and postponement of trial;\n(11) other facts relevant to conviction and sentencing.\nThe standard of proof of reliable and sufficient evidence shall apply to the determination that the defendant is guilty and to the imposition of a heavier punishment on the defendant."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "In respect of a case of public prosecution, the people's court shall examine whether all evidentiary materials proving that the defendant is guilty or innocent, or that the crime is serious or minor, have been transferred with the case; where they have not been transferred with the case, it shall notify the people's procuratorate to transfer them within a designated time. Where the people's procuratorate does not transfer them, the people's court shall determine the facts of the case on the basis of the evidence in the case file."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "In a case in which the interrogation process should be audio-visually recorded in accordance with law, where the relevant audio-visual recording has not been transferred with the case, the people's court may, where necessary, notify the people's procuratorate to transfer it within a designated time. Where the people's procuratorate does not transfer it and this makes it impossible to exclude the circumstance of collecting evidence by unlawful means provided in Article 56 of the Criminal Procedure Law, the relevant evidence shall be excluded in accordance with law; where it makes it impossible to confirm the authenticity of the relevant evidence, it may not be used as the basis of adjudication."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "Evidentiary materials such as material evidence, documentary evidence, audio-visual materials and electronic data collected by an administrative organ in the course of administrative law enforcement and investigation of a case may be used as the basis of adjudication where they have been verified in court and the collection procedure complies with the provisions of the relevant laws and administrative regulations.\nEvidentiary materials collected by an organisation exercising the State administrative management functions and powers in accordance with the provisions of laws and administrative regulations in the course of administrative law enforcement and investigation of a case shall be deemed evidentiary materials collected by an administrative organ."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "Evidentiary materials collected by a supervisory organ in accordance with law may be used as evidence in criminal proceedings.\nThe requirements and standards of criminal trial concerning evidence shall apply to the examination and assessment of the evidence provided in the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "In respect of evidentiary materials originating from outside the territory, the people's procuratorate shall transfer with the case a statement of the source of the materials, the provider, the person who obtained them and the time of obtaining them. Where, upon examination by the people's court, the relevant evidentiary materials can prove the facts of the case and comply with the provisions of the Criminal Procedure Law, they may be used as evidence, except where the provider or a bilateral treaty concluded between China and the relevant country expressly restricts the scope of use of the materials; where the source of the materials is unclear or their authenticity cannot be confirmed, they may not be used as the basis of adjudication.\nWhere a party or his defender or agent ad litem provides evidentiary materials originating from outside the territory, the evidentiary materials shall be certified by a notarial institution of the country where they are located, authenticated by the central foreign affairs authority of that country or an authority authorised by it, and authenticated by the embassy or consulate of the People's Republic of China in that country, or the certification formalities provided in the relevant treaty concluded between the People's Republic of China and that country shall be completed, except where there is an agreement between China and that country on mutual exemption from authentication."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "Where evidentiary materials provided by the prosecution and the defence involve a foreign language or script, a Chinese translation shall be attached."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "Where a people's court investigates and verifies evidence in accordance with Article 196 of the Criminal Procedure Law, it may, where necessary, notify procuratorial officers, defenders, private prosecutors and their statutory agents to be present. Where the above persons are not present, this shall be recorded in the file.\nWhere, in investigating and verifying evidence, a people's court discovers new evidentiary materials that have a major bearing on conviction and sentencing, it shall inform the procuratorial officers, defenders, private prosecutors and their statutory agents. Where necessary, it may also obtain them directly and promptly notify the procuratorial officers, defenders, private prosecutors and their statutory agents to consult, take notes from and copy them."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "The following persons may not serve as witnesses:\n(1) persons who are physically or mentally defective or of young age and do not have the corresponding capacity to distinguish or cannot express themselves correctly;\n(2) persons having an interest in the case that may affect the impartial handling of the case;\n(3) staff members of supervisory, public security or judicial organs, or persons employed by them, who exercise functions and powers of supervisory investigation or criminal proceedings such as inspection, examination, search, seizure and organisation of identification.\nThe people's court may examine whether a witness falls under the persons provided in the preceding paragraph on the basis of materials such as the witness's name, type and number of identity document, means of contact and the registration form of permanent resident population stated in the relevant record.\nWhere, for objective reasons, no qualified person is available to serve as a witness, the circumstances shall be noted in the record materials, and the relevant activities shall be audio-visually recorded in their entirety."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "Where, in a case tried in public, the public prosecutor or a participant in the proceedings presents evidence involving State secrets, commercial secrets or personal privacy, the court shall stop him; where the evidence is indeed related to the case, the court may, according to the specific circumstances, decide to convert the trial of the case into one held in camera, or to conduct the court investigation of the relevant evidence in camera."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "In respect of material evidence and documentary evidence, the following shall be emphasised in the examination:\n(1) whether the material evidence or documentary evidence is the original article or original document, and whether it has been identified or appraised; whether photographs, recordings or reproductions of the material evidence, or copies or reproductions of the documentary evidence, are consistent with the original article or original document, whether they were made by two or more persons, and whether there is a written explanation and signature of the maker concerning the making process and the place where the original article or original document is kept;\n(2) whether the procedure and method of collecting the material evidence or documentary evidence comply with law and the relevant provisions; whether the material evidence or documentary evidence obtained or seized through inspection, examination or search is accompanied by the relevant record and list; whether the record and list are signed by the investigating personnel or detection personnel, the holder of the item and the witness, and, where not signed, whether the reason is stated; whether the name, characteristics, quantity and quality of the item are clearly stated;\n(3) whether the material evidence or documentary evidence was damaged or altered in the course of collection, custody or appraisal;\n(4) whether the material evidence or documentary evidence is related to the facts of the case; in respect of biological samples, traces and items such as bloodstains, body fluids, hair and fingerprints connected with the crime found at the scene and capable of being appraised, whether DNA testing, fingerprint examination and the like have been carried out and compared with the corresponding biological characteristics and items of the defendant or the victim;\n(5) whether the material evidence and documentary evidence related to the facts of the case have been comprehensively collected."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Section 2 Examination and Determination of Physical and Documentary Evidence"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "Material evidence on which adjudication is based shall be the original article. Where the original article is inconvenient to move, difficult to preserve, should be returned in accordance with law or should be kept or disposed of by the relevant department in accordance with law, photographs, recordings or reproductions sufficient to reflect the appearance and characteristics of the original article may be taken or made. Where necessary, judicial officers may go to the place of custody to inspect the original article.\nPhotographs, recordings or reproductions of material evidence that cannot reflect the appearance and characteristics of the original article may not be used as the basis of adjudication.\nPhotographs, recordings or reproductions of material evidence that have been checked against the original article and found identical, or that have been confirmed to be authentic by appraisal or by other means, may be used as the basis of adjudication."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Section 2 Examination and Determination of Physical and Documentary Evidence"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "Documentary evidence on which adjudication is based shall be the original document. Where it is truly difficult to obtain the original document, copies or reproductions may be used.\nDocumentary evidence whose alterations or signs of alteration cannot be reasonably explained, or copies or reproductions of documentary evidence that cannot reflect the original document and its content, may not be used as the basis of adjudication.\nCopies or reproductions of documentary evidence that have been checked against the original document and found identical, or that have been confirmed to be authentic by appraisal or by other means, may be used as the basis of adjudication."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Section 2 Examination and Determination of Physical and Documentary Evidence"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "In respect of biological samples, traces and items such as bloodstains, body fluids, hair, human tissue, fingerprints, footprints and handwriting that may be related to the facts of the case, where they should have been obtained but were not, should have been appraised but were not, or the expert opinion should have been transferred but was not, thereby leaving the facts of the case in doubt, the people's court shall notify the people's procuratorate to supplement the collection, obtainment and transfer of the evidence in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        },
+        "chapter": {
+          "en": "Section 2 Examination and Determination of Physical and Documentary Evidence"
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "Where material evidence or documentary evidence obtained or seized in the course of inspection, examination or search is not accompanied by a record or list and the source of the material evidence or documentary evidence cannot be proved, it may not be used as the basis of adjudication.\nWhere the procedure or method of collecting material evidence or documentary evidence has any of the following defects, and the defect has been corrected or reasonably explained, the evidence may be used:\n(1) the record of inspection, examination, search or obtainment, or the list of seizure, does not bear the signature of the investigating personnel or detection personnel, the holder of the item or the witness, or the name, characteristics, quantity and quality of the item are not stated in detail;\n(2) the photographs, recordings or reproductions of material evidence, or the copies or reproductions of documentary evidence, do not state that they have been checked against the original and found identical, bear no time of reproduction, or bear no signature of the person from whom they were collected or obtained;\n(3) the photographs, recordings or reproductions of material evidence, or the copies or reproductions of documentary evidence, contain no explanation by the maker concerning the making process and the place where the original article or original document is kept, or the explanation bears no signature;\n(4) there are other defects.\nWhere the source or the collection procedure of material evidence or documentary evidence is doubtful and cannot be reasonably explained, the evidence may not be used as the basis of adjudication."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        },
+        "chapter": {
+          "en": "Section 2 Examination and Determination of Physical and Documentary Evidence"
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "In respect of witness testimony, the following shall be emphasised in the examination:\n(1) whether the content of the testimony was directly perceived by the witness;\n(2) whether the witness's age at the time of testifying and his capacity for cognition, memory and expression, and his physical and mental state affect his testimony;\n(3) whether the witness has an interest in a party to the case or in the outcome of the handling of the case;\n(4) whether witnesses were questioned individually;\n(5) whether the making and amendment of the record of questioning comply with law and the relevant provisions, whether the starting and ending time and the place of questioning are stated, whether the witness was informed of the relevant rights, obligations and legal liability at the first questioning, and whether the witness checked and confirmed the record of questioning;\n(6) where a minor witness is questioned, whether his statutory agent or an appropriate adult provided in Paragraph 1 of Article 281 of the Criminal Procedure Law was notified to be present, and whether the relevant person was present;\n(7) whether there was any circumstance of collecting witness testimony by unlawful means such as violence or threat;\n(8) whether the testimony corroborates other testimony and other evidence, and whether there is any contradiction; where a contradiction exists, whether it can be reasonably explained."
+        },
+        "noLabel": {
+          "en": "Article 87."
+        },
+        "chapter": {
+          "en": "Section 3 Examination and Determination of Witness Testimony and Victim Statements"
+        }
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "Testimony provided by a witness who is in a state of obvious intoxication, poisoning or anaesthesia and is unable to perceive normally or express himself correctly may not be used as evidence.\nSpeculative, commentative or inferential testimony of a witness may not be used as evidence, except where it accords with the facts as judged by general life experience."
+        },
+        "noLabel": {
+          "en": "Article 88."
+        },
+        "chapter": {
+          "en": "Section 3 Examination and Determination of Witness Testimony and Victim Statements"
+        }
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "Where witness testimony falls under any of the following circumstances, it may not be used as the basis of adjudication:\n(1) the witnesses were not questioned individually;\n(2) the written testimony was not checked and confirmed by the witness;\n(3) in questioning a deaf or mute person, a person conversant with deaf-mute sign language should have been provided but was not;\n(4) in questioning a witness not conversant with the commonly used local language or script, an interpreter should have been provided but was not."
+        },
+        "noLabel": {
+          "en": "Article 89."
+        },
+        "chapter": {
+          "en": "Section 3 Examination and Determination of Witness Testimony and Victim Statements"
+        }
+      },
+      {
+        "no": 90,
+        "text": {
+          "en": "Where the procedure or method of collecting witness testimony has any of the following defects and the defect has been corrected or reasonably explained, the testimony may be used; where the defect cannot be corrected or reasonably explained, it may not be used as the basis of adjudication:\n(1) the record of questioning does not state the names of the questioner, the recorder and the statutory agent, or the starting and ending time and the place of questioning;\n(2) the place of questioning does not comply with the provisions;\n(3) the record of questioning does not record that the witness was informed of the relevant rights, obligations and legal liability;\n(4) the record of questioning shows that the same questioner questioned different witnesses during the same period of time;\n(5) in questioning a minor, his statutory agent or an appropriate adult was not present."
+        },
+        "noLabel": {
+          "en": "Article 90."
+        },
+        "chapter": {
+          "en": "Section 3 Examination and Determination of Witness Testimony and Victim Statements"
+        }
+      },
+      {
+        "no": 91,
+        "text": {
+          "en": "Testimony given by a witness in court that has been cross-examined by the prosecution and the defence and verified in court shall be used as the basis of adjudication.\nWhere testimony given by a witness in court contradicts his pre-trial testimony, and the witness can reasonably explain the contradiction and there is other evidence corroborating it, his testimony at the hearing shall be adopted; where he cannot reasonably explain the contradiction but his pre-trial testimony is corroborated by other evidence, his pre-trial testimony may be adopted.\nWhere, upon notification by the people's court, a witness refuses to appear in court without justified reasons or refuses to testify after appearing, and the court cannot confirm the authenticity of his testimony, the witness testimony may not be used as the basis of adjudication."
+        },
+        "noLabel": {
+          "en": "Article 91."
+        },
+        "chapter": {
+          "en": "Section 3 Examination and Determination of Witness Testimony and Victim Statements"
+        }
+      },
+      {
+        "no": 92,
+        "text": {
+          "en": "The relevant provisions of this Section shall apply by reference to the examination and determination of victim statements."
+        },
+        "noLabel": {
+          "en": "Article 92."
+        },
+        "chapter": {
+          "en": "Section 3 Examination and Determination of Witness Testimony and Victim Statements"
+        }
+      },
+      {
+        "no": 93,
+        "text": {
+          "en": "In respect of the defendant's statements and defence, the following shall be emphasised in the examination:\n(1) whether the time and place of interrogation, the identity and number of interrogators and the method of interrogation comply with law and the relevant provisions;\n(2) whether the making and amendment of the record of interrogation comply with law and the relevant provisions, whether the specific starting and ending time and the place of interrogation are stated, whether the defendant was informed of the relevant rights and legal provisions at the first interrogation, and whether the defendant checked and confirmed the record;\n(3) where a minor defendant is interrogated, whether his statutory agent or an appropriate adult was notified to be present, and whether the relevant person was present;\n(4) where a female minor defendant is interrogated, whether a female staff member was present;\n(5) whether there was any circumstance of collecting the defendant's statement by unlawful means such as extorting a confession by torture;\n(6) whether the defendant's statements are consistent throughout, whether there were reversals and the reasons for any reversal;\n(7) whether all the defendant's statements and defence have been transferred with the case;\n(8) whether the content of the defendant's defence accords with the circumstances of the case and common sense, and whether there is any contradiction;\n(9) whether the defendant's statements and defence corroborate the statements and defence of the co-defendants and other evidence, and whether there is any contradiction; where a contradiction exists, whether it can be reasonably explained.\nWhere necessary, the defendant's statements and defence may be examined in conjunction with on-site law enforcement audio-visual records, audio-visual recordings of interrogation, health examination records on the defendant's entry into and exit from the detention house, and records."
+        },
+        "noLabel": {
+          "en": "Article 93."
+        },
+        "chapter": {
+          "en": "Section 4 Examination and Determination of the Defendant's Confessions and Exculpatory Statements"
+        }
+      },
+      {
+        "no": 94,
+        "text": {
+          "en": "Where the defendant's statement falls under any of the following circumstances, it may not be used as the basis of adjudication:\n(1) the record of interrogation was not checked and confirmed by the defendant;\n(2) in interrogating a deaf or mute person, a person conversant with deaf-mute sign language should have been provided but was not;\n(3) in interrogating a defendant not conversant with the commonly used local language or script, an interpreter should have been provided but was not;\n(4) in interrogating a minor, his statutory agent or an appropriate adult was not present."
+        },
+        "noLabel": {
+          "en": "Article 94."
+        },
+        "chapter": {
+          "en": "Section 4 Examination and Determination of the Defendant's Confessions and Exculpatory Statements"
+        }
+      },
+      {
+        "no": 95,
+        "text": {
+          "en": "Where a record of interrogation has any of the following defects and the defect has been corrected or reasonably explained, it may be used; where the defect cannot be corrected or reasonably explained, it may not be used as the basis of adjudication:\n(1) the time and place of interrogation, the interrogator, the recorder or the statutory agent stated in the record of interrogation is erroneous or there is a contradiction;\n(2) the record bears no signature of the interrogator;\n(3) the record of the first interrogation does not record that the person interrogated was informed of the relevant rights and legal provisions."
+        },
+        "noLabel": {
+          "en": "Article 95."
+        },
+        "chapter": {
+          "en": "Section 4 Examination and Determination of the Defendant's Confessions and Exculpatory Statements"
+        }
+      },
+      {
+        "no": 96,
+        "text": {
+          "en": "The examination of the defendant's statements and defence shall be conducted in conjunction with all the evidence provided by the prosecution and the defence and all the statements and defence of the defendant.\nWhere the defendant retracts his confession at the hearing but cannot reasonably explain the reason for the retraction, or his defence contradicts the evidence in the case, while his pre-trial statement is corroborated by other evidence, his pre-trial statement may be adopted.\nWhere the defendant's pre-trial statements and defence were inconsistent but he confesses at the hearing and this is corroborated by other evidence, his statement at the hearing may be adopted; where the defendant's pre-trial statements and defence were inconsistent, he does not confess at the hearing, and no other evidence corroborates the pre-trial statement, the pre-trial statement may not be adopted."
+        },
+        "noLabel": {
+          "en": "Article 96."
+        },
+        "chapter": {
+          "en": "Section 4 Examination and Determination of the Defendant's Confessions and Exculpatory Statements"
+        }
+      },
+      {
+        "no": 97,
+        "text": {
+          "en": "In respect of expert opinions, the following shall be emphasised in the examination:\n(1) whether the appraisal institution and the appraiser have the statutory qualifications;\n(2) whether the appraiser falls under a circumstance in which he should withdraw;\n(3) whether the source, obtainment, custody and submission for appraisal of the test materials comply with law and the relevant provisions and are consistent with the content recorded in the relevant record of obtainment and list of seizure, and whether the test materials are reliable;\n(4) whether the formal requirements of the expert opinion are complete, whether it states the matter for which the appraisal was initiated, the client for the appraisal, the appraisal institution, the appraisal requirements, the appraisal process, the appraisal method, the date of appraisal and other relevant content, and whether it is sealed by the appraisal institution and signed by the appraiser;\n(5) whether the appraisal procedure complies with law and the relevant provisions;\n(6) whether the appraisal process and method comply with the normative requirements of the relevant profession;\n(7) whether the expert opinion is clear;\n(8) whether the expert opinion is related to the facts of the case;\n(9) whether the expert opinion contradicts other evidence such as records of inspection and examination and the related photographs; where a contradiction exists, whether it can be reasonably explained;\n(10) whether the expert opinion was promptly communicated to the relevant persons in accordance with law, and whether the parties have any objection to the expert opinion."
+        },
+        "noLabel": {
+          "en": "Article 97."
+        },
+        "chapter": {
+          "en": "Section 5 Examination and Determination of Expert Opinions"
+        }
+      },
+      {
+        "no": 98,
+        "text": {
+          "en": "Where an expert opinion falls under any of the following circumstances, it may not be used as the basis of adjudication:\n(1) the appraisal institution does not have the statutory qualifications, or the matter appraised exceeds the business scope or technical conditions of the appraisal institution;\n(2) the appraiser does not have the statutory qualifications, does not possess the relevant professional expertise or professional title, or violates the provisions on withdrawal;\n(3) the source of the materials or samples submitted for appraisal is unclear, or they are unable to be appraised because of contamination;\n(4) the object appraised is inconsistent with the materials or samples submitted for appraisal;\n(5) the appraisal procedure violates the provisions;\n(6) the appraisal process and method do not comply with the normative requirements of the relevant profession;\n(7) the appraisal document lacks signature or seal;\n(8) the expert opinion is unrelated to the facts of the case;\n(9) other circumstances in violation of the relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 98."
+        },
+        "chapter": {
+          "en": "Section 5 Examination and Determination of Expert Opinions"
+        }
+      },
+      {
+        "no": 99,
+        "text": {
+          "en": "Where, upon notification by the people's court, an appraiser refuses to appear in court to testify, the expert opinion may not be used as the basis of adjudication.\nWhere an appraiser is unable to appear in court because of an irresistible cause or for other justified reasons, the people's court may, according to the circumstances, decide to postpone the trial or to conduct a new appraisal.\nWhere an appraiser refuses to appear in court to testify without justified reasons, the people's court shall report the matter to the judicial administrative organ or the relevant department."
+        },
+        "noLabel": {
+          "en": "Article 99."
+        },
+        "chapter": {
+          "en": "Section 5 Examination and Determination of Expert Opinions"
+        }
+      },
+      {
+        "no": 100,
+        "text": {
+          "en": "Where, because there is no appraisal institution, or in accordance with the provisions of law or judicial interpretation, a person with specialised knowledge is assigned or engaged to issue a report on a specialised issue of a case, the report may be used as evidence.\nThe relevant provisions of this Section shall apply by reference to the examination and determination of a report provided in the preceding paragraph.\nWhere, upon notification by the people's court, the person who issued the report refuses to appear in court to testify, the report may not be used as the basis of adjudication."
+        },
+        "noLabel": {
+          "en": "Article 100."
+        },
+        "chapter": {
+          "en": "Section 5 Examination and Determination of Expert Opinions"
+        }
+      },
+      {
+        "no": 101,
+        "text": {
+          "en": "A report formed by the investigation of an accident by the relevant department may be used as evidence in criminal proceedings; the opinions in the report concerning specialised issues may be used as the basis of adjudication where they have been verified in court and the investigation procedure complies with law and the relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 101."
+        },
+        "chapter": {
+          "en": "Section 5 Examination and Determination of Expert Opinions"
+        }
+      },
+      {
+        "no": 102,
+        "text": {
+          "en": "In respect of records of inspection and examination, the following shall be emphasised in the examination:\n(1) whether the inspection or examination was conducted in accordance with law, whether the making of the record complies with law and the relevant provisions, and whether the inspection or examination personnel and the witnesses signed or sealed it;\n(2) whether the record of inspection or examination records the matter for which the inspection or examination was initiated, the time and place of the inspection or examination, the persons present, the orientation of the scene and the surrounding environment, the position and characteristics of the items, persons and corpses at the scene, and the process of the inspection or examination; whether the written record is consistent with the physical objects or the drawings, photographs and recordings; whether the scene, items and traces were forged or damaged; whether the personal characteristics, injuries and physiological state were disguised or changed;\n(3) where a supplementary inspection or examination is conducted, whether the reason for the further inspection or examination is stated, and whether the circumstances of the earlier and later inspections or examinations are contradictory."
+        },
+        "noLabel": {
+          "en": "Article 102."
+        },
+        "chapter": {
+          "en": "Section 6 Examination and Determination of Records of Inquest, Examination, Identification, Investigative Experiments and the Like"
+        }
+      },
+      {
+        "no": 103,
+        "text": {
+          "en": "Where a record of inspection or examination manifestly fails to comply with law or the relevant provisions and no reasonable explanation can be given, it may not be used as the basis of adjudication."
+        },
+        "noLabel": {
+          "en": "Article 103."
+        },
+        "chapter": {
+          "en": "Section 6 Examination and Determination of Records of Inquest, Examination, Identification, Investigative Experiments and the Like"
+        }
+      },
+      {
+        "no": 104,
+        "text": {
+          "en": "In respect of a record of identification, the process and method of identification and whether the making of the record of identification complies with the relevant provisions shall be emphasised in the examination."
+        },
+        "noLabel": {
+          "en": "Article 104."
+        },
+        "chapter": {
+          "en": "Section 6 Examination and Determination of Records of Inquest, Examination, Identification, Investigative Experiments and the Like"
+        }
+      },
+      {
+        "no": 105,
+        "text": {
+          "en": "Where a record of identification falls under any of the following circumstances, it may not be used as the basis of adjudication:\n(1) the identification was not conducted under the auspices of investigating personnel or detection personnel;\n(2) the identifier was shown the object of identification before the identification;\n(3) the identification activities were not conducted individually;\n(4) the object of identification was not mixed with other objects of similar characteristics, or the number of objects presented for identification does not comply with the provisions;\n(5) during the identification, a manifest hint was given to the identifier or there was a manifest suspicion of pointing out;\n(6) other circumstances in violation of the relevant provisions as a result of which the authenticity of the record of identification cannot be determined."
+        },
+        "noLabel": {
+          "en": "Article 105."
+        },
+        "chapter": {
+          "en": "Section 6 Examination and Determination of Records of Inquest, Examination, Identification, Investigative Experiments and the Like"
+        }
+      },
+      {
+        "no": 106,
+        "text": {
+          "en": "In respect of a record of an investigative experiment, the process and method of the experiment and whether the making of the record complies with the relevant provisions shall be emphasised in the examination."
+        },
+        "noLabel": {
+          "en": "Article 106."
+        },
+        "chapter": {
+          "en": "Section 6 Examination and Determination of Records of Inquest, Examination, Identification, Investigative Experiments and the Like"
+        }
+      },
+      {
+        "no": 107,
+        "text": {
+          "en": "Where the conditions of an investigative experiment differ manifestly from the conditions at the time the event occurred, or other circumstances affecting the scientific nature of the conclusion of the experiment exist, the record of the investigative experiment may not be used as the basis of adjudication."
+        },
+        "noLabel": {
+          "en": "Article 107."
+        },
+        "chapter": {
+          "en": "Section 6 Examination and Determination of Records of Inquest, Examination, Identification, Investigative Experiments and the Like"
+        }
+      },
+      {
+        "no": 108,
+        "text": {
+          "en": "In respect of audio-visual materials, the following shall be emphasised in the examination:\n(1) whether a statement of the obtaining process is attached, and whether the source is lawful;\n(2) whether it is the original, and whether it has been reproduced and the number of reproductions; where it is a reproduction, whether a statement of the reason why the original could not be obtained, the making process of the reproduction and the place where the original is kept is attached, and whether the maker and the original holder of the audio-visual materials signed it;\n(3) whether the making process involved any circumstance of threatening or inducing a party or other violation of law or the relevant provisions;\n(4) whether the identity of the maker and the holder, and the time, place, conditions and method of making are stated;\n(5) whether the content and the making process are authentic, and whether there has been editing, addition, deletion or alteration;\n(6) whether the content is related to the facts of the case.\nWhere there is doubt about audio-visual materials, an appraisal shall be conducted."
+        },
+        "noLabel": {
+          "en": "Article 108."
+        },
+        "chapter": {
+          "en": "Section 7 Examination and Determination of Audio-Visual Materials and Electronic Data"
+        }
+      },
+      {
+        "no": 109,
+        "text": {
+          "en": "Where audio-visual materials fall under any of the following circumstances, they may not be used as the basis of adjudication:\n(1) they have been tampered with or forged, or their authenticity cannot be determined;\n(2) there is doubt about the time, place or method of making or obtaining them and no reasonable explanation can be given."
+        },
+        "noLabel": {
+          "en": "Article 109."
+        },
+        "chapter": {
+          "en": "Section 7 Examination and Determination of Audio-Visual Materials and Electronic Data"
+        }
+      },
+      {
+        "no": 110,
+        "text": {
+          "en": "In respect of whether electronic data are authentic, the following shall be emphasised in the examination:\n(1) whether the original storage medium has been transferred; where the original storage medium cannot be sealed or is inconvenient to move, whether the reason is stated and whether the collection and obtaining process and the place where the original storage medium is kept or the source of the electronic data are stated;\n(2) whether there are special identifiers such as a digital signature or a digital certificate;\n(3) whether the process of collection and obtainment can be reproduced;\n(4) where there has been addition, deletion or modification, whether a statement is attached;\n(5) whether integrity can be guaranteed."
+        },
+        "noLabel": {
+          "en": "Article 110."
+        },
+        "chapter": {
+          "en": "Section 7 Examination and Determination of Audio-Visual Materials and Electronic Data"
+        }
+      },
+      {
+        "no": 111,
+        "text": {
+          "en": "In respect of whether electronic data are complete, examination and verification shall be conducted according to the corresponding methods for protecting the integrity of electronic data:\n(1) examining the state of seizure and sealing of the original storage medium;\n(2) examining the process of collection and obtainment of the electronic data and viewing the recordings;\n(3) comparing the integrity check values of the electronic data;\n(4) comparing the electronic data with the backup electronic data;\n(5) examining the access operation log after freezing;\n(6) other methods."
+        },
+        "noLabel": {
+          "en": "Article 111."
+        },
+        "chapter": {
+          "en": "Section 7 Examination and Determination of Audio-Visual Materials and Electronic Data"
+        }
+      },
+      {
+        "no": 112,
+        "text": {
+          "en": "In respect of whether the collection and obtainment of electronic data are lawful, the following shall be emphasised in the examination:\n(1) whether the collection and obtainment of electronic data were carried out by two or more investigating personnel or detection personnel, and whether the method of obtaining evidence complies with the relevant technical standards;\n(2) whether the collection and obtainment of electronic data are accompanied by a record and list and signed or sealed by the investigating personnel, the detection personnel, the holder or provider of the electronic data and the witness; where there is no signature or seal, whether the reason is stated; whether the category, file format and the like of the electronic data are clearly stated;\n(3) whether a qualified person served as witness in accordance with the relevant provisions, and whether the relevant activities were recorded;\n(4) where technical investigation or detection measures were used to collect or obtain electronic data, whether strict approval formalities were completed in accordance with law;\n(5) where electronic data were examined, whether the examination procedure complies with the relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 112."
+        },
+        "chapter": {
+          "en": "Section 7 Examination and Determination of Audio-Visual Materials and Electronic Data"
+        }
+      },
+      {
+        "no": 113,
+        "text": {
+          "en": "Where the procedure of collecting or obtaining electronic data has any of the following defects and the defect has been corrected or reasonably explained, the data may be used; where the defect cannot be corrected or reasonably explained, they may not be used as the basis of adjudication:\n(1) they were not transferred in a sealed state;\n(2) the record or list bears no signature or seal of the investigating personnel or detection personnel, the holder or provider of the electronic data, or the witness;\n(3) the name, category and format of the electronic data are not clearly stated;\n(4) there are other defects."
+        },
+        "noLabel": {
+          "en": "Article 113."
+        },
+        "chapter": {
+          "en": "Section 7 Examination and Determination of Audio-Visual Materials and Electronic Data"
+        }
+      },
+      {
+        "no": 114,
+        "text": {
+          "en": "Where electronic data fall under any of the following circumstances, they may not be used as the basis of adjudication:\n(1) they have been tampered with or forged, or their authenticity cannot be determined;\n(2) there has been addition, deletion or modification that affects the authenticity of the electronic data;\n(3) other circumstances in which the authenticity of the electronic data cannot be guaranteed."
+        },
+        "noLabel": {
+          "en": "Article 114."
+        },
+        "chapter": {
+          "en": "Section 7 Examination and Determination of Audio-Visual Materials and Electronic Data"
+        }
+      },
+      {
+        "no": 115,
+        "text": {
+          "en": "In respect of audio-visual materials and electronic data, it shall also be examined whether transcript materials and explanations of content difficult to understand, such as nicknames, code words, slang and dialects, have been transferred. Where they have not been transferred, the people's procuratorate may be required to transfer them where necessary."
+        },
+        "noLabel": {
+          "en": "Article 115."
+        },
+        "chapter": {
+          "en": "Section 7 Examination and Determination of Audio-Visual Materials and Electronic Data"
+        }
+      },
+      {
+        "no": 116,
+        "text": {
+          "en": "Materials collected in accordance with law by taking technical investigation or detection measures may be used as evidence in criminal proceedings.\nMaterials collected by taking technical investigation or detection measures shall be transferred with the case where they are used as evidence."
+        },
+        "noLabel": {
+          "en": "Article 116."
+        },
+        "chapter": {
+          "en": "Section 8 Examination and Determination of Technical Investigation and Investigation Evidence"
+        }
+      },
+      {
+        "no": 117,
+        "text": {
+          "en": "Where the use of evidentiary materials collected by taking technical investigation or detection measures may endanger the personal safety of the relevant persons or may produce other serious consequences, the following protective measures may be taken:\n(1) using an assumed name or the like in place of the personal information of the investigating or detection personnel and the relevant persons;\n(2) not specifically stating the technical equipment and technical methods used in the technical investigation or detection measures;\n(3) other necessary protective measures."
+        },
+        "noLabel": {
+          "en": "Article 117."
+        },
+        "chapter": {
+          "en": "Section 8 Examination and Determination of Technical Investigation and Investigation Evidence"
+        }
+      },
+      {
+        "no": 118,
+        "text": {
+          "en": "Where technical investigation or detection evidentiary materials are transferred, the legal documents for taking the technical investigation or detection measures, the list of technical investigation or detection evidentiary materials and the relevant explanatory materials shall be attached.\nWhere audio-visual materials or electronic data collected by taking technical investigation or detection measures are transferred, a new storage medium shall be made, accompanied by a statement of making which states the original evidentiary materials, the place where the original storage medium is kept and other information, and which shall be signed by the maker and sealed with the seal of the unit."
+        },
+        "noLabel": {
+          "en": "Article 118."
+        },
+        "chapter": {
+          "en": "Section 8 Examination and Determination of Technical Investigation and Investigation Evidence"
+        }
+      },
+      {
+        "no": 119,
+        "text": {
+          "en": "In respect of evidentiary materials collected by taking technical investigation or detection measures, in addition to being examined according to the category of evidence to which the relevant evidentiary materials belong and in accordance with the corresponding provisions of Section 2 to Section 7 of this Chapter, the following shall be emphasised in the examination:\n(1) whether the case against which the technical investigation or detection measures were directed complies with the provisions of law;\n(2) whether the technical investigation measures went through strict approval formalities and were referred to the relevant organ for implementation in accordance with the provisions; whether the technical detection measures were taken after the filing of the criminal case and went through strict approval formalities;\n(3) whether the type, applicable object and duration of the technical investigation or detection measures were implemented in accordance with the content stated in the decision of approval;\n(4) whether the evidentiary materials collected by taking technical investigation or detection measures contradict other evidence; where a contradiction exists, whether it can be reasonably explained."
+        },
+        "noLabel": {
+          "en": "Article 119."
+        },
+        "chapter": {
+          "en": "Section 8 Examination and Determination of Technical Investigation and Investigation Evidence"
+        }
+      },
+      {
+        "no": 120,
+        "text": {
+          "en": "Evidentiary materials collected by taking technical investigation or detection measures shall be verified through the court investigation procedure such as being produced in court, identified and cross-examined.\nWhere the court examination of technical investigation or detection evidentiary materials may endanger the personal safety of the relevant persons or may produce other serious consequences, the court shall take protective measures that do not reveal the identity of the relevant persons or the technical equipment and technical methods used in the technical investigation or detection measures. Where necessary, judicial officers may verify the evidence outside the court."
+        },
+        "noLabel": {
+          "en": "Article 120."
+        },
+        "chapter": {
+          "en": "Section 8 Examination and Determination of Technical Investigation and Investigation Evidence"
+        }
+      },
+      {
+        "no": 121,
+        "text": {
+          "en": "Where technical investigation or detection evidence is used as the basis of adjudication, the people's court may state in the adjudicative document the name, category and object of proof of the relevant evidence, but may not state the identity of the relevant persons or the technical equipment and technical methods used in the technical investigation or detection measures."
+        },
+        "noLabel": {
+          "en": "Article 121."
+        },
+        "chapter": {
+          "en": "Section 8 Examination and Determination of Technical Investigation and Investigation Evidence"
+        }
+      },
+      {
+        "no": 122,
+        "text": {
+          "en": "Where the people's court considers that technical investigation or detection evidentiary materials should be transferred but they have not been transferred with the case, it shall notify the people's procuratorate to transfer them within a designated time. Where the people's procuratorate does not transfer them, the people's court shall determine the facts of the case on the basis of the evidence in the case file."
+        },
+        "noLabel": {
+          "en": "Article 122."
+        },
+        "chapter": {
+          "en": "Section 8 Examination and Determination of Technical Investigation and Investigation Evidence"
+        }
+      },
+      {
+        "no": 123,
+        "text": {
+          "en": "A defendant's statement collected by any of the following unlawful means shall be excluded:\n(1) a statement made against his will after being subjected to unbearable pain by violent means such as beating or the unlawful use of restraining devices, or by vile means constituting a disguised form of corporal punishment;\n(2) a statement made against his will after being subjected to unbearable pain by means of threatening violence or serious harm to the lawful rights and interests of himself or his close relatives;\n(3) a defendant's statement collected by unlawful restriction of personal freedom such as unlawful detention."
+        },
+        "noLabel": {
+          "en": "Article 123."
+        },
+        "chapter": {
+          "en": "Section 9 Exclusion of Illegally Obtained Evidence"
+        }
+      },
+      {
+        "no": 124,
+        "text": {
+          "en": "Where a defendant makes a statement after being subjected to extortion of a confession by torture, and the defendant subsequently makes a repeated statement identical to that statement under the influence of the extortion, the repeated statement shall be excluded together with it, except in the following circumstances:\n(1) during investigation or detection, the supervisory organ or the detection organ, upon a complaint, a report or its own discovery, confirms or cannot exclude that evidence was collected by unlawful means, replaces the investigating or detection personnel, and the defendant voluntarily makes a statement when questioned again by other investigating or detection personnel after being informed of the relevant rights and the legal consequences of admitting guilt;\n(2) during review of arrest, examination for prosecution and trial, the defendant voluntarily makes a statement when questioned by procuratorial officers or judicial officers after being informed of his procedural rights and the legal consequences of admitting guilt."
+        },
+        "noLabel": {
+          "en": "Article 124."
+        },
+        "chapter": {
+          "en": "Section 9 Exclusion of Illegally Obtained Evidence"
+        }
+      },
+      {
+        "no": 125,
+        "text": {
+          "en": "Witness testimony and victim statements collected by unlawful means such as violence, threat and unlawful restriction of personal freedom shall be excluded."
+        },
+        "noLabel": {
+          "en": "Article 125."
+        },
+        "chapter": {
+          "en": "Section 9 Exclusion of Illegally Obtained Evidence"
+        }
+      },
+      {
+        "no": 126,
+        "text": {
+          "en": "Where material evidence or documentary evidence is collected in a manner not complying with statutory procedure and this may seriously affect judicial impartiality, it shall be corrected or reasonably explained; where it cannot be corrected or reasonably explained, the evidence shall be excluded.\nIn determining whether a circumstance \"may seriously affect judicial impartiality\", comprehensive consideration shall be given to the violation of statutory procedure in collecting the evidence and the seriousness of the consequences caused."
+        },
+        "noLabel": {
+          "en": "Article 126."
+        },
+        "chapter": {
+          "en": "Section 9 Exclusion of Illegally Obtained Evidence"
+        }
+      },
+      {
+        "no": 127,
+        "text": {
+          "en": "Where a party or his defender or agent ad litem applies to a people's court to exclude evidence collected by unlawful means, he shall provide the relevant leads or materials such as the persons, time, place, method and content of the suspected unlawful obtainment of evidence."
+        },
+        "noLabel": {
+          "en": "Article 127."
+        },
+        "chapter": {
+          "en": "Section 9 Exclusion of Illegally Obtained Evidence"
+        }
+      },
+      {
+        "no": 128,
+        "text": {
+          "en": "When a people's court serves a copy of the bill of indictment on the defendant and his defender, it shall inform them that an application to exclude illegally obtained evidence shall be made before the hearing, except where the relevant leads or materials are discovered only during the hearing."
+        },
+        "noLabel": {
+          "en": "Article 128."
+        },
+        "chapter": {
+          "en": "Section 9 Exclusion of Illegally Obtained Evidence"
+        }
+      },
+      {
+        "no": 129,
+        "text": {
+          "en": "Where, before the hearing, a party or his defender or agent ad litem applies to the people's court to exclude illegally obtained evidence, the people's court shall, before the hearing, promptly deliver to the people's procuratorate the application or the record of the application and copies of the related leads and materials."
+        },
+        "noLabel": {
+          "en": "Article 129."
+        },
+        "chapter": {
+          "en": "Section 9 Exclusion of Illegally Obtained Evidence"
+        }
+      },
+      {
+        "no": 130,
+        "text": {
+          "en": "Before the hearing, the people's court may convene a pre-trial conference to learn about and hear opinions on the exclusion of illegally obtained evidence and other issues.\nAt the pre-trial conference, the people's procuratorate may explain the lawfulness of the collection of evidence by producing the relevant evidentiary materials and by other means. Where necessary, it may notify the investigating personnel, detection personnel or other persons to attend the pre-trial conference and explain the circumstances."
+        },
+        "noLabel": {
+          "en": "Article 130."
+        },
+        "chapter": {
+          "en": "Section 9 Exclusion of Illegally Obtained Evidence"
+        }
+      },
+      {
+        "no": 131,
+        "text": {
+          "en": "At the pre-trial conference, the people's procuratorate may withdraw the relevant evidence. Evidence withdrawn may not be produced at the hearing without new reasons.\nA party or his defender or agent ad litem may withdraw an application to exclude illegally obtained evidence. After withdrawal, no further application to exclude the relevant evidence may be made without new leads or materials."
+        },
+        "noLabel": {
+          "en": "Article 131."
+        },
+        "chapter": {
+          "en": "Section 9 Exclusion of Illegally Obtained Evidence"
+        }
+      },
+      {
+        "no": 132,
+        "text": {
+          "en": "Where a party or his defender or agent ad litem did not apply before the hearing to exclude illegally obtained evidence and makes the application in the course of the hearing, he shall state the reasons. Where, upon examination, the people's court has doubt about the lawfulness of the collection of the evidence, it shall conduct an investigation; where it has no doubt, it shall reject the application.\nWhere, after an application to exclude illegally obtained evidence has been rejected, a party or his defender or agent ad litem makes a further application on the same ground without new leads or materials, the people's court shall no longer examine it."
+        },
+        "noLabel": {
+          "en": "Article 132."
+        },
+        "chapter": {
+          "en": "Section 9 Exclusion of Illegally Obtained Evidence"
+        }
+      },
+      {
+        "no": 133,
+        "text": {
+          "en": "Where the prosecution and the defence do not reach agreement at the pre-trial conference on whether the collection of evidence was lawful, and the people's court has doubt about the lawfulness of the collection of evidence, it shall conduct an investigation at the hearing; where it has no doubt about the lawfulness of the collection of evidence and there are no new leads or materials indicating the possible existence of unlawful obtainment of evidence, it may decide not to conduct an investigation and shall state the reasons."
+        },
+        "noLabel": {
+          "en": "Article 133."
+        },
+        "chapter": {
+          "en": "Section 9 Exclusion of Illegally Obtained Evidence"
+        }
+      },
+      {
+        "no": 134,
+        "text": {
+          "en": "Where, in the course of the hearing, the court decides to investigate the lawfulness of the collection of evidence, it shall first conduct the investigation in court. However, in order to prevent excessive delay of the hearing, the investigation may also be conducted before the conclusion of the court investigation."
+        },
+        "noLabel": {
+          "en": "Article 134."
+        },
+        "chapter": {
+          "en": "Section 9 Exclusion of Illegally Obtained Evidence"
+        }
+      },
+      {
+        "no": 135,
+        "text": {
+          "en": "Where the court decides to investigate the lawfulness of the collection of evidence, the public prosecutor shall prove the lawfulness of the collection of evidence by reading out the records of interrogation during investigation and detection, producing the registration of the delivery of the person for interrogation, the record of physical examination, the materials for verifying the lawfulness of the interrogation and other evidentiary materials, playing the audio-visual recordings of the interrogation in a targeted manner, and requesting the court to notify the relevant investigating personnel, detection personnel or other persons to appear in court to explain the circumstances.\nWhere the audio-visual recordings of interrogation involve State secrets, commercial secrets, personal privacy or other content unsuitable for disclosure, the court may decide not to play or cross-examine the audio-visual recordings of interrogation in public.\nThe explanatory materials on the lawfulness of the evidence-obtaining process submitted by the public prosecutor shall be signed by the relevant investigating personnel or detection personnel and sealed with the seal of the unit. Materials without signature or seal may not be used as evidence. The above explanatory materials may not alone serve as the basis for proving the lawfulness of the evidence-obtaining process."
+        },
+        "noLabel": {
+          "en": "Article 135."
+        },
+        "chapter": {
+          "en": "Section 9 Exclusion of Illegally Obtained Evidence"
+        }
+      },
+      {
+        "no": 136,
+        "text": {
+          "en": "Where the prosecution and the defence apply to the court to notify investigating personnel, detection personnel or other persons to appear in court to explain the circumstances, and the court considers it necessary, it shall notify the relevant persons to appear in court.\nAccording to the circumstances of the case, the court may ex officio notify investigating personnel, detection personnel or other persons to appear in court to explain the circumstances.\nWhere investigating personnel, detection personnel or other persons appear in court, they shall explain the evidence-collection process to the court and accept questioning by the prosecution, the defence and the court on the relevant circumstances."
+        },
+        "noLabel": {
+          "en": "Article 136."
+        },
+        "chapter": {
+          "en": "Section 9 Exclusion of Illegally Obtained Evidence"
+        }
+      },
+      {
+        "no": 137,
+        "text": {
+          "en": "Where, after investigating the lawfulness of the collection of evidence, the court confirms or cannot exclude the existence of the circumstance of collecting evidence by unlawful means provided in Article 56 of the Criminal Procedure Law, the relevant evidence shall be excluded."
+        },
+        "noLabel": {
+          "en": "Article 137."
+        },
+        "chapter": {
+          "en": "Section 9 Exclusion of Illegally Obtained Evidence"
+        }
+      },
+      {
+        "no": 138,
+        "text": {
+          "en": "Where any of the following circumstances exists, the people's court of second instance shall examine the lawfulness of the collection of evidence and deal with the matter in accordance with the Criminal Procedure Law and the relevant provisions of these Interpretations:\n(1) the people's court of first instance did not examine the application of a party or his defender or agent ad litem to exclude illegally obtained evidence and used that evidence as the basis of adjudication;\n(2) the people's procuratorate, or the defendant, the private prosecutor or his statutory agent, refuses to accept the conclusion of the investigation on the lawfulness of the collection of evidence made by the people's court of first instance and lodges a protest or files an appeal;\n(3) a party or his defender or agent ad litem discovers the relevant leads or materials only after the conclusion of the first instance and applies to the people's court to exclude illegally obtained evidence."
+        },
+        "noLabel": {
+          "en": "Article 138."
+        },
+        "chapter": {
+          "en": "Section 9 Exclusion of Illegally Obtained Evidence"
+        }
+      },
+      {
+        "no": 139,
+        "text": {
+          "en": "The authenticity of evidence shall be examined in conjunction with all the evidence in the case.\nThe probative force of evidence shall be examined and determined according to the specific circumstances, from the aspects of the degree of connection between the evidence and the facts of the case and the interrelation between the pieces of evidence."
+        },
+        "noLabel": {
+          "en": "Article 139."
+        },
+        "chapter": {
+          "en": "Section 10 Comprehensive Examination and Application of Evidence"
+        }
+      },
+      {
+        "no": 140,
+        "text": {
+          "en": "Where there is no direct evidence but the indirect evidence concurrently meets the following conditions, the defendant may be determined to be guilty:\n(1) the evidence has been verified;\n(2) the pieces of evidence corroborate one another, and there is no contradiction that cannot be excluded and no doubt that cannot be explained;\n(3) the evidence in the case forms a complete chain of evidence;\n(4) the facts of the case determined on the basis of the evidence are sufficient to exclude reasonable doubt, and the conclusion is unique;\n(5) the reasoning conducted by applying the evidence accords with logic and experience."
+        },
+        "noLabel": {
+          "en": "Article 140."
+        },
+        "chapter": {
+          "en": "Section 10 Comprehensive Examination and Application of Evidence"
+        }
+      },
+      {
+        "no": 141,
+        "text": {
+          "en": "Where highly concealed material evidence or documentary evidence is obtained on the basis of the defendant's statement or pointing out, and the defendant's statement corroborates other evidence proving the occurrence of the criminal facts, and the possibility of collusion in statements, extortion of confession or induced confession is excluded, the defendant may be determined to be guilty."
+        },
+        "noLabel": {
+          "en": "Article 141."
+        },
+        "chapter": {
+          "en": "Section 10 Comprehensive Examination and Application of Evidence"
+        }
+      },
+      {
+        "no": 142,
+        "text": {
+          "en": "In respect of materials such as the record of the defendant's arrival and the record of his capture issued by a supervisory organ or a detection organ, it shall be examined whether they bear the signature and seal of the case-handling personnel and the case-handling organ that issued the explanatory materials.\nWhere there is doubt about the record of arrival, the record of capture or the basis for determining that the defendant is a major suspect, the people's procuratorate shall be notified to provide a supplementary explanation."
+        },
+        "noLabel": {
+          "en": "Article 142."
+        },
+        "chapter": {
+          "en": "Section 10 Comprehensive Examination and Application of Evidence"
+        }
+      },
+      {
+        "no": 143,
+        "text": {
+          "en": "The following evidence shall be used with caution and may be adopted where corroborated by other evidence:\n(1) statements, testimony and confessions made by a victim, witness or defendant who is physically or mentally defective and has some difficulty in cognising and expressing the facts of the case but has not lost the capacity to cognise and express correctly;\n(2) testimony favourable to the defendant given by a witness who is a relative of the defendant or has another close relationship with him, or testimony unfavourable to the defendant given by a witness having an interest in conflict with the defendant."
+        },
+        "noLabel": {
+          "en": "Article 143."
+        },
+        "chapter": {
+          "en": "Section 10 Comprehensive Examination and Application of Evidence"
+        }
+      },
+      {
+        "no": 144,
+        "text": {
+          "en": "Evidentiary materials proving that the defendant surrendered, made a clean breast of his crime or performed meritorious service may not be used as the basis of adjudication where they are not sealed with the seal of the unit that accepted the defendant's surrender, confession, report or disclosure, or where the receiving personnel have not signed them.\nWhere the defendant and his defender assert the facts and reasons for surrender, confession or meritorious service and the relevant organ has not determined them, or where the relevant organ asserts that the defendant surrendered, made a clean breast of his crime or performed meritorious service but the evidentiary materials are incomplete, the people's court shall require the relevant organ to provide supporting materials or require the relevant personnel to testify, and shall make a determination in conjunction with other evidence."
+        },
+        "noLabel": {
+          "en": "Article 144."
+        },
+        "chapter": {
+          "en": "Section 10 Comprehensive Examination and Application of Evidence"
+        }
+      },
+      {
+        "no": 145,
+        "text": {
+          "en": "Evidentiary materials proving that the defendant is a recidivist or a repeat drug offender shall include the adjudicative document for the previous crime, the certificate of release and other materials; where the materials are incomplete, the people's procuratorate shall be notified to provide them."
+        },
+        "noLabel": {
+          "en": "Article 145."
+        },
+        "chapter": {
+          "en": "Section 10 Comprehensive Examination and Application of Evidence"
+        }
+      },
+      {
+        "no": 146,
+        "text": {
+          "en": "In examining whether the defendant had reached the corresponding statutory age of criminal responsibility at the time of committing the alleged crime or at the time of trial, a comprehensive judgment shall be made on the basis of evidence such as the certificate of household registration, the birth certificate document, the student status card, the census registration and the testimony of disinterested persons.\nWhere the evidence is insufficient to prove that the defendant has reached the age of 12, 14, 16 or 18, or is under the age of 75, a determination favourable to the defendant shall be made."
+        },
+        "noLabel": {
+          "en": "Article 146."
+        },
+        "chapter": {
+          "en": "Section 10 Comprehensive Examination and Application of Evidence"
+        }
+      },
+      {
+        "no": 147,
+        "text": {
+          "en": "A people's court may, according to the circumstances of the case, decide to compel the defendant to appear, to release him on guarantee pending trial, to subject him to residential surveillance or to arrest him.\nThe adoption, revocation or alteration of a compulsory measure against the defendant shall be decided by the president of the court; a decision to continue release on guarantee pending trial or residential surveillance may be made by the collegial panel or the sole judge."
+        },
+        "noLabel": {
+          "en": "Article 147."
+        },
+        "chapter": {
+          "en": "Chapter V Compulsory Measures"
+        }
+      },
+      {
+        "no": 148,
+        "text": {
+          "en": "Compelled appearance may be applied to a defendant who refuses to appear after being lawfully summoned, or to a defendant whom it is necessary to compel to appear according to the circumstances of the case.\nTo compel a defendant to appear, the president of the court shall issue a warrant of compelled appearance, which shall be executed by judicial police, and the number of executing personnel shall not be fewer than two.\nTo compel a defendant to appear, the warrant of compelled appearance shall be produced. Restraining devices may be used against a defendant who resists compelled appearance."
+        },
+        "noLabel": {
+          "en": "Article 148."
+        },
+        "chapter": {
+          "en": "Chapter V Compulsory Measures"
+        }
+      },
+      {
+        "no": 149,
+        "text": {
+          "en": "The duration of compelled appearance of a defendant shall not exceed 12 hours; where the circumstances of the case are especially major and complex and arrest measures need to be taken, the duration shall not exceed 24 hours. A defendant may not be subjected to disguised imprisonment in the form of successive compelled appearances. The food and necessary rest time of the person compelled to appear shall be guaranteed."
+        },
+        "noLabel": {
+          "en": "Article 149."
+        },
+        "chapter": {
+          "en": "Chapter V Compulsory Measures"
+        }
+      },
+      {
+        "no": 150,
+        "text": {
+          "en": "Where a defendant falls under any of the circumstances provided in Paragraph 1 of Article 67 of the Criminal Procedure Law, the people's court may decide to release him on guarantee pending trial.\nWhere a people's court decides to release a defendant on guarantee pending trial, it shall order him to provide a guarantor or pay a deposit, and may not use guarantor's guarantee and deposit guarantee at the same time."
+        },
+        "noLabel": {
+          "en": "Article 150."
+        },
+        "chapter": {
+          "en": "Chapter V Compulsory Measures"
+        }
+      },
+      {
+        "no": 151,
+        "text": {
+          "en": "Where a decision of release on guarantee pending trial is made in respect of the following defendants, they may be ordered to provide one or two guarantors:\n(1) those unable to pay a deposit;\n(2) those who are minors or have reached the age of 75;\n(3) other defendants in respect of whom it is inappropriate to collect a deposit."
+        },
+        "noLabel": {
+          "en": "Article 151."
+        },
+        "chapter": {
+          "en": "Chapter V Compulsory Measures"
+        }
+      },
+      {
+        "no": 152,
+        "text": {
+          "en": "The people's court shall examine whether a guarantor meets the statutory conditions. Where the conditions are met, it shall inform him of the guarantee obligations he must perform and the legal consequences of failing to perform them, and he shall issue a letter of guarantee."
+        },
+        "noLabel": {
+          "en": "Article 152."
+        },
+        "chapter": {
+          "en": "Chapter V Compulsory Measures"
+        }
+      },
+      {
+        "no": 153,
+        "text": {
+          "en": "Where deposit guarantee is used for a defendant in respect of whom release on guarantee pending trial is decided, the specific amount of the deposit shall be determined in accordance with Paragraph 1 of Article 72 of the Criminal Procedure Law, and the defendant, or the unit or individual providing the deposit for him, shall be ordered to deposit the deposit in a lump sum in the special account at a bank designated by the public security organ."
+        },
+        "noLabel": {
+          "en": "Article 153."
+        },
+        "chapter": {
+          "en": "Chapter V Compulsory Measures"
+        }
+      },
+      {
+        "no": 154,
+        "text": {
+          "en": "After a people's court announces the decision of release on guarantee pending trial to the defendant, it shall deliver the written decision of release on guarantee pending trial and other related materials to the local public security organ.\nWhere deposit guarantee is used for the defendant, after verifying that the deposit has been deposited in the special account at the bank designated by the public security organ, the receipt issued by the bank shall be delivered to the public security organ together with the other materials."
+        },
+        "noLabel": {
+          "en": "Article 154."
+        },
+        "chapter": {
+          "en": "Chapter V Compulsory Measures"
+        }
+      },
+      {
+        "no": 155,
+        "text": {
+          "en": "During the period in which a defendant is released on guarantee pending trial, where the guarantor is unwilling to continue performing the guarantee obligations or loses the capacity to perform them, the people's court shall, within three days after receipt of the guarantor's application or of the written notice of the public security organ, order the defendant to provide a new guarantor or pay a deposit, or alter the compulsory measure, and shall notify the public security organ."
+        },
+        "noLabel": {
+          "en": "Article 155."
+        },
+        "chapter": {
+          "en": "Chapter V Compulsory Measures"
+        }
+      },
+      {
+        "no": 156,
+        "text": {
+          "en": "Where a people's court discovers that a guarantor has failed to perform the guarantee obligations, it shall notify the public security organ in writing to deal with the matter in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 156."
+        },
+        "chapter": {
+          "en": "Chapter V Compulsory Measures"
+        }
+      },
+      {
+        "no": 157,
+        "text": {
+          "en": "Where, according to the facts of the case and the provisions of law, a defendant who is considered to have already committed a crime absconds during the period of release on guarantee pending trial, and the guarantor assisted the defendant in absconding or, knowing the place where the defendant is hiding, refused to provide it to the judicial organ, the guarantor shall be pursued for liability in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 157."
+        },
+        "chapter": {
+          "en": "Chapter V Compulsory Measures"
+        }
+      },
+      {
+        "no": 158,
+        "text": {
+          "en": "Where a people's court discovers that a person released on guarantee pending trial under deposit guarantee has violated the provisions of Paragraph 1 or Paragraph 2 of Article 71 of the Criminal Procedure Law, it shall notify the public security organ in writing to deal with the matter in accordance with law.\nAfter receiving the written notice of the public security organ that the deposit has been confiscated or its recommendation to alter the compulsory measure, the people's court shall, according to the different circumstances, within five days order the defendant to sign a statement of repentance, to pay a new deposit or to provide a guarantor, or alter the compulsory measure, and shall notify the public security organ.\nWhere a people's court decides to continue release on guarantee pending trial in respect of a defendant whose deposit has been confiscated in accordance with law, the duration of release on guarantee pending trial shall be calculated continuously."
+        },
+        "noLabel": {
+          "en": "Article 158."
+        },
+        "chapter": {
+          "en": "Chapter V Compulsory Measures"
+        }
+      },
+      {
+        "no": 159,
+        "text": {
+          "en": "After the judgment or ruling in respect of a defendant released on guarantee pending trial takes effect, where the deposit is his personal property and needs to be used to repay the victim, to perform the obligation of civil compensation ancillary to the criminal proceedings or to execute a property penalty, the people's court may notify the public security organ in writing to transfer the entire deposit, and the people's court shall dispose of it, returning the remaining part to the defendant."
+        },
+        "noLabel": {
+          "en": "Article 159."
+        },
+        "chapter": {
+          "en": "Chapter V Compulsory Measures"
+        }
+      },
+      {
+        "no": 160,
+        "text": {
+          "en": "In respect of a defendant falling under a circumstance provided in Paragraph 1 or Paragraph 2 of Article 74 of the Criminal Procedure Law, the people's court may decide on residential surveillance.\nWhere a people's court decides on residential surveillance of a defendant, it shall verify his residence; where he has no fixed residence, it shall designate a place of residence for him."
+        },
+        "noLabel": {
+          "en": "Article 160."
+        },
+        "chapter": {
+          "en": "Chapter V Compulsory Measures"
+        }
+      },
+      {
+        "no": 161,
+        "text": {
+          "en": "After a people's court announces the decision of residential surveillance to the defendant, it shall deliver the written decision of residential surveillance and other related materials to the public security organ of the place where the defendant's residence or the designated place of residence is located for execution.\nAfter placing a defendant under residential surveillance at a designated place of residence, the people's court shall, within 24 hours, notify his family members of the reasons for and the place of residential surveillance; where notification is truly impossible, this shall be recorded in the file."
+        },
+        "noLabel": {
+          "en": "Article 161."
+        },
+        "chapter": {
+          "en": "Chapter V Compulsory Measures"
+        }
+      },
+      {
+        "no": 162,
+        "text": {
+          "en": "Where a people's procuratorate or a public security organ has already released a criminal suspect on guarantee pending trial or subjected him to residential surveillance, and after the case is prosecuted before a people's court it is necessary to continue release on guarantee pending trial or residential surveillance or to alter the compulsory measure, the people's court shall make a decision within seven days and notify the people's procuratorate and the public security organ.\nWhere a decision is made to continue release on guarantee pending trial or residential surveillance, the formalities shall be completed afresh and the duration recalculated; where deposit guarantee continues to be used, no further deposit shall be collected."
+        },
+        "noLabel": {
+          "en": "Article 162."
+        },
+        "chapter": {
+          "en": "Chapter V Compulsory Measures"
+        }
+      },
+      {
+        "no": 163,
+        "text": {
+          "en": "In respect of a defendant falling under a circumstance provided in Paragraph 1 or Paragraph 3 of Article 81 of the Criminal Procedure Law, the people's court shall decide on arrest."
+        },
+        "noLabel": {
+          "en": "Article 163."
+        },
+        "chapter": {
+          "en": "Chapter V Compulsory Measures"
+        }
+      },
+      {
+        "no": 164,
+        "text": {
+          "en": "Where a defendant released on guarantee pending trial falls under any of the following circumstances, the people's court shall decide on arrest:\n(1) he intentionally commits a new crime;\n(2) he attempts suicide or escape;\n(3) he destroys or forges evidence, interferes with a witness's testimony or colludes in statements;\n(4) he retaliates against, intimidates or harasses the victim, a witness, an appraiser, a reporter or a complainant;\n(5) having been summoned, he fails to appear without justified reasons, affecting the normal conduct of the trial activities;\n(6) he changes his means of contact or place of residence without authorisation, making it impossible to summon him and affecting the normal conduct of the trial activities;\n(7) without approval, he leaves the city or county in which he resides without authorisation, affecting the normal conduct of the trial activities, or he leaves the city or county in which he resides without authorisation on two occasions without approval;\n(8) in violation of the provisions, he enters a specific place, meets or corresponds with a specific person, or engages in a specific activity, affecting the normal conduct of the trial activities, or he violates the relevant provisions on two occasions;\n(9) other circumstances under which arrest should be decided in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 164."
+        },
+        "chapter": {
+          "en": "Chapter V Compulsory Measures"
+        }
+      },
+      {
+        "no": 165,
+        "text": {
+          "en": "Where a defendant under residential surveillance falls under any of the following circumstances, the people's court shall decide on arrest:\n(1) a circumstance provided in Items 1 to 5 of the preceding Article exists;\n(2) without approval, he leaves the place where residential surveillance is executed without authorisation, affecting the normal conduct of the trial activities, or he leaves that place without authorisation on two occasions without approval;\n(3) without approval, he meets another person or corresponds with another person without authorisation, affecting the normal conduct of the trial activities, or he does so on two occasions without approval;\n(4) in respect of a defendant not arrested because he suffers from a serious illness and is unable to look after himself, or because she is pregnant or is breast-feeding her own infant, he has recovered from the illness or the breast-feeding period has expired;\n(5) other circumstances under which arrest should be decided in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 165."
+        },
+        "chapter": {
+          "en": "Chapter V Compulsory Measures"
+        }
+      },
+      {
+        "no": 166,
+        "text": {
+          "en": "In respect of a defendant on whom a penalty of not more than imprisonment may be imposed, where he violates the provisions on release on guarantee pending trial or residential surveillance and thereby seriously affects the normal conduct of the proceedings, a decision of arrest may be made."
+        },
+        "noLabel": {
+          "en": "Article 166."
+        },
+        "chapter": {
+          "en": "Chapter V Compulsory Measures"
+        }
+      },
+      {
+        "no": 167,
+        "text": {
+          "en": "After a people's court makes a decision of arrest, it shall deliver the written decision of arrest and other related materials to the public security organ for execution and send a copy of the written decision of arrest to the people's procuratorate. After arresting the defendant, the people's court shall, within 24 hours, notify his family members of the reasons for the arrest and the place of custody; where notification is truly impossible, this shall be recorded in the file."
+        },
+        "noLabel": {
+          "en": "Article 167."
+        },
+        "chapter": {
+          "en": "Chapter V Compulsory Measures"
+        }
+      },
+      {
+        "no": 168,
+        "text": {
+          "en": "In respect of a defendant in respect of whom a decision of arrest is made, the people's court shall interrogate him within 24 hours after the arrest. Where it discovers that he should not have been arrested, it shall release him immediately. Where necessary, it may alter the compulsory measure in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 168."
+        },
+        "chapter": {
+          "en": "Chapter V Compulsory Measures"
+        }
+      },
+      {
+        "no": 169,
+        "text": {
+          "en": "Where an arrested defendant falls under any of the following circumstances, the people's court may alter the compulsory measure:\n(1) he suffers from a serious illness and is unable to look after himself;\n(2) she is pregnant or is breast-feeding her own infant;\n(3) he is the sole supporter of a person unable to look after himself."
+        },
+        "noLabel": {
+          "en": "Article 169."
+        },
+        "chapter": {
+          "en": "Chapter V Compulsory Measures"
+        }
+      },
+      {
+        "no": 170,
+        "text": {
+          "en": "Where an arrested defendant falls under any of the following circumstances, the people's court shall release him immediately; where necessary, it may alter the compulsory measure in accordance with law:\n(1) the people's court of first instance adjudges the defendant not guilty, not criminally responsible or exempt from criminal punishment;\n(2) the people's court of first instance imposes public surveillance, pronounces a suspended sentence or applies an accessory penalty alone, and the judgment has not yet taken effect in law;\n(3) the time for which the defendant has been in custody has reached the term of the penalty imposed on him by the people's court of first instance;\n(4) the case cannot be concluded within the time limit provided by law."
+        },
+        "noLabel": {
+          "en": "Article 170."
+        },
+        "chapter": {
+          "en": "Chapter V Compulsory Measures"
+        }
+      },
+      {
+        "no": 171,
+        "text": {
+          "en": "Where a people's court decides to release a defendant, it shall immediately deliver the notice of release to the public security organ for execution."
+        },
+        "noLabel": {
+          "en": "Article 171."
+        },
+        "chapter": {
+          "en": "Chapter V Compulsory Measures"
+        }
+      },
+      {
+        "no": 172,
+        "text": {
+          "en": "Where a defendant subject to a compulsory measure is sentenced to public surveillance or given a suspended sentence, the compulsory measure shall be automatically lifted after community correction begins; where he is sentenced to an accessory penalty alone, the compulsory measure shall be automatically lifted after the judgment or ruling takes effect in law; where he is sentenced to a penalty of imprisonment, the compulsory measure shall be automatically lifted after the penalty begins to be executed."
+        },
+        "noLabel": {
+          "en": "Article 172."
+        },
+        "chapter": {
+          "en": "Chapter V Compulsory Measures"
+        }
+      },
+      {
+        "no": 173,
+        "text": {
+          "en": "In respect of a defendant in respect of whom a people's court has decided on arrest, where the people's procuratorate recommends release or alteration of the compulsory measure, the people's court shall, within ten days after receipt of the recommendation, notify the people's procuratorate of how the matter has been handled."
+        },
+        "noLabel": {
+          "en": "Article 173."
+        },
+        "chapter": {
+          "en": "Chapter V Compulsory Measures"
+        }
+      },
+      {
+        "no": 174,
+        "text": {
+          "en": "Where a defendant, his statutory agent, close relative or defender applies to alter or lift a compulsory measure, he shall state the reasons. After receiving the application, the people's court shall make a decision within three days. Where it agrees to alter or lift the compulsory measure, it shall deal with the matter in accordance with the provisions of these Interpretations; where it does not agree, it shall inform the applicant and state the reasons."
+        },
+        "noLabel": {
+          "en": "Article 174."
+        },
+        "chapter": {
+          "en": "Chapter V Compulsory Measures"
+        }
+      },
+      {
+        "no": 175,
+        "text": {
+          "en": "Where a victim suffers material loss because his personal rights are infringed by a crime or because his property is damaged by a criminal, he has the right to bring a civil action ancillary to the criminal proceedings in the course of the criminal proceedings; where the victim dies or loses capacity for conduct, his statutory agent or close relatives have the right to bring a civil action ancillary to the criminal proceedings.\nWhere a person, having suffered from the infringement of a crime, brings a civil action ancillary to the criminal proceedings or a separate civil action claiming compensation for mental distress, the people's court shall in general not accept it."
+        },
+        "noLabel": {
+          "en": "Article 175."
+        },
+        "chapter": {
+          "en": "Chapter VI Incidental Civil Actions"
+        }
+      },
+      {
+        "no": 176,
+        "text": {
+          "en": "Where a defendant unlawfully possesses or disposes of the victim's property, the property shall be recovered or he shall be ordered to return it or make compensation in accordance with law. Where the victim brings a civil action ancillary to the criminal proceedings, the people's court shall not accept it. The circumstances of recovery and return or compensation may be taken into account as a sentencing circumstance."
+        },
+        "noLabel": {
+          "en": "Article 176."
+        },
+        "chapter": {
+          "en": "Chapter VI Incidental Civil Actions"
+        }
+      },
+      {
+        "no": 177,
+        "text": {
+          "en": "Where a staff member of a State organ infringes the personal or property rights of another person in the exercise of his functions and powers and thereby commits a crime, and the victim or his statutory agent or close relative brings a civil action ancillary to the criminal proceedings, the people's court shall not accept it, but shall inform him that he may apply for State compensation in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 177."
+        },
+        "chapter": {
+          "en": "Chapter VI Incidental Civil Actions"
+        }
+      },
+      {
+        "no": 178,
+        "text": {
+          "en": "After a people's court accepts a criminal case, it may, in respect of a case meeting the provisions of Article 101 of the Criminal Procedure Law and Paragraph 1 of Article 175 of these Interpretations, inform the victim or his statutory agent or close relatives that they have the right to bring a civil action ancillary to the criminal proceedings.\nWhere a person entitled to bring a civil action ancillary to the criminal proceedings waives his procedural rights, this shall be permitted and recorded in the file."
+        },
+        "noLabel": {
+          "en": "Article 178."
+        },
+        "chapter": {
+          "en": "Chapter VI Incidental Civil Actions"
+        }
+      },
+      {
+        "no": 179,
+        "text": {
+          "en": "Where State property or collective property suffers loss and the unit that suffered the loss does not bring a civil action ancillary to the criminal proceedings, and the people's procuratorate brings a civil action ancillary to the criminal proceedings when instituting public prosecution, the people's court shall accept it.\nWhere a people's procuratorate brings a civil action ancillary to the criminal proceedings, it shall be listed as the plaintiff in the civil action ancillary to the criminal proceedings.\nWhere a defendant unlawfully possesses or disposes of State property or collective property, the matter shall be dealt with in accordance with Article 176 of these Interpretations."
+        },
+        "noLabel": {
+          "en": "Article 179."
+        },
+        "chapter": {
+          "en": "Chapter VI Incidental Civil Actions"
+        }
+      },
+      {
+        "no": 180,
+        "text": {
+          "en": "The persons who bear liability for compensation in accordance with law in a civil action ancillary to the criminal proceedings include:\n(1) the criminal defendant and other joint infringers whose criminal responsibility is not pursued;\n(2) the guardian of the criminal defendant;\n(3) the heir of a person sentenced to death;\n(4) in a joint crime case, the heir of a defendant who dies before the conclusion of the case;\n(5) other units and individuals who should bear liability for compensation in accordance with law for the material loss of the victim.\nWhere a relative or friend of a defendant in a civil action ancillary to the criminal proceedings voluntarily makes compensation on his behalf, this may be permitted."
+        },
+        "noLabel": {
+          "en": "Article 180."
+        },
+        "chapter": {
+          "en": "Chapter VI Incidental Civil Actions"
+        }
+      },
+      {
+        "no": 181,
+        "text": {
+          "en": "Where a victim or his statutory agent or close relatives bring a civil action ancillary to the criminal proceedings only against some of the joint infringers, the people's court shall inform them that they may bring the civil action ancillary to the criminal proceedings against the other joint infringers as well, including joint infringers whose criminal responsibility is not pursued, except where the co-offenders are at large in a joint crime case.\nWhere a victim or his statutory agent or close relatives waive their procedural rights against the other joint infringers, the people's court shall inform them of the corresponding legal consequences and state in the adjudicative document the circumstances of their waiver of the claims."
+        },
+        "noLabel": {
+          "en": "Article 181."
+        },
+        "chapter": {
+          "en": "Chapter VI Incidental Civil Actions"
+        }
+      },
+      {
+        "no": 182,
+        "text": {
+          "en": "The conditions for bringing a civil action ancillary to the criminal proceedings are:\n(1) the person bringing the action meets the statutory conditions;\n(2) there is a clear defendant;\n(3) there is a specific request for compensation and the facts and reasons;\n(4) the matter falls within the scope of civil actions ancillary to criminal proceedings accepted by people's courts."
+        },
+        "noLabel": {
+          "en": "Article 182."
+        },
+        "chapter": {
+          "en": "Chapter VI Incidental Civil Actions"
+        }
+      },
+      {
+        "no": 183,
+        "text": {
+          "en": "In a joint crime case, where a co-offender is at large, he shall not be listed as a defendant in the civil action ancillary to the criminal proceedings. After the co-offender at large is apprehended, the victim or his statutory agent or close relatives may bring a civil action ancillary to the criminal proceedings against him, except where they have already obtained full compensation from the other joint criminals."
+        },
+        "noLabel": {
+          "en": "Article 183."
+        },
+        "chapter": {
+          "en": "Chapter VI Incidental Civil Actions"
+        }
+      },
+      {
+        "no": 184,
+        "text": {
+          "en": "A civil action ancillary to the criminal proceedings shall be brought promptly after the criminal case is docketed.\nTo bring a civil action ancillary to the criminal proceedings, a bill of civil complaint ancillary to the criminal proceedings shall be submitted."
+        },
+        "noLabel": {
+          "en": "Article 184."
+        },
+        "chapter": {
+          "en": "Chapter VI Incidental Civil Actions"
+        }
+      },
+      {
+        "no": 185,
+        "text": {
+          "en": "During detection and examination for prosecution, where a person entitled to bring a civil action ancillary to the criminal proceedings raises a claim for compensation and, through mediation by the public security organ or the people's procuratorate, the parties have reached an agreement and fully performed it, and the victim or his statutory agent or close relatives then bring a civil action ancillary to the criminal proceedings, the people's court shall not accept it, except where there is evidence proving that the mediation violated the principles of voluntariness and lawfulness."
+        },
+        "noLabel": {
+          "en": "Article 185."
+        },
+        "chapter": {
+          "en": "Chapter VI Incidental Civil Actions"
+        }
+      },
+      {
+        "no": 186,
+        "text": {
+          "en": "Where a victim or his statutory agent or close relatives brings a civil action ancillary to the criminal proceedings, the people's court shall decide within seven days whether to accept it. Where the provisions of Article 101 of the Criminal Procedure Law and the relevant provisions of these Interpretations are met, it shall accept the action; where they are not met, it shall rule not to accept it."
+        },
+        "noLabel": {
+          "en": "Article 186."
+        },
+        "chapter": {
+          "en": "Chapter VI Incidental Civil Actions"
+        }
+      },
+      {
+        "no": 187,
+        "text": {
+          "en": "After a people's court accepts a civil action ancillary to the criminal proceedings, it shall, within five days, serve a copy of the bill of civil complaint ancillary to the criminal proceedings on the defendant in the civil action ancillary to the criminal proceedings and his statutory agent, or promptly notify the defendant in the civil action ancillary to the criminal proceedings and his statutory agent of the content of the oral action and make a record.\nWhen serving a copy of the bill of civil complaint ancillary to the criminal proceedings, the people's court shall, according to the time limit for trial of the criminal case, determine the time for the defendant and his statutory agent to prepare their defence."
+        },
+        "noLabel": {
+          "en": "Article 187."
+        },
+        "chapter": {
+          "en": "Chapter VI Incidental Civil Actions"
+        }
+      },
+      {
+        "no": 188,
+        "text": {
+          "en": "A party to a civil action ancillary to the criminal proceedings bears the burden of providing evidence for the claims he asserts."
+        },
+        "noLabel": {
+          "en": "Article 188."
+        },
+        "chapter": {
+          "en": "Chapter VI Incidental Civil Actions"
+        }
+      },
+      {
+        "no": 189,
+        "text": {
+          "en": "In a case in which a civil judgment ancillary to the criminal proceedings may be difficult to enforce because of the defendant's conduct or for another reason, the people's court may, upon the application of the plaintiff in the civil action ancillary to the criminal proceedings, rule to take preservation measures by sealing up, distraining or freezing the defendant's property; where the plaintiff in the civil action ancillary to the criminal proceedings has not applied, the people's court may also take preservation measures where necessary.\nWhere a person entitled to bring a civil action ancillary to the criminal proceedings, because of an urgent situation in which failure to apply immediately for preservation would cause irreparable harm to his lawful rights and interests, may, before bringing the civil action ancillary to the criminal proceedings, apply to the people's court of the place where the property to be preserved is located, of the place of residence of the respondent or of the place having jurisdiction over the case for the adoption of preservation measures. Where the applicant fails to bring the civil action ancillary to the criminal proceedings within 15 days after the people's court accepts the criminal case, the people's court shall lift the preservation measures.\nThe relevant provisions of Article 100 to Article 105 of the Civil Procedure Law shall apply to the preservation measures taken by a people's court, except the provisions of Paragraph 3 of Article 101 of the Civil Procedure Law."
+        },
+        "noLabel": {
+          "en": "Article 189."
+        },
+        "chapter": {
+          "en": "Chapter VI Incidental Civil Actions"
+        }
+      },
+      {
+        "no": 190,
+        "text": {
+          "en": "In trying a case of a civil action ancillary to the criminal proceedings, a people's court may conduct mediation on the principles of voluntariness and lawfulness. Where an agreement is reached through mediation, a mediation statement shall be prepared. The mediation statement shall have legal effect after being signed for receipt by both parties.\nWhere an agreement is reached through mediation and performed immediately in full, no mediation statement need be prepared, but a record shall be made, which shall take legal effect after being signed by both parties, the judicial officers and the court clerk."
+        },
+        "noLabel": {
+          "en": "Article 190."
+        },
+        "chapter": {
+          "en": "Chapter VI Incidental Civil Actions"
+        }
+      },
+      {
+        "no": 191,
+        "text": {
+          "en": "Where no agreement is reached through mediation, or a party goes back on his word before signing for receipt of the mediation statement, the civil action ancillary to the criminal proceedings shall be adjudicated together with the criminal proceedings."
+        },
+        "noLabel": {
+          "en": "Article 191."
+        },
+        "chapter": {
+          "en": "Chapter VI Incidental Civil Actions"
+        }
+      },
+      {
+        "no": 192,
+        "text": {
+          "en": "In making a judgment on a civil action ancillary to the criminal proceedings, the amount to be compensated by the defendant shall be determined on the basis of the material loss caused by the criminal act and in the light of the specific circumstances of the case.\nWhere the criminal act causes personal injury to the victim, compensation shall be made for reasonable expenses paid for treatment and rehabilitation such as medical expenses, nursing expenses and transportation expenses, as well as the income reduced because of loss of working time. Where the victim is disabled, compensation shall also be made for expenses such as the cost of disability living aids; where the victim dies, compensation shall also be made for expenses such as funeral expenses.\nWhere a person drives a motor vehicle and causes death or injury or causes major loss of public or private property, thereby constituting a crime, liability for compensation shall be determined in accordance with Article 76 of the Road Traffic Safety Law of the People's Republic of China.\nWhere the parties to a civil action ancillary to the criminal proceedings reach a mediation or settlement agreement on the question of civil compensation, the scope and amount of compensation are not subject to the provisions of Paragraph 2 and Paragraph 3."
+        },
+        "noLabel": {
+          "en": "Article 192."
+        },
+        "chapter": {
+          "en": "Chapter VI Incidental Civil Actions"
+        }
+      },
+      {
+        "no": 193,
+        "text": {
+          "en": "Where a people's procuratorate brings a civil action ancillary to the criminal proceedings and the people's court, upon trial, considers that the defendant in the civil action ancillary to the criminal proceedings should bear liability for compensation in accordance with law, it shall adjudge the defendant in the civil action ancillary to the criminal proceedings to compensate directly the unit that suffered the loss; where the unit that suffered the loss has been terminated and there is a successor to its rights and obligations, it shall adjudge compensation to be made to the successor; where there is no successor to its rights and obligations, it shall adjudge the compensation to be paid to the people's procuratorate, which shall turn it over to the State treasury."
+        },
+        "noLabel": {
+          "en": "Article 193."
+        },
+        "chapter": {
+          "en": "Chapter VI Incidental Civil Actions"
+        }
+      },
+      {
+        "no": 194,
+        "text": {
+          "en": "In trying a case of a civil action ancillary to the criminal proceedings, the people's court shall determine the defendant's expression of repentance in the light of the circumstances of his compensation for the victim's material loss, and shall take this into account in sentencing."
+        },
+        "noLabel": {
+          "en": "Article 194."
+        },
+        "chapter": {
+          "en": "Chapter VI Incidental Civil Actions"
+        }
+      },
+      {
+        "no": 195,
+        "text": {
+          "en": "Where the plaintiff in a civil action ancillary to the criminal proceedings, having been summoned, refuses to appear in court without justified reasons, or leaves the court midway without the permission of the court, the action shall be treated as withdrawn.\nWhere a defendant in a civil action ancillary to the criminal proceedings other than the criminal defendant, having been summoned, refuses to appear in court without justified reasons, or leaves the court midway without the permission of the court, a default judgment may be made on the civil part.\nWhere a defendant in a civil action ancillary to the criminal proceedings other than the criminal defendant has unknown whereabouts, or cannot be served by means other than public announcement, and this may cause excessive delay in the trial of the criminal case, he may not be listed as a defendant in the civil action ancillary to the criminal proceedings, and the plaintiff in the civil action ancillary to the criminal proceedings shall be informed to bring a separate civil action."
+        },
+        "noLabel": {
+          "en": "Article 195."
+        },
+        "chapter": {
+          "en": "Chapter VI Incidental Civil Actions"
+        }
+      },
+      {
+        "no": 196,
+        "text": {
+          "en": "A civil action ancillary to the criminal proceedings shall be tried together with the criminal case, and only in order to prevent excessive delay in the trial of the criminal case may the same judicial organisation continue to try the civil action ancillary to the criminal proceedings after the trial of the criminal case; where a member of the same judicial organisation is truly unable to continue to participate in the trial, he may be replaced."
+        },
+        "noLabel": {
+          "en": "Article 196."
+        },
+        "chapter": {
+          "en": "Chapter VI Incidental Civil Actions"
+        }
+      },
+      {
+        "no": 197,
+        "text": {
+          "en": "Where a people's court determines that the conduct of the defendant in a case of public prosecution does not constitute a crime, it may, in respect of a civil action ancillary to the criminal proceedings already brought, if no agreement can be reached through mediation, make a combined criminal and civil judgment, or inform the civil plaintiff that he may bring a separate civil action.\nIn a case of public prosecution in which a people's court permits the people's procuratorate to withdraw the prosecution, it may conduct mediation in respect of a civil action ancillary to the criminal proceedings already brought; where mediation is inappropriate or no agreement can be reached through mediation, it shall rule to reject the action and inform the plaintiff in the civil action ancillary to the criminal proceedings that he may bring a separate civil action."
+        },
+        "noLabel": {
+          "en": "Article 197."
+        },
+        "chapter": {
+          "en": "Chapter VI Incidental Civil Actions"
+        }
+      },
+      {
+        "no": 198,
+        "text": {
+          "en": "Where a civil action ancillary to the criminal proceedings is not brought during the first instance but is brought during the second instance, the people's court of second instance may conduct mediation in accordance with law; where mediation fails, the party shall be informed that he may bring a separate civil action after the criminal judgment or ruling takes effect."
+        },
+        "noLabel": {
+          "en": "Article 198."
+        },
+        "chapter": {
+          "en": "Chapter VI Incidental Civil Actions"
+        }
+      },
+      {
+        "no": 199,
+        "text": {
+          "en": "A people's court trying a case of a civil action ancillary to the criminal proceedings shall not collect litigation costs."
+        },
+        "noLabel": {
+          "en": "Article 199."
+        },
+        "chapter": {
+          "en": "Chapter VI Incidental Civil Actions"
+        }
+      },
+      {
+        "no": 200,
+        "text": {
+          "en": "Where a victim or his statutory agent or close relatives did not bring a civil action ancillary to the criminal proceedings in the course of the criminal proceedings but bring a separate civil action, the people's court may conduct mediation, or make a judgment in accordance with Paragraph 2 and Paragraph 3 of Article 192 of these Interpretations."
+        },
+        "noLabel": {
+          "en": "Article 200."
+        },
+        "chapter": {
+          "en": "Chapter VI Incidental Civil Actions"
+        }
+      },
+      {
+        "no": 201,
+        "text": {
+          "en": "In trying a case of a civil action ancillary to the criminal proceedings, a people's court shall apply the relevant provisions of the civil law, except where the Criminal Law, the Criminal Procedure Law and the criminal judicial interpretations already provide otherwise."
+        },
+        "noLabel": {
+          "en": "Article 201."
+        },
+        "chapter": {
+          "en": "Chapter VI Incidental Civil Actions"
+        }
+      },
+      {
+        "no": 202,
+        "text": {
+          "en": "A period calculated by months runs from a certain day of the current month to the same day of the following month as one month; where the day from which the period is counted is the last day of the current month, the period runs to the last day of the following month as one month; where the same day of the following month does not exist, the period runs from a certain day of the current month to the last day of the following month as one month; half a month shall in all cases be calculated as 15 days.\nA term of penalty calculated by years runs from a certain day of a certain month of the current year to the day before the same day of the same month of the following year as one year; where the same day of the same month of the following year does not exist, the term runs from a certain day of a certain month of the current year to the day before the last day of the same month of the following year as one year. A term of penalty calculated by months runs from a certain day of the current month to the day before the same day of the following month as one month; where the day from which the term is counted is the last day of the current month, the term runs to the day before the last day of the following month as one month; where the same day of the following month does not exist, the term runs from a certain day of the current month to the day before the last day of the following month as one month; half a month shall in all cases be calculated as 15 days."
+        },
+        "noLabel": {
+          "en": "Article 202."
+        },
+        "chapter": {
+          "en": "Chapter VII Time Limits, Service of Documents and Trial Time Limits"
+        }
+      },
+      {
+        "no": 203,
+        "text": {
+          "en": "Where a party, because of an irresistible cause or for other justified reasons, has delayed a period and applies in accordance with law to continue the procedural activities that should have been completed before the expiry of the period, the people's court shall rule to permit it after verification."
+        },
+        "noLabel": {
+          "en": "Article 203."
+        },
+        "chapter": {
+          "en": "Chapter VII Time Limits, Service of Documents and Trial Time Limits"
+        }
+      },
+      {
+        "no": 204,
+        "text": {
+          "en": "Service of procedural documents shall be acknowledged by signature of the addressee. Where the addressee is absent, service may be acknowledged on his behalf by his adult family member or by the person in charge of receipt at the unit where he works. The date on which the addressee or the person acknowledging on his behalf signs the acknowledgement of service is the date of service.\nWhere the addressee or the person acknowledging on his behalf refuses to sign for receipt, the server may invite a witness to be present, explain the circumstances, note on the acknowledgement of service the ground for and the date of the refusal, and, after the server and the witness sign or seal it, leave the procedural document at the residence or unit of the addressee or of the person acknowledging on his behalf; the server may also leave the procedural document at the residence of the person to be served and record the service process by photographing, recording or other means, whereupon service shall be deemed effected."
+        },
+        "noLabel": {
+          "en": "Article 204."
+        },
+        "chapter": {
+          "en": "Chapter VII Time Limits, Service of Documents and Trial Time Limits"
+        }
+      },
+      {
+        "no": 205,
+        "text": {
+          "en": "Where it is difficult to serve procedural documents directly, the people's court of the place where the addressee is located may be entrusted to serve them, or they may be served by post."
+        },
+        "noLabel": {
+          "en": "Article 205."
+        },
+        "chapter": {
+          "en": "Chapter VII Time Limits, Service of Documents and Trial Time Limits"
+        }
+      },
+      {
+        "no": 206,
+        "text": {
+          "en": "Where service is entrusted, the letter of entrustment, the procedural documents to be served and the acknowledgement of service shall be sent to the entrusted court. After receipt, the entrusted court shall register them, serve them on the addressee within ten days and send the acknowledgement of service to the entrusting court; where service cannot be effected, it shall inform the entrusting court and return the procedural documents and the acknowledgement of service."
+        },
+        "noLabel": {
+          "en": "Article 206."
+        },
+        "chapter": {
+          "en": "Chapter VII Time Limits, Service of Documents and Trial Time Limits"
+        }
+      },
+      {
+        "no": 207,
+        "text": {
+          "en": "Where service is effected by post, the procedural document and the acknowledgement of service shall be posted to the addressee. The date of signature for receipt is the date of service."
+        },
+        "noLabel": {
+          "en": "Article 207."
+        },
+        "chapter": {
+          "en": "Chapter VII Time Limits, Service of Documents and Trial Time Limits"
+        }
+      },
+      {
+        "no": 208,
+        "text": {
+          "en": "Where the addressee of a procedural document is a member of the armed forces, the document may be forwarded through the political department of the unit at or above the regiment level to which he belongs.\nWhere the addressee is serving a sentence, the document may be forwarded through the executing organ.\nWhere the addressee is receiving specialised correctional education or the like, the document may be forwarded through the relevant institution.\nWhere a relevant department or unit forwards a procedural document on behalf of the court, it shall be requested to deliver it to the addressee for signature immediately upon receipt and to send the acknowledgement of service to the people's court promptly."
+        },
+        "noLabel": {
+          "en": "Article 208."
+        },
+        "chapter": {
+          "en": "Chapter VII Time Limits, Service of Documents and Trial Time Limits"
+        }
+      },
+      {
+        "no": 209,
+        "text": {
+          "en": "The time limit for trial of a case in which jurisdiction is designated shall be counted from the date on which the people's court designated to exercise jurisdiction receives the written decision on designation of jurisdiction and the case file and evidentiary materials."
+        },
+        "noLabel": {
+          "en": "Article 209."
+        },
+        "chapter": {
+          "en": "Chapter VII Time Limits, Service of Documents and Trial Time Limits"
+        }
+      },
+      {
+        "no": 210,
+        "text": {
+          "en": "In respect of a case in which the death penalty may be imposed or a case involving a civil action ancillary to the criminal proceedings, and a case falling under any of the circumstances provided in Article 158 of the Criminal Procedure Law, the people's court at the next higher level may approve an extension of the time limit for trial on one occasion for a period of three months. Where a further extension is needed because of special circumstances, it shall be reported to the Supreme People's Court for approval.\nAn application for approval of an extension of the time limit for trial shall be reported through the levels 15 days before the expiry of the time limit. Where the people's court with the power to decide does not agree, it shall make a decision five days before the expiry of the time limit for trial.\nWhere a report is made to the Supreme People's Court for approval of an extension of the time limit for trial because of special circumstances and, upon examination, the Supreme People's Court approves it, the time limit for trial may be extended by one to three months. Where the case still cannot be concluded upon expiry of the time limit, a further application may be made."
+        },
+        "noLabel": {
+          "en": "Article 210."
+        },
+        "chapter": {
+          "en": "Chapter VII Time Limits, Service of Documents and Trial Time Limits"
+        }
+      },
+      {
+        "no": 211,
+        "text": {
+          "en": "During the trial, the time taken to conduct a psychiatric appraisal of the defendant is not counted in the time limit for trial."
+        },
+        "noLabel": {
+          "en": "Article 211."
+        },
+        "chapter": {
+          "en": "Chapter VII Time Limits, Service of Documents and Trial Time Limits"
+        }
+      },
+      {
+        "no": 212,
+        "text": {
+          "en": "The collegial panel shall be presided over by a judge as the presiding judge. Where the president or the chief judge of a division participates in the trial of a case, he shall himself serve as the presiding judge.\nWhere a judge conducts a trial alone in accordance with law, he shall exercise the same functions and powers as the presiding judge."
+        },
+        "noLabel": {
+          "en": "Article 212."
+        },
+        "chapter": {
+          "en": "Chapter VIII Trial Organisation"
+        }
+      },
+      {
+        "no": 213,
+        "text": {
+          "en": "Where a basic people's court, an intermediate people's court or a people's court at a higher level tries the following criminal cases of first instance, a collegial panel composed of judges and people's assessors shall be formed:\n(1) cases involving the interests of a group or the public interest;\n(2) cases of widespread concern to the people or with a relatively major social impact;\n(3) cases in which the circumstances are complex or other circumstances exist and people's assessors need to participate in the trial.\nWhere a basic people's court, an intermediate people's court or a people's court at a higher level tries the following criminal cases of first instance, a seven-member collegial panel composed of judges and people's assessors shall be formed:\n(1) cases in which a sentence of ten years or more of fixed-term imprisonment, life imprisonment or the death penalty may be imposed and the social impact is major;\n(2) cases involving land requisition and demolition, ecological and environmental protection, or food and drug safety, and with a major social impact;\n(3) other cases with a major social impact."
+        },
+        "noLabel": {
+          "en": "Article 213."
+        },
+        "chapter": {
+          "en": "Chapter VIII Trial Organisation"
+        }
+      },
+      {
+        "no": 214,
+        "text": {
+          "en": "The hearing and the deliberation of a case shall be conducted by the same collegial panel. In deliberating a case, the members of the collegial panel shall express their opinions independently and state the reasons. Where opinions differ, a decision shall be made according to the majority opinion, but the minority opinion shall be recorded in the record. The record of deliberation shall be signed by the members of the collegial panel after they have read and confirmed it. The deliberation shall be kept confidential."
+        },
+        "noLabel": {
+          "en": "Article 214."
+        },
+        "chapter": {
+          "en": "Chapter VIII Trial Organisation"
+        }
+      },
+      {
+        "no": 215,
+        "text": {
+          "en": "Where a people's assessor participates in a three-member collegial panel trying a case, he shall independently express opinions on the ascertainment of facts and the application of law and exercise the right to vote.\nWhere a people's assessor participates in a seven-member collegial panel trying a case, he shall independently express opinions on the ascertainment of facts and vote together with the judges; he may express opinions on the application of law but does not participate in voting on it."
+        },
+        "noLabel": {
+          "en": "Article 215."
+        },
+        "chapter": {
+          "en": "Chapter VIII Trial Organisation"
+        }
+      },
+      {
+        "no": 216,
+        "text": {
+          "en": "After the trial and deliberation by the collegial panel, a judgment or ruling shall be made promptly.\nIn respect of the following cases, the collegial panel shall request the president of the court to decide to submit the matter to the judicial committee for discussion and decision:\n(1) cases in which a people's court at a higher level or an intermediate people's court intends to impose an immediate execution of the death penalty, and cases in which an intermediate people's court intends to impose a death sentence with a two-year suspension of execution;\n(2) cases in which a judgment or ruling of the court that has already taken effect is indeed erroneous and requires a retrial;\n(3) cases in which a people's procuratorate lodges a protest in accordance with the procedure for trial supervision.\nIn respect of a case in which the members of the collegial panel have major differences of opinion, a case of a new type, a case with a major social impact or another difficult, complex or major case, where the collegial panel considers it difficult to make a decision, it may request the president of the court to decide to submit the matter to the judicial committee for discussion and decision.\nA people's assessor may request the collegial panel to submit the case to the president of the court for a decision on whether to submit it to the judicial committee for discussion and decision.\nIn respect of a case submitted to the president of the court for a decision on whether to submit it to the judicial committee for discussion and decision, where the president considers it unnecessary, he may recommend that the collegial panel reconsider it once.\nIn a case tried by a single judge, the judge may, where he considers it necessary, also request the president of the court to decide to submit the matter to the judicial committee for discussion and decision."
+        },
+        "noLabel": {
+          "en": "Article 216."
+        },
+        "chapter": {
+          "en": "Chapter VIII Trial Organisation"
+        }
+      },
+      {
+        "no": 217,
+        "text": {
+          "en": "The decision of the judicial committee shall be executed by the collegial panel and the sole judge; where they have a different opinion, they may recommend that the president of the court submit the matter to the judicial committee for reconsideration."
+        },
+        "noLabel": {
+          "en": "Article 217."
+        },
+        "chapter": {
+          "en": "Chapter VIII Trial Organisation"
+        }
+      },
+      {
+        "no": 218,
+        "text": {
+          "en": "In respect of a case of public prosecution, after receiving the bill of indictment (in eight copies, with five additional copies of the bill of indictment for each additional defendant) and the case file and evidence, the people's court shall examine the following:\n(1) whether the case falls within the jurisdiction of the court;\n(2) whether the bill of indictment states the identity of the defendant, whether he has been subjected to or is undergoing criminal punishment, administrative punishment or sanction, the circumstances of any measure of retention in custody taken against him, the time, type and place of custody of any compulsory measure taken against him, and the time, place, means and consequences of the crime and other circumstances that may affect conviction and sentencing; where there are several criminal facts, whether the facts are listed separately in the bill of indictment;\n(3) whether evidentiary materials proving the alleged criminal facts and affecting sentencing have been transferred, including the legal documents for taking technical investigation or detection measures and the evidentiary materials collected;\n(4) whether the illegal gains of the defendant or other property involved in the case have been sealed up, distrained or frozen, and whether the sealing up, distraint or freezing is overdue; whether the property involved in the case has been transferred with the case and a list of the property involved in the case is attached; whether the ownership of the property involved in the case is stated; whether the relevant evidentiary materials on the handling of the property involved in the case have been provided;\n(5) whether the names, addresses and means of contact of the victims are stated; whether a list of witnesses and appraisers is attached; whether an application is made for the court to notify witnesses, appraisers and persons with specialised knowledge to appear in court, and whether the names, sex, age, occupation, addresses and means of contact of the relevant persons are stated; whether a list of witnesses, appraisers and victims requiring protection is attached;\n(6) where a party has entrusted a defender or agent ad litem or has received legal aid, whether the names, addresses and means of contact of the defender or agent ad litem are stated;\n(7) whether a civil action ancillary to the criminal proceedings is brought; where it is brought, whether the names, addresses and means of contact of the parties to the civil action ancillary to the criminal proceedings are stated and whether the relevant evidentiary materials are attached;\n(8) whether the various legal formalities and procedural documents of the supervisory investigation, detection and examination for prosecution procedures are complete;\n(9) where the defendant pleads guilty and accepts punishment, whether a sentencing recommendation has been made and materials such as the written statement of pleading guilty and accepting punishment have been transferred;\n(10) whether any circumstance provided in Items 2 to 6 of Article 16 of the Criminal Procedure Law under which criminal responsibility is not pursued exists."
+        },
+        "noLabel": {
+          "en": "Article 218."
+        },
+        "chapter": {
+          "en": "Section 1 Review and Acceptance of Cases and Pre-Trial Preparation"
+        }
+      },
+      {
+        "no": 219,
+        "text": {
+          "en": "After examining a case of public prosecution, the people's court shall deal with it respectively according to the following circumstances:\n(1) where the case does not fall within the jurisdiction of the court, it shall be returned to the people's procuratorate;\n(2) where a circumstance provided in Items 2 to 6 of Article 16 of the Criminal Procedure Law exists, the case shall be returned to the people's procuratorate; where the case is one handled only upon complaint, the victim shall at the same time be informed that he has the right to bring a private prosecution;\n(3) where the defendant is not before the court, the case shall be returned to the people's procuratorate; however, where the people's procuratorate has instituted public prosecution in accordance with the procedure for trial by default, the matter shall be dealt with in accordance with the provisions of Chapter XXIV of these Interpretations;\n(4) where any of the provisions of Items 2 to 9 of the preceding Article is not met and supplementary materials are needed, the people's procuratorate shall be notified to submit them within three days;\n(5) where, after the defendant has been adjudged not guilty in accordance with Item 3 of Article 200 of the Criminal Procedure Law, the people's procuratorate prosecutes again on the basis of new facts and evidence, the case shall be accepted in accordance with law;\n(6) where, in a case in which a ruling was made permitting withdrawal of the prosecution in accordance with Article 296 of these Interpretations, the prosecution is instituted again without new facts or evidence affecting conviction and sentencing, the case shall be returned to the people's procuratorate;\n(7) where the true identity of the defendant is unknown but the provisions of Paragraph 2 of Article 160 of the Criminal Procedure Law are met, the case shall be accepted in accordance with law.\nThe examination of whether to accept a case of public prosecution shall be completed within seven days."
+        },
+        "noLabel": {
+          "en": "Article 219."
+        },
+        "chapter": {
+          "en": "Section 1 Review and Acceptance of Cases and Pre-Trial Preparation"
+        }
+      },
+      {
+        "no": 220,
+        "text": {
+          "en": "In respect of a joint crime or connected crime case prosecuted as one case in which there is a large number of defendants and the circumstances are complex, where the people's court, upon examination, considers that separate trials are more conducive to guaranteeing the quality and efficiency of the hearing, it may try the case separately. Separate trials shall not affect the exercise of the parties' procedural rights such as the right to cross-examine evidence.\nIn respect of a joint crime or connected crime case prosecuted as separate cases, where the people's court, upon examination, considers that a consolidated trial is more conducive to ascertaining the facts of the case, safeguarding procedural rights and accurately determining guilt and sentencing, it may try the cases together."
+        },
+        "noLabel": {
+          "en": "Article 220."
+        },
+        "chapter": {
+          "en": "Section 1 Review and Acceptance of Cases and Pre-Trial Preparation"
+        }
+      },
+      {
+        "no": 221,
+        "text": {
+          "en": "Before the hearing, the people's court shall carry out the following work:\n(1) determining the presiding judge and the members of the collegial panel;\n(2) serving a copy of the bill of indictment on the defendant and the defender ten days before the hearing;\n(3) notifying the parties, statutory agents, defenders and agents ad litem to provide, five days before the hearing, the list of witnesses and appraisers and the evidence to be produced in court; where an application is made for witnesses, appraisers or persons with specialised knowledge to appear in court, the names, sex, age, occupation, addresses and means of contact of the relevant persons shall be stated;\n(4) notifying the people's procuratorate of the time and place of the hearing three days before the hearing;\n(5) serving the summons for the parties and the notices for defenders, agents ad litem, statutory agents, witnesses and appraisers to appear in court three days before the hearing; the relevant persons may also be notified to appear in court by telephone, text message, fax, electronic mail, instant messaging or other means capable of confirming receipt; in a case involving a large number of victims and a wide circle of persons, the relevant documents may be published on the Internet to notify the relevant persons to appear in court;\n(6) in a case tried in public, announcing the cause of action, the name of the defendant and the time and place of the hearing three days before the hearing.\nThe above work shall be recorded in the file."
+        },
+        "noLabel": {
+          "en": "Article 221."
+        },
+        "chapter": {
+          "en": "Section 1 Review and Acceptance of Cases and Pre-Trial Preparation"
+        }
+      },
+      {
+        "no": 222,
+        "text": {
+          "en": "The trial of a case shall be conducted in public.\nWhere a case involves State secrets or personal privacy, it shall be tried in camera; where a case involves commercial secrets and a party applies, the court may decide to try it in camera.\nIn a case tried in camera, no person may be present as an observer, except where a circumstance provided in Article 285 of the Criminal Procedure Law exists."
+        },
+        "noLabel": {
+          "en": "Article 222."
+        },
+        "chapter": {
+          "en": "Section 1 Review and Acceptance of Cases and Pre-Trial Preparation"
+        }
+      },
+      {
+        "no": 223,
+        "text": {
+          "en": "Persons with mental illness, intoxicated persons, minors not approved by the people's court and other persons unsuitable to observe shall not observe the trial of a case."
+        },
+        "noLabel": {
+          "en": "Article 223."
+        },
+        "chapter": {
+          "en": "Section 1 Review and Acceptance of Cases and Pre-Trial Preparation"
+        }
+      },
+      {
+        "no": 224,
+        "text": {
+          "en": "Where there is a large number of victims and the case does not fall within the scope of a civil action ancillary to the criminal proceedings, the victims may elect a number of representatives to participate in the hearing."
+        },
+        "noLabel": {
+          "en": "Article 224."
+        },
+        "chapter": {
+          "en": "Section 1 Review and Acceptance of Cases and Pre-Trial Preparation"
+        }
+      },
+      {
+        "no": 225,
+        "text": {
+          "en": "Where a victim or agent ad litem fails to appear in court after being summoned or notified, and this does not affect the conduct of the hearing, the people's court may hold the hearing.\nWhere a defender fails to appear in court after being notified and the defendant consents, the people's court may hold the hearing, except where the defendant falls under a circumstance in which legal aid should be provided."
+        },
+        "noLabel": {
+          "en": "Article 225."
+        },
+        "chapter": {
+          "en": "Section 1 Review and Acceptance of Cases and Pre-Trial Preparation"
+        }
+      },
+      {
+        "no": 226,
+        "text": {
+          "en": "Where a case falls under any of the following circumstances, the people's court may decide to convene a pre-trial conference:\n(1) there are a large number of evidentiary materials and the case is major and complex;\n(2) the prosecution and the defence have a considerable dispute over the facts and evidence;\n(3) the social impact is major;\n(4) other circumstances in which a pre-trial conference needs to be convened."
+        },
+        "noLabel": {
+          "en": "Article 226."
+        },
+        "chapter": {
+          "en": "Section 2 Pre-Trial Conferences and Their Interface with Court Hearings"
+        }
+      },
+      {
+        "no": 227,
+        "text": {
+          "en": "The prosecution and the defence may apply to the people's court to convene a pre-trial conference, and the application shall state the reasons. Where, upon examination, the people's court considers it necessary, it shall convene a pre-trial conference; where it decides not to convene one, it shall inform the applicant."
+        },
+        "noLabel": {
+          "en": "Article 227."
+        },
+        "chapter": {
+          "en": "Section 2 Pre-Trial Conferences and Their Interface with Court Hearings"
+        }
+      },
+      {
+        "no": 228,
+        "text": {
+          "en": "At a pre-trial conference, the people's court may learn about the following matters from the prosecution and the defence and hear their opinions:\n(1) whether there is any objection to the jurisdiction over the case;\n(2) whether an application is made for the withdrawal of the relevant persons;\n(3) whether an application is made for trial in camera;\n(4) whether an application is made to exclude illegally obtained evidence;\n(5) whether new evidentiary materials are provided;\n(6) whether an application is made for a new appraisal or inspection;\n(7) whether an application is made to collect or obtain evidentiary materials proving the defendant's innocence or the minor nature of his crime;\n(8) whether an application is made for witnesses, appraisers, persons with specialised knowledge, investigating personnel, detection personnel or other persons to appear in court, and whether there is any objection to the list of persons appearing in court;\n(9) whether there is any objection to the ownership of the property involved in the case and to the handling recommendation of the people's procuratorate;\n(10) other issues related to the trial.\nAt the pre-trial conference, the people's court may conduct civil mediation ancillary to the criminal proceedings.\nIn respect of procedural matters provided in Paragraph 1 that may cause an interruption of the hearing, the people's court may deal with them in accordance with law after the pre-trial conference and state the decision and reasons at the hearing. Where the prosecution and the defence put forward the relevant application or objection again at the hearing without new reasons, the court may, after stating the circumstances of the pre-trial conference and the reasons for the decision, reject it in accordance with law.\nA record of the pre-trial conference shall be made and shall be signed by the participants after they have checked it."
+        },
+        "noLabel": {
+          "en": "Article 228."
+        },
+        "chapter": {
+          "en": "Section 2 Pre-Trial Conferences and Their Interface with Court Hearings"
+        }
+      },
+      {
+        "no": 229,
+        "text": {
+          "en": "At a pre-trial conference, the judicial officers may ask the prosecution and the defence whether they have any objection to the evidentiary materials; evidence to which an objection is raised shall be the subject of focused examination at the hearing; where there is no objection, the production and cross-examination of evidence at the hearing may be simplified."
+        },
+        "noLabel": {
+          "en": "Article 229."
+        },
+        "chapter": {
+          "en": "Section 2 Pre-Trial Conferences and Their Interface with Court Hearings"
+        }
+      },
+      {
+        "no": 230,
+        "text": {
+          "en": "A pre-trial conference shall be presided over by the presiding judge, and another judge of the collegial panel may also preside over a pre-trial conference.\nTo convene a pre-trial conference, the public prosecutor and the defender shall be notified to be present.\nWhere the pre-trial conference is to learn about and hear opinions on the exclusion of illegally obtained evidence, or is to ask the prosecution and the defence for their opinions on the evidentiary materials, the defendant shall be notified to be present. In a case with several defendants, the defendants to participate in the pre-trial conference may be determined according to the circumstances."
+        },
+        "noLabel": {
+          "en": "Article 230."
+        },
+        "chapter": {
+          "en": "Section 2 Pre-Trial Conferences and Their Interface with Court Hearings"
+        }
+      },
+      {
+        "no": 231,
+        "text": {
+          "en": "A pre-trial conference shall in general not be held in public.\nAccording to the circumstances of the case, a pre-trial conference may be held by video link or other means."
+        },
+        "noLabel": {
+          "en": "Article 231."
+        },
+        "chapter": {
+          "en": "Section 2 Pre-Trial Conferences and Their Interface with Court Hearings"
+        }
+      },
+      {
+        "no": 232,
+        "text": {
+          "en": "After hearing the opinions of the prosecution and the defence at the pre-trial conference on the facts of the case and the evidentiary materials, the people's court may, in respect of a case in which the facts are manifestly unclear and the evidence is insufficient, recommend that the people's procuratorate supplement the materials or withdraw the prosecution. Where the people's procuratorate does not agree to a recommendation to withdraw the prosecution, the withdrawal shall in general not be permitted after the hearing without new facts and reasons."
+        },
+        "noLabel": {
+          "en": "Article 232."
+        },
+        "chapter": {
+          "en": "Section 2 Pre-Trial Conferences and Their Interface with Court Hearings"
+        }
+      },
+      {
+        "no": 233,
+        "text": {
+          "en": "In a case in which a pre-trial conference is convened, the circumstances of the pre-trial conference may be announced at the hearing. In respect of matters on which agreement was reached at the pre-trial conference, the court may confirm them in court after verifying them with the prosecution and the defence; in respect of matters on which no agreement was reached, the court may summarise the points of dispute between the prosecution and the defence, hear their opinions and deal with the matter in accordance with law.\nWhere the prosecution and the defence reached agreement at the pre-trial conference on a relevant matter and go back on it at the hearing, the court shall in general no longer deal with it, except where there are justified reasons."
+        },
+        "noLabel": {
+          "en": "Article 233."
+        },
+        "chapter": {
+          "en": "Section 2 Pre-Trial Conferences and Their Interface with Court Hearings"
+        }
+      },
+      {
+        "no": 234,
+        "text": {
+          "en": "Before the hearing, the court clerk shall carry out the following work in sequence:\n(1) upon the entrustment of the presiding judge, ascertaining whether the public prosecutor, the parties, the defenders, the agents ad litem, the witnesses and the other participants in the proceedings are present;\n(2) verifying whether any of the observers is a witness, an appraiser or a person with specialised knowledge;\n(3) inviting the public prosecutor, the defenders, the agents ad litem and the other participants in the proceedings to enter the court;\n(4) reading out the court rules;\n(5) inviting the presiding judge, the judges and the people's assessors to enter the court;\n(6) after the judicial officers are seated, reporting to the presiding judge that the preparatory work before the hearing is complete."
+        },
+        "noLabel": {
+          "en": "Article 234."
+        },
+        "chapter": {
+          "en": "Section 3 Opening of Court and Court Investigation"
+        }
+      },
+      {
+        "no": 235,
+        "text": {
+          "en": "After the presiding judge declares the court in session and the defendant is brought into court, the following circumstances of the defendant shall be ascertained:\n(1) name, date of birth, ethnicity, place of birth, level of education, occupation and address, or the name, domicile, legal representative and actual controller of the defendant unit and the name and position of its representative in the proceedings;\n(2) whether he has been subjected to criminal punishment, administrative punishment or sanction, and the type and time thereof;\n(3) whether a measure of retention in custody has been taken against him and the duration of the retention, and whether a compulsory measure has been taken against him and the type and time of the compulsory measure;\n(4) the date of receipt of the copy of the bill of indictment; where there is a civil action ancillary to the criminal proceedings, the date on which the defendant in the civil action ancillary to the criminal proceedings received the bill of civil complaint ancillary to the criminal proceedings.\nWhere there are a relatively large number of defendants, the above circumstances may be ascertained before the hearing, but the presiding judge shall give an explanation at the hearing."
+        },
+        "noLabel": {
+          "en": "Article 235."
+        },
+        "chapter": {
+          "en": "Section 3 Opening of Court and Court Investigation"
+        }
+      },
+      {
+        "no": 236,
+        "text": {
+          "en": "The presiding judge shall announce the origin of the case, the cause of action of the prosecution, the names of the parties to the civil action ancillary to the criminal proceedings and whether the case is to be tried in public; where the case is to be tried in camera, the reasons shall be announced."
+        },
+        "noLabel": {
+          "en": "Article 236."
+        },
+        "chapter": {
+          "en": "Section 3 Opening of Court and Court Investigation"
+        }
+      },
+      {
+        "no": 237,
+        "text": {
+          "en": "The presiding judge shall announce the names of the members of the collegial panel, the judge's assistants, the court clerk and the public prosecutor, and the names of the participants in the proceedings such as the defenders, agents ad litem, appraisers and interpreters."
+        },
+        "noLabel": {
+          "en": "Article 237."
+        },
+        "chapter": {
+          "en": "Section 3 Opening of Court and Court Investigation"
+        }
+      },
+      {
+        "no": 238,
+        "text": {
+          "en": "The presiding judge shall inform the parties and their statutory agents, defenders and agents ad litem that in the course of the court hearing they enjoy the following procedural rights in accordance with law:\n(1) they may apply for the withdrawal of the members of the collegial panel, the judge's assistants, the court clerk, the public prosecutor, the appraisers and the interpreters;\n(2) they may produce evidence, apply for new witnesses to be notified to appear in court and for new evidence to be obtained, and apply for a new appraisal or inspection;\n(3) the defendant may defend himself;\n(4) the defendant may make a final statement after the conclusion of the court debate."
+        },
+        "noLabel": {
+          "en": "Article 238."
+        },
+        "chapter": {
+          "en": "Section 3 Opening of Court and Court Investigation"
+        }
+      },
+      {
+        "no": 239,
+        "text": {
+          "en": "The presiding judge shall ask the parties and their statutory agents, defenders and agents ad litem whether they apply for withdrawal, whom they apply to have withdrawn and the reasons for the application.\nWhere a party or his statutory agent, defender or agent ad litem applies for withdrawal, the matter shall be dealt with in accordance with the Criminal Procedure Law and the relevant provisions of these Interpretations.\nThe decision to permit or reject an application for withdrawal and the decision on reconsideration shall be announced by the presiding judge with the reasons stated. Where necessary, they may also be announced in court by the president of the court."
+        },
+        "noLabel": {
+          "en": "Article 239."
+        },
+        "chapter": {
+          "en": "Section 3 Opening of Court and Court Investigation"
+        }
+      },
+      {
+        "no": 240,
+        "text": {
+          "en": "After the presiding judge declares the beginning of the court investigation, the public prosecutor shall first read out the bill of indictment; after the public prosecutor has read out the bill of indictment, the presiding judge shall ask the defendant whether he has any objection to the criminal facts and charges alleged in the bill of indictment.\nWhere there is a civil action ancillary to the criminal proceedings, after the public prosecutor has read out the bill of indictment, the plaintiff in the civil action ancillary to the criminal proceedings or his statutory agent or agent ad litem shall read out the bill of civil complaint ancillary to the criminal proceedings."
+        },
+        "noLabel": {
+          "en": "Article 240."
+        },
+        "chapter": {
+          "en": "Section 3 Opening of Court and Court Investigation"
+        }
+      },
+      {
+        "no": 241,
+        "text": {
+          "en": "Under the direction of the presiding judge, the defendant and the victim may make separate statements on the criminal facts alleged in the bill of indictment."
+        },
+        "noLabel": {
+          "en": "Article 241."
+        },
+        "chapter": {
+          "en": "Section 3 Opening of Court and Court Investigation"
+        }
+      },
+      {
+        "no": 242,
+        "text": {
+          "en": "Under the direction of the presiding judge, the public prosecutor may interrogate the defendant on the criminal facts alleged in the bill of indictment.\nWith the permission of the presiding judge, the victim and his statutory agent or agent ad litem may put supplementary questions on the criminal facts regarding which the public prosecutor has interrogated; the plaintiff in the civil action ancillary to the criminal proceedings and his statutory agent or agent ad litem may put questions to the defendant on the facts of the civil part; the defendant's statutory agent and defender and the defendant in the civil action ancillary to the criminal proceedings and his statutory agent or agent ad litem may put questions to the defendant after the prosecuting side and the plaintiff side in the civil action ancillary to the criminal proceedings have finished interrogating or questioning on a certain issue.\nAccording to the circumstances of the case, the interrogation of and questioning of the defendant on evidentiary issues may be conducted at the stage of producing and cross-examining evidence."
+        },
+        "noLabel": {
+          "en": "Article 242."
+        },
+        "chapter": {
+          "en": "Section 3 Opening of Court and Court Investigation"
+        }
+      },
+      {
+        "no": 243,
+        "text": {
+          "en": "Defendants tried in the same case shall be interrogated separately."
+        },
+        "noLabel": {
+          "en": "Article 243."
+        },
+        "chapter": {
+          "en": "Section 3 Opening of Court and Court Investigation"
+        }
+      },
+      {
+        "no": 244,
+        "text": {
+          "en": "With the permission of the presiding judge, the prosecution and the defence may put questions to the victim and to the plaintiff in the civil action ancillary to the criminal proceedings."
+        },
+        "noLabel": {
+          "en": "Article 244."
+        },
+        "chapter": {
+          "en": "Section 3 Opening of Court and Court Investigation"
+        }
+      },
+      {
+        "no": 245,
+        "text": {
+          "en": "Where necessary, the judicial officers may interrogate the defendant and may also put questions to the victim and to the parties to the civil action ancillary to the criminal proceedings."
+        },
+        "noLabel": {
+          "en": "Article 245."
+        },
+        "chapter": {
+          "en": "Section 3 Opening of Court and Court Investigation"
+        }
+      },
+      {
+        "no": 246,
+        "text": {
+          "en": "The public prosecutor may request the court to notify witnesses, appraisers, persons with specialised knowledge, investigating personnel, detection personnel or other persons to appear in court, or to produce evidence. The victim and his statutory agent or agent ad litem, and the plaintiff in the civil action ancillary to the criminal proceedings and his agent ad litem, may also make an application.\nAfter the prosecuting side has produced evidence, the defendant and his statutory agent or defender may request the court to notify witnesses, appraisers, persons with specialised knowledge, investigating personnel, detection personnel or other persons to appear in court, or to produce evidence."
+        },
+        "noLabel": {
+          "en": "Article 246."
+        },
+        "chapter": {
+          "en": "Section 3 Opening of Court and Court Investigation"
+        }
+      },
+      {
+        "no": 247,
+        "text": {
+          "en": "Where the prosecution and the defence apply for witnesses to appear in court to testify or for evidence to be produced, they shall state the name and source of the evidence and the facts it is intended to prove. Where the court considers it necessary, it shall permit it; where the other side raises an objection asserting that the evidence is unrelated to the case or manifestly repetitive or unnecessary, and the court, upon examination, finds the objection sustained, it may refuse permission."
+        },
+        "noLabel": {
+          "en": "Article 247."
+        },
+        "chapter": {
+          "en": "Section 3 Opening of Court and Court Investigation"
+        }
+      },
+      {
+        "no": 248,
+        "text": {
+          "en": "Where the prosecution and the defence need to produce the case file and evidentiary materials already transferred to the people's court, they may apply to the court, and the court may permit it. The case file and evidentiary materials shall be returned in court after cross-examination.\nWhere a recording needs to be played or evidentiary materials need to be shown to the court, the public prosecutor or the participants in the proceedings, the court may direct the bailiff on duty or the relevant personnel to assist."
+        },
+        "noLabel": {
+          "en": "Article 248."
+        },
+        "chapter": {
+          "en": "Section 3 Opening of Court and Court Investigation"
+        }
+      },
+      {
+        "no": 249,
+        "text": {
+          "en": "Where the public prosecutor, a party, or a defender or agent ad litem has an objection to witness testimony that has a major bearing on conviction and sentencing, or has an objection to an expert opinion, and the people's court considers it necessary for the witness or appraiser to appear in court to testify, it shall notify the witness or appraiser to appear in court.\nWhere the prosecution and the defence have an objection to the process of solving the case, the source, authenticity or lawfulness of evidence or other matters, and apply for investigating personnel, detection personnel or the relevant persons to appear in court, and the people's court considers it necessary, it shall notify the investigating personnel, detection personnel or the relevant persons to appear in court."
+        },
+        "noLabel": {
+          "en": "Article 249."
+        },
+        "chapter": {
+          "en": "Section 3 Opening of Court and Court Investigation"
+        }
+      },
+      {
+        "no": 250,
+        "text": {
+          "en": "Where the public prosecutor, a party and his defender or agent ad litem apply to the court to notify a person with specialised knowledge to appear in court to give opinions on an expert opinion, they shall state the reasons. Where the court considers it necessary, it shall notify the person with specialised knowledge to appear in court.\nThe number of persons with specialised knowledge applied for to appear in court shall not exceed two. Where there are expert opinions of several categories, the number may be increased accordingly."
+        },
+        "noLabel": {
+          "en": "Article 250."
+        },
+        "chapter": {
+          "en": "Section 3 Opening of Court and Court Investigation"
+        }
+      },
+      {
+        "no": 251,
+        "text": {
+          "en": "In order to ascertain the facts of the case and to investigate and verify evidence, the people's court may ex officio notify witnesses, appraisers, persons with specialised knowledge, investigating personnel, detection personnel or other persons to appear in court."
+        },
+        "noLabel": {
+          "en": "Article 251."
+        },
+        "chapter": {
+          "en": "Section 3 Opening of Court and Court Investigation"
+        }
+      },
+      {
+        "no": 252,
+        "text": {
+          "en": "Where a people's court notifies the relevant persons to appear in court, it may request the assistance of the prosecution and the defence."
+        },
+        "noLabel": {
+          "en": "Article 252."
+        },
+        "chapter": {
+          "en": "Section 3 Opening of Court and Court Investigation"
+        }
+      },
+      {
+        "no": 253,
+        "text": {
+          "en": "Where a witness falls under any of the following circumstances and is unable to appear in court to testify, the people's court may permit him not to appear:\n(1) he suffers from a serious illness or faces extreme inconvenience in movement during the hearing;\n(2) his residence is far from the place of the hearing and transport is extremely inconvenient;\n(3) he is abroad and unable to return to the country within a short period;\n(4) other objective reasons exist and he is truly unable to appear in court.\nWhere the circumstances provided in the preceding paragraph exist, testimony may be given by video link or other means."
+        },
+        "noLabel": {
+          "en": "Article 253."
+        },
+        "chapter": {
+          "en": "Section 3 Opening of Court and Court Investigation"
+        }
+      },
+      {
+        "no": 254,
+        "text": {
+          "en": "The expenses such as transportation, accommodation and meals incurred by a witness in appearing in court to testify shall be subsidised by the people's court."
+        },
+        "noLabel": {
+          "en": "Article 254."
+        },
+        "chapter": {
+          "en": "Section 3 Opening of Court and Court Investigation"
+        }
+      },
+      {
+        "no": 255,
+        "text": {
+          "en": "Where a witness is compelled to appear in court, the president of the court shall issue an order compelling the witness to appear, which shall be executed by judicial police. Where necessary, the assistance of the public security organ may be sought."
+        },
+        "noLabel": {
+          "en": "Article 255."
+        },
+        "chapter": {
+          "en": "Section 3 Opening of Court and Court Investigation"
+        }
+      },
+      {
+        "no": 256,
+        "text": {
+          "en": "Where the personal safety of a witness, appraiser or victim or of his close relatives is endangered because of his appearance in court to testify, the people's court shall take protective measures such as not disclosing his true name, address, place of work and other personal information, or not revealing his appearance or true voice. Where defence counsel consults, with the permission of the court, the circumstances of the use of an assumed name for a witness, appraiser or victim, he shall sign a confidentiality undertaking.\nDuring the trial, where a witness, appraiser or victim makes a request for protection, the people's court shall examine it immediately; where it considers that protection is truly necessary, it shall promptly decide to take the corresponding protective measures. Where necessary, the assistance of the public security organ may be sought."
+        },
+        "noLabel": {
+          "en": "Article 256."
+        },
+        "chapter": {
+          "en": "Section 3 Opening of Court and Court Investigation"
+        }
+      },
+      {
+        "no": 257,
+        "text": {
+          "en": "Where a decision is made to take protective measures not disclosing the personal information of a witness, appraiser or victim appearing in court to testify, the judicial officers shall verify his identity before the hearing, the letter of guarantee of the witness or appraiser to testify truthfully shall not be made public, and an assumed name or the like may be used in place of his personal information in legal documents such as the written judgment and ruling."
+        },
+        "noLabel": {
+          "en": "Article 257."
+        },
+        "chapter": {
+          "en": "Section 3 Opening of Court and Court Investigation"
+        }
+      },
+      {
+        "no": 258,
+        "text": {
+          "en": "Where a witness appears in court, the court shall verify his identity and his relationship with the parties and with the case, and shall inform him of the relevant rights, obligations and legal liability. The witness shall undertake to provide testimony truthfully to the court and shall sign a letter of guarantee."
+        },
+        "noLabel": {
+          "en": "Article 258."
+        },
+        "chapter": {
+          "en": "Section 3 Opening of Court and Court Investigation"
+        }
+      },
+      {
+        "no": 259,
+        "text": {
+          "en": "After a witness appears in court, he shall in general first state his testimony to the court; thereafter, with the permission of the presiding judge, the side that applied for the witness to be notified to appear shall put questions, and after the questions are completed, the other side may also put questions.\nWhere the court notifies a witness to appear in court ex officio, the order of questioning shall be determined by the presiding judge according to the circumstances of the case."
+        },
+        "noLabel": {
+          "en": "Article 259."
+        },
+        "chapter": {
+          "en": "Section 3 Opening of Court and Court Investigation"
+        }
+      },
+      {
+        "no": 260,
+        "text": {
+          "en": "Where an appraiser, a person with specialised knowledge, investigating personnel, detection personnel or other persons appear in court, the provisions of the preceding two Articles shall apply by reference."
+        },
+        "noLabel": {
+          "en": "Article 260."
+        },
+        "chapter": {
+          "en": "Section 3 Opening of Court and Court Investigation"
+        }
+      },
+      {
+        "no": 261,
+        "text": {
+          "en": "The following rules shall be observed in putting questions to a witness:\n(1) the content of the questions shall be related to the facts of the case;\n(2) questions may not be put in a leading manner;\n(3) the witness may not be threatened;\n(4) the personal dignity of the witness may not be impaired.\nThe preceding paragraph shall apply to the interrogation of and questioning of defendants, victims, parties to the civil action ancillary to the criminal proceedings, appraisers, persons with specialised knowledge, investigating personnel, detection personnel or other persons."
+        },
+        "noLabel": {
+          "en": "Article 261."
+        },
+        "chapter": {
+          "en": "Section 3 Opening of Court and Court Investigation"
+        }
+      },
+      {
+        "no": 262,
+        "text": {
+          "en": "Where the manner of interrogation or questioning by the prosecution or the defence is improper or the content is unrelated to the case, the other side may raise an objection and apply to the presiding judge to stop it, and the presiding judge shall determine the circumstances and either sustain or reject the objection; where the other side does not raise an objection, the presiding judge may also stop it according to the circumstances."
+        },
+        "noLabel": {
+          "en": "Article 262."
+        },
+        "chapter": {
+          "en": "Section 3 Opening of Court and Court Investigation"
+        }
+      },
+      {
+        "no": 263,
+        "text": {
+          "en": "Where judicial officers consider it necessary, they may question witnesses, appraisers, persons with specialised knowledge, investigating personnel, detection personnel or other persons."
+        },
+        "noLabel": {
+          "en": "Article 263."
+        },
+        "chapter": {
+          "en": "Section 3 Opening of Court and Court Investigation"
+        }
+      },
+      {
+        "no": 264,
+        "text": {
+          "en": "Questions shall be put to witnesses, investigating personnel and detection personnel separately."
+        },
+        "noLabel": {
+          "en": "Article 264."
+        },
+        "chapter": {
+          "en": "Section 3 Opening of Court and Court Investigation"
+        }
+      },
+      {
+        "no": 265,
+        "text": {
+          "en": "Witnesses, appraisers, persons with specialised knowledge, investigating personnel, detection personnel or other persons may not observe the trial of the case. After the relevant person has testified or given opinions, the presiding judge shall inform him to leave the court."
+        },
+        "noLabel": {
+          "en": "Article 265."
+        },
+        "chapter": {
+          "en": "Section 3 Opening of Court and Court Investigation"
+        }
+      },
+      {
+        "no": 266,
+        "text": {
+          "en": "In trying a criminal case involving a minor, the questioning of a minor victim or witness and the notification of a minor victim or witness to appear in court to testify shall be governed by the relevant provisions of Chapter XXII of these Interpretations."
+        },
+        "noLabel": {
+          "en": "Article 266."
+        },
+        "chapter": {
+          "en": "Section 3 Opening of Court and Court Investigation"
+        }
+      },
+      {
+        "no": 267,
+        "text": {
+          "en": "After the party producing evidence has produced it in court, the other side shall express its cross-examination opinions."
+        },
+        "noLabel": {
+          "en": "Article 267."
+        },
+        "chapter": {
+          "en": "Section 3 Opening of Court and Court Investigation"
+        }
+      },
+      {
+        "no": 268,
+        "text": {
+          "en": "In respect of key evidence that may affect conviction and sentencing and evidence over which the prosecution and the defence are in dispute, evidence shall in general be produced and cross-examined separately, and cross-examination opinions shall be fully heard.\nIn respect of non-key evidence to which the prosecution and the defence have no objection, the party producing evidence may only state the name of the evidence and the facts it is intended to prove.\nIn a case in which a pre-trial conference was convened, the production and cross-examination of evidence may be conducted in the manner determined at the pre-trial conference.\nAccording to the circumstances of the case and the hearing, the court may give necessary guidance on the manner in which the prosecution and the defence produce and cross-examine evidence."
+        },
+        "noLabel": {
+          "en": "Article 268."
+        },
+        "chapter": {
+          "en": "Section 3 Opening of Court and Court Investigation"
+        }
+      },
+      {
+        "no": 269,
+        "text": {
+          "en": "In the course of the trial, where the court considers it necessary, it may summon co-defendants in the same case, or defendants in cases of joint crime or connected crime tried separately, to appear in court for confrontation."
+        },
+        "noLabel": {
+          "en": "Article 269."
+        },
+        "chapter": {
+          "en": "Section 3 Opening of Court and Court Investigation"
+        }
+      },
+      {
+        "no": 270,
+        "text": {
+          "en": "Evidence produced in court that has not yet been transferred to the people's court shall be transferred in court after cross-examination.\nArticle 271 Where the court has doubt about evidence, it may inform the public prosecutor, the parties and their statutory agents, defenders and agents ad litem to supplement the evidence or give an explanation; where necessary, it may declare an adjournment and investigate and verify the evidence.\nEvidence supplemented by the public prosecutor, the parties and their statutory agents, defenders and agents ad litem, and evidence obtained by the judicial officers through investigation and verification outside the court, shall be cross-examined in court before it may be used as the basis of adjudication. However, this does not apply to non-key evidence that does not affect conviction and sentencing, evidence on sentencing favourable to the defendant, and adjudicative documents establishing that the defendant has a criminal record, where opinions have been sought outside the court and the prosecution and the defence have no objection.\nThe relevant circumstances shall be recorded in the file."
+        },
+        "noLabel": {
+          "en": "Article 270."
+        },
+        "chapter": {
+          "en": "Section 3 Opening of Court and Court Investigation"
+        }
+      },
+      {
+        "no": 272,
+        "text": {
+          "en": "Where the public prosecutor applies to produce evidence not transferred or submitted to the people's court before the hearing and the defence raises an objection, the presiding judge shall require the public prosecutor to state the reasons; where the reasons are sustained and it is truly necessary to produce the evidence, it shall be permitted.\nWhere the defence states that it needs to prepare its defence against the new evidence, the court may declare an adjournment and determine the time for preparing the defence.\nThe preceding two paragraphs shall apply by reference where the defence applies to produce evidence not submitted before the hearing."
+        },
+        "noLabel": {
+          "en": "Article 272."
+        },
+        "chapter": {
+          "en": "Section 3 Opening of Court and Court Investigation"
+        }
+      },
+      {
+        "no": 273,
+        "text": {
+          "en": "In the course of the court hearing, where the prosecution or the defence applies for new witnesses to be notified to appear in court, for new evidence to be obtained, or for a new appraisal or inspection, it shall provide the basic information of the witnesses and the place where the evidence is kept, state the matters to be proved and the reasons for applying for a new appraisal or inspection. Where the court considers it necessary, it shall agree and declare an adjournment; according to the circumstances of the case, it may decide to postpone the trial.\nWhere a people's court decides on a new appraisal, it shall promptly entrust the appraisal and inform the people's procuratorate, the parties and their defenders and agents ad litem of the expert opinion."
+        },
+        "noLabel": {
+          "en": "Article 273."
+        },
+        "chapter": {
+          "en": "Section 3 Opening of Court and Court Investigation"
+        }
+      },
+      {
+        "no": 274,
+        "text": {
+          "en": "During the trial, where the public prosecutor discovers that the case requires supplementary investigation and recommends postponement of the trial, the collegial panel may agree, but the postponement recommended shall not exceed two occasions.\nWhere the people's procuratorate transfers supplementary evidence collected to the people's court, the people's court shall notify the defenders and agents ad litem to consult, take notes from and copy it.\nWhere, upon expiry of the time limit for supplementary investigation, the people's procuratorate has not transferred the supplementary evidentiary materials to the people's court, the people's court may make a judgment or ruling on the basis of the evidence in the case file."
+        },
+        "noLabel": {
+          "en": "Article 274."
+        },
+        "chapter": {
+          "en": "Section 3 Opening of Court and Court Investigation"
+        }
+      },
+      {
+        "no": 275,
+        "text": {
+          "en": "Where a people's court obtains evidentiary materials requiring investigation and verification from a people's procuratorate, or, upon the application of the defendant or defender, obtains from a people's procuratorate the evidentiary materials collected during investigation, detection or examination for prosecution which prove the defendant's innocence or the minor nature of his crime, it shall notify the people's procuratorate to transfer them within three days after receipt of the written decision to obtain evidentiary materials."
+        },
+        "noLabel": {
+          "en": "Article 275."
+        },
+        "chapter": {
+          "en": "Section 3 Opening of Court and Court Investigation"
+        }
+      },
+      {
+        "no": 276,
+        "text": {
+          "en": "In the course of the court hearing, the facts and evidence relating to sentencing shall be investigated.\nIn addition to examining whether the defendant falls under statutory sentencing circumstances, the people's court shall also examine the following circumstances affecting sentencing according to the circumstances of the case:\n(1) the cause of the case;\n(2) whether the victim was at fault and the degree of fault, and whether he is responsible for the escalation of the conflict and the extent of that responsibility;\n(3) whether a close relative of the defendant assisted in apprehending the defendant;\n(4) the defendant's usual conduct and whether he has an attitude of repentance;\n(5) the circumstances of returning the illicit money, returning or making compensation and paying compensation;\n(6) whether the defendant has obtained the forgiveness of the victim or his close relatives;\n(7) other circumstances affecting sentencing."
+        },
+        "noLabel": {
+          "en": "Article 276."
+        },
+        "chapter": {
+          "en": "Section 3 Opening of Court and Court Investigation"
+        }
+      },
+      {
+        "no": 277,
+        "text": {
+          "en": "During the trial, where the collegial panel discovers that the defendant may fall under statutory sentencing circumstances such as surrender, making a clean breast of his crime or performing meritorious service, but there are no relevant evidentiary materials in the case file transferred by the people's procuratorate, it shall notify the people's procuratorate to transfer them within a designated time.\nDuring the trial, where the defendant provides new leads on meritorious service, the people's court may recommend that the people's procuratorate conduct supplementary investigation."
+        },
+        "noLabel": {
+          "en": "Article 277."
+        },
+        "chapter": {
+          "en": "Section 3 Opening of Court and Court Investigation"
+        }
+      },
+      {
+        "no": 278,
+        "text": {
+          "en": "In respect of a case in which the defendant pleads guilty, after confirming that the defendant understands the criminal facts and charges alleged in the bill of indictment, voluntarily pleads guilty and knows the legal consequences of pleading guilty, the court investigation may mainly focus on sentencing and other issues in dispute.\nIn respect of a case in which the defendant does not plead guilty or the defender defends on the ground of innocence, the court investigation shall, after ascertaining the facts of conviction, ascertain the facts relating to sentencing."
+        },
+        "noLabel": {
+          "en": "Article 278."
+        },
+        "chapter": {
+          "en": "Section 3 Opening of Court and Court Investigation"
+        }
+      },
+      {
+        "no": 279,
+        "text": {
+          "en": "In the course of the court hearing, an investigation shall be conducted into the ownership, source and other circumstances of the property sealed up, distrained or frozen and its fruits, and whether it is illegal gain or other property involved in the case that should be recovered in accordance with law; the public prosecutor shall explain the circumstances, produce evidence and make a handling recommendation, and the opinions of the defendant, the defender and other participants in the proceedings shall be heard.\nWhere a person not a party to the case raises an objection to the ownership of the property sealed up, distrained or frozen and its fruits, the people's court shall hear the opinions of the person not a party to the case; where necessary, it may notify the person not a party to the case to appear in court.\nWhere, upon examination, it cannot be confirmed that the property sealed up, distrained or frozen and its fruits are illegal gains or other property involved in the case that should be recovered in accordance with law, it may not be confiscated."
+        },
+        "noLabel": {
+          "en": "Article 279."
+        },
+        "chapter": {
+          "en": "Section 3 Opening of Court and Court Investigation"
+        }
+      },
+      {
+        "no": 280,
+        "text": {
+          "en": "Where the collegial panel considers that the facts of the case have been clearly investigated, the presiding judge shall declare the conclusion of the court investigation and begin the court debate on issues such as conviction, sentencing, the facts and evidence concerning the handling of the property involved in the case, and the application of law."
+        },
+        "noLabel": {
+          "en": "Article 280."
+        },
+        "chapter": {
+          "en": "Section 4 Court Debate and Final Statements"
+        }
+      },
+      {
+        "no": 281,
+        "text": {
+          "en": "The court debate shall be conducted under the direction of the presiding judge in the following order:\n(1) the public prosecutor speaks;\n(2) the victim and his agent ad litem speak;\n(3) the defendant defends himself;\n(4) the defender presents the defence;\n(5) the prosecution and the defence debate."
+        },
+        "noLabel": {
+          "en": "Article 281."
+        },
+        "chapter": {
+          "en": "Section 4 Court Debate and Final Statements"
+        }
+      },
+      {
+        "no": 282,
+        "text": {
+          "en": "A people's procuratorate may make a sentencing recommendation and state the reasons; where it recommends the imposition of public surveillance or the pronouncement of a suspended sentence, an investigation and assessment report or a letter of entrustment for investigation shall in general be attached.\nA party and his defender or agent ad litem may put forward opinions on sentencing and state the reasons."
+        },
+        "noLabel": {
+          "en": "Article 282."
+        },
+        "chapter": {
+          "en": "Section 4 Court Debate and Final Statements"
+        }
+      },
+      {
+        "no": 283,
+        "text": {
+          "en": "In respect of a case in which the defendant pleads guilty, in the court debate the prosecution and the defence shall be guided to focus mainly on sentencing and other issues in dispute.\nIn respect of a case in which the defendant does not plead guilty or the defender defends on the ground of innocence, in the court debate the prosecution and the defence may be guided to debate first the issue of conviction and then the issues of sentencing and others."
+        },
+        "noLabel": {
+          "en": "Article 283."
+        },
+        "chapter": {
+          "en": "Section 4 Court Debate and Final Statements"
+        }
+      },
+      {
+        "no": 284,
+        "text": {
+          "en": "The debate on the civil part shall be conducted after the conclusion of the debate on the criminal part, with the plaintiff in the civil action ancillary to the criminal proceedings and his agent ad litem speaking first, and then the defendant in the civil action ancillary to the criminal proceedings and his agent ad litem responding."
+        },
+        "noLabel": {
+          "en": "Article 284."
+        },
+        "chapter": {
+          "en": "Section 4 Court Debate and Final Statements"
+        }
+      },
+      {
+        "no": 285,
+        "text": {
+          "en": "In the course of the court debate, the presiding judge shall fully hear the opinions of the prosecution and the defence, and shall warn against and stop statements by the prosecution or the defence that are unrelated to the case, repetitive or accusatory of the other side."
+        },
+        "noLabel": {
+          "en": "Article 285."
+        },
+        "chapter": {
+          "en": "Section 4 Court Debate and Final Statements"
+        }
+      },
+      {
+        "no": 286,
+        "text": {
+          "en": "In the course of the court debate, where the collegial panel discovers new facts relating to conviction and sentencing that need to be investigated, the presiding judge may declare the court investigation resumed and, after investigating the new facts, continue the court debate."
+        },
+        "noLabel": {
+          "en": "Article 286."
+        },
+        "chapter": {
+          "en": "Section 4 Court Debate and Final Statements"
+        }
+      },
+      {
+        "no": 287,
+        "text": {
+          "en": "After the presiding judge declares the conclusion of the court debate, the collegial panel shall guarantee the defendant's full exercise of the right to make a final statement.\nWhere the defendant repeatedly repeats his own opinions in the final statement, the court may stop him; where the content of the statement shows contempt for the court or the public prosecutor, impairs the interests of others or the public interest, or is unrelated to the case, it shall be stopped.\nIn a case tried in public, where the content of the defendant's final statement involves State secrets, personal privacy or commercial secrets, it shall be stopped."
+        },
+        "noLabel": {
+          "en": "Article 287."
+        },
+        "chapter": {
+          "en": "Section 4 Court Debate and Final Statements"
+        }
+      },
+      {
+        "no": 288,
+        "text": {
+          "en": "Where the defendant raises new facts or evidence in the final statement and the collegial panel considers that they may affect the correctness of the adjudication, it shall resume the court investigation; where the defendant raises new grounds of defence and the collegial panel considers that they may affect the correctness of the adjudication, it shall resume the court debate."
+        },
+        "noLabel": {
+          "en": "Article 288."
+        },
+        "chapter": {
+          "en": "Section 4 Court Debate and Final Statements"
+        }
+      },
+      {
+        "no": 289,
+        "text": {
+          "en": "Where the public prosecutor expresses in court an opinion different from that in the bill of indictment which amounts to a change, addition, supplementation or withdrawal of the prosecution, the people's court shall require the people's procuratorate to submit it in writing within a designated time; where necessary, it may declare an adjournment. Where the people's procuratorate fails to submit it within the designated time, the people's court shall, according to the circumstances of the court hearing, make a judgment or ruling in accordance with law on the criminal facts alleged in the bill of indictment.\nWhere a people's procuratorate changes, adds to or supplements the prosecution, the people's court shall give the defendant and his defender the necessary time to prepare."
+        },
+        "noLabel": {
+          "en": "Article 289."
+        },
+        "chapter": {
+          "en": "Section 4 Court Debate and Final Statements"
+        }
+      },
+      {
+        "no": 290,
+        "text": {
+          "en": "A defender shall promptly submit his written defence opinions to the people's court."
+        },
+        "noLabel": {
+          "en": "Article 290."
+        },
+        "chapter": {
+          "en": "Section 4 Court Debate and Final Statements"
+        }
+      },
+      {
+        "no": 291,
+        "text": {
+          "en": "After the defendant's final statement, the presiding judge shall declare an adjournment, and the collegial panel shall deliberate."
+        },
+        "noLabel": {
+          "en": "Article 291."
+        },
+        "chapter": {
+          "en": "Section 5 Deliberation of Cases and Pronouncement of Judgment"
+        }
+      },
+      {
+        "no": 292,
+        "text": {
+          "en": "A record shall be made by the court clerk of all the activities of the court hearing; after the record has been reviewed by the presiding judge, it shall be signed by the presiding judge and the court clerk respectively."
+        },
+        "noLabel": {
+          "en": "Article 292."
+        },
+        "chapter": {
+          "en": "Section 5 Deliberation of Cases and Pronouncement of Judgment"
+        }
+      },
+      {
+        "no": 293,
+        "text": {
+          "en": "After the hearing, the court record shall be handed over to the parties, statutory agents, defenders and agents ad litem for reading or read out to them.\nThe parts of the court record containing the testimony and opinions of the witnesses, appraisers, persons with specialised knowledge, investigating personnel, detection personnel or other persons appearing in court shall, after the hearing, be handed over to the relevant persons respectively for reading or read out to them.\nWhere the persons listed in the preceding two paragraphs consider that the record contains omissions or errors, they may request supplementation or correction; after confirming that it is correct, they shall sign it; where they refuse to sign, this shall be recorded in the file; a request to alter a statement made at the hearing shall not be permitted."
+        },
+        "noLabel": {
+          "en": "Article 293."
+        },
+        "chapter": {
+          "en": "Section 5 Deliberation of Cases and Pronouncement of Judgment"
+        }
+      },
+      {
+        "no": 294,
+        "text": {
+          "en": "In deliberating a case, the collegial panel shall, on the basis of the facts and evidence already ascertained and the relevant provisions of law and after fully considering the opinions of the prosecution and the defence, determine whether the defendant is guilty, what crime he has committed, whether there are circumstances of heavier, lighter or mitigated punishment or exemption from punishment, whether a penalty should be imposed and what penalty should be imposed, how the civil action ancillary to the criminal proceedings should be resolved, and how the property sealed up, distrained or frozen and its fruits should be handled, and shall make a judgment or ruling in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 294."
+        },
+        "chapter": {
+          "en": "Section 5 Deliberation of Cases and Pronouncement of Judgment"
+        }
+      },
+      {
+        "no": 295,
+        "text": {
+          "en": "In respect of a case of public prosecution of first instance, after the trial the people's court shall make a judgment or ruling respectively according to the following circumstances:\n(1) where the facts alleged in the prosecution are clear, the evidence is reliable and sufficient, and the charge against the defendant is established in accordance with law, a judgment of guilty shall be made;\n(2) where the facts alleged in the prosecution are clear and the evidence is reliable and sufficient but the charge is inappropriate, a judgment of guilty shall be made in accordance with law and the facts ascertained at the trial;\n(3) where the facts of the case are clear, the evidence is reliable and sufficient, and the defendant is determined to be innocent in accordance with law, a judgment shall be made declaring the defendant not guilty;\n(4) where the evidence is insufficient and the defendant cannot be determined to be guilty, a judgment shall be made declaring the defendant not guilty on the ground that the evidence is insufficient and the alleged crime cannot be established;\n(5) where part of the facts of the case is clear and the evidence is reliable and sufficient, a judgment of guilty or not guilty shall be made; the part with unclear facts and insufficient evidence shall not be determined;\n(6) where the defendant is not given criminal punishment because he has not reached the age of criminal responsibility, a judgment shall be made declaring that the defendant bears no criminal responsibility;\n(7) where the defendant is a person with mental illness who causes a harmful result at a time when he is unable to recognise or control his own conduct and is not given criminal punishment, a judgment shall be made declaring that the defendant bears no criminal responsibility; where the defendant meets the conditions for compulsory medical treatment, the case shall be tried and a judgment made in accordance with the provisions of Chapter XXVI of these Interpretations;\n(8) where the limitation period for prosecution of the crime has expired and prosecution is not imperative, or where the penalty is exempted by an order of special amnesty, it shall be ruled to terminate the trial;\n(9) where the case is one handled only upon complaint, it shall be ruled to terminate the trial, and the victim shall be informed that he has the right to bring a private prosecution;\n(10) where the defendant dies, it shall be ruled to terminate the trial; however, where there is evidence proving that the defendant is innocent and his innocence is confirmed through a trial by default, a judgment shall be made declaring the defendant not guilty.\nIn respect of the property involved in the case, the people's court shall deal with it in accordance with the provisions of Chapter XVIII of these Interpretations on the basis of the circumstances ascertained at the trial.\nWhere a circumstance provided in Item 2 of Paragraph 1 exists, the people's court shall, before making the judgment, hear the opinions of the prosecution and the defence and guarantee the defendant and his defender the full exercise of the right of defence. Where necessary, it may reopen the hearing and organise the prosecution and the defence to debate what crime the defendant's conduct constitutes and how he should be sentenced."
+        },
+        "noLabel": {
+          "en": "Article 295."
+        },
+        "chapter": {
+          "en": "Section 5 Deliberation of Cases and Pronouncement of Judgment"
+        }
+      },
+      {
+        "no": 296,
+        "text": {
+          "en": "Where, after the hearing and before the pronouncement of judgment, a people's procuratorate requests withdrawal of the prosecution, the people's court shall examine the grounds for the withdrawal and rule on whether to permit it."
+        },
+        "noLabel": {
+          "en": "Article 296."
+        },
+        "chapter": {
+          "en": "Section 5 Deliberation of Cases and Pronouncement of Judgment"
+        }
+      },
+      {
+        "no": 297,
+        "text": {
+          "en": "During the trial, where a people's court discovers new facts that may affect conviction and sentencing, or where supplementary verification or evidence is needed, it shall notify the people's procuratorate, which shall decide whether to supplement, change or add to the prosecution or to conduct supplementary investigation.\nWhere the people's procuratorate does not agree or fails to reply in writing within the designated time, the people's court shall, in respect of the facts alleged in the prosecution, make a judgment or ruling in accordance with Article 295 of these Interpretations."
+        },
+        "noLabel": {
+          "en": "Article 297."
+        },
+        "chapter": {
+          "en": "Section 5 Deliberation of Cases and Pronouncement of Judgment"
+        }
+      },
+      {
+        "no": 298,
+        "text": {
+          "en": "In respect of a case accepted in accordance with Item 5 of Paragraph 1 of Article 219 of these Interpretations, the people's court shall state in the judgment that the defendant was previously prosecuted by a people's procuratorate, that the alleged crime could not be established for insufficiency of evidence, and that he was adjudged not guilty by the people's court in accordance with law; the judgment made in the previous case in accordance with Item 3 of Article 200 of the Criminal Procedure Law shall not be revoked."
+        },
+        "noLabel": {
+          "en": "Article 298."
+        },
+        "chapter": {
+          "en": "Section 5 Deliberation of Cases and Pronouncement of Judgment"
+        }
+      },
+      {
+        "no": 299,
+        "text": {
+          "en": "The members of the collegial panel, the judge's assistants and the court clerk shall sign the record of deliberation and shall put their names to legal documents such as the written judgment and ruling."
+        },
+        "noLabel": {
+          "en": "Article 299."
+        },
+        "chapter": {
+          "en": "Section 5 Deliberation of Cases and Pronouncement of Judgment"
+        }
+      },
+      {
+        "no": 300,
+        "text": {
+          "en": "An adjudicative document shall state the basis of the adjudication, explain the reasons for the adjudication, reflect the opinions of the prosecution and the defence and state the reasons for adopting or not adopting them.\nIn a case in which the defendant pleads guilty and which is tried under ordinary procedure, the adjudicative document may be appropriately simplified."
+        },
+        "noLabel": {
+          "en": "Article 300."
+        },
+        "chapter": {
+          "en": "Section 5 Deliberation of Cases and Pronouncement of Judgment"
+        }
+      },
+      {
+        "no": 301,
+        "text": {
+          "en": "Where, after the conclusion of the hearing and before deliberation, some members of the collegial panel are unable to continue to perform their trial duties, the people's court shall replace the members of the collegial panel in accordance with law and hold the hearing anew.\nWhere, after deliberation and before pronouncement of judgment, some members of the collegial panel are unable to participate in the pronouncement for normal reasons such as transfer or retirement, the judgment may be pronounced by other judges who tried the case, provided the original conclusion of the deliberation is not altered, and the names of the members of the collegial panel who tried the case shall still be put on the adjudicative document."
+        },
+        "noLabel": {
+          "en": "Article 301."
+        },
+        "chapter": {
+          "en": "Section 5 Deliberation of Cases and Pronouncement of Judgment"
+        }
+      },
+      {
+        "no": 302,
+        "text": {
+          "en": "Where a judgment is pronounced in court, the written judgment shall be served within five days. Where a judgment is pronounced on a fixed date, the time and place of pronouncement shall be announced in advance before the pronouncement, the parties shall be summoned and the public prosecutor, statutory agents, defenders and agents ad litem shall be notified; after the judgment is pronounced, the written judgment shall be served immediately."
+        },
+        "noLabel": {
+          "en": "Article 302."
+        },
+        "chapter": {
+          "en": "Section 5 Deliberation of Cases and Pronouncement of Judgment"
+        }
+      },
+      {
+        "no": 303,
+        "text": {
+          "en": "The written judgment shall be served on the people's procuratorate, the parties, the statutory agents, the defenders and the agents ad litem, and may also be served on the close relatives of the defendant. Where the victim has died and his close relatives apply to collect the written judgment, the people's court shall provide it promptly.\nAfter the judgment takes effect, it shall also be served on the unit where the defendant works or the public security police station of his place of household registration, or on the registration authority of the defendant unit. Where the defendant is a foreigner and has a place of residence within the territory, it shall be served on the public security police station of that place of residence."
+        },
+        "noLabel": {
+          "en": "Article 303."
+        },
+        "chapter": {
+          "en": "Section 5 Deliberation of Cases and Pronouncement of Judgment"
+        }
+      },
+      {
+        "no": 304,
+        "text": {
+          "en": "The pronouncement of judgment shall in all cases be conducted in public. When the outcome of the judgment is pronounced, all persons in the courtroom shall stand up.\nThe absence from court of the public prosecutor, defenders, agents ad litem, the victim, the private prosecutor or the plaintiff in the civil action ancillary to the criminal proceedings shall not affect the pronouncement of judgment."
+        },
+        "noLabel": {
+          "en": "Article 304."
+        },
+        "chapter": {
+          "en": "Section 5 Deliberation of Cases and Pronouncement of Judgment"
+        }
+      },
+      {
+        "no": 305,
+        "text": {
+          "en": "A defendant in custody shall not wear the identifying uniform of the custodial institution when appearing in court for trial.\nRestraining devices shall not be used on the defendant during the hearing, except where the court considers that he is highly dangerous and may endanger the safety of the court."
+        },
+        "noLabel": {
+          "en": "Article 305."
+        },
+        "chapter": {
+          "en": "Section 6 Courtroom Discipline and Other Provisions"
+        }
+      },
+      {
+        "no": 306,
+        "text": {
+          "en": "During the hearing, all persons shall obey the direction of the court, observe court discipline, respect judicial etiquette and may not commit the following acts:\n(1) clapping, making noise or moving about at will;\n(2) smoking or eating;\n(3) making or answering telephone calls, or using instant messaging tools;\n(4) audio-recording, video-recording or photographing the proceedings of the hearing, or disseminating the proceedings by using instant messaging tools or other means;\n(5) other acts endangering the safety of the court or disrupting court order.\nObservers may not enter the area of trial activities, may not stand or move about at will, and may not speak or ask questions.\nWhere a journalist, with permission, commits an act provided in Item 4 of Paragraph 1, he shall do so at the designated time and in the designated area and shall not interfere with the proceedings of the hearing."
+        },
+        "noLabel": {
+          "en": "Article 306."
+        },
+        "chapter": {
+          "en": "Section 6 Courtroom Discipline and Other Provisions"
+        }
+      },
+      {
+        "no": 307,
+        "text": {
+          "en": "Where a relevant person endangers the safety of the court or disrupts court order, the presiding judge shall deal with the matter respectively according to the following circumstances:\n(1) where the circumstances are relatively minor, he shall warn and stop the person; according to the specific circumstances, he may also admonish him;\n(2) where the admonition is ineffective, he shall order him to leave the court; where he refuses to leave, he shall direct the bailiffs to remove him from the court by force;\n(3) where the circumstances are serious, he may, after reporting to and obtaining the approval of the president of the court, impose a fine of not more than 1,000 yuan or detention of not more than 15 days on the perpetrator.\nWhere a person audio-records, video-records or photographs the proceedings of the hearing without permission, or disseminates the proceedings by using instant messaging tools or other means, the relevant equipment and storage media may be temporarily seized and the relevant content deleted.\nWhere a relevant person refuses to accept a decision on a fine or detention, he may directly apply to the people's court at the next higher level for reconsideration, or may apply for reconsideration through the people's court that made the decision on the fine or detention. Where an application for reconsideration is made through the people's court that made the decision on the fine or detention, that people's court shall, within three days from the date of receipt of the application for reconsideration, report the application, the written decision on the fine or detention and the relevant facts and evidentiary materials together to the people's court at the next higher level for reconsideration. During the reconsideration, execution of the decision shall not be suspended."
+        },
+        "noLabel": {
+          "en": "Article 307."
+        },
+        "chapter": {
+          "en": "Section 6 Courtroom Discipline and Other Provisions"
+        }
+      },
+      {
+        "no": 308,
+        "text": {
+          "en": "Where a lawyer serving as defender or agent ad litem seriously disrupts court order and is removed from the court by force or is subjected to a fine or detention, the people's court shall report the matter to the judicial administrative organ and may recommend that the corresponding sanction be imposed in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 308."
+        },
+        "chapter": {
+          "en": "Section 6 Courtroom Discipline and Other Provisions"
+        }
+      },
+      {
+        "no": 309,
+        "text": {
+          "en": "Where a person commits any of the following acts, endangering the safety of the court or disrupting court order, and a crime is constituted, criminal responsibility shall be pursued in accordance with law:\n(1) unlawfully bringing firearms, ammunition, controlled knives or dangerous substances such as explosive, inflammable, toxic or radioactive substances or pathogens of infectious diseases into the court;\n(2) creating a disturbance in or storming the court;\n(3) insulting, defaming, threatening or beating judicial staff members or participants in the proceedings;\n(4) damaging court facilities, or snatching or destroying procedural documents or evidence;\n(5) other acts endangering the safety of the court or disrupting court order."
+        },
+        "noLabel": {
+          "en": "Article 309."
+        },
+        "chapter": {
+          "en": "Section 6 Courtroom Discipline and Other Provisions"
+        }
+      },
+      {
+        "no": 310,
+        "text": {
+          "en": "Where a defender seriously disrupts court order and is ordered to leave the court, removed from the court by force, or subjected to a fine or detention, and the defendant defends himself, the hearing shall continue; where the defendant requests to entrust another defender, or where the defendant falls under a circumstance in which legal aid should be provided, an adjournment shall be declared.\nWhere a defender or agent ad litem, after being ordered to leave the court, removed from the court by force or subjected to a fine, signs a letter of undertaking guaranteeing that he will obey the direction of the court and will no longer disrupt court order, he may, with the permission of the court, continue to serve as defender or agent ad litem.\nWhere a defender or agent ad litem falls under any of the following circumstances, he may not continue to serve as defender or agent ad litem in the same case:\n(1) he leaves the court without authorisation;\n(2) he fails to appear or fails to appear on time without justified reasons, seriously affecting the smooth conduct of the trial;\n(3) after being detained or signing a letter of undertaking, he is again ordered to leave the court or removed from the court by force."
+        },
+        "noLabel": {
+          "en": "Article 310."
+        },
+        "chapter": {
+          "en": "Section 6 Courtroom Discipline and Other Provisions"
+        }
+      },
+      {
+        "no": 311,
+        "text": {
+          "en": "A defendant may in general not change defenders more than twice in one trial procedure.\nWhere a defendant refuses the defence of his defender in court and requests to entrust another defender or to have a lawyer assigned, the collegial panel shall permit it. Where, after the defendant refuses the defence of his defender, he has no defender, an adjournment shall be declared; where he still has a defender, the hearing may continue.\nIn a case with several defendants, where after some defendants have refused the defence of their defenders they have no defender, the court may, according to the circumstances of the case, handle the cases of those defendants separately and continue the hearing in respect of the other defendants.\nWhere, after the hearing is reopened, the defendant again refuses the defence of his defender in court, this may be permitted, but the defendant may not again entrust another defender or request the assignment of another lawyer, and shall defend himself.\nWhere the defendant falls under a circumstance in which legal aid should be provided, a further refusal in court of the defence of his defender after the hearing is reopened shall not be permitted."
+        },
+        "noLabel": {
+          "en": "Article 311."
+        },
+        "chapter": {
+          "en": "Section 6 Courtroom Discipline and Other Provisions"
+        }
+      },
+      {
+        "no": 312,
+        "text": {
+          "en": "In the course of the court hearing, where a defender refuses to defend the defendant for justified reasons, this shall be permitted; whether to continue the hearing shall be governed by reference to the preceding Article."
+        },
+        "noLabel": {
+          "en": "Article 312."
+        },
+        "chapter": {
+          "en": "Section 6 Courtroom Discipline and Other Provisions"
+        }
+      },
+      {
+        "no": 313,
+        "text": {
+          "en": "Where, in accordance with the preceding two Articles, another defender is entrusted or the legal aid institution is notified to assign a lawyer, the defender shall prepare the defence from the date on which the hearing of the case is declared adjourned until the fifteenth day, unless the defendant and his defender voluntarily shorten that time.\nWhere another defender is entrusted after the conclusion of the hearing and before the pronouncement of judgment, the hearing need not be reopened; where the defender submits written defence opinions, they shall be accepted."
+        },
+        "noLabel": {
+          "en": "Article 313."
+        },
+        "chapter": {
+          "en": "Section 6 Courtroom Discipline and Other Provisions"
+        }
+      },
+      {
+        "no": 314,
+        "text": {
+          "en": "In a case with several defendants, where some defendants fall under a circumstance provided in Paragraph 1 of Article 206 of the Criminal Procedure Law, the people's court may suspend the trial of the whole case; according to the circumstances of the case, it may also suspend the trial in respect of those defendants and continue the trial in respect of the other defendants.\nThe defendants in respect of whom the trial is suspended may, according to the circumstances of the case, be dealt with in a separate case."
+        },
+        "noLabel": {
+          "en": "Article 314."
+        },
+        "chapter": {
+          "en": "Section 6 Courtroom Discipline and Other Provisions"
+        }
+      },
+      {
+        "no": 315,
+        "text": {
+          "en": "Where a people's procuratorate considers that a people's court has violated statutory procedure in trying a case and raises written opinions on correction after the hearing, the people's court shall adopt them if it considers them correct."
+        },
+        "noLabel": {
+          "en": "Article 315."
+        },
+        "chapter": {
+          "en": "Section 6 Courtroom Discipline and Other Provisions"
+        }
+      },
+      {
+        "no": 316,
+        "text": {
+          "en": "A people's court accepting a case of private prosecution must satisfy the following conditions:\n(1) the provisions of Article 210 of the Criminal Procedure Law and Article 1 of these Interpretations are met;\n(2) the case falls within the jurisdiction of the court;\n(3) the victim has complained;\n(4) there is a clear defendant, a specific claim and evidence proving the criminal facts of the defendant."
+        },
+        "noLabel": {
+          "en": "Article 316."
+        },
+        "chapter": {
+          "en": "Chapter X First-Instance Procedure for Cases of Private Prosecution"
+        }
+      },
+      {
+        "no": 317,
+        "text": {
+          "en": "In a case provided in Article 1 of these Interpretations, where the victim has died, has lost capacity for conduct, or is unable to complain because he has been subjected to coercion or intimidation, or where the victim is a person with limited capacity for conduct or is unable to complain in person because of old age, illness, blindness, deafness or muteness, and his statutory agent or close relatives complain or complain on his behalf, the people's court shall accept it in accordance with law.\nWhere the statutory agent or a close relative of the victim complains or complains on his behalf, he shall provide proof of his relationship with the victim and proof of the reasons why the victim is unable to complain in person."
+        },
+        "noLabel": {
+          "en": "Article 317."
+        },
+        "chapter": {
+          "en": "Chapter X First-Instance Procedure for Cases of Private Prosecution"
+        }
+      },
+      {
+        "no": 318,
+        "text": {
+          "en": "To bring a private prosecution, a bill of criminal complaint shall be submitted; where a civil action ancillary to the criminal proceedings is brought at the same time, a bill of criminal complaint with a civil claim ancillary to the criminal proceedings shall be submitted."
+        },
+        "noLabel": {
+          "en": "Article 318."
+        },
+        "chapter": {
+          "en": "Chapter X First-Instance Procedure for Cases of Private Prosecution"
+        }
+      },
+      {
+        "no": 319,
+        "text": {
+          "en": "A bill of complaint shall in general include the following:\n(1) the name, sex, age, ethnicity, place of birth, level of education, occupation, place of work, address and means of contact of the private prosecutor (or the person complaining on his behalf) and of the defendant;\n(2) the time, place, means, circumstances and harmful consequences of the crime committed by the defendant;\n(3) the specific claim;\n(4) the people's court to which the bill is addressed and the date of the bill;\n(5) the name and source of the evidence;\n(6) the names, addresses and means of contact of the witnesses.\nWhere a complaint is made against two or more defendants, copies of the bill of complaint shall be provided according to the number of defendants."
+        },
+        "noLabel": {
+          "en": "Article 319."
+        },
+        "chapter": {
+          "en": "Chapter X First-Instance Procedure for Cases of Private Prosecution"
+        }
+      },
+      {
+        "no": 320,
+        "text": {
+          "en": "A people's court shall complete the examination of a case of private prosecution within 15 days. Where, upon examination, the conditions for acceptance are met, it shall decide to docket the case and notify the private prosecutor or the person complaining on his behalf in writing.\nWhere any of the following circumstances exists, the private prosecutor shall be persuaded to withdraw the action; where the private prosecutor does not withdraw the action, it shall be ruled not to accept it:\n(1) the case is not one provided in Article 1 of these Interpretations;\n(2) there is a lack of evidence of the crime;\n(3) the limitation period for prosecution of the crime has expired;\n(4) the defendant has died;\n(5) the whereabouts of the defendant are unknown;\n(6) except where the action was withdrawn for insufficiency of evidence, the private prosecutor complains again on the same facts after withdrawing the action;\n(7) after the case is concluded through mediation by a people's court, the private prosecutor goes back on his word and complains again on the same facts;\n(8) the case is one provided in Item 2 of Article 1 of these Interpretations and the public security organ is conducting investigation after filing or the people's procuratorate is conducting examination for prosecution;\n(9) the action is brought before a people's court against a decision of a people's procuratorate on conditional non-prosecution of a minor criminal suspect or against a decision of non-prosecution made upon expiry of the probation period of conditional non-prosecution."
+        },
+        "noLabel": {
+          "en": "Article 320."
+        },
+        "chapter": {
+          "en": "Chapter X First-Instance Procedure for Cases of Private Prosecution"
+        }
+      },
+      {
+        "no": 321,
+        "text": {
+          "en": "In respect of a case of private prosecution already docketed in which, upon examination, evidence of the crime is lacking and the private prosecutor cannot provide supplementary evidence, the people's court shall persuade him to withdraw the action or rule to reject the action; where the private prosecutor withdraws the action or the action is rejected and he then produces new evidence sufficient to prove the defendant's guilt and brings a private prosecution again, the people's court shall accept it."
+        },
+        "noLabel": {
+          "en": "Article 321."
+        },
+        "chapter": {
+          "en": "Chapter X First-Instance Procedure for Cases of Private Prosecution"
+        }
+      },
+      {
+        "no": 322,
+        "text": {
+          "en": "Where a private prosecutor refuses to accept a ruling not to accept the action or rejecting the action, he may file an appeal.\nWhere the people's court of second instance ascertains that the ruling of the people's court of first instance not to accept the action is erroneous, it shall, while revoking the original ruling, direct the people's court of first instance to docket and accept the case; where it ascertains that the ruling of the people's court of first instance rejecting the action is erroneous, it shall, while revoking the original ruling, direct the people's court of first instance to conduct the trial."
+        },
+        "noLabel": {
+          "en": "Article 322."
+        },
+        "chapter": {
+          "en": "Chapter X First-Instance Procedure for Cases of Private Prosecution"
+        }
+      },
+      {
+        "no": 323,
+        "text": {
+          "en": "Where a private prosecutor, knowing that there are other joint infringers, brings a private prosecution only against some of the infringers, the people's court shall accept it and inform him of the legal consequences of waiving the complaint; where the private prosecutor waives the complaint and, after the pronouncement of judgment, brings a private prosecution against the other joint infringers on the same facts, the people's court shall not accept it.\nWhere only some of the joint victims complain, the people's court shall notify the other victims to participate in the proceedings and inform them of the legal consequences of not participating. Where a person notified states, after receiving the notice, that he will not participate in the proceedings or will not appear in court, he shall be deemed to have waived the complaint. Where, after the pronouncement of judgment at first instance, a person notified brings a private prosecution again on the same facts, the people's court shall not accept it. However, where the party brings a separate civil action, it is not subject to the restriction of these Interpretations."
+        },
+        "noLabel": {
+          "en": "Article 323."
+        },
+        "chapter": {
+          "en": "Chapter X First-Instance Procedure for Cases of Private Prosecution"
+        }
+      },
+      {
+        "no": 324,
+        "text": {
+          "en": "Where a defendant has committed two or more criminal acts which respectively fall within the category of cases of public prosecution and cases of private prosecution, the people's court may try them together. The provisions of this Chapter shall apply to the trial of the part of private prosecution."
+        },
+        "noLabel": {
+          "en": "Article 324."
+        },
+        "chapter": {
+          "en": "Chapter X First-Instance Procedure for Cases of Private Prosecution"
+        }
+      },
+      {
+        "no": 325,
+        "text": {
+          "en": "Where a party to a case of private prosecution applies to the people's court to obtain evidence that he cannot obtain for objective reasons, he shall state the reasons and provide the relevant leads or materials. Where the people's court considers it necessary, it shall obtain the evidence promptly.\nIn respect of an act of insult or defamation committed through an information network, where the victim complains to a people's court but has genuine difficulty in providing evidence, the people's court may request the public security organ to provide assistance."
+        },
+        "noLabel": {
+          "en": "Article 325."
+        },
+        "chapter": {
+          "en": "Chapter X First-Instance Procedure for Cases of Private Prosecution"
+        }
+      },
+      {
+        "no": 326,
+        "text": {
+          "en": "A case of private prosecution in which the criminal facts are clear and there is sufficient evidence shall be tried at a hearing."
+        },
+        "noLabel": {
+          "en": "Article 326."
+        },
+        "chapter": {
+          "en": "Chapter X First-Instance Procedure for Cases of Private Prosecution"
+        }
+      },
+      {
+        "no": 327,
+        "text": {
+          "en": "Where a case of private prosecution meets the conditions for application of summary procedure, it may be tried under summary procedure.\nA case of private prosecution not tried under summary procedure shall be governed by reference to the relevant provisions on ordinary procedure for cases of public prosecution at first instance."
+        },
+        "noLabel": {
+          "en": "Article 327."
+        },
+        "chapter": {
+          "en": "Chapter X First-Instance Procedure for Cases of Private Prosecution"
+        }
+      },
+      {
+        "no": 328,
+        "text": {
+          "en": "In trying a case of private prosecution, a people's court may, on the basis of ascertaining the facts and distinguishing right from wrong, conduct mediation on the principles of voluntariness and lawfulness. Where an agreement is reached through mediation, a written criminal mediation statement shall be prepared, signed by the judicial officers, the judge's assistants and the court clerk, and sealed with the seal of the people's court. The mediation statement shall have legal effect after being signed for receipt by both parties. Where no agreement is reached through mediation, or a party goes back on his word before signing for receipt of the mediation statement, a judgment shall be made promptly.\nMediation shall not apply to cases provided in Item 3 of Article 210 of the Criminal Procedure Law."
+        },
+        "noLabel": {
+          "en": "Article 328."
+        },
+        "chapter": {
+          "en": "Chapter X First-Instance Procedure for Cases of Private Prosecution"
+        }
+      },
+      {
+        "no": 329,
+        "text": {
+          "en": "Before the pronouncement of judgment, the parties to a case of private prosecution may reach a settlement themselves, and the private prosecutor may withdraw the private prosecution.\nWhere, upon examination, the people's court considers that the settlement or withdrawal of the private prosecution is truly voluntary, it shall rule to permit it; where it considers that it was coerced or intimidated and was not voluntary, it shall not permit it."
+        },
+        "noLabel": {
+          "en": "Article 329."
+        },
+        "chapter": {
+          "en": "Chapter X First-Instance Procedure for Cases of Private Prosecution"
+        }
+      },
+      {
+        "no": 330,
+        "text": {
+          "en": "In a case of private prosecution in which a ruling is made permitting withdrawal of the action and a compulsory measure has been taken against the defendant, the people's court shall lift it immediately."
+        },
+        "noLabel": {
+          "en": "Article 330."
+        },
+        "chapter": {
+          "en": "Chapter X First-Instance Procedure for Cases of Private Prosecution"
+        }
+      },
+      {
+        "no": 331,
+        "text": {
+          "en": "Where a private prosecutor, having been summoned twice, refuses to appear in court without justified reasons, or leaves the court midway without the permission of the court, the people's court shall rule that the action be treated as withdrawn.\nWhere some private prosecutors withdraw the action or their actions are ruled to be treated as withdrawn, this shall not affect the continuation of the trial of the case."
+        },
+        "noLabel": {
+          "en": "Article 331."
+        },
+        "chapter": {
+          "en": "Chapter X First-Instance Procedure for Cases of Private Prosecution"
+        }
+      },
+      {
+        "no": 332,
+        "text": {
+          "en": "Where the whereabouts of the defendant become unknown during the trial of a case of private prosecution, the people's court may rule to suspend the trial; where the conditions are met, it may decide on the arrest of the defendant in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 332."
+        },
+        "chapter": {
+          "en": "Chapter X First-Instance Procedure for Cases of Private Prosecution"
+        }
+      },
+      {
+        "no": 333,
+        "text": {
+          "en": "In respect of a case of private prosecution, a judgment shall be made by reference to the relevant provisions of Article 200 of the Criminal Procedure Law and Article 295 of these Interpretations. In a case in which the defendant is adjudged not guilty in accordance with law and there is a civil action ancillary to the criminal proceedings, the civil part ancillary to the criminal proceedings may be mediated in accordance with law or adjudicated together, or the plaintiff in the civil action ancillary to the criminal proceedings may be informed to bring a separate civil action."
+        },
+        "noLabel": {
+          "en": "Article 333."
+        },
+        "chapter": {
+          "en": "Chapter X First-Instance Procedure for Cases of Private Prosecution"
+        }
+      },
+      {
+        "no": 334,
+        "text": {
+          "en": "In a case handled only upon complaint or a minor criminal case in which the victim has evidence to prove the offence, the defendant or his statutory agent may, in the course of the proceedings, bring a counterclaim against the private prosecutor. A counterclaim must satisfy the following conditions:\n(1) the object of the counterclaim must be the private prosecutor in the case;\n(2) the content of the counterclaim must be conduct related to the case;\n(3) the case of the counterclaim must meet the provisions of Items 1 and 2 of Article 1 of these Interpretations.\nThe provisions on cases of private prosecution shall apply to a counterclaim case, which shall be tried together with the case of private prosecution. Where the private prosecutor withdraws the action, this shall not affect the continuation of the trial of the counterclaim case."
+        },
+        "noLabel": {
+          "en": "Article 334."
+        },
+        "chapter": {
+          "en": "Chapter X First-Instance Procedure for Cases of Private Prosecution"
+        }
+      },
+      {
+        "no": 335,
+        "text": {
+          "en": "In accepting a case of unit crime, in addition to examining it in accordance with the relevant provisions of Article 218 of these Interpretations, the people's court shall also examine whether the bill of indictment states the name, domicile and means of contact of the defendant unit and the names, positions and means of contact of its legal representative, actual controller, principal person in charge and the representative in the proceedings representing the defendant unit in court. Where supplementary materials from the people's procuratorate are needed, the people's procuratorate shall be notified to submit them within three days."
+        },
+        "noLabel": {
+          "en": "Article 335."
+        },
+        "chapter": {
+          "en": "Chapter XI Trial of Cases Involving Unit Crimes"
+        }
+      },
+      {
+        "no": 336,
+        "text": {
+          "en": "The representative in the proceedings of a defendant unit shall be its legal representative, actual controller or principal person in charge; where the legal representative, actual controller or principal person in charge is charged as a person directly responsible for the unit crime or is unable to appear in court for objective reasons, the defendant unit shall entrust another person in charge or an employee to serve as representative in the proceedings. However, this does not apply where the relevant person is charged as a person directly responsible for the unit crime, or knows the circumstances of the case and bears an obligation to testify.\nWhere it is difficult to determine the representative in the proceedings in accordance with the preceding paragraph, the defendant unit may entrust a lawyer or a person outside the unit to serve as representative in the proceedings.\nA representative in the proceedings may not at the same time serve as defender of the defendant unit or of the relevant person charged as a person directly responsible for the unit crime."
+        },
+        "noLabel": {
+          "en": "Article 336."
+        },
+        "chapter": {
+          "en": "Chapter XI Trial of Cases Involving Unit Crimes"
+        }
+      },
+      {
+        "no": 337,
+        "text": {
+          "en": "Where a case of unit crime is tried at a hearing, the representative in the proceedings of the defendant unit shall be notified to appear in court; where the representative in the proceedings does not comply with the provisions of the preceding Article, the people's procuratorate shall be required to determine another representative.\nWhere the representative in the proceedings of the defendant unit does not appear in court, the matter shall be dealt with respectively according to the following circumstances:\n(1) where the representative in the proceedings is the legal representative, actual controller or principal person in charge of the defendant unit and refuses to appear in court without justified reasons, he may be compelled to appear by warrant; where he is unable to appear in court for objective reasons or his whereabouts are unknown, the people's procuratorate shall be required to determine another representative in the proceedings;\n(2) where the representative in the proceedings is another person, the people's procuratorate shall be required to determine another representative in the proceedings."
+        },
+        "noLabel": {
+          "en": "Article 337."
+        },
+        "chapter": {
+          "en": "Chapter XI Trial of Cases Involving Unit Crimes"
+        }
+      },
+      {
+        "no": 338,
+        "text": {
+          "en": "The representative in the proceedings of a defendant unit enjoys the procedural rights of a defendant provided in the Criminal Procedure Law. At the hearing, the seat of the representative in the proceedings shall be placed on the left side in front of the judges' bench, side by side with the seat of the defender."
+        },
+        "noLabel": {
+          "en": "Article 338."
+        },
+        "chapter": {
+          "en": "Chapter XI Trial of Cases Involving Unit Crimes"
+        }
+      },
+      {
+        "no": 339,
+        "text": {
+          "en": "Where a defendant unit entrusts a defender, the relevant provisions of these Interpretations shall apply by reference."
+        },
+        "noLabel": {
+          "en": "Article 339."
+        },
+        "chapter": {
+          "en": "Chapter XI Trial of Cases Involving Unit Crimes"
+        }
+      },
+      {
+        "no": 340,
+        "text": {
+          "en": "In a case that should be determined to be a unit crime but in which the people's procuratorate prosecutes only as a natural person crime, the people's court shall recommend that the people's procuratorate add the criminal unit to the prosecution. Where the people's procuratorate still prosecutes as a natural person crime, the people's court shall try the case in accordance with law, pursue the criminal responsibility of the person in charge directly responsible for the unit crime or other persons directly responsible, and cite the provisions of the Specific Provisions of the Criminal Law on pursuing the criminal responsibility of the person in charge directly responsible and other persons directly responsible in a unit crime."
+        },
+        "noLabel": {
+          "en": "Article 340."
+        },
+        "chapter": {
+          "en": "Chapter XI Trial of Cases Involving Unit Crimes"
+        }
+      },
+      {
+        "no": 341,
+        "text": {
+          "en": "Where the illegal gains of a defendant unit and other property involved in the case have not yet been recovered in accordance with law or sealed up, distrained or frozen, the people's court shall decide to recover, seal up, distrain or freeze them."
+        },
+        "noLabel": {
+          "en": "Article 341."
+        },
+        "chapter": {
+          "en": "Chapter XI Trial of Cases Involving Unit Crimes"
+        }
+      },
+      {
+        "no": 342,
+        "text": {
+          "en": "In order to guarantee the execution of the judgment, the people's court may seal up, distrain or freeze the property of the defendant unit in advance, or the defendant unit may provide security."
+        },
+        "noLabel": {
+          "en": "Article 342."
+        },
+        "chapter": {
+          "en": "Chapter XI Trial of Cases Involving Unit Crimes"
+        }
+      },
+      {
+        "no": 343,
+        "text": {
+          "en": "Measures such as sealing up, distraining and freezing shall be taken strictly in accordance with statutory procedure, so as to minimise the impact on the normal production and business activities of the defendant unit."
+        },
+        "noLabel": {
+          "en": "Article 343."
+        },
+        "chapter": {
+          "en": "Chapter XI Trial of Cases Involving Unit Crimes"
+        }
+      },
+      {
+        "no": 344,
+        "text": {
+          "en": "During the trial, where the business licence of the defendant unit is revoked or it is declared bankrupt but the liquidation and deregistration have not yet been completed, the trial shall continue; where the defendant unit is dissolved or deregistered, the trial shall continue in respect of the person in charge directly responsible for the unit crime and the other persons directly responsible."
+        },
+        "noLabel": {
+          "en": "Article 344."
+        },
+        "chapter": {
+          "en": "Chapter XI Trial of Cases Involving Unit Crimes"
+        }
+      },
+      {
+        "no": 345,
+        "text": {
+          "en": "During the trial, where the defendant unit is merged or divided, the original unit shall be listed as the defendant unit and the merger or division shall be noted. The fine imposed on the defendant unit shall be limited to its property and proceeds in the new unit."
+        },
+        "noLabel": {
+          "en": "Article 345."
+        },
+        "chapter": {
+          "en": "Chapter XI Trial of Cases Involving Unit Crimes"
+        }
+      },
+      {
+        "no": 346,
+        "text": {
+          "en": "In trying a case of unit crime, where this Chapter contains no provision, the relevant provisions of these Interpretations shall apply by reference."
+        },
+        "noLabel": {
+          "en": "Article 346."
+        },
+        "chapter": {
+          "en": "Chapter XI Trial of Cases Involving Unit Crimes"
+        }
+      },
+      {
+        "no": 347,
+        "text": {
+          "en": "The term \"pleading guilty\" as provided in Article 15 of the Criminal Procedure Law means that the criminal suspect or defendant voluntarily and truthfully confesses his crime and has no objection to the criminal facts alleged.\nThe term \"accepting punishment\" as provided in Article 15 of the Criminal Procedure Law means that the criminal suspect or defendant sincerely repents and is willing to accept punishment.\nWhere a defendant pleads guilty and accepts punishment, the case may, in accordance with Article 15 of the Criminal Procedure Law, be handled in a simplified manner procedurally and with leniency in substance."
+        },
+        "noLabel": {
+          "en": "Article 347."
+        },
+        "chapter": {
+          "en": "Chapter XII Trial of Cases Involving Admission of Guilt and Acceptance of Punishment"
+        }
+      },
+      {
+        "no": 348,
+        "text": {
+          "en": "A case in which the defendant pleads guilty and accepts punishment shall, according to the circumstances of the case, be tried in accordance with law under the procedure for expedited adjudication, summary procedure or ordinary procedure."
+        },
+        "noLabel": {
+          "en": "Article 348."
+        },
+        "chapter": {
+          "en": "Chapter XII Trial of Cases Involving Admission of Guilt and Acceptance of Punishment"
+        }
+      },
+      {
+        "no": 349,
+        "text": {
+          "en": "In respect of a case in which the defendant pleads guilty and accepts punishment and which is instituted as public prosecution by a people's procuratorate, the people's court shall focus its examination on the following:\n(1) whether the people's procuratorate informed the criminal suspect of his procedural rights and the legal provisions on pleading guilty and accepting punishment when interrogating him;\n(2) whether the record of the opinions of the criminal suspect, the defender or duty lawyer, and the victim and his agent ad litem has been transferred with the case;\n(3) where the defendant has reached a mediation or settlement agreement with the victim or obtained the victim's forgiveness, whether the mediation or settlement agreement, the victim's letter of forgiveness and other relevant materials have been transferred with the case;\n(4) where a written statement of pleading guilty and accepting punishment needs to be signed, whether the statement has been transferred with the case.\nWhere the materials provided in the preceding paragraph have not been transferred with the case, the people's procuratorate shall be required to supplement them."
+        },
+        "noLabel": {
+          "en": "Article 349."
+        },
+        "chapter": {
+          "en": "Chapter XII Trial of Cases Involving Admission of Guilt and Acceptance of Punishment"
+        }
+      },
+      {
+        "no": 350,
+        "text": {
+          "en": "A people's court shall take the defendant's pleading guilty and accepting punishment as an important factor in considering whether he poses a danger to society. Where the defendant's crime is relatively minor and the use of a non-custodial compulsory measure is sufficient to prevent danger to society, a non-custodial compulsory measure shall be applied in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 350."
+        },
+        "chapter": {
+          "en": "Chapter XII Trial of Cases Involving Admission of Guilt and Acceptance of Punishment"
+        }
+      },
+      {
+        "no": 351,
+        "text": {
+          "en": "In respect of a case in which the defendant pleads guilty and accepts punishment, the court shall, at the hearing, inform the defendant of the procedural rights he enjoys and the legal provisions on pleading guilty and accepting punishment, and examine the voluntariness of the plea and acceptance of punishment and the authenticity and lawfulness of the content of the written statement of pleading guilty and accepting punishment."
+        },
+        "noLabel": {
+          "en": "Article 351."
+        },
+        "chapter": {
+          "en": "Chapter XII Trial of Cases Involving Admission of Guilt and Acceptance of Punishment"
+        }
+      },
+      {
+        "no": 352,
+        "text": {
+          "en": "In respect of a case in which the defendant pleads guilty and accepts punishment, where the facts alleged in the prosecution are clear but the charge alleged is inconsistent with the charge determined at the trial, the people's court shall hear the opinions of the people's procuratorate, the defendant and his defender on the charge determined at the trial and make a judgment in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 352."
+        },
+        "chapter": {
+          "en": "Chapter XII Trial of Cases Involving Admission of Guilt and Acceptance of Punishment"
+        }
+      },
+      {
+        "no": 353,
+        "text": {
+          "en": "In respect of a case in which the defendant pleads guilty and accepts punishment, where the people's court, upon trial, considers the sentencing recommendation manifestly inappropriate, or where the defendant or defender raises an objection to the sentencing recommendation, the people's procuratorate may adjust the sentencing recommendation. Where the people's procuratorate does not adjust it or it remains manifestly inappropriate after adjustment, the people's court shall make a judgment in accordance with law.\nWhere a case in which the defendant pleads guilty and accepts punishment is tried under the procedure for expedited adjudication and the sentencing recommendation needs to be adjusted, the adjustment shall be made before the hearing or in court; where the case still meets the conditions for application of the procedure for expedited adjudication after the adjustment, it shall continue to be tried under that procedure."
+        },
+        "noLabel": {
+          "en": "Article 353."
+        },
+        "chapter": {
+          "en": "Chapter XII Trial of Cases Involving Admission of Guilt and Acceptance of Punishment"
+        }
+      },
+      {
+        "no": 354,
+        "text": {
+          "en": "In determining whether a sentencing recommendation is manifestly inappropriate, an examination and judgment shall be made on the basis of the criminal facts ascertained at the trial and the specific circumstances of the plea of guilty and acceptance of punishment, in conjunction with the statutory penalty for the relevant crime and the penalties applied in similar cases."
+        },
+        "noLabel": {
+          "en": "Article 354."
+        },
+        "chapter": {
+          "en": "Chapter XII Trial of Cases Involving Admission of Guilt and Acceptance of Punishment"
+        }
+      },
+      {
+        "no": 355,
+        "text": {
+          "en": "In respect of a case in which the defendant pleads guilty and accepts punishment, the people's court shall in general impose a lighter punishment on the defendant; where the conditions for application of a non-custodial penalty are met, a non-custodial penalty shall be applied; where a statutory circumstance of mitigated punishment exists, the punishment may be mitigated.\nIn respect of a case in which the defendant pleads guilty and accepts punishment, differences in the degree of leniency shall be reflected according to how early or late the defendant pleaded guilty and accepted punishment and the initiative, stability and thoroughness of the plea and acceptance.\nIn a joint crime case, where some defendants plead guilty and accept punishment, a lenient punishment may be imposed on those defendants in accordance with law, but attention shall be paid to maintaining the balance of sentencing in the whole case."
+        },
+        "noLabel": {
+          "en": "Article 355."
+        },
+        "chapter": {
+          "en": "Chapter XII Trial of Cases Involving Admission of Guilt and Acceptance of Punishment"
+        }
+      },
+      {
+        "no": 356,
+        "text": {
+          "en": "Where a defendant did not plead guilty or accept punishment before the people's procuratorate instituted public prosecution but pleads guilty and accepts punishment at the trial stage, the people's court may no longer notify the people's procuratorate to make or adjust a sentencing recommendation.\nIn respect of a case provided in the preceding paragraph, the people's court shall hear the opinions of the prosecution and the defence on conviction and sentencing and make a judgment in accordance with Article 15 of the Criminal Procedure Law and Article 355 of these Interpretations."
+        },
+        "noLabel": {
+          "en": "Article 356."
+        },
+        "chapter": {
+          "en": "Chapter XII Trial of Cases Involving Admission of Guilt and Acceptance of Punishment"
+        }
+      },
+      {
+        "no": 357,
+        "text": {
+          "en": "In respect of a case in which the defendant did not plead guilty or accept punishment in the procedure of first instance but pleads guilty and accepts punishment in the procedure of second instance, whether to be lenient shall be decided according to the specific circumstances of his plea and acceptance, and an adjudication shall be made in accordance with law. When determining the degree of leniency, a distinction shall be drawn from a plea and acceptance in the procedure of first instance."
+        },
+        "noLabel": {
+          "en": "Article 357."
+        },
+        "chapter": {
+          "en": "Chapter XII Trial of Cases Involving Admission of Guilt and Acceptance of Punishment"
+        }
+      },
+      {
+        "no": 358,
+        "text": {
+          "en": "Where, in the course of the trial of a case, the defendant no longer pleads guilty and accepts punishment, the people's court shall, on the basis of the facts ascertained at the trial, make an adjudication in accordance with law. Where it is necessary to convert the pro-\ncedure, the matter shall be dealt with in accordance with the relevant provisions of these Interpretations."
+        },
+        "noLabel": {
+          "en": "Article 358."
+        },
+        "chapter": {
+          "en": "Chapter XII Trial of Cases Involving Admission of Guilt and Acceptance of Punishment"
+        }
+      },
+      {
+        "no": 359,
+        "text": {
+          "en": "After a basic people's court accepts a case of public prosecution, where upon examination it considers that the facts of the case are clear and the evidence is sufficient, it shall, when serving a copy of the bill of indictment on the defendant, ask the defendant for his opinions on the criminal facts alleged and inform him of the legal provisions on the application of summary procedure. Where the defendant has no objection to the criminal facts alleged and agrees to the application of summary procedure, the court may decide to apply summary procedure and shall notify the people's procuratorate and the defender before the hearing.\nIn respect of a case in which the people's procuratorate recommends, or the defendant and his defender apply for, trial under summary procedure, the matter shall be dealt with in accordance with the preceding paragraph; where the conditions for application of summary procedure are not met, the people's procuratorate or the defendant and his defender shall be notified."
+        },
+        "noLabel": {
+          "en": "Article 359."
+        },
+        "chapter": {
+          "en": "Chapter XIII Summary Procedure"
+        }
+      },
+      {
+        "no": 360,
+        "text": {
+          "en": "Summary procedure shall not apply where any of the following circumstances exists:\n(1) the defendant is blind, deaf or mute;\n(2) the defendant is a person with mental illness who has not yet completely lost the capacity to recognise or control his own conduct;\n(3) the case has a major social impact;\n(4) in a joint crime case, some defendants do not plead guilty or object to the application of summary procedure;\n(5) the defender defends on the ground of innocence;\n(6) the defendant pleads guilty but upon examination it is considered that his conduct may not constitute a crime;\n(7) other circumstances in which it is inappropriate to apply summary procedure."
+        },
+        "noLabel": {
+          "en": "Article 360."
+        },
+        "chapter": {
+          "en": "Chapter XIII Summary Procedure"
+        }
+      },
+      {
+        "no": 361,
+        "text": {
+          "en": "In a case tried under summary procedure, where the provisions of Paragraph 1 of Article 35 of the Criminal Procedure Law are met, the people's court shall inform the defendant and his close relatives that they may apply for legal aid."
+        },
+        "noLabel": {
+          "en": "Article 361."
+        },
+        "chapter": {
+          "en": "Chapter XIII Summary Procedure"
+        }
+      },
+      {
+        "no": 362,
+        "text": {
+          "en": "In trying a case under summary procedure, the people's court shall, before the hearing, notify the people's procuratorate, the private prosecutor, the defendant and the defender of the time and place of the hearing, and may also notify the other participants in the proceedings.\nThe notification may be given in a simplified manner, but shall be recorded in the file."
+        },
+        "noLabel": {
+          "en": "Article 362."
+        },
+        "chapter": {
+          "en": "Chapter XIII Summary Procedure"
+        }
+      },
+      {
+        "no": 363,
+        "text": {
+          "en": "In trying a case under summary procedure, where the defendant has a defender, the defender shall be notified to appear in court."
+        },
+        "noLabel": {
+          "en": "Article 363."
+        },
+        "chapter": {
+          "en": "Chapter XIII Summary Procedure"
+        }
+      },
+      {
+        "no": 364,
+        "text": {
+          "en": "In trying a case under summary procedure, the presiding judge or the sole judge shall, in court, ask the defendant for his opinions on the criminal facts alleged, inform the defendant of the legal provisions on trial under summary procedure, and confirm whether the defendant agrees to the application of summary procedure."
+        },
+        "noLabel": {
+          "en": "Article 364."
+        },
+        "chapter": {
+          "en": "Chapter XIII Summary Procedure"
+        }
+      },
+      {
+        "no": 365,
+        "text": {
+          "en": "In trying a case under summary procedure, the hearing may be simplified as follows:\n(1) the public prosecutor may read out the bill of indictment in summary form;\n(2) the interrogation of and questioning of the defendant by the public prosecutor, the defender and the judicial officers may be simplified or omitted;\n(3) in respect of evidence to which the prosecution and the defence have no objection, only the name of the evidence and the matters it proves may be stated; evidence to which the prosecution or the defence objects or which the court considers necessary to investigate and verify shall be produced and cross-examined;\n(4) where the prosecution and the defence have no objection to the facts and evidence relating to conviction and sentencing, the court hearing may directly focus on the determination of the charge and the question of sentencing.\nIn trying a case under summary procedure, the defendant's final statement shall be heard before the pronouncement of judgment."
+        },
+        "noLabel": {
+          "en": "Article 365."
+        },
+        "chapter": {
+          "en": "Chapter XIII Summary Procedure"
+        }
+      },
+      {
+        "no": 366,
+        "text": {
+          "en": "Where, in the course of a trial by a single judge under summary procedure, it is discovered that the fixed-term imprisonment that may be imposed on the defendant exceeds three years, the case shall be transferred to a collegial panel for trial."
+        },
+        "noLabel": {
+          "en": "Article 366."
+        },
+        "chapter": {
+          "en": "Chapter XIII Summary Procedure"
+        }
+      },
+      {
+        "no": 367,
+        "text": {
+          "en": "In a case tried under summary procedure, the adjudicative document may be simplified.\nIn a case tried under summary procedure, the judgment shall in general be pronounced in court."
+        },
+        "noLabel": {
+          "en": "Article 367."
+        },
+        "chapter": {
+          "en": "Chapter XIII Summary Procedure"
+        }
+      },
+      {
+        "no": 368,
+        "text": {
+          "en": "In a case tried under summary procedure, where any of the following circumstances exists in the course of the court hearing, the case shall be converted to trial under ordinary procedure:\n(1) the defendant's conduct may not constitute a crime;\n(2) the defendant may bear no criminal responsibility;\n(3) the defendant denies in court the criminal facts alleged in the prosecution;\n(4) the facts of the case are unclear and the evidence is insufficient;\n(5) other circumstances in which summary procedure should not or is inappropriate to be applied.\nIn a case in which a decision is made to convert to trial under ordinary procedure, the time limit for trial shall be counted from the date on which the decision is made."
+        },
+        "noLabel": {
+          "en": "Article 368."
+        },
+        "chapter": {
+          "en": "Chapter XIII Summary Procedure"
+        }
+      },
+      {
+        "no": 369,
+        "text": {
+          "en": "In respect of a case in which the people's procuratorate recommends the application of the procedure for expedited adjudication when instituting public prosecution, where the basic people's court, upon examination, considers that the facts of the case are clear, the evidence is reliable and sufficient and a sentence of not more than three years of fixed-term imprisonment may be imposed, it shall, when serving a copy of the bill of indictment on the defendant, inform the defendant of the legal provisions on the application of the procedure for expedited adjudication and ask whether he agrees to its application. Where the defendant agrees to apply the procedure for expedited adjudication, the court may decide to apply it and shall notify the people's procuratorate and the defender before the hearing.\nIn respect of a case in which the people's procuratorate has not recommended the application of the procedure for expedited adjudication, where the people's court, upon examination, considers that the conditions for application of the procedure for expedited adjudication are met, it may decide to apply it and shall notify the people's procuratorate and the defender before the hearing.\nThe defendant and his defender may apply to the people's court for the application of the procedure for expedited adjudication."
+        },
+        "noLabel": {
+          "en": "Article 369."
+        },
+        "chapter": {
+          "en": "Chapter XIV Expedited Procedure"
+        }
+      },
+      {
+        "no": 370,
+        "text": {
+          "en": "The procedure for expedited adjudication shall not apply where any of the following circumstances exists:\n(1) the defendant is blind, deaf or mute;\n(2) the defendant is a person with mental illness who has not yet completely lost the capacity to recognise or control his own conduct;\n(3) the defendant is a minor;\n(4) the case has a major social impact;\n(5) in a joint crime case, some defendants object to the criminal facts alleged, the charge, the sentencing recommendation or the application of the procedure for expedited adjudication;\n(6) the defendant and the victim or his statutory agent have not reached a mediation or settlement agreement on matters such as compensation in the civil action ancillary to the criminal proceedings;\n(7) the defender defends on the ground of innocence;\n(8) other circumstances in which the procedure for expedited adjudication is inappropriate."
+        },
+        "noLabel": {
+          "en": "Article 370."
+        },
+        "chapter": {
+          "en": "Chapter XIV Expedited Procedure"
+        }
+      },
+      {
+        "no": 371,
+        "text": {
+          "en": "In trying a case under the procedure for expedited adjudication, the people's court shall, before the hearing, notify the people's procuratorate, the defendant and the defender of the time and place of the hearing, and may also notify the other participants in the proceedings.\nThe notification may be given in a simplified manner, but shall be recorded in the file.\nArticle 372 In trying cases under the procedure for expedited adjudication, the court may hold hearings in a consolidated manner and try the cases one by one. After the public prosecutor has read out the bill of indictment in brief, the judicial officers shall, in court, ask the defendant for his opinions on the alleged facts, the evidence, the sentencing recommendation and the application of the procedure for expedited adjudication, verify the voluntariness, authenticity and lawfulness of the signing of the written statement, and verify the circumstances of compensation in the civil action ancillary to the criminal proceedings."
+        },
+        "noLabel": {
+          "en": "Article 371."
+        },
+        "chapter": {
+          "en": "Chapter XIV Expedited Procedure"
+        }
+      },
+      {
+        "no": 373,
+        "text": {
+          "en": "In trying a case under the procedure for expedited adjudication, the court investigation and court debate shall in general not be conducted, but the opinions of the defender and the final statement of the defendant shall be heard before the pronouncement of judgment."
+        },
+        "noLabel": {
+          "en": "Article 373."
+        },
+        "chapter": {
+          "en": "Chapter XIV Expedited Procedure"
+        }
+      },
+      {
+        "no": 374,
+        "text": {
+          "en": "In a case tried under the procedure for expedited adjudication, the adjudicative document may be simplified.\nIn a case tried under the procedure for expedited adjudication, the judgment shall be pronounced in court."
+        },
+        "noLabel": {
+          "en": "Article 374."
+        },
+        "chapter": {
+          "en": "Chapter XIV Expedited Procedure"
+        }
+      },
+      {
+        "no": 375,
+        "text": {
+          "en": "In a case tried under the procedure for expedited adjudication, where any of the following circumstances exists in the course of the court hearing, the case shall be converted to trial under ordinary procedure or summary procedure:\n(1) the defendant's conduct may not constitute a crime or criminal responsibility should not be pursued;\n(2) the defendant pleads guilty and accepts punishment against his will;\n(3) the defendant denies the criminal facts alleged;\n(4) the case is difficult and complex or there is a major dispute over the application of law;\n(5) other circumstances in which the procedure for expedited adjudication is inappropriate."
+        },
+        "noLabel": {
+          "en": "Article 375."
+        },
+        "chapter": {
+          "en": "Chapter XIV Expedited Procedure"
+        }
+      },
+      {
+        "no": 376,
+        "text": {
+          "en": "In a case in which a decision is made to convert to trial under ordinary procedure or summary procedure, the time limit for trial shall be counted from the date on which the decision is made."
+        },
+        "noLabel": {
+          "en": "Article 376."
+        },
+        "chapter": {
+          "en": "Chapter XIV Expedited Procedure"
+        }
+      },
+      {
+        "no": 377,
+        "text": {
+          "en": "In a case tried under the procedure for expedited adjudication, where the people's court of second instance remands it to the people's court of original trial for retrial in accordance with Item 3 of Paragraph 1 of Article 236 of the Criminal Procedure Law, the people's court of original trial shall retry it under ordinary procedure of first instance."
+        },
+        "noLabel": {
+          "en": "Article 377."
+        },
+        "chapter": {
+          "en": "Chapter XIV Expedited Procedure"
+        }
+      },
+      {
+        "no": 378,
+        "text": {
+          "en": "When pronouncing a judgment or ruling of first instance, a people's court at any local level shall inform the defendant, the private prosecutor and their statutory agents that, if they refuse to accept the judgment or a ruling permitting withdrawal of the prosecution or terminating the trial, they have the right, within the statutory time limit, in written or oral form, to file an appeal through the court or directly with the people's court at the next higher level; the defendant's defender and close relatives may also file an appeal with the defendant's consent; the parties to the civil action ancillary to the criminal proceedings and their statutory agents may appeal against the civil part of the judgment or ruling.\nWhether the defendant, the private prosecutor or a party to the civil action ancillary to the criminal proceedings or his statutory agent files an appeal shall be determined by his last expression of intention before the expiry of the appeal period."
+        },
+        "noLabel": {
+          "en": "Article 378."
+        },
+        "chapter": {
+          "en": "Chapter XV Second-Instance Procedure"
+        }
+      },
+      {
+        "no": 379,
+        "text": {
+          "en": "A case on appeal accepted by a people's court shall in general have the original and copies of the petition of appeal.\nThe content of a petition of appeal shall in general include: the document number of the written judgment or ruling of first instance and the time of its receipt by the appellant, the name of the people's court of first instance, the request and reasons for the appeal, and the time when the appeal is filed. Where the defendant's defender or close relative files an appeal with the defendant's consent, the relationship with the defendant shall also be stated, and the defendant shall be the appellant."
+        },
+        "noLabel": {
+          "en": "Article 379."
+        },
+        "chapter": {
+          "en": "Chapter XV Second-Instance Procedure"
+        }
+      },
+      {
+        "no": 380,
+        "text": {
+          "en": "An appeal or protest must be filed within the statutory time limit. The time limit for an appeal or protest against a judgment is ten days; the time limit for an appeal or protest against a ruling is five days. The time limit for an appeal or protest shall be counted from the day following the receipt of the written judgment or ruling.\nThe time limit for an appeal or protest against a civil judgment or ruling ancillary to the criminal proceedings shall be determined according to the time limit for an appeal or protest against the criminal part. Where the civil part ancillary to the criminal proceedings is tried separately, the time limit for appeal shall also be determined according to the time limit provided in the Criminal Procedure Law."
+        },
+        "noLabel": {
+          "en": "Article 380."
+        },
+        "chapter": {
+          "en": "Chapter XV Second-Instance Procedure"
+        }
+      },
+      {
+        "no": 381,
+        "text": {
+          "en": "Where an appellant files an appeal through the people's court of first instance, the people's court of first instance shall examine it. Where the appeal complies with the provisions of law, it shall, within three days after the expiry of the appeal period, transfer the petition of appeal together with the case file and evidence to the people's court at the next higher level and send a copy of the petition of appeal to the people's procuratorate at the same level and to the opposing party."
+        },
+        "noLabel": {
+          "en": "Article 381."
+        },
+        "chapter": {
+          "en": "Chapter XV Second-Instance Procedure"
+        }
+      },
+      {
+        "no": 382,
+        "text": {
+          "en": "Where an appellant files an appeal directly with the people's court of second instance, the people's court of second instance shall, within three days after receipt of the petition of appeal, refer the petition of appeal to the people's court of first instance. The people's court of first instance shall examine whether the appeal complies with the provisions of law. Where it complies, it shall, within three days after receipt of the petition of appeal, transfer the petition of appeal together with the case file and evidence to the people's court at the next higher level and send a copy of the petition of appeal to the people's procuratorate at the same level and to the opposing party."
+        },
+        "noLabel": {
+          "en": "Article 382."
+        },
+        "chapter": {
+          "en": "Chapter XV Second-Instance Procedure"
+        }
+      },
+      {
+        "no": 383,
+        "text": {
+          "en": "Where an appellant requests withdrawal of the appeal within the appeal period, the people's court shall permit it.\nWhere an appellant requests withdrawal of the appeal after the expiry of the appeal period, the people's court of second instance shall, upon examination, rule to permit it if it considers that the original judgment correctly ascertains the facts and applies the law and that the sentence is appropriate; where it considers that the original judgment is indeed erroneous, it shall not permit the withdrawal and shall continue to try the case as a case on appeal.\nWhere a defendant sentenced to immediate execution of the death penalty files an appeal and, after the hearing at second instance and before the pronouncement of the adjudication, applies to withdraw the appeal, the withdrawal shall not be permitted and the case shall continue to be tried as a case on appeal."
+        },
+        "noLabel": {
+          "en": "Article 383."
+        },
+        "chapter": {
+          "en": "Chapter XV Second-Instance Procedure"
+        }
+      },
+      {
+        "no": 384,
+        "text": {
+          "en": "Where a people's procuratorate at any local level lodges a protest against a judgment or ruling of first instance of a people's court at the same level, it shall submit the written protest through the people's court of first instance. The people's court of first instance shall, within three days after the expiry of the protest period, transfer the written protest together with the case file and evidence to the people's court at the next higher level and send a copy of the written protest to the parties."
+        },
+        "noLabel": {
+          "en": "Article 384."
+        },
+        "chapter": {
+          "en": "Chapter XV Second-Instance Procedure"
+        }
+      },
+      {
+        "no": 385,
+        "text": {
+          "en": "Where a people's procuratorate requests withdrawal of a protest within the protest period, the people's court shall permit it.\nWhere a people's procuratorate requests withdrawal of a protest after the expiry of the protest period, the people's court of second instance may rule to permit it, but where it considers that the original judgment exhibits circumstances such as adjudging an innocent person guilty or imposing a heavy sentence for a minor crime, it shall not permit the withdrawal and shall continue the trial.\nWhere a people's procuratorate at a higher level considers that the protest of a people's procuratorate at a lower level is inappropriate and requests the people's court of second instance to withdraw the protest, the preceding two paragraphs shall apply."
+        },
+        "noLabel": {
+          "en": "Article 385."
+        },
+        "chapter": {
+          "en": "Chapter XV Second-Instance Procedure"
+        }
+      },
+      {
+        "no": 386,
+        "text": {
+          "en": "Where an appeal or protest is withdrawn before the expiry of the appeal or protest period, the judgment or ruling of first instance shall take effect on the date of expiry of the appeal or protest period. Where withdrawal of an appeal or protest is requested after the expiry of the appeal or protest period and the people's court of second instance rules to permit it, the judgment or ruling of first instance shall take effect from the date on which the written ruling of second instance is served on the appellant or the protesting organ."
+        },
+        "noLabel": {
+          "en": "Article 386."
+        },
+        "chapter": {
+          "en": "Chapter XV Second-Instance Procedure"
+        }
+      },
+      {
+        "no": 387,
+        "text": {
+          "en": "In respect of the case file and evidence of an appeal or protest transferred by a people's court of first instance, the people's court of second instance shall examine whether they include the following:\n(1) the letter transferring the case on appeal or protest;\n(2) the petition of appeal or the written protest;\n(3) eight copies of the written judgment or ruling of first instance (one additional copy for each additional defendant) and their electronic texts;\n(4) the entire case file and evidence, including the report on the trial of the case and other materials that should be transferred.\nWhere the materials listed in the preceding paragraph are complete, the people's court of second instance shall docket the case; where the materials are incomplete, it shall notify the people's court of first instance to supplement them promptly."
+        },
+        "noLabel": {
+          "en": "Article 387."
+        },
+        "chapter": {
+          "en": "Chapter XV Second-Instance Procedure"
+        }
+      },
+      {
+        "no": 388,
+        "text": {
+          "en": "In trying a case on appeal or protest, the people's court of second instance shall conduct a comprehensive examination of the facts ascertained and the law applied in the judgment or ruling of first instance, and is not limited by the scope of the appeal or protest."
+        },
+        "noLabel": {
+          "en": "Article 388."
+        },
+        "chapter": {
+          "en": "Chapter XV Second-Instance Procedure"
+        }
+      },
+      {
+        "no": 389,
+        "text": {
+          "en": "In a joint crime case, where only some defendants file an appeal, or the private prosecutor appeals only against the judgment in respect of some defendants, or the people's procuratorate lodges a protest only against the judgment in respect of some defendants, the people's court of second instance shall examine the whole case and deal with it as a whole."
+        },
+        "noLabel": {
+          "en": "Article 389."
+        },
+        "chapter": {
+          "en": "Chapter XV Second-Instance Procedure"
+        }
+      },
+      {
+        "no": 390,
+        "text": {
+          "en": "In a joint crime case, where a defendant who appealed dies and the other defendants did not appeal, the people's court of second instance shall terminate the trial in respect of the deceased defendant; however, where there is evidence proving that the defendant is innocent and his innocence is confirmed through a trial by default, a judgment shall be made declaring the defendant not guilty.\nWhere the circumstances provided in the preceding paragraph exist, the people's court of second instance shall still examine the whole case and make a judgment or ruling in respect of the other co-defendants."
+        },
+        "noLabel": {
+          "en": "Article 390."
+        },
+        "chapter": {
+          "en": "Chapter XV Second-Instance Procedure"
+        }
+      },
+      {
+        "no": 391,
+        "text": {
+          "en": "In respect of a case on appeal or protest, the following shall be emphasised in the examination:\n(1) whether the facts ascertained in the judgment of first instance are clear and the evidence is reliable and sufficient;\n(2) whether the law applied in the judgment of first instance is correct and the sentence is appropriate;\n(3) whether there was any violation of statutory procedure in the investigation, detection, examination for prosecution or procedure of first instance;\n(4) whether the appeal or protest raises new facts or evidence;\n(5) the circumstances of the defendant's statements and defence;\n(6) the defence opinions of the defender and whether they were adopted;\n(7) whether the judgment or ruling on the civil part ancillary to the criminal proceedings is lawful and appropriate;\n(8) whether the handling of the property involved in the case is correct;\n(9) the opinions discussed by the collegial panel and the judicial committee of the people's court of first instance."
+        },
+        "noLabel": {
+          "en": "Article 391."
+        },
+        "chapter": {
+          "en": "Chapter XV Second-Instance Procedure"
+        }
+      },
+      {
+        "no": 392,
+        "text": {
+          "en": "During the second instance, in addition to defending himself, the defendant may continue to entrust the defender of the first instance or entrust another defender to defend him.\nIn a joint crime case, where only some defendants file an appeal, or the private prosecutor appeals only against the judgment in respect of some defendants, or the people's procuratorate lodges a protest only against the judgment in respect of some defendants, the other co-defendants may also entrust defenders to defend them."
+        },
+        "noLabel": {
+          "en": "Article 392."
+        },
+        "chapter": {
+          "en": "Chapter XV Second-Instance Procedure"
+        }
+      },
+      {
+        "no": 393,
+        "text": {
+          "en": "The following cases shall, in accordance with Article 234 of the Criminal Procedure Law, be tried at a hearing:\n(1) cases on appeal in which the defendant, the private prosecutor or their statutory agents raise an objection to the facts or evidence ascertained at first instance that may affect conviction and sentencing;\n(2) cases on appeal in which the defendant is sentenced to the death penalty;\n(3) cases in which the people's procuratorate lodges a protest;\n(4) other cases that should be tried at a hearing.\nIn a case in which a defendant sentenced to the death penalty did not appeal but another co-defendant appealed, the people's court of second instance shall try the case at a hearing."
+        },
+        "noLabel": {
+          "en": "Article 393."
+        },
+        "chapter": {
+          "en": "Chapter XV Second-Instance Procedure"
+        }
+      },
+      {
+        "no": 394,
+        "text": {
+          "en": "In respect of a case on appeal or protest, where the people's court of second instance, upon examination, considers that the facts in the original judgment are unclear, the evidence is insufficient, or a circumstance of violation of statutory procedure provided in Article 238 of the Criminal Procedure Law exists and a remand for retrial is necessary, it may try the case without a hearing."
+        },
+        "noLabel": {
+          "en": "Article 394."
+        },
+        "chapter": {
+          "en": "Chapter XV Second-Instance Procedure"
+        }
+      },
+      {
+        "no": 395,
+        "text": {
+          "en": "During the second instance, where the people's procuratorate or the defendant and his defender submit new evidence, the people's court shall promptly notify the other side to consult, take notes from or copy it."
+        },
+        "noLabel": {
+          "en": "Article 395."
+        },
+        "chapter": {
+          "en": "Chapter XV Second-Instance Procedure"
+        }
+      },
+      {
+        "no": 396,
+        "text": {
+          "en": "Where a case of public prosecution at second instance is to be tried at a hearing, the people's procuratorate shall be notified promptly after the decision to hold a hearing so that it may consult the case file. From the day following the notification, the time taken by the people's procuratorate to consult the case file shall not be counted in the time limit for trial."
+        },
+        "noLabel": {
+          "en": "Article 396."
+        },
+        "chapter": {
+          "en": "Chapter XV Second-Instance Procedure"
+        }
+      },
+      {
+        "no": 397,
+        "text": {
+          "en": "Where a case of public prosecution on appeal or protest is tried at a hearing, the people's procuratorate at the same level shall be notified to send personnel to appear in court.\nIn a case of protest, where the people's procuratorate, after receiving the notice of hearing, does not send personnel to appear in court and does not state the reasons, the people's court may rule that the case be treated as a withdrawal of the protest by the people's procuratorate."
+        },
+        "noLabel": {
+          "en": "Article 397."
+        },
+        "chapter": {
+          "en": "Chapter XV Second-Instance Procedure"
+        }
+      },
+      {
+        "no": 398,
+        "text": {
+          "en": "Where a case on appeal or protest is tried at a hearing, in addition to the relevant provisions on the procedure of first instance being applied by reference, the hearing shall be conducted in accordance with the following provisions:\n(1) at the stage of court investigation, after the judicial officers have read out the written judgment or ruling of first instance, in a case on appeal the appellant or the defender shall first read out the petition of appeal or state the grounds of appeal, and in a case of protest the procuratorial officer shall first read out the written protest; in a case in which there is both an appeal and a protest, the procuratorial officer shall first read out the written protest and then the appellant or the defender shall read out the petition of appeal or state the grounds of appeal;\n(2) at the stage of court debate, in a case on appeal the appellant and the defender shall first speak and then the procuratorial officer and the agent ad litem shall speak; in a case of protest the procuratorial officer and the agent ad litem shall first speak and then the defendant and the defender shall speak; in a case in which there is both an appeal and a protest, the procuratorial officer and the agent ad litem shall first speak and then the appellant and the defender shall speak."
+        },
+        "noLabel": {
+          "en": "Article 398."
+        },
+        "chapter": {
+          "en": "Chapter XV Second-Instance Procedure"
+        }
+      },
+      {
+        "no": 399,
+        "text": {
+          "en": "Where a case on appeal or protest is tried at a hearing, the hearing may focus on the issues in dispute in the judgment or ruling of first instance or the parts in doubt. According to the circumstances of the case, the trial may be conducted in the following manner:\n(1) when reading out the written judgment of first instance, only the cause of action, the main facts, the names of the evidence and the operative part of the judgment may be read out;\n(2) the court investigation shall focus on the facts and evidence against which an objection is raised in respect of the judgment of first instance and on the new evidence; facts, evidence and circumstances to which there is no objection may be confirmed directly;\n(3) in a case tried jointly, a defendant who did not appeal and who has not been requested to appear in court and whom the people's court considers it unnecessary to bring into court may no longer be summoned to appear;\n(4) in a case in which the defendant has committed several crimes, the crimes with clear facts and to which there is no objection may not be tried at the hearing.\nIn a case tried jointly, where a defendant who did not appeal and against whose judgment the people's procuratorate did not lodge a protest requests to appear in court, this shall be permitted. A defendant who appears in court may participate in the court investigation and debate."
+        },
+        "noLabel": {
+          "en": "Article 399."
+        },
+        "chapter": {
+          "en": "Chapter XV Second-Instance Procedure"
+        }
+      },
+      {
+        "no": 400,
+        "text": {
+          "en": "Where a case of second instance is tried without a hearing in accordance with law, the defendant shall be interrogated and the opinions of the other parties, defenders and agents ad litem shall be heard. All the members of the collegial panel shall read the case file and, where necessary, submit written opinions on reading the case file."
+        },
+        "noLabel": {
+          "en": "Article 400."
+        },
+        "chapter": {
+          "en": "Chapter XV Second-Instance Procedure"
+        }
+      },
+      {
+        "no": 401,
+        "text": {
+          "en": "In trying a case on appeal filed by the defendant or by his statutory agent, defender or close relatives, the sentence imposed on the defendant shall not be altered in a manner substantively unfavourable to him, and the following provisions shall be observed:\n(1) in a case tried jointly in which only some defendants appealed, neither the sentence of the appellant nor the sentences of the other co-defendants may be increased;\n(2) where the charge determined in the original judgment is inappropriate, the charge may be changed, but the penalty may not be increased and no adverse effect may be produced on the execution of the penalty;\n(3) where the number of crimes determined in the original judgment is inappropriate, the number of crimes may be changed and the penalty adjusted, but the penalty determined to be executed may not be increased and no adverse effect may be produced on the execution of the penalty;\n(4) where the original judgment pronounced a suspended sentence on the defendant, the suspended sentence may not be revoked and the probation period may not be extended;\n(5) where the original judgment did not pronounce an occupational prohibition or a restraining order, they may not be added; where the original judgment pronounced an occupational prohibition or a restraining order, its content may not be added to and its duration may not be extended;\n(6) where the original judgment imposed a death sentence with a two-year suspension of execution on the defendant without restricting commutation or deciding on life imprisonment, commutation may not be restricted and life imprisonment may not be decided;\n(7) where the penalty imposed by the original judgment is inappropriate and an accessory penalty should have been applied but was not, the penalty may not be directly increased and the accessory penalty may not be directly applied. Where the penalty imposed by the original judgment is abnormally light and must be altered in accordance with law, the case shall be retried in accordance with the procedure for trial supervision after the judgment or ruling of second instance takes effect.\nA case in which the people's procuratorate lodges a protest or the private prosecutor appeals is not subject to the restriction of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 401."
+        },
+        "chapter": {
+          "en": "Chapter XV Second-Instance Procedure"
+        }
+      },
+      {
+        "no": 402,
+        "text": {
+          "en": "Where a people's procuratorate lodges a protest only against the judgment in respect of some defendants, or a private prosecutor appeals only against the judgment in respect of some defendants, the people's court of second instance may not increase the penalty of the other co-defendants."
+        },
+        "noLabel": {
+          "en": "Article 402."
+        },
+        "chapter": {
+          "en": "Chapter XV Second-Instance Procedure"
+        }
+      },
+      {
+        "no": 403,
+        "text": {
+          "en": "In a case in which the defendant or his statutory agent, defender or close relatives file an appeal and the people's procuratorate does not lodge a protest, after the people's court of second instance remands the case for retrial, the people's court of original trial may not increase the penalty of the defendant, except where there are new criminal facts and the people's procuratorate has added to the prosecution.\nIn a case provided in the preceding paragraph, where the people's procuratorate lodges a protest after the people's court of original trial has made a judgment in accordance with law in the case remanded for retrial on appeal, the people's court of second instance may not alter the judgment to a penalty heavier than that imposed by the people's court of original trial on the first occasion."
+        },
+        "noLabel": {
+          "en": "Article 403."
+        },
+        "chapter": {
+          "en": "Chapter XV Second-Instance Procedure"
+        }
+      },
+      {
+        "no": 404,
+        "text": {
+          "en": "Where the people's court of second instance considers that the facts in the judgment of first instance are unclear and the evidence is insufficient, it may alter the judgment after clarifying the facts, or may rule to revoke the original judgment and remand the case to the people's court of original trial for retrial.\nIn a case with several defendants, where the criminal facts of some defendants are unclear, the evidence against them is insufficient, or there are new criminal facts requiring prosecution, and the relevant crimes are not connected with the other co-defendants, the people's court of second instance may, according to the circumstances of the case, handle the cases of those defendants separately and remand those defendants to the people's court of original trial for retrial. After the people's court of original trial makes a new judgment, where the defendant appeals or the people's procuratorate lodges a protest and no judgment or ruling of second instance has yet been made in respect of the other defendants, the people's court of second instance may try the cases together."
+        },
+        "noLabel": {
+          "en": "Article 404."
+        },
+        "chapter": {
+          "en": "Chapter XV Second-Instance Procedure"
+        }
+      },
+      {
+        "no": 405,
+        "text": {
+          "en": "In a case in which the facts in the original judgment are unclear and the evidence is insufficient and which is remanded by the people's court of second instance for retrial, where the defendant appeals or the people's procuratorate lodges a protest after the people's court of original trial makes a new judgment, the people's court of second instance shall make a judgment or ruling in accordance with law and may not remand the case for retrial again."
+        },
+        "noLabel": {
+          "en": "Article 405."
+        },
+        "chapter": {
+          "en": "Chapter XV Second-Instance Procedure"
+        }
+      },
+      {
+        "no": 406,
+        "text": {
+          "en": "Where the people's court of second instance discovers that, in the course of the retrial, the people's court of original trial falls under any of the circumstances provided in Article 238 of the Criminal Procedure Law or violates the provisions of Article 239, it shall rule to revoke the original judgment and remand the case for retrial."
+        },
+        "noLabel": {
+          "en": "Article 406."
+        },
+        "chapter": {
+          "en": "Chapter XV Second-Instance Procedure"
+        }
+      },
+      {
+        "no": 407,
+        "text": {
+          "en": "Where the people's court of second instance tries a case in which an appeal or protest is filed against the criminal part and the civil part ancillary to the criminal proceedings has already taken effect in law, and discovers that the civil part ancillary to the criminal proceedings in the judgment or ruling of first instance is indeed erroneous, it shall correct the civil part ancillary to the criminal proceedings in accordance with the procedure for trial supervision."
+        },
+        "noLabel": {
+          "en": "Article 407."
+        },
+        "chapter": {
+          "en": "Chapter XV Second-Instance Procedure"
+        }
+      },
+      {
+        "no": 408,
+        "text": {
+          "en": "In a case of a civil action ancillary to criminal proceedings, where only the parties to the civil action ancillary to the criminal proceedings and their statutory agents appeal, the judgment on the criminal part of first instance shall take effect in law upon the expiry of the appeal period.\nWhere a criminal defendant of first instance who should be sent to prison to serve his sentence is a defendant in the civil action ancillary to the criminal proceedings at second instance, his transfer to prison for execution may be postponed until the case of the civil action ancillary to the criminal proceedings at second instance is concluded."
+        },
+        "noLabel": {
+          "en": "Article 408."
+        },
+        "chapter": {
+          "en": "Chapter XV Second-Instance Procedure"
+        }
+      },
+      {
+        "no": 409,
+        "text": {
+          "en": "Where the people's court of second instance tries a case in which an appeal is filed against the civil part ancillary to the criminal proceedings and the criminal part has already taken effect in law, it shall examine the whole case and deal with it respectively according to the following circumstances:\n(1) where the criminal part of the judgment of first instance is not improper, it need only deal with the civil part ancillary to the criminal proceedings;\n(2) where the criminal part of the judgment of first instance is indeed erroneous, it shall retry the criminal part in accordance with the procedure for trial supervision and try the civil part ancillary to the criminal proceedings together with the criminal part."
+        },
+        "noLabel": {
+          "en": "Article 409."
+        },
+        "chapter": {
+          "en": "Chapter XV Second-Instance Procedure"
+        }
+      },
+      {
+        "no": 410,
+        "text": {
+          "en": "During the second instance, where the plaintiff in the civil action ancillary to the criminal proceedings of first instance adds an independent claim or the defendant in the civil action ancillary to the criminal proceedings of first instance files a counterclaim, the people's court of second instance may conduct mediation on the principles of voluntariness and lawfulness; where mediation fails, the party shall be informed to bring a separate action."
+        },
+        "noLabel": {
+          "en": "Article 410."
+        },
+        "chapter": {
+          "en": "Chapter XV Second-Instance Procedure"
+        }
+      },
+      {
+        "no": 411,
+        "text": {
+          "en": "In respect of a case of private prosecution at second instance, mediation may be conducted where necessary, and the parties may also reach a settlement themselves. Where the case is concluded through mediation, a mediation statement shall be prepared, and the judgment or ruling of first instance shall be deemed to be automatically revoked. Where the parties reach a settlement themselves, the matter shall be dealt with in accordance with Article 329 of these Interpretations; where a ruling is made permitting withdrawal of the private prosecution, the judgment or ruling of first instance shall be revoked."
+        },
+        "noLabel": {
+          "en": "Article 411."
+        },
+        "chapter": {
+          "en": "Chapter XV Second-Instance Procedure"
+        }
+      },
+      {
+        "no": 412,
+        "text": {
+          "en": "During the second instance, where a party to a case of private prosecution files a counterclaim, he shall be informed to bring a separate action."
+        },
+        "noLabel": {
+          "en": "Article 412."
+        },
+        "chapter": {
+          "en": "Chapter XV Second-Instance Procedure"
+        }
+      },
+      {
+        "no": 413,
+        "text": {
+          "en": "The people's court of second instance may entrust the people's court of first instance to pronounce the judgment on its behalf and serve the written judgment or ruling of second instance on the parties. The people's court of first instance shall, within five days after pronouncing the judgment on behalf, deliver the record of pronouncement to the people's court of second instance and shall, promptly after completing service, deliver the acknowledgements of service to the people's court of second instance.\nWhere pronouncement is entrusted, the people's court of second instance shall serve the written judgment or ruling of second instance directly on the people's procuratorate at the same level.\nWhere the judgment or ruling of second instance is a final judgment or ruling, it shall take effect in law from the date of pronouncement."
+        },
+        "noLabel": {
+          "en": "Article 413."
+        },
+        "chapter": {
+          "en": "Chapter XV Second-Instance Procedure"
+        }
+      },
+      {
+        "no": 414,
+        "text": {
+          "en": "In respect of a case in which a penalty below the statutory minimum is imposed and which is reported to the Supreme People's Court for approval, the matter shall be dealt with respectively according to the following circumstances:\n(1) where the defendant did not appeal and the people's procuratorate did not lodge a protest, the case shall, within three days after the expiry of the appeal and protest period, be reported to the people's court at the next higher level for review. Where the people's court at the higher level agrees with the original judgment, it shall report the case in writing through the levels to the Supreme People's Court for approval; where it does not agree, it shall rule to remand the case for retrial or bring the case up for trial in accordance with the procedure of second instance;\n(2) where the defendant appeals or the people's procuratorate lodges a protest, and the people's court at the next higher level upholds the original judgment or, after altering the judgment, still imposes a penalty below the statutory minimum, it shall report the case through the levels to the Supreme People's Court for approval in accordance with the preceding item."
+        },
+        "noLabel": {
+          "en": "Article 414."
+        },
+        "chapter": {
+          "en": "Chapter XVI Approval of Sentencing Below the Statutory Penalty and of Special Parole"
+        }
+      },
+      {
+        "no": 415,
+        "text": {
+          "en": "In respect of a case meeting the provisions of Paragraph 2 of Article 63 of the Criminal Law, where the people's court of first instance did not impose a penalty below the statutory minimum, the people's court of second instance may impose a penalty below the statutory minimum and report the case through the levels to the Supreme People's Court for approval."
+        },
+        "noLabel": {
+          "en": "Article 415."
+        },
+        "chapter": {
+          "en": "Chapter XVI Approval of Sentencing Below the Statutory Penalty and of Special Parole"
+        }
+      },
+      {
+        "no": 416,
+        "text": {
+          "en": "In respect of a case in which a penalty below the statutory minimum is imposed and which is reported to the Supreme People's Court for approval, five copies each of the written judgment and of the report requesting approval, together with the entire case file and evidence, shall be submitted."
+        },
+        "noLabel": {
+          "en": "Article 416."
+        },
+        "chapter": {
+          "en": "Chapter XVI Approval of Sentencing Below the Statutory Penalty and of Special Parole"
+        }
+      },
+      {
+        "no": 417,
+        "text": {
+          "en": "In respect of a case in which a penalty below the statutory minimum is imposed, where the Supreme People's Court approves it, it shall make a written ruling of approval; where it does not approve it, it shall make a written ruling of non-approval and revoke the original judgment or ruling and remand the case to the people's court of original trial for retrial or designate another people's court at a lower level to conduct the retrial."
+        },
+        "noLabel": {
+          "en": "Article 417."
+        },
+        "chapter": {
+          "en": "Chapter XVI Approval of Sentencing Below the Statutory Penalty and of Special Parole"
+        }
+      },
+      {
+        "no": 418,
+        "text": {
+          "en": "In a case remanded to the people's court of second instance for retrial in accordance with Article 414 or Article 417 of these Interpretations, the people's court of second instance may directly alter the judgment; where it is necessary to clarify the facts, verify the evidence or correct a violation of procedure in the original trial through a hearing, it shall try the case at a hearing."
+        },
+        "noLabel": {
+          "en": "Article 418."
+        },
+        "chapter": {
+          "en": "Chapter XVI Approval of Sentencing Below the Statutory Penalty and of Special Parole"
+        }
+      },
+      {
+        "no": 419,
+        "text": {
+          "en": "The time limit for the Supreme People's Court and a people's court at a higher level to review a case in which a penalty below the statutory minimum is imposed shall be governed by reference to Article 243 of the Criminal Procedure Law."
+        },
+        "noLabel": {
+          "en": "Article 419."
+        },
+        "chapter": {
+          "en": "Chapter XVI Approval of Sentencing Below the Statutory Penalty and of Special Parole"
+        }
+      },
+      {
+        "no": 420,
+        "text": {
+          "en": "In respect of a case of parole not subject to the restriction of the term of execution because the criminal has special circumstances and which is reported to the Supreme People's Court for approval, the matter shall be dealt with respectively according to the following circumstances:\n(1) where an intermediate people's court makes a ruling of parole in accordance with law, it shall report the case to the people's court at a higher level for review. Where the people's court at a higher level agrees, it shall report the case in writing to the Supreme People's Court for approval; where it does not agree, it shall rule to revoke the ruling of parole of the intermediate people's court;\n(2) where a people's court at a higher level makes a ruling of parole in accordance with law, it shall report the case to the Supreme People's Court for approval."
+        },
+        "noLabel": {
+          "en": "Article 420."
+        },
+        "chapter": {
+          "en": "Chapter XVI Approval of Sentencing Below the Statutory Penalty and of Special Parole"
+        }
+      },
+      {
+        "no": 421,
+        "text": {
+          "en": "In respect of a case of parole not subject to the restriction of the term of execution because the criminal has special circumstances and which is reported to the Supreme People's Court for approval, five copies each of the report requesting approval, the report on the criminal's special circumstances and the written ruling of parole, together with the entire case file, shall be submitted."
+        },
+        "noLabel": {
+          "en": "Article 421."
+        },
+        "chapter": {
+          "en": "Chapter XVI Approval of Sentencing Below the Statutory Penalty and of Special Parole"
+        }
+      },
+      {
+        "no": 422,
+        "text": {
+          "en": "In respect of a case of parole not subject to the restriction of the term of execution because the criminal has special circumstances, where the Supreme People's Court approves it, it shall make a written ruling of approval; where it does not approve it, it shall make a written ruling of non-approval and revoke the original ruling."
+        },
+        "noLabel": {
+          "en": "Article 422."
+        },
+        "chapter": {
+          "en": "Chapter XVI Approval of Sentencing Below the Statutory Penalty and of Special Parole"
+        }
+      },
+      {
+        "no": 423,
+        "text": {
+          "en": "In respect of a case in which the death penalty is imposed and which is reported to the Supreme People's Court for approval, the matter shall be dealt with respectively according to the following circumstances:\n(1) in a case of first instance in which an intermediate people's court imposes the death penalty, where the defendant did not appeal and the people's procuratorate did not lodge a protest, the case shall, within ten days after the expiry of the appeal and protest period, be reported to the people's court at a higher level for review. Where the people's court at the higher level agrees to impose the death penalty, it shall, within ten days after making the ruling, report the case to the Supreme People's Court for approval; where it considers that a specific fact ascertained or a legal provision cited in the original judgment is defective but that imposing the death penalty on the defendant is not improper, it may, after correcting the defect, make a judgment or ruling of approval; where it does not agree to impose the death penalty, it shall bring the case up for trial in accordance with the procedure of second instance or remand it for retrial;\n(2) in a case of first instance in which an intermediate people's court imposes the death penalty, where the defendant appeals or the people's procuratorate lodges a protest and the people's court at a higher level rules to uphold the judgment, it shall, within ten days after making the ruling, report the case to the Supreme People's Court for approval;\n(3) in a case of first instance in which a people's court at a higher level imposes the death penalty, where the defendant did not appeal and the people's procuratorate did not lodge a protest, the case shall, within ten days after the expiry of the appeal and protest period, be reported to the Supreme People's Court for approval.\nWhere a people's court at a higher level reviews a death penalty case, it shall interrogate the defendant."
+        },
+        "noLabel": {
+          "en": "Article 423."
+        },
+        "chapter": {
+          "en": "Chapter XVII Review Procedure for Death Sentences"
+        }
+      },
+      {
+        "no": 424,
+        "text": {
+          "en": "In a case of first instance in which an intermediate people's court imposes a death sentence with a two-year suspension of execution, where the defendant did not appeal and the people's procuratorate did not lodge a protest, the case shall be reported to the people's court at a higher level for approval.\nWhere a people's court at a higher level reviews a case of a death sentence with a two-year suspension of execution, it shall interrogate the defendant."
+        },
+        "noLabel": {
+          "en": "Article 424."
+        },
+        "chapter": {
+          "en": "Chapter XVII Review Procedure for Death Sentences"
+        }
+      },
+      {
+        "no": 425,
+        "text": {
+          "en": "A case in which the death penalty or a death sentence with a two-year suspension of execution is imposed and which is reported for review shall be reported one case at a time. The materials submitted shall include five copies each of the report requesting review, the adjudicative documents of the first and second instances and the comprehensive report on the case, together with the entire case file and evidence. Electronic texts of the comprehensive report on the case, the adjudicative documents of the first and second instances and the report on the trial shall be attached.\nIn a case tried jointly, the entire case file and evidence shall be submitted.\nIn a case that has previously been remanded for retrial, the original case files of the first and second instances shall be submitted together."
+        },
+        "noLabel": {
+          "en": "Article 425."
+        },
+        "chapter": {
+          "en": "Chapter XVII Review Procedure for Death Sentences"
+        }
+      },
+      {
+        "no": 426,
+        "text": {
+          "en": "A report requesting review of a death penalty or a death sentence with a two-year suspension of execution shall state the cause of action, a brief account of the case, the course of the trial and the outcome of the judgment.\nThe comprehensive report on the case shall include the following:\n(1) the basic circumstances of the defendant and the victim. Where the defendant has a criminal record or has previously been subjected to administrative punishment or sanction, this shall be stated;\n(2) the origin of the case and the course of the trial. Where the case has previously been remanded for retrial, the reasons for, the time of and the case number of the remand shall be stated;\n(3) the circumstances of solving the case. Where the defendant was apprehended or the case was solved through technical investigation or detection measures, and circumstances relating to the determination of surrender or meritorious service, this shall be stated;\n(4) the circumstances of the trial at first instance, including the opinions of the prosecution and the defence, the criminal facts ascertained at first instance and the opinions of the collegial panel and the judicial committee;\n(5) the circumstances of the trial at second instance or of the review by the people's court at a higher level, including the grounds of appeal, the opinions of the people's procuratorate, the facts ascertained at the trial at second instance or in the review by the people's court at a higher level, the circumstances and reasons for admitting the evidence, and the opinions of the prosecution and the defence and whether they were adopted;\n(6) issues requiring explanation, including the handling of co-offenders dealt with in separate cases in a joint crime case, whether the case has a major social impact, and the reactions of the parties;\n(7) the recommended disposition, stating the opinions of the collegial panel and the judicial committee."
+        },
+        "noLabel": {
+          "en": "Article 426."
+        },
+        "chapter": {
+          "en": "Chapter XVII Review Procedure for Death Sentences"
+        }
+      },
+      {
+        "no": 427,
+        "text": {
+          "en": "In reviewing a case of the death penalty or a death sentence with a two-year suspension of execution, the following shall be comprehensively examined:\n(1) the age of the defendant, whether the defendant has criminal responsibility and whether the defendant is a pregnant woman;\n(2) whether the facts ascertained in the original judgment are clear and the evidence is reliable and sufficient;\n(3) the circumstances, consequences and degree of harm of the crime;\n(4) whether the law applied in the original judgment is correct, whether the death penalty must be imposed and whether it must be executed immediately;\n(5) whether there are statutory or discretionary circumstances of heavier, lighter or mitigated punishment;\n(6) whether the procedure is lawful;\n(7) other circumstances that should be examined.\nIn reviewing a case of the death penalty or a death sentence with a two-year suspension of execution, importance shall be attached to examining the defence and defence opinions of the defendant and his defender."
+        },
+        "noLabel": {
+          "en": "Article 427."
+        },
+        "chapter": {
+          "en": "Chapter XVII Review Procedure for Death Sentences"
+        }
+      },
+      {
+        "no": 428,
+        "text": {
+          "en": "Where a people's court at a higher level reviews a case of a death sentence with a two-year suspension of execution, it shall deal with the matter respectively according to the following circumstances:\n(1) where the original judgment correctly ascertains the facts and applies the law, the sentence is appropriate and the procedure is lawful, it shall rule to approve;\n(2) where a specific fact ascertained or a legal provision cited in the original judgment is defective but imposing the death sentence with a two-year suspension of execution on the defendant is not improper, it may, after correcting the defect, make a judgment or ruling of approval;\n(3) where the original judgment correctly ascertains the facts but errs in the application of law, or the sentence is too heavy, it shall alter the judgment;\n(4) where the facts in the original judgment are unclear and the evidence is insufficient, it may rule not to approve and revoke the original judgment and remand the case for retrial, or alter the judgment in accordance with law;\n(5) where new facts or evidence affecting conviction and sentencing emerge during the review, it may rule not to approve and revoke the original judgment and remand the case for retrial, or alter the judgment in accordance with law after trying the case in accordance with Article 271 of these Interpretations;\n(6) where the original trial violated statutory procedure and may have affected the impartial trial, it shall rule not to approve and revoke the original judgment and remand the case for retrial.\nIn reviewing a case of a death sentence with a two-year suspension of execution, the penalty of the defendant may not be increased."
+        },
+        "noLabel": {
+          "en": "Article 428."
+        },
+        "chapter": {
+          "en": "Chapter XVII Review Procedure for Death Sentences"
+        }
+      },
+      {
+        "no": 429,
+        "text": {
+          "en": "Where the Supreme People's Court reviews a death penalty case, it shall deal with the matter respectively according to the following circumstances:\n(1) where the original judgment correctly ascertains the facts and applies the law, the sentence is appropriate and the procedure is lawful, it shall rule to approve;\n(2) where a specific fact ascertained or a legal provision cited in the original judgment is defective but imposing the death penalty on the defendant is not improper, it may, after correcting the defect, make a judgment or ruling of approval;\n(3) where the facts in the original judgment are unclear and the evidence is insufficient, it shall rule not to approve and revoke the original judgment and remand the case for retrial;\n(4) where new facts or evidence affecting conviction and sentencing emerge during the review, it shall rule not to approve and revoke the original judgment and remand the case for retrial;\n(5) where the original judgment correctly ascertains the facts and the evidence is sufficient but the death penalty should not be imposed in accordance with law, it shall rule not to approve and revoke the original judgment and remand the case for retrial; where necessary, according to the circumstances of the case, it may also alter the judgment in accordance with law;\n(6) where the original trial violated statutory procedure and may have affected the impartial trial, it shall rule not to approve and revoke the original judgment and remand the case for retrial."
+        },
+        "noLabel": {
+          "en": "Article 429."
+        },
+        "chapter": {
+          "en": "Chapter XVII Review Procedure for Death Sentences"
+        }
+      },
+      {
+        "no": 430,
+        "text": {
+          "en": "Where the Supreme People's Court rules not to approve the death penalty, it may, according to the circumstances of the case, remand the case to the people's court of second instance or to the people's court of first instance for retrial.\nIn a case remanded by the Supreme People's Court to the people's court of second instance for retrial, the people's court of second instance shall in general not remand the case to the people's court of first instance for retrial.\nWhere the people's court of first instance conducts the retrial, it shall try the case at a hearing. Where the people's court of second instance conducts the retrial, it may directly alter the judgment; where it is necessary to clarify the facts, verify the evidence or correct a violation of procedure in the original trial through a hearing, it shall try the case at a hearing."
+        },
+        "noLabel": {
+          "en": "Article 430."
+        },
+        "chapter": {
+          "en": "Chapter XVII Review Procedure for Death Sentences"
+        }
+      },
+      {
+        "no": 431,
+        "text": {
+          "en": "Where a people's court at a higher level, after trying a case under the review procedure, reports the death penalty to the Supreme People's Court for approval, and the Supreme People's Court rules not to approve and remands the case to the people's court at the higher level for retrial, the people's court at the higher level may bring the case up for trial in accordance with the procedure of second instance or remand it for retrial."
+        },
+        "noLabel": {
+          "en": "Article 431."
+        },
+        "chapter": {
+          "en": "Chapter XVII Review Procedure for Death Sentences"
+        }
+      },
+      {
+        "no": 432,
+        "text": {
+          "en": "In a case in which the Supreme People's Court rules not to approve the death penalty and remands it for retrial, the people's court of original trial shall form a separate collegial panel to conduct the trial, except in a case provided in Item 4 or Item 5 of Article 429 of these Interpretations."
+        },
+        "noLabel": {
+          "en": "Article 432."
+        },
+        "chapter": {
+          "en": "Chapter XVII Review Procedure for Death Sentences"
+        }
+      },
+      {
+        "no": 433,
+        "text": {
+          "en": "In a case remanded for retrial in accordance with Article 430 or Article 431 of these Interpretations, where the people's court of first instance imposes the death penalty or a death sentence with a two-year suspension of execution, the people's court at the next higher level shall, after trying the case under the procedure of second instance or the review procedure, make a judgment or ruling in accordance with law and may not remand the case for retrial again. However, this does not apply where the people's court of first instance falls under a circumstance provided in Article 238 of the Criminal Procedure Law or violates the provisions of Article 239 of the Criminal Procedure Law."
+        },
+        "noLabel": {
+          "en": "Article 433."
+        },
+        "chapter": {
+          "en": "Chapter XVII Review Procedure for Death Sentences"
+        }
+      },
+      {
+        "no": 434,
+        "text": {
+          "en": "During the review of a death penalty case, where defence counsel requests to present his opinions in person, the relevant collegial panel of the Supreme People's Court shall hear his opinions at its office premises and make a record; where defence counsel submits written opinions, they shall be placed in the file."
+        },
+        "noLabel": {
+          "en": "Article 434."
+        },
+        "chapter": {
+          "en": "Chapter XVII Review Procedure for Death Sentences"
+        }
+      },
+      {
+        "no": 435,
+        "text": {
+          "en": "During the review of a death penalty case, where the Supreme People's Procuratorate presents opinions, the Supreme People's Court shall examine them and give feedback to the Supreme People's Procuratorate on whether and why they were adopted."
+        },
+        "noLabel": {
+          "en": "Article 435."
+        },
+        "chapter": {
+          "en": "Chapter XVII Review Procedure for Death Sentences"
+        }
+      },
+      {
+        "no": 436,
+        "text": {
+          "en": "The Supreme People's Court shall, in accordance with the relevant provisions, notify the Supreme People's Procuratorate of the outcome of the review of death penalty cases."
+        },
+        "noLabel": {
+          "en": "Article 436."
+        },
+        "chapter": {
+          "en": "Chapter XVII Review Procedure for Death Sentences"
+        }
+      },
+      {
+        "no": 437,
+        "text": {
+          "en": "A people's court shall keep the property involved in the case that has been sealed up, distrained or frozen and its fruits in proper custody, make a list and place it in the file for reference; in respect of physical items transferred with the case by the people's procuratorate, it shall keep them in proper custody after verification against the list. No unit or individual may misappropriate or dispose of them on their own.\nIn sealing up property such as immovable property, vehicles, vessels and aircraft, the certificates of rights shall be seized, the property shall be sealed up in situ after being photographed or recorded, or handed over to the holder or to a close relative of the defendant for custody, and the name, model, ownership, address and other detailed information of the property shall be registered and stated, and the registration and administration department of the property shall be notified to complete the formalities for registration of the sealing up.\nIn seizing items, the name, model, specifications, quantity, weight, quality, fineness, purity, colour, degree of wear, characteristics of damage and source of the items shall be registered and stated. In seizing currency and negotiable instruments, the name, amount and face value of the currency and negotiable instruments shall be registered and stated, and the currency shall be deposited in a special bank account, and the name and content of the bank deposit certificate shall be registered. In seizing valuable items such as cultural relics, gold and silver, jewellery and precious calligraphy and paintings, and prohibited articles, photographs shall be taken and, where appraisal is required, appraisal shall be conducted promptly. The seized items shall be valued promptly in accordance with the relevant provisions.\nIn freezing property such as deposits, remittances, bonds, shares and fund units, the serial number, category, face value, number of items and amount shall be registered and stated."
+        },
+        "noLabel": {
+          "en": "Article 437."
+        },
+        "chapter": {
+          "en": "Chapter XVIII Handling of Property Involved in Cases"
+        }
+      },
+      {
+        "no": 438,
+        "text": {
+          "en": "In respect of the lawful property of the victim, where the ownership is clear, it shall be returned promptly in accordance with law, provided that it has been photographed, appraised and valued, that the reasons for the return are noted in the case file, and that photographs of the original items, the list and the victim's receipt formalities are placed in the file for reference; where the ownership is unclear, it shall be returned to the victim in proportion after the judgment or ruling of the people's court takes effect, provided that the part already returned or compensated shall be deducted."
+        },
+        "noLabel": {
+          "en": "Article 438."
+        },
+        "chapter": {
+          "en": "Chapter XVIII Handling of Property Involved in Cases"
+        }
+      },
+      {
+        "no": 439,
+        "text": {
+          "en": "During the trial, in respect of property that is unsuitable for long-term preservation, liable to depreciation or subject to large fluctuations in market price, or instruments whose period of validity is about to expire, the people's court may, upon the application or with the consent of the person entitled and with the approval of the president of the court, dispose of them in advance in accordance with law, and the proceeds shall be kept by the people's court.\nThe advance disposition of property involved in a case shall be conducted in accordance with law, openly and fairly."
+        },
+        "noLabel": {
+          "en": "Article 439."
+        },
+        "chapter": {
+          "en": "Chapter XVIII Handling of Property Involved in Cases"
+        }
+      },
+      {
+        "no": 440,
+        "text": {
+          "en": "Physical items used as evidence shall be transferred with the case. After the pronouncement of the judgment or ruling of first instance, where the defendant appeals or the people's procuratorate lodges a protest, the people's court of first instance shall transfer the above evidence to the people's court of second instance."
+        },
+        "noLabel": {
+          "en": "Article 440."
+        },
+        "chapter": {
+          "en": "Chapter XVIII Handling of Property Involved in Cases"
+        }
+      },
+      {
+        "no": 441,
+        "text": {
+          "en": "Where physical items are not transferred with the case, the following shall be examined respectively according to the circumstances:\n(1) for bulky items inconvenient to move, whether the list of sealing up and seizure has been transferred with the case, together with photographs of the original items and the formalities of sealing, and whether the place of storage is stated;\n(2) for items liable to rot, mould or difficult to keep, whether, after the organ that sealed them up or seized them has sold them off, photographs of the original items, the list and the vouchers for the disposal at a changed price (photocopies) have been transferred with the case;\n(3) for firearms and ammunition, highly toxic substances, inflammable and explosive substances and other prohibited or dangerous articles, whether, after the organ that sealed them up or seized them has disposed of them in accordance with the relevant provisions, photographs of the original items and the list have been transferred with the case.\nIn respect of the above physical items not transferred with the case which should be appraised or valued in accordance with law, it shall also be examined whether expert opinions or valuations are attached.\nIn respect of currency, negotiable instruments and the like that have been sealed up or seized, where the physical items have not been transferred, it shall be examined whether photographs of the original items, the list or other supporting documents are attached."
+        },
+        "noLabel": {
+          "en": "Article 441."
+        },
+        "chapter": {
+          "en": "Chapter XVIII Handling of Property Involved in Cases"
+        }
+      },
+      {
+        "no": 442,
+        "text": {
+          "en": "In the course of the court hearing, the property sealed up, distrained or frozen and its fruits shall be examined in accordance with law in accordance with Article 279 of these Interpretations."
+        },
+        "noLabel": {
+          "en": "Article 442."
+        },
+        "chapter": {
+          "en": "Chapter XVIII Handling of Property Involved in Cases"
+        }
+      },
+      {
+        "no": 443,
+        "text": {
+          "en": "Where a defendant uses property involved in the case that should be recovered in accordance with law for investment or the purchase of property, the property and proceeds thereby formed shall be recovered.\nWhere a defendant uses property involved in the case that should be recovered in accordance with law together with other lawful property for investment or the purchase of property, the share of the property and proceeds thereby formed corresponding to the property involved in the case shall be recovered."
+        },
+        "noLabel": {
+          "en": "Article 443."
+        },
+        "chapter": {
+          "en": "Chapter XVIII Handling of Property Involved in Cases"
+        }
+      },
+      {
+        "no": 444,
+        "text": {
+          "en": "In respect of property sealed up, distrained or frozen and its fruits, the name, amount, quantity, place of storage and manner of handling shall be stated in the written judgment. Where there is a relatively large amount of property involved in the case and it is inappropriate to list it in detail in the operative part of the judgment, a list may be attached.\nWhere the judgment orders recovery of illegal gains or return or compensation, the amount to be recovered, returned or compensated or the names and quantities of the property shall be stated; where property has already been returned, this shall be stated in the written judgment."
+        },
+        "noLabel": {
+          "en": "Article 444."
+        },
+        "chapter": {
+          "en": "Chapter XVIII Handling of Property Involved in Cases"
+        }
+      },
+      {
+        "no": 445,
+        "text": {
+          "en": "Where, upon examination, the property sealed up, distrained or frozen and its fruits are indeed illegal gains or other property involved in the case that should be recovered in accordance with law, the judgment shall order that they be returned to the victim or confiscated and turned over to the State treasury, except where the law provides otherwise.\nIn respect of illegal gains that have not been recovered or not returned or compensated in full at the time of the judgment, the judgment shall order continued recovery or continued return or compensation.\nWhere the judgment orders the return of property involved in the case to the victim, the victim shall be notified to claim it; where no one claims it, a public announcement shall be made; where no one claims it after one year of public announcement, it shall be turned over to the State treasury; where, after it has been turned over to the State treasury, a person claims it and the claim is verified, an application shall be made for withdrawal from the treasury for return; where the original items have been auctioned or sold off, the price shall be returned.\nIn a case infringing State-owned property, where the victim unit has been terminated and there is no successor to its rights and obligations, or where the loss has been written off, the property sealed up, distrained or frozen and its fruits shall be turned over to the State treasury."
+        },
+        "noLabel": {
+          "en": "Article 445."
+        },
+        "chapter": {
+          "en": "Chapter XVIII Handling of Property Involved in Cases"
+        }
+      },
+      {
+        "no": 446,
+        "text": {
+          "en": "During the second instance, where it is discovered that the judgment of first instance did not deal with the property involved in the case and its fruits transferred with the case, the court may rule to revoke the original judgment and remand the case to the people's court of original trial for retrial, and the people's court of original trial shall deal with the property involved in the case and its fruits together in accordance with law.\nWhere, after the judgment takes effect, it is discovered that the original judgment did not deal with the property involved in the case and its fruits transferred with the case, the people's court of original trial shall deal with the property involved in the case and its fruits separately in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 446."
+        },
+        "chapter": {
+          "en": "Chapter XVIII Handling of Property Involved in Cases"
+        }
+      },
+      {
+        "no": 447,
+        "text": {
+          "en": "The property transferred with the case or sealed up or seized by the people's court and its fruits shall be handled by the people's court of first instance after the judgment takes effect.\nWhere physical items have not been transferred with the case and are kept by the seizing organ, the people's court shall, within ten days after the judgment takes effect, serve the written judgment and ruling on the seizing organ and inform it to return the receipt of execution within one month; where this truly cannot be completed on time for objective reasons, the reasons shall be stated."
+        },
+        "noLabel": {
+          "en": "Article 447."
+        },
+        "chapter": {
+          "en": "Chapter XVIII Handling of Property Involved in Cases"
+        }
+      },
+      {
+        "no": 448,
+        "text": {
+          "en": "Where a judgment orders the confiscation of frozen property such as deposits, remittances, bonds, shares and fund units, the people's court of first instance shall, after the judgment takes effect, serve the written judgment and ruling on the relevant financial institution and the finance department, notify the relevant financial institution to turn the property over to the State treasury in accordance with law and, within 15 days after receipt of the notice of execution, return the voucher for turning the property over to the State treasury and the receipt of execution."
+        },
+        "noLabel": {
+          "en": "Article 448."
+        },
+        "chapter": {
+          "en": "Chapter XVIII Handling of Property Involved in Cases"
+        }
+      },
+      {
+        "no": 449,
+        "text": {
+          "en": "Where property sealed up, distrained or frozen is unrelated to the case but has been included in the list, it shall be dealt with in accordance with law by the organ that sealed it up, distrained it or froze it.\nWhere property sealed up, distrained or frozen lawfully belongs to the defendant, it shall be returned to the defendant promptly after compensation for the victim's loss and execution of the property penalty."
+        },
+        "noLabel": {
+          "en": "Article 449."
+        },
+        "chapter": {
+          "en": "Chapter XVIII Handling of Property Involved in Cases"
+        }
+      },
+      {
+        "no": 450,
+        "text": {
+          "en": "In respect of the sealing up, distraint and freezing of property and its handling, where these Interpretations contain no provision, the relevant provisions of other judicial interpretations shall apply by reference."
+        },
+        "noLabel": {
+          "en": "Article 450."
+        },
+        "chapter": {
+          "en": "Chapter XVIII Handling of Property Involved in Cases"
+        }
+      },
+      {
+        "no": 451,
+        "text": {
+          "en": "Where a party, his statutory agent or a close relative lodges an appeal petition against a judgment or ruling that has already taken effect in law, the people's court shall examine and deal with it.\nWhere a person not a party to the case considers that a judgment or ruling that has already taken effect in law infringes his lawful rights and interests and lodges an appeal petition, the people's court shall examine and deal with it.\nAn appeal petition may be lodged through an entrusted lawyer."
+        },
+        "noLabel": {
+          "en": "Article 451."
+        },
+        "chapter": {
+          "en": "Chapter XIX Trial Supervision Procedure"
+        }
+      },
+      {
+        "no": 452,
+        "text": {
+          "en": "To lodge an appeal petition with a people's court, the following materials shall be submitted:\n(1) a written appeal petition, which shall state the basic circumstances and means of contact of the party and the facts and reasons for the appeal petition;\n(2) legal documents such as the written judgments and rulings of the original first and second instances. Where the case has been reviewed or retried by a people's court, the notice of rejection of the appeal petition, the written decision on retrial and the written judgment or ruling on retrial shall be attached;\n(3) other relevant materials. Where the appeal petition is lodged on the ground that new evidence proves that the facts ascertained in the original judgment or ruling are indeed erroneous, the relevant evidentiary materials shall be attached at the same time; where an application is made for the people's court to investigate and obtain evidence, the relevant leads or materials shall be attached.\nWhere an appeal petition complies with the preceding paragraph, the people's court shall issue a receipt for the appeal materials. Where it does not comply, the people's court shall inform the petitioner to supplement the materials; where the petitioner refuses to supplement the necessary materials without justified reasons, the petition shall not be examined."
+        },
+        "noLabel": {
+          "en": "Article 452."
+        },
+        "chapter": {
+          "en": "Chapter XIX Trial Supervision Procedure"
+        }
+      },
+      {
+        "no": 453,
+        "text": {
+          "en": "An appeal petition shall be examined and handled by the people's court of final instance. However, in a case in which the people's court of second instance ruled to permit withdrawal of the appeal and the petitioner lodges an appeal petition against the judgment of first instance, it may be examined and handled by the people's court of first instance.\nIn respect of an appeal petition that has not been examined and handled by the people's court of final instance, the people's court at the next higher level may inform the petitioner to lodge the appeal petition with the people's court of final instance, or may directly refer it to the people's court of final instance for examination and handling and inform the petitioner; where the case is difficult, complex and major, it may also examine and handle it directly.\nWhere an appeal petition is lodged directly with a people's court at a higher level without having been examined and handled by the people's court of final instance and the people's court at the next higher level, the people's court at the higher level shall inform the petitioner to lodge it with the people's court at a lower level."
+        },
+        "noLabel": {
+          "en": "Article 453."
+        },
+        "chapter": {
+          "en": "Chapter XIX Trial Supervision Procedure"
+        }
+      },
+      {
+        "no": 454,
+        "text": {
+          "en": "The Supreme People's Court or a people's court at a higher level may designate a people's court other than the people's court of final instance to examine an appeal petition. After examination, the designated people's court shall prepare an examination report, put forward its recommended disposition and report the matter through the levels to the Supreme People's Court or the people's court at the higher level for examination and handling."
+        },
+        "noLabel": {
+          "en": "Article 454."
+        },
+        "chapter": {
+          "en": "Chapter XIX Trial Supervision Procedure"
+        }
+      },
+      {
+        "no": 455,
+        "text": {
+          "en": "An appeal petition in a death penalty case may be examined and handled directly by the people's court that originally approved the penalty, or may be referred to the people's court of original trial for examination. The people's court of original trial shall prepare an examination report, put forward its recommended disposition and report the matter through the levels to the people's court that originally approved the penalty for examination and handling."
+        },
+        "noLabel": {
+          "en": "Article 455."
+        },
+        "chapter": {
+          "en": "Chapter XIX Trial Supervision Procedure"
+        }
+      },
+      {
+        "no": 456,
+        "text": {
+          "en": "In respect of an appeal petition case docketed for examination, the people's court may hear the opinions of the parties and of the organ that originally handled the case, and may also verify the evidence on which the original judgment based conviction and sentencing and the new evidence. Where necessary, it may hold a hearing."
+        },
+        "noLabel": {
+          "en": "Article 456."
+        },
+        "chapter": {
+          "en": "Chapter XIX Trial Supervision Procedure"
+        }
+      },
+      {
+        "no": 457,
+        "text": {
+          "en": "In respect of an appeal petition case docketed for examination, a decision shall be made within three months and no later than six months. Where the time limit for examination needs to be extended because the case is difficult, complex and major or for other special reasons, the matter shall be dealt with by reference to Article 210 of these Interpretations.\nWhere, upon examination, any of the following circumstances exists, a decision to retry the case shall be made in accordance with Article 253 of the Criminal Procedure Law:\n(1) new evidence proves that the facts ascertained in the original judgment or ruling are indeed erroneous and may affect conviction and sentencing;\n(2) the evidence on which conviction and sentencing are based is unreliable or insufficient, or should be excluded in accordance with law;\n(3) there are contradictions between the main evidence proving the facts of the case;\n(4) the main factual basis has been altered or revoked in accordance with law;\n(5) the determination of the charge is erroneous;\n(6) the sentence is manifestly inappropriate;\n(7) the handling of illegal gains or other property involved in the case is indeed manifestly erroneous;\n(8) the provisions of law on retroactive effect are violated;\n(9) statutory procedure is violated and the impartiality of the adjudication may be affected;\n(10) the judicial officer committed embezzlement, accepted bribes, practised favouritism and irregularities or perverted the law in adjudication when trying the case.\nWhere the appeal petition does not exhibit the above circumstances, the petitioner shall be persuaded to withdraw the appeal petition; where he still insists on the appeal petition, he shall be notified in writing of its rejection."
+        },
+        "noLabel": {
+          "en": "Article 457."
+        },
+        "chapter": {
+          "en": "Chapter XIX Trial Supervision Procedure"
+        }
+      },
+      {
+        "no": 458,
+        "text": {
+          "en": "Evidence which, in any of the following circumstances, may alter the facts on which the original judgment or ruling based conviction and sentencing shall be determined to be \"new evidence\" as provided in Item 1 of Article 253 of the Criminal Procedure Law:\n(1) evidence newly discovered after the original judgment or ruling took effect;\n(2) evidence already discovered before the original judgment or ruling took effect but not collected;\n(3) evidence already collected before the original judgment or ruling took effect but not cross-examined;\n(4) expert opinions, records of inspection and examination and the like on which the original judgment or ruling was based have been altered or negated;\n(5) the defendant's statements, witness testimony and other evidence on which the original judgment or ruling was based have changed, affecting conviction and sentencing, and there are reasonable grounds."
+        },
+        "noLabel": {
+          "en": "Article 458."
+        },
+        "chapter": {
+          "en": "Chapter XIX Trial Supervision Procedure"
+        }
+      },
+      {
+        "no": 459,
+        "text": {
+          "en": "Where a petitioner refuses to accept the rejection of his appeal petition, he may lodge an appeal petition with the people's court at the next higher level. Where, upon examination, the people's court at the next higher level considers that the appeal petition does not comply with the provisions of Article 253 of the Criminal Procedure Law and Paragraph 2 of Article 457 of these Interpretations, it shall persuade the petitioner to withdraw the appeal petition; where he still insists on the appeal petition, it shall reject it or notify him that the case will not be retried."
+        },
+        "noLabel": {
+          "en": "Article 459."
+        },
+        "chapter": {
+          "en": "Chapter XIX Trial Supervision Procedure"
+        }
+      },
+      {
+        "no": 460,
+        "text": {
+          "en": "Where the president of a people's court at any level discovers that a judgment or ruling of his court that has already taken effect in law is indeed erroneous, he shall submit the matter to the judicial committee for discussion and decision on whether to retry the case."
+        },
+        "noLabel": {
+          "en": "Article 460."
+        },
+        "chapter": {
+          "en": "Chapter XIX Trial Supervision Procedure"
+        }
+      },
+      {
+        "no": 461,
+        "text": {
+          "en": "Where a people's court at a higher level discovers that a judgment or ruling of a people's court at a lower level that has already taken effect in law is indeed erroneous, it may direct the people's court at the lower level to retry the case; where the original judgment or ruling correctly ascertains the facts but errs in the application of law, or where the case is difficult, complex and major, or where there are circumstances making it inappropriate for the people's court of original trial to conduct the trial, it may also bring the case up for trial.\nWhere a people's court at a higher level directs a people's court at a lower level to retry a case, it shall in general direct a people's court at a lower level other than the people's court of original trial to conduct the trial; where trial by the people's court of original trial is more conducive to ascertaining the facts of the case and correcting the error in the adjudication, it may direct the people's court of original trial to conduct the trial."
+        },
+        "noLabel": {
+          "en": "Article 461."
+        },
+        "chapter": {
+          "en": "Chapter XIX Trial Supervision Procedure"
+        }
+      },
+      {
+        "no": 462,
+        "text": {
+          "en": "In respect of a case in which a people's procuratorate lodges a protest in accordance with the procedure for trial supervision, the people's court shall docket the case within one month after receipt of the written protest. However, where any of the following circumstances exists, the matter shall be dealt with according to the different circumstances:\n(1) where the case does not fall within the jurisdiction of the court, it shall be returned to the people's procuratorate;\n(2) where the written protest cannot be served on the defendant of the original trial against whom the protest is lodged at the address provided in the written protest, the people's procuratorate shall be notified to provide a new address of the defendant of the original trial within three days; where it fails to provide one within the time limit, the case shall be returned to the people's procuratorate;\n(3) where the protest is lodged on the ground of new evidence but the relevant evidentiary materials are not attached, or the relevant evidence does not go to the facts of the original prosecution, the people's procuratorate shall be notified to submit the relevant materials within three days; where it fails to do so within the time limit, the case shall be returned to the people's procuratorate.\nIn a case of protest that is returned, where the people's procuratorate lodges the protest again after supplementing the relevant materials and, upon examination, the conditions for acceptance are met, the people's court shall accept it."
+        },
+        "noLabel": {
+          "en": "Article 462."
+        },
+        "chapter": {
+          "en": "Chapter XIX Trial Supervision Procedure"
+        }
+      },
+      {
+        "no": 463,
+        "text": {
+          "en": "In respect of a case in which a people's procuratorate lodges a protest in accordance with the procedure for trial supervision, the people's court receiving the protest shall form a collegial panel to conduct the trial. Where the facts in the original judgment are unclear and the evidence is insufficient, including where new evidence proves that the original judgment may be erroneous, and it is necessary to direct a people's court at a lower level to retry the case, it shall make a decision within one month from the date of docketing the case and serve the written decision directing retrial on the protesting people's procuratorate."
+        },
+        "noLabel": {
+          "en": "Article 463."
+        },
+        "chapter": {
+          "en": "Chapter XIX Trial Supervision Procedure"
+        }
+      },
+      {
+        "no": 464,
+        "text": {
+          "en": "In respect of a case decided to be retried in accordance with the procedure for trial supervision, the people's court shall prepare a written decision on retrial. During the retrial, execution of the original judgment or ruling shall not be suspended, except that where the defendant may be adjudged not guilty on retrial, or where the penalty imposed by the original judgment may be mitigated on retrial so that the term of the penalty expires, it may decide to suspend execution of the original judgment or ruling and, where necessary, may take measures of release on guarantee pending trial or residential surveillance against the defendant."
+        },
+        "noLabel": {
+          "en": "Article 464."
+        },
+        "chapter": {
+          "en": "Chapter XIX Trial Supervision Procedure"
+        }
+      },
+      {
+        "no": 465,
+        "text": {
+          "en": "In a case retried in accordance with the procedure for trial supervision, the people's court shall focus its trial on the grounds of the appeal petition, the protest and the decision to retry. Where necessary, it shall conduct a comprehensive examination of the facts, evidence and application of law determined in the original judgment or ruling."
+        },
+        "noLabel": {
+          "en": "Article 465."
+        },
+        "chapter": {
+          "en": "Chapter XIX Trial Supervision Procedure"
+        }
+      },
+      {
+        "no": 466,
+        "text": {
+          "en": "Where the people's court of original trial tries a case retried in accordance with the procedure for trial supervision, it shall form a separate collegial panel.\nWhere the case was originally a case of first instance, it shall be tried in accordance with the procedure of first instance, and the judgment or ruling made may be appealed against or protested; where the case was originally a case of second instance, or is a case brought up for trial by a people's court at a higher level, it shall be tried in accordance with the procedure of second instance, and the judgment or ruling made shall be a final judgment or ruling.\nWhere the provisions of Article 296 and Article 297 of the Criminal Procedure Law are met, the case may be tried by default."
+        },
+        "noLabel": {
+          "en": "Article 466."
+        },
+        "chapter": {
+          "en": "Chapter XIX Trial Supervision Procedure"
+        }
+      },
+      {
+        "no": 467,
+        "text": {
+          "en": "In respect of a case retried in accordance with the procedure for trial supervision, where the people's court discovers in the course of trying the case under the procedure of first instance that the defendant of the original trial has committed other crimes, it shall in general try the cases together, but where separate trials are more appropriate, it may try them separately."
+        },
+        "noLabel": {
+          "en": "Article 467."
+        },
+        "chapter": {
+          "en": "Chapter XIX Trial Supervision Procedure"
+        }
+      },
+      {
+        "no": 468,
+        "text": {
+          "en": "Where a case of retrial is tried at a hearing and the written decision on retrial or the written protest is directed only against some of the defendants of the original trial, and the absence from court of the other co-defendants of the original trial does not affect the trial, they may not appear in court to participate in the proceedings."
+        },
+        "noLabel": {
+          "en": "Article 468."
+        },
+        "chapter": {
+          "en": "Chapter XIX Trial Supervision Procedure"
+        }
+      },
+      {
+        "no": 469,
+        "text": {
+          "en": "Except where a people's procuratorate lodges a protest, a retrial shall in general not increase the penalty of the defendant of the original trial. Where the written decision on retrial or the written protest is directed only against some of the defendants of the original trial, the penalty of the other co-defendants of the original trial may not be increased."
+        },
+        "noLabel": {
+          "en": "Article 469."
+        },
+        "chapter": {
+          "en": "Chapter XIX Trial Supervision Procedure"
+        }
+      },
+      {
+        "no": 470,
+        "text": {
+          "en": "Where a people's court tries a case of retrial in which a people's procuratorate lodges a protest and the people's procuratorate withdraws the protest before the hearing, it shall rule to permit the withdrawal; where the people's procuratorate, after receiving the notice of appearance in court, does not send personnel to appear in court and does not state the reasons, it may rule that the case be treated as a withdrawal of the protest and notify the participants in the proceedings.\nWhere a people's court tries a case of retrial upon the appeal petition of a petitioner and the petitioner withdraws the appeal petition during the retrial, it may rule to permit the withdrawal; however, where it considers that the original judgment is indeed erroneous, it shall not permit the withdrawal and shall continue to try the case as a case of retrial. Where the petitioner, having been lawfully notified, refuses to appear in court without justified reasons, or leaves the court midway without the permission of the court, it may rule that the case be treated as a withdrawal of the appeal petition, except where the petitioner is not a party to the original trial."
+        },
+        "noLabel": {
+          "en": "Article 470."
+        },
+        "chapter": {
+          "en": "Chapter XIX Trial Supervision Procedure"
+        }
+      },
+      {
+        "no": 471,
+        "text": {
+          "en": "In a case of retrial tried at a hearing, where the retrial was decided by the people's court, the members of the collegial panel shall read out the written decision on retrial; where the retrial results from a protest of a people's procuratorate, the procuratorial officer shall read out the written protest; where the retrial results from the appeal petition of a petitioner, the petitioner or his defender or agent ad litem shall state the grounds of the appeal petition."
+        },
+        "noLabel": {
+          "en": "Article 471."
+        },
+        "chapter": {
+          "en": "Chapter XIX Trial Supervision Procedure"
+        }
+      },
+      {
+        "no": 472,
+        "text": {
+          "en": "After a case of retrial has been retried, the matter shall be dealt with respectively according to the following circumstances:\n(1) where the original judgment or ruling correctly ascertains the facts and applies the law and the sentence is appropriate, it shall be ruled to reject the appeal petition or protest and uphold the original judgment or ruling;\n(2) where the original judgment or ruling accurately determines the charge and the sentence is appropriate but there are flaws in the ascertainment of facts or the application of law, it shall be ruled to correct the flaws and uphold the original judgment or ruling;\n(3) where the original judgment or ruling ascertains the facts without error but errs in the application of law or the sentence is inappropriate, it shall revoke the original judgment or ruling and alter the judgment in accordance with law;\n(4) in a case tried under the procedure of second instance, where the facts in the original judgment or ruling are unclear and the evidence is insufficient, it may alter the judgment after clarifying the facts, or may rule to revoke the original judgment and remand the case to the people's court of original trial for retrial.\nWhere the facts in the original judgment or ruling are unclear or the evidence is insufficient but the facts have been clarified through the trial, an adjudication shall be made in accordance with law on the basis of the clarified facts; where the facts still cannot be clarified and the evidence is insufficient so that the defendant cannot be determined to be guilty, it shall revoke the original judgment or ruling and make a judgment declaring the defendant not guilty."
+        },
+        "noLabel": {
+          "en": "Article 472."
+        },
+        "chapter": {
+          "en": "Chapter XIX Trial Supervision Procedure"
+        }
+      },
+      {
+        "no": 473,
+        "text": {
+          "en": "Where the original judgment or ruling contains an error in the name or other identity information of the defendant but correctly ascertains the facts and applies the law and the sentence is appropriate, the people's court that made the effective judgment or ruling may correct the relevant information by ruling."
+        },
+        "noLabel": {
+          "en": "Article 473."
+        },
+        "chapter": {
+          "en": "Chapter XIX Trial Supervision Procedure"
+        }
+      },
+      {
+        "no": 474,
+        "text": {
+          "en": "In respect of a party who is adjudged not guilty on retrial and who is entitled in accordance with law to apply for State compensation, the people's court shall, when pronouncing the judgment, inform him that he may apply for State compensation in accordance with law after the judgment takes effect in law."
+        },
+        "noLabel": {
+          "en": "Article 474."
+        },
+        "chapter": {
+          "en": "Chapter XIX Trial Supervision Procedure"
+        }
+      },
+      {
+        "no": 475,
+        "text": {
+          "en": "The criminal cases involving foreign elements referred to in these Interpretations mean:\n(1) cases in which, within the territory of the People's Republic of China, a foreigner commits a crime or a Chinese citizen commits a crime against a foreign country or a foreigner;\n(2) cases in which a Chinese citizen commits a crime outside the territory of the People's Republic of China in circumstances complying with Article 7 or Article 10 of the Criminal Law;\n(3) cases in which a foreigner commits a crime in circumstances complying with Article 8 or Article 10 of the Criminal Law;\n(4) cases in which the People's Republic of China exercises jurisdiction within the scope of the obligations it has assumed under international treaties, in circumstances complying with Article 9 of the Criminal Law."
+        },
+        "noLabel": {
+          "en": "Article 475."
+        },
+        "chapter": {
+          "en": "Section 1 Trial of Foreign-Related Criminal Cases"
+        }
+      },
+      {
+        "no": 476,
+        "text": {
+          "en": "Criminal cases involving foreign elements of first instance shall, except those provided in Article 21 to Article 23 of the Criminal Procedure Law, be under the jurisdiction of basic people's courts. Where necessary, an intermediate people's court may designate several basic people's courts within its jurisdiction to exercise centralised jurisdiction over criminal cases involving foreign elements of first instance, and may also, in accordance with Article 24 of the Criminal Procedure Law, try criminal cases involving foreign elements of first instance that are under the jurisdiction of basic people's courts."
+        },
+        "noLabel": {
+          "en": "Article 476."
+        },
+        "chapter": {
+          "en": "Section 1 Trial of Foreign-Related Criminal Cases"
+        }
+      },
+      {
+        "no": 477,
+        "text": {
+          "en": "The nationality of a foreigner shall be confirmed on the basis of the valid document he held on entry; where the nationality is unclear, it shall be confirmed on the basis of a certificate issued by the public security organ or by the embassy or consulate of the relevant country in China.\nWhere nationality cannot be ascertained, the person shall be treated as a stateless person, the relevant provisions of this Chapter shall apply, and \"nationality unknown\" shall be stated in the adjudicative document."
+        },
+        "noLabel": {
+          "en": "Article 477."
+        },
+        "chapter": {
+          "en": "Section 1 Trial of Foreign-Related Criminal Cases"
+        }
+      },
+      {
+        "no": 478,
+        "text": {
+          "en": "In criminal proceedings, a party of foreign nationality enjoys the procedural rights provided by the law of China and bears the corresponding obligations."
+        },
+        "noLabel": {
+          "en": "Article 478."
+        },
+        "chapter": {
+          "en": "Section 1 Trial of Foreign-Related Criminal Cases"
+        }
+      },
+      {
+        "no": 479,
+        "text": {
+          "en": "During the trial of a criminal case involving foreign elements, the people's court shall promptly notify the foreign affairs department of the people's government at the same level of the following matters and, in accordance with the relevant provisions, notify the embassy or consulate of the relevant country in China:\n(1) the circumstances of a decision of the people's court to take a compulsory measure against a defendant of foreign nationality, including the name (including the translated name), sex, time of entry, passport or document number, compulsory measure taken and its legal basis, and place of custody of the party of foreign nationality;\n(2) the time and place of the hearing and whether it is to be held in public;\n(3) the time and place of pronouncement of judgment.\nAfter the pronouncement of judgment in a criminal case involving foreign elements, the outcome shall be promptly notified to the foreign affairs department of the people's government at the same level.\nWhere the death penalty is executed on a defendant of foreign nationality, the embassy or consulate of his country of nationality in China shall be notified after the decision on the death penalty is issued and before execution.\nWhere a defendant of foreign nationality dies in the course of the trial of a case, the foreign affairs department of the people's government at the same level shall be promptly notified and the embassy or consulate of the relevant country in China shall be notified."
+        },
+        "noLabel": {
+          "en": "Article 479."
+        },
+        "chapter": {
+          "en": "Section 1 Trial of Foreign-Related Criminal Cases"
+        }
+      },
+      {
+        "no": 480,
+        "text": {
+          "en": "Where the embassy or consulate of the relevant country in China needs to be notified of a relevant matter, the matter shall be reported through the levels to the people's court at a higher level, which shall give the notification in accordance with the following provisions:\n(1) where the country of nationality of the party of foreign nationality has concluded a bilateral consular treaty with China, the matter shall be handled in accordance with the treaty; where it has not concluded a bilateral consular treaty with China but is a party to the Vienna Convention on Consular Relations, the matter shall be handled in accordance with the Convention; where it has neither concluded a consular treaty with China nor acceded to the Vienna Convention on Consular Relations but has diplomatic relations with China, the matter may, in accordance with the opinions of the foreign affairs department, be handled on the principle of reciprocity and in accordance with the relevant provisions and international practice;\n(2) for a criminal case involving foreign elements occurring within the consular district of a foreign consulate in China, the consulate of the relevant foreign country in that area shall be notified; for one occurring outside the consular district, the embassy of the relevant foreign country in China shall be notified; for a country that has diplomatic relations with China but has not established an embassy or consulate, the embassy or consulate in China of the country acting as its protecting power may be notified; where there is no protecting power or the protecting power is unknown, notification may be dispensed with;\n(3) where a bilateral consular treaty provides a time limit for notification, the notification shall be given within that time limit; where no time limit is provided, the notification shall be given as soon as possible in accordance with or by reference to the Vienna Convention on Consular Relations and international practice, and no later than seven days;\n(4) where a bilateral consular treaty does not require notification and the party of foreign nationality requests that the embassy or consulate of his country of nationality in China not be notified, notification may be dispensed with, but a written statement by the party himself shall be provided.\nWhere a people's court at a higher level notifies the embassy or consulate of a foreign country in China of a relevant matter, it may, where necessary, request the assistance of the foreign affairs department of the people's government."
+        },
+        "noLabel": {
+          "en": "Article 480."
+        },
+        "chapter": {
+          "en": "Section 1 Trial of Foreign-Related Criminal Cases"
+        }
+      },
+      {
+        "no": 481,
+        "text": {
+          "en": "After accepting a criminal case involving foreign elements, the people's court shall inform a defendant of foreign nationality in custody that he has the right to contact the embassy or consulate of his country of nationality in China, to meet and correspond with his guardian and close relatives, and to request the people's court to provide interpretation."
+        },
+        "noLabel": {
+          "en": "Article 481."
+        },
+        "chapter": {
+          "en": "Section 1 Trial of Foreign-Related Criminal Cases"
+        }
+      },
+      {
+        "no": 482,
+        "text": {
+          "en": "During the trial of a criminal case involving foreign elements, where a defendant of foreign nationality is in custody and an official of the embassy or consulate in China of his country of nationality requests to visit him, the request may be made to the people's court at a higher level of the place where the people's court accepting the case is located. The people's court shall make arrangements in accordance with the time limit provided in the bilateral consular treaty concluded between China and the country of nationality of the defendant; where no treaty provides a time limit, it shall make arrangements as soon as possible. Where necessary, it may request the assistance of the foreign affairs department of the people's government.\nDuring the trial of a criminal case involving foreign elements, where a defendant of foreign nationality is in custody and his guardian or close relative applies for a meeting, the application may be made to the people's court at a higher level of the place where the people's court accepting the case is located, and proof of the relationship with the defendant shall be provided in accordance with Article 486 of these Interpretations. Where, upon examination, the people's court considers that the meeting will not hamper the trial of the case, it may approve it.\nWhere the defendant refuses to accept a visit or meeting, a written statement by the defendant himself shall be provided. Where he refuses to provide a written statement, this shall be recorded in the file; where necessary, an audio-visual recording shall be made.\nVisits to and meetings with the defendant shall comply with the provisions of the law of China."
+        },
+        "noLabel": {
+          "en": "Article 482."
+        },
+        "chapter": {
+          "en": "Section 1 Trial of Foreign-Related Criminal Cases"
+        }
+      },
+      {
+        "no": 483,
+        "text": {
+          "en": "A people's court trying a criminal case involving foreign elements shall do so in public, except where it should not be tried in public in accordance with law.\nIn a criminal case involving foreign elements tried in public, where an official of the embassy or consulate in China of the country of nationality of the party of foreign nationality requests to observe, he may apply to the people's court at a higher level of the place where the people's court accepting the case is located, and the people's court shall make arrangements."
+        },
+        "noLabel": {
+          "en": "Article 483."
+        },
+        "chapter": {
+          "en": "Section 1 Trial of Foreign-Related Criminal Cases"
+        }
+      },
+      {
+        "no": 484,
+        "text": {
+          "en": "A people's court trying a criminal case involving foreign elements shall use the commonly used language and script of the People's Republic of China and shall provide interpretation for a party of foreign nationality. The interpreter shall sign the translated document.\nThe procedural documents of the people's court shall be in Chinese. Where a party of foreign nationality is not conversant with Chinese, a translation in a foreign language shall be attached; the translation shall not bear the seal of the people's court, and the Chinese text shall prevail.\nWhere a party of foreign nationality is conversant with the Chinese language and script and refuses the interpretation of another person, or does not need a foreign-language translation of the procedural documents, a written statement by the party himself shall be provided. Where he refuses to provide a written statement, this shall be recorded in the file; where necessary, an audio-visual recording shall be made."
+        },
+        "noLabel": {
+          "en": "Article 484."
+        },
+        "chapter": {
+          "en": "Section 1 Trial of Foreign-Related Criminal Cases"
+        }
+      },
+      {
+        "no": 485,
+        "text": {
+          "en": "Where a defendant of foreign nationality entrusts a lawyer to defend him, or a plaintiff of foreign nationality in a civil action ancillary to the criminal proceedings or a private prosecutor entrusts a lawyer to act as agent in the proceedings, the lawyer entrusted shall have the qualification of a lawyer of the People's Republic of China and have lawfully obtained a practice certificate.\nWhere a defendant of foreign nationality is in custody, his guardian, close relatives or the embassy or consulate in China of his country of nationality may entrust a defender on his behalf. Where the guardian or close relatives entrust a defender on his behalf, valid proof of the relationship with the defendant shall be provided.\nWhere a party of foreign nationality entrusts his guardian or close relatives to serve as defender or agent ad litem, the person entrusted shall provide valid proof of his relationship with the party. Where, upon examination, the provisions of the Criminal Procedure Law and the relevant judicial interpretations are met, the people's court shall permit it.\nWhere a defendant of foreign nationality has not entrusted a defender, the people's court may notify the legal aid institution to assign a lawyer to defend him. Where the defendant refuses the defence of the defender, a written statement by him shall be provided, or his oral statement shall be recorded in the file; where necessary, an audio-visual recording shall be made. Where the defendant falls under a circumstance in which legal aid should be provided, the matter shall be dealt with in accordance with Article 50 of these Interpretations."
+        },
+        "noLabel": {
+          "en": "Article 485."
+        },
+        "chapter": {
+          "en": "Section 1 Trial of Foreign-Related Criminal Cases"
+        }
+      },
+      {
+        "no": 486,
+        "text": {
+          "en": "Where a power of attorney sent or entrusted from outside the territory of the People's Republic of China by a party of foreign nationality to a Chinese lawyer or Chinese citizen, and the proof of the relationship with the party provided by the guardian or close relatives of the party of foreign nationality, must be certified by a notarial institution of the country where the party is located, authenticated by the central foreign affairs authority of that country or an authority authorised by it, and authenticated by the embassy or consulate of the People's Republic of China in that country, or the certification formalities provided in the relevant treaty concluded between the People's Republic of China and that country must be completed, except where there is an agreement between China and that country on mutual exemption from authentication."
+        },
+        "noLabel": {
+          "en": "Article 486."
+        },
+        "chapter": {
+          "en": "Section 1 Trial of Foreign-Related Criminal Cases"
+        }
+      },
+      {
+        "no": 487,
+        "text": {
+          "en": "In respect of a defendant in a criminal case involving foreign elements, a decision may be made to restrict him from leaving the country; in respect of a witness who must appear in court when the case is tried at a hearing, he may be required to postpone leaving the country. Where a foreigner is restricted from leaving the country, the foreign affairs department of the people's government at the same level and the embassy or consulate in China of the party's country of nationality shall be notified.\nWhere a people's court decides to restrict a foreigner or a Chinese citizen from leaving the country, it shall notify the person restricted in writing that he may not leave the country before the conclusion of the trial of the case, and may restrict his departure by retaining his passport or other entry and exit documents; where a document is retained, the necessary formalities shall be completed and a certificate of the retained document shall be issued to him.\nWhere it is necessary to take border control measures against a foreigner or a Chinese citizen at a port, the people's court accepting the case shall, in accordance with the provisions, prepare a notice of the person subject to border control, attach the relevant legal documents and report the matter through the levels to the people's court at a higher level for completion of the formalities for referring the control. In an urgent situation where a temporary border control measure needs to be taken, the people's court accepting the case may first refer the control to the entry and exit border inspection authority at the place of the relevant port, but shall within seven days report the matter through the levels to the people's court at a higher level for completion of the formalities."
+        },
+        "noLabel": {
+          "en": "Article 487."
+        },
+        "chapter": {
+          "en": "Section 1 Trial of Foreign-Related Criminal Cases"
+        }
+      },
+      {
+        "no": 488,
+        "text": {
+          "en": "In a criminal case involving foreign elements, where the provisions of Paragraph 1 of Article 208 and Article 243 of the Criminal Procedure Law are met, the time limit for trial may be extended with the approval or decision of the relevant people's court."
+        },
+        "noLabel": {
+          "en": "Article 488."
+        },
+        "chapter": {
+          "en": "Section 1 Trial of Foreign-Related Criminal Cases"
+        }
+      },
+      {
+        "no": 489,
+        "text": {
+          "en": "After the pronouncement of judgment in a criminal case involving foreign elements, where the embassy or consulate in China of the country of nationality of the party of foreign nationality requests copies of the adjudicative documents, the request may be made to the people's court at a higher level of the place where the people's court accepting the case is located, and the people's court may provide them."
+        },
+        "noLabel": {
+          "en": "Article 489."
+        },
+        "chapter": {
+          "en": "Section 1 Trial of Foreign-Related Criminal Cases"
+        }
+      },
+      {
+        "no": 490,
+        "text": {
+          "en": "Other matters in the course of the trial of a criminal case involving foreign elements shall be handled in accordance with law, judicial interpretations and other relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 490."
+        },
+        "chapter": {
+          "en": "Section 1 Trial of Foreign-Related Criminal Cases"
+        }
+      },
+      {
+        "no": 491,
+        "text": {
+          "en": "Requests for and provision of judicial assistance shall be conducted in accordance with the International Criminal Judicial Assistance Law of the People's Republic of China, the treaties on criminal judicial assistance and the treaties on transfer of sentenced persons concluded between China and the relevant countries and regions, and the relevant provisions of law.\nIn respect of matters such as the organ signing the letter of request, the language and script of the letter of request and the attached materials, the relevant time limits for handling and the specific procedures, where the basic principles of the law of the People's Republic of China are not violated, the matter may be handled in accordance with the provisions of the treaty on criminal judicial assistance or as agreed by both sides."
+        },
+        "noLabel": {
+          "en": "Article 491."
+        },
+        "chapter": {
+          "en": "Section 2 Criminal Judicial Assistance"
+        }
+      },
+      {
+        "no": 492,
+        "text": {
+          "en": "Where a matter requested by a foreign court is detrimental to the sovereignty, security or public interest of the People's Republic of China or violates the basic principles of the law of the People's Republic of China, the people's court shall not provide assistance; where the matter falls under a circumstance provided in the relevant law under which criminal judicial assistance may be refused, assistance may be refused."
+        },
+        "noLabel": {
+          "en": "Article 492."
+        },
+        "chapter": {
+          "en": "Section 2 Criminal Judicial Assistance"
+        }
+      },
+      {
+        "no": 493,
+        "text": {
+          "en": "Where a people's court requests a foreign country to provide judicial assistance, the matter shall be reported through the levels to the Supreme People's Court and, after examination and approval by the Supreme People's Court, referred to the relevant external contact organ to submit the request to the foreign country promptly.\nWhere a foreign court requests China to provide judicial assistance and the relevant external contact organ considers that the matter falls within the functions and powers of people's courts, it shall, after examination and approval by the Supreme People's Court, refer the matter to the relevant people's court for handling."
+        },
+        "noLabel": {
+          "en": "Article 493."
+        },
+        "chapter": {
+          "en": "Section 2 Criminal Judicial Assistance"
+        }
+      },
+      {
+        "no": 494,
+        "text": {
+          "en": "A letter of request by a people's court requesting a foreign country to provide judicial assistance shall be submitted in accordance with the provisions of the treaty on criminal judicial assistance; where there is no treaty or the treaty contains no provision, the letter shall state the relevant information provided by law and be accompanied by the relevant materials. The letter of request and the attached materials shall be prepared in Chinese, with a translation in the official language of the requested country attached.\nA letter of request by a foreign country requesting a court of China to provide judicial assistance shall be submitted in accordance with the provisions of the treaty on criminal judicial assistance; where there is no treaty or the treaty contains no provision, the letter shall state the relevant information provided by the law of China and be accompanied by the relevant materials. A Chinese translation shall be attached to the letter of request and the attached materials."
+        },
+        "noLabel": {
+          "en": "Article 494."
+        },
+        "chapter": {
+          "en": "Section 2 Criminal Judicial Assistance"
+        }
+      },
+      {
+        "no": 495,
+        "text": {
+          "en": "Where a people's court serves criminal procedural documents on a party residing outside the territory of the People's Republic of China, it may use the following methods:\n(1) service in the manner provided in an international treaty concluded or jointly acceded to by the country where the person to be served is located and the People's Republic of China;\n(2) service through diplomatic channels;\n(3) for a party of Chinese nationality, where the law of the country where he is located permits or that country consents, service may be entrusted to the embassy or consulate of China in the country where the person to be served is located;\n(4) where the party is the private prosecutor in a case of private prosecution or the plaintiff in a civil action ancillary to the criminal proceedings, service may be effected on an agent ad litem entitled to accept service on his behalf;\n(5) where the party is a foreign unit, service may be effected on its representative office established within the territory of the People's Republic of China or on a branch or business agent entitled to accept service;\n(6) where the law of the country where the person to be served is located permits, service may be effected by post; where three months have elapsed since the date of posting and the acknowledgement of service has not been returned but the various circumstances are sufficient to establish that service has been effected, service shall be deemed effected;\n(7) where the law of the country where the person to be served is located permits, service may be effected by fax, electronic mail or other means capable of confirming receipt by the person to be served."
+        },
+        "noLabel": {
+          "en": "Article 495."
+        },
+        "chapter": {
+          "en": "Section 2 Criminal Judicial Assistance"
+        }
+      },
+      {
+        "no": 496,
+        "text": {
+          "en": "Where a people's court serves a criminal procedural document on a person to be served residing outside the territory of the People's Republic of China through diplomatic channels, the document to be served shall be examined by the people's court at a higher level and then submitted to the Supreme People's Court for examination. Where the Supreme People's Court considers that it may be sent, the Supreme People's Court shall refer it to the competent department of the Ministry of Foreign Affairs for transmission.\nWhere a foreign court requests a people's court through diplomatic channels to serve a criminal procedural document, the embassy of that country in China shall deliver the legal document to the competent department of the Ministry of Foreign Affairs of China, which shall refer it to the Supreme People's Court. Where, upon examination, the Supreme People's Court considers that it falls within the functions and powers of people's courts and that service may be effected on behalf of the foreign court, it shall refer it to the relevant people's court for handling."
+        },
+        "noLabel": {
+          "en": "Article 496."
+        },
+        "chapter": {
+          "en": "Section 2 Criminal Judicial Assistance"
+        }
+      },
+      {
+        "no": 497,
+        "text": {
+          "en": "Where a criminal sentenced to a death sentence with a two-year suspension of execution commits a crime during the period of the suspension, the case shall be tried in accordance with law by the intermediate people's court of the place where the criminal serves his sentence, and the judgment made may be appealed against or protested.\nWhere it is determined that the crime was intentional and the circumstances are vile and the death penalty should be executed, the case shall, after the judgment or ruling takes effect in law, be reported through the levels to the Supreme People's Court for approval of execution of the death penalty.\nWhere the death penalty is not executed for the intentional crime, the case shall no longer be reported to the people's court at a higher level for approval, the period of the death sentence with a two-year suspension of execution shall be recalculated, and the case shall be reported through the levels to the Supreme People's Court for the record. Filing for the record shall not affect the taking effect and execution of the judgment or ruling.\nWhere, upon examination of the filing for the record, the Supreme People's Court considers that the original judgment erred in not executing the death penalty and that the judgment truly needs to be altered, it shall correct the matter in accordance with the procedure for trial supervision."
+        },
+        "noLabel": {
+          "en": "Article 497."
+        },
+        "chapter": {
+          "en": "Section 1 Execution of Death Sentences"
+        }
+      },
+      {
+        "no": 498,
+        "text": {
+          "en": "The period of a death sentence with a two-year suspension of execution shall be counted from the date of pronouncement or service of the legal document approving the death sentence with a two-year suspension of execution.\nWhere, upon expiry of the period of a death sentence with a two-year suspension of execution, the penalty should be commuted in accordance with law, the people's court shall commute it promptly. Where the death sentence with a two-year suspension of execution is commuted to life imprisonment or fixed-term imprisonment upon expiry of the period, the term of the penalty shall be counted from the date of expiry of the period of the suspension."
+        },
+        "noLabel": {
+          "en": "Article 498."
+        },
+        "chapter": {
+          "en": "Section 1 Execution of Death Sentences"
+        }
+      },
+      {
+        "no": 499,
+        "text": {
+          "en": "An order of the Supreme People's Court to execute the death penalty shall be delivered by the people's court at a higher level to the people's court of first instance for execution. The people's court of first instance shall execute it within seven days after receipt of the order to execute the death penalty.\nWhere an intentional crime is committed during the period of a death sentence with a two-year suspension of execution and the Supreme People's Court approves execution of the death penalty, the execution shall be carried out by the intermediate people's court of the place where the criminal serves his sentence."
+        },
+        "noLabel": {
+          "en": "Article 499."
+        },
+        "chapter": {
+          "en": "Section 1 Execution of Death Sentences"
+        }
+      },
+      {
+        "no": 500,
+        "text": {
+          "en": "Where, after receiving the order to execute the death penalty and before execution, a people's court at a lower level discovers any of the following circumstances, it shall suspend execution and immediately report through the levels to the Supreme People's Court a report requesting suspension of execution of the death penalty together with the relevant materials:\n(1) the criminal may have committed other crimes;\n(2) another criminal suspect in the joint crime has been apprehended, which may affect the sentencing of the criminal;\n(3) the execution of the death penalty of another criminal in the joint crime has been suspended or stopped, which may affect the sentencing of the criminal;\n(4) the criminal has exposed major criminal facts or performed other major meritorious service, and the judgment may need to be altered;\n(5) the criminal is pregnant;\n(6) the judgment or ruling may contain other errors affecting conviction and sentencing.\nWhere, upon examination, the Supreme People's Court considers that conviction and sentencing of the criminal may be affected, it shall rule to stop execution of the death penalty; where it considers that they are not affected, it shall decide to continue execution of the death penalty."
+        },
+        "noLabel": {
+          "en": "Article 500."
+        },
+        "chapter": {
+          "en": "Section 1 Execution of Death Sentences"
+        }
+      },
+      {
+        "no": 501,
+        "text": {
+          "en": "Where, after the order to execute the death penalty has been signed and issued and before execution, the Supreme People's Court discovers a circumstance provided in Paragraph 1 of the preceding Article, it shall immediately rule to stop execution of the death penalty and refer the relevant materials to the people's court at a lower level."
+        },
+        "noLabel": {
+          "en": "Article 501."
+        },
+        "chapter": {
+          "en": "Section 1 Execution of Death Sentences"
+        }
+      },
+      {
+        "no": 502,
+        "text": {
+          "en": "After receiving the ruling of the Supreme People's Court to stop execution of the death penalty, the people's court at a lower level shall, together with the relevant departments, investigate and verify the grounds for stopping execution of the death penalty and promptly report the results of the investigation and its opinions through the levels to the Supreme People's Court for examination."
+        },
+        "noLabel": {
+          "en": "Article 502."
+        },
+        "chapter": {
+          "en": "Section 1 Execution of Death Sentences"
+        }
+      },
+      {
+        "no": 503,
+        "text": {
+          "en": "The results of the investigation and the opinions submitted by a people's court at a lower level on the stopping of execution of the death penalty shall be examined by the collegial panel of the Supreme People's Court that originally made the judgment or ruling approving the death penalty; where necessary, a separate collegial panel shall be formed to conduct the examination."
+        },
+        "noLabel": {
+          "en": "Article 503."
+        },
+        "chapter": {
+          "en": "Section 1 Execution of Death Sentences"
+        }
+      },
+      {
+        "no": 504,
+        "text": {
+          "en": "In respect of a case in which execution of the death penalty is stopped, the Supreme People's Court shall deal with the matter respectively according to the following circumstances:\n(1) where it confirms that the criminal is pregnant, it shall alter the judgment;\n(2) where it confirms that the criminal has committed other crimes that should be prosecuted in accordance with law, it shall rule not to approve the death penalty, revoke the original judgment and remand the case for retrial;\n(3) where it confirms that the original judgment or ruling is erroneous or that the criminal has performed major meritorious service and the judgment needs to be altered, it shall rule not to approve the death penalty, revoke the original judgment and remand the case for retrial;\n(4) where it confirms that the original judgment or ruling is not erroneous and that the criminal has not performed major meritorious service, or that the major meritorious service does not affect the execution of the original judgment or ruling, it shall rule to continue execution of the death penalty, and the president of the court shall reissue the order to execute the death penalty."
+        },
+        "noLabel": {
+          "en": "Article 504."
+        },
+        "chapter": {
+          "en": "Section 1 Execution of Death Sentences"
+        }
+      },
+      {
+        "no": 505,
+        "text": {
+          "en": "Before executing the death penalty, the people's court of first instance shall inform the criminal that he has the right to meet his close relatives. Where the criminal applies for a meeting and provides specific means of contact, the people's court shall notify his close relatives. Where it is truly impossible to contact the close relatives of the criminal, or his close relatives refuse the meeting, the criminal shall be so informed. Where the criminal applies to leave final words by audio-visual recording or other means, the people's court may permit it.\nWhere a close relative of the criminal applies for a meeting, the people's court shall permit it and make arrangements promptly, except where the criminal refuses the meeting. Where the criminal refuses the meeting, this shall be recorded in the file and his close relatives shall be informed promptly; where necessary, an audio-visual recording shall be made.\nWhere the criminal applies to meet relatives or friends other than close relatives, and upon examination the people's court considers that there are indeed justified reasons, it may permit it where safety is ensured.\nWhere the criminal applies to meet his minor children, the consent of the guardian of the minor children shall be obtained; where the meeting may affect the physical and mental health of the minors, the people's court may arrange the meeting by video link, and the guardian shall be present at the meeting.\nA meeting shall in general take place at the place where the criminal is in custody.\nThe circumstances of the meeting shall be recorded in the file and placed in the case file for archiving."
+        },
+        "noLabel": {
+          "en": "Article 505."
+        },
+        "chapter": {
+          "en": "Section 1 Execution of Death Sentences"
+        }
+      },
+      {
+        "no": 506,
+        "text": {
+          "en": "The people's court of first instance shall, three days before executing the death penalty, notify the people's procuratorate at the same level to send personnel to be present and supervise."
+        },
+        "noLabel": {
+          "en": "Article 506."
+        },
+        "chapter": {
+          "en": "Section 1 Execution of Death Sentences"
+        }
+      },
+      {
+        "no": 507,
+        "text": {
+          "en": "The death penalty shall be executed by shooting, injection or other methods.\nWhere the death penalty is executed by injection, it shall be carried out at a designated execution ground or place of custody.\nWhere the death penalty is executed by a method other than shooting or injection, the matter shall be reported in advance through the levels to the Supreme People's Court for approval."
+        },
+        "noLabel": {
+          "en": "Article 507."
+        },
+        "chapter": {
+          "en": "Section 1 Execution of Death Sentences"
+        }
+      },
+      {
+        "no": 508,
+        "text": {
+          "en": "Before execution of the death penalty, the judicial officer directing the execution shall verify the identity of the criminal, ask whether he has any final words or letters, and make a record, and then hand him over to the executing personnel for execution of the death penalty.\nExecution of the death penalty shall be announced publicly, and parading the criminal in public or other acts humiliating the criminal's personal dignity are prohibited."
+        },
+        "noLabel": {
+          "en": "Article 508."
+        },
+        "chapter": {
+          "en": "Section 1 Execution of Death Sentences"
+        }
+      },
+      {
+        "no": 509,
+        "text": {
+          "en": "After execution of the death penalty, a forensic doctor shall verify that the criminal is indeed dead, and the court clerk present shall make a record. The people's court responsible for execution shall, within 15 days after execution of the death penalty, report the circumstances of execution, including photographs of the criminal before and after execution of the death penalty, to the Supreme People's Court."
+        },
+        "noLabel": {
+          "en": "Article 509."
+        },
+        "chapter": {
+          "en": "Section 1 Execution of Death Sentences"
+        }
+      },
+      {
+        "no": 510,
+        "text": {
+          "en": "After execution of the death penalty, the people's court responsible for execution shall handle the following matters:\n(1) examine the criminal's suicide note and the record of his final words promptly; where they involve matters such as inheritance of property, settlement of debts or family instructions, deliver the suicide note and the record of final words to his family members and at the same time photocopy them for the file for reference; where they involve leads on the case or similar issues, send copies to the relevant organs;\n(2) notify the criminal's family members to collect the criminal's ashes within a time limit; where conditions for cremation are lacking or cremation is inappropriate because of ethnic, religious or other reasons, notify them to collect the corpse; where they fail to collect it within the time limit, the people's court shall notify the relevant unit to dispose of it and require the relevant unit to issue a statement of the disposal; the circumstances of the disposal of the criminal's ashes or corpse shall be recorded in the file;\n(3) where the death penalty is executed on a criminal of foreign nationality, the procedures and time limits for notifying the embassy or consulate of a foreign country in China shall be handled in accordance with the relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 510."
+        },
+        "chapter": {
+          "en": "Section 1 Execution of Death Sentences"
+        }
+      },
+      {
+        "no": 511,
+        "text": {
+          "en": "In respect of a criminal sentenced to a death sentence with a two-year suspension of execution, life imprisonment, fixed-term imprisonment or criminal detention, the people's court of first instance shall, within ten days after the judgment or ruling takes effect, serve the written judgment, the written ruling, a copy of the bill of indictment, a photocopy of the bill of complaint, the notice of execution and the case closure registration form on the public security organ, the prison or another executing organ."
+        },
+        "noLabel": {
+          "en": "Article 511."
+        },
+        "chapter": {
+          "en": "Section 2 Delivery for Execution of Death Sentences with Suspension, Life Imprisonment, Fixed-Term Imprisonment and Criminal Detention"
+        }
+      },
+      {
+        "no": 512,
+        "text": {
+          "en": "In a case tried jointly in which some defendants are sentenced to the death penalty, where a co-defendant not sentenced to the death penalty needs to be taken into custody to serve his penalty, he shall be delivered for execution promptly in accordance with the preceding Article. However, where that co-defendant participated in committing the crime for which the death penalty is imposed, he shall be delivered for execution after the defendant sentenced to the death penalty has been interrogated in the course of review."
+        },
+        "noLabel": {
+          "en": "Article 512."
+        },
+        "chapter": {
+          "en": "Section 2 Delivery for Execution of Death Sentences with Suspension, Life Imprisonment, Fixed-Term Imprisonment and Criminal Detention"
+        }
+      },
+      {
+        "no": 513,
+        "text": {
+          "en": "The receipt for the notice of execution shall, after being sealed by the detention house, be placed in the case file for reference."
+        },
+        "noLabel": {
+          "en": "Article 513."
+        },
+        "chapter": {
+          "en": "Section 2 Delivery for Execution of Death Sentences with Suspension, Life Imprisonment, Fixed-Term Imprisonment and Criminal Detention"
+        }
+      },
+      {
+        "no": 514,
+        "text": {
+          "en": "Where, before being delivered for execution, a criminal applies in accordance with law for temporary execution outside prison on the ground of serious illness, pregnancy or breast-feeding her own infant, or inability to look after herself or himself, the diagnosis of the illness, the examination of pregnancy and the determination of inability to look after oneself shall be organised by the people's court."
+        },
+        "noLabel": {
+          "en": "Article 514."
+        },
+        "chapter": {
+          "en": "Section 2 Delivery for Execution of Death Sentences with Suspension, Life Imprisonment, Fixed-Term Imprisonment and Criminal Detention"
+        }
+      },
+      {
+        "no": 515,
+        "text": {
+          "en": "Where a criminal sentenced to life imprisonment, fixed-term imprisonment or criminal detention meets the provisions of Paragraph 1 or Paragraph 2 of Article 265 of the Criminal Procedure Law and the people's court decides on temporary execution outside prison, it shall prepare a written decision on temporary execution outside prison, stating the basic circumstances of the criminal, the charge and penalty determined by the judgment, and the reasons and basis for deciding on temporary execution outside prison.\nBefore making a decision on temporary execution outside prison, the people's court shall seek the opinions of the people's procuratorate.\nWhere a people's procuratorate considers that the decision of the people's court on temporary execution outside prison is improper and submits written opinions within the statutory time limit, the people's court shall immediately re-examine the decision and make a decision within one month.\nThe relevant provisions of Article 519 of these Interpretations shall apply to a criminal subject to temporary execution outside prison, and community correction shall be carried out in accordance with law.\nWhere a people's court decides on temporary execution outside prison, the detention house or the public security organ executing release on guarantee pending trial or residential surveillance shall, within ten days from the date of receipt of the decision, transfer the criminal to the community correction institution."
+        },
+        "noLabel": {
+          "en": "Article 515."
+        },
+        "chapter": {
+          "en": "Section 2 Delivery for Execution of Death Sentences with Suspension, Life Imprisonment, Fixed-Term Imprisonment and Criminal Detention"
+        }
+      },
+      {
+        "no": 516,
+        "text": {
+          "en": "After receiving the written recommendation of the community correction institution for taking the criminal back into custody, where the people's court, upon examination, confirms that the criminal subject to temporary execution outside prison falls under any of the following circumstances, it shall make a decision to take him back into custody for execution:\n(1) he does not meet the conditions for temporary execution outside prison;\n(2) without approval, he leaves the city or county in which he resides, refuses to correct after a warning, or refuses to report his whereabouts and thus leaves supervision;\n(3) he is subjected to a public security administration punishment for violating the provisions on supervision and administration and still fails to correct;\n(4) he has received two warnings from the executing organ and still fails to correct;\n(5) during medical treatment outside prison, he fails to submit information on the re-examination of his illness as required and refuses to correct after a warning;\n(6) after the circumstances for temporary execution outside prison have disappeared, the term of the penalty has not yet expired;\n(7) the guarantor loses the conditions for guaranteeing or is disqualified as guarantor for failing to perform his obligations, and a new guarantor cannot be provided within the prescribed time limit;\n(8) other circumstances of serious violation of laws, administrative regulations and the provisions on supervision and administration."
+        },
+        "noLabel": {
+          "en": "Article 516."
+        },
+        "chapter": {
+          "en": "Section 2 Delivery for Execution of Death Sentences with Suspension, Life Imprisonment, Fixed-Term Imprisonment and Criminal Detention"
+        }
+      },
+      {
+        "no": 517,
+        "text": {
+          "en": "The people's court shall make a decision within 30 days after receipt of the written recommendation of the community correction institution for taking the criminal back into custody for execution. The written decision on taking the criminal back into custody for execution shall take effect immediately upon being made.\nThe people's court shall serve the written decision on taking the criminal back into custody for execution on the community correction institution and the public security organ and send a copy to the people's procuratorate, and the public security organ shall deliver the criminal for execution."
+        },
+        "noLabel": {
+          "en": "Article 517."
+        },
+        "chapter": {
+          "en": "Section 2 Delivery for Execution of Death Sentences with Suspension, Life Imprisonment, Fixed-Term Imprisonment and Criminal Detention"
+        }
+      },
+      {
+        "no": 518,
+        "text": {
+          "en": "Where a criminal taken back into custody for execution falls under a circumstance in which a period is not counted in the term of execution, the people's court shall, when making the decision to take him back into custody, determine the specific period not counted in the term of execution."
+        },
+        "noLabel": {
+          "en": "Article 518."
+        },
+        "chapter": {
+          "en": "Section 2 Delivery for Execution of Death Sentences with Suspension, Life Imprisonment, Fixed-Term Imprisonment and Criminal Detention"
+        }
+      },
+      {
+        "no": 519,
+        "text": {
+          "en": "In respect of a criminal sentenced to public surveillance or given a suspended sentence, the people's court shall determine in accordance with law the place of execution of community correction. The place of execution of community correction shall be the place of residence of the criminal; where the criminal resides in several places, his habitual residence may be determined as the place of execution; where the place of residence or habitual residence of the criminal cannot be determined or is unsuitable for the execution of community correction, the place of execution shall be determined on the principle of facilitating the criminal's acceptance of correction and better integration into society.\nAt the pronouncement of judgment, the criminal shall be informed that he shall report to the community correction institution at the place of execution within ten days from the date on which the judgment or ruling takes effect, and of the consequences of failing to report on time.\nThe people's court shall, within five days from the date on which the judgment or ruling takes effect, notify the community correction institution at the place of execution and, within ten days, serve the written judgment, the written ruling, the notice of execution and other legal documents on the community correction institution at the place of execution, and at the same time send copies to the people's procuratorate and the public security organ at the place of execution. Where the people's court and the place of execution of community correction are not in the same place, the community correction institution at the place of execution shall transmit the legal documents to the people's procuratorate and the public security organ of that place."
+        },
+        "noLabel": {
+          "en": "Article 519."
+        },
+        "chapter": {
+          "en": "Section 3 Delivery for Execution of Public Surveillance, Suspended Sentences and Deprivation of Political Rights"
+        }
+      },
+      {
+        "no": 520,
+        "text": {
+          "en": "In respect of a criminal sentenced to deprivation of political rights alone, the people's court shall, within ten days after the judgment or ruling takes effect, serve the written judgment, the written ruling, the notice of execution and other legal documents on the public security organ at the county level of the place of residence of the criminal and send copies to the people's procuratorate at the county level of the place of residence of the criminal."
+        },
+        "noLabel": {
+          "en": "Article 520."
+        },
+        "chapter": {
+          "en": "Section 3 Delivery for Execution of Public Surveillance, Suspended Sentences and Deprivation of Political Rights"
+        }
+      },
+      {
+        "no": 521,
+        "text": {
+          "en": "The execution of the property-related part of a criminal adjudication means the execution of the following items of adjudication in an effective criminal adjudication:\n(1) a fine or confiscation of property;\n(2) recovery of illegal gains or an order to return or compensate them;\n(3) disposal of the illicit money and illicit goods transferred with the case;\n(4) confiscation of the property of the person transferred with the case that was used for the crime;\n(5) other related property-related items of adjudication that should be executed by the people's court."
+        },
+        "noLabel": {
+          "en": "Article 521."
+        },
+        "chapter": {
+          "en": "Section 4 Execution of the Property-Related Parts of Criminal Judgments and of Incidental Civil Judgments"
+        }
+      },
+      {
+        "no": 522,
+        "text": {
+          "en": "Where the property-related part of a criminal adjudication and a civil adjudication ancillary to the criminal proceedings should be executed by a people's court, they shall be executed by the organ of the people's court of first instance responsible for executing adjudications."
+        },
+        "noLabel": {
+          "en": "Article 522."
+        },
+        "chapter": {
+          "en": "Section 4 Execution of the Property-Related Parts of Criminal Judgments and of Incidental Civil Judgments"
+        }
+      },
+      {
+        "no": 523,
+        "text": {
+          "en": "A fine shall be paid in a lump sum or in instalments within the time limit provided in the judgment. Where it is not paid or not paid in full within the time limit without justification, the people's court shall enforce payment. Where it still cannot be paid in full after enforcement, the people's court shall recover it at any time, including after the principal penalty has been served, if it discovers that the person subject to execution has property available for execution.\nWhere an administrative organ has already imposed a fine on the defendant for the same facts, it shall be set off when the people's court imposes a fine, deducting the part already executed as an administrative punishment."
+        },
+        "noLabel": {
+          "en": "Article 523."
+        },
+        "chapter": {
+          "en": "Section 4 Execution of the Property-Related Parts of Criminal Judgments and of Incidental Civil Judgments"
+        }
+      },
+      {
+        "no": 524,
+        "text": {
+          "en": "Where payment of a fine is truly difficult because the person subject to execution has suffered an irresistible calamity or for another reason, and the person subject to execution applies for postponement of payment, discretionary reduction or exemption of the fine, he shall submit the relevant supporting materials. The people's court shall make a ruling within one month after receipt of the application. Where the statutory conditions are met, it shall permit it; where they are not met, it shall reject the application."
+        },
+        "noLabel": {
+          "en": "Article 524."
+        },
+        "chapter": {
+          "en": "Section 4 Execution of the Property-Related Parts of Criminal Judgments and of Incidental Civil Judgments"
+        }
+      },
+      {
+        "no": 525,
+        "text": {
+          "en": "Where confiscation of property is imposed, it shall be executed immediately after the judgment takes effect."
+        },
+        "noLabel": {
+          "en": "Article 525."
+        },
+        "chapter": {
+          "en": "Section 4 Execution of the Property-Related Parts of Criminal Judgments and of Incidental Civil Judgments"
+        }
+      },
+      {
+        "no": 526,
+        "text": {
+          "en": "In executing a property penalty, the minimum living expenses standard for local residents of the previous year published by the government of the place of residence of the dependants shall be taken into account, and the necessary living expenses of the person subject to execution and of the persons he supports shall be retained."
+        },
+        "noLabel": {
+          "en": "Article 526."
+        },
+        "chapter": {
+          "en": "Section 4 Execution of the Property-Related Parts of Criminal Judgments and of Incidental Civil Judgments"
+        }
+      },
+      {
+        "no": 527,
+        "text": {
+          "en": "Where a person subject to execution who is sentenced to a property penalty also bears liability for civil compensation ancillary to the criminal proceedings, he shall first perform the civil liability for compensation."
+        },
+        "noLabel": {
+          "en": "Article 527."
+        },
+        "chapter": {
+          "en": "Section 4 Execution of the Property-Related Parts of Criminal Judgments and of Incidental Civil Judgments"
+        }
+      },
+      {
+        "no": 528,
+        "text": {
+          "en": "In the course of executing the property-related part of a criminal adjudication or a civil adjudication ancillary to the criminal proceedings, where a party or an interested person considers that the act of execution violates the provisions of law, or a person not a party to the case raises a written objection to the subject matter of execution, the people's court shall deal with the matter by reference to the relevant provisions of the Civil Procedure Law."
+        },
+        "noLabel": {
+          "en": "Article 528."
+        },
+        "chapter": {
+          "en": "Section 4 Execution of the Property-Related Parts of Criminal Judgments and of Incidental Civil Judgments"
+        }
+      },
+      {
+        "no": 529,
+        "text": {
+          "en": "In the course of executing the property-related part of a criminal adjudication or a civil adjudication ancillary to the criminal proceedings, where any of the following circumstances exists, the people's court shall rule to terminate execution:\n(1) the judgment or ruling on which execution is based has been revoked;\n(2) the person subject to execution has died or has been executed and there is no property available for execution;\n(3) a unit sentenced to a fine has terminated and there is no property available for execution;\n(4) the fine is exempted in accordance with Article 53 of the Criminal Law;\n(5) other circumstances in which execution should be terminated.\nAfter a ruling to terminate execution, where it is discovered that the property of the person subject to execution has been concealed or transferred, it shall be recovered."
+        },
+        "noLabel": {
+          "en": "Article 529."
+        },
+        "chapter": {
+          "en": "Section 4 Execution of the Property-Related Parts of Criminal Judgments and of Incidental Civil Judgments"
+        }
+      },
+      {
+        "no": 530,
+        "text": {
+          "en": "Where the property to be executed is in another place, the people's court of first instance may entrust the people's court at the same level of the place where the property is located with execution."
+        },
+        "noLabel": {
+          "en": "Article 530."
+        },
+        "chapter": {
+          "en": "Section 4 Execution of the Property-Related Parts of Criminal Judgments and of Incidental Civil Judgments"
+        }
+      },
+      {
+        "no": 531,
+        "text": {
+          "en": "Where the property-related part of a criminal adjudication or a civil adjudication ancillary to the criminal proceedings is revoked in whole or in part, the property already executed shall be returned in whole or in part to the person subject to execution; where it cannot be returned, compensation shall be made in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 531."
+        },
+        "chapter": {
+          "en": "Section 4 Execution of the Property-Related Parts of Criminal Judgments and of Incidental Civil Judgments"
+        }
+      },
+      {
+        "no": 532,
+        "text": {
+          "en": "In respect of the execution of the property-related part of a criminal adjudication and of a civil adjudication ancillary to the criminal proceedings, where the Criminal Procedure Law and the relevant criminal judicial interpretations contain no provision, the relevant provisions on civil execution shall apply by reference."
+        },
+        "noLabel": {
+          "en": "Article 532."
+        },
+        "chapter": {
+          "en": "Section 4 Execution of the Property-Related Parts of Criminal Judgments and of Incidental Civil Judgments"
+        }
+      },
+      {
+        "no": 533,
+        "text": {
+          "en": "Where a criminal sentenced to a death sentence with a two-year suspension of execution commits no intentional crime during the period of the suspension, the penalty shall be commuted by ruling upon expiry of the period of the suspension; where he commits a crime after the expiry of the period of the suspension but before commutation is ruled, the penalty shall be commuted in accordance with law and the new crime he has committed shall then be tried separately."
+        },
+        "noLabel": {
+          "en": "Article 533."
+        },
+        "chapter": {
+          "en": "Section 5 Trial of Cases of Commutation of Sentence and Parole"
+        }
+      },
+      {
+        "no": 534,
+        "text": {
+          "en": "In respect of cases of commutation of penalty and parole, the matter shall be dealt with respectively according to the following circumstances:\n(1) commutation of the penalty of a criminal sentenced to a death sentence with a two-year suspension of execution shall be ruled on by the people's court at a higher level of the place where the criminal serves his sentence within one month after receipt of the written recommendation for commutation examined and approved by the prison administration organ at the same level;\n(2) commutation of the penalty or parole of a criminal sentenced to life imprisonment shall be ruled on by the people's court at a higher level of the place where the criminal serves his sentence within one month after receipt of the written recommendation for commutation or parole examined and approved by the prison administration organ at the same level, and where the case is complex or the circumstances are special, the period may be extended by one month;\n(3) commutation of the penalty or parole of a criminal sentenced to fixed-term imprisonment or whose penalty has been commuted to fixed-term imprisonment shall be ruled on by the intermediate people's court of the place where the criminal serves his sentence within one month after receipt of the written recommendation for commutation or parole submitted by the executing organ, and where the case is complex or the circumstances are special, the period may be extended by one month;\n(4) commutation of the penalty of a criminal sentenced to public surveillance or criminal detention shall be ruled on by the intermediate people's court of the place where the criminal serves his sentence within one month after receipt of the written recommendation for commutation examined and approved by the executing organ at the same level.\nCommutation of the penalty of a person subject to community correction shall be ruled on by a people's court at or above the intermediate level of the place of execution of community correction within 30 days after receipt of the written recommendation for commutation of the community correction institution."
+        },
+        "noLabel": {
+          "en": "Article 534."
+        },
+        "chapter": {
+          "en": "Section 5 Trial of Cases of Commutation of Sentence and Parole"
+        }
+      },
+      {
+        "no": 535,
+        "text": {
+          "en": "To accept a case of commutation of penalty or parole, it shall be examined whether the materials transferred by the executing organ include the following:\n(1) the written recommendation for commutation or parole;\n(2) the adjudicative document of the court of original trial, the notice of execution and photocopies of the successive written rulings on commutation;\n(3) written materials proving the specific facts of the criminal's repentance, meritorious service or major meritorious service;\n(4) the criminal's appraisal and assessment form, the approval form for reward and punishment and the like;\n(5) the investigation and assessment report on the impact of the criminal's parole on the community in which he resides;\n(6) the circumstances of the execution and performance of the property-related part of the criminal adjudication and of the civil adjudication ancillary to the criminal proceedings;\n(7) other materials that need to be transferred according to the circumstances of the case.\nWhere a people's procuratorate puts forward opinions on a case submitted for commutation of penalty or parole, the executing organ shall transfer them together to the people's court accepting the case of commutation or parole.\nWhere, upon examination, the materials are incomplete, the executing organ submitting the request for commutation or parole shall be notified to supplement them within three days; where they are not supplemented within the time limit, the case shall not be docketed."
+        },
+        "noLabel": {
+          "en": "Article 535."
+        },
+        "chapter": {
+          "en": "Section 5 Trial of Cases of Commutation of Sentence and Parole"
+        }
+      },
+      {
+        "no": 536,
+        "text": {
+          "en": "In trying a case of commutation of penalty or parole, where the criminal actively performs the obligations determined by the property-related part of the criminal adjudication and by the civil adjudication ancillary to the criminal proceedings, he may be determined to have shown repentance and be treated with leniency in commutation or parole; where he is truly able to perform but fails to perform or does not fully perform, he shall be treated strictly in commutation or parole."
+        },
+        "noLabel": {
+          "en": "Article 536."
+        },
+        "chapter": {
+          "en": "Section 5 Trial of Cases of Commutation of Sentence and Parole"
+        }
+      },
+      {
+        "no": 537,
+        "text": {
+          "en": "In trying a case of commutation of penalty or parole, the following matters shall be published within five days after docketing:\n(1) the basic personal circumstances of the criminal such as name and age;\n(2) the charge and term of penalty determined in the original judgment;\n(3) the successive commutations of the criminal's penalty;\n(4) the recommendation and basis of the executing organ for commutation or parole.\nThe publication shall state the period of publication and the manner of putting forward opinions."
+        },
+        "noLabel": {
+          "en": "Article 537."
+        },
+        "chapter": {
+          "en": "Section 5 Trial of Cases of Commutation of Sentence and Parole"
+        }
+      },
+      {
+        "no": 538,
+        "text": {
+          "en": "In trying a case of commutation of penalty or parole, a collegial panel shall be formed and the case may be tried on the documents, but the following cases shall be tried at a hearing:\n(1) cases in which commutation is requested on the ground that the criminal has performed major meritorious service;\n(2) cases in which the starting time, interval or extent of commutation requested does not comply with the general provisions;\n(3) cases in which the criminal for whom commutation or parole is requested is a criminal of duty-related crime, a criminal who organised, led, participated in, shielded or connived at an organisation of a triad nature, a criminal disrupting the order of financial administration or a criminal of financial fraud;\n(4) cases with a major social impact or a high degree of public concern;\n(5) cases in which differing opinions were received during the period of publication;\n(6) cases in which the people's procuratorate raises an objection;\n(7) other cases in which it is necessary to hold a hearing."
+        },
+        "noLabel": {
+          "en": "Article 538."
+        },
+        "chapter": {
+          "en": "Section 5 Trial of Cases of Commutation of Sentence and Parole"
+        }
+      },
+      {
+        "no": 539,
+        "text": {
+          "en": "After a people's court makes a ruling on commutation of penalty or parole, it shall, within seven days, serve it on the executing organ that requested the commutation or parole, on the people's procuratorate at the same level and on the criminal himself. Where the people's procuratorate considers the ruling on commutation or parole improper and submits written opinions on correction within the statutory time limit, the people's court shall, after receipt of the opinions, form a separate collegial panel to conduct the trial and make a ruling within one month.\nThe relevant provisions of Article 519 of these Interpretations shall apply to a criminal on parole, and community correction shall be carried out in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 539."
+        },
+        "chapter": {
+          "en": "Section 5 Trial of Cases of Commutation of Sentence and Parole"
+        }
+      },
+      {
+        "no": 540,
+        "text": {
+          "en": "Where, before a ruling on commutation of penalty or parole is made, the executing organ submits a written request to withdraw the recommendation for commutation or parole, the people's court may decide whether to permit it."
+        },
+        "noLabel": {
+          "en": "Article 540."
+        },
+        "chapter": {
+          "en": "Section 5 Trial of Cases of Commutation of Sentence and Parole"
+        }
+      },
+      {
+        "no": 541,
+        "text": {
+          "en": "Where a people's court discovers that a ruling on commutation of penalty or parole made by itself that has already taken effect is indeed erroneous, it shall form a separate collegial panel to conduct the trial; where it discovers that a ruling on commutation of penalty or parole made by a people's court at a lower level that has already taken effect is indeed erroneous, it may direct the people's court at the lower level to form a separate collegial panel to conduct the trial, or may itself form a collegial panel to conduct the trial."
+        },
+        "noLabel": {
+          "en": "Article 541."
+        },
+        "chapter": {
+          "en": "Section 5 Trial of Cases of Commutation of Sentence and Parole"
+        }
+      },
+      {
+        "no": 542,
+        "text": {
+          "en": "Where a criminal commits a new crime during the probation period of a suspended sentence or parole, or it is discovered that he has committed another crime for which no judgment was made before the pronouncement of judgment, and the suspended sentence or parole should be revoked, the people's court trying the new crime shall revoke the suspended sentence or parole pronounced by the original judgment or ruling and notify the people's court of original trial and the executing organ in writing."
+        },
+        "noLabel": {
+          "en": "Article 542."
+        },
+        "chapter": {
+          "en": "Section 6 Revocation of Suspended Sentences and Parole"
+        }
+      },
+      {
+        "no": 543,
+        "text": {
+          "en": "After receiving the written recommendation of the community correction institution for revocation of a suspended sentence, where the people's court, upon examination, confirms that the criminal falls under any of the following circumstances during the probation period of the suspended sentence, it shall rule to revoke the suspended sentence:\n(1) he violates a restraining order and the circumstances are serious;\n(2) without justified reasons, he fails to report at the prescribed time or leaves supervision during community correction for more than one month;\n(3) he is subjected to a public security administration punishment for violating the provisions on supervision and administration and still fails to correct;\n(4) he has received two warnings from the executing organ and still fails to correct;\n(5) other circumstances of serious violation of laws, administrative regulations and the provisions on supervision and administration.\nAfter receiving the written recommendation of the community correction institution for revocation of parole, where the people's court, upon examination, confirms that the criminal falls under any of the circumstances provided in Item 2 or Item 4 of the preceding paragraph during the probation period of parole, or has committed another act violating the provisions on supervision and administration that does not yet constitute a new crime, it shall rule to revoke parole."
+        },
+        "noLabel": {
+          "en": "Article 543."
+        },
+        "chapter": {
+          "en": "Section 6 Revocation of Suspended Sentences and Parole"
+        }
+      },
+      {
+        "no": 544,
+        "text": {
+          "en": "Where a criminal for whom revocation of a suspended sentence or parole is requested may escape or may pose a danger to society, and the community correction institution, at the same time as recommending revocation of the suspended sentence or parole, requests the people's court to decide on his arrest, the people's court shall decide within 48 hours whether to arrest him. Where it decides on arrest, the arrest shall be executed by the public security organ. The period of custody after arrest shall not exceed 30 days."
+        },
+        "noLabel": {
+          "en": "Article 544."
+        },
+        "chapter": {
+          "en": "Section 6 Revocation of Suspended Sentences and Parole"
+        }
+      },
+      {
+        "no": 545,
+        "text": {
+          "en": "The people's court shall make a ruling within 30 days after receipt of the written recommendation of the community correction institution for revocation of a suspended sentence or parole. A ruling revoking a suspended sentence or parole shall take effect immediately upon being made.\nThe people's court shall serve the written ruling revoking the suspended sentence or parole on the community correction institution and the public security organ and send a copy to the people's procuratorate, and the public security organ shall deliver the criminal for execution. Where the criminal was arrested before execution, each day of custody shall be counted as one day of the term of the penalty."
+        },
+        "noLabel": {
+          "en": "Article 545."
+        },
+        "chapter": {
+          "en": "Section 6 Revocation of Suspended Sentences and Parole"
+        }
+      },
+      {
+        "no": 546,
+        "text": {
+          "en": "In trying a criminal case involving a minor, a people's court shall implement the policy of education, persuasion and rescue, adhere to the principle of education first with punishment as a supplement, and strengthen special protection for minors."
+        },
+        "noLabel": {
+          "en": "Article 546."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 547,
+        "text": {
+          "en": "A people's court shall strengthen coordination with the relevant government departments, people's organisations and social organisations, promote the development of people's assessorship, circumstances investigation, resettlement and education and other work in criminal cases involving minors, fully safeguard the lawful rights and interests of minors, and actively participate in the comprehensive management of public security."
+        },
+        "noLabel": {
+          "en": "Article 547."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 548,
+        "text": {
+          "en": "A people's court shall strengthen coordination with the relevant government departments, people's organisations and social organisations, and implement necessary protective measures such as psychological intervention, financial assistance, legal aid and transfer to another school for a minor victim of sexual assault or violent injury and his family."
+        },
+        "noLabel": {
+          "en": "Article 548."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 549,
+        "text": {
+          "en": "A people's court shall establish a specialised organ or designate specialised personnel responsible for trying criminal cases involving minors. Personnel trying criminal cases involving minors shall have received specialised training, be familiar with the physical and mental characteristics of minors and be good at carrying out ideological education of minors.\nThe people's assessors participating in the trial of criminal cases involving minors may be randomly selected from the list of people's assessors who are familiar with the physical and mental characteristics of minors and concerned about the protection of minors."
+        },
+        "noLabel": {
+          "en": "Article 549."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 550,
+        "text": {
+          "en": "A case in which the defendant was under 18 years of age at the time of committing the alleged crime and is under 20 years of age when the people's court dockets the case shall be tried by the judicial organisation for cases involving minors.\nThe following cases may be tried by the judicial organisation for cases involving minors:\n(1) cases of crimes committed by students enrolled in school who are under 22 years of age when the people's court dockets the case;\n(2) cases of crimes infringing the personal rights of minors, such as rape, indecent assault, maltreatment and abandonment of minors;\n(3) other cases in which trial by the judicial organisation for cases involving minors is more appropriate.\nWhether a joint crime case in which there is a minor defendant or another criminal case involving a minor is to be tried by the judicial organisation for cases involving minors shall be decided by the president of the court according to the actual circumstances."
+        },
+        "noLabel": {
+          "en": "Article 550."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 551,
+        "text": {
+          "en": "In respect of a joint crime case of minors and adults prosecuted in separate cases before the same people's court, the case may be tried by the same judicial organisation; where it is inappropriate for the same judicial organisation to try it, the cases may be tried separately.\nWhere a joint crime case of minors and adults is tried separately by different people's courts or different judicial organisations, the relevant people's courts or judicial organisations shall learn about the trial of the co-defendants from each other and pay attention to maintaining the balance of sentencing in the whole case."
+        },
+        "noLabel": {
+          "en": "Article 551."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 552,
+        "text": {
+          "en": "In respect of a criminal case involving a minor, where necessary, the people's court at a higher level may, in accordance with Article 27 of the Criminal Procedure Law, direct a people's court at a lower level to transfer the case to another people's court for trial."
+        },
+        "noLabel": {
+          "en": "Article 552."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 553,
+        "text": {
+          "en": "The application of arrest measures to a minor defendant shall be strictly limited.\nWhere a people's court decides on arrest, it shall interrogate the minor defendant and hear the opinions of defence counsel.\nIn respect of an arrested minor defendant who has not completed compulsory education, the people's court shall coordinate with the administrative department of education to guarantee his receipt of compulsory education."
+        },
+        "noLabel": {
+          "en": "Article 553."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 554,
+        "text": {
+          "en": "Where a people's court applies release on guarantee pending trial to a minor defendant who has no fixed residence and cannot provide a guarantor, it shall designate an appropriate adult as guarantor and, where necessary, may arrange for the defendant released on guarantee pending trial to receive social supervision and care."
+        },
+        "noLabel": {
+          "en": "Article 554."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 555,
+        "text": {
+          "en": "In trying a criminal case involving a minor, the people's court shall, at the interrogation and at the hearing, notify the statutory agent of the minor defendant to be present. Where the statutory agent cannot be notified, is unable to be present or is an accomplice, an appropriate adult may also be notified to be present, and the relevant circumstances shall be recorded in the file.\nThe statutory agent or other person present may, in addition to exercising the rights provided in Paragraph 2 of Article 281 of the Criminal Procedure Law in accordance with law, participate, with the consent of the court, in the court education of the minor defendant and other work.\nThe preceding two paragraphs shall apply where a criminal case involving a minor is tried under summary procedure."
+        },
+        "noLabel": {
+          "en": "Article 555."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 556,
+        "text": {
+          "en": "The preceding Article shall apply to the questioning of a minor victim or witness.\nIn trying a case in which a minor has suffered sexual assault or violent injury, measures such as synchronised audio-visual recording shall be taken when questioning the minor victim or witness so as to complete the questioning in one session as far as possible; where the minor victim or witness is female, the questioning shall be conducted by female staff members."
+        },
+        "noLabel": {
+          "en": "Article 556."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 557,
+        "text": {
+          "en": "A case in which the defendant is under 18 years of age at the time of the hearing shall in all cases be tried in camera. With the consent of the minor defendant and his statutory agent, the school of the minor defendant and a minors protection organisation may send representatives to be present. The number and scope of the representatives present shall be decided by the court. With the consent of the court, the representatives present may participate in the court education of the minor defendant.\nIn a case that is tried in public in accordance with law but in which the criminal record may need to be sealed, no observers may be organised; where there are observers, they shall be informed that they may not disseminate information about the case."
+        },
+        "noLabel": {
+          "en": "Article 557."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 558,
+        "text": {
+          "en": "In trying a criminal case involving a minor at a hearing, a minor victim or witness shall in general not appear in court to testify; where he must appear, protective measures such as technical means protecting his privacy and psychological intervention shall be taken."
+        },
+        "noLabel": {
+          "en": "Article 558."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 559,
+        "text": {
+          "en": "In trying a criminal case involving a minor, the name, residence, photographs and other information from which the identity of the minor may be inferred may not be disclosed to the outside world.\nWhere case file materials consulted, copied from or reproduced involve a minor, they may not be made public or disseminated."
+        },
+        "noLabel": {
+          "en": "Article 559."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 560,
+        "text": {
+          "en": "Where a people's court discovers that a relevant unit has failed to fulfil its protective duties of educating, managing, assisting and caring for minors, it shall put forward a judicial recommendation to that unit."
+        },
+        "noLabel": {
+          "en": "Article 560."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 561,
+        "text": {
+          "en": "A people's court shall, in the light of actual conditions and the characteristics of criminal cases involving minors, carry out publicity and education on the rule of law for minors."
+        },
+        "noLabel": {
+          "en": "Article 561."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 562,
+        "text": {
+          "en": "In trying a criminal case involving a minor, where this Chapter contains no provision, the relevant provisions of these Interpretations shall apply."
+        },
+        "noLabel": {
+          "en": "Article 562."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 563,
+        "text": {
+          "en": "When a people's court serves a copy of the bill of indictment on a minor defendant, it shall explain to him the alleged crime and the relevant provisions of law and inform him of the trial procedure and his procedural rights and obligations."
+        },
+        "noLabel": {
+          "en": "Article 563."
+        },
+        "chapter": {
+          "en": "Section 2 Preparation for Court Hearing"
+        }
+      },
+      {
+        "no": 564,
+        "text": {
+          "en": "Where a minor defendant who is under 18 years of age at the time of trial has not entrusted a defender, the people's court shall notify the legal aid institution to assign a lawyer familiar with the physical and mental characteristics of minors to defend him."
+        },
+        "noLabel": {
+          "en": "Article 564."
+        },
+        "chapter": {
+          "en": "Section 2 Preparation for Court Hearing"
+        }
+      },
+      {
+        "no": 565,
+        "text": {
+          "en": "Where a minor victim and his statutory agent have not entrusted an agent ad litem because of financial difficulty or for another reason, the people's court shall assist them in applying for legal aid."
+        },
+        "noLabel": {
+          "en": "Article 565."
+        },
+        "chapter": {
+          "en": "Section 2 Preparation for Court Hearing"
+        }
+      },
+      {
+        "no": 566,
+        "text": {
+          "en": "In respect of a criminal case involving a minor, where the people's court decides to apply summary procedure, it shall seek the opinions of the minor defendant, his statutory agent and his defender. Where the above persons raise an objection, summary procedure shall not apply."
+        },
+        "noLabel": {
+          "en": "Article 566."
+        },
+        "chapter": {
+          "en": "Section 2 Preparation for Court Hearing"
+        }
+      },
+      {
+        "no": 567,
+        "text": {
+          "en": "Where the defendant was under 18 years of age at the time of committing the alleged crime and has reached 18 but is under 20 years of age at the time of the hearing, the people's court shall in general notify his close relatives to be present at the hearing. With the consent of the court, the close relatives may express opinions. Where the close relatives cannot be notified, are unable to be present or are accomplices, this shall be recorded in the file."
+        },
+        "noLabel": {
+          "en": "Article 567."
+        },
+        "chapter": {
+          "en": "Section 2 Preparation for Court Hearing"
+        }
+      },
+      {
+        "no": 568,
+        "text": {
+          "en": "The court shall accept the investigation report transferred by the people's procuratorate on the personality characteristics, family circumstances, social interactions, growth experience, causes of the crime, conduct before and after the crime, guardianship and education of the minor defendant, and the written materials submitted by the defender reflecting the above circumstances of the minor defendant.\nWhere necessary, the people's court may entrust a community correction institution, the Communist Youth League, a social organisation or the like to investigate the above circumstances of the minor defendant, or may conduct the investigation itself."
+        },
+        "noLabel": {
+          "en": "Article 568."
+        },
+        "chapter": {
+          "en": "Section 2 Preparation for Court Hearing"
+        }
+      },
+      {
+        "no": 569,
+        "text": {
+          "en": "A people's court may, according to the circumstances, provide psychological counselling to a minor defendant, victim or witness; according to actual needs and with the consent of the minor defendant and his statutory agent, it may conduct a psychological assessment of the minor defendant.\nPsychological counselling and psychological assessment may be entrusted to a specialised institution or professional.\nA psychological assessment report may serve as a reference for handling the case and educating the minor."
+        },
+        "noLabel": {
+          "en": "Article 569."
+        },
+        "chapter": {
+          "en": "Section 2 Preparation for Court Hearing"
+        }
+      },
+      {
+        "no": 570,
+        "text": {
+          "en": "Before the hearing and during adjournments, the court may, according to the circumstances, arrange for a minor defendant to meet his statutory agent or an appropriate adult."
+        },
+        "noLabel": {
+          "en": "Article 570."
+        },
+        "chapter": {
+          "en": "Section 2 Preparation for Court Hearing"
+        }
+      },
+      {
+        "no": 571,
+        "text": {
+          "en": "A people's court shall set up a seat for the statutory agent or appropriate adult of a minor defendant on the side of the defence bench close to the observers' area.\nIn trying a criminal case involving a minor in which a penalty of not more than five years of fixed-term imprisonment may be imposed or the crime was committed through negligence, court seats may be arranged in a manner suited to the characteristics of minors."
+        },
+        "noLabel": {
+          "en": "Article 571."
+        },
+        "chapter": {
+          "en": "Section 3 Trial"
+        }
+      },
+      {
+        "no": 572,
+        "text": {
+          "en": "Where a minor defendant or his statutory agent refuses in court the defence of the defender, Paragraphs 2 and 3 of Article 311 of these Interpretations shall apply.\nWhere, after the hearing is reopened, the minor defendant or his statutory agent again refuses in court the defence of the defender, this shall not be permitted. Where the defendant has reached 18 years of age when the hearing is reopened, it may be permitted, but he may not again entrust another defender or request the assignment of another lawyer, and shall defend himself."
+        },
+        "noLabel": {
+          "en": "Article 572."
+        },
+        "chapter": {
+          "en": "Section 3 Trial"
+        }
+      },
+      {
+        "no": 573,
+        "text": {
+          "en": "In the course of the court hearing, judicial officers shall, according to the degree of intellectual development and the psychological state of the minor defendant, use a manner of expression suited to minors.\nWhere any circumstance of threatening, reprimanding, inducing a confession from or ridiculing the minor defendant is discovered, the presiding judge shall stop it."
+        },
+        "noLabel": {
+          "en": "Article 573."
+        },
+        "chapter": {
+          "en": "Section 3 Trial"
+        }
+      },
+      {
+        "no": 574,
+        "text": {
+          "en": "Where the prosecution or the defence makes a sentencing recommendation such as imposing public surveillance or pronouncing a suspended sentence on a minor defendant, it shall provide the court with written materials showing that the minor defendant can obtain guardianship and assistance and education and that there will be no major adverse impact on the community in which he resides."
+        },
+        "noLabel": {
+          "en": "Article 574."
+        },
+        "chapter": {
+          "en": "Section 3 Trial"
+        }
+      },
+      {
+        "no": 575,
+        "text": {
+          "en": "The court shall examine the investigation report on the circumstances of the minor defendant and the written materials submitted by the defender concerning the circumstances of the minor defendant, and shall hear the opinions of the prosecution and the defence. The above reports and materials may serve as a reference for handling the case and educating the minor.\nThe people's court may notify the person who prepared the investigation report to appear in court to explain the circumstances and accept questioning by the prosecution, the defence and the court."
+        },
+        "noLabel": {
+          "en": "Article 575."
+        },
+        "chapter": {
+          "en": "Section 3 Trial"
+        }
+      },
+      {
+        "no": 576,
+        "text": {
+          "en": "After the conclusion of the court debate, the court may, according to the physical and psychological characteristics of the minor and the circumstances of the case, provide education on the rule of law to the minor defendant; where the minor defendant is adjudged guilty, education on the rule of law shall be provided to him after the pronouncement of judgment.\nWhere the participation of adult relatives other than the statutory agent, or of teachers, counsellors and the like, in the education of the minor defendant is conducive to persuading and rescuing the minor, the people's court shall invite them to participate in the relevant activities.\nIn a case tried under summary procedure, the preceding two paragraphs shall apply to the court education of the minor defendant."
+        },
+        "noLabel": {
+          "en": "Article 576."
+        },
+        "chapter": {
+          "en": "Section 3 Trial"
+        }
+      },
+      {
+        "no": 577,
+        "text": {
+          "en": "After the final statement of the minor defendant, the court shall ask his statutory agent whether he wishes to make a supplementary statement."
+        },
+        "noLabel": {
+          "en": "Article 577."
+        },
+        "chapter": {
+          "en": "Section 3 Trial"
+        }
+      },
+      {
+        "no": 578,
+        "text": {
+          "en": "In a criminal case involving a minor, the judgment shall be pronounced in public.\nIn a case in which the criminal record should be sealed in accordance with law, no observers may be organised at the pronouncement of judgment; where there are observers, they shall be informed that they may not disseminate information about the case."
+        },
+        "noLabel": {
+          "en": "Article 578."
+        },
+        "chapter": {
+          "en": "Section 3 Trial"
+        }
+      },
+      {
+        "no": 579,
+        "text": {
+          "en": "In a criminal case involving a minor in which judgment is pronounced on a fixed date, where the statutory agent of the minor defendant cannot be notified, is unable to be present or is an accomplice, the court may notify an appropriate adult to be present and, after the pronouncement of judgment, serve the written judgment on an adult relative of the minor defendant."
+        },
+        "noLabel": {
+          "en": "Article 579."
+        },
+        "chapter": {
+          "en": "Section 3 Trial"
+        }
+      },
+      {
+        "no": 580,
+        "text": {
+          "en": "When sending a minor offender to prison to serve his penalty or to community correction, the people's court shall deliver the investigation report on the minor offender and the materials on his conduct during the trial of the case, together with the relevant legal documents, to the executing organ."
+        },
+        "noLabel": {
+          "en": "Article 580."
+        },
+        "chapter": {
+          "en": "Section 4 Execution"
+        }
+      },
+      {
+        "no": 581,
+        "text": {
+          "en": "The criminal record of a minor who was under 18 years of age at the time of committing the crime and who was sentenced to a penalty of not more than five years of fixed-term imprisonment or exempted from criminal punishment shall be sealed.\nWhere a judicial organ or a relevant unit applies to the people's court to inquire into a sealed criminal record, it shall provide the reasons and basis for the inquiry. The people's court shall promptly decide whether to agree to the application for inquiry."
+        },
+        "noLabel": {
+          "en": "Article 581."
+        },
+        "chapter": {
+          "en": "Section 4 Execution"
+        }
+      },
+      {
+        "no": 582,
+        "text": {
+          "en": "A people's court may establish contact with a juvenile offender correctional institution and other places of serving sentence, learn about the reform of minor offenders, assist in assistance and education and reform work, and may conduct return visits and inspections of minor offenders serving sentences."
+        },
+        "noLabel": {
+          "en": "Article 582."
+        },
+        "chapter": {
+          "en": "Section 4 Execution"
+        }
+      },
+      {
+        "no": 583,
+        "text": {
+          "en": "Where a people's court considers it necessary, it may urge the parents or other guardians of a minor offender taken back into custody to serve his sentence to visit him promptly."
+        },
+        "noLabel": {
+          "en": "Article 583."
+        },
+        "chapter": {
+          "en": "Section 4 Execution"
+        }
+      },
+      {
+        "no": 584,
+        "text": {
+          "en": "In respect of a minor offender sentenced to public surveillance, given a suspended sentence, ruled parole or decided on temporary execution outside prison, the people's court may assist the community correction institution in formulating assistance and education measures."
+        },
+        "noLabel": {
+          "en": "Article 584."
+        },
+        "chapter": {
+          "en": "Section 4 Execution"
+        }
+      },
+      {
+        "no": 585,
+        "text": {
+          "en": "A people's court may, in due course, visit a minor offender sentenced to public surveillance, given a suspended sentence, exempted from criminal punishment, ruled parole or decided on temporary execution outside prison, and his family, learn about the management and education of the minor offender, guide the family of the minor offender to assume responsibility for discipline and education, and create a favourable environment for the minor offender to turn over a new leaf."
+        },
+        "noLabel": {
+          "en": "Article 585."
+        },
+        "chapter": {
+          "en": "Section 4 Execution"
+        }
+      },
+      {
+        "no": 586,
+        "text": {
+          "en": "In respect of a minor offender sentenced to public surveillance, given a suspended sentence, exempted from criminal punishment, ruled parole or decided on temporary execution outside prison, where conditions for schooling or employment exist, the people's court may put forward recommendations to the relevant departments on his resettlement and attach the necessary materials."
+        },
+        "noLabel": {
+          "en": "Article 586."
+        },
+        "chapter": {
+          "en": "Section 4 Execution"
+        }
+      },
+      {
+        "no": 587,
+        "text": {
+          "en": "In respect of a case of public prosecution meeting the provisions of Article 288 of the Criminal Procedure Law in which the facts are clear and the evidence is sufficient, the people's court shall inform the parties that they may reach a settlement themselves; where a party applies, the people's court may preside over consultation between the parties with a view to reaching a settlement.\nAccording to the circumstances of the case, the people's court may invite people's mediators, defenders, agents ad litem and relatives and friends of the parties to participate in facilitating a settlement between the parties."
+        },
+        "noLabel": {
+          "en": "Article 587."
+        },
+        "chapter": {
+          "en": "Chapter XXIII Procedure for Public Prosecution Cases in Which the Parties Reach a Settlement"
+        }
+      },
+      {
+        "no": 588,
+        "text": {
+          "en": "In a case of public prosecution meeting the provisions of Article 288 of the Criminal Procedure Law, where the victim has died, his close relatives may reach a settlement with the defendant. Where there are several close relatives, a settlement agreement shall be reached with the consent of all the close relatives of the first order of succession.\nWhere the victim is a person without capacity for conduct or with limited capacity for conduct, his statutory agent or close relatives may reach a settlement on his behalf."
+        },
+        "noLabel": {
+          "en": "Article 588."
+        },
+        "chapter": {
+          "en": "Chapter XXIII Procedure for Public Prosecution Cases in Which the Parties Reach a Settlement"
+        }
+      },
+      {
+        "no": 589,
+        "text": {
+          "en": "A close relative of the defendant may, with the defendant's consent, reach a settlement on his behalf.\nWhere the defendant is a person with limited capacity for conduct, his statutory agent may reach a settlement on his behalf.\nWhere the statutory agent or a close relative of the defendant reaches a settlement on his behalf in accordance with the preceding two paragraphs, matters such as an apology agreed in the settlement agreement shall be performed by the defendant himself."
+        },
+        "noLabel": {
+          "en": "Article 589."
+        },
+        "chapter": {
+          "en": "Chapter XXIII Procedure for Public Prosecution Cases in Which the Parties Reach a Settlement"
+        }
+      },
+      {
+        "no": 590,
+        "text": {
+          "en": "In respect of a written settlement agreement prepared under the auspices of a public security organ or a people's procuratorate, where a party raises an objection, the people's court shall examine it. Where, upon examination, the settlement is voluntary and lawful, it shall be confirmed and there is no need to prepare a new written settlement agreement; where the settlement violates the principles of voluntariness and lawfulness, it shall be determined to be invalid. Where, after a settlement agreement is determined to be invalid, both parties reach a new settlement, the people's court shall preside over the preparation of a new written settlement agreement."
+        },
+        "noLabel": {
+          "en": "Article 590."
+        },
+        "chapter": {
+          "en": "Chapter XXIII Procedure for Public Prosecution Cases in Which the Parties Reach a Settlement"
+        }
+      },
+      {
+        "no": 591,
+        "text": {
+          "en": "During the trial, where both parties reach a settlement, the people's court shall hear the opinions of the parties, their statutory agents and other relevant persons. Where both parties reach a settlement outside court, the people's court shall notify the people's procuratorate and hear its opinions. Where, upon examination, the settlement is voluntary and lawful, it shall preside over the preparation of a written settlement agreement."
+        },
+        "noLabel": {
+          "en": "Article 591."
+        },
+        "chapter": {
+          "en": "Chapter XXIII Procedure for Public Prosecution Cases in Which the Parties Reach a Settlement"
+        }
+      },
+      {
+        "no": 592,
+        "text": {
+          "en": "A written settlement agreement shall include the following:\n(1) the defendant admits the crime he has committed, has no objection to the criminal facts and sincerely repents;\n(2) the defendant obtains the victim's forgiveness by apologising to the victim, compensating for loss and other means; where compensation for loss is involved, the amount and method of compensation shall be stated; where a civil action ancillary to the criminal proceedings has been brought, the plaintiff in the civil action ancillary to the criminal proceedings shall withdraw the action;\n(3) the victim voluntarily settles and requests or agrees that a lenient punishment be imposed on the defendant in accordance with law.\nThe written settlement agreement shall be signed by both parties and the judicial officers, but shall not be sealed with the seal of the people's court.\nThe written settlement agreement shall be made in triplicate, with each party holding one copy and the other copy submitted to the people's court and placed in the case file for reference.\nWhere both parties request that the content of compensation for loss in the settlement agreement be kept confidential, the people's court shall permit it and take corresponding confidentiality measures."
+        },
+        "noLabel": {
+          "en": "Article 592."
+        },
+        "chapter": {
+          "en": "Chapter XXIII Procedure for Public Prosecution Cases in Which the Parties Reach a Settlement"
+        }
+      },
+      {
+        "no": 593,
+        "text": {
+          "en": "The content of compensation for loss agreed in a settlement agreement shall be performed by the defendant immediately after the agreement is signed.\nWhere a settlement agreement has been fully performed and a party goes back on his word, the people's court shall not support it, except where there is evidence proving that the settlement violated the principles of voluntariness and lawfulness."
+        },
+        "noLabel": {
+          "en": "Article 593."
+        },
+        "chapter": {
+          "en": "Chapter XXIII Procedure for Public Prosecution Cases in Which the Parties Reach a Settlement"
+        }
+      },
+      {
+        "no": 594,
+        "text": {
+          "en": "Where both parties have already reached a settlement agreement during detection or examination for prosecution and have fully performed it, and the victim or his statutory agent or close relatives then bring a civil action ancillary to the criminal proceedings, the people's court shall not accept it, except where there is evidence proving that the settlement violated the principles of voluntariness and lawfulness."
+        },
+        "noLabel": {
+          "en": "Article 594."
+        },
+        "chapter": {
+          "en": "Chapter XXIII Procedure for Public Prosecution Cases in Which the Parties Reach a Settlement"
+        }
+      },
+      {
+        "no": 595,
+        "text": {
+          "en": "Where, after the victim or his statutory agent or close relatives have brought a civil action ancillary to the criminal proceedings, both parties are willing to settle but the defendant cannot immediately perform the whole obligation of compensation, the people's court shall prepare a written mediation statement annexed to the civil proceedings."
+        },
+        "noLabel": {
+          "en": "Article 595."
+        },
+        "chapter": {
+          "en": "Chapter XXIII Procedure for Public Prosecution Cases in Which the Parties Reach a Settlement"
+        }
+      },
+      {
+        "no": 596,
+        "text": {
+          "en": "In a case in which a settlement agreement is reached, the people's court shall impose a lighter punishment on the defendant; where the conditions for application of a non-custodial penalty are met, a non-custodial penalty shall be applied; where the statutory minimum penalty is still too heavy, the punishment may be mitigated; where, considering the whole case, the circumstances of the crime are minor and no penalty needs to be imposed, criminal punishment may be exempted.\nIn a joint crime case, where some defendants reach a settlement agreement with the victim, a lenient punishment may be imposed on those defendants in accordance with law, but attention shall be paid to maintaining the balance of sentencing in the whole case."
+        },
+        "noLabel": {
+          "en": "Article 596."
+        },
+        "chapter": {
+          "en": "Chapter XXIII Procedure for Public Prosecution Cases in Which the Parties Reach a Settlement"
+        }
+      },
+      {
+        "no": 597,
+        "text": {
+          "en": "Where a settlement agreement is reached, the adjudicative document shall state it and cite the relevant articles of the Criminal Procedure Law."
+        },
+        "noLabel": {
+          "en": "Article 597."
+        },
+        "chapter": {
+          "en": "Chapter XXIII Procedure for Public Prosecution Cases in Which the Parties Reach a Settlement"
+        }
+      },
+      {
+        "no": 598,
+        "text": {
+          "en": "In respect of a case in which a people's procuratorate institutes public prosecution in accordance with Paragraph 1 of Article 291 of the Criminal Procedure Law, the people's court shall focus its examination on the following:\n(1) whether the case falls within the scope of cases to which the procedure for trial by default may apply;\n(2) whether the case falls within the jurisdiction of the court;\n(3) whether the basic circumstances of the defendant are stated, including a clear place of residence outside the territory and means of contact;\n(4) whether the main facts of the crime suspected of the defendant are stated and evidentiary materials attached;\n(5) whether it is stated whether the defendant has close relatives and the names, identities, addresses and means of contact of the close relatives;\n(6) whether the type, quantity, value and location of the illegal gains and other property involved in the case are listed and evidentiary materials attached;\n(7) whether a list of the illegal gains and other property involved in the case that have been sealed up, distrained or frozen and the relevant legal formalities are attached.\nWhere a translation of the materials provided in the preceding paragraph is needed, the people's court shall require the people's procuratorate to transfer it together."
+        },
+        "noLabel": {
+          "en": "Article 598."
+        },
+        "chapter": {
+          "en": "Chapter XXIV Procedure for Trial in Absentia"
+        }
+      },
+      {
+        "no": 599,
+        "text": {
+          "en": "In respect of a case in which a people's procuratorate institutes public prosecution in accordance with Paragraph 1 of Article 291 of the Criminal Procedure Law, after examination the people's court shall deal with the matter respectively according to the following circumstances:\n(1) where the conditions for application of the procedure for trial by default are met, the case falls within the jurisdiction of the court and the materials are complete, it shall accept the case;\n(2) where the case does not fall within the scope of cases to which the procedure for trial by default may apply, does not fall within the jurisdiction of the court, or does not meet the other conditions for application of the procedure for trial by default, it shall return the case to the people's procuratorate;\n(3) where the materials are incomplete, it shall notify the people's procuratorate to supplement them within 30 days; where they cannot be supplemented within 30 days, it shall return the case to the people's procuratorate."
+        },
+        "noLabel": {
+          "en": "Article 599."
+        },
+        "chapter": {
+          "en": "Chapter XXIV Procedure for Trial in Absentia"
+        }
+      },
+      {
+        "no": 600,
+        "text": {
+          "en": "In respect of a case in which a people's procuratorate institutes public prosecution in accordance with Paragraph 1 of Article 291 of the Criminal Procedure Law, after docketing the case the people's court shall serve the summons and a copy of the bill of indictment on the defendant, and the summons shall state the time limit for the defendant to appear and the legal consequences of failing to appear as required; it shall serve a copy of the bill of indictment on the close relatives of the defendant, inform them that they are entitled to entrust a defender on his behalf, and notify them to urge the defendant to surrender."
+        },
+        "noLabel": {
+          "en": "Article 600."
+        },
+        "chapter": {
+          "en": "Chapter XXIV Procedure for Trial in Absentia"
+        }
+      },
+      {
+        "no": 601,
+        "text": {
+          "en": "Where a people's court tries a case in which a people's procuratorate institutes public prosecution in accordance with Paragraph 1 of Article 291 of the Criminal Procedure Law, the defendant is entitled to entrust one or two defenders, or his close relatives may entrust one or two defenders on his behalf. Where a lawyer is entrusted to serve as defender, a lawyer who has the qualification of a lawyer of the People's Republic of China and has lawfully obtained a practice certificate shall be entrusted; where the entrustment is made outside the territory, the power of attorney shall be notarised and authenticated in accordance with Article 486 of these Interpretations.\nWhere the defendant and his close relatives have not entrusted a defender, the people's court shall notify the legal aid institution to assign a lawyer to defend the defendant.\nWhere the defendant and his close relatives refuse the lawyer assigned by the legal aid institution, the matter shall be dealt with in accordance with Paragraph 2 of Article 50 of these Interpretations."
+        },
+        "noLabel": {
+          "en": "Article 601."
+        },
+        "chapter": {
+          "en": "Chapter XXIV Procedure for Trial in Absentia"
+        }
+      },
+      {
+        "no": 602,
+        "text": {
+          "en": "Where a people's court tries a case in which a people's procuratorate institutes public prosecution in accordance with Paragraph 1 of Article 291 of the Criminal Procedure Law, and a close relative of the defendant applies to participate in the proceedings, the application shall be made after receipt of the copy of the bill of indictment and before the hearing at first instance, and materials proving the relationship with the defendant shall be provided. Where there are several close relatives, one or two shall be elected to participate in the proceedings.\nWhere a close relative of the defendant makes an application, the people's court shall examine and decide promptly."
+        },
+        "noLabel": {
+          "en": "Article 602."
+        },
+        "chapter": {
+          "en": "Chapter XXIV Procedure for Trial in Absentia"
+        }
+      },
+      {
+        "no": 603,
+        "text": {
+          "en": "Where a people's court tries a case in which a people's procuratorate institutes public prosecution in accordance with Paragraph 1 of Article 291 of the Criminal Procedure Law, the relevant provisions on ordinary procedure for cases of public prosecution at first instance shall apply by reference. Where a close relative of the defendant participates in the proceedings, he may express opinions, produce evidence, apply to the court to notify witnesses, appraisers and the like to appear in court, and conduct debate."
+        },
+        "noLabel": {
+          "en": "Article 603."
+        },
+        "chapter": {
+          "en": "Chapter XXIV Procedure for Trial in Absentia"
+        }
+      },
+      {
+        "no": 604,
+        "text": {
+          "en": "In respect of a case in which a people's procuratorate institutes public prosecution in accordance with Paragraph 1 of Article 291 of the Criminal Procedure Law, after the trial the people's court shall make a judgment or ruling by reference to Article 295 of these Interpretations.\nA judgment of guilty made shall meet the standard of proof of reliable and sufficient evidence.\nWhere the charge determined at the trial is not a charge provided in Paragraph 1 of Article 291 of the Criminal Procedure Law, the trial shall be terminated.\nIn a case tried under the procedure for trial by default, the illegal gains and other property involved in the case may be dealt with together."
+        },
+        "noLabel": {
+          "en": "Article 604."
+        },
+        "chapter": {
+          "en": "Chapter XXIV Procedure for Trial in Absentia"
+        }
+      },
+      {
+        "no": 605,
+        "text": {
+          "en": "Where the defendant lacks the capacity to stand trial because of a serious illness and is unable to appear in court for trial, the trial has been suspended for more than six months, the defendant is still unable to appear in court, and the defendant and his statutory agent or close relatives apply for or consent to the resumption of the trial, the people's court may try the case by default in accordance with Article 296 of the Criminal Procedure Law.\nWhere the circumstances provided in the preceding paragraph exist but the defendant is unable to express his wishes, his statutory agent or close relatives may apply for or consent to the resumption of the trial on his behalf."
+        },
+        "noLabel": {
+          "en": "Article 605."
+        },
+        "chapter": {
+          "en": "Chapter XXIV Procedure for Trial in Absentia"
+        }
+      },
+      {
+        "no": 606,
+        "text": {
+          "en": "Where the defendant dies after the people's court accepts the case, it shall rule to terminate the trial; however, where there is evidence proving that the defendant is innocent and his innocence is confirmed through a trial by default, a judgment shall be made declaring the defendant not guilty.\nThe phrase \"there is evidence proving that the defendant is innocent and his innocence is confirmed through a trial by default\" in the preceding paragraph includes the circumstances in which the facts of the case are clear and the evidence is reliable and sufficient and the defendant is determined to be innocent in accordance with law, and the circumstances in which the evidence is insufficient and the defendant cannot be determined to be guilty."
+        },
+        "noLabel": {
+          "en": "Article 606."
+        },
+        "chapter": {
+          "en": "Chapter XXIV Procedure for Trial in Absentia"
+        }
+      },
+      {
+        "no": 607,
+        "text": {
+          "en": "In a case retried by a people's court in accordance with the procedure for trial supervision, where the defendant dies, the case may be tried by default. Where there is evidence proving that the defendant is innocent and his innocence is confirmed through a trial by default, a judgment shall be made declaring the defendant not guilty; where a crime is constituted but the sentence imposed by the original judgment was abnormally heavy, a judgment shall be made in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 607."
+        },
+        "chapter": {
+          "en": "Chapter XXIV Procedure for Trial in Absentia"
+        }
+      },
+      {
+        "no": 608,
+        "text": {
+          "en": "Where a people's court tries a case by default, and this Chapter contains no provision, the relevant provisions of these Interpretations shall apply by reference."
+        },
+        "noLabel": {
+          "en": "Article 608."
+        },
+        "chapter": {
+          "en": "Chapter XXIV Procedure for Trial in Absentia"
+        }
+      },
+      {
+        "no": 609,
+        "text": {
+          "en": "The criminal cases of \"embezzlement and bribery, terrorist activities and the like\" provided in Article 298 of the Criminal Procedure Law mean the following cases:\n(1) cases of duty-related crimes such as embezzlement and bribery, and dereliction of duty and malfeasance;\n(2) cases of the relevant terrorist activity crimes provided in Chapter II of the Specific Provisions of the Criminal Law, and cases of crimes such as homicide, explosion and kidnapping committed by terrorist organisations or terrorist personnel;\n(3) cases of crimes endangering national security, smuggling, money laundering, financial fraud, organising a triad nature organisation, and drug crimes;\n(4) cases of telecommunications fraud and online fraud."
+        },
+        "noLabel": {
+          "en": "Article 609."
+        },
+        "chapter": {
+          "en": "Chapter XXV Procedure for Confiscation of Illegal Gains in Cases Where Criminal Suspects or Defendants Flee or Die"
+        }
+      },
+      {
+        "no": 610,
+        "text": {
+          "en": "A criminal case having a relatively major impact within a province, autonomous region or municipality directly under the Central Government or throughout the country, or a criminal case in which the criminal suspect or defendant has fled outside the territory, shall be determined to be a \"major criminal case\" as provided in Paragraph 1 of Article 298 of the Criminal Procedure Law."
+        },
+        "noLabel": {
+          "en": "Article 610."
+        },
+        "chapter": {
+          "en": "Chapter XXV Procedure for Confiscation of Illegal Gains in Cases Where Criminal Suspects or Defendants Flee or Die"
+        }
+      },
+      {
+        "no": 611,
+        "text": {
+          "en": "Where a criminal suspect or defendant has died and his illegal gains and other property involved in the case should be recovered in accordance with the provisions of the Criminal Law, and the people's procuratorate applies for confiscation of the illegal gains, the people's court shall accept the application in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 611."
+        },
+        "chapter": {
+          "en": "Chapter XXV Procedure for Confiscation of Illegal Gains in Cases Where Criminal Suspects or Defendants Flee or Die"
+        }
+      },
+      {
+        "no": 612,
+        "text": {
+          "en": "In respect of an application for confiscation of illegal gains made by a people's procuratorate, the people's court shall examine the following:\n(1) whether the case falls within the scope of cases to which the procedure for confiscation of illegal gains may apply;\n(2) whether the case falls within the jurisdiction of the court;\n(3) whether the basic circumstances of the criminal suspect or defendant and the circumstances of the suspected crime are stated, and evidentiary materials attached;\n(4) whether the circumstances of the criminal suspect or defendant having fled, being wanted, having escaped, having unknown whereabouts or having died are stated, and evidentiary materials attached;\n(5) whether the type, quantity, value and location of the illegal gains and other property involved in the case are listed, and evidentiary materials attached;\n(6) whether a list of the illegal gains and other property involved in the case that have been sealed up, distrained or frozen and the legal formalities are attached;\n(7) whether it is stated whether the criminal suspect or defendant has interested persons and the names, identities, addresses, means of contact and claims of the interested persons;\n(8) whether the reasons and legal basis for applying for confiscation are stated;\n(9) other content and materials that need to be examined in accordance with law.\nWhere a translation of the materials provided in the preceding paragraph is needed, the people's court shall require the people's procuratorate to transfer it together."
+        },
+        "noLabel": {
+          "en": "Article 612."
+        },
+        "chapter": {
+          "en": "Chapter XXV Procedure for Confiscation of Illegal Gains in Cases Where Criminal Suspects or Defendants Flee or Die"
+        }
+      },
+      {
+        "no": 613,
+        "text": {
+          "en": "In respect of an application for confiscation of illegal gains, the people's court shall complete the examination within 30 days and deal with the matter respectively according to the following circumstances:\n(1) where the case falls within the scope of cases accepted on an application for confiscation of illegal gains and within the jurisdiction of the court, the materials are complete and there is evidence proving the criminal facts, it shall accept the application;\n(2) where the case does not fall within the scope of cases accepted on an application for confiscation of illegal gains or within the jurisdiction of the court, it shall return the application to the people's procuratorate;\n(3) where the application for confiscation of illegal gains does not meet the standard of \"there is evidence proving the criminal facts\", it shall notify the people's procuratorate to withdraw the application;\n(4) where the materials are incomplete, it shall notify the people's procuratorate to supplement them within seven days; where they cannot be supplemented within seven days, it shall return the application to the people's procuratorate.\nWhere the people's procuratorate has not yet sealed up, distrained or frozen the property for which confiscation is applied, or the period of sealing up, distraint or freezing is about to expire, and the property involved in the case is in danger of being concealed, transferred, damaged or destroyed, the people's court may seal up, distrain or freeze the property for which confiscation is applied."
+        },
+        "noLabel": {
+          "en": "Article 613."
+        },
+        "chapter": {
+          "en": "Chapter XXV Procedure for Confiscation of Illegal Gains in Cases Where Criminal Suspects or Defendants Flee or Die"
+        }
+      },
+      {
+        "no": 614,
+        "text": {
+          "en": "After accepting an application for confiscation of illegal gains, the people's court shall issue a public announcement within 15 days. The public announcement shall state the following:\n(1) the cause of action and the origin of the case;\n(2) the basic circumstances of the criminal suspect or defendant;\n(3) the facts of the crime suspected of the criminal suspect or defendant;\n(4) the circumstances of the criminal suspect or defendant having fled, being wanted, having escaped, having unknown whereabouts or having died;\n(5) the type, quantity, value and location of the property for which confiscation is applied, and the list of property already sealed up, distrained or frozen and the legal formalities;\n(6) the relevant facts showing that the property for which confiscation is applied is illegal gains or other property involved in the case;\n(7) the reasons and legal basis for applying for confiscation;\n(8) the time limit and manner for interested persons to apply to participate in the proceedings, and the adverse legal consequences they may bear if they fail to apply to participate in the proceedings within that time limit and in that manner;\n(9) other circumstances that should be announced.\nThe period of public announcement shall be six months, and the provisions on suspension, interruption and extension shall not apply during the period of public announcement."
+        },
+        "noLabel": {
+          "en": "Article 614."
+        },
+        "chapter": {
+          "en": "Chapter XXV Procedure for Confiscation of Illegal Gains in Cases Where Criminal Suspects or Defendants Flee or Die"
+        }
+      },
+      {
+        "no": 615,
+        "text": {
+          "en": "The public announcement shall be published in a newspaper publicly distributed throughout the country, in an information network medium and on the official website of the Supreme People's Court, and shall be posted on the notice board of the people's court. Where necessary, the public announcement may also be published at the place of crime, the place of residence of the criminal suspect or defendant or the place where the property for which confiscation is applied is located. The date of the last published announcement shall be the date of the public announcement. Where a public announcement is published, the publication process shall be recorded by photographing, recording or other means.\nWhere the people's court already has the means of contact of an interested person within the territory, it shall directly serve a notice containing the content of the public announcement; where direct service is difficult, it may entrust service, or serve by post. With the consent of the person to be served, the content of the public announcement may be communicated by fax, electronic mail or other means capable of confirming receipt, and this shall be recorded in the file.\nWhere the people's court already has the means of contact of a criminal suspect, defendant or interested person outside the territory and the person to be served consents, the content of the public announcement may be communicated by fax, electronic mail or other means capable of confirming receipt, and this shall be recorded in the file; where the person to be served has not consented, or the people's court does not have the means of contact of the criminal suspect, defendant or interested person outside the territory, and the competent authority of the country or region in which he is located clearly requests that a notice containing the content of the public announcement be served on the person to be served, the people's court may decide whether to effect service. Where it decides to effect service, it shall request the country or region in which he is located to provide judicial assistance in accordance with Article 493 of these Interpretations."
+        },
+        "noLabel": {
+          "en": "Article 615."
+        },
+        "chapter": {
+          "en": "Chapter XXV Procedure for Confiscation of Illegal Gains in Cases Where Criminal Suspects or Defendants Flee or Die"
+        }
+      },
+      {
+        "no": 616,
+        "text": {
+          "en": "The \"other interested persons\" provided in Paragraph 2 of Article 299 and Paragraph 2 of Article 300 of the Criminal Procedure Law mean natural persons and units, other than the close relatives of the criminal suspect or defendant, who assert rights over the property for which confiscation is applied."
+        },
+        "noLabel": {
+          "en": "Article 616."
+        },
+        "chapter": {
+          "en": "Chapter XXV Procedure for Confiscation of Illegal Gains in Cases Where Criminal Suspects or Defendants Flee or Die"
+        }
+      },
+      {
+        "no": 617,
+        "text": {
+          "en": "Where a close relative or other interested person of the criminal suspect or defendant applies to participate in the proceedings, the application shall be made within the period of public announcement. A close relative of the criminal suspect or defendant shall provide materials proving his relationship with the criminal suspect or defendant, and another interested person shall provide evidentiary materials proving his assertion of rights over the illegal gains and other property involved in the case.\nAn interested person may entrust an agent ad litem to participate in the proceedings. Where a lawyer is entrusted to serve as agent ad litem, a lawyer who has the qualification of a lawyer of the People's Republic of China and has lawfully obtained a practice certificate shall be entrusted; where the entrustment is made outside the territory, the power of attorney shall be notarised and authenticated in accordance with Article 486 of these Interpretations.\nWhere an interested person applies to participate in the proceedings after the expiry of the period of public announcement and can give a reasonable explanation, the people's court shall permit it."
+        },
+        "noLabel": {
+          "en": "Article 617."
+        },
+        "chapter": {
+          "en": "Chapter XXV Procedure for Confiscation of Illegal Gains in Cases Where Criminal Suspects or Defendants Flee or Die"
+        }
+      },
+      {
+        "no": 618,
+        "text": {
+          "en": "Where a criminal suspect or defendant has fled outside the territory and entrusts an agent ad litem to apply to participate in the proceedings, and the competent authority of the country or region in which the illegal gains or other property involved in the case is located has clearly expressed an opinion in support, the people's court may permit it.\nWhere the people's court permits participation in the proceedings, the agent ad litem of the criminal suspect or defendant shall exercise procedural rights in accordance with the provisions of these Interpretations on agents ad litem of interested persons."
+        },
+        "noLabel": {
+          "en": "Article 618."
+        },
+        "chapter": {
+          "en": "Chapter XXV Procedure for Confiscation of Illegal Gains in Cases Where Criminal Suspects or Defendants Flee or Die"
+        }
+      },
+      {
+        "no": 619,
+        "text": {
+          "en": "After the expiry of the period of public announcement, the people's court shall form a collegial panel to try the case of an application for confiscation of illegal gains.\nWhere an interested person applies to participate or entrusts an agent ad litem to participate in the proceedings, the case shall be tried at a hearing. Where no interested person applies to participate in the proceedings, or an interested person and his agent ad litem refuse to appear in court without justified reasons, the case may be tried without a hearing.\nAfter the people's court fixes the date of the hearing, it shall notify the people's procuratorate, the interested person and his agent ad litem, the witnesses, the appraisers and the interpreters of the time and place of the hearing. The notice shall be served in the manner provided in Paragraph 2 and Paragraph 3 of Article 615 of these Interpretations no later than three days before the hearing; where the person to be served is outside the territory, it shall be served no later than 30 days before the hearing."
+        },
+        "noLabel": {
+          "en": "Article 619."
+        },
+        "chapter": {
+          "en": "Chapter XXV Procedure for Confiscation of Illegal Gains in Cases Where Criminal Suspects or Defendants Flee or Die"
+        }
+      },
+      {
+        "no": 620,
+        "text": {
+          "en": "A case of an application for confiscation of illegal gains shall be tried at a hearing in accordance with the following procedure:\n(1) after the presiding judge declares the beginning of the court investigation, the procuratorial officer shall first read out the application, and then the interested person and the agent ad litem shall express opinions;\n(2) the court shall successively investigate whether the criminal suspect or defendant committed a major crime such as embezzlement and bribery or a terrorist activity crime and has been wanted for one year without being apprehended, or whether he has died, and whether the property for which confiscation is applied should be recovered in accordance with law; during the investigation, the procuratorial officer shall first produce evidence, and then the interested person and the agent ad litem shall produce evidence, and cross-examination shall be conducted;\n(3) at the stage of court debate, the procuratorial officer shall first speak, and then the interested person and the agent ad litem shall speak, and debate shall be conducted.\nWhere an interested person, after receiving the notice, refuses to appear in court without justified reasons, or leaves the court midway without the permission of the court, the trial may be converted into one without a hearing, except where other interested persons participate in the proceedings."
+        },
+        "noLabel": {
+          "en": "Article 620."
+        },
+        "chapter": {
+          "en": "Chapter XXV Procedure for Confiscation of Illegal Gains in Cases Where Criminal Suspects or Defendants Flee or Die"
+        }
+      },
+      {
+        "no": 621,
+        "text": {
+          "en": "In respect of a case of an application for confiscation of illegal gains, after the trial the people's court shall deal with the matter respectively according to the following circumstances:\n(1) where the property for which confiscation is applied is illegal gains or other property involved in the case, it shall be ruled to be confiscated, except that which should be returned to the victim in accordance with law;\n(2) where the conditions provided in Paragraph 1 of Article 298 of the Criminal Procedure Law are not met, it shall rule to reject the application and lift the measures of sealing up, distraint and freezing.\nWhere there is a high probability that the property for which confiscation is applied is illegal gains or other property involved in the case, it shall be determined to be \"property for which confiscation is applied that is illegal gains or other property involved in the case\" as provided in the preceding paragraph. In a case of the crime of holding a huge amount of property with unidentified sources, where no interested person asserts rights over the illegal gains or other property involved in the case, or where an interested person asserts rights but the evidence provided does not reach the corresponding standard of proof, it shall be deemed that \"the property for which confiscation is applied is illegal gains or other property involved in the case\"."
+        },
+        "noLabel": {
+          "en": "Article 621."
+        },
+        "chapter": {
+          "en": "Chapter XXV Procedure for Confiscation of Illegal Gains in Cases Where Criminal Suspects or Defendants Flee or Die"
+        }
+      },
+      {
+        "no": 622,
+        "text": {
+          "en": "In respect of a ruling on confiscation of illegal gains or on rejection of an application, a close relative or other interested person of the criminal suspect or defendant, or the people's procuratorate, may file an appeal or lodge a protest within five days."
+        },
+        "noLabel": {
+          "en": "Article 622."
+        },
+        "chapter": {
+          "en": "Chapter XXV Procedure for Confiscation of Illegal Gains in Cases Where Criminal Suspects or Defendants Flee or Die"
+        }
+      },
+      {
+        "no": 623,
+        "text": {
+          "en": "In respect of a case on appeal or protest against a ruling of first instance on confiscation of illegal gains or on rejection of an application, after the trial the people's court of second instance shall deal with the matter respectively according to the following circumstances:\n(1) where the ruling of first instance clearly ascertains the facts and correctly applies the law, it shall reject the appeal or protest and uphold the original ruling;\n(2) where the ruling of first instance clearly ascertains the facts but errs in the application of law, it shall alter the original ruling;\n(3) where the ruling of first instance does not clearly ascertain the facts, it may alter the original ruling after clarifying the facts, or may revoke the original ruling and remand the case to the people's court of original trial for retrial;\n(4) where the ruling of first instance violates statutory procedure and the impartiality of the trial may be affected, it shall revoke the original ruling and remand the case to the people's court of original trial for retrial.\nAfter the people's court of first instance makes a ruling in a case remanded for retrial, the people's court of second instance shall, in respect of an appeal or protest against the ruling of the people's court of first instance, make a ruling in accordance with law and may not remand the case again to the people's court of original trial for retrial; however, this does not apply where the people's court of first instance violates statutory procedure during the retrial and the impartiality of the trial may be affected."
+        },
+        "noLabel": {
+          "en": "Article 623."
+        },
+        "chapter": {
+          "en": "Chapter XXV Procedure for Confiscation of Illegal Gains in Cases Where Criminal Suspects or Defendants Flee or Die"
+        }
+      },
+      {
+        "no": 624,
+        "text": {
+          "en": "Where an interested person did not participate in the proceedings at first instance other than intentionally or through gross negligence and applies to participate in the proceedings during the second instance, the people's court shall permit it, revoke the original ruling and remand the case to the people's court of original trial for retrial."
+        },
+        "noLabel": {
+          "en": "Article 624."
+        },
+        "chapter": {
+          "en": "Chapter XXV Procedure for Confiscation of Illegal Gains in Cases Where Criminal Suspects or Defendants Flee or Die"
+        }
+      },
+      {
+        "no": 625,
+        "text": {
+          "en": "In the course of trying a case of an application for confiscation of illegal gains, where the criminal suspect or defendant at large is apprehended, the people's court shall rule to terminate the trial. Where the people's procuratorate institutes public prosecution before the people's court that originally accepted the application, the case may be tried by the same judicial organisation."
+        },
+        "noLabel": {
+          "en": "Article 625."
+        },
+        "chapter": {
+          "en": "Chapter XXV Procedure for Confiscation of Illegal Gains in Cases Where Criminal Suspects or Defendants Flee or Die"
+        }
+      },
+      {
+        "no": 626,
+        "text": {
+          "en": "In the course of the trial of a case, where the defendant escapes or dies and the provisions of Paragraph 1 of Article 298 of the Criminal Procedure Law are met, the people's procuratorate may apply to the people's court for confiscation of illegal gains; where the provisions of Paragraph 1 of Article 291 of the Criminal Procedure Law are met, the people's procuratorate may institute public prosecution before the people's court in accordance with the procedure for trial by default.\nWhere the people's procuratorate applies to the people's court that originally accepted the case for confiscation of illegal gains, the case may be tried by the same judicial organisation."
+        },
+        "noLabel": {
+          "en": "Article 626."
+        },
+        "chapter": {
+          "en": "Chapter XXV Procedure for Confiscation of Illegal Gains in Cases Where Criminal Suspects or Defendants Flee or Die"
+        }
+      },
+      {
+        "no": 627,
+        "text": {
+          "en": "The time limit for trying a case of an application for confiscation of illegal gains shall be governed by reference to the time limits for trial of cases of public prosecution under ordinary procedure of first instance and under procedure of second instance.\nThe period of public announcement and the time taken to request criminal judicial assistance shall not be counted in the time limit for trial."
+        },
+        "noLabel": {
+          "en": "Article 627."
+        },
+        "chapter": {
+          "en": "Chapter XXV Procedure for Confiscation of Illegal Gains in Cases Where Criminal Suspects or Defendants Flee or Die"
+        }
+      },
+      {
+        "no": 628,
+        "text": {
+          "en": "After a ruling on confiscation of illegal gains takes effect, where the criminal suspect or defendant is apprehended and raises an objection to the ruling on confiscation, and the people's procuratorate institutes public prosecution before the people's court that made the ruling, the case may be tried by the same judicial organisation.\nAfter the trial, the people's court shall deal with the matter respectively according to the following circumstances:\n(1) where the original ruling is correct, it shall be upheld and no judgment shall be made in respect of the property involved in the case;\n(2) where the original ruling is indeed erroneous, it shall revoke the original ruling and deal with the relevant property involved in the case together in the judgment.\nWhere an effective ruling on confiscation of a people's court is indeed erroneous, it shall be corrected in accordance with the procedure for trial supervision, except in the circumstances provided in Paragraph 1."
+        },
+        "noLabel": {
+          "en": "Article 628."
+        },
+        "chapter": {
+          "en": "Chapter XXV Procedure for Confiscation of Illegal Gains in Cases Where Criminal Suspects or Defendants Flee or Die"
+        }
+      },
+      {
+        "no": 629,
+        "text": {
+          "en": "In trying a case of an application for confiscation of illegal gains, where this Chapter contains no provision, the people's court shall apply the relevant provisions of these Interpretations by reference."
+        },
+        "noLabel": {
+          "en": "Article 629."
+        },
+        "chapter": {
+          "en": "Chapter XXV Procedure for Confiscation of Illegal Gains in Cases Where Criminal Suspects or Defendants Flee or Die"
+        }
+      },
+      {
+        "no": 630,
+        "text": {
+          "en": "A person with mental illness who commits an act of violence, endangering public security or seriously endangering the personal safety of citizens, whose social harmfulness has reached the level of a crime but who, upon appraisal through statutory procedure, bears no criminal responsibility in accordance with law, may be subject to compulsory medical treatment where there is a possibility that he will continue to endanger society."
+        },
+        "noLabel": {
+          "en": "Article 630."
+        },
+        "chapter": {
+          "en": "Chapter XXVI Procedure for Compulsory Medical Treatment of Mentally Ill Persons Who Are Not Criminally Liable in Accordance with Law"
+        }
+      },
+      {
+        "no": 631,
+        "text": {
+          "en": "A case in which a people's procuratorate applies for compulsory medical treatment of a person with mental illness who bears no criminal responsibility in accordance with law shall be under the jurisdiction of the basic people's court of the place where the respondent committed the act of violence; where trial by the people's court of the place of residence of the respondent is more appropriate, it may be under the jurisdiction of the basic people's court of the place of residence of the respondent."
+        },
+        "noLabel": {
+          "en": "Article 631."
+        },
+        "chapter": {
+          "en": "Chapter XXVI Procedure for Compulsory Medical Treatment of Mentally Ill Persons Who Are Not Criminally Liable in Accordance with Law"
+        }
+      },
+      {
+        "no": 632,
+        "text": {
+          "en": "In respect of an application for compulsory medical treatment made by a people's procuratorate, the people's court shall examine the following:\n(1) whether the case falls within the jurisdiction of the court;\n(2) whether the identity of the respondent and the time, place and means of the act of violence and the harm caused are stated, and evidentiary materials attached;\n(3) whether a forensic psychiatric expert opinion and other evidentiary materials proving that the respondent is a person with mental illness who bears no criminal responsibility in accordance with law are attached;\n(4) whether the name, address and means of contact of the statutory agent of the respondent are stated;\n(5) other matters that need to be examined."
+        },
+        "noLabel": {
+          "en": "Article 632."
+        },
+        "chapter": {
+          "en": "Chapter XXVI Procedure for Compulsory Medical Treatment of Mentally Ill Persons Who Are Not Criminally Liable in Accordance with Law"
+        }
+      },
+      {
+        "no": 633,
+        "text": {
+          "en": "In respect of an application for compulsory medical treatment made by a people's procuratorate, the people's court shall complete the examination within seven days and deal with the matter respectively according to the following circumstances:\n(1) where the case falls within the scope of cases accepted under the procedure for compulsory medical treatment and within the jurisdiction of the court, and the materials are complete, it shall accept the application;\n(2) where the case does not fall within the jurisdiction of the court, it shall return the application to the people's procuratorate;\n(3) where the materials are incomplete, it shall notify the people's procuratorate to supplement them within three days; where they cannot be supplemented within three days, it shall return the application to the people's procuratorate."
+        },
+        "noLabel": {
+          "en": "Article 633."
+        },
+        "chapter": {
+          "en": "Chapter XXVI Procedure for Compulsory Medical Treatment of Mentally Ill Persons Who Are Not Criminally Liable in Accordance with Law"
+        }
+      },
+      {
+        "no": 634,
+        "text": {
+          "en": "In trying a case of compulsory medical treatment, the statutory agent of the respondent or defendant shall be notified to be present; where the statutory agent of the respondent or defendant does not appear after being notified, another close relative of the respondent or defendant may be notified to be present.\nWhere the respondent or defendant has not entrusted an agent ad litem, the people's court shall, within three days from the date of accepting the application for compulsory medical treatment or from the date of discovering that the defendant meets the conditions for compulsory medical treatment, notify the legal aid institution to assign a lawyer to serve as his agent ad litem and provide him with legal assistance."
+        },
+        "noLabel": {
+          "en": "Article 634."
+        },
+        "chapter": {
+          "en": "Chapter XXVI Procedure for Compulsory Medical Treatment of Mentally Ill Persons Who Are Not Criminally Liable in Accordance with Law"
+        }
+      },
+      {
+        "no": 635,
+        "text": {
+          "en": "In trying a case of compulsory medical treatment, a collegial panel shall be formed and the case shall be tried at a hearing. However, this does not apply where the statutory agent of the respondent or defendant requests trial without a hearing and the people's court consents after examination.\nIn trying a case of compulsory medical treatment, the respondent shall be interviewed and the opinions of the victim and his statutory agent shall be heard."
+        },
+        "noLabel": {
+          "en": "Article 635."
+        },
+        "chapter": {
+          "en": "Chapter XXVI Procedure for Compulsory Medical Treatment of Mentally Ill Persons Who Are Not Criminally Liable in Accordance with Law"
+        }
+      },
+      {
+        "no": 636,
+        "text": {
+          "en": "A case of an application for compulsory medical treatment shall be tried at a hearing in accordance with the following procedure:\n(1) after the presiding judge declares the beginning of the court investigation, the procuratorial officer shall first read out the application, and then the statutory agent and the agent ad litem of the respondent shall express opinions;\n(2) the court shall successively investigate whether the respondent committed an act of violence endangering public security or seriously endangering the personal safety of citizens, whether he is a person with mental illness who bears no criminal responsibility in accordance with law, and whether there is a possibility that he will continue to endanger society; during the investigation, the procuratorial officer shall first produce evidence, and then the statutory agent and the agent ad litem of the respondent shall produce evidence, and cross-examination shall be conducted; where necessary, the appraiser may be notified to appear in court to explain the expert opinion;\n(3) at the stage of court debate, the procuratorial officer shall first speak, and then the statutory agent and the agent ad litem of the respondent shall speak, and debate shall be conducted.\nWhere the respondent requests to appear in court and the people's court, upon examination of his physical and mental state, considers that he may appear, it shall permit it. A respondent appearing in court may express opinions at the stages of court investigation and debate.\nWhere the statutory agent and the agent ad litem of the respondent have no objection after the procuratorial officer has read out the application, the court investigation may be simplified."
+        },
+        "noLabel": {
+          "en": "Article 636."
+        },
+        "chapter": {
+          "en": "Chapter XXVI Procedure for Compulsory Medical Treatment of Mentally Ill Persons Who Are Not Criminally Liable in Accordance with Law"
+        }
+      },
+      {
+        "no": 637,
+        "text": {
+          "en": "In respect of a case of an application for compulsory medical treatment, after the trial the people's court shall deal with the matter respectively according to the following circumstances:\n(1) where the conditions for compulsory medical treatment provided in Article 302 of the Criminal Procedure Law are met, it shall make a decision on compulsory medical treatment of the respondent;\n(2) where the respondent is a person with mental illness who bears no criminal responsibility in accordance with law but does not meet the conditions for compulsory medical treatment, it shall make a decision rejecting the application for compulsory medical treatment; where the respondent has already caused a harmful result, it shall at the same time order his family members or guardian to keep him under strict supervision and provide medical treatment;\n(3) where the respondent has full or partial capacity for criminal responsibility and criminal responsibility should be pursued in accordance with law, it shall make a decision rejecting the application for compulsory medical treatment and return the case to the people's procuratorate for handling in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 637."
+        },
+        "chapter": {
+          "en": "Chapter XXVI Procedure for Compulsory Medical Treatment of Mentally Ill Persons Who Are Not Criminally Liable in Accordance with Law"
+        }
+      },
+      {
+        "no": 638,
+        "text": {
+          "en": "In the course of trying a criminal case, where the people's court of first instance discovers that the defendant may meet the conditions for compulsory medical treatment, it shall conduct a forensic psychiatric appraisal of the defendant in accordance with statutory procedure. Where, upon appraisal, the defendant is a person with mental illness who bears no criminal responsibility in accordance with law, the procedure for compulsory medical treatment shall apply and the case shall be tried.\nIn trying a case provided in the preceding paragraph at a hearing, the members of the collegial panel shall first read out the forensic psychiatric expert opinion on the defendant and explain that the defendant may meet the conditions for compulsory medical treatment, and then the public prosecutor and the statutory agent and agent ad litem of the defendant shall express opinions in turn. With the permission of the presiding judge, the public prosecutor and the statutory agent and agent ad litem of the defendant may conduct debate."
+        },
+        "noLabel": {
+          "en": "Article 638."
+        },
+        "chapter": {
+          "en": "Chapter XXVI Procedure for Compulsory Medical Treatment of Mentally Ill Persons Who Are Not Criminally Liable in Accordance with Law"
+        }
+      },
+      {
+        "no": 639,
+        "text": {
+          "en": "In respect of a case provided in the preceding Article, after the trial the people's court shall deal with the matter respectively according to the following circumstances:\n(1) where the defendant meets the conditions for compulsory medical treatment, it shall adjudge that the defendant bears no criminal responsibility and at the same time make a decision on compulsory medical treatment of the defendant;\n(2) where the defendant is a person with mental illness who bears no criminal responsibility in accordance with law but does not meet the conditions for compulsory medical treatment, it shall adjudge the defendant not guilty or bearing no criminal responsibility; where the defendant has already caused a harmful result, it shall at the same time order his family members or guardian to keep him under strict supervision and provide medical treatment;\n(3) where the defendant has full or partial capacity for criminal responsibility and criminal responsibility should be pursued in accordance with law, the trial shall continue under ordinary procedure."
+        },
+        "noLabel": {
+          "en": "Article 639."
+        },
+        "chapter": {
+          "en": "Chapter XXVI Procedure for Compulsory Medical Treatment of Mentally Ill Persons Who Are Not Criminally Liable in Accordance with Law"
+        }
+      },
+      {
+        "no": 640,
+        "text": {
+          "en": "In the course of trying a criminal case, where the people's court of second instance discovers that the defendant may meet the conditions for compulsory medical treatment, it may deal with the case in accordance with the procedure for compulsory medical treatment, or may rule to remand the case to the people's court of original trial for retrial."
+        },
+        "noLabel": {
+          "en": "Article 640."
+        },
+        "chapter": {
+          "en": "Chapter XXVI Procedure for Compulsory Medical Treatment of Mentally Ill Persons Who Are Not Criminally Liable in Accordance with Law"
+        }
+      },
+      {
+        "no": 641,
+        "text": {
+          "en": "Where a people's court decides on compulsory medical treatment, it shall, within five days after making the decision, serve the written decision on compulsory medical treatment and the notice of execution of compulsory medical treatment on the public security organ, and the public security organ shall deliver the person subject to the decision on compulsory medical treatment for compulsory medical treatment."
+        },
+        "noLabel": {
+          "en": "Article 641."
+        },
+        "chapter": {
+          "en": "Chapter XXVI Procedure for Compulsory Medical Treatment of Mentally Ill Persons Who Are Not Criminally Liable in Accordance with Law"
+        }
+      },
+      {
+        "no": 642,
+        "text": {
+          "en": "Where a person subject to a decision on compulsory medical treatment, or the victim and his statutory agent or close relatives, refuses to accept the decision on compulsory medical treatment, he may apply to the people's court at the next higher level for reconsideration within five days from the day following receipt of the written decision. During the reconsideration, execution of the decision on compulsory medical treatment shall not be suspended."
+        },
+        "noLabel": {
+          "en": "Article 642."
+        },
+        "chapter": {
+          "en": "Chapter XXVI Procedure for Compulsory Medical Treatment of Mentally Ill Persons Who Are Not Criminally Liable in Accordance with Law"
+        }
+      },
+      {
+        "no": 643,
+        "text": {
+          "en": "In respect of an application for reconsideration against a decision on compulsory medical treatment, the people's court at the next higher level shall form a collegial panel to conduct the trial and, within one month, make a reconsideration decision respectively according to the following circumstances:\n(1) where the person subject to the decision on compulsory medical treatment meets the conditions for compulsory medical treatment, it shall reject the application for reconsideration and uphold the original decision;\n(2) where the person subject to the decision on compulsory medical treatment does not meet the conditions for compulsory medical treatment, it shall revoke the original decision;\n(3) where the original trial violated statutory procedure and the impartiality of the trial may be affected, it shall revoke the original decision and remand the case to the people's court of original trial for retrial."
+        },
+        "noLabel": {
+          "en": "Article 643."
+        },
+        "chapter": {
+          "en": "Chapter XXVI Procedure for Compulsory Medical Treatment of Mentally Ill Persons Who Are Not Criminally Liable in Accordance with Law"
+        }
+      },
+      {
+        "no": 644,
+        "text": {
+          "en": "In respect of a judgment or decision provided in Item 1 of Article 639 of these Interpretations, where the people's procuratorate lodges a protest and at the same time the person subject to the decision on compulsory medical treatment, the victim and his statutory agent or close relatives apply for reconsideration, the people's court at the next higher level shall deal with the matters together in accordance with the procedure of second instance."
+        },
+        "noLabel": {
+          "en": "Article 644."
+        },
+        "chapter": {
+          "en": "Chapter XXVI Procedure for Compulsory Medical Treatment of Mentally Ill Persons Who Are Not Criminally Liable in Accordance with Law"
+        }
+      },
+      {
+        "no": 645,
+        "text": {
+          "en": "Where a person subject to compulsory medical treatment or his close relatives apply for termination of compulsory medical treatment, the application shall be made to the people's court that decided on the compulsory medical treatment.\nWhere an application for termination of compulsory medical treatment made by a person subject to compulsory medical treatment or his close relatives is rejected by the people's court and the application is made again six months later, the people's court shall accept it."
+        },
+        "noLabel": {
+          "en": "Article 645."
+        },
+        "chapter": {
+          "en": "Chapter XXVI Procedure for Compulsory Medical Treatment of Mentally Ill Persons Who Are Not Criminally Liable in Accordance with Law"
+        }
+      },
+      {
+        "no": 646,
+        "text": {
+          "en": "Where a compulsory medical treatment institution puts forward an opinion on terminating compulsory medical treatment, or a person subject to compulsory medical treatment or his close relatives applies for termination of compulsory medical treatment, the people's court shall examine whether a diagnostic assessment report on the person subject to compulsory medical treatment is attached.\nWhere a compulsory medical treatment institution puts forward an opinion on terminating compulsory medical treatment without attaching a diagnostic assessment report, the people's court shall require it to provide one.\nWhere a person subject to compulsory medical treatment or his close relatives applies to the people's court for termination of compulsory medical treatment and the compulsory medical treatment institution has not provided a diagnostic assessment report, the applicant may apply to the people's court to obtain it. Where necessary, the people's court may entrust an appraisal institution to appraise the person subject to compulsory medical treatment."
+        },
+        "noLabel": {
+          "en": "Article 646."
+        },
+        "chapter": {
+          "en": "Chapter XXVI Procedure for Compulsory Medical Treatment of Mentally Ill Persons Who Are Not Criminally Liable in Accordance with Law"
+        }
+      },
+      {
+        "no": 647,
+        "text": {
+          "en": "Where a compulsory medical treatment institution puts forward an opinion on terminating compulsory medical treatment, or a person subject to compulsory medical treatment or his close relatives applies for termination of compulsory medical treatment, the people's court shall form a collegial panel to conduct the examination and, within one month, deal with the matter respectively according to the following circumstances:\n(1) where the person subject to compulsory medical treatment no longer poses a danger to persons and does not need continued compulsory medical treatment, it shall make a decision terminating compulsory medical treatment, and may order the family members of the person subject to compulsory medical treatment to keep him under strict supervision and provide medical treatment;\n(2) where the person subject to compulsory medical treatment still poses a danger to persons and needs continued compulsory medical treatment, it shall make a decision on continued compulsory medical treatment.\nIn respect of a case provided in the preceding paragraph, the people's court may, where necessary, try it at a hearing and notify the people's procuratorate to send personnel to appear in court.\nThe people's court shall, within five days after making a decision, serve the written decision on the compulsory medical treatment institution, the person applying for termination of compulsory medical treatment, the person subject to the decision on compulsory medical treatment and the people's procuratorate. Where a decision is made to terminate compulsory medical treatment, the compulsory medical treatment institution shall be notified to terminate the compulsory medical treatment on the day it receives the written decision."
+        },
+        "noLabel": {
+          "en": "Article 647."
+        },
+        "chapter": {
+          "en": "Chapter XXVI Procedure for Compulsory Medical Treatment of Mentally Ill Persons Who Are Not Criminally Liable in Accordance with Law"
+        }
+      },
+      {
+        "no": 648,
+        "text": {
+          "en": "Where a people's procuratorate considers that a decision on compulsory medical treatment or a decision terminating compulsory medical treatment is improper and submits written opinions on correction within 20 days after receipt of the written decision, the people's court shall form a separate collegial panel to conduct the trial and make a decision within one month."
+        },
+        "noLabel": {
+          "en": "Article 648."
+        },
+        "chapter": {
+          "en": "Chapter XXVI Procedure for Compulsory Medical Treatment of Mentally Ill Persons Who Are Not Criminally Liable in Accordance with Law"
+        }
+      },
+      {
+        "no": 649,
+        "text": {
+          "en": "In trying a case of compulsory medical treatment, where this Chapter contains no provision, the relevant provisions of these Interpretations shall apply by reference."
+        },
+        "noLabel": {
+          "en": "Article 649."
+        },
+        "chapter": {
+          "en": "Chapter XXVI Procedure for Compulsory Medical Treatment of Mentally Ill Persons Who Are Not Criminally Liable in Accordance with Law"
+        }
+      },
+      {
+        "no": 650,
+        "text": {
+          "en": "A people's court may, according to the circumstances, use video links when interrogating a defendant, pronouncing a judgment or trying cases of commutation of penalty and parole."
+        },
+        "noLabel": {
+          "en": "Article 650."
+        },
+        "chapter": {
+          "en": "Chapter XXVII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 651,
+        "text": {
+          "en": "To bring a private prosecution, file an appeal, lodge an appeal petition or make an application with a people's court, the matter shall be submitted in writing. Where writing is difficult, it may be submitted orally unless otherwise provided, and the staff member of the people's court shall make a record or note it in the file and read it out to the person making the oral statement or hand it to him for reading."
+        },
+        "noLabel": {
+          "en": "Article 651."
+        },
+        "chapter": {
+          "en": "Chapter XXVII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 652,
+        "text": {
+          "en": "Materials such as working records and records of notifications made or formed in the course of the proceedings shall be signed and sealed by the person who made them and other relevant persons. Where a procedural document such as an adjudicative document or a notice is pronounced or served, the person accepting the pronouncement or service shall sign and seal the procedural document or the acknowledgement of service.\nWhere a participant in the proceedings does not sign or seal, he shall affix his fingerprint; a criminal defendant shall, in addition to signing and sealing, also affix his fingerprint.\nWhere a party refuses to sign, seal or affix his fingerprint, the case-handling personnel shall note the circumstances in the procedural document or the record materials; where a witness has witnessed it or there is proof by audio-visual recording, the validity of the relevant procedural document or record materials shall not be affected."
+        },
+        "noLabel": {
+          "en": "Article 652."
+        },
+        "chapter": {
+          "en": "Chapter XXVII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 653,
+        "text": {
+          "en": "The relevant provisions of these Interpretations shall apply to special people's courts such as military courts."
+        },
+        "noLabel": {
+          "en": "Article 653."
+        },
+        "chapter": {
+          "en": "Chapter XXVII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 654,
+        "text": {
+          "en": "The provisions of these Interpretations concerning public security organs shall, in accordance with the relevant provisions of the Criminal Procedure Law, apply to State security organs, the security departments of the armed forces, the China Coast Guard and prisons."
+        },
+        "noLabel": {
+          "en": "Article 654."
+        },
+        "chapter": {
+          "en": "Chapter XXVII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 655,
+        "text": {
+          "en": "These Interpretations shall come into force on 1 March 2021. The Interpretations on Several Issues Concerning the Application of the Criminal Procedure Law of the People's Republic of China issued by the Supreme People's Court on 20 December 2012 (Fa Shi [2012] No. 21) shall be repealed at the same time. Where judicial interpretations and normative documents previously issued by the Supreme People's Court are inconsistent with these Interpretations, these Interpretations shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 655."
+        },
+        "chapter": {
+          "en": "Chapter XXVII Supplementary Provisions"
         }
       }
     ]

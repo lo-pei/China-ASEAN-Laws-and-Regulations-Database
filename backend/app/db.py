@@ -105,6 +105,17 @@ def law_dict(r: sqlite3.Row, with_articles: bool = False) -> Dict[str, Any]:
     return d
 
 
+def _num(v):
+    """REAL 存的条号整数化：21.0 → 21，保留 21.5 这类小数。"""
+    if v is None:
+        return None
+    try:
+        f = float(v)
+    except (TypeError, ValueError):
+        return v
+    return int(f) if f == int(f) else f
+
+
 def article_dict(r: sqlite3.Row) -> Dict[str, Any]:
     text = {}
     if r["text_zh"]:
@@ -114,7 +125,7 @@ def article_dict(r: sqlite3.Row) -> Dict[str, Any]:
     if r["text_orig"]:
         text[r["lang"] or "orig"] = r["text_orig"]
     d = {
-        "no": r["no"],
+        "no": _num(r["no"]),
         "dupIndex": r["dup_index"],
         "noLabel": _j(r["no_label"], None),
         "heading": _j(r["heading"], None),

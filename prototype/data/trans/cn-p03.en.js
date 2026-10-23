@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p03
-   法规 76 部 / 译文 5635 条
+   法规 76 部 / 译文 5640 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -60729,7 +60729,7 @@
     "translatedAt": "2026-10-14",
     "reviewed": "machine",
     "glossaryVersion": "calr-terms-2026-10-v2",
-    "completenessNote": "逐条对译，共 150 条；条号与官方原文一一对应，未合并、未省略。",
+    "completenessNote": "逐条对译，共 155 条；条号与官方原文一一对应，未合并、未省略。",
     "articles": [
       {
         "no": 1,
@@ -62499,6 +62499,66 @@
         },
         "chapter": {
           "en": "Chapter XII Legal Liability"
+        }
+      },
+      {
+        "no": 151,
+        "text": {
+          "en": "The administrative penalties provided for in this Law shall be decided by the futures supervision and management authority of the State Council and the departments authorised by the State Council in accordance with the division of functions prescribed by the State Council; where other provisions are made in laws or administrative regulations, those provisions shall apply."
+        },
+        "noLabel": {
+          "en": "Article 151."
+        },
+        "chapter": {
+          "en": "Chapter XII Legal Liability"
+        }
+      },
+      {
+        "no": 152,
+        "text": {
+          "en": "Where a staff member of the futures supervision and management authority of the State Council or of a department authorised by the State Council fails to perform the duties prescribed in this Law, abuses his or her powers, neglects his or her duties, takes advantage of his or her position to seek improper benefits, or discloses commercial secrets of the relevant entities and individuals of which he or she has become aware, legal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 152."
+        },
+        "chapter": {
+          "en": "Chapter XII Legal Liability"
+        }
+      },
+      {
+        "no": 153,
+        "text": {
+          "en": "Where a violation of this Law constitutes a criminal offence, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 153."
+        },
+        "chapter": {
+          "en": "Chapter XII Legal Liability"
+        }
+      },
+      {
+        "no": 154,
+        "text": {
+          "en": "Where a person violating this Law is required to bear civil compensation liability and to pay fines, pecuniary penalties or illegal gains, and the property of the person committing the violation is insufficient to pay all of them, such property shall be applied first to the bearing of civil compensation liability."
+        },
+        "noLabel": {
+          "en": "Article 154."
+        },
+        "chapter": {
+          "en": "Chapter XII Legal Liability"
+        }
+      },
+      {
+        "no": 155,
+        "text": {
+          "en": "This Law shall come into force on 1 August 2022."
+        },
+        "noLabel": {
+          "en": "Article 155."
+        },
+        "chapter": {
+          "en": "Chapter XIII Supplementary Provisions"
         }
       }
     ]

@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p05
-   法规 75 部 / 译文 4877 条
+   法规 76 部 / 译文 5570 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -4659,6 +4659,8193 @@
         },
         "chapter": {
           "en": "Chapter X Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0009'] = {
+    "lawId": "CN-JI-0009",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 684 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Rules are formulated in accordance with the Criminal Procedure Law of the People's Republic of China, the Organic Law of the People's Procuratorates of the People's Republic of China and the relevant provisions of law and in the light of the actual work of people's procuratorates, in order to ensure that people's procuratorates handle cases in strict compliance with statutory procedure in criminal proceedings, correctly perform their functions and powers, and achieve the unity of punishing crime and safeguarding human rights."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The tasks of a people's procuratorate in criminal proceedings are to docket and investigate cases directly accepted by it, to review arrests, to examine for prosecution and institute public prosecution, and to exercise legal supervision over criminal proceedings, so as to ensure the accurate and timely ascertainment of criminal facts, the correct application of law and the punishment of criminals, to safeguard innocent persons from criminal prosecution, to safeguard the uniform and correct implementation of the criminal law, to uphold the socialist legal system, to respect and safeguard human rights, to protect citizens' personal rights, property rights, democratic rights and other rights, and to safeguard the smooth progress of the cause of socialist construction."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "In handling criminal cases, a people's procuratorate shall strictly observe the Criminal Procedure Law of the People's Republic of China and the relevant provisions of other laws, uphold an objective and impartial position and respect and safeguard human rights, and shall both prosecute crime and safeguard innocent persons from criminal prosecution."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "In handling a criminal case, the procurator, the chief procurator and the procuratorial committee shall make decisions on case-handling matters within the scope of their respective functions and powers and bear the corresponding judicial responsibility in accordance with the provisions.\nA procurator carries out his work under the leadership of the chief procurator. Major case-handling matters shall be decided by the chief procurator. The chief procurator may, according to the circumstances of the case, submit them to the procuratorial committee for discussion and decision. Other case-handling matters may be decided by the chief procurator himself or entrusted to a procurator for decision.\nWhere these Rules expressly provide for major case-handling matters that shall be decided by the chief procurator or the procuratorial committee, the provisions of these Rules shall apply. Where these Rules do not expressly provide, a people's procuratorate at the provincial level may formulate the relevant provisions and report them to the Supreme People's Procuratorate for approval.\nLegal documents issued in the name of a people's procuratorate shall be signed and issued by the chief procurator; where a matter falls within the scope of the functions and powers of a procurator, the chief procurator may authorise the procurator to sign and issue them.\nA major, difficult, complex or socially influential case shall be reported to the chief procurator."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "In handling a criminal case, a people's procuratorate may, according to the circumstances of the case, have the case handled by a single procurator alone or by a case-handling group composed of two or more procurators. Where a case is handled by a procuratorial case-handling group, the chief procurator shall designate one procurator to serve as the leading procurator, who shall organise and direct the case-handling group in handling the case.\nIn handling a case, a procurator may, as needed, be provided with procuratorial auxiliary personnel such as procurator's assistants, clerks, judicial police and procuratorial technical personnel. Procuratorial auxiliary personnel shall undertake the corresponding procuratorial auxiliary affairs in accordance with the provisions of law."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "A people's procuratorate shall establish operational departments according to the needs of procuratorial work, which shall perform their duties by division of labour in criminal proceedings.\nThe person in charge of an operational department shall supervise and manage the case-handling activities of the department. Matters requiring a decision of the chief procurator and cases requiring a report to the chief procurator shall first be examined by the person in charge of the operational department. The person in charge of the operational department may convene a joint meeting of procurators for discussion, or may directly request a decision from or report to the chief procurator."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Where the chief procurator does not agree with the handling opinion of a procurator, he may require the procurator to review it, or may directly make a decision, or may submit the matter to the procuratorial committee for discussion and decision.\nWhere a procurator, in implementing a decision of the chief procurator, considers the decision erroneous, he shall put forward his opinion in writing. Where the chief procurator does not change the original decision, the procurator shall implement it."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The review of arrest, examination for prosecution, support of public prosecution in court, and supervision over filing, detection and trial in respect of the same criminal case shall be the responsibility of the same procurator or procuratorial case-handling group, except where the review of arrest and the examination for prosecution are under the jurisdiction of different people's procuratorates, or where another procurator or procuratorial case-handling group should be assigned in accordance with law or the relevant provisions.\nThe case-handling departments of a people's procuratorate performing the duties of review of arrest and examination for prosecution are collectively referred to in these Rules as the departments responsible for arrest and prosecution."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The Supreme People's Procuratorate leads the work of people's procuratorates at all local levels and of special people's procuratorates, and a people's procuratorate at a higher level leads the work of people's procuratorates at lower levels. The chief procurator exercises unified leadership over the work of the people's procuratorate.\nA people's procuratorate at a higher level may, in accordance with law, uniformly assign procuratorial personnel within its jurisdiction to handle cases, and the decision on assignment shall be made in writing. An assigned procurator may, on behalf of the people's procuratorate handling the case, perform various procuratorial duties such as supporting public prosecution in court."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "A people's procuratorate at a higher level has the power to revoke or alter a decision made by a people's procuratorate at a lower level; where it discovers that a case handled by a people's procuratorate at a lower level is erroneous, it has the power to direct the people's procuratorate at the lower level to correct it.\nA people's procuratorate at a lower level shall implement a decision of a people's procuratorate at a higher level. If it considers the decision erroneous, it shall report to the people's procuratorate at the higher level while implementing it."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Where a criminal suspect or defendant voluntarily and truthfully confesses his crime, admits the criminal facts alleged and is willing to accept punishment, he may be treated with leniency in accordance with law.\nThe system of leniency for pleading guilty and accepting punishment applies to all criminal cases. People's procuratorates shall carry out the relevant work on pleading guilty and accepting punishment at every stage of criminal proceedings in handling criminal cases."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The activities of a people's procuratorate in handling criminal cases shall, in accordance with the provisions, be subject to supervision by people's supervisors."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Crimes committed by judicial staff members by taking advantage of their functions and powers, such as unlawful detention, extorting confessions by torture and unlawful search, which infringe citizens' rights and impair judicial impartiality and which are discovered by a people's procuratorate in the exercise of legal supervision over litigation activities, may be docketed and investigated by the people's procuratorate.\nIn respect of a major criminal case under the jurisdiction of a public security organ in which a staff member of a State organ commits the crime by taking advantage of his functions and powers, where it needs to be directly accepted by a people's procuratorate, the people's procuratorate may, upon a decision of a people's procuratorate at or above the provincial level, docket and investigate it."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Jurisdiction"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "A case directly accepted for investigation by a people's procuratorate shall be docketed and investigated by the people's procuratorate of a city with districts. Where a basic people's procuratorate discovers a lead on a crime, it shall report it to the people's procuratorate of the city with districts for a decision to docket and investigate.\nThe people's procuratorate of a city with districts may, according to the circumstances of the case, also refer the case to a basic people's procuratorate for docketing and investigation, or require a basic people's procuratorate to assist in the investigation. In respect of a lead on a crime related to criminal execution activities within the jurisdiction of a dispatched procuratorate for criminal execution, the matter may be referred to the dispatched procuratorate for criminal execution for docketing and investigation.\nWhere the Supreme People's Procuratorate or a people's procuratorate at the provincial level discovers a lead on a crime, it may itself docket and investigate it, or may refer the lead to a designated people's procuratorate at the provincial level or a people's procuratorate of a city with districts for docketing and investigation."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Jurisdiction"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "In respect of a case provided in Paragraph 2 of Article 13 of these Rules, where a people's procuratorate needs to docket and investigate it directly, the matter shall be reported through the levels to the people's procuratorate at the provincial level for decision.\nTo report a case to a people's procuratorate at the provincial level for a decision to docket and investigate, a written request for approval of direct acceptance shall be prepared, stating the circumstances of the case and the reasons why the people's procuratorate needs to docket and investigate it, with the relevant materials attached.\nThe people's procuratorate at the provincial level shall, within ten days after receipt of the written request for approval of direct acceptance, decide whether to docket and investigate. The people's procuratorate at the provincial level may decide that the people's procuratorate of a city with districts should docket and investigate, or may itself docket and investigate."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Jurisdiction"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where necessary, a people's procuratorate at a higher level may directly docket and investigate, or organise, direct or participate in the investigation of, a case under the jurisdiction of a people's procuratorate at a lower level. Where a people's procuratorate at a lower level considers that the circumstances of a case are major and complex and that the case needs to be docketed and investigated by the people's procuratorate at a higher level, it may request that the case be transferred to the people's procuratorate at the higher level for docketing and investigation."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Jurisdiction"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Where a people's procuratorate handling a case directly accepted for investigation discovers that the criminal suspect is concurrently suspected of a lead on a duty-related crime under the jurisdiction of a supervisory organ, it shall promptly communicate with the supervisory organ at the same level.\nWhere, after communication, it considers that it is more appropriate for the whole case to be under the jurisdiction of the supervisory organ, the people's procuratorate shall transfer the case together with the corresponding lead on the duty-related crime to the supervisory organ; where it considers that it is more appropriate for the supervisory organ and the people's procuratorate to exercise jurisdiction separately, the people's procuratorate shall transfer the corresponding lead on the duty-related crime under the jurisdiction of the supervisory organ to the supervisory organ and continue to investigate the criminal case lawfully under its own jurisdiction.\nThe people's procuratorate shall promptly report the circumstances of the communication to the people's procuratorate at the next higher level. Investigation of the case shall not be suspended during the communication."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Jurisdiction"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where a case directly accepted for investigation by a people's procuratorate involves a criminal case under the jurisdiction of a public security organ, the criminal case under the jurisdiction of the public security organ shall be transferred to the public security organ. Where the principal crime suspected is under the jurisdiction of the public security organ, the public security organ shall take the lead in the investigation and the people's procuratorate shall provide cooperation; where the principal crime suspected is under the jurisdiction of the people's procuratorate, the people's procuratorate shall take the lead in the investigation and the public security organ shall provide cooperation.\nWhere one person commits several crimes, or there is a joint crime, or a criminal suspect in a joint crime has also committed other crimes, or the crimes committed by several criminal suspects are connected, and trying the cases together is conducive to ascertaining the facts of the case and the conduct of the proceedings, the people's procuratorate may try the related criminal cases together within the scope of its duties."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Jurisdiction"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "A case provided in Article 13 of these Rules shall be under the jurisdiction of the people's procuratorate of the place where the unit for which the criminal suspect works is located. Where it is more appropriate for another people's procuratorate to exercise jurisdiction, that other people's procuratorate may exercise jurisdiction."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Jurisdiction"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where the jurisdiction over a case is unclear, the people's procuratorates concerned may determine jurisdiction through consultation."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Jurisdiction"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where several people's procuratorates all have the power to exercise jurisdiction over a case, the case shall be under the jurisdiction of the people's procuratorate that first accepts it. Where necessary, it may be under the jurisdiction of the people's procuratorate of the principal place of crime."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Jurisdiction"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "In respect of the following cases, a people's procuratorate at a higher level may designate jurisdiction:\n(1) cases over which there is a dispute as to jurisdiction;\n(2) cases in which jurisdiction needs to be changed;\n(3) cases of a specific type requiring centralised jurisdiction;\n(4) other cases requiring designation of jurisdiction.\nWhere jurisdiction over examination for prosecution of a case provided in the preceding paragraph is designated, the people's procuratorate shall reach agreement with the corresponding people's court. Where jurisdiction over review of arrest of a case provided in Item 3 of the preceding paragraph is designated, the people's procuratorate shall reach agreement with the corresponding public security organ."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter II Jurisdiction"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The jurisdiction of special people's procuratorates such as military procuratorates, and the jurisdiction over criminal cases involving both military and civilian elements, shall be governed by the relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter II Jurisdiction"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Where, in the course of accepting a report and handling a case, a procuratorial officer discovers any of the circumstances provided in Article 29 or Article 30 of the Criminal Procedure Law, he shall raise withdrawal on his own initiative; where he does not do so, the people's procuratorate shall decide that he withdraw, and the parties and their statutory agents have the right to request his withdrawal."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Recusal"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Where a procuratorial officer withdraws on his own initiative, he shall do so in writing or orally and state the reasons. Where the withdrawal is raised orally, it shall be recorded in the file."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Recusal"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "A people's procuratorate shall inform the parties and their statutory agents of their right to apply for withdrawal in accordance with law, and shall inform them of the names, positions and other relevant information of the procuratorial officers, clerks and other personnel handling the case."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Recusal"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where a party or his statutory agent requests the withdrawal of a procuratorial officer, he shall make the request to the people's procuratorate in writing or orally and state the reasons. Where the request is made orally, it shall be recorded in the file. Where withdrawal of a procuratorial officer is requested in accordance with Article 30 of the Criminal Procedure Law, the relevant supporting materials shall be provided.\nWhere, upon examination or investigation, the people's procuratorate considers that the procuratorial officer meets the conditions for withdrawal, it shall make a decision on withdrawal; where the conditions for withdrawal are not met, it shall reject the application."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Recusal"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "In the course of a court hearing, where a party or his statutory agent applies to the court for the withdrawal of a procuratorial officer appearing in court, the people's procuratorate shall, after receipt of the notice of the people's court, make a decision on withdrawal or on rejection of the application. In respect of an application for withdrawal that does not fall under the circumstances provided in Article 29 or Article 30 of the Criminal Procedure Law, the procuratorial officer appearing in court shall recommend that the court reject it in open court."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Recusal"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The withdrawal of the chief procurator shall be discussed and decided by the procuratorial committee. When the procuratorial committee discusses the question of the chief procurator's withdrawal, it shall be presided over by a deputy chief procurator, and the chief procurator may not participate.\nThe withdrawal of other procuratorial officers shall be decided by the chief procurator."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Recusal"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where a party or his statutory agent requests the withdrawal of the person in charge of a public security organ, either by making the request to the people's procuratorate at the same level, or by making it to the public security organ which then refers it to the people's procuratorate at the same level, the chief procurator shall submit the matter to the procuratorial committee for discussion and decision."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Recusal"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where the chief procurator should withdraw, has not withdrawn on his own initiative and no application for his withdrawal has been made by a party or his statutory agent, the procuratorial committee shall decide that he withdraw.\nWhere another procuratorial officer falls under the circumstances provided in the preceding paragraph, the chief procurator shall decide that he withdraw."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Recusal"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "After a people's procuratorate makes a decision rejecting an application for withdrawal, it shall inform the party and his statutory agent that, if they refuse to accept the decision, they have the right to apply once for reconsideration to the organ that made the decision within five days after receipt of the written decision rejecting the application for withdrawal."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III Recusal"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Where a party or his statutory agent refuses to accept the decision rejecting an application for withdrawal and applies for reconsideration, the organ that made the decision shall make a reconsideration decision within three days and notify the applicant in writing."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter III Recusal"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Personnel investigating a case directly accepted by a people's procuratorate, or personnel conducting supplementary investigation, may not suspend the investigation of the case before a decision on withdrawal is made and during the reconsideration."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter III Recusal"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Personnel who have participated in the investigation of a case may not handle the review of arrest, examination for prosecution, support of public prosecution in court or litigation supervision in that case, except personnel who participated in supplementary investigation conducted by the people's procuratorate itself during the stage of examination for prosecution."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter III Recusal"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Whether the evidence obtained and the procedural acts performed by a chief procurator in respect of whom a decision of withdrawal has been made before that decision was made are valid shall be decided by the procuratorial committee according to the specific circumstances of the case.\nWhether the evidence obtained and the procedural acts performed by another procuratorial officer in respect of whom a decision of withdrawal has been made before that decision was made are valid shall be decided by the chief procurator according to the specific circumstances of the case.\nWhether the procedural acts performed by the person in charge of a public security organ in respect of whom a decision of withdrawal has been made before that decision was made are valid shall be decided by the procuratorial committee of the people's procuratorate that made the decision according to the specific circumstances of the case."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter III Recusal"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The provisions of these Rules on withdrawal apply to clerks, judicial police and interpreters and appraisers engaged or assigned by a people's procuratorate.\nThe withdrawal of clerks, judicial police and interpreters and appraisers engaged or assigned by a people's procuratorate shall be decided by the chief procurator.\nA defender or agent ad litem may, in accordance with the Criminal Procedure Law and the provisions of these Rules on withdrawal, request withdrawal and apply for reconsideration."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter III Recusal"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "In the course of handling a case, a people's procuratorate shall safeguard the criminal suspect's exercise of the right of defence in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Defence and Representation"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where a defender or agent ad litem submits a relevant application or request to a people's procuratorate or submits relevant written materials, the department responsible for case management shall receive them and promptly transmit them to the case-handling department or contact the case-handling department; the specific business shall be handled by the case-handling department, except where these Rules provide otherwise."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter IV Defence and Representation"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "When the department of a people's procuratorate responsible for investigation interrogates a criminal suspect for the first time or takes a compulsory measure against him, it shall inform the criminal suspect that he has the right to entrust a defender, and inform him that if he has not entrusted a defender because of financial difficulty or for another reason, he may apply for legal aid. Where a circumstance provided in Article 35 of the Criminal Procedure Law exists, it shall inform the criminal suspect that he is entitled to legal aid.\nA people's procuratorate shall, within three days from the date of receipt of the case file materials transferred for prosecution, inform the criminal suspect that he has the right to entrust a defender, and inform him that if he has not entrusted a defender because of financial difficulty or for another reason, he may apply for legal aid. Where a circumstance provided in Article 35 of the Criminal Procedure Law exists, it shall inform the criminal suspect that he is entitled to legal aid.\nWhere the notification is given orally in person, it shall be recorded in the transcript and signed by the person notified; where it is given by telephone, it shall be recorded in the file; where it is given in writing, the receipt of service shall be placed in the file."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter IV Defence and Representation"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where a criminal suspect in custody or under residential surveillance at a designated place of residence requests a people's procuratorate to entrust a defender, the people's procuratorate shall promptly convey the request to his guardian, close relatives or a person designated by him and record it in the file."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IV Defence and Representation"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where a people's procuratorate handling a case directly accepted for investigation or a case under examination for prosecution discovers that the criminal suspect is blind, deaf or mute, or is a person with mental illness who has not yet completely lost the capacity to recognise or control his own conduct, or may be sentenced to life imprisonment or the death penalty, and has not entrusted a defender, it shall, within three days from the date of discovery, notify the legal aid institution in writing to assign a lawyer to defend him."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter IV Defence and Representation"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where a people's procuratorate receives an application for legal aid made by a criminal suspect in custody or under residential surveillance at a designated place of residence, it shall, within 24 hours, transmit the application materials to the legal aid institution and notify the guardian, close relatives or other persons entrusted by the criminal suspect to assist in providing the relevant certificates, proof and other materials."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter IV Defence and Representation"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where a case falls under a circumstance in which legal aid should be provided and the criminal suspect refuses a lawyer assigned by the legal aid institution as defender, the people's procuratorate shall ascertain the reason for the refusal. Where there are justified reasons, it shall permit the refusal, but the criminal suspect shall entrust another defender; where the criminal suspect does not entrust another defender, the people's procuratorate shall notify the legal aid institution in writing to assign another lawyer to defend him."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter IV Defence and Representation"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where a defender informs a people's procuratorate after accepting an entrustment, or a legal aid institution notifies a people's procuratorate after assigning a lawyer, the department of the people's procuratorate responsible for case management shall promptly register the relevant information of the defender and promptly notify and transmit the relevant circumstances and materials to the case-handling department.\nIn respect of a defence lawyer conducting business, the department responsible for case management shall verify his lawyer's practice certificate, the certificate of his law firm and the power of attorney or the official letter of legal aid. In respect of other defenders and agents ad litem, it shall verify their identity documents and powers of attorney."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter IV Defence and Representation"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "The department of a people's procuratorate responsible for case management shall examine the qualifications of defenders and agents ad litem in accordance with the provisions of law, and the case-handling department shall provide assistance."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter IV Defence and Representation"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "From the date on which a people's procuratorate begins to examine a case for prosecution, defence counsel shall be permitted to consult, take notes from and copy the case file materials of the case. The case file materials include the procedural documents and evidentiary materials of the case.\nWhere a case directly accepted for investigation by a people's procuratorate is transferred for prosecution, or a case under examination for prosecution is returned for supplementary investigation, has its jurisdiction changed or is instituted as public prosecution, the defence counsel shall be informed promptly."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter IV Defence and Representation"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "From the date on which a people's procuratorate begins to examine a case for prosecution, where a defender other than a lawyer applies to the people's procuratorate to consult, take notes from or copy the case file materials of the case, or applies to meet and correspond with a criminal suspect in custody or under residential surveillance, the department of the people's procuratorate responsible for arrest and prosecution shall examine the application and decide whether to permit it, and shall notify the applicant in writing within three days.\nWhere a people's procuratorate permits a defender other than a lawyer to correspond with a criminal suspect in custody or under residential surveillance, it may require the detention house or the public security organ to send the correspondence to the people's procuratorate for examination.\nWhere a defender other than a lawyer applies to consult, take notes from or copy the case file materials, or applies to meet and correspond with a criminal suspect in custody or under residential surveillance, and any of the following circumstances exists, the people's procuratorate may refuse permission:\n(1) a criminal suspect in the same case is at large;\n(2) the facts of the case are unclear and the evidence is insufficient, or a crime or a co-suspect has been omitted and supplementary investigation is needed;\n(3) State secrets or commercial secrets are involved;\n(4) there are facts indicating a possibility of collusion in statements, destruction or forgery of evidence, or danger to the personal safety of witnesses."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter IV Defence and Representation"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where defence counsel or another defender with permission goes to a people's procuratorate to consult, take notes from or copy the case file materials of the case, the department responsible for case management shall make arrangements promptly and the case-handling department shall provide the case file materials. Where timely arrangements cannot be made for reasons such as the work of the case-handling department, the defender shall be so informed and arrangements shall be made for the defender to read the file within three working days from that day, and the case-handling department shall provide cooperation.\nA people's procuratorate shall set up a dedicated place or electronic file reading terminals for defenders to consult, take notes from and copy case file materials. Where necessary, the people's procuratorate may send personnel to assist on site.\nA defender may copy case file materials by photocopying, photographing, scanning, burning to disc or other means, and the people's procuratorate shall not charge a fee."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter IV Defence and Representation"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where, after a case is submitted for approval of arrest or transferred for prosecution, a defender considers that evidentiary materials collected by the public security organ during investigation which prove the criminal suspect's innocence or the minor nature of his crime have not been submitted and applies to the people's procuratorate to obtain them from the public security organ, the department of the people's procuratorate responsible for arrest and prosecution shall examine the application promptly. Where, upon examination, it considers that the evidence the defender applies to obtain has already been collected and is connected with the facts of the case, it shall obtain it; where it considers that the evidence the defender applies to obtain has not been collected or is not connected with the facts of the case, it shall decide not to obtain it and explain the reasons to the defender. Where the public security organ transfers the relevant evidentiary materials, the people's procuratorate shall inform the defender within three days.\nThe preceding paragraph shall apply to a case directly accepted for investigation by a people's procuratorate."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter IV Defence and Representation"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "In the course of investigation, review of arrest and examination for prosecution by a people's procuratorate, where a defender informs the people's procuratorate of evidence he has collected showing that the criminal suspect was not at the scene of the crime, has not reached the age of criminal responsibility, or is a person with mental illness who bears no criminal responsibility in accordance with law, the people's procuratorate shall examine it promptly."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter IV Defence and Representation"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "After a case is transferred for prosecution, where defence counsel applies to the people's procuratorate to collect or obtain evidence in accordance with Paragraph 1 of Article 43 of the Criminal Procedure Law, the department of the people's procuratorate responsible for arrest and prosecution shall examine the application promptly. Where, upon examination, it considers that evidence needs to be collected or obtained, it shall decide to collect or obtain it and make a record to be placed in the file; where it decides not to collect or obtain it, it shall explain the reasons in writing.\nWhere a people's procuratorate collects or obtains evidence upon the application of defence counsel, defence counsel may be present."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter IV Defence and Representation"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where defence counsel applies to a people's procuratorate for permission to collect materials related to the case from the victim or his close relatives or from witnesses provided by the victim, the department of the people's procuratorate responsible for arrest and prosecution shall examine the application promptly. The people's procuratorate shall, within five days, decide whether to permit it and notify defence counsel; where it does not permit it, it shall explain the reasons in writing."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter IV Defence and Representation"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "In the course of investigation, review of arrest or examination for prosecution by a people's procuratorate, where a defender requests that his opinions be heard, the case-handling department shall make arrangements promptly. Where the defender submits written opinions, the case-handling department shall receive and register them.\nA record shall be made of the hearing of the defender's opinions or the opinions shall be noted in the file, and the written opinions submitted by the defender shall be placed in the file.\nWhere a defender submits materials related to the case, the case-handling department shall record the purpose, source and content of the materials submitted by the defender in the file and place them in the file together."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter IV Defence and Representation"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "A people's procuratorate shall, within three days from the date of receipt of the case file materials transferred for prosecution, inform the victim and his statutory agent or close relatives, and the parties to the civil action ancillary to the criminal proceedings and their statutory agents, that they have the right to entrust an agent ad litem. Where the victim and his statutory agent or close relatives have not entrusted an agent ad litem because of financial difficulty, they shall be informed that they may apply for legal aid.\nWhere the notification is given orally in person, it shall be recorded in the transcript and signed by the person notified; where it is given by telephone, it shall be recorded in the file; where it is given in writing, the receipt of service shall be placed in the file. Where there are numerous or unidentified victims and it is impossible to notify them one by one in the above manner, notification may be given by public announcement. Where notification is impossible, this shall be recorded in the file.\nWhere the victim has a statutory agent, the statutory agent shall be notified; where there is no statutory agent, his close relatives shall be notified.\nWhere there are two or more statutory agents or close relatives, one of them may be notified. Notification shall be given in the order listed in Item 3 and Item 6 of Article 108 of the Criminal Procedure Law, taking the earlier in order first.\nWhere a party and his statutory agent or close relatives entrust an agent ad litem, the provisions of Article 33 and other provisions of the Criminal Procedure Law shall be applied."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter IV Defence and Representation"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where, with the permission of a people's procuratorate, an agent ad litem consults, takes notes from or copies the case file materials of the case, Article 49 of these Rules shall be applied by reference.\nWhere a lawyer serving as agent ad litem needs to apply to a people's procuratorate to collect or obtain evidence, Article 52 of these Rules shall be applied by reference."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter IV Defence and Representation"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where a defender or agent ad litem considers that a public security organ, a people's procuratorate, a people's court or their staff members have committed any of the following acts obstructing his lawful exercise of procedural rights, and lodges an appeal petition or complaint with the people's procuratorate at the same level or at the next higher level, the department of the people's procuratorate responsible for procuratorial work on complaints and appeal petitions shall accept and handle it in accordance with law, and other case-handling departments shall provide cooperation:\n(1) in violation of the provisions, refusing to accept a request for withdrawal raised by a defender or agent ad litem, or refusing to accept an application for reconsideration against a decision not to withdraw;\n(2) failing to inform a criminal suspect or defendant in accordance with law of his right to entrust a defender;\n(3) failing to convey a request of a criminal suspect or defendant in custody or under residential surveillance to entrust a defender, or failing to transmit his application materials for legal aid;\n(4) failing to notify the legal aid institution, where it should do so, to assign a lawyer to provide a defence or legal aid to a qualifying criminal suspect or defendant or to a person in respect of whom compulsory medical treatment is applied for;\n(5) failing to accept or respond within the prescribed time to an application by a defender to alter a compulsory measure or a request to lift a compulsory measure;\n(6) failing to inform defence counsel in accordance with law of the charge suspected of the criminal suspect and the relevant circumstances of the case;\n(7) unlawfully restricting defence counsel from meeting and corresponding with a criminal suspect or defendant in custody or under residential surveillance;\n(8) unlawfully refusing to permit defence counsel to consult, take notes from or copy the case file materials of the case;\n(9) unlawfully restricting defence counsel from collecting and verifying the relevant evidentiary materials;\n(10) refusing without justified reasons to agree to an application by defence counsel to collect or obtain evidence or to notify a witness to appear in court to testify, or failing to respond or explain the reasons;\n(11) failing to submit in accordance with law evidentiary materials proving the innocence of the criminal suspect or defendant or the minor nature of his crime;\n(12) failing to hear the opinions of a defender or agent ad litem in accordance with law;\n(13) failing to notify a defender or agent ad litem of the time and place of the hearing promptly in accordance with law;\n(14) failing to serve the legal documents of the case on a defender or agent ad litem promptly in accordance with law, or failing to inform him promptly of the transfer of the case;\n(15) obstructing a defender or agent ad litem from lawfully exercising procedural rights in the course of the court hearing;\n(16) other acts obstructing a defender or agent ad litem from lawfully exercising procedural rights.\nWhere an appeal petition or complaint is lodged directly with a people's procuratorate at a higher level, the people's procuratorate at the higher level may refer it to a people's procuratorate at a lower level for handling, or may handle it itself.\nWhere a defender or agent ad litem considers that a detention house or its staff members have committed acts obstructing his lawful exercise of procedural rights and lodges an appeal petition or complaint with a people's procuratorate, the department responsible for procuratorial work on criminal execution shall accept and handle it in accordance with law; where another case-handling department receives the appeal petition or complaint, it shall promptly transmit it to the department responsible for procuratorial work on criminal execution."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter IV Defence and Representation"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where a defender or agent ad litem considers that his lawful exercise of procedural rights has been obstructed and lodges an appeal petition or complaint with a people's procuratorate, the people's procuratorate shall accept it promptly and investigate and verify the matter, complete the handling within ten days and reply in writing. Where the circumstances are substantiated, it shall notify the relevant organ, or the relevant department of the people's procuratorate itself or the people's procuratorate at a lower level, to correct them."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter IV Defence and Representation"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where defence counsel informs a people's procuratorate that his client or another person is preparing to commit or is committing a crime endangering national security or public security or seriously endangering the personal safety of others, the people's procuratorate shall accept the information and immediately refer it to the relevant organ for handling in accordance with law.\nThe people's procuratorate shall keep confidential the identity of the defence counsel who reported the circumstances."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter IV Defence and Representation"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Where a people's procuratorate discovers that a defender has assisted a criminal suspect or defendant in concealing, destroying or forging evidence or in colluding in statements, or has threatened or induced a witness to commit perjury, or has committed other acts interfering with the litigation activities of a judicial organ, and a crime may be suspected, it shall refer the lead on the suspected crime or the evidentiary materials to the organ with jurisdiction for handling in accordance with law.\nWhere a people's procuratorate discovers that defence counsel has violated laws, regulations or practice discipline in criminal proceedings, it shall promptly notify the law firm to which he belongs, the lawyers association to which he belongs and the judicial administrative organ."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter IV Defence and Representation"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "A people's procuratorate shall determine the facts of a case on the basis of evidence.\nIn a case of public prosecution, the burden of proof that the defendant is guilty shall be borne by the people's procuratorate. When instituting public prosecution and charging a crime, the people's procuratorate shall produce reliable and sufficient evidence and prove the charge by applying the evidence.\nIn instituting public prosecution, a people's procuratorate shall uphold an objective and impartial position and shall submit to the people's court all evidence proving that the defendant is guilty or innocent, or that the crime is serious or minor."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter V Evidence"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "The examination and determination of evidence shall be conducted by comprehensive examination and judgment in the light of the specific circumstances of the case, from the aspects of the degree of connection between the evidence and the facts to be proved, the interrelation between the pieces of evidence, and whether the evidence was collected in accordance with statutory procedure."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter V Evidence"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "In a case in which investigation is concluded or public prosecution is instituted by a people's procuratorate, the evidence shall be reliable and sufficient. Reliable and sufficient evidence shall meet the following conditions:\n(1) all facts of conviction and sentencing are proved by evidence;\n(2) the evidence on which the adjudication is based has been verified through statutory procedure;\n(3) considering all the evidence in the case, reasonable doubt as to the facts determined has been excluded."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter V Evidence"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Evidentiary materials such as material evidence, documentary evidence, audio-visual materials and electronic data collected by an administrative organ in the course of administrative law enforcement and investigation of a case may be used as evidence where, upon examination by a people's procuratorate, they meet the statutory requirements.\nExpert opinions and records of inspection and examination collected by an administrative organ in the course of administrative law enforcement and investigation of a case may be used as evidence where, upon examination by a people's procuratorate, they meet the statutory requirements."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter V Evidence"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Evidentiary materials such as material evidence, documentary evidence, witness testimony, statements and defence of the person under investigation, audio-visual materials and electronic data collected by a supervisory organ in accordance with the provisions of law may be used as evidence in criminal proceedings."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter V Evidence"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Statements of a criminal suspect collected by unlawful means such as extorting a confession by torture, and witness testimony and victim statements collected by unlawful means such as violence and threat, shall be excluded in accordance with law and may not serve as the basis for transferring a case for review of arrest, approving or deciding on arrest, transferring a case for prosecution or instituting public prosecution."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter V Evidence"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Statements of a criminal suspect collected by any of the following means shall be excluded:\n(1) statements made against his will after being subjected to unbearable pain by violent means such as beating or the unlawful use of restraining devices, or by vile means constituting a disguised form of corporal punishment;\n(2) statements made against his will after being subjected to unbearable pain by means of threatening violence or serious harm to the lawful rights and interests of himself or his close relatives;\n(3) statements collected by unlawful restriction of personal freedom such as unlawful detention."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter V Evidence"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "Where a criminal suspect makes a statement after being subjected to extortion of a confession by torture, and the criminal suspect subsequently makes a repeated statement identical to that statement under the influence of the extortion, the repeated statement shall be excluded together with it, except in the following circumstances:\n(1) during investigation, the public security organ, upon a complaint, a report or its own discovery, confirms or cannot exclude that evidence was collected by unlawful means, replaces the investigation personnel, and the criminal suspect voluntarily makes a statement when questioned again by other investigation personnel after being informed of his procedural rights and the legal provisions on pleading guilty and accepting punishment;\n(2) during review of arrest and examination for prosecution, the criminal suspect voluntarily makes a statement when questioned by procuratorial officers after being informed of his procedural rights and the legal provisions on pleading guilty and accepting punishment."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter V Evidence"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "Witness testimony and victim statements collected by unlawful means such as violence, threat and unlawful restriction of personal freedom shall be excluded."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter V Evidence"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "Where material evidence or documentary evidence is collected in a manner not complying with statutory procedure and this may seriously affect judicial impartiality, the people's procuratorate shall promptly require the public security organ to correct the defect or give a written explanation; where the defect cannot be corrected or no reasonable explanation can be given, the evidence shall be excluded.\nThe people's procuratorate shall examine the correction or explanation of the public security organ. Where the defect has been corrected or reasonably explained, the evidence may serve as the basis for approving or deciding on arrest or instituting public prosecution."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter V Evidence"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "In respect of a major case, the personnel of a people's procuratorate stationed in the detention house shall, before the conclusion of the investigation, verify the lawfulness of the interrogation and make a synchronised audio-visual recording of the whole process, and shall promptly notify the department of the people's procuratorate responsible for arrest and prosecution of the outcome of the verification.\nWhere the department responsible for arrest and prosecution considers that there truly exists a circumstance of unlawful obtainment of evidence such as extorting a confession by torture, it shall require the public security organ to exclude the illegally obtained evidence in accordance with law, and the evidence may not serve as the basis for submitting a case for approval of arrest or transferring it for prosecution."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter V Evidence"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "Where a people's procuratorate discovers that investigation personnel have collected evidence by unlawful means, it shall promptly conduct an investigation and verification.\nWhere a party and his defender or duty lawyer or agent ad litem reports, complains or gives information that investigation personnel have collected evidence by unlawful means such as extorting a confession by torture and provides materials or leads such as the persons, time, place, manner and content of the suspected unlawful obtainment of evidence, the people's procuratorate shall accept and examine the matter. Where the available materials cannot prove the lawfulness of the collection of evidence, it shall promptly conduct an investigation and verification.\nWhere a people's procuratorate at a higher level receives a report, complaint or information that investigation personnel have collected evidence by unlawful means such as extorting a confession by torture, it may directly conduct an investigation and verification, or may refer it to a people's procuratorate at a lower level for investigation and verification. Where it is referred to a people's procuratorate at a lower level for investigation and verification, the people's procuratorate at the lower level shall promptly report the outcome to the people's procuratorate at the higher level.\nWhere a people's procuratorate decides to conduct an investigation and verification, it shall promptly notify the public security organ."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter V Evidence"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "Where, upon examination, a people's procuratorate determines that an act of unlawful obtainment of evidence exists, it shall exclude that evidence, and where the other evidence cannot prove that the criminal suspect committed the criminal act, it shall not approve or decide on arrest. Where the case has already been transferred for prosecution, it may return the case to the supervisory organ for supplementary investigation or return it to the public security organ for supplementary investigation in accordance with law, or make a decision of non-prosecution. The excluded illegal evidence shall be transferred with the case and marked as illegally obtained evidence excluded in accordance with law.\nIn respect of an act of unlawful obtainment of evidence by investigation personnel that does not yet constitute a crime, an opinion on correction shall be put forward to the organ to which he belongs in accordance with law. Where correction or a reasonable explanation is required, clear requirements shall be put forward.\nWhere the act of unlawful obtainment of evidence is suspected of a crime and criminal responsibility needs to be pursued, the case shall be docketed and investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter V Evidence"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "Where a people's procuratorate considers that a circumstance of collecting evidence by unlawful means such as extorting a confession by torture may exist, it may require the supervisory organ or the public security organ in writing to explain the lawfulness of the collection of evidence. The explanation shall bear the official seal of the unit and be signed by the investigation personnel or detection personnel."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter V Evidence"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "In respect of a case docketed and investigated by a public security organ, where any of the following circumstances exists, the people's procuratorate may, at the stages of review of arrest, examination for prosecution and trial, obtain the audio-visual recordings of the public security organ's interrogation of the criminal suspect and examine the lawfulness of the collection of evidence and the authenticity of the statements of the criminal suspect or defendant:\n(1) it considers that an act of unlawful obtainment of evidence such as extorting a confession by torture may exist in the interrogation;\n(2) the criminal suspect or defendant or the defender asserts that the statements of the criminal suspect or defendant were unlawfully obtained and provides the relevant leads or materials;\n(3) the criminal suspect or defendant asserts that the interrogation violated statutory procedure or retracts his confession and provides the relevant leads or materials;\n(4) the criminal suspect or defendant or the defender asserts that the content of the record of interrogation is not authentic and provides the relevant leads or materials;\n(5) the circumstances of the case are major, difficult and complex.\nWhere a people's procuratorate obtains the audio-visual recordings of the public security organ's interrogation of the criminal suspect and the public security organ does not provide them, and upon examination the people's procuratorate considers that the existence of an act of unlawful obtainment of evidence such as extorting a confession by torture cannot be excluded, the relevant statements may not serve as the basis for approving arrest or instituting public prosecution.\nIn a case directly accepted for investigation by a people's procuratorate, when the department responsible for investigation transfers the case for review of arrest or for prosecution, it shall transfer the audio-visual recordings of the interrogation together with the case file materials for examination."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter V Evidence"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "In respect of a case in which public prosecution is instituted, where the defendant and his defender assert that the pre-trial statements were unlawfully obtained and provide the relevant leads or materials, the people's procuratorate may transfer the audio-visual recordings of the interrogation together with the case file materials to the people's court."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter V Evidence"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "In the course of the court hearing, where the defendant or defender raises an objection to the lawfulness of the interrogation, the public prosecutor may require the defendant and his defender to provide the relevant leads or materials. Where necessary, the public prosecutor may request the court to play in court the audio-visual recordings of the interrogation of the relevant period, so as to conduct cross-examination on the objection or facts concerned.\nWhere the audio-visual recordings of the interrogation to be played involve State secrets, commercial secrets, personal privacy or other content unsuitable for disclosure, the public prosecutor shall recommend that they be played within the scope of the members of the court, the public prosecutor, the investigation personnel, the defendant and his defender. Where a people's procuratorate has technically processed the relevant content of the audio-visual recordings of the interrogation because it involves State secrets, commercial secrets, personal privacy or other leads on crimes, the public prosecutor shall explain this to the court."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter V Evidence"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "Where a people's procuratorate considers that the conclusion of the examination or investigation by the people's court of first instance on the lawfulness of the collection of evidence has led to an erroneous judgment or ruling of first instance, it may lodge a protest with the people's court in accordance with Article 228 of the Criminal Procedure Law."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Chapter V Evidence"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "In the course of handling cases of crimes endangering national security, terrorist activity crimes, crimes of triad nature organisations, drug crimes and the like, where a witness, appraiser or victim, because of his testimony in the proceedings, faces danger to the personal safety of himself or his close relatives and requests protection from the people's procuratorate, the people's procuratorate shall accept the request and promptly conduct an examination. Where danger to personal safety truly exists, it shall immediately take the necessary protective measures. Where a people's procuratorate discovers the above circumstances, it shall take protective measures on its own initiative.\nA people's procuratorate may take one or more of the following protective measures:\n(1) not disclosing his true name, address, place of work and other personal information;\n(2) recommending that the court take measures for his testimony in court that do not reveal his appearance or true voice;\n(3) prohibiting specific persons from contacting the witness, appraiser, victim or their close relatives;\n(4) taking specialised protective measures for his person and residence;\n(5) other necessary protective measures.\nWhere a people's procuratorate decides in accordance with law not to disclose the true name, address, place of work and other personal information of a witness, appraiser or victim, it may use an assumed name in legal document and evidentiary materials such as the bill of indictment and the record of questioning. However, it shall separately explain in writing the circumstances of the use of the assumed name, mark the level of secrecy and keep it in a separate volume.\nWhere a people's procuratorate takes protective measures in accordance with law, it may require the relevant units and individuals to provide cooperation.\nWhere a witness or his close relatives are threatened, insulted, beaten or subjected to retaliation, constituting a crime or warranting a public security administration punishment, the people's procuratorate shall refer the matter to the public security organ for handling; where the circumstances are minor, criticism and education or admonition shall be given."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Chapter V Evidence"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "The expenses such as transportation, accommodation and meals incurred by a witness in the performance of his obligation to testify during investigation, review of arrest and examination for prosecution by a people's procuratorate shall be subsidised by the people's procuratorate."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Chapter V Evidence"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "A people's procuratorate may, according to the circumstances of the case, compel a criminal suspect to appear."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Section 1 Summons for Appearance"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "In compelling appearance, the warrant of compelled appearance shall be produced to the criminal suspect to be compelled to appear. Restraining devices may be used against a person who resists compelled appearance, and he may be brought in by force.\nThe number of personnel executing compelled appearance shall not be fewer than two."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Section 1 Summons for Appearance"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "The duration of compelled appearance shall be counted from the time the criminal suspect appears. After the criminal suspect appears, he shall be ordered to fill in the time of appearance on the warrant of compelled appearance, sign or seal it and affix his fingerprint, and shall then be interrogated immediately. After the compelled appearance is concluded, the criminal suspect shall be ordered to fill in the time of conclusion of compelled appearance on the warrant of compelled appearance. Where the criminal suspect refuses to fill it in, this shall be noted on the warrant of compelled appearance.\nThe duration of one compelled appearance shall not exceed 12 hours; where the circumstances of the case are especially major and complex and measures of detention or arrest need to be taken, the duration of compelled appearance shall not exceed 24 hours. The interval between two compelled appearances shall in general be not less than 12 hours, and a criminal suspect may not be subjected to disguised imprisonment in the form of successive compelled appearances.\nIn compelling a criminal suspect to appear, the criminal suspect's food and necessary rest time shall be guaranteed."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Section 1 Summons for Appearance"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "Where a people's procuratorate compels a criminal suspect to appear, it shall do so at a place within the city or county in which the criminal suspect is located.\nWhere the unit for which the criminal suspect works and his place of residence are not in the same city or county, compelled appearance shall be carried out within the city or county in which the unit for which the criminal suspect works is located; under special circumstances, it may also be carried out within the city or county in which the criminal suspect resides."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Section 1 Summons for Appearance"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "Where a compulsory measure needs to be altered in respect of a criminal suspect compelled to appear, the formalities for alteration shall be completed within the period of compelled appearance.\nWhere a decision is made during the period of compelled appearance not to take another compulsory measure, the compelled appearance shall be concluded upon expiry of the period of compelled appearance."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        },
+        "chapter": {
+          "en": "Section 1 Summons for Appearance"
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "A people's procuratorate may release on guarantee pending trial a criminal suspect who falls under any of the following circumstances:\n(1) a sentence of public surveillance or criminal detention may be imposed, or an accessory penalty may be applied alone;\n(2) a sentence of fixed-term imprisonment or a heavier penalty may be imposed, and release on guarantee pending trial will not pose a danger to society;\n(3) the person suffers from a serious illness and is unable to look after himself, or is a woman who is pregnant or is breast-feeding her own infant, and release on guarantee pending trial will not pose a danger to society;\n(4) the period of custody has expired but the case has not yet been concluded, and release on guarantee pending trial needs to be adopted."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        },
+        "chapter": {
+          "en": "Section 2 Release on Bail Pending Trial"
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "A people's procuratorate may not release on guarantee pending trial a criminal suspect who seriously endangers public order, or other criminal suspects whose crimes are of a vile nature and the circumstances are serious."
+        },
+        "noLabel": {
+          "en": "Article 87."
+        },
+        "chapter": {
+          "en": "Section 2 Release on Bail Pending Trial"
+        }
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "Where a criminal suspect in custody or under residential surveillance, or his statutory agent, close relatives or defender, applies to a people's procuratorate for release on guarantee pending trial, the people's procuratorate shall give a reply on whether it agrees within three days. Where, upon examination, a circumstance provided in Article 86 of these Rules is met, it may complete the formalities for release on guarantee pending trial in respect of the criminal suspect in custody or under residential surveillance in accordance with law. Where, upon examination, the conditions for release on guarantee pending trial are not met, it shall inform the applicant and state the reasons for not agreeing to release on guarantee pending trial."
+        },
+        "noLabel": {
+          "en": "Article 88."
+        },
+        "chapter": {
+          "en": "Section 2 Release on Bail Pending Trial"
+        }
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "Where a people's procuratorate decides to release a criminal suspect on guarantee pending trial, it shall order the criminal suspect to provide a guarantor or pay a deposit.\nIn deciding on release on guarantee pending trial in respect of the same criminal suspect, guarantor's guarantee and deposit guarantee may not be used at the same time.\nIn respect of a criminal suspect who meets the conditions for release on guarantee pending trial and falls under any of the following circumstances, the people's procuratorate may, when deciding on release on guarantee pending trial, order him to provide one or two guarantors:\n(1) he is unable to pay a deposit;\n(2) he is a minor or a person who has reached the age of 75;\n(3) other circumstances in which it is inappropriate to collect a deposit."
+        },
+        "noLabel": {
+          "en": "Article 89."
+        },
+        "chapter": {
+          "en": "Section 2 Release on Bail Pending Trial"
+        }
+      },
+      {
+        "no": 90,
+        "text": {
+          "en": "Where the form of guarantor's guarantee is adopted, the guarantor shall meet the conditions provided in Article 69 of the Criminal Procedure Law and shall have been examined and approved by the people's procuratorate."
+        },
+        "noLabel": {
+          "en": "Article 90."
+        },
+        "chapter": {
+          "en": "Section 2 Release on Bail Pending Trial"
+        }
+      },
+      {
+        "no": 91,
+        "text": {
+          "en": "A people's procuratorate shall inform the guarantor that he shall perform the following obligations:\n(1) to supervise the person guaranteed to comply with the provisions of Article 71 of the Criminal Procedure Law;\n(2) to report promptly to the executing organ where he discovers that the person guaranteed may commit or has committed an act violating the provisions of Article 71 of the Criminal Procedure Law.\nAfter the guarantor undertakes to assume the above obligations, he shall sign or seal the letter of guarantee for release on guarantee pending trial."
+        },
+        "noLabel": {
+          "en": "Article 91."
+        },
+        "chapter": {
+          "en": "Section 2 Release on Bail Pending Trial"
+        }
+      },
+      {
+        "no": 92,
+        "text": {
+          "en": "Where the form of deposit guarantee is adopted, a people's procuratorate may, according to the danger the criminal suspect poses to society, the nature and circumstances of the case, the severity of the penalty that may be imposed and the financial situation of the criminal suspect, order the criminal suspect to pay a deposit of not less than 1,000 yuan. In respect of a minor criminal suspect, he may be ordered to pay a deposit of not less than 500 yuan."
+        },
+        "noLabel": {
+          "en": "Article 92."
+        },
+        "chapter": {
+          "en": "Section 2 Release on Bail Pending Trial"
+        }
+      },
+      {
+        "no": 93,
+        "text": {
+          "en": "Where a people's procuratorate decides to release a criminal suspect on guarantee pending trial, it shall prepare a written decision on release on guarantee pending trial, stating the time of commencement of release on guarantee pending trial, the form of guarantee, and the obligations to be performed and the provisions to be observed by the person released on guarantee pending trial.\nWhen making a decision on release on guarantee pending trial, a people's procuratorate may, according to the nature of the crime suspected of the criminal suspect, the harmful consequences, the social impact and the specific circumstances of the criminal suspect and the victim, order him in a targeted manner to observe one or more of the following provisions:\n(1) not to enter a specific place;\n(2) not to meet or correspond with a specific person;\n(3) not to engage in a specific activity;\n(4) to deposit his passport and other entry and exit documents and his driving licence with the executing organ for custody."
+        },
+        "noLabel": {
+          "en": "Article 93."
+        },
+        "chapter": {
+          "en": "Section 2 Release on Bail Pending Trial"
+        }
+      },
+      {
+        "no": 94,
+        "text": {
+          "en": "A people's procuratorate shall read out the written decision on release on guarantee pending trial to the criminal suspect released on guarantee pending trial, have the criminal suspect sign or seal it and affix his fingerprint, order the criminal suspect to comply with the provisions of Article 71 of the Criminal Procedure Law, and inform him of the legal liability he shall bear for violating the provisions. Where deposit guarantee is adopted, the criminal suspect shall at the same time be informed to deposit the deposit in a lump sum in the special account at a bank designated by the public security organ."
+        },
+        "noLabel": {
+          "en": "Article 94."
+        },
+        "chapter": {
+          "en": "Section 2 Release on Bail Pending Trial"
+        }
+      },
+      {
+        "no": 95,
+        "text": {
+          "en": "After announcing the decision on release on guarantee pending trial to the criminal suspect, the people's procuratorate shall serve the notice of execution of release on guarantee pending trial on the public security organ for execution, and inform the public security organ that it shall obtain the consent of the people's procuratorate in advance where it intends to approve the criminal suspect's leaving the city or county in which he resides during the period of execution. Where the form of guarantor's guarantee is adopted, the letter of guarantee for release on guarantee pending trial shall be delivered to the public security organ at the same time.\nAfter verifying the receipt showing that the deposit has been paid into the bank designated by the public security organ, the people's procuratorate shall deliver the receipt issued by the bank and other relevant materials together with the notice of execution of release on guarantee pending trial to the public security organ."
+        },
+        "noLabel": {
+          "en": "Article 95."
+        },
+        "chapter": {
+          "en": "Section 2 Release on Bail Pending Trial"
+        }
+      },
+      {
+        "no": 96,
+        "text": {
+          "en": "Where the form of guarantor's guarantee is adopted and the guarantor is unwilling to continue to guarantee or loses the conditions for guaranteeing during the period of release on guarantee pending trial, the people's procuratorate shall, within three days after receipt of the guarantor's application stating that he is unwilling to continue to guarantee or after discovering that he has lost the conditions for guaranteeing, order the criminal suspect to provide a new guarantor or pay a deposit, and notify the public security organ of the alteration."
+        },
+        "noLabel": {
+          "en": "Article 96."
+        },
+        "chapter": {
+          "en": "Section 2 Release on Bail Pending Trial"
+        }
+      },
+      {
+        "no": 97,
+        "text": {
+          "en": "Where the form of deposit guarantee is adopted and the person released on guarantee pending trial refuses to pay the deposit or pays less than the amount decided, the people's procuratorate shall make a decision to alter the measure of release on guarantee pending trial, to alter the form of guarantee or to alter the amount of the deposit, and notify the public security organ of the alteration."
+        },
+        "noLabel": {
+          "en": "Article 97."
+        },
+        "chapter": {
+          "en": "Section 2 Release on Bail Pending Trial"
+        }
+      },
+      {
+        "no": 98,
+        "text": {
+          "en": "Where, during the execution of release on guarantee pending trial, the public security organ consults the people's procuratorate on whether it agrees to approve the criminal suspect's leaving the city or county in which he resides, the people's procuratorate shall make a decision promptly according to the specific circumstances of the case and notify the public security organ."
+        },
+        "noLabel": {
+          "en": "Article 98."
+        },
+        "chapter": {
+          "en": "Section 2 Release on Bail Pending Trial"
+        }
+      },
+      {
+        "no": 99,
+        "text": {
+          "en": "Where a people's procuratorate discovers that a guarantor has failed to perform the obligations provided in Article 70 of the Criminal Procedure Law, it shall notify the public security organ and require the public security organ to make a decision imposing a fine on the guarantor. Where a crime is constituted, the criminal responsibility of the guarantor shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 99."
+        },
+        "chapter": {
+          "en": "Section 2 Release on Bail Pending Trial"
+        }
+      },
+      {
+        "no": 100,
+        "text": {
+          "en": "Where a people's procuratorate discovers that a criminal suspect has violated the provisions of Article 71 of the Criminal Procedure Law and has already paid a deposit, it shall notify the public security organ in writing to confiscate part or all of the deposit and, according to the specific circumstances of the case, order the criminal suspect to sign a statement of repentance, pay a new deposit or provide a guarantor, or decide to subject him to residential surveillance or arrest him.\nWhere a public security organ discovers that a criminal suspect has violated the provisions of Article 71 of the Criminal Procedure Law and puts forward an opinion on confiscating the deposit or altering the compulsory measure, the people's procuratorate shall make a decision within five days after receipt of the opinion and notify the public security organ.\nThe procedure for paying a new deposit shall be governed by Article 92 of these Rules; the procedure for providing a guarantor shall be governed by Article 90 and Article 91 of these Rules. Where release on guarantee pending trial is continued in respect of the criminal suspect, the duration of release on guarantee pending trial shall be calculated cumulatively.\nWhere a decision is made to subject the criminal suspect to residential surveillance, the formalities for residential surveillance shall be completed. The duration of residential surveillance shall be counted from the date of execution of the decision on residential surveillance and the criminal suspect shall be informed of it."
+        },
+        "noLabel": {
+          "en": "Article 100."
+        },
+        "chapter": {
+          "en": "Section 2 Release on Bail Pending Trial"
+        }
+      },
+      {
+        "no": 101,
+        "text": {
+          "en": "Where a criminal suspect commits any of the following acts in violation of the provisions on release on guarantee pending trial, the people's procuratorate shall arrest the criminal suspect:\n(1) intentionally committing a new crime;\n(2) attempting suicide or escape;\n(3) destroying or forging evidence, colluding in statements or interfering with a witness's testimony, sufficient to affect the normal conduct of the investigation or examination for prosecution;\n(4) retaliating against the victim, a witness, an appraiser, a reporter, a complainant or another person.\nWhere a criminal suspect commits any of the following acts in violation of the provisions on release on guarantee pending trial, the people's procuratorate may arrest the criminal suspect:\n(1) without approval, leaving the city or county in which he resides without authorisation, causing serious consequences, or leaving the city or county in which he resides without authorisation on two occasions without approval;\n(2) failing to appear after being summoned, causing serious consequences, or failing to appear after being summoned on two occasions;\n(3) failing to report to the public security organ within 24 hours a change in his address, place of work or means of contact, causing serious consequences;\n(4) in violation of the provisions, entering a specific place, meeting or corresponding with a specific person, or engaging in a specific activity, seriously obstructing the normal conduct of the proceedings.\nWhere the circumstances in the preceding two paragraphs exist and the criminal suspect needs to be arrested, he may first be detained; where a deposit has already been paid, the public security organ shall at the same time be notified in writing to confiscate the deposit."
+        },
+        "noLabel": {
+          "en": "Article 101."
+        },
+        "chapter": {
+          "en": "Section 2 Release on Bail Pending Trial"
+        }
+      },
+      {
+        "no": 102,
+        "text": {
+          "en": "Where a people's procuratorate decides to release a criminal suspect on guarantee pending trial, the period shall not exceed 12 months at the longest."
+        },
+        "noLabel": {
+          "en": "Article 102."
+        },
+        "chapter": {
+          "en": "Section 2 Release on Bail Pending Trial"
+        }
+      },
+      {
+        "no": 103,
+        "text": {
+          "en": "Where a public security organ has decided to release a criminal suspect on guarantee pending trial and, after the case is transferred to a people's procuratorate for examination for prosecution, release on guarantee pending trial needs to be continued, the people's procuratorate shall make a new decision on release on guarantee pending trial in accordance with law and complete the formalities for release on guarantee pending trial in respect of the criminal suspect. The duration of release on guarantee pending trial shall be recalculated and the criminal suspect shall be informed of it. Where the form of deposit guarantee continues to be adopted and the person released on guarantee pending trial has not violated the provisions of Article 71 of the Criminal Procedure Law, the amount of the deposit shall not be altered and no new deposit shall be collected."
+        },
+        "noLabel": {
+          "en": "Article 103."
+        },
+        "chapter": {
+          "en": "Section 2 Release on Bail Pending Trial"
+        }
+      },
+      {
+        "no": 104,
+        "text": {
+          "en": "During the period of release on guarantee pending trial, the investigation of the case and the examination for prosecution shall not be interrupted."
+        },
+        "noLabel": {
+          "en": "Article 104."
+        },
+        "chapter": {
+          "en": "Section 2 Release on Bail Pending Trial"
+        }
+      },
+      {
+        "no": 105,
+        "text": {
+          "en": "Where the period of release on guarantee pending trial expires, or it is discovered that the criminal responsibility of the criminal suspect should not be pursued, release on guarantee pending trial shall be lifted or revoked promptly.\nA decision to lift or revoke release on guarantee pending trial shall be promptly notified to the executing organ, and the written decision lifting or revoking release on guarantee pending trial shall be served on the criminal suspect; where there is a guarantor, the guarantor shall be notified that his guarantee obligation is terminated."
+        },
+        "noLabel": {
+          "en": "Article 105."
+        },
+        "chapter": {
+          "en": "Section 2 Release on Bail Pending Trial"
+        }
+      },
+      {
+        "no": 106,
+        "text": {
+          "en": "Where a criminal suspect has not violated the provisions of Article 71 of the Criminal Procedure Law during the period of release on guarantee pending trial, or it is discovered that the criminal responsibility of the criminal suspect should not be pursued, the criminal suspect shall, when the release on guarantee pending trial is altered, lifted or revoked, be informed that he may, on the strength of the notice of alteration, lifting or revocation of release on guarantee pending trial or the relevant legal document, collect the refunded deposit at the bank."
+        },
+        "noLabel": {
+          "en": "Article 106."
+        },
+        "chapter": {
+          "en": "Section 2 Release on Bail Pending Trial"
+        }
+      },
+      {
+        "no": 107,
+        "text": {
+          "en": "A people's procuratorate may subject a criminal suspect who meets the conditions for arrest and falls under any of the following circumstances to residential surveillance:\n(1) he suffers from a serious illness and is unable to look after himself;\n(2) she is a woman who is pregnant or is breast-feeding her own infant;\n(3) he is the sole supporter of a person unable to look after himself;\n(4) because of the special circumstances of the case or the needs of handling the case, it is more appropriate to take the measure of residential surveillance;\n(5) the period of custody has expired but the case has not yet been concluded, and the measure of residential surveillance needs to be taken.\nThe support referred to in Item 3 of the preceding paragraph includes the maintenance by parents, grandparents and maternal grandparents of their children, grandchildren and maternal grandchildren, the support by children, grandchildren and maternal grandchildren of their parents, grandparents and maternal grandparents, and mutual support between spouses and between siblings.\nIn respect of a criminal suspect who meets the conditions for release on guarantee pending trial but cannot provide a guarantor and does not pay a deposit, residential surveillance may be applied."
+        },
+        "noLabel": {
+          "en": "Article 107."
+        },
+        "chapter": {
+          "en": "Section 3 Residential Surveillance"
+        }
+      },
+      {
+        "no": 108,
+        "text": {
+          "en": "A people's procuratorate shall read out the written decision on residential surveillance to the criminal suspect under residential surveillance, have the criminal suspect sign or seal it and affix his fingerprint, order the criminal suspect to comply with the provisions of Article 77 of the Criminal Procedure Law, and inform him of the legal liability he shall bear for violating the provisions.\nWhere residential surveillance is at a designated place of residence, the person under residential surveillance may not be required to pay expenses."
+        },
+        "noLabel": {
+          "en": "Article 108."
+        },
+        "chapter": {
+          "en": "Section 3 Residential Surveillance"
+        }
+      },
+      {
+        "no": 109,
+        "text": {
+          "en": "After verifying the residence of the criminal suspect or designating a place of residence for him, a people's procuratorate shall prepare a notice of execution of residential surveillance and deliver the relevant legal documents and the materials on the cause of action and the basic circumstances of the criminal suspect to the public security organ of the place of residential surveillance for execution; where necessary, the people's procuratorate may assist the public security organ in execution.\nThe people's procuratorate shall inform the public security organ that it shall obtain the consent of the people's procuratorate in advance where it intends to approve the criminal suspect's leaving the place of execution of residential surveillance, meeting another person or corresponding with another person during the period of execution."
+        },
+        "noLabel": {
+          "en": "Article 109."
+        },
+        "chapter": {
+          "en": "Section 3 Residential Surveillance"
+        }
+      },
+      {
+        "no": 110,
+        "text": {
+          "en": "A people's procuratorate may, according to the specific circumstances of the case, consult the public security organ on taking surveillance methods such as electronic monitoring and irregular inspection in respect of the criminal suspect under residential surveillance, so as to supervise his compliance with the provisions on residential surveillance.\nIn a case directly accepted for investigation by a people's procuratorate in which residential surveillance is taken against the criminal suspect, the people's procuratorate may, during the investigation, consult the public security organ on monitoring his correspondence."
+        },
+        "noLabel": {
+          "en": "Article 110."
+        },
+        "chapter": {
+          "en": "Section 3 Residential Surveillance"
+        }
+      },
+      {
+        "no": 111,
+        "text": {
+          "en": "Where a criminal suspect commits any of the following acts in violation of the provisions on residential surveillance, the people's procuratorate shall arrest the criminal suspect:\n(1) intentionally committing a new criminal act;\n(2) attempting suicide or escape;\n(3) destroying or forging evidence, colluding in statements or interfering with a witness's testimony, sufficient to affect the normal conduct of the investigation or examination for prosecution;\n(4) retaliating against the victim, a witness, an appraiser, a reporter, a complainant or another person.\nWhere a criminal suspect commits any of the following acts in violation of the provisions on residential surveillance, the people's procuratorate may arrest the criminal suspect:\n(1) without approval, leaving the place of execution of residential surveillance without authorisation, causing serious consequences, or leaving that place without authorisation on two occasions without approval;\n(2) without approval, meeting another person or corresponding with another person without authorisation, causing serious consequences, or doing so on two occasions without approval;\n(3) failing to appear after being summoned, causing serious consequences, or failing to appear after being summoned on two occasions.\nWhere the circumstances in the preceding two paragraphs exist and the criminal suspect needs to be arrested, he may first be detained."
+        },
+        "noLabel": {
+          "en": "Article 111."
+        },
+        "chapter": {
+          "en": "Section 3 Residential Surveillance"
+        }
+      },
+      {
+        "no": 112,
+        "text": {
+          "en": "Where a people's procuratorate decides to subject a criminal suspect to residential surveillance, the period shall not exceed six months at the longest."
+        },
+        "noLabel": {
+          "en": "Article 112."
+        },
+        "chapter": {
+          "en": "Section 3 Residential Surveillance"
+        }
+      },
+      {
+        "no": 113,
+        "text": {
+          "en": "Where a public security organ has decided to subject a criminal suspect to residential surveillance and, after the case is transferred to a people's procuratorate for examination for prosecution, residential surveillance needs to be continued, the people's procuratorate shall make a new decision on residential surveillance in accordance with law and complete the formalities for residential surveillance in respect of the criminal suspect. The duration of residential surveillance shall be recalculated and the criminal suspect shall be informed of it."
+        },
+        "noLabel": {
+          "en": "Article 113."
+        },
+        "chapter": {
+          "en": "Section 3 Residential Surveillance"
+        }
+      },
+      {
+        "no": 114,
+        "text": {
+          "en": "During the period of residential surveillance, the investigation of the case and the examination for prosecution shall not be interrupted."
+        },
+        "noLabel": {
+          "en": "Article 114."
+        },
+        "chapter": {
+          "en": "Section 3 Residential Surveillance"
+        }
+      },
+      {
+        "no": 115,
+        "text": {
+          "en": "Where the period of residential surveillance expires, or it is discovered that the criminal responsibility of the criminal suspect should not be pursued, residential surveillance shall be lifted or revoked.\nA decision to lift or revoke residential surveillance shall be notified to the executing organ, and the written decision lifting or revoking residential surveillance shall be served on the criminal suspect."
+        },
+        "noLabel": {
+          "en": "Article 115."
+        },
+        "chapter": {
+          "en": "Section 3 Residential Surveillance"
+        }
+      },
+      {
+        "no": 116,
+        "text": {
+          "en": "Residential surveillance shall be executed at the residence of the criminal suspect. Where the criminal suspect has no fixed residence, it may be executed at a designated place of residence.\nA fixed residence means a lawful place of residence in which the criminal suspect works and lives within the city or county in which the case-handling organ is located.\nA designated place of residence shall meet the following conditions:\n(1) it has normal conditions for living and rest;\n(2) it facilitates surveillance and management;\n(3) it can guarantee safety.\nResidential surveillance at a designated place of residence may not be executed in places of custody or supervision such as detention houses, houses of detention and prisons, or in special case-handling premises or office areas such as retention rooms and interrogation rooms."
+        },
+        "noLabel": {
+          "en": "Article 116."
+        },
+        "chapter": {
+          "en": "Section 3 Residential Surveillance"
+        }
+      },
+      {
+        "no": 117,
+        "text": {
+          "en": "Where residential surveillance is executed at a designated place of residence, the people's procuratorate shall, within 24 hours after execution of the residential surveillance and except where notification is impossible, notify the family members of the person under residential surveillance of the reasons for residential surveillance at a designated place of residence. Where notification is impossible, the reasons shall be stated in writing and placed in the file. Where the circumstances making notification impossible are removed, notification shall be given immediately.\nImpossibility of notification includes the following circumstances:\n(1) the person under residential surveillance has no family members;\n(2) contact cannot be made with his family members;\n(3) notification is hindered by natural disasters or other force majeure."
+        },
+        "noLabel": {
+          "en": "Article 117."
+        },
+        "chapter": {
+          "en": "Section 3 Residential Surveillance"
+        }
+      },
+      {
+        "no": 118,
+        "text": {
+          "en": "In respect of a case in which a public security organ or a people's court decides on residential surveillance at a designated place of residence, the department of the people's procuratorate at the same level responsible for arrest and prosecution shall supervise the lawfulness of the decision.\nIn respect of a case in which a people's procuratorate decides on residential surveillance at a designated place of residence, the department responsible for procuratorial work on complaints and appeal petitions shall supervise the lawfulness of the decision."
+        },
+        "noLabel": {
+          "en": "Article 118."
+        },
+        "chapter": {
+          "en": "Section 3 Residential Surveillance"
+        }
+      },
+      {
+        "no": 119,
+        "text": {
+          "en": "Where a person under residential surveillance at a designated place of residence, or his statutory agent, close relatives or defender, considers that the decision on residential surveillance at a designated place of residence involves unlawful circumstances and lodges a complaint or gives information, the people's procuratorate shall accept it.\nA people's procuratorate may require the relevant organ to provide the written decision on residential surveillance at a designated place of residence and the relevant case file materials. Where, upon examination, any of the following unlawful circumstances is discovered, it shall promptly notify the organ to correct it:\n(1) the conditions for applying residential surveillance at a designated place of residence are not met;\n(2) the approval formalities were not completed in accordance with statutory procedure;\n(3) other conduct in violation of the provisions of the Criminal Procedure Law occurred in the course of the decision."
+        },
+        "noLabel": {
+          "en": "Article 119."
+        },
+        "chapter": {
+          "en": "Section 3 Residential Surveillance"
+        }
+      },
+      {
+        "no": 120,
+        "text": {
+          "en": "In respect of a case in which a public security organ or a people's court decides on residential surveillance at a designated place of residence, the department of the people's procuratorate responsible for procuratorial work on criminal execution shall supervise the lawfulness of the execution of residential surveillance at a designated place of residence. Where any of the following unlawful circumstances is discovered, an opinion on correction shall be put forward promptly:\n(1) after receiving the written decision on residential surveillance at a designated place of residence, the notice of execution and other legal documents, the executing organ does not send personnel to execute it or does not send personnel promptly;\n(2) the family members of the person under residential surveillance are not notified within 24 hours after execution of residential surveillance at a designated place of residence;\n(3) residential surveillance is executed in a place of custody or special case-handling premises;\n(4) information is leaked to or correspondence or articles are privately transmitted to the person under residential surveillance;\n(5) in violation of the provisions, arrangements are made for a defender to meet or correspond with the person under residential surveillance, or the person under residential surveillance is unlawfully restricted from meeting or corresponding with a defender;\n(6) the person under residential surveillance is subjected to extortion of a confession by torture, corporal punishment, maltreatment or disguised corporal punishment or maltreatment;\n(7) other acts infringing the lawful rights of the person under residential surveillance or other unlawful acts.\nWhere a person under residential surveillance or his statutory agent, close relatives or defender considers that the executing organ or executing personnel have the above unlawful circumstances and lodges a complaint or gives information, the people's procuratorate shall accept it.\nIn respect of a case in which a people's procuratorate decides on residential surveillance at a designated place of residence, the department responsible for procuratorial work on complaints and appeal petitions shall supervise the lawfulness of the execution of residential surveillance at a designated place of residence."
+        },
+        "noLabel": {
+          "en": "Article 120."
+        },
+        "chapter": {
+          "en": "Section 3 Residential Surveillance"
+        }
+      },
+      {
+        "no": 121,
+        "text": {
+          "en": "A people's procuratorate may decide to detain a criminal suspect who falls under any of the following circumstances:\n(1) after committing the crime, he attempts suicide or escape, or is at large;\n(2) there is a possibility that he will destroy or forge evidence or collude in statements."
+        },
+        "noLabel": {
+          "en": "Article 121."
+        },
+        "chapter": {
+          "en": "Section 4 Criminal Detention"
+        }
+      },
+      {
+        "no": 122,
+        "text": {
+          "en": "After making a decision of detention, a people's procuratorate shall deliver the relevant legal documents and the materials on the cause of action and the basic circumstances of the criminal suspect to the public security organ at the same level for execution. Where necessary, the people's procuratorate may assist the public security organ in execution.\nAfter detention, the detained person shall be sent to a detention house for custody immediately and no later than 24 hours."
+        },
+        "noLabel": {
+          "en": "Article 122."
+        },
+        "chapter": {
+          "en": "Section 4 Criminal Detention"
+        }
+      },
+      {
+        "no": 123,
+        "text": {
+          "en": "After detaining a criminal suspect, the people's procuratorate shall, except where notification is impossible, notify the family members of the detained person within 24 hours.\nWhere notification is impossible, the reasons shall be stated in writing and placed in the file. Where the circumstances making notification impossible are removed, his family members shall be notified immediately."
+        },
+        "noLabel": {
+          "en": "Article 123."
+        },
+        "chapter": {
+          "en": "Section 4 Criminal Detention"
+        }
+      },
+      {
+        "no": 124,
+        "text": {
+          "en": "A detained criminal suspect shall be interrogated within 24 hours after detention."
+        },
+        "noLabel": {
+          "en": "Article 124."
+        },
+        "chapter": {
+          "en": "Section 4 Criminal Detention"
+        }
+      },
+      {
+        "no": 125,
+        "text": {
+          "en": "Where it is discovered that a detained criminal suspect should not have been detained, he shall be released immediately; where release on guarantee pending trial or residential surveillance may be applied in accordance with law, the formalities for release on guarantee pending trial or residential surveillance shall be completed in accordance with the relevant provisions of these Rules.\nWhere a detained criminal suspect needs to be arrested, the formalities for arrest shall be completed in accordance with the relevant provisions of these Rules; where a decision is made not to arrest him, the compulsory measure shall be altered promptly."
+        },
+        "noLabel": {
+          "en": "Article 125."
+        },
+        "chapter": {
+          "en": "Section 4 Criminal Detention"
+        }
+      },
+      {
+        "no": 126,
+        "text": {
+          "en": "In a case directly accepted for investigation by a people's procuratorate, the period of custody of a detained criminal suspect shall be 14 days, and may be extended by one to three days under special circumstances."
+        },
+        "noLabel": {
+          "en": "Article 126."
+        },
+        "chapter": {
+          "en": "Section 4 Criminal Detention"
+        }
+      },
+      {
+        "no": 127,
+        "text": {
+          "en": "Where a citizen delivers to a people's procuratorate a criminal suspect or offender who is committing a crime or was discovered immediately after committing a crime, who is on the wanted list, who has escaped from prison, or who is being pursued, the people's procuratorate shall accept him and decide according to the specific circumstances whether to take the corresponding emergency measures. Where the matter does not fall within its own jurisdiction, it shall refer it to the competent organ for handling."
+        },
+        "noLabel": {
+          "en": "Article 127."
+        },
+        "chapter": {
+          "en": "Section 4 Criminal Detention"
+        }
+      },
+      {
+        "no": 128,
+        "text": {
+          "en": "In respect of a criminal suspect against whom there is evidence proving the criminal facts and on whom a penalty of imprisonment or a heavier penalty may be imposed, where release on guarantee pending trial is insufficient to prevent the following dangers to society, a people's procuratorate shall approve or decide on arrest:\n(1) he may commit a new crime;\n(2) there is a real danger that he will endanger national security, public security or social order;\n(3) he may destroy or forge evidence, interfere with a witness's testimony or collude in statements;\n(4) he may retaliate against the victim, a reporter or a complainant;\n(5) he attempts suicide or escape.\nHaving evidence proving the criminal facts means that the following circumstances exist concurrently:\n(1) there is evidence proving that the criminal facts occurred;\n(2) there is evidence proving that the criminal facts were committed by the criminal suspect;\n(3) the evidence proving that the criminal suspect committed the criminal act has been verified.\nThe criminal facts may be the facts of a single criminal act or the facts of any one of several criminal acts."
+        },
+        "noLabel": {
+          "en": "Article 128."
+        },
+        "chapter": {
+          "en": "Section 5 Arrest"
+        }
+      },
+      {
+        "no": 129,
+        "text": {
+          "en": "Any of the following circumstances of a criminal suspect may be determined to be \"may commit a new crime\":\n(1) before or after the case occurred, he was planning, organising or preparing to commit a new crime;\n(2) he threatened to commit a new crime;\n(3) he committed crimes on several occasions, continuously or while moving from place to place;\n(4) within one year he was subjected to an administrative punishment for intentionally committing an unlawful act of the same kind;\n(5) he relies mainly on the proceeds of crime for his livelihood;\n(6) he has bad habits such as drug addiction or gambling;\n(7) other circumstances in which he may commit a new crime."
+        },
+        "noLabel": {
+          "en": "Article 129."
+        },
+        "chapter": {
+          "en": "Section 5 Arrest"
+        }
+      },
+      {
+        "no": 130,
+        "text": {
+          "en": "Any of the following circumstances of a criminal suspect may be determined to be \"a real danger that he will endanger national security, public security or social order\":\n(1) before or after the case occurred, he was actively planning, organising or preparing to commit a major unlawful or criminal act endangering national security, public security or social order;\n(2) he has previously been subjected to criminal punishment or administrative punishment for endangering national security, public security or social order;\n(3) he played an organising, planning or directing role in, or actively participated in, an act endangering national security, a criminal force of an evil nature, a terrorist activity or a drug crime;\n(4) other circumstances in which there is a real danger that he will endanger national security, public security or social order."
+        },
+        "noLabel": {
+          "en": "Article 130."
+        },
+        "chapter": {
+          "en": "Section 5 Arrest"
+        }
+      },
+      {
+        "no": 131,
+        "text": {
+          "en": "Any of the following circumstances of a criminal suspect may be determined to be \"may destroy or forge evidence, interfere with a witness's testimony or collude in statements\":\n(1) he has destroyed, forged, concealed or transferred evidence, or has attempted to do so;\n(2) he has coerced, intimidated, induced or bribed a witness to interfere with the witness's testimony, or has attempted to do so;\n(3) a co-suspect, or a criminal suspect whose crime is closely connected in fact with his, is at large and important evidence has not yet been fully collected;\n(4) other circumstances in which he may destroy or forge evidence, interfere with a witness's testimony or collude in statements."
+        },
+        "noLabel": {
+          "en": "Article 131."
+        },
+        "chapter": {
+          "en": "Section 5 Arrest"
+        }
+      },
+      {
+        "no": 132,
+        "text": {
+          "en": "Any of the following circumstances of a criminal suspect may be determined to be \"may retaliate against the victim, a reporter or a complainant\":\n(1) he threatened, or prepared or planned, to retaliate against the victim, a reporter or a complainant;\n(2) he has previously subjected the victim, a reporter or a complainant to retaliation, coercion, persecution or the like;\n(3) he has interfered by other means with the normal life or work of the victim, a reporter or a complainant;\n(4) other circumstances in which he may retaliate against the victim, a reporter or a complainant."
+        },
+        "noLabel": {
+          "en": "Article 132."
+        },
+        "chapter": {
+          "en": "Section 5 Arrest"
+        }
+      },
+      {
+        "no": 133,
+        "text": {
+          "en": "Any of the following circumstances of a criminal suspect may be determined to be \"attempts suicide or escape\":\n(1) he has begun to prepare for suicide, self-mutilation or escape;\n(2) he has previously committed suicide, mutilated himself or escaped;\n(3) he has expressed an intention to commit suicide, mutilate himself or escape;\n(4) he has previously resisted apprehension by violence or threat;\n(5) other circumstances in which he attempts suicide or escape."
+        },
+        "noLabel": {
+          "en": "Article 133."
+        },
+        "chapter": {
+          "en": "Section 5 Arrest"
+        }
+      },
+      {
+        "no": 134,
+        "text": {
+          "en": "In handling a case of review of arrest, a people's procuratorate shall comprehensively grasp the conditions for arrest; in respect of a criminal suspect against whom there is evidence proving the criminal facts and on whom a penalty of imprisonment or a heavier penalty may be imposed, it shall strictly examine whether the condition of danger to society is met, except in the circumstances provided in Paragraph 3 and Paragraph 4 of Article 81 of the Criminal Procedure Law."
+        },
+        "noLabel": {
+          "en": "Article 134."
+        },
+        "chapter": {
+          "en": "Section 5 Arrest"
+        }
+      },
+      {
+        "no": 135,
+        "text": {
+          "en": "In examining and determining whether a criminal suspect poses a danger to society, a people's procuratorate shall rely on the evidence relating to danger to society transferred by the public security organ and make a comprehensive determination in the light of the specific circumstances of the case. Where necessary, it may verify the relevant evidence by interrogating the criminal suspect, questioning witnesses and other participants in the proceedings, and hearing the opinions of defence counsel.\nWhere, on the basis of the evidence in the case file, it cannot be determined that the criminal suspect meets the condition of danger to society for arrest, the people's procuratorate may require the public security organ to supplement the relevant evidence; where the public security organ does not supplement and transfer it, a decision not to approve arrest shall be made."
+        },
+        "noLabel": {
+          "en": "Article 135."
+        },
+        "chapter": {
+          "en": "Section 5 Arrest"
+        }
+      },
+      {
+        "no": 136,
+        "text": {
+          "en": "In respect of a criminal suspect against whom there is evidence proving the criminal facts and on whom a penalty of ten years of fixed-term imprisonment or a heavier penalty may be imposed, arrest shall be approved or decided.\nIn respect of a criminal suspect against whom there is evidence proving the criminal facts and on whom a penalty of imprisonment or a heavier penalty may be imposed, and who has previously intentionally committed a crime or does not state his true name and address so that his identity is unknown, arrest shall be approved or decided."
+        },
+        "noLabel": {
+          "en": "Article 136."
+        },
+        "chapter": {
+          "en": "Section 5 Arrest"
+        }
+      },
+      {
+        "no": 137,
+        "text": {
+          "en": "Where, upon examination, a people's procuratorate considers that a criminal suspect released on guarantee pending trial or under residential surveillance has violated the provisions on release on guarantee pending trial or residential surveillance, the matter shall be dealt with in accordance with Article 101 and Article 111 of these Rules.\nIn respect of a criminal suspect released on guarantee pending trial or under residential surveillance on whom a penalty of less than imprisonment may be imposed, where he violates the provisions on release on guarantee pending trial or residential surveillance and thereby seriously affects the normal conduct of the proceedings, he may be arrested."
+        },
+        "noLabel": {
+          "en": "Article 137."
+        },
+        "chapter": {
+          "en": "Section 5 Arrest"
+        }
+      },
+      {
+        "no": 138,
+        "text": {
+          "en": "In respect of a criminal suspect in a case involving several criminal acts or in a joint crime case who meets the provisions of Article 128 of these Rules and falls under any of the following circumstances, arrest shall be approved or decided:\n(1) there is evidence proving one of several crimes;\n(2) there is evidence proving one of several criminal acts;\n(3) in a joint crime, there is already evidence proving the criminal facts of the criminal suspect."
+        },
+        "noLabel": {
+          "en": "Article 138."
+        },
+        "chapter": {
+          "en": "Section 5 Arrest"
+        }
+      },
+      {
+        "no": 139,
+        "text": {
+          "en": "In respect of a criminal suspect who falls under any of the following circumstances, a people's procuratorate shall make a decision not to approve arrest or not to arrest:\n(1) the conditions for arrest provided in these Rules are not met;\n(2) any of the circumstances provided in Article 16 of the Criminal Procedure Law exists."
+        },
+        "noLabel": {
+          "en": "Article 139."
+        },
+        "chapter": {
+          "en": "Section 5 Arrest"
+        }
+      },
+      {
+        "no": 140,
+        "text": {
+          "en": "Where the crime suspected of a criminal suspect is relatively minor and there is no other major suspicion of crime, and any of the following circumstances exists, a decision not to approve arrest or not to arrest may be made:\n(1) he is a preparer or a person who discontinued the crime, or his act exceeded the limits of necessity in self-defence or in avoiding danger;\n(2) he is a first-time offender with relatively little subjective vileness, an accomplice or a coerced participant in a joint crime, who surrendered after the crime, performed meritorious service, actively returned the illicit money, compensated for loss, or has genuinely shown repentance;\n(3) he is a criminal suspect of a negligent crime who has shown repentance after the crime and effectively controlled the loss or actively compensated for it;\n(4) the criminal suspect and the victim have reached a settlement agreement in accordance with the relevant provisions of the Criminal Procedure Law, and upon examination the settlement is considered voluntary and lawful and has been performed or security has been provided;\n(5) the criminal suspect pleads guilty and accepts punishment;\n(6) the criminal suspect is a minor who has reached 14 but not 18 years of age or a student enrolled in school, has shown repentance, and his family, school, community, residents' committee or villagers' committee has the conditions for guardianship and assistance and education;\n(7) the criminal suspect is a person who has reached the age of 75."
+        },
+        "noLabel": {
+          "en": "Article 140."
+        },
+        "chapter": {
+          "en": "Section 5 Arrest"
+        }
+      },
+      {
+        "no": 141,
+        "text": {
+          "en": "In respect of a criminal suspect meeting the provisions of Paragraph 1 of Article 74 of the Criminal Procedure Law, where the people's procuratorate, upon examination, considers that arrest is not necessary, it may, at the same time as making the decision not to approve arrest, recommend to the public security organ that the measure of residential surveillance be taken."
+        },
+        "noLabel": {
+          "en": "Article 141."
+        },
+        "chapter": {
+          "en": "Section 5 Arrest"
+        }
+      },
+      {
+        "no": 142,
+        "text": {
+          "en": "In respect of a case transferred for prosecution by a supervisory organ in which the measure of retention in custody has already been taken, the people's procuratorate shall, promptly after accepting the case, make a decision of detention in respect of the criminal suspect and deliver it to the public security organ for execution. After execution of the detention, the measure of retention in custody shall automatically be lifted."
+        },
+        "noLabel": {
+          "en": "Article 142."
+        },
+        "chapter": {
+          "en": "Section 6 Compulsory Measures for Cases Referred by Supervisory Organs"
+        }
+      },
+      {
+        "no": 143,
+        "text": {
+          "en": "The people's procuratorate shall, within ten days after execution of the detention, decide whether to arrest, release on guarantee pending trial or subject to residential surveillance. Under special circumstances, the time for the decision may be extended by one to four days.\nThe period during which a people's procuratorate decides to take a compulsory measure shall not be counted in the time limit for examination for prosecution."
+        },
+        "noLabel": {
+          "en": "Article 143."
+        },
+        "chapter": {
+          "en": "Section 6 Compulsory Measures for Cases Referred by Supervisory Organs"
+        }
+      },
+      {
+        "no": 144,
+        "text": {
+          "en": "Except where notification is impossible, a people's procuratorate shall, within 24 hours after the public security organ executes detention or arrest, notify the family members of the criminal suspect."
+        },
+        "noLabel": {
+          "en": "Article 144."
+        },
+        "chapter": {
+          "en": "Section 6 Compulsory Measures for Cases Referred by Supervisory Organs"
+        }
+      },
+      {
+        "no": 145,
+        "text": {
+          "en": "A people's procuratorate shall, within three days from the date of receipt of the case file materials transferred for prosecution, inform the criminal suspect that he has the right to entrust a defender. Where the measure of retention in custody has already been taken, the criminal suspect shall be informed at the time of execution of the detention."
+        },
+        "noLabel": {
+          "en": "Article 145."
+        },
+        "chapter": {
+          "en": "Section 6 Compulsory Measures for Cases Referred by Supervisory Organs"
+        }
+      },
+      {
+        "no": 146,
+        "text": {
+          "en": "In respect of a case transferred for prosecution by a supervisory organ in which the measure of retention in custody has not been taken, after accepting the case, the people's procuratorate may, according to the circumstances of the case and in the course of examination for prosecution, decide in accordance with the relevant provisions of these Rules whether to take the measures of arrest, release on guarantee pending trial or residential surveillance."
+        },
+        "noLabel": {
+          "en": "Article 146."
+        },
+        "chapter": {
+          "en": "Section 6 Compulsory Measures for Cases Referred by Supervisory Organs"
+        }
+      },
+      {
+        "no": 147,
+        "text": {
+          "en": "In respect of the taking of compulsory measures against a criminal suspect in a case transferred for prosecution by a supervisory organ, where this Section contains no provision, the relevant provisions of these Rules shall apply."
+        },
+        "noLabel": {
+          "en": "Article 147."
+        },
+        "chapter": {
+          "en": "Section 6 Compulsory Measures for Cases Referred by Supervisory Organs"
+        }
+      },
+      {
+        "no": 148,
+        "text": {
+          "en": "Where a people's procuratorate decides to take the compulsory measures of compelled appearance, release on guarantee pending trial, residential surveillance, detention or arrest against a criminal suspect who is a deputy to a people's congress at or above the county level, it shall report to the presidium or the standing committee of the people's congress to which the deputy belongs for permission.\nWhere a people's procuratorate decides to take a compulsory measure against a criminal suspect who is a deputy to the people's congress at the same level, it shall report to the presidium or the standing committee of the people's congress at the same level for permission.\nWhere a decision is made to take a compulsory measure against a criminal suspect who is a deputy to a people's congress at a higher level, the matter shall be reported through the levels to the people's procuratorate at the same level as the people's congress to which the deputy belongs, which shall report for permission.\nWhere a decision is made to take a compulsory measure against a criminal suspect who is a deputy to a people's congress at a lower level, the matter may be reported directly to the presidium or the standing committee of the people's congress to which the deputy belongs for permission, or the people's procuratorate at the same level as the people's congress to which the deputy belongs may be entrusted to report for permission.\nWhere a decision is made to take a compulsory measure against a criminal suspect who is a deputy to people's congresses at two or more levels, permission shall be reported for respectively in accordance with Paragraphs 2, 3 and 4 of this Article.\nWhere a decision is made to take a compulsory measure against a criminal suspect who is a deputy to a people's congress of a place other than the province, city or county (district) in which the case-handling unit is located, the people's procuratorate at the same level as the people's congress to which the deputy belongs shall be entrusted to report for permission; where the deputy is a deputy to people's congresses at two or more levels, the people's procuratorates at the same level as each of those people's congresses shall be entrusted respectively to report for permission.\nIn respect of a case submitted by a public security organ to a people's procuratorate for approval of arrest, where the criminal suspect is a deputy to a people's congress, the formalities for reporting for permission shall be handled by the public security organ.\nWhere a criminal suspect who is a deputy to a people's congress at or above the county level has already been criminally detained after permission was reported for and obtained from the presidium or the standing committee of the people's congress to which the deputy belongs, no further permission need be reported for when the measure of arrest is applied."
+        },
+        "noLabel": {
+          "en": "Article 148."
+        },
+        "chapter": {
+          "en": "Section 7 Other Provisions"
+        }
+      },
+      {
+        "no": 149,
+        "text": {
+          "en": "Where a criminal suspect who is a deputy to a people's congress at or above the county level is detained by a people's procuratorate as a flagrante delicto offender, the people's procuratorate shall immediately report to the presidium or the standing committee of the people's congress to which the deputy belongs. The reporting procedure shall be governed by reference to the provisions on the procedure for reporting for permission in Article 148 of these Rules.\nWhere a decision is made to take a compulsory measure against a criminal suspect who is a deputy to the people's congress of a township, ethnic township or town, the people's procuratorate at the county level shall report to the people's congress of the township, ethnic township or town."
+        },
+        "noLabel": {
+          "en": "Article 149."
+        },
+        "chapter": {
+          "en": "Section 7 Other Provisions"
+        }
+      },
+      {
+        "no": 150,
+        "text": {
+          "en": "Where a criminal suspect, or his statutory agent, close relatives or defender, considers that the statutory time limit for the compulsory measure taken by a people's procuratorate has expired and requests the lifting or alteration of the compulsory measure or the release of the criminal suspect, the people's procuratorate shall make a decision within three days after receipt of the application.\nWhere, upon examination, it considers that the statutory time limit has expired, it shall decide to lift or alter the compulsory measure or release the criminal suspect and notify the public security organ to execute it; where it considers that the statutory time limit has not expired, it shall reply to the applicant in writing."
+        },
+        "noLabel": {
+          "en": "Article 150."
+        },
+        "chapter": {
+          "en": "Section 7 Other Provisions"
+        }
+      },
+      {
+        "no": 151,
+        "text": {
+          "en": "Where a criminal suspect, his statutory agent, close relative or defender applies to a people's procuratorate for modification of compulsory measures, the people's procuratorate shall make a decision within three days after receiving the application.\nWhere, upon review, it agrees to modify the compulsory measures, it shall, at the same time as making the decision, notify the public security organ to execute it; where it does not agree to modify the compulsory measures, it shall inform the applicant in writing and state the reasons for disagreement.\nWhere a criminal suspect, his statutory agent, close relative or defender applies for modification of compulsory measures, the reasons shall be stated, and where there is evidence or other material, the relevant material shall be attached."
+        },
+        "noLabel": {
+          "en": "Article 151."
+        },
+        "chapter": {
+          "en": "Section 7 Other Provisions"
+        }
+      },
+      {
+        "no": 152,
+        "text": {
+          "en": "Where, during investigation or review for prosecution, a people's procuratorate, after criminally detaining or arresting a criminal suspect, has any change of time limit as a result of lawful extension of the period of custody pending investigation or of the period for review and prosecution, or recalculation of such periods, it shall promptly notify the house of detention in writing of the changed time limits."
+        },
+        "noLabel": {
+          "en": "Article 152."
+        },
+        "chapter": {
+          "en": "Section 7 Other Provisions"
+        }
+      },
+      {
+        "no": 153,
+        "text": {
+          "en": "Where a people's procuratorate decides to release on guarantee pending trial, impose residential surveillance on, criminally detain or arrest a staff member of an organ or a public institution suspected of a crime, it shall, within five days after taking or lifting the compulsory measures, inform the unit where he works; where it decides to terminate the case or not to prosecute, it shall, within ten days after making the decision, inform the unit where he works."
+        },
+        "noLabel": {
+          "en": "Article 153."
+        },
+        "chapter": {
+          "en": "Section 7 Other Provisions"
+        }
+      },
+      {
+        "no": 154,
+        "text": {
+          "en": "Where release on guarantee pending trial is changed to residential surveillance, or release on guarantee pending trial or residential surveillance is changed to criminal detention or arrest, the original compulsory measures shall be automatically lifted at the same time as the change, and no further legal formalities for lifting them shall be gone through."
+        },
+        "noLabel": {
+          "en": "Article 154."
+        },
+        "chapter": {
+          "en": "Section 7 Other Provisions"
+        }
+      },
+      {
+        "no": 155,
+        "text": {
+          "en": "Where a people's procuratorate has already released a criminal suspect on guarantee pending trial or imposed residential surveillance on him, and after the case is transferred for prosecution to a people's court the people's court decides to release him on guarantee pending trial, impose residential surveillance on him or modify the compulsory measures, the original compulsory measures shall be automatically lifted, and no further legal formalities for lifting them shall be gone through."
+        },
+        "noLabel": {
+          "en": "Article 155."
+        },
+        "chapter": {
+          "en": "Section 7 Other Provisions"
+        }
+      },
+      {
+        "no": 156,
+        "text": {
+          "en": "The following cases shall be uniformly accepted by the department responsible for case management of a people's procuratorate:\n(1) cases in which the public security organ requests approval of arrest, transfers the case for prosecution, requests approval of extension of the period of custody pending investigation, requests reconsideration, requests review, applies for re-examination, transfers an application for compulsory medical treatment, or transfers an application for confiscation of illegal gains;\n(2) cases in which a supervisory organ transfers the case for prosecution, requests confiscation of illegal gains, or requests reconsideration of a decision not to prosecute;\n(3) cases in which a people's procuratorate at a lower level lodges or requests a protest, requests designated jurisdiction, requests approval of prosecution, requests approval of trial by default, or requests supervision of death penalty review;\n(4) cases in which a people's court notifies the procuratorate to appear before a court of second instance or a court for retrial;\n(5) other cases that shall be accepted by the department responsible for case management in accordance with provisions."
+        },
+        "noLabel": {
+          "en": "Article 156."
+        },
+        "chapter": {
+          "en": "Chapter VII Acceptance of Cases"
+        }
+      },
+      {
+        "no": 157,
+        "text": {
+          "en": "When the department responsible for case management of a people's procuratorate accepts a case, it shall receive the case file materials and immediately examine the following:\n(1) whether the case falls within the jurisdiction of its own procuratorate, as determined on the basis of the contents stated in the legal document transferred;\n(2) whether the case file materials are complete and standardised and meet the requirements of the relevant provisions;\n(3) whether the money or articles transferred correspond to the transfer list;\n(4) whether the criminal suspect is present and the circumstances of the compulsory measures taken;\n(5) whether the case was transferred within the prescribed time limit."
+        },
+        "noLabel": {
+          "en": "Article 157."
+        },
+        "chapter": {
+          "en": "Chapter VII Acceptance of Cases"
+        }
+      },
+      {
+        "no": 158,
+        "text": {
+          "en": "After examining the case file materials received, where the department responsible for case management of a people's procuratorate considers that the conditions for acceptance are met, it shall register the case promptly and immediately transfer the case file materials and the case acceptance registration form to the case-handling department for handling.\nWhere, upon examination, it considers that the case file materials are incomplete, it shall promptly require the unit that transferred the case to supplement the relevant materials. Where the binding of the case file does not meet the requirements, it shall require the unit that transferred the case to rebind it before transferring it.\nWhere, in a case transferred for prosecution, the criminal suspect is at large, the public security organ shall be required to take measures to ensure that the criminal suspect appears before the case is transferred for prosecution. Where some of the criminal suspects in a joint crime case are at large, the transfer for prosecution of the criminal suspects who are present shall be accepted."
+        },
+        "noLabel": {
+          "en": "Article 158."
+        },
+        "chapter": {
+          "en": "Chapter VII Acceptance of Cases"
+        }
+      },
+      {
+        "no": 159,
+        "text": {
+          "en": "The department responsible for case management of a people's procuratorate shall receive and immediately register execution reports served by public security organs and legal documents such as judgments and rulings served by people's courts."
+        },
+        "noLabel": {
+          "en": "Article 159."
+        },
+        "chapter": {
+          "en": "Chapter VII Acceptance of Cases"
+        }
+      },
+      {
+        "no": 160,
+        "text": {
+          "en": "Where a case investigated directly upon acceptance by a people's procuratorate is transferred for review for arrest or for prosecution, the provisions of Articles 156 to 158 of these Rules shall be applied."
+        },
+        "noLabel": {
+          "en": "Article 160."
+        },
+        "chapter": {
+          "en": "Chapter VII Acceptance of Cases"
+        }
+      },
+      {
+        "no": 161,
+        "text": {
+          "en": "The department responsible for complaint and petition prosecution of a people's procuratorate shall uniformly accept reports of cases, complaints, tip-offs, petitions and voluntary surrender by criminal suspects, examine them in accordance with law, and within seven days make one of the following dispositions:\n(1) where the matter falls within the jurisdiction of its own procuratorate and meets the conditions for acceptance, it shall be accepted;\n(2) where a report of a case, a complaint, a tip-off or a voluntary surrender does not fall within the jurisdiction of its own procuratorate, it shall be transferred to the competent organ for handling. Where urgent measures must be taken, urgent measures shall be taken first and the matter shall then be transferred to the competent organ. Where a petition does not fall within the jurisdiction of its own procuratorate, the petitioner shall be informed to submit it to an organ with jurisdiction;\n(3) where the circumstances of the case are unclear, necessary investigation and verification shall be conducted, and a disposition shall be made in accordance with law once the circumstances are ascertained.\nThe department responsible for complaint and petition prosecution may assign cases of complaint, petition and tip-off to people's procuratorates at lower levels for handling and shall supervise the handling in accordance with the relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 161."
+        },
+        "chapter": {
+          "en": "Chapter VII Acceptance of Cases"
+        }
+      },
+      {
+        "no": 162,
+        "text": {
+          "en": "Where a complaint or petition meets the following conditions, the people's procuratorate shall accept it:\n(1) it falls within the scope of cases accepted by people's procuratorates;\n(2) its own procuratorate has jurisdiction;\n(3) the petitioner is a party to the original case or his statutory agent or close relative;\n(4) the materials of the complaint or petition meet the requirements for acceptance.\nWhere a complainant or petitioner entrusts a lawyer to act as agent for the complaint or petition and the above conditions are met, the matter shall be accepted.\nWhere the materials of a complaint or petition are incomplete, the complainant or petitioner shall be informed to complete them. The time of acceptance shall be counted from the date on which the complainant or petitioner completes the relevant materials."
+        },
+        "noLabel": {
+          "en": "Article 162."
+        },
+        "chapter": {
+          "en": "Chapter VII Acceptance of Cases"
+        }
+      },
+      {
+        "no": 163,
+        "text": {
+          "en": "With respect to letters received from members of the public, the department responsible for complaint and petition prosecution shall give a procedural reply within seven days, and the case-handling department shall, within three months, reply to the letter writer on the progress or the result of handling."
+        },
+        "noLabel": {
+          "en": "Article 163."
+        },
+        "chapter": {
+          "en": "Chapter VII Acceptance of Cases"
+        }
+      },
+      {
+        "no": 164,
+        "text": {
+          "en": "The department responsible for complaint and petition prosecution shall examine a criminal petition case accepted on the basis of the facts and the law and may, where necessary, conduct investigation and verification. Where it considers that the original handling of the case may have been erroneous, it shall transfer the case to the relevant case-handling department for handling; where it considers that the original handling was not erroneous, it shall reply to the petitioner in writing."
+        },
+        "noLabel": {
+          "en": "Article 164."
+        },
+        "chapter": {
+          "en": "Chapter VII Acceptance of Cases"
+        }
+      },
+      {
+        "no": 165,
+        "text": {
+          "en": "The case-handling department shall conclude a case of complaint or petition within the prescribed time limit, prepare the relevant legal documents, serve them on the person reporting the case, the complainant, the petitioner, the tip-off provider or the person surrendering, and properly explain the law and the reasoning."
+        },
+        "noLabel": {
+          "en": "Article 165."
+        },
+        "chapter": {
+          "en": "Chapter VII Acceptance of Cases"
+        }
+      },
+      {
+        "no": 166,
+        "text": {
+          "en": "Leads on cases investigated directly upon acceptance by a people's procuratorate shall be uniformly accepted, registered and managed by the department responsible for investigation. Where a complaint or tip-off accepted by the department responsible for complaint and petition prosecution, or a case lead discovered by another case-handling department of the same procuratorate, constitutes a lead on a case investigated directly upon acceptance by a people's procuratorate, it shall be transferred to the department responsible for investigation within seven days.\nAfter examining the case lead, where the department responsible for investigation considers that it falls within the jurisdiction of its own procuratorate and requires further investigation and verification, it shall report to the chief procurator for decision."
+        },
+        "noLabel": {
+          "en": "Article 166."
+        },
+        "chapter": {
+          "en": "Section 1 Review of Case Filing"
+        }
+      },
+      {
+        "no": 167,
+        "text": {
+          "en": "With respect to leads on cases investigated directly upon acceptance by a people's procuratorate, a people's procuratorate at a higher level may, where necessary, directly conduct investigation and verification, or organise, direct or participate in the investigation and verification of a people's procuratorate at a lower level; it may designate a lead on a case under the jurisdiction of a people's procuratorate at a lower level to another people's procuratorate within its jurisdiction for investigation and verification, and may also refer a lead on a case under its own jurisdiction to a people's procuratorate at a lower level for investigation and verification; where a people's procuratorate at a lower level considers that a case lead is major and complex and needs to be investigated and verified by a people's procuratorate at a higher level, it may request that it be transferred to the people's procuratorate at the higher level for investigation and verification."
+        },
+        "noLabel": {
+          "en": "Article 167."
+        },
+        "chapter": {
+          "en": "Section 1 Review of Case Filing"
+        }
+      },
+      {
+        "no": 168,
+        "text": {
+          "en": "Investigation and verification shall generally not involve contact with the person under investigation. Where contact with the person under investigation is necessary, approval of the chief procurator shall be obtained."
+        },
+        "noLabel": {
+          "en": "Article 168."
+        },
+        "chapter": {
+          "en": "Section 1 Review of Case Filing"
+        }
+      },
+      {
+        "no": 169,
+        "text": {
+          "en": "In conducting investigation and verification, measures that do not restrict the personal or property rights of the person under investigation, such as questioning, inquiry, inquest, examination, appraisal and obtaining evidence materials, may be adopted. No compulsory measure may be taken against the person under investigation, no sealing up, seizure or freezing of the property of the person under investigation may be carried out, and no technical investigation measure may be adopted."
+        },
+        "noLabel": {
+          "en": "Article 169."
+        },
+        "chapter": {
+          "en": "Section 1 Review of Case Filing"
+        }
+      },
+      {
+        "no": 170,
+        "text": {
+          "en": "After investigation and verification, the department responsible for investigation shall prepare a review report.\nAfter the conclusion of investigation and verification, the relevant materials shall be placed on file. Where the case is filed and enters the investigation procedure, materials other than those serving as litigation evidence shall be placed in the internal investigation file."
+        },
+        "noLabel": {
+          "en": "Article 170."
+        },
+        "chapter": {
+          "en": "Section 1 Review of Case Filing"
+        }
+      },
+      {
+        "no": 171,
+        "text": {
+          "en": "Where, after examination, a people's procuratorate considers that there are facts of a crime and that criminal responsibility needs to be investigated in a case accepted directly by it, it shall prepare a report on case filing and file the case after approval by the chief procurator.\nWhere the conditions for filing a case are met but the criminal suspect has not yet been identified, a decision to file the case may be made on the basis of the ascertained facts of the crime.\nWhere any of the following circumstances exists, the matter shall be reported to the chief procurator for a decision not to file the case:\n(1) any of the circumstances specified in Article 16 of the Criminal Procedure Law exists;\n(2) it considers that there are no facts of a crime;\n(3) the facts or evidence do not yet meet the conditions for filing a case."
+        },
+        "noLabel": {
+          "en": "Article 171."
+        },
+        "chapter": {
+          "en": "Section 2 Decisions on Case Filing"
+        }
+      },
+      {
+        "no": 172,
+        "text": {
+          "en": "Where a decision not to file a case is made with respect to a case lead transferred by another organ or by another case-handling department of the same procuratorate, the department responsible for investigation shall prepare a notice of non-filing stating the cause of action and the origin of the case, the reasons for the decision not to file the case and the legal basis, and serve it, within ten days from the date of the decision not to file the case, on the organ or department that transferred the case lead."
+        },
+        "noLabel": {
+          "en": "Article 172."
+        },
+        "chapter": {
+          "en": "Section 2 Decisions on Case Filing"
+        }
+      },
+      {
+        "no": 173,
+        "text": {
+          "en": "Where a decision not to file a case is made with respect to a complaint or a tip-off made under a real name, a notice of non-filing shall be prepared stating the cause of action and the origin of the case, the reasons for the decision not to file the case and the legal basis, and the department responsible for investigation shall serve it on the complainant or the tip-off provider within fifteen days and at the same time inform the department responsible for complaint and petition prosecution of the same procuratorate.\nWhere the complainant is dissatisfied, he may, within ten days after receiving the notice of non-filing, apply to the people's procuratorate at the next higher level for reconsideration. Reconsideration of a decision not to file a case shall be examined and handled by the department responsible for investigation of the people's procuratorate at the next higher level.\nWhere a people's procuratorate considers that the conduct of the person complained of or reported does not constitute a crime and decides not to file the case, but it is necessary to pursue his responsibility under Party discipline, administrative discipline or for an unlawful act, the matter shall be transferred to the competent organ with jurisdiction for handling."
+        },
+        "noLabel": {
+          "en": "Article 173."
+        },
+        "chapter": {
+          "en": "Section 2 Decisions on Case Filing"
+        }
+      },
+      {
+        "no": 174,
+        "text": {
+          "en": "Where a mistaken complaint has caused an adverse effect on the person complained of or reported, the people's procuratorate shall, within one month from the date of the decision not to file the case, notify the unit where he works or the relevant department of the conclusion of investigation and verification so as to clarify the facts.\nWhere the matter constitutes false accusation and frame-up, it shall be transferred to the relevant organ for handling."
+        },
+        "noLabel": {
+          "en": "Article 174."
+        },
+        "chapter": {
+          "en": "Section 2 Decisions on Case Filing"
+        }
+      },
+      {
+        "no": 175,
+        "text": {
+          "en": "Where a people's procuratorate decides to file a case against a deputy to a people's congress, it shall, in accordance with the procedure provided in Articles 148 and 149 of these Rules, notify the presidium or the standing committee of the people's congress to which the deputy belongs."
+        },
+        "noLabel": {
+          "en": "Article 175."
+        },
+        "chapter": {
+          "en": "Section 2 Decisions on Case Filing"
+        }
+      },
+      {
+        "no": 176,
+        "text": {
+          "en": "When handling a case investigated directly upon acceptance, a people's procuratorate shall comprehensively and objectively collect and obtain evidence materials proving the guilt or innocence of the criminal suspect or the gravity or lightness of his crime, and shall examine and verify them in accordance with law. In handling a case, emphasis must be placed on evidence and on investigation and study, and confessions shall not be readily believed. Extorting a confession by torture and collecting evidence by threats, inducement, deception or other unlawful methods are strictly prohibited, and no one may be compelled to prove his own guilt."
+        },
+        "noLabel": {
+          "en": "Article 176."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 177,
+        "text": {
+          "en": "When handling a case investigated directly upon acceptance, a people's procuratorate shall safeguard the right to defence and the other litigation rights that the criminal suspect and other participants in the proceedings enjoy in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 177."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 178,
+        "text": {
+          "en": "When handling a case investigated directly upon acceptance, a people's procuratorate shall strictly follow the procedure provided in the Criminal Procedure Law, strictly observe the provisions on the time limits for handling criminal cases, and request approval of arrest, transfer the case for prosecution, decide not to prosecute or terminate the case in accordance with law.\nThe adoption of compulsory measures against a criminal suspect shall be subject to approval by the chief procurator."
+        },
+        "noLabel": {
+          "en": "Article 178."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 179,
+        "text": {
+          "en": "When handling a case investigated directly upon acceptance, a people's procuratorate shall keep confidential the State secrets, commercial secrets and personal privacy learned of in the course of investigation."
+        },
+        "noLabel": {
+          "en": "Article 179."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 180,
+        "text": {
+          "en": "Where a people's procuratorate handling a case needs to send personnel outside its jurisdiction to conduct a search or to obtain material evidence, documentary evidence and other evidence materials, or to seal up or seize property and documents, the personnel shall contact the local people's procuratorate with the relevant legal documents and certification documents, and the local people's procuratorate shall provide assistance.\nWhere evidence materials need to be obtained outside its jurisdiction, a letter may, where necessary, be sent to the people's procuratorate in the place where the evidence is located so as to obtain the evidence. The letter requesting evidence shall specify the person from whom, the address at which and the content of which the evidence is to be obtained. The people's procuratorate in the place where the evidence is located shall, within one month after receiving the letter, serve the result of obtaining the evidence on the people's procuratorate handling the case.\nWhere the people's procuratorate requested to provide assistance has objections, it may consult with the people's procuratorate handling the case. Where necessary, the matter shall be reported to their common people's procuratorate at a higher level for decision."
+        },
+        "noLabel": {
+          "en": "Article 180."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 181,
+        "text": {
+          "en": "A people's procuratorate may, in investigating a case accepted directly by it, apply the various investigation measures provided in Chapter II of Part Two of the Criminal Procedure Law.\nWhere the Criminal Procedure Law provides that a record shall be made of an investigation activity, a record shall be made. Where necessary, the relevant activity may be audio-recorded or video-recorded."
+        },
+        "noLabel": {
+          "en": "Article 181."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 182,
+        "text": {
+          "en": "The interrogation of a criminal suspect shall be conducted by procuratorial personnel. At the interrogation there shall be not fewer than two procuratorial personnel, or not fewer than two persons where procuratorial personnel and a clerk are present.\nCriminal suspects in the same case shall be interrogated separately."
+        },
+        "noLabel": {
+          "en": "Article 182."
+        },
+        "chapter": {
+          "en": "Section 2 Interrogation of Criminal Suspects"
+        }
+      },
+      {
+        "no": 183,
+        "text": {
+          "en": "A criminal suspect who does not need to be arrested or criminally detained may be summoned to a designated place within the city or county where the criminal suspect is located, or to his residence, for interrogation.\nTo summon a criminal suspect, a summons and a work certificate shall be produced, and the criminal suspect shall be instructed to sign or seal the summons and to affix his fingerprint.\nAfter the criminal suspect appears, he shall fill in the time of appearance on the summons. When the summons ends, he shall fill in the time when the summons ends. Where he refuses to fill them in, this shall be noted on the summons.\nWhere a criminal suspect is discovered at the scene, he may be summoned orally after the work certificate is produced, and the reasons for and the basis of the summons shall be explained to the person summoned. The time of appearance of the criminal suspect, the process of his appearance and the time when the summons ends shall be noted in the record of interrogation.\nThe provisions of paragraph 2 of Article 84 of these Rules shall apply to the summoning of a criminal suspect."
+        },
+        "noLabel": {
+          "en": "Article 183."
+        },
+        "chapter": {
+          "en": "Section 2 Interrogation of Criminal Suspects"
+        }
+      },
+      {
+        "no": 184,
+        "text": {
+          "en": "When a criminal suspect is summoned, if his family members are present, the reasons for and the place of the summons shall be explained to them orally on the spot and noted in the record of interrogation. If his family members are not present, his family members shall promptly be notified of the reasons for and the place of the summons. Where notification is impossible, this shall be noted in the record of interrogation."
+        },
+        "noLabel": {
+          "en": "Article 184."
+        },
+        "chapter": {
+          "en": "Section 2 Interrogation of Criminal Suspects"
+        }
+      },
+      {
+        "no": 185,
+        "text": {
+          "en": "A summons shall not last longer than twelve hours. Where the circumstances of the case are particularly major and complex and measures of criminal detention or arrest need to be taken, a summons shall not last longer than twenty-four hours. The interval between two summonses shall generally be not less than twelve hours, and a criminal suspect shall not be held in disguised custody by means of successive summonses.\nWhen summoning a criminal suspect, his food and drink and the necessary time for rest shall be ensured."
+        },
+        "noLabel": {
+          "en": "Article 185."
+        },
+        "chapter": {
+          "en": "Section 2 Interrogation of Criminal Suspects"
+        }
+      },
+      {
+        "no": 186,
+        "text": {
+          "en": "After a criminal suspect is delivered to a house of detention for custody, procuratorial personnel who interrogate him shall fill in an interrogation and transfer certificate and conduct the interrogation in an interrogation room of the house of detention.\nWhere it is necessary for identification, appraisal, an investigative experiment or the recovery of property related to the crime, the criminal suspect may, with the approval of the chief procurator, be taken out of the house of detention under escort, and he shall be escorted by not fewer than two judicial police officers. A criminal suspect shall not be taken out of the house of detention for the purpose of interrogation."
+        },
+        "noLabel": {
+          "en": "Article 186."
+        },
+        "chapter": {
+          "en": "Section 2 Interrogation of Criminal Suspects"
+        }
+      },
+      {
+        "no": 187,
+        "text": {
+          "en": "The interrogation of a criminal suspect shall generally be conducted in the following order:\n(1) verifying the basic information of the criminal suspect, including name, date of birth, place of household registration, citizen identity number, ethnicity, occupation, level of education, work unit and position, residence, family circumstances and social experience, and whether he is a deputy to a people's congress or a member of a committee of the Chinese People's Political Consultative Conference;\n(2) informing the criminal suspect of his litigation rights at the investigation stage, of his right to defend himself or to entrust a lawyer for his defence, and of the legal provisions under which a truthful confession of his crime may lead to lenient treatment in accordance with law and to pleading guilty and accepting punishment;\n(3) asking the criminal suspect whether he has committed a crime and letting him state the facts of the crime or his defence of innocence, and he shall be allowed to make a coherent statement.\nA criminal suspect shall truthfully answer the questions of procuratorial personnel. However, he has the right to refuse to answer questions unrelated to this case.\nWhen interrogating a criminal suspect, he shall be informed that the interrogation will be audio-recorded and video-recorded in full and synchronously. The notification shall be reflected in the audio and video recordings and noted in the record.\nAt the interrogation, the defence raised by the criminal suspect shall be carefully verified. Extorting a confession by torture and obtaining confessions by threats, inducement, deception or other unlawful methods are strictly prohibited."
+        },
+        "noLabel": {
+          "en": "Article 187."
+        },
+        "chapter": {
+          "en": "Section 2 Interrogation of Criminal Suspects"
+        }
+      },
+      {
+        "no": 188,
+        "text": {
+          "en": "The interrogation of a criminal suspect shall be recorded in a record of interrogation. The record of interrogation shall be faithful to the original words, legible, detailed and specific, and shall be handed to the criminal suspect for verification. Where the criminal suspect is unable to read, it shall be read to him. Where there are omissions or errors in the record, it shall be supplemented or corrected. Where the criminal suspect considers that the record of interrogation contains no error, he shall sign or seal each page of the record and affix his fingerprint, and shall write on the last page \"I have read the above record (it has been read to me) and it conforms to what I said\", sign or seal it at the same time, affix his fingerprint and indicate the date. Where the criminal suspect refuses to sign, seal or affix his fingerprint, this shall be noted in the record. The procuratorial personnel and the clerk who conducted the interrogation shall also sign the record."
+        },
+        "noLabel": {
+          "en": "Article 188."
+        },
+        "chapter": {
+          "en": "Section 2 Interrogation of Criminal Suspects"
+        }
+      },
+      {
+        "no": 189,
+        "text": {
+          "en": "Where a criminal suspect requests to write out his confession himself, the procuratorial personnel shall permit it. Where necessary, the procuratorial personnel may also require the criminal suspect to write out his confession in his own hand. The criminal suspect shall sign or seal the last page of the handwritten confession, affix his fingerprint and indicate the date of writing. After receiving it, the procuratorial personnel shall write \"received on ... (date)\" in the upper right corner of the first page and sign."
+        },
+        "noLabel": {
+          "en": "Article 189."
+        },
+        "chapter": {
+          "en": "Section 2 Interrogation of Criminal Suspects"
+        }
+      },
+      {
+        "no": 190,
+        "text": {
+          "en": "When a people's procuratorate handles a case investigated directly upon acceptance, it shall, at each interrogation of the criminal suspect, audio-record and video-record the entire interrogation process and note this in the record of interrogation."
+        },
+        "noLabel": {
+          "en": "Article 190."
+        },
+        "chapter": {
+          "en": "Section 2 Interrogation of Criminal Suspects"
+        }
+      },
+      {
+        "no": 191,
+        "text": {
+          "en": "In the course of investigation, a people's procuratorate shall promptly inquire of witnesses and inform them of their rights and obligations in giving testimony.\nA people's procuratorate shall ensure that all citizens who are connected with a case or who know the circumstances of a case have the conditions to provide evidence objectively and fully, and shall keep secrets for them. Except in special circumstances, a people's procuratorate may enlist their assistance in investigation."
+        },
+        "noLabel": {
+          "en": "Article 191."
+        },
+        "chapter": {
+          "en": "Section 3 Questioning of Witnesses and Victims"
+        }
+      },
+      {
+        "no": 192,
+        "text": {
+          "en": "The inquiry of a witness shall be conducted by procuratorial personnel. At the inquiry there shall be not fewer than two procuratorial personnel, or not fewer than two persons where procuratorial personnel and a clerk are present."
+        },
+        "noLabel": {
+          "en": "Article 192."
+        },
+        "chapter": {
+          "en": "Section 3 Questioning of Witnesses and Victims"
+        }
+      },
+      {
+        "no": 193,
+        "text": {
+          "en": "A witness may be inquired of at the scene, or at the unit where the witness works, at his residence or at a place proposed by the witness. Where necessary, a witness may also be notified to come to the people's procuratorate to give testimony. Where the inquiry is conducted at a place proposed by the witness, this shall be noted in the record.\nWitnesses shall be inquired of separately.\nWhere a witness is inquired of at the scene, a work certificate shall be produced. Where a witness is inquired of at the unit where he works, at his residence or at a place proposed by him, the certification documents of the people's procuratorate shall be produced."
+        },
+        "noLabel": {
+          "en": "Article 193."
+        },
+        "chapter": {
+          "en": "Section 3 Questioning of Witnesses and Victims"
+        }
+      },
+      {
+        "no": 194,
+        "text": {
+          "en": "In inquiring of a witness, the basic information of the witness and his relationship with the parties shall be ascertained, and the witness shall be informed that he shall truthfully provide evidence and testimony and of the legal responsibility he bears for intentionally giving false testimony or concealing criminal evidence; however, the circumstances of the case shall not be divulged to the witness, and testimony shall not be obtained by detention, violence, threats, inducement, deception or other unlawful methods.\nWhere an important witness in a major case or in a case with social impact is inquired of, the entire inquiry process shall be audio-recorded and video-recorded and this shall be noted in the record of inquiry."
+        },
+        "noLabel": {
+          "en": "Article 194."
+        },
+        "chapter": {
+          "en": "Section 3 Questioning of Witnesses and Victims"
+        }
+      },
+      {
+        "no": 195,
+        "text": {
+          "en": "The provisions on the inquiry of witnesses shall apply to the inquiry of victims."
+        },
+        "noLabel": {
+          "en": "Article 195."
+        },
+        "chapter": {
+          "en": "Section 3 Questioning of Witnesses and Victims"
+        }
+      },
+      {
+        "no": 196,
+        "text": {
+          "en": "Procuratorial personnel shall conduct an inquest or examination of places, articles, persons and corpses related to a crime. Where necessary, they may assign procuratorial technical personnel or engage other persons with specialised knowledge to conduct the inquest or examination under the direction of procuratorial personnel."
+        },
+        "noLabel": {
+          "en": "Article 196."
+        },
+        "chapter": {
+          "en": "Section 4 Inquest and Examination"
+        }
+      },
+      {
+        "no": 197,
+        "text": {
+          "en": "At an inquest, a people's procuratorate shall invite two witnesses unconnected with the case to be present.\nWhen a crime scene is inspected, photographs of the scene shall be taken. The circumstances of the inspection shall be recorded in a written record and a plan of the scene shall be made, and the persons who participated in the inspection and the witnesses shall sign them. Where the scene of a major case is inspected, video recording shall be made."
+        },
+        "noLabel": {
+          "en": "Article 197."
+        },
+        "chapter": {
+          "en": "Section 4 Inquest and Examination"
+        }
+      },
+      {
+        "no": 198,
+        "text": {
+          "en": "Where a people's procuratorate conducts an autopsy on a corpse whose cause of death is unknown, it shall notify the family members of the deceased to be present and have them sign or seal the notice of autopsy.\nWhere the family members of the deceased refuse to be present or refuse to sign or seal without justified reasons, the autopsy shall not be affected, but this shall be noted on the notice of autopsy. Where the corpse is unidentified and the family members of the deceased cannot be notified, this shall be noted in the record."
+        },
+        "noLabel": {
+          "en": "Article 198."
+        },
+        "chapter": {
+          "en": "Section 4 Inquest and Examination"
+        }
+      },
+      {
+        "no": 199,
+        "text": {
+          "en": "In order to determine certain features, injuries or the physiological condition of a victim or criminal suspect, a people's procuratorate may examine his person and may collect fingerprint information and biological samples such as blood and urine.\nWhere necessary, a forensic doctor or a physician may be assigned or engaged to conduct the personal examination. Biological samples such as blood shall be collected by a physician.\nWhere a criminal suspect refuses examination, the procuratorial personnel may, where they consider it necessary, conduct a compulsory examination.\nThe examination of the body of a woman shall be conducted by female staff members or by a physician.\nA personal examination shall not employ methods that harm the life or health of the person examined or that debase his reputation or personal dignity. Procuratorial personnel shall keep confidential the personal privacy of the person examined learned of in the course of the personal examination."
+        },
+        "noLabel": {
+          "en": "Article 199."
+        },
+        "chapter": {
+          "en": "Section 4 Inquest and Examination"
+        }
+      },
+      {
+        "no": 200,
+        "text": {
+          "en": "In order to ascertain the circumstances of a case, an investigative experiment may be conducted where necessary with the approval of the chief procurator.\nIn an investigative experiment, all acts that are likely to cause danger, to insult personal dignity or to offend public decency are prohibited."
+        },
+        "noLabel": {
+          "en": "Article 200."
+        },
+        "chapter": {
+          "en": "Section 4 Inquest and Examination"
+        }
+      },
+      {
+        "no": 201,
+        "text": {
+          "en": "Where necessary, relevant professional persons may be engaged to participate in an investigative experiment, and a criminal suspect, a victim or a witness may also be required to participate."
+        },
+        "noLabel": {
+          "en": "Article 201."
+        },
+        "chapter": {
+          "en": "Section 4 Inquest and Examination"
+        }
+      },
+      {
+        "no": 202,
+        "text": {
+          "en": "A people's procuratorate has the right to require the relevant units and individuals to hand over evidence that can prove the guilt or innocence of a criminal suspect and the gravity or lightness of the circumstances of the crime."
+        },
+        "noLabel": {
+          "en": "Article 202."
+        },
+        "chapter": {
+          "en": "Section 5 Search"
+        }
+      },
+      {
+        "no": 203,
+        "text": {
+          "en": "In order to collect criminal evidence and to find the offender, procuratorial personnel may, with the approval of the chief procurator, search the person, articles, residence, workplace and other relevant places of a criminal suspect and of persons who may be hiding the offender or criminal evidence."
+        },
+        "noLabel": {
+          "en": "Article 203."
+        },
+        "chapter": {
+          "en": "Section 5 Search"
+        }
+      },
+      {
+        "no": 204,
+        "text": {
+          "en": "A search shall be conducted under the direction of procuratorial personnel, and judicial police officers may participate. Where necessary, procuratorial technical personnel may be assigned to participate, or the local public security organ or the relevant unit may be invited to assist.\nThe persons executing a search shall be not fewer than two."
+        },
+        "noLabel": {
+          "en": "Article 204."
+        },
+        "chapter": {
+          "en": "Section 5 Search"
+        }
+      },
+      {
+        "no": 205,
+        "text": {
+          "en": "At the time of a search, the search warrant shall be produced to the person to be searched or to his family members.\nWhen carrying out arrest or criminal detention, a search may be conducted without a separate search warrant under any of the following urgent circumstances:\n(1) where the person may be carrying a weapon;\n(2) where the person may be hiding dangerous articles such as explosives or highly toxic substances;\n(3) where the person may be concealing, destroying or transferring criminal evidence;\n(4) where the person may be hiding another criminal suspect;\n(5) other urgent circumstances.\nAfter the search is completed, the searching personnel shall complete the relevant formalities within twenty-four hours."
+        },
+        "noLabel": {
+          "en": "Article 205."
+        },
+        "chapter": {
+          "en": "Section 5 Search"
+        }
+      },
+      {
+        "no": 206,
+        "text": {
+          "en": "At the time of a search, the person to be searched or his family members, neighbours or other witnesses shall be present, and the legal responsibility for obstructing a search or interfering with official duties shall be explained to the person to be searched or to his family members.\nThe search of the body of a woman shall be conducted by female staff members."
+        },
+        "noLabel": {
+          "en": "Article 206."
+        },
+        "chapter": {
+          "en": "Section 5 Search"
+        }
+      },
+      {
+        "no": 207,
+        "text": {
+          "en": "Where obstruction is encountered during a search, the search may be conducted compulsorily. Where a search is obstructed by violence or threats, the obstruction shall be stopped, or the judicial police officers shall remove the person from the scene. Where the obstruction of a search constitutes a crime, criminal responsibility shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 207."
+        },
+        "chapter": {
+          "en": "Section 5 Search"
+        }
+      },
+      {
+        "no": 208,
+        "text": {
+          "en": "Procuratorial personnel may, on the strength of the certification documents of the people's procuratorate, obtain from the relevant units and individuals evidence materials that can prove the guilt or innocence of a criminal suspect and the gravity or lightness of the circumstances of the crime, and may, as needed, take photographs, make video recordings, photocopies and reproductions."
+        },
+        "noLabel": {
+          "en": "Article 208."
+        },
+        "chapter": {
+          "en": "Section 6 Obtaining, Sealing up, Seizure, Inquiry and Freezing"
+        }
+      },
+      {
+        "no": 209,
+        "text": {
+          "en": "Where material evidence is obtained, the original article shall be obtained. Where the original article is inconvenient to transport or keep, or should be returned to the victim in accordance with law, or cannot be obtained because of the need to maintain confidentiality, the original article may be sealed up and photographed or video-recorded. The photographs or video recordings of the original article shall be sufficient to reflect its appearance and content.\nWhere documentary evidence or audio-visual materials are obtained, the original shall be obtained. Where it is genuinely difficult to obtain the original or the original cannot be obtained because of the need to maintain confidentiality, a copy or a reproduction may be obtained.\nWhere copies or reproductions of documentary evidence or audio-visual materials and photographs or video recordings of material evidence are obtained, a written record shall be made of the reasons why the original document or article could not be obtained, the production process and the place where the original document or article is kept, and the persons who produced them and the persons holding the original documentary evidence, audio-visual materials or material evidence shall sign or seal it."
+        },
+        "noLabel": {
+          "en": "Article 209."
+        },
+        "chapter": {
+          "en": "Section 6 Obtaining, Sealing up, Seizure, Inquiry and Freezing"
+        }
+      },
+      {
+        "no": 210,
+        "text": {
+          "en": "All property and documents discovered in the course of investigation that can prove the guilt or innocence of a criminal suspect or the gravity or lightness of the circumstances of the crime shall be sealed up or seized; those unrelated to the case shall not be sealed up or seized. Sealing up or seizure shall be subject to approval by the chief procurator.\nSuspicious property and documents whose connection with the case cannot be immediately ascertained may also be sealed up or seized, but they shall be examined promptly. Where it is ascertained that they are indeed unrelated to the case, the sealing up shall be lifted or they shall be returned within three days.\nWhere the holder refuses to hand over the property and documents that should be sealed up or seized, they may be sealed up or seized compulsorily.\nWhere articles carried by a criminal suspect or defendant at the time of appearance need to be seized, the provisions of the preceding paragraph may be applied. Personal items unrelated to the case shall be registered one by one and transferred with the case or returned to his family members."
+        },
+        "noLabel": {
+          "en": "Article 210."
+        },
+        "chapter": {
+          "en": "Section 6 Obtaining, Sealing up, Seizure, Inquiry and Freezing"
+        }
+      },
+      {
+        "no": 211,
+        "text": {
+          "en": "Indivisible property purchased by a criminal suspect jointly with illegal gains and lawful income may first be sealed up, seized or frozen. Property that cannot be divided and returned shall, after the case is concluded, be auctioned or sold off, and the portion that does not constitute illegal gains shall be returned."
+        },
+        "noLabel": {
+          "en": "Article 211."
+        },
+        "chapter": {
+          "en": "Section 6 Obtaining, Sealing up, Seizure, Inquiry and Freezing"
+        }
+      },
+      {
+        "no": 212,
+        "text": {
+          "en": "A people's procuratorate may, as needed for investigating a crime, inquire into and freeze the criminal suspect's property such as deposits, remittances, bonds, shares and fund units in accordance with provisions, and may require the relevant units and individuals to cooperate.\nTo inquire into or freeze the property specified in the preceding paragraph, a notice of inquiry into or freezing of property shall be prepared and sent to the bank or other financial institution or to the postal department for execution. The freezing of property shall be subject to approval by the chief procurator."
+        },
+        "noLabel": {
+          "en": "Article 212."
+        },
+        "chapter": {
+          "en": "Section 6 Obtaining, Sealing up, Seizure, Inquiry and Freezing"
+        }
+      },
+      {
+        "no": 213,
+        "text": {
+          "en": "Where the criminal suspect's property such as deposits, remittances, bonds, shares and fund units has already been frozen, a people's procuratorate shall not freeze it repeatedly but may place a queued freeze. A people's procuratorate shall require the relevant bank or other financial institution or the postal department to notify it before lifting the freeze or making a disposition."
+        },
+        "noLabel": {
+          "en": "Article 213."
+        },
+        "chapter": {
+          "en": "Section 6 Obtaining, Sealing up, Seizure, Inquiry and Freezing"
+        }
+      },
+      {
+        "no": 214,
+        "text": {
+          "en": "Where bonds, shares, fund units and other property are seized or frozen, the party concerned or his statutory agent or entrusted agent shall be informed in writing of the right to apply for sale.\nWhere, with respect to seized or frozen property such as bonds, shares and fund units, the right holder applies for sale during the period of seizure or freezing and, upon examination, it is considered that the sale will not harm the interests of the State or of the victim and will not affect the normal conduct of the proceedings, or where the period of validity of a seized or frozen bill of exchange, promissory note or cheque is about to expire, the property may, with the approval of the chief procurator, be sold or converted into cash in accordance with law before the case is concluded, and the proceeds shall be kept in a bank account designated by the people's procuratorate and the party concerned or his close relatives shall be informed promptly."
+        },
+        "noLabel": {
+          "en": "Article 214."
+        },
+        "chapter": {
+          "en": "Section 6 Obtaining, Sealing up, Seizure, Inquiry and Freezing"
+        }
+      },
+      {
+        "no": 215,
+        "text": {
+          "en": "Where it is ascertained that frozen property such as deposits, remittances, bonds, shares and fund units is indeed unrelated to the case, the freeze shall be lifted within three days and the owner of the property shall be notified."
+        },
+        "noLabel": {
+          "en": "Article 215."
+        },
+        "chapter": {
+          "en": "Section 6 Obtaining, Sealing up, Seizure, Inquiry and Freezing"
+        }
+      },
+      {
+        "no": 216,
+        "text": {
+          "en": "The provisions of Articles 212 to 215 of these Rules shall apply to the methods of inquiring into and freezing the property such as deposits, remittances, bonds, shares and fund units of a unit connected with a case."
+        },
+        "noLabel": {
+          "en": "Article 216."
+        },
+        "chapter": {
+          "en": "Section 6 Obtaining, Sealing up, Seizure, Inquiry and Freezing"
+        }
+      },
+      {
+        "no": 217,
+        "text": {
+          "en": "Money and articles seized shall, within three days, be deposited in the single compliant account in the case of money and delivered to the department responsible for case management for custody in the case of articles, unless otherwise provided by law or by the relevant provisions.\nA people's procuratorate shall properly keep property, documents, mail and telegrams that are sealed up or seized in the people's procuratorate. Where it is ascertained that they are indeed unrelated to the case, a decision to lift the sealing up or to return them shall be made within three days, and the relevant unit and the party concerned shall be notified to complete the relevant formalities."
+        },
+        "noLabel": {
+          "en": "Article 217."
+        },
+        "chapter": {
+          "en": "Section 6 Obtaining, Sealing up, Seizure, Inquiry and Freezing"
+        }
+      },
+      {
+        "no": 218,
+        "text": {
+          "en": "In order to ascertain the circumstances of a case and to resolve certain specialised issues in the case, a people's procuratorate may conduct an appraisal.\nAn appraisal shall be conducted by persons of the people's procuratorate who have appraisal qualifications. Where necessary, other persons with appraisal qualifications may be engaged to conduct it, but the consent of the unit where the appraiser works shall be obtained."
+        },
+        "noLabel": {
+          "en": "Article 218."
+        },
+        "chapter": {
+          "en": "Section 7 Expert Evaluation"
+        }
+      },
+      {
+        "no": 219,
+        "text": {
+          "en": "A people's procuratorate shall provide the necessary conditions for an appraiser, promptly deliver to the appraiser the relevant original materials such as the materials to be examined and comparison samples, explain the circumstances relating to the appraisal, and clearly state the issues to be resolved by the appraisal, but shall not hint at or compel the appraiser to give a particular appraisal opinion."
+        },
+        "noLabel": {
+          "en": "Article 219."
+        },
+        "chapter": {
+          "en": "Section 7 Expert Evaluation"
+        }
+      },
+      {
+        "no": 220,
+        "text": {
+          "en": "Procuratorial personnel shall examine the appraisal opinion and may, where necessary, conduct a supplementary appraisal or a fresh appraisal. Where a fresh appraisal is conducted, another appraiser shall be assigned or engaged."
+        },
+        "noLabel": {
+          "en": "Article 220."
+        },
+        "chapter": {
+          "en": "Section 7 Expert Evaluation"
+        }
+      },
+      {
+        "no": 221,
+        "text": {
+          "en": "Where an appraisal opinion is used as evidence, the case-handling department of the people's procuratorate shall inform the criminal suspect and the victim; where the victim has died or has no capacity for litigation conduct, his statutory agent, close relative or agent ad litem shall be informed.\nWhere a criminal suspect, a victim, or the statutory agent, close relative or agent ad litem of a victim applies, a supplementary appraisal or a fresh appraisal may be conducted, and the appraisal fee shall be borne by the requesting party. However, where the original appraisal violated statutory procedure, the fee shall be borne by the people's procuratorate.\nWhere the defender or a close relative of a criminal suspect applies for an appraisal of the criminal suspect on the ground that the criminal suspect may be suffering from mental illness, the appraisal fee shall be borne by the applicant."
+        },
+        "noLabel": {
+          "en": "Article 221."
+        },
+        "chapter": {
+          "en": "Section 7 Expert Evaluation"
+        }
+      },
+      {
+        "no": 222,
+        "text": {
+          "en": "The period during which a criminal suspect undergoes a psychiatric appraisal shall not be counted in the period of custody or in the period for handling the case."
+        },
+        "noLabel": {
+          "en": "Article 222."
+        },
+        "chapter": {
+          "en": "Section 7 Expert Evaluation"
+        }
+      },
+      {
+        "no": 223,
+        "text": {
+          "en": "In order to ascertain the circumstances of a case, procuratorial personnel may, where necessary, have a victim, a witness or a criminal suspect identify articles, documents, corpses or places related to the crime; they may also have a victim or a witness identify a criminal suspect, or have a criminal suspect identify another criminal suspect."
+        },
+        "noLabel": {
+          "en": "Article 223."
+        },
+        "chapter": {
+          "en": "Section 8 Identification"
+        }
+      },
+      {
+        "no": 224,
+        "text": {
+          "en": "Identification shall be conducted under the direction of procuratorial personnel, and the persons conducting the identification shall be not fewer than two. Before the identification, the person making the identification shall be asked in detail about the specific features of the object to be identified, the person making the identification shall be kept from seeing the object to be identified, and he shall be informed of the legal responsibility borne for intentionally making a false identification."
+        },
+        "noLabel": {
+          "en": "Article 224."
+        },
+        "chapter": {
+          "en": "Section 8 Identification"
+        }
+      },
+      {
+        "no": 225,
+        "text": {
+          "en": "Where several persons are to identify the same object, each of them shall do so separately. Where necessary, witnesses may be present."
+        },
+        "noLabel": {
+          "en": "Article 225."
+        },
+        "chapter": {
+          "en": "Section 8 Identification"
+        }
+      },
+      {
+        "no": 226,
+        "text": {
+          "en": "At the time of identification, the object to be identified shall be mixed with other objects. The object to be identified and its images or recordings shall not be shown to the person making the identification before the identification, and no hint of any kind shall be given to him.\nWhere criminal suspects are identified, the number of persons to be identified shall be not fewer than seven, and the number of photographs shall be not fewer than ten.\nWhere articles are identified, the number of similar articles shall be not fewer than five, and the number of photographs shall be not fewer than five.\nWhere a criminal suspect is identified and the person making the identification is unwilling to do so openly, the identification may be conducted without exposing his identity, and confidentiality shall be maintained for him."
+        },
+        "noLabel": {
+          "en": "Article 226."
+        },
+        "chapter": {
+          "en": "Section 8 Identification"
+        }
+      },
+      {
+        "no": 227,
+        "text": {
+          "en": "After filing a case, a people's procuratorate may, in a major case of serious infringement of citizens' personal rights committed by taking advantage of authority, adopt technical investigation measures through strict approval formalities and refer them to the relevant organ for execution."
+        },
+        "noLabel": {
+          "en": "Article 227."
+        },
+        "chapter": {
+          "en": "Section 9 Technical Investigation Measures"
+        }
+      },
+      {
+        "no": 228,
+        "text": {
+          "en": "Where a people's procuratorate handling a case investigated directly upon acceptance needs to pursue and capture a criminal suspect or defendant at large who has been placed on a wanted list or with respect to whom a decision of arrest has been made, it may, upon approval, adopt the technical investigation measures necessary for the pursuit and capture, without being limited by the scope of cases provided in Article 227 of these Rules."
+        },
+        "noLabel": {
+          "en": "Article 228."
+        },
+        "chapter": {
+          "en": "Section 9 Technical Investigation Measures"
+        }
+      },
+      {
+        "no": 229,
+        "text": {
+          "en": "When a people's procuratorate adopts technical investigation measures, it shall, on the basis of the need to investigate the crime, determine the types of technical investigation measures to be adopted and the persons to whom they apply, and request approval in accordance with the relevant provisions. The approval decision shall be valid for three months from the date of issuance. Where technical investigation measures no longer need to be continued, they shall be lifted promptly; where, in a complex or difficult case, it is still necessary to continue technical investigation measures upon expiry of the time limit, a report requesting extension of the time limit for technical investigation measures shall be prepared within ten days before expiry, stating the extended time limit and the reasons, and upon approval by the original approving organ the period of validity may be extended, each time not exceeding three months.\nWhere materials collected by technical investigation measures are used as evidence, the legal documents approving the adoption of technical investigation measures shall be attached to the file, and defence lawyers may consult, extract and reproduce them in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 229."
+        },
+        "chapter": {
+          "en": "Section 9 Technical Investigation Measures"
+        }
+      },
+      {
+        "no": 230,
+        "text": {
+          "en": "With respect to material evidence, documentary evidence and other evidence materials collected by technical investigation measures, procuratorial personnel shall prepare corresponding explanatory materials stating the time, place, quantity and features of obtaining the evidence and the approving organ and types of the technical investigation measures, and shall sign and seal them.\nWith respect to evidence materials obtained by technical investigation measures, where they may endanger the personal safety of specific persons, involve State secrets, or may, if made public, disclose investigation secrets or seriously harm commercial secrets or personal privacy, protective measures such as not disclosing the identity of the persons concerned and the technical methods shall be adopted. Where necessary, it may be suggested that the evidence not be cross-examined in court and that the judicial officers verify the evidence out of court."
+        },
+        "noLabel": {
+          "en": "Article 230."
+        },
+        "chapter": {
+          "en": "Section 9 Technical Investigation Measures"
+        }
+      },
+      {
+        "no": 231,
+        "text": {
+          "en": "Procuratorial personnel shall keep confidential the State secrets, commercial secrets and personal privacy learned of in the course of adopting technical investigation measures, and shall promptly destroy materials unrelated to the case obtained by technical investigation measures and make a record of the destruction.\nEvidence, leads and other relevant materials obtained by technical investigation measures may only be used for the investigation, prosecution and trial of crimes and may not be used for other purposes."
+        },
+        "noLabel": {
+          "en": "Article 231."
+        },
+        "chapter": {
+          "en": "Section 9 Technical Investigation Measures"
+        }
+      },
+      {
+        "no": 232,
+        "text": {
+          "en": "Where, in a case investigated directly upon acceptance by a people's procuratorate, a criminal suspect who should be arrested is at large, or a criminal suspect who has been arrested has escaped, the people's procuratorate may, with the approval of the chief procurator, place him on a wanted list."
+        },
+        "noLabel": {
+          "en": "Article 232."
+        },
+        "chapter": {
+          "en": "Section 10 Wanted Notices"
+        }
+      },
+      {
+        "no": 233,
+        "text": {
+          "en": "Where a people's procuratorate at any level needs to place a criminal suspect on a wanted list within its own jurisdiction, it may decide to do so directly; where it needs to place a criminal suspect on a wanted list outside its own jurisdiction, the decision shall be made by the people's procuratorate at a higher level that has the power to decide."
+        },
+        "noLabel": {
+          "en": "Article 233."
+        },
+        "chapter": {
+          "en": "Section 10 Wanted Notices"
+        }
+      },
+      {
+        "no": 234,
+        "text": {
+          "en": "A people's procuratorate shall serve the notice of wanted notice and the photograph, identity, features and brief circumstances of the case of the person wanted on the public security organ, and the public security organ shall issue a wanted order and pursue and capture him."
+        },
+        "noLabel": {
+          "en": "Article 234."
+        },
+        "chapter": {
+          "en": "Section 10 Wanted Notices"
+        }
+      },
+      {
+        "no": 235,
+        "text": {
+          "en": "In order to prevent a criminal suspect or other person involved in a case from fleeing abroad, where border control measures need to be taken at a border port, a people's procuratorate shall, in accordance with the relevant provisions, prepare a notice on the person subject to border control and consult the public security organ on completing the border control formalities."
+        },
+        "noLabel": {
+          "en": "Article 235."
+        },
+        "chapter": {
+          "en": "Section 10 Wanted Notices"
+        }
+      },
+      {
+        "no": 236,
+        "text": {
+          "en": "Where a criminal suspect who should be arrested has absconded abroad, the people's procuratorate may, in accordance with the relevant provisions, report level by level to the Supreme People's Procuratorate so that it may consult the China National Central Bureau of INTERPOL and request assistance from the relevant parties, or pursue and capture him through other channels provided by law."
+        },
+        "noLabel": {
+          "en": "Article 236."
+        },
+        "chapter": {
+          "en": "Section 10 Wanted Notices"
+        }
+      },
+      {
+        "no": 237,
+        "text": {
+          "en": "Where, after investigation, a people's procuratorate considers that the facts of the crime are clear, the evidence is reliable and sufficient and criminal responsibility should be investigated in accordance with law, it shall write an investigation conclusion report and prepare an opinion recommending prosecution.\nWhere a criminal suspect voluntarily pleads guilty, this shall be recorded in the case file, transferred with the case, and stated in the opinion recommending prosecution.\nWhere the circumstances of a crime are minor and, under the Criminal Law, no penalty is required or exemption from penalty applies, an investigation conclusion report shall be written and an opinion recommending non-prosecution prepared.\nThe investigation conclusion report and the opinion recommending prosecution or non-prosecution shall be reported to the chief procurator for approval."
+        },
+        "noLabel": {
+          "en": "Article 237."
+        },
+        "chapter": {
+          "en": "Section 11 Conclusion of Investigation"
+        }
+      },
+      {
+        "no": 238,
+        "text": {
+          "en": "The department responsible for investigation shall transfer the opinion recommending prosecution or non-prosecution, together with the list of the criminal suspect's property and its fruits and of documents that have been sealed up, seized or frozen, the opinion on handling the property involved in the case that has been sealed up, seized or frozen, and other case file materials, to the department responsible for arrest and prosecution of the same procuratorate for review. Where State or collective property has suffered loss, an opinion on instituting an incidental civil action may be put forward at the same time as the opinion recommending public prosecution."
+        },
+        "noLabel": {
+          "en": "Article 238."
+        },
+        "chapter": {
+          "en": "Section 11 Conclusion of Investigation"
+        }
+      },
+      {
+        "no": 239,
+        "text": {
+          "en": "Where a criminal suspect has entrusted a defence lawyer during the investigation of a case, the procuratorial personnel may hear the opinions of the defence lawyer.\nWhere the defence lawyer requests to present opinions in person, the procuratorial personnel shall hear the opinions and make a record to be attached to the file. Where the defence lawyer presents written opinions, they shall be attached to the file.\nBefore the conclusion of the investigation, where the criminal suspect raises a defence of innocence or of a minor crime, or the defence lawyer presents the opinion that the criminal suspect is innocent or that criminal responsibility should not be investigated in accordance with law, the people's procuratorate shall verify it in accordance with law.\nWhen the investigation is concluded and the case is transferred for prosecution, the people's procuratorate shall at the same time inform the criminal suspect and his defence lawyer of the transfer of the case."
+        },
+        "noLabel": {
+          "en": "Article 239."
+        },
+        "chapter": {
+          "en": "Section 11 Conclusion of Investigation"
+        }
+      },
+      {
+        "no": 240,
+        "text": {
+          "en": "Where a case in which a people's procuratorate has concluded the investigation needs to be prosecuted and tried in another place, the people's procuratorate shall, before transferring the case for prosecution, consult the people's court on matters relating to designated jurisdiction."
+        },
+        "noLabel": {
+          "en": "Article 240."
+        },
+        "chapter": {
+          "en": "Section 11 Conclusion of Investigation"
+        }
+      },
+      {
+        "no": 241,
+        "text": {
+          "en": "Where a case in which a people's procuratorate at a higher level has concluded the investigation should, under the Criminal Procedure Law, be publicly prosecuted or not prosecuted by a people's procuratorate at a lower level, the relevant decision and the investigation conclusion report shall be handed over together with the case file materials to the people's procuratorate at the lower level for review.\nWhere a people's procuratorate at a lower level considers that the decision of the people's procuratorate at the higher level is erroneous, it may report the matter to the people's procuratorate at the higher level. Where the people's procuratorate at the higher level upholds the original decision, the people's procuratorate at the lower level shall execute it."
+        },
+        "noLabel": {
+          "en": "Article 241."
+        },
+        "chapter": {
+          "en": "Section 11 Conclusion of Investigation"
+        }
+      },
+      {
+        "no": 242,
+        "text": {
+          "en": "Where, in the course of investigation or after its conclusion, a people's procuratorate discovers any of the following circumstances, the department responsible for investigation shall prepare an opinion on the proposed termination of the case and report it to the chief procurator for decision:\n(1) any of the circumstances specified in Article 16 of the Criminal Procedure Law exists;\n(2) there are no facts of a crime, or criminal responsibility is not borne under the Criminal Law, or the act is not a crime;\n(3) there are facts of a crime but the crime was not committed by the criminal suspect.\nIn a joint crime case, where any criminal suspect meets the circumstances specified in this Article, the case filed against that criminal suspect shall be terminated."
+        },
+        "noLabel": {
+          "en": "Article 242."
+        },
+        "chapter": {
+          "en": "Section 11 Conclusion of Investigation"
+        }
+      },
+      {
+        "no": 243,
+        "text": {
+          "en": "Where a people's procuratorate at any local level decides to terminate a case, the department responsible for investigation shall report the opinion on termination of the case together with all the case file materials of the case to the people's procuratorate at the next higher level for review seven days before the statutory time limit expires; in a major or complex case, the report shall be made ten days before the statutory time limit expires.\nIn a joint crime case, the relevant legal documents on the handling of the co-defendant criminal suspects and copies of the facts of the case and of the evidence materials shall be reported together to the people's procuratorate at the next higher level.\nThe department responsible for investigation of the people's procuratorate at the next higher level shall comprehensively review the facts of the case, the evidence and the application of law. Where necessary, it may interrogate the criminal suspect.\nAfter review, the department responsible for investigation of the people's procuratorate at the next higher level shall put forward an opinion on whether it agrees to terminate the case and report it to the chief procurator for decision.\nWhere a people's procuratorate decides to terminate a case, it shall inform the complainant and the tip-off provider, hear their opinions and note them in a record."
+        },
+        "noLabel": {
+          "en": "Article 243."
+        },
+        "chapter": {
+          "en": "Section 11 Conclusion of Investigation"
+        }
+      },
+      {
+        "no": 244,
+        "text": {
+          "en": "A people's procuratorate at a higher level reviewing a proposed termination of a case reported by a people's procuratorate at a lower level shall give a written reply within seven days after receiving the case; in a major or complex case, it shall give a written reply within ten days after receiving the case. Where the circumstances are urgent or service cannot be made on time for other special reasons, it may first notify the people's procuratorate at the lower level to execute."
+        },
+        "noLabel": {
+          "en": "Article 244."
+        },
+        "chapter": {
+          "en": "Section 11 Conclusion of Investigation"
+        }
+      },
+      {
+        "no": 245,
+        "text": {
+          "en": "Where a people's procuratorate at a higher level agrees to terminate a case, the people's procuratorate at the lower level shall make a decision to terminate the case and prepare a written decision on termination of the case. Where the people's procuratorate at the higher level does not agree to terminate the case, the people's procuratorate at the lower level shall execute the decision of the people's procuratorate at the higher level.\nWhere the period of custody of the criminal suspect expires while the case is being reported to the people's procuratorate at the higher level for review, the criminal suspect shall be released in accordance with law or the compulsory measures shall be modified."
+        },
+        "noLabel": {
+          "en": "Article 245."
+        },
+        "chapter": {
+          "en": "Section 11 Conclusion of Investigation"
+        }
+      },
+      {
+        "no": 246,
+        "text": {
+          "en": "The decision to terminate a case shall be served separately on the unit where the criminal suspect works and on the criminal suspect. Where the criminal suspect has died, it shall be served on the unit where the criminal suspect formerly worked. Where the criminal suspect is in custody, a notice of decision to release shall be prepared and the public security organ shall be notified to release him in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 246."
+        },
+        "chapter": {
+          "en": "Section 11 Conclusion of Investigation"
+        }
+      },
+      {
+        "no": 247,
+        "text": {
+          "en": "Where a people's procuratorate makes a decision to terminate a case, it shall, within thirty days and upon approval by the chief procurator, make a disposition with respect to the illegal gains of the criminal suspect. Under special circumstances, the period may be extended by thirty days."
+        },
+        "noLabel": {
+          "en": "Article 247."
+        },
+        "chapter": {
+          "en": "Section 11 Conclusion of Investigation"
+        }
+      },
+      {
+        "no": 248,
+        "text": {
+          "en": "When a people's procuratorate terminates a case, it shall distinguish different circumstances and make corresponding dispositions with respect to the illegal gains of the criminal suspect and other property involved in the case:\n(1) where a case is terminated because the criminal suspect has died and, under the Criminal Law, his illegal gains and other property involved in the case should be recovered, the provisions of Section 4 of Chapter 12 of these Rules shall be applied;\n(2) where a case is terminated for other reasons and the sealed, seized or frozen illegal gains of the criminal suspect and other property involved in the case need to be confiscated, a procuratorial opinion shall be put forward and the matter transferred to the competent organ for handling;\n(3) where frozen property of the criminal suspect such as deposits, remittances, bonds, shares and fund units needs to be returned to the victim, the financial institution or the postal department may be notified to return it to the victim; where the sealed or seized illegal gains of the criminal suspect and other property involved in the case need to be returned to the victim, a decision shall be made directly to return them to the victim.\nWhere a people's procuratorate applies to a people's court for a ruling on the disposition of property of the criminal suspect involved in a case, it shall transfer the relevant case file materials to the people's court."
+        },
+        "noLabel": {
+          "en": "Article 248."
+        },
+        "chapter": {
+          "en": "Section 11 Conclusion of Investigation"
+        }
+      },
+      {
+        "no": 249,
+        "text": {
+          "en": "When a people's procuratorate terminates a case and the sealed, seized or frozen property of the criminal suspect involved in the case needs to be returned to the criminal suspect, it shall lift the sealing up or seizure or notify the relevant financial institution or the postal department in writing to lift the freeze, and return the property to the criminal suspect or to his lawful heirs."
+        },
+        "noLabel": {
+          "en": "Article 249."
+        },
+        "chapter": {
+          "en": "Section 11 Conclusion of Investigation"
+        }
+      },
+      {
+        "no": 250,
+        "text": {
+          "en": "Property that has been sealed up, seized or frozen shall not be disposed of before the conclusion of the proceedings, except where it should be returned to the victim in accordance with law or where it is ascertained that it is indeed unrelated to the case, and unless otherwise provided by law or by the relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 250."
+        },
+        "chapter": {
+          "en": "Section 11 Conclusion of Investigation"
+        }
+      },
+      {
+        "no": 251,
+        "text": {
+          "en": "The disposition of property involved in a case that has been sealed up, seized or frozen shall be decided by the chief procurator."
+        },
+        "noLabel": {
+          "en": "Article 251."
+        },
+        "chapter": {
+          "en": "Section 11 Conclusion of Investigation"
+        }
+      },
+      {
+        "no": 252,
+        "text": {
+          "en": "In a joint crime case investigated directly upon acceptance by a people's procuratorate, where a co-defendant criminal suspect is at large but the facts of the crime of the criminal suspect who is present are clear and the evidence is reliable and sufficient, the criminal suspect who is present shall, in accordance with Article 237 of these Rules, be separately transferred for prosecution or for non-prosecution.\nWhere the facts of the crime of the criminal suspect who is present cannot be ascertained because a co-defendant criminal suspect is at large, the matter shall, according to the different circumstances of the case, be reported separately for extension of the period of custody pending investigation, modification of the compulsory measures or lifting of the compulsory measures with respect to the criminal suspect who is present."
+        },
+        "noLabel": {
+          "en": "Article 252."
+        },
+        "chapter": {
+          "en": "Section 11 Conclusion of Investigation"
+        }
+      },
+      {
+        "no": 253,
+        "text": {
+          "en": "In a case investigated directly upon acceptance by a people's procuratorate, where no release on guarantee pending trial, residential surveillance, criminal detention or arrest has been imposed on the criminal suspect, the department responsible for investigation shall, within two years after the case is filed, put forward an opinion on transfer for prosecution, transfer for non-prosecution or termination of the case; where release on guarantee pending trial, residential surveillance, criminal detention or arrest has been imposed on the criminal suspect, the department responsible for investigation shall, within one year after the compulsory measures are lifted or revoked, put forward an opinion on transfer for prosecution, transfer for non-prosecution or termination of the case."
+        },
+        "noLabel": {
+          "en": "Article 253."
+        },
+        "chapter": {
+          "en": "Section 11 Conclusion of Investigation"
+        }
+      },
+      {
+        "no": 254,
+        "text": {
+          "en": "In a case investigated directly upon acceptance by a people's procuratorate, where new facts or evidence are discovered after the case is terminated and it is considered that there are facts of a crime and that criminal responsibility needs to be investigated, the case may be filed and investigated anew."
+        },
+        "noLabel": {
+          "en": "Article 254."
+        },
+        "chapter": {
+          "en": "Section 11 Conclusion of Investigation"
+        }
+      },
+      {
+        "no": 255,
+        "text": {
+          "en": "When handling a case of review for arrest or of review for prosecution, a people's procuratorate shall comprehensively review the evidence proving the guilt or innocence of the criminal suspect and the gravity or lightness of the crime."
+        },
+        "noLabel": {
+          "en": "Article 255."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 256,
+        "text": {
+          "en": "Upon consultation by a public security organ, or where a people's procuratorate considers it truly necessary, the procuratorate may send personnel to intervene at an appropriate time in the investigation of a major, difficult or complex case, participate in the public security organ's discussion of a major case, put forward opinions on the nature of the case, the collection of evidence and the application of law, and supervise whether the investigation activities are lawful.\nUpon consultation by a supervisory organ, a people's procuratorate may send personnel to intervene in a duty-related crime case handled by the supervisory organ."
+        },
+        "noLabel": {
+          "en": "Article 256."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 257,
+        "text": {
+          "en": "With respect to a case in which, after approval of arrest, the public security organ is required to continue the investigation, a case in which, after non-approval of arrest, the public security organ is required to conduct supplementary investigation, or a case returned to the public security organ for supplementary investigation at the stage of review for prosecution, the people's procuratorate shall separately prepare an outline for continued investigation or an outline for supplementary investigation, stating the matters requiring continued or supplementary investigation, the reasons, the direction of investigation, the evidence to be further collected and its probative role, and serve it on the public security organ."
+        },
+        "noLabel": {
+          "en": "Article 257."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 258,
+        "text": {
+          "en": "When interrogating a criminal suspect, a people's procuratorate shall first ascertain the basic information of the criminal suspect, inform him in accordance with law of his litigation rights and obligations and of the legal provisions on pleading guilty and accepting punishment, and hear his statement and defence. Where the criminal suspect retracts his confession, he shall be asked for the reasons. Where the criminal suspect applies for exclusion of illegally obtained evidence, he shall be informed to provide the relevant leads or materials. Where the criminal suspect reports or exposes the crime of another person, this shall be recorded and transferred to the relevant organ or department for handling in accordance with the relevant provisions.\nInterrogation of a criminal suspect shall be recorded in a record of interrogation, which shall be handed to the criminal suspect for verification or read to him. After verification and confirmation, he shall sign or seal each page, affix his fingerprint, and the record shall be attached to the file. Where the criminal suspect requests to write out his confession himself, this shall be permitted, but a self-written confession may not replace the record of interrogation.\nWhere the criminal suspect is in custody, the interrogation shall be conducted in an interrogation room of the house of detention."
+        },
+        "noLabel": {
+          "en": "Article 258."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 259,
+        "text": {
+          "en": "In handling a case of review for arrest or of review for prosecution, a people's procuratorate may inquire of witnesses, victims, appraisers and other participants in the proceedings and make a record to be attached to the file. At the time of inquiry, they shall be informed of their litigation rights and obligations.\nThe place of inquiry of witnesses and victims shall be determined in accordance with Article 124 of the Criminal Procedure Law."
+        },
+        "noLabel": {
+          "en": "Article 259."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 260,
+        "text": {
+          "en": "The interrogation of a criminal suspect, the inquiry of a victim, a witness or an appraiser, and the hearing of the opinions of a defender, a victim and his agent ad litem shall be conducted by procuratorial personnel. There shall be not fewer than two procuratorial personnel, or not fewer than two persons where procuratorial personnel and a clerk are present.\nCriminal suspects shall be interrogated, and witnesses, appraisers and victims shall be inquired of, separately."
+        },
+        "noLabel": {
+          "en": "Article 260."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 261,
+        "text": {
+          "en": "In handling a case of review for arrest, where the criminal suspect has entrusted a defence lawyer, the opinions of the defence lawyer may be heard. Where the defence lawyer so requests, his opinions shall be heard. A record shall be made of the opinions of the defence lawyer, and written opinions submitted by the defence lawyer shall be attached to the file.\nIn handling a case of review for prosecution, the opinions of the defender or the duty lawyer, and of the victim and his agent ad litem, shall be heard and recorded. Written opinions submitted by the defender or the duty lawyer, or by the victim and his agent ad litem, shall be attached to the file.\nWhere a defence lawyer submits opinions several times at the stages of review for arrest and review for prosecution, all of them shall be truthfully recorded.\nWhere a defence lawyer submits written opinions to the effect that the criminal suspect does not constitute a crime, presents no social danger, is unsuitable for custody, or that the investigation activities involve unlawful or criminal conduct, the procuratorial personnel shall examine them and state in the relevant work documents whether they are adopted and the reasons."
+        },
+        "noLabel": {
+          "en": "Article 261."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 262,
+        "text": {
+          "en": "Where it is difficult to hear the opinions of a defender, a victim and his agent ad litem directly, their opinions may be heard by telephone, video link or other means and recorded, or the defender, the victim and his agent ad litem may be notified to submit written opinions. Where notification is impossible or no opinions are submitted within the designated time limit, this shall be recorded."
+        },
+        "noLabel": {
+          "en": "Article 262."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 263,
+        "text": {
+          "en": "With respect to a case in which the public security organ requests approval of arrest or transfers the case for prosecution, where the procuratorial personnel discover in the course of review that a circumstance specified in paragraph 1 of Article 75 of these Rules exists, they may obtain the audio and video recordings of the public security organ's interrogation of the criminal suspect and review them. In a major, difficult or complex case, all the audio and video recordings may be reviewed where necessary.\nWith respect to a case transferred for prosecution by a supervisory organ, where it is considered necessary to obtain the relevant audio and video recordings, they may be obtained in consultation with the supervisory organ.\nWith respect to a case investigated directly upon acceptance by a people's procuratorate, where in the course of review it is discovered that the department responsible for investigation has not transferred audio and video recordings in accordance with paragraph 3 of Article 75 of these Rules or has transferred them incompletely, it shall be required to transfer them in supplementation. Where doubts arise as to the lawfulness of obtaining evidence or the authenticity of a record of interrogation, the relevant audio and video recordings shall be reviewed in a targeted manner. In a major, difficult or complex case, all the audio and video recordings may be reviewed."
+        },
+        "noLabel": {
+          "en": "Article 263."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 264,
+        "text": {
+          "en": "Where, upon review of the audio and video recordings of the interrogation of a criminal suspect, it is discovered that the public security organ or the department responsible for investigation of the same procuratorate conducted the interrogation in a non-standard manner, that unlawful conduct occurred in the course of the interrogation, or that the content of the audio and video recordings is inconsistent with the record of interrogation, the matters shall be listed one by one and raised in writing with the public security organ or with the department responsible for investigation of the same procuratorate, which shall be required to correct or supplement them or to give a reasonable written explanation. Where a major substantive discrepancy is discovered between the record of interrogation and the content of the audio and video recordings of the interrogation of the criminal suspect, or where the public security organ or the department responsible for investigation of the same procuratorate cannot supplement or correct the matter or give a reasonable explanation, the record of interrogation may not serve as the basis for approving or deciding arrest or for instituting public prosecution."
+        },
+        "noLabel": {
+          "en": "Article 264."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 265,
+        "text": {
+          "en": "Where a criminal suspect or his defender applies for exclusion of illegally obtained evidence and provides the relevant leads or materials, the people's procuratorate shall conduct investigation and verification. Where it is discovered that investigators collected evidence by torture or other unlawful methods, the relevant evidence shall be excluded in accordance with law and an opinion on correction shall be put forward.\nWhere, before the time limit for review for arrest expires, it cannot be determined upon review that unlawful obtaining of evidence exists but the possibility of unlawful obtaining of evidence cannot be excluded either, the evidence shall not serve as the basis for approving arrest. The prosecutor shall determine the facts of the case on the basis of other evidence in the file and decide whether to arrest, and shall, after making the decision to approve or not to approve arrest, continue to investigate and verify the possible unlawful obtaining of evidence. Where investigation and verification confirm the existence of circumstances in which evidence was collected by torture or other unlawful methods, an opinion on correction shall be put forward to the public security organ. Evidence collected by unlawful methods may not serve as the basis for instituting public prosecution."
+        },
+        "noLabel": {
+          "en": "Article 265."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 266,
+        "text": {
+          "en": "During the period of review for arrest, where a criminal suspect applies for exclusion of illegally obtained evidence but does not submit the relevant leads or materials, and the people's procuratorate, upon comprehensive review of the facts and evidence of the case, finds no circumstance in which investigators collected evidence by unlawful methods and considers that the conditions for arrest are met, it may approve arrest.\nDuring the period of review for prosecution, where the criminal suspect and his defender submit new leads or evidence, or the people's procuratorate discovers new evidence, and upon investigation and verification it considers that investigators collected evidence by torture or other unlawful methods, it shall exclude the illegally obtained evidence in accordance with law, and such evidence may not serve as the basis for instituting public prosecution.\nWhere, after exclusion of illegally obtained evidence, the criminal suspect no longer meets the conditions for arrest but the case still needs review for prosecution, the compulsory measures shall be modified promptly. Where the case does not meet the conditions for prosecution, a decision not to prosecute shall be made."
+        },
+        "noLabel": {
+          "en": "Article 266."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 267,
+        "text": {
+          "en": "When handling a case in which a criminal suspect pleads guilty and accepts punishment, a people's procuratorate shall ensure that the criminal suspect obtains effective legal assistance and that he understands the nature and legal consequences of pleading guilty and accepting punishment and does so voluntarily.\nAfter accepting a case, a people's procuratorate shall ascertain from the criminal suspect whether he has entrusted a defender. Where the criminal suspect voluntarily pleads guilty and accepts punishment and has no defender, at the stage of review for arrest the people's procuratorate shall require the public security organ to notify a duty lawyer to provide him with legal assistance; at the stage of review for prosecution, the people's procuratorate shall notify a duty lawyer to provide him with legal assistance. Where the conditions for notifying defence are met, it shall notify the legal aid institution in accordance with law to assign a lawyer to defend him."
+        },
+        "noLabel": {
+          "en": "Article 267."
+        },
+        "chapter": {
+          "en": "Section 2 Handling of Cases Involving Admission of Guilt, Acceptance of Punishment and Leniency"
+        }
+      },
+      {
+        "no": 268,
+        "text": {
+          "en": "A people's procuratorate shall, in consultation with the legal aid institution, establish a legal aid workstation staffed with duty lawyers or arrange duty lawyers promptly, so as to provide criminal suspects with legal assistance such as legal advice, advice on the choice of procedure, applications for modification of compulsory measures and opinions on the handling of the case.\nA people's procuratorate shall inform the criminal suspect that he has the right to meet a duty lawyer and shall facilitate such a meeting."
+        },
+        "noLabel": {
+          "en": "Article 268."
+        },
+        "chapter": {
+          "en": "Section 2 Handling of Cases Involving Admission of Guilt, Acceptance of Punishment and Leniency"
+        }
+      },
+      {
+        "no": 269,
+        "text": {
+          "en": "Where a criminal suspect pleads guilty and accepts punishment, the people's procuratorate shall inform him of the litigation rights he enjoys and of the legal provisions on pleading guilty and accepting punishment, hear the opinions of the criminal suspect, the defender or duty lawyer, and the victim and his agent ad litem on the following matters, and record them:\n(1) the facts of the suspected crime, the charge and the applicable legal provisions;\n(2) recommendations for lenient punishment, such as a lighter, mitigated or exempted penalty;\n(3) the procedure applicable to the trial of the case after the criminal suspect pleads guilty and accepts punishment;\n(4) other matters on which opinions need to be heard.\nWhere the opinions of a duty lawyer are heard in accordance with the preceding paragraph, the necessary facilities for the duty lawyer to learn about the relevant circumstances of the case shall be provided in advance. From the date on which the people's procuratorate begins to review the case for prosecution, the duty lawyer may consult the case file materials and learn about the circumstances of the case. The people's procuratorate shall facilitate the duty lawyer's consultation of the case file materials.\nWhere a people's procuratorate does not adopt the opinions put forward by the defender or the duty lawyer, it shall explain the reasons to him."
+        },
+        "noLabel": {
+          "en": "Article 269."
+        },
+        "chapter": {
+          "en": "Section 2 Handling of Cases Involving Admission of Guilt, Acceptance of Punishment and Leniency"
+        }
+      },
+      {
+        "no": 270,
+        "text": {
+          "en": "In approving or deciding arrest, the nature and circumstances of the suspected crime, the criminal suspect's pleading guilty and accepting punishment and other circumstances shall be taken into account in considering whether social danger may arise.\nWhere a criminal suspect who has been arrested pleads guilty and accepts punishment, the people's procuratorate shall promptly review the necessity of custody. Where, upon review, it considers that continued custody is unnecessary, it shall release him or modify the compulsory measures."
+        },
+        "noLabel": {
+          "en": "Article 270."
+        },
+        "chapter": {
+          "en": "Section 2 Handling of Cases Involving Admission of Guilt, Acceptance of Punishment and Leniency"
+        }
+      },
+      {
+        "no": 271,
+        "text": {
+          "en": "At the stage of review for prosecution, with respect to a case in which the criminal suspect pleaded guilty and accepted punishment at the investigation stage, the people's procuratorate shall focus its review on the following:\n(1) whether the criminal suspect voluntarily pleaded guilty and accepted punishment, and whether he did so against his will because of violence, threats or inducement;\n(2) whether the criminal suspect's cognitive ability and mental state were normal when he pleaded guilty and accepted punishment;\n(3) whether the criminal suspect understood the nature and the possible legal consequences of pleading guilty and accepting punishment;\n(4) whether the public security organ informed the criminal suspect of the litigation rights he enjoys and of the legal provisions under which a truthful confession of his crime may lead to lenient treatment and to pleading guilty and accepting punishment, and heard his opinions;\n(5) whether the opinion recommending prosecution states the circumstances of the criminal suspect's pleading guilty and accepting punishment;\n(6) whether the criminal suspect sincerely repents and whether he has apologised to the victim.\nWhere, upon review, the criminal suspect pleaded guilty and accepted punishment against his will, the people's procuratorate may carry out the work on pleading guilty and accepting punishment anew. Where unlawful obtaining of evidence such as extortion of a confession by torture exists, the matter shall be handled in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 271."
+        },
+        "chapter": {
+          "en": "Section 2 Handling of Cases Involving Admission of Guilt, Acceptance of Punishment and Leniency"
+        }
+      },
+      {
+        "no": 272,
+        "text": {
+          "en": "Where a criminal suspect voluntarily pleads guilty and accepts punishment and agrees to the sentencing recommendation and the applicable procedure, he shall sign a written statement of pleading guilty and accepting punishment in the presence of the defender or the duty lawyer. The statement shall include the criminal suspect's truthful confession of his crime and his agreement to the sentencing recommendation and the applicable procedure, and shall be signed by the criminal suspect and his defender or duty lawyer.\nA criminal suspect need not sign a written statement of pleading guilty and accepting punishment under any of the following circumstances:\n(1) the criminal suspect is blind, deaf or mute, or is a person with mental illness who has not yet completely lost the capacity to recognise or control his own conduct;\n(2) the statutory agent or defender of a minor criminal suspect objects to the minor's pleading guilty and accepting punishment;\n(3) other circumstances in which signing a written statement of pleading guilty and accepting punishment is unnecessary.\nWhere a circumstance in the preceding paragraph exists and the criminal suspect has not signed a written statement of pleading guilty and accepting punishment, the application of the system of leniency for pleading guilty and accepting punishment shall not be affected."
+        },
+        "noLabel": {
+          "en": "Article 272."
+        },
+        "chapter": {
+          "en": "Section 2 Handling of Cases Involving Admission of Guilt, Acceptance of Punishment and Leniency"
+        }
+      },
+      {
+        "no": 273,
+        "text": {
+          "en": "Where a criminal suspect pleads guilty and accepts punishment and, upon review, the people's procuratorate considers that the conditions for applying the procedure for expedited adjudication are met, it shall decide whether to institute public prosecution within ten days, and where a fixed-term imprisonment of more than one year may be imposed, the period may be extended to fifteen days; where it considers that the conditions for applying the procedure for expedited adjudication are not met, it shall decide whether to institute public prosecution within the time limit provided in Article 351 of these Rules.\nWith respect to a case in which the public security organ recommends application of the procedure for expedited adjudication, the department responsible for case management of the people's procuratorate shall, on the day the case is accepted, transfer the case to the department responsible for arrest and prosecution."
+        },
+        "noLabel": {
+          "en": "Article 273."
+        },
+        "chapter": {
+          "en": "Section 2 Handling of Cases Involving Admission of Guilt, Acceptance of Punishment and Leniency"
+        }
+      },
+      {
+        "no": 274,
+        "text": {
+          "en": "In a case of pleading guilty and accepting punishment, where the people's procuratorate institutes public prosecution in a people's court, it shall put forward a sentencing recommendation, state the circumstances of the defendant's pleading guilty and accepting punishment in the bill of prosecution, and transfer materials such as the written statement of pleading guilty and accepting punishment. The sentencing recommendation may be made in a separate document or stated in the bill of prosecution."
+        },
+        "noLabel": {
+          "en": "Article 274."
+        },
+        "chapter": {
+          "en": "Section 2 Handling of Cases Involving Admission of Guilt, Acceptance of Punishment and Leniency"
+        }
+      },
+      {
+        "no": 275,
+        "text": {
+          "en": "Where a criminal suspect pleads guilty and accepts punishment, the people's procuratorate shall put forward a sentencing recommendation with respect to the principal penalty, the supplementary penalties and whether suspension of sentence applies. The sentencing recommendation shall generally be a determinate penalty. For cases involving new types of crimes or uncommon crimes, and serious crime cases with complex sentencing circumstances, a sentencing recommendation with a range of penalties may also be put forward."
+        },
+        "noLabel": {
+          "en": "Article 275."
+        },
+        "chapter": {
+          "en": "Section 2 Handling of Cases Involving Admission of Guilt, Acceptance of Punishment and Leniency"
+        }
+      },
+      {
+        "no": 276,
+        "text": {
+          "en": "In handling a case of pleading guilty and accepting punishment, the people's procuratorate shall take into account, as an important consideration in putting forward a sentencing recommendation, whether the criminal suspect has reached a settlement or mediation agreement with the injured party, or has compensated the injured party's loss and obtained the injured party's forgiveness, or voluntarily bears responsibility for remedying public interest damage or for compensation.\nWhere a criminal suspect voluntarily pleads guilty and is willing to actively compensate the loss, but no settlement or mediation agreement is reached because the injured party's claim for compensation is manifestly unreasonable, this shall generally not affect lenient treatment of the criminal suspect.\nWith respect to a public prosecution case that meets the conditions for applying the procedure for settlement between the parties, where the criminal suspect pleads guilty and accepts punishment, the people's procuratorate shall actively encourage the parties to reach a settlement voluntarily. The settlement agreement and the written opinion of forgiveness issued by the injured party shall be transferred with the case. Where the injured party meets the conditions for judicial assistance, the people's procuratorate shall actively coordinate its processing."
+        },
+        "noLabel": {
+          "en": "Article 276."
+        },
+        "chapter": {
+          "en": "Section 2 Handling of Cases Involving Admission of Guilt, Acceptance of Punishment and Leniency"
+        }
+      },
+      {
+        "no": 277,
+        "text": {
+          "en": "Where a criminal suspect pleads guilty and accepts punishment and the people's procuratorate intends to put forward a sentencing recommendation for suspension of sentence or for control, it may entrust a community correction institution in the place of residence of the criminal suspect with an investigation and assessment, or may conduct the investigation and assessment itself."
+        },
+        "noLabel": {
+          "en": "Article 277."
+        },
+        "chapter": {
+          "en": "Section 2 Handling of Cases Involving Admission of Guilt, Acceptance of Punishment and Leniency"
+        }
+      },
+      {
+        "no": 278,
+        "text": {
+          "en": "Where a criminal suspect pleads guilty and accepts punishment and, after the people's procuratorate has made a decision not to prosecute in accordance with paragraph 2 of Article 177 of the Criminal Procedure Law, the criminal suspect retracts, the people's procuratorate shall review the matter and, distinguishing the following circumstances, make a disposition in accordance with law:\n(1) where it is discovered that the criminal suspect committed no criminal act, or that any of the circumstances specified in Article 16 of the Criminal Procedure Law exists, the original decision not to prosecute shall be revoked and a new decision not to prosecute shall be made in accordance with paragraph 1 of Article 177 of the Criminal Procedure Law;\n(2) where the circumstances of the criminal suspect's crime are minor and, under the Criminal Law, no penalty is required or exemption from penalty applies, the original decision not to prosecute may be upheld;\n(3) where, after excluding the factor of pleading guilty and accepting punishment, the conditions for prosecution are met, the original decision not to prosecute shall, according to the specific circumstances of the case, be revoked and public prosecution instituted in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 278."
+        },
+        "chapter": {
+          "en": "Section 2 Handling of Cases Involving Admission of Guilt, Acceptance of Punishment and Leniency"
+        }
+      },
+      {
+        "no": 279,
+        "text": {
+          "en": "Where a criminal suspect voluntarily and truthfully confesses the facts of a suspected crime and has rendered a major meritorious service, or the case involves major interests of the State, the public security organ may, with the approval of the Supreme People's Procuratorate, terminate the case, and the people's procuratorate may make a decision not to prosecute, or may decide not to prosecute one or more of several suspected crimes.\nA decision not to prosecute as provided in the preceding paragraph shall be made by the chief procurator. Where it decides not to prosecute, the people's procuratorate shall promptly make a disposition with respect to the property and its fruits that have been sealed up, seized or frozen."
+        },
+        "noLabel": {
+          "en": "Article 279."
+        },
+        "chapter": {
+          "en": "Section 2 Handling of Cases Involving Admission of Guilt, Acceptance of Punishment and Leniency"
+        }
+      },
+      {
+        "no": 280,
+        "text": {
+          "en": "In handling a case of review for arrest, a people's procuratorate may interrogate the criminal suspect; it shall interrogate the criminal suspect under any of the following circumstances:\n(1) where there is doubt as to whether the conditions for arrest are met;\n(2) where the criminal suspect requests to make a statement in person to procuratorial personnel;\n(3) where the investigation activities may involve major unlawful conduct;\n(4) where the circumstances of the case are major, difficult and complex;\n(5) where the criminal suspect pleads guilty and accepts punishment;\n(6) where the criminal suspect is a minor;\n(7) where the criminal suspect is blind, deaf or mute, or is a person with mental illness who has not yet completely lost the capacity to recognise or control his own conduct.\nBefore interrogating a criminal suspect who has not been criminally detained, the opinions of the public security organ shall be heard.\nIn handling a case of review for arrest, where a criminal suspect who has been criminally detained is not interrogated, a written document for hearing the opinions of the criminal suspect shall be served, filled in by the criminal suspect and then promptly retrieved for review and attached to the file. Where, upon review, it is considered that the criminal suspect should be interrogated, he shall be interrogated promptly."
+        },
+        "noLabel": {
+          "en": "Article 280."
+        },
+        "chapter": {
+          "en": "Section 3 Review and Approval of Arrest"
+        }
+      },
+      {
+        "no": 281,
+        "text": {
+          "en": "In a case with major impact, a public review may be conducted by hearing in person the opinions of investigators, the criminal suspect and his defender and others."
+        },
+        "noLabel": {
+          "en": "Article 281."
+        },
+        "chapter": {
+          "en": "Section 3 Review and Approval of Arrest"
+        }
+      },
+      {
+        "no": 282,
+        "text": {
+          "en": "With respect to a criminal suspect for whom the public security organ requests approval of arrest, where he has already been criminally detained, the people's procuratorate shall, within seven days after receiving the written request for approval of arrest, decide whether to approve arrest; where he has not been criminally detained, it shall, within fifteen days after receiving the written request for approval of arrest, decide whether to approve arrest, and in a major or complex case the period may not exceed twenty days."
+        },
+        "noLabel": {
+          "en": "Article 282."
+        },
+        "chapter": {
+          "en": "Section 3 Review and Approval of Arrest"
+        }
+      },
+      {
+        "no": 283,
+        "text": {
+          "en": "Where a public security organ at a lower level designated by a public security organ at a higher level files and investigates a case in a place other than the place of the crime or the place of residence of the criminal suspect, and arrest of the criminal suspect is needed, the public security organ investigating the case shall request the people's procuratorate at the same level to review and approve the arrest. The people's procuratorate shall decide in accordance with law whether to approve arrest."
+        },
+        "noLabel": {
+          "en": "Article 283."
+        },
+        "chapter": {
+          "en": "Section 3 Review and Approval of Arrest"
+        }
+      },
+      {
+        "no": 284,
+        "text": {
+          "en": "With respect to a criminal suspect for whom the public security organ requests approval of arrest, where, upon review, the people's procuratorate considers that a circumstance specified in Articles 128, 136 and 138 of these Rules exists, it shall make a decision to approve arrest, serve it together with the case file materials on the public security organ for execution, and may prepare an outline for continued investigation and serve it on the public security organ."
+        },
+        "noLabel": {
+          "en": "Article 284."
+        },
+        "chapter": {
+          "en": "Section 3 Review and Approval of Arrest"
+        }
+      },
+      {
+        "no": 285,
+        "text": {
+          "en": "With respect to a criminal suspect for whom the public security organ requests approval of arrest, where a circumstance specified in Articles 139 to 141 of these Rules exists and the people's procuratorate makes a decision not to approve arrest, it shall state the reasons and serve the decision together with the case file materials on the public security organ for execution. Where supplementary investigation is needed, an outline for supplementary investigation shall be prepared and served on the public security organ.\nIn handling a case of review for arrest, a people's procuratorate shall not conduct a separate investigation and may not directly put forward an opinion on adopting release on guarantee pending trial.\nWhere a people's procuratorate intends to make a decision not to approve arrest on the ground that the criminal suspect committed no criminal act, that any of the circumstances specified in Article 16 of the Criminal Procedure Law exists, or that the evidence is insufficient, the decision shall be subject to approval by the chief procurator."
+        },
+        "noLabel": {
+          "en": "Article 285."
+        },
+        "chapter": {
+          "en": "Section 3 Review and Approval of Arrest"
+        }
+      },
+      {
+        "no": 286,
+        "text": {
+          "en": "A people's procuratorate shall deliver the decision to approve arrest to the public security organ for immediate execution and require the public security organ to promptly serve the execution report on the people's procuratorate that made the decision to approve. Where execution cannot be carried out, the public security organ shall also be required to promptly serve the report on the people's procuratorate and to state the reasons why execution could not be carried out. Where a people's procuratorate does not approve arrest, the public security organ shall be required to immediately release the criminal suspect in custody or modify the compulsory measures upon receiving the written decision not to approve arrest, and to serve the execution report on the people's procuratorate that made the decision not to approve arrest within three days after receiving it.\nWhere, after receiving the written decision not to approve arrest, the public security organ does not immediately release the criminal suspect in custody or modify the compulsory measures, the people's procuratorate shall put forward an opinion on correction."
+        },
+        "noLabel": {
+          "en": "Article 286."
+        },
+        "chapter": {
+          "en": "Section 3 Review and Approval of Arrest"
+        }
+      },
+      {
+        "no": 287,
+        "text": {
+          "en": "Where a people's procuratorate makes a decision not to approve arrest on the ground that there are no facts of a crime or that any of the circumstances specified in Article 16 of the Criminal Procedure Law exists, it shall at the same time inform the public security organ to terminate the case.\nWhere there are facts of a crime and criminal responsibility needs to be investigated, but the crime was not committed by the criminal suspect against whom the case was filed and investigated, or some of the criminal suspects in a joint crime case do not bear criminal responsibility, and the people's procuratorate makes a decision not to approve arrest, it shall at the same time inform the public security organ to terminate the investigation with respect to the relevant criminal suspects.\nWhere, more than fifteen days after receiving the written decision not to approve arrest, the public security organ has neither requested reconsideration nor requested review, and has neither terminated the case nor terminated the investigation, the people's procuratorate shall issue a notice of correction of unlawful conduct. Where the public security organ still does not correct the matter, the matter shall be reported to the people's procuratorate at the next higher level for consultation with the public security organ at the same level in handling it."
+        },
+        "noLabel": {
+          "en": "Article 287."
+        },
+        "chapter": {
+          "en": "Section 3 Review and Approval of Arrest"
+        }
+      },
+      {
+        "no": 288,
+        "text": {
+          "en": "When handling a case in which the public security organ requests approval of arrest, where a people's procuratorate discovers a criminal suspect who should be arrested but has been omitted, it shall, with the approval of the chief procurator, require the public security organ to request approval of arrest. Where the public security organ does not request approval of arrest, or the reasons it gives for not requesting approval of arrest are untenable, the people's procuratorate may directly make a decision of arrest and serve it on the public security organ for execution."
+        },
+        "noLabel": {
+          "en": "Article 288."
+        },
+        "chapter": {
+          "en": "Section 3 Review and Approval of Arrest"
+        }
+      },
+      {
+        "no": 289,
+        "text": {
+          "en": "Where it is discovered that a decision to approve arrest already made is indeed erroneous, the people's procuratorate shall revoke the original decision to approve arrest and serve it on the public security organ for execution.\nWhere it is discovered that a decision not to approve arrest already made is indeed erroneous and arrest needs to be approved, the people's procuratorate shall revoke the original decision not to approve arrest, make a new decision to approve arrest and serve it on the public security organ for execution.\nWith respect to a criminal suspect released because the original decision to approve arrest was revoked, or a criminal suspect whose compulsory measures were modified by the public security organ to release on guarantee pending trial or to residential surveillance after arrest, where it is discovered that arrest is needed, the people's procuratorate shall go through the arrest formalities anew."
+        },
+        "noLabel": {
+          "en": "Article 289."
+        },
+        "chapter": {
+          "en": "Section 3 Review and Approval of Arrest"
+        }
+      },
+      {
+        "no": 290,
+        "text": {
+          "en": "Where a public security organ requests reconsideration of a case in which arrest was not approved, the department responsible for arrest and prosecution of the people's procuratorate shall assign another prosecutor or prosecutor case-handling team to conduct the review and, within seven days after receiving the written opinion requesting reconsideration and the case file materials, make a decision on whether to change the original decision upon approval by the chief procurator, and notify the public security organ."
+        },
+        "noLabel": {
+          "en": "Article 290."
+        },
+        "chapter": {
+          "en": "Section 3 Review and Approval of Arrest"
+        }
+      },
+      {
+        "no": 291,
+        "text": {
+          "en": "Where a public security organ requests the people's procuratorate at the next higher level to review a case in which arrest was not approved, the people's procuratorate at the next higher level shall, within fifteen days after receiving the written opinion requesting review and the case file materials and upon approval by the chief procurator, make a decision on whether to change the original decision and notify the people's procuratorate at the lower level and the public security organ for execution. Where the original decision needs to be changed, the people's procuratorate that made the decision not to approve arrest shall be notified to revoke the original decision not to approve arrest and to prepare a separate written decision to approve arrest. Where necessary, the people's procuratorate at the higher level may also directly make a decision to approve arrest and notify the people's procuratorate at the lower level to serve it on the public security organ for execution.\nWhere the original decision not to approve arrest is upheld after reconsideration and review, the people's procuratorate shall state the reasons when serving the decision on reconsideration and review on the public security organ."
+        },
+        "noLabel": {
+          "en": "Article 291."
+        },
+        "chapter": {
+          "en": "Section 3 Review and Approval of Arrest"
+        }
+      },
+      {
+        "no": 292,
+        "text": {
+          "en": "Where a people's procuratorate makes a decision not to approve arrest and notifies the public security organ to conduct supplementary investigation, and the public security organ, after the supplementary investigation, requests reconsideration, the people's procuratorate shall inform the public security organ to request approval of arrest anew. Where the public security organ insists on requesting reconsideration, the people's procuratorate shall not accept it.\nWhere, after supplementary investigation, a public security organ should request approval of arrest but does not do so, the provisions of Article 288 of these Rules shall be applied."
+        },
+        "noLabel": {
+          "en": "Article 292."
+        },
+        "chapter": {
+          "en": "Section 3 Review and Approval of Arrest"
+        }
+      },
+      {
+        "no": 293,
+        "text": {
+          "en": "With respect to a case in which the public security organ requests approval of arrest, the department responsible for arrest and prosecution shall notify in writing the department responsible for criminal execution prosecution of the same procuratorate of the approval, modification or revocation of arrest measures."
+        },
+        "noLabel": {
+          "en": "Article 293."
+        },
+        "chapter": {
+          "en": "Section 3 Review and Approval of Arrest"
+        }
+      },
+      {
+        "no": 294,
+        "text": {
+          "en": "Where a foreign national or a stateless person is suspected of a crime endangering national security, or a case involves political or diplomatic relations between States, or a case genuinely presents difficulties in the application of law, and arrest of the criminal suspect is needed, the case shall, in accordance with the provisions of the Criminal Procedure Law on jurisdiction, be reviewed by a people's procuratorate at the basic level or by a people's procuratorate of a city divided into districts, which shall put forward an opinion and report it level by level to the Supreme People's Procuratorate for review. Where the Supreme People's Procuratorate considers that arrest is needed, it shall, after seeking the opinions of the Ministry of Foreign Affairs, issue a written reply approving arrest; where it considers that arrest is not needed, it shall issue a written reply not approving arrest. The people's procuratorate at the basic level or of the city divided into districts shall, on the basis of the reply of the Supreme People's Procuratorate, decide in accordance with law whether to approve arrest. In the course of reporting level by level, where a people's procuratorate at a higher level considers that arrest is not needed, it shall issue a written reply not approving arrest, and the people's procuratorate that submitted the report shall, on the basis of the reply, make a decision not to approve arrest in accordance with law.\nWhere a people's procuratorate at the basic level or of a city divided into districts considers that arrest is not needed, it may directly make a decision not to approve arrest in accordance with law.\nWhere a foreign national or a stateless person is suspected of a crime other than those specified in paragraph 1 of this Article, the people's procuratorate that decides to approve arrest shall, within forty-eight hours after making the decision to approve arrest, report it to the people's procuratorate at the next higher level for the record and at the same time notify the foreign affairs department of the people's government at the same level. Where, upon review, the people's procuratorate at the next higher level discovers that the decision to approve arrest is erroneous, it shall correct it promptly in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 294."
+        },
+        "chapter": {
+          "en": "Section 3 Review and Approval of Arrest"
+        }
+      },
+      {
+        "no": 295,
+        "text": {
+          "en": "Where a people's procuratorate handles a case of a crime endangering national security in the course of review for arrest, it shall report it to the people's procuratorate at the next higher level for the record.\nWhere, upon review, the people's procuratorate at the next higher level discovers an error, it shall correct it promptly in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 295."
+        },
+        "chapter": {
+          "en": "Section 3 Review and Approval of Arrest"
+        }
+      },
+      {
+        "no": 296,
+        "text": {
+          "en": "Where, in a case investigated directly upon acceptance by a people's procuratorate, arrest of the criminal suspect is needed, the department responsible for investigation shall prepare an opinion on arresting the criminal suspect and transfer it together with the case file materials and the audio and video recordings of the interrogation of the criminal suspect to the department responsible for arrest and prosecution of the same procuratorate for review. Where the criminal suspect has already been criminally detained, the department responsible for investigation shall, within seven days after the criminal detention, transfer the case to the department responsible for arrest and prosecution of the same procuratorate for review."
+        },
+        "noLabel": {
+          "en": "Article 296."
+        },
+        "chapter": {
+          "en": "Section 4 Review and Decision on Arrest"
+        }
+      },
+      {
+        "no": 297,
+        "text": {
+          "en": "With respect to a case transferred for review for arrest by the department responsible for investigation of the same procuratorate, where the criminal suspect has already been criminally detained, the department responsible for arrest and prosecution shall, within seven days after receiving the opinion on arresting the criminal suspect, report to the chief procurator for a decision on whether to arrest, and under special circumstances the time for deciding on arrest may be extended by one to three days; where the criminal suspect has not been criminally detained, the department responsible for arrest and prosecution shall, within fifteen days after receiving the opinion on arresting the criminal suspect, report to the chief procurator for a decision on whether to arrest, and in a major or complex case the period may not exceed twenty days."
+        },
+        "noLabel": {
+          "en": "Article 297."
+        },
+        "chapter": {
+          "en": "Section 4 Review and Decision on Arrest"
+        }
+      },
+      {
+        "no": 298,
+        "text": {
+          "en": "Where a decision is made to arrest a criminal suspect, the department responsible for arrest and prosecution shall hand over the written decision of arrest together with the case file materials and the audio and video recordings of the interrogation of the criminal suspect to the department responsible for investigation, and may put forward opinions on the collection of evidence and the application of law. The department responsible for investigation shall notify the public security organ to execute the arrest and may assist in execution where necessary."
+        },
+        "noLabel": {
+          "en": "Article 298."
+        },
+        "chapter": {
+          "en": "Section 4 Review and Decision on Arrest"
+        }
+      },
+      {
+        "no": 299,
+        "text": {
+          "en": "Where a decision is made not to arrest a criminal suspect, the department responsible for arrest and prosecution shall hand over the decision not to arrest together with the case file materials and the audio and video recordings of the interrogation of the criminal suspect to the department responsible for investigation and state the reasons. Where supplementary investigation is needed, an outline for supplementary investigation shall be prepared. Where the criminal suspect has already been criminally detained, the department responsible for investigation shall notify the public security organ to release him immediately."
+        },
+        "noLabel": {
+          "en": "Article 299."
+        },
+        "chapter": {
+          "en": "Section 4 Review and Decision on Arrest"
+        }
+      },
+      {
+        "no": 300,
+        "text": {
+          "en": "With respect to a criminal suspect who should be arrested but has not been transferred for review for arrest by the department responsible for investigation of the same procuratorate, the department responsible for arrest and prosecution shall propose to the department responsible for investigation that the criminal suspect be transferred for review for arrest. Where the proposal is not adopted, the matter shall be reported to the chief procurator for decision."
+        },
+        "noLabel": {
+          "en": "Article 300."
+        },
+        "chapter": {
+          "en": "Section 4 Review and Decision on Arrest"
+        }
+      },
+      {
+        "no": 301,
+        "text": {
+          "en": "After a criminal suspect is arrested, he shall immediately be delivered to a house of detention for custody. Except where notification is impossible, the department responsible for investigation shall, within twenty-four hours, notify his family members of the reasons for the arrest and the place of custody. Where notification is impossible, his family members shall be notified immediately after the circumstance making notification impossible ceases to exist."
+        },
+        "noLabel": {
+          "en": "Article 301."
+        },
+        "chapter": {
+          "en": "Section 4 Review and Decision on Arrest"
+        }
+      },
+      {
+        "no": 302,
+        "text": {
+          "en": "A criminal suspect who has been arrested shall be interrogated within twenty-four hours after the arrest.\nWhere it is discovered that the arrest should not have been made, the decision of arrest shall, with the approval of the chief procurator, be revoked or changed to another compulsory measure, and the public security organ shall be notified to execute it and the department responsible for arrest and prosecution shall be notified at the same time.\nWhere it is subsequently discovered that arrest is needed with respect to a criminal suspect who was released or whose compulsory measures were modified in accordance with the preceding paragraph, the case shall be transferred anew for review for arrest."
+        },
+        "noLabel": {
+          "en": "Article 302."
+        },
+        "chapter": {
+          "en": "Section 4 Review and Decision on Arrest"
+        }
+      },
+      {
+        "no": 303,
+        "text": {
+          "en": "Where a decision not to arrest has already been made and it is subsequently discovered that the criminal suspect needs to be arrested, the arrest formalities shall be gone through anew."
+        },
+        "noLabel": {
+          "en": "Article 303."
+        },
+        "chapter": {
+          "en": "Section 4 Review and Decision on Arrest"
+        }
+      },
+      {
+        "no": 304,
+        "text": {
+          "en": "Where a criminal suspect is in custody in another place, the department responsible for investigation shall notify in writing the department responsible for criminal execution prosecution of the people's procuratorate of the place of custody of the approval, modification or revocation of arrest measures."
+        },
+        "noLabel": {
+          "en": "Article 304."
+        },
+        "chapter": {
+          "en": "Section 4 Review and Decision on Arrest"
+        }
+      },
+      {
+        "no": 305,
+        "text": {
+          "en": "In a case investigated directly upon acceptance by a people's procuratorate, the period of custody pending investigation after the arrest of the criminal suspect shall not exceed two months. Where the circumstances of the case are complex and the investigation cannot be concluded upon expiry of the period, the period may be extended by one month with the approval of the people's procuratorate at the next higher level."
+        },
+        "noLabel": {
+          "en": "Article 305."
+        },
+        "chapter": {
+          "en": "Section 5 Extension and Recalculation of the Time Limit for Investigative Custody"
+        }
+      },
+      {
+        "no": 306,
+        "text": {
+          "en": "Where a people's procuratorate of a city divided into districts or a people's procuratorate at the basic level handles a case investigated directly upon acceptance, meets the provisions of Article 158 of the Criminal Procedure Law and cannot conclude the investigation before expiry of the period provided in Article 305 of these Rules, the period may be extended by two months with the approval of the provincial people's procuratorate.\nWhere a case investigated directly upon acceptance by a provincial people's procuratorate falls under the circumstances of the preceding paragraph, the provincial people's procuratorate may directly decide to extend the period by two months."
+        },
+        "noLabel": {
+          "en": "Article 306."
+        },
+        "chapter": {
+          "en": "Section 5 Extension and Recalculation of the Time Limit for Investigative Custody"
+        }
+      },
+      {
+        "no": 307,
+        "text": {
+          "en": "Where a people's procuratorate of a city divided into districts or a people's procuratorate at the basic level handles a case investigated directly upon acceptance in which the criminal suspect may be sentenced to fixed-term imprisonment of ten years or more, and the investigation still cannot be concluded upon expiry of the period of custody lawfully extended in accordance with Article 306 of these Rules, the period may be extended by a further two months with the approval of the provincial people's procuratorate.\nWhere a case investigated directly upon acceptance by a provincial people's procuratorate falls under the circumstances of the preceding paragraph, the provincial people's procuratorate may directly decide to extend the period by a further two months."
+        },
+        "noLabel": {
+          "en": "Article 307."
+        },
+        "chapter": {
+          "en": "Section 5 Extension and Recalculation of the Time Limit for Investigative Custody"
+        }
+      },
+      {
+        "no": 308,
+        "text": {
+          "en": "Where a case investigated directly upon acceptance by the Supreme People's Procuratorate requires extension of the period of custody pending investigation in accordance with the provisions of the Criminal Procedure Law, the Supreme People's Procuratorate shall directly decide to extend the period of custody pending investigation."
+        },
+        "noLabel": {
+          "en": "Article 308."
+        },
+        "chapter": {
+          "en": "Section 5 Extension and Recalculation of the Time Limit for Investigative Custody"
+        }
+      },
+      {
+        "no": 309,
+        "text": {
+          "en": "Where a public security organ needs to extend the period of custody pending investigation, the people's procuratorate shall require it to request approval of extension of the period of custody pending investigation seven days before expiry of the period of custody pending investigation.\nWhere, in a case investigated directly upon acceptance by a people's procuratorate, the department responsible for investigation considers that the period of custody pending investigation needs to be extended, it shall, in accordance with the preceding paragraph, transfer an opinion on extension of the period of custody pending investigation and the relevant materials to the department responsible for arrest and prosecution of the same procuratorate.\nWhere a request for extension of the period of custody pending investigation is submitted after the statutory period of custody has expired, it shall not be accepted."
+        },
+        "noLabel": {
+          "en": "Article 309."
+        },
+        "chapter": {
+          "en": "Section 5 Extension and Recalculation of the Time Limit for Investigative Custody"
+        }
+      },
+      {
+        "no": 310,
+        "text": {
+          "en": "The review and approval, or the decision, by a people's procuratorate of an extension of the period of custody pending investigation shall be handled by the department responsible for arrest and prosecution.\nAfter examining the opinion on extension of the period of custody pending investigation, the people's procuratorate that accepted the case shall put forward an opinion on whether it agrees to extend the period of custody pending investigation, and shall report the opinion of the public security organ on extension of the period of custody pending investigation together with its own review opinion level by level to the people's procuratorate with the power to decide for review and decision."
+        },
+        "noLabel": {
+          "en": "Article 310."
+        },
+        "chapter": {
+          "en": "Section 5 Extension and Recalculation of the Time Limit for Investigative Custody"
+        }
+      },
+      {
+        "no": 311,
+        "text": {
+          "en": "With respect to a case that meets all of the following conditions, the people's procuratorate shall make a decision to approve extension of the period of custody pending investigation by one month:\n(1) it meets the provisions of Article 156 of the Criminal Procedure Law;\n(2) the conditions for arrest are met;\n(3) it is necessary to continue the custody of the criminal suspect."
+        },
+        "noLabel": {
+          "en": "Article 311."
+        },
+        "chapter": {
+          "en": "Section 5 Extension and Recalculation of the Time Limit for Investigative Custody"
+        }
+      },
+      {
+        "no": 312,
+        "text": {
+          "en": "Where the criminal suspect meets the conditions for arrest but, upon review, the public security organ did not effectively carry out investigation work within two months after executing the arrest of the criminal suspect, or made no substantive progress in the work of investigation and evidence collection, the people's procuratorate may make a decision not to approve extension of the period of custody pending investigation.\nWhere the criminal suspect does not meet the conditions for arrest and the decision of arrest made by a people's procuratorate at a lower level needs to be revoked, the people's procuratorate at the higher level shall, at the same time as making the decision not to approve extension of the period of custody pending investigation, make a decision to revoke the arrest or notify the people's procuratorate at the lower level to revoke the decision of arrest."
+        },
+        "noLabel": {
+          "en": "Article 312."
+        },
+        "chapter": {
+          "en": "Section 5 Extension and Recalculation of the Time Limit for Investigative Custody"
+        }
+      },
+      {
+        "no": 313,
+        "text": {
+          "en": "After the people's procuratorate with the power to decide makes a decision to approve or not to approve extension of the period of custody pending investigation, it shall hand the written decision to the people's procuratorate that first accepted the case for service on the public security organ.\nUpon receiving the written decision approving or not approving extension of the period of custody pending investigation, the department responsible for arrest and prosecution of the people's procuratorate that first accepted the case shall notify in writing the department responsible for criminal execution prosecution of the same procuratorate."
+        },
+        "noLabel": {
+          "en": "Article 313."
+        },
+        "chapter": {
+          "en": "Section 5 Extension and Recalculation of the Time Limit for Investigative Custody"
+        }
+      },
+      {
+        "no": 314,
+        "text": {
+          "en": "In a particularly major and complex case that, for special reasons, is not suitable for delivery for trial for a relatively long period of time, the Supreme People's Procuratorate shall report it to the Standing Committee of the National People's Congress for approval of postponement of trial."
+        },
+        "noLabel": {
+          "en": "Article 314."
+        },
+        "chapter": {
+          "en": "Section 5 Extension and Recalculation of the Time Limit for Investigative Custody"
+        }
+      },
+      {
+        "no": 315,
+        "text": {
+          "en": "Where, during the investigation, a people's procuratorate discovers that the criminal suspect has committed another major crime, the period of custody pending investigation shall be recalculated from the date of discovery in accordance with Article 305 of these Rules.\nAnother major crime means a major crime of a different kind from the crime at the time of arrest, or a major crime of the same kind that affects the determination of the charge or the range of sentencing."
+        },
+        "noLabel": {
+          "en": "Article 315."
+        },
+        "chapter": {
+          "en": "Section 5 Extension and Recalculation of the Time Limit for Investigative Custody"
+        }
+      },
+      {
+        "no": 316,
+        "text": {
+          "en": "Where a people's procuratorate recalculates the period of custody pending investigation, the department responsible for investigation shall put forward an opinion on recalculation of the period of custody pending investigation and transfer it to the department responsible for arrest and prosecution of the same procuratorate for review. After review, the department responsible for arrest and prosecution shall put forward an opinion on whether it agrees to recalculate the period of custody pending investigation and report it to the chief procurator for decision."
+        },
+        "noLabel": {
+          "en": "Article 316."
+        },
+        "chapter": {
+          "en": "Section 5 Extension and Recalculation of the Time Limit for Investigative Custody"
+        }
+      },
+      {
+        "no": 317,
+        "text": {
+          "en": "The record filed by a public security organ on its recalculation of the period of custody pending investigation shall be reviewed by the department responsible for arrest and prosecution. Where the department responsible for arrest and prosecution considers that the recalculation of the period of custody pending investigation by the public security organ is improper, it shall put forward an opinion on correction."
+        },
+        "noLabel": {
+          "en": "Article 317."
+        },
+        "chapter": {
+          "en": "Section 5 Extension and Recalculation of the Time Limit for Investigative Custody"
+        }
+      },
+      {
+        "no": 318,
+        "text": {
+          "en": "Where a case investigated directly upon acceptance by a people's procuratorate cannot be concluded within the statutory period of custody pending investigation, the criminal suspect shall be released in accordance with law or the compulsory measures shall be modified."
+        },
+        "noLabel": {
+          "en": "Article 318."
+        },
+        "chapter": {
+          "en": "Section 5 Extension and Recalculation of the Time Limit for Investigative Custody"
+        }
+      },
+      {
+        "no": 319,
+        "text": {
+          "en": "In reviewing an extension of the period of custody pending investigation or a recalculation of the period of custody pending investigation, the department responsible for arrest and prosecution may interrogate the criminal suspect, hear the opinions of defence lawyers and investigators, and obtain the case file and the relevant materials."
+        },
+        "noLabel": {
+          "en": "Article 319."
+        },
+        "chapter": {
+          "en": "Section 5 Extension and Recalculation of the Time Limit for Investigative Custody"
+        }
+      },
+      {
+        "no": 320,
+        "text": {
+          "en": "Where the limitation period for prosecution of a crime for which the statutory maximum penalty is life imprisonment or the death penalty has expired after twenty years, prosecution shall no longer be instituted. Where it is considered that prosecution must be instituted, the matter shall be reported to the Supreme People's Procuratorate for approval."
+        },
+        "noLabel": {
+          "en": "Article 320."
+        },
+        "chapter": {
+          "en": "Section 6 Approval of Prosecution"
+        }
+      },
+      {
+        "no": 321,
+        "text": {
+          "en": "Where a case must be reported to the Supreme People's Procuratorate for approval of prosecution, the public security organ may, before approval, take compulsory measures against the criminal suspect in accordance with law.\nWhere a public security organ reports a case for approval of prosecution and requests approval of arrest of the criminal suspect, and upon review the people's procuratorate considers that prosecution must be instituted and the statutory conditions for arrest are met, it may approve arrest in accordance with law and at the same time require the public security organ not to discontinue the investigation of the case during the period in which approval of prosecution is being sought.\nPublic prosecution of a case shall not be instituted without the approval of the Supreme People's Procuratorate."
+        },
+        "noLabel": {
+          "en": "Article 321."
+        },
+        "chapter": {
+          "en": "Section 6 Approval of Prosecution"
+        }
+      },
+      {
+        "no": 322,
+        "text": {
+          "en": "A case reported for approval of prosecution shall meet all of the following conditions:\n(1) there is evidence proving that facts of a crime exist and that the facts of the crime were committed by the criminal suspect;\n(2) the maximum penalty under the statutory range of sentencing applicable to the suspected criminal conduct is life imprisonment or the death penalty;\n(3) the nature, circumstances and consequences of the suspected crime are particularly serious and, although the twenty-year limitation period for prosecution has expired, the social harm and impact still exist, so that not instituting prosecution would seriously affect social stability or produce other serious consequences, and prosecution must therefore be instituted;\n(4) the criminal suspect can appear in time to stand trial."
+        },
+        "noLabel": {
+          "en": "Article 322."
+        },
+        "chapter": {
+          "en": "Section 6 Approval of Prosecution"
+        }
+      },
+      {
+        "no": 323,
+        "text": {
+          "en": "A case reported by a public security organ for approval of prosecution shall be accepted by the people's procuratorate at the same level and reported level by level to the Supreme People's Procuratorate for review and decision."
+        },
+        "noLabel": {
+          "en": "Article 323."
+        },
+        "chapter": {
+          "en": "Section 6 Approval of Prosecution"
+        }
+      },
+      {
+        "no": 324,
+        "text": {
+          "en": "With respect to a case reported by a public security organ for approval of prosecution, a people's procuratorate at any local level shall examine it promptly and carry out the necessary investigation. After deliberation by the procuratorial committee, which shall put forward an opinion on whether it agrees to approve prosecution, a report on the case submitted for approval of prosecution shall be prepared and reported together with the case file materials level by level to the Supreme People's Procuratorate."
+        },
+        "noLabel": {
+          "en": "Article 324."
+        },
+        "chapter": {
+          "en": "Section 6 Approval of Prosecution"
+        }
+      },
+      {
+        "no": 325,
+        "text": {
+          "en": "After receiving the report on a case submitted for approval of prosecution and the case file materials submitted by the provincial people's procuratorate, the Supreme People's Procuratorate shall review them promptly and, where necessary, assign procuratorial personnel to the place where the crime was committed to learn about the relevant circumstances of the case. Upon approval by the chief procurator, it shall make a decision on whether to approve prosecution and prepare a written decision approving prosecution or a written decision not approving prosecution, which shall be transmitted level by level down to the people's procuratorate that first accepted the case, which shall serve it on the public security organ that reported the case for approval of prosecution."
+        },
+        "noLabel": {
+          "en": "Article 325."
+        },
+        "chapter": {
+          "en": "Section 6 Approval of Prosecution"
+        }
+      },
+      {
+        "no": 326,
+        "text": {
+          "en": "In a case in which compulsory measures have already been taken, where a decision on whether to approve prosecution cannot be made upon expiry of the compulsory measures, the compulsory measures against the criminal suspect shall be modified or the period of custody pending investigation shall be extended."
+        },
+        "noLabel": {
+          "en": "Article 326."
+        },
+        "chapter": {
+          "en": "Section 6 Approval of Prosecution"
+        }
+      },
+      {
+        "no": 327,
+        "text": {
+          "en": "In a case in which the Supreme People's Procuratorate decides to approve prosecution, the people's procuratorate that first accepted the case shall supervise the investigation work of the public security organ.\nWhere the Supreme People's Procuratorate decides not to approve prosecution and the public security organ does not terminate the case promptly, the people's procuratorate at the same level shall put forward an opinion on correction. Where the criminal suspect is in custody, he shall be released immediately."
+        },
+        "noLabel": {
+          "en": "Article 327."
+        },
+        "chapter": {
+          "en": "Section 6 Approval of Prosecution"
+        }
+      },
+      {
+        "no": 328,
+        "text": {
+          "en": "Public prosecution instituted by a people's procuratorate at any level shall correspond to the trial jurisdiction of the people's court. After receiving a case transferred for prosecution, where the department responsible for arrest and prosecution considers upon review that the case does not fall within the jurisdiction of its own procuratorate, it shall, within five days from the date of discovery, transfer the case through the department responsible for case management to the people's procuratorate with jurisdiction.\nWhere a case of first instance falls within the jurisdiction of a people's court at a higher level, it shall be reported to the people's procuratorate at the higher level and the public security organ that transferred the case for prosecution shall be notified at the same time; where a case of first instance falls within the jurisdiction of another people's court at the same level, it shall be transferred to the people's procuratorate with jurisdiction or reported to their common people's procuratorate at a higher level for designation of jurisdiction, and the public security organ that transferred the case for prosecution shall be notified at the same time.\nWhere a people's procuratorate at a higher level accepts a case transferred for prosecution by a public security organ at the same level and considers that the case falls within the jurisdiction of a people's court at a lower level, it may hand the case over to the people's procuratorate at the lower level for review, and the people's procuratorate at the lower level shall institute public prosecution in the people's court at the same level, and the public security organ that transferred the case for prosecution shall be notified at the same time.\nWhere one person commits several crimes, or in a joint crime or another case that needs to be tried together, as long as one of the persons or one of the crimes falls within the jurisdiction of the people's procuratorate at a higher level, the whole case shall be reviewed for prosecution by the people's procuratorate at the higher level.\nWhere, in a case transferred for prosecution by a public security organ, designation of trial jurisdiction is required in accordance with the provisions of the Criminal Procedure Law, the people's procuratorate shall, before the public security organ transfers the case for prosecution, consult the people's court at the same level on matters relating to designated jurisdiction."
+        },
+        "noLabel": {
+          "en": "Article 328."
+        },
+        "chapter": {
+          "en": "Section 7 Review for Prosecution"
+        }
+      },
+      {
+        "no": 329,
+        "text": {
+          "en": "Where, in a case transferred for prosecution by a supervisory organ, designation of trial jurisdiction is required in accordance with the provisions of the Criminal Procedure Law, the people's procuratorate shall, twenty days before the supervisory organ transfers the case for prosecution, consult the people's court at the same level on matters relating to designated jurisdiction."
+        },
+        "noLabel": {
+          "en": "Article 329."
+        },
+        "chapter": {
+          "en": "Section 7 Review for Prosecution"
+        }
+      },
+      {
+        "no": 330,
+        "text": {
+          "en": "In reviewing a case transferred for prosecution, a people's procuratorate shall ascertain:\n(1) whether the identity of the criminal suspect is clear, including name, sex, nationality, date of birth, occupation and unit; and, in a unit crime, whether the relevant information of the unit is clear;\n(2) whether the facts and circumstances of the crime are clear; and whether the time, place, means and harmful consequences of the criminal conduct are clear;\n(3) whether the opinion determining the nature of the crime and the charge is correct; whether there are statutory circumstances of heavier punishment or of lighter, mitigated or exempted punishment, and discretionary circumstances of heavier or lighter punishment; and whether the determination of the responsibility of the criminal suspects in a joint crime case in the criminal activity is appropriate;\n(4) whether the criminal suspect pleads guilty and accepts punishment;\n(5) whether the evidence materials proving the facts of the crime have been transferred with the case; whether the evidence materials proving that the relevant property is illegal gains have been transferred with the case; and whether the list, copies, photographs or other certification documents of evidence unsuitable for transfer have been transferred with the case;\n(6) whether the evidence is reliable and sufficient, whether it was collected in accordance with law, and whether there are circumstances in which illegally obtained evidence should be excluded;\n(7) whether the legal formalities and litigation documents for adopting investigation measures, including technical investigation measures, are complete;\n(8) whether any crime or any other person whose criminal responsibility should be investigated has been omitted;\n(9) whether the case is one in which criminal responsibility should not be investigated;\n(10) whether there is an incidental civil action; whether it is necessary for the people's procuratorate to institute an incidental civil action where State or collective property has suffered loss; and whether it is necessary for the people's procuratorate to institute an incidental civil public interest action in respect of conduct damaging the ecological environment and the protection of resources, infringing the lawful rights and interests of a large number of consumers in the field of food and drug safety, or infringing the name, portrait, reputation or honour of heroes and martyrs and otherwise damaging the public interest;\n(11) whether the compulsory measures taken are appropriate and, for a criminal suspect who has been arrested, whether continued custody is necessary;\n(12) whether the investigation activities were lawful;\n(13) whether the property involved in the case has been sealed up, seized or frozen and properly kept, and whether the list is complete; whether the return of the lawful property of the victim and the disposition of prohibited articles or articles unsuitable for long-term preservation are appropriate, and whether the certification documents transferred are complete."
+        },
+        "noLabel": {
+          "en": "Article 330."
+        },
+        "chapter": {
+          "en": "Section 7 Review for Prosecution"
+        }
+      },
+      {
+        "no": 331,
+        "text": {
+          "en": "A people's procuratorate shall interrogate the criminal suspect when handling a case of review for prosecution."
+        },
+        "noLabel": {
+          "en": "Article 331."
+        },
+        "chapter": {
+          "en": "Section 7 Review for Prosecution"
+        }
+      },
+      {
+        "no": 332,
+        "text": {
+          "en": "Where a people's procuratorate considers that an appraisal of certain specialised issues in a case is needed but the supervisory organ or the public security organ has not conducted an appraisal, it shall require the supervisory organ or the public security organ to conduct an appraisal. Where necessary, the people's procuratorate may also conduct the appraisal, or engage persons with appraisal qualifications to conduct it.\nWhere a people's procuratorate conducts an appraisal itself, it may consult the supervisory organ or the public security organ on sending personnel to participate, and may, where necessary, engage persons with appraisal qualifications or specialised knowledge to participate."
+        },
+        "noLabel": {
+          "en": "Article 332."
+        },
+        "chapter": {
+          "en": "Section 7 Review for Prosecution"
+        }
+      },
+      {
+        "no": 333,
+        "text": {
+          "en": "Where, in the course of review for prosecution, it is discovered that the criminal suspect may be suffering from mental illness, the people's procuratorate shall appraise the criminal suspect in accordance with the relevant provisions of these Rules.\nWhere the defender or a close relative of the criminal suspect applies for an appraisal of the criminal suspect on the ground that the criminal suspect may be suffering from mental illness, the people's procuratorate may also appraise the criminal suspect in accordance with the relevant provisions of these Rules. The appraisal fee shall be borne by the applicant."
+        },
+        "noLabel": {
+          "en": "Article 333."
+        },
+        "chapter": {
+          "en": "Section 7 Review for Prosecution"
+        }
+      },
+      {
+        "no": 334,
+        "text": {
+          "en": "Where a people's procuratorate has doubts about an appraisal opinion, it may question the appraiser or a person with specialised knowledge and make a record to be attached to the file, or may assign procuratorial technical personnel with appraisal qualifications or engage other persons with appraisal qualifications to conduct a supplementary appraisal or a fresh appraisal.\nWhere a people's procuratorate needs a specialised review of technical evidence materials such as appraisal opinions, it shall refer them, in accordance with the relevant provisions, to procuratorial technical personnel or other persons with specialised knowledge for review, who shall issue a review opinion."
+        },
+        "noLabel": {
+          "en": "Article 334."
+        },
+        "chapter": {
+          "en": "Section 7 Review for Prosecution"
+        }
+      },
+      {
+        "no": 335,
+        "text": {
+          "en": "When reviewing a case, where a people's procuratorate considers that the inquest or examination conducted by the supervisory organ or the public security organ needs to be repeated or re-examined, it shall require the supervisory organ or the public security organ to repeat or re-examine it, and the people's procuratorate may send personnel to participate; the people's procuratorate may also repeat or re-examine it itself, in consultation with the supervisory organ or the public security organ on sending personnel to participate, and may, where necessary, assign procuratorial technical personnel or engage other persons with specialised knowledge to participate."
+        },
+        "noLabel": {
+          "en": "Article 335."
+        },
+        "chapter": {
+          "en": "Section 7 Review for Prosecution"
+        }
+      },
+      {
+        "no": 336,
+        "text": {
+          "en": "Where a people's procuratorate has doubts about material evidence, documentary evidence, audio-visual materials, electronic data and records of inquest, examination, identification and investigative experiment, it may require the investigators to provide the relevant information on how the evidence was obtained and produced, and may, where necessary, question the persons who provided the relevant evidence materials and the witnesses and make a record to be attached to the file, and appraise the material evidence, documentary evidence, audio-visual materials and electronic data."
+        },
+        "noLabel": {
+          "en": "Article 336."
+        },
+        "chapter": {
+          "en": "Section 7 Review for Prosecution"
+        }
+      },
+      {
+        "no": 337,
+        "text": {
+          "en": "Where a people's procuratorate considers, at the stage of review for prosecution, that the criminal suspect needs to be arrested, the decision shall be made by the chief procurator."
+        },
+        "noLabel": {
+          "en": "Article 337."
+        },
+        "chapter": {
+          "en": "Section 7 Review for Prosecution"
+        }
+      },
+      {
+        "no": 338,
+        "text": {
+          "en": "With respect to a case being reviewed for prosecution by a people's procuratorate, where the arrested criminal suspect, his statutory agent, close relative or defender considers that the period of custody has expired and requests the people's procuratorate to release the criminal suspect or modify the compulsory measures, the people's procuratorate shall review the matter and decide within three days. Where, upon review, it considers that the statutory period has expired, it shall decide to release him or modify the compulsory measures in accordance with law and notify the public security organ to execute it; where it considers that the statutory period has not expired, it shall reply to the applicant in writing."
+        },
+        "noLabel": {
+          "en": "Article 338."
+        },
+        "chapter": {
+          "en": "Section 7 Review for Prosecution"
+        }
+      },
+      {
+        "no": 339,
+        "text": {
+          "en": "After reviewing a case, a people's procuratorate shall decide in accordance with law whether to prosecute or not to prosecute and whether to institute an incidental civil action or an incidental civil public interest action."
+        },
+        "noLabel": {
+          "en": "Article 339."
+        },
+        "chapter": {
+          "en": "Section 7 Review for Prosecution"
+        }
+      },
+      {
+        "no": 340,
+        "text": {
+          "en": "After reviewing a case transferred by a supervisory organ or a public security organ, where, before a people's court makes a legally effective judgment, a people's procuratorate considers that evidence materials need to be provided in supplementation, it may require the supervisory organ or the public security organ in writing to provide them."
+        },
+        "noLabel": {
+          "en": "Article 340."
+        },
+        "chapter": {
+          "en": "Section 7 Review for Prosecution"
+        }
+      },
+      {
+        "no": 341,
+        "text": {
+          "en": "Where, in the course of review for prosecution, a people's procuratorate discovers illegally obtained evidence that should be excluded, it shall exclude it in accordance with law and may at the same time require the supervisory organ or the public security organ to assign other investigators to obtain evidence anew. Where necessary, the people's procuratorate may also investigate and obtain evidence itself."
+        },
+        "noLabel": {
+          "en": "Article 341."
+        },
+        "chapter": {
+          "en": "Section 7 Review for Prosecution"
+        }
+      },
+      {
+        "no": 342,
+        "text": {
+          "en": "Where a people's procuratorate considers that the facts of the crime are unclear, the evidence is insufficient, or there are circumstances such as an omitted crime or an omitted co-defendant criminal suspect and supplementary investigation is needed, it shall prepare an outline for supplementary investigation and return the case together with the case file materials to the public security organ for supplementary investigation. The people's procuratorate may also investigate itself and may, where necessary, require the public security organ to provide assistance."
+        },
+        "noLabel": {
+          "en": "Article 342."
+        },
+        "chapter": {
+          "en": "Section 7 Review for Prosecution"
+        }
+      },
+      {
+        "no": 343,
+        "text": {
+          "en": "With respect to a case transferred for prosecution by a supervisory organ, where a people's procuratorate considers that supplementary investigation is needed, it shall return the case to the supervisory organ for supplementary investigation. Where necessary, it may itself conduct supplementary investigation.\nWhere a case needs to be returned for supplementary investigation, the people's procuratorate shall issue a written decision on supplementary investigation and an outline for supplementary investigation, stating the matters for supplementary investigation, the reasons, the direction of investigation, the evidence to be further collected and its probative role, and deliver them together with the case file materials to the supervisory organ.\nWhere a people's procuratorate decides to return a case for supplementary investigation and compulsory measures have already been taken against the criminal suspect, it shall notify in writing the organ executing the compulsory measures of the return for supplementary investigation. Where the supervisory organ needs to interrogate the suspect, the people's procuratorate shall cooperate."
+        },
+        "noLabel": {
+          "en": "Article 343."
+        },
+        "chapter": {
+          "en": "Section 7 Review for Prosecution"
+        }
+      },
+      {
+        "no": 344,
+        "text": {
+          "en": "With respect to a case transferred for prosecution by a supervisory organ, a people's procuratorate may itself conduct supplementary investigation under any of the following circumstances:\n(1) where the main circumstances in the witness testimony, the criminal suspect's statement and defence and the victim's statement are consistent but individual circumstances are inconsistent;\n(2) where material evidence, documentary evidence and other evidence materials need supplementary appraisal;\n(3) other circumstances in which verification by the people's procuratorate is more convenient and more efficient and more conducive to ascertaining the facts of the case.\nAfter supplementary investigation conducted by itself is completed, the relevant evidence materials shall be placed in the file and a copy sent to the supervisory organ at the same time. Where a people's procuratorate conducts supplementary investigation itself, it may consult the supervisory organ to provide assistance."
+        },
+        "noLabel": {
+          "en": "Article 344."
+        },
+        "chapter": {
+          "en": "Section 7 Review for Prosecution"
+        }
+      },
+      {
+        "no": 345,
+        "text": {
+          "en": "After reviewing a case transferred for prosecution by the department responsible for investigation of the same procuratorate, where the department responsible for arrest and prosecution of the people's procuratorate considers that the facts of the crime are unclear, the evidence is insufficient, or there are circumstances such as an omitted crime or an omitted co-defendant criminal suspect and supplementary investigation is needed, it shall prepare an outline for supplementary investigation and return the case together with the case file materials to the department responsible for investigation for supplementary investigation. Where necessary, it may also investigate itself and may require the department responsible for investigation to provide assistance."
+        },
+        "noLabel": {
+          "en": "Article 345."
+        },
+        "chapter": {
+          "en": "Section 7 Review for Prosecution"
+        }
+      },
+      {
+        "no": 346,
+        "text": {
+          "en": "A case returned to a supervisory organ for supplementary investigation or returned to a public security organ for supplementary investigation shall in each case be subjected to the supplementary investigation within one month.\nSupplementary investigation shall be limited to two occasions.\nAfter the supplementary investigation is completed and the case is transferred for prosecution, the people's procuratorate shall recalculate the period for review for prosecution.\nThe time limit and the number of occasions for the return by the department responsible for arrest and prosecution of a people's procuratorate to the department responsible for investigation of the same procuratorate for supplementary investigation shall be governed by paragraphs 1 to 3 of this Article."
+        },
+        "noLabel": {
+          "en": "Article 346."
+        },
+        "chapter": {
+          "en": "Section 7 Review for Prosecution"
+        }
+      },
+      {
+        "no": 347,
+        "text": {
+          "en": "Where, upon expiry of the period for supplementary investigation, the public security organ has not transferred the case for prosecution anew, the people's procuratorate shall require the public security organ to state the reasons.\nWhere a people's procuratorate discovers that the public security organ has terminated a case in violation of legal provisions, it shall put forward an opinion on correction."
+        },
+        "noLabel": {
+          "en": "Article 347."
+        },
+        "chapter": {
+          "en": "Section 7 Review for Prosecution"
+        }
+      },
+      {
+        "no": 348,
+        "text": {
+          "en": "Where a people's procuratorate decides to investigate a case itself in the course of review for prosecution, the investigation shall be concluded within the period for review for prosecution."
+        },
+        "noLabel": {
+          "en": "Article 348."
+        },
+        "chapter": {
+          "en": "Section 7 Review for Prosecution"
+        }
+      },
+      {
+        "no": 349,
+        "text": {
+          "en": "With respect to a case that has been returned to a supervisory organ for a second supplementary investigation or returned to a public security organ for a second supplementary investigation, where a people's procuratorate discovers new facts of a crime in the course of review for prosecution, it shall transfer the leads to the supervisory organ or the public security organ. With respect to facts of a crime that have already been ascertained, it shall institute public prosecution in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 349."
+        },
+        "chapter": {
+          "en": "Section 7 Review for Prosecution"
+        }
+      },
+      {
+        "no": 350,
+        "text": {
+          "en": "With respect to a case in which jurisdiction is changed during the period of review for prosecution, the people's procuratorate after the change may, for a case that meets the provisions of paragraph 2 of Article 175 of the Criminal Procedure Law, with the assistance of the people's procuratorate that originally accepted the case, directly return the case to the public security organ that investigated it for supplementary investigation, or may investigate it itself. The total number of returns for supplementary investigation before and after the change of jurisdiction shall not exceed two."
+        },
+        "noLabel": {
+          "en": "Article 350."
+        },
+        "chapter": {
+          "en": "Section 7 Review for Prosecution"
+        }
+      },
+      {
+        "no": 351,
+        "text": {
+          "en": "With respect to a case transferred for prosecution, a people's procuratorate shall make a decision within one month; in a major or complex case in which a decision cannot be made within one month, the period may be extended by fifteen days.\nWhere jurisdiction over a case under review for prosecution by a people's procuratorate is changed, the period for review for prosecution shall be counted from the date on which the people's procuratorate after the change receives the case."
+        },
+        "noLabel": {
+          "en": "Article 351."
+        },
+        "chapter": {
+          "en": "Section 7 Review for Prosecution"
+        }
+      },
+      {
+        "no": 352,
+        "text": {
+          "en": "Among the recovered property, where the lawful property of the victim does not need to be presented in court, it shall be returned to the victim promptly, the victim shall sign or seal the list of the money and articles returned and state the reasons for the return, and the list and photographs shall be attached to the file."
+        },
+        "noLabel": {
+          "en": "Article 352."
+        },
+        "chapter": {
+          "en": "Section 7 Review for Prosecution"
+        }
+      },
+      {
+        "no": 353,
+        "text": {
+          "en": "Among the recovered property, prohibited articles or articles unsuitable for long-term preservation shall be disposed of in accordance with the relevant provisions of the State, and the list, photographs and the result of the disposition shall be attached to the file."
+        },
+        "noLabel": {
+          "en": "Article 353."
+        },
+        "chapter": {
+          "en": "Section 7 Review for Prosecution"
+        }
+      },
+      {
+        "no": 354,
+        "text": {
+          "en": "At the stage of review for prosecution, a people's procuratorate may apply the investigation measures and procedures provided in these Rules."
+        },
+        "noLabel": {
+          "en": "Article 354."
+        },
+        "chapter": {
+          "en": "Section 7 Review for Prosecution"
+        }
+      },
+      {
+        "no": 355,
+        "text": {
+          "en": "Where a people's procuratorate considers that the facts of the criminal suspect's crime have been ascertained, that the evidence is reliable and sufficient and that criminal responsibility should be investigated in accordance with law, it shall make a decision to prosecute.\nFacts of a crime may be considered ascertained under any of the following circumstances:\n(1) in a case involving a single crime, where the ascertained facts are sufficient for conviction and sentencing, or the facts relating to conviction and sentencing have been ascertained while the facts that do not affect conviction and sentencing cannot be ascertained;\n(2) in a case involving several crimes, where some of the crimes have been ascertained and meet the conditions for prosecution while the other crimes cannot be ascertained;\n(3) where the instrument used to commit the crime or the whereabouts of the proceeds of the crime cannot be ascertained, but other evidence is sufficient for convicting and sentencing the defendant;\n(4) where the main circumstances in the witness testimony, the criminal suspect's statement and defence and the victim's statement are consistent and individual circumstances are inconsistent, but this does not affect conviction.\nWhere the circumstance in item 2 of the preceding paragraph exists, prosecution shall be instituted for the crimes that have been ascertained."
+        },
+        "noLabel": {
+          "en": "Article 355."
+        },
+        "chapter": {
+          "en": "Section 8 Institution of Prosecution"
+        }
+      },
+      {
+        "no": 356,
+        "text": {
+          "en": "Where, in handling a case transferred for prosecution by a public security organ, a people's procuratorate discovers an omitted crime, or discovers that a co-defendant criminal suspect who should be transferred for prosecution in accordance with law has not been transferred for prosecution, it shall require the public security organ to conduct supplementary investigation or to transfer the case for prosecution in supplementation. Where the facts of the crime are clear and the evidence is reliable and sufficient, it may also directly institute public prosecution."
+        },
+        "noLabel": {
+          "en": "Article 356."
+        },
+        "chapter": {
+          "en": "Section 8 Institution of Prosecution"
+        }
+      },
+      {
+        "no": 357,
+        "text": {
+          "en": "Where a people's procuratorate, at the time of filing and investigating a case, considered it to be a case investigated directly upon acceptance, and at the stage of review for prosecution discovers that it falls within the jurisdiction of a supervisory organ, it shall promptly consult the supervisory organ on handling the matter. Where the case falls within the jurisdiction of a public security organ and the facts of the case are clear, the evidence is reliable and sufficient and the conditions for prosecution are met, it may directly institute prosecution; where the facts are unclear and the evidence is insufficient, it shall promptly transfer the case to the organ with jurisdiction for handling.\nWhere at the stage of review for prosecution it is discovered that a case transferred for prosecution by a public security organ falls within the jurisdiction of a supervisory organ, or that a case transferred for prosecution by a supervisory organ falls within the jurisdiction of a public security organ, but the facts of the case are clear, the evidence is reliable and sufficient and the conditions for prosecution are met, the people's procuratorate may, after seeking the opinions of the supervisory organ and the public security organ, directly institute prosecution where there are no differing opinions; where differing opinions are raised, or where the facts are unclear and the evidence is insufficient, it shall return the case to the organ that transferred it, state the reasons and recommend that it be transferred to the organ with jurisdiction for handling."
+        },
+        "noLabel": {
+          "en": "Article 357."
+        },
+        "chapter": {
+          "en": "Section 8 Institution of Prosecution"
+        }
+      },
+      {
+        "no": 358,
+        "text": {
+          "en": "Where a people's procuratorate decides to prosecute, it shall prepare a bill of prosecution.\nThe bill of prosecution shall mainly include:\n(1) the basic information of the defendant, including name, sex, date of birth, place of birth, place of household registration, citizen identity number, ethnicity, level of education, occupation, work unit and position, address, whether he has previously received a criminal sanction and the type and time of the sanction, and the circumstances of the compulsory measures taken; in the case of a unit crime, the name, organisation code, address and contact information of the criminal unit and the names, positions and contact information of its legal representative and representative in the proceedings shall be stated; where there are also directly responsible persons in charge or other directly responsible persons who should bear criminal responsibility, they shall be described according to the content of the basic information of the defendant set out above;\n(2) the cause of action and the origin of the case;\n(3) the facts of the case, including the time, place, process, means, motive, purpose and harmful consequences of the crime and other factual elements relating to conviction and sentencing. The essential elements of the facts of the alleged crime stated in the bill of prosecution shall be clear and accurate. Where the defendant is charged with several facts of crimes, they shall be listed one by one, and the same crime committed by the same criminal means may be described in a summary manner;\n(4) the basis and reasons for prosecution, including the provisions of the Criminal Law violated by the defendant, the nature of the crime and the charge determined, the provisions on penalty, the statutory circumstances of lighter, mitigated or heavier punishment, and the criminal responsibility to be borne by each defendant in a joint crime;\n(5) the circumstances of the defendant's pleading guilty and accepting punishment, including the content of the plea and acceptance of punishment and the signing of the written statement.\nWhere the true name and address of the defendant cannot be ascertained, the bill of prosecution may be prepared according to his alias or the name and address he gives himself, and this shall be noted in the bill of prosecution. Where the name given by the defendant himself may cause an adverse effect such as damaging another person's reputation or corrupting moral custom, the defendant may be assigned a number and the bill of prosecution prepared according to the number, with a photograph of the defendant attached and a note of the matters sufficient to identify the defendant's facial appearance, physique, fingerprints and other features.\nThe bill of prosecution shall be accompanied by the defendant's current whereabouts, the list of witnesses, appraisers and persons with specialised knowledge who need to appear in court, the list of assumed names of victims, witnesses and appraisers who need protection, the list of property and its fruits that have been sealed up, seized or frozen, the circumstances of any incidental civil action and incidental civil public interest action, and other circumstances requiring annotation.\nThe list of witnesses, appraisers and persons with specialised knowledge shall state their names, sex, age, occupation, addresses and contact information, and shall note whether the witnesses and appraisers will appear in court."
+        },
+        "noLabel": {
+          "en": "Article 358."
+        },
+        "chapter": {
+          "en": "Section 8 Institution of Prosecution"
+        }
+      },
+      {
+        "no": 359,
+        "text": {
+          "en": "Where a people's procuratorate institutes public prosecution, it shall transfer the bill of prosecution, the case file materials, the evidence and the written statement of pleading guilty and accepting punishment and other materials to the people's court.\nThe bill of prosecution shall be in eight copies, and five additional copies of the bill of prosecution shall be added for each additional defendant.\nWith respect to matters such as the names, addresses and contact information of victims, the types of compulsory measures taken against the defendant, and whether the defendant is present and the place of custody, the people's procuratorate shall state them in the bill of prosecution and shall not transfer separate materials; where personal information such as the names, addresses, work units and contact information of witnesses, appraisers and victims should not be disclosed because it involves the privacy of the victim or in order to protect the personal safety of witnesses, appraisers and victims, assumed names may be used in the bill of prosecution. However, the circumstances of the use of assumed names shall be explained separately in writing and the level of confidentiality marked, in a separate volume."
+        },
+        "noLabel": {
+          "en": "Article 359."
+        },
+        "chapter": {
+          "en": "Section 8 Institution of Prosecution"
+        }
+      },
+      {
+        "no": 360,
+        "text": {
+          "en": "With respect to materials showing that a criminal suspect, defendant or witness has retracted a confession or testimony, and other evidence materials favourable to the criminal suspect or defendant, a people's procuratorate shall transfer them to the people's court."
+        },
+        "noLabel": {
+          "en": "Article 360."
+        },
+        "chapter": {
+          "en": "Section 8 Institution of Prosecution"
+        }
+      },
+      {
+        "no": 361,
+        "text": {
+          "en": "Where a people's court submits written opinions to a people's procuratorate requesting supplementary transfer of materials, and the people's procuratorate considers it necessary to transfer them, it shall transfer them within three days from the date of receiving the notice."
+        },
+        "noLabel": {
+          "en": "Article 361."
+        },
+        "chapter": {
+          "en": "Section 8 Institution of Prosecution"
+        }
+      },
+      {
+        "no": 362,
+        "text": {
+          "en": "With respect to evidence materials collected in supplementation after public prosecution is instituted and before a people's court pronounces a judgment, a people's procuratorate shall promptly transfer them to the people's court."
+        },
+        "noLabel": {
+          "en": "Article 362."
+        },
+        "chapter": {
+          "en": "Section 8 Institution of Prosecution"
+        }
+      },
+      {
+        "no": 363,
+        "text": {
+          "en": "During the period of review for prosecution, a people's procuratorate may, upon the application of the defender, obtain from the supervisory organ or the public security organ the evidence materials proving the innocence or minor crime of the criminal suspect or defendant that were collected during the investigation."
+        },
+        "noLabel": {
+          "en": "Article 363."
+        },
+        "chapter": {
+          "en": "Section 8 Institution of Prosecution"
+        }
+      },
+      {
+        "no": 364,
+        "text": {
+          "en": "Where a people's procuratorate institutes public prosecution, it may put forward a sentencing recommendation to the people's court. Except where there are circumstances of mitigated punishment or exemption from punishment, the sentencing recommendation shall be put forward within the statutory range of sentencing. Where imprisonment for a fixed term, control or criminal detention is recommended, the recommendation may set a certain range or may propose a specific determinate recommendation.\nWhere a sentencing recommendation is put forward, a written sentencing recommendation may be prepared and transferred together with the bill of prosecution to the people's court. The written sentencing recommendation shall mainly include the statutory penalty for the crime committed by the defendant, the sentencing circumstances, the type and range of penalty recommended to be imposed on the defendant by the people's court, the applicable method of executing the penalty, and the basis and reasons for the sentencing recommendation.\nThe sentencing recommendation in a case of pleading guilty and accepting punishment shall be handled in accordance with the provisions of Section 2 of this Chapter."
+        },
+        "noLabel": {
+          "en": "Article 364."
+        },
+        "chapter": {
+          "en": "Section 8 Institution of Prosecution"
+        }
+      },
+      {
+        "no": 365,
+        "text": {
+          "en": "Where, with respect to a case transferred for prosecution by a supervisory organ or a public security organ, a people's procuratorate discovers that the criminal suspect committed no criminal act, or that any of the circumstances specified in Article 16 of the Criminal Procedure Law exists, it shall, with the approval of the chief procurator, make a decision not to prosecute.\nWhere the facts of the crime were not committed by the criminal suspect and a fresh investigation is needed, the people's procuratorate shall, after making the decision not to prosecute, explain the reasons in writing, return the case file materials to the supervisory organ or the public security organ and recommend a fresh investigation."
+        },
+        "noLabel": {
+          "en": "Article 365."
+        },
+        "chapter": {
+          "en": "Section 9 Non-Prosecution"
+        }
+      },
+      {
+        "no": 366,
+        "text": {
+          "en": "Where, with respect to a case transferred for prosecution by the department responsible for investigation of the same procuratorate, the department responsible for arrest and prosecution discovers a circumstance specified in paragraph 1 of Article 365 of these Rules, it shall return the case to the department responsible for investigation of the same procuratorate and recommend termination of the case."
+        },
+        "noLabel": {
+          "en": "Article 366."
+        },
+        "chapter": {
+          "en": "Section 9 Non-Prosecution"
+        }
+      },
+      {
+        "no": 367,
+        "text": {
+          "en": "With respect to a case returned for a second supplementary investigation, where a people's procuratorate still considers that the evidence is insufficient and that the conditions for prosecution are not met, it shall, with the approval of the chief procurator, make a decision not to prosecute in accordance with law.\nWith respect to a case returned once for supplementary investigation, where a people's procuratorate considers that the evidence is insufficient, that the conditions for prosecution are not met and that there is no need to return the case for a second supplementary investigation, it may, with the approval of the chief procurator, make a decision not to prosecute."
+        },
+        "noLabel": {
+          "en": "Article 367."
+        },
+        "chapter": {
+          "en": "Section 9 Non-Prosecution"
+        }
+      },
+      {
+        "no": 368,
+        "text": {
+          "en": "Where any of the following circumstances exists and it cannot be determined that the criminal suspect has committed a crime and that criminal responsibility needs to be investigated, the evidence shall be regarded as insufficient and the conditions for prosecution as not met:\n(1) the facts constituting the elements of the crime lack the necessary evidence for proof;\n(2) the evidence on which conviction is based is doubtful and cannot be verified as true;\n(3) contradictions among the evidence on which conviction is based, or between the evidence and the facts of the case, cannot be reasonably eliminated;\n(4) the conclusion drawn from the evidence admits other possibilities and reasonable doubt cannot be excluded;\n(5) the determination of the facts of the case on the basis of the evidence does not conform to logic and the rules of experience, and the conclusion drawn is obviously contrary to common sense."
+        },
+        "noLabel": {
+          "en": "Article 368."
+        },
+        "chapter": {
+          "en": "Section 9 Non-Prosecution"
+        }
+      },
+      {
+        "no": 369,
+        "text": {
+          "en": "Where a people's procuratorate decides not to prosecute in accordance with paragraph 4 of Article 175 of the Criminal Procedure Law, it may institute public prosecution when new evidence is discovered and the conditions for prosecution are met."
+        },
+        "noLabel": {
+          "en": "Article 369."
+        },
+        "chapter": {
+          "en": "Section 9 Non-Prosecution"
+        }
+      },
+      {
+        "no": 370,
+        "text": {
+          "en": "Where the circumstances of the crime are minor and, under the Criminal Law, no penalty is required or exemption from penalty applies, a people's procuratorate may, with the approval of the chief procurator, make a decision not to prosecute."
+        },
+        "noLabel": {
+          "en": "Article 370."
+        },
+        "chapter": {
+          "en": "Section 9 Non-Prosecution"
+        }
+      },
+      {
+        "no": 371,
+        "text": {
+          "en": "Where a people's procuratorate intends to make a decision not to prosecute in a case investigated directly upon acceptance by it or in a case transferred for prosecution by a supervisory organ, it shall report the matter to the people's procuratorate at the next higher level for approval."
+        },
+        "noLabel": {
+          "en": "Article 371."
+        },
+        "chapter": {
+          "en": "Section 9 Non-Prosecution"
+        }
+      },
+      {
+        "no": 372,
+        "text": {
+          "en": "Where a people's procuratorate decides not to prosecute, it shall prepare a written decision not to prosecute.\nThe written decision not to prosecute shall mainly include:\n(1) the basic information of the person not prosecuted, including name, sex, date of birth, place of birth, place of household registration, citizen identity number, ethnicity, level of education, occupation, work unit and position, address, whether he has previously received a criminal sanction, the circumstances of the compulsory measures taken and the place of custody; in the case of a unit crime, the name, organisation code, address and contact information of the criminal unit and the names, positions and contact information of its legal representative and representative in the proceedings shall be stated;\n(2) the cause of action and the origin of the case;\n(3) the facts of the case, including the facts denying or alleging that the person not prosecuted has committed a crime and the facts on which the decision not to prosecute is based;\n(4) the legal basis and reasons for not prosecuting, stating the legal provisions applied in making the decision not to prosecute;\n(5) the disposition of the property involved in the case that has been sealed up, seized or frozen;\n(6) the relevant matters to be notified."
+        },
+        "noLabel": {
+          "en": "Article 372."
+        },
+        "chapter": {
+          "en": "Section 9 Non-Prosecution"
+        }
+      },
+      {
+        "no": 373,
+        "text": {
+          "en": "In a case in which a people's procuratorate decides not to prosecute, it may, according to the different circumstances of the case, admonish the person not prosecuted or order him to make a statement of repentance, to apologise or to compensate the loss.\nWhere the person not prosecuted needs to be given an administrative sanction, a disciplinary sanction for public officials or another sanction, the people's procuratorate shall, with the approval of the chief procurator, put forward a procuratorial opinion and transfer it together with the written decision not to prosecute to the competent organ for handling, and shall require the competent organ to report the handling promptly."
+        },
+        "noLabel": {
+          "en": "Article 373."
+        },
+        "chapter": {
+          "en": "Section 9 Non-Prosecution"
+        }
+      },
+      {
+        "no": 374,
+        "text": {
+          "en": "In a case in which a people's procuratorate decides not to prosecute, it shall at the same time notify in writing the organ that made the decision to seal up, seize or freeze, or the organ that executed the decision to seal up, seize or freeze, to lift the sealing up, seizure or freeze."
+        },
+        "noLabel": {
+          "en": "Article 374."
+        },
+        "chapter": {
+          "en": "Section 9 Non-Prosecution"
+        }
+      },
+      {
+        "no": 375,
+        "text": {
+          "en": "In a case in which a people's procuratorate decides not to prosecute, where illegal gains need to be confiscated, a procuratorial opinion shall, with the approval of the chief procurator, be put forward and transferred to the competent organ for handling, and the competent organ shall be required to report the handling promptly. The specific procedure may be handled with reference to the provisions of Article 248 of these Rules."
+        },
+        "noLabel": {
+          "en": "Article 375."
+        },
+        "chapter": {
+          "en": "Section 9 Non-Prosecution"
+        }
+      },
+      {
+        "no": 376,
+        "text": {
+          "en": "The decision not to prosecute shall be publicly announced by the people's procuratorate. The activity of publicly announcing the decision not to prosecute shall be recorded in the case file.\nThe written decision not to prosecute shall take effect from the date of public announcement.\nWhere the person not prosecuted is in custody, he shall be released immediately; where other compulsory measures have been taken, the executing organ shall be notified to lift them."
+        },
+        "noLabel": {
+          "en": "Article 376."
+        },
+        "chapter": {
+          "en": "Section 9 Non-Prosecution"
+        }
+      },
+      {
+        "no": 377,
+        "text": {
+          "en": "The written decision not to prosecute shall be served on the victim or his close relatives and their agents ad litem, on the person not prosecuted and his defender, and on the unit where the person not prosecuted works. At the time of service, the victim or his close relatives and their agents ad litem shall be informed that, if they are dissatisfied with the decision not to prosecute, they may, within seven days after receiving the written decision not to prosecute, petition the people's procuratorate at the next higher level, or may institute an action directly in the people's court without petitioning. Where a decision not to prosecute is made in accordance with paragraph 2 of Article 177 of the Criminal Procedure Law, the person not prosecuted shall be informed that, if he is dissatisfied with the decision not to prosecute, he may, within seven days after receiving the written decision not to prosecute, petition the people's procuratorate."
+        },
+        "noLabel": {
+          "en": "Article 377."
+        },
+        "chapter": {
+          "en": "Section 9 Non-Prosecution"
+        }
+      },
+      {
+        "no": 378,
+        "text": {
+          "en": "With respect to a case transferred for prosecution by a supervisory organ or a public security organ, where a people's procuratorate decides not to prosecute, it shall serve the written decision not to prosecute on the supervisory organ or the public security organ."
+        },
+        "noLabel": {
+          "en": "Article 378."
+        },
+        "chapter": {
+          "en": "Section 9 Non-Prosecution"
+        }
+      },
+      {
+        "no": 379,
+        "text": {
+          "en": "Where a supervisory organ considers that a decision not to prosecute is erroneous and submits a request for reconsideration to the people's procuratorate at the next higher level, the people's procuratorate at the next higher level shall, within thirty days after receiving the written opinion requesting reconsideration and upon approval by the chief procurator, make a reconsideration decision and notify the supervisory organ.\nWhere a public security organ considers that a decision not to prosecute is erroneous and requests reconsideration, the department responsible for arrest and prosecution of the people's procuratorate shall assign another prosecutor or prosecutor case-handling team to conduct the review and, within thirty days after receiving the written opinion requesting reconsideration and upon approval by the chief procurator, make a reconsideration decision and notify the public security organ."
+        },
+        "noLabel": {
+          "en": "Article 379."
+        },
+        "chapter": {
+          "en": "Section 9 Non-Prosecution"
+        }
+      },
+      {
+        "no": 380,
+        "text": {
+          "en": "Where a public security organ submits a request for review of a decision not to prosecute, the people's procuratorate at the next higher level shall, within thirty days after receiving the written opinion requesting review and upon approval by the chief procurator, make a review decision and notify the public security organ requesting review and the people's procuratorate at the lower level. Where, upon review, it considers that the decision not to prosecute of the people's procuratorate at the lower level is erroneous, it shall instruct the people's procuratorate at the lower level to correct it, or revoke or change the decision not to prosecute made by the people's procuratorate at the lower level."
+        },
+        "noLabel": {
+          "en": "Article 380."
+        },
+        "chapter": {
+          "en": "Section 9 Non-Prosecution"
+        }
+      },
+      {
+        "no": 381,
+        "text": {
+          "en": "Where a victim is dissatisfied with a decision not to prosecute and submits a petition within seven days after receiving the written decision not to prosecute, the case shall be re-examined by the department responsible for arrest and prosecution of the people's procuratorate at the next higher level of the people's procuratorate that made the decision not to prosecute.\nWhere a victim submits a petition to the people's procuratorate that made the decision not to prosecute, the people's procuratorate that made the decision shall report the petition materials together with the case file to the people's procuratorate at the next higher level."
+        },
+        "noLabel": {
+          "en": "Article 381."
+        },
+        "chapter": {
+          "en": "Section 9 Non-Prosecution"
+        }
+      },
+      {
+        "no": 382,
+        "text": {
+          "en": "Where a victim is dissatisfied with a decision not to prosecute and submits a petition more than seven days after receiving the written decision not to prosecute, the case shall be examined by the department responsible for complaint and petition prosecution of the people's procuratorate that made the decision not to prosecute. Where, upon examination, it considers that the decision not to prosecute is correct, it shall issue a review conclusion and reply directly to the petitioner, and properly explain the law and the reasoning; where it considers that the decision not to prosecute may be erroneous, it shall transfer the case to the department responsible for arrest and prosecution for re-examination."
+        },
+        "noLabel": {
+          "en": "Article 382."
+        },
+        "chapter": {
+          "en": "Section 9 Non-Prosecution"
+        }
+      },
+      {
+        "no": 383,
+        "text": {
+          "en": "A people's procuratorate shall serve the written re-examination decision on the victim, the person not prosecuted and the people's procuratorate that made the decision not to prosecute.\nWhere, upon re-examination, a people's procuratorate at a higher level makes a decision to prosecute, it shall revoke the decision not to prosecute of the people's procuratorate at the lower level and hand the case over to the people's procuratorate at the lower level for public prosecution, and shall send a copy of the re-examination decision to the supervisory organ or the public security organ that transferred the case for prosecution."
+        },
+        "noLabel": {
+          "en": "Article 383."
+        },
+        "chapter": {
+          "en": "Section 9 Non-Prosecution"
+        }
+      },
+      {
+        "no": 384,
+        "text": {
+          "en": "After a people's procuratorate receives notice that a people's court has accepted an action brought by a victim against the person not prosecuted, it shall terminate the re-examination and transfer to the people's court the relevant case file materials on which the decision not to prosecute was based."
+        },
+        "noLabel": {
+          "en": "Article 384."
+        },
+        "chapter": {
+          "en": "Section 9 Non-Prosecution"
+        }
+      },
+      {
+        "no": 385,
+        "text": {
+          "en": "With respect to a decision not to prosecute made by a people's procuratorate in accordance with paragraph 2 of Article 177 of the Criminal Procedure Law, where the person not prosecuted is dissatisfied and submits a petition within seven days after receiving the written decision not to prosecute, the case shall be re-examined by the department responsible for arrest and prosecution of the people's procuratorate that made the decision; where the person not prosecuted submits a petition more than seven days after receiving the written decision not to prosecute, the case shall be examined by the department responsible for complaint and petition prosecution. Where, upon examination, it considers that the decision not to prosecute is correct, it shall issue a review conclusion and reply directly to the petitioner, and properly explain the law and the reasoning; where it considers that the decision not to prosecute may be erroneous, it shall transfer the case to the department responsible for arrest and prosecution for re-examination.\nA people's procuratorate shall serve the written re-examination decision on the person not prosecuted and the victim. Where, after re-examination, the decision not to prosecute is revoked and the facts or the legal basis of the decision not to prosecute are changed, a copy of the written re-examination decision shall at the same time be sent to the supervisory organ or the public security organ that transferred the case for prosecution."
+        },
+        "noLabel": {
+          "en": "Article 385."
+        },
+        "chapter": {
+          "en": "Section 9 Non-Prosecution"
+        }
+      },
+      {
+        "no": 386,
+        "text": {
+          "en": "In re-examining a petition against a decision not to prosecute, a people's procuratorate shall, within three months after filing the case and upon approval by the chief procurator, make a re-examination decision. Where the circumstances of the case are complex, the period shall not exceed six months."
+        },
+        "noLabel": {
+          "en": "Article 386."
+        },
+        "chapter": {
+          "en": "Section 9 Non-Prosecution"
+        }
+      },
+      {
+        "no": 387,
+        "text": {
+          "en": "Where a victim or a person not prosecuted is dissatisfied with a decision not to prosecute and submits a petition, he shall submit a written petition stating the reasons for the petition. Where he is unable to write, he may also submit the petition orally. A people's procuratorate shall make a record on the basis of the oral petition."
+        },
+        "noLabel": {
+          "en": "Article 387."
+        },
+        "chapter": {
+          "en": "Section 9 Non-Prosecution"
+        }
+      },
+      {
+        "no": 388,
+        "text": {
+          "en": "Where a people's procuratorate discovers that a decision not to prosecute is indeed erroneous and that the conditions for prosecution are met, it shall revoke the decision not to prosecute and institute public prosecution."
+        },
+        "noLabel": {
+          "en": "Article 388."
+        },
+        "chapter": {
+          "en": "Section 9 Non-Prosecution"
+        }
+      },
+      {
+        "no": 389,
+        "text": {
+          "en": "Where the Supreme People's Procuratorate discovers that a decision to prosecute or not to prosecute of a people's procuratorate at any local level is indeed erroneous, or where a people's procuratorate at a higher level discovers that a decision to prosecute or not to prosecute of a people's procuratorate at a lower level is indeed erroneous, it shall revoke it or instruct the people's procuratorate at the lower level to correct it."
+        },
+        "noLabel": {
+          "en": "Article 389."
+        },
+        "chapter": {
+          "en": "Section 9 Non-Prosecution"
+        }
+      },
+      {
+        "no": 390,
+        "text": {
+          "en": "In a case in which public prosecution has been instituted, the people's procuratorate shall send personnel to appear before the court of first instance as public prosecutor on behalf of the State to support the public prosecution.\nThe public prosecutor shall be a prosecutor. An assistant prosecutor may assist the prosecutor in appearing in court. Where necessary, a clerk may be assigned to act as recorder."
+        },
+        "noLabel": {
+          "en": "Article 390."
+        },
+        "chapter": {
+          "en": "Section 1 Attendance at First-Instance Court"
+        }
+      },
+      {
+        "no": 391,
+        "text": {
+          "en": "With respect to a case in which the people's court changes jurisdiction after public prosecution is instituted, the people's procuratorate that instituted the public prosecution shall, with reference to Article 328 of these Rules, transfer the case to the people's procuratorate corresponding to the trial jurisdiction.\nWhere the people's procuratorate that receives the transferred case reviews the case anew, the period for review for prosecution shall, in accordance with paragraph 2 of Article 172 of the Criminal Procedure Law, be counted from the date on which it receives the case."
+        },
+        "noLabel": {
+          "en": "Article 391."
+        },
+        "chapter": {
+          "en": "Section 1 Attendance at First-Instance Court"
+        }
+      },
+      {
+        "no": 392,
+        "text": {
+          "en": "Where a people's court decides to hold a court session, the public prosecutor shall make the following preparations:\n(1) becoming further familiar with the circumstances of the case and mastering the state of the evidence;\n(2) studying in depth the legal and policy issues relating to the case;\n(3) enriching the specialised knowledge that may be involved in the trial;\n(4) drawing up a plan for interrogating the defendant, inquiring of witnesses, appraisers and persons with specialised knowledge, and reading out, presenting and playing evidence, and formulating a plan for cross-examination;\n(5) where disputes over the legality of evidence may arise, drawing up an outline for proving the legality of the evidence and preparing the relevant materials;\n(6) drawing up the public prosecution opinion and preparing an outline for debate;\n(7) making the relevant preparations where suggestions need to be made to the people's court on the protection of witnesses appearing in court or where work needs to be coordinated."
+        },
+        "noLabel": {
+          "en": "Article 392."
+        },
+        "chapter": {
+          "en": "Section 1 Attendance at First-Instance Court"
+        }
+      },
+      {
+        "no": 393,
+        "text": {
+          "en": "Where, before the court session, a people's procuratorate receives written materials from a people's court, or from a defendant and his defender, a victim, a witness or others, reflecting that evidence was unlawfully obtained, it shall examine them. Where the matter was already raised during review for arrest or review for prosecution and it has been verified that no unlawful obtaining of evidence occurred, it shall notify the people's court, the parties concerned and the defender, and make preparations for the court session according to the result of the verification. With respect to new materials or leads, it may require the supervisory organ or the public security organ to explain the lawfulness of the collection of evidence or to provide the relevant certification materials."
+        },
+        "noLabel": {
+          "en": "Article 393."
+        },
+        "chapter": {
+          "en": "Section 1 Attendance at First-Instance Court"
+        }
+      },
+      {
+        "no": 394,
+        "text": {
+          "en": "Where a people's court notifies a people's procuratorate to send personnel to participate in a pre-trial conference, the public prosecutor appearing in court shall participate. An assistant prosecutor may assist. Where necessary, a clerk may be assigned to act as recorder.\nWhere a people's procuratorate considers it necessary to hold a pre-trial conference, it may suggest that the people's court hold one."
+        },
+        "noLabel": {
+          "en": "Article 394."
+        },
+        "chapter": {
+          "en": "Section 1 Attendance at First-Instance Court"
+        }
+      },
+      {
+        "no": 395,
+        "text": {
+          "en": "At a pre-trial conference, the public prosecutor may raise and exchange opinions on questions relating to the trial, such as the jurisdiction of the case, withdrawal, the list of witnesses, appraisers and persons with specialised knowledge appearing in court, the evidence of innocence provided by the defender, exclusion of illegally obtained evidence, closed trial, postponement of trial, application of the summary procedure or the procedure for expedited adjudication, and the plan for the court session, and may learn about the evidence collected by the defender and other circumstances.\nWhere the public prosecutor objects to evidence collected by the defender, he shall raise the objection and briefly state the reasons.\nBy participating in the pre-trial conference, the public prosecutor shall learn about the disputes and differing opinions on the facts of the case, the evidence and the application of law, resolve the relevant procedural issues, and make preparations for participating in the court hearing."
+        },
+        "noLabel": {
+          "en": "Article 395."
+        },
+        "chapter": {
+          "en": "Section 1 Attendance at First-Instance Court"
+        }
+      },
+      {
+        "no": 396,
+        "text": {
+          "en": "Where a party, a defender or an agent ad litem claims at a pre-trial conference that evidence was unlawfully obtained and the people's court considers that a circumstance of collecting evidence by unlawful methods may exist, the people's procuratorate shall explain the lawfulness of the collection of the evidence. Where investigation and verification are needed, they shall be carried out before the court session."
+        },
+        "noLabel": {
+          "en": "Article 396."
+        },
+        "chapter": {
+          "en": "Section 1 Attendance at First-Instance Court"
+        }
+      },
+      {
+        "no": 397,
+        "text": {
+          "en": "After a people's procuratorate has transferred all the case file materials to a people's court, where the public prosecutor needs to present, read out or play the relevant evidence in the course of the court hearing, he may apply to the court to present, read out or play it.\nOn the basis of the need to prepare for appearing in court and to present evidence at trial, a people's procuratorate may take back the relevant case file materials and evidence.\nAfter the case file materials and evidence are taken back, where a defence lawyer requests to consult the case file materials, the defence lawyer shall be permitted to consult, extract and reproduce the case file materials at the people's procuratorate."
+        },
+        "noLabel": {
+          "en": "Article 397."
+        },
+        "chapter": {
+          "en": "Section 1 Attendance at First-Instance Court"
+        }
+      },
+      {
+        "no": 398,
+        "text": {
+          "en": "In court, the public prosecutor shall carry out the following activities in accordance with law:\n(1) reading out the bill of prosecution, charging the crime on behalf of the State and requesting the people's court to try the defendant in accordance with law;\n(2) interrogating the defendant;\n(3) inquiring of witnesses, victims and appraisers;\n(4) applying to the court to present material evidence, to read out documentary evidence, records of testimony of witnesses who did not appear in court, appraisal opinions of appraisers, records of inquest, examination, identification and investigative experiment and other documents used as evidence, and to play audio-visual materials, electronic data and so on used as evidence;\n(5) expressing opinions on the admission of evidence, the application of law and the circumstances of the case, putting forward sentencing recommendations and the reasons, replying to the defence opinions of the defendant and the defender, and comprehensively stating the public prosecution opinion;\n(6) safeguarding the lawful rights of participants in the proceedings;\n(7) noting in a record whether the court violated legal provisions on procedure in trying the case;\n(8) engaging in other litigation activities in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 398."
+        },
+        "chapter": {
+          "en": "Section 1 Attendance at First-Instance Court"
+        }
+      },
+      {
+        "no": 399,
+        "text": {
+          "en": "In the court hearing, the public prosecutor shall objectively, comprehensively and impartially present to the court the evidence relating to conviction and sentencing that proves the defendant's guilt, the gravity of the crime or the minor nature of the crime.\nAt the request of the presiding judge, or with his permission, the public prosecutor may present and cross-examine evidence in the following ways:\n(1) key evidence that may affect conviction and sentencing and evidence over which the prosecution and the defence are in dispute shall generally be presented and cross-examined individually;\n(2) evidence that does not affect conviction and sentencing and over which the prosecution and the defence have no objection may be presented by stating only the name of the evidence and the matters and content it proves;\n(3) evidence with the same direction of proof, similar content of proof or of the same type, which is internally logically related, may be presented and cross-examined in categories or groups.\nWhen presenting evidence, the public prosecutor may present, play or demonstrate the content of the evidence with the aid of multimedia equipment and other means.\nWhere evidence of conviction and evidence of sentencing need to be separated, they shall be presented separately."
+        },
+        "noLabel": {
+          "en": "Article 399."
+        },
+        "chapter": {
+          "en": "Section 1 Attendance at First-Instance Court"
+        }
+      },
+      {
+        "no": 400,
+        "text": {
+          "en": "The interrogation of the defendant by the public prosecutor, the inquiry of witnesses, victims and appraisers, and the presentation of material evidence and the reading out of documentary evidence and records of testimony of witnesses who did not appear in court shall be conducted around the following facts:\n(1) the identity of the defendant;\n(2) whether the alleged facts of the crime exist and whether they were committed by the defendant;\n(3) the time, place, method, means and result of the criminal conduct, and the defendant's conduct after the crime;\n(4) the respective status and responsibility of the persons participating in the crime in a criminal group or other joint crime case;\n(5) whether the defendant has the capacity for criminal responsibility, whether there was intent or negligence, and the motive and purpose of the conduct;\n(6) whether there are circumstances in which criminal responsibility should not be investigated in accordance with law, and whether there are statutory circumstances of heavier punishment or of lighter, mitigated or exempted punishment;\n(7) the main features of the object of the crime and of the instrument used to commit it, and the source, quantity and whereabouts of the property related to the crime;\n(8) where the defendant wholly or partly denies the facts of the crime alleged in the bill of prosecution, whether the basis and reasons for the denial are tenable;\n(9) other facts relating to conviction and sentencing."
+        },
+        "noLabel": {
+          "en": "Article 400."
+        },
+        "chapter": {
+          "en": "Section 1 Attendance at First-Instance Court"
+        }
+      },
+      {
+        "no": 401,
+        "text": {
+          "en": "In the court hearing, the following facts need not be proved by evidence:\n(1) facts of common knowledge known generally to ordinary persons;\n(2) facts confirmed by a legally effective judgment or ruling of a people's court and not retried under the procedure for trial supervision;\n(3) the content and application of laws and regulations and other facts that judicial officers should know in the performance of their duties;\n(4) procedural facts over which there is no dispute in the court hearing;\n(5) facts presumed by law;\n(6) laws of nature or scientific laws."
+        },
+        "noLabel": {
+          "en": "Article 401."
+        },
+        "chapter": {
+          "en": "Section 1 Attendance at First-Instance Court"
+        }
+      },
+      {
+        "no": 402,
+        "text": {
+          "en": "In interrogating a defendant or inquiring of a witness, leading questions that may affect the objective truthfulness of the statement or testimony and other improper questioning methods shall not be used.\nWhere a leading question or other improper question put by a defender to a defendant or witness may affect the objective truthfulness of the statement or testimony, the public prosecutor may request the presiding judge to stop it or to decline to admit the statement or testimony.\nThe interrogation of defendants and the inquiry of witnesses in a joint crime case shall be conducted separately.\nWhere the statements of a defendant, a witness and a victim on the same fact are contradictory, the public prosecutor may suggest that the court summon the relevant defendant and notify the relevant witness to appear in court simultaneously for confrontation and may, where necessary, suggest that the court inquire of the victim."
+        },
+        "noLabel": {
+          "en": "Article 402."
+        },
+        "chapter": {
+          "en": "Section 1 Attendance at First-Instance Court"
+        }
+      },
+      {
+        "no": 403,
+        "text": {
+          "en": "Where the statement of the defendant at the court hearing is consistent with his confession during investigation and review for prosecution, or the inconsistent parts do not affect conviction and sentencing, the record of the defendant's confession need not be read out.\nWhere the statement of the defendant at the court hearing is inconsistent with his confession during investigation and review for prosecution to an extent sufficient to affect conviction and sentencing, the record of the defendant's confession may be read out and the defendant may be interrogated with respect to the content of his confession in the record, or other evidence may be presented to prove the matter."
+        },
+        "noLabel": {
+          "en": "Article 403."
+        },
+        "chapter": {
+          "en": "Section 1 Attendance at First-Instance Court"
+        }
+      },
+      {
+        "no": 404,
+        "text": {
+          "en": "Where the public prosecutor objects to a witness's testimony and the testimony has a major impact on conviction and sentencing in the case, the public prosecutor may apply to the people's court to notify the witness to appear in court and testify.\nThe preceding paragraph shall apply where a people's police officer appears in court as a witness to testify about the circumstances of a crime he witnessed in the performance of his duties.\nWhere the public prosecutor objects to an appraisal opinion, he may apply to the people's court to notify the appraiser to appear in court and testify. Where, upon notification by the people's court, the appraiser refuses to appear in court and testify, the public prosecutor may suggest that the court decline to admit the appraisal opinion as the basis for deciding the case, or may apply to the court to notify the appraiser anew to appear in court and testify or apply for a fresh appraisal.\nWhere necessary, the public prosecutor may apply to the court to notify a person with specialised knowledge to appear in court and put forward opinions on the appraisal opinion given by the appraiser.\nWhere a party, a defender or an agent ad litem objects to witness testimony or an appraisal opinion, the public prosecutor may, where he considers it necessary, apply to the people's court to notify the witness or appraiser to appear in court and testify."
+        },
+        "noLabel": {
+          "en": "Article 404."
+        },
+        "chapter": {
+          "en": "Section 1 Attendance at First-Instance Court"
+        }
+      },
+      {
+        "no": 405,
+        "text": {
+          "en": "Witnesses shall be notified by the people's court, which shall be responsible for arranging their appearance in court to testify.\nWith respect to the record of testimony of a witness who, having been notified by the people's court, did not appear in court, or of a witness who refused to testify after appearing in court, the public prosecutor shall read it out in court.\nWhere there are doubts about the record of testimony of a witness who, having been notified by the people's court, did not appear in court, and the witness genuinely needs to appear in court and testify and may be compelled to appear, the public prosecutor shall suggest that the people's court compel the witness to appear in court to testify and be cross-examined."
+        },
+        "noLabel": {
+          "en": "Article 405."
+        },
+        "chapter": {
+          "en": "Section 1 Attendance at First-Instance Court"
+        }
+      },
+      {
+        "no": 406,
+        "text": {
+          "en": "Where a witness gives testimony in court, the public prosecutor shall put questions to the witness in the order determined by the presiding judge. He may require the witness to state the facts relating to the case of which he is aware, or may put questions directly.\nWhere a witness is unable to make a coherent statement, the public prosecutor may put questions directly.\nQuestions put to a witness shall be directed at omissions, contradictions, ambiguities and disputed content in the testimony and shall focus on the facts closely related to conviction and sentencing.\nQuestions shall take the form of question and answer, and the questions shall be concise and clear.\nWhere a witness makes a false statement, the facts shall be clarified through questioning, and where necessary the record of the witness's testimony made at the investigation and review for prosecution stages may be read out, or other evidence may be presented or read out.\nAfter a party, a defender or an agent ad litem has put questions to a witness, the public prosecutor may, in light of the witness's answers and with the permission of the presiding judge, put further questions to the witness.\nThe inquiry of appraisers and persons with specialised knowledge shall be conducted with reference to the above provisions."
+        },
+        "noLabel": {
+          "en": "Article 406."
+        },
+        "chapter": {
+          "en": "Section 1 Attendance at First-Instance Court"
+        }
+      },
+      {
+        "no": 407,
+        "text": {
+          "en": "Where necessary, the public prosecutor may suggest that the court adopt protective measures for witnesses, appraisers and victims appearing in court to testify, such as not disclosing their appearance and true voice, or suggest that the court verify the evidence out of court in accordance with Article 154 of the Criminal Procedure Law."
+        },
+        "noLabel": {
+          "en": "Article 407."
+        },
+        "chapter": {
+          "en": "Section 1 Attendance at First-Instance Court"
+        }
+      },
+      {
+        "no": 408,
+        "text": {
+          "en": "With respect to appraisal opinions, records of inquest, examination, identification and investigative experiment and other documents used as evidence, and the record of statement of a victim who, having been notified by the people's court, did not appear in court, the public prosecutor shall read them out in court."
+        },
+        "noLabel": {
+          "en": "Article 408."
+        },
+        "chapter": {
+          "en": "Section 1 Attendance at First-Instance Court"
+        }
+      },
+      {
+        "no": 409,
+        "text": {
+          "en": "When the public prosecutor presents material evidence to the court, the original article shall generally be presented; where the original article is not easily transported or preserved, or has been returned to the victim, photographs, video recordings or reproductions reflecting the appearance and features of the original article may be presented, and the circumstances and the identity of the object with the original article shall be explained to the court.\nWhen the public prosecutor presents documentary evidence to the court, the original shall generally be presented. Where it is genuinely difficult to obtain the original documentary evidence, a copy or reproduction may be presented, and the circumstances and the identity of the document with the original shall be explained to the court.\nWhen presenting material evidence and documentary evidence to the court, the public prosecutor shall explain the content that the evidence is intended to prove and the circumstances in which it was obtained, and shall ask the parties, witnesses and others about the main features of the material evidence and have them identify it. Where the material evidence or documentary evidence has been appraised, the appraisal opinion shall be read out."
+        },
+        "noLabel": {
+          "en": "Article 409."
+        },
+        "chapter": {
+          "en": "Section 1 Attendance at First-Instance Court"
+        }
+      },
+      {
+        "no": 410,
+        "text": {
+          "en": "Where, in the course of the court hearing, the defendant and his defender claim that the defendant's pre-trial confession was unlawfully obtained and the judicial officers consider that a court investigation is needed, the public prosecutor may prove the lawfulness of the collection of the evidence by presenting records of interrogation, registration of the bringing of the suspect for interrogation, medical examination records, legal documents on the adoption of compulsory measures or investigation measures, materials on the verification of the lawfulness of the interrogation before the conclusion of the investigation and other evidence materials, by playing the audio and video recordings of the interrogation in a targeted manner, and by requesting the court to notify the investigators or other persons to appear in court to explain the circumstances.\nWhere the judicial officers consider that there may exist a circumstance of collecting other evidence by unlawful methods as specified in Article 56 of the Criminal Procedure Law and that a court investigation is needed, the public prosecutor may prove the lawfulness of the collection of the evidence with reference to the preceding paragraph.\nWhere the public prosecutor cannot prove in court the lawfulness of the collection of the evidence and investigation and verification are needed, he may suggest that the court adjourn or postpone the trial.\nDuring the court hearing, a people's procuratorate may require the supervisory organ or the public security organ to explain the lawfulness of the collection of the evidence or to provide the relevant certification materials. Where necessary, it may itself conduct investigation and verification."
+        },
+        "noLabel": {
+          "en": "Article 410."
+        },
+        "chapter": {
+          "en": "Section 1 Attendance at First-Instance Court"
+        }
+      },
+      {
+        "no": 411,
+        "text": {
+          "en": "Where, after the public prosecutor has proved the lawfulness of the collection of the evidence, the court still has doubts, he may suggest that the court adjourn the hearing so that the people's court may investigate and verify the relevant evidence. Where the people's court notifies the people's procuratorate to send personnel to be present when it investigates and verifies the evidence, the people's procuratorate may send personnel to be present."
+        },
+        "noLabel": {
+          "en": "Article 411."
+        },
+        "chapter": {
+          "en": "Section 1 Attendance at First-Instance Court"
+        }
+      },
+      {
+        "no": 412,
+        "text": {
+          "en": "Where, in the course of the court hearing, a dispute arises over procedural facts other than the legality of evidence, the public prosecutor shall present and read out the relevant litigation documents and records of investigation or of activities of review for prosecution."
+        },
+        "noLabel": {
+          "en": "Article 412."
+        },
+        "chapter": {
+          "en": "Section 1 Attendance at First-Instance Court"
+        }
+      },
+      {
+        "no": 413,
+        "text": {
+          "en": "Where a dispute arises over records formed in activities such as search, sealing up, seizure, freezing, inquest, examination, identification and investigative experiment, and the investigators and the witnesses to the above activities need to appear in court to state the relevant circumstances, the public prosecutor may suggest that the collegial panel notify them to appear in court."
+        },
+        "noLabel": {
+          "en": "Article 413."
+        },
+        "chapter": {
+          "en": "Section 1 Attendance at First-Instance Court"
+        }
+      },
+      {
+        "no": 414,
+        "text": {
+          "en": "Where, in the course of the court hearing, the collegial panel has doubts about the evidence, or a people's court, upon the application of a defender or defendant, obtains from a people's procuratorate the evidence materials collected during investigation and review for prosecution that prove the defendant's innocence or minor crime, the people's procuratorate shall hand them over within three days after receiving the written decision of the people's court requesting the obtaining of evidence materials. Where there are no such materials, it shall explain the circumstances to the people's court."
+        },
+        "noLabel": {
+          "en": "Article 414."
+        },
+        "chapter": {
+          "en": "Section 1 Attendance at First-Instance Court"
+        }
+      },
+      {
+        "no": 415,
+        "text": {
+          "en": "Where, in the course of the court hearing, the collegial panel has doubts about the evidence and, after adjournment, conducts inquest, examination, sealing up, seizure, appraisal and inquiry or freezing, the people's procuratorate shall supervise in accordance with law and, where it discovers that the above activities are unlawful, shall put forward an opinion on correction."
+        },
+        "noLabel": {
+          "en": "Article 415."
+        },
+        "chapter": {
+          "en": "Section 1 Attendance at First-Instance Court"
+        }
+      },
+      {
+        "no": 416,
+        "text": {
+          "en": "Evidence collected or obtained by a people's court upon application, or evidence obtained by the collegial panel through its own investigation after adjournment, shall be presented and cross-examined at the court hearing before it can be decided whether it serves as the basis for a judgment. Where evidence is directly admitted as the basis for a judgment without being presented and cross-examined at the court hearing, the people's procuratorate shall put forward an opinion on correction."
+        },
+        "noLabel": {
+          "en": "Article 416."
+        },
+        "chapter": {
+          "en": "Section 1 Attendance at First-Instance Court"
+        }
+      },
+      {
+        "no": 417,
+        "text": {
+          "en": "With the permission of the presiding judge, the public prosecutor may, in the course of the court hearing, express opinions one by one on the evidence under investigation and on the circumstances of the case, and debate with the defendant and the defender. At the conclusion of the evidence investigation, the public prosecutor shall express a concluding opinion.\nWhere, in the court debate, the opinions of the public prosecutor differ from those of the victim or the agent ad litem, the public prosecutor shall carefully hear the opinions of the victim and the agent ad litem and state his own opinions and reasons."
+        },
+        "noLabel": {
+          "en": "Article 417."
+        },
+        "chapter": {
+          "en": "Section 1 Attendance at First-Instance Court"
+        }
+      },
+      {
+        "no": 418,
+        "text": {
+          "en": "Where a people's procuratorate puts forward a sentencing recommendation to a people's court, the public prosecutor shall put it forward when stating the public prosecution opinion.\nIn a case of pleading guilty and accepting punishment, where the people's court, upon trial, considers that the sentencing recommendation of the people's procuratorate is manifestly inappropriate and raises this with the people's procuratorate, or where the defendant or defender objects to the sentencing recommendation, the people's procuratorate may adjust the sentencing recommendation."
+        },
+        "noLabel": {
+          "en": "Article 418."
+        },
+        "chapter": {
+          "en": "Section 1 Attendance at First-Instance Court"
+        }
+      },
+      {
+        "no": 419,
+        "text": {
+          "en": "In a case of pleading guilty and accepting punishment tried under the ordinary procedure, the public prosecutor may suggest that the procedure of court investigation and debate be appropriately simplified."
+        },
+        "noLabel": {
+          "en": "Article 419."
+        },
+        "chapter": {
+          "en": "Section 1 Attendance at First-Instance Court"
+        }
+      },
+      {
+        "no": 420,
+        "text": {
+          "en": "Where any of the following circumstances occurs in the course of the court trial, the public prosecutor may suggest that the court postpone the trial:\n(1) where it is discovered that the facts are unclear or the evidence is insufficient, or that a crime or a co-defendant criminal suspect has been omitted, and supplementary investigation or supplementary provision of evidence is needed;\n(2) where the defendant reports the criminal conduct of another person or provides important leads and supplementary investigation is needed for verification;\n(3) where an omitted crime or an omitted co-defendant criminal suspect is discovered and, although no supplementary investigation or supplementary provision of evidence is needed, supplementary or additional prosecution is needed;\n(4) where application is made to the people's court to notify a witness, an appraiser or a person with specialised knowledge to appear in court to testify or to put forward opinions;\n(5) where new evidence needs to be obtained, or a fresh appraisal or inquest is needed;\n(6) where the public prosecutor presents or reads out evidence other than the evidence transferred to the people's court before the court session, or supplements, adds to or changes the prosecution, and the defendant and defender need to be given the necessary time to prepare the defence;\n(7) where the defendant or defender presents to the court evidence relating to conviction and sentencing of which the public prosecutor was unaware and which needs investigation and verification;\n(8) where the public prosecutor needs to investigate and verify in order to prove the lawfulness of the collection of evidence.\nWhere a circumstance in the preceding paragraph is discovered before the people's court holds the court session, the people's procuratorate may suggest that the people's court postpone the trial."
+        },
+        "noLabel": {
+          "en": "Article 420."
+        },
+        "chapter": {
+          "en": "Section 1 Attendance at First-Instance Court"
+        }
+      },
+      {
+        "no": 421,
+        "text": {
+          "en": "After the court announces postponement of the trial, the people's procuratorate shall, within the period for supplementary investigation, request the people's court to resume the court hearing or withdraw the prosecution.\nThe number of times the public prosecutor suggests postponement of the trial in the course of the court hearing shall not exceed two, and each postponement shall not exceed one month."
+        },
+        "noLabel": {
+          "en": "Article 421."
+        },
+        "chapter": {
+          "en": "Section 1 Attendance at First-Instance Court"
+        }
+      },
+      {
+        "no": 422,
+        "text": {
+          "en": "Where, in the course of the trial, evidence necessary for the court trial needs to be provided in supplementation or supplementary investigation is needed, the people's procuratorate shall itself collect evidence and conduct investigation and may, where necessary, require the supervisory organ or the public security organ to provide assistance; it may also require the supervisory organ or the public security organ in writing to provide evidence in supplementation.\nThe supplementary investigation of a people's procuratorate shall be governed by the provisions of Chapters 6, 9 and 10 of these Rules.\nSupplementary investigation shall not exceed one month."
+        },
+        "noLabel": {
+          "en": "Article 422."
+        },
+        "chapter": {
+          "en": "Section 1 Attendance at First-Instance Court"
+        }
+      },
+      {
+        "no": 423,
+        "text": {
+          "en": "Before a people's court pronounces a judgment, where a people's procuratorate discovers that the true identity or the facts of the crime of the defendant do not conform to the identity or the facts of the alleged crime stated in the bill of prosecution, or that, although the facts and evidence have not changed, the charge or the applicable law is inconsistent with the bill of prosecution, it may change the prosecution. Where it discovers an omitted co-defendant criminal suspect or an omitted crime, it shall require the public security organ to transfer the case for prosecution in supplementation or to conduct supplementary investigation; where the facts of the crime are clear and the evidence is reliable and sufficient, it may directly add to or supplement the prosecution."
+        },
+        "noLabel": {
+          "en": "Article 423."
+        },
+        "chapter": {
+          "en": "Section 1 Attendance at First-Instance Court"
+        }
+      },
+      {
+        "no": 424,
+        "text": {
+          "en": "Before a people's court pronounces a judgment, where a people's procuratorate discovers any of the following circumstances, it may, with the approval of the chief procurator, withdraw the prosecution:\n(1) where no facts of a crime exist;\n(2) where the facts of the crime were not committed by the defendant;\n(3) where the circumstances are obviously minor and the harm is not great, and the act is not considered a crime;\n(4) where the evidence is insufficient or the evidence has changed, and the conditions for prosecution are not met;\n(5) where the defendant does not bear criminal responsibility because he has not reached the age of criminal responsibility;\n(6) where a change in the law or in a judicial interpretation has made it inappropriate to investigate the criminal responsibility of the defendant;\n(7) other circumstances in which the criminal responsibility of the defendant should not be investigated.\nWith respect to a case in which the prosecution is withdrawn, the people's procuratorate shall, within thirty days after withdrawing the prosecution, make a decision not to prosecute. Where a fresh investigation is needed, it shall, after making the decision not to prosecute, return the case file materials to the supervisory organ or the public security organ, recommend that the supervisory organ or the public security organ conduct a fresh investigation and explain the reasons in writing.\nWith respect to a case in which the prosecution is withdrawn, the people's procuratorate shall not institute prosecution again without new facts or new evidence.\nNew facts mean facts of a crime that were not alleged in the original bill of prosecution. The charge constituted by such facts of a crime may be the same as the charge originally alleged or may be a different charge.\nNew evidence means evidence collected or obtained after the withdrawal of the prosecution that is sufficient to prove the facts of the crime originally alleged."
+        },
+        "noLabel": {
+          "en": "Article 424."
+        },
+        "chapter": {
+          "en": "Section 1 Attendance at First-Instance Court"
+        }
+      },
+      {
+        "no": 425,
+        "text": {
+          "en": "Where, in the course of the court hearing, a people's court suggests that a people's procuratorate conduct supplementary investigation, supplement the prosecution, add to the prosecution or change the prosecution, the people's procuratorate shall examine the reasons and make a decision on whether to conduct supplementary investigation, supplement the prosecution, add to the prosecution or change the prosecution. Where the people's procuratorate does not agree, it may request the people's court to adjudicate in accordance with law on the facts of the crime alleged in the prosecution."
+        },
+        "noLabel": {
+          "en": "Article 425."
+        },
+        "chapter": {
+          "en": "Section 1 Attendance at First-Instance Court"
+        }
+      },
+      {
+        "no": 426,
+        "text": {
+          "en": "Changing, adding to, supplementing or withdrawing the prosecution shall be raised in writing with the people's court before the judgment is pronounced."
+        },
+        "noLabel": {
+          "en": "Article 426."
+        },
+        "chapter": {
+          "en": "Section 1 Attendance at First-Instance Court"
+        }
+      },
+      {
+        "no": 427,
+        "text": {
+          "en": "The clerk appearing in court shall make a record of the court appearance, detailing the time and place of the court hearing, the personnel participating, the circumstances of the public prosecutor's performance of his duties in court, the main content of the court investigation and court debate, and the result of the court judgment, and it shall be signed by the public prosecutor and the clerk."
+        },
+        "noLabel": {
+          "en": "Article 427."
+        },
+        "chapter": {
+          "en": "Section 1 Attendance at First-Instance Court"
+        }
+      },
+      {
+        "no": 428,
+        "text": {
+          "en": "A people's procuratorate shall hand over the case file materials and evidence it has taken back to the people's court in court. After the presiding judge announces the adjournment, the public prosecutor shall complete the handover formalities with the judicial officers. Where handover in court is impossible, it shall be completed within three days after the adjournment."
+        },
+        "noLabel": {
+          "en": "Article 428."
+        },
+        "chapter": {
+          "en": "Section 1 Attendance at First-Instance Court"
+        }
+      },
+      {
+        "no": 429,
+        "text": {
+          "en": "A people's procuratorate shall dispose of the sealed, seized or frozen property of the defendant and its fruits in the following ways according to different circumstances:\n(1) physical items used as evidence shall be transferred with the case in accordance with law; where they are unsuitable for transfer, their list, photographs or other certification documents shall be transferred with the case;\n(2) with respect to illegal gains and other property involved in the case frozen at a financial institution or at the postal department, the certification documents issued by the financial institution or the postal department shall be transferred with the case to the people's court. After the people's court makes a legally effective judgment or ruling, the people's court shall notify the financial institution to turn the property over to the State Treasury;\n(3) with respect to the property involved in the case that has been sealed up or seized and is not transferred in accordance with law, the list, photographs or other certification documents shall be transferred with the case. After the people's court makes a legally effective judgment or ruling, the people's procuratorate shall, in accordance with the notification of the people's court, turn the property over to the State Treasury and deliver the receipt of execution to the people's court;\n(4) with respect to seized or frozen property such as bonds, shares and fund units, where the right holder applies for sale during the period of seizure or freezing, the matter shall be handled with reference to Article 214 of these Rules."
+        },
+        "noLabel": {
+          "en": "Article 429."
+        },
+        "chapter": {
+          "en": "Section 1 Attendance at First-Instance Court"
+        }
+      },
+      {
+        "no": 430,
+        "text": {
+          "en": "With respect to a case under the jurisdiction of a people's court at the basic level that meets the following conditions, a people's procuratorate may suggest that the people's court apply the summary procedure in trying it:\n(1) the facts of the case are clear and the evidence is sufficient;\n(2) the defendant admits the crime he has committed and has no objection to the alleged facts of the crime;\n(3) the defendant has no objection to the application of the summary procedure."
+        },
+        "noLabel": {
+          "en": "Article 430."
+        },
+        "chapter": {
+          "en": "Section 2 Summary Procedure"
+        }
+      },
+      {
+        "no": 431,
+        "text": {
+          "en": "A people's procuratorate shall not suggest that a people's court apply the summary procedure under any of the following circumstances:\n(1) the defendant is blind, deaf or mute, or is a person with mental illness who has not yet completely lost the capacity to recognise or control his own conduct;\n(2) the case has a major social impact;\n(3) some defendants in a joint crime case do not plead guilty or object to the application of the summary procedure;\n(4) the joint crime case is relatively complex;\n(5) the defender enters a defence of innocence or objects to the main facts of the crime;\n(6) other circumstances unsuitable for the application of the summary procedure.\nWhere a people's court decides to apply the summary procedure in trying a case and the people's procuratorate considers that any of the circumstances specified in Article 215 of the Criminal Procedure Law exists, it shall put forward an opinion on correction to the people's court; where any other circumstance unsuitable for the application of the summary procedure exists, the people's procuratorate may suggest that the people's court not apply the summary procedure."
+        },
+        "noLabel": {
+          "en": "Article 431."
+        },
+        "chapter": {
+          "en": "Section 2 Summary Procedure"
+        }
+      },
+      {
+        "no": 432,
+        "text": {
+          "en": "Where a people's procuratorate at the basic level, in reviewing a case, considers that the facts of the case are clear and the evidence is sufficient, it shall, when interrogating the criminal suspect, ascertain whether he admits the crime he has committed and whether he has any objection to the alleged facts of the crime, inform him of the legal provisions on the application of the summary procedure and confirm whether he agrees to the application of the summary procedure."
+        },
+        "noLabel": {
+          "en": "Article 432."
+        },
+        "chapter": {
+          "en": "Section 2 Summary Procedure"
+        }
+      },
+      {
+        "no": 433,
+        "text": {
+          "en": "In a public prosecution case tried under the summary procedure, a people's procuratorate shall send personnel to appear in court."
+        },
+        "noLabel": {
+          "en": "Article 433."
+        },
+        "chapter": {
+          "en": "Section 2 Summary Procedure"
+        }
+      },
+      {
+        "no": 434,
+        "text": {
+          "en": "When the public prosecutor appears in a court applying the summary procedure, he shall conduct the court investigation and court debate mainly around sentencing and other disputed issues. After confirming that the defendant received the bill of prosecution before the court session and has no objection to the facts of the crime alleged in the bill of prosecution, he may simplify the reading of the bill of prosecution and decide, according to the circumstances of the case, whether to interrogate the defendant, to inquire of witnesses and appraisers and to present evidence.\nAccording to the circumstances of the case, the public prosecutor may suggest that the court simplify the procedure of court investigation and court debate."
+        },
+        "noLabel": {
+          "en": "Article 434."
+        },
+        "chapter": {
+          "en": "Section 2 Summary Procedure"
+        }
+      },
+      {
+        "no": 435,
+        "text": {
+          "en": "In a public prosecution case tried under the summary procedure, where the public prosecutor discovers that it is unsuitable to apply the summary procedure, he shall suggest that the court retry the case under the ordinary procedure of first instance."
+        },
+        "noLabel": {
+          "en": "Article 435."
+        },
+        "chapter": {
+          "en": "Section 2 Summary Procedure"
+        }
+      },
+      {
+        "no": 436,
+        "text": {
+          "en": "In a case converted to trial under the ordinary procedure, where the public prosecutor needs to prepare for appearing in court, he may suggest that the people's court postpone the trial."
+        },
+        "noLabel": {
+          "en": "Article 436."
+        },
+        "chapter": {
+          "en": "Section 2 Summary Procedure"
+        }
+      },
+      {
+        "no": 437,
+        "text": {
+          "en": "With respect to a case under the jurisdiction of a people's court at the basic level that meets the following conditions, a people's procuratorate may, when instituting public prosecution, suggest that the people's court apply the procedure for expedited adjudication in trying it:\n(1) a penalty of fixed-term imprisonment of not more than three years may be imposed;\n(2) the facts of the case are clear and the evidence is reliable and sufficient;\n(3) the defendant pleads guilty and accepts punishment and agrees to the application of the procedure for expedited adjudication."
+        },
+        "noLabel": {
+          "en": "Article 437."
+        },
+        "chapter": {
+          "en": "Section 3 Expedited Procedure"
+        }
+      },
+      {
+        "no": 438,
+        "text": {
+          "en": "A people's procuratorate shall not suggest that a people's court apply the procedure for expedited adjudication under any of the following circumstances:\n(1) the defendant is blind, deaf or mute, or is a person with mental illness who has not yet completely lost the capacity to recognise or control his own conduct;\n(2) the defendant is a minor;\n(3) the case has a major social impact;\n(4) some defendants in a joint crime case object to the alleged facts of the crime, the charge, the sentencing recommendation or the application of the procedure for expedited adjudication;\n(5) the defendant and the victim or his statutory agent have not reached a mediation or settlement agreement on matters such as compensation in an incidental civil action;\n(6) other circumstances unsuitable for trial under the procedure for expedited adjudication."
+        },
+        "noLabel": {
+          "en": "Article 438."
+        },
+        "chapter": {
+          "en": "Section 3 Expedited Procedure"
+        }
+      },
+      {
+        "no": 439,
+        "text": {
+          "en": "Where a public security organ, a criminal suspect or his defender suggests the application of the procedure for expedited adjudication and, upon review, the people's procuratorate considers that the conditions are met, it may suggest that the people's court apply the procedure for expedited adjudication in trying the case.\nWhere a public security organ or a defender does not suggest the application of the procedure for expedited adjudication, but upon review the people's procuratorate considers that the conditions for applying the procedure for expedited adjudication are met and the criminal suspect agrees to its application, it may suggest that the people's court apply the procedure for expedited adjudication in trying the case."
+        },
+        "noLabel": {
+          "en": "Article 439."
+        },
+        "chapter": {
+          "en": "Section 3 Expedited Procedure"
+        }
+      },
+      {
+        "no": 440,
+        "text": {
+          "en": "In a case in which a people's procuratorate suggests that a people's court apply the procedure for expedited adjudication, the content of the bill of prosecution may be appropriately simplified, with emphasis on the alleged facts and the applicable law."
+        },
+        "noLabel": {
+          "en": "Article 440."
+        },
+        "chapter": {
+          "en": "Section 3 Expedited Procedure"
+        }
+      },
+      {
+        "no": 441,
+        "text": {
+          "en": "In a case tried by a people's court under the procedure for expedited adjudication, a people's procuratorate shall send personnel to appear in court."
+        },
+        "noLabel": {
+          "en": "Article 441."
+        },
+        "chapter": {
+          "en": "Section 3 Expedited Procedure"
+        }
+      },
+      {
+        "no": 442,
+        "text": {
+          "en": "When the public prosecutor appears in a court applying the procedure for expedited adjudication, he may briefly read out the facts of the crime, the evidence, the applicable law and the sentencing recommendation alleged in the bill of prosecution and shall generally no longer interrogate the defendant."
+        },
+        "noLabel": {
+          "en": "Article 442."
+        },
+        "chapter": {
+          "en": "Section 3 Expedited Procedure"
+        }
+      },
+      {
+        "no": 443,
+        "text": {
+          "en": "In a case tried under the procedure for expedited adjudication, where a people's procuratorate discovers a circumstance unsuitable for trial under the procedure for expedited adjudication, it shall suggest that the people's court convert the case to the ordinary procedure or the summary procedure for retrial."
+        },
+        "noLabel": {
+          "en": "Article 443."
+        },
+        "chapter": {
+          "en": "Section 3 Expedited Procedure"
+        }
+      },
+      {
+        "no": 444,
+        "text": {
+          "en": "In a case converted to trial under the ordinary procedure, where the public prosecutor needs to prepare for appearing in court, he may suggest that the people's court postpone the trial."
+        },
+        "noLabel": {
+          "en": "Article 444."
+        },
+        "chapter": {
+          "en": "Section 3 Expedited Procedure"
+        }
+      },
+      {
+        "no": 445,
+        "text": {
+          "en": "In a case in which a protest is lodged, or in an appeal case in a public prosecution case in which the people's court decides to hold a court session, the people's procuratorate at the same level shall assign a prosecutor to appear before the court of second instance. An assistant prosecutor may assist the prosecutor in appearing in court. Where necessary, a clerk may be assigned to act as recorder."
+        },
+        "noLabel": {
+          "en": "Article 445."
+        },
+        "chapter": {
+          "en": "Section 4 Attendance at Second-Instance Court"
+        }
+      },
+      {
+        "no": 446,
+        "text": {
+          "en": "The tasks of a prosecutor appearing before the court of second instance are:\n(1) to support the protest or hear the opinions on appeal and to put forward opinions on correction of an erroneous judgment or ruling made by the people's court of original trial;\n(2) to uphold a correct judgment or ruling of the people's court of original trial and to suggest that the court affirm the original judgment;\n(3) to safeguard the lawful rights of participants in the proceedings;\n(4) to note in a record whether the court violated legal provisions on procedure in trying the case;\n(5) to engage in other litigation activities in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 446."
+        },
+        "chapter": {
+          "en": "Section 4 Attendance at Second-Instance Court"
+        }
+      },
+      {
+        "no": 447,
+        "text": {
+          "en": "In a protest or appeal case, the people's procuratorate at the same level as the court of second instance may obtain the materials relating to the case from the people's procuratorate at the lower level.\nAfter receiving notice from the court of second instance of its decision to hold a court session or to consult the case file, a people's procuratorate may consult or obtain the case file materials. The consultation or obtaining of the case file materials shall be completed within one month from the date of receiving the notice of the people's court. Where this cannot be completed within one month, the people's court may be consulted on postponing the trial."
+        },
+        "noLabel": {
+          "en": "Article 447."
+        },
+        "chapter": {
+          "en": "Section 4 Attendance at Second-Instance Court"
+        }
+      },
+      {
+        "no": 448,
+        "text": {
+          "en": "Procuratorial personnel shall objectively and comprehensively review the case file materials of the original trial, without being limited by the scope of the appeal or protest. They shall examine whether the judgment of the original trial correctly determined the facts of the case and applied the law, whether the evidence is reliable and sufficient, whether the sentencing is appropriate and whether the trial activities were lawful, and shall examine the written protest of the people's procuratorate at the lower level or the petition of appeal of the appellant, ascertain whether the reasons for the protest or appeal are correct and sufficient, focus on reviewing the disputed facts of the case, the evidence and the issues of application of law, and make targeted preparations for the court hearing."
+        },
+        "noLabel": {
+          "en": "Article 448."
+        },
+        "chapter": {
+          "en": "Section 4 Attendance at Second-Instance Court"
+        }
+      },
+      {
+        "no": 449,
+        "text": {
+          "en": "When reviewing the case file materials of the first instance, procuratorial personnel shall re-verify the main evidence and may interrogate the defendant of the original trial. Where necessary, they may collect evidence in supplementation or conduct a fresh or supplementary appraisal. Where the public security organ that originally investigated the case needs to collect evidence in supplementation, it may be required to do so.\nWhere a defendant or defender provides materials and leads indicating that the defendant surrendered voluntarily or rendered meritorious service, which may affect conviction and sentencing, they may be transferred to the public security organ for investigation and verification, or may be investigated and verified by the procuratorate itself. Where an omitted crime or an omitted co-defendant criminal suspect is discovered, the public security organ shall be advised to investigate.\nThe following defendants of the original trial shall be interrogated:\n(1) those who have lodged an appeal;\n(2) those in respect of whom the people's procuratorate has lodged a protest;\n(3) those sentenced to life imprisonment or a heavier penalty."
+        },
+        "noLabel": {
+          "en": "Article 449."
+        },
+        "chapter": {
+          "en": "Section 4 Attendance at Second-Instance Court"
+        }
+      },
+      {
+        "no": 450,
+        "text": {
+          "en": "When handling a death penalty appeal or protest case, a people's procuratorate shall carry out the following work:\n(1) interrogating the defendant of the original trial and hearing the reasons for appeal or the defence of the defendant of the original trial;\n(2) hearing the opinions of the defender;\n(3) re-verifying the main evidence and, where necessary, inquiring of witnesses;\n(4) where necessary, collecting evidence in supplementation;\n(5) where there are doubts about an appraisal opinion, conducting a fresh or supplementary appraisal;\n(6) according to the circumstances of the case, hearing the opinions of the victim."
+        },
+        "noLabel": {
+          "en": "Article 450."
+        },
+        "chapter": {
+          "en": "Section 4 Attendance at Second-Instance Court"
+        }
+      },
+      {
+        "no": 451,
+        "text": {
+          "en": "Before appearing before the court of second instance, procuratorial personnel shall draw up a plan for interrogating the defendant of the original trial, inquiring of victims, witnesses and appraisers and presenting, reading out and playing evidence, draft an outline for reply and prepare opinions to be expressed in court."
+        },
+        "noLabel": {
+          "en": "Article 451."
+        },
+        "chapter": {
+          "en": "Section 4 Attendance at Second-Instance Court"
+        }
+      },
+      {
+        "no": 452,
+        "text": {
+          "en": "In the court hearing, the prosecutor shall, addressing the problems of the judgment or ruling of the original trial in respect of the ascertained facts, the application of law and sentencing, and centring on the reasons for the protest or appeal and the defence opinions of the defender, interrogate the defendant of the original trial, inquire of victims, witnesses and appraisers, present and read out evidence, and put forward opinions and engage in debate."
+        },
+        "noLabel": {
+          "en": "Article 452."
+        },
+        "chapter": {
+          "en": "Section 4 Attendance at Second-Instance Court"
+        }
+      },
+      {
+        "no": 453,
+        "text": {
+          "en": "Where evidence transferred to the people's court during the first instance needs to be presented, read out or played, the prosecutor appearing in court may apply to the court to present, read out or play it.\nWhere evidence materials need to be handed over after the court of second instance announces adjournment, the matter shall be handled with reference to Article 428 of these Rules."
+        },
+        "noLabel": {
+          "en": "Article 453."
+        },
+        "chapter": {
+          "en": "Section 4 Attendance at Second-Instance Court"
+        }
+      },
+      {
+        "no": 454,
+        "text": {
+          "en": "Where a people's court holds a court session to try a case for retrial, the people's procuratorate at the same level shall send personnel to appear in court."
+        },
+        "noLabel": {
+          "en": "Article 454."
+        },
+        "chapter": {
+          "en": "Section 5 Attendance at Retrial Court"
+        }
+      },
+      {
+        "no": 455,
+        "text": {
+          "en": "With respect to a case retried by a people's court under the procedure for trial supervision, a people's procuratorate shall comprehensively review the facts, evidence and application of law as determined in the original judgment or ruling, focusing on the disputed facts of the case, the evidence and the issues of application of law."
+        },
+        "noLabel": {
+          "en": "Article 455."
+        },
+        "chapter": {
+          "en": "Section 5 Attendance at Retrial Court"
+        }
+      },
+      {
+        "no": 456,
+        "text": {
+          "en": "Where a people's procuratorate sends personnel to appear before a court for retrial, if the case for retrial is tried under the procedure of first instance, the relevant provisions of Section 1 of this Chapter shall be applied with reference to them; if the case for retrial is tried under the procedure of second instance, the relevant provisions of Section 4 of this Chapter shall be applied with reference to them."
+        },
+        "noLabel": {
+          "en": "Article 456."
+        },
+        "chapter": {
+          "en": "Section 5 Attendance at Retrial Court"
+        }
+      },
+      {
+        "no": 457,
+        "text": {
+          "en": "When handling a criminal case involving a minor, a people's procuratorate shall implement the policy of education, persuasion and rescue and the principle of education first with punishment as a supplement, persist in priority protection, special protection and two-way protection, and aim at helping and educating minors and preventing repeat offending.\nA people's procuratorate may draw on social forces to carry out work on helping and educating minors."
+        },
+        "noLabel": {
+          "en": "Article 457."
+        },
+        "chapter": {
+          "en": "Section 1 Procedure for Criminal Cases Involving Minors"
+        }
+      },
+      {
+        "no": 458,
+        "text": {
+          "en": "A people's procuratorate shall designate procuratorial personnel familiar with the physical and mental characteristics of minors to handle criminal cases involving minors."
+        },
+        "noLabel": {
+          "en": "Article 458."
+        },
+        "chapter": {
+          "en": "Section 1 Procedure for Criminal Cases Involving Minors"
+        }
+      },
+      {
+        "no": 459,
+        "text": {
+          "en": "When handling a joint crime case involving a minor and an adult, a people's procuratorate shall generally handle and prosecute the minor and the adult separately. Where separate handling is inappropriate, special protective measures such as privacy protection and expedited handling shall be taken for the minor."
+        },
+        "noLabel": {
+          "en": "Article 459."
+        },
+        "chapter": {
+          "en": "Section 1 Procedure for Criminal Cases Involving Minors"
+        }
+      },
+      {
+        "no": 460,
+        "text": {
+          "en": "After accepting a case, a people's procuratorate shall ascertain from the minor criminal suspect and his statutory agent whether a defender has been entrusted and shall inform them of the right to entrust a defender.\nWhere a minor criminal suspect has not entrusted a defender, the people's procuratorate shall notify the legal aid institution in writing to assign a lawyer to defend him.\nWhere the public security organ has not notified the legal aid institution to assign a lawyer to defend the minor criminal suspect, the people's procuratorate shall put forward an opinion on correction."
+        },
+        "noLabel": {
+          "en": "Article 460."
+        },
+        "chapter": {
+          "en": "Section 1 Procedure for Criminal Cases Involving Minors"
+        }
+      },
+      {
+        "no": 461,
+        "text": {
+          "en": "A people's procuratorate may, according to circumstances, investigate the growth experience, causes of the crime, guardianship and education of a minor criminal suspect and prepare a social investigation report as a reference for handling the case and for education.\nA people's procuratorate may entrust the conduct of a social investigation to the relevant organisations and institutions. A social investigation shall respect and protect the privacy of the minor and shall not disclose information about the case involving the minor criminal suspect to persons who are unaware of it.\nA people's procuratorate shall examine the social investigation report transferred by the public security organ. Where necessary, it may conduct a supplementary investigation.\nA social investigation report prepared by a people's procuratorate shall be transferred together with the case to the people's court."
+        },
+        "noLabel": {
+          "en": "Article 461."
+        },
+        "chapter": {
+          "en": "Section 1 Procedure for Criminal Cases Involving Minors"
+        }
+      },
+      {
+        "no": 462,
+        "text": {
+          "en": "In reviewing for arrest a minor criminal suspect, a people's procuratorate shall, on the basis of the nature and circumstances of the suspected crime, the subjective viciousness, whether conditions for guardianship and social assistance and education exist, and whether he pleads guilty and accepts punishment, comprehensively assess his social danger and strictly restrict the application of arrest measures."
+        },
+        "noLabel": {
+          "en": "Article 462."
+        },
+        "chapter": {
+          "en": "Section 1 Procedure for Criminal Cases Involving Minors"
+        }
+      },
+      {
+        "no": 463,
+        "text": {
+          "en": "Where the crime is relatively minor, effective guardianship conditions or social assistance and education measures are available, and there is no social danger or the social danger is relatively small, approval of arrest shall not be granted to the minor criminal suspect.\nWhere the crime is relatively serious but the subjective viciousness is not great, there is a manifestation of repentance, effective guardianship conditions or social assistance and education measures are available, and any of the following circumstances exists so that no social danger would arise without arrest, approval of arrest may be withheld from the minor criminal suspect:\n(1) it is a first offence or a crime of negligence;\n(2) the crime was in preparation, was discontinued or was attempted;\n(3) the defence exceeded the limits of necessity or the avoidance of danger exceeded the limits of necessity;\n(4) there is voluntary surrender or meritorious service;\n(5) after the crime the minor pleads guilty and accepts punishment, or actively returns the proceeds of the crime and does his utmost to reduce and compensate the loss, and the victim forgives him;\n(6) he is not a principal offender in a joint crime or a ringleader in a group crime;\n(7) he is a minor who has reached the age of fourteen but not the age of sixteen, or is a student at school;\n(8) other circumstances in which approval of arrest may be withheld.\nWhere release on guarantee pending trial is applied to a minor criminal suspect who has no fixed residence and cannot provide a guarantor, a suitable adult may be designated as guarantor."
+        },
+        "noLabel": {
+          "en": "Article 463."
+        },
+        "chapter": {
+          "en": "Section 1 Procedure for Criminal Cases Involving Minors"
+        }
+      },
+      {
+        "no": 464,
+        "text": {
+          "en": "In reviewing for arrest a minor criminal suspect, it shall be ascertained as a focus whether he has reached the age of fourteen, sixteen or eighteen.\nWhere the actual age of the criminal suspect is difficult to determine and this affects the determination of whether he should bear criminal responsibility, approval of arrest shall not be granted. Where supplementary investigation is needed, the public security organ shall be notified at the same time."
+        },
+        "noLabel": {
+          "en": "Article 464."
+        },
+        "chapter": {
+          "en": "Section 1 Procedure for Criminal Cases Involving Minors"
+        }
+      },
+      {
+        "no": 465,
+        "text": {
+          "en": "In review for arrest and review for prosecution, a people's procuratorate shall interrogate the minor criminal suspect, hear the opinions of the defender and make a record to be attached to the file. Written opinions submitted by the defender shall be attached to the file. Where the defender puts forward opinions to the effect that the criminal suspect is innocent, that the crime is minor, that criminal responsibility should be mitigated or exempted, that custody is unsuitable, or that unlawful circumstances exist in the investigation activities, the procuratorial personnel shall examine them and state the opinions put forward by the defender in the relevant work documents, explaining whether they are adopted and the reasons.\nWhen interrogating a minor criminal suspect, his statutory agent shall be notified to be present, and the statutory agent shall be informed of the litigation rights he enjoys in accordance with law and the obligations he should perform. A statutory agent who is present may exercise the litigation rights of the minor criminal suspect on his behalf, and in doing so shall not harm the lawful rights and interests of the minor criminal suspect.\nWhere notification is impossible, the statutory agent cannot be present or the statutory agent is an accomplice, other adult relatives of the minor criminal suspect, or representatives of the school or unit where he is located, of the villagers' committee or residents' committee of his place of residence, or of an organisation for the protection of minors may also be notified to be present, and the relevant circumstances shall be recorded in the case file. Where the minor criminal suspect explicitly refuses the presence of a suitable adult other than the statutory agent and has justified reasons, the people's procuratorate may permit it, but shall, after seeking his opinions, notify another suitable adult to be present.\nWhere a statutory agent or other person present considers that the procuratorial personnel have infringed the lawful rights and interests of the minor criminal suspect during interrogation and puts forward opinions, the people's procuratorate shall record them in the case file. Reasonable opinions shall be accepted and corrected. The record of interrogation shall be handed to the statutory agent or other person present for reading or read to him, and he shall sign or seal the record and affix his fingerprint.\nFemale procuratorial personnel shall participate in the interrogation of a female minor criminal suspect.\nThe provisions of paragraphs 2 to 5 of this Article shall apply to the inquiry of a minor victim or witness. The inquiry shall in principle be conducted only once, so as to avoid repeated inquiries."
+        },
+        "noLabel": {
+          "en": "Article 465."
+        },
+        "chapter": {
+          "en": "Section 1 Procedure for Criminal Cases Involving Minors"
+        }
+      },
+      {
+        "no": 466,
+        "text": {
+          "en": "When interrogating a minor criminal suspect, his personal dignity shall be protected.\nRestraints shall generally not be used when interrogating a minor criminal suspect. Where restraints must be used because there is a genuine personal danger, their use shall cease immediately once the actual danger is eliminated."
+        },
+        "noLabel": {
+          "en": "Article 466."
+        },
+        "chapter": {
+          "en": "Section 1 Procedure for Criminal Cases Involving Minors"
+        }
+      },
+      {
+        "no": 467,
+        "text": {
+          "en": "Where a minor criminal suspect pleads guilty and accepts punishment, the people's procuratorate shall inform him and his statutory agent of the litigation rights they enjoy and of the legal provisions on pleading guilty and accepting punishment, and shall, in accordance with Article 173 of the Criminal Procedure Law, hear and record the opinions of the minor criminal suspect and his statutory agent, the defender, and the victim and his agent ad litem."
+        },
+        "noLabel": {
+          "en": "Article 467."
+        },
+        "chapter": {
+          "en": "Section 1 Procedure for Criminal Cases Involving Minors"
+        }
+      },
+      {
+        "no": 468,
+        "text": {
+          "en": "Where a minor criminal suspect pleads guilty and accepts punishment, he shall sign the written statement of pleading guilty and accepting punishment in the presence of his statutory agent and defender. Where the statutory agent or defender objects to the plea and acceptance of punishment, the written statement need not be signed.\nWhere the written statement is not signed because the statutory agent or defender of the minor criminal suspect objects to his plea and acceptance of punishment, the people's procuratorate shall truthfully record the circumstances of the minor's plea and acceptance of punishment and the circumstances of the objection of the statutory agent and defender. Where public prosecution is instituted, the material shall be transferred together with the other case file materials to the people's court.\nWhere the statutory agent or defender of the minor criminal suspect objects to the plea and acceptance of punishment and therefore the written statement is not signed, lenient treatment shall not be affected.\nWhere the statutory agent cannot be present, a suitable adult may exercise on his behalf the right to be present, the right to be informed and the right to object. The reasons why the statutory agent was not present and the circumstances of hearing the opinions of the suitable adult shall be recorded in the case file."
+        },
+        "noLabel": {
+          "en": "Article 468."
+        },
+        "chapter": {
+          "en": "Section 1 Procedure for Criminal Cases Involving Minors"
+        }
+      },
+      {
+        "no": 469,
+        "text": {
+          "en": "With respect to a criminal case involving a minor that meets the conditions specified in paragraph 1 of Article 282 of the Criminal Procedure Law, a people's procuratorate may make a decision on conditional non-prosecution.\nBefore making a decision on conditional non-prosecution, a people's procuratorate shall hear the opinions of the public security organ, the victim, the minor criminal suspect and his statutory agent and defender, and make a record to be attached to the file."
+        },
+        "noLabel": {
+          "en": "Article 469."
+        },
+        "chapter": {
+          "en": "Section 1 Procedure for Criminal Cases Involving Minors"
+        }
+      },
+      {
+        "no": 470,
+        "text": {
+          "en": "Where a minor criminal suspect and his statutory agent object to the proposed decision on conditional non-prosecution, the people's procuratorate shall institute public prosecution. However, where the minor criminal suspect and his statutory agent raise a defence of innocence and, upon review, the people's procuratorate considers that the reasons for the defence of innocence are tenable, it shall make a decision not to prosecute in accordance with Article 365 of these Rules.\nWhere the minor criminal suspect and his statutory agent have no objection to handling the case by conditional non-prosecution but object only to the attached conditions and the probation period, the people's procuratorate may, in accordance with law, adopt their reasonable opinions and adjust the content, manner and duration of the supervision and inspection; where their opinions are not conducive to the assistance and education of the minor criminal suspect and the people's procuratorate does not adopt them, it shall explain the law and the reasoning.\nWhere the minor criminal suspect and his statutory agent withdraw their objection before the people's procuratorate makes a decision to prosecute, the people's procuratorate may make a decision on conditional non-prosecution in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 470."
+        },
+        "chapter": {
+          "en": "Section 1 Procedure for Criminal Cases Involving Minors"
+        }
+      },
+      {
+        "no": 471,
+        "text": {
+          "en": "After making a decision on conditional non-prosecution, a people's procuratorate shall prepare a written decision on conditional non-prosecution and serve it within three days on the public security organ, the victim or his close relatives and their agents ad litem, and the minor criminal suspect and his statutory agent and defender.\nA people's procuratorate shall announce the decision on conditional non-prosecution to the minor criminal suspect and his statutory agent in person, inform them of the probation period, the provisions to be observed during the probation period and the legal responsibility for violating them, and make a record to be attached to the file."
+        },
+        "noLabel": {
+          "en": "Article 471."
+        },
+        "chapter": {
+          "en": "Section 1 Procedure for Criminal Cases Involving Minors"
+        }
+      },
+      {
+        "no": 472,
+        "text": {
+          "en": "Where, with respect to a decision on conditional non-prosecution, the public security organ requests reconsideration or submits a request for review, or the victim submits a petition, the specific procedure shall be governed with reference to Articles 379 to 383 of these Rules. Where a victim is dissatisfied with a decision on conditional non-prosecution, he shall be informed that the provisions of Article 180 of the Criminal Procedure Law on a victim instituting an action in a people's court do not apply, and the law and the reasoning shall be properly explained.\nThe reconsideration, review and petition provided in the preceding paragraph shall be examined by the department responsible for prosecution of minors of the relevant people's procuratorate."
+        },
+        "noLabel": {
+          "en": "Article 472."
+        },
+        "chapter": {
+          "en": "Section 1 Procedure for Criminal Cases Involving Minors"
+        }
+      },
+      {
+        "no": 473,
+        "text": {
+          "en": "Where a people's procuratorate makes a decision on conditional non-prosecution, it shall determine a probation period. The probation period shall be not less than six months and not more than one year, counted from the date on which the people's procuratorate makes the decision on conditional non-prosecution."
+        },
+        "noLabel": {
+          "en": "Article 473."
+        },
+        "chapter": {
+          "en": "Section 1 Procedure for Criminal Cases Involving Minors"
+        }
+      },
+      {
+        "no": 474,
+        "text": {
+          "en": "During the probation period of conditional non-prosecution, the people's procuratorate shall supervise and inspect the minor criminal suspect subject to conditional non-prosecution. A people's procuratorate shall require the guardian of the minor criminal suspect to strengthen discipline and education of the minor criminal suspect and to cooperate with the people's procuratorate in the supervision and inspection work.\nA people's procuratorate may, together with the guardian of the minor criminal suspect, the school or unit where he is located, the villagers' committee or residents' committee of his place of residence, an organisation for the protection of minors and the relevant personnel thereof, regularly inspect and educate the minor criminal suspect and carry out follow-up assistance and education."
+        },
+        "noLabel": {
+          "en": "Article 474."
+        },
+        "chapter": {
+          "en": "Section 1 Procedure for Criminal Cases Involving Minors"
+        }
+      },
+      {
+        "no": 475,
+        "text": {
+          "en": "With respect to a minor criminal suspect subject to conditional non-prosecution, a people's procuratorate shall supervise and inspect whether he observes the following provisions:\n(1) observing laws and regulations and submitting to supervision;\n(2) reporting his activities in accordance with provisions;\n(3) obtaining approval before leaving the city or county of residence or moving to another place;\n(4) receiving correction and education as required."
+        },
+        "noLabel": {
+          "en": "Article 475."
+        },
+        "chapter": {
+          "en": "Section 1 Procedure for Criminal Cases Involving Minors"
+        }
+      },
+      {
+        "no": 476,
+        "text": {
+          "en": "A people's procuratorate may require a minor criminal suspect subject to conditional non-prosecution to receive the following correction and education:\n(1) completing addiction treatment, psychological counselling or other appropriate intervention measures;\n(2) providing public-interest labour to the community or to public-interest organisations;\n(3) not entering specified places, not meeting or corresponding with specified persons and not engaging in specified activities;\n(4) compensating the victim's loss, apologising and so on;\n(5) receiving relevant education;\n(6) observing other prohibitive provisions for protecting the safety of victims and preventing repeat offending."
+        },
+        "noLabel": {
+          "en": "Article 476."
+        },
+        "chapter": {
+          "en": "Section 1 Procedure for Criminal Cases Involving Minors"
+        }
+      },
+      {
+        "no": 477,
+        "text": {
+          "en": "Upon expiry of the probation period, the procuratorial personnel shall prepare a written opinion on the supervision and inspection of conditional non-prosecution, put forward an opinion on prosecution or non-prosecution and report it to the chief procurator for decision.\nBefore making a decision not to prosecute upon expiry of the probation period, the opinions of the victim shall be heard."
+        },
+        "noLabel": {
+          "en": "Article 477."
+        },
+        "chapter": {
+          "en": "Section 1 Procedure for Criminal Cases Involving Minors"
+        }
+      },
+      {
+        "no": 478,
+        "text": {
+          "en": "Where the victim submits a petition against a decision not to prosecute made upon expiry of the probation period, the matter shall be handled in accordance with Article 472 of these Rules."
+        },
+        "noLabel": {
+          "en": "Article 478."
+        },
+        "chapter": {
+          "en": "Section 1 Procedure for Criminal Cases Involving Minors"
+        }
+      },
+      {
+        "no": 479,
+        "text": {
+          "en": "Where a minor criminal suspect subject to conditional non-prosecution falls under any of the following circumstances during the probation period, the people's procuratorate shall revoke the decision on conditional non-prosecution and institute public prosecution:\n(1) he commits a new crime;\n(2) it is discovered that before the decision on conditional non-prosecution there was another crime that requires prosecution;\n(3) he violates the provisions on public security administration, causing serious consequences, or repeatedly violates the provisions on public security administration;\n(4) he violates the provisions on supervision and administration relating to conditional non-prosecution, causing serious consequences, or repeatedly violates the provisions on supervision and administration relating to conditional non-prosecution."
+        },
+        "noLabel": {
+          "en": "Article 479."
+        },
+        "chapter": {
+          "en": "Section 1 Procedure for Criminal Cases Involving Minors"
+        }
+      },
+      {
+        "no": 480,
+        "text": {
+          "en": "Where a minor criminal suspect subject to conditional non-prosecution does not fall under the circumstances specified in Article 479 of these Rules during the probation period, the people's procuratorate shall, upon expiry of the probation period, make a decision not to prosecute."
+        },
+        "noLabel": {
+          "en": "Article 480."
+        },
+        "chapter": {
+          "en": "Section 1 Procedure for Criminal Cases Involving Minors"
+        }
+      },
+      {
+        "no": 481,
+        "text": {
+          "en": "In the course of handling a criminal case involving a minor, a people's procuratorate shall keep confidential the information of the minor involved in the case and shall not disclose or disseminate the name, residence, photographs, images and other information of the minor involved in the case from which the minor could be inferred."
+        },
+        "noLabel": {
+          "en": "Article 481."
+        },
+        "chapter": {
+          "en": "Section 1 Procedure for Criminal Cases Involving Minors"
+        }
+      },
+      {
+        "no": 482,
+        "text": {
+          "en": "Where a person was under the age of eighteen at the time of the crime and has been sentenced to fixed-term imprisonment of not more than five years, the people's procuratorate shall, after receiving the legally effective judgment or ruling of the people's court, seal up the criminal record.\nWhere the legally effective judgment or ruling was made by a court of second instance, the people's procuratorate at the same level shall, when sealing up the criminal record in accordance with the preceding paragraph, notify the people's procuratorate at the lower level to seal up the relevant criminal record."
+        },
+        "noLabel": {
+          "en": "Article 482."
+        },
+        "chapter": {
+          "en": "Section 1 Procedure for Criminal Cases Involving Minors"
+        }
+      },
+      {
+        "no": 483,
+        "text": {
+          "en": "A people's procuratorate shall bind the criminal record of the minor to be sealed up, the case file and other relevant materials into a volume, keep them encrypted and not disclose them, establish a special archive of minors' criminal records and apply a strict custody system."
+        },
+        "noLabel": {
+          "en": "Article 483."
+        },
+        "chapter": {
+          "en": "Section 1 Procedure for Criminal Cases Involving Minors"
+        }
+      },
+      {
+        "no": 484,
+        "text": {
+          "en": "Except where a judicial organ needs it for handling a case or a relevant unit makes an inquiry in accordance with State provisions, a people's procuratorate shall not provide a sealed criminal record to any unit or individual and shall not provide a certificate that a minor has a criminal record.\nWhere a judicial organ or a relevant unit needs to inquire about a criminal record, it shall submit a written application to the people's procuratorate that sealed up the criminal record. The people's procuratorate shall decide within seven days whether to permit it."
+        },
+        "noLabel": {
+          "en": "Article 484."
+        },
+        "chapter": {
+          "en": "Section 1 Procedure for Criminal Cases Involving Minors"
+        }
+      },
+      {
+        "no": 485,
+        "text": {
+          "en": "After the criminal record of a minor is sealed up, it shall not be unsealed without a statutory ground and without following statutory procedure.\nThe criminal record of a minor whose record has been sealed up shall be unsealed under any of the following conditions:\n(1) he commits a new crime and, after the new crime and the crime in the sealed record are punished together for several crimes, is decided to serve a penalty of fixed-term imprisonment of five years or more;\n(2) an omitted crime is discovered and, after the omitted crime and the crime in the sealed record are punished together for several crimes, he is decided to serve a penalty of fixed-term imprisonment of five years or more."
+        },
+        "noLabel": {
+          "en": "Article 485."
+        },
+        "chapter": {
+          "en": "Section 1 Procedure for Criminal Cases Involving Minors"
+        }
+      },
+      {
+        "no": 486,
+        "text": {
+          "en": "After a people's procuratorate makes a decision not to prosecute a minor criminal suspect, it shall seal up the relevant records. Except where a judicial organ makes an inquiry for the need of handling a case, they shall not be provided to any unit or individual. The specific procedure for sealing up shall be governed with reference to Articles 483 to 485 of these Rules."
+        },
+        "noLabel": {
+          "en": "Article 486."
+        },
+        "chapter": {
+          "en": "Section 1 Procedure for Criminal Cases Involving Minors"
+        }
+      },
+      {
+        "no": 487,
+        "text": {
+          "en": "Where a minor whose criminal record has been sealed up or his statutory agent applies for a certificate of no criminal record, the people's procuratorate shall issue it. Where coordination with a public security organ or a people's court is needed for it to issue a certificate of no criminal record, the people's procuratorate shall provide assistance."
+        },
+        "noLabel": {
+          "en": "Article 487."
+        },
+        "chapter": {
+          "en": "Section 1 Procedure for Criminal Cases Involving Minors"
+        }
+      },
+      {
+        "no": 488,
+        "text": {
+          "en": "The department responsible for prosecution of minors shall, in accordance with law, supervise the activities of houses of detention and correctional institutions for juvenile offenders in supervising and managing minors and shall cooperate in educating minors properly. Where it discovers that minor criminal suspects or defendants are not detained and managed separately from adult criminal suspects or defendants, or that a juvenile offender is kept in a house of detention to serve a penalty in violation of provisions, it shall put forward an opinion on correction in accordance with law.\nWhere the department responsible for prosecution of minors discovers that a community correction institution violates the relevant provisions on community correction of minors, it shall put forward an opinion on correction in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 488."
+        },
+        "chapter": {
+          "en": "Section 1 Procedure for Criminal Cases Involving Minors"
+        }
+      },
+      {
+        "no": 489,
+        "text": {
+          "en": "A criminal case involving a minor referred to in this Section means a criminal case in which the criminal suspect had reached the age of fourteen but not the age of eighteen at the time he committed the suspected criminal conduct.\nA minor criminal suspect referred to in Articles 460, 465, 466, 467 and 468 of this Section means a person who is under the age of eighteen in the course of the proceedings. Where the criminal suspect was under the age of eighteen at the time he committed the suspected criminal conduct and has reached the age of eighteen in the course of the proceedings, the people's procuratorate may, according to the specific circumstances of the case, apply the above provisions."
+        },
+        "noLabel": {
+          "en": "Article 489."
+        },
+        "chapter": {
+          "en": "Section 1 Procedure for Criminal Cases Involving Minors"
+        }
+      },
+      {
+        "no": 490,
+        "text": {
+          "en": "When handling a case of a crime against a minor, a people's procuratorate shall adopt methods suited to the physical and mental characteristics of the minor victim and fully protect the lawful rights and interests of the minor victim."
+        },
+        "noLabel": {
+          "en": "Article 490."
+        },
+        "chapter": {
+          "en": "Section 1 Procedure for Criminal Cases Involving Minors"
+        }
+      },
+      {
+        "no": 491,
+        "text": {
+          "en": "Criminal cases involving minors shall be handled in accordance with the Criminal Procedure Law and other relevant provisions, except as otherwise provided in this Section."
+        },
+        "noLabel": {
+          "en": "Article 491."
+        },
+        "chapter": {
+          "en": "Section 1 Procedure for Criminal Cases Involving Minors"
+        }
+      },
+      {
+        "no": 492,
+        "text": {
+          "en": "In the following public prosecution cases, the parties may reach a settlement:\n(1) cases of crimes specified in Chapters IV and V of the Special Part of the Criminal Law arising from civil disputes, in which a penalty of fixed-term imprisonment of not more than three years may be imposed;\n(2) cases of crimes of negligence, other than crimes of dereliction of duty, in which a penalty of fixed-term imprisonment of not more than seven years may be imposed.\nA public prosecution case in which the parties reach a settlement shall meet all of the following conditions:\n(1) the criminal suspect sincerely repents and compensates the victim's loss or apologises to him;\n(2) the victim explicitly expresses forgiveness of the criminal suspect;\n(3) both parties voluntarily reach a settlement, in conformity with the relevant legal provisions;\n(4) it is a deliberate crime infringing a specific victim or a crime of negligence with a direct victim;\n(5) the facts of the case are clear and the evidence is reliable and sufficient.\nWhere the criminal suspect has intentionally committed a crime within the previous five years, the procedure provided in this Section shall not apply.\nWhere the criminal suspect intentionally committed a crime within the five years before committing the crime specified in paragraph 1 of Article 288 of the Criminal Procedure Law, it shall be determined as having intentionally committed a crime within the previous five years as provided in the preceding paragraph, regardless of whether that intentional crime has been prosecuted."
+        },
+        "noLabel": {
+          "en": "Article 492."
+        },
+        "chapter": {
+          "en": "Section 2 Procedure for Public Prosecution Cases in Which the Parties Reach a Settlement"
+        }
+      },
+      {
+        "no": 493,
+        "text": {
+          "en": "Where the victim has died, his statutory agent or close relatives may reach a settlement with the criminal suspect.\nWhere the victim has no capacity for civil conduct or has limited capacity for civil conduct, his statutory agent may reach a settlement on his behalf."
+        },
+        "noLabel": {
+          "en": "Article 493."
+        },
+        "chapter": {
+          "en": "Section 2 Procedure for Public Prosecution Cases in Which the Parties Reach a Settlement"
+        }
+      },
+      {
+        "no": 494,
+        "text": {
+          "en": "Where the criminal suspect has limited capacity for civil conduct, his statutory agent may reach a settlement on his behalf.\nWhere the criminal suspect is in custody, his statutory agent or close relatives may, with his consent, reach a settlement on his behalf."
+        },
+        "noLabel": {
+          "en": "Article 494."
+        },
+        "chapter": {
+          "en": "Section 2 Procedure for Public Prosecution Cases in Which the Parties Reach a Settlement"
+        }
+      },
+      {
+        "no": 495,
+        "text": {
+          "en": "Both parties may reach a settlement on civil liability matters such as compensation for loss and apology, and may negotiate whether the victim and his statutory agent or close relatives require or agree that the public security organ, the people's procuratorate or the people's court treat the criminal suspect leniently in accordance with law, but may not negotiate on matters that fall within the functions and powers of the public security organ, the people's procuratorate or the people's court in accordance with law, such as the determination of the facts of the case, the admission of evidence, the application of law and conviction and sentencing."
+        },
+        "noLabel": {
+          "en": "Article 495."
+        },
+        "chapter": {
+          "en": "Section 2 Procedure for Public Prosecution Cases in Which the Parties Reach a Settlement"
+        }
+      },
+      {
+        "no": 496,
+        "text": {
+          "en": "Both parties may reach a settlement by themselves, or may reach a settlement after mediation by a people's mediation committee, a villagers' committee, a residents' committee, the unit where a party works, or colleagues, relatives, friends and other organisations or individuals.\nWith respect to a public prosecution case specified in Article 492 of these Rules, a people's procuratorate may suggest that the parties reach a settlement, inform them of their corresponding rights and obligations and, where necessary, provide legal advice."
+        },
+        "noLabel": {
+          "en": "Article 496."
+        },
+        "chapter": {
+          "en": "Section 2 Procedure for Public Prosecution Cases in Which the Parties Reach a Settlement"
+        }
+      },
+      {
+        "no": 497,
+        "text": {
+          "en": "A people's procuratorate shall review the voluntariness and lawfulness of a settlement, focusing on the following:\n(1) whether both parties voluntarily reach the settlement;\n(2) whether the criminal suspect sincerely repents and has apologised to the victim, and whether the amount of compensation is commensurate with the harm caused and with his capacity to compensate;\n(3) whether the victim and his statutory agent or close relatives explicitly express forgiveness of the criminal suspect;\n(4) whether it conforms to legal provisions;\n(5) whether it harms the interests of the State, the collective or the public, or the lawful rights and interests of others;\n(6) whether it conforms to social morality.\nAt the time of review, the opinions of both parties and other relevant persons on the settlement shall be heard, the legal consequences of the possible lenient treatment of the criminal case and the rights and obligations of both parties shall be explained, and a record shall be made to be attached to the file."
+        },
+        "noLabel": {
+          "en": "Article 497."
+        },
+        "chapter": {
+          "en": "Section 2 Procedure for Public Prosecution Cases in Which the Parties Reach a Settlement"
+        }
+      },
+      {
+        "no": 498,
+        "text": {
+          "en": "Where, upon review, it considers that both parties voluntarily reached the settlement, that its content is lawful and that it conforms to the scope and conditions specified in Article 492 of these Rules, the people's procuratorate shall preside over the preparation of a settlement agreement.\nThe settlement agreement shall mainly include:\n(1) the basic information of both parties;\n(2) the main facts of the case;\n(3) that the criminal suspect sincerely repents, admits the crime he has committed, has no objection to the alleged crime and compensates the victim's loss or apologises to him. Where loss is compensated, the amount of compensation, the manner of performance and the time limit shall be stated;\n(4) that the victim and his statutory agent or close relatives forgive the criminal suspect and require or agree that the public security organ, the people's procuratorate or the people's court treat the criminal suspect leniently in accordance with law.\nThe settlement agreement shall be signed by both parties and may state that it was prepared under the auspices of the people's procuratorate. Procuratorial personnel shall not sign the settlement agreement of the parties and shall not affix the seal of the people's procuratorate to it.\nThe settlement agreement shall be in triplicate, with each party holding one copy and the third copy delivered to the people's procuratorate to be attached to the file for reference."
+        },
+        "noLabel": {
+          "en": "Article 498."
+        },
+        "chapter": {
+          "en": "Section 2 Procedure for Public Prosecution Cases in Which the Parties Reach a Settlement"
+        }
+      },
+      {
+        "no": 499,
+        "text": {
+          "en": "The content of compensation for loss agreed in the settlement agreement shall be performed immediately after both parties sign the agreement, and at the latest before the people's procuratorate makes a decision on lenient treatment. Where lump-sum performance is genuinely difficult, performance in instalments may be permitted provided that effective security is given and the victim agrees."
+        },
+        "noLabel": {
+          "en": "Article 499."
+        },
+        "chapter": {
+          "en": "Section 2 Procedure for Public Prosecution Cases in Which the Parties Reach a Settlement"
+        }
+      },
+      {
+        "no": 500,
+        "text": {
+          "en": "Where both parties reached a settlement agreement at the investigation stage and the public security organ put forward a recommendation of lenient treatment to the people's procuratorate, the people's procuratorate shall give full consideration to the recommendation of the public security organ when reviewing for arrest and reviewing for prosecution."
+        },
+        "noLabel": {
+          "en": "Article 500."
+        },
+        "chapter": {
+          "en": "Section 2 Procedure for Public Prosecution Cases in Which the Parties Reach a Settlement"
+        }
+      },
+      {
+        "no": 501,
+        "text": {
+          "en": "With respect to a case in which the public security organ requests approval of arrest, where both parties have reached a settlement agreement, a people's procuratorate may take this into account as a factor in determining whether social danger exists or how great the social danger is. Where, upon review, it considers that arrest is unnecessary, it may make a decision not to approve arrest; at the stage of review for prosecution it may modify the compulsory measures in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 501."
+        },
+        "chapter": {
+          "en": "Section 2 Procedure for Public Prosecution Cases in Which the Parties Reach a Settlement"
+        }
+      },
+      {
+        "no": 502,
+        "text": {
+          "en": "With respect to a case transferred for prosecution by the public security organ, where both parties have reached a settlement agreement, a people's procuratorate may take this into account as a factor in determining whether a penalty needs to be imposed or exemption from penalty applies. Where the conditions for non-prosecution provided by law are met, it may decide not to prosecute.\nWhere public prosecution should be instituted in accordance with law, the people's procuratorate may put forward a sentencing recommendation of lenient punishment to the people's court."
+        },
+        "noLabel": {
+          "en": "Article 502."
+        },
+        "chapter": {
+          "en": "Section 2 Procedure for Public Prosecution Cases in Which the Parties Reach a Settlement"
+        }
+      },
+      {
+        "no": 503,
+        "text": {
+          "en": "Where a people's procuratorate intends to make a decision not to prosecute in a public prosecution case in which the parties have reached a settlement, it shall hear the opinions of both parties on the settlement and ascertain whether the criminal suspect has actually performed the settlement agreement and, where immediate performance is impossible, whether effective security has been provided, and shall take these into account as factors in deciding whether not to prosecute.\nWhere a party retracts before the decision not to prosecute is made, a new settlement may be reached. Where a new settlement cannot be reached, the people's procuratorate shall decide in accordance with law whether to prosecute or not to prosecute.\nWhere a party retracts after the decision not to prosecute is made, the people's procuratorate shall not revoke the original decision, unless there is evidence proving that the settlement violated the principles of voluntariness and lawfulness."
+        },
+        "noLabel": {
+          "en": "Article 503."
+        },
+        "chapter": {
+          "en": "Section 2 Procedure for Public Prosecution Cases in Which the Parties Reach a Settlement"
+        }
+      },
+      {
+        "no": 504,
+        "text": {
+          "en": "Where a criminal suspect or his relatives or friends force or induce the victim to reach a settlement by violence, threats, deception or other unlawful methods, or threaten or retaliate against the victim after the agreement has been fully performed, the settlement agreement shall be determined to be void. Where a decision not to approve arrest or a decision not to prosecute has already been made, the people's procuratorate may, according to the circumstances of the case, revoke the original decision and approve the arrest of the criminal suspect or institute public prosecution."
+        },
+        "noLabel": {
+          "en": "Article 504."
+        },
+        "chapter": {
+          "en": "Section 2 Procedure for Public Prosecution Cases in Which the Parties Reach a Settlement"
+        }
+      },
+      {
+        "no": 505,
+        "text": {
+          "en": "With respect to a case of embezzlement or bribery transferred for prosecution by a supervisory organ in which the criminal suspect or defendant is outside the territory, where the people's procuratorate considers that the facts of the crime have been ascertained, that the evidence is reliable and sufficient and that criminal responsibility should be investigated in accordance with law, it may institute public prosecution in a people's court.\nWith respect to a case of a crime seriously endangering national security or a crime of terrorist activity transferred for prosecution by a public security organ that needs to be tried promptly, in which the criminal suspect or defendant is outside the territory, where the people's procuratorate considers that the facts of the crime have been ascertained, that the evidence is reliable and sufficient and that criminal responsibility should be investigated in accordance with law, it may, with the approval of the Supreme People's Procuratorate, institute public prosecution in a people's court.\nCases provided in the preceding two paragraphs shall be prosecuted by the people's procuratorate at the same level as the intermediate people's court with jurisdiction.\nWhere a people's procuratorate institutes public prosecution, it shall submit to the people's court evidence that the defendant has left the territory."
+        },
+        "noLabel": {
+          "en": "Article 505."
+        },
+        "chapter": {
+          "en": "Section 3 Procedure for Trial in Absentia"
+        }
+      },
+      {
+        "no": 506,
+        "text": {
+          "en": "With respect to a case transferred for prosecution by a public security organ that needs to be reported to the Supreme People's Procuratorate for approval, where the people's procuratorate, after discussion by the procuratorial committee, puts forward an opinion on instituting public prosecution, it shall report the case level by level to the Supreme People's Procuratorate for approval. The materials submitted shall include the opinion recommending prosecution, the case review report, the report requesting approval and the evidence materials of the case."
+        },
+        "noLabel": {
+          "en": "Article 506."
+        },
+        "chapter": {
+          "en": "Section 3 Procedure for Trial in Absentia"
+        }
+      },
+      {
+        "no": 507,
+        "text": {
+          "en": "After receiving the case file materials submitted by a people's procuratorate at a lower level for approval of instituting public prosecution, the Supreme People's Procuratorate shall promptly assign a prosecutor to review the case file materials, put forward an opinion on approval or non-approval and report it to the chief procurator for decision."
+        },
+        "noLabel": {
+          "en": "Article 507."
+        },
+        "chapter": {
+          "en": "Section 3 Procedure for Trial in Absentia"
+        }
+      },
+      {
+        "no": 508,
+        "text": {
+          "en": "After receiving the written decision of approval of the Supreme People's Procuratorate, the people's procuratorate that requested approval shall institute public prosecution, and the bill of prosecution shall state the content approved by the Supreme People's Procuratorate."
+        },
+        "noLabel": {
+          "en": "Article 508."
+        },
+        "chapter": {
+          "en": "Section 3 Procedure for Trial in Absentia"
+        }
+      },
+      {
+        "no": 509,
+        "text": {
+          "en": "Where, during the period of review for prosecution, the criminal suspect voluntarily surrenders or is captured, the people's procuratorate shall review the case anew.\nWhere, during the period in which approval is requested for a case of a crime seriously endangering national security or a crime of terrorist activity, the criminal suspect voluntarily surrenders or is captured, the people's procuratorate that requested approval shall promptly withdraw the request and review the case anew."
+        },
+        "noLabel": {
+          "en": "Article 509."
+        },
+        "chapter": {
+          "en": "Section 3 Procedure for Trial in Absentia"
+        }
+      },
+      {
+        "no": 510,
+        "text": {
+          "en": "Where the defendant appears after public prosecution is instituted and the people's court intends to retry the case, the people's procuratorate shall consult the people's court on withdrawing the case and reviewing it anew."
+        },
+        "noLabel": {
+          "en": "Article 510."
+        },
+        "chapter": {
+          "en": "Section 3 Procedure for Trial in Absentia"
+        }
+      },
+      {
+        "no": 511,
+        "text": {
+          "en": "Where the trial has been suspended for more than six months because the defendant is unable to appear in court due to serious illness and the defendant is still unable to appear, and the defendant and his statutory agent or close relatives apply for or agree to resumption of the trial, the people's procuratorate may suggest that the people's court apply the procedure for trial by default."
+        },
+        "noLabel": {
+          "en": "Article 511."
+        },
+        "chapter": {
+          "en": "Section 3 Procedure for Trial in Absentia"
+        }
+      },
+      {
+        "no": 512,
+        "text": {
+          "en": "In a major criminal case such as a case of embezzlement or bribery or a case of terrorist activity, where the criminal suspect or defendant has absconded and cannot be brought to justice after being wanted for one year, and, under the Criminal Law, his illegal gains and other property involved in the case should be recovered, the people's procuratorate may apply to the people's court for confiscation of the illegal gains.\nWhere the criminal suspect or defendant has died and, under the Criminal Law, his illegal gains and other property involved in the case should be recovered, the people's procuratorate may also apply to the people's court for confiscation of the illegal gains."
+        },
+        "noLabel": {
+          "en": "Article 512."
+        },
+        "chapter": {
+          "en": "Section 4 Procedure for Confiscation of Illegal Gains in Cases Where Criminal Suspects or Defendants Flee or Die"
+        }
+      },
+      {
+        "no": 513,
+        "text": {
+          "en": "Where a criminal suspect or defendant absconds and conceals himself in order to evade investigation and criminal prosecution, or escapes in the course of criminal proceedings, it shall be determined as absconding.\nWhere a criminal suspect or defendant has been missing for two full years as a result of an accident, or has been missing as a result of an accident and the relevant organ certifies that he cannot survive, the matter shall be handled in accordance with the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 513."
+        },
+        "chapter": {
+          "en": "Section 4 Procedure for Confiscation of Illegal Gains in Cases Where Criminal Suspects or Defendants Flee or Die"
+        }
+      },
+      {
+        "no": 514,
+        "text": {
+          "en": "The issuance of a wanted order by a public security organ, or the issuance of a red notice by the Ministry of Public Security through INTERPOL, shall be determined as being wanted."
+        },
+        "noLabel": {
+          "en": "Article 514."
+        },
+        "chapter": {
+          "en": "Section 4 Procedure for Confiscation of Illegal Gains in Cases Where Criminal Suspects or Defendants Flee or Die"
+        }
+      },
+      {
+        "no": 515,
+        "text": {
+          "en": "Any property directly or indirectly generated or obtained by a criminal suspect or defendant through the commission of a crime shall be determined as illegal gains.\nWhere illegal gains have been partly or wholly transformed or converted into other property, the property after transformation or conversion shall be regarded as illegal gains as provided in the preceding paragraph.\nThe proceeds of property transformed or converted from illegal gains, or the proceeds from the portion of property mixed with illegal gains that corresponds to the illegal gains, shall also be regarded as illegal gains as provided in paragraph 1."
+        },
+        "noLabel": {
+          "en": "Article 515."
+        },
+        "chapter": {
+          "en": "Section 4 Procedure for Confiscation of Illegal Gains in Cases Where Criminal Suspects or Defendants Flee or Die"
+        }
+      },
+      {
+        "no": 516,
+        "text": {
+          "en": "Prohibited articles unlawfully held by a criminal suspect or defendant and his own property used for the crime shall be determined as other property involved in the case."
+        },
+        "noLabel": {
+          "en": "Article 516."
+        },
+        "chapter": {
+          "en": "Section 4 Procedure for Confiscation of Illegal Gains in Cases Where Criminal Suspects or Defendants Flee or Die"
+        }
+      },
+      {
+        "no": 517,
+        "text": {
+          "en": "Interested parties as provided in paragraph 3 of Article 299 of the Criminal Procedure Law include the close relatives of the criminal suspect or defendant and other natural persons and units that assert rights over the property whose confiscation is applied for.\nOther interested parties as provided in paragraph 2 of Article 299 and paragraph 2 of Article 300 of the Criminal Procedure Law mean the other natural persons and units asserting rights over the property whose confiscation is applied for as provided in the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 517."
+        },
+        "chapter": {
+          "en": "Section 4 Procedure for Confiscation of Illegal Gains in Cases Where Criminal Suspects or Defendants Flee or Die"
+        }
+      },
+      {
+        "no": 518,
+        "text": {
+          "en": "The review by a people's procuratorate of the opinion on confiscation of illegal gains transferred by a supervisory organ or a public security organ, the application to a people's court for confiscation of illegal gains, and the supervision of the investigation activities and trial activities in the procedure for confiscation of illegal gains shall be handled by the department responsible for arrest and prosecution."
+        },
+        "noLabel": {
+          "en": "Article 518."
+        },
+        "chapter": {
+          "en": "Section 4 Procedure for Confiscation of Illegal Gains in Cases Where Criminal Suspects or Defendants Flee or Die"
+        }
+      },
+      {
+        "no": 519,
+        "text": {
+          "en": "An application for confiscation of illegal gains shall be made by the people's procuratorate at the same level as the intermediate people's court with jurisdiction."
+        },
+        "noLabel": {
+          "en": "Article 519."
+        },
+        "chapter": {
+          "en": "Section 4 Procedure for Confiscation of Illegal Gains in Cases Where Criminal Suspects or Defendants Flee or Die"
+        }
+      },
+      {
+        "no": 520,
+        "text": {
+          "en": "Where a people's procuratorate applies to a people's court for confiscation of illegal gains, it shall prepare a written application for confiscation of illegal gains. The written application for confiscation of illegal gains shall state the following:\n(1) the basic information of the criminal suspect or defendant, including name, sex, date of birth, place of birth, place of household registration, citizen identity number, ethnicity, level of education, occupation, work unit and position and address;\n(2) the cause of action and the origin of the case;\n(3) the facts of the crime of the criminal suspect or defendant and the relevant evidence materials;\n(4) the circumstances of the criminal suspect or defendant having absconded, being wanted or having died;\n(5) the type, quantity, value and location of the property whose confiscation is applied for, and the list of property sealed up, seized or frozen and the relevant legal formalities;\n(6) the facts and evidence materials showing that the property whose confiscation is applied for constitutes illegal gains and other property involved in the case;\n(7) the reasons and legal basis for applying for confiscation of illegal gains;\n(8) whether there are close relatives and other interested parties, and the names, identities, addresses and contact information of the interested parties;\n(9) other content that should be stated.\nWhere the above materials need to be translated, the people's procuratorate shall transfer the translations together with the written application for confiscation of illegal gains to the people's court."
+        },
+        "noLabel": {
+          "en": "Article 520."
+        },
+        "chapter": {
+          "en": "Section 4 Procedure for Confiscation of Illegal Gains in Cases Where Criminal Suspects or Defendants Flee or Die"
+        }
+      },
+      {
+        "no": 521,
+        "text": {
+          "en": "Where a supervisory organ or a public security organ transfers an opinion on confiscation of illegal gains to a people's procuratorate, it shall be transferred by the supervisory organ or the public security organ at the same level as the people's procuratorate with jurisdiction."
+        },
+        "noLabel": {
+          "en": "Article 521."
+        },
+        "chapter": {
+          "en": "Section 4 Procedure for Confiscation of Illegal Gains in Cases Where Criminal Suspects or Defendants Flee or Die"
+        }
+      },
+      {
+        "no": 522,
+        "text": {
+          "en": "In reviewing an opinion on confiscation of illegal gains transferred by a supervisory organ or a public security organ, a people's procuratorate shall examine the following:\n(1) whether it falls within the jurisdiction of its own procuratorate;\n(2) whether it meets the conditions specified in paragraph 1 of Article 298 of the Criminal Procedure Law;\n(3) the basic information of the criminal suspect, including name, sex, nationality, date of birth, occupation and unit;\n(4) the facts of the crime suspected of the criminal suspect and the relevant evidence materials;\n(5) the circumstances of the criminal suspect having absconded, being missing, being wanted or having died, and whether the wanted order or the certificate of death has been transferred with the case;\n(6) the type, quantity and location of the illegal gains and other property involved in the case and the circumstances of sealing up, seizure or freezing, and whether the list of property sealed up, seized or frozen and the relevant legal formalities have been transferred with the case;\n(7) the facts and evidence materials relating to the illegal gains and other property involved in the case;\n(8) whether there are close relatives and other interested parties, and the names, identities, addresses and contact information of the interested parties.\nWith respect to evidence materials relating to the facts of the crime, the illegal gains and other property involved in the case that are unsuitable for transfer, it shall be examined whether the list, copies, photographs or other certification documents of the evidence have been transferred with the case."
+        },
+        "noLabel": {
+          "en": "Article 522."
+        },
+        "chapter": {
+          "en": "Section 4 Procedure for Confiscation of Illegal Gains in Cases Where Criminal Suspects or Defendants Flee or Die"
+        }
+      },
+      {
+        "no": 523,
+        "text": {
+          "en": "A people's procuratorate shall, within thirty days after receiving the opinion on confiscation of illegal gains transferred by a supervisory organ or a public security organ, decide whether to apply for confiscation of illegal gains. Where a decision cannot be made within thirty days, the period may be extended by fifteen days.\nWith respect to a case of confiscation of illegal gains transferred by a supervisory organ or a public security organ, where upon review it considers that the conditions specified in paragraph 1 of Article 298 of the Criminal Procedure Law are not met, it shall make a decision not to apply for confiscation of illegal gains and explain the reasons in writing to the supervisory organ or the public security organ; where it considers that evidence needs to be supplemented, it shall require the supervisory organ or the public security organ in writing to supplement the evidence and may, where necessary, investigate itself.\nThe time taken by the supervisory organ or the public security organ to supplement evidence shall not be counted in the time limit for handling the case of the people's procuratorate."
+        },
+        "noLabel": {
+          "en": "Article 523."
+        },
+        "chapter": {
+          "en": "Section 4 Procedure for Confiscation of Illegal Gains in Cases Where Criminal Suspects or Defendants Flee or Die"
+        }
+      },
+      {
+        "no": 524,
+        "text": {
+          "en": "Where a people's procuratorate discovers that a public security organ should initiate the procedure for confiscation of illegal gains but does not do so, it may require the public security organ to explain in writing within seven days the reasons for not initiating it.\nWhere, upon review, it considers that the reasons for not initiating given by the public security organ are untenable, it shall notify the public security organ to initiate the procedure."
+        },
+        "noLabel": {
+          "en": "Article 524."
+        },
+        "chapter": {
+          "en": "Section 4 Procedure for Confiscation of Illegal Gains in Cases Where Criminal Suspects or Defendants Flee or Die"
+        }
+      },
+      {
+        "no": 525,
+        "text": {
+          "en": "Where a people's procuratorate discovers unlawful circumstances in the investigation activities of a public security organ in the procedure for confiscation of illegal gains, it shall put forward an opinion on correction to the public security organ."
+        },
+        "noLabel": {
+          "en": "Article 525."
+        },
+        "chapter": {
+          "en": "Section 4 Procedure for Confiscation of Illegal Gains in Cases Where Criminal Suspects or Defendants Flee or Die"
+        }
+      },
+      {
+        "no": 526,
+        "text": {
+          "en": "In the course of reviewing an opinion on confiscation of illegal gains transferred by a supervisory organ or a public security organ, where the criminal suspect or defendant at large voluntarily surrenders or is captured, the people's procuratorate shall terminate the review and return the case file to the supervisory organ or the public security organ for handling."
+        },
+        "noLabel": {
+          "en": "Article 526."
+        },
+        "chapter": {
+          "en": "Section 4 Procedure for Confiscation of Illegal Gains in Cases Where Criminal Suspects or Defendants Flee or Die"
+        }
+      },
+      {
+        "no": 527,
+        "text": {
+          "en": "In a case investigated directly upon acceptance by a people's procuratorate in which the case is terminated because the criminal suspect has died and which meets the conditions specified in paragraph 1 of Article 298 of the Criminal Procedure Law, the department responsible for investigation shall initiate the procedure for confiscation of illegal gains and conduct an investigation.\nIn conducting the investigation, the department responsible for investigation shall ascertain the facts of the crime suspected of the criminal suspect, the circumstance of the death of the criminal suspect, and the circumstances of the illegal gains of the criminal suspect and other property involved in the case, and may seal up, seize, inquire into or freeze the illegal gains and other property involved in the case in accordance with law.\nWhere the department responsible for investigation considers that the conditions specified in paragraph 1 of Article 298 of the Criminal Procedure Law are met, it shall prepare an opinion on confiscation of illegal gains and transfer it together with the case file materials to the department responsible for investigation of the people's procuratorate with jurisdiction, and the department responsible for investigation of the people's procuratorate with jurisdiction shall transfer it to the department responsible for arrest and prosecution of the same procuratorate.\nThe department responsible for arrest and prosecution shall review the opinion on confiscation of illegal gains and decide whether to apply for confiscation of illegal gains; the specific procedure shall be governed by Articles 522 and 523 of these Rules."
+        },
+        "noLabel": {
+          "en": "Article 527."
+        },
+        "chapter": {
+          "en": "Section 4 Procedure for Confiscation of Illegal Gains in Cases Where Criminal Suspects or Defendants Flee or Die"
+        }
+      },
+      {
+        "no": 528,
+        "text": {
+          "en": "Where, in the course of review for prosecution by a people's procuratorate, the criminal suspect dies, or the criminal suspect in a major criminal case such as a case of embezzlement or bribery or a case of terrorist activity absconds and cannot be brought to justice after being wanted for one year, and, under the Criminal Law, his illegal gains and other property involved in the case should be recovered, the people's procuratorate may directly apply for confiscation of illegal gains.\nWhere, in the course of a people's court's trial of a case, the defendant dies and the trial is terminated by ruling, or the defendant escapes and the trial is suspended by ruling, the people's procuratorate may, in accordance with law, separately apply to the people's court for confiscation of illegal gains."
+        },
+        "noLabel": {
+          "en": "Article 528."
+        },
+        "chapter": {
+          "en": "Section 4 Procedure for Confiscation of Illegal Gains in Cases Where Criminal Suspects or Defendants Flee or Die"
+        }
+      },
+      {
+        "no": 529,
+        "text": {
+          "en": "Where a people's court tries an application for confiscation of illegal gains, the people's procuratorate shall bear the burden of proof.\nWhere a people's court holds a court session to try an application for confiscation of illegal gains, the people's procuratorate shall send personnel to appear in court."
+        },
+        "noLabel": {
+          "en": "Article 529."
+        },
+        "chapter": {
+          "en": "Section 4 Procedure for Confiscation of Illegal Gains in Cases Where Criminal Suspects or Defendants Flee or Die"
+        }
+      },
+      {
+        "no": 530,
+        "text": {
+          "en": "The prosecutor appearing in court shall read out the written application for confiscation of illegal gains and, at the stage of court investigation, present and read out evidence on the relevant facts that the property whose confiscation is applied for constitutes illegal gains and other property involved in the case."
+        },
+        "noLabel": {
+          "en": "Article 530."
+        },
+        "chapter": {
+          "en": "Section 4 Procedure for Confiscation of Illegal Gains in Cases Where Criminal Suspects or Defendants Flee or Die"
+        }
+      },
+      {
+        "no": 531,
+        "text": {
+          "en": "Where a people's procuratorate discovers that a people's court or judicial officers, in trying a case of confiscation of illegal gains, violate the litigation procedure provided by law, it shall put forward an opinion on correction to the people's court.\nWhere a people's procuratorate considers that a ruling of first instance made by a people's court at the same level under the procedure for confiscation of illegal gains is indeed erroneous, it shall, within five days, lodge a protest with the people's court at the next higher level.\nWhere the Supreme People's Procuratorate or a provincial people's procuratorate considers that a legally effective ruling already made by a people's court at a lower level under the procedure for confiscation of illegal gains is indeed erroneous, it shall, in accordance with the procedure for trial supervision, lodge a protest with the people's court at the same level."
+        },
+        "noLabel": {
+          "en": "Article 531."
+        },
+        "chapter": {
+          "en": "Section 4 Procedure for Confiscation of Illegal Gains in Cases Where Criminal Suspects or Defendants Flee or Die"
+        }
+      },
+      {
+        "no": 532,
+        "text": {
+          "en": "Where, in the course of the trial of a case, the criminal suspect or defendant at large voluntarily surrenders or is captured and the people's court terminates the trial in accordance with paragraph 1 of Article 301 of the Criminal Procedure Law, the people's procuratorate shall return the case file to the supervisory organ or the public security organ for handling."
+        },
+        "noLabel": {
+          "en": "Article 532."
+        },
+        "chapter": {
+          "en": "Section 4 Procedure for Confiscation of Illegal Gains in Cases Where Criminal Suspects or Defendants Flee or Die"
+        }
+      },
+      {
+        "no": 533,
+        "text": {
+          "en": "Confiscation of illegal gains required in circumstances other than those specified in paragraph 1 of Article 298 of the Criminal Procedure Law shall be carried out in accordance with the relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 533."
+        },
+        "chapter": {
+          "en": "Section 4 Procedure for Confiscation of Illegal Gains in Cases Where Criminal Suspects or Defendants Flee or Die"
+        }
+      },
+      {
+        "no": 534,
+        "text": {
+          "en": "With respect to a person with mental illness who has committed an act of violence endangering public security or seriously endangering the personal safety of citizens, which has reached the level of a crime, and who, upon appraisal through statutory procedure, does not bear criminal responsibility in accordance with law, and who may continue to endanger society, the people's procuratorate shall apply to the people's court for compulsory medical treatment.\nThe application for compulsory medical treatment and the supervision of decisions on compulsory medical treatment shall be handled by the department responsible for arrest and prosecution."
+        },
+        "noLabel": {
+          "en": "Article 534."
+        },
+        "chapter": {
+          "en": "Section 5 Procedure for Compulsory Medical Treatment of Mentally Ill Persons Who Are Not Criminally Liable in Accordance with Law"
+        }
+      },
+      {
+        "no": 535,
+        "text": {
+          "en": "An application for compulsory medical treatment shall be made by the people's procuratorate at the basic level of the place where the person subject to the application committed the act of violence; where it is more appropriate for the people's procuratorate of the place of residence of the person subject to the application to make the application, it may be made by the people's procuratorate at the basic level of that place of residence."
+        },
+        "noLabel": {
+          "en": "Article 535."
+        },
+        "chapter": {
+          "en": "Section 5 Procedure for Compulsory Medical Treatment of Mentally Ill Persons Who Are Not Criminally Liable in Accordance with Law"
+        }
+      },
+      {
+        "no": 536,
+        "text": {
+          "en": "Where a people's procuratorate applies to a people's court for compulsory medical treatment, it shall prepare a written application for compulsory medical treatment. The written application for compulsory medical treatment shall mainly include:\n(1) the basic information of the person with mental illness involved in the case, including name, sex, date of birth, place of birth, place of household registration, citizen identity number, ethnicity, level of education, occupation, work unit and position, address, and the circumstances and place of the interim protective restraint measures taken;\n(2) the basic information of the statutory agent of the person with mental illness involved in the case, including name, address and contact information;\n(3) the cause of action and the origin of the case;\n(4) the facts of the act of violence endangering public security or seriously endangering the personal safety of citizens committed by the person with mental illness involved in the case, including the time, place, means and consequences of the act of violence and the relevant evidence;\n(5) the basis on which the person with mental illness involved in the case does not bear criminal responsibility, including the relevant appraisal opinions and other evidence materials;\n(6) the possibility that the person with mental illness involved in the case will continue to endanger society;\n(7) the reasons and legal basis for applying for compulsory medical treatment."
+        },
+        "noLabel": {
+          "en": "Article 536."
+        },
+        "chapter": {
+          "en": "Section 5 Procedure for Compulsory Medical Treatment of Mentally Ill Persons Who Are Not Criminally Liable in Accordance with Law"
+        }
+      },
+      {
+        "no": 537,
+        "text": {
+          "en": "In reviewing an opinion on compulsory medical treatment transferred by a public security organ, a people's procuratorate shall ascertain:\n(1) whether it falls within the jurisdiction of its own procuratorate;\n(2) whether the identity of the person with mental illness involved in the case is clear, including name, sex, nationality, date of birth, occupation and unit;\n(3) the facts of the act of violence endangering public security or seriously endangering the personal safety of citizens committed by the person with mental illness involved in the case;\n(4) whether the procedure by which the public security organ appraised the person with mental illness involved in the case was lawful, and whether the person with mental illness involved in the case does not bear criminal responsibility in accordance with law;\n(5) whether the person with mental illness involved in the case may continue to endanger society;\n(6) whether the evidence materials have been transferred with the case, and whether the list, copies, photographs or other certification documents of evidence unsuitable for transfer have been transferred with the case;\n(7) whether the evidence is reliable and sufficient;\n(8) whether the interim protective restraint measures taken are appropriate."
+        },
+        "noLabel": {
+          "en": "Article 537."
+        },
+        "chapter": {
+          "en": "Section 5 Procedure for Compulsory Medical Treatment of Mentally Ill Persons Who Are Not Criminally Liable in Accordance with Law"
+        }
+      },
+      {
+        "no": 538,
+        "text": {
+          "en": "In handling a case of compulsory medical treatment transferred by a public security organ, a people's procuratorate may conduct investigation in the following ways, and the circumstances of the investigation shall be recorded and attached to the file:\n(1) meeting the person with mental illness involved in the case and hearing the opinions of his statutory agent and agent ad litem;\n(2) questioning the case-handling personnel and appraisers;\n(3) learning about the circumstances from the victim and his statutory agent and close relatives;\n(4) learning about the circumstances from the attending physician, close relatives, neighbours, other persons with knowledge or the grassroots organisation of the person with mental illness involved in the case;\n(5) entrusting an appraisal institution or appraiser with statutory qualifications to conduct an appraisal on the relevant specialised technical issues."
+        },
+        "noLabel": {
+          "en": "Article 538."
+        },
+        "chapter": {
+          "en": "Section 5 Procedure for Compulsory Medical Treatment of Mentally Ill Persons Who Are Not Criminally Liable in Accordance with Law"
+        }
+      },
+      {
+        "no": 539,
+        "text": {
+          "en": "A people's procuratorate shall, within thirty days after receiving the opinion on compulsory medical treatment transferred by a public security organ, decide whether to apply for compulsory medical treatment.\nWith respect to a case of compulsory medical treatment transferred by a public security organ, where upon review it considers that the conditions specified in Article 302 of the Criminal Procedure Law are not met, it shall make a decision not to apply for compulsory medical treatment and explain the reasons in writing to the public security organ. Where it considers that evidence needs to be supplemented, it shall require the public security organ in writing to supplement the evidence and may, where necessary, investigate itself.\nThe time taken by the public security organ to supplement evidence shall not be counted in the time limit for handling the case of the people's procuratorate."
+        },
+        "noLabel": {
+          "en": "Article 539."
+        },
+        "chapter": {
+          "en": "Section 5 Procedure for Compulsory Medical Treatment of Mentally Ill Persons Who Are Not Criminally Liable in Accordance with Law"
+        }
+      },
+      {
+        "no": 540,
+        "text": {
+          "en": "Where a people's procuratorate discovers that a public security organ should initiate the procedure for compulsory medical treatment but does not do so, it may require the public security organ to explain in writing within seven days the reasons for not initiating it.\nWhere, upon review, it considers that the reasons for not initiating given by the public security organ are untenable, it shall notify the public security organ to initiate the procedure for compulsory medical treatment.\nWhere, after receiving the notice to initiate the procedure for compulsory medical treatment, the public security organ does not initiate the procedure as required, the people's procuratorate shall put forward an opinion on correction."
+        },
+        "noLabel": {
+          "en": "Article 540."
+        },
+        "chapter": {
+          "en": "Section 5 Procedure for Compulsory Medical Treatment of Mentally Ill Persons Who Are Not Criminally Liable in Accordance with Law"
+        }
+      },
+      {
+        "no": 541,
+        "text": {
+          "en": "With respect to a case of compulsory medical treatment transferred by a public security organ, where a people's procuratorate discovers that the appraisal of the person with mental illness involved in the case by the public security organ violates legal provisions and that any of the following circumstances exists, it shall put forward an opinion on correction in accordance with law:\n(1) the appraisal institution does not have statutory qualifications;\n(2) the appraiser does not have statutory qualifications or violates the provisions on withdrawal;\n(3) the appraisal procedure violates the law or the relevant provisions, and the process and methods of appraisal violate the requirements of the relevant professional norms;\n(4) the appraisal document does not meet the statutory formal requirements;\n(5) the appraisal opinion has not been promptly communicated to the relevant persons in accordance with law;\n(6) the appraiser intentionally makes a false appraisal;\n(7) other circumstances violating legal provisions.\nIn supervising the procedure of psychiatric appraisal, a people's procuratorate may require the public security organ to conduct a supplementary appraisal or a fresh appraisal. Where necessary, it may question the appraiser and make a record, or entrust an appraisal institution with statutory qualifications to conduct a supplementary appraisal or a fresh appraisal."
+        },
+        "noLabel": {
+          "en": "Article 541."
+        },
+        "chapter": {
+          "en": "Section 5 Procedure for Compulsory Medical Treatment of Mentally Ill Persons Who Are Not Criminally Liable in Accordance with Law"
+        }
+      },
+      {
+        "no": 542,
+        "text": {
+          "en": "Where a people's procuratorate discovers that a public security organ has taken interim protective restraint measures against the person with mental illness involved in the case when it should not have done so, it shall put forward an opinion on correction.\nWhere it considers that a public security organ should have taken interim protective restraint measures but did not, it shall suggest that the public security organ take them."
+        },
+        "noLabel": {
+          "en": "Article 542."
+        },
+        "chapter": {
+          "en": "Section 5 Procedure for Compulsory Medical Treatment of Mentally Ill Persons Who Are Not Criminally Liable in Accordance with Law"
+        }
+      },
+      {
+        "no": 543,
+        "text": {
+          "en": "Where, in the course of review for prosecution, the criminal suspect is appraised as a person with mental illness who does not bear criminal responsibility in accordance with law, the people's procuratorate shall make a decision not to prosecute. Where it considers that the conditions specified in Article 302 of the Criminal Procedure Law are met, it shall apply to the people's court for compulsory medical treatment."
+        },
+        "noLabel": {
+          "en": "Article 543."
+        },
+        "chapter": {
+          "en": "Section 5 Procedure for Compulsory Medical Treatment of Mentally Ill Persons Who Are Not Criminally Liable in Accordance with Law"
+        }
+      },
+      {
+        "no": 544,
+        "text": {
+          "en": "Where a people's court holds a court session to try a case of compulsory medical treatment, the people's procuratorate shall send personnel to appear in court."
+        },
+        "noLabel": {
+          "en": "Article 544."
+        },
+        "chapter": {
+          "en": "Section 5 Procedure for Compulsory Medical Treatment of Mentally Ill Persons Who Are Not Criminally Liable in Accordance with Law"
+        }
+      },
+      {
+        "no": 545,
+        "text": {
+          "en": "Where a people's procuratorate discovers that the trial activities of a people's court in a case of compulsory medical treatment involve any of the following circumstances, it shall put forward an opinion on correction:\n(1) the statutory agent of the person subject to the application or of the defendant was not notified to be present;\n(2) where the person subject to the application or the defendant has not entrusted an agent ad litem, the legal aid institution was not notified to assign a lawyer to provide him with legal assistance;\n(3) a collegial panel was not formed, or the members of the collegial panel are not lawful;\n(4) a decision to try the case without a court session was made directly without a request by the statutory agent of the person subject to the application or of the defendant;\n(5) the person subject to the application was not met;\n(6) the person subject to the application or the defendant requested to appear in court and met the conditions for appearing, but was not permitted to appear;\n(7) the statutory time limit for trial was violated;\n(8) after receiving the written opinion of the people's procuratorate on correction of an improper decision on compulsory medical treatment, another collegial panel was not formed to try the case, or a reconsideration decision was not made within one month;\n(9) the decision on compulsory medical treatment or the decision to reject the application for compulsory medical treatment made by the people's court is improper;\n(10) other circumstances violating legal provisions."
+        },
+        "noLabel": {
+          "en": "Article 545."
+        },
+        "chapter": {
+          "en": "Section 5 Procedure for Compulsory Medical Treatment of Mentally Ill Persons Who Are Not Criminally Liable in Accordance with Law"
+        }
+      },
+      {
+        "no": 546,
+        "text": {
+          "en": "Where a prosecutor appearing in court discovers that a people's court or judicial officers, in trying a case of compulsory medical treatment, violate the litigation procedure provided by law, he shall record it in the case file and promptly report it to the chief procurator after adjournment, and the people's procuratorate shall put forward an opinion on correction to the people's court after the court hearing."
+        },
+        "noLabel": {
+          "en": "Article 546."
+        },
+        "chapter": {
+          "en": "Section 5 Procedure for Compulsory Medical Treatment of Mentally Ill Persons Who Are Not Criminally Liable in Accordance with Law"
+        }
+      },
+      {
+        "no": 547,
+        "text": {
+          "en": "Where a people's procuratorate considers that a decision on compulsory medical treatment or a decision to reject an application for compulsory medical treatment made by a people's court involves any of the following circumstances, it shall, within twenty days after receiving a copy of the written decision, put forward an opinion on correction to the people's court:\n(1) the facts on which the decision is based are unclear or indeed erroneous;\n(2) the evidence on which the decision is based is not reliable or not sufficient;\n(3) the evidence on which the decision is based should be excluded in accordance with law;\n(4) contradictions exist among the main evidence on which the decision is based;\n(5) there is reliable and sufficient evidence proving that compulsory medical treatment should be decided but the application was rejected, or that compulsory medical treatment should not be decided but was decided;\n(6) the statutory litigation procedure was seriously violated in the course of the trial, which may affect a fair trial and decision."
+        },
+        "noLabel": {
+          "en": "Article 547."
+        },
+        "chapter": {
+          "en": "Section 5 Procedure for Compulsory Medical Treatment of Mentally Ill Persons Who Are Not Criminally Liable in Accordance with Law"
+        }
+      },
+      {
+        "no": 548,
+        "text": {
+          "en": "Where, in the course of trying a case, a people's court discovers that the defendant meets the conditions for compulsory medical treatment and tries the case under the procedure for compulsory medical treatment, the people's procuratorate shall express its opinions at the court hearing.\nWhere a people's court makes a judgment acquitting the defendant or finding him not criminally responsible and a decision on compulsory medical treatment, the people's procuratorate shall review them. Where the judgment is indeed erroneous, it shall lodge a protest in accordance with law; where the decision on compulsory medical treatment is improper, or the failure to make such a decision is improper, it shall put forward an opinion on correction."
+        },
+        "noLabel": {
+          "en": "Article 548."
+        },
+        "chapter": {
+          "en": "Section 5 Procedure for Compulsory Medical Treatment of Mentally Ill Persons Who Are Not Criminally Liable in Accordance with Law"
+        }
+      },
+      {
+        "no": 549,
+        "text": {
+          "en": "Where, after receiving an application for reconsideration from the person subject to a decision on compulsory medical treatment, the victim and his statutory agent or close relatives, a people's court does not form a collegial panel to try the matter, or does not make a reconsideration decision within one month, or commits other unlawful acts, the people's procuratorate shall put forward an opinion on correction."
+        },
+        "noLabel": {
+          "en": "Article 549."
+        },
+        "chapter": {
+          "en": "Section 5 Procedure for Compulsory Medical Treatment of Mentally Ill Persons Who Are Not Criminally Liable in Accordance with Law"
+        }
+      },
+      {
+        "no": 550,
+        "text": {
+          "en": "A people's procuratorate shall supervise a decision of a people's court approving the termination of compulsory medical treatment and, where it discovers that the decision of the people's court to terminate compulsory medical treatment is improper, shall put forward an opinion on correction."
+        },
+        "noLabel": {
+          "en": "Article 550."
+        },
+        "chapter": {
+          "en": "Section 5 Procedure for Compulsory Medical Treatment of Mentally Ill Persons Who Are Not Criminally Liable in Accordance with Law"
+        }
+      },
+      {
+        "no": 551,
+        "text": {
+          "en": "A people's procuratorate shall exercise legal supervision over criminal litigation activities and, where it discovers unlawful circumstances, shall put forward a protest, an opinion on correction or a procuratorial suggestion in accordance with law.\nWith respect to facts suspected of being unlawful, a people's procuratorate may conduct investigation and verification in the following ways:\n(1) interrogating or questioning a criminal suspect;\n(2) inquiring of witnesses, victims or other participants in the proceedings;\n(3) questioning the case-handling personnel;\n(4) questioning persons present or other persons who may have knowledge;\n(5) hearing the opinions of the petitioner or complainant;\n(6) hearing the opinions of defenders and duty lawyers;\n(7) obtaining, inquiring into and reproducing the relevant registration forms and ledgers, legal documents, medical examination records and case file materials;\n(8) obtaining records of interrogation and of inquiry and the related audio and video recordings or other audio-visual materials;\n(9) conducting an examination or appraisal of injuries or illness;\n(10) other means of investigation and verification.\nA people's procuratorate shall not restrict the personal or property rights of the person under investigation in the course of investigation and verification."
+        },
+        "noLabel": {
+          "en": "Article 551."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 552,
+        "text": {
+          "en": "Where a people's procuratorate discovers unlawful conduct in criminal litigation activities, and the circumstances are relatively minor, the procuratorial personnel shall put forward an opinion on correction orally; where the circumstances are relatively serious, a notice of correction of unlawful conduct shall be issued upon decision of the chief procurator. With respect to unlawful circumstances of a general nature, a procuratorial suggestion shall be put forward to the relevant organ upon decision of the chief procurator. Where a crime is constituted, the matter shall be transferred to the relevant organ or department for investigation of criminal responsibility in accordance with law.\nWhere there is a petitioner or complainant, he shall be informed of the circumstances of the investigation and verification and of the correction of the unlawful conduct."
+        },
+        "noLabel": {
+          "en": "Article 552."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 553,
+        "text": {
+          "en": "Where a people's procuratorate issues a notice of correction of unlawful conduct, it shall supervise its implementation. Where the unit under supervision does not reply on the correction within the time limit specified in the notice of correction of unlawful conduct, the people's procuratorate shall urge a reply. Where, after being urged, the unit under supervision still does not reply or does not correct the matter without justified reasons, the people's procuratorate shall report the matter to the people's procuratorate at the next higher level."
+        },
+        "noLabel": {
+          "en": "Article 553."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 554,
+        "text": {
+          "en": "Where a unit under supervision applies for re-examination of an opinion on correction, the people's procuratorate shall conduct the re-examination within seven days after receiving the written opinion of the unit under supervision and shall promptly notify the unit applying for re-examination of the result. Where, upon re-examination, it considers the opinion on correction to be correct, it shall promptly report the matter to the people's procuratorate at the next higher level; where it considers the opinion on correction to be erroneous, it shall promptly revoke it.\nWhere, upon review, the people's procuratorate at the next higher level considers the opinion on correction of the people's procuratorate at the lower level to be correct, it shall promptly notify the superior organ or the competent organ of the unit under supervision and recommend that it urge the unit under supervision to correct the matter; where it considers the opinion on correction of the people's procuratorate at the lower level to be erroneous, it shall notify the people's procuratorate at the lower level in writing to revoke it, and the people's procuratorate at the lower level shall execute the notification and promptly explain the circumstances to the unit under supervision."
+        },
+        "noLabel": {
+          "en": "Article 554."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 555,
+        "text": {
+          "en": "Where a party, a defender, an agent ad litem or an interested party, in respect of conduct of a case-handling organ or its staff as provided in Article 117 of the Criminal Procedure Law, petitions or complains to that organ and, being dissatisfied with the disposition made by that organ or receiving no reply from it within the prescribed time, petitions the people's procuratorate, the people's procuratorate at the same level as the case-handling organ shall accept the petition.\nIn a case investigated directly upon acceptance by a people's procuratorate, where a party, a defender, an agent ad litem or an interested party is dissatisfied with the disposition of the people's procuratorate handling the case, he may petition the people's procuratorate at the next higher level, and the people's procuratorate at the next higher level shall accept the petition.\nWhere a person directly petitions a people's procuratorate without having petitioned or complained to the case-handling organ, or before the case-handling organ has made a disposition within the prescribed time, the people's procuratorate shall inform him to petition or complain to the case-handling organ. Where, in the course of review for arrest or review for prosecution, a people's procuratorate discovers unlawful circumstances as provided in Article 117 of the Criminal Procedure Law, it may directly supervise and correct them.\nWhere a party, a defender, an agent ad litem or an interested party submits a petition or complaint concerning unlawful conduct other than the circumstances provided in Article 117 of the Criminal Procedure Law, the people's procuratorate shall accept it, examine it promptly and handle it in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 555."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 556,
+        "text": {
+          "en": "Petitions and complaints concerning unlawful conduct of a people's procuratorate and its staff in handling cases shall be accepted, examined and handled by the department responsible for complaint and petition prosecution. Petitions submitted to a people's procuratorate against a disposition of another judicial organ shall be accepted by the department responsible for complaint and petition prosecution and then transferred to the relevant case-handling department for examination and handling.\nThe department examining and handling the matter shall put forward a review opinion within fifteen days from the date of acceptance. Where, with respect to a petition under Article 117 of the Criminal Procedure Law, the people's procuratorate considers upon examination that another judicial organ needs to explain the reasons, it shall require the relevant organ to explain the reasons and shall put forward a review opinion within fifteen days after receiving the explanation.\nWhere unlawful circumstances in the handling of a case by a people's procuratorate or its staff are substantiated, they shall be corrected; where no unlawful conduct exists, a written reply shall be given to the petitioner or complainant.\nWhere another judicial organ has handled a petition or complaint incorrectly, the people's procuratorate shall notify the relevant organ to correct it; where the handling is correct, it shall reply to the petitioner or complainant in writing."
+        },
+        "noLabel": {
+          "en": "Article 556."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 557,
+        "text": {
+          "en": "Where a victim and his statutory agent or close relatives, or an administrative law enforcement organ, considers that a public security organ should have filed and investigated a case in respect of a complaint made by him or a case transferred by him but did not do so, or where a party considers that a public security organ filed a case when it should not have done so, and the matter is raised with a people's procuratorate, the people's procuratorate shall accept it and conduct a review.\nWhere a people's procuratorate discovers that a public security organ may have failed to file and investigate a case that should have been filed and investigated, it shall conduct a review in accordance with law.\nWhere a people's procuratorate receives a complaint or tip-off, or discovers that an administrative law enforcement organ has not transferred a case suspected of a crime, it shall, with the approval of the chief procurator, put forward a procuratorial opinion to the administrative law enforcement organ requiring it to transfer the case suspected of a crime to the public security organ in accordance with the provisions on jurisdiction."
+        },
+        "noLabel": {
+          "en": "Article 557."
+        },
+        "chapter": {
+          "en": "Section 2 Supervision over Criminal Case Filing"
+        }
+      },
+      {
+        "no": 558,
+        "text": {
+          "en": "Where the department responsible for complaint and petition prosecution of a people's procuratorate accepts a complaint or petition to the effect that a public security organ filed a case when it should not have done so, or failed to file a case that it should have filed, it shall examine the matter on the basis of the facts and the law. Where it considers that the public security organ needs to explain the reasons for not filing or for filing the case, it shall promptly transfer the case to the department responsible for arrest and prosecution for handling; where it considers that the decision of the public security organ to file or not to file the case is correct, it shall prepare the relevant legal documents and reply to the complainant or petitioner."
+        },
+        "noLabel": {
+          "en": "Article 558."
+        },
+        "chapter": {
+          "en": "Section 2 Supervision over Criminal Case Filing"
+        }
+      },
+      {
+        "no": 559,
+        "text": {
+          "en": "Where, upon review, a people's procuratorate considers that a public security organ needs to explain the reasons for not filing a case, it shall require the public security organ to explain the reasons for not filing the case in writing.\nWhere there is evidence proving that a public security organ may have unlawfully used criminal means to intervene in a civil or economic dispute, or may have used case filing to carry out retaliation and frame-up, extortion or other unlawful case filing to obtain other illegal benefits, and the case has not yet been submitted for approval of arrest or transferred for prosecution, the people's procuratorate shall require the public security organ to explain the reasons for filing the case in writing."
+        },
+        "noLabel": {
+          "en": "Article 559."
+        },
+        "chapter": {
+          "en": "Section 2 Supervision over Criminal Case Filing"
+        }
+      },
+      {
+        "no": 560,
+        "text": {
+          "en": "Where a people's procuratorate requires a public security organ to explain the reasons for not filing or for filing a case, it shall notify the public security organ in writing and inform it that, within seven days after receiving the notification, it shall explain in writing the circumstances, basis and reasons for not filing or for filing the case and reply to the people's procuratorate together with the relevant evidence materials."
+        },
+        "noLabel": {
+          "en": "Article 560."
+        },
+        "chapter": {
+          "en": "Section 2 Supervision over Criminal Case Filing"
+        }
+      },
+      {
+        "no": 561,
+        "text": {
+          "en": "After the public security organ explains the reasons for not filing or for filing the case, the people's procuratorate shall conduct a review. Where it considers that the reasons given by the public security organ for not filing or for filing the case are untenable, it shall, upon decision of the chief procurator, notify the public security organ to file the case or to terminate the case.\nWhere a people's procuratorate considers that the reasons given by the public security organ for not filing or for filing the case are tenable, it shall, within ten days, inform the victim and his statutory agent or close relatives, or the administrative law enforcement organ, of the basis and reasons for not filing or for filing the case."
+        },
+        "noLabel": {
+          "en": "Article 561."
+        },
+        "chapter": {
+          "en": "Section 2 Supervision over Criminal Case Filing"
+        }
+      },
+      {
+        "no": 562,
+        "text": {
+          "en": "Where a public security organ, after accepting a report of a case, complaint or tip-off by a party, or a case suspected of a crime transferred by an administrative law enforcement organ, fails to decide within the prescribed time limit whether to file the case, and the party or the administrative law enforcement organ raises the matter with a people's procuratorate, the people's procuratorate shall accept it and conduct a review. Where, upon review, it considers that the prescribed time limit has not yet expired, it shall transfer the matter to the public security organ for handling and reply to the person reporting the case, the complainant, the tip-off provider or the administrative law enforcement organ; where it considers that the prescribed time limit has expired, it shall require the public security organ to explain in writing within seven days the reasons for failing to decide whether to file the case within the time limit and to reply to the people's procuratorate together with the relevant evidence materials. Where the public security organ neither explains the reasons nor makes a decision to file or not to file the case within seven days, the people's procuratorate shall put forward an opinion on correction. Where, upon review of the relevant evidence materials, the people's procuratorate considers that the conditions for filing a case are met, it shall notify the public security organ to file the case."
+        },
+        "noLabel": {
+          "en": "Article 562."
+        },
+        "chapter": {
+          "en": "Section 2 Supervision over Criminal Case Filing"
+        }
+      },
+      {
+        "no": 563,
+        "text": {
+          "en": "Where a people's procuratorate notifies a public security organ to file or to terminate a case, it shall prepare a written notice to file a case or a written notice to terminate a case, state the basis and reasons, serve it together with the evidence materials on the public security organ, and inform the public security organ that it shall file the case within fifteen days after receiving the written notice to file a case, and that, where it has no objection to the written notice to terminate a case, it shall terminate the case immediately, and that it shall promptly serve the written decision to file the case or the written decision to terminate the case on the people's procuratorate."
+        },
+        "noLabel": {
+          "en": "Article 563."
+        },
+        "chapter": {
+          "en": "Section 2 Supervision over Criminal Case Filing"
+        }
+      },
+      {
+        "no": 564,
+        "text": {
+          "en": "Where a people's procuratorate notifies a public security organ to file or to terminate a case, it shall supervise the implementation in accordance with law.\nWhere, more than fifteen days after receiving the written notice to file a case or the written notice to terminate a case, the public security organ neither files the case nor requests reconsideration or review, and does not terminate the case, the people's procuratorate shall issue a notice of correction of unlawful conduct. Where the public security organ still does not correct the matter, the matter shall be reported to the people's procuratorate at the next higher level for consultation with the public security organ at the same level in handling it.\nWhere a public security organ has not concluded the investigation within three months after filing a case, the people's procuratorate may send the public security organ a letter urging the handling of a case under case-filing supervision, requiring the public security organ to promptly provide the people's procuratorate with feedback on the progress of the investigation."
+        },
+        "noLabel": {
+          "en": "Article 564."
+        },
+        "chapter": {
+          "en": "Section 2 Supervision over Criminal Case Filing"
+        }
+      },
+      {
+        "no": 565,
+        "text": {
+          "en": "Where a public security organ considers that a notice to terminate a case issued by a people's procuratorate is erroneous and requests reconsideration by the people's procuratorate at the same level, the people's procuratorate shall review the matter anew. It shall decide whether to change the notice within seven days after receiving the written opinion requesting reconsideration and the case file materials, and notify the public security organ.\nWhere a public security organ does not accept the reconsideration decision of the people's procuratorate and submits a request for review to the people's procuratorate at the next higher level, the people's procuratorate at the higher level shall, within fifteen days after receiving the written opinion requesting review and the case file materials, decide whether to change the notice and notify the people's procuratorate at the lower level and the public security organ for execution.\nWhere, upon review, the people's procuratorate at the higher level considers that the notice to terminate the case is erroneous, the people's procuratorate at the lower level shall correct it immediately; where, upon review, the people's procuratorate at the higher level considers that the notice to terminate the case is correct, it shall make a review decision and serve it on the public security organ at the lower level."
+        },
+        "noLabel": {
+          "en": "Article 565."
+        },
+        "chapter": {
+          "en": "Section 2 Supervision over Criminal Case Filing"
+        }
+      },
+      {
+        "no": 566,
+        "text": {
+          "en": "Where the department responsible for arrest and prosecution of a people's procuratorate discovers that the department responsible for investigation of the same procuratorate has failed to file and investigate a case that should be filed and investigated, or has filed and investigated a case that should not be filed and investigated, it shall suggest that the department responsible for investigation file and investigate the case or terminate the case. Where the suggestion is not adopted, the matter shall be reported to the chief procurator for decision."
+        },
+        "noLabel": {
+          "en": "Article 566."
+        },
+        "chapter": {
+          "en": "Section 2 Supervision over Criminal Case Filing"
+        }
+      },
+      {
+        "no": 567,
+        "text": {
+          "en": "A people's procuratorate shall supervise whether the following unlawful conduct exists in investigation activities:\n(1) collecting statements of criminal suspects by torture or other unlawful methods;\n(2) failing to audio-record or video-record the interrogation of a criminal suspect where it should be audio-recorded or video-recorded in accordance with law, or interrogating a criminal suspect outside a statutory place of custody;\n(3) collecting witness testimony or victim statements by violence, threats, unlawful restriction of personal freedom or other unlawful methods, or preventing witnesses from testifying or instigating others to give false testimony by violence, threats or other means;\n(4) forging, concealing, destroying, substituting or privately altering evidence, or helping a party to destroy or forge evidence;\n(5) violating the provisions of the Criminal Procedure Law on the decision, execution, modification and revocation of compulsory measures, or failing to release the person, lift the measures or modify them upon expiry of the statutory period of compulsory measures;\n(6) failing to return the guarantee deposit for release on guarantee pending trial that should be returned;\n(7) violating the provisions of the Criminal Procedure Law on interrogation, inquiry, inquest, examination, search, appraisal and the adoption of technical investigation measures;\n(8) sealing up, seizing or freezing property unrelated to the case, or failing to lift sealing up, seizure or freezing that should be lifted;\n(9) embezzling, misappropriating, privately distributing, substituting or using in violation of provisions the property and its fruits that have been sealed up, seized or frozen;\n(10) terminating a case that should not be terminated;\n(11) investigators failing to withdraw when they should withdraw;\n(12) failing to inform a criminal suspect of his litigation rights where they should be so informed in accordance with law, thereby affecting the exercise by the criminal suspect of his litigation rights;\n(13) failing to notify the family members of a criminal suspect after criminal detention, arrest or residential surveillance at a designated place of residence where they should be notified in accordance with law;\n(14) preventing a party, a defender, an agent ad litem or a duty lawyer from exercising litigation rights in accordance with law;\n(15) failing to issue an explanation or provide certification materials on the lawfulness of the collection of evidence where it should do so;\n(16) other conduct in investigation activities that violates legal provisions."
+        },
+        "noLabel": {
+          "en": "Article 567."
+        },
+        "chapter": {
+          "en": "Section 3 Supervision over Investigative Activities"
+        }
+      },
+      {
+        "no": 568,
+        "text": {
+          "en": "Where a people's procuratorate discovers that unlawful circumstances in investigation activities already constitute a suspected crime and fall within the jurisdiction of people's procuratorates, it shall file a case and investigate in accordance with law; where they do not fall within the jurisdiction of people's procuratorates, it shall transfer the matter to the organ with jurisdiction in accordance with the relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 568."
+        },
+        "chapter": {
+          "en": "Section 3 Supervision over Investigative Activities"
+        }
+      },
+      {
+        "no": 569,
+        "text": {
+          "en": "Where the department responsible for arrest and prosecution of a people's procuratorate discovers unlawful circumstances in the investigation activities of the department responsible for investigation of the same procuratorate, it shall put forward an opinion on correction. Where it is necessary to pursue the responsibility of the relevant persons for unlawful or disciplinary conduct, it shall report the matter to the chief procurator.\nWhere a people's procuratorate at a higher level discovers unlawful circumstances in the investigation activities of a people's procuratorate at a lower level, it shall notify it to correct them. The people's procuratorate at the lower level shall correct them promptly and report the correction to the people's procuratorate at the higher level."
+        },
+        "noLabel": {
+          "en": "Article 569."
+        },
+        "chapter": {
+          "en": "Section 3 Supervision over Investigative Activities"
+        }
+      },
+      {
+        "no": 570,
+        "text": {
+          "en": "A people's procuratorate shall supervise whether the following unlawful conduct exists in trial activities:\n(1) a people's court accepting a criminal case in violation of the provisions on jurisdiction;\n(2) a people's court violating the statutory time limits for trial and for service in trying a case;\n(3) the members of a court not conforming to legal provisions, or failing to withdraw when they should withdraw in accordance with provisions;\n(4) a court violating statutory procedure in trying a case;\n(5) infringing the litigation rights and other lawful rights of parties and other participants in the proceedings;\n(6) decisions made by a court on relevant procedural issues in the course of the trial in violation of legal provisions;\n(7) ruling to remand a case for retrial in violation of legal provisions;\n(8) intentionally destroying, tampering with, concealing, forging or secretly substituting evidence or other litigation materials, or deciding a case on the basis of evidence that has not been investigated and cross-examined through statutory procedure;\n(9) failing to investigate and collect the relevant evidence that should be investigated and collected in accordance with law;\n(10) perverting the law for personal gain and intentionally deciding a case in perversion of the facts and the law;\n(11) accepting or extorting property or other benefits from a party, his close relatives or a lawyer entrusted by him or from others;\n(12) taking compulsory measures in violation of legal provisions, or failing to release the person, lift the measures or modify them upon expiry of the statutory period of compulsory measures;\n(13) failing to return the guarantee deposit for release on guarantee pending trial that should be returned;\n(14) sealing up, seizing or freezing property unrelated to the case, or failing to lift sealing up, seizure or freezing that should be lifted;\n(15) embezzling, misappropriating, privately distributing, substituting or using in violation of provisions the property and its fruits that have been sealed up, seized or frozen;\n(16) other conduct violating legal provisions."
+        },
+        "noLabel": {
+          "en": "Article 570."
+        },
+        "chapter": {
+          "en": "Section 4 Supervision over Trial Activities"
+        }
+      },
+      {
+        "no": 571,
+        "text": {
+          "en": "The chief procurator of a people's procuratorate, or a deputy chief procurator entrusted by the chief procurator, may attend meetings of the adjudication committee of the people's court at the same level as a non-voting participant and perform the duty of legal supervision in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 571."
+        },
+        "chapter": {
+          "en": "Section 4 Supervision over Trial Activities"
+        }
+      },
+      {
+        "no": 572,
+        "text": {
+          "en": "Where, in supervising trial activities, a people's procuratorate discovers that a people's court or judicial officers violate the litigation procedure provided by law in trying a case, it shall put forward an opinion on correction to the people's court.\nAn opinion on correction of court hearing activities that violate procedure put forward by a people's procuratorate shall be put forward by the people's procuratorate after the court hearing. Where procuratorial personnel appearing in court discover that the court trial violates the litigation procedure provided by law, they shall promptly report the matter to the chief procurator after adjournment."
+        },
+        "noLabel": {
+          "en": "Article 572."
+        },
+        "chapter": {
+          "en": "Section 4 Supervision over Trial Activities"
+        }
+      },
+      {
+        "no": 573,
+        "text": {
+          "en": "After a criminal suspect or defendant is arrested, the people's procuratorate shall continue to review the necessity of custody."
+        },
+        "noLabel": {
+          "en": "Article 573."
+        },
+        "chapter": {
+          "en": "Section 5 Review of the Necessity of Custody"
+        }
+      },
+      {
+        "no": 574,
+        "text": {
+          "en": "A people's procuratorate may, in the course of handling a case, review the necessity of custody on its own initiative by virtue of its functions and powers.\nA criminal suspect or defendant and his statutory agent, close relative or defender may apply to the people's procuratorate for a review of the necessity of custody. The application shall state the reasons why continued custody is unnecessary, and the relevant evidence or other materials shall be provided where available.\nA house of detention may, on the basis of the physical condition of the person in custody, suggest that the people's procuratorate review the necessity of custody."
+        },
+        "noLabel": {
+          "en": "Article 574."
+        },
+        "chapter": {
+          "en": "Section 5 Review of the Necessity of Custody"
+        }
+      },
+      {
+        "no": 575,
+        "text": {
+          "en": "The department responsible for arrest and prosecution shall, in accordance with law, review the necessity of custody at the investigation and trial stages. Where, upon review, it considers that continued custody is unnecessary, it shall suggest that the public security organ or the people's court release the criminal suspect or defendant or modify the compulsory measures.\nAt the stage of review for prosecution, where the department responsible for arrest and prosecution considers upon review that continued custody is unnecessary, it shall directly release the criminal suspect or modify the compulsory measures.\nWhere the department responsible for criminal execution prosecution receives the relevant materials or discovers that continued custody is unnecessary, it shall promptly transfer the relevant materials and opinions to the department responsible for arrest and prosecution."
+        },
+        "noLabel": {
+          "en": "Article 575."
+        },
+        "chapter": {
+          "en": "Section 5 Review of the Necessity of Custody"
+        }
+      },
+      {
+        "no": 576,
+        "text": {
+          "en": "After the department responsible for complaint and petition prosecution or the department responsible for case management of the people's procuratorate at the same level as the case-handling organ receives an application for review of the necessity of custody, it shall transfer it to the department responsible for arrest and prosecution of the same procuratorate on the same day.\nWhere another people's procuratorate receives an application for review of the necessity of custody, it shall inform the applicant to submit the application to the people's procuratorate at the same level as the case-handling organ, or shall transfer the application materials to the people's procuratorate at the same level as the case-handling organ within two days and inform the applicant."
+        },
+        "noLabel": {
+          "en": "Article 576."
+        },
+        "chapter": {
+          "en": "Section 5 Review of the Necessity of Custody"
+        }
+      },
+      {
+        "no": 577,
+        "text": {
+          "en": "A people's procuratorate may review the necessity of custody in the following ways:\n(1) reviewing the reasons and supporting materials for the claim that continued custody of the criminal suspect or defendant is unnecessary;\n(2) hearing the opinions of the criminal suspect or defendant and his statutory agent and defender;\n(3) hearing the opinions of the victim and his statutory agent and agent ad litem and ascertaining whether a settlement agreement has been reached;\n(4) hearing the opinions of the case-handling organ;\n(5) investigating and verifying the physical health of the criminal suspect or defendant;\n(6) other means that need to be adopted.\nWhere necessary, a public review may be conducted in accordance with the relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 577."
+        },
+        "chapter": {
+          "en": "Section 5 Review of the Necessity of Custody"
+        }
+      },
+      {
+        "no": 578,
+        "text": {
+          "en": "A people's procuratorate shall comprehensively assess whether it is necessary to continue the custody of a criminal suspect or defendant on the basis of factors such as the facts of the crime suspected, the subjective viciousness, the manifestation of repentance, the physical condition, the progress of the case, the penalty that may be imposed and whether there is a danger of further endangering society."
+        },
+        "noLabel": {
+          "en": "Article 578."
+        },
+        "chapter": {
+          "en": "Section 5 Review of the Necessity of Custody"
+        }
+      },
+      {
+        "no": 579,
+        "text": {
+          "en": "Where a people's procuratorate discovers that a criminal suspect or defendant falls under any of the following circumstances, it shall suggest to the case-handling organ that he be released or that the compulsory measures be modified:\n(1) the evidence of the case has undergone a major change and there is no evidence proving that facts of a crime exist or that the criminal conduct was committed by the criminal suspect or defendant;\n(2) the facts or circumstances of the case have changed and the criminal suspect or defendant may be sentenced to criminal detention or control, or to a supplementary penalty applied independently, or exempted from criminal punishment, or acquitted;\n(3) continued custody of the criminal suspect or defendant would result in the period of custody exceeding the term of penalty that may lawfully be imposed;\n(4) the facts of the case have basically been ascertained and the evidence has been collected and fixed, and the conditions for release on guarantee pending trial or residential surveillance are met."
+        },
+        "noLabel": {
+          "en": "Article 579."
+        },
+        "chapter": {
+          "en": "Section 5 Review of the Necessity of Custody"
+        }
+      },
+      {
+        "no": 580,
+        "text": {
+          "en": "Where a people's procuratorate discovers that a criminal suspect or defendant falls under any of the following circumstances and manifests repentance so that no social danger would arise without custody, it may suggest to the case-handling organ that he be released or that the compulsory measures be modified:\n(1) he is a preparer or a person who discontinued the crime;\n(2) he is an accessory or a person who acted under coercion in a joint crime;\n(3) the crime was one of negligence;\n(4) the defence exceeded the limits of necessity or the avoidance of danger exceeded the limits of necessity;\n(5) he is a first offender with relatively small subjective viciousness;\n(6) he is a minor or a person who has reached the age of seventy-five;\n(7) he has voluntarily reached a settlement agreement with the injured party in accordance with law and has performed it or provided security;\n(8) he pleads guilty and accepts punishment;\n(9) he suffers from a serious illness and is unable to take care of himself;\n(10) she is pregnant or is breastfeeding her own infant;\n(11) he is the sole supporter of a person unable to take care of himself;\n(12) he may be sentenced to fixed-term imprisonment of not more than one year or granted a suspended sentence;\n(13) other circumstances in which continued custody is unnecessary."
+        },
+        "noLabel": {
+          "en": "Article 580."
+        },
+        "chapter": {
+          "en": "Section 5 Review of the Necessity of Custody"
+        }
+      },
+      {
+        "no": 581,
+        "text": {
+          "en": "Where a people's procuratorate issues a written recommendation to a case-handling organ to release a criminal suspect or defendant or to modify the compulsory measures, it shall state the reasons and legal basis for the claim that continued custody is unnecessary and require the case-handling organ to reply on the handling within ten days.\nA people's procuratorate shall follow up on how the case-handling organ handles the recommendation to release or to modify the compulsory measures. Where the case-handling organ does not reply on the handling within ten days, the people's procuratorate shall put forward an opinion on correction."
+        },
+        "noLabel": {
+          "en": "Article 581."
+        },
+        "chapter": {
+          "en": "Section 5 Review of the Necessity of Custody"
+        }
+      },
+      {
+        "no": 582,
+        "text": {
+          "en": "With respect to a case reviewed upon application, after the review is concluded, the people's procuratorate shall promptly inform the applicant in writing of the circumstances of the recommendation made and of how the public security organ or the people's court handled it, or of the review opinion and reasons for holding that continued custody is necessary."
+        },
+        "noLabel": {
+          "en": "Article 582."
+        },
+        "chapter": {
+          "en": "Section 5 Review of the Necessity of Custody"
+        }
+      },
+      {
+        "no": 583,
+        "text": {
+          "en": "A people's procuratorate shall exercise legal supervision in accordance with law over whether the judgments and rulings of people's courts are correct and, where a judgment or ruling of a people's court is indeed erroneous, shall lodge a protest in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 583."
+        },
+        "chapter": {
+          "en": "Section 6 Supervision over Criminal Judgments and Rulings"
+        }
+      },
+      {
+        "no": 584,
+        "text": {
+          "en": "Where a people's procuratorate considers that a judgment or ruling of first instance of a people's court at the same level involves any of the following circumstances, it shall lodge a protest:\n(1) the facts ascertained are indeed erroneous, or the evidence on which conviction and sentencing are based is not reliable or not sufficient;\n(2) there is reliable and sufficient evidence proving that a person who is guilty was acquitted, or that a person who is innocent was convicted;\n(3) a serious crime was given a light penalty or a minor crime was given a heavy penalty, and the application of the penalty is manifestly improper;\n(4) the charge determined is incorrect, one crime being adjudicated as several crimes or several crimes as one crime, thereby affecting sentencing or causing a serious social impact;\n(5) exemption from criminal punishment, or the application of a suspended sentence, a prohibition order or restriction on commutation of penalty is erroneous;\n(6) the people's court seriously violated the litigation procedure provided by law in the course of the trial."
+        },
+        "noLabel": {
+          "en": "Article 584."
+        },
+        "chapter": {
+          "en": "Section 6 Supervision over Criminal Judgments and Rulings"
+        }
+      },
+      {
+        "no": 585,
+        "text": {
+          "en": "After receiving the written judgment or ruling of first instance of a people's court, a people's procuratorate shall examine it promptly. With respect to a case in which a protest needs to be lodged, the matter shall be reported to the chief procurator for decision."
+        },
+        "noLabel": {
+          "en": "Article 585."
+        },
+        "chapter": {
+          "en": "Section 6 Supervision over Criminal Judgments and Rulings"
+        }
+      },
+      {
+        "no": 586,
+        "text": {
+          "en": "A people's procuratorate shall lodge a protest against a judgment of first instance of a people's court at the same level within ten days from the second day after receiving the written judgment; it shall lodge a protest against a ruling of first instance within five days from the second day after receiving the written ruling."
+        },
+        "noLabel": {
+          "en": "Article 586."
+        },
+        "chapter": {
+          "en": "Section 6 Supervision over Criminal Judgments and Rulings"
+        }
+      },
+      {
+        "no": 587,
+        "text": {
+          "en": "Where a people's procuratorate lodges a protest against a judgment or ruling of first instance of a people's court at the same level, it shall prepare a written protest, submit it through the people's court of original trial to the people's court at the next higher level, and report a copy of the written protest together with the case file materials to the people's procuratorate at the next higher level."
+        },
+        "noLabel": {
+          "en": "Article 587."
+        },
+        "chapter": {
+          "en": "Section 6 Supervision over Criminal Judgments and Rulings"
+        }
+      },
+      {
+        "no": 588,
+        "text": {
+          "en": "Where a victim and his statutory agent are dissatisfied with a judgment of first instance of a people's court at any local level and, within five days after receiving the written judgment, request the people's procuratorate to lodge a protest, the people's procuratorate shall review the matter immediately, decide within five days after receiving the request of the victim and his statutory agent whether to lodge a protest and reply to the requester. Where, upon review, it considers that a protest should be lodged, the provisions of Articles 584 to 587 of these Rules shall be applied.\nWhere a victim and his statutory agent request the people's procuratorate to lodge a protest more than five days after receiving the written judgment, the people's procuratorate shall decide whether to accept the request."
+        },
+        "noLabel": {
+          "en": "Article 588."
+        },
+        "chapter": {
+          "en": "Section 6 Supervision over Criminal Judgments and Rulings"
+        }
+      },
+      {
+        "no": 589,
+        "text": {
+          "en": "Where, with respect to a case in which a people's procuratorate at a lower level has lodged a protest under the procedure of second instance, the people's procuratorate at the next higher level considers the protest to be correct, it shall support the protest.\nWhere the people's procuratorate at the next higher level considers the protest to be improper, it shall hear the opinions of the people's procuratorate at the lower level. Where, after hearing the opinions, it still considers the protest to be improper, it shall withdraw the protest with the people's court at the same level and notify the people's procuratorate at the lower level.\nWhere, within the time limit for appeal or protest, the people's procuratorate at the next higher level discovers a case in which the people's procuratorate at the lower level should have lodged a protest but did not, it may instruct the people's procuratorate at the lower level to lodge a protest in accordance with law.\nWhere the people's procuratorate at the next higher level supports the protest in whole or in part, it may change or supplement the reasons for the protest, promptly prepare a written opinion supporting the protest and notify the people's procuratorate that lodged the protest."
+        },
+        "noLabel": {
+          "en": "Article 589."
+        },
+        "chapter": {
+          "en": "Section 6 Supervision over Criminal Judgments and Rulings"
+        }
+      },
+      {
+        "no": 590,
+        "text": {
+          "en": "Where a court of second instance remands a case to the people's court of original trial for retrial under the procedure of first instance, and the people's procuratorate considers that the judgment or ruling after retrial is indeed erroneous, it may lodge a protest under the procedure of second instance."
+        },
+        "noLabel": {
+          "en": "Article 590."
+        },
+        "chapter": {
+          "en": "Section 6 Supervision over Criminal Judgments and Rulings"
+        }
+      },
+      {
+        "no": 591,
+        "text": {
+          "en": "Where a people's procuratorate considers that a legally effective judgment or ruling of a people's court is indeed erroneous and involves any of the following circumstances, it shall, in accordance with the procedure for trial supervision, lodge a protest with the people's court:\n(1) new evidence proves that the facts ascertained in the original judgment or ruling are indeed erroneous and may affect conviction and sentencing;\n(2) the evidence on which conviction and sentencing are based is not reliable or not sufficient;\n(3) the evidence on which conviction and sentencing are based should be excluded in accordance with law;\n(4) contradictions exist among the main evidence on which conviction and sentencing are based;\n(5) the main factual basis of the original judgment or ruling has been changed or revoked in accordance with law;\n(6) the charge determined is erroneous and manifestly affects sentencing;\n(7) the provisions of law on the limitation period for prosecution have been violated;\n(8) the sentencing is manifestly improper;\n(9) the litigation procedure provided by law has been violated, which may affect a fair trial;\n(10) judicial officers committed embezzlement, bribery, malpractice for personal gain or perversion of the law in deciding the case.\nWith respect to a legally effective judgment or ruling of a people's court at the same level, where a people's procuratorate considers that it may be erroneous, it shall assign another prosecutor or prosecutor case-handling team to conduct a review. Where, upon review, it considers that any of the circumstances in the preceding paragraph exists, it shall request the people's procuratorate at the next higher level to lodge a protest.\nThe review of a legally effective judgment or ruling shall be governed with reference to Article 585 of these Rules."
+        },
+        "noLabel": {
+          "en": "Article 591."
+        },
+        "chapter": {
+          "en": "Section 6 Supervision over Criminal Judgments and Rulings"
+        }
+      },
+      {
+        "no": 592,
+        "text": {
+          "en": "With respect to a case in which a higher people's court has imposed a death sentence with a two-year suspension of execution, where the provincial people's procuratorate considers that the sentence is indeed erroneous and requests a protest, it shall generally do so within three months after receiving the effective judgment or ruling, and in no case later than six months."
+        },
+        "noLabel": {
+          "en": "Article 592."
+        },
+        "chapter": {
+          "en": "Section 6 Supervision over Criminal Judgments and Rulings"
+        }
+      },
+      {
+        "no": 593,
+        "text": {
+          "en": "Where a party and his statutory agent or close relatives consider that a legally effective judgment or ruling of a people's court is indeed erroneous and petition a people's procuratorate, the matter shall be handled in accordance with law by the people's procuratorate at the same level as the people's court that made the effective judgment or ruling.\nWhere a party and his statutory agent or close relatives directly petition the people's procuratorate at a higher level, the people's procuratorate at the higher level may refer the matter to the people's procuratorate at the same level as the people's court that made the effective judgment or ruling for acceptance; where the circumstances of the case are major, difficult and complex, the people's procuratorate at the higher level may accept it directly.\nWhere a party and his statutory agent or close relatives petition against a legally effective judgment or ruling of a people's court and, after the people's procuratorate has decided upon re-examination not to lodge a protest, continue to petition, the people's procuratorate at the next higher level shall accept the petition."
+        },
+        "noLabel": {
+          "en": "Article 593."
+        },
+        "chapter": {
+          "en": "Section 6 Supervision over Criminal Judgments and Rulings"
+        }
+      },
+      {
+        "no": 594,
+        "text": {
+          "en": "With respect to a petition against a legally effective judgment or ruling of a people's court that has been handled by people's procuratorates at two levels and has been re-examined by the provincial people's procuratorate, the people's procuratorate shall not conduct a further re-examination if there is no new evidence, except where the defendant of the original trial may be acquitted or the judgment or ruling may involve other major errors."
+        },
+        "noLabel": {
+          "en": "Article 594."
+        },
+        "chapter": {
+          "en": "Section 6 Supervision over Criminal Judgments and Rulings"
+        }
+      },
+      {
+        "no": 595,
+        "text": {
+          "en": "After re-examining a petition against a legally effective judgment or ruling, where a people's procuratorate considers that a protest needs to be requested or lodged, it shall report the matter to the chief procurator for decision.\nAfter re-examining a petition against a legally effective judgment or ruling of a people's court at the same level, where a people's procuratorate at any local level considers that a protest needs to be lodged, it shall request the people's procuratorate at the next higher level to lodge a protest.\nAfter reviewing a petition case in which a people's procuratorate at the lower level requests a protest, where the people's procuratorate at the higher level considers that a protest needs to be lodged, it shall lodge a protest with the people's court at the same level.\nWhere the people's court holds a court session, the people's procuratorate at the same level shall send personnel to appear in court."
+        },
+        "noLabel": {
+          "en": "Article 595."
+        },
+        "chapter": {
+          "en": "Section 6 Supervision over Criminal Judgments and Rulings"
+        }
+      },
+      {
+        "no": 596,
+        "text": {
+          "en": "After the re-examination of a petition case against a legally effective judgment or ruling of a people's court is concluded, the people's procuratorate shall prepare a notice of review of a criminal petition and notify the petitioner within ten days.\nWhere, upon re-examination, a protest is requested from the people's procuratorate at the next higher level, the notice of review of a criminal petition shall be prepared after the people's procuratorate at the higher level has made a decision on whether to lodge a protest."
+        },
+        "noLabel": {
+          "en": "Article 596."
+        },
+        "chapter": {
+          "en": "Section 6 Supervision over Criminal Judgments and Rulings"
+        }
+      },
+      {
+        "no": 597,
+        "text": {
+          "en": "Where the Supreme People's Procuratorate discovers that a legally effective judgment or ruling of a people's court at any level is indeed erroneous, or where a people's procuratorate at a higher level discovers that a legally effective judgment or ruling of a people's court at a lower level is indeed erroneous, it may directly lodge a protest with the people's court at the same level, or instruct the people's procuratorate at the next higher level of the people's court that made the effective judgment or ruling to lodge a protest with the people's court at the same level."
+        },
+        "noLabel": {
+          "en": "Article 597."
+        },
+        "chapter": {
+          "en": "Section 6 Supervision over Criminal Judgments and Rulings"
+        }
+      },
+      {
+        "no": 598,
+        "text": {
+          "en": "Where a people's procuratorate lodges a protest with a people's court in accordance with the procedure for trial supervision, it shall report a copy of the written protest to the people's procuratorate at the next higher level."
+        },
+        "noLabel": {
+          "en": "Article 598."
+        },
+        "chapter": {
+          "en": "Section 6 Supervision over Criminal Judgments and Rulings"
+        }
+      },
+      {
+        "no": 599,
+        "text": {
+          "en": "With respect to a case in which a protest has been lodged under the procedure for trial supervision, where the people's procuratorate considers that the judgment or ruling made by the people's court upon retrial is still indeed erroneous, it shall, if the case was tried under the procedure of first instance, have the people's procuratorate at the same level lodge a protest under the procedure of second instance with the people's court at the next higher level; if the case was tried under the procedure of second instance, have the people's procuratorate at the higher level lodge a protest under the procedure for trial supervision with the people's court at the same level."
+        },
+        "noLabel": {
+          "en": "Article 599."
+        },
+        "chapter": {
+          "en": "Section 6 Supervision over Criminal Judgments and Rulings"
+        }
+      },
+      {
+        "no": 600,
+        "text": {
+          "en": "Where, in handling a case in which a protest has been lodged under the procedure of second instance or the procedure for trial supervision, a people's procuratorate considers it necessary to take compulsory measures against the defendant, the relevant provisions of these Rules shall be applied with reference to them. The decision to take compulsory measures shall be subject to approval by the chief procurator."
+        },
+        "noLabel": {
+          "en": "Article 600."
+        },
+        "chapter": {
+          "en": "Section 6 Supervision over Criminal Judgments and Rulings"
+        }
+      },
+      {
+        "no": 601,
+        "text": {
+          "en": "The provisions of this Section shall apply to the supervision by a people's procuratorate of the judgments and rulings in cases of private prosecution."
+        },
+        "noLabel": {
+          "en": "Article 601."
+        },
+        "chapter": {
+          "en": "Section 6 Supervision over Criminal Judgments and Rulings"
+        }
+      },
+      {
+        "no": 602,
+        "text": {
+          "en": "The Supreme People's Procuratorate shall exercise legal supervision in accordance with law over the death penalty review activities of the Supreme People's Court.\nA provincial people's procuratorate shall exercise legal supervision in accordance with law over the activities of a higher people's court in reviewing cases in which the death penalty is to be executed immediately and in which no appeal was lodged and no protest was made, and cases of a death sentence with a two-year suspension of execution."
+        },
+        "noLabel": {
+          "en": "Article 602."
+        },
+        "chapter": {
+          "en": "Section 7 Supervision over Review of Death Sentences"
+        }
+      },
+      {
+        "no": 603,
+        "text": {
+          "en": "The Supreme People's Procuratorate and provincial people's procuratorates shall exercise legal supervision over death penalty review activities by handling the following cases:\n(1) death penalty review cases reported to the people's procuratorate by a people's court;\n(2) death penalty review cases in respect of which a people's procuratorate at a lower level requests supervision or reports major circumstances;\n(3) death penalty review cases in respect of which a party and his close relatives or an entrusted lawyer apply to the people's procuratorate for supervision;\n(4) other death penalty review cases in respect of which supervision is considered necessary."
+        },
+        "noLabel": {
+          "en": "Article 603."
+        },
+        "chapter": {
+          "en": "Section 7 Supervision over Review of Death Sentences"
+        }
+      },
+      {
+        "no": 604,
+        "text": {
+          "en": "With respect to a case that has entered the death penalty review procedure of the Supreme People's Court, where a provincial people's procuratorate discovers any of the following circumstances, it shall promptly request supervision from the Supreme People's Procuratorate:\n(1) the facts of the case are unclear or the evidence is insufficient, and the case should be remanded for retrial or the judgment should be altered in accordance with law;\n(2) the defendant has circumstances for lenient punishment and the death penalty should not be imposed in accordance with law;\n(3) the application of law is erroneous;\n(4) the litigation procedure provided by law has been violated, which may affect a fair trial;\n(5) other circumstances in which supervision should be requested."
+        },
+        "noLabel": {
+          "en": "Article 604."
+        },
+        "chapter": {
+          "en": "Section 7 Supervision over Review of Death Sentences"
+        }
+      },
+      {
+        "no": 605,
+        "text": {
+          "en": "Where a provincial people's procuratorate discovers new major circumstances in a death penalty review case, such as the defendant having surrendered voluntarily, rendered meritorious service or being pregnant, or the family members of the defendant having reached an agreement on compensation and forgiveness with the family members of the victim, which affect the application of the death penalty, it shall promptly report the matter to the Supreme People's Procuratorate."
+        },
+        "noLabel": {
+          "en": "Article 605."
+        },
+        "chapter": {
+          "en": "Section 7 Supervision over Review of Death Sentences"
+        }
+      },
+      {
+        "no": 606,
+        "text": {
+          "en": "Where a party and his close relatives or an entrusted lawyer submit to the Supreme People's Procuratorate a petition against a death penalty adjudication, it shall be examined by the department responsible for supervision of death penalty review."
+        },
+        "noLabel": {
+          "en": "Article 606."
+        },
+        "chapter": {
+          "en": "Section 7 Supervision over Review of Death Sentences"
+        }
+      },
+      {
+        "no": 607,
+        "text": {
+          "en": "With respect to a case of second instance involving the death penalty in which there is considerable divergence of views on the application of the death penalty or which has a major impact nationwide, the provincial people's procuratorate shall promptly report it to the Supreme People's Procuratorate for the record."
+        },
+        "noLabel": {
+          "en": "Article 607."
+        },
+        "chapter": {
+          "en": "Section 7 Supervision over Review of Death Sentences"
+        }
+      },
+      {
+        "no": 608,
+        "text": {
+          "en": "During the death penalty review by a higher people's court, the procedures by which a people's procuratorate of a city divided into districts reports major circumstances to and files records with a provincial people's procuratorate shall be governed with reference to Articles 605 and 607 of these Rules."
+        },
+        "noLabel": {
+          "en": "Article 608."
+        },
+        "chapter": {
+          "en": "Section 7 Supervision over Review of Death Sentences"
+        }
+      },
+      {
+        "no": 609,
+        "text": {
+          "en": "A case under supervision of death penalty review may be examined in the following ways:\n(1) examining the materials transferred by the people's court, the relevant case file materials submitted by the people's procuratorate at the lower level, and the materials submitted by the party and his close relatives or by the entrusted lawyer;\n(2) obtaining from the people's procuratorate at the lower level the case review report, the public prosecution opinion, the opinion expressed in court and so on, so as to learn about the relevant circumstances of the case;\n(3) obtaining or consulting the case file materials from the people's court;\n(4) verifying the main evidence or entrusting others to verify it;\n(5) interrogating the defendant and hearing the opinions of the entrusted lawyer;\n(6) consulting a specialised institution or a person with specialised knowledge on the relevant technical issues, or entrusting them with a review of the evidence;\n(7) other means that need to be adopted."
+        },
+        "noLabel": {
+          "en": "Article 609."
+        },
+        "chapter": {
+          "en": "Section 7 Supervision over Review of Death Sentences"
+        }
+      },
+      {
+        "no": 610,
+        "text": {
+          "en": "In examining a case under supervision of death penalty review, where any of the following circumstances exists, the opinions of the people's procuratorate at the lower level shall be heard:\n(1) there are doubts about the main facts or the evidence of the case;\n(2) there is considerable dispute over the application of the death penalty;\n(3) major risks in judicial case handling may be caused;\n(4) other circumstances in which opinions should be heard."
+        },
+        "noLabel": {
+          "en": "Article 610."
+        },
+        "chapter": {
+          "en": "Section 7 Supervision over Review of Death Sentences"
+        }
+      },
+      {
+        "no": 611,
+        "text": {
+          "en": "Where, upon examination, the Supreme People's Procuratorate discovers any of the following circumstances in a death penalty review case, it shall, upon decision of the chief procurator, put forward a procuratorial opinion to the Supreme People's Court in accordance with law:\n(1) it considers that the application of the death penalty is improper, or that the facts of the case are unclear or the evidence is insufficient so that the death penalty should not be approved in accordance with law;\n(2) it considers that the reasons for not approving the death penalty are untenable and that the death penalty should be approved in accordance with law;\n(3) new facts and evidence are discovered that may affect the conviction and sentencing of the defendant;\n(4) the litigation procedure provided by law has been seriously violated, which may affect a fair trial;\n(5) judicial personnel committed embezzlement, bribery, malpractice for personal gain or perversion of the law in deciding the case;\n(6) other circumstances in which a procuratorial opinion needs to be put forward.\nWhere it agrees with the opinion of the Supreme People's Court to approve or not to approve, it shall, upon approval by the chief procurator, reply to the Supreme People's Court in writing.\nWith respect to a case in which a provincial people's procuratorate requests supervision or reports major circumstances, where the Supreme People's Procuratorate considers that circumstances affecting the application of the death penalty exist, it shall promptly transfer the relevant materials to the Supreme People's Court."
+        },
+        "noLabel": {
+          "en": "Article 611."
+        },
+        "chapter": {
+          "en": "Section 7 Supervision over Review of Death Sentences"
+        }
+      },
+      {
+        "no": 612,
+        "text": {
+          "en": "A people's procuratorate shall exercise legal supervision in accordance with law over whether the periods of custody and the time limits for handling cases are lawful."
+        },
+        "noLabel": {
+          "en": "Article 612."
+        },
+        "chapter": {
+          "en": "Section 8 Supervision over Custody Time Limits and Case-Handling Time Limits"
+        }
+      },
+      {
+        "no": 613,
+        "text": {
+          "en": "Supervision of the relevant time limits of case handling by public security organs and people's courts shall be undertaken by the department responsible for criminal execution prosecution of the people's procuratorate where the criminal suspect or defendant is in custody, and by the department responsible for arrest and prosecution where the criminal suspect or defendant is not in custody. Supervision of the relevant time limits of case handling by the people's procuratorate itself shall be undertaken by the department responsible for case management."
+        },
+        "noLabel": {
+          "en": "Article 613."
+        },
+        "chapter": {
+          "en": "Section 8 Supervision over Custody Time Limits and Case-Handling Time Limits"
+        }
+      },
+      {
+        "no": 614,
+        "text": {
+          "en": "Where, in the course of handling a case, the criminal suspect or defendant is in custody and any of the following circumstances exists, the case-handling department of a people's procuratorate shall, within ten days after making the decision or receiving the written decision or ruling, notify the department of the same procuratorate responsible for supervision:\n(1) approval or decision of extension of the period of custody pending investigation;\n(2) in a case investigated directly upon acceptance by a people's procuratorate, a decision to recalculate the period of custody pending investigation or to modify or lift compulsory measures;\n(3) a psychiatric appraisal of the criminal suspect or defendant;\n(4) a change of jurisdiction or extension of the period for review for prosecution during review for prosecution;\n(5) return of the case for supplementary investigation, or recalculation of the period for review for prosecution after the supplementary investigation is completed and the case is transferred for prosecution;\n(6) a decision of a people's court to apply the summary procedure or the procedure for expedited adjudication in trying a case of first instance, or to convert the trial of a case from the summary procedure to the ordinary procedure or from the procedure for expedited adjudication to the summary procedure or the ordinary procedure for retrial;\n(7) a change of jurisdiction by a people's court, a decision to postpone or suspend the trial, or agreement to the withdrawal of the prosecution by a people's procuratorate."
+        },
+        "noLabel": {
+          "en": "Article 614."
+        },
+        "chapter": {
+          "en": "Section 8 Supervision over Custody Time Limits and Case-Handling Time Limits"
+        }
+      },
+      {
+        "no": 615,
+        "text": {
+          "en": "Where a people's procuratorate discovers any of the following circumstances in the administration of periods of custody by a house of detention, it shall put forward an opinion on correction in accordance with law:\n(1) failing to promptly urge the case-handling organ to complete the formalities for transfer of custody;\n(2) failing to issue to the case-handling organ, within seven days before expiry of the period of custody of the criminal suspect or defendant, a notice that the period of custody is about to expire;\n(3) after the criminal suspect or defendant has been held in custody beyond the time limit, failing to immediately report the matter in writing to the people's procuratorate and notify the case-handling organ;\n(4) after receiving an application, petition or complaint from the criminal suspect or defendant and his statutory agent, close relative or defender concerning modification of compulsory measures, review of the necessity of custody, or release or modification of compulsory measures upon expiry of the period of custody, failing to promptly transfer it to the relevant case-handling organ or people's procuratorate;\n(5) other unlawful circumstances."
+        },
+        "noLabel": {
+          "en": "Article 615."
+        },
+        "chapter": {
+          "en": "Section 8 Supervision over Custody Time Limits and Case-Handling Time Limits"
+        }
+      },
+      {
+        "no": 616,
+        "text": {
+          "en": "Where a people's procuratorate discovers any of the following circumstances in the implementation of the period of custody pending investigation by a public security organ, it shall put forward an opinion on correction in accordance with law:\n(1) failing to complete the formalities for transfer of custody in accordance with provisions;\n(2) failing to notify the people's procuratorate and the house of detention in writing of a decision to recalculate the period of custody pending investigation or of an approved extension of the period of custody pending investigation;\n(3) failing to notify the people's procuratorate and the house of detention in writing of a psychiatric appraisal of the criminal suspect;\n(4) other unlawful circumstances."
+        },
+        "noLabel": {
+          "en": "Article 616."
+        },
+        "chapter": {
+          "en": "Section 8 Supervision over Custody Time Limits and Case-Handling Time Limits"
+        }
+      },
+      {
+        "no": 617,
+        "text": {
+          "en": "Where a people's procuratorate discovers any of the following circumstances in the implementation of the time limit for trial by a people's court, it shall put forward an opinion on correction in accordance with law:\n(1) failing to complete the formalities for transfer of custody in accordance with provisions at the stages of first instance, second instance and death penalty review;\n(2) recalculating the time limit for trial, approving an extension of the time limit for trial, changing jurisdiction, postponing the trial, suspending the trial or remanding the case for retrial in violation of the provisions of the Criminal Procedure Law;\n(3) failing to notify the people's procuratorate and the house of detention in writing of a decision to recalculate the time limit for trial, an approval of extension of the time limit for trial, a change of jurisdiction, a postponement of the trial, a suspension of the trial or a psychiatric appraisal of the defendant;\n(4) other unlawful circumstances."
+        },
+        "noLabel": {
+          "en": "Article 617."
+        },
+        "chapter": {
+          "en": "Section 8 Supervision over Custody Time Limits and Case-Handling Time Limits"
+        }
+      },
+      {
+        "no": 618,
+        "text": {
+          "en": "Where a people's procuratorate discovers that a public security organ or a people's court at the same level or at a lower level has held a person in custody beyond the time limit, it shall issue a notice of correction of unlawful conduct to that case-handling organ.\nWhere it discovers that a public security organ or a people's court at a higher level has held a person in custody beyond the time limit, it shall promptly report the matter level by level to the people's procuratorate at the same level as that case-handling organ, and the people's procuratorate at the same level shall issue a notice of correction of unlawful conduct to that case-handling organ.\nIn a case in which the person is in custody in another place, where it discovers that the case-handling organ has held the person in custody beyond the time limit, it shall notify the people's procuratorate at the same level as that case-handling organ, which shall issue a notice of correction of unlawful conduct to the case-handling organ in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 618."
+        },
+        "chapter": {
+          "en": "Section 8 Supervision over Custody Time Limits and Case-Handling Time Limits"
+        }
+      },
+      {
+        "no": 619,
+        "text": {
+          "en": "Where, after a people's procuratorate issues a notice of correction of unlawful conduct, the case-handling organ concerned does not reply or continues to hold the person in custody beyond the time limit, the people's procuratorate shall promptly report the matter to the people's procuratorate at the next higher level.\nWith respect to the persons directly responsible for the extended custody, a written recommendation may be made to the unit where they work or to the competent organ concerned to impose a sanction in accordance with law or the relevant provisions; where the extended custody is serious and a crime is suspected, criminal responsibility shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 619."
+        },
+        "chapter": {
+          "en": "Section 8 Supervision over Custody Time Limits and Case-Handling Time Limits"
+        }
+      },
+      {
+        "no": 620,
+        "text": {
+          "en": "Where a people's procuratorate handles a case investigated directly upon acceptance or a case of review for arrest or review for prosecution, the department responsible for case management shall, before the period of custody pending investigation or the time limit for handling the case is about to expire, give the case-handling department of the same procuratorate a reminder of the expiry in accordance with the relevant provisions. Where it discovers that the case-handling department has exceeded the prescribed time limit in handling the case, it shall put forward an opinion on correction in accordance with the relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 620."
+        },
+        "chapter": {
+          "en": "Section 8 Supervision over Custody Time Limits and Case-Handling Time Limits"
+        }
+      },
+      {
+        "no": 621,
+        "text": {
+          "en": "A people's procuratorate shall exercise legal supervision in accordance with law over the execution of criminal judgments, rulings and decisions and over the supervision and law enforcement activities of prisons, houses of detention and other such institutions."
+        },
+        "noLabel": {
+          "en": "Article 621."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 622,
+        "text": {
+          "en": "A people's procuratorate may, according to the needs of its work, supervise prisons, houses of detention and other such places by means of roving inspection, resident inspection and other methods."
+        },
+        "noLabel": {
+          "en": "Article 622."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 623,
+        "text": {
+          "en": "In supervising prisons, houses of detention and other such places, a people's procuratorate may, in addition to the investigation and verification measures provided in Article 551 of these Rules, also adopt methods such as on-site inspection of the confinement rooms, visiting rooms, ward areas, cells and other relevant places, attending the relevant meetings of the prison or house of detention as a non-voting participant, holding talks with the relevant supervisory police officers, convening symposia and conducting questionnaire surveys."
+        },
+        "noLabel": {
+          "en": "Article 623."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 624,
+        "text": {
+          "en": "Where a people's procuratorate supervises the execution of penalties and supervision and law enforcement activities, it may handle the matter differently according to the following circumstances:\n(1) where it discovers defects in law enforcement, hidden safety hazards or unlawful circumstances of a minor nature, it shall put forward an opinion on correction orally and record it in the case file;\n(2) where it discovers serious unlawful conduct or a major accident, or where the matter has not been corrected within seven days after an oral opinion on correction was put forward, it shall put forward an opinion on correction in writing;\n(3) where it discovers problems that may lead to unfair law enforcement, or problems such as major loopholes in supervision, major hidden safety hazards or risks of major accidents, it shall put forward a procuratorial suggestion.\nThe rectification and implementation of the problems and leads discovered in roving inspection as provided in the preceding paragraph shall be supervised through roving inspection."
+        },
+        "noLabel": {
+          "en": "Article 624."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 625,
+        "text": {
+          "en": "Where a people's procuratorate discovers any of the following circumstances in the delivery for execution by a people's court, a public security organ, a house of detention or another such organ, it shall put forward an opinion on correction in accordance with law:\n(1) the people's court of first instance that delivered the case for execution did not, within the statutory period, serve the judgment, the ruling, a copy of the bill of prosecution of the people's procuratorate, a copy of the bill of private prosecution, the notice of execution, the case closure registration form and other legal documents on the executing organ such as the public security organ, the prison or the community correction institution;\n(2) with respect to an offender sentenced to death with a two-year suspension of execution, to life imprisonment or to fixed-term imprisonment with more than three months of the term remaining, the public security organ or the house of detention did not, within thirty days after receiving the notice of execution and other legal documents of the people's court, deliver the adult offender to a prison for execution of the penalty, or did not deliver the minor offender to a correctional institution for juvenile offenders for execution of the penalty;\n(3) with respect to an offender who needs to be taken into prison for execution of the penalty but was not in custody before the judgment or ruling took effect, the people's court of first instance did not promptly take the offender into custody and deliver him to the public security organ, and did not serve the judgment, the ruling, the notice of execution and other legal documents on the public security organ;\n(4) with respect to an offender who needs to be taken into prison for execution of the penalty but whose whereabouts are unknown, the public security organ did not promptly pursue and capture him or place him on a wanted list after receiving the judgment, the ruling, the notice of execution and other legal documents of the people's court;\n(5) with respect to an offender sentenced to control, granted a suspended sentence or in respect of whom a people's court has decided on temporary execution outside prison, the offender was not delivered in accordance with law to the community correction institution of his place of residence for execution after the judgment or ruling took effect or after the decision on temporary execution outside prison was received, or, with respect to an offender on whom deprivation of political rights is imposed as the sole penalty, the offender was not delivered in accordance with law to the public security organ of his place of residence for execution after the judgment or ruling took effect, or the people's court delivered the offender for execution in accordance with law but the community correction institution or the public security organ, which should have accepted him, refused to accept him;\n(6) other unlawful circumstances."
+        },
+        "noLabel": {
+          "en": "Article 625."
+        },
+        "chapter": {
+          "en": "Section 2 Supervision over Delivery for Execution"
+        }
+      },
+      {
+        "no": 626,
+        "text": {
+          "en": "Where a people's court acquits the defendant, exempts him from criminal punishment, sentences him to control, grants him a suspended sentence, or imposes a fine or deprivation of political rights as the sole penalty, and the defendant is in custody, the people's procuratorate shall supervise whether the defendant is released immediately. Where it discovers that the defendant has not been released immediately, it shall immediately put forward an opinion on correction to the people's court or the house of detention."
+        },
+        "noLabel": {
+          "en": "Article 626."
+        },
+        "chapter": {
+          "en": "Section 2 Supervision over Delivery for Execution"
+        }
+      },
+      {
+        "no": 627,
+        "text": {
+          "en": "Where a people's procuratorate discovers unlawful circumstances such as a public security organ failing to execute criminal detention or deprivation of political rights in accordance with law, failing to issue a certificate of release in accordance with law upon expiry of the term of criminal detention, or failing to notify in writing the person concerned, the unit where he works and the grassroots organisation of his place of residence upon expiry of the term of deprivation of political rights, it shall put forward an opinion on correction in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 627."
+        },
+        "chapter": {
+          "en": "Section 2 Supervision over Delivery for Execution"
+        }
+      },
+      {
+        "no": 628,
+        "text": {
+          "en": "Where a people's procuratorate discovers unlawful conduct such as a prison or house of detention failing to release a person upon expiry of his term of service or where he should be released in accordance with law, failing to deliver an offender granted parole by ruling to the community correction institution of his place of residence for community correction in accordance with law, failing to deliver an offender who still needs to serve the supplementary penalty of deprivation of political rights after completion of the principal penalty to the public security organ of his place of residence for execution in accordance with law, or releasing an offender whose term of service has not expired and for whom there is no lawful ground for release, it shall put forward an opinion on correction in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 628."
+        },
+        "chapter": {
+          "en": "Section 2 Supervision over Delivery for Execution"
+        }
+      },
+      {
+        "no": 629,
+        "text": {
+          "en": "Where a people's procuratorate discovers any of the following circumstances in the activities of a people's court, a prison, a house of detention or a public security organ in relation to temporary execution outside prison, it shall put forward an opinion on correction in accordance with law:\n(1) submitting or deciding on temporary execution outside prison for an offender who does not meet the statutory conditions;\n(2) the procedure for submitting or deciding on temporary execution outside prison violates legal provisions or lacks complete lawful formalities, or, with respect to an offender who needs medical parole, there is no diagnostic certificate or certifying document issued by a hospital designated by the provincial people's government;\n(3) a prison or house of detention puts forward a written opinion on temporary execution outside prison without at the same time sending a copy of the written opinion to the people's procuratorate;\n(4) after an offender is decided or approved for temporary execution outside prison, he is not delivered in accordance with law to the community correction institution of his place of residence for community correction;\n(5) an offender who meets the conditions for temporary execution outside prison is not submitted for temporary execution outside prison in accordance with law;\n(6) before making a decision on temporary execution outside prison, a people's court did not seek the opinions of the people's procuratorate in accordance with law;\n(7) it is discovered that an offender does not meet the conditions for temporary execution outside prison, or seriously violates the provisions on supervision and administration of temporary execution outside prison during the period of temporary execution outside prison, or the circumstances for temporary execution outside prison have disappeared while the term of penalty has not expired, and the offender should be taken back into prison for execution but was not promptly taken back;\n(8) after a people's court decides to take an offender on temporary execution outside prison back into prison for execution and serves the relevant legal documents on the public security organ, the prison or the house of detention, the prison or the house of detention does not promptly take the offender back into prison for execution;\n(9) with respect to an offender who does not meet the conditions for temporary execution outside prison but was granted temporary execution outside prison through bribery, deception or other unlawful means, and an offender who escaped during the period of temporary execution outside prison, the prison or house of detention did not recommend that the people's court not count the period of execution outside prison and the period of escape in the term of execution, or its recommendation on the calculation of the offender's term of execution is unlawful or improper;\n(10) upon expiry of the term of an offender on temporary execution outside prison, the release formalities were not promptly completed;\n(11) other unlawful circumstances."
+        },
+        "noLabel": {
+          "en": "Article 629."
+        },
+        "chapter": {
+          "en": "Section 3 Supervision over Commutation of Sentence, Parole and Temporary Service of Sentence Outside Prison"
+        }
+      },
+      {
+        "no": 630,
+        "text": {
+          "en": "After receiving a copy of the written opinion on temporary execution outside prison sent by a prison or house of detention, a people's procuratorate shall examine it case by case and, where it discovers that the offender does not meet the statutory conditions for temporary execution outside prison or that the submission for temporary execution outside prison violates statutory procedure, shall, within ten days and upon approval by the chief procurator, put forward a written procuratorial opinion to the deciding or approving organ and send a copy to the executing organ at the same time."
+        },
+        "noLabel": {
+          "en": "Article 630."
+        },
+        "chapter": {
+          "en": "Section 3 Supervision over Commutation of Sentence, Parole and Temporary Service of Sentence Outside Prison"
+        }
+      },
+      {
+        "no": 631,
+        "text": {
+          "en": "After receiving the written decision on temporary execution outside prison sent by the deciding or approving organ, a people's procuratorate shall promptly examine the following:\n(1) whether the offender is one sentenced to fixed-term imprisonment or criminal detention;\n(2) whether the offender suffers from a serious illness and needs medical parole;\n(3) whether the offender is a woman who is pregnant or is breastfeeding her own infant;\n(4) whether the offender is unable to take care of himself and the application of temporary execution outside prison would not endanger society;\n(5) whether the offender is one for whom medical parole may involve social danger, or one who has injured or mutilated himself;\n(6) whether the deciding or approving organ conforms to the provisions of paragraph 5 of Article 265 of the Criminal Procedure Law;\n(7) whether the handling of temporary execution outside prison conforms to statutory procedure."
+        },
+        "noLabel": {
+          "en": "Article 631."
+        },
+        "chapter": {
+          "en": "Section 3 Supervision over Commutation of Sentence, Parole and Temporary Service of Sentence Outside Prison"
+        }
+      },
+      {
+        "no": 632,
+        "text": {
+          "en": "Where, upon examination, a people's procuratorate considers that temporary execution outside prison is improper, it shall, within one month from the date of receiving the notification, put forward an opinion on correction to the organ that decided or approved the temporary execution outside prison. Where a people's procuratorate at a lower level considers that temporary execution outside prison is improper, it shall immediately report the matter level by level to the people's procuratorate at the same level as the organ that decided or approved the temporary execution outside prison, which shall decide whether to put forward an opinion on correction to the deciding or approving organ."
+        },
+        "noLabel": {
+          "en": "Article 632."
+        },
+        "chapter": {
+          "en": "Section 3 Supervision over Commutation of Sentence, Parole and Temporary Service of Sentence Outside Prison"
+        }
+      },
+      {
+        "no": 633,
+        "text": {
+          "en": "After a people's procuratorate puts forward a written opinion disagreeing with temporary execution outside prison to the organ that decided or approved it, it shall supervise the re-verification by that organ of the result of the decision or approval of temporary execution outside prison and shall supervise whether the result of the re-verification conforms to legal provisions. Where the verification does not conform to legal provisions, it shall put forward an opinion on correction in accordance with law and report the matter to the people's procuratorate at the next higher level."
+        },
+        "noLabel": {
+          "en": "Article 633."
+        },
+        "chapter": {
+          "en": "Section 3 Supervision over Commutation of Sentence, Parole and Temporary Service of Sentence Outside Prison"
+        }
+      },
+      {
+        "no": 634,
+        "text": {
+          "en": "With respect to an offender on temporary execution outside prison, where a people's procuratorate discovers that the offender does not meet the conditions for temporary execution outside prison, seriously violates the provisions on supervision and administration of temporary execution outside prison, or that the circumstances for temporary execution outside prison have disappeared while the term of the offender's penalty has not expired, it shall notify the executing organ to take the offender back into prison for execution, or suggest that the organ that decided or approved the temporary execution outside prison make a decision to take him back into prison for execution."
+        },
+        "noLabel": {
+          "en": "Article 634."
+        },
+        "chapter": {
+          "en": "Section 3 Supervision over Commutation of Sentence, Parole and Temporary Service of Sentence Outside Prison"
+        }
+      },
+      {
+        "no": 635,
+        "text": {
+          "en": "After receiving a copy of the recommendation on commutation of penalty or parole sent by the executing organ, a people's procuratorate shall examine it case by case. Where it discovers that the recommendation on commutation of penalty or parole is improper or that the submission for commutation of penalty or parole violates statutory procedure, it shall, within ten days and upon approval by the chief procurator, put forward a written procuratorial opinion to the people's court trying the case of commutation of penalty or parole, and may at the same time put forward a written opinion on correction to the executing organ. Where the circumstances of the case are complex or special, the period may be extended by ten days."
+        },
+        "noLabel": {
+          "en": "Article 635."
+        },
+        "chapter": {
+          "en": "Section 3 Supervision over Commutation of Sentence, Parole and Temporary Service of Sentence Outside Prison"
+        }
+      },
+      {
+        "no": 636,
+        "text": {
+          "en": "Where a people's procuratorate discovers any of the following circumstances in the activities of a prison or other executing organ in submitting to a people's court a recommendation for a ruling on commutation of penalty or parole, it shall put forward an opinion on correction in accordance with law:\n(1) submitting to a people's court a recommendation for a ruling on commutation of penalty or parole for an offender who does not meet the statutory conditions for commutation of penalty or parole;\n(2) failing to submit to a people's court a recommendation for a ruling on commutation of penalty or parole for an offender who should be granted commutation of penalty or parole in accordance with law;\n(3) the submission for commutation of penalty or parole violates statutory procedure or lacks complete lawful formalities;\n(4) the extent of commutation, the starting time, the interval or the interval before parole after commutation in a submission for commutation of penalty does not conform to the relevant provisions;\n(5) the term actually served after commutation by an offender submitted for commutation of penalty or parole, or the probation period of parole, does not conform to the relevant legal provisions;\n(6) other unlawful circumstances."
+        },
+        "noLabel": {
+          "en": "Article 636."
+        },
+        "chapter": {
+          "en": "Section 3 Supervision over Commutation of Sentence, Parole and Temporary Service of Sentence Outside Prison"
+        }
+      },
+      {
+        "no": 637,
+        "text": {
+          "en": "Where a people's court holds a court session to try a case of commutation of penalty or parole, the people's procuratorate shall assign procuratorial personnel to appear in court and express opinions."
+        },
+        "noLabel": {
+          "en": "Article 637."
+        },
+        "chapter": {
+          "en": "Section 3 Supervision over Commutation of Sentence, Parole and Temporary Service of Sentence Outside Prison"
+        }
+      },
+      {
+        "no": 638,
+        "text": {
+          "en": "After receiving a copy of the ruling on commutation of penalty or parole of a people's court, a people's procuratorate shall promptly examine the following:\n(1) whether the offender granted commutation of penalty or parole meets the statutory conditions, and whether the extent of commutation, the starting time, the interval or the interval before parole after commutation, and the term actually served after commutation or the probation period of parole conform to the relevant provisions;\n(2) whether the procedure by which the executing organ submitted the case for commutation of penalty or parole was lawful;\n(3) whether the procedure by which the people's court tried and ruled on the commutation of penalty or parole was lawful;\n(4) whether the ruling of the people's court not to grant commutation of penalty or parole to the offender conforms to the relevant provisions;\n(5) whether the written ruling of the people's court on commutation of penalty or parole was served for execution and made public in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 638."
+        },
+        "chapter": {
+          "en": "Section 3 Supervision over Commutation of Sentence, Parole and Temporary Service of Sentence Outside Prison"
+        }
+      },
+      {
+        "no": 639,
+        "text": {
+          "en": "Where, upon examination, a people's procuratorate considers that a ruling of a people's court on commutation of penalty or parole is improper, it shall, within twenty days after receiving a copy of the ruling, put forward an opinion on correction to the people's court that made the ruling."
+        },
+        "noLabel": {
+          "en": "Article 639."
+        },
+        "chapter": {
+          "en": "Section 3 Supervision over Commutation of Sentence, Parole and Temporary Service of Sentence Outside Prison"
+        }
+      },
+      {
+        "no": 640,
+        "text": {
+          "en": "An opinion on correction concerning a ruling of a people's court on commutation of penalty or parole shall be put forward in writing by the people's procuratorate at the same level as the people's court that made the ruling.\nWhere a people's procuratorate at a lower level discovers that a ruling of a people's court on commutation of penalty or parole is improper, it shall report the matter to the people's procuratorate at the same level as the people's court that made the ruling."
+        },
+        "noLabel": {
+          "en": "Article 640."
+        },
+        "chapter": {
+          "en": "Section 3 Supervision over Commutation of Sentence, Parole and Temporary Service of Sentence Outside Prison"
+        }
+      },
+      {
+        "no": 641,
+        "text": {
+          "en": "After putting forward an opinion on correction concerning a ruling of a people's court on commutation of penalty or parole, a people's procuratorate shall supervise whether the people's court forms a new collegial panel to try the case within one month after receiving the opinion on correction, and shall supervise whether the new ruling conforms to legal provisions. Where the final ruling does not conform to legal provisions, it shall put forward an opinion on correction to the people's court at the same level."
+        },
+        "noLabel": {
+          "en": "Article 641."
+        },
+        "chapter": {
+          "en": "Section 3 Supervision over Commutation of Sentence, Parole and Temporary Service of Sentence Outside Prison"
+        }
+      },
+      {
+        "no": 642,
+        "text": {
+          "en": "Where a people's procuratorate discovers that an organ deciding on community correction, a house of detention, a prison or a community correction institution violates the relevant provisions in the activities of delivering and receiving persons subject to community correction, it shall put forward an opinion on correction in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 642."
+        },
+        "chapter": {
+          "en": "Section 4 Supervision over Community Correction"
+        }
+      },
+      {
+        "no": 643,
+        "text": {
+          "en": "Where a people's procuratorate discovers any of the following circumstances in community correction law enforcement activities, it shall put forward an opinion on correction in accordance with law:\n(1) after a person subject to community correction reports, the community correction institution fails to perform its statutory duty of notification, so that the person does not accept supervision and administration in accordance with the relevant provisions;\n(2) approving the departure of a person subject to community correction from the city or county of his residence in violation of legal provisions, or approving the entry of a person subject to community correction into a specified area or place in violation of the content of a prohibition order of a people's court;\n(3) failing to supervise and administer in accordance with law, resulting in a person subject to community correction being out of control;\n(4) where a person subject to community correction violates the provisions on supervision and administration or a prohibition order of a people's court, failing to give a warning in accordance with law or failing to request the public security organ to impose a public security administration penalty;\n(5) beating, corporally punishing, maltreating, insulting the personal dignity of a person subject to community correction or forcing him to participate in community service beyond the prescribed time or beyond his physical capacity and other acts infringing his lawful rights;\n(6) failing to complete the lifting or termination of community correction in accordance with law;\n(7) other unlawful circumstances."
+        },
+        "noLabel": {
+          "en": "Article 643."
+        },
+        "chapter": {
+          "en": "Section 4 Supervision over Community Correction"
+        }
+      },
+      {
+        "no": 644,
+        "text": {
+          "en": "Where a people's procuratorate discovers any of the following circumstances in the activities of modifying and executing the penalty of a person subject to community correction, it shall put forward an opinion on correction in accordance with law:\n(1) the community correction institution fails to submit to the people's court, the public security organ or the prison administration organ in accordance with law a recommendation to revoke the suspended sentence or to revoke parole, or a recommendation to take a person on temporary execution outside prison back into prison for execution, or fails to submit a recommendation for commutation of penalty to the people's court in accordance with law;\n(2) the people's court, the public security organ or the prison administration organ fails to make a ruling or decision in accordance with law, or fails to serve it in accordance with law;\n(3) the public security organ fails to deliver the offender to a house of detention or prison in accordance with law, or the house of detention or prison fails to take the offender back into prison for execution in accordance with law;\n(4) the public security organ fails to pursue and capture the offender at large in accordance with law;\n(5) other unlawful circumstances."
+        },
+        "noLabel": {
+          "en": "Article 644."
+        },
+        "chapter": {
+          "en": "Section 4 Supervision over Community Correction"
+        }
+      },
+      {
+        "no": 645,
+        "text": {
+          "en": "Where a people's procuratorate discovers any of the following circumstances in the execution by a people's court of the property-related part of a criminal adjudication, it shall put forward an opinion on correction in accordance with law:\n(1) the activity of docketing the execution is unlawful;\n(2) deferred payment, discretionary reduction or exemption of a fine is unlawful;\n(3) suspension or termination of execution is unlawful;\n(4) the person subject to execution has the capacity to perform and execution should be carried out but is not carried out;\n(5) the lawful rights and interests of the person subject to execution, the victim, an interested party or a person outside the case are harmed;\n(6) where the criminal adjudication has been wholly or partly revoked, the property has not been returned or compensation has not been made in accordance with law;\n(7) the property executed has not been turned over to the State Treasury in accordance with law;\n(8) other unlawful circumstances.\nIn supervising the execution by a people's court of the property-related part of a criminal adjudication, a people's procuratorate may conduct investigation and verification with the relevant units and individuals concerning the sealing up, seizure and freezing of the property involved in the case by the public security organ, the transfer, docketing and execution by the trial department, docketing department and execution department of the people's court, and the capacity of the person subject to execution to perform."
+        },
+        "noLabel": {
+          "en": "Article 645."
+        },
+        "chapter": {
+          "en": "Section 5 Supervision over Execution of the Property-Related Parts of Criminal Judgments"
+        }
+      },
+      {
+        "no": 646,
+        "text": {
+          "en": "Where a people's procuratorate discovers that the person subject to execution or another person has concealed, transferred or sold off property or committed other conduct obstructing execution, it may suggest that the people's court seal up, seize or freeze the property promptly.\nWhere a public security organ fails to transfer the property involved in the case, the relevant list, photographs and other certification documents to the people's court in accordance with law, or unlawful circumstances exist in the sealing up, seizure, freezing, return or disposal of the property involved in the case, the people's procuratorate shall put forward an opinion on correction in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 646."
+        },
+        "chapter": {
+          "en": "Section 5 Supervision over Execution of the Property-Related Parts of Criminal Judgments"
+        }
+      },
+      {
+        "no": 647,
+        "text": {
+          "en": "When an offender sentenced to immediate execution of the death penalty is executed, the people's procuratorate shall assign a prosecutor to supervise on the spot.\nOn-the-spot supervision of the execution of the death penalty shall be undertaken by the department responsible for criminal execution prosecution of the people's procuratorate. Procuratorial personnel stationed in the house of detention or prison by the people's procuratorate shall provide assistance, and the department responsible for arrest and prosecution shall provide the relevant information.\nIn the course of the execution of the death penalty, the on-the-spot supervising personnel of the people's procuratorate may, as needed, take photographs or make video recordings. After the execution, the on-the-spot supervising personnel of the people's procuratorate shall verify that the offender is indeed dead, fill in the record of on-the-spot supervision of the execution of the death penalty, sign it and place it on file."
+        },
+        "noLabel": {
+          "en": "Article 647."
+        },
+        "chapter": {
+          "en": "Section 6 Supervision over Execution of Death Sentences"
+        }
+      },
+      {
+        "no": 648,
+        "text": {
+          "en": "After the department responsible for case management of a provincial people's procuratorate receives a copy of the written judgment or ruling of a higher people's court on a death sentence submitted to the Supreme People's Court for review, it shall, within three days, transfer the copy of the written judgment or ruling to the department responsible for criminal execution prosecution of the same procuratorate.\nWhere a case in which the death penalty was imposed was tried in first instance by an intermediate people's court, the provincial people's procuratorate shall promptly transfer a copy of the written judgment or ruling of the death sentence to the department responsible for criminal execution prosecution of the people's procuratorate at the same level as the intermediate people's court.\nAfter receiving the notification of on-the-spot supervision of the execution of the death penalty from a people's court at the same level, a people's procuratorate shall ascertain whether the people's court at the same level has received the ruling of the Supreme People's Court approving the death penalty or the judgment or ruling imposing the death penalty and the order for execution of the death penalty."
+        },
+        "noLabel": {
+          "en": "Article 648."
+        },
+        "chapter": {
+          "en": "Section 6 Supervision over Execution of Death Sentences"
+        }
+      },
+      {
+        "no": 649,
+        "text": {
+          "en": "Before the execution of the death penalty, where a people's procuratorate discovers any of the following circumstances, it shall suggest that the people's court stop the execution immediately and report the matter level by level to the department of the Supreme People's Procuratorate responsible for supervision of death penalty review:\n(1) the person to be executed is not the offender who should be executed;\n(2) the offender was under the age of eighteen at the time of the crime, or has reached the age of seventy-five at the time of trial, and the death penalty should not be applied in accordance with law;\n(3) the offender is pregnant;\n(4) other criminal suspects in the joint crime have been brought to justice and the other offenders in the joint crime have had their execution of the death penalty suspended or stopped, which may affect the sentencing of the offender;\n(5) the offender may have committed other crimes;\n(6) the offender has reported the major criminal facts of another person or has other major meritorious conduct, and the judgment may need to be altered;\n(7) the judgment or ruling may involve other errors affecting conviction and sentencing.\nWhere, in the course of the execution of the death penalty, it is discovered that a people's court has infringed the personal rights or property rights of the offender executed or the lawful rights of his close relatives or heirs and other unlawful circumstances exist, the people's procuratorate shall put forward an opinion on correction in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 649."
+        },
+        "chapter": {
+          "en": "Section 6 Supervision over Execution of Death Sentences"
+        }
+      },
+      {
+        "no": 650,
+        "text": {
+          "en": "In the course of executing a judgment or ruling sentencing the defendant to death with a two-year suspension of execution, the content of supervision by a people's procuratorate shall mainly include:\n(1) where, upon expiry of the period of suspension of the death sentence, the conditions provided by law for commutation to life imprisonment or to fixed-term imprisonment are met, whether the prison promptly submits a recommendation for commutation of penalty to the people's court for a ruling, and whether the people's court rules in accordance with law;\n(2) where the offender intentionally commits a crime during the period of suspension, whether the prison investigates in accordance with law and transfers the case for prosecution; where the offender has indeed intentionally committed a crime, the circumstances are flagrant and this is verified as true, and the death penalty should be executed, whether the people's court approves or rules in accordance with law on the execution of the death penalty.\nWhere an offender sentenced to death with a two-year suspension of execution intentionally commits a crime during the period of suspension and the executing organ transfers the case for prosecution to the people's procuratorate, the people's procuratorate of the city divided into districts where the offender serves his sentence shall examine the case and decide whether to institute public prosecution.\nWhere a people's procuratorate discovers that a people's court has improperly commuted the penalty of an offender sentenced to death with a two-year suspension of execution, it shall, in accordance with Articles 639 and 640 of these Rules, put forward an opinion on correction to the people's court. Where the offender again intentionally commits a crime during the period of suspension of the death sentence and the people's court still commutes the penalty after the people's procuratorate has instituted public prosecution, the people's procuratorate shall, in accordance with the relevant provisions of these Rules, lodge a protest with the people's court."
+        },
+        "noLabel": {
+          "en": "Article 650."
+        },
+        "chapter": {
+          "en": "Section 6 Supervision over Execution of Death Sentences"
+        }
+      },
+      {
+        "no": 651,
+        "text": {
+          "en": "Where a people's procuratorate discovers that a people's court, a public security organ or an institution for compulsory medical treatment violates the relevant provisions in the activities of delivery for execution, medical treatment and termination of compulsory medical treatment of a person with mental illness who does not bear criminal responsibility in accordance with law, it shall put forward an opinion on correction in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 651."
+        },
+        "chapter": {
+          "en": "Section 7 Supervision over Execution of Compulsory Medical Treatment"
+        }
+      },
+      {
+        "no": 652,
+        "text": {
+          "en": "Where, in supervising the execution of compulsory medical treatment, a people's procuratorate discovers that the person subject to compulsory medical treatment does not meet the conditions for compulsory medical treatment, or that criminal responsibility needs to be investigated in accordance with law, or that the decision on compulsory medical treatment made by the people's court may be erroneous, it shall, within five days, transfer the relevant materials to the people's procuratorate at the same level as the people's court that made the decision on compulsory medical treatment. The department responsible for arrest and prosecution of the people's procuratorate receiving the materials shall conduct a review within twenty days and give feedback on the review and the opinion on handling to the people's procuratorate responsible for supervising the execution of compulsory medical treatment."
+        },
+        "noLabel": {
+          "en": "Article 652."
+        },
+        "chapter": {
+          "en": "Section 7 Supervision over Execution of Compulsory Medical Treatment"
+        }
+      },
+      {
+        "no": 653,
+        "text": {
+          "en": "Where a people's procuratorate discovers unlawful circumstances in the interim protective restraint measures taken by a public security organ against the person with mental illness involved in a case, it shall put forward an opinion on correction in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 653."
+        },
+        "chapter": {
+          "en": "Section 7 Supervision over Execution of Compulsory Medical Treatment"
+        }
+      },
+      {
+        "no": 654,
+        "text": {
+          "en": "Where a people's procuratorate discovers any of the following circumstances in the admission activities of a house of detention or the intake activities of a prison, it shall put forward an opinion on correction in accordance with law:\n(1) there is no document or voucher for admission or intake, the documents or vouchers are incomplete, or the person admitted or taken in does not correspond to the documents or vouchers;\n(2) a person who should be admitted or taken in in accordance with law is not admitted or taken in, or a person who should not be held in custody in accordance with law is admitted or taken in;\n(3) the person admitted or taken in is not informed of his rights and obligations;\n(4) other unlawful circumstances."
+        },
+        "noLabel": {
+          "en": "Article 654."
+        },
+        "chapter": {
+          "en": "Section 8 Supervision over Custodial Law Enforcement"
+        }
+      },
+      {
+        "no": 655,
+        "text": {
+          "en": "Where a people's procuratorate discovers unlawful conduct by a prison, house of detention or other executing organ in the administration and education for correction of offenders, it shall put forward an opinion on correction in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 655."
+        },
+        "chapter": {
+          "en": "Section 8 Supervision over Custodial Law Enforcement"
+        }
+      },
+      {
+        "no": 656,
+        "text": {
+          "en": "When a house of detention conducts a physical examination of a criminal suspect taken into custody, the procuratorial personnel stationed by the people's procuratorate in the house of detention may be present. Where it is discovered that the criminal suspect taken into custody has injuries or physical abnormalities, the house of detention shall be required to take photographs or make video recordings, the delivering personnel and the criminal suspect shall explain the reasons, the matter shall be stated in the medical examination record, and the delivering personnel, the receiving personnel and the criminal suspect shall sign to confirm it. Where necessary, the procuratorial personnel stationed in the house of detention may themselves take photographs or make video recordings and record the relevant circumstances in the case file."
+        },
+        "noLabel": {
+          "en": "Article 656."
+        },
+        "chapter": {
+          "en": "Section 8 Supervision over Custodial Law Enforcement"
+        }
+      },
+      {
+        "no": 657,
+        "text": {
+          "en": "Where a people's procuratorate discovers that a house of detention, a prison or another supervisory place beats, corporally punishes or maltreats a person in custody, unlawfully uses restraints, unlawfully applies solitary confinement or commits other acts infringing the personal rights of persons in custody, it shall put forward an opinion on correction in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 657."
+        },
+        "chapter": {
+          "en": "Section 8 Supervision over Custodial Law Enforcement"
+        }
+      },
+      {
+        "no": 658,
+        "text": {
+          "en": "Where a people's procuratorate discovers that a house of detention, in violation of the relevant provisions, commits any of the following acts, it shall put forward an opinion on correction in accordance with law:\n(1) tipping off a person in custody, privately passing letters or articles, helping to forge, destroy or conceal evidence, or interfering with a witness's testimony or collusion in statements;\n(2) agreeing in violation of provisions to the removal of a criminal suspect from the house of detention for interrogation by investigators;\n(3) after receiving an application for modification of compulsory measures or another application, petition, complaint or tip-off from a criminal suspect or defendant in custody and his statutory agent, close relative or defender, failing to promptly transfer or communicate it to the people's procuratorate or the relevant case-handling organ;\n(4) failing to arrange for a defence lawyer to meet the criminal suspect or defendant in custody in accordance with law where such an arrangement should be made;\n(5) unlawfully arranging for a defence lawyer or another person to meet the criminal suspect or defendant in custody;\n(6) monitoring the meeting of a defence lawyer with the criminal suspect or defendant;\n(7) other unlawful circumstances."
+        },
+        "noLabel": {
+          "en": "Article 658."
+        },
+        "chapter": {
+          "en": "Section 8 Supervision over Custodial Law Enforcement"
+        }
+      },
+      {
+        "no": 659,
+        "text": {
+          "en": "Where a people's procuratorate discovers any of the following circumstances in the activities of a house of detention in executing a penalty on behalf of another organ, it shall put forward an opinion on correction in accordance with law:\n(1) keeping in the house of detention to serve the sentence an offender sentenced to fixed-term imprisonment with more than three months of the term remaining;\n(2) mixing an offender serving a sentence in the house of detention with criminal suspects or defendants in detention, management and education;\n(3) other unlawful circumstances."
+        },
+        "noLabel": {
+          "en": "Article 659."
+        },
+        "chapter": {
+          "en": "Section 8 Supervision over Custodial Law Enforcement"
+        }
+      },
+      {
+        "no": 660,
+        "text": {
+          "en": "Where a people's procuratorate discovers that a prison fails to separate and manage offenders in different categories in accordance with provisions, or that the people's police of the prison fail to exercise direct management over offenders, and other circumstances violating the provisions on supervision, it shall put forward an opinion on correction in accordance with law.\nWhere a people's procuratorate discovers that a prison fails to arrange in accordance with provisions for an offender to meet his relatives or guardian, fails to treat a sick or injured offender promptly, or fails to implement the living standards for offenders provided by the State, and other circumstances infringing the lawful rights and interests of offenders, it shall put forward an opinion on correction in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 660."
+        },
+        "chapter": {
+          "en": "Section 8 Supervision over Custodial Law Enforcement"
+        }
+      },
+      {
+        "no": 661,
+        "text": {
+          "en": "Where a people's procuratorate discovers any of the following circumstances in the release activities of a house of detention or the discharge activities of a prison, it shall put forward an opinion on correction in accordance with law:\n(1) there is no document or voucher for release or discharge, the documents or vouchers are incomplete, or the released or discharged person does not correspond to the documents or vouchers;\n(2) a person who should be released is not released, a person who should not be released is released, or the notice of release is not served in accordance with provisions;\n(3) with respect to a person in custody removed from the house of detention for interrogation, escort or transfer, or an offender specially permitted to leave the prison, temporarily leaving the prison, transferred to another prison or on temporary execution outside prison, no personnel were assigned in accordance with provisions to escort him and complete the handover formalities;\n(4) other unlawful circumstances."
+        },
+        "noLabel": {
+          "en": "Article 661."
+        },
+        "chapter": {
+          "en": "Section 8 Supervision over Custodial Law Enforcement"
+        }
+      },
+      {
+        "no": 662,
+        "text": {
+          "en": "Where a people's procuratorate discovers any of the following circumstances in a house of detention, a prison, an institution for compulsory medical treatment or another such place, it shall carry out an accident review:\n(1) abnormal death, disability or escape of a person under supervision or a person subject to compulsory medical treatment;\n(2) a person under supervision disrupting the order of supervision, where the circumstances are serious;\n(3) a sudden public health incident;\n(4) other major accidents.\nWhere abnormal death of a person under supervision or a person subject to compulsory medical treatment occurs, roving inspection shall be organised."
+        },
+        "noLabel": {
+          "en": "Article 662."
+        },
+        "chapter": {
+          "en": "Section 9 Inspection of Accidents"
+        }
+      },
+      {
+        "no": 663,
+        "text": {
+          "en": "A people's procuratorate shall review the accident investigation conclusions of a house of detention, a prison, an institution for compulsory medical treatment or another such place or of the competent organ. Where any of the following circumstances exists, the people's procuratorate shall conduct investigation and verification:\n(1) the person under supervision or the person subject to compulsory medical treatment and his statutory agent or close relatives object to the investigation conclusion and the people's procuratorate considers investigation necessary;\n(2) the people's procuratorate objects to the investigation conclusion;\n(3) other circumstances requiring investigation.\nA people's procuratorate shall notify the supervisory place or the competent organ and the close relatives of the person under supervision or the person subject to compulsory medical treatment in writing of the conclusion of investigation and verification. Where it considers the opinion on handling of the supervisory place or the competent organ improper, or that problems exist in supervision and law enforcement, it shall put forward an opinion on correction or a procuratorial suggestion; where it considers that unlawful or criminal circumstances may exist, it shall transfer the matter to the relevant department for handling."
+        },
+        "noLabel": {
+          "en": "Article 663."
+        },
+        "chapter": {
+          "en": "Section 9 Inspection of Accidents"
+        }
+      },
+      {
+        "no": 664,
+        "text": {
+          "en": "The department responsible for case management of a people's procuratorate shall manage, supervise and give early warning on the acceptance, time limits, procedure and quality of cases handled by procuratorial organs."
+        },
+        "noLabel": {
+          "en": "Article 664."
+        },
+        "chapter": {
+          "en": "Chapter XV Case Management"
+        }
+      },
+      {
+        "no": 665,
+        "text": {
+          "en": "Where the department responsible for case management of a people's procuratorate discovers any of the following circumstances in the case-handling activities of the same procuratorate, it shall promptly put forward an opinion on correction:\n(1) sealing up, seizing, freezing, keeping or disposing of property involved in a case does not conform to the relevant laws and provisions;\n(2) the preparation or use of legal documents does not conform to the laws and relevant provisions;\n(3) the provisions on the period of custody or the time limit for handling the case are violated;\n(4) the litigation rights of a party, a defender or an agent ad litem are infringed;\n(5) the duty of legal supervision is not performed in accordance with law over unlawful conduct in litigation activities such as case filing, investigation, review for arrest, public prosecution and trial and in execution activities;\n(6) other circumstances in which an opinion on correction should be put forward.\nWhere the circumstances are minor, an oral reminder may be given; where the circumstances are relatively serious, a notice of monitoring of the case flow shall be sent, reminding the case-handling department to promptly ascertain the circumstances and correct them; where the circumstances are serious, the matter shall at the same time be reported to the chief procurator.\nAfter receiving a notice of monitoring of the case flow, the case-handling department shall, within ten days, reply in writing on the verification to the department responsible for case management."
+        },
+        "noLabel": {
+          "en": "Article 665."
+        },
+        "chapter": {
+          "en": "Chapter XV Case Management"
+        }
+      },
+      {
+        "no": 666,
+        "text": {
+          "en": "The department responsible for case management of a people's procuratorate shall supervise and manage the preparation and issuance of legal documents in the name of the same procuratorate."
+        },
+        "noLabel": {
+          "en": "Article 666."
+        },
+        "chapter": {
+          "en": "Chapter XV Case Management"
+        }
+      },
+      {
+        "no": 667,
+        "text": {
+          "en": "Where, after a case handled by a people's procuratorate is concluded, the case file materials need to be transferred to another unit, the department responsible for case management shall uniformly examine whether the materials transferred are standard and complete. Where the department responsible for case management considers that the materials are standard and complete and meet the conditions for transfer, the case-handling department shall immediately transfer them in accordance with provisions; where it considers that the materials do not meet the requirements, it shall promptly notify the case-handling department to supplement or correct them."
+        },
+        "noLabel": {
+          "en": "Article 667."
+        },
+        "chapter": {
+          "en": "Chapter XV Case Management"
+        }
+      },
+      {
+        "no": 668,
+        "text": {
+          "en": "Where a supervisory organ or a public security organ transfers property involved in a case and its fruits together with the case, the department responsible for case management of the people's procuratorate shall examine them when accepting the case and promptly complete the formalities for placing them in storage for custody."
+        },
+        "noLabel": {
+          "en": "Article 668."
+        },
+        "chapter": {
+          "en": "Chapter XV Case Management"
+        }
+      },
+      {
+        "no": 669,
+        "text": {
+          "en": "The department responsible for case management of a people's procuratorate shall keep the seized articles involved in a case in custody and supervise and manage the work of sealing up, seizing, freezing and disposing of property involved in a case. It shall put forward an opinion on correction of conduct in violation of provisions and, where a violation of law or discipline is suspected, report the matter to the chief procurator."
+        },
+        "noLabel": {
+          "en": "Article 669."
+        },
+        "chapter": {
+          "en": "Chapter XV Case Management"
+        }
+      },
+      {
+        "no": 670,
+        "text": {
+          "en": "Where the case-handling department of a people's procuratorate needs to call for, transfer or dispose of property involved in a case that has been sealed up, seized or frozen, it shall complete the examination and approval formalities in accordance with provisions. Where the examination and approval formalities are complete, the department responsible for case management shall complete the formalities for release from storage."
+        },
+        "noLabel": {
+          "en": "Article 670."
+        },
+        "chapter": {
+          "en": "Chapter XV Case Management"
+        }
+      },
+      {
+        "no": 671,
+        "text": {
+          "en": "A people's procuratorate shall conduct criminal judicial assistance on the basis of the International Criminal Judicial Assistance Law and other relevant laws and the relevant treaties on criminal judicial assistance."
+        },
+        "noLabel": {
+          "en": "Article 671."
+        },
+        "chapter": {
+          "en": "Chapter XVI Criminal Judicial Assistance"
+        }
+      },
+      {
+        "no": 672,
+        "text": {
+          "en": "The scope of criminal judicial assistance of a people's procuratorate includes service of documents in criminal proceedings, investigation and collection of evidence, arranging for witnesses to testify or to assist in investigation, sealing up, seizing and freezing property involved in a case, returning illegal gains and other property involved in a case, transfer of sentenced persons and other assistance."
+        },
+        "noLabel": {
+          "en": "Article 672."
+        },
+        "chapter": {
+          "en": "Chapter XVI Criminal Judicial Assistance"
+        }
+      },
+      {
+        "no": 673,
+        "text": {
+          "en": "The Supreme People's Procuratorate is the competent organ for procuratorial organs in carrying out international criminal judicial assistance. It is responsible for examining requests for criminal judicial assistance submitted by people's procuratorates at local levels to foreign States, examining and handling requests for criminal judicial assistance made by foreign States and transmitted by the external liaison organ, examining and deciding whether to approve the execution of requests for criminal judicial assistance made by foreign States, and undertaking other work relating to international criminal judicial assistance.\nPeople's procuratorates at local levels handling cases relating to criminal judicial assistance shall report level by level to the Supreme People's Procuratorate the requests for criminal judicial assistance that need to be submitted to foreign States, and shall execute the requests for criminal judicial assistance made by foreign States and assigned by the Supreme People's Procuratorate."
+        },
+        "noLabel": {
+          "en": "Article 673."
+        },
+        "chapter": {
+          "en": "Chapter XVI Criminal Judicial Assistance"
+        }
+      },
+      {
+        "no": 674,
+        "text": {
+          "en": "Where a people's procuratorate at a local level needs to request criminal judicial assistance from a foreign State, it shall prepare a written request for criminal judicial assistance and attach the relevant materials. After examination and approval by the provincial people's procuratorate, it shall submit them to the Supreme People's Procuratorate.\nThe written request for criminal judicial assistance shall be prepared in accordance with the provisions of the relevant treaty on criminal judicial assistance; where there is no treaty or the treaty does not so provide, it may be prepared with reference to Article 13 of the International Criminal Judicial Assistance Law. Where the requested party has special requirements, the request may be prepared in accordance with those special requirements provided that they do not violate the basic principles of the laws of China."
+        },
+        "noLabel": {
+          "en": "Article 674."
+        },
+        "chapter": {
+          "en": "Chapter XVI Criminal Judicial Assistance"
+        }
+      },
+      {
+        "no": 675,
+        "text": {
+          "en": "After receiving a written request for criminal judicial assistance and the attached materials from a people's procuratorate at a local level, the Supreme People's Procuratorate shall examine them in accordance with the International Criminal Judicial Assistance Law and the relevant treaties. Where the request conforms to the provisions and the attached materials are complete, the Supreme People's Procuratorate shall, if it is the external liaison organ, promptly submit the request to the foreign State; if it is not the external liaison organ, it shall submit the request to the foreign State through the external liaison organ. Where the request does not conform to the provisions or the materials are incomplete, it shall return them to the people's procuratorate that made the request or require it to supplement or correct them."
+        },
+        "noLabel": {
+          "en": "Article 675."
+        },
+        "chapter": {
+          "en": "Chapter XVI Criminal Judicial Assistance"
+        }
+      },
+      {
+        "no": 676,
+        "text": {
+          "en": "After receiving a request for criminal judicial assistance made by a foreign State, the Supreme People's Procuratorate shall examine the written request and the attached materials. Where the form and content of the written request meet the requirements, it shall, in accordance with the division of duties, transfer the written request and the attached materials to the relevant competent organ or to the provincial people's procuratorate for handling; where the form and content of the written request do not meet the requirements, it may require the requesting party to supplement the materials or to submit a new request.\nWhere a request for criminal judicial assistance made by a foreign State manifestly harms the sovereignty, security or public interests of China, assistance may be refused directly."
+        },
+        "noLabel": {
+          "en": "Article 676."
+        },
+        "chapter": {
+          "en": "Chapter XVI Criminal Judicial Assistance"
+        }
+      },
+      {
+        "no": 677,
+        "text": {
+          "en": "After receiving a written request for criminal judicial assistance and the attached materials transmitted by the external liaison organ, the Supreme People's Procuratorate shall, upon examination, make the following dispositions respectively:\n(1) where, in accordance with the International Criminal Judicial Assistance Law and the treaty on criminal judicial assistance, it considers that assistance may be provided, it shall make a decision and arrange for the relevant provincial people's procuratorate to execute it;\n(2) where, in accordance with the International Criminal Judicial Assistance Law or the treaty on criminal judicial assistance, it considers that assistance should be wholly or partly refused, it shall return the written request and the attached materials to the external liaison organ and state the reasons;\n(3) where there are confidentiality requirements or other additional conditions for executing the request, it shall put them to the foreign State through the external liaison organ and, after the foreign State accepts the conditions and gives a written guarantee, decide to execute the request subject to conditions;\n(4) where materials need to be supplemented, it shall require the requesting party in writing through the external liaison organ to provide them within a reasonable time limit."
+        },
+        "noLabel": {
+          "en": "Article 677."
+        },
+        "chapter": {
+          "en": "Chapter XVI Criminal Judicial Assistance"
+        }
+      },
+      {
+        "no": 678,
+        "text": {
+          "en": "After receiving a request for criminal judicial assistance made by a foreign State and assigned by the Supreme People's Procuratorate, the relevant provincial people's procuratorate shall execute it in accordance with law or refer it to a people's procuratorate at a lower level for execution.\nAfter receiving the written request for criminal judicial assistance and the attached materials, the people's procuratorate responsible for execution shall arrange execution immediately and, after the result of execution and the relevant materials have been examined by the provincial people's procuratorate, submit them to the Supreme People's Procuratorate.\nWhere execution is impossible, the written request for criminal judicial assistance and the attached materials shall, together with the reasons why execution is impossible, be submitted through the provincial people's procuratorate to the Supreme People's Procuratorate.\nWhere it is difficult for a people's procuratorate to execute the request because the address provided in the written request is incomplete or the materials are incomplete, it shall immediately notify the external liaison organ in writing through the Supreme People's Procuratorate and require the requesting party to provide supplementary materials."
+        },
+        "noLabel": {
+          "en": "Article 678."
+        },
+        "chapter": {
+          "en": "Chapter XVI Criminal Judicial Assistance"
+        }
+      },
+      {
+        "no": 679,
+        "text": {
+          "en": "The Supreme People's Procuratorate shall examine the result of execution. Where it conforms to the requirements of the request and the relevant provisions, it shall transmit it to or inform the requesting party through the external liaison organ."
+        },
+        "noLabel": {
+          "en": "Article 679."
+        },
+        "chapter": {
+          "en": "Chapter XVI Criminal Judicial Assistance"
+        }
+      },
+      {
+        "no": 680,
+        "text": {
+          "en": "The provisions of these Rules on public security organs shall apply to the handling by people's procuratorates of criminal cases transferred by State security organs, coast guard organs and prisons, and to the supervision of case filing and investigation activities of State security organs, coast guard organs and prisons."
+        },
+        "noLabel": {
+          "en": "Article 680."
+        },
+        "chapter": {
+          "en": "Chapter XVII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 681,
+        "text": {
+          "en": "These Rules and other relevant provisions shall apply to the handling of criminal cases by military procuratorates and other special people's procuratorates."
+        },
+        "noLabel": {
+          "en": "Article 681."
+        },
+        "chapter": {
+          "en": "Chapter XVII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 682,
+        "text": {
+          "en": "Prosecutors referred to in these Rules include chief procurators, deputy chief procurators, members of procuratorial committees and procurators.\nProcuratorial personnel referred to in these Rules include prosecutors and assistant prosecutors."
+        },
+        "noLabel": {
+          "en": "Article 682."
+        },
+        "chapter": {
+          "en": "Chapter XVII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 683,
+        "text": {
+          "en": "These Rules shall be interpreted by the Supreme People's Procuratorate."
+        },
+        "noLabel": {
+          "en": "Article 683."
+        },
+        "chapter": {
+          "en": "Chapter XVII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 684,
+        "text": {
+          "en": "These Rules shall come into force on 30 December 2019. Upon the entry into force of these Rules, the Rules of Criminal Procedure of People's Procuratorates (for Trial Implementation) (Gao Jian Fa Shi Zi [2012] No. 2) shall be repealed at the same time; where the judicial interpretations and normative documents previously issued by the Supreme People's Procuratorate are inconsistent with these Rules, these Rules shall prevail.\nPrincipal addressees: the people's procuratorates of all provinces, autonomous regions and municipalities directly under the Central Government, the Military Procuratorate of the People's Liberation Army, and the people's procuratorate of the Xinjiang\nProduction and Construction Corps.\nCopied to: the Central Commission for Discipline Inspection and the National Supervisory Commission, the Political and Legal Affairs Commission of the Central Committee, the Supreme People's Court, the Ministry of Public Security,\nthe Ministry of State Security and the Ministry of Justice;\nthe leading comrades of this Procuratorate and the full-time members of the Procuratorial Committee;\nthe internal institutions of the organ and the institutions directly under it.\nOffice of the Supreme People's Procuratorate                    Printed and issued on 30 December 2019"
+        },
+        "noLabel": {
+          "en": "Article 684."
+        },
+        "chapter": {
+          "en": "Chapter XVII Supplementary Provisions"
         }
       }
     ]
@@ -19359,7 +27546,7 @@
     "translatedAt": "2026-10-14",
     "reviewed": "machine",
     "glossaryVersion": "calr-terms-2026-10-v2",
-    "completenessNote": "逐条对译，共 150 条；条号与官方原文一一对应，未合并、未省略。",
+    "completenessNote": "逐条对译，共 155 条；条号与官方原文一一对应，未合并、未省略。",
     "articles": [
       {
         "no": 1,
@@ -21114,6 +29301,66 @@
         },
         "chapter": {
           "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 151,
+        "text": {
+          "en": "The value of the goods prescribed in this Chapter shall be calculated on the basis of the marked price of the drugs illegally produced or sold; where there is no marked price, it shall be calculated on the basis of the market price of drugs of the same kind."
+        },
+        "noLabel": {
+          "en": "Article 151."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 152,
+        "text": {
+          "en": "The administration of the cultivation, collection and breeding of traditional Chinese medicinal materials shall be carried out in accordance with the provisions of relevant laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 152."
+        },
+        "chapter": {
+          "en": "Chapter XII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 153,
+        "text": {
+          "en": "Measures for the administration of regional folk medicinal materials in customary use shall be formulated by the drug supervision and management department of the State Council together with the competent traditional Chinese medicine department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 153."
+        },
+        "chapter": {
+          "en": "Chapter XII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 154,
+        "text": {
+          "en": "Specific measures for the implementation of this Law by the Chinese People's Liberation Army and the Chinese People's Armed Police Force shall be formulated by the State Council and the Central Military Commission on the basis of this Law."
+        },
+        "noLabel": {
+          "en": "Article 154."
+        },
+        "chapter": {
+          "en": "Chapter XII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 155,
+        "text": {
+          "en": "This Law shall come into force on 1 December 2019."
+        },
+        "noLabel": {
+          "en": "Article 155."
+        },
+        "chapter": {
+          "en": "Chapter XII Supplementary Provisions"
         }
       }
     ]
@@ -39285,7 +47532,7 @@
     "translatedAt": "2026-10-14",
     "reviewed": "machine",
     "glossaryVersion": "calr-terms-2026-10-v2",
-    "completenessNote": "逐条对译，共 150 条；条号与官方原文一一对应，未合并、未省略。",
+    "completenessNote": "逐条对译，共 154 条；条号与官方原文一一对应，未合并、未省略。",
     "articles": [
       {
         "no": 1,
@@ -41052,6 +49299,54 @@
         },
         "chapter": {
           "en": "Chapter XIV Legal Liability"
+        }
+      },
+      {
+        "no": 151,
+        "text": {
+          "en": "The civil compensation liability, fines and pecuniary penalties that fund managers, fund custodians and fund service institutions are required to bear under this Law shall be borne by fund managers, fund custodians and fund service institutions out of their own property.\nFines and pecuniary penalties collected and illegal gains confiscated in accordance with law shall be turned over in full to the State Treasury."
+        },
+        "noLabel": {
+          "en": "Article 151."
+        },
+        "chapter": {
+          "en": "Chapter XIV Legal Liability"
+        }
+      },
+      {
+        "no": 152,
+        "text": {
+          "en": "The raising, within the territory of the People's Republic of China, of funds that invest in overseas securities, and securities investment within the territory by qualified foreign investors, shall be subject to approval by the securities regulatory authority of the State Council; specific measures shall be prescribed by the securities regulatory authority of the State Council together with the relevant departments of the State Council and submitted to the State Council for approval."
+        },
+        "noLabel": {
+          "en": "Article 152."
+        },
+        "chapter": {
+          "en": "Chapter XV Supplementary Provisions"
+        }
+      },
+      {
+        "no": 153,
+        "text": {
+          "en": "This Law shall apply to the securities investment activities of companies or partnerships established for the purpose of conducting securities investment activities with publicly or non-publicly raised funds, where their assets are managed by fund managers or general partners."
+        },
+        "noLabel": {
+          "en": "Article 153."
+        },
+        "chapter": {
+          "en": "Chapter XV Supplementary Provisions"
+        }
+      },
+      {
+        "no": 154,
+        "text": {
+          "en": "This Law shall come into force on 1 June 2013."
+        },
+        "noLabel": {
+          "en": "Article 154."
+        },
+        "chapter": {
+          "en": "Chapter XV Supplementary Provisions"
         }
       }
     ]

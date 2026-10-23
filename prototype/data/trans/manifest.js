@@ -271,7 +271,7 @@
           "CN-LAW-0230",
           "CN-LAW-0231"
         ],
-        "articles": 5635,
+        "articles": 5640,
         "engine": "llm",
         "model": "deepseek-v4.1-flash",
         "reviewed": "machine"
@@ -305,6 +305,7 @@
           "CN-LAW-0252",
           "CN-LAW-0253",
           "CN-LAW-0254",
+          "CN-LAW-0255",
           "CN-LAW-0256",
           "CN-LAW-0257",
           "CN-LAW-0258",
@@ -356,7 +357,7 @@
           "CN-LAW-0304",
           "CN-LAW-0305"
         ],
-        "articles": 4770,
+        "articles": 6026,
         "engine": "llm",
         "model": "deepseek-v4.1-flash",
         "reviewed": "machine"
@@ -375,6 +376,7 @@
           "CN-JI-0006",
           "CN-JI-0007",
           "CN-JI-0008",
+          "CN-JI-0009",
           "CN-JI-0010",
           "CN-JI-0011",
           "CN-JI-0012",
@@ -443,7 +445,7 @@
           "CN-SUP-0001",
           "CN-SUP-0002"
         ],
-        "articles": 4877,
+        "articles": 5570,
         "engine": "llm",
         "model": "deepseek-v4.1-flash",
         "reviewed": "machine"
@@ -915,6 +917,7 @@
         "targetLang": "en",
         "laws": [
           "CN-JI-0426",
+          "CN-JI-0427",
           "CN-JI-0428",
           "CN-JI-0429",
           "CN-JI-0430",
@@ -922,6 +925,7 @@
           "CN-JI-0432",
           "CN-JI-0433",
           "CN-JI-0434",
+          "CN-JI-0435",
           "CN-JI-0436",
           "CN-JI-0437",
           "CN-JI-0438",
@@ -992,7 +996,7 @@
           "CN-JI-0503",
           "CN-JI-0504"
         ],
-        "articles": 1043,
+        "articles": 2246,
         "engine": "llm",
         "model": "deepseek-v4.1-flash",
         "reviewed": "machine"
@@ -6510,6 +6514,18 @@
       },
       "CN-LAW-0210": {
         "en": "cn-p03.en"
+      },
+      "CN-JI-0009": {
+        "en": "cn-p05.en"
+      },
+      "CN-JI-0427": {
+        "en": "cn-p11.en"
+      },
+      "CN-JI-0435": {
+        "en": "cn-p11.en"
+      },
+      "CN-LAW-0255": {
+        "en": "cn-p04.en"
       }
     }
   };
