@@ -18,10 +18,13 @@
   };
   var THEME_LABEL = { light: '浅色', dark: '深色' };
 
-  /* 顶部导航：仅保留 主页 / 法律检索 / AI 智能查询 */
+  /* 顶部导航：主页 / 法律检索 / 跨语言比对 / AI 智能查询 */
   var NAV = [
     { path: '/', label: '主页', view: 'home' },
     { path: '/search', label: '法律检索', view: 'search' },
+    /* 跨语言比对页面此前早已实现（/compare），但没有入口，界面上点不到。
+       放在导航第三位：它是最能体现「中国—东盟」跨法域价值的差异化功能。 */
+    { path: '/compare', label: '跨语言比对', view: 'compare' },
     { path: '/assistant', label: 'AI 智能查询', view: 'assistant' }
   ];
 

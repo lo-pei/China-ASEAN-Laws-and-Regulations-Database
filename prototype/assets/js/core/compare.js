@@ -32,11 +32,42 @@
     return { id: 'major', name: '显著差异', cls: 'diff--major' };
   }
 
+  /* 维度关键词规则
+     背景：本功能原本完全依赖条文上的 article.compareTags 标注来判断「本条是否涉及某维度」，
+           但实测全库 67,979 条条文里带该标注的是 **0 条**，于是任意两条条文在五个维度上
+           全部被判为「未涉及」，报告永远是「可参与比对的维度 0/5」——功能从未真正生效。
+     方案：改为按条文文本自动判定是否涉及该维度；若某条确有手工标注，仍优先采用标注。 */
+  var DIM_WORDS = {
+    scope: ['适用范围', '本法适用', '本办法适用', '适用于', '调整范围', '适用主体',
+      '地域范围', '在中华人民共和国境内', '在境内', '管辖', '不适用'],
+    definition: ['是指', '所称', '本法下列用语', '定义', '含义', '本办法所称', '构成本法'],
+    liability: ['处罚', '罚款', '责任', '无效', '撤销', '吊销', '责令', '追究',
+      '赔偿', '处分', '滞纳金', '没收', '违约责任', '刑事责任'],
+    procedure: ['日内', '期限', '申请', '审批', '备案', '登记', '公示', '公告',
+      '通知', '送达', '工作日', '期满', '办理'],
+    threshold: ['应当具备', '条件', '标准', '比例', '不低于', '不超过', '限额',
+      '注册资本', '资质', '门槛', '最低']
+  };
+
+  /** 该条文是否涉及某维度：有手工标注用标注，否则按关键词自动判定 */
+  function dimCovered(article, dim) {
+    if (!article) return false;
+    var manual = article.compareTags || [];
+    if (manual.length) return manual.indexOf(dim.tag) >= 0;
+    var txt = U().plain(U().tr(article.text) || '') + ' ' + U().plain(U().tr(article.heading) || '');
+    if (!txt) return false;
+    var words = DIM_WORDS[dim.tag] || [];
+    for (var i = 0; i < words.length; i++) {
+      if (txt.indexOf(words[i]) >= 0) return true;
+    }
+    return false;
+  }
+
   function cellText(article, dim, lang) {
     if (!article) return { text: '', covered: false };
-    var tags = article.compareTags || [];
-    var covered = tags.indexOf(dim.tag) >= 0;
-    var base = U().tr(article.summary, lang) || U().tr(article.text, lang);
+    var covered = dimCovered(article, dim);
+    /* 用条文正文作为比对文本；summary 往往只是标题，拿它比对会失真 */
+    var base = U().tr(article.text, lang) || U().tr(article.summary, lang);
     if (!covered) return { text: '本条未直接涉及该维度；需结合该国配套法规或实施细则进一步核查。', covered: false };
     return { text: base, covered: true };
   }
@@ -88,10 +119,16 @@
       var cells = prepared.map(function (p, i) {
         if (!p.covered) return { text: NOT_COVERED, covered: false, similarity: null, level: NA_LEVEL };
         var others = prepared.filter(function (q, j) { return q.covered && j !== i; }).map(function (q) { return q.text; });
-        var sim = others.length ? Math.round(others.reduce(function (acc, o) { return acc + U().similarity(p.text, o); }, 0) / others.length) : 100;
+        /* 关键修复：没有「另一方」可比较时，相似度必须是 null（不适用），
+           原来写成 100 会让「只有一方涉及该维度」的情形被判成完全一致，
+           进而把这个假的 100 平均进整体相似度，导致报告显示「100% 基本一致」。 */
+        if (!others.length) return { text: p.text, covered: true, similarity: null, level: NA_LEVEL };
+        var sim = Math.round(others.reduce(function (acc, o) { return acc + U().similarity(p.text, o); }, 0) / others.length);
         return { text: p.text, covered: true, similarity: sim, level: diffLevel(100 - sim) };
       });
-      var sims = cells.filter(function (c) { return c.covered && c.similarity !== null; }).map(function (c) { return c.similarity; });
+      /* 只有维度可对比（≥2 方涉及）时才给出维度相似度 */
+      var sims = comparable ? cells.filter(function (c) { return c.covered && c.similarity !== null; })
+                                   .map(function (c) { return c.similarity; }) : [];
       var avgSim = sims.length ? Math.round(sims.reduce(function (a, b) { return a + b; }, 0) / sims.length) : null;
       return {
         id: dim.id, name: dim.name, hint: dim.hint, cells: cells,
@@ -101,10 +138,13 @@
     });
 
     /* 两两相似度矩阵 */
+    /* 两两相似度矩阵：与 cellText 用同一文本口径（tr(text)），
+       原来混用了 summary+text，和维度里显示的文本不一致，容易误导。 */
     var matrix = items.map(function (a) {
+      var ta = U().tr(a.article.text);
       return items.map(function (b) {
         if (a === b) return 100;
-        return U().similarity(U().tr(a.article.summary) + U().tr(a.article.text), U().tr(b.article.summary) + U().tr(b.article.text));
+        return U().similarity(ta, U().tr(b.article.text));
       });
     });
 
@@ -166,5 +206,6 @@
     return out.slice(0, limit || 40);
   }
 
-  CALR.compare = { report: report, dimensions: DIMENSIONS, diffLevel: diffLevel, chainRules: CHAIN_RULES, candidates: candidates };
+  CALR.compare = { report: report, dimensions: DIMENSIONS, dimCovered: dimCovered,
+    diffLevel: diffLevel, chainRules: CHAIN_RULES, candidates: candidates };
 })(typeof window !== 'undefined' ? window : globalThis);

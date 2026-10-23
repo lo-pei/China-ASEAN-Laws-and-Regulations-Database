@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p03
-   法规 67 部 / 译文 4277 条
+   法规 69 部 / 译文 4509 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -21069,6 +21069,1371 @@
         },
         "chapter": {
           "en": "Chapter VIII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0190'] = {
+    "lawId": "CN-LAW-0190",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 117 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "For the purposes of comprehensively promoting scientific and technological progress, giving play to the role of science and technology as the primary productive force, innovation as the primary driving force and talent as the primary resource, promoting the transformation of scientific and technological achievements into practical productive forces, driving scientific and technological innovation to support and lead economic and social development, and comprehensively building a modern socialist country, this Law is enacted in accordance with the Constitution."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The overall leadership of the Communist Party of China over scientific and technological undertakings shall be upheld.\nThe State shall adhere to the new development philosophy, adhere to the core position of scientific and technological innovation in the overall situation of national modernisation, take self-reliance and self-strengthening in science and technology as the strategic support for national development, implement the strategy of invigorating the country through science and education, the strategy of strengthening the country through human resources and the strategy of innovation-driven development, follow a path of independent innovation with Chinese characteristics, and build a strong country in science and technology."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Work on scientific and technological progress shall be oriented towards the global frontiers of science and technology, the main battlefield of the economy, the major needs of the State and the life and health of the people, and shall serve the promotion of economic and social development, the safeguarding of national security and the advancement of sustainable human development.\nThe State shall encourage scientific and technological research and development, promote the application of science and technology to transform and upgrade traditional industries, develop high-tech industries and social undertakings, support the achievement of the goals of carbon peaking and carbon neutrality, generate new drivers of development and achieve high-quality development."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The State shall improve an efficient, coordinated and open national innovation system, coordinate scientific and technological innovation with institutional innovation, improve the new system of nationwide mobilisation of resources under the socialist market economy, give full play to the decisive role of the market in allocating innovation resources, better play the role of the government, optimise the allocation of scientific and technological resources, raise the efficiency of resource utilisation, promote close cooperation among all types of innovation entities, the orderly flow of innovation factors and the continuous optimisation of the innovation ecosystem, enhance systematic capacity and the capacity for breakthroughs in key areas, and strengthen the overall effectiveness of the innovation system.\nThe State shall build and strengthen the national strategic scientific and technological strength, of which national laboratories, national scientific and technological research and development institutions, high-level research universities and leading science and technology enterprises are important components, so that it plays a strategic supporting and leading role and delivers significant original innovation in key fields and priority directions and serves the major strategic needs of the State."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The State shall coordinate development and security, improve the capacity for science and technology security governance, improve the institutions and mechanisms for preventing and resolving science and technology security risks, strengthen the safety management of scientific and technological research, development and application activities, support scientific and technological innovation in the field of national security, and enhance the capacity and level of scientific and technological innovation in supporting national security."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The State shall encourage the integration of scientific and technological research and development with higher education and industrial development, and encourage the cross-fertilisation and mutual promotion of disciplines.\nThe State shall strengthen scientific and technological cooperation across regions, industries and fields, and support scientific and technological progress in the old revolutionary base areas, ethnic areas, remote areas and underdeveloped areas.\nThe State shall strengthen the coordinated development of military and civilian science and technology, promote the exchange of military and civilian scientific and technological resources and technology development needs and the two-way transfer of technology, and develop dual-use technologies."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The State shall follow the principle of combining the service of scientific and technological activities to national goals with the encouragement of free exploration, make advance arrangements for major basic research, frontier technology research with significant prospects for industrial application and research on technology for the public good, support the sustained and stable development of basic research, frontier technology research and research on technology for the public good, strengthen original innovation and research on key and core technologies, and accelerate the achievement of high-level self-reliance and self-strengthening in science and technology."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The State shall safeguard the freedom to carry out scientific and technological research and development, encourage scientific exploration and technological innovation, and protect the lawful rights and interests of scientific and technological personnel such as the freedom of exploration.\nScientific and technological research and development institutions, institutions of higher education, enterprises, public institutions and citizens shall have the right to independently select subjects, explore unknown scientific fields and engage in basic research, frontier technology research and research on technology for the public good."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Schools and other educational institutions shall adhere to integrating theory with practice, and shall focus on cultivating in those educated the capacity for independent thinking, practical ability, innovative ability and critical thinking, as well as the scientific spirit of seeking truth, upholding innovation and being practical and realistic.\nThe State shall give play to the important role of institutions of higher education in scientific and technological research, encourage them to carry out scientific research, technological development and social services, and cultivate high-level specialised personnel with a sense of social responsibility, an innovative spirit and practical ability."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Scientific and technological personnel are an important force of talent for the cause of socialist modernisation and shall be respected by the whole of society.\nThe State shall adhere to the strategic position of talent leading development, deepen the reform of the systems and mechanisms for talent development, cultivate, introduce and make good use of talent in all respects, create an environment that conforms to the laws of scientific and technological innovation and the laws of talent growth, and give full play to the role of talent as the primary resource."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The State shall create a social environment conducive to scientific and technological innovation, and encourage State organs, mass organisations, enterprises, public institutions, social organisations and citizens to participate in and support activities for scientific and technological progress.\nThe whole of society shall respect labour, knowledge, talent and creation and form a prevailing custom of upholding science."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The State shall develop the undertaking of science and technology popularisation, popularise scientific and technological knowledge, strengthen the construction of infrastructure and capacity for science and technology popularisation, and improve the scientific and cultural quality of all citizens, especially young people.\nScience and technology popularisation is the common responsibility of the whole of society. The State shall establish and improve an incentive mechanism for science and technology popularisation and encourage scientific and technological research and development institutions, institutions of higher education, enterprises, public institutions, social organisations and scientific and technological personnel to actively participate in and support science and technology popularisation activities."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The State shall formulate and implement an intellectual property strategy, establish and improve the intellectual property system, create a social environment that respects intellectual property, protect intellectual property and incentivise independent innovation.\nEnterprises, public institutions, social organisations and scientific and technological personnel shall enhance their awareness of intellectual property, strengthen their capacity for independent innovation, improve their ability to create, apply, protect, manage and provide services in respect of intellectual property, and improve the quality of intellectual property."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The State shall establish and improve a science and technology evaluation system conducive to innovation.\nScience and technology evaluation shall adhere to the principles of openness, fairness and impartiality, be oriented towards the quality, contribution and performance of scientific and technological innovation, and be carried out in a classified manner according to the characteristics of different scientific and technological activities."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The State Council shall lead the work of scientific and technological progress throughout the country and formulate medium- and long-term plans for scientific and technological development and plans for scientific and technological innovation, and determine major national scientific and technological projects and major projects closely related to science and technology. The medium- and long-term plans for scientific and technological development and the plans for scientific and technological innovation shall set out clear guiding policies, give play to a strategic guiding role, and guide and coordinate the layout of scientific and technological development, resource allocation and policy formulation.\nPeople's governments at or above the county level shall incorporate work on scientific and technological progress into the plans for national economic and social development and ensure that scientific and technological progress is coordinated with economic construction and social development.\nLocal people's governments at all levels shall take effective measures to strengthen the organisation and management of work on scientific and technological progress, optimise the environment for scientific and technological development and advance scientific and technological progress."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The administrative department of science and technology of the State Council shall be responsible for the macro-management, overall coordination, service support and supervision of implementation of the work of scientific and technological progress throughout the country; other relevant departments of the State Council shall, within the scope of their respective duties, be responsible for the relevant work of scientific and technological progress.\nThe administrative departments of science and technology of local people's governments at or above the county level shall be responsible for the work of scientific and technological progress within their respective administrative areas; other relevant departments of local people's governments at or above the county level shall, within the scope of their respective duties, be responsible for the relevant work of scientific and technological progress."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The State shall establish a coordination mechanism for work on scientific and technological progress to study major issues in such work, coordinate the establishment of and interconnection between national science and technology plan projects, and coordinate major matters such as the allocation of scientific and technological resources, the integration of scientific and technological research and development institutions, and the integration of scientific and technological research and development with higher education and industrial development."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "30 May of each year shall be National Science and Technology Workers' Day.\nThe State shall establish and improve a system of science and technology awards, establish awards such as the State Preeminent Science and Technology Award, and give awards to organisations and individuals that have made important contributions to activities for scientific and technological progress. The specific measures shall be prescribed by the State Council.\nThe State shall encourage organisations or individuals at home and abroad to establish science and technology awards to reward organisations and individuals that have made contributions to activities for scientific and technological progress."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The State shall strengthen capacity building for basic research, respect the laws of scientific development and the laws of talent growth, strengthen the systematic layout of projects, talent and bases, and provide good material conditions and strong institutional safeguards for the development of basic research.\nThe State shall strengthen planning and deployment, promote the organic combination of free exploration and goal orientation in basic research, focus on major key technical problems in the light of the frontiers of science and technology, economic and social development, the major needs of national security and the life and health of the people, strengthen basic research in fields such as emerging and strategic industries, and enhance the capacity for source supply of science and technology.\nThe State shall encourage scientific and technological research and development institutions, institutions of higher education and enterprises to give play to their own advantages, strengthen basic research and promote original innovation."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Basic Research"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "State finances shall establish an input mechanism for steadily supporting basic research.\nThe State shall encourage local people's governments that so wish to reasonably determine, in light of the needs of economic and social development in their regions, their fiscal input in basic research and strengthen support for basic research.\nThe State shall guide enterprises to increase input in basic research, encourage social forces to invest in basic research through multiple channels such as donations and the establishment of funds, and provide policy support in fiscal, financial and tax terms.\nThe proportion of funds for basic research in the total funds for scientific and technological research and development of the whole of society shall be gradually increased so as to meet the requirements of building an innovative country and a strong country in science and technology."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Basic Research"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The State shall establish a natural science fund to finance basic research and support the cultivation of talent and the building of teams. The determination of projects financed by the National Natural Science Fund shall adhere to the principles of macro guidance, independent application, equal competition, peer review and support for the best.\nLocal people's governments that so wish may, in light of the actual economic and social circumstances and development needs of their regions, establish natural science funds to support basic research."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Basic Research"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The State shall improve the layout of disciplines and the construction of the knowledge system, advance the cross-fertilisation of disciplines and promote the coordinated development of basic research and applied research."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter II Basic Research"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The State shall intensify the cultivation of basic research talent, strengthen stable support for basic research talent, and improve the quality and level of the basic research talent contingent.\nThe State shall establish a resource allocation mechanism that meets the needs of basic research, establish an evaluation system and an incentive mechanism suited to basic research, create a sound environment for dedicating oneself to basic research, and encourage and attract outstanding scientific and technological personnel to devote themselves to basic research."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter II Basic Research"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The State shall strengthen the building of basic research bases.\nThe State shall improve the construction of basic conditions for basic research and advance openness and sharing."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter II Basic Research"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The State shall support institutions of higher education in strengthening the building of basic disciplines and the cultivation of basic research talent, enhance their capacity for independent layout of basic research, and promote the high-quality development of basic research in institutions of higher education."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter II Basic Research"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The State shall encourage the use of applied research to drive basic research and promote the integrated development of basic research, applied research and the transformation of achievements.\nThe State shall improve the system for the supply of generic fundamental technologies, promote the deep integration of the innovation chain and the industrial chain, and safeguard the security of industrial chains and supply chains."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Applied Research and Transformation of Achievements"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The State shall establish and improve a coordination mechanism for tackling key scientific and technological problems, strengthen the integrated allocation of projects, talent, bases and funds in key fields in the light of economic and social development, the major needs of national security and the life and health of the people, promote close cooperation among industry, academia and research, and promote the independence and controllability of key and core technologies."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Applied Research and Transformation of Achievements"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The State shall improve the system of nationwide mobilisation of resources for tackling key and core technologies, organise the implementation of major scientific and technological tasks that reflect the strategic needs of the State, systematically lay out forward-looking and strategic major scientific and technological projects, and make advance arrangements for the research and development of key and core technologies."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Applied Research and Transformation of Achievements"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The State shall strengthen the building of generic technology platforms and scientific and technological research and development institutions oriented towards the needs of industrial development, and encourage local authorities to build scientific and technological research and development institutions for applied research in light of development needs.\nThe State shall encourage scientific and technological research and development institutions and institutions of higher education to strengthen research on generic fundamental technologies, and encourage enterprise-led research and development activities oriented towards the market and industrialisation."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Applied Research and Transformation of Achievements"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "The State shall strengthen pilot testing, engineering and industrialisation development and application of scientific and technological achievements, and accelerate the transformation of scientific and technological achievements into practical productive forces.\nScientific and technological research and development institutions and institutions of higher education established with fiscal funds shall actively promote the transformation of scientific and technological achievements, strengthen the building of technology transfer institutions and the talent contingent and establish and improve systems for promoting the transformation of scientific and technological achievements."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Applied Research and Transformation of Achievements"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The State shall encourage enterprises, scientific and technological research and development institutions, institutions of higher education and other organisations to establish cooperation mechanisms featuring complementary advantages, clear division of work, shared achievements and shared risks, to jointly establish research and development platforms, technological innovation alliances, innovation consortia and the like in accordance with market mechanisms, and to jointly advance research and development and the transformation of scientific and technological achievements, so as to improve the effectiveness of the transfer and transformation of scientific and technological achievements."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Applied Research and Transformation of Achievements"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "In respect of scientific and technological achievements formed by science and technology plan projects established with fiscal funds, on the premise of not harming national security, national interests and major public interests, the project undertaker shall be authorised to acquire the relevant intellectual property rights in accordance with law, and the project undertaker may, in accordance with law, invest on its own to implement the transformation, transfer the rights to others, jointly implement the transformation with others, license others to use them, or contribute them as equity investment.\nThe project undertaker shall implement the intellectual property rights provided in the preceding paragraph in accordance with law, take protective measures at the same time and submit an annual report on the implementation and protection to the project administration institution; where the rights are not implemented within a reasonable period without justified reason, the State may implement them without compensation, or license others to implement them with or without compensation.\nWhere it is necessary for national security, national interests and major public interests, the State may implement without compensation, or license others to implement with or without compensation, the intellectual property rights provided in paragraph 1 of this Article acquired by the project undertaker in accordance with law.\nThe distribution of benefits arising from the implementation by the project undertaker of the intellectual property rights provided in paragraph 1 of this Article shall be carried out in accordance with the provisions of the relevant laws and regulations; where the laws and regulations contain no provisions, it shall be carried out in accordance with the agreement."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III Applied Research and Transformation of Achievements"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The State shall implement a distribution policy oriented towards increasing the value of knowledge, advance in accordance with the relevant provisions of the State the reform of the mechanisms for the attribution of intellectual property rights and the distribution of rights and interests, and explore a system for granting scientific and technological personnel ownership or long-term rights of use of on-the-job scientific and technological achievements."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter III Applied Research and Transformation of Achievements"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The State shall encourage the intellectual property rights formed by science and technology plan projects established with fiscal funds to be used within the territory first.\nWhere the intellectual property rights provided in the preceding paragraph are transferred to an organisation or individual outside the territory, or an organisation or individual outside the territory is licensed to implement them exclusively, the approval of the project administration institution shall be obtained; where laws and administrative regulations provide otherwise as to the approving authority, those provisions shall apply."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter III Applied Research and Transformation of Achievements"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The State shall encourage the application of new technologies and, in accordance with the principle of inclusive prudence, promote application trials of new technologies, new products, new services and new models, and create conditions for the application of new technologies and new products."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter III Applied Research and Transformation of Achievements"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The State shall encourage and support applied research in agricultural science and technology, disseminate and popularise knowledge of agricultural science and technology, accelerate the transformation and industrialisation of agricultural scientific and technological achievements, promote scientific and technological progress in agriculture, and use agricultural science and technology to lead rural revitalisation and the modernisation of agriculture and rural areas.\nPeople's governments at or above the county level shall take measures to support public welfare agricultural scientific and technological research and development institutions and agricultural technology extension institutions in the research, development, application and extension of new agricultural varieties and new technologies.\nLocal people's governments at all levels shall encourage and guide agricultural scientific and technological service institutions, science and technology commissioners and rural mass scientific and technological organisations to provide scientific and technological services for the development of crop cultivation, forestry, animal husbandry and fisheries, and provide farmers with scientific and technological training and guidance."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter III Applied Research and Transformation of Achievements"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The State shall promote the integration of scientific and technological research and development with the formulation of product and service standards and with product design and manufacturing; and shall guide scientific and technological research and development institutions, institutions of higher education, enterprises and social organisations to jointly advance the research, formulation and lawful adoption of national major technological innovation product and service standards and to participate in the formulation of international standards."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter III Applied Research and Transformation of Achievements"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "The State shall cultivate and develop a unified, open, interconnected and orderly competitive technology market, encourage the establishment of intermediary service institutions engaged in activities such as technology assessment, technology brokerage and innovation and entrepreneurship services, and guide the establishment of a socialised, professionalised, networked, informatised and intelligent technology trading service system and innovation and entrepreneurship service system, so as to promote the application and extension of scientific and technological achievements.\nTechnology trading activities shall follow the principles of voluntariness and equality, mutual benefit and compensation, and honesty and good faith."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter III Applied Research and Transformation of Achievements"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The State shall establish a technological innovation system with enterprises as the mainstay and the market as the orientation, in which enterprises cooperate closely with scientific and technological research and development institutions and institutions of higher education, guide and support enterprises' technological innovation activities, support enterprises in taking the lead in national scientific and technological tasks, give play to the principal role of enterprises in technological innovation, promote enterprises to become the mainstay of decision-making on technological innovation, investment in scientific research, organisation of scientific research and transformation of achievements, promote the concentration of all types of innovation factors in enterprises, and improve the technological innovation capacity of enterprises.\nThe State shall cultivate influential and competitive leading science and technology enterprises and give full play to their leading role in innovation."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter IV Scientific and Technological Innovation by Enterprises"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "The State shall encourage enterprises to carry out the following activities:\n(1) establishing internal scientific and technological research and development institutions;\n(2) carrying out cooperative research with other enterprises or with scientific and technological research and development institutions and institutions of higher education, jointly establishing scientific and technological research and development institutions and platforms, establishing science and technology business incubators and innovation and entrepreneurship platforms, or carrying out scientific and technological research and development by entrustment and other means;\n(3) cultivating, attracting and making use of scientific and technological personnel;\n(4) jointly cultivating professional and technical personnel and highly skilled personnel with scientific and technological research and development institutions, institutions of higher education, vocational colleges or training institutions, and attracting graduates of institutions of higher education to work in enterprises;\n(5) establishing postdoctoral research stations or mobile stations;\n(6) carrying out science and technology popularisation activities in conjunction with technological innovation and employee skills training, and establishing venues or facilities for popularising science and technology that are open to the public."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter IV Scientific and Technological Innovation by Enterprises"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "The State shall encourage enterprises to strengthen original innovation, carry out technical cooperation and exchange, increase input in research and development and technological innovation, independently establish research and development subjects, and carry out technological innovation activities.\nThe State shall encourage enterprises to digest, absorb and re-innovate introduced technology.\nResearch and development expenses incurred by enterprises in developing new technologies, new products and new processes may, in accordance with the relevant provisions of the State, be deducted before tax and be subject to additional deduction, and instruments and equipment for scientific and technological research and development of enterprises may be subject to accelerated depreciation."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IV Scientific and Technological Innovation by Enterprises"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The State shall improve the multi-tiered capital market, establish and improve mechanisms for promoting scientific and technological innovation, and support qualified science and technology enterprises in using the capital market to drive their own development.\nThe State shall strengthen guidance and policy support, broaden the sources of venture capital funds through multiple channels, and support the entrepreneurial development of enterprises.\nThe State shall improve the system for science and technology enterprises to raise funds by listing, open up the channels for science and technology enterprises to raise funds by listing domestically, and give play to the financing function of the capital market in serving scientific and technological innovation."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter IV Scientific and Technological Innovation by Enterprises"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "The following enterprises shall enjoy tax preferences in accordance with the relevant provisions of the State:\n(1) enterprises engaged in the research, development and production of high-tech products;\n(2) small and medium-sized science and technology enterprises;\n(3) venture capital enterprises investing in start-up science and technology enterprises;\n(4) other enterprises related to scientific and technological progress as provided by laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter IV Scientific and Technological Innovation by Enterprises"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "The State shall support the construction and operation of public research and development platforms and science and technology intermediaries and innovation and entrepreneurship service institutions.\nPublic research and development platforms and science and technology intermediaries and innovation and entrepreneurship service institutions shall provide services for the technological innovation of small and medium-sized enterprises."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter IV Scientific and Technological Innovation by Enterprises"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "The State shall protect the intellectual property rights obtained by enterprises through research and development. Enterprises shall continuously improve the quality and efficiency of intellectual property, strengthen their capacity for independent innovation and their capacity for market competition."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter IV Scientific and Technological Innovation by Enterprises"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "State-owned enterprises shall establish and improve systems of research and development input, distribution and assessment and evaluation conducive to technological innovation, and improve incentive and restraint mechanisms.\nThe persons in charge of State-owned enterprises shall be responsible for the technological progress of their enterprises. In assessing the performance of the persons in charge of State-owned enterprises, the innovation input, the building of innovation capacity and the innovation results of the enterprises shall be included in the scope of assessment."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter IV Scientific and Technological Innovation by Enterprises"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Local people's governments at or above the county level and the relevant departments thereof shall create a market environment of fair competition and promote the technological progress of enterprises.\nThe relevant departments of the State Council and provincial people's governments shall, by formulating policies on industry, finance, banking, energy, environmental protection and response to climate change, guide and impel enterprises to research and develop new technologies, new products and new processes, carry out technological transformation and equipment renewal, eliminate equipment and processes with backward technology, and stop producing products with backward technology."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter IV Scientific and Technological Innovation by Enterprises"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "The State shall make overall plans for the layout of scientific and technological research and development institutions and establish and improve the scientific and technological research and development system.\nThe State shall build national laboratories in major fields of scientific and technological innovation that bear on national security and the overall situation of economic and social development, establish and improve a laboratory system led by national laboratories and supported by national key laboratories, and improve the mechanism of stable support.\nScientific and technological research and development institutions established with fiscal funds shall adhere to being oriented towards the strategic needs of the State and provide public scientific and technological supply and emergency scientific and technological support."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter V Scientific and Technological Research and Development Institutions"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Natural persons, legal persons and unincorporated organisations shall have the right to establish scientific and technological research and development institutions in accordance with law. Organisations or individuals outside the territory may, in accordance with law, independently establish scientific and technological research and development institutions within the territory of China, or jointly establish them with organisations or individuals within the territory of China.\nScientific and technological research and development institutions engaged in basic research, frontier technology research and research on technology for the public good may be established with fiscal funds. The establishment of scientific and technological research and development institutions with fiscal funds shall be subject to optimised allocation and the prevention of duplication.\nScientific and technological research and development institutions and institutions of higher education may establish postdoctoral mobile stations or research stations. Scientific and technological research and development institutions may, in accordance with law, establish branches abroad."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter V Scientific and Technological Research and Development Institutions"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Scientific and technological research and development institutions shall enjoy the following rights:\n(1) to organise or participate in academic activities in accordance with law;\n(2) to independently determine, in accordance with the relevant provisions of the State, their directions and subjects of scientific and technological research and development, and to independently decide on internal management matters such as the use of funds, the establishment of internal bodies, performance assessment and remuneration distribution, professional title evaluation, the transformation of scientific and technological achievements and the distribution of proceeds, post setting, personnel engagement and reasonable mobility;\n(3) to jointly carry out activities such as scientific and technological research and development, technical consultation and technical services with other scientific and technological research and development institutions, institutions of higher education and enterprises;\n(4) to receive social donations and funding;\n(5) other rights provided by laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter V Scientific and Technological Research and Development Institutions"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Scientific and technological research and development institutions shall formulate articles of association in accordance with law and carry out scientific and technological research and development activities in accordance with the functional positioning and scope of business prescribed in the articles of association; strengthen the development of scientific research conduct and academic atmosphere, establish and improve management systems for scientific research integrity and science and technology ethics, and observe the norms for the management of scientific research activities; and shall not organise, participate in or support superstitious activities.\nWhere scientific and technological research and development institutions established with fiscal funds carry out scientific and technological research and development activities, they shall serve national goals and the public interest; where conditions permit, they shall open to the public venues or facilities for popularising science and technology and organise science and technology popularisation activities."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter V Scientific and Technological Research and Development Institutions"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Scientific and technological research and development institutions established with fiscal funds shall establish a modern institute system featuring clear duties, scientific evaluation, openness and order, and standardised management, implement the system under which the president or director assumes overall responsibility, establish systems such as the advisory system of the science and technology committee and the supervisory system of the employees' congress, and absorb external experts to participate in management and accept social supervision; competition mechanisms shall be introduced in the engagement of presidents or directors."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter V Scientific and Technological Research and Development Institutions"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "The State shall improve the evaluation system for scientific and technological research and development institutions established with fiscal funds, and the evaluation results shall serve as the basis for the establishment, support, adjustment or termination of such institutions."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter V Scientific and Technological Research and Development Institutions"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Scientific and technological research and development institutions established with fiscal funds shall establish and improve mechanisms for the open sharing of scientific and technological resources and promote the effective use of such resources.\nThe State shall encourage scientific and technological research and development institutions established by social forces to practise the open sharing of scientific and technological resources within a reasonable scope."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter V Scientific and Technological Research and Development Institutions"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "The State shall encourage enterprises and other social forces to establish scientific and technological research and development institutions on their own, and shall safeguard their lawful rights and interests.\nScientific and technological research and development institutions established by social forces shall have the right, in accordance with the relevant provisions of the State, to compete on an equal footing and participate in the implementation of science and technology plan projects established with fiscal funds.\nThe State shall improve the system of tax preferences for non-profit scientific and technological research and development institutions established by social forces."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter V Scientific and Technological Research and Development Institutions"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "The State shall support the development of new types of innovation entities such as new types of research and development institutions, improve the development model featuring diversified investors, modernised management systems, market-based operating mechanisms and flexible employment mechanisms, and guide new types of innovation entities to focus on scientific research, technological innovation and research and development services."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter V Scientific and Technological Research and Development Institutions"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "The State shall create a social environment that respects and cherishes talent, an institutional environment of fairness, equality and selection of the best through competition, and a living environment with appropriate remuneration and strong safeguards, so as to create good conditions for scientific and technological personnel to devote themselves to scientific research.\nThe State shall take various measures to raise the social status of scientific and technological personnel, cultivate and bring up specialised scientific and technological talent, safeguard the commitment of scientific and technological personnel to scientific and technological innovation and research and development activities, and give full play to their role. It is prohibited to treat scientific and technological personnel and their scientific and technological achievements unfairly by any means or methods."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VI Scientific and Technological Personnel"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "The State shall accelerate the building of strategic talent strength, optimise the structure of the scientific and technological talent contingent, improve the mechanisms for cultivating, discovering, introducing, using and evaluating innovative talent and teams such as strategic scientists and leading scientific and technological talent, and implement supporting policies on talent echelons, scientific research conditions and management mechanisms."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VI Scientific and Technological Personnel"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "The State shall improve the mechanism for the education and cultivation of innovative talent, strengthen the cultivation of scientific interest in basic education, strengthen the cultivation of technical and skilled personnel in vocational education, strengthen the integration of higher education resource allocation with the cultivation of innovative talent in the field of science and technology, and strengthen and improve the reserve of strategic scientific and technological talent."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VI Scientific and Technological Personnel"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "People's governments at all levels, enterprises, public institutions and social organisations shall take measures to improve the mechanism for distributing proceeds in a way that reflects the value of innovation factors such as knowledge and technology, optimise the income structure, establish a mechanism for the steady increase of wages, raise the wage level of scientific and technological personnel, and give generous remuneration and honour-based incentives to scientific and technological personnel who have made outstanding contributions.\nScientific and technological personnel of scientific and technological research and development institutions and institutions of higher education established with fiscal funds may, on the premise of performing their post duties, completing their own work and creating no conflict of interest, and with the consent of their units, engage in part-time work to obtain lawful income. The drawing of awards and remuneration for activities such as technological development, technical consultation and technical services shall be carried out in accordance with the relevant provisions on the transformation of scientific and technological achievements.\nThe State shall encourage scientific and technological research and development institutions, institutions of higher education and enterprises to motivate scientific and technological personnel by means such as equity, share options and profit sharing."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VI Scientific and Technological Personnel"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "People's governments at all levels and enterprises and public institutions shall safeguard the right of scientific and technological personnel to receive continuing education, and create an environment and conditions for the reasonable, smooth and orderly mobility of scientific and technological personnel so that they may give play to their expertise."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VI Scientific and Technological Personnel"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Scientific and technological personnel may, according to their academic level and professional ability, choose their work units, compete for the corresponding posts and obtain the corresponding positions or professional titles.\nScientific and technological personnel shall honour their work commitments, perform their post responsibilities and complete the work corresponding to their positions or professional titles."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VI Scientific and Technological Personnel"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "The State shall implement a system of classified evaluation of scientific and technological personnel, apply different evaluation standards and methods to personnel engaged in different scientific and technological activities, highlight the orientation towards innovation value, ability and contribution, reasonably determine remuneration, allocate academic resources and set evaluation cycles, and form a talent evaluation system conducive to scientific and technological personnel devoting themselves to research and innovation, so as to stimulate their innovative vitality."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VI Scientific and Technological Personnel"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "The relevant departments of science and technology administration and enterprises and public institutions shall improve the management system for scientific and technological personnel, enhance their awareness of service and their capacity for support, simplify management processes, avoid repetitive inspection and evaluation, lighten the burdens on scientific and technological personnel in project application, submission of materials and reimbursement of funds, and safeguard their research time."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VI Scientific and Technological Personnel"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Where scientific and technological personnel work in hardship or remote areas or in harsh or dangerous environments, their units shall give subsidies in accordance with the relevant provisions of the State, provide the occupational health and hygiene protection and safety safeguards that their posts or workplaces should have, and provide facilities for them to receive continuing education and professional training."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter VI Scientific and Technological Personnel"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Young scientific and technological personnel, scientific and technological personnel of ethnic minorities and female scientific and technological personnel shall enjoy equal rights in competing for professional and technical positions, participating in science and technology evaluation, undertaking scientific and technological research and development projects, and receiving continuing education. Older scientific and technological personnel shall be encouraged to play an active role in scientific and technological progress.\nPeople's governments at all levels and enterprises and public institutions shall create an environment and conditions for the growth of young scientific and technological personnel, encourage them to dare to explore and dare to experiment in the field of science and technology, and give full play to their role. The discovery, cultivation and use of young scientific and technological personnel shall be an important part of the evaluation of work on scientific and technological progress.\nPeople's governments at all levels and enterprises and public institutions shall improve the mechanisms for cultivating, evaluating and incentivising female scientific and technological personnel, show concern for female scientific and technological personnel during pregnancy and breastfeeding, and encourage and support them in playing a greater role in scientific and technological progress."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter VI Scientific and Technological Personnel"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Scientific and technological personnel shall vigorously carry forward the scientist's spirit of patriotism, innovation, truth-seeking, dedication, collaboration and nurturing talent, adhere to the spirit of craftsmanship, observe academic and ethical norms in all types of scientific and technological activities, strictly abide by professional ethics, and be honest and trustworthy; they shall not commit fraud in scientific and technological activities and shall not participate in or support superstitious activities."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter VI Scientific and Technological Personnel"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "The State shall encourage scientific and technological personnel to explore freely and dare to take risks, and create a sound atmosphere that encourages innovation and tolerates failure. Where the original records and the like can prove that scientific and technological personnel undertaking scientific and technological research and development projects of a highly exploratory and high-risk nature have performed their duty of diligence and responsibility but are still unable to complete the project, they shall be exempted from liability."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter VI Scientific and Technological Personnel"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "Records of scientific research integrity shall serve as an important basis for engaging scientific and technological personnel to professional and technical positions or conferring professional titles, examining and approving applications by scientific and technological personnel for scientific and technological research and development projects, and conferring science and technology awards."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter VI Scientific and Technological Personnel"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "Scientific and technological personnel shall have the right to establish or join scientific and technological social organisations in accordance with law.\nScience and technology associations and scientific and technological social organisations shall, in accordance with their articles of association, play a role in promoting academic exchange, advancing discipline development, promoting scientific and technological innovation, carrying out science and technology popularisation activities, cultivating specialised personnel, carrying out consultation services, strengthening the self-discipline of scientific and technological personnel and safeguarding their lawful rights and interests.\nThe lawful rights and interests of science and technology associations and scientific and technological social organisations shall be protected by law."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter VI Scientific and Technological Personnel"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "The State shall make overall plans for the regional spatial layout of scientific and technological resources, promote close linkage between central scientific and technological resources and local development needs, and adopt various means to support regional scientific and technological innovation."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter VII Regional Scientific and Technological Innovation"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "Local people's governments at or above the county level shall support scientific and technological research and application, create conditions for promoting the transformation of scientific and technological achievements, and provide a sound innovation environment for promoting regional innovation and development."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter VII Regional Scientific and Technological Innovation"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "Science and technology plans related to industrial development formulated by people's governments at or above the county level and the relevant departments thereof shall reflect the needs of industrial development.\nWhen determining science and technology plan projects, people's governments at or above the county level and the relevant departments thereof shall encourage enterprises to compete on an equal footing and participate in implementation; in respect of projects that meet the needs of industrial development and have clear prospects for market application, enterprises shall be encouraged to implement them jointly with scientific and technological research and development institutions and institutions of higher education.\nThe implementation of local major science and technology plans shall be linked with the deployment of major national scientific and technological tasks."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter VII Regional Scientific and Technological Innovation"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "The State Council may, as needed, approve the establishment of science and technology parks such as national high-tech industrial development zones and national independent innovation demonstration zones, and give guidance and support to their construction and development so that they form their own characteristics and advantages and give play to their clustering and demonstrative driving effects."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter VII Regional Scientific and Technological Innovation"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "The State shall encourage local people's governments at or above the county level that so wish to build major scientific and technological innovation bases and platforms, cultivate carriers of innovation and entrepreneurship, and create regional centres of scientific and technological innovation in accordance with the national development strategy and local development needs.\nThe State shall support local authorities that so wish to build science and technology innovation centres and comprehensive science centres, and give play to their role in radiating and driving development, deepening innovation reform and participating in global scientific and technological cooperation."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter VII Regional Scientific and Technological Innovation"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "The State shall establish mechanisms for regional scientific and technological innovation cooperation and for coordination and mutual assistance, and encourage local people's governments at all levels and the relevant departments thereof to carry out cross-regional innovation cooperation and promote the rational flow and efficient concentration of all types of innovation factors."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter VII Regional Scientific and Technological Innovation"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "Major strategic regions of the State may, relying on regional innovation platforms, build benefit-sharing mechanisms, promote the free flow of factors such as talent, technology and funds, promote the open sharing of scientific instruments and equipment, scientific and technological infrastructure, scientific projects and scientific and technological information resources, and improve the efficiency of regional transformation of scientific and technological achievements."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter VII Regional Scientific and Technological Innovation"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "The State shall encourage local authorities to actively explore models of regional scientific and technological innovation, respect the laws of the concentration of regional scientific and technological innovation, and choose, in light of local conditions, paths of scientific and technological innovation development with regional characteristics."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Chapter VII Regional Scientific and Technological Innovation"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "The State shall promote open, inclusive, mutually beneficial and shared international cooperation and exchange in science and technology, so as to support the building of a community with a shared future for mankind."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Chapter VIII International Scientific and Technological Cooperation"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "The Government of the People's Republic of China shall develop scientific and technological cooperation and exchange with foreign governments and international organisations.\nThe State shall encourage all types of innovation entities such as scientific and technological research and development institutions, institutions of higher education, scientific and technological social organisations, enterprises and scientific and technological personnel to carry out international scientific and technological cooperation and exchange, actively participate in scientific research activities, promote the open flow of international scientific and technological resources, form a pattern of high-level openness and cooperation in science and technology, and advance scientific and technological progress in the world."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Chapter VIII International Scientific and Technological Cooperation"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "The State shall encourage enterprises, public institutions and social organisations to build platforms for international scientific and technological innovation cooperation through multiple channels and to provide services for such cooperation.\nEnterprises, public institutions, social organisations and scientific and technological personnel shall be encouraged to participate in and initiate international scientific and technological organisations and to enhance international scientific and technological cooperation and exchange."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Chapter VIII International Scientific and Technological Cooperation"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "The State shall adopt various means to support outstanding scientific and technological talent at home and abroad in joint research and development, in addressing common challenges facing mankind and in exploring the frontiers of science.\nThe State shall support scientific and technological research and development institutions, institutions of higher education, enterprises and scientific and technological personnel in actively participating in and initiating the organisation and implementation of international big science programmes and big science projects.\nThe State shall improve the mechanisms for the protection of intellectual property rights and for science and technology ethics review and security review in international scientific and technological research cooperation."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Chapter VIII International Scientific and Technological Cooperation"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "The State shall expand the opening up of science and technology plans for external cooperation, encourage foreign-invested enterprises in China, foreign scientific and technological personnel and others to undertake and participate in science and technology plan projects, and improve the mechanism for scientific and technological personnel from outside the territory to participate in national science and technology plan projects."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Chapter VIII International Scientific and Technological Cooperation"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "The State shall improve the relevant social services and safeguard measures, encourage scientific and technological personnel working abroad to return to China, and attract foreign scientific and technological personnel to China to engage in scientific and technological research and development work.\nScientific and technological research and development institutions and other scientific and technological organisations may, according to development needs, engage scientific and technological personnel from outside the territory. Where scientific and technological research and development institutions and institutions of higher education established with fiscal funds engage scientific and technological personnel from outside the territory to engage in scientific and technological research and development work, they shall provide convenience for their work and life.\nWhere outstanding foreign scientific and technological personnel come to China to engage in scientific and technological research and development work, they may, in accordance with the relevant provisions of the State, be given priority in obtaining permanent residence in China or acquiring Chinese nationality."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Chapter VIII International Scientific and Technological Cooperation"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "The State shall increase input of fiscal funds and formulate policies on industry, finance, taxation and government procurement to encourage and guide the input of social funds and promote the sustained and steady growth of funds for scientific and technological research and development of the whole of society."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        },
+        "chapter": {
+          "en": "Chapter IX Safeguard Measures"
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "The State shall gradually raise the overall level of input in science and technology funds; the rate of increase of State fiscal funds for science and technology shall be higher than the rate of increase of recurrent fiscal revenue. Funds for scientific and technological research and development of the whole of society shall account for an appropriate proportion of the gross domestic product, and this proportion shall be gradually increased."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        },
+        "chapter": {
+          "en": "Chapter IX Safeguard Measures"
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "Fiscal funds for science and technology shall be mainly used for input in the following matters:\n(1) the construction of basic conditions and facilities for science and technology;\n(2) basic research and research in frontier interdisciplinary disciplines;\n(3) frontier technology research, research on technology for the public good and research on major generic key technologies that play a strategic, fundamental and forward-looking role in economic construction and social development;\n(4) the application of major generic key technologies and demonstration of the industrialisation of high technologies;\n(5) the research and development of science and technology relating to the ecological environment and the life and health of the people and the application and extension of the achievements;\n(6) the research and development of new agricultural varieties and new technologies and the application and extension of agricultural scientific and technological achievements;\n(7) the cultivation, attraction and use of scientific and technological personnel;\n(8) science and technology popularisation.\nThe State shall give support in terms of funds, experimental means and other aspects to scientific and technological research and development institutions established with fiscal funds."
+        },
+        "noLabel": {
+          "en": "Article 87."
+        },
+        "chapter": {
+          "en": "Chapter IX Safeguard Measures"
+        }
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "The establishment of national science and technology plans shall be in accordance with national needs, focus on major strategic tasks of the State, and follow the laws of scientific research, technological innovation and the transformation of achievements.\nThe State shall establish a coordination mechanism and a performance evaluation system for science and technology plans and strengthen professional management."
+        },
+        "noLabel": {
+          "en": "Article 88."
+        },
+        "chapter": {
+          "en": "Chapter IX Safeguard Measures"
+        }
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "The State shall establish funds to finance small and medium-sized enterprises in carrying out technological innovation and to promote the transformation and application of scientific and technological achievements.\nThe State may, when necessary, establish other non-profit funds supporting basic research, research on technology for the public good and international joint research, so as to finance activities for scientific and technological progress."
+        },
+        "noLabel": {
+          "en": "Article 89."
+        },
+        "chapter": {
+          "en": "Chapter IX Safeguard Measures"
+        }
+      },
+      {
+        "no": 90,
+        "text": {
+          "en": "Those engaged in the following activities shall enjoy tax preferences in accordance with the relevant provisions of the State:\n(1) technological development, technology transfer, technology licensing, technical consultation and technical services;\n(2) the import of supplies for scientific research, technological development or science and technology popularisation that cannot be produced domestically or whose performance cannot meet needs;\n(3) the import of key equipment, raw materials or parts that cannot be produced domestically for the implementation of major national special science and technology projects and major projects of national science and technology plans;\n(4) science and technology popularisation activities open to the public carried out by venues and bases for science and technology popularisation;\n(5) donations and funding for carrying out scientific and technological activities;\n(6) other scientific research, technological development and science and technology application activities provided by laws and the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 90."
+        },
+        "chapter": {
+          "en": "Chapter IX Safeguard Measures"
+        }
+      },
+      {
+        "no": 91,
+        "text": {
+          "en": "In respect of scientific and technological innovation products and services of natural persons, legal persons and unincorporated organisations within the territory, where indicators such as function and quality can meet the needs of government procurement, government procurement shall purchase them; where they are placed on the market for the first time, government procurement shall take the lead in purchasing them, and shall not restrict them on the ground of commercial performance.\nWhere the products to be procured by government still need research and development, this shall be implemented by way of ordering. The purchaser shall give priority to determining, through competitive means, scientific and technological research and development institutions, institutions of higher education or enterprises to carry out research and development, and shall procure them as agreed after the products pass research and development."
+        },
+        "noLabel": {
+          "en": "Article 91."
+        },
+        "chapter": {
+          "en": "Chapter IX Safeguard Measures"
+        }
+      },
+      {
+        "no": 92,
+        "text": {
+          "en": "The State shall encourage financial institutions to carry out intellectual property pledge financing business, encourage and guide financial institutions to support the application of science and technology and the development of high-tech industries in terms of credit and investment, encourage insurance institutions to develop insurance varieties according to the needs of the development of high-tech industries, and promote the application of new technologies."
+        },
+        "noLabel": {
+          "en": "Article 92."
+        },
+        "chapter": {
+          "en": "Chapter IX Safeguard Measures"
+        }
+      },
+      {
+        "no": 93,
+        "text": {
+          "en": "The State shall, in accordance with the principles of overall planning and optimised allocation, integrate and establish national scientific and technological research and experiment bases.\nThe State shall encourage the establishment of comprehensive scientific and technological experiment service units to provide, or entrust others to provide, scientific and technological experiment services for scientific and technological research and development institutions, institutions of higher education, enterprises and scientific and technological personnel."
+        },
+        "noLabel": {
+          "en": "Article 93."
+        },
+        "chapter": {
+          "en": "Chapter IX Safeguard Measures"
+        }
+      },
+      {
+        "no": 94,
+        "text": {
+          "en": "The State shall, in accordance with the needs of scientific and technological progress and in accordance with the principles of overall planning, highlighting sharing, optimised allocation, comprehensive integration, government leadership and joint construction by multiple parties, make overall arrangements for the purchase of large scientific instruments and equipment, and carry out joint appraisal of large scientific instruments and equipment purchased mainly with fiscal funds."
+        },
+        "noLabel": {
+          "en": "Article 94."
+        },
+        "chapter": {
+          "en": "Chapter IX Safeguard Measures"
+        }
+      },
+      {
+        "no": 95,
+        "text": {
+          "en": "The State shall strengthen the building of academic journals, improve the mechanisms for the exchange of scientific research papers and scientific and technological information, promote the development of open science, and facilitate scientific and technological exchange and dissemination."
+        },
+        "noLabel": {
+          "en": "Article 95."
+        },
+        "chapter": {
+          "en": "Chapter IX Safeguard Measures"
+        }
+      },
+      {
+        "no": 96,
+        "text": {
+          "en": "The State shall encourage organisations or individuals at home and abroad to donate property and establish science and technology funds to finance scientific and technological research and development and science and technology popularisation."
+        },
+        "noLabel": {
+          "en": "Article 96."
+        },
+        "chapter": {
+          "en": "Chapter IX Safeguard Measures"
+        }
+      },
+      {
+        "no": 97,
+        "text": {
+          "en": "Where, in the course of advancing the reform of science and technology management, carrying out scientific and technological research and development and implementing activities for the transformation of scientific and technological achievements, the relevant responsible persons of scientific and technological research and development institutions, institutions of higher education and enterprises established with fiscal funds make pioneering innovations and explorations and errors or deviations occur in decision-making, but they have performed the duty of reasonable care and the duties of supervision and management and have not sought illegal benefits, they shall be exempted from decision-making liability."
+        },
+        "noLabel": {
+          "en": "Article 97."
+        },
+        "chapter": {
+          "en": "Chapter IX Safeguard Measures"
+        }
+      },
+      {
+        "no": 98,
+        "text": {
+          "en": "The State shall strengthen the development of the rule of law in science and technology and the development of scientific research conduct and academic atmosphere, establish and improve the system of scientific research integrity and the science and technology supervision system, improve the science and technology ethics governance system, and create a sound environment for scientific and technological innovation."
+        },
+        "noLabel": {
+          "en": "Article 98."
+        },
+        "chapter": {
+          "en": "Chapter X Supervision and Administration"
+        }
+      },
+      {
+        "no": 99,
+        "text": {
+          "en": "The State shall improve the rules and procedures for scientific and technological decision-making, establish standardised consultation and decision-making mechanisms, and advance the scientisation, democratisation and rule-of-law basis of decision-making.\nThe State shall reform and improve the consultation system for major scientific and technological decision-making. In formulating plans and major policies for scientific and technological development and in determining major scientific and technological projects and major projects closely related to science and technology, the opinions of scientific and technological personnel shall be fully heard, the role of think tanks shall be given play, public participation shall be expanded, scientific evaluation shall be carried out and scientific decision-making shall be implemented."
+        },
+        "noLabel": {
+          "en": "Article 99."
+        },
+        "chapter": {
+          "en": "Chapter X Supervision and Administration"
+        }
+      },
+      {
+        "no": 100,
+        "text": {
+          "en": "The State shall strengthen performance management of fiscal funds for science and technology and improve the efficiency of fund allocation and the effectiveness of their use. The management and use of fiscal funds for science and technology shall be subject to the supervision and inspection of audit authorities and finance departments.\nThe relevant departments of science and technology administration and other departments shall strengthen supervision over the implementation of science and technology plan projects established with fiscal funds and strengthen the coordination, evaluation and supervision of funds for scientific research projects.\nNo organisation or individual may falsely report or fraudulently claim, embezzle, misappropriate or intercept fiscal funds for science and technology."
+        },
+        "noLabel": {
+          "en": "Article 100."
+        },
+        "chapter": {
+          "en": "Chapter X Supervision and Administration"
+        }
+      },
+      {
+        "no": 101,
+        "text": {
+          "en": "The State shall establish a mechanism for the classified management of science and technology plan projects and strengthen the assessment and evaluation of their substantive results. Science and technology plan projects established with fiscal funds shall be initiated in adherence to the problem orientation, goal orientation and demand orientation, and the project undertakers shall be determined on the basis of merit in accordance with the relevant provisions of the State.\nThe State shall establish a science and technology management information system and a pool of review experts, and improve the system of expert review of science and technology plan projects and the systems of selection, recusal, confidentiality and accountability of review experts."
+        },
+        "noLabel": {
+          "en": "Article 101."
+        },
+        "chapter": {
+          "en": "Chapter X Supervision and Administration"
+        }
+      },
+      {
+        "no": 102,
+        "text": {
+          "en": "The administrative department of science and technology of the State Council shall, in conjunction with the relevant competent departments of the State Council, establish information systems and resource banks for scientific and technological resources such as scientific and technological research bases, assets such as scientific instruments and equipment, and scientific and technological literature, scientific and technological data, natural scientific and technological resources and science and technology popularisation resources, and shall promptly make public to society the distribution and use of scientific and technological resources.\nThe units managing scientific and technological resources shall make public to society the systems for shared use and the use of the scientific and technological resources under their management, and shall arrange for their use in accordance with the use systems; where laws and administrative regulations provide that confidentiality shall be maintained, those provisions shall apply.\nThe units managing scientific and technological resources shall not infringe upon the intellectual property rights of users of scientific and technological resources and shall determine charging standards in accordance with the relevant provisions of the State. Other rights and obligations between the managing unit and the user shall be agreed upon by both parties."
+        },
+        "noLabel": {
+          "en": "Article 102."
+        },
+        "chapter": {
+          "en": "Chapter X Supervision and Administration"
+        }
+      },
+      {
+        "no": 103,
+        "text": {
+          "en": "The State shall establish a science and technology ethics committee, improve the rules and norms of science and technology ethics, strengthen education on and research in science and technology ethics, and improve the systems of review, evaluation and supervision.\nScientific and technological research and development institutions, institutions of higher education, enterprises and public institutions shall perform their principal responsibilities for science and technology ethics management, establish and improve science and technology ethics review mechanisms in accordance with the relevant provisions of the State, and carry out science and technology ethics review of scientific and technological activities."
+        },
+        "noLabel": {
+          "en": "Article 103."
+        },
+        "chapter": {
+          "en": "Chapter X Supervision and Administration"
+        }
+      },
+      {
+        "no": 104,
+        "text": {
+          "en": "The State shall strengthen the development of scientific research integrity, establish integrity files for science and technology projects and a management information system for scientific research integrity, adhere to combining prevention with punishment and combining self-discipline with supervision, and improve the mechanisms for preventing, investigating and handling acts of dishonesty.\nLocal people's governments at or above the county level and the competent departments of the relevant industries shall take various measures to strengthen the development of scientific research integrity, and enterprises, public institutions and social organisations shall perform their principal responsibilities for scientific research integrity management.\nNo organisation or individual may fabricate or forge scientific research results, publish or disseminate false scientific research results, or engage in services for the buying and selling, writing on behalf of others, or submitting on behalf of others of academic papers and their experimental research data, or application and acceptance materials for science and technology plan projects."
+        },
+        "noLabel": {
+          "en": "Article 104."
+        },
+        "chapter": {
+          "en": "Chapter X Supervision and Administration"
+        }
+      },
+      {
+        "no": 105,
+        "text": {
+          "en": "The State shall establish and improve a statistical survey system for science and technology and a national innovation survey system, grasp the basic situation of national scientific and technological activities, and monitor and evaluate the national innovation capacity.\nThe State shall establish and improve a science and technology reporting system, and the undertakers of science and technology plan projects financed by fiscal funds shall submit reports in a timely manner in accordance with provisions."
+        },
+        "noLabel": {
+          "en": "Article 105."
+        },
+        "chapter": {
+          "en": "Chapter X Supervision and Administration"
+        }
+      },
+      {
+        "no": 106,
+        "text": {
+          "en": "The State shall implement a system for confidentiality in science and technology, strengthen capacity building for science and technology confidentiality, and protect scientific and technological secrets involving national security and interests.\nThe State shall, in accordance with law, implement a system for the administration of the exit from the territory of scientific and technological resources and key and core technologies such as important biological germ plasm resources, genetic resources and data resources."
+        },
+        "noLabel": {
+          "en": "Article 106."
+        },
+        "chapter": {
+          "en": "Chapter X Supervision and Administration"
+        }
+      },
+      {
+        "no": 107,
+        "text": {
+          "en": "Scientific and technological research, development and application activities that endanger national security, harm the public interest, endanger human health, or violate scientific research integrity or science and technology ethics are prohibited.\nThose engaging in scientific and technological activities shall observe the norms for the management of scientific and technological activities. Organisations and individuals that seriously violate such norms shall be recorded by the relevant departments of science and technology administration and other departments in the database of serious acts of dishonesty in scientific research integrity."
+        },
+        "noLabel": {
+          "en": "Article 107."
+        },
+        "chapter": {
+          "en": "Chapter X Supervision and Administration"
+        }
+      },
+      {
+        "no": 108,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, the relevant departments of science and technology administration and other departments and their staff members, or other persons performing public duties in accordance with law, abuse their power, neglect their duties or engage in malpractices for personal gain, sanctions shall be given in accordance with law to the directly responsible persons in charge and other directly responsible persons."
+        },
+        "noLabel": {
+          "en": "Article 108."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 109,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a person abuses his power to obstruct, restrict or suppress scientific and technological research and development activities, or uses his power to suppress, exclude or create difficulties for scientific and technological personnel, sanctions shall be given in accordance with law to the directly responsible persons in charge and other directly responsible persons."
+        },
+        "noLabel": {
+          "en": "Article 109."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 110,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a person falsely reports or fraudulently claims, embezzles, misappropriates or intercepts fiscal funds or social donation funds for scientific and technological progress, the relevant competent department shall order correction, recover the fiscal funds concerned, order the return of the donated funds, give a warning or circulate a criticism, and may suspend the allocation of funds and terminate or revoke the relevant scientific and technological activities; where the circumstances are serious, a fine shall be imposed in accordance with law and the person shall be prohibited from undertaking or participating in scientific and technological activities supported by fiscal funds within a certain period; and administrative penalties and sanctions shall be given in accordance with law to the directly responsible persons in charge and other directly responsible persons."
+        },
+        "noLabel": {
+          "en": "Article 110."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 111,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, after large scientific instruments and equipment are purchased with fiscal funds and State-owned capital, the obligation to share and use scientific and technological resources such as large scientific instruments and equipment is not performed, the relevant competent department shall order correction, give a warning or circulate a criticism, and give sanctions in accordance with law to the directly responsible persons in charge and other directly responsible persons."
+        },
+        "noLabel": {
+          "en": "Article 111."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 112,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a person carries out scientific and technological research, development and application activities that endanger national security, harm the public interest, endanger human health, or violate scientific research integrity or science and technology ethics, the unit where the scientific and technological personnel work or the relevant competent department shall order correction; where fiscal funds for scientific and technological progress have been obtained or illegal gains have been made, the relevant competent department shall terminate or revoke the relevant scientific and technological activities, recover the fiscal funds and confiscate the illegal gains; where the circumstances are serious, the relevant competent department shall make public the unlawful act to society, impose administrative penalties and sanctions in accordance with law, and prohibit the person from undertaking or participating in scientific and technological activities supported by fiscal funds and from applying for administrative licensing for the relevant scientific and technological activities within a certain period; and administrative penalties and sanctions shall be given in accordance with law to the directly responsible persons in charge and other directly responsible persons.\nWhere, in violation of the provisions of this Law, a person fabricates or forges scientific research results, publishes or disseminates false scientific research results, or engages in services for the buying and selling, writing on behalf of others, or submitting on behalf of others of academic papers and their experimental research data, or application and acceptance materials for science and technology plan projects, the relevant competent department shall give a warning or circulate a criticism and impose a fine; where illegal gains have been made, the illegal gains shall be confiscated; where the circumstances are serious, the licence shall be revoked."
+        },
+        "noLabel": {
+          "en": "Article 112."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 113,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a person engages in scientific and technological activities in violation of the norms for the management of scientific and technological activities, the relevant competent department shall order correction within a time limit and may recover the fiscal funds concerned, give a warning or circulate a criticism, suspend the allocation of funds, and terminate or revoke the relevant scientific and technological activities supported by fiscal funds; where the circumstances are serious, the person shall be prohibited within a certain period from undertaking or participating in scientific and technological activities supported by fiscal funds and be disqualified within a certain period from managing scientific and technological activities supported by fiscal funds; and sanctions shall be given in accordance with law to the directly responsible persons in charge and other directly responsible persons."
+        },
+        "noLabel": {
+          "en": "Article 113."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 114,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a person fraudulently obtains a State science and technology award, the competent department shall revoke the award in accordance with law, recover the medal, certificate and prize money and give sanctions in accordance with law.\nWhere, in violation of the provisions of this Law, a nominating unit or individual provides false data or materials to assist another person in fraudulently obtaining a State science and technology award, the competent department shall circulate a criticism; where the circumstances are serious, the nomination qualification shall be suspended or cancelled and sanctions shall be given in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 114."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 115,
+        "text": {
+          "en": "Where an act violates the provisions of this Law and this Law contains no provisions on administrative penalty but other relevant laws or administrative regulations contain provisions, those provisions shall apply; where property losses or other damage are caused, civil liability shall be borne in accordance with law; where the act constitutes a violation of public security administration, a penalty for public security administration shall be given in accordance with law; where a crime is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 115."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 116,
+        "text": {
+          "en": "Other matters relating to scientific and technological progress in national defence shall be prescribed by the State Council and the Central Military Commission."
+        },
+        "noLabel": {
+          "en": "Article 116."
+        },
+        "chapter": {
+          "en": "Chapter XII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 117,
+        "text": {
+          "en": "This Law shall come into force on 1 January 2022."
+        },
+        "noLabel": {
+          "en": "Article 117."
+        },
+        "chapter": {
+          "en": "Chapter XII Supplementary Provisions"
         }
       }
     ]
@@ -45018,6 +46383,1368 @@
         },
         "chapter": {
           "en": "Chapter XIII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0221'] = {
+    "lawId": "CN-LAW-0221",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 115 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "For the purposes of consolidating and strengthening the fundamental position of agriculture in the national economy, deepening rural reform, protecting agricultural resources, developing agricultural productive forces, advancing agricultural modernisation, safeguarding the lawful rights and interests of farmers and agricultural production and operation organisations, increasing farmers' incomes, improving farmers' scientific and cultural quality, promoting the sustained, stable and sound development of agriculture and the rural economy, advancing the comprehensive revitalisation of the countryside, accelerating the building of a strong agricultural country and comprehensively building a modern socialist country, this Law is enacted in accordance with the Constitution."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Agriculture as referred to in this Law means the industries of crop cultivation, forestry and grassland, animal husbandry and fisheries, as well as the pre-production, mid-production and post-production services directly related thereto.\nAgricultural production and operation organisations as referred to in this Law mean rural collective economic organisations, specialised farmers' cooperatives, agricultural enterprises and other organisations engaged in agricultural production and operation."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Agricultural and rural work shall adhere to the leadership of the Communist Party of China, implement the new development philosophy of innovation, coordination, greenness, openness and sharing, promote high-quality development, and coordinate development and security.\nThe State shall adhere to giving priority to the development of agriculture and rural areas, place agriculture in the first position in developing the national economy, and coordinate the development of technology-based agriculture, green agriculture, quality agriculture and brand agriculture.\nThe basic objectives of agricultural and rural economic development shall be: to improve the rural economic system that meets the requirements of developing the socialist market economy, to constantly release and develop rural productive forces, to enhance the comprehensive agricultural production capacity and quality and efficiency, to ensure the stable and safe supply of grain and other important agricultural products, to meet the needs of national economic development and the people's aspirations for a better life, to raise farmers' incomes and living standards, to promote multi-channel employment of the rural labour force, to advance the building of liveable, business-friendly and beautiful villages, to narrow the differences between urban and rural areas and between regions, to promote integrated urban-rural development, and to gradually achieve the modernisation of agriculture and rural areas."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The State shall uphold and improve the basic socialist economic system under which public ownership is dominant and diverse forms of ownership develop side by side, under which distribution according to work is dominant and diverse modes of distribution coexist, and under which the socialist market economy operates, so as to revitalise the rural economy.\nThe State shall consolidate and improve the rural two-tier operation system based on household contractual operation and combining unified and separate operation, and shall improve the convenient and efficient system of agricultural socialised services.\nThe State shall protect the lawful rights and interests of rural collective economic organisations and their members, standardise rural collective economic organisations and their operation and management, promote the development of rural collective economic organisations, and strengthen the new rural collective economy."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The State shall adhere to a broad view of agriculture and a broad view of food, adhere to the simultaneous development of agriculture, forestry, animal husbandry and fisheries, ensure food security, and build a diversified food supply system."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The State shall take measures to expand the multiple functions of agriculture and ensure that agriculture better performs its role in providing food, industrial raw materials and other agricultural products, in safeguarding and improving the ecological environment, in passing on and promoting China's fine farming culture, and in promoting rural economic and social development."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The State shall adhere to the policy of invigorating agriculture through science and education and of sustainable agricultural development, develop new quality productive forces in agriculture in light of local conditions, and advance the deep integration of technological innovation and industrial innovation.\nThe State shall take measures to strengthen agricultural and rural infrastructure construction, adjust and optimise the structure of agriculture and the rural economy, advance the industrialised operation of agriculture, develop undertakings in agricultural science and technology, education and human resources, cultivate agricultural scientific and technological personnel and management personnel, advance the green development of agriculture, protect the agricultural ecological environment, promote the mechanisation, informatisation and intelligentisation of agriculture, and enhance the comprehensive agricultural production capacity."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The State shall regard increasing farmers' incomes as the central task of agriculture and rural work. People's governments at all levels and the relevant departments thereof shall take measures to increase farmers' incomes, effectively lighten the burdens on farmers, narrow the income gap between urban and rural residents, and solidly advance common prosperity.\nThe State shall protect the lawful property and other lawful rights and interests of farmers and agricultural production and operation organisations from infringement."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The whole of society shall attach great importance to agriculture and rural areas and support the development of agriculture and rural areas.\nUnits and individuals that have made outstanding contributions to agriculture and rural work shall be commended and awarded in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "People's governments at all levels shall be uniformly responsible for agricultural and rural economic development and shall organise the relevant departments and the whole of society to do well in all work relating to the development of agriculture and to serving the development of agriculture.\nThe competent department of agriculture and rural affairs of the State Council shall be in charge of agricultural and rural economic development throughout the country, and the competent department of forestry and grassland of the State Council and other relevant departments shall, within the scope of their respective duties, be responsible for the relevant agricultural and rural economic development work.\nThe competent departments of agriculture and rural affairs of local people's governments at or above the county level shall be responsible for agricultural and rural economic development work such as crop cultivation, animal husbandry and fisheries within their respective administrative areas, and the competent departments of forestry and grassland shall be responsible for forestry and grassland work within their respective administrative areas. Other relevant departments of local people's governments at or above the county level shall, within the scope of their respective duties, be responsible for the relevant work of serving agricultural production and operation within their respective administrative areas."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The State shall adhere to the policy of equality and mutual benefit and win-win cooperation, support international exchange and cooperation in the field of agriculture, and actively participate in international governance of sustainable agricultural development and food security."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The State shall implement the system of rural land contractual operation, safeguard in accordance with law the stability and long-term immutability of rural land contractual relationships, and protect farmers' land contractual management rights over contracted land. The State shall protect the contractor's lawful, voluntary and compensated transfer of land management rights and protect the lawful rights and interests of holders of land management rights.\nRural collective economic organisations shall, on the basis of household contractual operation, lawfully operate and manage collective property, provide their members with services in production, technology and information, organise the rational development, utilisation and protection of collective resources, and strengthen their economic strength.\nThe State shall promote the building of a modern agricultural industrial system, production system and operation system, develop agricultural operations of an appropriate scale, and achieve the organic connection between household operation and the development of modern agriculture."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Agricultural Production and Operation System"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The State shall encourage the lawful and voluntary development of specialised farmers' cooperatives on the basis of household contractual operation.\nSpecialised farmers' cooperatives shall adhere to the purpose of serving their members and, in accordance with the principles of voluntary membership, freedom of withdrawal, democratic management and return of surplus, carry out agricultural production, operation and service activities within the scope prescribed by their articles of association in accordance with law.\nSpecialised farmers' cooperatives shall be established and registered in accordance with law and acquire the status of legal person. No unit or individual may infringe upon the lawful property, operational autonomy and other lawful rights and interests of specialised farmers' cooperatives."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Agricultural Production and Operation System"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Farmers and agricultural production and operation organisations may, on a voluntary basis and in accordance with the principle of combining democratic management, distribution according to work and distribution of dividends according to shares, contribute funds, technology and physical goods as shares and establish various types of enterprises in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Agricultural Production and Operation System"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The State shall encourage and support the development of family farms that take the household as the basic operating unit and practise operation of an appropriate scale, guide them to adapt to modern agriculture, and improve their level of intensification and operating efficiency. Rural collective economic organisations may support the development of family farms by providing technology, information services and other forms."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Agricultural Production and Operation System"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The State shall strengthen the planning and construction of State-owned farms, forestry farms, pasture farms and fishing farms so that they better play a demonstrative and leading role in developing modern agriculture.\nThe lawful land rights and interests of State-owned farms, forestry farms, pasture farms and fishing farms shall be protected by law. Land used by State-owned farms, forestry farms, pasture farms and fishing farms shall not be recovered without authorisation without completing the approval formalities in accordance with State provisions."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Agricultural Production and Operation System"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The State shall encourage supply and marketing cooperatives, rural collective economic organisations, specialised farmers' cooperatives, agricultural enterprises, other organisations and individuals to develop multi-tiered and multi-type specialised services and improve the level of socialised services before, during and after agricultural production."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Agricultural Production and Operation System"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The State shall take measures to develop various forms of industrialised agricultural operation and encourage and support farmers and agricultural production and operation organisations to develop integrated operation of production, processing and marketing.\nThe State shall guide and support enterprises, scientific research institutions and other organisations engaged in the production, processing and circulation services of agricultural products to form, by concluding contracts with farmers, rural collective economic organisations and specialised farmers' cooperatives or by establishing various types of enterprises, a community of interests with shared benefits and shared risks, so as to advance the industrialised operation of agriculture and drive agricultural development."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Agricultural Production and Operation System"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Farmers and agricultural production and operation organisations may, in accordance with laws and administrative regulations, establish agricultural product trade associations and other organisations to provide members with services in production, marketing, information, technology and training, to play a coordinating and self-disciplinary role, to apply for trade remedy measures for agricultural products, and to safeguard the interests of members and the industry."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Agricultural Production and Operation System"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The State Council and provincial people's governments shall, in accordance with the plans for national economic and social development, the basic objectives of agricultural and rural economic development and the regionalisation of agricultural resources, formulate agricultural development plans.\nThe competent departments of agriculture and rural affairs of people's governments at or above the provincial level shall, in accordance with agricultural development plans, take measures to give play to regional advantages, promote the formation of a rational regional layout of agricultural production, and guide and coordinate the structural adjustment of agriculture and the rural economy. The competent departments of development and reform, finance, natural resources, water administration, forestry and grassland and other departments of people's governments at or above the provincial level shall, in accordance with their respective duties, take measures to implement agricultural development plans and promote the development of the relevant industries.\nPeople's governments of cities divided into districts and of counties shall, according to actual needs, formulate and organise the implementation of agricultural development plans."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Agricultural Production"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The State shall guide and support farmers and agricultural production and operation organisations in adjusting and optimising the structure of agricultural production and the regional layout in light of local conditions, in accordance with market demand and the carrying capacity of the ecological environment, in coordinating the development of crop cultivation, forestry and grassland, animal husbandry and fisheries, in developing high-quality, high-yield and high-benefit agriculture, and in improving the international competitiveness of agricultural products.\nCrop cultivation shall, focusing on optimising varieties, improving quality and increasing benefits, adjust the crop structure, variety structure and quality structure, and develop the production of grain and agricultural products such as cotton, oil, sugar and vegetables as well as forage and feed.\nEcological development of forestry and grassland shall be strengthened, the protection and restoration of natural forests and basic grasslands and the prevention and control of desertification shall be advanced, the construction of shelterbelt systems shall be strengthened, and, on the premise of safeguarding ecological security, commercial forests and non-timber forest economies shall be developed, the forestry and grassland industries shall be expanded and strengthened, and the supply of forestry and grassland products shall be increased.\nIn developing animal husbandry, the breeding and promotion of improved livestock and poultry varieties shall be strengthened, the reasonable demand for land for livestock and poultry breeding shall be safeguarded, the protection of grasslands and the development of grassland animal husbandry shall be advanced in a coordinated manner, penned and housed breeding shall be promoted, and the forage industry, feed industry and livestock and poultry product processing industry shall be actively developed.\nIn fisheries production, fishery resources shall be protected and rationally utilised, the fishing structure shall be adjusted, and aquaculture, deep-sea fishing and aquatic product processing shall be actively developed.\nPeople's governments at or above the county level shall formulate policies, arrange funds and guide and support the structural adjustment of agriculture."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Agricultural Production"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "People's governments at all levels shall take measures to strengthen comprehensive agricultural development and the construction of agricultural and rural infrastructure such as farmland water conservancy, agricultural ecological environment protection, rural roads, rural energy and power grids, storage and circulation of agricultural products, fishing ports, grassland fencing, bases for original and improved varieties of animals and plants, agricultural disaster prevention and mitigation, and agricultural and rural informatisation, so as to improve the conditions of agricultural production and protect and enhance the comprehensive agricultural production capacity."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Agricultural Production"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The State shall support the breeding, production, renewal and promotion and use of improved varieties of animals and plants, encourage the integration of variety breeding with production and operation, implement the modern seed industry improvement project, advance research on key technologies for the breeding of improved varieties of animals and plants, safeguard the security of the seed industry and raise the level of modernisation of the seed industry. The State Council and provincial people's governments shall establish special funds for supporting the breeding and promotion of improved varieties of animals and plants."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Agricultural Production"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "People's governments at all levels and agricultural production and operation organisations shall strengthen the construction, management and protection of farmland water conservancy facilities, economise on water use, promote agricultural water saving and efficiency enhancement in light of local conditions and develop efficient water-saving agriculture, safeguard the demand for agricultural water, strictly control in accordance with law the occupation of irrigation water sources by non-agricultural construction, and prohibit any unit or individual from unlawfully occupying or damaging farmland water conservancy facilities.\nThe State shall give key support to water-scarce areas in promoting agricultural water saving and efficiency enhancement and developing efficient water-saving agriculture."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Agricultural Production"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The State shall encourage and support farmers and agricultural production and operation organisations in using advanced and applicable agricultural machinery, strengthen the safety management of agricultural machinery and raise the level of agricultural mechanisation.\nThe State shall provide support to farmers and agricultural production and operation organisations in the purchase and use of advanced and applicable agricultural machinery."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Agricultural Production"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "People's governments at all levels shall support the development of meteorological services for agriculture and strengthen the construction of a comprehensive agrometeorological monitoring network so as to improve the level of monitoring, forecasting and early warning of meteorological disasters."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Agricultural Production"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The State shall take measures to improve the quality of agricultural products, establish and improve the standards, inspection and testing and regulatory systems for the quality and safety of agricultural products, guide and organise the production and operation of agricultural products in accordance with the relevant technical specifications, operating procedures and standards, advance the traceability management of the quality and safety of agricultural products, and safeguard the quality and safety of agricultural products."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Agricultural Production"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The State shall encourage and support the production of high-quality agricultural products and support the establishment and improvement in accordance with law of a certification and labelling system for high-quality agricultural products. High-quality agricultural products conforming to the standards prescribed by the State may apply for the use of the relevant labels in accordance with the provisions of laws and administrative regulations. Agricultural products conforming to the prescribed requirements as to place of origin and production specifications may apply for the use of geographical indications in accordance with the provisions of the relevant laws and administrative regulations.\nLocal people's governments at or above the county level shall, in light of local conditions and in accordance with law, take measures to support farmers and agricultural production and operation organisations in maintaining and building a fine environment for the place of origin of agricultural products, in using agricultural inputs in a scientific and rational manner, in implementing quality control in the production process, in promoting quality improvement and in actively building brands, so as to improve the quality, efficiency and competitiveness of agriculture."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Agricultural Production"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The State shall implement a system of animal and plant epidemic prevention and quarantine, improve the animal and plant epidemic prevention and quarantine system, improve the monitoring and early warning network for animal and plant epidemics, strengthen the monitoring, early warning and prevention and control of animal diseases and plant diseases, insect pests, weeds, rodent damage and other harmful organisms, establish a rapid eradication mechanism for major animal and plant epidemics, build areas free of prescribed animal diseases, and implement projects to enhance animal and plant protection capacity."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Agricultural Production"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "The production and operation of agricultural means of production that may endanger the safety of humans and livestock, such as pesticides, veterinary drugs, feed and feed additives, fertilisers, seeds, agricultural machinery and veterinary instruments, shall be subject to a system of filing, registration or licensing in accordance with the provisions of the relevant laws and administrative regulations.\nPeople's governments at all levels shall establish and improve a system for the safe use and quality monitoring of agricultural means of production. Farmers and agricultural production and operation organisations shall comply with the provisions on the use of agricultural means of production and shall not use agricultural means of production such as pesticides, veterinary drugs, feed additives and agricultural film that are expressly eliminated and prohibited from use by the State, or other toxic and harmful substances.\nProducers and sellers of agricultural means of production shall be responsible for the quality of the products they produce and sell; it is prohibited to pass off inferior goods as good, to pass off fake goods as genuine, or to pass off non-conforming products as conforming products; and it is prohibited to produce and sell agricultural means of production such as pesticides, veterinary drugs, feed additives, agricultural machinery and agricultural film that are expressly eliminated by the State."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Agricultural Production"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The purchase and sale of agricultural products shall be subject to market regulation. The State shall improve the monitoring and early warning mechanism for the agricultural product market, exercise the necessary macro-control over the purchase and sale of important agricultural products such as grain that concern the national economy and the people's livelihood, establish a system of graded reserve regulation by the Central Government and local governments, and improve the warehousing and transport system, so as to ensure supply and stabilise the market."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Circulation and Processing of Agricultural Products"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The State shall gradually establish a unified, open, competitive and orderly market system for agricultural products. The State shall provide support to rural collective economic organisations and specialised farmers' cooperatives in establishing wholesale markets and farmers' markets for agricultural products.\nThe market regulatory department and other relevant departments of people's governments at or above the county level shall, in accordance with their respective duties, administer wholesale markets for agricultural products in accordance with law, standardise trading order, and prevent local protectionism and unfair competition."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Circulation and Processing of Agricultural Products"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The State shall encourage and support the development of various forms of agricultural product circulation activities. Farmers and specialised farmers' cooperatives shall be supported in engaging in the purchase, wholesale, storage, transport, retail and intermediary activities of agricultural products in accordance with the relevant provisions of the State. Supply and marketing cooperatives and other agricultural production and operation organisations engaged in the purchase and sale of agricultural products shall be encouraged to provide market information, open up circulation channels for agricultural products and serve the sale of agricultural products.\nPeople's governments at or above the county level shall take measures to urge the relevant departments to ensure the smooth transport of agricultural products and reduce the circulation costs of agricultural products. The relevant departments shall simplify formalities to facilitate the transport of fresh and live agricultural products and shall not, except where laws and administrative regulations provide otherwise, detain the means of transport of fresh and live agricultural products."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Circulation and Processing of Agricultural Products"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Local people's governments at or above the county level shall support the construction of facilities for grain drying, product grading, cold storage and preservation of agricultural products at the place of origin and cold-chain logistics, support the improvement of the county-township-village logistics distribution system, raise the technical level of storage and transport of agricultural products, and enhance the capacity to ensure supply.\nThe State shall take measures to guide the integrated development of e-commerce with rural characteristic industries and rural delivery logistics, and improve the rural e-commerce service network. The market regulatory, agriculture and rural affairs and other departments of people's governments at or above the county level shall, in accordance with their duties, strengthen supervision over the sale of agricultural products and agricultural means of production through e-commerce."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Circulation and Processing of Agricultural Products"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The State shall support the development of the agricultural product processing industry and the food industry, promote the optimisation and upgrading of the agricultural product processing industry, and increase the added value of agricultural products. People's governments at or above the county level shall guide the agricultural product processing industry to form a rational regional layout and scale structure, and support the processing and comprehensive development and utilisation of agricultural products.\nThe State shall establish and improve quality standards for processed agricultural products, improve testing methods, enhance testing capacity, and strengthen quality and safety management and supervision in the process of agricultural product processing, so as to safeguard quality and safety."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Circulation and Processing of Agricultural Products"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The State shall encourage the development of import and export trade in agricultural products and trade in agricultural services.\nThe State shall take measures such as strengthening research on international markets and providing information and marketing services to promote the export of agricultural products.\nIn order to maintain the order of production and marketing of agricultural products and fair trade, an early warning system for the import of agricultural products shall be established. Where certain imported commodities have already caused or may cause a major adverse impact on the production of the relevant domestic agricultural products, the State may take the necessary measures."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Circulation and Processing of Agricultural Products"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The State shall implement the national food security strategy of taking domestic supply as the mainstay, relying on domestic production, ensuring production capacity, importing appropriately and supported by science and technology, adhere to storing grain in the land and storing grain in technology, and ensure that grains are basically self-sufficient and that food grain is absolutely safe."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter V Food Security"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "The State shall take measures to protect and enhance the comprehensive grain production capacity, steadily raise the level of grain production and ensure food security."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V Food Security"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The State shall give key support to the main grain-producing areas in terms of policy, funds and technology, build stable commercial grain production bases, improve grain storage, purchase and processing facilities, and raise the level of grain production, processing, storage and transport and the economic benefits of the main grain-producing areas.\nThe State shall improve the mechanism for compensating the interests of the main grain-producing areas, improve the system of fiscal transfer payments to the main grain-producing areas and major grain-producing counties, improve the inter-provincial horizontal interest compensation mechanism between grain-producing and grain-marketing areas, and arouse the enthusiasm of local people's governments at or above the county level in developing grain production.\nThe State shall support the establishment of stable purchase and sale cooperation relationships between the main grain-producing areas and the main grain-marketing areas."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V Food Security"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "The State shall improve the mechanism for safeguarding the returns of grain producers, improve the policy systems of prices, subsidies and insurance, improve the response mechanism for ensuring the supply and stabilising the prices of agricultural means of production, and protect the enthusiasm of grain producers for growing grain."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter V Food Security"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "The State shall strengthen regulation of the grain market.\nWhere the market price of grain is too low, the State Council may decide to implement a price support system for key grain varieties. The support price shall be determined in accordance with the principle of being conducive to protecting farmers' interests and stabilising grain production.\nPeople's governments at or above the county level shall organise the relevant departments and the purchasing units entrusted by the State to promptly raise sufficient funds for policy-based grain purchase, and policy-based financial institutions of the State shall provide financial support in accordance with State provisions; no department, unit or individual may intercept or misappropriate such funds."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter V Food Security"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The State shall establish a food security monitoring and early warning system, establish a government grain reserve system, improve the food emergency management system and take measures to ensure food supply. The State Council shall formulate targets for food security safeguards and quotas for the quantity of grain reserves, and shall, as needed, organise the relevant competent departments to verify the conditions of cultivated land and grain stocks.\nThe State shall implement central government reserves and local government reserves of grain and build a warehousing and transport system. Enterprises or other organisations undertaking government grain reserves shall ensure the quantity and quality of the reserve grain in accordance with laws, regulations and the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter V Food Security"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "The State shall establish a grain risk fund to support grain reserves and stabilise the grain market."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter V Food Security"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "The State shall advocate cherishing and economising on grain, take measures to reduce losses and waste in the links of grain production, storage, circulation, processing and consumption, and prevent waste.\nThe State shall take measures to promote the effective supply of all types of food, satisfy the people's diversified food consumption needs and improve the people's food nutrition structure. The competent departments of agriculture and rural affairs, forestry and grassland and other departments of the State Council shall take measures to raise the level of development of the relevant food industries."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter V Food Security"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "The State shall promote the accelerated formation of an agricultural and rural investment pattern with fiscal funds as the priority safeguard, financial support as the key and diverse social participation. The State shall improve the effectiveness of policies for strengthening agriculture, benefiting farmers and enriching farmers.\nThe State shall improve the agricultural support and protection system and take measures such as fiscal input, tax preferences and financial support to support farmers and agricultural production and operation organisations in developing agricultural production and raising farmers' income levels in terms of capital input, scientific research and technology extension, education and training, supply of agricultural means of production, market information, quality standards, inspection and quarantine, socialised services, and disaster prevention and relief.\nThe State Council and the relevant departments thereof shall formulate support policies for improving the conditions of agricultural production, protecting the agricultural ecological environment and increasing farmers' incomes, and shall organise their implementation."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VI Agricultural Input and Support and Protection"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "The State shall gradually raise the overall level of agricultural input, adhere to making agriculture a priority area for fiscal safeguards, and establish and improve the mechanism for guaranteeing the steady growth of agricultural input. The rate of increase of the annual total input in agriculture by the Central Government and by local governments at or above the county level shall be higher than the rate of increase of their recurrent fiscal revenue.\nFunds arranged within the fiscal budget by people's governments at all levels for agriculture shall be mainly used for: strengthening agricultural infrastructure construction; supporting the structural adjustment of agriculture and promoting the industrialised operation of agriculture; protecting the comprehensive grain production capacity and ensuring national food security; improving the animal and plant epidemic prevention and quarantine system and strengthening the prevention and control of animal diseases and plant diseases, insect pests, weeds, rodent damage and other harmful organisms; supporting agricultural disaster prevention and mitigation; establishing and improving the standards for the quality and safety of agricultural products and the systems of inspection, testing and supervision and of agricultural product markets and information services; supporting agricultural scientific research and education, agricultural technology extension, farmer training and the cultivation of rural personnel; advancing the green development of agriculture and strengthening the protection and construction of the agricultural ecological environment; and safeguarding farmers' income levels.\nAgricultural capital construction input for crop cultivation, forestry and grassland, animal husbandry, fisheries and farmland water conservancy by finance at or above the county level shall be arranged in an overall manner and shall grow in a coordinated manner.\nThe State shall thoroughly implement the strategy of coordinated regional development, the major regional strategies, the strategy of functional zones and the strategy of new urbanisation, support the development of underdeveloped areas, and increase input in agricultural development and ecological environment protection."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VI Agricultural Input and Support and Protection"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Funds arranged within the annual fiscal budget by people's governments at or above the county level for agriculture shall be allocated in full and on time. People's governments at all levels shall strengthen supervision and management over the process of allocation and use of the various State agricultural funds, ensure the safety of funds and improve the efficiency of their use.\nNo unit or individual may intercept or misappropriate fiscal funds and credit funds for agriculture. Audit authorities shall strengthen in accordance with law the audit supervision of fiscal funds, credit funds and other funds for agriculture."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VI Agricultural Input and Support and Protection"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "The State shall employ means such as taxation, prices, credit and awards and subsidies to encourage and guide farmers and agricultural production and operation organisations to increase input in agricultural production and operation and in capital construction such as small farmland water conservancy.\nThe State shall encourage and support farmers and agricultural production and operation organisations in raising agricultural funds in various forms in accordance with law on a voluntary basis."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VI Agricultural Input and Support and Protection"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "The State shall encourage and guide the channelling of social funds into agriculture, and encourage enterprises, public institutions, social organisations and individuals to donate funds to establish funds supporting agricultural construction and agricultural science and technology and education.\nThe State shall take measures to promote the expanded use of foreign investment in agriculture."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VI Agricultural Input and Support and Protection"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "People's governments at all levels shall encourage and support enterprises, public institutions and other types of economic organisations in carrying out agricultural information services.\nThe competent departments of agriculture and rural affairs and other relevant departments of people's governments at or above the county level shall establish a system for collecting, collating, analysing and releasing agricultural information, and provide farmers and agricultural production and operation organisations with market information and other services in a timely manner."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VI Agricultural Input and Support and Protection"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "The State shall encourage and support the development of agriculture-related industry.\nThe State shall employ means such as taxation and credit to encourage and support the production of and trade in agricultural means of production, so as to provide material safeguards for the stable development of agricultural production.\nThe State shall, by taking macro-control measures in accordance with law in respect of major agricultural means of production such as fertilisers, pesticides, agricultural diesel, agricultural electricity and agricultural water, safeguard the production efficiency of major agricultural products."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VI Agricultural Input and Support and Protection"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "People's governments at or above the county level and the relevant departments thereof shall take measures to support undertakings of agricultural socialised services.\nIn respect of agricultural socialised services provided across regions, the relevant departments of agriculture and rural affairs, market regulation, transport and public security shall take measures to provide support."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VI Agricultural Input and Support and Protection"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "The State shall establish and improve a multi-tiered, widely covering and sustainable rural financial system, promote the facilitation of financial services, strengthen the building of the rural credit system and rural financial supervision, and raise the level of rural financial services.\nThe financial institutions concerned shall take measures to increase credit input, improve rural financial services and provide credit support for agricultural production and operation activities.\nRural commercial banks, rural credit cooperatives and other small and medium-sized rural financial institutions shall adhere to the purpose of serving agriculture, farmers and rural development and give priority to providing credit services for the production and operation activities of local farmers.\nThe State shall, through measures such as interest subsidies, encourage financial institutions to provide loans to farmers and agricultural production and operation organisations for agricultural production and operation activities and reduce financing costs.\nThe State shall establish and improve the agricultural credit guarantee system. Agricultural credit guarantee institutions established with fiscal funds shall mainly serve business entities engaged in agricultural production and in operations directly related to agricultural production."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VI Agricultural Input and Support and Protection"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "The State shall improve the agricultural insurance system, develop multi-tiered agricultural insurance, enrich insurance varieties, raise the level of protection and the quality of services, and give play to the role of stabilising agricultural production, reducing disaster losses and safeguarding incomes.\nThe State shall improve the policy-based agricultural insurance system and improve the fiscally supported mechanism for dispersing the catastrophe risks of agricultural insurance. The finance departments of people's governments at or above the county level shall implement premium subsidies for agricultural insurance in accordance with State provisions. The relevant departments of the State Council shall, in accordance with law, strengthen the examination of the fairness and reasonableness of agricultural insurance clauses and premium rates, improve the effectiveness of the use of fiscal subsidy funds and strengthen supervision over agricultural insurance.\nThe State shall encourage and support commercial insurance companies and mutual cooperative insurance organisations in conducting agricultural insurance business in accordance with law.\nAgricultural insurance shall be subject to the principles of government guidance, market operation, voluntary participation and coordinated advancement. No unit or individual may compel farmers or agricultural production and operation organisations to participate in agricultural insurance."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VI Agricultural Input and Support and Protection"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "The State shall encourage financial institutions that meet the prescribed requirements and agriculture-related enterprises to issue bonds for use in agriculture. Government bonds issued in accordance with State provisions shall give greater support to the development of modern agriculture.\nThe State shall improve the mechanism by which the multi-tiered capital market supports agriculture, guide the steady and sound development of the agricultural product futures market, and give play to the functions of the futures market in price discovery, risk management and resource allocation."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VI Agricultural Input and Support and Protection"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "People's governments at all levels shall take measures to improve the capacity of agriculture to defend against natural disasters, do well in disaster prevention, mitigation and relief work, help disaster-affected persons resume production, organise self-help in production, and carry out social mutual assistance; and shall provide relief and support to disaster-affected persons who lack basic livelihood safeguards."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VI Agricultural Input and Support and Protection"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "The State Council and provincial people's governments shall, through measures such as formulating and implementing the relevant plans, advance the development of agricultural science and technology, education and human resources.\nPeople's governments at or above the county level shall gradually increase funds for agricultural science and technology and funds for agricultural education in accordance with the relevant provisions of the State.\nThe State shall encourage and attract enterprises and other social forces to increase input in agricultural science and technology, and encourage farmers, agricultural production and operation organisations, enterprises and public institutions to establish undertakings in agricultural science and technology and education in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VII Agricultural Science and Technology, Education and Human Resources"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "The State shall take measures to strengthen agricultural scientific and technological innovation, build the national strategic strength in agricultural science and technology, give play to the principal role of enterprises in scientific and technological innovation, strengthen original agricultural innovation and research on key and core technologies, raise agricultural labour productivity and the contribution rate of scientific and technological progress, and accelerate the achievement of high-level self-reliance and self-strengthening in agricultural science and technology.\nThe competent department of agriculture and rural affairs of the State Council and provincial people's governments shall coordinate and integrate agricultural scientific and technological innovation resources and strengthen the capacity building of innovation platforms and innovation entities."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VII Agricultural Science and Technology, Education and Human Resources"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "The State shall protect intellectual property rights such as new plant varieties and geographical indications, encourage, support and guide institutions of higher education, scientific research institutions and enterprises in strengthening basic research and applied research in agricultural science and technology, in disseminating and popularising knowledge of agricultural science and technology, in accelerating the transformation and industrialisation of scientific and technological achievements, and in promoting the progress of agricultural science and technology.\nThe State shall encourage the research, development, promotion and application of new agricultural varieties, new technologies, new equipment and new products, build a modern agricultural industrial technology system, and meet the needs of raising the level of agricultural modernisation.\nThe State shall support the development of smart agriculture and encourage the integration of new technologies such as the Internet of Things and artificial intelligence with agricultural production, operation and management.\nThe State shall take measures to promote international exchange and cooperation in agricultural science and technology and education, and encourage and support the introduction of advanced foreign technology."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VII Agricultural Science and Technology, Education and Human Resources"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "The State shall support the cause of agricultural technology extension and establish an agricultural technology extension system that combines government support with market guidance, combines paid with unpaid services and combines national agricultural technology extension institutions with social forces, so as to promote the rapid popularisation and application of advanced agricultural technology and equipment."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VII Agricultural Science and Technology, Education and Human Resources"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "National agricultural technology extension institutions shall, relying on agricultural technology experimental and demonstration bases, undertake public welfare duties such as the extension and demonstration of key technologies required by the public, and provide farmers and agricultural production and operation organisations with unpaid agricultural technical services.\nPeople's governments at or above the county level shall, in accordance with the needs of agricultural production development, stabilise and strengthen the agricultural technology extension contingent and guarantee the working funds of agricultural technology extension institutions.\nPeople's governments at all levels shall take measures to guarantee and improve, in accordance with State provisions, the working conditions, wages and benefits and living conditions of the professional scientific and technical personnel engaged in agricultural technology extension work, and encourage them to serve agriculture."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VII Agricultural Science and Technology, Education and Human Resources"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Scientific research institutions, the relevant schools, specialised farmers' cooperatives, agriculture-related enterprises, mass scientific and technological organisations and the relevant scientific and technical personnel may, according to the needs of farmers and agricultural production and operation organisations, provide unpaid services, or provide paid services in the forms of technology transfer, technical services, technical contracting, technical consultation, technology licensing and technology contribution as shares, and obtain lawful returns. Scientific research institutions, the relevant schools, specialised farmers' cooperatives, agriculture-related enterprises, mass scientific and technological organisations and the relevant scientific and technical personnel shall improve their service levels and ensure the quality of services.\nThe State shall grant preferential treatment in terms of taxation, credit and other aspects to enterprises established by scientific research institutions, the relevant schools and agricultural technology extension institutions to serve agriculture.\nThe State shall encourage and support farmers, specialised farmers' cooperatives, supply and marketing cooperatives, the relevant associations and other enterprises and public institutions in participating in agricultural technology extension work."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VII Agricultural Science and Technology, Education and Human Resources"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "The State shall establish a system of continuing education for agricultural professional and technical personnel. The competent departments of agriculture and rural affairs of people's governments at or above the county level shall, in conjunction with the relevant departments of education, human resources and social security, formulate plans for the continuing education of agricultural professional and technical personnel and organise their implementation."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VII Agricultural Science and Technology, Education and Human Resources"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "The State shall implement compulsory education in rural areas in accordance with law, establish and improve the mechanism for guaranteeing funds for compulsory education that is unified between urban and rural areas, and guarantee funds for compulsory education. The wages of the teaching and administrative staff of ordinary primary and secondary schools established by the State in rural areas shall be paid uniformly by the county-level people's governments in accordance with State provisions, and the funds for the construction and maintenance of teaching facilities such as school buildings shall be arranged uniformly by the county-level people's governments in accordance with State provisions."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VII Agricultural Science and Technology, Education and Human Resources"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "The State shall develop agricultural higher education and vocational education, strengthen the development of agriculture-related disciplines and specialities, and support the training of professionals in specialities that are urgently needed and in short supply in agriculture.\nThe relevant departments of the State Council shall, in accordance with the unified provisions of the State system of vocational qualifications and vocational skill levels, formulate the occupational classification and occupational standards of the agricultural industry and administer the vocational qualification certificates and vocational skill level certificates of the agricultural industry."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter VII Agricultural Science and Technology, Education and Human Resources"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "The State shall organise and carry out training in practical agricultural techniques and skills and other employment training, cultivate local rural personnel, take measures to encourage farmers to adopt advanced agricultural technology, support farmers in establishing various scientific and technological organisations, give play to the role of agricultural radio and television schools, and improve farmers' cultural and technical quality and production and operation skills."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter VII Agricultural Science and Technology, Education and Human Resources"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "The development of agriculture and the rural economy must make rational use of and protect natural resources such as land, water, forests, grasslands and wild animals and plants, rationally develop and utilise renewable and clean energy such as hydropower, wind energy, solar energy, biomass energy and ocean energy, develop ecological agriculture, and protect and improve the ecological environment.\nThe State shall carry out surveys of agricultural resources in a planned manner. People's governments at or above the county level shall formulate the regionalisation of agricultural resources or the regionalisation of the rational use and protection of agricultural resources and establish a system for monitoring agricultural resources."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter VIII Protection of Land and Other Agricultural Resources"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "The State shall implement the strictest system of cultivated land protection, apply special protection to permanent basic farmland in accordance with law, and ensure that the total amount of cultivated land and permanent basic farmland determined by the national territorial space plan does not decrease, that their quality is improved and that their ecological functions are stable.\nThe State shall establish and implement a compensation system for cultivated land protection and quality improvement.\nThe State shall strictly control the conversion of cultivated land to non-cultivated land. Where cultivated land really needs to be occupied, the responsibility for supplementing cultivated land shall be discharged in accordance with law. Local people's governments at or above the county level may, in accordance with law, require that the topsoil of the cultivated land occupied by non-agricultural construction be stripped and rationally utilised.\nPeople's governments at or above the county level shall take measures to strengthen soil improvement, fertility building and treatment and restoration, organise the treatment of degraded cultivated land, improve farmland infrastructure, protect and improve the quality of cultivated land, and conduct investigation, monitoring and evaluation of the quality of cultivated land.\nPeople's governments at or above the county level shall take measures to strengthen the construction of high-standard farmland, clarify the content and standards of construction, and improve the mechanisms of project approval, construction, acceptance and management and protection."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter VIII Protection of Land and Other Agricultural Resources"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "The competent departments of agriculture and rural affairs of people's governments at or above the county level shall take measures to support farmers and agricultural production and operation organisations in strengthening the quality construction of cultivated land and in participating in the construction, management and protection of high-standard farmland.\nFarmers and agricultural production and operation organisations shall maintain cultivated land, use chemical fertilisers, pesticides and agricultural film in a scientific and rational manner, increase the use of organic fertilisers, adopt advanced technology, protect and improve soil fertility, and prevent the pollution, destruction and fertility decline of agricultural land. The State shall encourage the use of agricultural film that is degradable in the ecological environment and harmless.\nThe State shall strengthen the protection of black soil, adhere to combining use with conservation, and promote the sustainable use of black soil."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter VIII Protection of Land and Other Agricultural Resources"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "The State shall adhere to the integrated protection and systematic governance of mountains, rivers, forests, farmland, lakes, grasslands and deserts, implement projects for the protection and restoration of important ecosystems, and strengthen ecological protection and restoration.\nPeople's governments at all levels shall take measures to strengthen the comprehensive governance of small watersheds and prevent and control soil erosion. Units and individuals engaged in production and construction activities that may cause soil erosion must take preventive measures and shall be responsible for controlling the soil erosion caused by their production and construction activities.\nPeople's governments at all levels shall take measures to prevent land desertification and control desertified land.\nPeople's governments at all levels shall take measures to carry out, in light of local conditions, the treatment and comprehensive utilisation of saline-alkali land."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter VIII Protection of Land and Other Agricultural Resources"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "People's governments at all levels shall take measures to organise the masses in afforestation and greening, protect forest land and forest trees, prevent forest fires, prevent and control forestry harmful organisms, stop indiscriminate and illegal felling of forest trees, and increase the forest coverage rate and forest stock volume. The State shall implement the system of obligatory tree planting by all citizens.\nThe State shall implement the system of comprehensive protection of natural forests, strictly restrict the logging of natural forests, and protect and restore natural forests."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter VIII Protection of Land and Other Agricultural Resources"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "The local people's governments concerned shall strengthen the protection, construction and management of grasslands, promote the development of the grass and livestock industry, guide and organise farmers (herders) and agricultural (pastoral) production and operation organisations in building artificial grasslands, forage and feed bases and improving natural grasslands, implement the practice of determining the number of livestock by the grass available and maintaining a balance between grass and livestock, rationally control the livestock carrying capacity, implement the systems of rest grazing and grazing prohibition, promote rotational grazing by zones, protect grassland vegetation, strengthen the prevention and control of grassland fires, diseases and insect pests, and prevent grassland degradation, desertification, salinisation, rocky desertification and soil erosion."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter VIII Protection of Land and Other Agricultural Resources"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "It is prohibited to reclaim land by destroying forests or grasslands, to reclaim land by burning mountains, and to reclaim steep-slope land that the State prohibits from reclamation. It is prohibited to reclaim land by enclosing lakes and to reclaim (enclose) natural wetlands.\nFarmers who implement the conversion of cropland in accordance with the plans approved by the State Council shall be given subsidies in accordance with State provisions."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter VIII Protection of Land and Other Agricultural Resources"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "People's governments at all levels shall take measures to implement in accordance with law the systems of fishing licences, fishing quotas and fishing bans and closed fishing seasons, increase fishery resources and protect the ecological environment of fishery waters.\nThe State shall guide and support farmers (fishers) and agricultural (fishery) production and operation organisations engaged in the fishing industry in engaging in aquaculture or other occupations, and shall, in accordance with State provisions, give subsidies or provide resettlement safeguards to farmers (fishers) who change their products or occupations in accordance with the unified plans of the local people's governments."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter VIII Protection of Land and Other Agricultural Resources"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "The State shall establish a system for the protection of biological species resources related to agricultural production, protect biological diversity, and give key protection to rare, endangered and precious biological resources and their original habitats. The State shall strengthen the general survey, collection, protection, development and utilisation of germ plasm resources and build a national germ plasm resources bank.\nThe introduction of biological species resources from abroad shall be subject to examination and approval or registration in accordance with law, and corresponding safety control measures shall be taken.\nPeople's governments at or above the county level and the relevant departments thereof shall take measures to strengthen the prevention and control of invasive alien species.\nThe research, testing, introduction, production, processing, operation and other application of agricultural genetically modified organisms must strictly implement various safety control measures in accordance with State provisions."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter VIII Protection of Land and Other Agricultural Resources"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "The State shall advance the comprehensive green transformation of agricultural development, encourage and support farmers and agricultural production and operation organisations in adopting resource-conserving and intensive planting and breeding techniques, and strengthen the prevention and control of agricultural non-point source pollution.\nThe competent departments of agriculture and rural affairs of people's governments at all levels shall guide farmers and agricultural production and operation organisations in adopting physical and biological measures or using highly effective, low-toxicity and low-residue pesticides and veterinary drugs to prevent and control animal and plant diseases, insect pests, weeds, rodent damage and other harmful organisms in a scientific manner. Units and individuals engaged in livestock, poultry and aquaculture shall feed and apply feed and fertiliser rationally and use medicines correctly so as to prevent environmental pollution and ecological damage.\nThe State shall strengthen the research, development and application of technologies and products such as biological control of diseases and insect pests, microbial fertilisers and biological pesticides, and promote the production of green and high-quality agricultural products."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter IX Green Development of Agriculture"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "The State shall give priority to the development of ecological circular agriculture, advance the recovery, harmless treatment and comprehensive utilisation of agricultural waste, and encourage the development of circular agriculture combining planting and breeding.\nStraw and other residues of agricultural products after harvest shall be comprehensively utilised and properly handled so as to prevent environmental pollution and ecological damage. Local people's governments at all levels shall strengthen in a scientific and precise manner the organisation, guidance and management of straw burning."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter IX Green Development of Agriculture"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "People's governments at or above the county level shall take measures to urge the units concerned to carry out treatment and prevent and control the pollution of the agricultural ecological environment by waste water, waste gas, solid waste or other toxic and harmful substances. Where the discharge or dumping of waste water, waste gas, solid waste or other toxic and harmful substances causes an accident of pollution of the agricultural ecological environment, the competent department of ecological environment or the competent department of agriculture and rural affairs shall investigate and handle the matter in accordance with law; where losses are caused to farmers and agricultural production and operation organisations, the persons responsible shall compensate in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Chapter IX Green Development of Agriculture"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "The State shall encourage and support the protection of agricultural resources and the development of ecological agriculture, implement ecological protection compensation in accordance with law, and gradually improve the mechanism for realising the value of agricultural ecological products."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Chapter IX Green Development of Agriculture"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "The State shall take measures to actively address the impact of climate change on agriculture."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Chapter IX Green Development of Agriculture"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "Any authority or unit that collects administrative or institutional fees from farmers or agricultural production and operation organisations must do so on the basis of the provisions of laws and regulations. The basis, items, scope and standards of the fees shall be published. Farmers and agricultural production and operation organisations shall have the right to refuse fees that have no basis in laws or regulations.\nAny authority or unit that imposes a fine on farmers or agricultural production and operation organisations must do so on the basis of the provisions of laws, regulations and rules. Farmers and agricultural production and operation organisations shall have the right to refuse fines that have no basis in laws, regulations or rules.\nNo authority or unit may apportion any contribution to farmers or agricultural production and operation organisations in any manner. Unless laws or regulations provide otherwise, any requirement by any authority or unit, in any manner, that farmers or agricultural production and operation organisations provide manpower, financial resources or material resources shall constitute apportionment. Farmers and agricultural production and operation organisations shall have the right to refuse apportionment in any form."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Chapter X Protection of Farmers' Rights and Interests"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "Farmers and agricultural production and operation organisations shall bear tax obligations in accordance with the provisions of laws and administrative regulations and shall enjoy tax reductions and exemptions provided by laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Chapter X Protection of Farmers' Rights and Interests"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "People's governments at all levels, the relevant departments thereof and the units subordinate thereto shall not raise funds from farmers or agricultural production and operation organisations in any manner.\nPeople's governments at all levels shall establish and improve a long-term mechanism for rectifying formalism and reducing the burdens at the grassroots level, strictly control the carrying out of supervision, inspection, examination and assessment at the grassroots level, and streamline and optimise agriculture-related assessments. Without a basis in laws or regulations or without the approval of the State Council, no authority or unit may carry out in rural areas any activity of reaching standards, upgrading or acceptance in any form."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Chapter X Protection of Farmers' Rights and Interests"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "Apart from the fees charged in accordance with State provisions, no other fees may be charged to farmers and students for rural compulsory education. It is prohibited for any authority or unit to charge farmers through rural primary and secondary schools.\nThe State shall take measures to ensure food safety in rural primary and secondary schools and improve students' nutritional and health conditions."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Chapter X Protection of Farmers' Rights and Interests"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "Where the State expropriates land collectively owned by farmers in accordance with law for the needs of the public interest, it shall protect the lawful rights and interests of farmers and rural collective economic organisations, give compensation for land expropriation and arrange social security expenses in accordance with law, and no unit or individual may intercept or misappropriate such compensation and expenses. Where rural villagers' residences are expropriated, their right to housing and their lawful property rights and interests in housing shall be safeguarded in accordance with law.\nThe State shall safeguard the lawful land rights and interests of farmers who have settled in cities, and safeguard in accordance with law their land contractual management rights, the right to use residential land and the right to distribution of collective income."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        },
+        "chapter": {
+          "en": "Chapter X Protection of Farmers' Rights and Interests"
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "In the course of the structural adjustment of agriculture and the rural economy, the industrialised operation of agriculture and the transfer of land management rights, people's governments at all levels, rural collective economic organisations and villagers' committees shall fully respect the wishes of farmers and agricultural production and operation organisations, shall not infringe upon land contractual management rights or land management rights, shall not interfere with the production and operation projects independently arranged by farmers and agricultural production and operation organisations in accordance with law, shall not forcibly destroy young crops or fruit trees in full bearing period, and shall not compel farmers and agricultural production and operation organisations to purchase designated means of production or to sell agricultural products through designated channels."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        },
+        "chapter": {
+          "en": "Chapter X Protection of Farmers' Rights and Interests"
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "Where a rural collective economic organisation or villagers' committee needs to raise funds or mobilise labour from its members (villagers) for developing production or establishing public welfare undertakings, it may do so only after the matter has been adopted in accordance with law by a meeting of members (villagers) or a meeting of representatives of members (villagers).\nWhere a rural collective economic organisation or villagers' committee raises funds or mobilises labour in accordance with the preceding paragraph, it shall not exceed the maximum control standards prescribed by the State Council and the provincial people's government, and it is prohibited to compel the substitution of funds for labour.\nRural collective economic organisations and villagers' committees shall, in respect of important matters concerning the interests of members (villagers), make them public to the members (villagers) and periodically publish their financial accounts, and shall accept the supervision of members (villagers)."
+        },
+        "noLabel": {
+          "en": "Article 87."
+        },
+        "chapter": {
+          "en": "Chapter X Protection of Farmers' Rights and Interests"
+        }
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "Any unit or individual that provides paid services in production, technology, information, culture, insurance or other fields to farmers or agricultural production and operation organisations must adhere to the principle of voluntariness and shall not compel farmers or agricultural production and operation organisations to accept such services."
+        },
+        "noLabel": {
+          "en": "Article 88."
+        },
+        "chapter": {
+          "en": "Chapter X Protection of Farmers' Rights and Interests"
+        }
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "Units purchasing agricultural products shall not depress the grade or the price when purchasing agricultural products, and shall not deduct any fees from the payment made.\nWhere a dispute arises between a unit purchasing agricultural products and a seller of agricultural products over the quality grade of the agricultural products, the parties may entrust an agricultural product quality testing institution with statutory qualifications to conduct testing."
+        },
+        "noLabel": {
+          "en": "Article 89."
+        },
+        "chapter": {
+          "en": "Chapter X Protection of Farmers' Rights and Interests"
+        }
+      },
+      {
+        "no": 90,
+        "text": {
+          "en": "Where a user of agricultural means of production suffers losses due to quality problems of the means of production, the operator that sold the means of production shall compensate, and the amount of compensation shall include the purchase price, the relevant expenses and the loss of expectable benefits."
+        },
+        "noLabel": {
+          "en": "Article 90."
+        },
+        "chapter": {
+          "en": "Chapter X Protection of Farmers' Rights and Interests"
+        }
+      },
+      {
+        "no": 91,
+        "text": {
+          "en": "Farmers and agricultural production and operation organisations shall, in order to safeguard their own lawful rights and interests, have the right to report the circumstances to people's governments at all levels and the relevant departments thereof and to raise lawful demands; the people's governments and the relevant departments thereof shall, in accordance with State provisions, give timely replies to the reasonable demands raised by farmers and agricultural production and operation organisations."
+        },
+        "noLabel": {
+          "en": "Article 91."
+        },
+        "chapter": {
+          "en": "Chapter X Protection of Farmers' Rights and Interests"
+        }
+      },
+      {
+        "no": 92,
+        "text": {
+          "en": "Where farmers' rights and interests are infringed upon in violation of the provisions of law, farmers or agricultural production and operation organisations may apply for administrative reconsideration or bring a lawsuit before a people's court in accordance with law, and the administrative reconsideration organ concerned or the people's court shall accept the case in accordance with law.\nWhere the lawful rights and interests of farmers are infringed upon and the conditions for legal aid are met, they may apply for legal aid in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 92."
+        },
+        "chapter": {
+          "en": "Chapter X Protection of Farmers' Rights and Interests"
+        }
+      },
+      {
+        "no": 93,
+        "text": {
+          "en": "The State shall strengthen rural governance, advance the building of safe villages, build a harmonious and orderly rural society, and continuously enhance the sense of gain, happiness and security of the broad masses of farmers."
+        },
+        "noLabel": {
+          "en": "Article 93."
+        },
+        "chapter": {
+          "en": "Chapter X Protection of Farmers' Rights and Interests"
+        }
+      },
+      {
+        "no": 94,
+        "text": {
+          "en": "The State shall adhere to integrated urban-rural development, raise the level of integration of urban and rural planning, construction and governance, promote the equal exchange and two-way flow of urban and rural factors, advance the balanced allocation of public resources, and promote the common prosperity of urban and rural areas.\nThe State shall support the development of new forms of business such as eco-tourism, folk culture and leisure agriculture relying on the characteristic resources of agriculture and rural areas, promote the deep integration of the primary, secondary and tertiary industries in rural areas, adjust and optimise the structure of the rural economy, strengthen county-level industries that enrich the people, increase farmers' incomes, promote the comprehensive development of the rural economy and gradually narrow the differences between urban and rural areas."
+        },
+        "noLabel": {
+          "en": "Article 94."
+        },
+        "chapter": {
+          "en": "Chapter XI Rural Economic Development"
+        }
+      },
+      {
+        "no": 95,
+        "text": {
+          "en": "The national territorial space plan shall give overall consideration to the needs for land for production, living and ecology in urban and rural areas and rationally arrange land of various types for rural industry, residence, public services and infrastructure. Construction land quotas shall safeguard the reasonable needs of rural development.\nPeople's governments at or above the county level shall optimise the layout of urban and rural industrial development and make overall plans for the construction, management and protection of urban and rural public infrastructure."
+        },
+        "noLabel": {
+          "en": "Article 95."
+        },
+        "chapter": {
+          "en": "Chapter XI Rural Economic Development"
+        }
+      },
+      {
+        "no": 96,
+        "text": {
+          "en": "The State shall promote the development of the rural market economy and safeguard the equal legal status and development rights of all types of business entities.\nRural economic development shall adhere to the principal position of farmers and safeguard the lawful rights and interests of farmers.\nPeople's governments at all levels shall take measures to develop rural enterprises, support agricultural development and absorb the rural labour force in employment. The State shall improve support measures for the development of rural enterprises and guide rural enterprises in optimising their structure, renewing technology and improving competitiveness.\nThe State shall improve the rural collective property rights system, develop the new rural collective economy and safeguard the members' right to distribution of collective income.\nThe State shall guide, regulate and protect the participation of social capital in rural development in accordance with law, support farmers, university students, veterans and other persons returning to or entering the countryside in starting businesses and finding employment in rural areas, and encourage specialised farmers' cooperatives, supply and marketing cooperatives and agricultural enterprises to establish close interest linkage mechanisms with farmers."
+        },
+        "noLabel": {
+          "en": "Article 96."
+        },
+        "chapter": {
+          "en": "Chapter XI Rural Economic Development"
+        }
+      },
+      {
+        "no": 97,
+        "text": {
+          "en": "Local people's governments at or above the county level shall, in accordance with the local level of economic development, locational advantages and resource conditions and in accordance with the principles of rational layout, scientific planning and economical use of land, advance the construction of small rural towns in a focused manner.\nLocal people's governments at all levels shall focus on the use of market mechanisms, improve the corresponding policies, attract farmers and social funds to invest in the development and construction of small towns, develop the secondary and tertiary industries, and guide rural enterprises to develop in a relatively concentrated manner."
+        },
+        "noLabel": {
+          "en": "Article 97."
+        },
+        "chapter": {
+          "en": "Chapter XI Rural Economic Development"
+        }
+      },
+      {
+        "no": 98,
+        "text": {
+          "en": "The State shall coordinate the policy system for urban and rural employment, take measures to promote the formation of a human resources market featuring equal competition, standardised order and urban-rural unity, improve the system of equal public employment and entrepreneurship services for urban and rural areas, and guide the rational and orderly flow of the labour force between urban and rural areas and between regions. Local people's governments at all levels shall protect in accordance with law the lawful rights and interests of rural workers entering urban employment, and shall not set unreasonable restrictions; restrictions already set shall be abolished.\nPeople's governments at all levels and the relevant departments thereof shall take measures to comprehensively implement equal employment and equal pay for equal work for urban and rural workers, and safeguard in accordance with law the labour and social security rights and interests such as wages of migrant workers."
+        },
+        "noLabel": {
+          "en": "Article 98."
+        },
+        "chapter": {
+          "en": "Chapter XI Rural Economic Development"
+        }
+      },
+      {
+        "no": 99,
+        "text": {
+          "en": "The State shall improve the social insurance system and safeguard in accordance with law the lawful rights and interests of farmers in participating in social insurance and enjoying social insurance benefits.\nThe State shall improve the multi-tiered and classified social assistance system, improve the systems of minimum subsistence guarantee, support for persons in extreme poverty and temporary assistance, safeguard the basic livelihood of recipients of rural minimum subsistence guarantee, persons in extreme poverty and other assistance recipients, and provide special assistance in medical care, housing, education, employment and other fields in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 99."
+        },
+        "chapter": {
+          "en": "Chapter XI Rural Economic Development"
+        }
+      },
+      {
+        "no": 100,
+        "text": {
+          "en": "The State shall support underdeveloped areas in improving the conditions of economic development, help them carry out economic development, establish in an overall manner a regular mechanism for preventing return to and occurrence of poverty, and continuously consolidate and expand the achievements of poverty alleviation.\nPeople's governments at all levels shall adhere to the policy of development-oriented assistance, enhance the endogenous development momentum of underdeveloped areas, guide and organise the rational use of assistance funds, change the backward situation by relying on their own strength, promote the growth and expansion of industries, improve the skills and quality of rural workers, enhance their employability and arouse their enthusiasm for participating in development, and guide the adjustment of the economic structure and the development of local resources. The development of underdeveloped areas shall adhere to combining with resource protection and ecological construction and promote the coordinated development and comprehensive progress of the economy, society and ecology."
+        },
+        "noLabel": {
+          "en": "Article 100."
+        },
+        "chapter": {
+          "en": "Chapter XI Rural Economic Development"
+        }
+      },
+      {
+        "no": 101,
+        "text": {
+          "en": "The State Council and provincial people's governments shall include regular assistance input in the annual fiscal budget, increase fiscal transfer payments and construction fund input to underdeveloped areas, and improve the performance of the use of funds.\nThe State shall encourage and support financial institutions, other enterprises and public institutions, social organisations and individuals in investing funds to support the development and construction of underdeveloped areas.\nNo unit or individual may intercept or misappropriate assistance funds. Audit authorities shall strengthen audit supervision over assistance funds."
+        },
+        "noLabel": {
+          "en": "Article 101."
+        },
+        "chapter": {
+          "en": "Chapter XI Rural Economic Development"
+        }
+      },
+      {
+        "no": 102,
+        "text": {
+          "en": "People's governments at or above the county level shall take measures to gradually improve the administrative system of agriculture and rural affairs that meets the requirements of the development of the socialist market economy.\nThe competent departments of agriculture and rural affairs and the relevant departments of people's governments at or above the county level shall strengthen their duties of planning, guidance, management, coordination, supervision and service, administer in accordance with law and enforce law impartially.\nLocal people's governments at or above the county level shall strengthen comprehensive agricultural law enforcement, stabilise the law enforcement contingent, guarantee law enforcement conditions, improve the quality and capacity of law enforcement personnel, raise the efficiency and level of law enforcement, strengthen supervision over law enforcement, and advance strict, standardised, impartial and civilised law enforcement."
+        },
+        "noLabel": {
+          "en": "Article 102."
+        },
+        "chapter": {
+          "en": "Chapter XII Supervision and Inspection"
+        }
+      },
+      {
+        "no": 103,
+        "text": {
+          "en": "When performing the duties of law enforcement supervision and inspection, the competent departments of agriculture and rural affairs of people's governments at or above the county level shall have the right to take the following measures:\n(1) requiring the unit or individual under inspection to explain the circumstances and provide the relevant documents and materials;\n(2) entering the premises of agricultural production and operation to carry out on-site inspection;\n(3) carrying out investigation in accordance with law in respect of suspected unlawful acts, ordering the person committing the unlawful act to stop the unlawful act and perform statutory obligations;\n(4) sealing up or seizing the premises, facilities or property suspected of being unlawfully engaged in the production and operation of agricultural inputs.\nWhen performing the duties of supervision and inspection, agricultural administrative law enforcement personnel shall produce their administrative law enforcement certificate to the unit or individual under inspection and observe law enforcement procedures. The unit or individual concerned shall cooperate with agricultural administrative law enforcement personnel in lawfully performing their duties and shall not refuse or obstruct them."
+        },
+        "noLabel": {
+          "en": "Article 103."
+        },
+        "chapter": {
+          "en": "Chapter XII Supervision and Inspection"
+        }
+      },
+      {
+        "no": 104,
+        "text": {
+          "en": "The competent departments of agriculture and rural affairs and agricultural production and operation units must be thoroughly separated in terms of organisation, personnel and finance. The competent departments of agriculture and rural affairs and their staff members shall not participate in or engage in agricultural production and operation activities."
+        },
+        "noLabel": {
+          "en": "Article 104."
+        },
+        "chapter": {
+          "en": "Chapter XII Supervision and Inspection"
+        }
+      },
+      {
+        "no": 105,
+        "text": {
+          "en": "Where the property rights such as land contractual management rights and land management rights or other lawful rights and interests of farmers and agricultural production and operation organisations are infringed upon in violation of the provisions of this Law, the infringement shall be stopped and the original state restored; where losses or damage are caused, liability for compensation shall be borne in accordance with law.\nWhere State functionaries take advantage of their position or act in any other name to infringe upon the lawful rights and interests of farmers and agricultural production and operation organisations, they shall compensate for the losses and be given sanctions in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 105."
+        },
+        "chapter": {
+          "en": "Chapter XIII Legal Liability"
+        }
+      },
+      {
+        "no": 106,
+        "text": {
+          "en": "Where the relevant provisions of Articles 24, 30, 73, 75 and 85 of this Law are violated, penalties shall be imposed in accordance with the provisions of the relevant laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 106."
+        },
+        "chapter": {
+          "en": "Chapter XIII Legal Liability"
+        }
+      },
+      {
+        "no": 107,
+        "text": {
+          "en": "Where any of the following acts is committed, the competent authority at the higher level shall order the return within a time limit of the intercepted or misappropriated funds, confiscate the illegal gains, and give sanctions in accordance with law to the directly responsible persons in charge and other directly responsible persons:\n(1) in violation of the provisions of paragraph 3 of Article 41 of this Law, intercepting or misappropriating funds for grain purchase;\n(2) in violation of the provisions of paragraph 2 of Article 47 of this Law, intercepting or misappropriating fiscal funds and credit funds for agriculture;\n(3) in violation of the provisions of paragraph 3 of Article 101 of this Law, intercepting or misappropriating assistance funds."
+        },
+        "noLabel": {
+          "en": "Article 107."
+        },
+        "chapter": {
+          "en": "Chapter XIII Legal Liability"
+        }
+      },
+      {
+        "no": 108,
+        "text": {
+          "en": "Where, in violation of the provisions of Article 81 of this Law, fees are unlawfully collected from, fines are unlawfully imposed on, or contributions are unlawfully apportioned to farmers or agricultural production and operation organisations, the competent authority at the higher level shall stop the act and make it public; where money has already been collected or manpower or material resources have already been used, the competent authority at the higher level shall order the return within a time limit of the money already collected or the repayment at converted value of the manpower or material resources already used, and shall give sanctions in accordance with law to the directly responsible persons in charge and other directly responsible persons."
+        },
+        "noLabel": {
+          "en": "Article 108."
+        },
+        "chapter": {
+          "en": "Chapter XIII Legal Liability"
+        }
+      },
+      {
+        "no": 109,
+        "text": {
+          "en": "Where any of the following acts is committed, the competent authority at the higher level shall order the cessation of the unlawful act, give sanctions in accordance with law to the directly responsible persons in charge and other directly responsible persons, and order the refund of the unlawfully raised funds or fees:\n(1) in violation of the provisions of Article 83 of this Law, unlawfully carrying out in rural areas activities of raising funds, reaching standards, upgrading or acceptance;\n(2) in violation of the provisions of Article 84 of this Law, charging farmers excessive fees or fees for items beyond those prescribed through rural primary and secondary schools."
+        },
+        "noLabel": {
+          "en": "Article 109."
+        },
+        "chapter": {
+          "en": "Chapter XIII Legal Liability"
+        }
+      },
+      {
+        "no": 110,
+        "text": {
+          "en": "Where, in violation of the provisions of paragraph 2 of Article 87 of this Law, farmers are compelled to substitute funds for labour, the township people's government shall order correction and refund the funds unlawfully collected."
+        },
+        "noLabel": {
+          "en": "Article 110."
+        },
+        "chapter": {
+          "en": "Chapter XIII Legal Liability"
+        }
+      },
+      {
+        "no": 111,
+        "text": {
+          "en": "Where, in violation of the provisions of Article 88 of this Law, farmers and agricultural production and operation organisations are compelled to accept paid services, the people's government concerned shall order correction and return the fees unlawfully collected; where the circumstances are serious, sanctions shall be given in accordance with law to the directly responsible persons in charge and other directly responsible persons; where losses are caused to farmers and agricultural production and operation organisations, liability for compensation shall be borne in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 111."
+        },
+        "chapter": {
+          "en": "Chapter XIII Legal Liability"
+        }
+      },
+      {
+        "no": 112,
+        "text": {
+          "en": "Where staff members of the competent departments of agriculture and rural affairs of people's governments at or above the county level participate in or engage in agricultural production and operation activities in violation of the provisions of this Law, sanctions shall be given in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 112."
+        },
+        "chapter": {
+          "en": "Chapter XIII Legal Liability"
+        }
+      },
+      {
+        "no": 113,
+        "text": {
+          "en": "Where the lawful rights and interests of farmers and agricultural production and operation organisations are infringed upon in violation of the provisions of this Law and a crime is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 113."
+        },
+        "chapter": {
+          "en": "Chapter XIII Legal Liability"
+        }
+      },
+      {
+        "no": 114,
+        "text": {
+          "en": "The provisions of this Law concerning farmers shall apply by reference to the staff and workers of enterprises and public institutions such as State-owned farms, forestry farms, pasture farms and fishing farms that practise contractual operation."
+        },
+        "noLabel": {
+          "en": "Article 114."
+        },
+        "chapter": {
+          "en": "Chapter XIV Supplementary Provisions"
+        }
+      },
+      {
+        "no": 115,
+        "text": {
+          "en": "This Law shall come into force on 1 January 2027."
+        },
+        "noLabel": {
+          "en": "Article 115."
+        },
+        "chapter": {
+          "en": "Chapter XIV Supplementary Provisions"
         }
       }
     ]

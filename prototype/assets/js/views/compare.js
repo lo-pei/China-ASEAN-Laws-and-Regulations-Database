@@ -14,6 +14,47 @@
   var MAX_SLOTS = 3;
 
   /** 快速示例：按“国别 + 主题”在数据集中动态挑选条文，避免硬编码 id 失效 */
+  /* 主题关键词：用于在同一部法里挑出「真正讲这个话题」的条文。
+     原来直接取 articles[0]，会拿「第一条 立法目的」去比「第一条 调整范围」，
+     两条内容毫不相干，相似度只有 2%，对比毫无意义。 */
+  var TOPIC_WORDS = {
+    investment: ['外商投资', '外资', '准入', '负面清单', '投资', '投资者'],
+    labor: ['劳动合同', '解除', '解雇', '雇佣', '职工', '劳动者', '工资'],
+    data: ['数据', '个人信息', '跨境', '处理者', '数据主体'],
+    company: ['公司', '股东', '董事', '注册资本', '监事', '清算']
+  };
+
+  /** 在一部法里按关键词挑最相关的条文；找不到就退回第一篇 */
+  function pickArticle(law, topic) {
+    var words = TOPIC_WORDS[topic] || [];
+    var arts = law.articles || [];
+    if (!arts.length) return null;
+    var best = null, bestScore = 0;
+    for (var i = 0; i < arts.length; i++) {
+      var a = arts[i];
+      var txt = U().plain(U().tr(a.text) || '') + ' ' + U().plain(U().tr(a.heading) || '');
+      if (!txt) continue;
+      var sc = 0;
+      for (var w = 0; w < words.length; w++) {
+        var idx = txt.indexOf(words[w]);
+        if (idx >= 0) sc += (w < 3 ? 3 : 1);   /* 靠前的关键词更重要 */
+      }
+      /* 太短（目录标题）或太长（整章）都不适合作对比样本 */
+      if (txt.length < 20) sc -= 2;
+      if (txt.length > 800) sc -= 1;
+      /* 覆盖的比对维度越多越好：维度多才比得出内容，否则报告全是「不适用」 */
+      var cmp = CALR.compare;
+      if (cmp && cmp.dimCovered && cmp.dimensions) {
+        var dims = cmp.dimensions;
+        for (var d = 0; d < dims.length; d++) {
+          if (cmp.dimCovered(a, dims[d])) sc += 2;
+        }
+      }
+      if (sc > bestScore) { bestScore = sc; best = a; }
+    }
+    return (bestScore > 0 ? best : arts[0]);
+  }
+
   function buildPresets() {
     var defs = [
       { name: '中越外商投资准入对比', pairs: [['CN', 'investment'], ['VN', 'investment']] },
@@ -30,10 +71,8 @@
           return l.country === p[0] && (l.topics || []).indexOf(p[1]) >= 0 && l.articles.length;
         })[0];
         if (!law) return;
-        var art = law.articles.filter(function (a) {
-          return (a.compareTags || []).indexOf('scope') >= 0;
-        })[0] || law.articles[0];
-        ids.push(art.id);
+        var art = pickArticle(law, p[1]);
+        if (art) ids.push(art.id);
       });
       if (ids.length >= 2) out.push({ name: d.name, ids: ids });
     });

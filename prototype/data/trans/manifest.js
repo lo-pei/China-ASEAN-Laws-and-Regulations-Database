@@ -141,6 +141,7 @@
           "CN-LAW-0112",
           "CN-LAW-0113",
           "CN-LAW-0114",
+          "CN-LAW-0115",
           "CN-LAW-0116",
           "CN-LAW-0117",
           "CN-LAW-0118",
@@ -177,7 +178,7 @@
           "CN-LAW-0154",
           "CN-LAW-0155"
         ],
-        "articles": 4161,
+        "articles": 4274,
         "engine": "llm",
         "model": "deepseek-v4.1-flash",
         "reviewed": "machine"
@@ -220,6 +221,7 @@
           "CN-LAW-0187",
           "CN-LAW-0188",
           "CN-LAW-0189",
+          "CN-LAW-0190",
           "CN-LAW-0191",
           "CN-LAW-0192",
           "CN-LAW-0193",
@@ -247,6 +249,7 @@
           "CN-LAW-0218",
           "CN-LAW-0219",
           "CN-LAW-0220",
+          "CN-LAW-0221",
           "CN-LAW-0222",
           "CN-LAW-0223",
           "CN-LAW-0224",
@@ -256,7 +259,7 @@
           "CN-LAW-0230",
           "CN-LAW-0231"
         ],
-        "articles": 4277,
+        "articles": 4509,
         "engine": "llm",
         "model": "deepseek-v4.1-flash",
         "reviewed": "machine"
@@ -1574,6 +1577,7 @@
           "CN-REG-0465",
           "CN-REG-0466",
           "CN-REG-0467",
+          "CN-REG-0468",
           "CN-REG-0469",
           "CN-REG-0470",
           "CN-REG-0471",
@@ -1600,6 +1604,7 @@
           "CN-REG-0492",
           "CN-REG-0493",
           "CN-REG-0494",
+          "CN-REG-0495",
           "CN-REG-0496",
           "CN-REG-0497",
           "CN-REG-0498",
@@ -1607,7 +1612,7 @@
           "CN-REG-0500",
           "CN-REG-0501"
         ],
-        "articles": 2804,
+        "articles": 3032,
         "engine": "llm",
         "model": "deepseek-v4.1-flash",
         "reviewed": "machine"
@@ -1678,6 +1683,7 @@
           "CN-REG-0560",
           "CN-REG-0561",
           "CN-REG-0562",
+          "CN-REG-0563",
           "CN-REG-0564",
           "CN-REG-0565",
           "CN-REG-0566",
@@ -1695,7 +1701,7 @@
           "CN-REG-0578",
           "CN-REG-0579"
         ],
-        "articles": 3153,
+        "articles": 3266,
         "engine": "llm",
         "model": "deepseek-v4.1-flash",
         "reviewed": "machine"
@@ -6390,6 +6396,24 @@
       },
       "CN-LAW-0225": {
         "en": "cn-p03.en"
+      },
+      "CN-LAW-0115": {
+        "en": "cn-p02.en"
+      },
+      "CN-LAW-0190": {
+        "en": "cn-p03.en"
+      },
+      "CN-LAW-0221": {
+        "en": "cn-p03.en"
+      },
+      "CN-REG-0468": {
+        "en": "cn-p18.en"
+      },
+      "CN-REG-0495": {
+        "en": "cn-p18.en"
+      },
+      "CN-REG-0563": {
+        "en": "cn-p19.en"
       }
     }
   };

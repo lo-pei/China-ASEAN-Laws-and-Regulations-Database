@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p19
-   法规 76 部 / 译文 3153 条
+   法规 77 部 / 译文 3266 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -28797,6 +28797,1350 @@
         },
         "noLabel": {
           "en": "Article 23."
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0563'] = {
+    "lawId": "CN-REG-0563",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 113 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Rules are formulated in accordance with the provisions of the Law of the People's Republic of China on the Administration of Tax Collection (hereinafter referred to as the Tax Collection and Administration Law)."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The administration of the collection of all categories of taxes collected by tax authorities in accordance with law shall be governed by the Tax Collection and Administration Law and these Rules; where the Tax Collection and Administration Law and these Rules contain no provisions, the provisions of other relevant tax laws and administrative regulations shall apply."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Any decision made by any department, unit or individual that contravenes tax laws or administrative regulations shall be void, and tax authorities shall not implement it and shall report it to the tax authority at the next higher level.\nTaxpayers shall perform their tax obligations in accordance with the provisions of tax laws and administrative regulations; contracts, agreements and other documents concluded by them that contravene tax laws or administrative regulations shall be void."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The State Taxation Administration shall be responsible for formulating the overall plan, technical standards, technical schemes and implementation measures for the informatisation of the national tax system; tax authorities at all levels shall, in accordance with the overall plan, technical standards, technical schemes and implementation measures of the State Taxation Administration, carry out the specific work of informatisation of the tax system in their respective regions.\nLocal people's governments at all levels shall actively support the informatisation of the tax system and organise the relevant departments to achieve the sharing of relevant information."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The circumstances in which confidentiality is kept for taxpayers and withholding agents as referred to in Article 8 of the Tax Collection and Administration Law mean the commercial secrets and personal privacy of taxpayers and withholding agents. Violations of tax law by taxpayers and withholding agents do not fall within the scope of confidentiality."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The State Taxation Administration shall formulate codes of conduct and service standards for tax personnel.\nWhere a tax authority at a higher level discovers a violation of tax law by a tax authority at a lower level, it shall promptly correct it; the tax authority at the lower level shall promptly rectify the matter in accordance with the decision of the tax authority at the higher level.\nWhere a tax authority at a lower level discovers a violation of tax law by a tax authority at a higher level, it shall report it to the tax authority at the higher level or to the relevant department."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Tax authorities shall give appropriate awards to informants according to the extent of their contributions; the funds required for the awards shall be included in the annual budget of the tax department and approved item by item. The specific measures for the use of the award funds and the award standards shall be formulated by the State Taxation Administration in conjunction with the Ministry of Finance."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Where tax personnel, when assessing the amount of tax payable, adjusting tax quotas, conducting tax inspections, imposing tax administrative penalties or handling tax administrative reconsideration, have any of the following relationships with a taxpayer, a withholding agent or the legal representative or directly responsible person thereof, they shall recuse themselves:\n(1) marital relationship;\n(2) direct blood relationship;\n(3) collateral blood relationship within three generations;\n(4) close in-law relationship;\n(5) other interest relationships that may affect the impartial enforcement of law."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Tax authorities established in accordance with the provisions of the State Council and announced to society as referred to in Article 14 of the Tax Collection and Administration Law mean the inspection bureaux of tax bureaux below the provincial level. Inspection bureaux are exclusively responsible for the investigation and handling of cases of tax evasion, evasion of recovery of tax arrears, tax fraud and resistance to tax payment.\nThe State Taxation Administration shall clearly divide the duties of tax bureaux and inspection bureaux so as to avoid overlapping of duties."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The State tax bureau and the local tax bureau shall use the same code for the tax registration of the same taxpayer and shall share information.\nThe specific measures for tax registration shall be formulated by the State Taxation Administration."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Tax Registration"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The administrative authorities for industry and commerce at all levels shall periodically notify the State tax bureau and the local tax bureau at the same level of the handling of registration for commencement of business, change and cancellation, and of the revocation of business licences.\nThe specific measures for such notification shall be formulated jointly by the State Taxation Administration and the State Administration for Industry and Commerce."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Tax Registration"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "A taxpayer engaged in production or business operations shall, within 30 days from the date of receipt of the business licence, declare and complete tax registration with the competent tax authority at the place of production or business operations or at the place where the tax obligation arises, truthfully fill in the tax registration form and provide the relevant certificates and materials as required by the tax authority.\nA taxpayer other than those provided in the preceding paragraph shall, except for State organs and individuals, within 30 days from the date on which the tax obligation arises, declare and complete tax registration with the competent tax authority at its locality on the strength of the relevant certificates.\nThe measures for taxpayers of individual income tax to complete tax registration shall be separately prescribed by the State Council.\nThe form of the tax registration certificate shall be prescribed by the State Taxation Administration."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Tax Registration"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "A withholding agent shall, within 30 days from the date on which the withholding obligation arises, declare and complete registration for tax withheld with the competent tax authority at its locality and obtain a registration certificate for tax withheld; in respect of a withholding agent that has already completed tax registration, the tax authority may merely record the particulars of the tax withheld on its tax registration certificate and need not issue a separate registration certificate for tax withheld."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Tax Registration"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Where the particulars of the tax registration of a taxpayer change, the taxpayer shall, within 30 days from the date of completing the change registration with the administrative authority for industry and commerce or another authority, declare and complete the change of tax registration with the original tax registration authority on the strength of the relevant certificates.\nWhere the particulars of the tax registration of a taxpayer change and the taxpayer is not required to complete change registration with the administrative authority for industry and commerce or another authority, the taxpayer shall, within 30 days from the date of the change, declare and complete the change of tax registration with the original tax registration authority on the strength of the relevant certificates."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Tax Registration"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where a taxpayer is dissolved, goes bankrupt, is revoked or is otherwise in a situation terminating its tax obligation in accordance with law, the taxpayer shall, before completing cancellation registration with the administrative authority for industry and commerce or another authority, declare and complete cancellation of tax registration with the original tax registration authority on the strength of the relevant certificates; where, in accordance with provisions, the taxpayer is not required to complete registration with the administrative authority for industry and commerce or another authority, the taxpayer shall, within 15 days from the date on which the relevant authority approves or declares the termination, declare and complete cancellation of tax registration with the original tax registration authority on the strength of the relevant certificates.\nWhere a change in the domicile or place of business operations of a taxpayer involves a change of tax registration authority, the taxpayer shall, before applying to the administrative authority for industry and commerce or another authority for change or cancellation registration, or before the change of domicile or place of business operations, declare and complete cancellation of tax registration with the original tax registration authority and shall, within 30 days, declare and complete tax registration with the tax authority at the place of relocation.\nWhere the business licence of a taxpayer is revoked by the administrative authority for industry and commerce or its registration is revoked by another authority, the taxpayer shall, within 15 days from the date of revocation of the business licence or of the registration, declare and complete cancellation of tax registration with the original tax registration authority."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Tax Registration"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Before completing cancellation of tax registration, a taxpayer shall settle with the tax authority the tax payable, late payment surcharges and fines, and shall surrender its invoices, tax registration certificate and other tax certificates."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Tax Registration"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "A taxpayer engaged in production or business operations shall, within 15 days from the date of opening a basic deposit account or another deposit account, report in writing all of its account numbers to the competent tax authority; where a change occurs, the taxpayer shall, within 15 days from the date of the change, report the change in writing to the competent tax authority."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Tax Registration"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Except where a tax registration certificate is not required to be issued in accordance with provisions, a taxpayer must produce its tax registration certificate when handling the following matters:\n(1) opening a bank account;\n(2) applying for tax reduction, tax exemption or tax refund;\n(3) applying for extension of the time limit for declaration or extension of the time limit for payment of tax;\n(4) purchasing invoices;\n(5) applying for the issue of a certificate of tax administration for business activities conducted elsewhere;\n(6) handling suspension or cessation of business;\n(7) other tax-related matters."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Tax Registration"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Tax authorities shall implement a system of periodic verification and replacement of tax registration certificates. A taxpayer shall, within the prescribed time limit, go to the competent tax authority with the relevant certificates to complete the verification or replacement formalities."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Tax Registration"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "A taxpayer shall conspicuously display the original of its tax registration certificate at its place of production or business operations or at its office premises for inspection by the tax authority.\nWhere a taxpayer loses its tax registration certificate, it shall report the loss in writing to the competent tax authority within 15 days and publish a statement of invalidity in a newspaper."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Tax Registration"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where a taxpayer engaged in production or business operations temporarily carries out production or business activities in another county (city), it shall produce the copy of its tax registration certificate and the certificate of tax administration for business activities conducted elsewhere completed and issued by the tax authority at its locality, report for inspection and registration to the tax authority at the place of business operations, and accept tax administration.\nWhere a taxpayer engaged in production or business operations conducts business elsewhere and the aggregate period in the same place exceeds 180 days, it shall complete tax registration formalities at the place of business operations."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Tax Registration"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "A taxpayer engaged in production or business operations shall, within 15 days from the date of receipt of the business licence or from the date on which the tax obligation arises, establish account books in accordance with the relevant provisions of the State.\nAccount books as referred to in the preceding paragraph mean general ledgers, subsidiary ledgers, journals and other auxiliary account books. General ledgers and journals shall be bound in book form."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Account Books and Vouchers"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "A taxpayer with a small scale of production or business operations that genuinely has no capacity to keep account books may engage a professional institution approved to engage in bookkeeping agency business or accounting personnel to keep account books and handle accounting affairs on its behalf."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Account Books and Vouchers"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "A taxpayer engaged in production or business operations shall, within 15 days from the date of receipt of the tax registration certificate, submit its financial and accounting system or its financial and accounting treatment measures to the competent tax authority for the record.\nWhere a taxpayer keeps account books by computer, it shall, before use, submit the accounting software of the computerised accounting system, the operating instructions and the relevant materials to the competent tax authority for the record.\nThe computerised accounting system established by a taxpayer shall conform to the relevant provisions of the State and shall be capable of correctly and completely accounting for its revenue or income."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Account Books and Vouchers"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "A withholding agent shall, within 10 days from the date on which the withholding obligation arises as provided in tax laws and administrative regulations, separately establish account books for tax withheld and remitted and for tax collected and remitted according to the categories of taxes withheld and collected."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Account Books and Vouchers"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Where a taxpayer or withholding agent has a sound accounting system and is able to correctly and completely compute by computer its revenue and income or the tax withheld and remitted and collected, the complete written accounting records output by its computer may be treated as account books.\nWhere a taxpayer or withholding agent does not have a sound accounting system and is unable to correctly and completely compute by computer its revenue and income or the tax withheld and remitted and collected, it shall establish general ledgers and other account books relating to tax payment or to tax withheld and remitted and collected."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Account Books and Vouchers"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Account books, accounting vouchers and statements shall be in Chinese. Ethnic autonomous areas may concurrently use one locally commonly used ethnic language. Foreign-invested enterprises and foreign enterprises may concurrently use one foreign language."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Account Books and Vouchers"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Taxpayers shall install and use tax control devices as required by the tax authority and shall submit the relevant data and materials in accordance with the provisions of the tax authority.\nThe measures for the administration of the popularisation and application of tax control devices shall be separately formulated by the State Taxation Administration and implemented after approval by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Account Books and Vouchers"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Account books, bookkeeping vouchers, statements, tax payment certificates, invoices, export certificates and other relevant tax-related materials shall be lawful, true and complete.\nAccount books, bookkeeping vouchers, statements, tax payment certificates, invoices, export certificates and other relevant tax-related materials shall be kept for 10 years; except where laws and administrative regulations provide otherwise."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Account Books and Vouchers"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Tax authorities shall establish and improve the system under which taxpayers declare and pay tax on their own. Taxpayers and withholding agents may handle tax declaration or submit tax withholding and collection reports by post or by electronic data transmission.\nElectronic data transmission means electronic means such as telephone voice, electronic data interchange and network transmission determined by the tax authority."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Tax Declaration"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where a taxpayer handles tax declaration by post, it shall use the uniform special envelope for tax declaration and shall use the receipt of the postal department as the declaration voucher. For declaration by post, the date of the postmark of dispatch shall be the actual date of declaration.\nWhere a taxpayer handles tax declaration by electronic means, it shall preserve the relevant materials in accordance with the time limit and requirements prescribed by the tax authority and shall periodically submit them in writing to the competent tax authority."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Tax Declaration"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Where a taxpayer has no tax payable during a tax period, it shall still handle tax declaration in accordance with provisions.\nWhere a taxpayer enjoys tax reduction or tax exemption treatment, it shall handle tax declaration in accordance with provisions during the period of tax reduction or exemption."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Tax Declaration"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The main content of the tax declaration of a taxpayer or of the tax withholding and collection report of a withholding agent shall include: the category of tax and the tax item, the items of tax payable or the items of tax to be withheld and remitted or collected and remitted, the basis for tax computation, the deductible items and standards, the applicable tax rate or unit tax amount, the items and amount of tax to be refunded, the items and amount of tax to be reduced or exempted, the amount of tax payable or the amount of tax to be withheld and remitted or collected and remitted, the period to which the tax pertains, extension of the time limit for tax payment, tax arrears, late payment surcharges and other matters."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Tax Declaration"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "When handling tax declaration, a taxpayer shall truthfully fill in the tax declaration form and, according to the different circumstances, submit the following relevant certificates and materials accordingly:\n(1) financial and accounting statements and explanatory materials thereof;\n(2) contracts, agreements and vouchers relating to tax payment;\n(3) electronic tax filing materials of tax control devices;\n(4) the certificate of tax administration for business activities conducted elsewhere and the tax payment certificate of the other place;\n(5) the relevant certification documents issued by domestic or foreign notarial institutions;\n(6) other relevant certificates and materials that the tax authority requires to be submitted."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Tax Declaration"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "When handling tax withholding and collection reporting, a withholding agent shall truthfully fill in the tax withholding and collection report form and submit the lawful vouchers for the tax withheld and remitted and collected as well as other relevant certificates and materials prescribed by the tax authority."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Tax Declaration"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "A taxpayer that pays tax on the basis of a fixed amount at fixed intervals may adopt simplified declaration, consolidated tax periods and other declaration and payment methods."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Tax Declaration"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Where a taxpayer or withholding agent has genuine difficulty in handling tax declaration or submitting the tax withholding and collection report within the prescribed time limit and needs an extension, it shall, within the prescribed time limit, submit a written application for extension to the tax authority and, upon verification and approval by the tax authority, handle the matter within the approved time limit.\nWhere a taxpayer or withholding agent is unable to handle tax declaration or submit the tax withholding and collection report on schedule due to force majeure, it may handle the matter later; however, it shall report to the tax authority immediately after the circumstances of force majeure are eliminated. The tax authority shall ascertain the facts and grant approval."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Tax Declaration"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Tax authorities shall strengthen the administration of tax collection and establish and improve the responsibility system.\nTax authorities shall determine the methods of tax collection in accordance with the principles of ensuring the timely and full entry of State tax revenue into the treasury, facilitating taxpayers and reducing tax costs.\nTax authorities shall strengthen the administration of export tax refunds to taxpayers, and the specific administrative measures shall be formulated by the State Taxation Administration in conjunction with the relevant departments of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V Tax Collection"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Tax authorities shall promptly pay the tax, late payment surcharges and fines of all categories of taxes into the State treasury in accordance with the budget items and budget levels prescribed by the State; tax authorities shall not withhold, misappropriate or intercept such funds, nor pay them into any account other than the State treasury or the tax accounts prescribed by the State.\nIn respect of tax, late payment surcharges and fines already paid into the State treasury, no unit or individual may alter the budget items and budget levels without authorisation."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V Tax Collection"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Tax authorities shall, in accordance with the principles of convenience, speed and safety, actively promote the use of cheques, bank cards and electronic settlement methods for the payment of tax."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter V Tax Collection"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where a taxpayer falls under any of the following circumstances, it shall constitute special difficulty as referred to in Article 31 of the Tax Collection and Administration Law:\n(1) force majeure has caused the taxpayer relatively large losses and materially affected its normal production and business activities;\n(2) the monetary funds of the current period, after deducting wages payable to employees and social insurance premiums, are insufficient to pay the tax.\nThe State tax bureau and the local tax bureau of a city under separate State planning may, by reference to the approval authority under paragraph 2 of Article 31 of the Tax Collection and Administration Law, examine and approve the extension of the time limit for tax payment by taxpayers."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter V Tax Collection"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where a taxpayer needs an extension of the time limit for tax payment, it shall submit an application before the time limit for tax payment expires and submit the following materials: a report applying for extension of the time limit for tax payment, information on the balance of monetary funds of the current period and statements of all bank deposit accounts, the balance sheet, and the budget for expenditures such as wages payable to employees and social insurance premiums required by the tax authority.\nThe tax authority shall, within 20 days from the date of receipt of the report applying for extension of the time limit for tax payment, make a decision to approve or not to approve; where approval is not granted, late payment surcharges shall be additionally collected from the date of expiration of the time limit for tax payment."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter V Tax Collection"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where a taxpayer enjoying tax reduction or exemption preferences reaches the expiry of the period of tax reduction or exemption, it shall resume tax payment from the day following the date of expiry; where the conditions for tax reduction or exemption change, it shall report to the tax authority at the time of tax declaration; where it no longer meets the conditions for tax reduction or exemption, it shall perform its tax obligations in accordance with law; where it fails to pay tax in accordance with law, the tax authority shall recover the tax."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter V Tax Collection"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Tax authorities may, in accordance with the principles of facilitating tax control and administration and facilitating tax payment and in accordance with the relevant provisions of the State, entrust the relevant units and personnel with the collection on behalf of the tax authority of scattered and dispersed taxes and taxes paid in other places, and shall issue a certificate of entrustment for collection. The entrusted units and personnel shall, in accordance with the requirements of the certificate of entrustment, collect tax in the name of the tax authority in accordance with law, and taxpayers shall not refuse; where a taxpayer refuses, the entrusted units and personnel shall promptly report to the tax authority."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter V Tax Collection"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Tax payment certificates as referred to in Article 34 of the Tax Collection and Administration Law mean various tax payment certificates, payment books, stamp duty stamps, tax withholding (collection) vouchers and other tax payment evidence.\nWithout the designation of the tax authority, no unit or individual may print tax payment certificates. Tax payment certificates shall not be lent, resold, altered or forged.\nThe forms and administrative measures for tax payment certificates shall be prescribed by the State Taxation Administration."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter V Tax Collection"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "After receiving tax, the tax authority shall issue a tax payment certificate to the taxpayer. Where a taxpayer pays tax through a bank, the tax authority may entrust the bank with the issuance of the tax payment certificate."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter V Tax Collection"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where a taxpayer falls under any of the circumstances listed in Article 35 or Article 37 of the Tax Collection and Administration Law, the tax authority shall have the right to assess the amount of tax payable by any of the following methods:\n(1) assessing by reference to the level of tax burden of taxpayers in the same or similar trade locally with a similar scale of business operations and level of revenue;\n(2) assessing according to the method of business revenue or cost plus reasonable expenses and profit;\n(3) assessing by inference or estimation according to the raw materials, fuel, power and other consumption;\n(4) assessing by other reasonable methods.\nWhere the use of one method listed in the preceding paragraph is insufficient to correctly assess the amount of tax payable, two or more methods may be used concurrently for the assessment.\nWhere a taxpayer objects to the amount of tax payable assessed by the tax authority by the methods provided in this Article, it shall provide the relevant evidence, and the amount of tax payable shall be adjusted after confirmation by the tax authority."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter V Tax Collection"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Tax authorities shall be responsible for the rating of the tax payment credibility of taxpayers. The measures for rating the tax payment credibility of taxpayers shall be formulated by the State Taxation Administration."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter V Tax Collection"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where a contractor or lessee has independent production and business operation rights, keeps separate financial accounting and periodically pays contract fees or rent to the contractor party or lessor, the contractor or lessee shall pay tax on its production and business revenue and income and accept tax administration; except where laws and administrative regulations provide otherwise.\nThe contractor party or lessor shall, within 30 days from the date of contracting out or leasing out, report the relevant particulars of the contractor or lessee to the competent tax authority. Where the contractor party or lessor fails to report, the contractor party or lessor and the contractor or lessee shall bear joint and several liability for tax payment."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter V Tax Collection"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where a taxpayer is dissolved, revoked or bankrupt, it shall report to its competent tax authority before liquidation; where tax has not been settled, its competent tax authority shall participate in the liquidation."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter V Tax Collection"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Affiliated enterprises as referred to in Article 36 of the Tax Collection and Administration Law mean companies, enterprises and other economic organisations that have any of the following relationships:\n(1) a relationship of direct or indirect ownership or control in respect of funds, operations, purchase and sale and other aspects;\n(2) being directly or indirectly owned or controlled by the same third party;\n(3) other relationships connected in terms of interests.\nA taxpayer shall be obliged to provide the local tax authority with the relevant price, expense standards and other information concerning business transactions between it and its affiliated enterprises. The specific measures shall be formulated by the State Taxation Administration."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter V Tax Collection"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Business transactions between independent enterprises as referred to in Article 36 of the Tax Collection and Administration Law mean business transactions conducted between enterprises without an affiliation relationship at arm's length prices and in accordance with ordinary business practice."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter V Tax Collection"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "A taxpayer may propose to the competent tax authority the pricing principles and computation methods for business transactions between it and its affiliated enterprises; after examination and approval by the competent tax authority, the relevant pricing matters shall be agreed in advance with the taxpayer, and the tax authority shall supervise the taxpayer's implementation."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter V Tax Collection"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where business transactions between a taxpayer and its affiliated enterprises fall under any of the following circumstances, the tax authority may adjust the amount of tax payable:\n(1) the purchase and sale transactions are not priced in accordance with business transactions between independent enterprises;\n(2) the interest paid or received for the financing of funds exceeds or is lower than the amount that enterprises without an affiliation relationship could agree upon, or the interest rate exceeds or is lower than the normal interest rate for the same type of business;\n(3) in providing labour services, the labour service fees are not received or paid in accordance with business transactions between independent enterprises;\n(4) in business transactions such as the transfer of property or the provision of the right to use property, the pricing is not made, or the fees are not received or paid, in accordance with business transactions between independent enterprises;\n(5) other circumstances in which pricing is not made in accordance with business transactions between independent enterprises."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter V Tax Collection"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where a taxpayer falls under any of the circumstances listed in Article 54 of these Rules, the tax authority may adjust the amount of taxable revenue or income by the following methods:\n(1) according to the prices of the same or similar business activities conducted between independent enterprises;\n(2) according to the level of revenue and profit that should be obtained from resale to a third party without an affiliation relationship;\n(3) according to cost plus reasonable expenses and profit;\n(4) according to other reasonable methods."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter V Tax Collection"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where a taxpayer and its affiliated enterprises fail to pay prices and fees in accordance with business transactions between independent enterprises, the tax authority shall make adjustments within three years from the tax year in which the business transaction occurred; under special circumstances, adjustments may be made within ten years from the tax year in which the business transaction occurred."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter V Tax Collection"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Taxpayers engaged in production or business operations that have not completed tax registration in accordance with provisions as referred to in Article 37 of the Tax Collection and Administration Law include taxpayers that conduct production or business operations in another county (city) without reporting for inspection and registration to the tax authority at the place of business operations."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter V Tax Collection"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where the tax authority seizes commodities or goods of a taxpayer in accordance with the provisions of Article 37 of the Tax Collection and Administration Law, the taxpayer shall pay the tax within 15 days from the date of seizure.\nIn respect of seized fresh and live commodities or goods that easily rot and deteriorate or easily lose efficacy, the tax authority may, according to the shelf life of the seized articles, shorten the period of seizure provided in the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter V Tax Collection"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Other property as referred to in Articles 38 and 40 of the Tax Collection and Administration Law includes immovable and movable property such as real estate, cash and marketable securities of the taxpayer.\nMotor vehicles, gold and silver ornaments, antiques, calligraphy and paintings, luxury residences or dwellings other than one residence do not fall within the housing and articles necessary for maintaining the livelihood of an individual and the dependants supported by the individual as referred to in Articles 38, 40 and 42 of the Tax Collection and Administration Law.\nTax authorities shall not adopt tax preservation measures or compulsory enforcement measures in respect of other articles of daily use with a unit price of less than 5,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter V Tax Collection"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Dependants supported by an individual as referred to in Articles 38, 40 and 42 of the Tax Collection and Administration Law mean the spouse and direct relatives living together with the taxpayer, and other relatives who have no source of livelihood and are supported by the taxpayer."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter V Tax Collection"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Guarantee as referred to in Articles 38 and 88 of the Tax Collection and Administration Law includes a tax payment guarantee provided for a taxpayer by a tax payment guarantor recognised by the tax authority, and a guarantee provided by the taxpayer or a third party with property on which no security interest or not all security interests have been created.\nA tax payment guarantor means a natural person, legal person or other economic organisation within the territory of China that has the capacity to provide a tax payment guarantee.\nUnits and individuals that do not have the qualification to provide a guarantee as provided by laws and administrative regulations shall not act as tax payment guarantors."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter V Tax Collection"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Where a tax payment guarantor agrees to provide a tax payment guarantee for a taxpayer, it shall fill in a tax payment guarantee instrument stating the object of the guarantee, the scope of the guarantee, the term of the guarantee, the guarantee liability and other relevant matters. The guarantee instrument shall be valid only after being signed and sealed by the taxpayer and the tax payment guarantor and agreed to by the tax authority.\nWhere a taxpayer or a third party provides a tax payment guarantee with its property, it shall fill in a property list stating the value of the property and other relevant matters. The list of property for tax payment guarantee shall be valid only after being signed and sealed by the taxpayer and the third party and confirmed by the tax authority."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter V Tax Collection"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "When a tax authority carries out seizure or sealing of commodities, goods or other property, it shall be carried out by two or more tax personnel and shall notify the person subject to enforcement. Where the person subject to enforcement is a natural person, the person subject to enforcement or an adult family member thereof shall be notified to be present; where the person subject to enforcement is a legal person or another organisation, its legal representative or principal person in charge shall be notified to be present; refusal to be present shall not affect enforcement."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter V Tax Collection"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Where a tax authority, in implementing the provisions of Articles 37, 38 and 40 of the Tax Collection and Administration Law, seizes or seals commodities, goods or other property with a value equivalent to the amount of tax payable, the value shall be estimated by reference to the market price, ex-factory price or appraised price of the same category of commodities.\nWhen determining by the method in the preceding paragraph the value of the commodities, goods or other property to be seized or sealed, the tax authority shall also include late payment surcharges and the expenses incurred in auction and sale."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter V Tax Collection"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "In respect of commodities, goods or other property with a value exceeding the amount of tax payable that are indivisible, the tax authority may, where the taxpayer, withholding agent or tax payment guarantor has no other property available for compulsory enforcement, seize, seal and auction them as a whole."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter V Tax Collection"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Where a tax authority, in implementing the provisions of Articles 37, 38 and 40 of the Tax Collection and Administration Law, carries out seizure or sealing, it may, in respect of movable or immovable property with title certificates, order the party concerned to deliver the title certificates to the tax authority for custody, and may at the same time issue a notice of assistance in enforcement to the relevant authority, and the relevant authority shall not process the transfer formalities of the movable or immovable property during the period of seizure or sealing."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter V Tax Collection"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "In respect of sealed commodities, goods or other property, the tax authority may instruct the person subject to enforcement to be responsible for custody, and the responsibility for custody shall be borne by the person subject to enforcement.\nWhere continued use of the sealed property will not reduce its value, the tax authority may permit the person subject to enforcement to continue using it; losses caused by the fault of the person subject to enforcement in custody or use shall be borne by the person subject to enforcement."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter V Tax Collection"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "Where a taxpayer pays tax within the time limit prescribed by the tax authority after the tax authority has adopted tax preservation measures, the tax authority shall lift the tax preservation measures within one day from the date of receipt of the tax or of the tax payment certificate returned by the bank."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter V Tax Collection"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "When a tax authority converts seized or sealed commodities, goods or other property into money to offset tax, it shall deliver them to an auction institution established in accordance with law for auction; where auction cannot be entrusted or auction is unsuitable, they may be delivered to a local commercial enterprise for sale on its behalf, or the taxpayer may be ordered to dispose of them within a time limit; where a commercial enterprise cannot be entrusted with the sale and the taxpayer is also unable to dispose of them, the tax authority may dispose of them by converting them into money, and the specific measures shall be prescribed by the State Taxation Administration. Commodities the free trading of which is prohibited by the State shall be delivered to the relevant unit for purchase at the price prescribed by the State.\nAfter the proceeds of auction or sale are used to offset the tax, late payment surcharges, fines and the expenses of auction and sale, the balance shall be refunded to the person subject to enforcement within three days."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter V Tax Collection"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "Losses as referred to in Articles 39 and 43 of the Tax Collection and Administration Law mean direct losses suffered by a taxpayer, withholding agent or tax payment guarantor in its lawful interests due to the responsibility of the tax authority."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter V Tax Collection"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "Other financial institutions as referred to in the Tax Collection and Administration Law mean trust and investment companies, credit cooperatives, postal savings institutions and other financial institutions established with the approval of the People's Bank of China, the China Securities Regulatory Commission and other authorities."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter V Tax Collection"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "Deposits as referred to in the Tax Collection and Administration Law include the savings deposits of investors of sole proprietorship enterprises, partners of partnerships and individual industrial and commercial households, as well as funds in shareholders' capital accounts."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter V Tax Collection"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "Where a taxpayer or withholding agent engaged in production or business operations fails to pay or remit tax within the prescribed time limit, or a tax payment guarantor fails to pay the tax guaranteed within the prescribed time limit, the tax authority shall issue a notice requiring tax payment within a time limit, and the maximum time limit for ordering payment or remittance of tax shall not exceed 15 days."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter V Tax Collection"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "Where a taxpayer in arrears with tax or its legal representative fails, before leaving the country, to settle the tax payable and late payment surcharges in accordance with provisions or to provide a tax payment guarantee, the tax authority may notify the exit and entry administration authority to prevent the person from leaving the country. The specific measures for preventing exit shall be formulated by the State Taxation Administration in conjunction with the Ministry of Public Security."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter V Tax Collection"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "The starting and ending time for the additional collection of late payment surcharges as provided in Article 32 of the Tax Collection and Administration Law shall be from the day following the expiry of the time limit for tax payment prescribed by laws and administrative regulations or determined by the tax authority in accordance with laws and administrative regulations to the date on which the taxpayer or withholding agent actually pays or remits the tax."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter V Tax Collection"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "Tax authorities at or above the county level shall periodically announce the tax arrears of taxpayers at tax offices or through the news media such as radio, television, newspapers, periodicals and the internet.\nThe measures for the periodic announcement of the tax arrears of taxpayers shall be formulated by the State Taxation Administration."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter V Tax Collection"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "Relatively large amounts of tax in arrears as referred to in Article 49 of the Tax Collection and Administration Law mean tax in arrears of 50,000 yuan or more."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter V Tax Collection"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "Where a tax authority discovers that a taxpayer has overpaid tax, it shall complete the refund formalities within 10 days from the date of discovery; where a taxpayer discovers that it has overpaid tax and requests a refund, the tax authority shall, within 30 days from the date of receipt of the taxpayer's refund application, verify the matter and complete the refund formalities.\nThe refund of overpaid tax with interest on deposits for the same period calculated by the bank as provided in Article 51 of the Tax Collection and Administration Law does not include settlement refunds arising from the prepayment of tax in accordance with law, export tax refunds and various tax reduction and exemption refunds.\nRefund interest shall be calculated at the current deposit interest rate prescribed by the People's Bank of China on the day the tax authority completes the refund formalities."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Chapter V Tax Collection"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "Where a taxpayer has both tax to be refunded and tax in arrears, the tax authority may first offset the tax in arrears against the tax to be refunded and the interest; where a balance remains after the offset, it shall be refunded to the taxpayer."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Chapter V Tax Collection"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "The responsibility of the tax authority as referred to in Article 52 of the Tax Collection and Administration Law means improper application of tax laws and administrative regulations by the tax authority or unlawful law enforcement conduct."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Chapter V Tax Collection"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "Mistakes such as computational errors of a taxpayer or withholding agent as referred to in Article 52 of the Tax Collection and Administration Law mean errors in the application of computation formulas not intentionally committed and obvious clerical errors."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Chapter V Tax Collection"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "Special circumstances as referred to in Article 52 of the Tax Collection and Administration Law mean that a taxpayer or withholding agent, owing to mistakes such as computational errors, has failed to pay or underpaid, failed to withhold or under-withheld, or failed to collect or under-collected tax, with an aggregate amount of 100,000 yuan or more."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Chapter V Tax Collection"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "The time limit for the supplementary payment and recovery of tax and late payment surcharges provided in Article 52 of the Tax Collection and Administration Law shall be calculated from the date on which the taxpayer or withholding agent should have paid but failed to pay or underpaid the tax."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Chapter V Tax Collection"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "Where audit authorities and finance authorities conduct audits and inspections in accordance with law, the tax authority shall implement decisions made in respect of violations of tax law by the tax authority; where it is discovered that a unit under audit or inspection has violated tax law, a decision or opinion shall be issued to the unit under audit or inspection, requiring the unit to pay to the tax authority the tax payable and late payment surcharges. The tax authority shall, in accordance with the decisions and opinions of the relevant authorities and in accordance with the provisions of tax laws and administrative regulations, pay the tax receivable and late payment surcharges into the State treasury in accordance with the scope of tax collection and administration prescribed by the State and the budget level for the entry of tax into the treasury.\nThe tax authority shall, within 30 days from the date of receipt of the decisions and opinions of the audit authority or finance authority, reply in writing to the audit authority or finance authority on the implementation.\nThe relevant authorities shall not collect into the treasury on their own the tax and late payment surcharges discovered in the course of performing their duties, nor handle, withhold or misappropriate them on their own under the name of other funds."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Chapter V Tax Collection"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "Tax authorities shall establish a scientific inspection system, make overall arrangements for inspection work and strictly control the number of inspections of taxpayers and withholding agents.\nTax authorities shall formulate reasonable rules of procedure for tax inspection work; the duties of personnel responsible for case selection, inspection, hearing and enforcement shall be clear, and such personnel shall be separated from and mutually restrained by each other, so as to standardise the case selection procedures and inspection conduct.\nThe specific measures for tax inspection work shall be formulated by the State Taxation Administration."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        },
+        "chapter": {
+          "en": "Chapter VI Tax Inspection"
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "When exercising the functions and powers under item (1) of Article 54 of the Tax Collection and Administration Law, a tax authority may do so at the business premises of the taxpayer or withholding agent; where necessary and with the approval of the director of the tax bureau (branch) at or above the county level, the account books, bookkeeping vouchers, statements and other relevant materials of the taxpayer or withholding agent for previous accounting years may be taken back to the tax authority for inspection, but the tax authority must issue a list to the taxpayer or withholding agent and return them in full within three months; under special circumstances and with the approval of the director of the tax bureau of a city divided into districts or an autonomous prefecture or above, the tax authority may take back for inspection the account books, bookkeeping vouchers, statements and other relevant materials of the taxpayer or withholding agent for the current year, but the tax authority must return them within 30 days."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        },
+        "chapter": {
+          "en": "Chapter VI Tax Inspection"
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "When exercising the functions and powers under item (6) of Article 54 of the Tax Collection and Administration Law, a tax authority shall designate specially assigned personnel to be responsible, proceed on the strength of a permit for the inspection of deposit accounts in the uniform national format, and shall be obliged to keep secrets for the person under inspection.\nThe permit for the inspection of deposit accounts shall be prescribed by the State Taxation Administration.\nThe content of the inquiry by the tax authority shall include the balance of the taxpayer's deposit accounts and the state of fund transactions."
+        },
+        "noLabel": {
+          "en": "Article 87."
+        },
+        "chapter": {
+          "en": "Chapter VI Tax Inspection"
+        }
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "In accordance with the provisions of Article 55 of the Tax Collection and Administration Law, the period of tax preservation measures adopted by a tax authority shall generally not exceed six months; where an extension is required for a major case, it shall be reported to the State Taxation Administration for approval."
+        },
+        "noLabel": {
+          "en": "Article 88."
+        },
+        "chapter": {
+          "en": "Chapter VI Tax Inspection"
+        }
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "Tax authorities and tax personnel shall exercise their tax inspection functions and powers in accordance with the provisions of the Tax Collection and Administration Law and these Rules.\nWhen conducting tax inspection, tax personnel shall produce their tax inspection certificate and tax inspection notice; where there is no tax inspection certificate and tax inspection notice, the taxpayer, withholding agent and other parties concerned shall have the right to refuse the inspection. When inspecting a farmers' market or concentrated business households, the tax authority may use a uniform tax inspection notice.\nThe specific measures for the forms, use and administration of the tax inspection certificate and tax inspection notice shall be prescribed by the State Taxation Administration."
+        },
+        "noLabel": {
+          "en": "Article 89."
+        },
+        "chapter": {
+          "en": "Chapter VI Tax Inspection"
+        }
+      },
+      {
+        "no": 90,
+        "text": {
+          "en": "Where a taxpayer fails to complete the verification or replacement formalities for its tax registration certificate in accordance with provisions, the tax authority shall order it to correct the matter within a time limit and may impose a fine of not more than 2,000 yuan; where the circumstances are serious, a fine of not less than 2,000 yuan but not more than 10,000 yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 90."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 91,
+        "text": {
+          "en": "Where tax payment certificates are illegally printed, lent, resold, altered or forged, the tax authority shall order correction and impose a fine of not less than 2,000 yuan but not more than 10,000 yuan; where the circumstances are serious, a fine of not less than 10,000 yuan but not more than 50,000 yuan shall be imposed; where a crime is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 91."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 92,
+        "text": {
+          "en": "Where a bank or other financial institution fails, in accordance with the provisions of the Tax Collection and Administration Law, to record the number of the tax registration certificate in the account of a taxpayer engaged in production or business operations, or fails, in accordance with provisions, to record the account number of a taxpayer engaged in production or business operations in the tax registration certificate, the tax authority shall order it to correct the matter within a time limit and impose a fine of not less than 2,000 yuan but not more than 20,000 yuan; where the circumstances are serious, a fine of not less than 20,000 yuan but not more than 50,000 yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 92."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 93,
+        "text": {
+          "en": "Where a person unlawfully provides a bank account, invoice, certificate or other convenience to a taxpayer or withholding agent, resulting in non-payment or underpayment of tax or the fraudulent obtaining of State export tax refunds, the tax authority shall, in addition to confiscating the illegal gains, impose a fine of not more than one time the amount of the tax not paid, underpaid or fraudulently obtained."
+        },
+        "noLabel": {
+          "en": "Article 93."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 94,
+        "text": {
+          "en": "Where a taxpayer refuses to have tax withheld or collected, the withholding agent shall report to the tax authority, and the tax authority shall directly recover the tax and late payment surcharges from the taxpayer; where the taxpayer refuses to pay, the matter shall be handled in accordance with the provisions of Article 68 of the Tax Collection and Administration Law."
+        },
+        "noLabel": {
+          "en": "Article 94."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 95,
+        "text": {
+          "en": "Where a tax authority, in accordance with the provisions of item (5) of Article 54 of the Tax Collection and Administration Law, goes to a railway station, wharf, airport, postal enterprise or a branch thereof to inspect the relevant particulars of a taxpayer and the unit concerned refuses, the tax authority shall order correction and may impose a fine of not more than 10,000 yuan; where the circumstances are serious, a fine of not less than 10,000 yuan but not more than 50,000 yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 95."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 96,
+        "text": {
+          "en": "Where a taxpayer or withholding agent falls under any of the following circumstances, it shall be penalised in accordance with the provisions of Article 70 of the Tax Collection and Administration Law:\n(1) providing false materials, failing to truthfully reflect the circumstances, or refusing to provide the relevant materials;\n(2) refusing or obstructing the tax authority in recording, sound recording, video recording, photographing and copying the circumstances and materials relating to the case;\n(3) during the period of inspection, the taxpayer or withholding agent transfers, conceals or destroys the relevant materials;\n(4) other circumstances of failing to accept tax inspection in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 96."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 97,
+        "text": {
+          "en": "Where tax personnel privately distribute seized or sealed commodities, goods or other property and the circumstances are serious and a crime is constituted, criminal liability shall be pursued in accordance with law; where a crime is not constituted, administrative sanctions shall be given in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 97."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 98,
+        "text": {
+          "en": "Where a tax agent violates tax laws or administrative regulations and causes a taxpayer to fail to pay or underpay tax, in addition to the taxpayer paying or supplementing the tax payable and late payment surcharges, the tax agent shall be fined not less than 50 per cent but not more than three times the amount of tax not paid or underpaid by the taxpayer."
+        },
+        "noLabel": {
+          "en": "Article 98."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 99,
+        "text": {
+          "en": "When a tax authority imposes a fine on or confiscates illegal gains from a taxpayer, withholding agent or other party concerned, it shall issue a receipt for the fine or confiscation; where no such receipt is issued, the taxpayer, withholding agent and other parties concerned shall have the right to refuse payment."
+        },
+        "noLabel": {
+          "en": "Article 99."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 100,
+        "text": {
+          "en": "Tax disputes as provided in Article 88 of the Tax Collection and Administration Law mean disputes arising from objections of a taxpayer, withholding agent or tax payment guarantor to specific administrative acts of a tax authority such as the determination of the tax subject, the object of taxation, the scope of taxation, tax reduction, tax exemption and tax refund, the applicable tax rate, the basis for tax computation, the stage of taxation, the time limit for tax payment, the place of tax payment and the method of tax collection."
+        },
+        "noLabel": {
+          "en": "Article 100."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 101,
+        "text": {
+          "en": "Where a tax authority serves a tax document, it shall deliver it directly to the addressee.\nWhere the addressee is a citizen, it shall be received against signature by the person himself; where the person is not present, it shall be delivered to an adult family member living with the person for receipt against signature.\nWhere the addressee is a legal person or another organisation, it shall be received against signature by the legal representative of the legal person, the principal person in charge of the other organisation, or the person in charge of finance or the person responsible for receiving mail of the legal person or organisation. Where the addressee has an agent, it may be delivered to the agent for receipt against signature."
+        },
+        "noLabel": {
+          "en": "Article 101."
+        },
+        "chapter": {
+          "en": "Chapter VIII Service of Documents"
+        }
+      },
+      {
+        "no": 102,
+        "text": {
+          "en": "The service of a tax document shall be accompanied by a service receipt, and where the addressee or another person entitled to receive service as provided in these Rules states the date of receipt on the service receipt and signs or seals it, service shall be deemed completed."
+        },
+        "noLabel": {
+          "en": "Article 102."
+        },
+        "chapter": {
+          "en": "Chapter VIII Service of Documents"
+        }
+      },
+      {
+        "no": 103,
+        "text": {
+          "en": "Where the addressee or another person entitled to receive service as provided in these Rules refuses to receive the tax document against signature, the serving person shall state on the service receipt the reasons for refusal and the date, and after the serving person and a witness sign or seal it and the tax document is left at the place of the addressee, service shall be deemed completed."
+        },
+        "noLabel": {
+          "en": "Article 103."
+        },
+        "chapter": {
+          "en": "Chapter VIII Service of Documents"
+        }
+      },
+      {
+        "no": 104,
+        "text": {
+          "en": "Where there is difficulty in serving a tax document directly, it may be entrusted to another relevant authority or unit for service, or served by post."
+        },
+        "noLabel": {
+          "en": "Article 104."
+        },
+        "chapter": {
+          "en": "Chapter VIII Service of Documents"
+        }
+      },
+      {
+        "no": 105,
+        "text": {
+          "en": "Where a tax document is served directly or by entrustment, the date of receipt against signature or the date of receipt stated by the person receiving service or the witness on the service receipt shall be the date of service; where served by post, the date of receipt stated on the receipt for the registered letter shall be the date of service, and service shall be deemed completed."
+        },
+        "noLabel": {
+          "en": "Article 105."
+        },
+        "chapter": {
+          "en": "Chapter VIII Service of Documents"
+        }
+      },
+      {
+        "no": 106,
+        "text": {
+          "en": "Under any of the following circumstances, a tax authority may serve a tax document by public announcement, and service shall be deemed completed upon the expiry of 30 days from the date of the announcement:\n(1) there are numerous addressees for the same matter of service;\n(2) service cannot be effected by the other service methods provided in this Chapter."
+        },
+        "noLabel": {
+          "en": "Article 106."
+        },
+        "chapter": {
+          "en": "Chapter VIII Service of Documents"
+        }
+      },
+      {
+        "no": 107,
+        "text": {
+          "en": "The format of tax documents shall be prescribed by the State Taxation Administration. Tax documents as referred to in these Rules include:\n(1) notice of tax matters;\n(2) notice ordering correction within a time limit;\n(3) decision on tax preservation measures;\n(4) decision on compulsory tax enforcement;\n(5) tax inspection notice;\n(6) decision on tax handling;\n(7) decision on tax administrative penalty;\n(8) decision on administrative reconsideration;\n(9) other tax documents."
+        },
+        "noLabel": {
+          "en": "Article 107."
+        },
+        "chapter": {
+          "en": "Chapter VIII Service of Documents"
+        }
+      },
+      {
+        "no": 108,
+        "text": {
+          "en": "The terms \"not less than\", \"not more than\", \"within ... days\" and \"expiry\" as used in the Tax Collection and Administration Law and these Rules all include the figure itself."
+        },
+        "noLabel": {
+          "en": "Article 108."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 109,
+        "text": {
+          "en": "Where the last day of a time limit prescribed in the Tax Collection and Administration Law or these Rules is a statutory holiday, the day following the expiry of the holiday shall be the last day of the time limit; where there are statutory holidays of three consecutive days or more within the time limit, the time limit shall be extended by the number of days of the holidays."
+        },
+        "noLabel": {
+          "en": "Article 109."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 110,
+        "text": {
+          "en": "The commission for withholding and collecting as provided in paragraph 3 of Article 30 of the Tax Collection and Administration Law shall be included in budget administration, and the tax authority shall pay it to the withholding agent in accordance with the provisions of laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 110."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 111,
+        "text": {
+          "en": "The measures for taxpayers and withholding agents to entrust tax agents with the handling of tax matters on their behalf shall be prescribed by the State Taxation Administration."
+        },
+        "noLabel": {
+          "en": "Article 111."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 112,
+        "text": {
+          "en": "The administration of the collection of cultivated land occupation tax, deed tax, agricultural tax and animal husbandry tax shall be carried out in accordance with the relevant provisions of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 112."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 113,
+        "text": {
+          "en": "These Rules shall come into force on 15 October 2002. The Rules for the Implementation of the Law of the People's Republic of China on the Administration of Tax Collection promulgated by the State Council on 4 August 1993 shall be repealed simultaneously."
+        },
+        "noLabel": {
+          "en": "Article 113."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
         }
       }
     ]

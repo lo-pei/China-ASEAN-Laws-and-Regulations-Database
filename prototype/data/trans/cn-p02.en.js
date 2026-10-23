@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p02
-   法规 69 部 / 译文 4161 条
+   法规 70 部 / 译文 4274 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -24138,6 +24138,1341 @@
         },
         "chapter": {
           "en": "Chapter IX Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0115'] = {
+    "lawId": "CN-LAW-0115",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 113 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "For the purposes of regulating the administration of public servants, safeguarding the lawful rights and interests of public servants, strengthening oversight of public servants, ensuring that public servants correctly perform their duties and fulfil their responsibilities, and building a high-calibre, professional body of public servants who are firm in conviction, serve the people, are diligent and pragmatic, dare to shoulder responsibility, and are honest and upright, this Law is enacted in accordance with the Constitution."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Public servants as referred to in this Law mean the personnel who perform public duties in accordance with the law, are included in the State administrative establishment, and whose salaries and welfare are borne by the State finances.\nPublic servants are an important component of the contingent of officials, the backbone of the socialist cause, and public servants of the people."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The obligations, rights and administration of public servants shall be governed by this Law.\nWhere other provisions of law governing the selection, appointment and removal and oversight of leading members among public servants, and the obligations, rights and administration of supervisory officers, judges, procurators and others, are otherwise provided, such provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The public servant system shall adhere to the leadership of the Communist Party of China, and be guided by Marxism-Leninism, Mao Zedong Thought, Deng Xiaoping Theory, the important thought of Three Represents, the Scientific Outlook on Development and Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era, implement the basic line of the primary stage of socialism, implement the organisational line of the Communist Party of China for the new era, and uphold the principle of the Party exercising control over officials."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The administration of public servants shall adhere to the principles of openness, equality, competition and selection of the best, and shall be conducted in accordance with statutory authority, conditions, standards and procedures."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The administration of public servants shall adhere to the principle of laying equal emphasis on oversight and restraint on the one hand and incentives and safeguards on the other."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The appointment of public servants shall adhere to the selection of persons who are both virtuous and competent with virtue taking precedence, to the recruitment of the worthy from all quarters regardless of background, to placing the cause first and being fair and upright, shall highlight political standards, and shall attach importance to actual work performance."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The State shall apply classified administration to public servants so as to enhance administrative effectiveness and the level of scientific management."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Public servants shall, upon taking office, publicly take an oath to the Constitution in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Acts of public servants in performing their duties in accordance with the law shall be protected by law."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Funds required for the salaries, welfare and insurance of public servants, and for recruitment, awards, training and dismissal, shall be included in the fiscal budget and be guaranteed."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The competent department of public servants under the Central Government shall be responsible for the comprehensive administration of public servants throughout the country. The competent departments of public servants of local authorities at or above the county level shall be responsible for the comprehensive administration of public servants within their respective jurisdictions. The competent department of public servants at a higher level shall guide the public servant administration work of the competent department of public servants at a lower level. The competent departments of public servants at all levels shall guide the public servant administration work of the various organs at the same level."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Public servants shall meet the following conditions:\n(1) having the nationality of the People's Republic of China;\n(2) having reached the age of 18;\n(3) upholding the Constitution of the People's Republic of China and upholding the leadership of the Communist Party of China and the socialist system;\n(4) having good political quality, moral character and conduct;\n(5) having the physical conditions and psychological quality to perform duties normally;\n(6) having the educational level and work ability required by the post; and\n(7) other conditions provided by law."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Conditions, Obligations and Rights of Public Servants"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Public servants shall perform the following obligations:\n(1) being loyal to the Constitution, exemplarily observing and consciously safeguarding the Constitution and laws, and consciously accepting the leadership of the Communist Party of China;\n(2) being loyal to the State and safeguarding the security, honour and interests of the State;\n(3) being loyal to the people, serving the people wholeheartedly, and accepting oversight by the people;\n(4) being loyal to their duties, being diligent and responsible, obeying and implementing decisions and orders lawfully made by higher authorities, performing duties in accordance with prescribed authority and procedures, and striving to improve the quality and efficiency of work;\n(5) keeping State secrets and work secrets;\n(6) taking the lead in practising the core socialist values, upholding the rule of law, observing discipline, strictly abiding by professional ethics, and exemplarily observing social ethics and family virtues;\n(7) being honest and upright, fair and decent; and\n(8) other obligations provided by law."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Conditions, Obligations and Rights of Public Servants"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Public servants shall enjoy the following rights:\n(1) obtaining the working conditions that should be available for performing duties;\n(2) not being removed from office, demoted, dismissed or subjected to sanctions except for statutory grounds and through statutory procedures;\n(3) obtaining remuneration and enjoying welfare and insurance benefits;\n(4) participating in training;\n(5) putting forward criticism and suggestions regarding the work of organs and leading personnel;\n(6) filing appeals and complaints;\n(7) applying for resignation; and\n(8) other rights provided by law."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Conditions, Obligations and Rights of Public Servants"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The State shall implement a system of position classification for public servants.\nPublic servant positions shall, according to their nature, characteristics and administrative needs, be classified into comprehensive administration, professional and technical, administrative enforcement and other categories. In accordance with this Law, where positions are of a special nature and require separate administration, additional position categories may be created. The scope of application of each position category shall be separately prescribed by the State."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Positions, Ranks and Levels"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The State shall implement a system under which the positions and ranks of public servants run in parallel, and shall, on the basis of the position category and duties of public servants, establish sequences of leading positions and ranks for public servants."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Positions, Ranks and Levels"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Leading positions of public servants shall be established in accordance with the Constitution, relevant laws and the size of the institution.\nThe levels of leading positions shall be divided into: principal posts at the national level, deputy posts at the national level, principal posts at the provincial and ministerial level, deputy posts at the provincial and ministerial level, principal posts at the departmental and bureau level, deputy posts at the departmental and bureau level, principal posts at the county and division level, deputy posts at the county and division level, principal posts at the township and section level, and deputy posts at the township and section level."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Positions, Ranks and Levels"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Ranks of public servants shall be established at or below the departmental and bureau level.\nThe rank sequence for public servants in the comprehensive administration category shall be divided into: first-level inspector, second-level inspector, first-level researcher, second-level researcher, third-level researcher, fourth-level researcher, first-level principal staff member, second-level principal staff member, third-level principal staff member, fourth-level principal staff member, first-level staff member and second-level staff member.\nThe rank sequences for public servants in position categories other than the comprehensive administration category shall be separately prescribed by the State in accordance with this Law."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Positions, Ranks and Levels"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Each organ shall, in accordance with its established functions, size, staffing limits, number of positions and structural proportions, establish the specific positions of public servants in that organ, and determine the duties of each position and the qualifications for holding the position."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Positions, Ranks and Levels"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The leading positions and ranks of public servants shall correspond to the corresponding levels. The correspondence between the leading positions and ranks of public servants and their levels shall be prescribed by the State.\nBased on work needs and the correspondence between leading positions and ranks, the leading positions held by public servants and their ranks may be transferred to or concurrently held in each other; where the prescribed qualifications are met, a public servant may be promoted to a leading position or rank.\nThe level of a public servant shall be determined on the basis of the leading position or rank held and the public servant's virtue and ability, actual work performance and seniority. A public servant may, while holding the same leading position or rank, be promoted in level in accordance with State provisions.\nThe leading positions, ranks and levels of public servants shall be the basis for determining the salaries and other benefits of public servants."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Positions, Ranks and Levels"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The State shall, in light of the work characteristics of public servants such as the people's police, fire and rescue personnel, and personnel of customs and diplomatic missions abroad, establish ranks corresponding to their leading positions and ranks."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Positions, Ranks and Levels"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Recruitment of public servants for positions at or below the first-level principal staff member and other comparable rank levels shall be conducted by means of open examination, strict assessment, equal competition and selection of the best.\nWhen recruiting public servants in accordance with the preceding paragraph, ethnic autonomous areas shall, in accordance with law and relevant provisions, give appropriate preference to candidates from ethnic minorities."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter IV Recruitment"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The recruitment of public servants for central organs and the institutions directly under them shall be organised by the competent department of public servants under the Central Government. The recruitment of public servants for local organs at all levels shall be organised by the competent department of public servants at the provincial level, which may, when necessary, authorise the competent department of public servants at the level of a city divided into districts to organise such recruitment."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter IV Recruitment"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Applicants for public servant positions shall, in addition to meeting the conditions provided in Article 13 of this Law, also meet the qualifications required for the proposed position as prescribed by the competent department of public servants at or above the provincial level.\nThe State shall implement a unified legal professional qualification examination system for public servants in administrative organs who for the first time undertake the review of administrative penalty decisions, administrative reconsideration, administrative adjudication or legal advisory work, which shall be organised and implemented by the judicial administration department of the State Council in consultation with the relevant departments."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter IV Recruitment"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The following persons shall not be recruited as public servants:\n(1) persons who have been subjected to criminal punishment for committing a crime;\n(2) persons who have been expelled from the Communist Party of China;\n(3) persons who have been dismissed from public office;\n(4) persons who have been lawfully listed as targets of joint disciplinary action for dishonesty; and\n(5) other circumstances provided by law under which a person may not be recruited as a public servant."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Recruitment"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The recruitment of public servants shall be conducted within the prescribed staffing limits and where there are corresponding vacancies."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Recruitment"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "In recruiting public servants, an announcement of recruitment examination shall be published. The announcement shall state the positions to be recruited, the number of vacancies, the qualifications for application, the application materials required to be submitted, and other matters requiring the attention of applicants.\nThe recruiting organ shall take measures to facilitate citizens' applications."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Recruitment"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The recruiting organ shall examine applications in accordance with the qualifications for application. The application materials submitted by applicants shall be true and accurate."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Recruitment"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "The public servant recruitment examination shall be conducted by means of written examination, interview and other methods, and the content of the examination shall be set separately according to the basic abilities that public servants should possess and according to different position categories and organs at different levels."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Recruitment"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The recruiting organ shall, on the basis of examination results, determine the candidates for assessment and conduct a re-examination of application qualifications, assessment and medical examination.\nThe items and standards of the medical examination shall be determined according to the requirements of the position. The specific measures shall be prescribed by the competent department of public servants under the Central Government in conjunction with the health administrative department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Recruitment"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The recruiting organ shall, on the basis of examination results, assessment and medical examination results, propose a list of persons to be recruited and make it public. The publicity period shall be not less than five working days.\nUpon expiration of the publicity period, a recruiting organ at the central level shall report the list of persons to be recruited to the competent department of public servants under the Central Government for the record; recruiting organs at local levels shall report the list of persons to be recruited to the competent department of public servants at the provincial level or at the level of a city divided into districts for approval."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Recruitment"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Where public servants are recruited for special positions, the procedures may be simplified or other assessment methods may be adopted with the approval of the competent department of public servants at or above the provincial level."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Recruitment"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The probation period for newly recruited public servants shall be one year. Those who pass the assessment upon expiration of the probation period shall be appointed; those who fail shall have their recruitment cancelled."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Recruitment"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The assessment of public servants shall, in accordance with administrative authority, comprehensively assess the public servant's virtue, ability, diligence, performance and integrity, with emphasis on political quality and actual work performance. Assessment indicators shall be set separately according to different position categories and organs at different levels."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter V Assessment"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Assessment of public servants shall be divided into routine assessment, special assessment and periodic assessment and other forms. Periodic assessment shall be based on routine assessment and special assessment."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter V Assessment"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The periodic assessment of public servants who are not leading members shall take the form of annual assessment. The individual shall first make a summary in accordance with the duties of the position and relevant requirements, the competent leading personnel shall, after listening to the views of the staff, propose a suggested assessment grade, and the person in charge of the organ or an authorised assessment committee shall determine the assessment grade.\nThe assessment of leading members shall be handled by the competent organ in accordance with relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter V Assessment"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "The results of periodic assessment shall be divided into four grades: excellent, competent, basically competent and incompetent.\nThe results of periodic assessment shall be notified in writing to the public servant concerned."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V Assessment"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The results of periodic assessment shall serve as the basis for adjusting the position, leading position, rank, level and salary of public servants, as well as for awards, training and dismissal of public servants."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V Assessment"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Leading positions of public servants shall be filled through the elective system, the appointment system and the engagement system. Ranks of public servants shall be filled through the appointment system and the engagement system.\nThe positions of leading members shall be subject to a fixed term system in accordance with State provisions."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter VI Appointment and Removal of Positions and Ranks"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "A public servant under the elective system shall assume the elected position as soon as the election result takes effect; where the term of office expires and the public servant is not re-elected, or where the public servant resigns, is recalled or is removed from office during the term of office, the position held shall terminate accordingly."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter VI Appointment and Removal of Positions and Ranks"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where a public servant under the appointment system passes the assessment upon expiration of the probation period, where the position or rank of a public servant changes, or where appointment or removal is required under other circumstances, appointment or removal shall be made in accordance with administrative authority and prescribed procedures."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VI Appointment and Removal of Positions and Ranks"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "The appointment of public servants shall be conducted within the prescribed staffing limits and number of positions and where there are corresponding vacancies."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VI Appointment and Removal of Positions and Ranks"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where a public servant needs to hold a concurrent post outside the organ due to work needs, approval of the relevant organ shall be obtained, and no remuneration for the concurrent post may be received."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VI Appointment and Removal of Positions and Ranks"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "A public servant promoted to a leading position shall meet the conditions and qualifications required for the proposed position in terms of political quality, work ability, educational level and appointment experience.\nLeading positions of public servants shall be filled through promotion level by level. Where a public servant is particularly outstanding or where work so specially requires, the public servant may be promoted by exception or by skipping a level in accordance with provisions."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VII Promotion and Demotion of Positions and Ranks"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "The promotion of a public servant to a leading position shall be handled in accordance with the following procedures:\n(1) making a motion;\n(2) democratic recommendation;\n(3) determining the candidates for assessment and organising assessment;\n(4) discussion and decision in accordance with administrative authority; and\n(5) completing the appointment procedures."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VII Promotion and Demotion of Positions and Ranks"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where a vacancy occurs in a leading position below the principal post at the departmental and bureau level and there is no suitable candidate within the organ, candidates for the position may be selected from society through appropriate means."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VII Promotion and Demotion of Positions and Ranks"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where a public servant is promoted to a leading position, the system of publicity before appointment and the system of probation upon appointment shall be implemented in accordance with relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VII Promotion and Demotion of Positions and Ranks"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Ranks of public servants shall be promoted level by level; candidates shall be determined on the basis of the individual's virtue and ability, actual work performance and appointment seniority, with reference to the results of democratic recommendation or democratic appraisal, and shall be examined and approved in accordance with administrative authority after publicity."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VII Promotion and Demotion of Positions and Ranks"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "The positions and ranks of public servants shall be subject to a system under which they may be promoted or demoted. Where a public servant is unsuitable for or incompetent in the current position or rank, adjustment shall be made.\nWhere a public servant is determined to be incompetent in the annual assessment, the public servant shall be appointed to a position or rank one level lower in accordance with prescribed procedures."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VII Promotion and Demotion of Positions and Ranks"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Awards shall be given to public servants or groups of public servants who have outstanding work performance, notable achievements and contributions, or other outstanding deeds. Awards shall adhere to the principle of combining regular awards with timely awards, and combining moral awards with material awards while giving priority to moral awards.\nAwards to groups of public servants shall apply to institutions established in accordance with the staffing sequence or to work collectives formed to accomplish special tasks."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VIII Awards"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Awards shall be given to a public servant or a group of public servants under any of the following circumstances:\n(1) being loyal to duties, working actively, daring to shoulder responsibility, and achieving notable work performance;\n(2) observing discipline and law, being honest and devoted to public service, having a decent style of work, handling matters impartially, and playing a prominent exemplary role;\n(3) making inventions or creations or putting forward rationalisation proposals in work, thereby achieving notable economic or social benefits;\n(4) making outstanding contributions to enhancing ethnic unity and maintaining social stability;\n(5) taking good care of public property and achieving notable results in economising on State resources;\n(6) performing meritorious service in preventing or eliminating accidents, thereby enabling the interests of the State and the people to avoid or suffer reduced losses;\n(7) making outstanding contributions in specific environments such as emergency rescue and disaster relief;\n(8) achieving meritorious service in combating violations of discipline and law;\n(9) winning honour and interests for the State in foreign exchanges; or\n(10) having other outstanding meritorious service."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VIII Awards"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Awards shall be divided into: commendation, recording of a third-class meritorious service, recording of a second-class meritorious service, recording of a first-class meritorious service, and conferral of an honorary title.\nPublic servants or groups of public servants that have received awards shall be commended, and individuals who have received awards shall be given a lump-sum bonus or other benefits."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VIII Awards"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "The granting of awards to public servants or groups of public servants shall be decided or examined and approved in accordance with prescribed authority and procedures."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VIII Awards"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "In accordance with State provisions, commemorative certificates or commemorative medals may be issued to public servants who have participated in major work in a specific period or field."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VIII Awards"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Awards to a public servant or a group of public servants shall be revoked under any of the following circumstances:\n(1) obtaining the award by fraud or deception;\n(2) concealing serious errors or seriously violating prescribed procedures when applying for the award;\n(3) having committed serious violations of discipline or law that affect the reputation of the honorary title; and\n(4) other circumstances provided by laws and regulations under which the award shall be revoked."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VIII Awards"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Organs shall supervise public servants in terms of ideology and politics, performance of duties, style of work, and observance of discipline and law, carry out education on diligence and integrity in public service, and establish a routine administration and oversight system.\nWhere problems are found in the supervision of public servants, different measures shall be taken according to the circumstances, including reminder through conversation, criticism and education, ordering self-examination, admonition, organisational adjustment and sanctions.\nWhere a public servant is suspected of duty-related violation of law or duty-related crime, the case shall be transferred to the supervisory organ for handling in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter IX Supervision and Sanctions"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Public servants shall consciously accept supervision, and shall request instructions and report on work and report personal matters of relevance in accordance with provisions."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter IX Supervision and Sanctions"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Public servants shall observe discipline and law and shall not commit any of the following acts:\n(1) spreading statements that damage the authority of the Constitution or the reputation of the Communist Party of China or the State, or organising or participating in assemblies, processions, demonstrations or other activities aimed at opposing the Constitution, the leadership of the Communist Party of China or the State;\n(2) organising or participating in illegal organisations, or organising or participating in strikes;\n(3) inciting or undermining ethnic relations, participating in activities to split the nation, or organising or using religious activities to undermine ethnic unity and social stability;\n(4) failing to shoulder responsibility, failing to act, neglecting duties, or delaying work;\n(5) refusing to implement decisions and orders lawfully made by higher authorities;\n(6) suppressing or retaliating against criticism, appeals, complaints or reports;\n(7) engaging in fraud or deception, or misleading or deceiving leaders and the public;\n(8) embezzling or accepting bribes, or taking advantage of position to seek private gain for oneself or others;\n(9) violating financial and economic discipline and wasting State resources;\n(10) abusing power and infringing upon the lawful rights and interests of citizens, legal persons or other organisations;\n(11) divulging State secrets or work secrets;\n(12) damaging the honour and interests of the State in foreign exchanges;\n(13) participating in or supporting pornography, drug use, gambling, superstition or other activities;\n(14) violating professional ethics, social ethics or family virtues;\n(15) participating in prohibited online dissemination or online activities in violation of relevant provisions;\n(16) engaging in or participating in for-profit activities in violation of relevant provisions, or holding concurrent posts in enterprises or other for-profit organisations;\n(17) being absent from work without leave, or failing to return without justified reason after the expiry of leave for official business or of approved leave;\n(18) other acts that violate discipline or law."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter IX Supervision and Sanctions"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Where a public servant, when performing official duties, considers that a decision or order of a higher authority is erroneous, the public servant may put forward to the higher authority an opinion to correct or revoke the decision or order; where the higher authority does not change the decision or order or requires immediate implementation, the public servant shall implement the decision or order, and the consequences of implementation shall be borne by the higher authority and the public servant shall not bear responsibility; however, where a public servant implements a decision or order that is obviously unlawful, the public servant shall bear corresponding responsibility in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter IX Supervision and Sanctions"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where a public servant should bear disciplinary responsibility for violating discipline or law, a sanction shall be given in accordance with this Law or a governmental sanction shall be given by the supervisory organ in accordance with law; where the violation of discipline or law is minor and the public servant has corrected it after criticism and education, the sanction may be exempted.\nWhere the supervisory organ has already made a decision on a governmental sanction for the same violation of discipline or law, the organ where the public servant works shall no longer give a sanction."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter IX Supervision and Sanctions"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Sanctions shall be divided into: warning, recording of a demerit, recording of a major demerit, demotion, removal from office, and expulsion."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter IX Supervision and Sanctions"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Sanctions against public servants shall be based on clear facts, conclusive evidence, accurate determination of nature, appropriate handling, lawful procedures and complete formalities.\nWhere a public servant violates discipline or law, the organ deciding on the sanction shall decide to investigate the violation and shall inform the public servant of the facts established by the investigation and the basis for the proposed sanction. The public servant shall have the right to make statements and defend himself; the organ deciding on the sanction shall not aggravate the sanction because of the public servant's defence.\nWhere the organ deciding on the sanction considers that a sanction should be given to the public servant, it shall, within the prescribed time limit and in accordance with administrative authority and prescribed procedures, make a decision on the sanction. The decision on the sanction shall be notified in writing to the public servant concerned."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter IX Supervision and Sanctions"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "A public servant shall not be promoted in position, rank or level during the period of sanction; where a public servant is sanctioned by recording of a demerit, recording of a major demerit, demotion or removal from office, the public servant shall not be promoted in salary grade.\nThe periods of sanction shall be: six months for a warning; twelve months for recording of a demerit; eighteen months for recording of a major demerit; and twenty-four months for demotion or removal from office.\nWhere a public servant is sanctioned by removal from office, the level shall be lowered in accordance with provisions."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter IX Supervision and Sanctions"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Where a public servant is sanctioned by a sanction other than expulsion and shows repentance during the period of sanction and commits no further violation of discipline or law, the sanction shall be automatically lifted upon expiration of the period of sanction.\nAfter the sanction is lifted, promotion in salary grade, level, position or rank shall no longer be affected by the original sanction. However, the lifting of a sanction of demotion or removal from office shall not be deemed restoration of the original level, original position or original rank."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter IX Supervision and Sanctions"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Organs shall, in accordance with the requirements of the work duties of public servants and the need to improve the quality of public servants, provide classified and graded training to public servants.\nThe State shall establish specialised training institutions for public servants. Organs may, as needed, entrust other training institutions with the task of training public servants."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter X Training"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Organs shall provide induction training to newly recruited personnel during the probation period; provide pre-appointment training to public servants promoted to leading positions before appointment or within one year after appointment; provide specialised professional training to public servants engaged in specialised work; and provide in-service training to all public servants to improve their political quality and work ability and to update their knowledge, among whom public servants in the professional and technical category shall receive professional and technical training.\nThe State shall strengthen the training of outstanding young public servants in a planned manner."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter X Training"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "Training of public servants shall be subject to registration administration.\nThe time for public servants to participate in training shall be determined by the competent department of public servants in accordance with the training requirements provided in Article 67 of this Law.\nThe training of public servants and their academic results shall serve as one of the elements of the assessment of public servants and one of the bases for appointment and promotion."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter X Training"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "The State shall implement a system of exchange of public servants.\nPublic servants may be exchanged within the ranks of public servants and personnel administered with reference to this Law, and may also be exchanged with personnel engaged in public service in State-owned enterprises and in public institutions that are not administered with reference to this Law.\nThe forms of exchange include transfer and appointment to another post."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter XI Exchange and Recusal"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "Personnel engaged in public service in State-owned enterprises, institutions of higher education, research institutes and other public institutions that are not administered with reference to this Law may be transferred to an organ to serve in a leading position or at the rank of fourth-level researcher or above or other comparable levels.\nCandidates for transfer shall meet the conditions provided in Article 13 of this Law and the qualifications required for the proposed position, and shall not fall under the circumstances provided in Article 26 of this Law. The transferring organ shall, in accordance with the above provisions, conduct a strict assessment of the candidate for transfer and shall examine and approve the transfer in accordance with administrative authority, and may, when necessary, conduct an examination of the candidate for transfer."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter XI Exchange and Recusal"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "The transfer of public servants between different positions shall require that they meet the qualifications required for the proposed position, and shall be conducted within the prescribed staffing limits and number of positions.\nCross-regional and cross-departmental transfer shall be carried out in a planned and focused manner for leading members below the principal post at the provincial and ministerial level.\nPublic servants who hold leading positions in internal organs of an organ or whose work is otherwise of a special nature shall be transferred within the same organ in a planned manner.\nHigher-level organs shall attach importance to the open selection of public servants from lower-level organs."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter XI Exchange and Recusal"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "Based on work needs, an organ may, by means of temporary assignment, select and dispatch public servants to undertake major projects, major construction projects, key tasks or other special work.\nDuring the period of temporary assignment, the personnel relationship of the public servant with the original organ shall not be changed."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter XI Exchange and Recusal"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "Public servants shall obey the exchange decisions of their organs.\nWhere a public servant applies for exchange himself, the application shall be examined and approved in accordance with administrative authority."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter XI Exchange and Recusal"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "Where public servants are connected by a marital relationship, a direct blood relationship, a collateral blood relationship within three generations or a close in-law relationship, they shall not work in positions in the same organ where both are directly subordinate to the same leading personnel or where there is a direct superior-subordinate leadership relationship, nor shall they engage in organisation, personnel, discipline inspection, supervision, audit or financial work in an organ in which one of them holds a leading position.\nA public servant shall not serve as a leading member in the industry regulatory or competent department of an enterprise or for-profit organisation operated by the public servant's spouse, children or their spouses.\nWhere regional or work-related circumstances of a special nature require flexible implementation of the post avoidance system, the matter shall be prescribed by the competent department of public servants at or above the provincial level."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter XI Exchange and Recusal"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "Where a public servant holds the principal leading position in a township-level organ, a county-level organ, an organ at the level of a city divided into districts or the relevant department thereof, regional avoidance shall be implemented in accordance with relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter XI Exchange and Recusal"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "A public servant shall recuse himself when performing official duties under any of the following circumstances:\n(1) where the matter involves his own interests;\n(2) where the matter involves the interests of a person who has a kinship relationship with him as listed in paragraph 1 of Article 74 of this Law; and\n(3) other circumstances that may affect the impartial performance of official duties."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter XI Exchange and Recusal"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "Where circumstances requiring recusal exist for a public servant, the public servant shall apply for recusal; an interested party shall have the right to apply for the recusal of the public servant. Other persons may provide the organ with information on circumstances requiring the public servant's recusal.\nThe organ shall, on the basis of the application of the public servant or the interested party, make a decision on whether to recuse after examination, and may also directly make a recusal decision without an application."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter XI Exchange and Recusal"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "Where the law otherwise provides for the recusal of public servants, those provisions shall apply."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Chapter XI Exchange and Recusal"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "Public servants shall be subject to the salary system uniformly prescribed by the State.\nThe salary system for public servants shall implement the principle of distribution according to work, reflect factors such as work duties, work ability, actual work performance and seniority, and maintain a reasonable salary differential among different leading positions, ranks and levels.\nThe State shall establish a mechanism for the normal increase of public servant salaries."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Chapter XII Salaries, Welfare and Insurance"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "The salaries of public servants shall include basic salary, allowances, subsidies and bonuses.\nPublic servants shall, in accordance with State provisions, enjoy allowances such as regional additional allowances, allowances for hardship and remote areas, and post allowances.\nPublic servants shall, in accordance with State provisions, enjoy subsidies and grants for housing, medical care and other matters.\nWhere a public servant is determined to be excellent or competent in the periodic assessment, the public servant shall, in accordance with State provisions, enjoy a year-end bonus.\nThe salaries of public servants shall be paid in full and on time."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Chapter XII Salaries, Welfare and Insurance"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "The salary level of public servants shall be coordinated with national economic development and adapted to social progress.\nThe State shall implement a salary survey system, regularly conduct surveys and comparisons of the salary levels of public servants and of comparable personnel in enterprises, and use the results of such surveys and comparisons as the basis for adjusting the salary level of public servants."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Chapter XII Salaries, Welfare and Insurance"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "Public servants shall enjoy welfare benefits in accordance with State provisions. The State shall improve the welfare benefits of public servants in accordance with the level of economic and social development.\nPublic servants shall implement the working hour system prescribed by the State and enjoy leave in accordance with State provisions. Where a public servant works overtime outside statutory working days, corresponding compensatory leave shall be given; where compensatory leave cannot be given, subsidies shall be given in accordance with State provisions."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Chapter XII Salaries, Welfare and Insurance"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "Public servants shall participate in social insurance in accordance with law and enjoy insurance benefits in accordance with State provisions.\nWhere a public servant dies in the line of duty or dies of illness, the public servant's relatives shall enjoy the pensions and preferential treatment prescribed by the State."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Chapter XII Salaries, Welfare and Insurance"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "No organ may, in violation of State provisions, alter on its own the salary, welfare and insurance policies for public servants, or raise or lower the salary, welfare and insurance benefits of public servants without authorisation. No organ may deduct or delay the payment of salaries to public servants."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Chapter XII Salaries, Welfare and Insurance"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "Where a public servant resigns from public office, the public servant shall submit a written application to the appointment and removal organ. The appointment and removal organ shall examine and approve the application within 30 days from the date of receipt of the application, and shall, in the case of an application by a leading member to resign from public office, examine and approve the application within 90 days from the date of receipt of the application."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        },
+        "chapter": {
+          "en": "Chapter XIII Resignation and Dismissal"
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "A public servant shall not resign from public office under any of the following circumstances:\n(1) where the minimum service period prescribed by the State has not been completed;\n(2) where the public servant holds a special position involving State secrets or where less than the period for declassification prescribed by the State has passed since leaving such position;\n(3) where important public business has not yet been completed and must continue to be handled by the public servant himself;\n(4) where the public servant is under audit, disciplinary review or supervisory investigation, or is suspected of a crime and judicial proceedings have not yet been concluded; and\n(5) other circumstances provided by laws and administrative regulations under which a person may not resign from public office."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        },
+        "chapter": {
+          "en": "Chapter XIII Resignation and Dismissal"
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "Where a public servant holding a leading position needs to resign from the current position in accordance with legal provisions due to a change in work, the resignation procedures shall be completed.\nA public servant holding a leading position may voluntarily apply to resign from the leading position for personal or other reasons.\nWhere a leading member causes major losses or adverse social impact due to serious errors or dereliction of duty in work, or bears leadership responsibility for a major accident, the leading member shall tender resignation from the leading position.\nWhere a leading member is no longer suitable to hold the current leading position for other reasons, or where the leading member should tender resignation but does not do so, the leading member shall be ordered to resign from the leading position."
+        },
+        "noLabel": {
+          "en": "Article 87."
+        },
+        "chapter": {
+          "en": "Chapter XIII Resignation and Dismissal"
+        }
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "A public servant shall be dismissed under any of the following circumstances:\n(1) where the public servant has been determined to be incompetent in the annual assessment for two consecutive years;\n(2) where the public servant is incompetent in the current work and refuses other arrangements;\n(3) where the public servant's work needs to be adjusted due to adjustment, dissolution, merger or reduction in staffing of the organ concerned and the public servant refuses a reasonable arrangement;\n(4) where the public servant fails to perform the obligations of a public servant and fails to observe the law and public servant discipline, shows no change after education, is no longer suitable to continue working in the organ, and is not suitable to be given expulsion; and\n(5) where the public servant is absent from work without leave, or fails to return without justified reason after the expiry of leave for official business or of approved leave, for more than 15 consecutive days, or for more than 30 days in aggregate within one year."
+        },
+        "noLabel": {
+          "en": "Article 88."
+        },
+        "chapter": {
+          "en": "Chapter XIII Resignation and Dismissal"
+        }
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "A public servant shall not be dismissed under any of the following circumstances:\n(1) where the public servant is disabled in the line of duty and is confirmed to have lost or partially lost the ability to work;\n(2) where the public servant is ill or injured and is within the prescribed medical period;\n(3) where a female public servant is pregnant, on maternity leave or breastfeeding; or\n(4) other circumstances provided by laws and administrative regulations under which a person may not be dismissed."
+        },
+        "noLabel": {
+          "en": "Article 89."
+        },
+        "chapter": {
+          "en": "Chapter XIII Resignation and Dismissal"
+        }
+      },
+      {
+        "no": 90,
+        "text": {
+          "en": "Where a public servant is dismissed, the decision shall be made in accordance with administrative authority. The dismissal decision shall be notified in writing to the dismissed public servant, and the basis and reasons for dismissal shall be communicated.\nA dismissed public servant may receive dismissal payment or enjoy unemployment insurance in accordance with relevant State provisions."
+        },
+        "noLabel": {
+          "en": "Article 90."
+        },
+        "chapter": {
+          "en": "Chapter XIII Resignation and Dismissal"
+        }
+      },
+      {
+        "no": 91,
+        "text": {
+          "en": "Where a public servant resigns or is dismissed, the public servant shall complete the handover of official business before leaving office and shall, when necessary, undergo audit in accordance with provisions."
+        },
+        "noLabel": {
+          "en": "Article 91."
+        },
+        "chapter": {
+          "en": "Chapter XIII Resignation and Dismissal"
+        }
+      },
+      {
+        "no": 92,
+        "text": {
+          "en": "A public servant shall retire when reaching the retirement age prescribed by the State or when completely losing the ability to work."
+        },
+        "noLabel": {
+          "en": "Article 92."
+        },
+        "chapter": {
+          "en": "Chapter XIV Retirement"
+        }
+      },
+      {
+        "no": 93,
+        "text": {
+          "en": "A public servant may retire early upon his voluntary application and approval by the appointment and removal organ if the public servant meets any of the following conditions:\n(1) having completed 30 years of service;\n(2) being less than five years away from the retirement age prescribed by the State and having completed 20 years of service; or\n(3) other circumstances prescribed by the State under which early retirement is permitted."
+        },
+        "noLabel": {
+          "en": "Article 93."
+        },
+        "chapter": {
+          "en": "Chapter XIV Retirement"
+        }
+      },
+      {
+        "no": 94,
+        "text": {
+          "en": "After retirement, a public servant shall enjoy the pension and other benefits prescribed by the State; the State shall provide necessary services and assistance for the public servant's life and health, and encourage the public servant to give play to personal expertise and participate in social development."
+        },
+        "noLabel": {
+          "en": "Article 94."
+        },
+        "chapter": {
+          "en": "Chapter XIV Retirement"
+        }
+      },
+      {
+        "no": 95,
+        "text": {
+          "en": "Where a public servant is dissatisfied with any of the following personnel decisions concerning himself, the public servant may, within 30 days from the date on which he becomes aware of the personnel decision, apply to the organ that made the decision for review; where the public servant is dissatisfied with the review result, the public servant may, within 15 days from the date of receipt of the review decision, file an appeal in accordance with provisions with the competent department of public servants at the same level or with the organ at the next higher level above the organ that made the personnel decision; the public servant may also, without going through review, directly file an appeal within 30 days from the date on which he becomes aware of the personnel decision:\n(1) sanctions;\n(2) dismissal or cancellation of recruitment;\n(3) demotion;\n(4) determination of incompetence in the periodic assessment;\n(5) removal from office;\n(6) disapproval of an application for resignation or early retirement;\n(7) determination or deduction of salary, welfare or insurance benefits not in accordance with provisions; and\n(8) other circumstances provided by laws and regulations under which an appeal may be filed.\nWhere a public servant is dissatisfied with an appeal decision made by an organ below the provincial level, the public servant may file a further appeal with the organ at the next higher level above the organ that made the decision.\nThe organ accepting appeals from public servants shall form a public servant appeal committee for impartiality, which shall be responsible for accepting and hearing appeal cases of public servants.\nWhere a public servant is dissatisfied with a handling decision concerning himself made by a supervisory organ and applies to the supervisory organ for re-examination or review, the matter shall be handled in accordance with relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 95."
+        },
+        "chapter": {
+          "en": "Chapter XV Appeals and Complaints"
+        }
+      },
+      {
+        "no": 96,
+        "text": {
+          "en": "The original organ handling the matter shall make a review decision within 30 days from receipt of the application for review and shall notify the applicant in writing. The organ accepting the appeal from the public servant shall make a handling decision within 60 days from the date of acceptance; where the case is complicated, the period may be appropriately extended, but the extension shall not exceed 30 days.\nThe execution of the personnel decision shall not be suspended during the period of review or appeal.\nA public servant shall not be subjected to aggravated handling because of applying for review or filing an appeal."
+        },
+        "noLabel": {
+          "en": "Article 96."
+        },
+        "chapter": {
+          "en": "Chapter XV Appeals and Complaints"
+        }
+      },
+      {
+        "no": 97,
+        "text": {
+          "en": "Where the organ accepting the appeal of a public servant finds upon examination that the personnel decision is erroneous, the original organ handling the matter shall correct it in a timely manner."
+        },
+        "noLabel": {
+          "en": "Article 97."
+        },
+        "chapter": {
+          "en": "Chapter XV Appeals and Complaints"
+        }
+      },
+      {
+        "no": 98,
+        "text": {
+          "en": "Where a public servant considers that an organ or its leading personnel has infringed upon his lawful rights and interests, the public servant may file a complaint with a higher-level organ or a supervisory organ in accordance with law. The organ accepting the complaint shall handle it in a timely manner in accordance with provisions."
+        },
+        "noLabel": {
+          "en": "Article 98."
+        },
+        "chapter": {
+          "en": "Chapter XV Appeals and Complaints"
+        }
+      },
+      {
+        "no": 99,
+        "text": {
+          "en": "When filing an appeal or complaint, a public servant shall respect facts and shall not fabricate facts or make false accusations or frame others. Anyone who fabricates facts or makes false accusations or frames others shall be held legally liable in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 99."
+        },
+        "chapter": {
+          "en": "Chapter XV Appeals and Complaints"
+        }
+      },
+      {
+        "no": 100,
+        "text": {
+          "en": "Organs may, based on work needs and with the approval of the competent department of public servants at or above the provincial level, apply the engagement system to positions of a highly professional nature and auxiliary positions.\nWhere the positions listed in the preceding paragraph involve State secrets, the engagement system shall not be applied."
+        },
+        "noLabel": {
+          "en": "Article 100."
+        },
+        "chapter": {
+          "en": "Chapter XVI Engagement for Positions"
+        }
+      },
+      {
+        "no": 101,
+        "text": {
+          "en": "Organs engaging public servants may conduct open recruitment by reference to the procedures for examination and recruitment of public servants, or may directly select and engage persons from among those who meet the conditions.\nThe engagement of public servants by an organ shall be conducted within the prescribed staffing limits and salary and funding limits."
+        },
+        "noLabel": {
+          "en": "Article 101."
+        },
+        "chapter": {
+          "en": "Chapter XVI Engagement for Positions"
+        }
+      },
+      {
+        "no": 102,
+        "text": {
+          "en": "In engaging public servants, an organ shall, in accordance with the principles of equality, voluntariness and consensus through consultation, conclude a written engagement contract to determine the rights and obligations of both the organ and the engaged public servant. The engagement contract may be modified or terminated upon consensus through consultation between the parties.\nThe conclusion, modification or termination of an engagement contract shall be reported to the competent department of public servants at the same level for the record."
+        },
+        "noLabel": {
+          "en": "Article 102."
+        },
+        "chapter": {
+          "en": "Chapter XVI Engagement for Positions"
+        }
+      },
+      {
+        "no": 103,
+        "text": {
+          "en": "An engagement contract shall contain clauses such as the term of the contract, the position and the requirements of its duties, salary, welfare and insurance benefits, and liability for breach of contract.\nThe term of an engagement contract shall be from one to five years. An engagement contract may stipulate a probation period, which shall be from one to twelve months.\nPublic servants under the engagement system shall be subject to a negotiated salary system, the specific measures for which shall be prescribed by the competent department of public servants under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 103."
+        },
+        "chapter": {
+          "en": "Chapter XVI Engagement for Positions"
+        }
+      },
+      {
+        "no": 104,
+        "text": {
+          "en": "Organs shall administer engaged public servants in accordance with this Law and the engagement contract."
+        },
+        "noLabel": {
+          "en": "Article 104."
+        },
+        "chapter": {
+          "en": "Chapter XVI Engagement for Positions"
+        }
+      },
+      {
+        "no": 105,
+        "text": {
+          "en": "Where a dispute arises between a public servant under the engagement system and the organ where the public servant works over the performance of the engagement contract, either party may apply for arbitration within 60 days from the date on which the dispute arises.\nThe competent department of public servants at or above the provincial level shall, as needed, establish a personnel dispute arbitration committee to accept arbitration applications. The personnel dispute arbitration committee shall be composed of representatives of the competent department of public servants, representatives of the engaging organ, representatives of public servants under the engagement system and legal experts.\nWhere a party is dissatisfied with the arbitral award, the party may bring a lawsuit to the people's court within 15 days from the date of receipt of the written award. After the arbitral award takes effect, where one party fails to perform, the other party may apply to the people's court for enforcement."
+        },
+        "noLabel": {
+          "en": "Article 105."
+        },
+        "chapter": {
+          "en": "Chapter XVI Engagement for Positions"
+        }
+      },
+      {
+        "no": 106,
+        "text": {
+          "en": "Where any of the following circumstances in violation of the provisions of this Law occurs, the leading organ at or above the county level or the competent department of public servants shall, in accordance with administrative authority and according to the different circumstances, order correction or declare the act invalid; the leading personnel and directly responsible personnel who bear responsibility shall, according to the seriousness of the circumstances, be given criticism and education, ordered to conduct self-examination, admonished, subjected to organisational adjustment or given sanctions; where a crime is constituted, criminal liability shall be pursued in accordance with law:\n(1) conducting recruitment, transfer, appointment to another post, engagement or promotion of public servants not in accordance with staffing limits, the number of positions or the qualifications for holding the position;\n(2) granting awards or imposing sanctions on public servants, applying recusal, or handling retirement not in accordance with prescribed conditions;\n(3) conducting recruitment, transfer, appointment to another post, engagement or promotion of public servants, or assessment, awards or sanctions, not in accordance with prescribed procedures;\n(4) altering the standards of salary, welfare and insurance benefits of public servants in violation of State provisions;\n(5) divulging examination questions, violating examination room discipline or committing other acts seriously affecting openness and fairness in recruitment, open selection or other work;\n(6) failing to accept and handle appeals or complaints of public servants in accordance with provisions; and\n(7) other circumstances in violation of the provisions of this Law."
+        },
+        "noLabel": {
+          "en": "Article 106."
+        },
+        "chapter": {
+          "en": "Chapter XVII Legal Liability"
+        }
+      },
+      {
+        "no": 107,
+        "text": {
+          "en": "Where a public servant who was a leading member or held a leading position at or above the county and division level resigns from public office or retires, the public servant shall not, within three years after leaving office, and other public servants shall not, within two years after leaving office, take up a post in an enterprise or other for-profit organisation that is directly related to the business of the original work, nor engage in for-profit activities directly related to the business of the original work.\nWhere a public servant commits an act in violation of the preceding paragraph after resigning from public office or retiring, the competent department of public servants at the same level as the organ where the public servant formerly worked shall order correction within a time limit; where correction is not made within the time limit, the market regulatory department at or above the county level shall confiscate the illegal gains obtained by the person during the period of employment, order the receiving unit to dismiss the person, and, according to the seriousness of the circumstances, impose on the receiving unit a fine of not less than one time but not more than five times the illegal gains of the punished person."
+        },
+        "noLabel": {
+          "en": "Article 107."
+        },
+        "chapter": {
+          "en": "Chapter XVII Legal Liability"
+        }
+      },
+      {
+        "no": 108,
+        "text": {
+          "en": "Where staff members of the competent department of public servants, in violation of the provisions of this Law, abuse power, neglect duties or engage in malpractices for personal gain, and a crime is constituted, criminal liability shall be pursued in accordance with law; where a crime is not constituted, sanctions shall be given or governmental sanctions shall be given by the supervisory organ in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 108."
+        },
+        "chapter": {
+          "en": "Chapter XVII Legal Liability"
+        }
+      },
+      {
+        "no": 109,
+        "text": {
+          "en": "Where, in the recruitment or engagement of public servants, a person conceals true information, commits fraud, cheats in an examination, disrupts examination order or commits other such acts, the competent department of public servants shall, according to the circumstances, invalidate the examination results, cancel qualifications, restrict application or take other measures; where the circumstances are serious, legal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 109."
+        },
+        "chapter": {
+          "en": "Chapter XVII Legal Liability"
+        }
+      },
+      {
+        "no": 110,
+        "text": {
+          "en": "Where an organ causes reputational damage to a public servant due to an erroneous personnel decision, the organ shall apologise, restore the public servant's reputation and eliminate the adverse effects; where economic losses are caused, compensation shall be given in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 110."
+        },
+        "chapter": {
+          "en": "Chapter XVII Legal Liability"
+        }
+      },
+      {
+        "no": 111,
+        "text": {
+          "en": "Leading members as referred to in this Law mean the leading personnel of an organ, excluding persons holding leading positions in internal organs of the organ."
+        },
+        "noLabel": {
+          "en": "Article 111."
+        },
+        "chapter": {
+          "en": "Chapter XVIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 112,
+        "text": {
+          "en": "Staff members other than manual workers in public institutions that are authorised by laws and regulations to perform functions of public affairs administration shall, upon approval, be administered with reference to this Law."
+        },
+        "noLabel": {
+          "en": "Article 112."
+        },
+        "chapter": {
+          "en": "Chapter XVIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 113,
+        "text": {
+          "en": "This Law shall come into force on 1 June 2019."
+        },
+        "noLabel": {
+          "en": "Article 113."
+        },
+        "chapter": {
+          "en": "Chapter XVIII Supplementary Provisions"
         }
       }
     ]

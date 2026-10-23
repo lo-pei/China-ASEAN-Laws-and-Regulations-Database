@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p18
-   法规 78 部 / 译文 2804 条
+   法规 80 部 / 译文 3032 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -19313,6 +19313,1392 @@
     ]
   };
 
+  TR['CN-REG-0468'] = {
+    "lawId": "CN-REG-0468",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 115 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the provisions of the Road Traffic Safety Law of the People's Republic of China (hereinafter referred to as the Road Traffic Safety Law)."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Vehicle drivers, pedestrians and passengers within the territory of the People's Republic of China, as well as units and individuals related to road traffic activities, shall comply with the Road Traffic Safety Law and these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Local people's governments at or above the county level shall establish and improve a coordination mechanism for road traffic safety work, organise the relevant departments to carry out traffic impact assessment of urban construction projects, and formulate road traffic safety administration plans, determine administration objectives and formulate implementation schemes."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Registration of motor vehicles shall be divided into registration of new vehicles, registration of changes, registration of transfer, registration of mortgage and registration of cancellation."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        },
+        "chapter": {
+          "en": "Section 1 Motor Vehicles"
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Where a motor vehicle number plate and driving licence are applied for for the first time, an application for registration of a new vehicle shall be filed with the traffic administration department of the public security organ at the domicile of the owner of the motor vehicle.\nTo apply for registration of a new motor vehicle, the motor vehicle shall be presented for inspection and the following certificates and vouchers shall be submitted:\n(1) the identity certificate of the owner of the motor vehicle;\n(2) the invoice for the purchase of the vehicle and other proof of the origin of the motor vehicle;\n(3) the certificate of conformity of the complete motor vehicle ex-factory or the import voucher for an imported motor vehicle;\n(4) the certificate of payment of vehicle purchase tax or the voucher of exemption from such tax;\n(5) the voucher of compulsory insurance for third-party liability of motor vehicles;\n(6) other certificates and vouchers that shall be submitted upon registration of a new motor vehicle as provided by laws and administrative regulations.\nWhere the vehicle model is not one of those exempted from safety technical inspection as prescribed by the competent department of motor vehicle products of the State Council, the certificate of conformity of the motor vehicle safety technical inspection shall also be provided."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        },
+        "chapter": {
+          "en": "Section 1 Motor Vehicles"
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Where a registered motor vehicle falls under any of the following circumstances, the owner of the motor vehicle shall apply to the traffic administration department of the public security organ that registered the motor vehicle for registration of changes:\n(1) where the colour of the vehicle body of the motor vehicle is changed;\n(2) where the engine is replaced;\n(3) where the vehicle body or chassis is replaced;\n(4) where the manufacturer replaces the complete vehicle due to quality problems;\n(5) where a motor vehicle for commercial operation is converted into a motor vehicle for non-commercial operation, or vice versa;\n(6) where the domicile of the owner of the motor vehicle is moved out of or into the jurisdiction of the traffic administration department of the public security organ.\nTo apply for registration of changes of a motor vehicle, the following certificates and vouchers shall be submitted, and where the case falls under any of items (1), (2), (3), (4) and (5) of the preceding paragraph, the motor vehicle shall also be presented for inspection; where the case falls under any of items (2) and (3) of the preceding paragraph, the certificate of conformity of the motor vehicle safety technical inspection shall also be submitted at the same time:\n(1) the identity certificate of the owner of the motor vehicle;\n(2) the motor vehicle registration certificate;\n(3) the motor vehicle driving licence.\nWhere the domicile of the owner of a motor vehicle is moved within the jurisdiction of the traffic administration department of the public security organ, or where the name (name of the unit) or contact details of the owner of the motor vehicle are changed, the owner shall file the change with the traffic administration department of the public security organ that registered the motor vehicle."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        },
+        "chapter": {
+          "en": "Section 1 Motor Vehicles"
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Where the ownership of a registered motor vehicle is transferred, registration of transfer shall be completed in a timely manner.\nTo apply for registration of transfer of a motor vehicle, the party concerned shall present the motor vehicle for inspection to the traffic administration department of the public security organ that registered the motor vehicle and submit the following certificates and vouchers:\n(1) the identity certificate of the party concerned;\n(2) the proof and voucher of the transfer of ownership of the motor vehicle;\n(3) the motor vehicle registration certificate;\n(4) the motor vehicle driving licence."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Section 1 Motor Vehicles"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Where the owner of a motor vehicle mortgages the motor vehicle as security, the owner shall apply to the traffic administration department of the public security organ that registered the motor vehicle for registration of mortgage."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Section 1 Motor Vehicles"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Where a registered motor vehicle reaches the mandatory scrapping standard prescribed by the State, the traffic administration department of the public security organ shall, two months before the expiry of the scrapping period, notify the owner of the motor vehicle to complete registration of cancellation. The owner of the motor vehicle shall, before the expiry of the scrapping period, sell the motor vehicle to a motor vehicle recycling enterprise, and the recycling enterprise shall deliver the registration certificate, number plate and driving licence of the scrapped motor vehicle to the traffic administration department of the public security organ for cancellation. Where the owner of the motor vehicle fails to complete registration of cancellation within the time limit, the traffic administration department of the public security organ shall announce that the registration certificate, number plate and driving licence of the motor vehicle are invalid.\nWhere registration of cancellation is applied for because the motor vehicle is lost, the owner of the motor vehicle shall submit his own identity certificate to the traffic administration department of the public security organ and return the motor vehicle registration certificate."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Section 1 Motor Vehicles"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Where the certificates and vouchers submitted by an applicant for motor vehicle registration are complete and valid, the traffic administration department of the public security organ shall complete the registration formalities on the spot.\nThe traffic administration department of the public security organ shall not process motor vehicle registration in respect of motor vehicles sealed up or seized in accordance with law by people's courts, people's procuratorates and administrative law enforcement departments."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Section 1 Motor Vehicles"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Where the motor vehicle registration certificate, number plate or driving licence is lost or damaged and the owner of the motor vehicle applies for a replacement, the owner shall submit his own identity certificate and application materials to the traffic administration department of the public security organ. The traffic administration department of the public security organ shall, after verifying the matter against the motor vehicle registration file, issue the replacement within 15 days from the date of receipt of the application."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Section 1 Motor Vehicles"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Tax departments and insurance institutions may, at the office premises of the traffic administration department of the public security organ, handle on a centralised basis matters relating to motor vehicles such as the payment of taxes and fees and the conclusion of insurance contracts."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Section 1 Motor Vehicles"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Motor vehicle number plates shall be displayed at the designated positions at the front and rear of the vehicle and shall remain clear and complete. Heavy and medium goods vehicles and their trailers, and tractors and their trailers, shall have enlarged number plates sprayed on the vehicle body or at the rear of the compartment, and the characters shall be upright and kept clear.\nThe motor vehicle inspection conformity mark and the insurance mark shall be affixed to the upper right corner of the front window of the motor vehicle.\nWhere marks or body advertisements are sprayed or affixed on a motor vehicle, they shall not affect safe driving."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Section 1 Motor Vehicles"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Passenger vehicles, heavy goods vehicles and semi-trailer towing vehicles used for road transport shall be installed with and use tachographs conforming to national standards. Traffic police may inspect the speed of motor vehicles, continuous driving time and other information on driving conditions. The installation of tachographs may be implemented in stages, and the implementation steps shall be prescribed by the competent department of motor vehicle products of the State Council in conjunction with the relevant departments."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Section 1 Motor Vehicles"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Motor vehicle safety technical inspection shall be carried out by motor vehicle safety technical inspection institutions. Motor vehicle safety technical inspection institutions shall inspect motor vehicles in accordance with the national standards for motor vehicle safety technical inspection and shall bear legal liability for the inspection results.\nThe quality and technical supervision department shall be responsible for exercising metrological accreditation administration over motor vehicle safety technical inspection institutions, verifying motor vehicle safety technical inspection equipment and supervising the implementation of the national standards for motor vehicle safety technical inspection.\nThe items of motor vehicle safety technical inspection shall be prescribed by the public security department of the State Council in conjunction with the quality and technical supervision department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Section 1 Motor Vehicles"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Motor vehicles shall undergo safety technical inspection from the date of registration of a new vehicle in accordance with the following periods:\n(1) passenger vehicles for commercial operation shall be inspected once a year within five years; where more than five years have passed, once every six months;\n(2) goods vehicles and large and medium non-commercial passenger vehicles shall be inspected once a year within ten years; where more than ten years have passed, once every six months;\n(3) small and mini non-commercial passenger vehicles shall be inspected once every two years within six years; where more than six years have passed, once a year; where more than 15 years have passed, once every six months;\n(4) motorcycles shall be inspected once every two years within four years; where more than four years have passed, once a year;\n(5) tractors and other motor vehicles shall be inspected once a year.\nWhere a motor vehicle for commercial operation passes the safety technical inspection within the prescribed inspection period, it shall not be subject to repeated safety technical inspection."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Section 1 Motor Vehicles"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Where, at the time of safety technical inspection of a registered motor vehicle, the registration particulars recorded in the motor vehicle driving licence do not conform to the relevant conditions of the motor vehicle, or the voucher of compulsory insurance for third-party liability of motor vehicles is not provided in accordance with provisions, the vehicle shall not pass the inspection."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Section 1 Motor Vehicles"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The provisions on the spraying of the insignia and patterns of police vehicles, fire engines, ambulances and engineering rescue vehicles and on the installation and use of sirens and marker lamps shall be formulated by the public security department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Section 1 Motor Vehicles"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Persons meeting the driving licensing conditions prescribed by the public security department of the State Council may apply to the traffic administration department of the public security organ for a motor vehicle driving licence.\nThe form of the motor vehicle driving licence shall be prescribed and supervised in its production by the public security department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Section 2 Motor Vehicle Drivers"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "To learn to drive a motor vehicle, a person shall first study the laws and regulations on road traffic safety and the relevant knowledge and, after passing the examination, then learn the skills of driving a motor vehicle.\nLearning to drive on the road shall be carried out on the routes and at the times designated by the traffic administration department of the public security organ. Learning the skills of driving a motor vehicle on the road shall be carried out using a training vehicle and under the guidance of a driving instructor on board, and persons not related to the instruction shall not ride in the training vehicle. Where a trainee commits an act in violation of road traffic safety law or causes a traffic accident while learning to drive, the driving instructor shall bear responsibility."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Section 2 Motor Vehicle Drivers"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The traffic administration department of the public security organ shall conduct examinations for persons applying for motor vehicle driving licences, and shall issue motor vehicle driving licences within five days to those who pass the examination; for those who fail, it shall state the reasons in writing."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Section 2 Motor Vehicle Drivers"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The period of validity of a motor vehicle driving licence shall be six years, unless these Regulations provide otherwise.\nThe 12 months after a motor vehicle driver first obtains a motor vehicle driving licence shall be the probation period. A person driving a motor vehicle during the probation period shall affix or display a probation mark of the uniform design at the rear of the vehicle body.\nDuring the probation period, a motor vehicle driver shall not drive public buses, passenger vehicles for commercial operation, or police vehicles, fire engines, ambulances and engineering rescue vehicles on duty, or motor vehicles carrying dangerous articles such as explosive articles, inflammable and explosive chemical articles, highly toxic or radioactive articles; and the motor vehicle driven shall not tow a trailer."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Section 2 Motor Vehicle Drivers"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "In addition to imposing administrative penalties for acts of motor vehicle drivers in violation of road traffic safety law, the traffic administration department of the public security organ shall implement a system of cumulative recording of points for acts in violation of road traffic safety law (hereinafter referred to as the points system), with a points cycle of 12 months. Where the points recorded in one points cycle reach 12, the traffic administration department of the public security organ shall withhold the motor vehicle driving licence of the driver, and the driver shall study the laws and regulations on road traffic safety in accordance with provisions and accept examination. Where the driver passes the examination, the points shall be cleared and the motor vehicle driving licence returned; where the driver fails, the driver shall continue to study and take the examination.\nThe acts in violation of road traffic safety law for which points shall be recorded and the points for each act shall be prescribed by the public security department of the State Council according to the degree of harm of the acts.\nThe traffic administration department of the public security organ shall provide means for inquiring about points for motor vehicle drivers."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Section 2 Motor Vehicle Drivers"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Where the points recorded for a motor vehicle driver in one points cycle do not reach 12 and the fines imposed have been paid, the points shall be cleared; where the points do not reach 12 but fines remain unpaid, the points shall be carried forward to the next points cycle.\nWhere the points recorded for a motor vehicle driver reach 12 on two or more occasions in one points cycle, in addition to withholding the motor vehicle driving licence, requiring study and requiring examination in accordance with the provisions of Article 23, the driver shall also take a driving skills examination. Where the driver passes the examination, the points shall be cleared and the motor vehicle driving licence returned; where the driver fails, the driver shall continue to study and take the examination.\nA person taking the driving skills examination shall be examined according to the highest category of vehicle stated in his own motor vehicle driving licence which he is permitted to drive."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Section 2 Motor Vehicle Drivers"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Where a motor vehicle driver whose points have reached 12 refuses to participate in the study notified by the traffic administration department of the public security organ and refuses to take the examination, the traffic administration department of the public security organ shall announce that the use of his motor vehicle driving licence is suspended."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Section 2 Motor Vehicle Drivers"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Where a motor vehicle driver does not reach 12 points in any points cycle during the six-year period of validity of the motor vehicle driving licence, a motor vehicle driving licence valid for ten years shall be issued in replacement; where the driver does not reach 12 points in any points cycle during the ten-year period of validity of the motor vehicle driving licence, a motor vehicle driving licence valid for a long term shall be issued in replacement.\nWhen replacing a motor vehicle driving licence, the traffic administration department of the public security organ shall examine and verify the motor vehicle driving licence."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Section 2 Motor Vehicle Drivers"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where a motor vehicle driving licence is lost or damaged and the motor vehicle driver applies for a replacement, the driver shall submit his own identity certificate and application materials to the traffic administration department of the public security organ. The traffic administration department of the public security organ shall, after verifying the matter against the driving licence file, issue the replacement within three days from the date of receipt of the application."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Section 2 Motor Vehicle Drivers"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "A motor vehicle driver shall not drive a motor vehicle during the period in which the motor vehicle driving licence is lost, damaged, beyond its period of validity, withheld or temporarily withheld in accordance with law, or during which the points recorded reach 12."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Section 2 Motor Vehicle Drivers"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Traffic signal lights shall be divided into: motor vehicle signal lights, non-motor vehicle signal lights, pedestrian crossing signal lights, lane signal lights, directional indicator signal lights, flashing warning signal lights, and signal lights for level crossings of roads and railways."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Road Traffic Conditions"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Traffic signs shall be divided into: indication signs, warning signs, prohibition signs, guide signs, tourist area signs, road construction safety signs and auxiliary signs.\nRoad traffic markings shall be divided into: indication markings, warning markings and prohibition markings."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Road Traffic Conditions"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The directions of traffic police shall be divided into: hand signals and traffic direction signals using implements."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Road Traffic Conditions"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Pedestrian crossings, pedestrian overpasses or pedestrian underpasses shall be provided at road intersections and sections where pedestrians crossing the road are relatively concentrated.\nIn sections where blind persons pass in relative concentration, pedestrian crossing signal lights shall be equipped with audible signalling devices."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III Road Traffic Conditions"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The relevant departments of urban people's governments may, without affecting the passage of pedestrians and vehicles, mark parking spaces on urban roads and prescribe the times during which the parking spaces may be used."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter III Road Traffic Conditions"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The opening or adjustment of the routes or stops of public buses and long-distance buses shall conform to the requirements of traffic planning and of safety and smooth flow."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter III Road Traffic Conditions"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "When carrying out maintenance and repair on roads, road maintenance and construction units shall, in accordance with provisions, set up standard safety warning signs and safety protection facilities. Road maintenance and construction vehicles and machinery shall be installed with warning lights, sprayed with conspicuous insignia and patterns, and shall have the warning lights and hazard warning flashers switched on during operation. The traffic administration department of the public security organ shall strengthen supervision and inspection of traffic safety on road sections under construction where traffic has not been interrupted, and shall, in the event of traffic congestion, promptly divert and guide traffic so as to maintain traffic order.\nWhere road construction requires vehicles to make a detour, the construction unit shall set up signs at the detour; where a detour is not possible, a temporary passage shall be built to ensure the passage of vehicles and pedestrians. Where it is necessary to close a road and interrupt traffic, the matter shall, except in emergencies, be announced to society five days in advance."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter III Road Traffic Conditions"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Road or traffic facility maintenance and administration departments shall, at dangerous sections such as sharp bends, steep slopes, sections adjacent to cliffs and sections adjacent to water, set up warning signs and safety protection facilities in accordance with national standards."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter III Road Traffic Conditions"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Where road traffic signs and markings are not standardised and motor vehicle drivers are prone to errors of recognition, the competent departments for traffic signs and markings shall promptly improve them.\nRoad lighting facilities shall conform to the technical specifications for road construction and shall maintain their lighting function in good condition."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter III Road Traffic Conditions"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Motor vehicle signal lights and non-motor vehicle signal lights shall indicate:\n(1) when the green light is on, vehicles are permitted to pass, but turning vehicles shall not obstruct the passage of vehicles going straight and pedestrians that have been given the right of way;\n(2) when the yellow light is on, vehicles that have crossed the stop line may continue to pass;\n(3) when the red light is on, vehicles are prohibited from passing.\nAt intersections where no non-motor vehicle signal lights or pedestrian crossing signal lights are installed, non-motor vehicles and pedestrians shall pass in accordance with the indications of the motor vehicle signal lights.\nWhen the red light is on, right-turning vehicles may pass provided that they do not obstruct the passage of vehicles and pedestrians that have been given the right of way."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Pedestrian crossing signal lights shall indicate:\n(1) when the green light is on, pedestrians are permitted to cross the pedestrian crossing;\n(2) when the red light is on, pedestrians are prohibited from entering the pedestrian crossing, but those who have already entered the pedestrian crossing may continue to cross or may stop and wait at the centre line of the road."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Lane signal lights shall indicate:\n(1) when the green arrow light is on, vehicles in the lane are permitted to pass in the direction indicated;\n(2) when the red cross light or red arrow light is on, vehicles in the lane are prohibited from passing."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "The directions of the arrows of directional indicator signal lights pointing to the left, upwards and to the right indicate respectively turning left, going straight and turning right."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "A flashing warning signal light is a continuously flashing yellow light, warning vehicles and pedestrians to keep a careful lookout when passing and to pass after confirming safety."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "At a level crossing of a road and a railway, where two red lights flash alternately or one red light is on, vehicles and pedestrians are prohibited from passing; where the red light is extinguished, vehicles and pedestrians are permitted to pass."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where two or more motor vehicle lanes are marked in the same direction on a road, the left lane shall be the fast lane and the right lane the slow lane. A motor vehicle travelling in the fast lane shall travel at the speed prescribed for the fast lane, and where it does not reach the speed prescribed for the fast lane, it shall travel in the slow lane. Motorcycles shall travel in the rightmost lane. Where a traffic sign indicates the driving speed, vehicles shall travel at the speed indicated. Where a motor vehicle in the slow lane overtakes the vehicle ahead, it may use the fast lane.\nWhere two or more motor vehicle lanes are marked in the same direction on a road, a motor vehicle changing lanes shall not affect the normal travel of motor vehicles travelling in the relevant lane."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Section 2 Rules for Passage of Motor Vehicles"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Motor vehicles travelling on a road shall not exceed the speed indicated by speed limit signs or markings. On roads without speed limit signs or markings, motor vehicles shall not exceed the following maximum speeds:\n(1) on roads without a road centre line, 30 kilometres per hour on urban roads and 40 kilometres per hour on highways;\n(2) on roads with only one motor vehicle lane in the same direction, 50 kilometres per hour on urban roads and 70 kilometres per hour on highways."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Section 2 Rules for Passage of Motor Vehicles"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where a motor vehicle in motion encounters any of the following circumstances, the maximum speed shall not exceed 30 kilometres per hour, and among them tractors, battery-driven vehicles and wheeled special-purpose machinery vehicles shall not exceed 15 kilometres per hour:\n(1) when entering or leaving a non-motor vehicle lane and when passing a railway crossing, sharp bend, narrow road or narrow bridge;\n(2) when making a U-turn, turning or going down a steep slope;\n(3) when encountering fog, rain, snow, sandstorms or hail with visibility within 50 metres;\n(4) when travelling on icy, snowy or muddy roads;\n(5) when towing a motor vehicle that has broken down."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Section 2 Rules for Passage of Motor Vehicles"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "When overtaking, a motor vehicle shall, in advance, switch on the left turn signal, change between the high and low beam headlights or sound the horn. On a road without a centre line or with only one motor vehicle lane in the same direction, where the vehicle ahead receives an overtaking signal from the vehicle behind, it shall, where conditions permit, reduce speed and keep to the right to give way. The vehicle behind shall, after confirming that there is a sufficient safe distance, overtake from the left of the vehicle ahead, and after opening the necessary safe distance from the overtaken vehicle, switch on the right turn signal and return to the original lane."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Section 2 Rules for Passage of Motor Vehicles"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "On a road without a central separating facility or without a centre line, a motor vehicle meeting an oncoming vehicle shall comply with the following provisions:\n(1) reduce speed and keep to the right, and maintain the necessary safe distance from other vehicles and pedestrians;\n(2) at a section with an obstacle, the party without the obstacle shall go first; however, where the party with the obstacle has already entered the section with the obstacle and the party without the obstacle has not entered, the party with the obstacle shall go first;\n(3) on a narrow sloped road, the party going uphill shall go first; however, where the party going downhill has already reached the middle of the slope and the party going uphill has not yet begun to ascend, the party going downhill shall go first;\n(4) on a narrow mountain road, the party not adjacent to the mountain body shall go first;\n(5) when meeting vehicles at night, the low beam shall be switched on at a distance of more than 150 metres from the oncoming vehicle, and the low beam shall be used when meeting non-motor vehicles on a narrow road or narrow bridge."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Section 2 Rules for Passage of Motor Vehicles"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "A motor vehicle shall not make a U-turn at a place with a sign or marking prohibiting U-turns or left turns, at a railway crossing, pedestrian crossing, bridge, sharp bend, steep slope, tunnel or a section where danger is likely to occur.\nA motor vehicle may make a U-turn at a place without a sign or marking prohibiting U-turns or left turns, provided that it does not obstruct the passage of other vehicles travelling normally and pedestrians."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Section 2 Rules for Passage of Motor Vehicles"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "When reversing, a motor vehicle driver shall observe the situation behind the vehicle and reverse after confirming safety. A vehicle shall not be reversed at a railway crossing, intersection, one-way road, bridge, sharp bend, steep slope or in a tunnel."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Section 2 Rules for Passage of Motor Vehicles"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "A motor vehicle passing through an intersection controlled by traffic signal lights shall pass in accordance with the following provisions:\n(1) at an intersection with marked guide lanes, drive into the guide lane corresponding to the intended direction of travel;\n(2) a vehicle preparing to enter a roundabout shall give way to motor vehicles already in the roundabout;\n(3) when turning left, turn to the left of the centre point of the intersection. The turn signal shall be switched on when turning, and the low beam shall be switched on when driving at night;\n(4) when encountering a go signal, pass in sequence;\n(5) when encountering a stop signal, stop in sequence beyond the stop line. Where there is no stop line, stop outside the intersection;\n(6) when turning right and encountering a vehicle ahead in the same lane waiting for a go signal, stop in sequence and wait;\n(7) at an intersection without directional indicator signal lights, turning motor vehicles shall give way to vehicles going straight and pedestrians. Right-turning motor vehicles travelling in the opposite direction shall give way to left-turning vehicles."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Section 2 Rules for Passage of Motor Vehicles"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "A motor vehicle passing through an intersection not controlled by traffic signal lights and not under the direction of traffic police shall, in addition to complying with the provisions of items (2) and (3) of Article 51, also comply with the following provisions:\n(1) where controlled by traffic signs or markings, give way to the party enjoying priority of passage;\n(2) where not controlled by traffic signs or markings, stop before entering the intersection and keep a lookout, and give way to vehicles coming from the road on the right;\n(3) turning motor vehicles shall give way to vehicles going straight;\n(4) right-turning motor vehicles travelling in the opposite direction shall give way to left-turning vehicles."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Section 2 Rules for Passage of Motor Vehicles"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where a motor vehicle encounters traffic congestion at an intersection ahead, it shall stop in sequence outside the intersection and wait, and shall not enter the intersection.\nWhere a motor vehicle encounters motor vehicles ahead stopping in a queue and waiting or travelling slowly, it shall queue in sequence and shall not cut in from either side of the vehicles ahead or overtake, and shall not stop and wait on a pedestrian crossing or within a box junction area.\nWhere, at an intersection or section where lanes are reduced, a motor vehicle encounters motor vehicles ahead stopping in a queue and waiting or travelling slowly, the vehicles shall enter the intersection or section after the reduction of lanes one by one in alternating order for each lane."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Section 2 Rules for Passage of Motor Vehicles"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "The load carried by a motor vehicle shall not exceed the approved load capacity stated in the motor vehicle driving licence, the length and width of the load shall not exceed the compartment, and the following provisions shall be complied with:\n(1) for heavy and medium goods vehicles and semi-trailers, the height of the load from the ground shall not exceed four metres, and for vehicles carrying containers, not more than 4.2 metres;\n(2) for other goods-carrying motor vehicles, the height of the load from the ground shall not exceed 2.5 metres;\n(3) for motorcycles, the height of the load from the ground shall not exceed 1.5 metres and its length shall not exceed the vehicle body by 0.2 metres. For two-wheeled motorcycles, the width of the load shall not exceed the handlebars by 0.15 metres on either side; for three-wheeled motorcycles, the width of the load shall not exceed the vehicle body.\nPassenger vehicles shall not carry goods other than on the luggage rack outside the vehicle body and in the built-in luggage compartment. Where goods are carried on the luggage rack of a passenger vehicle, the height from the roof shall not exceed 0.5 metres and the height from the ground shall not exceed four metres."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Section 2 Rules for Passage of Motor Vehicles"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Motor vehicles carrying passengers shall comply with the following provisions:\n(1) passenger vehicles on highways shall not exceed the approved number of passengers, except for children exempted from tickets in accordance with provisions; where the number of passengers is already full, children exempted from tickets in accordance with provisions shall not exceed 10 per cent of the approved number of passengers;\n(2) the compartment of a goods vehicle shall not carry passengers. On urban roads, a goods motor vehicle may, provided that safe positions are left, carry one to five temporary workers in the compartment; where the height of the load exceeds the side boards of the compartment, no persons shall be carried on the goods;\n(3) the rear seat of a motorcycle shall not carry a minor under 12 years of age, and a moped shall not carry passengers."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Section 2 Rules for Passage of Motor Vehicles"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "A motor vehicle towing a trailer shall comply with the following provisions:\n(1) goods vehicles, semi-trailer towing vehicles and tractors are permitted to tow only one trailer. The lighting signals, braking, coupling and safety protection devices of the trailer shall conform to national standards;\n(2) a small passenger vehicle is permitted to tow only a caravan trailer or a trailer with a total mass of less than 700 kilogrammes. The trailer shall not carry passengers;\n(3) the load capacity of the trailer towed by a goods vehicle shall not exceed the load capacity of the goods vehicle itself.\nLarge and medium passenger vehicles, low-speed goods vehicles, three-wheeled motor vehicles and other motor vehicles shall not tow trailers."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Section 2 Rules for Passage of Motor Vehicles"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "A motor vehicle shall use turn signals in accordance with the following provisions:\n(1) when turning left, changing to the left lane, preparing to overtake, leaving a parking place or making a U-turn, the left turn signal shall be switched on in advance;\n(2) when turning right, changing to the right lane, returning to the original lane after overtaking, or stopping at the roadside, the right turn signal shall be switched on in advance."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Section 2 Rules for Passage of Motor Vehicles"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "When travelling at night on a road without street lamps or with poor lighting, or in conditions of low visibility such as fog, rain, snow, sandstorms or hail, a motor vehicle shall switch on its headlights, position lamps and rear lamps; however, where a vehicle travelling behind in the same direction is travelling close to the vehicle ahead, the high beam shall not be used. When travelling in fog, a motor vehicle shall switch on its fog lamps and hazard warning flashers."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Section 2 Rules for Passage of Motor Vehicles"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "When passing at night through a sharp bend, sloped road, arch bridge, pedestrian crossing or an intersection not controlled by traffic signal lights, a motor vehicle shall alternately use the high and low beam headlights as a signal.\nWhen approaching a section such as a sharp bend or the top of a slope where the safe sight distance is affected, and when overtaking or encountering an emergency, a motor vehicle shall slow down and sound the horn as a signal."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Section 2 Rules for Passage of Motor Vehicles"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Where a motor vehicle breaks down or has a traffic accident on a road and obstructs traffic and is difficult to move, the hazard warning flashers shall be switched on in accordance with provisions and a warning sign shall be placed 50 to 100 metres behind the vehicle, and at night the position lamps and rear lamps shall also be switched on."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Section 2 Rules for Passage of Motor Vehicles"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Towing a broken-down motor vehicle shall comply with the following provisions:\n(1) the towed motor vehicle shall not carry passengers other than the driver and shall not tow a trailer;\n(2) the width of the towed motor vehicle shall not be greater than the width of the towing motor vehicle;\n(3) where a flexible towing device is used, the distance between the towing vehicle and the towed vehicle shall be more than four metres and less than ten metres;\n(4) where the brakes of the towed vehicle have failed, a rigid towing device shall be used for towing;\n(5) both the towing vehicle and the towed vehicle shall switch on their hazard warning flashers.\nCrane trucks and wheeled special-purpose machinery vehicles shall not tow vehicles. Motorcycles shall not tow vehicles or be towed by other vehicles.\nA broken-down motor vehicle whose steering or lighting or signal devices have failed shall be towed by a special-purpose breakdown vehicle."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Section 2 Rules for Passage of Motor Vehicles"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "When driving a motor vehicle, it is prohibited to commit any of the following acts:\n(1) driving when the doors or compartment are not properly closed;\n(2) hanging or placing articles that obstruct the driver's line of sight within the front and rear windows of the driver's cab of the motor vehicle;\n(3) acts that obstruct safe driving such as making or answering calls on a hand-held telephone and watching television;\n(4) turning off the engine or coasting in neutral when going down a steep slope;\n(5) throwing articles onto the road;\n(6) driving a motorcycle with the hands off the handlebars or hanging articles on the handlebars;\n(7) driving a motor vehicle continuously for more than four hours without stopping to rest, or with a stop-and-rest time of less than 20 minutes;\n(8) sounding the horn in areas or sections where horn sounding is prohibited."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Section 2 Rules for Passage of Motor Vehicles"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Where a motor vehicle temporarily stops on a road, the following provisions shall be complied with:\n(1) parking is prohibited on sections with signs or markings prohibiting parking, on sections with separating facilities between the motor vehicle lane and the non-motor vehicle lane or pavement, and on pedestrian crossings and construction sites;\n(2) parking is prohibited at intersections, railway crossings, sharp bends, narrow roads less than four metres wide, bridges, steep slopes and tunnels, and on sections within 50 metres of the above places;\n(3) parking is prohibited in front of bus stops, first-aid stations, petrol stations, fire hydrants and fire brigade (station) entrances and on sections within 30 metres of the above places, except for the use of the above facilities;\n(4) doors shall not be opened and persons shall not get on or off before the vehicle has come to a complete stop, and opening and closing doors shall not obstruct the passage of other vehicles and pedestrians;\n(5) when parking at the roadside, the vehicle shall keep close to the right side of the road, the driver shall not leave the vehicle, and the vehicle shall leave immediately after persons get on or off or goods are loaded or unloaded;\n(6) urban public buses shall not stop to pick up or set down passengers on sections other than the stops."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Section 2 Rules for Passage of Motor Vehicles"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "When a motor vehicle passes through a flooded road or flooded bridge, it shall stop to ascertain the water conditions and pass at a low speed after confirming safety."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Section 2 Rules for Passage of Motor Vehicles"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Where a motor vehicle carrying out-of-gauge articles passes through a railway crossing, it shall pass at the railway crossing and at the time designated by the local railway department.\nWhere a motor vehicle passes a ferry crossing, it shall comply with the direction of the ferry crossing management personnel and wait for the ferry in sequence at the designated place. When driving on or off a ferry, a motor vehicle shall proceed at a low speed."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Section 2 Rules for Passage of Motor Vehicles"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Where police vehicles, fire engines, ambulances and engineering rescue vehicles encounter traffic obstruction while carrying out emergency tasks, they may use sirens intermittently and shall comply with the following provisions:\n(1) sirens shall not be used in areas or on sections where the use of sirens is prohibited;\n(2) sirens shall not be used in urban areas at night;\n(3) when travelling in convoy, where the vehicle ahead has already used its siren, the vehicles behind shall not use their sirens."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Section 2 Rules for Passage of Motor Vehicles"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Within the compounds of units and in residential areas, motor vehicles shall travel at a low speed and give way to pedestrians; where there are speed limit signs, vehicles shall travel at the speed indicated by the signs."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Section 2 Rules for Passage of Motor Vehicles"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "A non-motor vehicle passing through an intersection controlled by traffic signal lights shall pass in accordance with the following provisions:\n(1) turning non-motor vehicles shall give priority of passage to vehicles going straight and pedestrians;\n(2) where traffic congestion occurs at the intersection ahead, it shall not enter the intersection;\n(3) when turning left, turn to the right of the centre point of the intersection;\n(4) when encountering a stop signal, stop in sequence beyond the stop line of the intersection. Where there is no stop line, stop outside the intersection;\n(5) when turning right and encountering a vehicle ahead in the same direction waiting for a go signal, it may pass if it can turn within the lane; if it cannot turn, it shall wait in sequence."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Section 3 Rules for Passage of Non-motor Vehicles"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "A non-motor vehicle passing through an intersection not controlled by traffic signal lights and not under the direction of traffic police shall, in addition to complying with the provisions of items (1), (2) and (3) of Article 68, also comply with the following provisions:\n(1) where controlled by traffic signs or markings, give way to the party enjoying priority of passage;\n(2) where not controlled by traffic signs or markings, proceed slowly or stop outside the intersection and keep a lookout, and give way to vehicles coming from the road on the right;\n(3) right-turning non-motor vehicles travelling in the opposite direction shall give way to left-turning vehicles."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Section 3 Rules for Passage of Non-motor Vehicles"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "When driving a bicycle, electric bicycle or three-wheeled vehicle across a motor vehicle lane on a section of road, a person shall dismount and push the vehicle, and where there is a pedestrian crossing or pedestrian crossing facility, shall pass through the pedestrian crossing or pedestrian crossing facility; where there is no pedestrian crossing or pedestrian crossing facility or the pedestrian crossing facility is inconvenient to use, the person shall pass straight through after confirming safety.\nA non-motor vehicle that is unable to travel within its own lane because the non-motor vehicle lane is occupied may use the adjacent motor vehicle lane on the obstructed section, and shall promptly return to the non-motor vehicle lane after passing the occupied section. Motor vehicles shall slow down and give way in such circumstances."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Section 3 Rules for Passage of Non-motor Vehicles"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "Non-motor vehicles carrying loads shall comply with the following provisions:\n(1) for bicycles, electric bicycles and motorised wheelchairs for disabled persons carrying loads, the height from the ground shall not exceed 1.5 metres, the width shall not exceed the handlebars by 0.15 metres on either side, the front end of the length shall not exceed the wheel and the rear end shall not exceed the vehicle body by 0.3 metres;\n(2) for three-wheeled vehicles and man-drawn carts carrying loads, the height from the ground shall not exceed two metres, the width shall not exceed the vehicle body by 0.2 metres on either side, and the length shall not exceed the vehicle body by one metre;\n(3) for animal-drawn carts carrying loads, the height from the ground shall not exceed 2.5 metres, the width shall not exceed the vehicle body by 0.2 metres on either side, the front end of the length shall not exceed the shaft and the rear end shall not exceed the vehicle body by one metre.\nProvisions on carrying passengers on bicycles shall be formulated by the people's governments of provinces, autonomous regions and municipalities directly under the Central Government according to local actual circumstances."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Section 3 Rules for Passage of Non-motor Vehicles"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "When driving a bicycle, three-wheeled vehicle, electric bicycle or motorised wheelchair for disabled persons on a road, the following provisions shall be complied with:\n(1) a person driving a bicycle or three-wheeled vehicle must be at least 12 years of age;\n(2) a person driving an electric bicycle or motorised wheelchair for disabled persons must be at least 16 years of age;\n(3) driving while intoxicated is prohibited;\n(4) before turning, reduce speed and signal with the hand, and sudden sharp turns are prohibited; when overtaking, the passage of the overtaken vehicle shall not be obstructed;\n(5) towing or holding on to vehicles or being towed by other vehicles is prohibited, and riding with both hands off the handlebars or holding articles in the hands is prohibited;\n(6) riding abreast while holding on to each other, chasing each other or racing in a zigzag manner is prohibited;\n(7) riding a unicycle or a bicycle ridden by two or more persons on a road is prohibited;\n(8) persons without disability of the lower limbs shall not drive motorised wheelchairs for disabled persons;\n(9) power devices shall not be fitted to bicycles or three-wheeled vehicles;\n(10) learning to drive non-motor vehicles on a road is prohibited."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Section 3 Rules for Passage of Non-motor Vehicles"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "A person driving an animal-drawn cart on a road shall be at least 16 years of age and shall comply with the following provisions:\n(1) driving while intoxicated is prohibited;\n(2) driving abreast is prohibited, and the driver shall not leave the vehicle;\n(3) overtaking is prohibited when passing through busy sections, intersections, railway crossings, pedestrian crossings, sharp bends, narrow roads or narrow bridges less than four metres wide, steep slopes, tunnels or sections where danger is likely to occur. A person driving a two-wheeled animal-drawn cart shall dismount and lead the animal;\n(4) untamed draught animals shall not be used to draw a cart, and young animals accompanying the cart shall be tethered;\n(5) when parking the vehicle, the brake shall be firmly applied and the draught animal shall be tethered."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Section 3 Rules for Passage of Non-motor Vehicles"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "Pedestrians shall not commit any of the following acts:\n(1) using sliding devices such as skateboards and roller skates on a road;\n(2) sitting, lying down, lingering or frolicking in the carriageway;\n(3) acts that obstruct road traffic safety such as chasing vehicles or throwing objects at vehicles."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Section 4 Rules for Passage of Pedestrians and Passengers"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "When crossing a motor vehicle lane, a pedestrian shall pass through a pedestrian crossing facility; where there is no pedestrian crossing facility, the pedestrian shall pass through a pedestrian crossing; where there is no pedestrian crossing, the pedestrian shall observe the traffic conditions of passing vehicles and pass straight through after confirming safety, and shall not suddenly accelerate to cross when a vehicle is approaching or step back or turn back midway."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Section 4 Rules for Passage of Pedestrians and Passengers"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "Pedestrians walking in formation on a road shall not form a line of more than two persons abreast, but this restriction shall not apply on sections where traffic control is already in force."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Section 4 Rules for Passage of Pedestrians and Passengers"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "When riding in a motor vehicle, the following provisions shall be complied with:\n(1) motor vehicles shall not be hailed and boarded in a motor vehicle lane;\n(2) boarding and alighting from the left side of a motor vehicle in a motor vehicle lane is prohibited;\n(3) opening and closing doors shall not obstruct the passage of other vehicles and pedestrians;\n(4) while the motor vehicle is in motion, the driver shall not be interfered with, no part of the body shall be stretched out of the vehicle, and jumping from the vehicle is prohibited;\n(5) when riding a two-wheeled motorcycle, a person shall sit astride facing forward."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Section 4 Rules for Passage of Pedestrians and Passengers"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "Expressways shall mark the driving speed of lanes; the maximum speed shall not exceed 120 kilometres per hour and the minimum speed shall not be less than 60 kilometres per hour.\nSmall passenger vehicles travelling on an expressway shall not exceed a maximum speed of 120 kilometres per hour, other motor vehicles shall not exceed 100 kilometres per hour, and motorcycles shall not exceed 80 kilometres per hour.\nWhere there are two lanes in the same direction, the minimum speed of the left lane shall be 100 kilometres per hour; where there are three or more lanes in the same direction, the minimum speed of the leftmost lane shall be 110 kilometres per hour and the minimum speed of the middle lane shall be 90 kilometres per hour. Where the speed indicated by a road speed limit sign is inconsistent with the above provisions on lane driving speeds, vehicles shall travel at the speed indicated by the road speed limit sign."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Section 5 Special Provisions on Expressways"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "A motor vehicle entering an expressway from a slip road shall switch on the left turn signal and enter the lane without obstructing the normal travel of motor vehicles already on the expressway.\nA motor vehicle leaving an expressway shall switch on the right turn signal, enter the deceleration lane and leave after reducing speed."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Section 5 Special Provisions on Expressways"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "When a motor vehicle travels on an expressway at a speed exceeding 100 kilometres per hour, it shall maintain a distance of more than 100 metres from the vehicle ahead in the same lane; when the speed is below 100 kilometres per hour, the distance from the vehicle ahead in the same lane may be appropriately shortened, but the minimum distance shall not be less than 50 metres."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Section 5 Special Provisions on Expressways"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "Where a motor vehicle travels on an expressway in low-visibility meteorological conditions such as fog, rain, snow, sandstorms or hail, the following provisions shall be complied with:\n(1) where visibility is less than 200 metres, switch on the fog lamps, low beam, position lamps and front and rear lamps, not exceed a speed of 60 kilometres per hour, and maintain a distance of more than 100 metres from the vehicle ahead in the same lane;\n(2) where visibility is less than 100 metres, switch on the fog lamps, low beam, position lamps, front and rear lamps and hazard warning flashers, not exceed a speed of 40 kilometres per hour, and maintain a distance of more than 50 metres from the vehicle ahead in the same lane;\n(3) where visibility is less than 50 metres, switch on the fog lamps, low beam, position lamps, front and rear lamps and hazard warning flashers, not exceed a speed of 20 kilometres per hour, and leave the expressway as soon as possible from the nearest exit.\nWhere the circumstances in the preceding paragraph occur, the expressway administration department shall issue prompt information such as speed limits and the need to maintain vehicle distance through display screens and other means."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Section 5 Special Provisions on Expressways"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "When travelling on an expressway, a motor vehicle shall not commit any of the following acts:\n(1) reversing, travelling in the wrong direction, making a U-turn across the central dividing strip, or stopping in a lane;\n(2) overtaking on a slip road, acceleration lane or deceleration lane;\n(3) straddling or running over the lane dividing line or travelling on the shoulder;\n(4) travelling or stopping in the emergency lane other than in an emergency;\n(5) testing a vehicle or learning to drive a motor vehicle."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Section 5 Special Provisions on Expressways"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "The compartment of a goods vehicle travelling on an expressway shall not carry passengers. A two-wheeled motorcycle travelling on an expressway shall not carry passengers."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Section 5 Special Provisions on Expressways"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "When passing through a road section under construction, a motor vehicle shall pay attention to the warning signs and reduce speed."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Section 5 Special Provisions on Expressways"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "The administration of road traffic safety on urban expressways shall be carried out by reference to the provisions of this Section.\nThe traffic administration department of the public security organ of a provincial, autonomous region or municipal people's government directly under the Central Government may designate the traffic administration department of the public security organ of the people's government of a city divided into districts, or a traffic administration department of the public security organ at an equivalent level, to undertake the administration of road traffic safety on expressways and urban expressways."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        },
+        "chapter": {
+          "en": "Section 5 Special Provisions on Expressways"
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "Where a traffic accident occurs on a road between motor vehicles, or between a motor vehicle and a non-motor vehicle, causing no casualties, and the parties have no dispute over the facts and causes, the parties shall, after recording the time and place of the traffic accident, the names and contact details of the opposing parties, the motor vehicle number, the driving licence number, the insurance voucher number and the points of collision, and after jointly signing, leave the scene and negotiate the matter of compensation for damage on their own. Where the parties have a dispute over the facts and causes of the traffic accident, they shall promptly report to the police."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        },
+        "chapter": {
+          "en": "Chapter V Handling of Traffic Accidents"
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "Where a traffic accident occurs on a road between non-motor vehicles, or between a non-motor vehicle and a pedestrian, causing no casualties and the basic facts and causes are clear, the parties shall first leave the scene and then negotiate the matter of compensation for damage on their own. Where the parties have a dispute over the facts and causes of the traffic accident, they shall promptly report to the police."
+        },
+        "noLabel": {
+          "en": "Article 87."
+        },
+        "chapter": {
+          "en": "Chapter V Handling of Traffic Accidents"
+        }
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "Where a traffic accident involving a motor vehicle causes damage to facilities such as roads, power supply and communications, the driver shall report to the police and wait for handling, and shall not drive away. Where the motor vehicle can be moved, it shall be moved to a place that does not obstruct traffic. The traffic administration department of the public security organ shall notify the relevant departments of the relevant circumstances of the accident."
+        },
+        "noLabel": {
+          "en": "Article 88."
+        },
+        "chapter": {
+          "en": "Chapter V Handling of Traffic Accidents"
+        }
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "Upon receiving a report of a traffic accident, the traffic administration department of the public security organ or the traffic police shall promptly rush to the scene and, in respect of an accident causing no casualties where the facts are clear and the motor vehicle can be moved, shall, after recording the circumstances of the accident, order the parties to leave the scene and restore traffic. Those refusing to leave the scene shall be forcibly removed.\nIn respect of a road traffic accident falling under the circumstances in the preceding paragraph, the traffic police may handle the matter under summary procedure and issue a written accident determination on the spot. Where the parties jointly request mediation, the traffic police may mediate the dispute over compensation for damage on the spot.\nWhere a road traffic accident causes casualties and property losses and the scene needs to be inspected and examined, the traffic administration department of the public security organ shall proceed in accordance with the norms for scene investigation. After the scene investigation is completed, the scene shall be cleared and traffic restored."
+        },
+        "noLabel": {
+          "en": "Article 89."
+        },
+        "chapter": {
+          "en": "Chapter V Handling of Traffic Accidents"
+        }
+      },
+      {
+        "no": 90,
+        "text": {
+          "en": "Where a motor vehicle covered by compulsory insurance for third-party liability of motor vehicles has a traffic accident and the insurance company is required to pay rescue expenses for rescuing injured persons, the traffic administration department of the public security organ shall notify the insurance company.\nWhere rescue of injured persons requires advance payment from the road traffic accident relief fund, the traffic administration department of the public security organ shall notify the administrative institution of the road traffic accident social relief fund."
+        },
+        "noLabel": {
+          "en": "Article 90."
+        },
+        "chapter": {
+          "en": "Chapter V Handling of Traffic Accidents"
+        }
+      },
+      {
+        "no": 91,
+        "text": {
+          "en": "The traffic administration department of the public security organ shall determine the responsibility of the parties on the basis of the role played by the conduct of the parties to the traffic accident in causing the accident and the seriousness of the fault."
+        },
+        "noLabel": {
+          "en": "Article 91."
+        },
+        "chapter": {
+          "en": "Chapter V Handling of Traffic Accidents"
+        }
+      },
+      {
+        "no": 92,
+        "text": {
+          "en": "Where a party escapes after a traffic accident occurs, the party who escapes shall bear full responsibility. However, where evidence proves that the opposing party is also at fault, the responsibility may be reduced.\nA party who intentionally destroys or forges the scene or destroys evidence shall bear full responsibility."
+        },
+        "noLabel": {
+          "en": "Article 92."
+        },
+        "chapter": {
+          "en": "Chapter V Handling of Traffic Accidents"
+        }
+      },
+      {
+        "no": 93,
+        "text": {
+          "en": "In respect of a traffic accident where the scene has been investigated and examined, the traffic administration department of the public security organ shall produce a traffic accident determination within ten days from the date of the scene investigation. Where inspection and appraisal are required, the traffic accident determination shall be produced within five days from the date on which the inspection and appraisal results are determined."
+        },
+        "noLabel": {
+          "en": "Article 93."
+        },
+        "chapter": {
+          "en": "Chapter V Handling of Traffic Accidents"
+        }
+      },
+      {
+        "no": 94,
+        "text": {
+          "en": "Where the parties have a dispute over compensation for damage in a traffic accident and all parties unanimously request mediation by the traffic administration department of the public security organ, a written application for mediation shall be submitted within ten days from the date of receipt of the traffic accident determination.\nWhere a traffic accident causes death, mediation shall begin from the date on which the funeral arrangements are concluded; where a traffic accident causes injury, mediation shall begin from the date on which treatment is concluded or the disability is determined; where a traffic accident causes property losses, mediation shall begin from the date on which the losses are determined."
+        },
+        "noLabel": {
+          "en": "Article 94."
+        },
+        "chapter": {
+          "en": "Chapter V Handling of Traffic Accidents"
+        }
+      },
+      {
+        "no": 95,
+        "text": {
+          "en": "The time limit for the traffic administration department of the public security organ to mediate a dispute over compensation for damage in a traffic accident shall be ten days. Where an agreement is reached through mediation, the traffic administration department of the public security organ shall produce a written mediation agreement and deliver it to all parties, and the mediation agreement shall take effect after being jointly signed by all parties; where no agreement is reached through mediation, the traffic administration department of the public security organ shall produce a written statement of conclusion of mediation and deliver it to all parties.\nThe items and standards of compensation for damage in traffic accidents shall be implemented in accordance with the provisions of the relevant laws."
+        },
+        "noLabel": {
+          "en": "Article 95."
+        },
+        "chapter": {
+          "en": "Chapter V Handling of Traffic Accidents"
+        }
+      },
+      {
+        "no": 96,
+        "text": {
+          "en": "Where a party brings a civil action before a people's court in respect of a dispute over compensation for damage in a traffic accident, the traffic administration department of the public security organ shall no longer accept the application for mediation.\nWhere a party brings a civil action before a people's court during the period of mediation by the traffic administration department of the public security organ, the mediation shall terminate."
+        },
+        "noLabel": {
+          "en": "Article 96."
+        },
+        "chapter": {
+          "en": "Chapter V Handling of Traffic Accidents"
+        }
+      },
+      {
+        "no": 97,
+        "text": {
+          "en": "Where a traffic accident occurs on a place other than a road and the traffic administration department of the public security organ receives a report of the case, it shall handle the matter by reference to the provisions of the Road Traffic Safety Law and these Regulations.\nTraffic accidents occurring between vehicles and trains and traffic accidents occurring at ferry crossings shall be handled in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 97."
+        },
+        "chapter": {
+          "en": "Chapter V Handling of Traffic Accidents"
+        }
+      },
+      {
+        "no": 98,
+        "text": {
+          "en": "The traffic administration department of the public security organ shall make public its working systems and working procedures, establish a system of supervisors for police conduct and discipline, and consciously accept the supervision of society and the public."
+        },
+        "noLabel": {
+          "en": "Article 98."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision over Law Enforcement"
+        }
+      },
+      {
+        "no": 99,
+        "text": {
+          "en": "When handling motor vehicle registration, issuing number plates, examining drivers and issuing licences, handling acts in violation of road traffic safety law and handling road traffic accidents, the traffic administration department of the public security organ and its traffic police shall strictly comply with the relevant provisions, shall not enforce the law beyond their authority, shall not delay the performance of their duties, and shall not alter the types and ranges of penalties without authorisation."
+        },
+        "noLabel": {
+          "en": "Article 99."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision over Law Enforcement"
+        }
+      },
+      {
+        "no": 100,
+        "text": {
+          "en": "The traffic administration department of the public security organ shall make public a telephone hotline for reporting, accept reports and complaints from the public, and promptly investigate and verify them and give feedback on the results of investigation and handling."
+        },
+        "noLabel": {
+          "en": "Article 100."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision over Law Enforcement"
+        }
+      },
+      {
+        "no": 101,
+        "text": {
+          "en": "The traffic administration department of the public security organ shall establish systems of assessment and appraisal of law enforcement quality, of responsibility for law enforcement and of accountability for errors in law enforcement, so as to prevent and correct erroneous or improper conduct in road traffic safety law enforcement."
+        },
+        "noLabel": {
+          "en": "Article 101."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision over Law Enforcement"
+        }
+      },
+      {
+        "no": 102,
+        "text": {
+          "en": "Acts in violation of the provisions of these Regulations shall be penalised in accordance with the provisions of the Road Traffic Safety Law and these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 102."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 103,
+        "text": {
+          "en": "Where motor vehicle registration or a driving licence is obtained by improper means such as deception or bribery, the motor vehicle registration certificate, number plate and driving licence or the motor vehicle driving licence shall be confiscated and the motor vehicle registration or the motor vehicle driving licence shall be revoked; the applicant shall not apply for motor vehicle registration or a motor vehicle driving licence within three years."
+        },
+        "noLabel": {
+          "en": "Article 103."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 104,
+        "text": {
+          "en": "Where a motor vehicle driver commits any of the following acts and there is no other motor vehicle driver to take over driving immediately, the traffic administration department of the public security organ may, in addition to imposing a penalty in accordance with law, move the motor vehicle driven by the driver to a place that does not obstruct traffic or to a place designated by the relevant department for parking:\n(1) failing to produce his own valid driving licence;\n(2) driving a motor vehicle of a category not conforming to the category stated in the driving licence as permitted to be driven;\n(3) continuing to drive after drinking alcohol, taking psychotropic drugs or narcotic drugs controlled by the State, suffering from a disease obstructing safe driving, or being excessively fatigued;\n(4) a trainee driving alone without a driving instructor on board to guide him."
+        },
+        "noLabel": {
+          "en": "Article 104."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 105,
+        "text": {
+          "en": "Where a motor vehicle driver is suspected of having drunk alcohol, being intoxicated or having taken psychotropic drugs or narcotic drugs controlled by the State, the driver shall accept testing and examination."
+        },
+        "noLabel": {
+          "en": "Article 105."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 106,
+        "text": {
+          "en": "Where a road passenger transport vehicle exceeds the approved number of passengers or a goods vehicle exceeds the approved load capacity, after the traffic administration department of the public security organ withholds the motor vehicle in accordance with law, the driver shall transfer the excess passengers and unload the excess goods, and the expenses shall be borne by the driver or owner of the overloaded motor vehicle."
+        },
+        "noLabel": {
+          "en": "Article 106."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 107,
+        "text": {
+          "en": "Where a motor vehicle withheld in accordance with the provisions of Articles 92, 95, 96 and 98 of the Road Traffic Safety Law is not provided with lawful proof by the driver, owner or manager within 30 days, the corresponding formalities are not completed retroactively, or the person does not come to accept handling, and after notification by the traffic administration department of the public security organ and three months of public announcement the person still does not come to accept handling, the traffic administration department of the public security organ shall deliver the motor vehicle to a qualified auction institution for auction, and the proceeds shall be turned over to the State treasury; illegally assembled motor vehicles shall be dismantled; motor vehicles reaching the scrapping standard shall be scrapped; where the motor vehicle is involved in other illegal or criminal acts, it shall be transferred to the relevant department for handling."
+        },
+        "noLabel": {
+          "en": "Article 107."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 108,
+        "text": {
+          "en": "Where traffic police make an administrative penalty decision on the spot under summary procedure, they shall inform the party concerned of the facts of the act in violation of road traffic safety law and the reasons for and basis of the penalty, and shall deliver the written decision on administrative penalty to the person penalised on the spot."
+        },
+        "noLabel": {
+          "en": "Article 108."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 109,
+        "text": {
+          "en": "Where a fine is imposed on or a driving licence is temporarily withheld from a person committing an act in violation of road traffic safety law, the decision shall be made by the traffic administration department of the public security organ of the people's government at or above the county level at the place where the act is committed, or a traffic administration department of the public security organ at an equivalent level; where the penalty is revocation of a motor vehicle driving licence, the decision shall be made by the traffic administration department of the public security organ of the people's government of a city divided into districts or a traffic administration department of the public security organ at an equivalent level.\nWhere the traffic administration department of the public security organ does not impose a penalty on the spot for an act in violation of road traffic safety law committed by a motor vehicle outside its jurisdiction, the penalty may be imposed by the traffic administration department of the public security organ at the place where the motor vehicle is registered."
+        },
+        "noLabel": {
+          "en": "Article 109."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 110,
+        "text": {
+          "en": "A party shall have the right to make statements and defend himself in respect of a penalty imposed by the traffic administration department of the public security organ and its traffic police; the traffic police shall fully listen to the party's statements and defence, and shall not aggravate the penalty because of the party's statements or defence."
+        },
+        "noLabel": {
+          "en": "Article 110."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 111,
+        "text": {
+          "en": "Tractors travelling on roads as referred to in these Regulations mean wheeled tractors such as walking tractors with a maximum design speed not exceeding 20 kilometres per hour, and wheeled tractors with a maximum design speed not exceeding 40 kilometres per hour that may engage in road transport only when towing a trailer."
+        },
+        "noLabel": {
+          "en": "Article 111."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 112,
+        "text": {
+          "en": "The competent departments of agriculture (agricultural machinery) shall periodically provide the traffic administration department of the public security organ with materials and data on tractor registration, safety technical inspection and the issuance of tractor driving licences. Where the traffic administration department of the public security organ makes a decision to temporarily withhold or revoke a driving licence or to record points in respect of a tractor driver, it shall periodically notify the relevant competent department of agriculture (agricultural machinery) of the written penalty decision and the points recorded. Where a driving licence is revoked, the licence shall also be delivered to the relevant competent department of agriculture (agricultural machinery)."
+        },
+        "noLabel": {
+          "en": "Article 112."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 113,
+        "text": {
+          "en": "Where an overseas motor vehicle enters the country to travel, an application shall be filed with the traffic administration department of the public security organ at the place of entry for a temporary passage number plate and driving licence. The temporary passage number plate and driving licence shall, according to the needs of travel, state the period of validity and the area in which travel is permitted.\nThe conditions and examination measures for overseas motor vehicles entering the country to apply for temporary passage number plates and driving licences, and for overseas persons to apply for motor vehicle driving licences, shall be prescribed by the public security department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 113."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 114,
+        "text": {
+          "en": "The standards for charging fees for motor vehicle driving licence examinations shall be prescribed by the competent pricing department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 114."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 115,
+        "text": {
+          "en": "These Regulations shall come into force on 1 May 2004. The Measures for the Administration of Motor Vehicles approved by the State Council on 11 February 1960 and promulgated by the Ministry of Communications, the Regulations of the People's Republic of China on the Administration of Road Traffic promulgated by the State Council on 9 March 1988, and the Measures for the Handling of Road Traffic Accidents promulgated by the State Council on 22 September 1991 shall be repealed simultaneously."
+        },
+        "noLabel": {
+          "en": "Article 115."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-REG-0469'] = {
     "lawId": "CN-REG-0469",
     "sourceLang": "zh",
@@ -30309,6 +31695,1335 @@
         },
         "chapter": {
           "en": "Chapter VIII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0495'] = {
+    "lawId": "CN-REG-0495",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 113 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Rules are formulated in accordance with the provisions of the Frontier Health Quarantine Law of the People's Republic of China (hereinafter referred to as the Frontier Health Quarantine Law)."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "As used in the Frontier Health Quarantine Law and these Rules:\n\"Inspection\" means the medical examination and sanitary inspection carried out by the frontier health quarantine organ (hereinafter referred to as the health quarantine organ).\n\"Quarantine-infected person\" means a person who is suffering from a quarantinable infectious disease, or a person who, upon preliminary diagnosis by the health quarantine organ, is considered to have been infected with a quarantinable infectious disease or to be in the incubation period of a quarantinable infectious disease.\n\"Quarantine-suspected person\" means a person who has been exposed to the infected environment of a quarantinable infectious disease and who may spread the quarantinable infectious disease.\n\"Isolation\" means keeping a quarantine-infected person in a designated place, restricting the person's activities and providing treatment until the danger of spreading the infectious disease is eliminated.\n\"Observation under surveillance\" means keeping a quarantine-suspected person in a designated place for diagnosis and examination.\n\"On-the-spot diagnosis and examination\" means that a person, within the period designated by the health quarantine organ, goes to the nearest health quarantine organ or other medical and health unit to undergo diagnosis and examination; or that the health quarantine organ or other medical and health unit goes to the place of residence of the person to conduct diagnosis and examination of the person.\n\"Transport equipment\" means cargo containers.\n\"Sanitary treatment\" means medical measures such as isolation, observation under surveillance and on-the-spot diagnosis and examination, and sanitary measures such as disinfection, deratting and disinsection.\n\"Infectious disease surveillance\" means epidemiological, serological, aetiological, clinical-symptomatic and other investigations and studies of specific environments and population groups in respect of other relevant influencing factors, so as to predict the occurrence, development and epidemic spread of the infectious diseases concerned.\n\"Sanitary supervision\" means sanitary inspection, sanitary appraisal, sanitary evaluation and sampling and examination carried out in the course of implementing health laws and regulations and health standards.\n\"Means of transport\" means vessels, aircraft, trains and other vehicles.\n\"Frontier port\" means a port, airport, station, land border crossing or crossing point on a boundary river open to international traffic."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The scope of the work of the health quarantine organ at a frontier port means the foreign-related hotels, restaurants and clubs serving the frontier port, the units providing food and beverages and services to inbound and outbound means of transport, and the places where quarantine, surveillance and sanitary supervision are carried out in respect of inbound and outbound persons, means of transport, containers and goods."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Inbound and outbound persons, means of transport and containers, as well as luggage, goods, postal parcels and other items that may spread quarantinable infectious diseases, shall all undergo quarantine in accordance with the provisions of these Rules, and may enter or leave the country only with the permission of the health quarantine organ."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Where the health quarantine organ discovers a quarantine-infected person, it shall immediately isolate the person, prevent any person from being infected, and deal with the matter in accordance with the provisions of Chapter VIII of these Rules.\nWhere the health quarantine organ discovers a quarantine-suspected person, it shall deal with the matter in accordance with the provisions of Chapter VIII of these Rules. However, in respect of a quarantine-suspected person in respect of a disease other than those provided in Chapter VIII, the health quarantine organ may, calculated from the time the person left the infected environment, apply on-the-spot diagnosis and examination or observation under surveillance and other sanitary treatment for a period not exceeding the longest incubation period of the infectious disease concerned."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The health quarantine organ shall prevent quarantine-infected persons and quarantine-suspected persons from leaving the country; however, in respect of a person coming from abroad who is subject to on-the-spot diagnosis and examination upon arrival and who requests to leave the country, the person may be permitted to leave the country; where the person leaves the country by means of transport, the quarantine physician shall endorse this circumstance on the outbound quarantine certificate and shall at the same time notify the person in charge of the means of transport to take the necessary preventive measures."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "At frontier ports and on inbound and outbound means of transport staying at such places, all corpses of persons who died of causes other than accidental injury and whose cause of death is unknown must be inspected by the health quarantine organ, and may be removed only after a corpse removal permit has been issued."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Where a means of transport coming from a domestic epidemic area, or a means of transport navigating within the country, is found to have a quarantinable infectious disease or a suspected quarantinable infectious disease, or to have on board a person who died of causes other than accidental injury and whose cause of death is unknown, the person in charge of the means of transport shall report to the health quarantine organ at the frontier port of arrival and accept temporary quarantine."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Where a quarantinable infectious disease is pandemic within the country or abroad, the health administration department of the State Council shall immediately request the State Council to decide to adopt part or all of the following quarantine measures:\n(1) ordering the blocking of the relevant areas of land borders and boundary rivers;\n(2) designating certain articles that must be disinfected and disinsected before they may be transported in from abroad or out from within the country;\n(3) prohibiting the transportation in from abroad or out from within the country of certain articles;\n(4) designating the first port of entry and the first airport of landing. Vessels and aircraft coming from foreign epidemic areas shall not, except in the case of distress or other special reasons, enter other ports and airports without quarantine at the first port of entry or airport."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Where inbound and outbound containers, goods, waste and used articles and other articles arrive at a port, the carrier, agent or owner of the goods must declare them to the health quarantine organ and accept health quarantine. Disinfection, deratting, disinsection or other necessary sanitary treatment shall be carried out in respect of containers, goods, waste and used articles and other articles that come from epidemic areas, are contaminated by infectious diseases, may spread quarantinable infectious diseases, or are found to contain rodents and vector insects related to human health.\nWhere the owner of containers, goods, waste and used articles and other articles requests that health quarantine and sanitary treatment be carried out elsewhere, the health quarantine organ may provide convenience and handle the matter in accordance with provisions."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The carrier, consignor or mailer of special articles such as inbound and outbound micro-organisms, human tissues, biological products, blood and blood products must declare them to the health quarantine organ and accept health quarantine, and shall complete customs clearance formalities on the strength of the special article approval form issued by the health quarantine organ. Without the permission of the health quarantine organ, such articles shall not enter or leave the country."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Luggage and articles carried or consigned by inbound and outbound passengers and crew members that may spread infectious diseases shall be subject to sanitary inspection. The health quarantine organ shall carry out sanitary treatment or destroy various foods, beverages, aquatic products and other items that come from epidemic areas or are contaminated by infectious diseases, and shall issue a sanitary treatment certificate."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where the health quarantine organ conducts sanitary inspection and necessary sanitary treatment of postal parcels that should be subject to health quarantine, the postal department shall cooperate. Without the permission of the health quarantine organ, the postal department shall not transport or deliver such parcels."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The types, forms and issuing measures of health quarantine forms and certificates shall be prescribed by the General Administration of Customs."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where a quarantinable infectious disease or a suspected quarantinable infectious disease is discovered at a frontier port or on a means of transport staying at a frontier port, or where a person dies of causes other than accidental injury and the cause of death is unknown, the units concerned at the frontier port and the person in charge of the means of transport shall immediately report to the health quarantine organ."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Epidemic Situation Notification"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where the health quarantine organ discovers a quarantinable infectious disease, a monitored infectious disease or a suspected quarantinable infectious disease, it shall notify the local health administration department and health epidemic prevention institution; where a quarantinable infectious disease is discovered, it shall also report to the health administration department of the State Council by the fastest means.\nWhere the local health epidemic prevention institution discovers a quarantinable infectious disease or a monitored infectious disease, it shall notify the health quarantine organ."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Epidemic Situation Notification"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Where a quarantinable infectious disease is prevalent in a certain area within the country or abroad, the health administration department of the State Council may declare that area to be an epidemic area."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Epidemic Situation Notification"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The health quarantine organ may, according to work needs, establish dispatched offices. The establishment, merger or dissolution of health quarantine organs shall be carried out in accordance with relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Health Quarantine Organs"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The duties of the health quarantine organ are:\n(1) to implement the Frontier Health Quarantine Law and these Rules for its implementation and the relevant State health laws and regulations;\n(2) to collect, collate and report information on the occurrence, prevalence and cessation of infectious diseases internationally and at frontier ports;\n(3) to carry out sanitary supervision of the sanitary conditions of frontier ports; to carry out quarantine inspection, infectious disease surveillance, sanitary supervision and sanitary treatment in respect of inbound and outbound means of transport, persons, containers, corpses and skeletal remains, as well as luggage, goods, postal parcels and other items that may spread quarantinable infectious diseases;\n(4) to carry out health quarantine in respect of inbound and outbound special articles such as micro-organisms, biological products, human tissues, blood and blood products, as well as animals capable of spreading human infectious diseases;\n(5) to provide inbound and outbound persons with prophylactic inoculation, health examination, medical services, international travel health consultation and health publicity;\n(6) to issue health quarantine certificates;\n(7) to carry out epidemiological investigation and research and conduct scientific experiments;\n(8) to perform other work designated by the General Administration of Customs and the health administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Health Quarantine Organs"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The duties of frontier port sanitary supervisors are:\n(1) to carry out sanitary supervision and health publicity in respect of frontier ports and inbound and outbound means of transport staying at frontier ports;\n(2) to provide technical guidance in respect of sanitary treatment such as disinfection, deratting and disinsection;\n(3) to investigate accidents such as the spread of infectious diseases, the proliferation of rodents and vector insects, food poisoning and food contamination, and to propose control measures."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Health Quarantine Organs"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "When carrying out their tasks, the staff members of the health quarantine organ and frontier port sanitary supervisors shall wear quarantine uniforms and quarantine insignia; means of transport of the health quarantine organ shall, during the period of carrying out tasks, fly the quarantine flag.\nThe forms and measures for the use of quarantine uniforms, insignia and flags shall be formulated by the General Administration of Customs in conjunction with the relevant departments and submitted to the State Council for approval."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Health Quarantine Organs"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Inbound quarantine of vessels must be carried out at the quarantine anchorage of the port or at a designated place agreed to by the health quarantine organ.\nQuarantine anchorages shall be determined by the harbour superintendency administration and the health quarantine organ through consultation, and shall be reported to the competent transport department of the State Council and the General Administration of Customs for the record."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter IV Seaport Quarantine"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The vessel agent shall, before the arrival of a vessel subject to inbound quarantine and as early as possible, notify the health quarantine organ of the following matters:\n(1) the name and nationality of the vessel, and the date and time of scheduled arrival at the quarantine anchorage;\n(2) the port of departure and the last port of call;\n(3) the number of crew members and passengers;\n(4) the type of cargo.\nThe harbour superintendency administration shall, as early as possible, notify the health quarantine organ of the confirmed date and time of arrival of the vessel at the quarantine anchorage."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter IV Seaport Quarantine"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Where a vessel subject to inbound quarantine discovers during navigation a quarantinable infectious disease or a suspected quarantinable infectious disease, or has on board a person who died of causes other than accidental injury and whose cause of death is unknown, the master must immediately report the following matters to the health quarantine organ of the port where quarantine is to be carried out:\n(1) the name and nationality of the vessel, and the date and time of scheduled arrival at the quarantine anchorage;\n(2) the port of departure and the last port of call;\n(3) the number of crew members and passengers;\n(4) the type of cargo;\n(5) the name of the disease or the main symptoms, the number of persons suffering from the disease and the number of deaths;\n(6) whether there is a ship's doctor on board."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter IV Seaport Quarantine"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "A vessel subject to inbound quarantine must display the quarantine signal in accordance with the following provisions and wait for inspection, and shall not lower the quarantine signal before the health quarantine organ has issued the inbound quarantine certificate.\nDuring the day, an international code signal flag shall be displayed at a conspicuous place:\n(1) the flag \"Q\" means: this vessel is free from infection, please issue the inbound quarantine certificate;\n(2) the flag \"QQ\" means: this vessel is infected or suspected of infection, please carry out quarantine immediately.\nAt night, light signals shall be displayed vertically at a conspicuous place:\n(1) three red lights mean: this vessel is free from infection, please issue the inbound quarantine certificate;\n(2) four lights in the order red, red, white, red mean: this vessel is infected or suspected of infection, please carry out quarantine immediately."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter IV Seaport Quarantine"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "In respect of a vessel displaying the quarantine signal, except for pilots and persons permitted by the health quarantine organ, no other person may board the vessel, and no loading or unloading of luggage, goods, postal parcels and other articles may be carried out, and no other vessel may approach; persons on board may not leave the vessel without the permission of the health quarantine organ, except in the case of the vessel being in distress; and pilots shall not pilot the vessel away from the quarantine anchorage."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Seaport Quarantine"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "A vessel applying for quarantine by telecommunications shall first apply to the health quarantine organ for sanitary inspection, and if it passes the inspection a sanitary certificate shall be issued. Within 12 months from the date of issue of the certificate, the vessel may apply for quarantine by telecommunications."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Seaport Quarantine"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "A vessel holding a valid sanitary certificate shall, 24 hours before entry, report the following matters to the health quarantine organ:\n(1) the name and nationality of the vessel, and the date and time of scheduled arrival at the quarantine anchorage;\n(2) the port of departure and the last port of call;\n(3) the number of crew members and passengers and their state of health;\n(4) the type of cargo;\n(5) the date of issue and serial number of the vessel's sanitary certificate, the date of issue and the port of issue of the deratting certificate or deratting exemption certificate, and other sanitary certificates.\nThe vessel may enter the port after the health quarantine organ has replied agreeing to the above report."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Seaport Quarantine"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Inbound quarantine of vessels shall be carried out during the period from sunrise to sunset; a port open to vessels navigating at night where vessels can berth and unberth and carry out loading and unloading operations at night shall implement 24-hour quarantine. Night quarantine shall not be carried out in respect of vessels coming from epidemic areas."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Seaport Quarantine"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "The master of a vessel subject to inbound quarantine must, when the quarantine physician comes on board, submit the maritime declaration of health signed by the master or countersigned by the ship's doctor, the crew list, the passenger list and the cargo declaration, and produce the deratting certificate or deratting exemption certificate.\nDuring inspection, the quarantine physician shall have the right to examine the ship's log and other relevant certificates; where further understanding of the sanitary conditions on board during navigation is required, the quarantine physician may put questions to the master and the ship's doctor, who must answer truthfully. Where the answer is given in writing, it shall be signed by the master and countersigned by the ship's doctor."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Seaport Quarantine"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "After the inbound inspection of a vessel is completed, the quarantine physician shall, in respect of a vessel free from infection, immediately issue an inbound quarantine certificate; where the vessel is subject to sanitary treatment or restrictions, this shall be endorsed on the inbound quarantine certificate and shall be handled in accordance with the endorsement. In respect of an infected vessel or a vessel suspected of infection, in addition to notifying the harbour superintendency administration, a sanitary treatment notice shall also be issued to the vessel; pilots on board the vessel and persons permitted by the health quarantine organ to board shall be treated as crew members and accept the relevant sanitary treatment, and the inbound quarantine certificate shall be issued after the sanitary treatment is completed.\nAfter a vessel has obtained the inbound quarantine certificate issued by the health quarantine organ, it may lower the quarantine signal."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Seaport Quarantine"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The vessel agent shall, before the departure of a vessel subject to outbound quarantine and as early as possible, notify the health quarantine organ of the following matters:\n(1) the name and nationality of the vessel, and the date and time of scheduled departure;\n(2) the port of destination and the first port of call;\n(3) the crew list and the passenger list;\n(4) the type of cargo.\nThe harbour superintendency administration shall, as early as possible, notify the health quarantine organ of the confirmed date and time of departure of the vessel.\nWhere inbound and outbound quarantine of a vessel is carried out at the same port and there is no change in the crew members and passengers, the crew list and the passenger list need not be reported; where there is a change, the list of changed crew members and passengers shall be reported."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Seaport Quarantine"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "In respect of a vessel subject to outbound quarantine, the master shall produce to the health quarantine organ the deratting certificate or deratting exemption certificate and other relevant quarantine certificates. The quarantine physician may put questions to the master and the ship's doctor concerning the health of the crew members and passengers and the sanitary conditions on board, and the master and the ship's doctor shall answer such questions truthfully."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Seaport Quarantine"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "After the outbound quarantine of a vessel is completed, the quarantine physician shall, in accordance with the quarantine results, immediately issue an outbound quarantine certificate; where the vessel cannot depart at the scheduled time due to sanitary treatment, the harbour superintendency administration shall be notified in a timely manner."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Seaport Quarantine"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "After the outbound quarantine of a vessel is completed, except for pilots and persons permitted by the health quarantine organ, no other person may board the vessel, and no loading or unloading of luggage, goods, postal parcels and other articles may be carried out. Where the above provisions are violated, outbound quarantine of the vessel must be carried out anew."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Seaport Quarantine"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "An aircraft in flight shall not drop or allow to fall any article capable of spreading infectious diseases."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter V Aviation Quarantine"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The airport station of an airport implementing health quarantine shall, before the arrival of an aircraft subject to inbound quarantine and as early as possible, notify the health quarantine organ of the following matters:\n(1) the nationality, type and number of the aircraft, its identification marks and the scheduled time of arrival;\n(2) the airport of departure and the airport of stopover;\n(3) the number of crew members and passengers."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter V Aviation Quarantine"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where an aircraft subject to inbound quarantine discovers during flight a quarantinable infectious disease or a suspected quarantinable infectious disease, or has on board a person who died of causes other than accidental injury and whose cause of death is unknown, the pilot in command shall immediately notify the airport station of the airport of arrival and report the following matters to the health quarantine organ:\n(1) the nationality, type and number of the aircraft, its identification marks and the scheduled time of arrival;\n(2) the airport of departure and the airport of stopover;\n(3) the number of crew members and passengers;\n(4) the name of the disease or the main symptoms, the number of persons suffering from the disease and the number of deaths."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V Aviation Quarantine"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "After an aircraft subject to inbound quarantine arrives at the airport, the quarantine physician shall first board the aircraft. The pilot in command or the authorised agent of the pilot in command must submit to the health quarantine organ the general declaration, the passenger list, the cargo manifest and a valid mosquito eradication certificate, as well as other relevant quarantine certificates; the pilot in command or the authorised agent of the pilot in command shall truthfully answer the questions raised by the quarantine physician concerning the sanitary conditions on board the aircraft. Before quarantine is completed, no person may board or leave the aircraft, and no loading or unloading of luggage, goods, postal parcels and other articles may be carried out, except with the permission of the health quarantine organ."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V Aviation Quarantine"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Inbound passengers must undergo inbound inspection at the designated place and at the same time answer in writing or orally the relevant questions raised by the quarantine physician. During this period, inbound passengers shall not leave the inspection site."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter V Aviation Quarantine"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "After the inspection of an inbound aircraft is completed, the quarantine physician shall, based on the inspection results and in respect of an aircraft free from infection, issue an inbound quarantine certificate; where the aircraft is subject to sanitary treatment or restrictions, this shall be endorsed on the inbound quarantine certificate and shall be executed under the responsibility of the pilot in command or the authorised agent of the pilot in command; in respect of an infected aircraft or an aircraft suspected of infection, in addition to notifying the airport station, a sanitary treatment notice shall be issued in respect of the aircraft, and the inbound quarantine certificate shall be issued after the prescribed sanitary treatment is completed."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter V Aviation Quarantine"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The airport station of an airport implementing health quarantine shall, before the take-off of an aircraft subject to outbound quarantine and as early as possible, submit to the health quarantine organ the general declaration, the cargo manifest and other relevant quarantine certificates, and notify the following matters:\n(1) the nationality, type and number of the aircraft, its identification marks and the scheduled time of take-off;\n(2) the airport of stopover and the airport of destination;\n(3) the number of crew members and passengers."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter V Aviation Quarantine"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "After the inspection of an outbound aircraft is completed, where there is no infection, the quarantine physician shall issue an outbound quarantine certificate, or shall issue the outbound quarantine certificate after the necessary sanitary treatment is completed; where the aircraft cannot take off at the scheduled time due to sanitary treatment, the airport station shall be notified in a timely manner."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter V Aviation Quarantine"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "The railway station of a station implementing health quarantine shall, before the arrival of a train subject to inbound quarantine and as early as possible, notify the health quarantine organ of the following matters:\n(1) the train number and the scheduled time of arrival;\n(2) the station of departure;\n(3) the composition of the train."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VI Land Border Quarantine"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "After a train or other vehicle subject to inbound quarantine arrives at the station or crossing point, the quarantine physician shall first board, and the train master or other person in charge of the vehicle shall declare in writing or orally to the health quarantine organ the state of health of the persons on the train or other vehicle, and shall truthfully answer the questions raised by the quarantine physician concerning the sanitary conditions and the health of the persons."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VI Land Border Quarantine"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where a train or other vehicle subject to inbound quarantine arrives at a station or crossing point, before inbound quarantine has been carried out and the inbound quarantine certificate obtained, no person may board or leave the train or other vehicle, and no loading or unloading of luggage, goods, postal parcels and other articles may be carried out, without the permission of the health quarantine organ."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VI Land Border Quarantine"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "The railway station of a station implementing health quarantine shall, before the departure of a train subject to outbound quarantine and as early as possible, notify the health quarantine organ of the following matters:\n(1) the train number and the scheduled time of departure;\n(2) the terminal station;\n(3) the composition of the train."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VI Land Border Quarantine"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where a train or other vehicle subject to inbound or outbound quarantine discovers during its journey a quarantinable infectious disease or a suspected quarantinable infectious disease, or has on board a person who died of causes other than accidental injury and whose cause of death is unknown, the train master or other person in charge of the vehicle shall, when the train or other vehicle arrives at the station or crossing point, report to the health quarantine organ."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VI Land Border Quarantine"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where, during inspection of a train subject to inbound or outbound quarantine, a quarantinable infectious disease or a suspected quarantinable infectious disease is discovered, or the train cannot depart at the scheduled time due to sanitary treatment, the health quarantine organ shall notify the station master in a timely manner. Where it is inappropriate to carry out sanitary treatment at the original stopping place of the train, the station master may choose another place within the station for carrying out the sanitary treatment. Before the treatment is completed, no person may board or leave the train, and no loading or unloading of luggage, goods, postal parcels and other articles may be carried out, without the permission of the health quarantine organ.\nIn order to ensure the normal transport of inbound through trains, the health quarantine organ may dispatch personnel to accompany the train and carry out quarantine, and the train master shall provide convenience."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VI Land Border Quarantine"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "After the inbound or outbound quarantine of a train or other vehicle is completed, the quarantine physician shall, in accordance with the quarantine results, issue an inbound or outbound quarantine certificate respectively, or shall issue the inbound or outbound quarantine certificate respectively after the necessary sanitary treatment is completed."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VI Land Border Quarantine"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Persons entering or leaving the country on foot must first undergo inbound or outbound inspection at the designated place, and shall not leave the designated place without the permission of the health quarantine organ."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VI Land Border Quarantine"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "A train or other vehicle subject to inbound or outbound quarantine that carries goods coming from an epidemic area, infected or suspected of infection, or containing vector insects and rodents capable of spreading infectious diseases shall undergo sanitary inspection and necessary sanitary treatment."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VI Land Border Quarantine"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "When carrying out sanitary treatment, staff members of the health quarantine organ must pay attention to the following matters:\n(1) preventing any harm to the health of any person;\n(2) preventing damage to the structure and equipment of the means of transport;\n(3) preventing the occurrence of fire;\n(4) preventing damage to luggage and goods."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VII Sanitary Treatment"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where inbound and outbound containers, luggage, goods, postal parcels and other articles require sanitary treatment, the treatment shall be carried out by the health quarantine organ.\nWhere an inbound or outbound means of transport falls under any of the following circumstances, disinfection, deratting, disinsection or other sanitary treatment shall be carried out by the health quarantine organ:\n(1) coming from a quarantinable infectious disease epidemic area;\n(2) contaminated by a quarantinable infectious disease;\n(3) rodents or vector insects related to human health are found in excess of the State health standards."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VII Sanitary Treatment"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Goods shipped from abroad and transported through the territory of the People's Republic of China shall not, in general, be subject to sanitary treatment unless an event of epidemiological significance occurs that requires sanitary treatment, provided that they are not transhipped within the territory."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VII Sanitary Treatment"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "In respect of inbound and outbound waste and used articles and waste and used means of transport that have previously operated at ports outside the territory, the health quarantine organ shall, according to the degree of contamination, carry out disinfection, deratting and disinsection respectively, and shall destroy those that are seriously contaminated."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VII Sanitary Treatment"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "The consignor or agent of inbound and outbound corpses and skeletal remains shall apply for health quarantine and produce the death certificate or other relevant certificates; where the requirements of health are not met, the consignor or agent must accept the sanitary treatment carried out by the health quarantine organ. Only after passing health quarantine may such corpses and skeletal remains be transported in or out.\nCorpses of patients who died of a quarantinable infectious disease must be cremated nearby and shall not be removed."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VII Sanitary Treatment"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "The health quarantine organ shall not repeat sanitary treatment in respect of a means of transport that has already undergone sanitary treatment at another port before arriving at the present port. However, sanitary treatment shall still be carried out under any of the following circumstances:\n(1) an event of epidemiological significance has occurred at the port where the sanitary treatment was originally carried out or on the means of transport, requiring further sanitary treatment;\n(2) the sanitary treatment carried out at another port before arriving at the present port has no practical effect."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VII Sanitary Treatment"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where rodents are found at a frontier port or on a means of transport to have died abnormally or the cause of death is unknown, the units concerned at the frontier port or the person in charge of the means of transport must immediately report to the health quarantine organ, promptly ascertain the cause and carry out sanitary treatment."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VII Sanitary Treatment"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "The master of a vessel on an international voyage must apply to the health quarantine organ for a rat infestation inspection once every six months; the health quarantine organ shall, on the basis of the inspection results, carry out deratting or grant exemption from deratting, and shall issue a deratting certificate or a deratting exemption certificate respectively. The certificate shall be valid for six months from the date of issue."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VII Sanitary Treatment"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "The health quarantine organ may issue a deratting exemption certificate only where, under any of the following circumstances, inspection confirms that the vessel is free from rat infestation:\n(1) the holds are empty;\n(2) although ballast or other articles are loaded in the holds, such articles do not attract rats and their arrangement does not hinder the carrying out of the rat infestation inspection.\nA deratting exemption certificate may be issued in respect of an oil tanker inspected with its tanks loaded."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VII Sanitary Treatment"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "The rat infestation inspection or deratting of a vessel shall, as far as possible, be carried out when the holds of the vessel are empty. Where a vessel cannot, for some reason, undergo rat infestation inspection or fumigation deratting on schedule and the vessel is sailing to a port where rat infestation inspection or fumigation deratting can conveniently be carried out, the validity of the vessel's existing deratting certificate or deratting exemption certificate may be extended by one month and a certificate of extension shall be issued."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VII Sanitary Treatment"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Where, in respect of a vessel on an international voyage, deratting is required to be carried out by fumigation in accordance with the standards prescribed by the State, and the vessel's deratting certificate or deratting exemption certificate has not yet expired, the health quarantine organ shall, unless the vessel is infected with or suspected of plague, notify the master of the reasons for deratting. The master shall comply with the requirements."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VII Sanitary Treatment"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "While a vessel is berthing at a port, the master shall be responsible for taking the following measures:\n(1) effective rat guards or other rat-prevention devices must be used on the mooring lines;\n(2) when gangways and gangplanks are put in place at night, they shall be illuminated with strong light;\n(3) where dead rats are found on board or rats are caught, a report shall be made to the health quarantine organ."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VII Sanitary Treatment"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Where a vessel on a domestic voyage staying at a frontier port is infested with rats, the vessel shall carry out deratting. Deratting may also be carried out by the health quarantine organ upon application by the vessel."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter VII Sanitary Treatment"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Where the health administration department of the State Council considers it necessary, it may require persons coming from abroad or from certain areas abroad to produce to the health quarantine organ, upon entry, a valid certificate of a certain prophylactic inoculation or a health certificate."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter VII Sanitary Treatment"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "The periods of validity of prophylactic inoculation shall be as follows:\n(1) yellow fever vaccine shall be valid for ten years from the tenth day after inoculation. Where revaccination is carried out less than ten years after the previous inoculation, it shall be valid for ten years from the day of revaccination;\n(2) the periods of validity of other prophylactic inoculations shall be governed by relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter VII Sanitary Treatment"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "The incubation period of plague shall be six days."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Section 1 Plague"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "A vessel or aircraft shall be deemed to be infected with plague upon arrival under any of the following circumstances:\n(1) there is a case of plague on board the vessel or aircraft;\n(2) rodents infected with plague are found on board the vessel or aircraft;\n(3) there has been a person on board the vessel who contracted plague more than six days after boarding."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Section 1 Plague"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "A vessel shall be deemed to be suspected of plague upon arrival under any of the following circumstances:\n(1) there is no case of plague on board the vessel, but there has been a person who contracted plague within six days after boarding;\n(2) rodents on board have died abnormally and the cause of death is unknown."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Section 1 Plague"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "The following sanitary treatment shall be carried out in respect of a vessel or aircraft infected with plague:\n(1) isolation of the quarantine-infected person;\n(2) disinsection of the quarantine-suspected person and, calculated from the time of arrival, on-the-spot diagnosis and examination or observation under surveillance for a period not exceeding six days. During this period, crew members on board shall not go ashore except for work needs and with the permission of the health quarantine organ;\n(3) disinsection, and where necessary disinfection, of the luggage and other articles used by quarantine-infected persons and quarantine-suspected persons and of articles considered by the health quarantine organ to be suspected of contamination;\n(4) disinsection, and where necessary disinfection, of the parts occupied by quarantine-infected persons and the parts considered by the health quarantine organ to be suspected of contamination;\n(5) where rodents infected with plague are present on the vessel or aircraft, the health quarantine organ must carry out deratting. Where only rodents not infected with plague are found on board the vessel, the health quarantine organ may also carry out deratting. Deratting may be carried out under conditions of isolation. Deratting of a vessel shall be carried out before unloading;\n(6) unloading shall be carried out under the supervision of the health quarantine organ so as to prevent the unloading workers from being infected, and where necessary, on-the-spot diagnosis and examination or observation under surveillance for a period not exceeding six days shall be carried out in respect of the unloading workers, calculated from the completion of unloading."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Section 1 Plague"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "In respect of a vessel suspected of plague, the sanitary treatment provided in items (2) to (6) of Article 71 of these Rules shall be carried out."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Section 1 Plague"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "In respect of a vessel or aircraft free from infection but coming from a plague epidemic area, the health quarantine organ may, where it considers necessary, carry out the following sanitary treatment:\n(1) in respect of quarantine-suspected persons leaving the vessel or aircraft, on-the-spot diagnosis and examination or observation under surveillance for a period not exceeding six days, calculated from the time the vessel or aircraft left the epidemic area;\n(2) under special circumstances, deratting of the vessel or aircraft."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Section 1 Plague"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "In respect of a train or other vehicle carrying a case of plague upon arrival, the following sanitary treatment shall be carried out:\n(1) the sanitary treatment provided in items (1), (3), (4) and (6) of Article 71 of these Rules;\n(2) disinsection of quarantine-suspected persons and, calculated from the time of arrival, on-the-spot diagnosis and examination or observation under surveillance for a period not exceeding six days;\n(3) where necessary, deratting of the train or other vehicle."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Section 1 Plague"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "The incubation period of cholera shall be five days."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Section 2 Cholera"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "A vessel shall be deemed to be infected with cholera where, upon arrival, it carries a case of cholera or where a case of cholera occurred on board within five days before arrival.\nA vessel shall be deemed to be suspected of cholera where a case of cholera occurred on board during navigation but no new case has occurred within five days before arrival."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Section 2 Cholera"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "An aircraft shall be deemed to be infected with cholera where, upon arrival, it carries a case of cholera.\nAn aircraft shall be deemed to be suspected of cholera where a case of cholera occurred on board during flight but the patient had already left before arrival."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Section 2 Cholera"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "The following sanitary treatment shall be carried out in respect of a vessel or aircraft infected with cholera:\n(1) isolation of the quarantine-infected person;\n(2) in respect of crew members and passengers leaving the vessel or aircraft, on-the-spot diagnosis and examination or observation under surveillance for a period not exceeding five days, calculated from the completion of sanitary treatment; within five days calculated from the arrival of the vessel, crew members on board shall not go ashore except for work needs and with the permission of the health quarantine organ;\n(3) disinfection of the luggage and other articles used by quarantine-infected persons and quarantine-suspected persons, and of articles and food suspected of contamination;\n(4) disinfection of the parts occupied by quarantine-infected persons and the parts suspected of contamination;\n(5) drinking water that is contaminated or suspected of contamination shall be disinfected before discharge, and clean drinking water shall be supplied after the water storage containers have been disinfected;\n(6) human excreta, refuse, waste water, waste materials and ballast water loaded from a cholera epidemic area shall not be discharged or removed without disinfection;\n(7) unloading must be carried out under the supervision of the health quarantine organ so as to prevent the workers from being infected, and where necessary, on-the-spot diagnosis and examination or observation under surveillance for a period not exceeding five days shall be carried out in respect of the unloading workers, calculated from the completion of unloading."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Section 2 Cholera"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "The following sanitary treatment shall be carried out in respect of a vessel or aircraft suspected of cholera:\n(1) the sanitary treatment provided in items (2) to (7) of Article 78 of these Rules;\n(2) in respect of crew members and passengers leaving the vessel or aircraft, on-the-spot diagnosis and examination or observation under surveillance for a period not exceeding five days, calculated from the time of arrival. During this period, crew members on board shall not leave the port area except for work needs and with the permission of the health quarantine organ; or, in respect of crew members and passengers leaving the vessel or aircraft, on-the-spot diagnosis and examination or observation under surveillance for a period not exceeding five days, calculated from the time they left the epidemic area."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Section 2 Cholera"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "In respect of a vessel or aircraft free from infection but coming from a cholera epidemic area, the health quarantine organ may, where it considers necessary, carry out the following sanitary treatment:\n(1) the sanitary treatment provided in items (5) and (6) of Article 78 of these Rules;\n(2) in respect of crew members and passengers leaving the vessel or aircraft, on-the-spot diagnosis and examination or observation under surveillance for a period not exceeding five days, calculated from the time they left the epidemic area."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Section 2 Cholera"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "In respect of a train or other vehicle carrying a case of cholera upon arrival, the following sanitary treatment shall be carried out:\n(1) the sanitary treatment provided in items (1), (3), (4), (5) and (7) of Article 78 of these Rules;\n(2) in respect of quarantine-suspected persons, on-the-spot diagnosis and examination or observation under surveillance for a period not exceeding five days, calculated from the time of arrival."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Section 2 Cholera"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "In respect of a means of transport coming from a cholera epidemic area or suspected of cholera, the health quarantine organ may, where it considers necessary, carry out disinsection and disinfection; where the means of transport carries aquatic products, fruit, vegetables, beverages and other food, such food shall not be unloaded without the permission of the health quarantine organ unless it is packed in sealed containers and has not been contaminated, and sanitary treatment may be carried out where necessary."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Section 2 Cholera"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "In respect of aquatic products, fruit, vegetables, beverages and postal parcels containing such products coming from a cholera epidemic area, the health quarantine organ may, when carrying out inspection, take samples for examination in order to determine whether they are contaminated, and may carry out sanitary treatment where necessary."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Section 2 Cholera"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "The incubation period of yellow fever shall be six days."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Section 3 Yellow Fever"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "Persons coming from a yellow fever epidemic area must, upon entry, produce a valid yellow fever prophylactic inoculation certificate to the health quarantine organ.\nIn respect of a person without a valid yellow fever prophylactic inoculation certificate, the health quarantine organ may, calculated from the time the person left the infected environment, carry out observation under surveillance for six days, or carry out prophylactic inoculation and keep the person under observation until the yellow fever prophylactic inoculation certificate takes effect."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        },
+        "chapter": {
+          "en": "Section 3 Yellow Fever"
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "An aircraft shall be deemed to be infected with yellow fever where, upon arrival, it carries a case of yellow fever."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        },
+        "chapter": {
+          "en": "Section 3 Yellow Fever"
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "An aircraft coming from a yellow fever epidemic area shall produce the mosquito eradication certificate issued before take-off from the epidemic area; where the mosquito eradication certificate is not produced upon arrival, or the health quarantine organ considers that the certificate produced does not meet the requirements and live mosquitoes are found on board the aircraft, the aircraft shall be deemed to be suspected of yellow fever."
+        },
+        "noLabel": {
+          "en": "Article 87."
+        },
+        "chapter": {
+          "en": "Section 3 Yellow Fever"
+        }
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "A vessel shall be deemed to be infected with yellow fever where, upon arrival, it carries a case of yellow fever or where a case of yellow fever occurred on board during navigation.\nA vessel shall be deemed to be suspected of yellow fever where, upon arrival, less than six days have passed since it left a yellow fever epidemic area, or less than 30 days have passed and Aedes aegypti or other yellow fever vectors are found on board."
+        },
+        "noLabel": {
+          "en": "Article 88."
+        },
+        "chapter": {
+          "en": "Section 3 Yellow Fever"
+        }
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "The following sanitary treatment shall be carried out in respect of a vessel or aircraft infected with yellow fever:\n(1) isolation of the quarantine-infected person;\n(2) in respect of crew members and passengers leaving the vessel or aircraft who do not hold a valid yellow fever prophylactic inoculation certificate, the sanitary treatment provided in Article 85 of these Rules;\n(3) thorough eradication of Aedes aegypti and their eggs and larvae and other yellow fever vectors on board the vessel or aircraft, and, before mosquito eradication is completed, restricting the distance between the vessel and the land and other vessels to not less than 400 metres;\n(4) unloading shall be carried out after mosquito eradication; where unloading is carried out before mosquito eradication, it shall be carried out under the supervision of the health quarantine organ and preventive measures shall be taken to protect the unloading workers from infection, and where necessary, on-the-spot diagnosis and examination or observation under surveillance for six days shall be carried out in respect of the unloading workers, calculated from the completion of unloading."
+        },
+        "noLabel": {
+          "en": "Article 89."
+        },
+        "chapter": {
+          "en": "Section 3 Yellow Fever"
+        }
+      },
+      {
+        "no": 90,
+        "text": {
+          "en": "In respect of a vessel or aircraft suspected of yellow fever, the sanitary treatment provided in items (2) to (4) of Article 89 of these Rules shall be carried out."
+        },
+        "noLabel": {
+          "en": "Article 90."
+        },
+        "chapter": {
+          "en": "Section 3 Yellow Fever"
+        }
+      },
+      {
+        "no": 91,
+        "text": {
+          "en": "In respect of a vessel or aircraft free from infection but coming from a yellow fever epidemic area, the health quarantine organ may, where it considers necessary, carry out the sanitary treatment provided in item (3) of Article 89 of these Rules."
+        },
+        "noLabel": {
+          "en": "Article 91."
+        },
+        "chapter": {
+          "en": "Section 3 Yellow Fever"
+        }
+      },
+      {
+        "no": 92,
+        "text": {
+          "en": "In respect of a train or other vehicle carrying a case of yellow fever upon arrival, or a train or other vehicle coming from a yellow fever epidemic area, the sanitary treatment provided in items (1) and (4) of Article 89 of these Rules shall be carried out; adult mosquitoes and their eggs and larvae on the train or vehicle shall be thoroughly eradicated; and in respect of crew members and passengers without a valid yellow fever prophylactic inoculation certificate, the sanitary treatment provided in Article 85 of these Rules shall be carried out."
+        },
+        "noLabel": {
+          "en": "Article 92."
+        },
+        "chapter": {
+          "en": "Section 3 Yellow Fever"
+        }
+      },
+      {
+        "no": 93,
+        "text": {
+          "en": "In respect of a person subject to on-the-spot diagnosis and examination, the health quarantine organ shall issue a record book for on-the-spot diagnosis and examination and may, where necessary, issue the record book only after the person has produced a written guarantee to perform the on-the-spot diagnosis and examination.\nA person subject to on-the-spot diagnosis and examination shall carry the record book for on-the-spot diagnosis and examination and undergo medical examination at the time and place designated by the health quarantine organ; where the result of the on-the-spot diagnosis and examination shows no infection, the person subject to on-the-spot diagnosis and examination shall, upon expiration of the period of on-the-spot diagnosis and examination, return the record book to the health quarantine organ."
+        },
+        "noLabel": {
+          "en": "Article 93."
+        },
+        "chapter": {
+          "en": "Section 4 On-the-Spot Diagnosis and Examination, Observation under Surveillance and Isolation"
+        }
+      },
+      {
+        "no": 94,
+        "text": {
+          "en": "The health quarantine organ shall, by the fastest means, notify the health quarantine organ or other medical and health unit at the place where the person subject to on-the-spot diagnosis and examination is travelling and staying of the particulars of that person.\nWhere the health quarantine organ or a medical and health unit is requested by a person subject to on-the-spot diagnosis and examination to conduct a medical examination, it shall treat the request as an emergency, conduct the medical examination and endorse the examination results in the record book for on-the-spot diagnosis and examination; where the person is found to be suffering from a quarantinable infectious disease or a monitored infectious disease, or a suspected quarantinable infectious disease or a suspected monitored infectious disease, necessary sanitary measures shall immediately be taken, the record book for on-the-spot diagnosis and examination shall be withdrawn and kept for record, and a report shall be made to the local health epidemic prevention institution and to the health quarantine organ that issued the record book."
+        },
+        "noLabel": {
+          "en": "Article 94."
+        },
+        "chapter": {
+          "en": "Section 4 On-the-Spot Diagnosis and Examination, Observation under Surveillance and Isolation"
+        }
+      },
+      {
+        "no": 95,
+        "text": {
+          "en": "A person subject to observation under surveillance must undergo observation under surveillance at the place designated by the health quarantine organ; however, with the consent of the health quarantine organ, observation under surveillance may be carried out on board a vessel under any of the following circumstances:\n(1) the master requests that crew members undergo observation under surveillance on board;\n(2) a passenger requests to undergo observation under surveillance on board, with the consent of the master and where there is a ship's doctor and medical and disinfection equipment on board."
+        },
+        "noLabel": {
+          "en": "Article 95."
+        },
+        "chapter": {
+          "en": "Section 4 On-the-Spot Diagnosis and Examination, Observation under Surveillance and Isolation"
+        }
+      },
+      {
+        "no": 96,
+        "text": {
+          "en": "Where a person subject to observation under surveillance shows symptoms of a quarantinable infectious disease during the period of observation under surveillance, the health quarantine organ shall immediately isolate the person, carry out necessary sanitary treatment in respect of other persons under observation under surveillance who have been in contact with the person, and recalculate the period of observation under surveillance from the completion of the sanitary treatment."
+        },
+        "noLabel": {
+          "en": "Article 96."
+        },
+        "chapter": {
+          "en": "Section 4 On-the-Spot Diagnosis and Examination, Observation under Surveillance and Isolation"
+        }
+      },
+      {
+        "no": 97,
+        "text": {
+          "en": "Inbound and outbound means of transport, persons, food, drinking water and other articles, as well as vector insects and animals, shall all be subject to infectious disease surveillance."
+        },
+        "noLabel": {
+          "en": "Article 97."
+        },
+        "chapter": {
+          "en": "Chapter IX Infectious Disease Surveillance"
+        }
+      },
+      {
+        "no": 98,
+        "text": {
+          "en": "The content of infectious disease surveillance shall be:\n(1) case investigation of the first case;\n(2) epidemiological investigation of outbreaks and epidemics;\n(3) investigation of sources of infection;\n(4) retrospective investigation of monitored infectious diseases at frontier ports;\n(5) isolation and identification of pathogens, serological investigation of population groups and relevant animals, and epidemiological investigation;\n(6) investigation of relevant animals, vector insects, food, drinking water and environmental factors;\n(7) observation and evaluation of the effects of disinfection, deratting and disinsection;\n(8) collection, collation, analysis and transmission of information on monitored infectious disease epidemics at frontier ports and at home and abroad;\n(9) carrying out health examination of surveillance targets and administration of patients with monitored infectious diseases, suspected patients and close contacts."
+        },
+        "noLabel": {
+          "en": "Article 98."
+        },
+        "chapter": {
+          "en": "Chapter IX Infectious Disease Surveillance"
+        }
+      },
+      {
+        "no": 99,
+        "text": {
+          "en": "The health quarantine organ shall prevent the entry of foreigners suffering from serious mental illness, infectious pulmonary tuberculosis or other infectious diseases likely to cause major harm to public health."
+        },
+        "noLabel": {
+          "en": "Article 99."
+        },
+        "chapter": {
+          "en": "Chapter IX Infectious Disease Surveillance"
+        }
+      },
+      {
+        "no": 100,
+        "text": {
+          "en": "Persons subject to inbound or outbound quarantine must, in accordance with the requirements of the quarantine physician, truthfully fill in the health declaration card and produce a valid certificate of prophylactic inoculation against a certain infectious disease, a health certificate or other relevant certificates."
+        },
+        "noLabel": {
+          "en": "Article 100."
+        },
+        "chapter": {
+          "en": "Chapter IX Infectious Disease Surveillance"
+        }
+      },
+      {
+        "no": 101,
+        "text": {
+          "en": "The health quarantine organ shall carry out infectious disease surveillance in respect of inbound and outbound persons and staff members residing in foreign-related hotels and restaurants at frontier ports, and shall take necessary preventive and control measures according to the circumstances.\nIn respect of persons coming from epidemic areas of quarantinable infectious diseases and monitored infectious diseases, the quarantine physician may, on the basis of epidemiological and medical examination results, issue a medical consultation convenience card.\nWhen the health quarantine organ or a medical and health unit is requested by a person holding a medical consultation convenience card to conduct a medical examination, it shall treat the request as an emergency and conduct the medical examination; where the person is found to be suffering from a quarantinable infectious disease or a monitored infectious disease, or a suspected quarantinable infectious disease or a suspected monitored infectious disease, necessary sanitary measures shall immediately be taken and the circumstances shall be reported to the local health epidemic prevention institution and to the health quarantine organ that issued the card."
+        },
+        "noLabel": {
+          "en": "Article 101."
+        },
+        "chapter": {
+          "en": "Chapter IX Infectious Disease Surveillance"
+        }
+      },
+      {
+        "no": 102,
+        "text": {
+          "en": "Chinese nationals applying to leave the country to reside abroad for more than one year must hold a health certificate issued by the health quarantine organ. The authorities administering the exit and entry of Chinese citizens shall complete exit formalities on the strength of the health certificate issued by the health quarantine organ.\nChinese nationals who have resided abroad for more than one year must, upon entry, declare their state of health to the health quarantine organ and, within one month after entry, undergo a health examination at the nearest health quarantine organ or at a hospital at or above the county level. The public security organ shall complete the relevant formalities on the strength of the health certificate. A copy of the health certificate shall be sent to the health quarantine organ at the original port of entry for the record.\nChinese crew members on means of transport engaged in international traffic shall hold a health certificate issued by the health quarantine organ or by a hospital at or above the county level. The items and format of the health certificate shall be uniformly prescribed by the General Administration of Customs, and the certificate shall be valid for 12 months."
+        },
+        "noLabel": {
+          "en": "Article 102."
+        },
+        "chapter": {
+          "en": "Chapter IX Infectious Disease Surveillance"
+        }
+      },
+      {
+        "no": 103,
+        "text": {
+          "en": "Where the health quarantine organ establishes an infectious disease surveillance post at a frontier port, the units concerned shall provide assistance and convenience."
+        },
+        "noLabel": {
+          "en": "Article 103."
+        },
+        "chapter": {
+          "en": "Chapter IX Infectious Disease Surveillance"
+        }
+      },
+      {
+        "no": 104,
+        "text": {
+          "en": "The health quarantine organ shall, in accordance with the content provided in Articles 18 and 19 of the Frontier Health Quarantine Law, carry out sanitary supervision in respect of frontier ports and means of transport."
+        },
+        "noLabel": {
+          "en": "Article 104."
+        },
+        "chapter": {
+          "en": "Chapter X Sanitary Supervision"
+        }
+      },
+      {
+        "no": 105,
+        "text": {
+          "en": "The sanitary requirements for frontier ports shall be:\n(1) frontier ports, and the foreign-related hotels, daily-life service units and waiting halls (rooms) for vessels, trains and aircraft at frontier ports, shall have sound sanitary systems and necessary sanitary facilities and shall maintain clean and tidy indoor and outdoor environments with good ventilation;\n(2) the departments concerned at frontier ports shall adopt practicable measures to control rodents and vector insects so as to reduce their numbers to a level at which they are no longer harmful. Warehouses and goods yards must be provided with rat-prevention facilities;\n(3) refuse, waste materials, sewage and excrement at frontier ports must undergo harmless treatment so as to maintain a clean and hygienic environment at frontier ports."
+        },
+        "noLabel": {
+          "en": "Article 105."
+        },
+        "chapter": {
+          "en": "Chapter X Sanitary Supervision"
+        }
+      },
+      {
+        "no": 106,
+        "text": {
+          "en": "The sanitary requirements for means of transport shall be:\n(1) sleeping cabins and carriages on means of transport must be kept clean and hygienic and well ventilated;\n(2) means of transport must be equipped with sufficient disinfectants, deratting and disinsection agents and apparatus, and with rat-prevention devices;\n(3) cargo holds, luggage compartments and freight carriages on means of transport shall be thoroughly cleaned before loading or after unloading; toxic articles and food shall not be stowed together so as to prevent contamination;\n(4) inbound and outbound means of transport that do not meet the sanitary requirements must accept the supervision of the health quarantine organ and immediately carry out improvements."
+        },
+        "noLabel": {
+          "en": "Article 106."
+        },
+        "chapter": {
+          "en": "Chapter X Sanitary Supervision"
+        }
+      },
+      {
+        "no": 107,
+        "text": {
+          "en": "The sanitary requirements for drinking water, food and persons engaged in such work shall be:\n(1) food and drinking water at frontier ports and on means of transport must conform to the relevant health standards;\n(2) foreign-related hotels at frontier ports and departments providing catering services to inbound and outbound means of transport must obtain a health permit issued by the health quarantine organ;\n(3) persons engaged in work involving food and drinking water in foreign-related hotels at frontier ports and on inbound and outbound means of transport shall hold a valid health certificate."
+        },
+        "noLabel": {
+          "en": "Article 107."
+        },
+        "chapter": {
+          "en": "Chapter X Sanitary Supervision"
+        }
+      },
+      {
+        "no": 108,
+        "text": {
+          "en": "The units concerned at frontier ports and the persons in charge of means of transport shall observe the following matters:\n(1) observing the provisions of the Frontier Health Quarantine Law, these Rules and the relevant health laws and regulations;\n(2) accepting the supervision and inspection of sanitary supervisors and providing convenience for their work;\n(3) in accordance with the recommendations of sanitary supervisors, promptly taking improvement measures in respect of the sanitary conditions of frontier ports and means of transport."
+        },
+        "noLabel": {
+          "en": "Article 108."
+        },
+        "chapter": {
+          "en": "Chapter X Sanitary Supervision"
+        }
+      },
+      {
+        "no": 109,
+        "text": {
+          "en": "Acts subject to administrative penalty as provided in the Frontier Health Quarantine Law and these Rules mean:\n(1) a vessel subject to inbound quarantine failing to display the quarantine signal;\n(2) an inbound or outbound means of transport, before inbound quarantine or after outbound quarantine, allowing persons to board or leave, or loading or unloading luggage, goods, postal parcels and other articles, without authorisation;\n(3) refusing to accept quarantine, resisting sanitary supervision, or refusing to accept sanitary treatment;\n(4) forging or altering quarantine forms or certificates, or failing to declare the epidemic situation truthfully;\n(5) concealing the carrying of prohibited imported micro-organisms, human tissues, biological products, blood and blood products or other animals and articles likely to cause the spread of infectious diseases;\n(6) an inbound or outbound means of transport that has not undergone quarantine leaving the quarantine site without authorisation so as to evade inspection;\n(7) concealing the epidemic situation or fabricating the particulars thereof;\n(8) without sanitary treatment by the health quarantine organ, discharging ballast water or removing controlled articles such as refuse and contaminated materials without authorisation;\n(9) without sanitary treatment by the health quarantine organ, removing corpses or skeletal remains without authorisation;\n(10) waste and used articles and waste and used means of transport that, without declaring to the health quarantine organ and without sanitary treatment by the health quarantine organ and the issuance of a health quarantine certificate, enter or leave the country or are used or dismantled without authorisation;\n(11) without inspection by the health quarantine organ, removing a patient with an infectious disease from a means of transport, thereby creating a risk of spreading the infectious disease."
+        },
+        "noLabel": {
+          "en": "Article 109."
+        },
+        "chapter": {
+          "en": "Chapter XI Penalty Provisions"
+        }
+      },
+      {
+        "no": 110,
+        "text": {
+          "en": "Where a person commits the acts listed in items (1) to (5) of Article 109 of these Rules, the person shall be given a warning or a fine of not less than 100 yuan but not more than 5,000 yuan;\nwhere a person commits the acts listed in items (6) to (9) of Article 109 of these Rules, the person shall be fined not less than 1,000 yuan but not more than 10,000 yuan;\nwhere a person commits the acts listed in items (10) and (11) of Article 109 of these Rules, the person shall be fined not less than 5,000 yuan but not more than 30,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 110."
+        },
+        "chapter": {
+          "en": "Chapter XI Penalty Provisions"
+        }
+      },
+      {
+        "no": 111,
+        "text": {
+          "en": "When collecting a fine, the health quarantine organ shall issue an official receipt for the fine. All fines shall be turned over to the State treasury."
+        },
+        "noLabel": {
+          "en": "Article 111."
+        },
+        "chapter": {
+          "en": "Chapter XI Penalty Provisions"
+        }
+      },
+      {
+        "no": 112,
+        "text": {
+          "en": "The standards for charging fees by frontier health quarantine organs for carrying out health quarantine shall be formulated by the General Administration of Customs in conjunction with the finance and price departments of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 112."
+        },
+        "chapter": {
+          "en": "Chapter XII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 113,
+        "text": {
+          "en": "These Rules shall come into force on the date of promulgation."
+        },
+        "noLabel": {
+          "en": "Article 113."
+        },
+        "chapter": {
+          "en": "Chapter XII Supplementary Provisions"
         }
       }
     ]
