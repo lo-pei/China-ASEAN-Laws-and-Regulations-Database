@@ -1,12 +1,768 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p18
-   法规 68 部 / 译文 2051 条
+   法规 69 部 / 译文 2114 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
   'use strict';
   var TR = root.CALR_TRANS = root.CALR_TRANS || {};
+
+  TR['CN-REG-0422'] = {
+    "lawId": "CN-REG-0422",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 63 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the Securities Law of the People's Republic of China (hereinafter referred to as the Securities Law) and the Enterprise Bankruptcy Law of the People's Republic of China (hereinafter referred to as the Enterprise Bankruptcy Law) for the purpose of controlling and resolving the risks of securities companies, protecting the lawful rights and interests of investors and the public interest of society, and safeguarding the sound development of the securities industry."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The securities regulatory authority of the State Council shall, in accordance with law, organise, coordinate and supervise the work of handling the risks of securities companies."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The securities regulatory authority of the State Council shall, together with the People's Bank of China, the finance department of the State Council, the public security department of the State Council, other financial regulatory authorities of the State Council and the provincial people's governments, establish a mechanism of coordination, cooperation and rapid response for handling the risks of securities companies."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "In the course of handling the risks of securities companies, the local people's governments concerned shall take effective measures to maintain social stability."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "In the course of handling the risks of securities companies, the normal conduct of securities brokerage business shall be ensured."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Where the securities regulatory authority of the State Council finds that a securities company has major hidden risks, it may dispatch an on-site risk monitoring working group to conduct a special inspection of the securities company, monitor its operational and management activities such as allocating funds, disposing of assets, redeploying personnel, using seals and concluding and performing contracts, and promptly notify the local people's governments concerned of the situation."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        },
+        "chapter": {
+          "en": "Chapter II Suspension of Business for Rectification, Custody, Takeover and Administrative Reorganisation"
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Where the risk control indicators of a securities company do not conform to the relevant provisions and the company fails to complete rectification within the prescribed period, the securities regulatory authority of the State Council may order the securities company to suspend part or all of its business for rectification. The period of suspension for rectification shall not exceed three months.\nWhere a securities company is ordered to suspend its securities brokerage business for rectification, it may, within the prescribed period, entrust its securities brokerage business to a securities company recognised by the securities regulatory authority of the State Council, or transfer its clients to other securities companies. Where a securities company fails to entrust its securities brokerage business as required or fails to transfer its clients within the prescribed period, the securities regulatory authority of the State Council shall transfer the clients to other securities companies."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Suspension of Business for Rectification, Custody, Takeover and Administrative Reorganisation"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Where a securities company falls under any of the following circumstances, the securities regulatory authority of the State Council may place its securities brokerage and other client-related business under custody; where the circumstances are serious, it may take over the securities company:\n(a) its governance is chaotic and its management is out of control;\n(b) it misappropriates client assets and is unable to make up for them on its own;\n(c) it repeatedly defaults on settlement in securities trading settlement or the amount of its settlement default is relatively large;\n(d) its risk control indicators do not conform to the provisions and a major financial crisis arises; or\n(e) other circumstances that may affect the continued operation of the securities company."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Suspension of Business for Rectification, Custody, Takeover and Administrative Reorganisation"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Where the securities regulatory authority of the State Council decides to place the securities brokerage and other client-related business of a securities company under custody, it shall, in accordance with the prescribed procedure, select professional institutions such as securities companies to form a custody group to exercise the operational and management powers over the securities brokerage and other client-related business of the securities company under custody.\nThe custody group shall perform the following duties from the date of custody:\n(a) to ensure the normal and compliant operation of the securities brokerage business of the securities company and, where necessary, to advance operating funds and clients' trading settlement funds in accordance with the provisions;\n(b) to take effective measures to safeguard the security of client assets during the custody period;\n(c) to verify the risks existing in the securities company, promptly report emergencies arising in the course of business operation to the securities regulatory authority of the State Council and propose solutions; and\n(d) other duties required to be performed by the securities regulatory authority of the State Council.\nThe custody period shall generally not exceed 12 months. Where continued custody is genuinely required after 12 months, the securities regulatory authority of the State Council may decide to extend the custody period, but the extension shall not exceed 12 months at the longest."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Suspension of Business for Rectification, Custody, Takeover and Administrative Reorganisation"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The securities company under custody shall bear the custody fees and the operating expenses during the custody period. The securities regulatory authority of the State Council shall examine the custody fees and the operating expenses during the custody period.\nThe custody group shall not bear the losses of the securities company under custody."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Suspension of Business for Rectification, Custody, Takeover and Administrative Reorganisation"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Where the securities regulatory authority of the State Council decides to take over a securities company, it shall, in accordance with the prescribed procedure, organise professional personnel to form a takeover group to exercise the operational and management powers of the securities company under takeover, the person in charge of the takeover group shall exercise the functions and powers of the legal representative of the securities company under takeover, and the shareholders' meeting or general meeting of shareholders, the board of directors, the board of supervisors and the manager and deputy managers of the securities company under takeover shall cease to perform their duties.\nThe takeover group shall perform the following duties from the date of takeover:\n(a) to take over the property, seals, account books, documents and other materials of the securities company;\n(b) to decide on the management affairs of the securities company;\n(c) to ensure the normal and compliant operation of the securities brokerage business of the securities company and improve its internal control systems;\n(d) to verify the property of the securities company and preserve and recover assets in accordance with law;\n(e) to control the risks of the securities company and propose a risk resolution plan;\n(f) to verify the unlawful acts of the relevant personnel of the securities company; and\n(g) other duties required to be performed by the securities regulatory authority of the State Council.\nThe takeover period shall generally not exceed 12 months. Where continued takeover is genuinely required after 12 months, the securities regulatory authority of the State Council may decide to extend the takeover period, but the extension shall not exceed 12 months at the longest."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Suspension of Business for Rectification, Custody, Takeover and Administrative Reorganisation"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Where a major risk arises in a securities company but the following conditions are met, the securities regulatory authority of the State Council may carry out administrative reorganisation of the company:\n(a) its financial information is true and complete;\n(b) the provincial people's government or the parties concerned provide support; and\n(c) its rectification measures are specific and it has a feasible reorganisation plan.\nWhere a securities company that has been ordered to suspend business for rectification or has been placed under custody or taken over meets the conditions specified in the preceding paragraph, the securities regulatory authority of the State Council may also carry out administrative reorganisation of the company."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Suspension of Business for Rectification, Custody, Takeover and Administrative Reorganisation"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Administrative reorganisation of a securities company may take the form of capital injection, equity reorganisation, debt reorganisation, asset reorganisation, merger or other means.\nThe period of administrative reorganisation shall generally not exceed 12 months. Where the administrative reorganisation is not completed after 12 months, the securities regulatory authority of the State Council may decide to extend the period, but the extension shall not exceed six months at the longest.\nThe securities regulatory authority of the State Council shall coordinate and guide the administrative reorganisation of securities companies."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Suspension of Business for Rectification, Custody, Takeover and Administrative Reorganisation"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Where the securities regulatory authority of the State Council makes a decision to handle a securities company by ordering it to suspend business for rectification, placing it under custody, taking it over or carrying out administrative reorganisation, it shall make a public announcement and post the announcement at the business premises of the securities company being handled.\nThe handling decision shall include the name of the securities company being handled, the handling measures, the grounds and the scope and other relevant matters.\nThe date of the public announcement of the handling decision shall be the date of handling, and the handling decision shall take effect at the time of the announcement."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Suspension of Business for Rectification, Custody, Takeover and Administrative Reorganisation"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where a securities company is ordered to suspend business for rectification or is placed under custody, taken over or subjected to administrative reorganisation, its creditor-debtor relationships shall not change by reason of the handling decision."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Suspension of Business for Rectification, Custody, Takeover and Administrative Reorganisation"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where a securities company meets the conditions for normal operation within the prescribed period after suspension of business for rectification, custody, takeover or administrative reorganisation, it may resume normal operation with the approval of the securities regulatory authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Suspension of Business for Rectification, Custody, Takeover and Administrative Reorganisation"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Where a securities company still fails to meet the conditions for normal operation within the prescribed period after suspension of business for rectification, custody, takeover or administrative reorganisation but is able to repay debts as they fall due, the securities regulatory authority of the State Council shall revoke its securities business licence in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Suspension of Business for Rectification, Custody, Takeover and Administrative Reorganisation"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "A securities company whose securities business licence has been revoked shall cease operating securities business and, following the principle of client voluntariness, place its clients with other securities companies, and the parties concerned shall, in the course of such placement, take the necessary measures to ensure the normal conduct of clients' securities trading.\nWhere a securities company whose securities business licence has been revoked has clients not yet placed and other such circumstances, the securities regulatory authority of the State Council may, by reference to the provisions of Chapter III of these Regulations, establish an administrative liquidation group to liquidate accounts, place clients and transfer securities assets."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Suspension of Business for Rectification, Custody, Takeover and Administrative Reorganisation"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Where a securities company simultaneously falls under the following circumstances, the securities regulatory authority of the State Council may directly revoke the securities company:\n(a) its unlawful operations are particularly serious and enormous operational risks exist;\n(b) it is unable to repay debts as they fall due and its assets are insufficient to repay all its debts or it clearly lacks the capacity to repay; and\n(c) the securities investor protection fund needs to be used."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Revocation"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where a securities company still fails to meet the conditions for normal operation within the prescribed period after suspension of business for rectification, custody, takeover or administrative reorganisation and falls under the circumstances specified in item (b) or item (c) of Article 19 of these Regulations, the securities regulatory authority of the State Council shall revoke the securities company."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Revocation"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where the securities regulatory authority of the State Council revokes a securities company, it shall make a revocation decision and, in accordance with the prescribed procedure, select professional institutions such as law firms and accounting firms to form an administrative liquidation group to carry out administrative liquidation of the securities company.\nThe revocation decision shall be publicly announced, the date of the public announcement of the revocation decision shall be the date of handling, and the revocation decision shall take effect at the time of the announcement.\nWhere the securities regulatory authority of the State Council had already carried out administrative liquidation of a securities company before these Regulations came into force, the date of the public announcement of the administrative liquidation shall be the date of handling."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Revocation"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "During administrative liquidation, the person in charge of the administrative liquidation group shall exercise the functions and powers of the legal representative of the revoked securities company.\nThe administrative liquidation group shall perform the following duties:\n(a) to manage the property, seals, account books, documents and other materials of the securities company;\n(b) to liquidate accounts, verify the relevant circumstances of assets and liabilities and register claims conforming to the provisions of the State;\n(c) to assist in screening, confirming and purchasing claims conforming to the provisions of the State;\n(d) to assist the administrative institution of the securities investor protection fund in making up clients' trading settlement funds;\n(e) to place clients following the principle of client voluntariness;\n(f) to transfer securities assets; and\n(g) other duties required to be performed by the securities regulatory authority of the State Council.\nThe securities assets referred to in the preceding paragraph mean assets such as computer information management systems, trading systems, communication network systems and trading seats that are necessary for a securities company to maintain the normal conduct of securities brokerage business."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Revocation"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The shareholders' meeting or general meeting of shareholders, the board of directors, the board of supervisors and the manager and deputy managers of the revoked securities company shall cease to perform their duties.\nDuring administrative liquidation, the shareholders of the revoked securities company shall not organise liquidation on their own and shall not participate in the administrative liquidation work."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Revocation"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "During administrative liquidation, the securities brokerage and other client-related business of the revoked securities company shall be placed under custody with professional institutions such as securities companies selected by the securities regulatory authority of the State Council in accordance with the prescribed procedure."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Revocation"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Where the assets, personnel, finances or business of an affiliated company established or actually controlled by a securities company are commingled with those of the revoked securities company, the affiliated company shall, upon examination and approval by the securities regulatory authority of the State Council, be included within the scope of administrative liquidation."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Revocation"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The creditor-debtor relationships of a securities company shall not change by reason of its revocation.\nFrom the date of revocation of a securities company, interest on the debts of the securities company shall cease to accrue."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Revocation"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The results of the administrative liquidation group's liquidation of the accounts of the revoked securities company shall be audited by an accounting firm qualified for securities and futures-related business and reported to the securities regulatory authority of the State Council for confirmation.\nOn the basis of the account liquidation results confirmed by the securities regulatory authority of the State Council, the administrative liquidation group shall apply to the administrative institution of the securities investor protection fund for funds to make up clients' trading settlement funds."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Revocation"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The administrative liquidation group shall, within 10 days from the date of its establishment, make a public announcement of the relevant matters requiring registration by creditors.\nCreditors conforming to the relevant provisions of the State shall, within 90 days from the date of the public announcement, declare their claims to the administrative liquidation group with the relevant supporting materials, and the administrative liquidation group shall register them in accordance with the provisions. Claims declared after the time limit without justified reason shall not be registered.\nWhere registered claims are screened and confirmed to conform to the State provisions on purchase, the administrative liquidation group shall promptly apply for purchase funds in accordance with the relevant provisions of the State and assist in the purchase; where they are screened and confirmed not to conform to the State provisions on purchase, the administrative liquidation group shall inform the creditors who declared them."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Revocation"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The administrative liquidation group shall transfer securities assets by public means such as tender and public inquiry among institutions qualified to operate securities business. The plan for the transfer of securities assets shall be reported to the securities regulatory authority of the State Council for approval."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Revocation"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "The administrative liquidation group shall not transfer assets other than securities assets, except assets that are perishable and may suffer loss, or other circumstances genuinely for the protection of the interests of clients and creditors, with the approval of the securities regulatory authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Revocation"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The administrative liquidation group shall not make individual repayment of debts, except in the following circumstances for the protection of the interests of clients and creditors:\n(a) debts arising from the administrative liquidation group's request that the other party perform a contract that neither party has fully performed;\n(b) normal expenditures such as employees' labour remuneration and social insurance premiums that should be paid to maintain the normal conduct of business; and\n(c) other expenses arising from the performance of duties by the administrative liquidation group."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Revocation"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "In order to protect the interests of creditors, the administrative liquidation group may, with the approval of the securities regulatory authority of the State Council, apply to a people's court for realisation and disposal of securities assets and other assets that were subjected to compulsory measures such as sealing up, seizure and freezing before the handling, and the funds realised shall be frozen."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III Revocation"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Administrative liquidation expenses shall, after examination by the securities regulatory authority of the State Council, be repaid at any time out of the property of the securities company being handled.\nThe administrative liquidation expenses referred to in the preceding paragraph mean the expenses required by the administrative liquidation group to manage and transfer the property of the securities company, the expenses of the administrative liquidation group in performing its duties and engaging professional institutions, and the like."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter III Revocation"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The period of administrative liquidation shall generally not exceed 12 months. Where the administrative liquidation is not completed after 12 months, the securities regulatory authority of the State Council may decide to extend the period, but the extension shall not exceed 12 months at the longest."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter III Revocation"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "During administrative liquidation, the securities company being handled shall be exempt from administrative fees and from taxes prescribed by administrative regulations such as value-added tax and business tax."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter III Revocation"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Where a securities company is ordered to close in accordance with law by the securities regulatory authority of the State Council and administrative liquidation is required, the relevant provisions of this Chapter shall apply by reference."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter III Revocation"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Where a securities company that has been revoked or closed in accordance with law falls under the circumstances specified in Article 2 of the Enterprise Bankruptcy Law, the securities regulatory authority of the State Council or the administrative liquidation group entrusted by it may, after the administrative liquidation work is completed, apply to a people's court for bankruptcy liquidation of the revoked or closed securities company in accordance with the relevant provisions of the Enterprise Bankruptcy Law."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Bankruptcy Liquidation and Reorganisation"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where a securities company falls under the circumstances specified in Article 2 of the Enterprise Bankruptcy Law, the securities regulatory authority of the State Council may directly apply to a people's court for reorganisation of the securities company.\nA securities company or its creditors may, in accordance with the relevant provisions of the Enterprise Bankruptcy Law, file an application with a people's court for bankruptcy liquidation or reorganisation of the securities company, but shall report it to the securities regulatory authority of the State Council for approval in accordance with Article 122 of the Securities Law."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Bankruptcy Liquidation and Reorganisation"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "For a securities company that does not require the use of the securities investor protection fund, the securities regulatory authority of the State Council shall revoke its securities business licence before approving bankruptcy liquidation. The securities company shall cease operating securities business and place its clients in accordance with Article 18 of these Regulations.\nFor a securities company that requires the use of the securities investor protection fund, the securities regulatory authority of the State Council shall not approve the application of the securities company or its creditors for bankruptcy liquidation, and shall revoke the securities company in accordance with Chapter III of these Regulations and carry out administrative liquidation."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter IV Bankruptcy Liquidation and Reorganisation"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where a people's court rules to accept an application for reorganisation or bankruptcy liquidation of a securities company, the securities regulatory authority of the State Council may recommend candidates for administrator to the people's court."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter IV Bankruptcy Liquidation and Reorganisation"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where a securities company undergoes bankruptcy liquidation, claims that were registered during administrative liquidation but do not conform to the State provisions on purchase may be registered directly by the administrator."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IV Bankruptcy Liquidation and Reorganisation"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where a people's court rules to reorganise a securities company, the securities company or the administrator shall simultaneously submit the draft reorganisation plan to the creditors' meeting, the securities regulatory authority of the State Council and the people's court."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter IV Bankruptcy Liquidation and Reorganisation"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Within 10 days from the date the voting groups of the creditors' meeting approve the draft reorganisation plan, the securities company or the administrator shall apply to the people's court for approval of the reorganisation plan. Where the reorganisation plan involves matters specified in Article 122 of the Securities Law, the securities company or the administrator shall simultaneously apply to the securities regulatory authority of the State Council for approval of the relevant matters, and the securities regulatory authority of the State Council shall, within 15 days from the date of receipt of the application, make a decision to approve or not to approve."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter IV Bankruptcy Liquidation and Reorganisation"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where some voting groups of the creditors' meeting do not approve the draft reorganisation plan but the draft reorganisation plan meets the conditions specified in paragraph 2 of Article 87 of the Enterprise Bankruptcy Law, the securities company or the administrator may apply to the people's court for approval of the draft reorganisation plan. Where the draft reorganisation plan involves matters specified in Article 122 of the Securities Law, the securities company or the administrator shall simultaneously apply to the securities regulatory authority of the State Council for approval of the relevant matters, and the securities regulatory authority of the State Council shall, within 15 days from the date of receipt of the application, make a decision to approve or not to approve."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter IV Bankruptcy Liquidation and Reorganisation"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "The approved reorganisation plan shall be implemented by the securities company, and the administrator shall be responsible for supervision. Upon expiry of the supervision period, the administrator shall submit a supervision report to the people's court and the securities regulatory authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter IV Bankruptcy Liquidation and Reorganisation"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where the relevant matters of the reorganisation plan are not approved by the securities regulatory authority of the State Council, or the reorganisation plan is not approved by the people's court, the people's court shall rule to terminate the reorganisation procedure and declare the securities company bankrupt."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter IV Bankruptcy Liquidation and Reorganisation"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where the reorganisation procedure is terminated and the people's court declares the securities company bankrupt, the securities regulatory authority of the State Council shall make a revocation decision in respect of the securities company, and the people's court shall organise bankruptcy liquidation in accordance with the provisions of the Enterprise Bankruptcy Law. Matters involving taxation shall be carried out in accordance with the provisions of the Enterprise Bankruptcy Law and the Law of the People's Republic of China on the Administration of Tax Collection.\nWhere the people's court considers that administrative liquidation of the securities company should be carried out, the securities regulatory authority of the State Council shall, by reference to the provisions of Chapter III of these Regulations, establish an administrative liquidation group to be responsible for liquidating accounts, assisting in screening, confirming and purchasing claims conforming to the provisions of the State, assisting the administrative institution of the securities investor protection fund in making up clients' trading settlement funds, and transferring securities assets."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter IV Bankruptcy Liquidation and Reorganisation"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "The securities regulatory authority of the State Council shall, in the work of handling the risks of securities companies, perform the following duties:\n(a) to formulate plans for handling the risks of securities companies and organise their implementation;\n(b) to dispatch on-site risk handling working groups to supervise and guide the securities companies being handled, custody groups, takeover groups, administrative liquidation groups, administrators and other institutions and personnel participating in risk handling;\n(c) to coordinate with securities exchanges, securities registration and settlement institutions and the administrative institution of the securities investor protection fund so as to ensure the normal conduct of the securities brokerage business of securities companies being handled;\n(d) to file and investigate the unlawful acts of securities companies and impose penalties;\n(e) to promptly notify the public security organs and other parties of suspected criminal offences and refer suspected criminal cases in accordance with the relevant provisions;\n(f) to notify the local people's governments concerned of the risk situation of securities companies and the circumstances affecting social stability; and\n(g) other duties required to be performed by laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Coordination"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where a suspected criminal case is discovered in the course of handling the risks of securities companies and falls within the jurisdiction of the public security organs, it shall be uniformly organised by the public security department of the State Council for investigation and handling in accordance with law. The local people's governments concerned shall provide support and cooperation.\nWhere on-site risk handling working groups, administrative liquidation groups or administrators need to inquire into or copy materials relating to their work from materials seized by public security organs, the public security organs shall provide support and cooperation. Where a securities company enters bankruptcy proceedings, the public security organs shall, in accordance with law, transfer the frozen assets involved in the case to the people's court accepting the bankruptcy case and retain the necessary relevant evidentiary materials."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Coordination"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where the securities regulatory authority of the State Council handles a securities company in accordance with Chapters II and III of these Regulations, it may apply to a people's court for suspension of civil proceedings or execution proceedings in which the securities company and its branches are the defendant, third party or person subject to execution.\nWhere the assets, personnel, finances or business of an affiliated company established or actually controlled by a securities company are commingled with those of the securities company being handled, the securities regulatory authority of the State Council may apply to a people's court for suspension of civil proceedings or execution proceedings in which the affiliated company is the defendant, third party or person subject to execution.\nDuring the period in which the measures specified in the preceding two paragraphs are taken, no individual repayment of the debts of the securities company being handled shall be made, except in the circumstances specified in Article 31 of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Coordination"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where a securities company being handled or its affiliated clients may transfer or conceal unlawful funds or securities, or the securities company may make individual repayment of debts in violation of these Regulations, the securities regulatory authority of the State Council may prohibit the transfer out of funds and securities from the relevant fund accounts and securities accounts."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Coordination"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "The people's governments of the places where securities companies being handled and their branches are located shall, in accordance with the relevant provisions of the State, cooperate with the work of handling the risks of securities companies, formulate contingency plans for maintaining social stability, investigate, prevent and resolve factors of instability, and maintain the normal business order of the securities companies being handled.\nThe people's governments of the places where securities companies being handled and their branches are located shall organise personnel of the relevant units to form a screening and confirmation group for individual claims to screen and confirm the registered individual claims in accordance with the provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Coordination"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "The administrative institution of the securities investor protection fund shall, in accordance with the provisions of the State, purchase claims and make up clients' trading settlement funds.\nThe administrative institution of the securities investor protection fund may inspect the use of the securities investor protection fund."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Coordination"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "The shareholders, actual controllers and creditors of securities companies being handled, and the institutions and personnel relating to them, shall cooperate with the work of handling the risks of securities companies."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Coordination"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "The directors, supervisors and senior managers of securities companies being handled and other relevant personnel shall properly keep the property, seals, account books, documents and other materials and other items of the securities company that they use and manage, hand them over to custody groups, takeover groups, administrative liquidation groups or administrators as required, and cooperate with the investigation work of on-site risk handling working groups, custody groups, takeover groups and administrative liquidation groups."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Coordination"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Custody groups, takeover groups and administrative liquidation groups, and securities companies ordered to suspend business for rectification, placed under custody or subjected to administrative reorganisation, shall report their work to the securities regulatory authority of the State Council as required."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Coordination"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Custody groups, takeover groups and administrative liquidation groups and their staff members shall be diligent and conscientious and faithfully perform their duties.\nWhere the shareholders and creditors of a securities company being handled have evidence proving that a custody group, takeover group or administrative liquidation group or its staff members have failed to perform their duties in accordance with law, they may complain to the securities regulatory authority of the State Council. Where this is verified upon investigation, the securities regulatory authority of the State Council shall order the custody group, takeover group or administrative liquidation group and its staff members to correct or replace them."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Coordination"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Institutions or persons falling under any of the following circumstances are prohibited from participating in the work of handling the risks of securities companies:\n(a) having previously been subjected to criminal punishment, or being suspected of a crime and under investigation or prosecution;\n(b) being suspected of a serious violation of law and under investigation by an administrative department, or having been subjected to an administrative penalty for a serious violation of law less than three years ago;\n(c) still being within a period of prohibition from entering the securities market;\n(d) having weak internal control and major hidden risks;\n(e) having an interest in the matters of handling of the securities company being handled; or\n(f) other circumstances in which the securities regulatory authority of the State Council determines that participation in the work of handling the risks of securities companies is inappropriate."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Coordination"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where the directors, supervisors and senior managers of a securities company bear primary responsibility for the handling of the securities company and the circumstances are serious, measures prohibiting their entry into the securities market may be taken against them in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Where the directors, supervisors, senior managers and other relevant personnel of a securities company being handled fall under any of the following circumstances, they shall be fined not less than one time but not more than two times their annual income; where the circumstances are serious, they shall be fined not less than two times but not more than five times their annual income, and measures prohibiting their entry into the securities market may be taken against them in accordance with the provisions:\n(a) refusing to cooperate with on-site working groups, custody groups, takeover groups or administrative liquidation groups in performing their duties in accordance with law;\n(b) refusing to hand over property, seals, account books, documents or other materials to custody groups, takeover groups or administrative liquidation groups;\n(c) concealing, destroying or forging the relevant materials, or deliberately providing false information;\n(d) concealing property or transferring or assigning property without authorisation;\n(e) obstructing the normal operational and management order and business operation of the securities company and inducing factors of instability; or\n(f) other circumstances obstructing the normal conduct of the work of handling the risks of securities companies.\nWhere the controlling shareholder or actual controller of a securities company instigates its directors, supervisors or senior managers to commit the unlawful acts specified in the preceding paragraph, the controlling shareholder or actual controller shall be given a heavier penalty in accordance with the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where a securities company needs to be dissolved owing to split-up, merger or the occurrence of a cause for dissolution prescribed by its articles of association, it shall submit an application for dissolution to the securities regulatory authority of the State Council, together with the reasons for dissolution and plans for the transfer of securities assets, the winding up of securities business and the placement of clients, and shall be dissolved and liquidated in accordance with law after approval by the securities regulatory authority of the State Council, with the liquidation process subject to the supervision of the securities regulatory authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "The handling of the risks of futures companies shall be carried out by reference to the provisions of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "These Regulations shall come into force on the date of promulgation."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      }
+    ]
+  };
 
   TR['CN-REG-0424'] = {
     "lawId": "CN-REG-0424",

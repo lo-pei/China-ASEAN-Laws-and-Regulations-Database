@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p17
-   法规 67 部 / 译文 2316 条
+   法规 72 部 / 译文 2633 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -2124,6 +2124,765 @@
         },
         "noLabel": {
           "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0348'] = {
+    "lawId": "CN-REG-0348",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 65 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated for the purpose of regulating the conversion of marginal farmland back to forest, protecting the lawful rights and interests of those converting farmland back to forest, consolidating the results of such conversion, optimising the structure of the rural industry and improving the ecological environment."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "These Regulations apply to the conversion of farmland back to forest within the planning scope approved by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "People's governments at all levels shall strictly implement the policy measures of \"converting farmland back to forest, closing hillsides to facilitate afforestation, providing grain in lieu of relief and contracting by individuals\"."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The conversion of farmland back to forest shall give priority to ecology. Such conversion shall be combined with adjusting the structure of the rural industry, developing the rural economy, preventing and controlling soil erosion, protecting and developing basic farmland, raising per-unit grain yields, strengthening the development of rural energy and implementing ecological migration."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The conversion of farmland back to forest shall follow the following principles:\n(a) overall planning, implementation in stages, highlighting the key points and stressing practical results;\n(b) combining policy guidance with voluntary conversion by farmers, whereby whoever converts the farmland, afforests it and manages it shall benefit from it;\n(c) following the laws of nature, adapting to local conditions, planting trees where trees are suitable and grass where grass is suitable, and carrying out comprehensive treatment;\n(d) laying equal stress on development and protection and preventing destruction while treatment is under way; and\n(e) gradually improving the living conditions of those converting farmland back to forest."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The western development work institution of the State Council shall be responsible for the comprehensive coordination of the conversion of farmland back to forest, organise the relevant departments to study and formulate the relevant policies and measures for such conversion, and organise and coordinate the implementation of the overall plan for such conversion; the forestry administrative department of the State Council shall be responsible for preparing the overall plan and annual plans for the conversion of farmland back to forest, taking charge of the implementation of such conversion throughout the country and being responsible for its guidance, supervision and inspection; the development planning department of the State Council shall, together with the relevant departments, be responsible for examining the overall plan, consolidating the plans, preparing the annual capital construction plan and conducting comprehensive balancing; the finance department of the State Council shall be responsible for arranging, supervising and administering the central financial subsidy funds for the conversion of farmland back to forest; the agriculture administrative department of the State Council shall be responsible for preparing the relevant plans for converting reclaimed grassland back to grassland and for restoring and developing natural grassland, as well as for technical guidance, supervision and inspection; the water administrative department of the State Council shall be responsible for technical guidance, supervision and inspection of work such as small watershed treatment and soil and water conservation in areas where farmland is converted back to forest and grassland; and the grain administrative department of the State Council shall be responsible for coordinating and adjusting grain sources.\nThe forestry, planning, finance, agriculture, water conservancy and grain departments of local people's governments at or above the county level shall, under the unified leadership of the people's government at the same level and in accordance with these Regulations and the prescribed division of duties, be responsible for the relevant work of converting farmland back to forest."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The State shall apply a system of responsibility by the people's governments of provinces, autonomous regions and municipalities directly under the Central Government to the conversion of farmland back to forest. Those people's governments shall organise the relevant departments to take measures to ensure that the central subsidy funds for the conversion of farmland back to forest are used exclusively for the designated purposes, organise the implementation of the transport and supply of subsidy grain, strengthen the re-examination of the conversion of farmland back to forest, complete on schedule the tasks assigned by the State for such conversion, and implement target responsibility level by level and sign responsibility documents so as to achieve the objectives of such conversion."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "A target responsibility system shall apply to the conversion of farmland back to forest.\nThe relevant departments of local people's governments at or above the county level shall sign responsibility documents with the persons in charge of the projects and the technical persons in charge of the conversion of farmland back to forest, specifying the responsibilities they shall bear."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The State shall support research on and the popularisation of applied technology for the conversion of farmland back to forest so as to raise the scientific and technological level of such conversion."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The relevant departments of the State Council and local people's governments at all levels shall organise and carry out publicity and education on the conversion of farmland back to forest and enhance citizens' awareness of ecological development and protection.\nUnits and individuals that have made outstanding achievements in the work of converting farmland back to forest shall be commended and rewarded by the relevant departments of the State Council and local people's governments."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Any unit or individual shall have the right to report and complain about acts that damage the conversion of farmland back to forest.\nThe people's governments concerned and their relevant departments shall promptly handle reports and complaints upon receipt."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Audit organs at all levels shall strengthen audit supervision over the use of funds and grain subsidies for the conversion of farmland back to forest."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The conversion of farmland back to forest shall be planned in an overall manner.\nThe overall plan for the conversion of farmland back to forest shall be prepared by the forestry administrative department of the State Council and, after coordination by the western development work institution of the State Council and examination by the development planning department of the State Council, be submitted to the State Council for approval and implementation.\nThe forestry administrative departments of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall, on the basis of the overall plan and together with the relevant departments, prepare the plans for the conversion of farmland back to forest within their administrative areas and, after approval by the people's government at the same level, report them to the relevant departments of the State Council for the record."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Planning and Plans"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The plans for the conversion of farmland back to forest shall include the following main content:\n(a) the scope, layout and key points;\n(b) the duration, objectives and tasks;\n(c) the investment estimates and sources of funds;\n(d) the benefit analysis and appraisal; and\n(e) the safeguard measures."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Planning and Plans"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The following cultivated land shall be included in the plans for the conversion of farmland back to forest and shall be converted back to forest in a planned manner in light of the needs of ecological development and the financial capacity of the State:\n(a) land subject to severe soil erosion;\n(b) land subject to severe desertification, salinisation or rocky desertification; and\n(c) land of important ecological status with low and unstable grain yields.\nCultivated land on steep slopes at the sources of rivers and on both sides of rivers, around lakes and reservoirs, and in areas of important ecological status such as areas subject to severe soil erosion and wind and sand hazards shall be given priority in the plans for the conversion of farmland back to forest."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Planning and Plans"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Cultivated land within the scope of basic farmland protection and cultivated land with relatively good production conditions whose actual grain yield exceeds the State's grain subsidy standard for the conversion of farmland back to forest and which will not cause soil erosion shall not be included in the plans for the conversion of farmland back to forest; however, where special needs of ecological development so require, it may be included in such plans after approval by the State Council and adjustment of the scope of basic farmland protection in accordance with the procedures prescribed by the relevant laws and administrative regulations.\nIn preparing plans for the conversion of farmland back to forest, the long-term livelihood needs of farmers converting farmland shall be taken into account."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Planning and Plans"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The plans for the conversion of farmland back to forest shall be consistent with the plans for national economic and social development, the overall plans for rural economic development and the overall plans for land use, and shall be coordinated with the plans for environmental protection, soil and water conservation and desertification prevention and control."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Planning and Plans"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The conversion of farmland back to forest shall be carried out in accordance with the approved plans. The plans for the conversion of farmland back to forest shall not be adjusted without authorisation without the consent of the original approving authority."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Planning and Plans"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The forestry administrative departments of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall, on the basis of the plans for the conversion of farmland back to forest and together with the relevant departments, prepare proposals for the plan for the conversion of farmland back to forest for the following year within their administrative areas and, after examination by the development planning department of the people's government at the same level and approval by that people's government, report them before 31 August each year to the western development work institution of the State Council and the forestry, development planning and other relevant departments of the State Council. The forestry administrative department of the State Council shall consolidate and prepare the proposals for the national annual plan for the conversion of farmland back to forest and, after coordination by the western development work institution of the State Council and examination and comprehensive balancing by the development planning department of the State Council, submit them to the State Council for approval, after which the development planning department of the State Council shall, together with the relevant departments, issue them jointly before 31 October.\nThe development planning departments of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall, together with the relevant departments and on the basis of the national annual plan for the conversion of farmland back to forest, break down and issue the plan for the conversion of farmland back to forest for the following year within their administrative areas to the relevant county (city) people's governments before 30 November and report the breakdown and issuance to the relevant departments of the State Council for the record."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Planning and Plans"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The forestry administrative departments of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall, on the basis of the annual plan for the conversion of farmland back to forest issued by the State and together with the relevant departments, prepare the implementation schemes for the annual conversion of farmland back to forest within their administrative areas and submit them to the people's government at the same level for approval and implementation.\nThe forestry administrative departments of county-level people's governments may, on the basis of the approved provincial annual implementation schemes for the conversion of farmland back to forest, prepare the annual implementation schemes for the conversion of farmland back to forest within their administrative areas, submit them to the people's government at the same level for approval and implementation, and report them to the forestry administrative departments of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government for the record."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Planning and Plans"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The annual implementation schemes for the conversion of farmland back to forest shall include the following main content:\n(a) the specific scope of the conversion of farmland back to forest;\n(b) the proportion of ecological forest to economic forest;\n(c) the selection of tree species and the method of vegetation allocation;\n(d) the afforestation model;\n(e) the method of supplying seedlings;\n(f) vegetation management and protection and the supporting safeguard measures; and\n(g) the persons in charge of the project and of technical matters."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Planning and Plans"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The forestry administrative departments of county-level people's governments shall, on the basis of the annual implementation schemes for the conversion of farmland back to forest, organise professional personnel or qualified design units to prepare township operation designs so as to apply the content determined by the implementation schemes to specific plots and to the holders of land contractual management rights.\nIn preparing operation designs, arid and semi-arid areas shall mainly plant drought-tolerant shrubs (grass) and restore the original vegetation; where trees and grass are planted by intercropping, perennial plants shall be intercropped, and the initial planting density of the main tree species shall conform to the standards prescribed by the State."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter II Planning and Plans"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The area of ecological forest established by converting farmland back to forest shall, calculated by county, be not less than 80 per cent of the area of farmland converted back to forest.\nEcological forest established by converting farmland back to forest shall be certified by the forestry administrative departments of local people's governments at or above the county level in accordance with the standards formulated by the forestry administrative department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter II Planning and Plans"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "County-level people's governments or the township-level people's governments entrusted by them shall sign contracts for the conversion of farmland back to forest with the holders of land contractual management rights who have tasks of such conversion.\nContracts for the conversion of farmland back to forest shall include the following main content:\n(a) the scope and area of farmland converted back to forest and the scope and area of afforestation on suitable barren hills and wasteland;\n(b) the method of converting farmland back to forest determined in accordance with the operation design;\n(c) the survival rate of afforestation and its preservation rate;\n(d) responsibility for management and protection;\n(e) the standards, duration and methods of payment of funds and grain subsidies;\n(f) the methods and content of technical guidance and technical services;\n(g) the sources and methods of supply of seedlings;\n(h) liability for breach of contract; and\n(i) the term of performance of the contract.\nThe content of contracts for the conversion of farmland back to forest shall not conflict with these Regulations or other relevant State provisions on the conversion of farmland back to forest."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Afforestation, Management and Protection, and Inspection and Acceptance"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Seedlings required for the conversion of farmland back to forest may be purchased centrally by county-level people's governments in light of local conditions, or may be purchased by those converting farmland back to forest on their own. In the case of centralised purchase, the opinions of those converting farmland back to forest shall be solicited, public bidding shall be adopted and a written contract shall be signed; where the standard of the State subsidy for seedling afforestation is exceeded, the excess shall not be forcibly collected from those converting farmland back to forest.\nNo unit or individual may designate a seedling supplier for those converting farmland back to forest.\nIt is prohibited to monopolise the seedling business or to drive up seedling prices."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Afforestation, Management and Protection, and Inspection and Acceptance"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Seedlings used for the conversion of farmland back to forest shall be cultivated locally and allocated nearby, and improved, strong seedlings of native tree species and of tree species with strong stress resistance shall be given priority."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Afforestation, Management and Protection, and Inspection and Acceptance"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The forestry and agriculture administrative departments shall strengthen technical guidance and service management for seedling cultivation so as to ensure seedling quality.\nSeedlings for the conversion of farmland back to forest that are sold or supplied shall be inspected and pass inspection by the forestry or agriculture administrative departments of county-level people's governments and shall be accompanied by labels and quality inspection certificates; where they are transported across counties, a quarantine certificate shall additionally be obtained in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Afforestation, Management and Protection, and Inspection and Acceptance"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall, in accordance with the plans for the conversion of farmland back to forest within their administrative areas, strengthen the development of seedling production and seed collection bases.\nThe State encourages enterprises and individuals to cultivate seedlings in various forms and to engage in industrialised operation."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Afforestation, Management and Protection, and Inspection and Acceptance"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Those converting farmland back to forest shall plant trees and grass in accordance with the operation designs and the requirements of the contracts.\nIntercropping of trees and grain and acts destroying the original forest and grass vegetation are prohibited."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Afforestation, Management and Protection, and Inspection and Acceptance"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "During the period in which they enjoy funds and grain subsidies, those converting farmland back to forest shall carry out afforestation on suitable barren hills and wasteland in accordance with the operation designs and the requirements of the contracts."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Afforestation, Management and Protection, and Inspection and Acceptance"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "County-level people's governments shall establish a vegetation management and protection system for the conversion of farmland back to forest and implement responsibility for management and protection.\nThose converting farmland back to forest shall perform the obligation of management and protection.\nIt is prohibited to resume cultivation within the scope of implementation of projects for the conversion of farmland back to forest, or to engage in activities such as excessive harvesting and random digging that destroy surface vegetation."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Afforestation, Management and Protection, and Inspection and Acceptance"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Local people's governments at all levels and their relevant departments shall organise technology extension units or technical personnel to provide technical guidance and technical services for the conversion of farmland back to forest."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III Afforestation, Management and Protection, and Inspection and Acceptance"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The forestry administrative departments of county-level people's governments shall, in accordance with the inspection and acceptance standards and measures formulated by the forestry administrative department of the State Council, inspect and accept the construction projects for the conversion of farmland back to forest and may issue a certificate of acceptance only after they pass inspection."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter III Afforestation, Management and Protection, and Inspection and Acceptance"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall re-examine the results of the inspection and acceptance of the conversion of farmland back to forest at the county level and, on the basis of the re-examination results, reward or penalise the county-level people's governments and the responsible persons concerned.\nThe forestry administrative department of the State Council shall verify the provincial re-examination results and report the verification results to the State Council."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter III Afforestation, Management and Protection, and Inspection and Acceptance"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The State shall, in accordance with the verified actual area of farmland converted back to forest, provide subsidy grain, seedling afforestation subsidies and living subsidies to the holders of land contractual management rights. The specific subsidy standards and subsidy years shall be implemented in accordance with the relevant provisions of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Funds and Grain Subsidies"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Slope farmland not yet contracted to households and fallow slope farmland converted back to forest, as well as afforestation on suitable barren hills and wasteland included in the plans for the conversion of farmland back to forest, shall enjoy only the seedling afforestation subsidy."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Funds and Grain Subsidies"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Seedling afforestation subsidies and living subsidies shall be promptly issued and allocated by the planning, finance and forestry departments of the State Council in accordance with the relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Funds and Grain Subsidies"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Subsidy grain shall be transported to nearby locations so as to reduce the supply links and lower supply costs. Grain subsidy funds shall be handled in accordance with the relevant State policies.\nThe cost of grain transport shall be borne by local finances and shall not be apportioned to enterprises supplying subsidy grain or to those converting farmland back to forest."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Funds and Grain Subsidies"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall rationally determine the varieties of subsidy grain in light of local food consumption habits, crop planting habits and the actual situation of local grain stocks.\nSubsidy grain must meet the quality standards prescribed by the State. Grain not meeting the national quality standards shall not be supplied to those converting farmland back to forest."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter IV Funds and Grain Subsidies"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "In the first year of converting farmland back to forest, the subsidy grain for that year may be paid in two instalments, and the quantity of each instalment shall be determined by the people's government of the province, autonomous region or municipality directly under the Central Government.\nFrom the second year of converting farmland back to forest, within the prescribed subsidy period, the county-level people's government shall organise the relevant departments and units to pay the subsidy grain for that year in a lump sum to those converting farmland back to forest who hold certificates of acceptance."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter IV Funds and Grain Subsidies"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Subsidy grain paid shall not be converted into cash or cash vouchers. Enterprises supplying subsidy grain shall not buy back subsidy grain for the conversion of farmland back to forest."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IV Funds and Grain Subsidies"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Seedling afforestation subsidies shall be used for the purchase of seedlings, and the balance may be used for afforestation subsidies and closed management and protection.\nWhere those converting farmland back to forest purchase seedlings on their own, the county-level people's government or the township-level people's government entrusted by it shall pay the seedling afforestation subsidy in full in a lump sum when the contract for the conversion of farmland back to forest takes effect.\nWhere seedlings are purchased centrally, after the conversion of farmland back to forest passes inspection, the seedling purchasing unit shall settle the seedling afforestation subsidy with those converting farmland back to forest."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter IV Funds and Grain Subsidies"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "After the farmland is converted back to forest, within the prescribed subsidy period, the county-level people's government shall organise the relevant departments to pay the living subsidy for that year in full in a lump sum to those converting farmland back to forest who hold certificates of acceptance."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter IV Funds and Grain Subsidies"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Funds for the conversion of farmland back to forest shall be deposited in special accounts and used exclusively for the designated purposes; no unit or individual may misappropriate, withhold, divert or deduct them.\nNo unit or individual may resort to deception or make false declarations to fraudulently obtain subsidy funds and grain."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter IV Funds and Grain Subsidies"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "For expenses such as preliminary work and scientific and technological support required for the conversion of farmland back to forest, the State shall grant subsidies at a certain proportion of the capital construction investment in such conversion, to be arranged by the development planning department of the State Council in the annual plan in light of the project circumstances.\nThe expenses for inspection and acceptance and for payment in respect of the conversion of farmland back to forest shall be borne by local finances. The expenses for verification and the like required by the relevant central departments shall be borne by the central finance."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter IV Funds and Grain Subsidies"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Townships (towns) and villages implementing the conversion of farmland back to forest shall establish a system of public disclosure for such conversion, disclosing the area converted back to forest by each converter, the tree species planted, the survival rate and the issuance of funds and grain subsidies."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter IV Funds and Grain Subsidies"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "The State shall protect the ownership by those converting farmland back to forest of the forest trees (grass) on the converted land. Where farmland is converted back to forest on the initiative of the holder, the holder of the land contractual management right shall enjoy ownership of the forest trees (grass) on the converted land; where afforestation is entrusted to others or carried out in cooperation with others, the ownership of the forest trees (grass) on the converted land shall be stipulated in the contract.\nAfter the farmland is converted back to forest, the people's government at or above the county level shall, in accordance with the relevant provisions of the Forest Law and the Grassland Law, issue certificates of forest (grass) rights to confirm ownership and use rights and complete the formalities for land change registration in accordance with law. The land contractual management contracts shall be adjusted accordingly."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter V Other Safeguard Measures"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "The term of the contractual management right after the farmland is converted back to forest may be extended to 70 years. Upon expiry of the contractual management right, the holder of the land contractual management right may continue the contract in accordance with the provisions of the relevant laws and regulations.\nThe contractual management right over land converted back to forest and over land afforested on barren hills and wasteland may be inherited or transferred in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter V Other Safeguard Measures"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Those converting farmland back to forest shall enjoy tax preferences in accordance with the relevant provisions of the State, and among them, the income from agricultural special products obtained from converting farmland back to forest (grass) shall be exempt from agricultural special product tax in accordance with the provisions of the State.\nWhere the agricultural tax revenue of a county (city) implementing the conversion of farmland back to forest is reduced owing to disasters, the finance at the higher level shall give appropriate subsidies by way of transfer payments; where there are genuine difficulties, the central finance shall give appropriate subsidies by way of transfer payments upon approval by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter V Other Safeguard Measures"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Upon expiry of the period of funds and grain subsidies, those converting farmland back to forest may, on the premise of not damaging the overall ecological functions and with the approval of the competent departments concerned, fell the forest trees they own in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter V Other Safeguard Measures"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Local people's governments at all levels shall strengthen the development of basic farmland and agricultural infrastructure, increase input, improve the soil, transform slope farmland, raise soil fertility and per-unit grain yields and meet the long-term grain needs of those converting farmland back to forest."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter V Other Safeguard Measures"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Local people's governments at all levels shall, in light of the actual situation, strengthen the development of rural energy such as biogas, small hydropower, solar energy and wind energy so as to meet the energy needs of those converting farmland back to forest."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter V Other Safeguard Measures"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Local people's governments at all levels shall adjust the structure of the rural industry, support leading enterprises, develop pillar industries, open up avenues for employment, increase farmers' incomes, accelerate the development of small towns and promote the gradual transfer of the agricultural population to towns."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter V Other Safeguard Measures"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "The State encourages the implementation of ecological migration in the course of converting farmland back to forest and shall give appropriate subsidies for the production and living facilities of ecological migrant households."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter V Other Safeguard Measures"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "After the conversion of farmland back to forest, the relevant local people's governments shall take measures such as closing hillsides to prohibit grazing and raising livestock in pens so as to protect the results of such conversion."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter V Other Safeguard Measures"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "The conversion of farmland back to forest shall be combined with policy measures such as poverty alleviation and development, comprehensive agricultural development and soil and water conservation, and project funds of different natures shall be arranged in an overall manner on the premise of exclusive use for designated purposes so as to improve the efficiency of fund use."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter V Other Safeguard Measures"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where a member of the State staff commits any of the following acts in the course of converting farmland back to forest in violation of these Regulations, criminal liability shall be investigated in accordance with law pursuant to the provisions of the Criminal Law on the crime of embezzlement, the crime of accepting bribes, the crime of misappropriating public funds or other crimes; where the case is not serious enough for criminal punishment, an administrative sanction shall be imposed in accordance with law:\n(a) misappropriating, withholding or diverting funds for the conversion of farmland back to forest, or deducting subsidy grain;\n(b) resorting to deception or making false declarations to fraudulently obtain subsidy funds and grain; or\n(c) taking advantage of position to accept property or other benefits from others.\nWhere a person other than a member of the State staff commits the act specified in item (b) of the preceding paragraph, criminal liability shall be investigated in accordance with law pursuant to the provisions of the Criminal Law on the crime of fraud or other crimes; where the case is not serious enough for criminal punishment, the forestry administrative department of a people's government at or above the county level shall order the return of the subsidy funds and grain fraudulently obtained and impose a fine of not less than two times but not more than five times the amount fraudulently obtained."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where a member of the staff of a State organ commits any of the following acts in the course of converting farmland back to forest in violation of these Regulations, the unit in which the person works or the competent department at the next higher level shall order correction within a specified period and refund the apportioned and overcharged expenses, and criminal liability shall be investigated in accordance with law on the directly responsible persons in charge and other directly responsible persons pursuant to the provisions of the Criminal Law on the crime of abuse of power, the crime of dereliction of duty or other crimes; where the case is not serious enough for criminal punishment, an administrative sanction shall be imposed in accordance with law:\n(a) failing to promptly handle reports and complaints concerning activities damaging the conversion of farmland back to forest;\n(b) apportioning the cost of grain transport to enterprises supplying subsidy grain and to those converting farmland back to forest;\n(c) failing to promptly issue subsidy grain and living subsidies to those converting farmland back to forest who hold certificates of acceptance;\n(d) failing to pay the seedling afforestation subsidy in full in a lump sum when the contract for the conversion of farmland back to forest takes effect to those converting farmland back to forest who purchase seedlings on their own;\n(e) where seedlings are purchased centrally, failing to settle the seedling afforestation subsidy with those converting farmland back to forest after the conversion of farmland back to forest passes inspection;\n(f) where seedlings are purchased centrally, the seedlings being substandard;\n(g) where seedlings are purchased centrally, forcibly collecting seedling fees exceeding the standard of the State seedling afforestation subsidy from those converting farmland back to forest;\n(h) designating a seedling supplier for those converting farmland back to forest;\n(i) approving a grain enterprise to supply subsidy grain not meeting the national quality standards to those converting farmland back to forest, or to pay subsidy grain converted into cash or cash vouchers; or\n(j) other failures to perform duties in accordance with these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Whoever uses improper means to monopolise the seedling market or to drive up seedling prices shall be investigated for criminal liability in accordance with law pursuant to the provisions of the Criminal Law on the crime of illegal business operation, the crime of forced transactions or other crimes; where the case is not serious enough for criminal punishment, the industry and commerce administrative organ shall deal with it in accordance with the provisions of the Anti-Unfair Competition Law; where the Anti-Unfair Competition Law makes no provision, the industry and commerce administrative organ shall impose a fine of not less than two times but not more than five times the amount of illegal business turnover."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Whoever sells or supplies seedlings that have not passed inspection or that are not accompanied by labels, quality inspection certificates or quarantine certificates shall be investigated for criminal liability in accordance with law pursuant to the provisions of the Criminal Law on the crime of producing or selling fake or inferior seeds or other crimes; where the case is not serious enough for criminal punishment, the forestry or agriculture administrative department of a people's government at or above the county level or the industry and commerce administrative organ shall deal with it in accordance with the provisions of the Seed Law; where the Seed Law makes no provision, the forestry or agriculture administrative department of a people's government at or above the county level shall, in accordance with its functions and powers, impose a fine of not less than two times but not more than five times the amount of illegal business turnover."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where an enterprise supplying subsidy grain supplies subsidy grain not meeting the national quality standards to those converting farmland back to forest, the grain administrative department of a people's government at or above the county level shall order correction within a specified period and may impose a fine of not more than one time the quantity of subsidy grain unlawfully supplied multiplied by the unit price of standard grain rations.\nWhere an enterprise supplying subsidy grain pays subsidy grain converted into cash or cash vouchers, or buys back subsidy grain, the grain administrative department of a people's government at or above the county level shall order correction within a specified period and may impose a fine of not more than one time the amount of cash converted, the value of the cash vouchers or the price of the grain bought back."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Where those converting farmland back to forest resume cultivation without authorisation, or intercrop trees and grain, or engage in activities such as excessive harvesting and random digging that destroy surface vegetation within the scope of implementation of projects for the conversion of farmland back to forest, criminal liability shall be investigated in accordance with law pursuant to the provisions of the Criminal Law on the crime of illegally occupying agricultural land, the crime of indiscriminate felling of forest trees or other crimes; where the case is not serious enough for criminal punishment, the forestry, agriculture or water conservancy administrative department of a people's government at or above the county level shall impose a penalty in accordance with the provisions of the Forest Law, the Grassland Law and the Soil and Water Conservation Law."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "The specific implementation of converting reclaimed grassland back to grassland and of restoring and developing natural grassland shall be carried out in accordance with the Grassland Law and the relevant provisions of the State Council.\nThe specific implementation of work such as small watershed treatment and soil and water conservation in areas where farmland is converted back to forest and grassland shall be carried out in accordance with the Soil and Water Conservation Law and the relevant provisions of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Where local people's governments at all levels decide to implement the conversion of farmland back to forest on land outside the planning scope approved by the State Council, the central policy subsidies prescribed by these Regulations shall not apply."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "These Regulations shall come into force on 20 January 2003."
+        },
+        "noLabel": {
+          "en": "Article 65."
         },
         "chapter": {
           "en": "Chapter VII Supplementary Provisions"
@@ -6797,6 +7556,759 @@
     ]
   };
 
+  TR['CN-REG-0369'] = {
+    "lawId": "CN-REG-0369",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 63 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated for the purpose of regulating the flight of unmanned aircraft and related activities, promoting the sound and orderly development of the unmanned aircraft industry, and safeguarding aviation safety, public safety and national security."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Anyone engaging in the flight of unmanned aircraft and related activities within the territory of the People's Republic of China shall comply with these Regulations.\nFor the purposes of these Regulations, \"unmanned aircraft\" means an aircraft without an on-board pilot that has its own power system.\nUnmanned aircraft are classified, according to their performance indicators, into micro, light, small, medium and large unmanned aircraft."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The administration of unmanned aircraft flight shall uphold and strengthen the leadership of the Party, adhere to the holistic approach to national security and follow the principles of safety first, service to development, classified management and coordinated supervision."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The national air traffic management leading body shall exercise unified leadership over the administration of unmanned aircraft flight throughout the country and organise and coordinate the resolution of major problems in unmanned aircraft administration.\nThe civil aviation, public security, industry and information technology, market supervision and administration and other departments of the State Council shall, according to the division of duties, be responsible for the relevant administration of unmanned aircraft throughout the country.\nLocal people's governments at or above the county level and their relevant departments shall, according to the division of duties, be responsible for the relevant administration of unmanned aircraft within their administrative areas.\nAir traffic management bodies at all levels shall, according to the division of duties, be responsible for the administration of unmanned aircraft flight within their respective areas of responsibility."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The State encourages scientific research and innovation in unmanned aircraft and the popularisation and application of the results thereof, and promotes the integrated innovation of unmanned aircraft with new technologies such as big data and artificial intelligence. People's governments at or above the county level and their relevant departments shall provide support for scientific research and innovation in unmanned aircraft and the popularisation and application of the results thereof.\nOn the premise of ensuring safety, the State shall actively innovate the mechanisms for the supply and use of airspace and improve the supporting infrastructure and service systems for unmanned aircraft flight."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Industry associations relating to unmanned aircraft shall strengthen industry self-regulation by formulating and implementing group standards and other means, publicise the laws and regulations on unmanned aircraft administration and the relevant knowledge, and enhance the awareness of the relevant units and persons of carrying out unmanned aircraft flight and related activities in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The standardisation administrative department of the State Council and other relevant departments of the State Council shall, according to the division of duties, organise the formulation of national standards and industry standards for the design, production and use of civil unmanned aircraft systems."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Administration of Civil Unmanned Aircraft and Operators"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Anyone engaging in the design, production, import, flight and maintenance of medium and large civil unmanned aircraft systems shall apply to the civil aviation competent department of the State Council for and obtain an airworthiness permit in accordance with law.\nAnyone engaging in the design, production, import, flight and maintenance, as well as the assembly and refitting, of micro, light and small civil unmanned aircraft systems does not need to obtain an airworthiness permit, but the relevant products shall conform to the relevant provisions of the laws and regulations on product quality and the relevant mandatory national standards.\nAnyone engaging in the design, production and use of civil unmanned aircraft systems shall comply with the State provisions on real-name registration and activation, flight area restrictions, emergency handling and network information security, and shall take effective measures to reduce the emission of atmospheric pollutants and noise."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Administration of Civil Unmanned Aircraft and Operators"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Producers of civil unmanned aircraft systems shall, in accordance with the provisions of the industry and information technology competent department of the State Council, assign a unique product identification code to the unmanned aircraft they produce.\nProducers of micro, light and small civil unmanned aircraft systems shall mark the product type and the unique product identification code and other information on the body of the unmanned aircraft, and shall indicate the requirements for lawful operation and risk warnings in a conspicuous position on the outer packaging of the product."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Administration of Civil Unmanned Aircraft and Operators"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Owners of civil unmanned aircraft shall carry out real-name registration in accordance with law, and the specific measures shall be formulated by the civil aviation competent department of the State Council together with the relevant departments.\nCivil unmanned aircraft involved in flights outside the territory shall be registered by nationality in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Administration of Civil Unmanned Aircraft and Operators"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Units using civil unmanned aircraft other than micro unmanned aircraft to carry out flight activities shall meet the following conditions and shall apply to the civil aviation competent department of the State Council or a regional civil aviation administration body (hereinafter collectively referred to as the civil aviation administration department) for and obtain a civil unmanned aircraft operator certificate (hereinafter referred to as the operator certificate):\n(a) having the management bodies, management personnel and operators conforming to these Regulations that are required for safe operation;\n(b) having unmanned aircraft and the relevant facilities and equipment that meet the requirements for safe operation;\n(c) having the management systems and operating procedures required for safe operation and ensuring the continuous ability to carry out safe operation in accordance with those systems and procedures; and\n(d) in the case of units engaging in for-profit activities, being a for-profit legal person.\nUpon receipt of an application, the civil aviation administration department shall conduct an operational safety assessment and, on the basis of the assessment results, make a decision in accordance with law to grant or not to grant the permit. Where the permit is granted, an operator certificate shall be issued; where the permit is not granted, the applicant shall be notified in writing together with the reasons.\nNo operator certificate is required for carrying out flight operations for agriculture, forestry, animal husbandry and fishery over areas for such operations in the flyable airspace by using agricultural unmanned aircraft with a maximum take-off weight not exceeding 150 kilogrammes (hereinafter referred to as routine agricultural unmanned aircraft operation flights).\nNo general aviation operating licence or operation certificate is required for carrying out for-profit general aviation flight activities after obtaining an operator certificate, or for carrying out routine agricultural unmanned aircraft operation flights."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Administration of Civil Unmanned Aircraft and Operators"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Anyone carrying out for-profit flight activities using civil unmanned aircraft, or carrying out non-profit flight activities using small, medium or large civil unmanned aircraft, shall take out liability insurance in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Administration of Civil Unmanned Aircraft and Operators"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where a defect is found in a micro, light or small civil unmanned aircraft system after it is placed on the market, its producer or importer shall stop production and sales, recall the defective product and notify the relevant operators and users to stop selling and using it. Where the producer or importer fails to carry out the recall in accordance with law, the market supervision and administration department of the State Council shall order a recall in accordance with law.\nWhere a medium or large civil unmanned aircraft system cannot remain continuously airworthy, the civil aviation competent department of the State Council shall deal with the matter in accordance with the provisions on airworthiness management."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Administration of Civil Unmanned Aircraft and Operators"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Where a major design change is made to a civil unmanned aircraft system that has obtained an airworthiness permit and the system is to be used for flight activities, an airworthiness permit shall be applied for afresh.\nWhere a micro, light or small civil unmanned aircraft system is converted, it shall conform to the relevant mandatory national standards. Where there is a change in the factory performance and parameters of a civil unmanned aircraft system, such as its airspace keeping capability, reliable surveillance capability, speed or altitude, its owner shall promptly update the performance and parameter information on the integrated comprehensive supervision service platform for unmanned aircraft.\nAnyone converting a civil unmanned aircraft shall comply with the administration provisions for the category to which it belongs after conversion."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Administration of Civil Unmanned Aircraft and Operators"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The production, maintenance and use of civil unmanned aircraft systems shall comply with the laws and regulations on radio administration and the relevant provisions of the State. However, where a civil unmanned aircraft system uses a specific radio frequency determined by the national radio administration body and the relevant radio transmission equipment has obtained type approval for radio transmission equipment, no radio frequency use licence or radio station licence is required."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Administration of Civil Unmanned Aircraft and Operators"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Persons operating small, medium or large civil unmanned aircraft in flight shall meet the following conditions and shall apply to the civil aviation competent department of the State Council for and obtain the corresponding civil unmanned aircraft operator (hereinafter referred to as operator) licence:\n(a) having full capacity for civil conduct;\n(b) having received safe operation training and passed the assessment of the civil aviation administration department;\n(c) having no history of disease that may affect the operation of civil unmanned aircraft and no record of drug use; and\n(d) having no record of criminal punishment in the last five years for an intentional crime endangering national security or public security, infringing the personal rights of citizens or disrupting public order.\nPersons carrying out routine agricultural unmanned aircraft operation flights do not need to obtain an operator licence, but shall be trained and assessed by the producer of the agricultural unmanned aircraft system in accordance with the content prescribed by the civil aviation and agriculture and rural affairs competent departments of the State Council and, upon passing the assessment, obtain an operation certificate."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Administration of Civil Unmanned Aircraft and Operators"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Persons operating micro or light civil unmanned aircraft in flight do not need to obtain an operator licence, but shall be proficient in the operating methods of the relevant model and understand the risk warning information and the relevant management systems.\nPersons with no capacity for civil conduct may only operate micro civil unmanned aircraft in flight, and persons with limited capacity for civil conduct may only operate micro or light civil unmanned aircraft in flight. Where a person with no capacity for civil conduct operates a micro civil unmanned aircraft in flight, or a person with limited capacity for civil conduct operates a light civil unmanned aircraft in flight, on-site guidance shall be given by a person with full capacity for civil conduct who meets the conditions specified in the preceding paragraph.\nPersons operating light civil unmanned aircraft in flight within controlled airspace for unmanned aircraft shall have full capacity for civil conduct and shall have passed the training in accordance with the provisions of the civil aviation competent department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Administration of Civil Unmanned Aircraft and Operators"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The designation of airspace for unmanned aircraft flight shall follow the principles of overall allocation, safety and efficiency, shall be based mainly on segregated flight while accommodating the need for integrated flight, and shall give full consideration to flight safety and the public interest.\nThe designation of airspace for unmanned aircraft flight shall specify the horizontal and vertical limits and the time of use.\nAir traffic management bodies shall give priority to designating airspace for unmanned aircraft performing flight tasks for the military, the police, customs and emergency management."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Airspace and Flight Activities"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The State shall designate controlled airspace for unmanned aircraft (hereinafter referred to as controlled airspace) as required.\nThe airspace above a true altitude of 120 metres, prohibited and restricted air areas and the airspace around them, the ultra-low-altitude flight airspace for military aviation, and the airspace above the following areas shall be designated as controlled airspace:\n(a) airports and areas within a certain range around them;\n(b) areas within a certain range on our side of national boundary lines, lines of actual control and border lines;\n(c) military prohibited zones, military administration zones, custodial facilities and other classified units, and areas within a certain range around them;\n(d) protection areas for important military industrial facilities, control areas for nuclear facilities, production and storage areas for inflammable, explosive and other dangerous goods, and large storage areas for important combustible materials;\n(e) public infrastructure such as power plants, transformer substations, petrol (gas) stations, water supply plants, public transport hubs, navigation and hydropower hubs, major water conservancy facilities, ports, expressways and electrified railway lines, and areas within a certain range around them, as well as drinking water source protection areas;\n(f) facilities requiring special protection of the electromagnetic environment, such as radio astronomy observatories, satellite control (navigation) stations, aeronautical radio navigation stations and radar stations, and areas within a certain range around them;\n(g) important revolutionary memorial sites and important immovable cultural relics, and areas within a certain range around them; and\n(h) other areas prescribed by the national air traffic management leading body.\nThe specific limits of controlled airspace shall be determined by air traffic management bodies at all levels in accordance with the provisions of the national air traffic management leading body, published by people's governments at or above the level of cities with districts, and notified as aeronautical information by the civil aviation administration department and the units bearing the corresponding duties.\nWithout the approval of an air traffic management body, no unmanned aircraft flight activity may be carried out in controlled airspace.\nAirspace outside the limits of controlled airspace is flyable airspace for micro, light and small unmanned aircraft (hereinafter referred to as flyable airspace)."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Airspace and Flight Activities"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "In special circumstances, controlled airspace may be added temporarily, and the air traffic management body shall determine the horizontal and vertical limits and the time of use of the relevant airspace in accordance with the relevant provisions of the State.\nWhere national major events and other large-scale events are to be safeguarded, a public announcement shall be made by the local people's government at or above the level of a city with districts 24 hours before the temporarily added controlled airspace takes effect, and aeronautical information shall be notified by the civil aviation administration department and the units bearing the corresponding duties.\nWhere military tasks or other urgent tasks such as counter-terrorism and maintaining stability, emergency rescue and disaster relief and medical rescue are to be safeguarded, an emergency public announcement shall be made by the local people's government at or above the level of a city with districts 30 minutes before the temporarily added controlled airspace takes effect, and aeronautical information shall be notified by the civil aviation administration department and the units bearing the corresponding duties."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Airspace and Flight Activities"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where ground warning signs need to be installed for controlled airspace in accordance with the provisions of the national air traffic management leading body, the people's government of a city with districts shall organise their installation and strengthen routine patrols."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Airspace and Flight Activities"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Unmanned aircraft shall generally fly segregated from manned aircraft.\nIntegrated flight may be carried out with the approval of an air traffic management body in any of the following circumstances:\n(a) flights of unmanned aircraft under the jurisdiction of the police, customs and emergency management departments together with manned aircraft used by the same department or unit in the same airspace or the same airport area, as required by the task or flight subject;\n(b) flights of large unmanned aircraft that have obtained an airworthiness permit;\n(c) flights of medium unmanned aircraft that have obtained an airworthiness permit at a true altitude not exceeding 300 metres;\n(d) flights of small unmanned aircraft at a true altitude not exceeding 300 metres; and\n(e) flights of light unmanned aircraft above flyable airspace at a true altitude not exceeding 300 metres.\nIntegrated flight does not require the approval of an air traffic management body in any of the following circumstances:\n(a) flights of micro and light unmanned aircraft within flyable airspace; and\n(b) routine agricultural unmanned aircraft operation flights."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Airspace and Flight Activities"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The national air traffic management leading body shall coordinate the development of an integrated comprehensive supervision service platform for unmanned aircraft to conduct dynamic supervision and services for unmanned aircraft throughout the country.\nAir traffic management bodies and the civil aviation, public security, industry and information technology and other departments and units shall, according to the division of duties, collect the relevant information on the production, registration and use of unmanned aircraft, share it through the integrated comprehensive supervision service platform for unmanned aircraft, and take corresponding measures to ensure information security."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Airspace and Flight Activities"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Where an unmanned aircraft other than a micro unmanned aircraft carries out flight activities, the operator shall ensure that the unmanned aircraft is able to report identification information to the integrated comprehensive supervision service platform for unmanned aircraft in accordance with the relevant provisions of the State.\nMicro, light and small unmanned aircraft shall automatically broadcast identification information during flight."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Airspace and Flight Activities"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Units or individuals organising unmanned aircraft flight activities shall comply with the relevant laws, regulations and rules, proactively take accident prevention measures and bear primary responsibility for flight safety."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Airspace and Flight Activities"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Unless otherwise provided in Article 31 of these Regulations, units or individuals organising unmanned aircraft flight activities shall submit an application for flight activities to an air traffic management body before 12:00 on the day before the intended flight. The air traffic management body shall make a decision to approve or not to approve before 21:00 on the day before the flight.\nWhere routine flight activities are carried out in fixed airspace in accordance with the provisions of the national air traffic management leading body, an application for long-term flight activities may be submitted and the activities carried out after approval, and the flight plan shall be filed with the air traffic management body for the record before 12:00 on the day before the intended flight."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Airspace and Flight Activities"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "An application for unmanned aircraft flight activities shall include the following:\n(a) information on the units or individuals organising the flight activities and on the operators, and the relevant qualification certificates;\n(b) the type, number, main performance indicators and registration administration information of the unmanned aircraft;\n(c) the nature and manner of the flight task, and, for the performance of special general aviation flight tasks prescribed by the State, valid task approval documents shall also be provided;\n(d) the take-off, landing and alternate airports (sites);\n(e) the method of communication;\n(f) the estimated start and end times of the flight;\n(g) the flight route, altitude, speed and airspace limits, and the method of entering and leaving the airspace;\n(h) the radio frequencies of the command and control links and the bandwidth occupied;\n(i) the communication, navigation and surveillance capabilities;\n(j) where a secondary surveillance radar transponder or the relevant automatic surveillance equipment is installed, the code application shall be stated;\n(k) the emergency handling procedures;\n(l) special flight support requirements; and\n(m) other necessary information relating to airspace use and flight safety prescribed by the national air traffic management leading body."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Airspace and Flight Activities"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Applications for unmanned aircraft flight activities shall be approved according to the following authority:\n(a) flights within a flight control sub-area shall be approved by the air traffic management body responsible for that flight control sub-area;\n(b) flights beyond a flight control sub-area but within a flight control area shall be approved by the air traffic management body responsible for that flight control area; and\n(c) flights beyond a flight control area shall be approved by the air traffic management body authorised by the national air traffic management leading body."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Airspace and Flight Activities"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Where unmanned aircraft are used to carry out urgent tasks such as counter-terrorism and maintaining stability, emergency rescue and disaster relief and medical rescue, an application for flight activities shall be submitted to an air traffic management body 30 minutes before the planned take-off. The air traffic management body shall make a decision to approve or not to approve 10 minutes before take-off. For particularly urgent tasks, the user unit may submit an application for flight activities at any time."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Airspace and Flight Activities"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where units or individuals whose flight activities have been approved organise unmanned aircraft flight activities, they shall report the estimated take-off time and the state of preparation to the air traffic management body one hour before the planned take-off and may take off only after confirmation by the air traffic management body."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Airspace and Flight Activities"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "No application for flight activities needs to be submitted to an air traffic management body for organising unmanned aircraft to carry out the following flight activities:\n(a) flight activities of micro, light and small unmanned aircraft within flyable airspace;\n(b) routine agricultural unmanned aircraft operation flights;\n(c) flight activities of unmanned aircraft under the jurisdiction of the police, customs and emergency management departments in the airspace not exceeding a true altitude of 120 metres above their stations, ground (water surface) training grounds, shooting ranges and the like; however, take-off is permitted only after confirmation by the air traffic management body one hour before the planned take-off; and\n(d) flight tasks such as patrol inspection, survey and calibration carried out by civil unmanned aircraft within the controlled area of a civil transport airport; however, such activities shall be periodically reported to the air traffic management body for the record, and take-off is permitted only after confirmation by the air traffic management body one hour before the planned take-off.\nAn application for flight activities shall be submitted in accordance with Article 26 of these Regulations where the flight activities specified in the preceding paragraph fall under any of the following circumstances:\n(a) relay flight of unmanned aircraft through communication base stations or the Internet;\n(b) carrying dangerous goods or dropping items (except routine agricultural unmanned aircraft operation flights);\n(c) flying over crowds at gatherings;\n(d) operating unmanned aircraft on a moving means of transport; or\n(e) carrying out distributed operations or swarm flights.\nNo approval document for special general aviation flight tasks is required for micro and light unmanned aircraft flying within flyable airspace."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Airspace and Flight Activities"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Persons operating unmanned aircraft to carry out flight activities shall comply with the following code of conduct:\n(a) to obtain the relevant permit certificates and documents in accordance with law and carry them for inspection during flight activities;\n(b) to make proper preparations for safe flight before flight activities, check the condition of the unmanned aircraft and promptly update information such as electronic fences;\n(c) to keep abreast of the flight dynamics of the unmanned aircraft in real time, maintain unimpeded communication with the air traffic management body for flight activities requiring approval, submit to air traffic management and report promptly after the flight ends;\n(d) to maintain the necessary safe separation in accordance with the provisions of the national air traffic management leading body;\n(e) to keep micro unmanned aircraft within visual line of sight when operating them;\n(f) to comply with the provisions of the national air traffic management leading body on speed limits, communication, navigation and the like when operating small unmanned aircraft within flyable airspace;\n(g) to turn on the lighting system and ensure that it is in good working order when flying at night or in meteorological conditions of low visibility;\n(h) to keep abreast of the flight dynamics of other aircraft in the flight airspace and take measures to avoid collision when carrying out beyond-visual-line-of-sight flights;\n(i) not to operate unmanned aircraft under the influence of alcoholic beverages, anaesthetics or other drugs; and\n(j) other codes of conduct for flight activities prescribed by the national air traffic management leading body."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Airspace and Flight Activities"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Persons operating unmanned aircraft to carry out flight activities shall comply with the following rules of avoidance:\n(a) to give way to manned aircraft, aircraft without power units, and ground and water transport vehicles;\n(b) single aircraft flights shall give way to swarm flights;\n(c) micro unmanned aircraft shall give way to other unmanned aircraft; and\n(d) other rules of avoidance prescribed by the national air traffic management leading body."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Airspace and Flight Activities"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "It is prohibited to use unmanned aircraft to commit any of the following acts:\n(a) unlawfully photographing military facilities, military industrial facilities or other classified sites;\n(b) disrupting the working order of State organs, organisations, enterprises or public institutions or the order of public places;\n(c) obstructing staff members of State organs in performing their duties in accordance with law;\n(d) dropping publicity materials or other items containing content in violation of the provisions of laws and regulations;\n(e) endangering the safety of public facilities or the property of units or individuals;\n(f) endangering the life and health of others, unlawfully collecting information, or infringing other personal rights and interests of others;\n(g) unlawfully obtaining or disclosing State secrets, or unlawfully providing data or information to overseas parties; or\n(h) other acts prohibited by laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Airspace and Flight Activities"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Units using civil unmanned aircraft to carry out surveying and mapping activities may carry out such activities only after obtaining a surveying and mapping qualification certificate in accordance with law.\nForeign unmanned aircraft, or unmanned aircraft operated by foreign personnel, shall not carry out surveying and mapping, radio wave parameter testing or other flight activities within the territory of China."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Airspace and Flight Activities"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Model aircraft shall fly within the airspace designated by an air traffic management body for aviation flight camps, unless otherwise provided by the national air traffic management leading body."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Airspace and Flight Activities"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The national air traffic management leading body shall organise the relevant departments and units to publish to the public on the integrated comprehensive supervision service platform for unmanned aircraft information such as matters subject to approval, the application procedures, the accepting units, contact details and the channels for accepting reports, and shall update such information promptly."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration, and Emergency Handling"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Any unit or individual that discovers an act in violation of these Regulations may report it to an air traffic management body, the civil aviation administration department or the local public security organ. The department or unit receiving the report shall promptly handle it in accordance with law; where it does not fall within the duties of that department or unit, it shall promptly refer it to the department or unit competent to handle it."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration, and Emergency Handling"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Air traffic management bodies, the civil aviation administration department and public security organs at or above the county level shall formulate emergency response plans for the safety management of unmanned aircraft flight, conduct regular drills and improve their emergency handling capacity.\nLocal people's governments at or above the county level shall incorporate the safety emergency management of unmanned aircraft into the emergency management system for emergencies and improve the emergency handling working mechanism featuring information exchange and coordinated cooperation.\nDesigners and producers of unmanned aircraft systems shall ensure that unmanned aircraft have emergency handling functions such as emergency avoidance and landing so as to avoid or mitigate damage to life and property when an unmanned aircraft accident occurs.\nUnits or individuals using unmanned aircraft shall, in accordance with the relevant provisions, formulate emergency response plans for flight emergencies, implement risk prevention measures and promptly eliminate hidden safety hazards."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration, and Emergency Handling"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where an abnormal situation arises during unmanned aircraft flight, the units or individuals organising the flight activities shall promptly handle it and submit to the instructions of the air traffic management body; where this leads to a flight safety problem, the units or individuals organising the flight activities shall additionally report the relevant circumstances to the air traffic management body within 24 hours after the unmanned aircraft lands."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration, and Emergency Handling"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "With respect to unidentified situations in the air and unlawful flights of unmanned aircraft, the public security organ may, when conditions are favourable, take initial measures against low-altitude targets and shall be responsible for on-site handling after an unlawfully flying unmanned aircraft lands. The relevant military organs, public security organs, State security organs and other units shall, according to the division of duties, organise verification and handling, and the civil aviation administration and other relevant departments shall cooperate."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration, and Emergency Handling"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where an unmanned aircraft violates the provisions on flight administration, disrupts public order or endangers public safety, the air traffic management body, the civil aviation administration department and the public security organ may take emergency handling measures in accordance with law such as necessary technical prevention and control, seizure of the relevant items, ordering the cessation of flight and sealing up the premises of unlawful activities."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration, and Emergency Handling"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "The military, the police and the management units of high-risk key counter-terrorism targets authorised by public security organs in accordance with the relevant provisions of the national counter-terrorism work leading body may be equipped with unmanned aircraft countermeasure equipment in accordance with law, and shall strictly control the installation and use of such equipment under the guidance and supervision of public security organs or the relevant military organs.\nThe measures for the administration of the equipping, installation, use and authorisation of unmanned aircraft countermeasure equipment shall be formulated by the industry and information technology, public security, State security and market supervision and administration departments of the State Council together with the relevant departments of the State Council and the relevant military organs.\nNo unit or individual may unlawfully possess or use unmanned aircraft countermeasure equipment."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration, and Emergency Handling"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where, in violation of these Regulations, anyone engages in the design, production, import, flight or maintenance of medium or large civil unmanned aircraft systems without obtaining an airworthiness permit in accordance with law, the civil aviation administration department shall order the cessation of the relevant activities, confiscate the illegal income and impose a fine of not less than one time but not more than five times the value of the unmanned aircraft systems; where the circumstances are serious, it shall order suspension of business for rectification."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where, in violation of these Regulations, a producer of civil unmanned aircraft systems fails to assign a unique product identification code to the unmanned aircraft it produces in accordance with the provisions of the industry and information technology competent department of the State Council, the industry and information technology competent department of a people's government at or above the county level shall order correction, confiscate the illegal income and impose a fine of not less than RMB 30,000 but not more than RMB 300,000; where correction is refused, it shall order suspension of business for rectification."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where, in violation of these Regulations, a major design change is made to a civil unmanned aircraft system that has obtained an airworthiness permit without applying afresh for an airworthiness permit and the system is used for flight activities, the civil aviation administration department shall order correction and impose a fine of not less than one time but not more than five times the value of the unmanned aircraft systems.\nWhere, in violation of these Regulations, the factory performance and parameters of a micro, light or small civil unmanned aircraft system, such as its airspace keeping capability, reliable surveillance capability, speed or altitude, are changed without promptly updating the performance and parameter information on the integrated comprehensive supervision service platform for unmanned aircraft, the civil aviation administration department shall order correction; where correction is refused, a fine of not less than RMB 2,000 but not more than RMB 20,000 shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where, in violation of these Regulations, a civil unmanned aircraft carries out flight activities without real-name registration, the public security organ shall order correction and may impose a fine of not more than RMB 200; where the circumstances are serious, a fine of not less than RMB 2,000 but not more than RMB 20,000 shall be imposed.\nWhere, in violation of these Regulations, a civil unmanned aircraft involved in flights outside the territory is not registered by nationality in accordance with law, the civil aviation administration department shall order correction and impose a fine of not less than RMB 10,000 but not more than RMB 100,000."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where, in violation of these Regulations, liability insurance is not taken out for a civil unmanned aircraft in accordance with law, the civil aviation administration department shall order correction and impose a fine of not less than RMB 2,000 but not more than RMB 20,000; where the circumstances are serious, it shall order the unit carrying out the flight activities to suspend business for rectification and may even revoke its operator certificate."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where, in violation of these Regulations, flight activities are carried out without obtaining an operator certificate or in violation of the requirements of the operator certificate, the civil aviation administration department shall order correction and impose a fine of not less than RMB 50,000 but not more than RMB 500,000; where the circumstances are serious, it shall order suspension of business for rectification and may even revoke the operator certificate."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where a person with no capacity for civil conduct or a person with limited capacity for civil conduct operates a civil unmanned aircraft in flight in violation of these Regulations, the public security organ shall impose a fine of not less than RMB 500 but not more than RMB 5,000 on his guardian; where the circumstances are serious, the unmanned aircraft used for the flight in violation of the regulations shall be confiscated.\nWhere, in violation of these Regulations, anyone operates a civil unmanned aircraft in flight without obtaining an operator licence, the civil aviation administration department shall impose a fine of not less than RMB 5,000 but not more than RMB 50,000; where the circumstances are serious, a fine of not less than RMB 10,000 but not more than RMB 100,000 shall be imposed.\nWhere, in violation of these Regulations, anyone operates a civil unmanned aircraft beyond the scope stated in his operator licence, the civil aviation administration department shall impose a fine of not less than RMB 2,000 but not more than RMB 20,000 and shall concurrently suspend his operator licence for not less than six months but not more than 12 months; where the circumstances are serious, it shall revoke his operator licence and shall not accept his application for an operator licence within two years.\nWhere, in violation of these Regulations, anyone carries out routine agricultural unmanned aircraft operation flights without obtaining an operation certificate, the agriculture and rural affairs competent department of a local people's government at or above the county level shall order the cessation of operations and impose a fine of not less than RMB 1,000 but not more than RMB 10,000."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where units or individuals organising flight activities violate Articles 32 and 33 of these Regulations, the civil aviation administration department shall order correction and may impose a fine of not more than RMB 10,000; where correction is refused, a fine of not less than RMB 10,000 but not more than RMB 50,000 shall be imposed and the operator certificate or operator licence shall be concurrently suspended for not less than one month but not more than three months; where the circumstances are serious, the air traffic management body shall order the cessation of flight for not less than six months but not more than 12 months, the civil aviation administration department shall impose a fine of not less than RMB 50,000 but not more than RMB 100,000 and may revoke the corresponding permit certificates, and shall not accept the corresponding permit application within two years.\nWhere, in violation of these Regulations, anyone operates a micro, light or small civil unmanned aircraft in controlled airspace without approval, or operates a model aircraft outside the airspace designated by an air traffic management body, the public security organ shall order the cessation of flight and may impose a fine of not more than RMB 500; where the circumstances are serious, it shall confiscate the unmanned aircraft used for the flight in violation of the regulations and impose a fine of not less than RMB 1,000 but not more than RMB 10,000."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where, in violation of these Regulations, anyone unlawfully possesses or uses unmanned aircraft countermeasure equipment, the radio administration body or the public security organ shall, according to the division of duties, confiscate it and may impose a fine of not more than RMB 50,000; where the circumstances are serious, a fine of not less than RMB 50,000 but not more than RMB 200,000 shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where, in violation of these Regulations, a foreign unmanned aircraft, or an unmanned aircraft operated by foreign personnel, carries out surveying and mapping flight activities within the territory of China, the surveying and mapping geographic information competent department of a people's government at or above the county level shall order the cessation of the unlawful act, confiscate the illegal income, the surveying and mapping results and the unmanned aircraft used for the flight in violation of the regulations, and impose a fine of not less than RMB 100,000 but not more than RMB 500,000; where the circumstances are serious, a fine of not less than RMB 500,000 but not more than RMB 1,000,000 shall be concurrently imposed, and the public security organ or the State security organ shall, according to the division of duties, decide to order the person to leave the country within a time limit or to deport him."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where the production, conversion, assembly, refitting, sale and recall of micro, light or small civil unmanned aircraft systems violate the relevant laws and regulations on product quality or standardisation management, the market supervision and administration department of a people's government at or above the county level shall impose a penalty in accordance with law.\nExcept in the circumstances specified in Article 15 of these Regulations where no radio frequency use licence or radio station licence is required, where the production, maintenance or use of civil unmanned aircraft systems violates the laws and regulations on radio administration or the relevant provisions of the State, the radio administration body shall impose a penalty in accordance with law.\nWhere unmanned aircraft flight activities violate the laws and regulations on the protection of military facilities, the provisions of the relevant laws and regulations shall apply."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where, in violation of these Regulations, the relevant departments or units or their staff members abuse their powers, neglect their duties, engage in malpractices for personal gain or commit other unlawful acts in the administration of unmanned aircraft flight and related activities, sanctions shall be imposed in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where an act in violation of these Regulations constitutes a violation of public security administration, the public security organ shall impose a public security administrative penalty in accordance with law; where a crime is constituted, criminal liability shall be investigated in accordance with law; where personal injury, property loss or other damage is caused, civil liability shall be borne in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Unmanned aircraft flight activities carried out in other airspace under the jurisdiction of China shall comply with the relevant provisions of these Regulations.\nThese Regulations do not apply to unmanned aircraft flying indoors.\nThe relevant provisions of these Regulations apply to flying toys with their own power systems, and the specific measures shall be formulated by the industry and information technology competent department of the State Council and the relevant air traffic management bodies together with the public security and civil aviation competent departments of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Matters concerning unmanned aircraft flight and related activities that are not provided for in these Regulations shall be governed by the Civil Aviation Law of the People's Republic of China, the Basic Rules of Flight of the People's Republic of China, the Regulations on the Control of General Aviation Flight and the relevant laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where the State Council and the Central Military Commission provide otherwise for the administration of military unmanned aircraft, those provisions shall apply.\nThe measures for the administration of matters such as the airworthiness, registration and operators of unmanned aircraft under the jurisdiction of the police, customs and emergency management departments shall be formulated separately by the relevant departments of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "The measures for the administration of matters such as the classification, production, registration and operators of model aircraft and aviation flight camps shall be formulated separately by the sports competent department of the State Council together with the relevant air traffic management bodies and the industry and information technology, public security and civil aviation competent departments of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where civil unmanned aircraft produced before these Regulations came into force cannot automatically report identification information to the integrated comprehensive supervision service platform for unmanned aircraft in accordance with the relevant provisions of the State, an application for flight activities shall be submitted to an air traffic management body in accordance with these Regulations for carrying out flight activities, and flight is permitted only after approval."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "For the purposes of these Regulations, the following terms have the meanings given below:\n(a) air traffic management body means a body within the military or the civil aviation administration department responsible for air traffic management in the relevant area of responsibility.\n(b) micro unmanned aircraft means an unmanned aircraft with an empty weight of less than 0.25 kilogrammes, a maximum true flight altitude not exceeding 50 metres, a maximum level flight speed not exceeding 40 kilometres per hour, radio transmission equipment conforming to the technical requirements for micro-power short-range equipment, and the capability of manual intervention and control at any time throughout the flight.\n(c) light unmanned aircraft means an unmanned aircraft with an empty weight not exceeding 4 kilogrammes and a maximum take-off weight not exceeding 7 kilogrammes, a maximum level flight speed not exceeding 100 kilometres per hour, the airspace keeping capability and reliable surveillance capability conforming to airspace management requirements, and the capability of manual intervention and control at any time throughout the flight, excluding micro unmanned aircraft.\n(d) small unmanned aircraft means an unmanned aircraft with an empty weight not exceeding 15 kilogrammes and a maximum take-off weight not exceeding 25 kilogrammes, the airspace keeping capability and reliable surveillance capability conforming to airspace management requirements, and the capability of manual intervention and control at any time throughout the flight, excluding micro and light unmanned aircraft.\n(e) medium unmanned aircraft means an unmanned aircraft with a maximum take-off weight not exceeding 150 kilogrammes, excluding micro, light and small unmanned aircraft.\n(f) large unmanned aircraft means an unmanned aircraft with a maximum take-off weight exceeding 150 kilogrammes.\n(g) unmanned aircraft system means a system composed of an unmanned aircraft and its related remote control station (station), mission payload and control links. A remote control station (station) means an integral whole composed of the various control equipment (means) for the remote control of the unmanned aircraft and the related systems.\n(h) agricultural unmanned aircraft means an unmanned aircraft with a maximum true flight altitude not exceeding 30 metres, a maximum level flight speed not exceeding 50 kilometres per hour, a maximum flight radius not exceeding 2,000 metres, the airspace keeping capability and reliable surveillance capability, and which is specially used for crop protection, sowing, baiting and other agricultural, forestry, animal husbandry and fishery operations and is capable of manual intervention and control at any time throughout the flight.\n(i) segregated flight means flight in which unmanned aircraft and manned aircraft are not simultaneously in the same airspace.\n(j) integrated flight means flight in which unmanned aircraft and manned aircraft are simultaneously in the same airspace.\n(k) distributed operation means a mode in which the operation of an unmanned aircraft system is decomposed into multiple sub-businesses deployed at multiple stations or terminals for coordinated operation.\n(l) swarm means an unmanned aircraft operating mode in which the same system or platform capable of controlling multiple unmanned aircraft is used, for the purpose of handling the same task, to control multiple unmanned aircraft in parallel within the same period of time in a relatively physically concentrated manner, characterised by the interconnected and coordinated processing of the control data of the respective unmanned aircraft.\n(m) model aircraft, also known as aeromodel, means an unmanned aircraft subject to size and weight limits that cannot carry persons and does not have altitude-keeping or position-keeping flight functions, including free-flight, control-line and model aircraft operated by continuous manual remote control within direct visual line of sight or by continuous manual remote control with the aid of first-person view.\n(n) unmanned aircraft countermeasure equipment means equipment specially used to prevent and control unlawful flight of unmanned aircraft and having functions such as jamming, interception and control, capture and destruction.\n(o) airspace keeping capability means the capability to control the altitude and horizontal limits of an unmanned aircraft through technical measures such as electronic fences."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "These Regulations shall come into force on 1 January 2024."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-REG-0370'] = {
     "lawId": "CN-REG-0370",
     "sourceLang": "zh",
@@ -10806,6 +12318,741 @@
         },
         "chapter": {
           "en": "Chapter VI Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0381'] = {
+    "lawId": "CN-REG-0381",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 62 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated for the purpose of strengthening the safety management of school buses and safeguarding the personal safety of students travelling on school buses."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "For the purposes of these Regulations, \"school bus\" means a passenger vehicle with more than seven seats that has obtained a use permit in accordance with these Regulations and that is used to carry students receiving compulsory education to and from school.\nSchool buses carrying primary school students shall be special school buses for primary school students designed and manufactured in accordance with the national standards for special school buses."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Local people's governments at or above the county level shall, in accordance with law and in light of factors such as the number and distribution of students in their administrative areas, formulate and adjust plans for the establishment of schools, ensure that students attend school in the vicinity of their homes or attend boarding schools, and reduce the traffic risks faced by students travelling to and from school. In establishing and adjusting schools implementing compulsory education and their teaching points, the opinions of students' parents and other parties concerned shall be fully solicited.\nLocal people's governments at or above the county level shall take measures to develop urban and rural public transport, rationally plan and establish public transport routes and stops, and provide convenience for students who need to travel to and from school by vehicle.\nIn rural areas where attendance at a nearby school genuinely cannot be ensured and public transport cannot meet students' needs for travelling to and from school, local people's governments at or above the county level shall take measures to ensure that students receiving compulsory education have access to school bus services.\nThe State shall establish a mechanism for raising school bus funds through multiple channels and, by means such as financial subsidies, tax preferences and encouragement of social donations, support in accordance with the provisions the service of carrying students by school bus. The financial funds needed to support school bus services shall be shared between the central and local finances, and the specific measures shall be formulated by the finance department of the State Council. Measures for tax preferences supporting school bus services shall be formulated in accordance with the tax administration authority prescribed by laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The education, public security, transport and industry and information technology, quality supervision, inspection and quarantine, and work safety supervision and administration departments of the State Council shall, in accordance with laws, administrative regulations and the provisions of the State Council, be responsible for the relevant work of school bus safety management. The education and public security departments of the State Council shall, together with the relevant departments of the State Council, establish a coordination mechanism for school bus safety management, coordinate major matters in school bus safety management and jointly ensure sound school bus safety management."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Local people's governments at or above the county level shall bear overall responsibility for school bus safety management in their administrative areas, organise the relevant departments to formulate and implement school bus service plans suited to the local level of economic development and the demand for school bus services, and exercise unified leadership, organisation and coordination over the relevant departments in performing their school bus safety management duties.\nThe education, public security, transport, work safety supervision and administration and other relevant departments of local people's governments at or above the county level shall, in accordance with these Regulations and the provisions of the people's government at the same level, perform the relevant duties of school bus safety management. The relevant departments shall establish and improve a mechanism for sharing school bus safety management information."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The standardisation competent department of the State Council shall, together with the industry and information technology, public security, transport and other departments of the State Council, formulate and promptly revise the national standards for school bus safety in accordance with the requirements of ensuring safety and being economical and applicable.\nEnterprises producing school buses shall establish and improve a product quality assurance system and ensure that the school buses they produce (including those converted, the same below) conform to the national standards for school bus safety; those not conforming to the standards shall not leave the factory or be sold."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Safeguarding the traffic safety of students travelling to and from school is the common responsibility of the government, schools, society and families. All sectors of society shall provide convenience for the passage of school buses and assist in safeguarding the safety of school bus passage."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The education, public security, transport and work safety supervision and administration departments of people's governments at the county level and at the level of cities with districts shall establish and publish reporting telephone lines and online reporting platforms to facilitate the reporting by the public of acts violating the provisions on school bus safety management.\nDepartments receiving a report shall promptly handle it in accordance with law; reports that do not fall within the administrative duties of the department shall be promptly referred to the relevant department for handling."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Schools may be equipped with school buses. Road passenger transport operating enterprises established in accordance with law, urban public transport enterprises, and school bus operating units established in accordance with the provisions of local people's governments at or above the county level may provide school bus services.\nLocal people's governments at or above the county level may, in light of the actual situation in their areas, formulate administrative measures to organise self-employed operators that have lawfully obtained a road passenger transport operating licence to provide school bus services."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Schools and School Bus Service Providers"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Schools equipped with school buses and school bus service providers shall establish and improve a school bus safety management system, appoint safety management personnel, strengthen the safety maintenance of school buses, conduct regular safety education for school bus drivers, and organise school bus drivers to study the laws and regulations on road traffic safety as well as knowledge of safety precautions, emergency handling and emergency rescue, so as to safeguard the safety of students travelling on school buses."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Schools and School Bus Service Providers"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Where school bus services are provided by a school bus service provider, the school shall sign a school bus safety management responsibility document with the school bus service provider, define their respective safety management responsibilities and implement the safety management measures for school bus operation.\nSchools shall file the school bus safety management responsibility document with the education administrative department of the people's government at the county level or at the level of a city with districts."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Schools and School Bus Service Providers"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Schools shall conduct traffic safety education for teachers, students and their guardians, explain to students the knowledge of safe travel by school bus and the skills for emergency handling of school bus safety accidents, and regularly organise drills for the emergency handling of school bus safety accidents.\nStudents' guardians shall perform their guardianship duties and cooperate with schools or school bus service providers in school bus safety management. Students' guardians shall refuse to use vehicles not meeting safety requirements to carry students to and from school."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Schools and School Bus Service Providers"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The education administrative departments of local people's governments at or above the county level shall guide and supervise schools in establishing and improving school bus safety management systems, implementing school bus safety management responsibilities and organising traffic safety education in schools. The traffic management departments of public security organs shall cooperate with education administrative departments in organising traffic safety education in schools."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Schools and School Bus Service Providers"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The use of school buses shall be subject to a permit obtained in accordance with these Regulations.\nA school bus use permit shall be obtained only where the following conditions are met:\n(a) the vehicle conforms to the national standards for school bus safety, has obtained a motor vehicle inspection certificate and has been registered with the traffic management department of the public security organ;\n(b) there is a driver who has obtained the school bus driving qualification;\n(c) there is a reasonable and feasible school bus operation plan covering the driving route, operating hours and stops;\n(d) there is a sound safety management system; and\n(e) motor vehicle carrier liability insurance has been taken out."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter III School Bus Use Permits"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where a school or school bus service provider applies for a school bus use permit, it shall submit a written application and materials proving that it meets the conditions set out in Article 14 of these Regulations to the education administrative department of the people's government at the county level or at the level of a city with districts. The education administrative department shall, within three working days from the date of receipt of the application materials, send them respectively to the traffic management department of the public security organ and the transport department at the same level for their opinions, and the traffic management department of the public security organ and the transport department shall reply within three working days. The education administrative department shall, within five working days from the date of receipt of the replies, put forward its examination opinion and report it to the people's government at the same level. Where the people's government at the same level decides to approve, the traffic management department of the public security organ shall issue the school bus sign and endorse the type of school bus and the approved number of passengers on the motor vehicle driving licence; where it decides not to approve, it shall state the reasons in writing."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III School Bus Use Permits"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The school bus sign shall state the number plate of the vehicle, the owner of the vehicle, the driver, the driving route, the operating hours, the stops, the unit issuing the school bus sign and the period of validity and other matters."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III School Bus Use Permits"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Vehicles that have obtained a school bus sign shall be equipped with uniform school bus marker lamps and a stop indicator sign.\nWhere a school bus is driven on the road without carrying students, the school bus sign, school bus marker lamps and stop indicator sign shall not be used."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III School Bus Use Permits"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "It is prohibited to use vehicles that have not obtained a school bus sign to provide school bus services."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III School Bus Use Permits"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Where a vehicle that has obtained a school bus sign reaches the scrapping standard or is no longer used as a school bus, the school or school bus service provider shall return the school bus sign to the traffic management department of the public security organ."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III School Bus Use Permits"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "School buses shall undergo motor vehicle safety technical inspection once every six months."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III School Bus Use Permits"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "School buses shall be equipped with safety equipment such as escape hammers, dry powder fire extinguishers and first-aid kits. Safety equipment shall be placed in easily accessible positions and shall be maintained in good condition and in effective working order.\nSchool buses shall be equipped as required with satellite positioning devices having a driving recording function."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III School Bus Use Permits"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Schools equipped with school buses and school bus service providers shall, in accordance with the provisions of the State, carry out safety maintenance of school buses, establish safety maintenance files and keep school buses in good technical condition. School buses not meeting safety technical conditions shall be taken out of service for repair so as to eliminate hidden safety hazards.\nSchool buses shall be repaired by repair enterprises that have lawfully obtained the corresponding qualifications. Enterprises undertaking school bus repair business shall repair school buses in accordance with the prescribed repair technical specifications and, in accordance with the provisions of the transport competent department of the State Council, apply a quality guarantee period system to the school buses they repair and be responsible for the repair quality within the quality guarantee period."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III School Bus Use Permits"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "School bus drivers shall obtain the school bus driving qualification in accordance with these Regulations.\nThe school bus driving qualification shall be obtained only where the following conditions are met:\n(a) the person has obtained a driving licence for the corresponding permitted vehicle type and has three years or more of driving experience, and is 25 years of age or older but not more than 60 years of age;\n(b) the person has not had his points fully recorded in the last three consecutive scoring cycles;\n(c) the person has no record of being responsible for a traffic accident causing death or serious injury;\n(d) the person has no record of driving a motor vehicle after drinking alcohol or while intoxicated, and has no record in the last year of serious traffic violations such as overloading or speeding while driving a passenger vehicle;\n(e) the person has no criminal record; and\n(f) the person is physically and mentally healthy, has no infectious disease, has no history of epilepsy, mental illness or other disease that may endanger driving safety, and has no record of alcohol abuse or drug use."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter IV School Bus Drivers"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Where a motor vehicle driver applies for the school bus driving qualification, he shall submit a written application and materials proving that he meets the conditions set out in Article 23 of these Regulations to the traffic management department of the public security organ of the people's government at the county level or at the level of a city with districts. The traffic management department of the public security organ shall complete its examination within five working days from the date of receipt of the application materials and, for those meeting the conditions, endorse on the motor vehicle driving licence permission to drive a school bus; for those not meeting the conditions, it shall state the reasons in writing."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter IV School Bus Drivers"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "A motor vehicle driver who has not obtained the school bus driving qualification shall not drive a school bus. It is prohibited to employ motor vehicle drivers who have not obtained the school bus driving qualification to drive school buses."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter IV School Bus Drivers"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "School bus drivers shall undergo annual verification by the traffic management department of the public security organ."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV School Bus Drivers"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "School bus drivers shall observe the laws and regulations on road traffic safety and shall drive safely and courteously in strict accordance with the road traffic rules for motor vehicles and the driving operating specifications."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV School Bus Drivers"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "School bus routes shall avoid as far as possible dangerous road sections with sharp bends, steep slopes, cliffs or bodies of water; where avoidance is genuinely impossible, the units managing and maintaining the roads or traffic facilities shall, in accordance with the standards, install safety protection facilities, speed limit signs and warning signs on such dangerous road sections."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter V School Bus Passage Safety"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Where a road over which a school bus passes is in a condition not meeting the conditions for safe passage or presents a hidden traffic safety hazard, the local people's government shall organise the relevant departments to promptly improve the conditions for safe road passage and eliminate the hidden safety hazard."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter V School Bus Passage Safety"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "When carrying students, a school bus shall display the school bus sign in the position prescribed by the public security department of the State Council and turn on the school bus marker lamps.\nWhen carrying students, a school bus shall travel along the verified route, except where traffic control, road construction, natural disasters, severe weather conditions or major traffic accidents affect road passage."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter V School Bus Passage Safety"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The traffic management departments of public security organs shall strengthen the management of road traffic order along school bus routes. In the event of traffic congestion, traffic police shall direct and clear the way so that school buses carrying students are given priority passage.\nWhen carrying students, a school bus may travel in dedicated public transport lanes and on road sections where the passage of social vehicles is prohibited but the passage of public transport vehicles is permitted."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter V School Bus Passage Safety"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "School buses picking up and setting down students shall stop at school bus stops; on road sections without school bus stops, they may stop at public transport platforms.\nThe units managing and maintaining the roads or traffic facilities shall, in accordance with the standards, install advance warning markers and signs for school bus stops and mark school bus stop lines."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter V School Bus Passage Safety"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "When a school bus stops on the road to pick up or set down students, it shall stop on the right side of the road, turn on the hazard warning flashers and display the stop indicator sign. Where a school bus stops on a road with only one motor vehicle lane in each direction, vehicles behind shall stop and wait and shall not overtake. Where a school bus stops on a road with two or more motor vehicle lanes in the same direction, motor vehicles behind the school bus in the lane where it stops and in the adjacent lane shall stop and wait, and motor vehicles in the other lanes shall slow down and pass. Motor vehicles stopped and waiting behind a school bus shall not sound their horns or flash their lights to urge the school bus on."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter V School Bus Passage Safety"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "A school bus shall not carry more persons than the approved number, and shall not be overloaded for any reason.\nSchools and school bus service providers shall not require school bus drivers to drive school buses overloaded or at excessive speed."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter V School Bus Passage Safety"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "A school bus carrying students shall not exceed a maximum speed of 80 kilometres per hour on expressways and shall not exceed a maximum speed of 60 kilometres per hour on other roads.\nWhere the maximum speed prescribed by laws and regulations on road traffic safety or indicated by speed limit signs and markings on the road is lower than that prescribed in the preceding paragraph, those provisions shall prevail.\nA school bus carrying students shall not exceed a maximum speed of 20 kilometres per hour when travelling on sharp bends, steep slopes, narrow roads, narrow bridges and icy, snowy or muddy roads, or in meteorological conditions of low visibility such as fog, rain, snow, sandstorms and hail."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter V School Bus Passage Safety"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Where a school bus violates the laws and regulations on road traffic safety, traffic police may release it first on condition that the unlawful act is eliminated, and impose a penalty on the school bus driver after the school bus has completed its task of picking up and setting down students."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter V School Bus Passage Safety"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The traffic management departments of public security organs shall strengthen supervision and inspection of the operation of school buses, investigate and deal with road traffic safety violations by school buses in accordance with law, and periodically send information on the road traffic safety violations and traffic accidents of school bus drivers to their employing units and to the education administrative departments."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter V School Bus Passage Safety"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Schools equipped with school buses and school bus service providers shall assign attendants to accompany school buses throughout the journey to look after the students on board. Where a school bus service provider provides school bus services to a school, the two parties may agree that the school shall assign the on-board attendants.\nSchools and school bus service providers shall conduct regular safety education for on-board attendants and organise them to study the laws and regulations on road traffic safety and knowledge of emergency handling and emergency rescue."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter VI Safety of Students on School Buses"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "On-board attendants shall perform the following duties:\n(a) to guide and direct students below the vehicle when they board and alight, and to maintain order in boarding and alighting;\n(b) to stop the school bus from departing upon discovering that the driver does not have the school bus driving qualification, has driven after drinking alcohol or while intoxicated, is seriously unwell, or that the school bus is overloaded or that other circumstances clearly hindering driving safety exist;\n(c) to count the number of students on board, help and guide students to be safely seated and fasten their seat belts, and, after confirming that the doors are closed, signal the driver to start the school bus;\n(d) to stop dangerous behaviour such as students leaving their seats while the school bus is in motion; and\n(e) to verify the number of students alighting and to leave the vehicle only after confirming that all students on board have left the vehicle."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter VI Safety of Students on School Buses"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Students shall not be seated in the front passenger seat of a school bus.\nWhile a school bus is carrying students, persons other than the driver and the on-board attendant are prohibited from travelling in it."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter VI Safety of Students on School Buses"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Before driving a school bus on the road, the school bus driver shall check whether the condition of the school bus, including the brakes, steering, exterior lighting, tyres, safety doors, seats and seat belts, meets the safety technical requirements, and shall not drive a school bus with hidden safety hazards on the road.\nA school bus driver shall not refuel the vehicle while students are on board, and shall not leave the driver's seat before the school bus engine is switched off."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter VI Safety of Students on School Buses"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where a school bus is involved in a traffic accident, the driver and the on-board attendant shall immediately report it to the police and set up warning signs. Where it is dangerous for the students on board to remain in the school bus, the on-board attendant shall evacuate the students to a safe area and promptly contact the school, the school bus service provider and the students' guardians to handle the follow-up matters."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VI Safety of Students on School Buses"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Anyone who produces or sells school buses not conforming to the national standards for school bus safety shall be punished in accordance with the provisions of the laws and administrative regulations on road traffic safety and product quality management."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Anyone who uses an assembled motor vehicle or a motor vehicle that has reached the scrapping standard to carry students shall have the motor vehicle confiscated and compulsorily scrapped by the traffic management department of the public security organ; the driver shall be fined not less than RMB 2,000 but not more than RMB 5,000 and shall have his motor vehicle driving licence revoked; and the owner of the vehicle shall be fined not less than RMB 80,000 but not more than RMB 100,000, and any illegal income shall be confiscated."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Anyone who uses a vehicle that has not obtained a school bus sign to provide school bus services, or uses a person who has not obtained the school bus driving qualification to drive a school bus, shall have the motor vehicle detained by the traffic management department of the public security organ and be fined not less than RMB 10,000 but not more than RMB 20,000, and any illegal income shall be confiscated.\nWhere an enterprise or self-employed operator that has obtained a road transport operating licence commits the unlawful act specified in the preceding paragraph, in addition to being punished in accordance with the preceding paragraph, it shall, where the circumstances are serious, have its operating licence revoked by the transport competent department.\nAnyone who forges or alters a school bus sign, or uses a forged or altered school bus sign, shall have the forged or altered school bus sign confiscated and the motor vehicle detained by the traffic management department of the public security organ, and shall be fined not less than RMB 2,000 but not more than RMB 5,000."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Anyone who fails to equip a school bus with safety equipment as required, or fails to carry out safety maintenance of a school bus as required, shall be ordered to correct by the traffic management department of the public security organ and fined not less than RMB 1,000 but not more than RMB 3,000."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where a motor vehicle driver drives a school bus without having obtained the school bus driving qualification, the traffic management department of the public security organ shall impose a fine of not less than RMB 1,000 but not more than RMB 3,000 and, where the circumstances are serious, may concurrently revoke his motor vehicle driving licence."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where a school bus driver falls under any of the following circumstances, the traffic management department of the public security organ shall order correction and may impose a fine of RMB 200:\n(a) driving a school bus carrying students without displaying the school bus sign or turning on the school bus marker lamps as required, or not travelling along the verified route;\n(b) stopping to pick up or set down students other than at a school bus stop as required;\n(c) using the school bus sign, school bus marker lamps and stop indicator sign while driving the school bus on the road without carrying students;\n(d) failing to check whether the condition of the school bus meets the safety technical requirements before driving it on the road, or driving a school bus with hidden safety hazards on the road; or\n(e) refuelling the vehicle while students are on board, or leaving the driver's seat before the school bus engine is switched off.\nWhere a school bus driver violates the provisions on road passage in the laws and regulations on road traffic safety, the traffic management department of the public security organ shall impose a heavier penalty in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where a school bus driver has been punished in accordance with law for violating the laws and regulations on road traffic safety or has been involved in a road traffic accident and no longer meets the conditions for school bus drivers prescribed by these Regulations, the traffic management department of the public security organ shall cancel his school bus driving qualification and endorse this on his motor vehicle driving licence."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where a school bus carries more persons than the approved number, the traffic management department of the public security organ shall detain the vehicle until the unlawful state is eliminated and impose a heavier penalty in accordance with the provisions of the laws and regulations on road traffic safety."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where the traffic management department of the public security organ, in investigating and dealing with a road traffic safety violation by a school bus, detains the vehicle in accordance with law, it shall notify the school concerned or the school bus service provider to transfer the students, and shall return the detained vehicle immediately after the unlawful state is eliminated."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where a motor vehicle driver, in violation of these Regulations, fails to give way to a school bus, the traffic management department of the public security organ shall impose a fine of RMB 200."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where an on-board attendant is not assigned as required to accompany a school bus throughout the journey to look after the students on board, the public security organ shall order correction and may impose a fine of RMB 500.\nWhere an on-board attendant fails to perform the duties prescribed by these Regulations, the school or school bus service provider shall order correction; where the attendant refuses to correct, a sanction shall be imposed or the attendant shall be dismissed."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where a school or school bus service provider that has obtained a school bus use permit violates these Regulations and the circumstances are serious, the local people's government that originally made the permit decision may revoke its school bus use permit, and the traffic management department of the public security organ shall withdraw the school bus sign."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where a school violates these Regulations, in addition to being punished in accordance with the relevant provisions of these Regulations, it shall be criticised in a circular by the education administrative department; where this causes an accident involving student casualties, sanctions shall be imposed in accordance with law on the responsible leading personnel and directly responsible persons of a government-run school; for a privately-run school, the examining and approving authority shall order it to suspend enrolment and, where the circumstances are serious, revoke its school running licence, and the education administrative department shall order the responsible leading personnel and directly responsible persons not to engage in school management affairs for five years."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where a local people's government at or above the county level fails to perform its school bus safety management duties in accordance with law and thereby causes a major school bus safety accident in its administrative area, sanctions shall be imposed in accordance with law on the responsible leading personnel and directly responsible persons."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where the education, public security, transport, industry and information technology, quality supervision, inspection and quarantine, work safety supervision and administration and other relevant departments or their staff members fail to perform their school bus safety management duties in accordance with law, sanctions shall be imposed in accordance with law on the responsible leading personnel and directly responsible persons."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where an act in violation of these Regulations constitutes a violation of public security administration, the public security organ shall impose a public security administrative penalty in accordance with law; where a crime is constituted, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where a school bus safety accident causes personal injury or death or property loss, liability for compensation shall be borne in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Local people's governments at or above the county level shall rationally plan the layout of kindergartens so as to facilitate the attendance of young children at nearby kindergartens.\nYoung children attending kindergarten shall be escorted to and from kindergarten by their guardians or by adults entrusted by their guardians. Where, owing to genuinely special circumstances, they cannot be escorted by their guardians or by adults entrusted by their guardians and need to be carried in a group by vehicle, special school buses for young children designed and manufactured in accordance with the national standards for special school buses shall be used, and the provisions of these Regulations on school bus safety management shall be observed."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "The people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall, in light of the actual situation in their areas, formulate measures for the implementation of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "These Regulations shall come into force on the date of promulgation.\nSchools and school bus service providers that were already equipped with school buses before these Regulations came into force, and the school bus drivers they employ, shall, within 90 days from the date these Regulations come into force, apply for and obtain a school bus use permit and the school bus driving qualification in accordance with these Regulations.\nWhere, after these Regulations come into force, special school buses used to carry primary school students and young children cannot meet demand, other passenger vehicles that have obtained a school bus sign may be used within the transitional period prescribed by the people's government of the province, autonomous region or municipality directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
         }
       }
     ]
@@ -20033,6 +22280,765 @@
     ]
   };
 
+  TR['CN-REG-0403'] = {
+    "lawId": "CN-REG-0403",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 63 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated for the purpose of correctly handling medical accidents, protecting the lawful rights and interests of patients, medical institutions and their medical staff, maintaining medical order, safeguarding medical safety and promoting the development of medical science."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "For the purposes of these Regulations, \"medical accident\" means an accident in which a medical institution or its medical staff, in medical activities, violates the laws, administrative regulations and departmental rules on health administration and the norms and routines of diagnosis, treatment and nursing, and through negligence causes personal injury to a patient."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The handling of medical accidents shall follow the principles of openness, fairness, impartiality, timeliness and convenience to the public, adhere to a scientific attitude of seeking truth from facts, and ensure that the facts are clear, the characterisation is accurate, the responsibility is well defined and the handling is appropriate."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Medical accidents are classified into four grades according to the degree of personal injury caused to the patient:\nGrade I medical accident: causing the death or severe disability of the patient;\nGrade II medical accident: causing moderate disability of the patient, or injury to organs or tissues resulting in severe dysfunction;\nGrade III medical accident: causing mild disability of the patient, or injury to organs or tissues resulting in general dysfunction;\nGrade IV medical accident: causing other consequences of obvious personal injury to the patient.\nThe specific grading standards shall be formulated by the health administrative department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Medical institutions and their medical staff shall, in medical activities, strictly comply with the laws, administrative regulations and departmental rules on health administration and the norms and routines of diagnosis, treatment and nursing, and strictly observe the professional ethics of medical services."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention and Handling of Medical Accidents"
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Medical institutions shall provide their medical staff with training in the laws, administrative regulations and departmental rules on health administration and the norms and routines of diagnosis, treatment and nursing, and with education in the professional ethics of medical services."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention and Handling of Medical Accidents"
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Medical institutions shall establish a medical service quality monitoring department or appoint full-time (part-time) personnel to be specifically responsible for supervising the medical services of the medical staff of the institution, inspecting the practice of the medical staff, accepting patients' complaints about medical services and providing them with advisory services."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention and Handling of Medical Accidents"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Medical institutions shall write and properly keep medical records in accordance with the requirements prescribed by the health administrative department of the State Council.\nWhere medical records cannot be written in time because of the rescue of a patient in acute and critical condition, the medical staff concerned shall make a truthful supplementary record within six hours after the rescue is completed and shall annotate it accordingly."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention and Handling of Medical Accidents"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "It is strictly prohibited to alter, forge, conceal or destroy medical records, or to seize them by force."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention and Handling of Medical Accidents"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Patients shall have the right to photocopy or reproduce their outpatient medical records, inpatient records, temperature charts, doctor's order sheets, laboratory sheets (test reports), medical imaging examination materials, consent forms for special examinations, consent forms for surgery, surgery and anaesthesia records, pathological materials, nursing records and other medical records prescribed by the health administrative department of the State Council.\nWhere a patient requests photocopies or reproductions of medical records in accordance with the preceding paragraph, the medical institution shall provide the photocopying or reproduction service and affix a certifying seal to the photocopied or reproduced medical records. The patient shall be present when the medical records are photocopied or reproduced.\nWhere a medical institution photocopies or reproduces medical records at the request of a patient, it may charge a cost fee in accordance with the provisions. The specific charging standards shall be prescribed by the price competent department of the people's government of the province, autonomous region or municipality directly under the Central Government together with the health administrative department at the same level."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention and Handling of Medical Accidents"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "In medical activities, medical institutions and their medical staff shall truthfully inform patients of their condition, medical measures and medical risks and promptly answer their inquiries; however, adverse consequences for patients shall be avoided."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention and Handling of Medical Accidents"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Medical institutions shall formulate contingency plans for preventing and handling medical accidents so as to prevent the occurrence of medical accidents and mitigate the damage caused by them."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention and Handling of Medical Accidents"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where medical staff, in medical activities, cause or discover a medical accident, a negligent medical act that may cause a medical accident, or a dispute over a medical accident, they shall immediately report it to the person in charge of the department in which they work, and the person in charge of the department shall promptly report it to the department responsible for medical service quality monitoring or the full-time (part-time) personnel of the medical institution; upon receipt of the report, the department responsible for medical service quality monitoring or the full-time (part-time) personnel shall immediately investigate and verify the matter, truthfully report the relevant circumstances to the person in charge of the medical institution, and notify and explain the matter to the patient."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention and Handling of Medical Accidents"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Where a medical accident occurs, the medical institution shall report it to the health administrative department of the place where it is located in accordance with the provisions.\nWhere any of the following major negligent medical acts occurs, the medical institution shall report it to the health administrative department of the place where it is located within 12 hours:\n(a) causing the death of the patient or possibly constituting a medical accident of Grade II or above;\n(b) causing consequences of personal injury to three or more persons; or\n(c) other circumstances prescribed by the health administrative department of the State Council and the health administrative departments of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention and Handling of Medical Accidents"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where a negligent medical act occurs or is discovered, the medical institution and its medical staff shall immediately take effective measures to avoid or mitigate harm to the patient's health and prevent the aggravation of the harm."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention and Handling of Medical Accidents"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where a dispute over a medical accident arises, the records of discussion of fatal cases, records of discussion of difficult and complicated cases, records of ward rounds by superior physicians, consultation opinions and course-of-disease records shall be sealed and unsealed in the presence of both the medical institution and the patient. The sealed medical records may be photocopies and shall be kept by the medical institution."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention and Handling of Medical Accidents"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Where an adverse consequence is suspected to be caused by infusion, blood transfusion, injection, drugs or the like, both the medical institution and the patient shall jointly seal and unseal the physical articles on the spot, and the sealed physical articles shall be kept by the medical institution; where testing is required, it shall be carried out by a testing institution jointly designated by both parties that has testing qualifications in accordance with law; where the two parties cannot jointly designate one, the health administrative department shall designate it.\nWhere an adverse consequence is suspected to be caused by blood transfusion and the blood needs to be sealed and preserved, the medical institution shall notify the blood collection and supply institution that provided the blood to send personnel to be present."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention and Handling of Medical Accidents"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where a patient dies and the two parties cannot determine the cause of death or have objections to the cause of death, a post-mortem examination shall be conducted within 48 hours after the death of the patient; where conditions for the cryopreservation of the corpse are available, the period may be extended to seven days. The post-mortem examination shall be subject to the consent and signature of the close relatives of the deceased.\nThe post-mortem examination shall be conducted by an institution that has obtained the corresponding qualifications in accordance with the relevant provisions of the State and by professional and technical personnel in pathological anatomy. Institutions and professional and technical personnel in pathological anatomy undertaking post-mortem examination tasks shall be obliged to conduct the examination.\nThe two parties to a dispute over a medical accident may invite forensic pathology personnel to participate in the post-mortem examination and may also designate representatives to observe the process. Where the post-mortem examination is refused or delayed beyond the prescribed time and this affects the determination of the cause of death, the party refusing or delaying shall bear responsibility."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention and Handling of Medical Accidents"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Where a patient dies in a medical institution, the corpse shall be immediately removed to the mortuary. The storage period of the corpse of the deceased shall generally not exceed two weeks. Where a corpse is not handled within that period, the medical institution shall handle it in accordance with the provisions after approval by the health administrative department of the place where the medical institution is located and filing with the public security department at the same level."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention and Handling of Medical Accidents"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "After the health administrative department receives a report from a medical institution on a major negligent medical act or an application from a party to a dispute over a medical accident requesting the handling of the dispute, it shall, where a technical appraisal of the medical accident is required, refer the matter to the medical association responsible for the technical appraisal of medical accidents for organisation of the appraisal; where the two parties settle a dispute over a medical accident through consultation and a technical appraisal of the medical accident is required, the two parties shall jointly entrust the medical association responsible for the technical appraisal of medical accidents with organising the appraisal."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Technical Appraisal of Medical Accidents"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The local medical associations of cities with districts and the local medical associations of counties (cities) directly under the jurisdiction of provinces, autonomous regions and municipalities directly under the Central Government shall be responsible for organising the first technical appraisal of medical accidents. The local medical associations of provinces, autonomous regions and municipalities directly under the Central Government shall be responsible for organising re-appraisals.\nWhere necessary, the Chinese Medical Association may organise the technical appraisal of disputes over medical accidents that are difficult and complicated and that have a major impact nationwide."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Technical Appraisal of Medical Accidents"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Where a party is dissatisfied with the conclusion of the first technical appraisal of a medical accident, it may, within 15 days from the date of receipt of the conclusion of the first appraisal, apply to the health administrative department of the place where the medical institution is located for a re-appraisal."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Technical Appraisal of Medical Accidents"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "A medical association responsible for organising the technical appraisal of medical accidents shall establish a pool of experts.\nThe pool of experts shall consist of professional and technical personnel in the medical and health field who meet the following conditions:\n(a) having good professional quality and professional ethics; and\n(b) being employed by a medical and health institution or a medical teaching or research institution and having held the senior technical position of the corresponding specialty for three years or more.\nForensic physicians who meet the conditions specified in item (a) of the preceding paragraph and have senior technical qualifications may be engaged to join the pool of experts.\nA medical association responsible for organising the technical appraisal of medical accidents may, in accordance with these Regulations, engage professional and technical personnel in the medical and health field and forensic physicians to join the pool of experts without being subject to the restriction of administrative areas."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Technical Appraisal of Medical Accidents"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The technical appraisal of a medical accident shall be conducted by an expert appraisal group organised by the medical association responsible for organising the technical appraisal of medical accidents.\nThe experts in the relevant specialties participating in the technical appraisal of a medical accident shall be randomly selected by both the medical institution and the patient from the pool of experts under the auspices of the medical association. In special circumstances, the medical association may, in light of the needs of the technical appraisal of medical accidents, organise both parties to randomly select experts in the relevant specialties from a pool of experts established by another medical association to participate in the appraisal or to give written consultations.\nProfessional and technical personnel in the medical and health field and forensic physicians meeting the conditions specified in Article 23 of these Regulations shall be obliged to be engaged to join the pool of experts and to undertake the technical appraisal of medical accidents."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Technical Appraisal of Medical Accidents"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The expert appraisal group shall conduct the technical appraisal of medical accidents under a collegiate system. The number of members of the expert appraisal group shall be odd, and experts in the main disciplines involved shall generally be not less than one half of the members of the appraisal group; where the cause of death or the grade of disability is to be appraised, forensic physicians shall additionally be randomly selected from the pool of experts to join the expert appraisal group."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Technical Appraisal of Medical Accidents"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "A member of the expert appraisal group shall withdraw in any of the following circumstances, and a party may also apply for his withdrawal orally or in writing:\n(a) he is a party to the dispute over the medical accident or a close relative of a party;\n(b) he has an interest in the dispute over the medical accident; or\n(c) he has other relations with a party to the dispute over the medical accident that may affect an impartial appraisal."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Technical Appraisal of Medical Accidents"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The expert appraisal group shall, in accordance with the laws, administrative regulations and departmental rules on health administration and the norms and routines of diagnosis, treatment and nursing, apply medical scientific principles and professional knowledge to independently conduct the technical appraisal of medical accidents, identify and determine medical accidents, and provide a medical basis for handling disputes over medical accidents.\nNo unit or individual may interfere in the technical appraisal of medical accidents, or threaten, induce with promises of benefit, abuse or assault members of the expert appraisal group.\nMembers of the expert appraisal group shall not accept property or other benefits from either party."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Technical Appraisal of Medical Accidents"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "A medical association responsible for organising the technical appraisal of medical accidents shall, within five days from the date of acceptance of the technical appraisal of a medical accident, notify both parties to the dispute over the medical accident to submit the materials required for the technical appraisal.\nThe parties shall, within 10 days from the date of receipt of the notice of the medical association, submit the materials, written statements and defences relating to the technical appraisal of the medical accident. The materials submitted by a medical institution relating to the technical appraisal of the medical accident shall include the following:\n(a) the originals of medical records such as the course-of-disease records, records of discussion of fatal cases, records of discussion of difficult and complicated cases, consultation opinions and records of ward rounds by superior physicians of the inpatient;\n(b) the originals of medical records such as the inpatient record, temperature chart, doctor's order sheets, laboratory sheets (test reports), medical imaging examination materials, consent forms for special examinations, consent forms for surgery, surgery and anaesthesia records, pathological materials and nursing records of the inpatient;\n(c) the originals of medical records supplemented within the prescribed time after the rescue of a patient in acute and critical condition;\n(d) the sealed and preserved physical articles such as infusion and injection articles, blood and drugs, or test reports made by a testing institution that has testing qualifications in accordance with law on such articles and physical items; and\n(e) other materials relating to the technical appraisal of the medical accident.\nFor outpatients and emergency patients who have medical record files at the medical institution, the medical records shall be provided by the medical institution; for those who have not established medical record files at the medical institution, the medical records shall be provided by the patient.\nBoth the medical institution and the patient shall submit the relevant materials in accordance with these Regulations. Where a medical institution fails, without justified reason, to truthfully provide the relevant materials in accordance with these Regulations and this renders the technical appraisal of the medical accident impossible, it shall bear responsibility."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Technical Appraisal of Medical Accidents"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "A medical association responsible for organising the technical appraisal of medical accidents shall, within 45 days from the date of receipt of the materials, written statements and defences relating to the technical appraisal submitted by the parties, organise the appraisal and issue the written conclusion of the technical appraisal of the medical accident.\nA medical association responsible for organising the technical appraisal of medical accidents may investigate and collect evidence from both parties."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Technical Appraisal of Medical Accidents"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "The expert appraisal group shall carefully examine the materials submitted by both parties, hear their statements and defences and verify them.\nBoth parties shall truthfully submit the materials required for the technical appraisal of the medical accident in accordance with these Regulations and actively cooperate with the investigation. Where either party fails to cooperate and this affects the technical appraisal of the medical accident, the party failing to cooperate shall bear responsibility."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Technical Appraisal of Medical Accidents"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The expert appraisal group shall, on the basis of clear facts and conclusive evidence, comprehensively analyse the patient's condition and individual differences, reach an appraisal conclusion and prepare the written conclusion of the technical appraisal of the medical accident. The appraisal conclusion shall be adopted by a majority of the members of the expert appraisal group. The appraisal process shall be truthfully recorded.\nThe written conclusion of the technical appraisal of the medical accident shall include the following main contents:\n(a) the basic information and claims of both parties;\n(b) the materials submitted by the parties and the investigation materials of the medical association responsible for organising the technical appraisal of medical accidents;\n(c) an explanation of the appraisal process;\n(d) whether the medical conduct violates the laws, administrative regulations and departmental rules on health administration and the norms and routines of diagnosis, treatment and nursing;\n(e) whether there is a causal relationship between the negligent medical act and the consequences of personal injury;\n(f) the degree of responsibility of the negligent medical act for the consequences of the medical accident;\n(g) the grade of the medical accident; and\n(h) medical and nursing recommendations for the patient of the medical accident."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Technical Appraisal of Medical Accidents"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The measures for the technical appraisal of medical accidents shall be formulated by the health administrative department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III Technical Appraisal of Medical Accidents"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "None of the following circumstances constitutes a medical accident:\n(a) adverse consequences caused by emergency medical measures taken to save the life of a dying patient in an emergency;\n(b) medical accidents occurring in medical activities owing to abnormal conditions of the patient or the particular constitution of the patient;\n(c) adverse consequences that are unforeseeable or cannot be prevented under existing medical science and technology;\n(d) adverse consequences caused by infection through blood transfusion in which there is no fault;\n(e) adverse consequences caused by delay in diagnosis and treatment attributable to the patient; or\n(f) adverse consequences caused by force majeure."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter III Technical Appraisal of Medical Accidents"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "A fee may be charged for the technical appraisal of a medical accident. Where the appraisal concludes that it is a medical accident, the appraisal fee shall be paid by the medical institution; where it concludes that it is not a medical accident, the appraisal fee shall be paid by the party that applied for the handling of the medical accident. The standards for the appraisal fee shall be prescribed by the price competent department of the people's government of the province, autonomous region or municipality directly under the Central Government together with the finance department and the health administrative department at the same level."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter III Technical Appraisal of Medical Accidents"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The health administrative department shall, in accordance with these Regulations and the provisions of the relevant laws, administrative regulations and departmental rules, make administrative decisions on the medical institution and medical staff involved in a medical accident."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Administrative Handling and Supervision of Medical Accidents"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "After the health administrative department receives a report from a medical institution on a major negligent medical act, in addition to ordering the medical institution to promptly take the necessary medical treatment measures to prevent the aggravation of the consequences of the harm, it shall organise an investigation to determine whether the act constitutes a medical accident; where it cannot determine whether it constitutes a medical accident, it shall, in accordance with the relevant provisions of these Regulations, refer the matter to the medical association responsible for the technical appraisal of medical accidents for organisation of the appraisal."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Administrative Handling and Supervision of Medical Accidents"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Where a dispute over a medical accident arises and a party applies to the health administrative department for handling, it shall submit a written application. The application shall state the basic information of the applicant, the relevant facts, the specific requests and the reasons.\nA party may, within one year from the date it knows or ought to know that its health has been harmed, apply to the health administrative department for handling the dispute over the medical accident."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Administrative Handling and Supervision of Medical Accidents"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where a dispute over a medical accident arises and a party applies to the health administrative department for handling, the matter shall be accepted by the health administrative department of the people's government at the county level of the place where the medical institution is located. Where the medical institution is located in a municipality directly under the Central Government, the matter shall be accepted by the health administrative department of the people's government of the district or county of that place.\nIn any of the following circumstances, the health administrative department of the people's government at the county level shall, within seven days from the date of receipt of the report of the medical institution or of the application of the party for handling the dispute over the medical accident, refer the matter to the health administrative department of the people's government at the next higher level for handling:\n(a) the patient has died;\n(b) the medical accident may be of Grade II or above; or\n(c) other circumstances prescribed by the health administrative department of the State Council and the health administrative departments of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Administrative Handling and Supervision of Medical Accidents"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The health administrative department shall, within 10 days from the date of receipt of the application for handling the dispute over the medical accident, conduct an examination and decide whether to accept it. Where the application conforms to these Regulations and is accepted and a technical appraisal of the medical accident is required, it shall, within five days from the date of the decision to accept, refer the relevant materials to the medical association responsible for the technical appraisal of medical accidents for organisation of the appraisal and notify the applicant in writing; where the application does not conform to these Regulations and is not accepted, it shall notify the applicant in writing and state the reasons.\nWhere a party objects to the conclusion of the first technical appraisal of the medical accident and applies for a re-appraisal, the health administrative department shall, within seven days from the date of receipt of the application, refer the matter to the local medical association of the province, autonomous region or municipality directly under the Central Government for organisation of the re-appraisal."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter IV Administrative Handling and Supervision of Medical Accidents"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where a party both applies to the health administrative department for handling the dispute over the medical accident and brings an action in a people's court, the health administrative department shall not accept the application; where the health administrative department has already accepted it, it shall terminate the handling."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter IV Administrative Handling and Supervision of Medical Accidents"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "After the health administrative department receives the written conclusion of the technical appraisal of the medical accident issued by the medical association responsible for organising the technical appraisal of medical accidents, it shall examine the qualifications and specialties of the persons participating in the appraisal and the appraisal procedure; where necessary, it may organise an investigation and hear the opinions of both parties to the dispute over the medical accident."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IV Administrative Handling and Supervision of Medical Accidents"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where, upon examination, the health administrative department finds that the conclusion of the technical appraisal of the medical accident is made in conformity with these Regulations, it shall serve as the basis for making administrative decisions on the medical institution and medical staff involved in the medical accident and for conducting mediation on compensation for the medical accident; where, upon examination, it finds that the technical appraisal of the medical accident does not conform to these Regulations, it shall require a fresh appraisal."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter IV Administrative Handling and Supervision of Medical Accidents"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where a dispute over a medical accident is settled by the two parties through consultation on their own, the medical institution shall, within seven days from the date of settlement through consultation, make a written report to the health administrative department of the place where it is located, with the settlement agreement attached."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter IV Administrative Handling and Supervision of Medical Accidents"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where a dispute over a medical accident is settled through mediation or judgment by a people's court, the medical institution shall, within seven days from the date of receipt of the effective mediation statement or judgment of the people's court, make a written report to the health administrative department of the place where it is located, with the mediation statement or judgment attached."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter IV Administrative Handling and Supervision of Medical Accidents"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "The health administrative departments of local people's governments at or above the county level shall, in accordance with the provisions, report level by level to the health administrative department of the State Council the medical accidents occurring in their localities and the administrative decisions made in accordance with law on the medical institutions and medical staff involved in medical accidents."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter IV Administrative Handling and Supervision of Medical Accidents"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where a dispute over civil liability such as compensation for a medical accident arises, the medical institution and the patient may settle it through consultation; where they are unwilling to consult or consultation fails, the party may apply to the health administrative department for mediation or may directly bring a civil action in a people's court."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter V Compensation for Medical Accidents"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where the two parties settle through consultation a dispute over civil liability such as compensation for a medical accident, they shall prepare a written agreement. The written agreement shall state the basic information of both parties, the cause of the medical accident, the grade of the medical accident jointly determined by both parties and the amount of compensation agreed through consultation, and shall be signed by both parties."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter V Compensation for Medical Accidents"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where a medical accident has been determined, the health administrative department may, at the request of both parties to the dispute over the medical accident, conduct mediation on compensation for the medical accident. The mediation shall follow the principle of voluntariness of both parties and the amount of compensation shall be calculated in accordance with these Regulations.\nWhere, through mediation, the two parties reach an agreement on the amount of compensation, a mediation statement shall be prepared and both parties shall perform it; where mediation fails, or where one party goes back on the agreement reached through mediation, the health administrative department shall cease mediation."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter V Compensation for Medical Accidents"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "In determining the specific amount of compensation for a medical accident, the following factors shall be taken into account:\n(a) the grade of the medical accident;\n(b) the degree of responsibility of the negligent medical act for the consequences of the medical accident; and\n(c) the relationship between the consequences of the medical accident and the patient's pre-existing condition.\nWhere the case does not constitute a medical accident, the medical institution shall not bear liability for compensation."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter V Compensation for Medical Accidents"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Compensation for a medical accident shall be calculated according to the following items and standards:\n(a) Medical expenses: calculated according to the medical expenses incurred in treating the personal injury caused to the patient by the medical accident, paid against receipts, but excluding the medical expenses for the primary disease. Where continued treatment is genuinely required after the case is closed, payment shall be made according to the basic medical expenses.\n(b) Lost work income: where the patient has a fixed income, calculated according to the fixed income actually reduced by the patient owing to lost working time, and where the income is more than three times the average annual wage of employees in the place where the medical accident occurred in the previous year, calculated at three times that amount; where the patient has no fixed income, calculated according to the average annual wage of employees in the place where the medical accident occurred in the previous year.\n(c) Hospital meal allowance: calculated according to the standard for meal allowances for business trips of ordinary staff members of State organs in the place where the medical accident occurred.\n(d) Nursing expenses: where the patient requires dedicated nursing during hospitalisation, calculated according to the average annual wage of employees in the place where the medical accident occurred in the previous year.\n(e) Subsidy for living expenses due to disability: determined according to the grade of disability and calculated according to the average annual living expenses of residents in the place where the medical accident occurred, with compensation for a maximum of 30 years from the month in which the disability is determined; however, for persons aged 60 or above, not more than 15 years; for persons aged 70 or above, not more than five years.\n(f) Expenses for disability aids: where aids for compensating functions are required owing to disability, calculated on the basis of a certificate of the medical institution and according to the cost of popular-model aids.\n(g) Funeral expenses: calculated according to the subsidy standard for funeral expenses prescribed in the place where the medical accident occurred.\n(h) Living expenses of dependants: limited to persons who were actually supported by the deceased before death or by the disabled person before loss of working capacity and who have no working capacity, calculated according to the minimum living guarantee standard for residents in the place of their household registration or residence. For those under 16 years of age, support shall be provided until the age of 16. For those aged 16 or above but without working capacity, support shall be provided for 20 years; however, for persons aged 60 or above, not more than 15 years; for persons aged 70 or above, not more than five years.\n(i) Transport expenses: calculated according to the transport expenses actually and necessarily incurred by the patient, paid against receipts.\n(j) Accommodation expenses: calculated according to the standard for accommodation allowances for business trips of ordinary staff members of State organs in the place where the medical accident occurred, paid against receipts.\n(k) Compensation for mental distress: calculated according to the average annual living expenses of residents in the place where the medical accident occurred. Where the patient dies, the compensation period shall not exceed six years; where the patient suffers disability, the compensation period shall not exceed three years."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter V Compensation for Medical Accidents"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "The transport expenses, lost work income and accommodation expenses required by the close relatives of the patient participating in the handling of the medical accident shall be calculated by reference to the relevant provisions of Article 50 of these Regulations, and the number of persons for whom expenses are calculated shall not exceed two.\nWhere a medical accident causes the death of the patient, the transport expenses, lost work income and accommodation expenses required by the spouse and lineal relatives of the patient participating in the funeral activities shall be calculated by reference to the relevant provisions of Article 50 of these Regulations, and the number of persons for whom expenses are calculated shall not exceed two."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter V Compensation for Medical Accidents"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Compensation for a medical accident shall be settled in a lump sum and paid by the medical institution bearing responsibility for the medical accident."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter V Compensation for Medical Accidents"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where a staff member of the health administrative department, in handling a medical accident, violates these Regulations by taking advantage of his position to accept property or other benefits from others, abusing his powers, neglecting his duties, or failing to investigate and deal with an unlawful act discovered, thereby causing serious consequences, criminal liability shall be investigated in accordance with law pursuant to the provisions of the Criminal Law on the crime of accepting bribes, the crime of abuse of power, the crime of dereliction of duty or other relevant crimes; where the case is not serious enough for criminal punishment, an administrative sanction of demotion or removal from office shall be imposed in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where a health administrative department violates these Regulations and falls under any of the following circumstances, the health administrative department at the higher level shall give it a warning and order correction within a specified period; where the circumstances are serious, an administrative sanction shall be imposed in accordance with law on the responsible persons in charge and other directly responsible persons:\n(a) failing to promptly organise an investigation after receiving a report from a medical institution on a major negligent medical act;\n(b) failing, after receiving an application for handling a dispute over a medical accident, to examine it within the prescribed time or to refer it to the health administrative department of the people's government at the next higher level for handling;\n(c) failing to refer a major negligent medical act or dispute over a medical accident requiring technical appraisal of the medical accident to the medical association for organisation of the appraisal;\n(d) failing, in accordance with the provisions, to report level by level the medical accidents occurring in its locality and the administrative decisions made in accordance with law on the medical institutions and medical staff involved in medical accidents; or\n(e) failing to examine the written conclusion of the technical appraisal of the medical accident in accordance with these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where a medical accident occurs in a medical institution, the health administrative department shall, according to the grade and circumstances of the medical accident, give it a warning; where the circumstances are serious, it shall order it to suspend business for rectification within a specified period and may even have its practising licence revoked by the authority that originally issued it, and shall investigate the criminal liability of the responsible medical staff in accordance with law pursuant to the provisions of the Criminal Law on the crime of medical accident; where the case is not serious enough for criminal punishment, an administrative sanction or disciplinary sanction shall be imposed in accordance with law.\nIn respect of the medical staff involved in a medical accident, in addition to the penalty specified in the preceding paragraph, the health administrative department may order the suspension of practice for not less than six months but not more than one year; where the circumstances are serious, it shall revoke their practising certificates."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where a medical institution violates these Regulations and falls under any of the following circumstances, the health administrative department shall order correction; where the circumstances are serious, an administrative sanction or disciplinary sanction shall be imposed in accordance with law on the responsible persons in charge and other directly responsible persons:\n(a) failing to truthfully inform the patient of his condition, medical measures and medical risks;\n(b) refusing, without justified reason, to provide the patient with the service of photocopying or reproducing medical records;\n(c) failing to write and properly keep medical records in accordance with the requirements prescribed by the health administrative department of the State Council;\n(d) failing to supplement the content of the medical records of rescue work within the prescribed time;\n(e) failing to seal, keep and unseal medical records and physical articles in accordance with these Regulations;\n(f) failing to establish a medical service quality monitoring department or to appoint full-time (part-time) personnel;\n(g) failing to formulate contingency plans for the prevention and handling of medical accidents;\n(h) failing to report a major negligent medical act to the health administrative department within the prescribed time;\n(i) failing to report a medical accident to the health administrative department in accordance with these Regulations; or\n(j) failing to conduct post-mortem examinations and to preserve and dispose of corpses in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where a person participating in the technical appraisal of a medical accident violates these Regulations by accepting property or other benefits from both parties or one party applying for the appraisal and issues a false written conclusion of the technical appraisal of the medical accident, thereby causing serious consequences, criminal liability shall be investigated in accordance with law pursuant to the provisions of the Criminal Law on the crime of accepting bribes; where the case is not serious enough for criminal punishment, the authority that originally issued the certificate shall revoke his practising certificate or qualification certificate."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where a medical institution or other relevant institution violates these Regulations and falls under any of the following circumstances, the health administrative department shall order correction and give a warning; an administrative sanction or disciplinary sanction shall be imposed in accordance with law on the responsible persons in charge and other directly responsible persons; where the circumstances are serious, the authority that originally issued the certificate shall revoke their practising certificates or qualification certificates:\n(a) an institution undertaking a post-mortem examination task refuses to conduct the post-mortem examination without justified reason; or\n(b) medical records are altered, forged, concealed or destroyed."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Whoever, on the pretext of a medical accident, creates disturbances and seizes medical records by force, disrupting the normal medical order of a medical institution and the technical appraisal of medical accidents, shall be investigated for criminal liability in accordance with law pursuant to the provisions of the Criminal Law on the crime of disrupting social order; where the case is not serious enough for criminal punishment, a public security administrative penalty shall be imposed in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "For the purposes of these Regulations, \"medical institution\" means an institution that has obtained a Medical Institution Practising Licence in accordance with the provisions of the Regulations on the Administration of Medical Institutions.\nInstitutions engaged in family planning technical services in cities at or above the county level that carry out clinical medical services relating to family planning in accordance with the provisions of the Regulations on the Administration of Family Planning Technical Services and that have family planning technical service accidents shall be dealt with in accordance with the relevant provisions of these Regulations; however, where a family planning technical service accident occurs in such an institution in a city at or above the county level that is not a medical institution, the family planning administrative department shall exercise the functions of accepting the case, referring it to the medical association responsible for the technical appraisal of medical accidents for organisation of the appraisal, and mediating compensation that are assigned to the health administrative department under these Regulations; the institution and the responsible persons concerned involved in the family planning technical service accident shall be dealt with in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Illegal practice of medicine that causes personal injury to a patient does not constitute a medical accident; where it violates the criminal law, criminal liability shall be investigated in accordance with law; as for the compensation concerned, the victim shall directly bring an action in a people's court."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "The measures for handling medical accidents in medical institutions of the military shall be formulated by the health competent department of the Chinese People's Liberation Army together with the health administrative department of the State Council on the basis of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "These Regulations shall come into force on 1 September 2002. The Measures for the Handling of Medical Accidents promulgated by the State Council on 29 June 1987 shall be repealed simultaneously. Disputes over medical accidents that have already been handled and closed before these Regulations came into force shall not be handled anew."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-REG-0404'] = {
     "lawId": "CN-REG-0404",
     "sourceLang": "zh",
@@ -24675,6 +27681,765 @@
         },
         "noLabel": {
           "en": "Article 27."
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0416'] = {
+    "lawId": "CN-REG-0416",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 64 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated for the purpose of properly carrying out the resettlement work for the construction of the Three Gorges Project, protecting the lawful rights and interests of resettlers, ensuring the construction of the Three Gorges Project and promoting the economic and social development of the Three Gorges Reservoir Area."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "These Regulations apply to resettlement for the construction of the Three Gorges Project."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The construction of the Three Gorges Project shall follow a development-oriented resettlement policy, use resettlement funds in an overall manner, rationally develop resources, protect the ecological environment and properly resettle resettlers, so that the production and living standards of resettlers reach or exceed their original levels and conditions are created for the economic and social development of the Three Gorges Reservoir Area."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The resettlement work for the construction of the Three Gorges Project shall be combined with the development of the Three Gorges Reservoir Area, the opening up of the areas along the Yangtze River, soil and water conservation and environmental protection."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Resettlement for the construction of the Three Gorges Project shall follow the principle of combining State support and assistance from all quarters with self-reliance, adopt the policy of combining compensation and subsidies at an earlier stage with support for production at a later stage, and take into account the interests of the State, the collective and the individual.\nThe people's governments and the people in the areas to be inundated by the Three Gorges Project and in the resettlement areas shall take the overall situation into account, submit to the unified arrangements of the State and correctly handle the relationship between resettlement relocation and economic development."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Resettlement for the construction of the Three Gorges Project shall follow the principle of contracting responsibility for resettlement tasks and resettlement funds."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The State shall compensate resettlers for the construction of the Three Gorges Project in accordance with law. The specific compensation standards shall be calculated and drafted by the resettlement administration institution of the Three Gorges Project Construction Committee of the State Council together with the relevant departments of the State Council, and shall be implemented after approval by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The resettlement work for the construction of the Three Gorges Project shall follow a management system of unified leadership, responsibility by province (municipality directly under the Central Government) and a county-based approach.\nThe Three Gorges Project Construction Committee of the State Council shall be the leading decision-making body for the resettlement work of the Three Gorges Project.\nThe resettlement administration institution of the Three Gorges Project Construction Committee of the State Council shall be responsible for the resettlement work of the Three Gorges Project.\nThe people's governments of Hubei Province and Chongqing Municipality shall be responsible for the resettlement work of the Three Gorges Project within their administrative areas and shall establish resettlement administration institutions for the Three Gorges Project.\nThe people's governments of the cities, counties and districts in the areas to be inundated by the Three Gorges Project and in the resettlement areas shall be responsible for the resettlement work of the Three Gorges Project within their administrative areas and may establish resettlement administration institutions for the Three Gorges Project as required."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "A resettlement plan shall be prepared for the resettlement of the Three Gorges Project. The resettlement plan shall be consistent with the overall plan for land use.\nThe Yangtze River Water Resources Commission of the Ministry of Water Resources shall, together with the people's governments of Hubei Province and Chongqing Municipality, be responsible for preparing the Outline of the Plan for the Treatment of the Reservoir Inundation Area and Resettlement of the Three Gorges Project on the Yangtze River (hereinafter referred to as the Outline Plan) and submit it to the Three Gorges Project Construction Committee of the State Council for approval.\nThe people's governments of Hubei Province and Chongqing Municipality shall, in accordance with the Outline Plan, be responsible for organising the people's governments of the relevant cities, counties and districts within their administrative areas to prepare and approve the resettlement plans for those cities, counties and districts, and shall separately consolidate and prepare the resettlement plans of their respective provinces and municipalities for filing with the Three Gorges Project Construction Committee of the State Council.\nThe resettlement administration institution of the Three Gorges Project Construction Committee of the State Council shall strengthen supervision over the implementation of resettlement plans."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Resettlement"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Approved resettlement plans shall be strictly implemented and shall not be adjusted or modified at will; where adjustment or modification is genuinely required, it shall be submitted for approval in accordance with the original approval procedure."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Resettlement"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Land for the construction of the Three Gorges Project shall, in accordance with the approved plan, be approved at one time and allocated in stages, and the formalities for the registration of changes in land ownership shall be completed in accordance with law.\nThe scale of land used for the relocation and reconstruction of resettlers for the construction of the Three Gorges Project shall be strictly controlled, and the formalities for the conversion of agricultural land and land expropriation shall be completed in accordance with law by the people's governments at or above the provincial level in batches and level by level on the basis of the overall plan for land use and the annual plan for land use. Land used for the relocation and reconstruction of resettlers shall not be transferred and shall not be used for non-resettlement projects."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Resettlement"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Where rural resettlers have had all their land expropriated because of the construction of the Three Gorges Project and relocation and reconstruction and are resettled in secondary industry, tertiary industry or self-employment, they may, with their consent and upon approval by the people's government of the county or district concerned, be converted to non-agricultural household registration."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Resettlement"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The relevant local people's governments in the resettlement areas shall rationally adjust land and encourage resettlers to develop high-quality, high-efficiency and high-yield agriculture and ecological agriculture in the resettlement areas; where conditions permit, resettlers may be resettled through the development of secondary and tertiary industry."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Resettlement"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Resettlement for the construction of the Three Gorges Project shall combine local resettlement with resettlement elsewhere, centralised resettlement with dispersed resettlement, and government-organised resettlement with resettlement through resettlers' own arrangements. Resettlers shall first be resettled in their own counties and districts; where they cannot be resettled in their own counties and districts, the people's governments of Hubei Province and Chongqing Municipality shall resettle them in other cities, counties and districts within their administrative areas; where they cannot be resettled by Hubei Province and Chongqing Municipality, they shall be resettled in other provinces, autonomous regions and municipalities directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Resettlement"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where rural resettlers need to be resettled in other rural collective economic organisations in their own counties and districts, those rural collective economic organisations shall sign agreements with the resettlement administration institutions of the county or district people's governments or the departments responsible for resettlement administration, and shall arrange the production and livelihood of the resettlers in accordance with the agreements."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Resettlement"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where resettlers cannot be resettled in their own counties and districts and need to be resettled in other cities, counties and districts within the administrative areas of Hubei Province and Chongqing Municipality, the people's governments of the cities, counties and districts of the places of origin and of the resettlement areas shall sign agreements and complete the relevant formalities.\nWhere resettlers need to be resettled in areas outside Hubei Province and Chongqing Municipality, the people's governments of Hubei Province and Chongqing Municipality shall respectively sign agreements and complete the relevant formalities with the people's governments of the provinces, autonomous regions and municipalities directly under the Central Government of the resettlement areas."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Resettlement"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The areas benefiting from the Three Gorges Project and the provinces, autonomous regions and municipalities directly under the Central Government where conditions permit, and their cities, counties and districts, shall accept rural resettlers of the Three Gorges Reservoir Area who move out under government organisation or move out on their own to join relatives or friends, promptly complete the relevant formalities and arrange their production and livelihood in a unified manner.\nRural resettlers of the Three Gorges Reservoir Area who move out on their own to join relatives or friends shall hold certificates issued by the people's governments of the counties and districts of their places of origin."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Resettlement"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The relocation and reconstruction of rural residential areas shall be carried out in accordance with the resettlement plan, and a construction plan for the new residential areas shall be prepared in accordance with law. In preparing the construction plan for new residential areas, account shall be taken of local conditions, production shall be facilitated and livelihood shall be convenient.\nThe infrastructure of new residential areas, such as roads, water supply and power supply, shall be uniformly organised and constructed by the townships (towns) and villages.\nFunds for compensation for house demolition shall be contracted to households in accordance with the compensation standards for rural houses, and shall be used by resettlers for housing construction.\nResettlers may build houses separately by household or build them in a unified manner on a voluntary basis. The relevant local people's governments and villagers' committees shall not arbitrarily impose housing construction standards."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Resettlement"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The relocation and reconstruction of towns shall be carried out in accordance with the resettlement plan, and a detailed plan for the relocation and reconstruction areas shall be prepared in accordance with law, and the specific locations of the public buildings and various infrastructure items requiring relocation and reconstruction shall be determined.\nThe funds for compensation for the relocation and reconstruction of urban public buildings and various infrastructure items shall be managed under a contracting system, and their amount shall be verified in accordance with the principle of actual inundation losses and appropriate development.\nThe funds for compensation for the relocation of units and residents in the course of the relocation and reconstruction of towns shall be managed under a contracting system, and their amount shall be verified in accordance with the actual inundation losses."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Resettlement"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Towns requiring relocation and reconstruction shall build their infrastructure in advance.\nFor units and residents that relocate in advance using self-raised funds or non-resettlement funds, the relevant local people's governments shall not reduce the amount of resettlement funds to which they are entitled."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Resettlement"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The relevant local people's governments shall, in accordance with the national industrial policy and in conjunction with technological transformation, make overall plans and carry out structural adjustment for industrial and mining enterprises requiring relocation. Enterprises with good product quality and a market may, through counterpart assistance, cooperate or form joint ventures with well-known and high-quality enterprises and combine relocation with restructuring; enterprises with backward technology, that waste resources, whose product quality is poor or that cause serious pollution shall be merged, declared bankrupt or closed in accordance with law.\nThe relevant local people's governments shall properly arrange the basic livelihood of the staff and workers and the retired personnel of enterprises declared bankrupt or closed and shall do a good job in re-employment and social old-age insurance.\nThe funds for compensation for the relocation of industrial and mining enterprises shall be managed under a contracting system, and their amount shall be verified according to the replacement price of the actual inundation losses."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Resettlement"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Where infrastructure items such as highways, bridges, ports, wharves, water conservancy works, power facilities, telecommunications lines and radio and television facilities, and cultural relics and historic sites inundated by the impoundment of the Three Gorges Project need to be rebuilt, they shall, in accordance with the reconstruction plan and the principle of economic rationality, be rebuilt in advance above the inundation line. The funds for compensation for reconstruction shall be managed under a contracting system, and their amount shall be verified according to the original scale and the original standards or the investment required to restore the original functions."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter II Resettlement"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "For the relocation of units and industrial and mining enterprises and residents in the course of the relocation and reconstruction of towns, and for the reconstruction of infrastructure, the portion exceeding the contracted funds because of expansion of scale or raising of standards shall be resolved by the relevant local people's governments, the units concerned and the residents themselves."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter II Resettlement"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Pre-project justification shall be properly carried out for resettlement projects. For the siting and relocation and reconstruction of towns, rural residential areas, industrial and mining enterprises and infrastructure, hydrogeological and engineering geological surveys, surveys for the prevention and control of geological hazards and geological hazard risk assessments shall be properly carried out."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter II Resettlement"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Resettlement projects shall follow the capital construction procedures and strictly implement the various systems prescribed by the Regulations on the Quality Management of Construction Projects promulgated by the State Council in January 2000, so as to ensure the quality of construction projects.\nThe construction of resettlement projects shall protect the ecological environment and prevent the destruction of vegetation and soil erosion."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter II Resettlement"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "In arranging production for resettlers, it is strictly prohibited to reclaim slope land of 25 degrees or more; slope land already reclaimed shall be returned to forest or grassland in accordance with the plan. For slope land of less than 25 degrees already reclaimed, measures to convert slopes into terraces shall be taken in light of local conditions, and comprehensive planning and treatment of mountains, water, forests, farmland and roads shall be carried out."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter II Resettlement"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "For forest trees in the area to be inundated by the Three Gorges Project that have reached the standards for felling and utilisation before inundation, the owners of the forest trees may, upon approval in accordance with law, fell and sell them; those that cannot be felled and utilised shall be compensated after inundation in accordance with the provisions of the Outline Plan."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter II Resettlement"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "In the construction of the Three Gorges Project, the rescue and protection of cultural relics shall be properly carried out in accordance with the principles of \"protection first, rescue foremost\" and \"protection of key items, excavation of key items\"."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter II Resettlement"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The relevant local people's governments shall strengthen the administration of capital construction in the area to be inundated by the Three Gorges Project. No unit or individual may, without authorisation, build new projects, expand or reconstruct projects below the inundation line. Projects constructed after 4 April 1992 in violation of the provisions of the Notice of the General Office of the State Council on Strictly Controlling Population Growth and Capital Construction in the Dam Area of the Three Gorges Project and the Areas Below the Inundation Line of the Reservoir Area shall be treated as unauthorised structures."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Inundation Areas and Resettlement Areas"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "The public security organs concerned in the Three Gorges Reservoir Area shall strengthen household registration administration in the inundation area and strictly control the migration of population from outside the inundation area into the inundation area. For persons who moved in after 4 April 1992 as permitted by the Notice of the General Office of the State Council on Strictly Controlling Population Growth and Capital Construction in the Dam Area of the Three Gorges Project and the Areas Below the Inundation Line of the Reservoir Area and whose household registration was approved by the public security organ of a people's government at or above the county level, the State shall be responsible for their relocation and resettlement; for persons who moved in without authorisation for other reasons, the State shall not be responsible for their relocation and resettlement.\nLocal people's governments at all levels in the Three Gorges Reservoir Area and the units concerned shall strengthen family planning administration, control population growth and ensure that the birth rate in the Reservoir Area does not exceed the levels prescribed by Hubei Province and Chongqing Municipality.\nThe persons permitted to move in referred to in paragraph 1 of this Article mean persons who moved in owing to birth, marriage, transfer of work, transfer to civilian work or discharge from the military, assignment upon graduation from institutions of higher education or secondary specialised technical schools, and release upon completion of a sentence."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Inundation Areas and Resettlement Areas"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Units and resettlers that must relocate in accordance with the resettlement plan shall not refuse or delay relocation; those that have relocated and received compensation and resettlement shall promptly complete the formalities for closing their compensation accounts and shall not move back or demand further compensation.\nFor units and resettlers that have relocated in accordance with the resettlement plan, the land and attachments they used before relocation shall be dealt with in accordance with law by the local county-level people's government."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Inundation Areas and Resettlement Areas"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The land in the fluctuating zone of the Three Gorges Reservoir shall be owned by the State and administered by the unit managing the Three Gorges water conservancy project, and may, through the local county-level people's government, be given priority for use by local rural resettlers; however, this shall not affect the safety of the reservoir, flood control, power generation or ecological environmental protection. Where impoundment causes loss to resettlers using such land, the State shall not compensate for it."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Inundation Areas and Resettlement Areas"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The relevant local people's governments shall strengthen the administration of resettlement archives for the Three Gorges Project and ensure that the archives are complete, accurate and secure."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Inundation Areas and Resettlement Areas"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Resettlement funds shall be subject to static control and dynamic management. Resettlement funds shall not be increased except in the event of changes in the price index, adjustments of State policies and the occurrence of force majeure."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Management and Supervision of the Use of Resettlement Funds"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The annual plan for resettlement funds shall be incorporated into the annual investment plan of the State.\nThe resettlement administration institution of the Three Gorges Project Construction Committee of the State Council shall, on the basis of the approved resettlement plan for the Three Gorges Project, organise the preparation of the annual plan for resettlement funds and submit it to the State Council for approval.\nThe resettlement administration institutions or the departments responsible for resettlement administration of local people's governments at or above the county level shall organise the preparation of the annual project plan for resettlement funds within their administrative areas and, after examination and consent by the people's government at the same level, submit it to the resettlement administration institution of the people's government at the next higher level for approval.\nApproved annual project plans for resettlement funds shall not be adjusted without authorisation; where adjustment is genuinely required, it shall be submitted to the original approving authority for approval."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Management and Supervision of the Use of Resettlement Funds"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The arrangement of resettlement funds shall highlight the key points and ensure that the progress of resettlement is commensurate with the progress of the construction of the key project.\nResettlement funds shall be arranged and used by the relevant local people's governments in accordance with the resettlement plan.\nThe people's governments of the provinces, autonomous regions and municipalities directly under the Central Government with resettlement tasks shall, in accordance with the State's plan for contracting investment in resettlement funds, allocate resettlement funds to the county-level people's governments and the units concerned, and the county-level people's governments and the units concerned shall apply the resettlement funds to the various resettlement investment projects."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Management and Supervision of the Use of Resettlement Funds"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Resettlement funds shall be deposited in special accounts and accounted for in separate ledgers at banks designated by the resettlement administration institution of the Three Gorges Project Construction Committee of the State Council or the resettlement administration institutions of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government. The resettlement fund administration departments determined by the State Council or by the people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall allocate resettlement funds promptly in accordance with the contracting plan, the annual project plan for resettlement funds and the progress of the work."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Management and Supervision of the Use of Resettlement Funds"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Resettlement funds shall be used for the following projects:\n(a) compensation for rural resettlement;\n(b) compensation for the relocation and reconstruction of towns;\n(c) compensation for the relocation and reconstruction of industrial and mining enterprises;\n(d) reconstruction of infrastructure projects;\n(e) environmental protection; and\n(f) other resettlement-related projects prescribed by the resettlement administration institution of the Three Gorges Project Construction Committee of the State Council.\nNo department, unit or individual may misappropriate, withhold or divert resettlement funds."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Management and Supervision of the Use of Resettlement Funds"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Interest accruing on resettlement funds during deposit shall be included in the resettlement funds and shall not be diverted to other uses."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter IV Management and Supervision of the Use of Resettlement Funds"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "The construction headquarters for the relocation and reconstruction of towns (management committees) established by the relevant local people's governments shall not be financial accounting units at any level, and resettlement project funds shall not be transferred through them."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter IV Management and Supervision of the Use of Resettlement Funds"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "The State shall apply an inspection system to the management, allocation, arrangement and use of resettlement funds, and shall apply a system of economic responsibility auditing during tenure to the persons in charge of the relevant local people's governments and their relevant departments and institutions that manage, allocate, arrange and use resettlement funds."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IV Management and Supervision of the Use of Resettlement Funds"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "People's governments at or above the county level shall strengthen supervision over the management, allocation, arrangement and use of resettlement funds by people's governments at lower levels and their relevant departments.\nThe resettlement administration institutions or the departments responsible for resettlement administration of people's governments at all levels shall strengthen internal auditing and supervision and shall periodically report to the people's government at the same level and the competent department at the next higher level on the implementation of the annual project plan for resettlement funds and on the allocation and use of resettlement funds."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter IV Management and Supervision of the Use of Resettlement Funds"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Townships (towns) and villages with resettlement tasks shall establish and improve financial management systems, and the use of resettlement funds by townships (towns) and villages shall be publicly posted for oversight by the public."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter IV Management and Supervision of the Use of Resettlement Funds"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Audit organs at all levels and the supervisory and finance departments shall strengthen auditing, supervision and oversight of the management, allocation, arrangement and use of resettlement funds, and shall perform the duties conferred by the relevant laws and regulations of the State.\nWhen audit organs and the supervisory and finance departments conduct auditing, supervision and oversight, the units and individuals concerned shall cooperate and promptly provide the relevant materials."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter IV Management and Supervision of the Use of Resettlement Funds"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "The State shall draw a certain amount of funds from the revenue from electricity pricing of the Three Gorges Power Station to establish a follow-up support fund for resettlers in the Three Gorges Reservoir Area, which shall be allocated to the people's governments of Hubei Province and Chongqing Municipality and of the provinces, autonomous regions and municipalities directly under the Central Government that accept resettlers moving out, for use in follow-up support for resettlers. The specific measures shall be formulated by the Ministry of Finance together with the relevant departments of the State Council and implemented after approval by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter V Support Measures"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "The portion of the taxes paid by the Three Gorges Power Station after it is put into operation that is lawfully retained by the locality shall be allocated to the people's governments of Hubei Province and Chongqing Municipality for use in supporting the development of the Three Gorges Reservoir Area and ecological environmental protection. The specific measures shall be formulated by the Ministry of Finance together with the relevant departments of the State Council and implemented after approval by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter V Support Measures"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Cultivated land occupied by rural resettlers for building houses shall be exempt from cultivated land occupation tax. Cultivated land occupied by construction in the dam area and the inundation area of the Three Gorges Project shall be subject to cultivated land occupation tax at 40 per cent of the amount payable; cultivated land occupied by the relocation of towns, enterprises and public institutions and by the reconstruction of infrastructure shall be subject to cultivated land occupation tax in accordance with the relevant provisions of the State. All cultivated land occupation tax paid shall be used for the resettlement of rural resettlers in the Three Gorges Reservoir Area."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter V Support Measures"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "After the Three Gorges Power Station is put into operation, priority shall be given to arranging the supply of electricity to the Three Gorges Reservoir Area."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter V Support Measures"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "The State shall designate the inundated counties and districts in the Three Gorges Reservoir Area that have conditions for hydropower resources as counties with primary rural electrification and provide support to them."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter V Support Measures"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "The State shall give priority to including the inundated counties and districts in the Three Gorges Reservoir Area that meet certain conditions in the pilot demonstration counties for ecological agriculture and provide support to them, and shall give priority to arranging special funds for basic farmland and water conservancy for farmland and water conservancy construction in the resettlement areas."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter V Support Measures"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "The relevant departments of the State Council and the people's governments of Hubei Province and Chongqing Municipality and their relevant departments shall, when arranging construction projects and allocating funds, give priority to the counties and districts concerned in the Three Gorges Reservoir Area."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter V Support Measures"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "The relevant departments of the State Council and the relevant provinces, autonomous regions and municipalities directly under the Central Government shall, in accordance with the principles of complementing each other's advantages, mutual benefit, long-term cooperation and common development, adopt various forms to encourage well-known and high-quality enterprises to invest and establish factories in the Three Gorges Reservoir Area, and provide counterpart assistance to the resettlers of the Three Gorges Reservoir Area in education, culture, science and technology, personnel, management, information, funds and materials."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter V Support Measures"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "In construction projects arranged by the State in the Three Gorges Reservoir Area and the areas benefiting from the Three Gorges Project, priority shall be given to employing eligible resettlers."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter V Support Measures"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "The State shall, in accordance with law, reduce or exempt agricultural tax, agricultural special product tax and enterprise income tax for land newly developed specially for resettling rural resettlers and for newly established enterprises."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter V Support Measures"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where, in violation of these Regulations, anyone adjusts or modifies a resettlement plan or an annual project plan for resettlement funds without authorisation and without approval, the authority approving the plan shall order correction within a specified period; where correction is not made within the specified period, an administrative sanction shall be imposed in accordance with law on the directly responsible persons in charge and other directly responsible persons."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where, in violation of these Regulations, anyone transfers without authorisation the right to use land for the relocation and reconstruction of resettlers or uses such land for non-resettlement projects, the land administrative department of a people's government at or above the county level shall, together with the resettlement administration institution at the same level and in accordance with their duties, order correction within a specified period, confiscate the illegal income and impose a fine of not less than one time but not more than three times the illegal income. The illegal income confiscated and the fines collected shall all be included in the resettlement funds for use in the relocation and reconstruction of resettlers."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where, in violation of these Regulations, anyone builds new projects, expands or reconstructs projects without authorisation below the inundation line, the resettlement administration institution of a people's government at or above the county level shall, in accordance with its duties, order the cessation of the unlawful act and restoration to the original state within a specified period, and may impose a fine of not more than RMB 50,000; where loss is caused, liability for compensation shall be borne in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where, in violation of these Regulations, anyone commits any of the following acts in the course of relocation and resettlement, the resettlement administration institution of a people's government at or above the county level shall, together with the relevant departments at the same level and in accordance with their duties, order correction within a specified period and give a warning; where the act constitutes a violation of public security administration, the public security organ shall impose a penalty in accordance with law:\n(a) refusing or delaying relocation;\n(b) having obtained resettlement compensation at the prescribed standards and then moving back without authorisation after relocation; or\n(c) having obtained resettlement compensation at the prescribed standards and then unreasonably demanding further compensation."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where, in violation of these Regulations, anyone commits any of the following acts, the audit organ or finance department concerned shall impose a penalty in accordance with the provisions of the laws and regulations on auditing and finance; an administrative sanction shall be imposed in accordance with law on the directly responsible persons in charge and other directly responsible persons; and where a crime is constituted, criminal liability shall be investigated in accordance with law:\n(a) using resettlement funds for non-resettlement projects, for repaying non-resettlement debts or for balancing local fiscal budgets;\n(b) using resettlement funds for financing, investment or the provision of guarantees;\n(c) purchasing shares, bonds or other negotiable securities; or\n(d) diverting resettlement funds by other means."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Where, in violation of these Regulations, anyone deposits resettlement funds in a financial institution other than the bank designated by the resettlement administration institution of the Three Gorges Project Construction Committee of the State Council or the resettlement administration institutions of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government, the resettlement administration institution of a people's government at or above the county level shall, according to the division of duties, order correction within a specified period and give a warning; an administrative sanction shall be imposed in accordance with law on the directly responsible persons in charge and other directly responsible persons; where there is illegal income, it shall be confiscated and a fine of not less than one time but not more than three times the illegal income shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where, in violation of these Regulations, anyone misappropriates or withholds resettlement funds, the audit organ or finance department concerned shall recover the funds in accordance with law and may impose a fine of not more than one time the amount of resettlement funds misappropriated or withheld; an administrative sanction shall be imposed in accordance with law on the directly responsible persons in charge and other directly responsible persons."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Where, in the construction of resettlement projects, vegetation and the ecological environment are destroyed and soil erosion is caused, a penalty shall be imposed in accordance with the relevant provisions of the Environmental Protection Law and the Soil and Water Conservation Law."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Where a staff member of a State organ neglects his duties, abuses his powers or engages in malpractices for personal gain in resettlement work, and a crime is constituted, criminal liability shall be investigated in accordance with law; where a crime is not constituted, an administrative sanction shall be imposed in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "These Regulations shall come into force on 1 March 2001. The Regulations on Resettlement for the Construction of the Three Gorges Project on the Yangtze River promulgated and implemented by the State Council on 19 August 1993 shall be repealed simultaneously."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
         }
       }
     ]

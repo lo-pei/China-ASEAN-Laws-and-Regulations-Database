@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p16
-   法规 69 部 / 译文 2338 条
+   法规 72 部 / 译文 2527 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -12932,6 +12932,762 @@
     ]
   };
 
+  TR['CN-REG-0299'] = {
+    "lawId": "CN-REG-0299",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 64 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated for the purpose of strengthening the supervision and administration of dairy quality and safety, ensuring dairy quality and safety, safeguarding the health and life safety of the public and promoting the sound development of the dairy industry."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "For the purposes of these Regulations, \"dairy products\" means raw milk and dairy manufactures.\nThese Regulations apply to the supervision and administration of dairy quality and safety; where the law provides otherwise for the supervision and administration of dairy quality and safety, those provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Dairy animal breeders, raw milk purchasers, dairy manufacture producers and sellers shall be responsible for the quality and safety of the dairy products they produce, purchase, transport and sell, and shall be the persons primarily responsible for dairy quality and safety."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Local people's governments at or above the county level shall bear overall responsibility for the supervision and administration of dairy quality and safety within their administrative areas.\nThe animal husbandry and veterinary competent departments of people's governments at or above the county level shall be responsible for the supervision and administration of dairy animal rearing and of the production and purchase stages of raw milk. The quality supervision, inspection and quarantine departments at or above the county level shall be responsible for the supervision and administration of the dairy manufacture production stage and of the import and export stages of dairy products. The industry and commerce administrative departments at or above the county level shall be responsible for the supervision and administration of the dairy manufacture sales stage. The food and drug supervision departments at or above the county level shall be responsible for the supervision and administration of the catering service stage of dairy manufactures. The health competent departments of people's governments at or above the county level shall, in accordance with their functions and powers, be responsible for the overall coordination of the supervision and administration of dairy quality and safety and for organising the investigation and handling of major food safety accidents. Other relevant departments of people's governments at or above the county level shall, within the scope of their respective duties, be responsible for other work in the supervision and administration of dairy quality and safety."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Where a dairy quality and safety accident occurs, it shall be promptly reported and handled in accordance with the provisions of the relevant laws and administrative regulations; where serious consequences or a bad influence are caused, the leading responsible persons of the people's government concerned and the departments concerned shall be held accountable in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Raw milk and dairy manufactures shall conform to the national standards for dairy quality and safety. The national standards for dairy quality and safety shall be organised and formulated by the health competent department of the State Council, and shall be promptly revised in the light of the results of risk monitoring and risk assessment.\nThe national standards for dairy quality and safety shall include provisions on the limits of pathogenic microorganisms, pesticide residues, veterinary drug residues, heavy metals and other substances harmful to human health in dairy products, the hygiene requirements for the process of producing and operating dairy products, general methods and procedures for dairy inspection, quality requirements relating to dairy safety, and other content that needs to be formulated as national standards for dairy quality and safety.\nIn formulating the national standards for the quality and safety of infant milk powder, full account shall be taken of the physical characteristics of infants and their needs for growth and development, and the nutritional components required for the growth and development of infants shall be ensured.\nThe health competent department of the State Council shall, on the basis of disease information and the supervision and administration information of the supervision and administration departments, immediately organise a risk assessment of non-food chemical substances and other substances potentially harmful to human health found to have been added, or that may be added, to dairy products, and take the corresponding monitoring, testing and supervisory measures."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "It is prohibited to add any substance during the production, purchase, storage, transport and sale of raw milk.\nIt is prohibited to add non-food chemical substances or other substances potentially harmful to human health during the production of dairy manufactures."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The animal husbandry and veterinary competent department of the State Council shall, together with the development and reform department, the industry and information technology department and the commerce department of the State Council, formulate a national plan for the development of the dairy industry, strengthen the development of milk source bases, improve the service system and promote the sound development of the dairy industry.\nLocal people's governments at or above the county level shall, in accordance with the national plan for the development of the dairy industry, reasonably determine the scale of dairy animal rearing within their administrative areas and make scientific arrangements for the layout of the production and purchase of raw milk."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The relevant industry associations shall strengthen industry self-regulation, promote the building of industry integrity, and guide and standardise dairy animal breeders, raw milk purchasers, dairy manufacture producers and sellers in producing and operating in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The State shall take effective measures to encourage, guide and support dairy animal breeders in raising the level of raw milk quality and safety. People's governments at or above the provincial level shall arrange funds to support the development of the dairy industry within their budgetary plans at the same level and shall encourage the provision of credit support to dairy animal breeders and specialised dairy farmers' production cooperatives and the like.\nThe State shall establish a policy-based insurance system for dairy animals and grant premium subsidies to participating dairy animal breeders."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Dairy Animal Rearing"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Animal husbandry and veterinary technology extension institutions shall provide dairy animal breeders with services such as rearing technology training, extension of improved breeds and disease prevention and control.\nThe State encourages dairy manufacture producers and other relevant producers and operators to provide dairy animal breeders with the services they need."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Dairy Animal Rearing"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The establishment of dairy animal farms and rearing zones shall meet the following conditions:\n(a) conforming to the scale of dairy animal rearing in the administrative area determined by the local people's government;\n(b) having premises and supporting facilities commensurate with the scale of rearing;\n(c) having animal husbandry and veterinary technicians serving the farm or zone;\n(d) meeting the epidemic prevention conditions prescribed by laws, administrative regulations and the animal husbandry and veterinary competent department of the State Council;\n(e) having biogas digesters or other harmless treatment facilities for the comprehensive utilisation of dairy animal manure, waste water and other solid waste;\n(f) having management systems for the production, sale and transport of raw milk; and\n(g) other conditions prescribed by laws and administrative regulations.\nThe operators of dairy animal farms and rearing zones shall file the name, rearing address, dairy animal breeds and rearing scale of the farm or zone with the animal husbandry and veterinary competent department of the county-level people's government at the place where the farm or zone is located."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Dairy Animal Rearing"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "A dairy animal farm shall establish rearing files stating the following:\n(a) the breeds, numbers, breeding records, identification, sources and dates of entry and exit of the dairy animals;\n(b) the sources, names, objects of use, times and amounts of inputs such as feed, feed additives and veterinary drugs;\n(c) quarantine, immunisation and disinfection;\n(d) the occurrence of disease, death and harmless treatment of dairy animals;\n(e) the production, testing and sale of raw milk; and\n(f) other content prescribed by the animal husbandry and veterinary competent department of the State Council.\nThe operators of dairy animal rearing zones shall gradually establish rearing files."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Dairy Animal Rearing"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "In dairy animal rearing, it is prohibited to use feed, feed additives, veterinary drugs and other substances banned by the State or having direct or potential harm to animals and human beings.\nIt is prohibited to sell raw milk produced by dairy animals within the prescribed medication period and withdrawal period."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Dairy Animal Rearing"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Dairy animal breeders shall ensure that their dairy animals meet the health standards prescribed by the animal husbandry and veterinary competent department of the State Council and shall ensure that the dairy animals receive compulsory immunisation.\nAnimal disease prevention and control institutions shall conduct periodic testing of the health of dairy animals; where testing shows that they do not meet the health standards, they shall immediately be isolated, treated or subjected to harmless treatment."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Dairy Animal Rearing"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Dairy animal breeders shall carry out animal epidemic prevention work for dairy animals and rearing premises, and shall, upon discovering that a dairy animal is infected or suspected of being infected, immediately report it, cease the production of raw milk and take isolation and other control measures to prevent the spread of the epidemic.\nDairy animal breeders shall promptly remove and treat the excrement and waste generated in the course of dairy animal rearing."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Dairy Animal Rearing"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Dairy animal breeders shall comply with the technical procedures for raw milk production formulated by the animal husbandry and veterinary competent department of the State Council. Persons directly engaged in milking shall hold valid health certificates.\nDairy animal breeders shall promptly clean and disinfect milking facilities and raw milk storage facilities so as to avoid contaminating the raw milk."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Dairy Animal Rearing"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Raw milk shall be refrigerated. Raw milk that has not been refrigerated for more than two hours shall not be sold."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Dairy Animal Rearing"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The animal husbandry and veterinary competent departments of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall, in light of the local distribution of milk sources and following the principles of convenience for dairy animal breeders and promotion of large-scale rearing, make scientific plans and a rational layout for the establishment of raw milk purchasing stations. Where necessary, centralised purchasing of raw milk at designated points may be practised.\nThe State encourages dairy manufacture producers to build raw milk purchasing stations on their own or to purchase existing raw milk purchasing stations in accordance with the planned layout."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Purchase of Raw Milk"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "A raw milk purchasing station shall be established by a dairy manufacture producer, dairy animal farm or specialised dairy farmers' production cooperative that has obtained industrial and commercial registration, and shall meet the following conditions and obtain a raw milk purchasing licence issued by the animal husbandry and veterinary competent department of the county-level people's government at the place where it is located:\n(a) conforming to the planned layout for the establishment of raw milk purchasing stations;\n(b) having purchasing premises meeting environmental protection and hygiene requirements;\n(c) having cooling, refrigeration and freshness-preserving facilities and low-temperature transport equipment commensurate with the volume of milk purchased;\n(d) having laboratory, measuring and testing instruments and equipment commensurate with the testing items;\n(e) having trained practitioners holding valid health certificates; and\n(f) having hygiene management and quality and safety guarantee systems.\nA raw milk purchasing licence shall be valid for two years; a raw milk purchasing station no longer needs to complete industrial and commercial registration.\nIt is prohibited for other units or individuals to establish raw milk purchasing stations. It is prohibited for other units or individuals to purchase raw milk.\nThe State shall give support and subsidies to raw milk purchasing stations so as to improve their capacity for mechanised milking and refrigerated transport of raw milk."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Purchase of Raw Milk"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Raw milk purchasing stations shall promptly clean and disinfect milking facilities and raw milk storage and transport facilities so as to avoid contaminating the raw milk.\nRaw milk purchasing stations shall conduct routine testing of the raw milk purchased in accordance with the national standards for dairy quality and safety. Testing fees shall not be charged to dairy animal breeders.\nRaw milk purchasing stations shall preserve the quality of raw milk."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Purchase of Raw Milk"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Raw milk purchasing stations shall keep records of the purchase, sale and testing of raw milk. The records of purchase, sale and testing of raw milk shall include the names of the animal owners, the volume of each purchase, the raw milk testing results and the destination of sales, and shall be kept for two years."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Purchase of Raw Milk"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The price competent departments of local people's governments at or above the county level shall strengthen the monitoring and notification of raw milk prices and promptly publish information on market supply and demand and on prices. Where necessary, local people's governments at or above the county level shall establish a raw milk price coordination committee composed of the price, animal husbandry and veterinary and other departments as well as representatives of industry associations, dairy manufacture producers, raw milk purchasers and dairy animal breeders to determine reference prices for raw milk transactions for the reference of both buyers and sellers when concluding contracts.\nBoth parties to a raw milk purchase and sale shall conclude a written contract. A model text of the raw milk purchase and sale contract shall be formulated and published by the animal husbandry and veterinary competent department of the State Council together with the industry and commerce administrative department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Purchase of Raw Milk"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "It is prohibited to purchase the following raw milk:\n(a) raw milk produced by dairy animals that have been tested and do not meet the health standards or that have not passed quarantine;\n(b) colostrum within seven days after a dairy animal calves, except where colostrum is used as a raw material for the production of dairy manufactures;\n(c) raw milk produced by dairy animals within the prescribed medication period and withdrawal period; or\n(d) other raw milk not conforming to the national standards for dairy quality and safety.\nRaw milk specified in the preceding paragraph shall, after testing confirms the matter, be destroyed or subjected to other harmless treatment measures."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Purchase of Raw Milk"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Containers for storing raw milk shall conform to the relevant national hygiene standards and shall be cooled to 0-4 degrees Celsius within two hours after milking.\nRaw milk transport vehicles shall obtain a raw milk transport permit issued by the animal husbandry and veterinary competent department of the county-level people's government at the place where they are located and shall carry a raw milk transfer note on board. The transfer note shall state the name of the raw milk purchasing station, the quantity of raw milk and the time of transfer, and shall be signed by the person handling the matter at the raw milk purchasing station, the escort, the driver and the milk receiver.\nA raw milk transfer note shall be made in duplicate, kept respectively by the raw milk purchasing station and the dairy producer, and kept for two years. The format of the transport permit and the transfer note shall be formulated by the animal husbandry and veterinary competent department of the people's government of the province, autonomous region or municipality directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Purchase of Raw Milk"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "People's governments at or above the county level shall strengthen the development of a raw milk quality and safety monitoring system, allocate the corresponding personnel and equipment, and ensure that the monitoring capacity is commensurate with the monitoring tasks."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Purchase of Raw Milk"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The animal husbandry and veterinary competent departments of people's governments at or above the county level shall strengthen the monitoring of raw milk quality and safety, formulate and organise the implementation of raw milk quality and safety monitoring plans, conduct supervisory spot checks on raw milk, and promptly publish the results of supervisory spot checks in accordance with their statutory powers.\nNo fees of any kind may be charged to the persons subject to monitoring spot checks, and the required expenses shall be disbursed from the finance at the same level."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Purchase of Raw Milk"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Anyone engaging in dairy manufacture production activities shall meet the following conditions and obtain a food production licence issued by the quality supervision department at the place where it is located:\n(a) conforming to the national dairy industry policy;\n(b) the siting and design of the factory buildings conforming to the relevant provisions of the State;\n(c) having production, packaging and testing equipment commensurate with the varieties and quantities of the dairy manufactures produced;\n(d) having the corresponding professional and technical personnel and quality inspection personnel;\n(e) having treatment facilities for pollutants such as waste water, waste gas and refuse that meet environmental protection requirements;\n(f) having trained practitioners holding valid health certificates; and\n(g) other conditions prescribed by laws and administrative regulations.\nIn issuing a food production licence to a dairy manufacture producer, the quality supervision department shall solicit the opinion of the industrial administrative department at the same level.\nNo unit or individual without a food production licence may engage in the production of dairy manufactures."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Production of Dairy Manufactures"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Dairy manufacture producers shall establish a quality management system, adopt quality and safety management measures and exercise whole-process quality control over dairy manufacture production from the entry of raw materials into the factory to the exit of finished products from the factory, so as to ensure product quality and safety."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Production of Dairy Manufactures"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Dairy manufacture producers shall meet the requirements of good manufacturing practice. The State encourages dairy manufacture producers to implement the hazard analysis and critical control point system so as to raise the level of dairy safety management. Enterprises producing infant milk powder shall implement the hazard analysis and critical control point system.\nFor dairy manufacture producers that have been certified under good manufacturing practice and the hazard analysis and critical control point system, the certification bodies shall carry out follow-up investigations in accordance with law; for enterprises that no longer meet the certification requirements, the certification shall be revoked in accordance with law and promptly reported to the competent departments concerned."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Production of Dairy Manufactures"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Dairy manufacture producers shall establish an incoming raw milk inspection system, test the raw milk purchased batch by batch, truthfully record the quality testing, the names and contact details of suppliers and the dates of purchase, and inspect the raw milk transfer notes of transport vehicles. Inspection records and raw milk transfer notes shall be kept for two years. Dairy manufacture producers shall not purchase raw milk from units or individuals that have not obtained a raw milk purchasing licence.\nDairy manufacture producers shall not purchase raw milk in which residues of chemical substances such as veterinary drugs exceed the standards, or which contains toxic or harmful substances such as heavy metals, pathogenic parasites and microorganisms, biological toxins or other substances not conforming to the national standards for dairy quality and safety."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Production of Dairy Manufactures"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The raw milk, auxiliary materials and additives used in producing dairy manufactures shall conform to the provisions of laws and administrative regulations and to the national standards for dairy quality and safety.\nDairy manufactures produced shall be sterilised by pasteurisation, high-temperature sterilisation, ultra-high-temperature sterilisation or other effective means.\nThe strains used in producing fermented dairy manufactures shall be pure and harmless, shall be periodically identified, and shall be prevented from contamination by miscellaneous bacteria.\nThe production of infant milk powder shall ensure the nutritional components required for the growth and development of infants, and no substance potentially harmful to the health and growth of infants shall be added."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Production of Dairy Manufactures"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The packaging of dairy manufactures shall bear a label. The label shall truthfully indicate the product name, specifications, net content, date of production, ingredients or list of ingredients, the name, address and contact details of the producing enterprise, the shelf life, the code of the product standard, the storage conditions, the chemical generic names of the food additives used, the food production licence number and other matters that must be indicated as prescribed by laws, administrative regulations or the national standards for dairy quality and safety.\nLiquid milk processed from raw materials such as milk powder, butter and whey powder shall be indicated on the packaging; where reconstituted milk is used as a raw material to produce liquid milk, the words \"reconstituted milk\" shall be indicated, and the raw materials contained in the reconstituted milk and their proportions shall be truthfully indicated in the product ingredients.\nThe label of infant milk powder shall additionally indicate the main nutritional components and their content, and shall explain in detail the method of use and the matters needing attention."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Production of Dairy Manufactures"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Dairy manufactures leaving the factory shall conform to the national standards for dairy quality and safety.\nDairy manufacture producers shall inspect the dairy manufactures leaving the factory batch by batch, keep the inspection reports and retain samples. The inspection shall cover the sensory indicators, physicochemical indicators and hygiene indicators of the dairy manufactures and the additives and stabilisers used in the dairy manufactures and the strains used in yoghurt and the like; infant milk powder shall additionally be tested for nutritional components before leaving the factory. Dairy manufactures that pass inspection shall be marked with the inspection certificate number; those failing inspection shall not leave the factory. Inspection reports shall be kept for two years."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Production of Dairy Manufactures"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Dairy manufacture producers shall truthfully record the names, quantities, dates of production, production batch numbers, inspection certificate numbers, names and contact details of purchasers and dates of sale of the dairy manufactures sold."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Production of Dairy Manufactures"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Where a dairy manufacture producer finds that the dairy manufactures it produces do not conform to the national standards for dairy quality and safety, pose a danger to human health and life safety, or may harm the health or growth and development of infants, it shall immediately cease production, report to the competent departments concerned, inform sellers and consumers, recall the dairy manufactures that have left the factory and been placed on the market for sale, and record the recall.\nDairy manufacture producers shall take measures such as destruction and harmless treatment for the recalled dairy manufactures so as to prevent them from re-entering the market."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Production of Dairy Manufactures"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Anyone engaging in the sale of dairy manufactures shall, in accordance with the relevant provisions on food safety supervision and administration, apply to the industry and commerce administrative department for the relevant licences and certificates in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter V Sale of Dairy Manufactures"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Dairy manufacture sellers shall establish and implement an incoming goods inspection system, examine the business qualifications of suppliers, verify the conformity certificates and product marks of dairy manufactures, and establish incoming goods ledgers for dairy manufactures truthfully recording the names, specifications, quantities, suppliers and their contact details, and times of purchase of dairy manufactures. Sales enterprises engaged in the wholesale of dairy manufactures shall establish sales ledgers for dairy manufactures truthfully recording the varieties, specifications, quantities and destinations of the dairy manufactures wholesaled. Incoming goods ledgers and sales ledgers shall be kept for not less than two years."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V Sale of Dairy Manufactures"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Dairy manufacture sellers shall take measures to preserve the quality of the dairy manufactures they sell.\nSellers of dairy manufactures requiring low-temperature preservation shall be equipped with refrigeration equipment or take refrigeration measures."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V Sale of Dairy Manufactures"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "It is prohibited to purchase or sell dairy manufactures without quality conformity certificates, without labels or with incomplete and unclear labels.\nIt is prohibited to purchase or sell dairy manufactures that are expired, deteriorated or not conforming to the national standards for dairy quality and safety."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter V Sale of Dairy Manufactures"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Dairy manufacture sellers shall not forge the place of origin, shall not forge or falsely use the factory name or factory address of another, and shall not forge or falsely use quality marks such as certification marks."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter V Sale of Dairy Manufactures"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "For dairy manufactures that do not conform to the national standards for dairy quality and safety, pose a danger to human health and life safety, or may harm the health or growth and development of infants, sellers shall immediately cease sales, recover the dairy manufactures already sold and record the recovery.\nWhere a dairy manufacture seller discovers on its own that the dairy manufactures it sells fall under the circumstances specified in the preceding paragraph, it shall additionally promptly report to the industry and commerce administrative and other relevant departments at the place where it is located and notify the dairy manufacture producer."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter V Sale of Dairy Manufactures"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Dairy manufacture sellers shall provide consumers with purchase vouchers and perform the obligations of replacement and return of non-conforming dairy manufactures.\nWhere a dairy manufacture seller has performed the obligations of replacement and return in accordance with the preceding paragraph and the responsibility lies with the dairy manufacture producer or supplier, the seller may seek recovery from the dairy manufacture producer or supplier."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter V Sale of Dairy Manufactures"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Imported dairy products shall be inspected in accordance with the national standards for dairy quality and safety; where national standards for dairy quality and safety have not yet been formulated, inspection may be carried out by reference to the relevant foreign standards designated by the relevant departments of the State."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter V Sale of Dairy Manufactures"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Producers and sellers of exported dairy products shall ensure that their exported dairy products conform both to the national standards for dairy quality and safety and to the standards or contractual requirements of the importing country (region)."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter V Sale of Dairy Manufactures"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "The animal husbandry and veterinary competent departments of people's governments at or above the county level shall strengthen supervision and inspection of dairy animal rearing and of the production and purchase stages of raw milk. The quality supervision, inspection and quarantine departments at or above the county level shall strengthen supervision and inspection of the dairy manufacture production stage and of the import and export stages of dairy products. The industry and commerce administrative departments at or above the county level shall strengthen supervision and inspection of the dairy manufacture sales stage. The food and drug supervision departments at or above the county level shall strengthen supervision and administration of the catering service stage of dairy manufactures. Supervision and inspection departments shall promptly notify each other, and other relevant departments, of information on the supervision and administration of dairy quality and safety.\nThe animal husbandry and veterinary, quality supervision and industry and commerce administrative departments shall conduct periodic supervisory spot checks and record the circumstances and handling results of such spot checks. Where sampling inspection of dairy products is required, no fees of any kind may be charged, and the required expenses shall be disbursed from the finance at the same level."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "The animal husbandry and veterinary, quality supervision and industry and commerce administrative departments shall exercise the following functions and powers when conducting supervision and inspection in accordance with their respective duties:\n(a) to carry out on-site inspection;\n(b) to investigate and ascertain the relevant circumstances from the persons concerned;\n(c) to consult and copy the relevant contracts, invoices, account books, inspection reports and other materials;\n(d) to seal up or seize dairy products that are proved by evidence not to conform to the national standards for dairy quality and safety, as well as raw milk, auxiliary materials and additives unlawfully used;\n(e) to seal up premises suspected of being unlawfully engaged in dairy production and operation activities and to seize the tools and equipment used for unlawful production and operation; and\n(f) other functions and powers prescribed by laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where, in the course of supervision and inspection, the quality supervision department or the industry and commerce administrative department at or above the county level finds dairy manufactures that do not conform to the national standards for dairy quality and safety, pose a danger to human health and life safety, or may harm the health or growth and development of infants, it shall order and supervise the producer to recall them and the seller to cease selling them."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "The price competent departments of people's governments at or above the county level shall strengthen supervision and inspection of unfair pricing practices such as depressing grades and prices, price fraud and price collusion in the course of the purchase and sale of raw milk."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "The animal husbandry and veterinary competent department, the quality supervision department and the industry and commerce administrative department shall keep records of the unlawful acts of dairy producers and operators, promptly provide them to the People's Bank of China, and the People's Bank of China shall incorporate them into the basic database of enterprise credit information."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "The animal husbandry and veterinary competent departments, quality supervision departments and industry and commerce administrative departments of people's governments at or above the provincial level shall, in accordance with their respective duties, publish information on the supervision and administration of dairy quality and safety. The relevant supervision and administration departments shall promptly notify the health competent department at the same level of information on dairy quality and safety accidents; information on major dairy quality and safety accidents shall be published by the health competent departments of people's governments at or above the provincial level."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where the relevant supervision and administration departments find that a dairy animal breeder, raw milk purchaser, dairy manufacture producer or seller is suspected of a crime, they shall promptly refer the case to the public security organ for investigation."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Any unit or individual shall have the right to report unlawful acts in dairy production and operation to the animal husbandry and veterinary, health, quality supervision, industry and commerce administration, food and drug supervision and other departments. The animal husbandry and veterinary, health, quality supervision, industry and commerce administration, food and drug supervision and other departments shall publish their email addresses and reporting telephone numbers; reports received shall be completely recorded and preserved.\nDepartments receiving reports shall promptly handle in accordance with law matters falling within the scope of their duties and shall promptly reply to reports made under real names; matters not falling within the scope of their duties shall be promptly referred to the departments competent to handle them, and the competent departments shall handle them immediately and shall not shift responsibility."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where a raw milk purchaser or dairy manufacture producer adds non-food chemical substances or other substances potentially harmful to human health in the course of purchasing raw milk or producing dairy manufactures, and a crime is constituted in accordance with Article 144 of the Criminal Law, criminal liability shall be investigated in accordance with law and the licence-issuing authority shall revoke the licence; where a crime is not constituted, the animal husbandry and veterinary competent department or the quality supervision department shall, in accordance with its respective duties, confiscate the illegal income, the unlawfully produced dairy products and the relevant tools, equipment and other items, and impose a fine of not less than 15 times but not more than 30 times the value of the unlawful dairy products, and the licence-issuing authority shall revoke the licence."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where dairy products not conforming to the national standards for dairy quality and safety are produced or sold and a crime is constituted in accordance with Article 143 of the Criminal Law, criminal liability shall be investigated in accordance with law and the licence-issuing authority shall revoke the licence; where a crime is not constituted, the animal husbandry and veterinary competent department, the quality supervision department or the industry and commerce administrative department shall, in accordance with its respective duties, confiscate the illegal income, the unlawful dairy products and the relevant tools, equipment and other items, and impose a fine of not less than 10 times but not more than 20 times the value of the unlawful dairy products, and the licence-issuing authority shall revoke the licence."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where, in violation of Article 36 of these Regulations, a dairy manufacture producer, in respect of dairy manufactures that do not conform to the national standards for dairy quality and safety, pose a danger to human health and life safety or may harm the health or growth and development of infants, fails to cease production or fails to recall them, the quality supervision department shall order it to cease production and recall them; where it refuses to cease production or refuses to recall them, its illegal income, the unlawful dairy manufactures and the relevant tools, equipment and other items shall be confiscated, and a fine of not less than 15 times but not more than 30 times the value of the unlawful dairy manufactures shall be imposed, and the licence-issuing authority shall revoke the licence."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where, in violation of Article 42 of these Regulations, a dairy manufacture seller, in respect of dairy manufactures that do not conform to the national standards for dairy quality and safety, pose a danger to human health and life safety or may harm the health or growth and development of infants, fails to cease sales or fails to recover them, the industry and commerce administrative department shall order it to cease sales and recover them; where it refuses to cease sales or refuses to recover them, its illegal income, the unlawful dairy manufactures and the relevant tools, equipment and other items shall be confiscated, and a fine of not less than 15 times but not more than 30 times the value of the unlawful dairy manufactures shall be imposed, and the licence-issuing authority shall revoke the licence."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where, in violation of these Regulations, non-food chemical substances or other substances potentially harmful to human health are added in the course of producing infant milk powder, or the infant milk powder produced or sold lacks sufficient nutritional components or does not conform to the national standards for dairy quality and safety, a heavier penalty shall be imposed in accordance with these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where a dairy animal breeder, raw milk purchaser, dairy manufacture producer or seller fails to report or handle a dairy quality and safety accident after it occurs, the animal husbandry and veterinary, quality supervision, industry and commerce administration, food and drug supervision and other departments shall, in accordance with their respective duties, order correction and give a warning; where the relevant evidence is destroyed, they shall order suspension of production and business and impose a fine of not less than RMB 100,000 but not more than RMB 200,000; where serious consequences are caused, the licence-issuing authority shall revoke the licence; and where a crime is constituted, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "In any of the following circumstances, the animal husbandry and veterinary competent department of a local people's government at or above the county level shall confiscate the illegal income, the unlawfully purchased raw milk and the relevant equipment, facilities and other items, and impose a fine of not less than five times but not more than 10 times the value of the unlawful dairy products; where there is a licence, the licence-issuing authority shall revoke it:\n(a) purchasing raw milk without obtaining a raw milk purchasing licence;\n(b) a raw milk purchasing station continuing to purchase raw milk after obtaining a raw milk purchasing licence although it no longer meets the licensing conditions; or\n(c) a raw milk purchasing station purchasing raw milk the purchase of which is prohibited by Article 24 of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where a dairy manufacture producer or seller fails to obtain a licence, or, after obtaining a licence, engages in production and sales activities not in accordance with the statutory conditions and statutory requirements, the quality supervision department or the industry and commerce administrative department at or above the county level shall impose a penalty in accordance with the Special Provisions of the State Council on Strengthening the Supervision and Administration of Food and Other Product Safety and other laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Where the animal husbandry and veterinary, health, quality supervision, industry and commerce administration and other departments fail to perform the duties prescribed by these Regulations and thereby cause consequences, or abuse their powers or commit other dereliction of duty, the supervisory organ or the organ appointing or removing the personnel shall impose a sanction of recording a major demerit or demotion on the principal person in charge, the directly responsible persons in charge and other directly responsible persons; where serious consequences are caused, a sanction of removal from office or dismissal shall be imposed; and where a crime is constituted, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Measures for the purchase of raw milk produced by dairy animals grazed in grassland pastoral areas shall be separately formulated by the people's government of the province, autonomous region or municipality directly under the Central Government concerned by reference to these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "These Regulations shall come into force on the date of promulgation."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-REG-0300'] = {
     "lawId": "CN-REG-0300",
     "sourceLang": "zh",
@@ -16122,6 +16878,762 @@
         },
         "chapter": {
           "en": "Chapter V Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0310'] = {
+    "lawId": "CN-REG-0310",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 63 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the Social Insurance Law of the People's Republic of China for the purpose of standardising social insurance administration and service, improving social insurance services, safeguarding the security of social insurance funds, protecting the lawful rights and interests of employing units and individuals, and promoting social fairness."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "These Regulations apply to the administration of basic old-age insurance, basic medical insurance, work injury insurance, unemployment insurance, maternity insurance and other social insurance prescribed by the State."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Social insurance administration shall uphold the leadership of the Communist Party of China, adhere to a people-centred approach and follow the principles of lawfulness, convenience to the public, timeliness, openness and security."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The human resources and social security administrative department of the State Council shall be in charge of the administration of basic old-age insurance, work injury insurance, unemployment insurance and other social insurance throughout the country. The medical security administrative department of the State Council shall be in charge of the administration of basic medical insurance, maternity insurance and other social insurance throughout the country.\nThe human resources and social security administrative departments of local people's governments at or above the county level shall, according to the pooling level, be in charge of the administration of basic old-age insurance, work injury insurance, unemployment insurance and other social insurance. The medical security administrative departments of local people's governments at or above the county level shall, according to the pooling level, be in charge of the administration of basic medical insurance, maternity insurance and other social insurance."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The human resources and social security administrative department, the medical security administrative department and other relevant departments of the State Council shall, in accordance with their respective duties, cooperate closely and assist each other in jointly ensuring sound social insurance administration.\nLocal people's governments at or above the county level shall strengthen their leadership over social insurance administration in their administrative areas, strengthen capacity building for social insurance administration and provide support for social insurance administration."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "An employing unit shall complete social insurance registration at the same time as it completes registration with the registration administration authority.\nWhere an individual applies for social insurance registration, his citizen identity number shall serve as his social security number, and he shall obtain a social security card and an electronic medical insurance certificate. The social insurance administration agency shall complete the formalities within 10 working days from the date of receipt of the application."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        },
+        "chapter": {
+          "en": "Chapter II Social Insurance Registration and Transfer of Relationships"
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The social security card is the document by which an individual participates in basic old-age insurance, basic medical insurance, work injury insurance, unemployment insurance, maternity insurance and other social insurance and enjoys the various social insurance benefits, and includes the physical social security card and the electronic social security card.\nThe electronic medical insurance certificate is the document by which an individual participates in basic medical insurance, maternity insurance and other social insurance and enjoys the benefits of basic medical insurance, maternity insurance and other social insurance."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Social Insurance Registration and Transfer of Relationships"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The registration administration authority shall share with the social insurance administration agency information on the establishment, modification and cancellation of the registration of employing units, and the public security, civil affairs, health, judicial administration and other departments shall share with the social insurance administration agency information on individuals' birth, death, household registration, migration and cancellation of household registration."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Social Insurance Registration and Transfer of Relationships"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Where there is a change in the social insurance participation information of an employing unit, such as its nature, bank account or employment, or a change in the social insurance participation information of an individual, the employing unit and the individual shall promptly inform the social insurance administration agency. The social insurance administration agency shall compare and verify the social insurance participation information provided by the employing unit and the individual against the shared information."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Social Insurance Registration and Transfer of Relationships"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Where an employing unit or individual applies to modify or cancel social insurance registration, the social insurance administration agency shall complete the formalities within 10 working days from the date of receipt of the application. Where an employing unit cancels its social insurance registration, it shall first settle the social insurance premiums, late payment fees and fines owed."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Social Insurance Registration and Transfer of Relationships"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "A social insurance administration agency shall record the following information in a timely, complete and accurate manner:\n(a) the social insurance registration;\n(b) the payment of social insurance premiums;\n(c) the enjoyment of social insurance benefits;\n(d) the individual accounts; and\n(e) other circumstances relating to social insurance administration."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Social Insurance Registration and Transfer of Relationships"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Where an individual participating in the basic old-age insurance for employees is employed across pooling areas, his basic old-age insurance relationship for employees shall be transferred accordingly.\nWhere an individual participating in the basic old-age insurance for employees moves between employing units of different nature, such as State organs and public institutions on the one hand and enterprises on the other, his basic old-age insurance relationship for employees shall be transferred accordingly.\nWhere an individual participating in the basic old-age insurance for urban and rural residents who does not yet enjoy benefits migrates his household registration across pooling areas, his basic old-age insurance relationship for urban and rural residents may be transferred accordingly."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Social Insurance Registration and Transfer of Relationships"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where an individual participating in the basic medical insurance for employees is employed across pooling areas, his basic medical insurance relationship for employees shall be transferred accordingly.\nWhere an individual participating in the basic medical insurance for urban and rural residents migrates his household registration across pooling areas or changes his place of habitual residence, his basic medical insurance relationship for urban and rural residents may, in accordance with the provisions, be transferred accordingly.\nThe transfer of the relationship between the basic medical insurance for employees and the basic medical insurance for urban and rural residents shall be carried out in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Social Insurance Registration and Transfer of Relationships"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Where an individual participating in unemployment insurance is employed across pooling areas, his unemployment insurance relationship shall be transferred accordingly."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Social Insurance Registration and Transfer of Relationships"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where an individual participating in work injury insurance or maternity insurance is employed across pooling areas, he shall participate in work injury insurance or maternity insurance at the place of his new employment."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Social Insurance Registration and Transfer of Relationships"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where an employing unit or individual completes the formalities for the transfer and continuation of a social insurance relationship, the social insurance administration agency shall complete them within the prescribed time limit and inform the employing unit and the individual of the result or provide a service for inquiring into the progress of the formalities."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Social Insurance Registration and Transfer of Relationships"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Military organs and social insurance administration agencies shall, in accordance with their respective duties, complete the formalities for the transfer and continuation of the relationship between military insurance and social insurance.\nSocial insurance administration agencies shall give priority to providing services for the completion of the formalities for the transfer and continuation of the relationship between military insurance and social insurance."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Social Insurance Registration and Transfer of Relationships"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Employing units and individuals shall, in accordance with the provisions of the State, apply to the social insurance administration agency for the receipt of basic pensions. The social insurance administration agency shall complete the formalities within 20 working days from the date of receipt of the application."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Determination and Payment of Social Insurance Benefits"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Where an individual participating in the basic old-age insurance for employees dies, or an unemployed person dies while receiving unemployment insurance benefits, his survivors may apply to the social insurance administration agency for funeral subsidies and consolation payments in accordance with law. The social insurance administration agency shall promptly verify the relevant circumstances and determine and pay the funeral subsidies and consolation payments in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Determination and Payment of Social Insurance Benefits"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The portion of an individual's medical expenses and maternity medical expenses that should be paid from the basic medical insurance fund (including the maternity insurance fund) shall be settled directly by the social insurance administration agency with the medical institution or pharmaceutical business unit after examination.\nWhere an individual applies for manual reimbursement owing to special circumstances, he shall provide the social insurance administration agency with the fee receipts, itemised expense lists, diagnostic certificates and medical records of the medical institution or pharmaceutical business unit. The social insurance administration agency shall examine the fee receipts, itemised expense lists, diagnostic certificates and medical records, and shall complete the formalities within 30 working days from the date of receipt of the application.\nWhere an individual participating in maternity insurance applies for a maternity allowance, he shall provide the social insurance administration agency with his medical records. The social insurance administration agency shall examine the medical records and complete the formalities within 10 working days from the date of receipt of the application."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Determination and Payment of Social Insurance Benefits"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where an employee injured at work or his employing unit applies in accordance with law for assessment of working capacity, confirmation of the allocation of assistive devices, confirmation of an extension of the paid period of suspension of work for medical treatment, or confirmation of the recurrence of an old work injury, it shall provide the social insurance administration agency with diagnostic certificates and medical records."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Determination and Payment of Social Insurance Benefits"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The portion of an individual's medical expenses for the treatment of a work injury, rehabilitation expenses and expenses for the installation and allocation of assistive devices that should be paid from the work injury insurance fund shall be settled directly by the social insurance administration agency with the medical institution or assistive device allocation institution after examination.\nWhere an employing unit or individual applies for manual reimbursement owing to special circumstances, it or he shall provide the social insurance administration agency with the fee receipts, itemised expense lists, diagnostic certificates and medical records of the medical institution or assistive device allocation institution. The social insurance administration agency shall examine the fee receipts, itemised expense lists, diagnostic certificates and medical records, and shall complete the formalities within 20 working days from the date of receipt of the application."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Determination and Payment of Social Insurance Benefits"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The human resources and social security administrative department and the medical security administrative department shall, in accordance with their respective duties, establish and improve the system for settling medical expenses incurred for medical treatment in places other than the place of insurance. Social insurance administration agencies shall properly carry out the settlement of medical expenses incurred for medical treatment in places other than the place of insurance."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Determination and Payment of Social Insurance Benefits"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Where an individual applies for unemployment insurance benefits, the social insurance administration agency shall complete the formalities within 10 working days from the date of receipt of the application.\nWhile an individual is receiving unemployment insurance benefits, the social insurance administration agency shall pay from the unemployment insurance fund the basic medical insurance (including maternity insurance) premiums that he should pay.\nWhere an individual applies for subsidies for vocational training and the like, he shall provide the vocational qualification certificate or the vocational skill level certificate. The social insurance administration agency shall examine the vocational qualification certificate or the vocational skill level certificate and complete the formalities within 10 working days from the date of receipt of the application."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Determination and Payment of Social Insurance Benefits"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Where a circumstance prescribed by the State under which an individual ceases to enjoy social insurance benefits arises, the employing unit, the person enjoying the benefits or his relatives shall inform the social insurance administration agency within 20 working days from the date the relevant circumstance arises. The social insurance administration agency shall cease paying the corresponding social insurance benefits after verification."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Determination and Payment of Social Insurance Benefits"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "A social insurance administration agency shall verify the eligibility for social insurance benefits by means such as information comparison and self-service authentication. Where eligibility for social insurance benefits cannot be confirmed by means such as information comparison and self-service authentication, the social insurance administration agency may entrust the employing unit or a third-party institution with the verification.\nWhere there is a suspicion that a person continues to enjoy benefits after losing eligibility for social insurance benefits, the social insurance administration agency shall investigate and verify the matter. Where it is confirmed upon investigation that the person is not eligible for the social insurance benefits, the payment of benefits shall cease."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Determination and Payment of Social Insurance Benefits"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Social insurance administration agencies shall, by relying on the public service platform for social insurance and the medical security information platform, achieve cross-departmental and cross-pooling-area social insurance administration."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Social Insurance Administration Services and Management"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Social insurance administration agencies shall promote the coordinated handling of social insurance administration matters and related government service matters. Social insurance administration counters shall be stationed in government service centres to provide one-stop services for employing units and individuals.\nThe human resources and social security administrative department and the medical security administrative department shall strengthen their capacity to provide social insurance administration services and achieve full coverage at the provincial, municipal, county, township (sub-district) and village (community) levels."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Social Insurance Administration Services and Management"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Employing units and individuals may handle social insurance matters through service channels such as government websites, mobile terminals and self-service terminals, or may handle them on site at social insurance administration counters."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Social Insurance Administration Services and Management"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Social insurance administration agencies shall strengthen the development of a barrier-free environment, provide barrier-free information exchange, improve barrier-free service facilities and equipment, and adopt means such as authorised agency and door-to-door services to provide convenience for special groups such as elderly persons and persons with disabilities."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Social Insurance Administration Services and Management"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where a social insurance administration agency requires an employing unit or individual handling social insurance matters to provide evidentiary materials other than identity documents, there shall be a basis in laws, regulations or decisions of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Social Insurance Administration Services and Management"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Social insurance administration agencies shall provide employing units and individuals free of charge with related services such as inquiring into and verifying records of social insurance premium payments and the enjoyment of social insurance benefits, and social insurance consultation."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Social Insurance Administration Services and Management"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Social insurance administration agencies shall, in light of the needs of administration work, negotiate and sign service agreements with qualified institutions on the basis of consultation so as to standardise social insurance service conduct. The human resources and social security administrative department and the medical security administrative department shall strengthen supervision over the conclusion and performance of service agreements."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Social Insurance Administration Services and Management"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The social insurance administration agency subordinate to the medical security administrative department shall improve fund payment and settlement services, strengthen the management of service agreements and establish and improve a collective consultation and negotiation mechanism."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Social Insurance Administration Services and Management"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Social insurance administration agencies shall properly preserve social insurance administration information and ensure that the information is complete, accurate and secure."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Social Insurance Administration Services and Management"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Social insurance administration agencies shall establish and improve internal control systems covering operations, finance, security and risk management.\nSocial insurance administration agencies shall periodically inspect and assess the formulation and implementation of internal control systems and rectify the problems found."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Social Insurance Administration Services and Management"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Social insurance administration agencies shall define the powers and responsibilities of each post and conduct graded examination of key business and high-risk business."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Social Insurance Administration Services and Management"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Social insurance administration agencies shall strengthen the application and management of information systems, improve information verification mechanisms and record the process of business administration."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Social Insurance Administration Services and Management"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Social insurance administration agencies shall specifically prepare the draft budget for the social insurance fund for the following year and submit it to the human resources and social security administrative department and the medical security administrative department at the same level for examination and consolidation. The draft budget for social insurance fund revenue shall be specifically prepared by the social insurance administration agency together with the social insurance premium collection agency."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter IV Social Insurance Administration Services and Management"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Social insurance administration agencies shall open social insurance fund expenditure accounts for receiving funds allocated from the special fiscal account, paying fund expenditure items, remitting funds to social insurance administration agencies at higher levels and allocating funds to social insurance administration agencies at lower levels."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter IV Social Insurance Administration Services and Management"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Social insurance administration agencies shall conduct accounting and reconciliation of social insurance funds in accordance with the unified accounting system of the State."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IV Social Insurance Administration Services and Management"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Social insurance administration agencies shall verify the following matters:\n(a) social insurance registration and the enjoyment of benefits and other circumstances;\n(b) the performance of service agreements and the implementation of the items and standards for expense settlement by social insurance service institutions; and\n(c) other matters prescribed by laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter IV Social Insurance Administration Services and Management"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where a social insurance administration agency finds that a social insurance service institution has violated a service agreement, it may urge the institution to perform the service agreement and, in accordance with the agreement, suspend or refuse to allocate expenses, recover the expenses in violation of the rules, suspend the social insurance services involving the use of social insurance funds provided by the responsible persons or the department in which they work, and may even rescind the service agreement; the social insurance service institution and the responsible persons concerned shall have the right to make statements and to defend themselves."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter IV Social Insurance Administration Services and Management"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where a social insurance administration agency finds that an employing unit, an individual or a social insurance service institution has violated the laws, regulations or rules on social insurance, it shall order correction. Where correction is refused or the matter should be handled in accordance with law by the human resources and social security administrative department or the medical security administrative department, it shall promptly refer the matter to those departments for handling."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter IV Social Insurance Administration Services and Management"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "The human resources and social security administrative department and the medical security administrative department of the State Council shall, together with the relevant departments, establish a social insurance credit management system and define the standards for identifying entities with serious dishonest conduct in the field of social insurance.\nSocial insurance administration agencies shall truthfully record dishonest conduct such as violations of the laws and regulations on social insurance by employing units, individuals, social insurance service institutions and their staff members."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter IV Social Insurance Administration Services and Management"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where an individual enjoys social insurance benefits in excess, the social insurance administration agency shall order the excess to be returned; where a lump-sum return is difficult, a repayment agreement may be signed for return in instalments, or the excess may be deducted from the social insurance benefits to be enjoyed by the individual subsequently or from the balance of his individual account."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter IV Social Insurance Administration Services and Management"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "The human resources and social security administrative department and the medical security administrative department shall, in accordance with their respective duties, conduct supervision and inspection of the following matters of social insurance administration agencies:\n(a) the implementation of the laws, regulations and rules on social insurance;\n(b) social insurance registration, payment of benefits and other administration matters;\n(c) the management of social insurance funds;\n(d) the conclusion of service agreements with social insurance service institutions and the performance of those agreements; and\n(e) other matters prescribed by laws and regulations.\nThe finance department and the audit authority shall, in accordance with their respective duties, exercise supervision in accordance with law over the relevant work of social insurance administration agencies."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision of Social Insurance Administration"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "The human resources and social security administrative department and the medical security administrative department shall, in accordance with their respective duties, strengthen supervision and inspection of the compliance of social insurance service institutions, employing units and individuals with the laws, regulations and rules on social insurance. Social insurance service institutions, employing units and individuals shall cooperate and truthfully provide materials relating to social insurance, and shall not refuse inspection or make false or concealed reports.\nWhere the human resources and social security administrative department or the medical security administrative department finds that a social insurance service institution or employing unit has violated the laws, regulations or rules on social insurance, it shall, in accordance with its respective duties, put forward its handling opinion, urge rectification and may hold regulatory talks with the responsible persons concerned."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision of Social Insurance Administration"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "The human resources and social security administrative department, the medical security administrative department and social insurance administration agencies and their staff members shall protect the information of employing units and individuals in accordance with law and shall not disclose it in any form."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision of Social Insurance Administration"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "The human resources and social security administrative department and the medical security administrative department shall keep channels of supervision open and encourage and support all sectors of society in supervising social insurance administration.\nSocial insurance administration agencies shall periodically make public the circumstances of participation in social insurance and the revenue, expenditure, balance and returns of social insurance funds, listen to the opinions and suggestions of employing units and individuals, and accept public oversight.\nTrade unions and organisations representing enterprises shall promptly convey the opinions and suggestions of employing units and individuals on social insurance administration."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision of Social Insurance Administration"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Any organisation or individual shall have the right to report or complain about acts violating the laws, regulations or rules on social insurance.\nThe human resources and social security administrative department and the medical security administrative department shall handle in accordance with law the reports and complaints relating to social insurance they receive."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision of Social Insurance Administration"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where an employing unit or individual considers that a social insurance administration agency has infringed its or his social insurance rights and interests in the course of social insurance administration, it or he may apply for administrative reconsideration or bring an administrative action in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision of Social Insurance Administration"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where a social insurance administration agency or its staff members commit any of the following acts, the human resources and social security administrative department or the medical security administrative department shall, in accordance with its respective duties, order correction; where loss is caused to social insurance funds, an employing unit or an individual, liability for compensation shall be borne in accordance with law; and sanctions shall be imposed in accordance with law on the responsible leading personnel and directly responsible persons:\n(a) failing to perform the statutory duties of social insurance administration;\n(b) requiring the provision of evidentiary materials in violation of the provisions;\n(c) withholding or refusing to pay social insurance benefits on time;\n(d) losing or tampering with social insurance data such as premium payment records and records of the enjoyment of social insurance benefits, or records of individual rights and interests; or\n(e) violating the internal control system for social insurance administration."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where the human resources and social security administrative department, the medical security administrative department or a social insurance administration agency or its staff members disclose the information of an employing unit or individual, sanctions shall be imposed in accordance with law on the responsible leading personnel and directly responsible persons; where loss is caused to the employing unit or individual, liability for compensation shall be borne in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Whoever obtains social insurance fund expenditures by fraud, forgery of evidentiary materials or other means shall be ordered by the human resources and social security administrative department or the medical security administrative department, in accordance with its respective duties, to return the amount, and shall be fined not less than two times but not more than five times the amount defrauded; where the offender is a designated medical institution or pharmaceutical business unit, it shall be ordered to suspend the social insurance services involving the use of social insurance funds provided by the responsible department for not less than six months but not more than one year, and the social insurance administration agency may even rescind the service agreement; where the offender is another social insurance service institution, the social insurance administration agency shall rescind the service agreement. Where the responsible leading personnel and directly responsible persons hold practising qualifications, the competent department concerned shall revoke their practising qualifications in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Whoever conceals, transfers, misappropriates or embezzles social insurance funds or invests and operates them in violation of the rules shall be ordered to recover them by the human resources and social security administrative department, the medical security administrative department, the finance department or the audit authority in accordance with its respective duties; where there is illegal income, such income shall be confiscated; and sanctions shall be imposed in accordance with law on the responsible leading personnel and directly responsible persons."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where a social insurance service institution refuses supervision and inspection by the human resources and social security administrative department or the medical security administrative department, or makes false or concealed reports on the relevant circumstances, the human resources and social security administrative department or the medical security administrative department shall, in accordance with its respective duties, order correction and may hold regulatory talks with the responsible persons concerned; where correction is refused, a fine of not less than RMB 10,000 but not more than RMB 50,000 shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where a public official abuses his powers, neglects his duties or engages in malpractices for personal gain in social insurance administration, sanctions shall be imposed in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where an act in violation of these Regulations constitutes a violation of public security administration, a public security administrative penalty shall be imposed in accordance with law; where a crime is constituted, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "For the purposes of these Regulations, \"social insurance administration agency\" means the agency subordinate to the human resources and social security administrative department that administers basic old-age insurance, work injury insurance, unemployment insurance and other social insurance, and the agency subordinate to the medical security administrative department that administers basic medical insurance, maternity insurance and other social insurance."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "For the purposes of these Regulations, \"social insurance service institution\" means institutions such as medical institutions, pharmaceutical business units, assistive device allocation institutions and entrusted training institutions for unemployment insurance that have signed service agreements with social insurance administration agencies and provide social insurance services."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Social security cards may be loaded with financial functions, and localities where conditions permit may expand the scope of application of social security cards so as to improve the effectiveness of livelihood services. Electronic medical insurance certificates may, as required, be loaded with relevant service functions."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "These Regulations shall come into force on 1 December 2023."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
         }
       }
     ]
@@ -24264,6 +25776,747 @@
         },
         "chapter": {
           "en": "Chapter VI Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0334'] = {
+    "lawId": "CN-REG-0334",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 62 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the Securities Investment Fund Law of the People's Republic of China (hereinafter referred to as the Securities Investment Fund Law), the Trust Law of the People's Republic of China, the Company Law of the People's Republic of China, the Partnership Enterprise Law of the People's Republic of China and other laws for the purpose of regulating business activities involving private investment funds (hereinafter referred to as private funds), protecting the lawful rights and interests of investors and the parties concerned, and promoting the sound and standardised development of the private fund industry."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "These Regulations apply to the raising of funds from the public in a non-public manner within the territory of the People's Republic of China to establish investment funds, or to the lawful establishment of companies or partnerships for the purpose of carrying out investment activities, which are managed by private fund managers or general partners and which carry out investment activities in the interests of investors."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The State encourages the sound and standardised development of the private fund industry and gives play to its functions of serving the real economy and promoting scientific and technological innovation.\nIn carrying out business activities involving private funds, the principles of voluntariness, fairness and good faith shall be observed, the lawful rights and interests of investors shall be protected, and no violation of laws, administrative regulations or State policies shall be committed, no act contrary to public order and good morals shall be committed, and no harm shall be caused to national interests, public interests or the lawful rights and interests of others.\nWhen a private fund manager manages and applies private fund property, a private fund custodian holds in custody private fund property, or a private fund service institution engages in private fund service business, the provisions of laws and administrative regulations shall be observed, duties shall be performed diligently, and the obligations of honesty, good faith, prudence and diligence shall be discharged.\nPersons engaged in the private fund industry shall observe the provisions of laws and administrative regulations, strictly comply with professional ethics and codes of conduct, and receive compliance training and professional competence training as required."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Private fund property is independent of the own property of the private fund manager and the private fund custodian. Debts of private fund property shall be borne by the private fund property itself, unless otherwise provided by law.\nInvestors shall share in the returns and bear the risks in accordance with the fund contract, the articles of association of the company or the partnership agreement (hereinafter collectively referred to as the fund contract)."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The supervision and administration of business activities involving private funds shall implement the lines, principles and policies, and the decisions and arrangements of the Party and the State. The securities regulatory authority of the State Council shall exercise supervision and administration over business activities involving private funds in accordance with law and these Regulations, and its dispatched offices shall perform their duties as authorised.\nWhere the State provides otherwise for the supervision and administration of private funds established with a certain proportion of government funds or in which government funds hold shares, those provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The securities regulatory authority of the State Council shall exercise differentiated supervision and administration over private fund managers in light of their business types, the scale of assets under management, their ongoing compliance, their risk control and their capacity to serve investors, and shall exercise classified supervision and administration over different types of private funds such as venture capital and other equity investment funds and securities investment funds."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "A private fund manager shall be a company or partnership established in accordance with law.\nWhere a private fund established in the form of a partnership has its assets managed by a general partner, the provisions of these Regulations on private fund managers shall apply to that general partner.\nWhere the shareholders or partners of a private fund manager, or the controlling shareholders or actual controllers of such shareholders or partners, control or actually control other private fund managers, they shall comply with the provisions of the securities regulatory authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Private Fund Managers and Private Fund Custodians"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "In any of the following circumstances, a person shall not serve as a private fund manager, nor become a controlling shareholder, actual controller or general partner of a private fund manager:\n(a) the circumstances specified in Article 9 of these Regulations;\n(b) being a private fund manager whose registration was cancelled on any of the grounds listed in item (c) of paragraph 1 of Article 14 of these Regulations and less than three years have elapsed since the date of cancellation, or being the controlling shareholder, actual controller or general partner of such a private fund manager;\n(c) the business engaged in by the person has a conflict of interest with private fund management; or\n(d) the person has a serious record of bad credit that has not yet been remedied."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Private Fund Managers and Private Fund Custodians"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "In any of the following circumstances, a person shall not serve as a director, supervisor or senior manager of a private fund manager, or as an executing partner or appointed representative:\n(a) the person has been sentenced to a criminal penalty for the crime of embezzlement or bribery, dereliction of duty, infringement of property, or disruption of the order of the socialist market economy;\n(b) the person has been subjected to an administrative penalty by a financial regulatory department in the last three years for a major violation of laws or regulations;\n(c) being a director, supervisor, factory director, senior manager, executing partner or appointed representative who bears personal responsibility for the bankruptcy and liquidation of a company or enterprise in which the person served owing to poor management, or for the revocation of its business licence for unlawful acts, and less than five years have elapsed since the conclusion of the bankruptcy and liquidation or the revocation of the business licence of that company or enterprise;\n(d) the person owes a relatively large amount of debt that has fallen due and has not been repaid, or has been included in the list of dishonest judgment debtors;\n(e) being a person employed by a fund manager, fund custodian, securities and futures trading venue, securities company, securities registration and settlement institution, futures company or other institution, or a staff member of a State organ, who was dismissed for unlawful acts;\n(f) being a lawyer, certified public accountant, employee of an asset appraisal institution or verification institution, or investment consulting practitioner whose practising certificate was revoked or whose qualification was cancelled for unlawful acts, and less than five years have elapsed since the date of revocation or cancellation; or\n(g) being the legal representative, executing partner or appointed representative of a private fund manager whose registration was cancelled on any of the grounds listed in item (c) of paragraph 1 of Article 14 of these Regulations, or a senior manager responsible therefor, and less than three years have elapsed since the date of cancellation of the registration of that private fund manager."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Private Fund Managers and Private Fund Custodians"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "A private fund manager shall submit the following materials to the institution entrusted by the securities regulatory authority of the State Council (hereinafter referred to as the registration and filing institution) in accordance with law and undergo registration formalities:\n(a) the unified social credit code;\n(b) the articles of association or partnership agreement;\n(c) the basic information of the shareholders, actual controller, directors, supervisors and senior managers, and of the general partner, executing partner or appointed representative, and the information of the beneficial owners relating to the shareholders, actual controller and partners;\n(d) a letter of credit commitment guaranteeing the truthfulness, accuracy and completeness of the submitted materials and compliance with the provisions on supervision and administration; and\n(e) other materials prescribed by the securities regulatory authority of the State Council.\nWhere a major matter such as a change in the controlling shareholder, actual controller, general partner, executing partner or appointed representative of a private fund manager occurs, the private fund manager shall undergo the formalities for amendment registration with the registration and filing institution as required.\nThe registration and filing institution shall make public the relevant information on private fund managers that have completed registration.\nWithout registration, no unit or individual may use the words \"fund\" or \"fund management\" or similar names to carry out investment activities, unless otherwise provided by laws, administrative regulations or the State."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Private Fund Managers and Private Fund Custodians"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "A private fund manager shall perform the following duties:\n(a) to raise funds in accordance with law and to file the private fund;\n(b) to manage separately and keep separate accounts for the property of the different private funds it manages, and to make investments;\n(c) to manage the private fund and make investments in accordance with the fund contract, and to establish an effective risk control system;\n(d) to determine the distribution plan for private fund returns in accordance with the fund contract and distribute returns to investors;\n(e) to provide investors with information relating to its private fund management business activities in accordance with the fund contract;\n(f) to preserve records, account books, statements and other relevant materials of the business activities of private fund property management; and\n(g) other duties prescribed by the securities regulatory authority of the State Council and stipulated in the fund contract.\nWhere an investment fund is established by raising funds in a non-public manner, the private fund manager shall additionally exercise litigation rights or carry out other legal acts in its own name in the interests of the private fund property."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Private Fund Managers and Private Fund Custodians"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The shareholders, actual controller and partners of a private fund manager shall not commit any of the following acts:\n(a) making false capital contributions, withdrawing capital contributions, or entrusting another person to make capital contributions or accepting the entrustment of another person to make capital contributions;\n(b) interfering without authorisation in the business activities of the private fund manager without a resolution of the shareholders' meeting or the board of directors or other statutory procedure;\n(c) requiring the private fund manager to use private fund property to seek benefits for themselves or others and thereby harm the interests of investors; or\n(d) other acts prohibited by laws, administrative regulations and the provisions of the securities regulatory authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Private Fund Managers and Private Fund Custodians"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "A private fund manager shall continuously meet the following requirements:\n(a) it is in sound financial condition and has operating funds commensurate with its business type and the scale of assets under management;\n(b) its legal representative, executing partner or appointed representative and the senior manager responsible for investment management hold a certain proportion of the equity or property shares of the private fund manager in accordance with the provisions of the securities regulatory authority of the State Council, unless otherwise provided by the State; and\n(c) other requirements prescribed by the securities regulatory authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Private Fund Managers and Private Fund Custodians"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Where a private fund manager falls under any of the following circumstances, the registration and filing institution shall promptly cancel its registration as a private fund manager and make this public:\n(a) it applies of its own accord for cancellation of registration;\n(b) it is dissolved in accordance with law, lawfully dissolved, or lawfully declared bankrupt;\n(c) it is held legally liable for illegal fund-raising, illegal business operations or other major unlawful acts;\n(d) it fails to file its first private fund within 12 months from the date of registration;\n(e) after all the private funds it manages have been liquidated, it fails to file a new private fund within 12 months from the date the liquidation is completed; or\n(f) other circumstances prescribed by the securities regulatory authority of the State Council.\nBefore cancelling the registration of a private fund manager, the registration and filing institution shall notify the private fund manager to liquidate the private fund property or to transfer its private fund management duties in accordance with law to another registered private fund manager."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Private Fund Managers and Private Fund Custodians"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Unless otherwise stipulated in the fund contract, private fund property shall be held in custody by a private fund custodian. Where private fund property is not held in custody, the institutional measures for safeguarding the security of private fund property and the dispute resolution mechanism shall be clearly defined."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Private Fund Managers and Private Fund Custodians"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where private fund property is held in custody, the private fund custodian shall perform its duties in accordance with law.\nA private fund custodian shall establish, in accordance with law, a segregation mechanism between custody business and other business so as to ensure the independence and security of private fund property."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Private Fund Managers and Private Fund Custodians"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "A private fund manager shall raise funds on its own and shall not entrust others to raise funds, unless otherwise provided by the securities regulatory authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Fund Raising and Investment Operations"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Private funds shall be raised from or transferred to qualified investors, and the cumulative number of investors in a single private fund shall not exceed the number prescribed by law. A private fund manager shall not circumvent the statutory limit on the number of investors by such means as establishing multiple private funds for a single financing project, and shall not lower the standards for qualified investors by such means as splitting and transferring private fund units or rights to returns.\nQualified investors referred to in the preceding paragraph mean units and individuals that have reached the prescribed scale of assets or level of income, possess the corresponding capacity to identify and bear risks, and whose subscription amount is not less than the prescribed threshold.\nThe specific standards for qualified investors shall be prescribed by the securities regulatory authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Fund Raising and Investment Operations"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "A private fund manager shall fully disclose investment risks to investors and match private fund products of different risk levels to investors in light of their capacity to identify and bear risks."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Fund Raising and Investment Operations"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Private funds shall not be raised from or transferred to units or individuals other than qualified investors; shall not be raised from or transferred to investors who hold units on behalf of others; shall not be advertised or promoted to unspecified persons through newspapers, radio stations, television stations, the Internet or other mass media, or by telephone, short message services, instant messaging tools, electronic mail, leaflets, or lectures, briefings, analysis meetings and the like; shall not be advertised or promoted in a false, one-sided or exaggerated manner; shall not be advertised or promoted in the name of a private fund custodian; and shall not promise investors that the investment principal will not suffer loss or promise a minimum return."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Fund Raising and Investment Operations"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where a private fund manager applies private fund property to make investments, it shall indicate the name of the private fund when opening accounts in the name of the private fund manager, entering the private fund in the register of shareholders of the invested enterprise, or holding other private fund property."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Fund Raising and Investment Operations"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "A private fund manager shall, within 20 working days from the date the raising of a private fund is completed, submit the following materials to the registration and filing institution and complete the filing:\n(a) the fund contract;\n(b) the custody agreement or the institutional measures for safeguarding the security of private fund property;\n(c) the documents evidencing the private fund property;\n(d) the basic information of investors, their subscription amounts, the number of fund units held and the relevant information of their beneficial owners; and\n(e) other materials prescribed by the securities regulatory authority of the State Council.\nA private fund shall have a paid-in raised capital scale sufficient to ensure basic investment capacity and risk resistance. The registration and filing institution shall make classified public disclosure in light of the scale of funds raised by private funds and other circumstances, and shall report to the securities regulatory authority of the State Council where the total amount of funds raised or the number of investors reaches the prescribed standard."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Fund Raising and Investment Operations"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The securities regulatory authority of the State Council shall establish and improve a private fund monitoring mechanism and conduct centralised monitoring of private funds and of the units held by their investors. The specific measures shall be prescribed by the securities regulatory authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Fund Raising and Investment Operations"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Investments of private fund property include the purchase and sale of shares in joint stock companies, equity interests in limited liability companies, bonds, fund units, other securities and their derivatives, and other investment targets conforming to the provisions of the securities regulatory authority of the State Council.\nPrivate fund property shall not be used to operate, or to operate in disguised form, the business of inter-enterprise lending, loans and the like. A private fund manager shall not increase hidden government debt in disguised form by such means as requiring a local people's government to undertake to repurchase the principal."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Fund Raising and Investment Operations"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The investment tiers of private funds shall comply with the provisions of the financial regulatory authorities of the State Council. However, private funds that meet the conditions prescribed by the securities regulatory authority of the State Council and that invest the main part of their fund property in other private funds shall not be counted towards the investment tiers.\nThe investment tiers of venture capital funds and of the private funds specified in paragraph 2 of Article 5 of these Regulations shall be prescribed by the relevant departments of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Fund Raising and Investment Operations"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "A private fund manager shall follow the principle of professional management and employ senior managers with the corresponding professional experience to be responsible for investment management, risk control, compliance and other work.\nA private fund manager shall follow the principle of giving priority to the interests of investors and establish management systems for the declaration, registration, examination and handling of investments by its employees so as to prevent the transfer of benefits and conflicts of interest."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Fund Raising and Investment Operations"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "A private fund manager shall not entrust others to exercise its investment management duties.\nWhere a private fund manager entrusts another institution to provide securities investment advisory services for a private fund, the institution accepting the entrustment shall be a fund investment advisory institution as specified in the Securities Investment Fund Law."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Fund Raising and Investment Operations"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "A private fund manager shall establish and improve a management system for related-party transactions, shall not use private fund property to conduct improper transactions or transfer benefits with related parties, and shall not conceal such conduct through multiple layers of nesting or other means.\nWhere a private fund manager uses private fund property to conduct transactions with itself, with investors, with other private funds it manages, with private funds managed by another private fund manager controlled by its actual controller, or with other entities having a major interest relationship with it, it shall follow the decision-making procedure stipulated in the fund contract and promptly provide the relevant information to investors and the private fund custodian."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Fund Raising and Investment Operations"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "A private fund manager shall, as required, engage an accounting firm to audit its private fund property, provide the audit results to investors and submit them to the registration and filing institution."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Fund Raising and Investment Operations"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "A private fund manager, a private fund custodian and their employees shall not commit any of the following acts:\n(a) commingling their own property or the property of others with private fund property;\n(b) using private fund property or taking advantage of their position to seek benefits for persons other than investors;\n(c) misappropriating or embezzling private fund property;\n(d) disclosing non-public information obtained by taking advantage of their position, or using such information to engage in, or to expressly or implicitly suggest that others engage in, the relevant securities or futures trading activities; or\n(e) other acts prohibited by laws, administrative regulations and the provisions of the securities regulatory authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Fund Raising and Investment Operations"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "In the course of raising funds and making investments, a private fund manager shall provide information to investors in accordance with the provisions of the securities regulatory authority of the State Council and the fund contract.\nWhere private fund property is held in custody, the private fund manager shall, in accordance with the provisions of the securities regulatory authority of the State Council and the custody agreement, promptly provide the private fund custodian with the basic information of investors, documents evidencing changes in the ownership of investment targets and other information."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Fund Raising and Investment Operations"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The information provided and submitted by a private fund manager, a private fund custodian and their employees shall be truthful, accurate and complete, and they shall not commit any of the following acts:\n(a) making false records, misleading statements or major omissions;\n(b) forecasting investment performance;\n(c) promising investors that the investment principal will not suffer loss or promising a minimum return; or\n(d) other acts prohibited by laws, administrative regulations and the provisions of the securities regulatory authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III Fund Raising and Investment Operations"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "A private fund manager, a private fund custodian and a private fund service institution shall, in accordance with the provisions of the securities regulatory authority of the State Council, submit to the registration and filing institution information such as information on the investment operations of private funds. The registration and filing institution shall prescribe the content and frequency of the information to be submitted according to the different types of private funds, and shall summarise and analyse the situation of the private fund industry and submit the relevant information on the private fund industry to the securities regulatory authority of the State Council.\nThe registration and filing institution shall strengthen risk early warning and, upon discovering the possible existence of a major risk, promptly take measures and report to the securities regulatory authority of the State Council.\nThe registration and filing institution shall keep confidential the information specified in paragraph 1 of this Article and shall not provide it externally, unless otherwise provided by laws or administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter III Fund Raising and Investment Operations"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Where a private fund is unable to operate normally or is terminated because the private fund manager cannot properly perform its duties or a major risk arises, another professional institution determined by the fund contract or by the relevant provisions shall exercise such powers as replacing the private fund manager, amending or terminating the fund contract early, and organising the liquidation of the private fund."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter III Fund Raising and Investment Operations"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "For the purposes of these Regulations, \"venture capital fund\" means a private fund that meets the following conditions:\n(a) its investment scope is limited to unlisted enterprises, except the untransferred portion of the shares held by the fund after the invested enterprise is listed and the portion allotted to it in the initial public offering;\n(b) the name of the fund contains the words \"venture capital fund\", or the business scope of the company or partnership contains the words \"engaging in venture capital activities\";\n(c) the fund contract reflects a venture capital strategy;\n(d) it does not use leveraged financing, unless otherwise provided by the State;\n(e) the minimum duration of the fund conforms to the relevant provisions of the State; and\n(f) other conditions prescribed by the State."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Special Provisions on Venture Capital Funds"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The State gives policy support to venture capital funds, encourages and guides them to invest in growth-stage and innovative start-up enterprises, and encourages long-term capital to invest in venture capital funds.\nThe development and reform department of the State Council shall be responsible for organising the formulation of policies and measures to promote the development of venture capital funds. The securities regulatory authority of the State Council and the development and reform department of the State Council shall establish and improve a mechanism for sharing information and support policies and shall strengthen coordination between supervisory policies and development policies for venture capital funds. The registration and filing institution shall promptly submit information relating to venture capital funds to the securities regulatory authority of the State Council and the development and reform department of the State Council.\nThe investments of venture capital funds enjoying State policy support shall conform to the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Special Provisions on Venture Capital Funds"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The securities regulatory authority of the State Council shall exercise differentiated supervision and administration over venture capital funds as distinct from other private funds:\n(a) optimising the business environment for venture capital funds and simplifying registration and filing procedures;\n(b) exercising differentiated supervision and administration over venture capital funds that raise funds lawfully, invest in compliance and operate in good faith in respect of fund raising, investment operations, risk monitoring and on-site inspection, and reducing the frequency of inspection; and\n(c) providing facilitation in respect of investment exit and other aspects for venture capital funds mainly engaged in long-term investment, value investment and the commercialisation of major scientific and technological achievements."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Special Provisions on Venture Capital Funds"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "The registration and filing institution shall exercise differentiated self-regulatory management over venture capital funds as distinct from other private funds in respect of registration and filing, changes of matters and other aspects."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Special Provisions on Venture Capital Funds"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The securities regulatory authority of the State Council shall exercise supervision and administration over business activities involving private funds and perform the following duties in accordance with law:\n(a) formulating rules and regulations on the supervision and administration of business activities involving private funds;\n(b) exercising supervision and administration over private fund managers, private fund custodians and other institutions engaging in business activities involving private funds, and investigating and dealing with unlawful acts;\n(c) guiding, inspecting and supervising registration and filing activities and self-regulatory management activities; and\n(d) other duties prescribed by laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "The securities regulatory authority of the State Council shall have the power to take the following measures when performing its duties in accordance with law:\n(a) to conduct on-site inspection of private fund managers, private fund custodians and private fund service institutions and require them to submit the relevant business materials;\n(b) to enter the premises where a suspected unlawful act has occurred to investigate and collect evidence;\n(c) to question the parties and the units and individuals relating to the matter under investigation and require them to explain matters relating to the matter under investigation;\n(d) to consult and copy materials relating to the matter under investigation such as property rights registration and communication records;\n(e) to consult and copy the securities trading records, registration and transfer records, financial and accounting materials and other relevant documents and materials of the parties and of the units and individuals relating to the matter under investigation, and to seal up documents and materials that may be transferred, concealed or destroyed;\n(f) to inquire, in accordance with law, into the account information of the parties and of the units and individuals relating to the matter under investigation; and\n(g) other measures prescribed by laws and administrative regulations.\nIn order to prevent private fund risks and maintain market order, the securities regulatory authority of the State Council may take such measures as ordering correction, conducting regulatory talks and issuing warning letters."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "When the securities regulatory authority of the State Council conducts supervision and inspection or investigation in accordance with law, there shall be not fewer than two supervision and inspection or investigation personnel, and they shall produce their law enforcement credentials and the notice of supervision and inspection or investigation or other law enforcement documents. They shall be obliged to keep confidential, in accordance with law, the trade secrets and personal privacy learned in the course of supervision and inspection or investigation.\nThe units and individuals under inspection or investigation shall cooperate with the supervision and inspection or investigation conducted by the securities regulatory authority of the State Council in accordance with law, truthfully provide the relevant documents and materials, and shall not refuse, obstruct or conceal."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where the securities regulatory authority of the State Council finds that a private fund manager has violated laws or regulations, or that its internal governance structure and risk control management do not conform to the provisions, it shall order correction within a specified period; where correction is not made within the specified period, or where the conduct seriously endangers the sound operation of the private fund manager or harms the lawful rights and interests of investors, the securities regulatory authority of the State Council may, according to the circumstances, take the following measures against it:\n(a) ordering the suspension of part or all of its business;\n(b) ordering the replacement of its directors, supervisors, senior managers, executing partner or appointed representative, or restricting their powers;\n(c) ordering the shareholders bearing responsibility to transfer their equity or the partners bearing responsibility to transfer their property shares, and restricting the exercise of rights by the shareholders or partners bearing responsibility; and\n(d) ordering the private fund manager to engage or designate a third-party institution to audit the private fund property, with the related expenses borne by the private fund manager.\nWhere a private fund manager operates unlawfully or a major risk arises, seriously endangering market order and harming the interests of investors, the securities regulatory authority of the State Council may, in addition to the measures specified in the preceding paragraph, take measures against the private fund manager such as designating another institution to take it over and notifying the registration and filing institution to cancel its registration."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "The securities regulatory authority of the State Council shall record the integrity information of private fund managers, private fund custodians, private fund service institutions and their employees in the capital market integrity database and the national credit information sharing platform. The securities regulatory authority of the State Council shall, together with the relevant departments of the State Council, establish and improve in accordance with law a system of joint disciplinary action against dishonest private fund managers and the responsible entities concerned.\nThe securities regulatory authority of the State Council shall, together with other financial regulatory authorities and other relevant departments of the State Council and the people's governments of provinces, autonomous regions and municipalities directly under the Central Government, establish mechanisms for sharing private fund supervision and administration information, for submitting statistical data and for cooperating in risk resolution. In the course of resolving risks, the local people's governments concerned shall take effective measures to maintain social stability.\nLegal Liability"
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where a person carries out investment activities using the words \"fund\" or \"fund management\" or a similar name without undergoing registration formalities in accordance with Article 10 of these Regulations, it shall be ordered to correct, its illegal income shall be confiscated, and a fine of not less than one time but not more than five times the illegal income shall be imposed; where there is no illegal income or the illegal income is less than RMB 1,000,000, a fine of not less than RMB 100,000 but not more than RMB 1,000,000 shall be imposed. A warning shall be given to the directly responsible persons in charge and other directly responsible persons, and a fine of not less than RMB 30,000 but not more than RMB 300,000 shall be imposed on them."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where the shareholders, actual controller or partners of a private fund manager violate Article 12 of these Regulations, they shall be ordered to correct, given a warning or criticised in a circular, their illegal income shall be confiscated, and a fine of not less than one time but not more than five times the illegal income shall be imposed; where there is no illegal income or the illegal income is less than RMB 1,000,000, a fine of not less than RMB 100,000 but not more than RMB 1,000,000 shall be imposed. A warning shall be given or criticism in a circular made of the directly responsible persons in charge and other directly responsible persons, and a fine of not less than RMB 30,000 but not more than RMB 300,000 shall be imposed on them."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where a private fund manager violates Article 13 of these Regulations, it shall be ordered to correct; where it refuses to correct, it shall be given a warning or criticised in a circular, a fine of not less than RMB 100,000 but not more than RMB 1,000,000 shall be imposed, and it shall be ordered to stop its private fund business activities and a public announcement shall be made. A warning shall be given or criticism in a circular made of the directly responsible persons in charge and other directly responsible persons, and a fine of not less than RMB 30,000 but not more than RMB 300,000 shall be imposed on them."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where, in violation of paragraph 2 of Article 16 of these Regulations, a private fund custodian fails to establish a business segregation mechanism, it shall be ordered to correct, given a warning or criticised in a circular, and a fine of not less than RMB 50,000 but not more than RMB 500,000 shall be imposed. A warning shall be given or criticism in a circular made of the directly responsible persons in charge and other directly responsible persons, and a fine of not less than RMB 30,000 but not more than RMB 300,000 shall be imposed on them."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where the provisions of Articles 17, 18 and 20 of these Regulations on the management of qualified investors of private funds and on the manner of raising funds are violated, the illegal income shall be confiscated and a fine of not less than one time but not more than five times the illegal income shall be imposed; where there is no illegal income or the illegal income is less than RMB 1,000,000, a fine of not less than RMB 100,000 but not more than RMB 1,000,000 shall be imposed. A warning shall be given to the directly responsible persons in charge and other directly responsible persons, and a fine of not less than RMB 30,000 but not more than RMB 300,000 shall be imposed on them."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where, in violation of Article 19 of these Regulations, a person fails to fully disclose investment risks to investors and misleads them into investing in private fund products that do not match their capacity to identify and bear risks, a warning shall be given or criticism in a circular made, and a fine of not less than RMB 100,000 but not more than RMB 300,000 shall be imposed; where the circumstances are serious, the person shall be ordered to stop its private fund business activities and a public announcement shall be made. A warning shall be given or criticism in a circular made of the directly responsible persons in charge and other directly responsible persons, and a fine of not less than RMB 30,000 but not more than RMB 100,000 shall be imposed on them."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where, in violation of paragraph 1 of Article 22 of these Regulations, a private fund manager fails to complete the filing of a private fund whose raising has been completed, a fine of not less than RMB 100,000 but not more than RMB 300,000 shall be imposed. A warning shall be given to the directly responsible persons in charge and other directly responsible persons, and a fine of not less than RMB 30,000 but not more than RMB 100,000 shall be imposed on them."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where, in violation of paragraph 2 of Article 24 of these Regulations, private fund property is used to operate, or to operate in disguised form, the business of inter-enterprise lending, loans and the like, or a local people's government is required to undertake to repurchase the principal, the person shall be ordered to correct, given a warning or criticised in a circular, the illegal income shall be confiscated, and a fine of not less than RMB 100,000 but not more than RMB 1,000,000 shall be imposed. A warning shall be given or criticism in a circular made of the directly responsible persons in charge and other directly responsible persons, and a fine of not less than RMB 30,000 but not more than RMB 300,000 shall be imposed on them."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where, in violation of Article 26 of these Regulations, a private fund manager fails to employ senior managers with the corresponding professional experience to be responsible for investment management, risk control, compliance and other work, or fails to establish management systems for the declaration, registration, examination and handling of investments by its employees, it shall be ordered to correct, given a warning or criticised in a circular, and a fine of not less than RMB 100,000 but not more than RMB 1,000,000 shall be imposed. A warning shall be given or criticism in a circular made of the directly responsible persons in charge and other directly responsible persons, and a fine of not less than RMB 30,000 but not more than RMB 300,000 shall be imposed on them."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where, in violation of Article 27 of these Regulations, a private fund manager entrusts others to exercise its investment management duties, or entrusts an institution that does not conform to the provisions of the Securities Investment Fund Law to provide securities investment advisory services, it shall be ordered to correct, given a warning or criticised in a circular, the illegal income shall be confiscated, and a fine of not less than RMB 100,000 but not more than RMB 1,000,000 shall be imposed. A warning shall be given or criticism in a circular made of the directly responsible persons in charge and other directly responsible persons, and a fine of not less than RMB 30,000 but not more than RMB 300,000 shall be imposed on them."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where, in violation of Article 28 of these Regulations, a private fund manager engages in related-party transactions, it shall be ordered to correct, given a warning or criticised in a circular, the illegal income shall be confiscated, and a fine of not less than RMB 100,000 but not more than RMB 1,000,000 shall be imposed. A warning shall be given or criticism in a circular made of the directly responsible persons in charge and other directly responsible persons, and a fine of not less than RMB 30,000 but not more than RMB 300,000 shall be imposed on them."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where a private fund manager, a private fund custodian or their employees commit any of the acts listed in Article 30 of these Regulations, they shall be ordered to correct, given a warning or criticised in a circular, the illegal income shall be confiscated, and a fine of not less than one time but not more than five times the illegal income shall be imposed; where there is no illegal income or the illegal income is less than RMB 1,000,000, a fine of not less than RMB 100,000 but not more than RMB 1,000,000 shall be imposed. A warning shall be given or criticism in a circular made of the directly responsible persons in charge and other directly responsible persons, and a fine of not less than RMB 30,000 but not more than RMB 300,000 shall be imposed on them."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where a private fund manager, a private fund custodian or their employees fail to provide or submit the relevant information in accordance with these Regulations, or commit any of the acts listed in Article 32 of these Regulations, they shall be ordered to correct, given a warning or criticised in a circular, the illegal income shall be confiscated, and a fine of not less than RMB 100,000 but not more than RMB 1,000,000 shall be imposed. A warning shall be given or criticism in a circular made of the directly responsible persons in charge and other directly responsible persons, and a fine of not less than RMB 30,000 but not more than RMB 300,000 shall be imposed on them."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where a private fund service institution or its employees violate the provisions of laws or administrative regulations and fail to perform their duties diligently and with due care, they shall be ordered to correct, given a warning or criticised in a circular, and a fine of not less than RMB 100,000 but not more than RMB 300,000 shall be imposed; where the circumstances are serious, the institution shall be ordered to stop its private fund service business. A warning shall be given or criticism in a circular made of the directly responsible persons in charge and other directly responsible persons, and a fine of not less than RMB 30,000 but not more than RMB 100,000 shall be imposed on them."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where a private fund manager, a private fund custodian, a private fund service institution or their employees violate these Regulations or the relevant provisions of the securities regulatory authority of the State Council and the circumstances are serious, the securities regulatory authority of the State Council may impose a securities and futures market ban on the responsible persons concerned.\nWhere any person refuses or obstructs the securities regulatory authority of the State Council or its staff in exercising their supervision, inspection or investigation powers in accordance with law, the securities regulatory authority of the State Council shall order correction and impose a fine of not less than RMB 100,000 but not more than RMB 1,000,000; where the act constitutes a violation of public security administration, the public security organ shall impose a public security administrative penalty in accordance with law; and where a crime is constituted, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where staff members of the securities regulatory authority of the State Council or of the registration and filing institution neglect their duties, abuse their powers, engage in malpractices for personal gain, or take advantage of their position to demand or accept property from others, sanctions shall be imposed in accordance with law; where a crime is constituted, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Where a person is required in accordance with law to bear civil compensation liability and to pay a fine or have illegal income confiscated for violating these Regulations or the fund contract, and the person's property is insufficient to satisfy all of these at the same time, the civil compensation liability shall be borne first."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "The measures for the administration of private fund managers with foreign investment shall be formulated by the securities regulatory authority of the State Council together with the relevant departments of the State Council in accordance with the laws and administrative regulations on foreign investment and these Regulations.\nOverseas institutions shall not directly raise funds from domestic investors to establish private funds, unless otherwise provided by the State.\nWhere a private fund manager carries out private fund business activities overseas, it shall conform to the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "These Regulations shall come into force on 1 September 2023."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
         }
       }
     ]

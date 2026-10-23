@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p20
-   法规 32 部 / 译文 1264 条
+   法规 33 部 / 译文 1328 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -5220,6 +5220,765 @@
         },
         "noLabel": {
           "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0601'] = {
+    "lawId": "CN-REG-0601",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 64 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the Education Law of the People's Republic of China, the Vocational Education Law of the People's Republic of China and the Law of the People's Republic of China on the Promotion of Privately-Run Education for the purpose of regulating Chinese-foreign cooperation in running schools, strengthening international exchanges and cooperation in education and promoting the development of education."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "These Regulations apply to activities in which foreign educational institutions cooperate with Chinese educational institutions (hereinafter referred to as Chinese-foreign cooperators in running schools) to establish educational institutions within the territory of China that mainly enrol Chinese citizens (hereinafter referred to as Chinese-foreign cooperatively-run schools)."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Chinese-foreign cooperation in running schools is a public-interest undertaking and a component of China's education system.\nThe State shall implement the policy of expanding opening up, standardising the running of schools, administering in accordance with law and promoting development in respect of Chinese-foreign cooperation in running schools.\nThe State encourages Chinese-foreign cooperation in running schools that introduces high-quality foreign educational resources.\nThe State encourages Chinese-foreign cooperation in running schools in the fields of higher education and vocational education, and encourages Chinese institutions of higher education to cooperate with well-known foreign institutions of higher education in running schools."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The lawful rights and interests of Chinese-foreign cooperators in running schools and of Chinese-foreign cooperatively-run schools shall be protected by Chinese law.\nChinese-foreign cooperatively-run schools shall enjoy the preferential policies prescribed by the State in accordance with law and shall independently carry out education and teaching activities in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Chinese-foreign cooperation in running schools shall comply with Chinese law, implement China's education policy, conform to China's public morals and shall not harm China's national sovereignty, security or public interest.\nChinese-foreign cooperation in running schools shall meet the needs of the development of China's education system, ensure the quality of education and teaching, and be devoted to training talents of all kinds for China's socialist construction."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Chinese-foreign cooperators in running schools may cooperate to establish educational institutions at all levels and of all types. However, they shall not establish institutions implementing compulsory education or institutions implementing education of a special nature such as military, police or political education."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Foreign religious organisations, religious institutions, religious colleges and religious personnel shall not engage in activities of cooperation in running schools within the territory of China.\nChinese-foreign cooperatively-run schools shall not conduct religious education or carry out religious activities."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The education administrative department of the State Council shall be responsible for the overall planning, comprehensive coordination and macro-management of Chinese-foreign cooperation in running schools throughout the country. The education administrative department, the labour administrative department and other relevant administrative departments of the State Council shall, within the scope of their duties prescribed by the State Council, be responsible for the relevant work of Chinese-foreign cooperation in running schools.\nThe education administrative departments of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall be responsible for the overall planning, comprehensive coordination and macro-management of Chinese-foreign cooperation in running schools within their administrative areas. The education administrative departments, labour administrative departments and other relevant administrative departments of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall, within the scope of their duties, be responsible for the relevant work of Chinese-foreign cooperation in running schools within their administrative areas."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Educational institutions applying to establish Chinese-foreign cooperatively-run schools shall have the status of a legal person."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Chinese-foreign cooperators in running schools may make inputs in the form of funds, physical objects, land use rights, intellectual property and other property.\nThe intellectual property input of each Chinese-foreign cooperator in running a school shall not exceed one third of its respective total input. However, the intellectual property input of a foreign educational institution invited by the education administrative department or the labour administrative department of the State Council or by the people's government of a province, autonomous region or municipality directly under the Central Government to come to China to cooperate in running a school may exceed one third of its input."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "A Chinese-foreign cooperatively-run school shall meet the basic conditions prescribed by the Education Law of the People's Republic of China, the Vocational Education Law of the People's Republic of China, the Higher Education Law of the People's Republic of China and other laws and the relevant administrative regulations, and shall have the status of a legal person. However, a Chinese-foreign cooperatively-run school established by a foreign educational institution together with a Chinese institution of higher learning implementing academic qualification education to provide higher education may not have the status of a legal person.\nThe establishment of a Chinese-foreign cooperatively-run school shall be carried out by reference to the establishment standards for State-run educational institutions at the same level and of the same type."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "An application to establish a Chinese-foreign cooperatively-run school providing higher academic qualification education at the undergraduate level or above shall be examined and approved by the education administrative department of the State Council; an application to establish a Chinese-foreign cooperatively-run school providing higher specialised education and non-academic higher education shall be examined and approved by the people's government of the province, autonomous region or municipality directly under the Central Government at the place where the school to be established is located.\nAn application to establish a Chinese-foreign cooperatively-run school providing secondary academic qualification education and assistance in self-study examinations, cultural supplementary education and pre-school education shall be examined and approved by the education administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government at the place where the school to be established is located.\nAn application to establish a Chinese-foreign cooperatively-run school providing vocational skill training shall be examined and approved by the labour administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government at the place where the school to be established is located."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The establishment of a Chinese-foreign cooperatively-run school shall consist of two stages: preparation for establishment and formal establishment. However, where the conditions for running a school are met and the establishment standards are reached, an application for formal establishment may be made directly."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "An application for preparation for the establishment of a Chinese-foreign cooperatively-run school shall be accompanied by the following documents:\n(a) a report on the application, which shall mainly cover: the Chinese-foreign cooperators in running the school, the name of the Chinese-foreign cooperatively-run school to be established, the training objectives, the scale of the school, the level of the school, the form of the school, the conditions for running the school, the internal management system, and the raising, management and use of funds;\n(b) a cooperation agreement, which shall cover: the term of cooperation, the method of dispute resolution and the like;\n(c) the sources of assets, the amount of funds and valid supporting documents, stating the property rights;\n(d) for school property in the nature of a donation, a donation agreement stating the names of the donors, the amounts of the donated assets, the purposes and management measures and the relevant valid supporting documents; and\n(e) proof that start-up funds of not less than 15 per cent of the capital input of the Chinese-foreign cooperators in running the school have been paid in."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where an application is made for preparation for the establishment of a Chinese-foreign cooperatively-run school, the examining and approving authority shall, within 45 working days from the date of acceptance of the application, make a decision on whether to approve. Where approval is granted, a written approval for preparation for establishment shall be issued; where approval is not granted, the reasons shall be stated in writing."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where preparation for the establishment of a Chinese-foreign cooperatively-run school has been approved, an application for formal establishment shall be submitted within three years from the date of approval; where more than three years have elapsed, the Chinese-foreign cooperators in running the school shall file a new application.\nNo students shall be enrolled during the period of preparation for establishment."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Where formal establishment is applied for after completion of the preparation for establishment, the following documents shall be submitted:\n(a) a written application for formal establishment;\n(b) the written approval for preparation for establishment;\n(c) a report on the preparation for establishment;\n(d) the articles of association of the Chinese-foreign cooperatively-run school and the list of members of the first council, board of directors or joint management committee;\n(e) valid supporting documents on the assets of the Chinese-foreign cooperatively-run school; and\n(f) documents certifying the qualifications of the president or principal administrative officer, teachers and accounting personnel.\nWhere formal establishment of a Chinese-foreign cooperatively-run school is applied for directly, the documents listed in items (a), (d), (e) and (f) of the preceding paragraph and in items (b), (c) and (d) of Article 14 shall be submitted."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where an application is made for the formal establishment of a Chinese-foreign cooperatively-run school providing non-academic education, the examining and approving authority shall, within three months from the date of acceptance of the application, make a decision on whether to approve; where an application is made for the formal establishment of a Chinese-foreign cooperatively-run school providing academic qualification education, the examining and approving authority shall, within six months from the date of acceptance of the application, make a decision on whether to approve. Where approval is granted, a Chinese-foreign cooperatively-run school licence in a uniform format and with a uniform number shall be issued; where approval is not granted, the reasons shall be stated in writing.\nThe format of the Chinese-foreign cooperatively-run school licence shall be formulated by the education administrative department of the State Council and shall be printed respectively by the education administrative department and the labour administrative department of the State Council according to the division of duties; the Chinese-foreign cooperatively-run school licence shall be uniformly numbered by the education administrative department of the State Council, and the specific measures shall be determined by the education administrative department of the State Council together with the labour administrative department."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Where an application is made for the formal establishment of a Chinese-foreign cooperatively-run school providing academic qualification education, the examining and approving authority shall, after accepting the application, organise an expert committee for deliberation, and the expert committee shall put forward advisory opinions."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "After obtaining a Chinese-foreign cooperatively-run school licence, a Chinese-foreign cooperatively-run school shall register in accordance with the relevant laws and administrative regulations, and the registration authority shall handle the matter immediately in accordance with the relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "A Chinese-foreign cooperatively-run school with the status of a legal person shall establish a council or a board of directors, and a Chinese-foreign cooperatively-run school without the status of a legal person shall establish a joint management committee. The Chinese members of the council, board of directors or joint management committee shall not be less than one half of the members.\nThe council, board of directors or joint management committee shall consist of five or more members and shall have one chairman and one vice-chairman, one chairman of the board and one vice-chairman of the board, or one director and one deputy director respectively. Where one Chinese-foreign cooperator in running the school serves as the chairman of the council, chairman of the board or director, the other party shall serve as the vice-chairman of the council, vice-chairman of the board or deputy director.\nThe legal representative of a Chinese-foreign cooperatively-run school with the status of a legal person shall be determined, through consultation between the Chinese-foreign cooperators in running the school, from among the chairman of the council, the chairman of the board or the president."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Organisation and Management"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The council, board of directors or joint management committee of a Chinese-foreign cooperatively-run school shall consist of representatives of the Chinese-foreign cooperators in running the school, the president or principal administrative officer, representatives of the teaching and administrative staff and others, and not less than one third of the members shall have five years or more of experience in education and teaching.\nThe list of members of the council, board of directors or joint management committee of a Chinese-foreign cooperatively-run school shall be reported to the examining and approving authority for the record."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Organisation and Management"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The council, board of directors or joint management committee of a Chinese-foreign cooperatively-run school shall exercise the following functions and powers:\n(a) to re-elect or by-elect the members of the council, board of directors or joint management committee;\n(b) to appoint and dismiss the president or principal administrative officer;\n(c) to amend the articles of association and formulate rules and regulations;\n(d) to formulate development plans and approve annual work plans;\n(e) to raise funds for running the school and examine budgets and final accounts;\n(f) to decide the staffing quota and wage standards of the teaching and administrative staff;\n(g) to decide on the split-up, merger and termination of the Chinese-foreign cooperatively-run school; and\n(h) other functions and powers prescribed by the articles of association."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Organisation and Management"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The council, board of directors or joint management committee of a Chinese-foreign cooperatively-run school shall meet at least once a year. Upon the proposal of one third or more of its members, an interim meeting of the council, board of directors or joint management committee may be convened.\nThe following major matters discussed by the council, board of directors or joint management committee of a Chinese-foreign cooperatively-run school may be adopted only with the consent of two thirds or more of its members:\n(a) the appointment and dismissal of the president or principal administrative officer;\n(b) the amendment of the articles of association;\n(c) the formulation of development plans;\n(d) the decision on the split-up, merger and termination of the Chinese-foreign cooperatively-run school; and\n(e) other major matters prescribed by the articles of association."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Organisation and Management"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The president or principal administrative officer of a Chinese-foreign cooperatively-run school shall have Chinese nationality, reside within the territory of China, love the motherland, have good moral conduct, have experience in education and teaching, and possess the corresponding professional level."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Organisation and Management"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The president or principal administrative officer of a Chinese-foreign cooperatively-run school shall exercise the following functions and powers:\n(a) to implement the decisions of the council, board of directors or joint management committee;\n(b) to implement development plans and draft annual work plans, financial budgets and rules and regulations;\n(c) to appoint and dismiss working personnel and implement rewards and penalties;\n(d) to organise education, teaching and scientific research activities and ensure the quality of education and teaching;\n(e) to be responsible for routine management work; and\n(f) other functions and powers prescribed by the articles of association."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Organisation and Management"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Chinese-foreign cooperatively-run schools shall administer teachers and students in accordance with law.\nForeign teachers and foreign management personnel employed by Chinese-foreign cooperatively-run schools shall have a bachelor's degree or above and the corresponding professional certificates, and shall have two years or more of experience in education and teaching.\nForeign cooperators in running schools shall select and send a certain number of teachers from their own educational institutions to teach in the Chinese-foreign cooperatively-run schools."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Organisation and Management"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Chinese-foreign cooperatively-run schools shall safeguard the lawful rights and interests of teachers and students in accordance with law, guarantee the wages and welfare benefits of the teaching and administrative staff and pay social insurance premiums for the teaching and administrative staff.\nThe teaching and administrative staff of Chinese-foreign cooperatively-run schools shall establish trade unions and other organisations in accordance with law and, through the congress of teaching and administrative staff and other forms, participate in the democratic management of the Chinese-foreign cooperatively-run schools."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Organisation and Management"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Foreign personnel of Chinese-foreign cooperatively-run schools shall comply with the relevant provisions on the employment of foreigners in China."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Organisation and Management"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Chinese-foreign cooperatively-run schools shall, in accordance with China's requirements for educational institutions at the same level and of the same type, offer courses on the Constitution, laws, civic morality, national conditions and the like.\nThe State encourages Chinese-foreign cooperatively-run schools to introduce curricula and teaching materials that are urgently needed in China and that are advanced by international standards.\nChinese-foreign cooperatively-run schools shall report the curricula offered and the teaching materials introduced to the examining and approving authority for the record."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Education and Teaching"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Chinese-foreign cooperatively-run schools may, as required, use foreign languages in teaching, but shall use Putonghua and standard Chinese characters as the basic teaching language and script."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Education and Teaching"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The enrolment of students by Chinese-foreign cooperatively-run schools providing higher academic qualification education shall be incorporated into the national enrolment plan for institutions of higher learning. The enrolment of students by Chinese-foreign cooperatively-run schools providing other academic qualification education shall be carried out in accordance with the provisions of the education administrative departments of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government.\nThe enrolment of overseas students by Chinese-foreign cooperatively-run schools shall be carried out in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Education and Teaching"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The enrolment brochures and advertisements of Chinese-foreign cooperatively-run schools shall be reported to the examining and approving authority for the record.\nChinese-foreign cooperatively-run schools shall periodically make public to society the relevant circumstances such as the type and level of the school, the programmes offered, the course content and the scale of enrolment."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Education and Teaching"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Chinese-foreign cooperatively-run schools providing academic qualification education shall issue academic qualification certificates or other academic certificates in accordance with the relevant provisions of the State; those providing non-academic education shall issue training certificates or certificates of completion in accordance with the relevant provisions of the State. For students receiving vocational skill training, where they pass the appraisal of a vocational skill appraisal institution approved by the government, the corresponding national vocational qualification certificate may be issued in accordance with the relevant provisions of the State.\nChinese-foreign cooperatively-run schools providing higher academic qualification education may issue the corresponding Chinese degree certificates in accordance with the relevant provisions of the State.\nThe academic qualification and degree certificates of foreign educational institutions issued by Chinese-foreign cooperatively-run schools shall be identical to the academic qualification and degree certificates issued by that educational institution in its home country and shall be recognised in that country.\nChina's recognition of the academic qualification and degree certificates of foreign educational institutions issued by Chinese-foreign cooperatively-run schools shall be handled in accordance with the international treaties concluded or acceded to by the People's Republic of China or in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Education and Teaching"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The education administrative department of the State Council or the education administrative departments of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government and the labour administrative departments and other relevant administrative departments shall strengthen routine supervision over Chinese-foreign cooperatively-run schools, organise or entrust social intermediary organisations to assess the level of school operation and the quality of education of Chinese-foreign cooperatively-run schools, and make the assessment results public."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Education and Teaching"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Chinese-foreign cooperatively-run schools shall establish and improve financial, accounting and asset management systems in accordance with law and shall set up accounting books in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter V Assets and Finance"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "During the existence of a Chinese-foreign cooperatively-run school, all its assets shall be subject to the property rights of the legal person enjoyed by the school in accordance with law, and no organisation or individual may misappropriate them."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter V Assets and Finance"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "The fee items and standards of Chinese-foreign cooperatively-run schools shall be determined and published in accordance with the State provisions on government pricing; without approval, no items may be added or standards raised.\nChinese-foreign cooperatively-run schools shall charge tuition and other fees in Renminbi and shall not charge tuition and other fees in foreign exchange."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V Assets and Finance"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The fees charged by Chinese-foreign cooperatively-run schools shall be mainly used for education and teaching activities and for improving the conditions for running the school."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V Assets and Finance"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "The foreign exchange revenue and expenditure activities of Chinese-foreign cooperatively-run schools and the opening and use of foreign exchange accounts shall comply with the State provisions on foreign exchange administration."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter V Assets and Finance"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Chinese-foreign cooperatively-run schools shall prepare financial and accounting reports at the end of each accounting year, entrust social audit institutions to conduct audits in accordance with law, make the audit results public and report them to the examining and approving authority for the record."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter V Assets and Finance"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The split-up or merger of a Chinese-foreign cooperatively-run school shall, after financial liquidation, be reported by the council, board of directors or joint management committee of the school to the examining and approving authority for approval.\nWhere an application is made for the split-up or merger of a Chinese-foreign cooperatively-run school providing non-academic education, the examining and approving authority shall reply in writing within three months from the date of acceptance of the application; where an application is made for the split-up or merger of a Chinese-foreign cooperatively-run school providing academic qualification education, the examining and approving authority shall reply in writing within six months from the date of acceptance of the application."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VI Change and Termination"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "A change in the cooperators in running a Chinese-foreign cooperatively-run school shall be proposed by the cooperators in running the school and, after financial liquidation and with the consent of the council, board of directors or joint management committee of the school, be reported to the examining and approving authority for verification and approval, and the corresponding formalities for change shall be completed.\nA change in the domicile or legal representative of a Chinese-foreign cooperatively-run school shall be subject to verification and approval by the examining and approving authority, and the corresponding formalities for change shall be completed. A change in the president or principal administrative officer of a Chinese-foreign cooperatively-run school shall be subject to timely completion of the formalities for change."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VI Change and Termination"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "A change in the name, level or category of a Chinese-foreign cooperatively-run school shall be reported by the council, board of directors or joint management committee of the school to the examining and approving authority for approval.\nWhere an application is made to change into a Chinese-foreign cooperatively-run school providing non-academic education, the examining and approving authority shall reply in writing within three months from the date of acceptance of the application; where an application is made to change into a Chinese-foreign cooperatively-run school providing academic qualification education, the examining and approving authority shall reply in writing within six months from the date of acceptance of the application."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VI Change and Termination"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "A Chinese-foreign cooperatively-run school shall terminate under any of the following circumstances:\n(a) termination is required in accordance with the provisions of the articles of association and has been approved by the examining and approving authority;\n(b) its Chinese-foreign cooperatively-run school licence has been revoked; or\n(c) it is unable to continue running the school because its assets are insufficient to cover its debts, and this has been approved by the examining and approving authority.\nWhere a Chinese-foreign cooperatively-run school terminates, the students enrolled shall be properly placed; where a Chinese-foreign cooperatively-run school applies for termination, it shall at the same time submit a plan for properly placing the students enrolled."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VI Change and Termination"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where a Chinese-foreign cooperatively-run school terminates, financial liquidation shall be carried out in accordance with law.\nWhere a Chinese-foreign cooperatively-run school requests termination on its own, the Chinese-foreign cooperatively-run school shall organise the liquidation; where it is revoked in accordance with law by the examining and approving authority, the examining and approving authority shall organise the liquidation; where it is terminated because its assets are insufficient to cover its debts and it is unable to continue running the school, a request shall be made to the people's court in accordance with law to organise the liquidation."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VI Change and Termination"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "In the liquidation of a Chinese-foreign cooperatively-run school, the following order of repayment shall be followed:\n(a) tuition and other fees that should be refunded to students;\n(b) wages that should be paid to the teaching and administrative staff and social insurance premiums that should be paid; and\n(c) other debts that should be repaid.\nThe remaining property of a Chinese-foreign cooperatively-run school after repayment of the above debts shall be dealt with in accordance with the provisions of the relevant laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VI Change and Termination"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where a Chinese-foreign cooperatively-run school terminates upon approval or has its Chinese-foreign cooperatively-run school licence revoked, it shall return the Chinese-foreign cooperatively-run school licence and its seal to the examining and approving authority and complete cancellation registration in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VI Change and Termination"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where a Chinese-foreign cooperation in running schools examining and approving authority or its staff members take advantage of their position to accept property from others or obtain other benefits, abuse their powers, neglect their duties, issue a Chinese-foreign cooperatively-run school licence to persons not meeting the conditions prescribed by these Regulations, or fail to investigate and deal with unlawful acts discovered, thereby causing serious consequences and violating the criminal law, criminal liability shall be investigated in accordance with law pursuant to the provisions of the Criminal Law on the crime of accepting bribes, the crime of abuse of power, the crime of dereliction of duty or other crimes; where the case is not serious enough for criminal punishment, an administrative sanction shall be imposed in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where, in violation of these Regulations, a Chinese-foreign cooperatively-run school is examined and approved beyond the limits of authority, the approval document shall be invalid and the authority at the higher level shall order correction; an administrative sanction shall be imposed in accordance with law on the responsible persons in charge and other directly responsible persons; and where this causes major losses to public property and to the interests of the State and the people, criminal liability shall be investigated in accordance with law pursuant to the provisions of the Criminal Law on the crime of abuse of power or other crimes."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where, in violation of these Regulations, anyone establishes a Chinese-foreign cooperatively-run school without authorisation and without approval, or obtains a Chinese-foreign cooperatively-run school licence by improper means, the education administrative department or the labour administrative department shall, according to the division of duties, ban it, or ban it together with the public security organ, order the refund of the fees collected from students and impose a fine of not more than RMB 100,000; where the criminal law is violated, criminal liability shall be investigated in accordance with law pursuant to the provisions of the Criminal Law on the crime of fraud or other crimes."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where, in violation of these Regulations, students are enrolled during the period of preparation for the establishment of a Chinese-foreign cooperatively-run school, the education administrative department or the labour administrative department shall, according to the division of duties, order the cessation of enrolment, order the refund of the fees collected from students and impose a fine of not more than RMB 100,000; where the circumstances are serious and the school refuses to cease enrolment, the examining and approving authority shall revoke the written approval for preparation for establishment."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where a Chinese-foreign cooperator in running a school makes false capital contributions or withdraws capital contributions after the establishment of the Chinese-foreign cooperatively-run school, the education administrative department or the labour administrative department shall, according to the division of duties, order correction within a specified period; where correction is not made within the specified period, the education administrative department or the labour administrative department shall, according to the division of duties, impose a fine of not more than two times the amount of the false or withdrawn capital contributions."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Whoever forges, alters or buys or sells a Chinese-foreign cooperatively-run school licence shall be investigated for criminal liability in accordance with law pursuant to the provisions of the Criminal Law on the crime of forging, altering or buying or selling certificates of State organs or other crimes."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where, without approval, a Chinese-foreign cooperatively-run school adds fee items or raises fee standards, the education administrative department or the labour administrative department shall, according to the division of duties, order the refund of the fees overcharged, and the market supervision and administration department shall impose a penalty in accordance with the provisions of the relevant laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where a Chinese-foreign cooperatively-run school is poorly managed and its education and teaching quality is low, causing a bad influence, the education administrative department or the labour administrative department shall, according to the division of duties, order rectification within a specified period and make a public announcement; where the circumstances are serious, rectification is not carried out within the specified period, or the requirements are still not met after rectification, the education administrative department or the labour administrative department shall, according to the division of duties, order the cessation of enrolment and revoke the Chinese-foreign cooperatively-run school licence."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where, in violation of these Regulations, anyone publishes a false enrolment brochure to defraud money, the education administrative department or the labour administrative department shall, according to the division of duties, order correction within a specified period and give a warning; where there is illegal income, the fees collected shall be refunded and the illegal income confiscated, and a fine of not more than RMB 100,000 may be imposed; where the circumstances are serious, the school shall be ordered to cease enrolment and its Chinese-foreign cooperatively-run school licence shall be revoked; and where a crime is constituted, criminal liability shall be investigated in accordance with law pursuant to the provisions of the Criminal Law on the crime of fraud or other crimes.\nWhere a Chinese-foreign cooperatively-run school publishes false enrolment advertisements, its legal liability shall be pursued in accordance with the relevant provisions of the Advertisement Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where a Chinese-foreign cooperatively-run school is subjected to the administrative penalty of revocation of its Chinese-foreign cooperatively-run school licence, its chairman of the council or chairman of the board, and its president or principal administrative officer shall not serve as the chairman of the council or chairman of the board, or the president or principal administrative officer, of any Chinese-foreign cooperatively-run school within 10 years from the date of revocation of the licence.\nWhoever, in violation of these Regulations, violates the criminal law and is investigated for criminal liability in accordance with law shall not engage in Chinese-foreign cooperation in running schools within 10 years from the date of expiry of the execution of the criminal punishment."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where educational institutions of the Hong Kong Special Administrative Region, the Macao Special Administrative Region and the Taiwan region of China cooperate with educational institutions of the mainland in running schools, the provisions of these Regulations shall apply by reference."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "The measures for the administration of for-profit Chinese-foreign cooperatively-run training institutions registered with the market supervision and administration departments shall be separately prescribed by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "The specific examination and approval and administration measures for cooperative school-running projects in which foreign educational institutions cooperate with Chinese educational institutions within the territory of China to provide academic qualification education and assistance in self-study examinations, cultural supplementary education and pre-school education mainly for Chinese citizens shall be formulated by the education administrative department of the State Council.\nThe specific examination and approval and administration measures for cooperative school-running projects in which foreign educational institutions cooperate with Chinese educational institutions within the territory of China to provide vocational skill training mainly for Chinese citizens shall be formulated by the labour administrative department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Foreign educational institutions, other organisations or individuals shall not separately establish schools or other educational institutions within the territory of China that mainly enrol Chinese citizens."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Chinese-foreign cooperatively-run schools lawfully established before these Regulations came into force shall complete the supplementary formalities for the Chinese-foreign cooperatively-run school licence prescribed by these Regulations. Among them, those not fully meeting the conditions prescribed by these Regulations shall meet those conditions within two years from the date these Regulations come into force; where the conditions prescribed by these Regulations are not met within that period, the examining and approving authority shall revoke them."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "These Regulations shall come into force on 1 September 2003."
+        },
+        "noLabel": {
+          "en": "Article 64."
         },
         "chapter": {
           "en": "Chapter VIII Supplementary Provisions"

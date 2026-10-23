@@ -1,6 +1,6 @@
 # ==========================================================================
 # 中国—东盟法律法规数据库 (CALR) · 仓库只收录对外交付所需内容
-# 本仓库仅跟踪：README.md、prototype/、rules/、tools/
+# 本仓库仅跟踪：README.md、prototype/、rules/、tools/、backend/（代码）
 # 其余目录（_work、docs、deliverables、dataset 等）均为本地工作区，不入库
 # ==========================================================================
 
@@ -11,8 +11,21 @@
 !prototype/
 !rules/
 !tools/
+!backend/
+!docker-compose.yml
 
 # --- 即使被上面的规则放行，以下内容仍不入库 ---
+# Phase A 后端：只入库代码，不入库数据库（calr.db 约 1.6 GB，由 build_db.py 生成）
+# 注意：必须写 backend/data/* 而不是 backend/data/，
+#       否则整个目录被忽略，后面的 ! 反选对 .gitkeep 不生效
+backend/data/*
+!backend/data/.gitkeep
+!backend/data/README.md
+backend/__pycache__/
+backend/**/__pycache__/
+backend/**/*.pyc
+backend/**/.pytest_cache/
+
 # 工作区与中间产物
 _work/
 docs/

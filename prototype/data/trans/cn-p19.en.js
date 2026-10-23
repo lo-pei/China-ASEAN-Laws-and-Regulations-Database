@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p19
-   法规 62 部 / 译文 2083 条
+   法规 63 部 / 译文 2147 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -22971,6 +22971,771 @@
         },
         "chapter": {
           "en": "Chapter VII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0575'] = {
+    "lawId": "CN-REG-0575",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 64 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Implementing Regulations are formulated in accordance with the Law of the People's Republic of China on the Protection of Cultural Relics (hereinafter referred to as the Cultural Relics Protection Law)."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The special subsidy funds for the protection of key cultural relics under the State and the special funds for the protection of cultural relics under local governments shall be jointly administered by the cultural relics administrative departments, the investment competent departments and the finance departments of people's governments at or above the county level in accordance with the relevant provisions of the State. No unit or individual may misappropriate or divert such funds."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The institutional revenue of State-owned museums, memorial halls and entities responsible for sites protected for their historical and cultural value shall be used for the following purposes:\n(a) the custody, display, restoration and collection of cultural relics;\n(b) the repair and construction of State-owned museums, memorial halls and sites protected for their historical and cultural value;\n(c) safety precautions for cultural relics;\n(d) archaeological survey, exploration and excavation; and\n(e) scientific research, publicity and education relating to the protection of cultural relics."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The cultural relics administrative departments and the administrative departments of education, science and technology, the press and publication, and radio and television shall do a good job in publicising and educating the public on the protection of cultural relics."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The cultural relics administrative department of the State Council and the cultural relics administrative departments of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall formulate plans for scientific and technological research on the protection of cultural relics, take effective measures to promote the popularisation and application of the results of scientific and technological research on the protection of cultural relics, and raise the scientific and technological level of cultural relics protection."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Units or individuals with any of the deeds listed in Article 12 of the Cultural Relics Protection Law shall be given moral encouragement or material rewards by the people's government and its cultural relics administrative department and the departments concerned."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Famous historical and cultural cities shall be reported by the construction administrative department of the State Council together with the cultural relics administrative department of the State Council to the State Council for verification and promulgation.\nHistorical and cultural blocks, towns and villages shall be reported by the urban and rural planning administrative department of the people's government of a province, autonomous region or municipality directly under the Central Government together with the cultural relics administrative department to the people's government at the same level for verification and promulgation.\nThe protection plans for famous historical and cultural cities and for historical and cultural blocks, towns and villages prepared under the organisation of local people's governments at or above the county level shall conform to the requirements for the protection of cultural relics."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Immovable Cultural Relics"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "For sites protected for their historical and cultural value at the national level and at the provincial level, the people's government of the province, autonomous region or municipality directly under the Central Government shall, within one year from the date of their verification and promulgation, delimit the necessary protection scope, make signs and explanations, establish records and archives, and set up a special institution or designate a person to be responsible for their administration.\nFor sites protected for their historical and cultural value at the level of cities with districts and autonomous prefectures and at the county level, the people's government that verified and promulgated the site shall, within one year from the date of verification and promulgation, delimit the protection scope, make signs and explanations, establish records and archives, and set up a special institution or designate a person to be responsible for their administration."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Immovable Cultural Relics"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The protection scope of a site protected for its historical and cultural value means the area in which key protection is exercised over the site itself and a certain area around it.\nThe protection scope of a site protected for its historical and cultural value shall be rationally delimited according to the category, scale and content of the site and the historical and actual conditions of the surrounding environment, and a certain safe distance shall be maintained outside the site itself so as to ensure the authenticity and integrity of the site."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Immovable Cultural Relics"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The signs and explanations of a site protected for its historical and cultural value shall include the level, name, promulgating authority and date of promulgation of the site, and the authority and date of installation of the sign. The signs and explanations of sites protected for their historical and cultural value in ethnic autonomous areas shall be written in both standard Chinese characters and the minority language commonly used in the locality."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Immovable Cultural Relics"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The records and archives of a site protected for its historical and cultural value shall include scientific and technological materials such as records of the site itself, as well as the relevant documentary records and information on administration.\nThe records and archives of a site protected for its historical and cultural value shall make full use of forms such as text, audio-visual products, drawings, rubbings, reproductions and electronic texts to effectively present the content recorded."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Immovable Cultural Relics"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "For ancient cultural sites, ancient tombs, cave temples and memorial buildings and ancient structures owned by the State that have been verified and promulgated as sites protected for their historical and cultural value, the local people's governments at or above the county level shall set up special institutions or designate institutions to be responsible for their administration. For other sites protected for their historical and cultural value, the local people's governments at or above the county level shall set up special institutions or designate institutions or persons to be responsible for their administration; where a person is designated to be responsible for administration, the form of engaging cultural relics protection wardens may be adopted.\nWhere a site protected for its historical and cultural value has a user unit, the user unit shall establish a mass organisation for the protection of cultural relics; where there is no user unit, the villagers' committee or residents' committee at the place where the site is located may establish a mass organisation for the protection of cultural relics. The cultural relics administrative department shall guide and support the activities of mass organisations for the protection of cultural relics.\nInstitutions responsible for the administration of sites protected for their historical and cultural value shall establish and improve rules and regulations and take safety precautions; their security personnel may be equipped with defensive equipment in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Immovable Cultural Relics"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The construction control zone of a site protected for its historical and cultural value means the area outside the protection scope of the site in which construction projects are restricted in order to protect the safety, environment and historical appearance of the site.\nThe construction control zone of a site protected for its historical and cultural value shall be rationally delimited according to the category, scale and content of the site and the historical and actual conditions of the surrounding environment."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Immovable Cultural Relics"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The construction control zone of a site protected for its historical and cultural value at the national level shall, upon approval by the people's government of the province, autonomous region or municipality directly under the Central Government, be delimited and promulgated by the cultural relics administrative department of that people's government together with the urban and rural planning administrative department.\nThe construction control zones of sites protected for their historical and cultural value at the provincial level, at the level of cities with districts and autonomous prefectures and at the county level shall, upon approval by the people's government of the province, autonomous region or municipality directly under the Central Government, be delimited and promulgated by the cultural relics administrative department of the people's government that verified and promulgated the site together with the urban and rural planning administrative department."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Immovable Cultural Relics"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Units undertaking projects for the repair, relocation or reconstruction of sites protected for their historical and cultural value shall simultaneously obtain a qualification certificate for cultural relics protection projects of the corresponding grade issued by the cultural relics administrative department and a qualification certificate of the corresponding grade issued by the construction administrative department. Among them, the repair, relocation or reconstruction of sites protected for their historical and cultural value that does not involve construction activities shall be undertaken by units that have obtained a qualification certificate for cultural relics protection projects of the corresponding grade issued by the cultural relics administrative department."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Immovable Cultural Relics"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "To apply for a qualification certificate for cultural relics protection projects, the following conditions shall be met:\n(a) having personnel who hold professional and technical positions in cultural relics and museology;\n(b) having the technical equipment required for cultural relics protection projects; and\n(c) other conditions prescribed by laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Immovable Cultural Relics"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "To apply for a qualification certificate for cultural relics protection projects, an application shall be submitted to the cultural relics administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government or to the cultural relics administrative department of the State Council. The cultural relics administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government or the cultural relics administrative department of the State Council shall, within 30 working days from the date of receipt of the application, make a decision to approve or not to approve. Where approval is decided, a qualification certificate for cultural relics protection projects of the corresponding grade shall be issued; where approval is not decided, the party concerned shall be notified in writing together with the reasons. The grading standards and examination and approval measures for the grades of qualifications for cultural relics protection projects shall be formulated by the cultural relics administrative department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Immovable Cultural Relics"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Before examining and approving the repair plan and engineering design scheme of a site protected for its historical and cultural value, the cultural relics administrative department shall solicit the opinion of the cultural relics administrative department of the people's government at the next higher level."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Immovable Cultural Relics"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Buildings and structures that endanger the safety of a site protected for its historical and cultural value at the national level or destroy its historical appearance shall be investigated and dealt with by the people's government of the province, autonomous region or municipality directly under the Central Government.\nBuildings and structures that endanger the safety of a site protected for its historical and cultural value at the provincial level, at the level of cities with districts and autonomous prefectures or at the county level, or destroy its historical appearance, shall be investigated and dealt with by the people's government that verified and promulgated the site.\nBuildings and structures that endanger the safety of immovable cultural relics not yet verified and promulgated as sites protected for their historical and cultural value shall be investigated and dealt with by the county-level people's government."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Immovable Cultural Relics"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Units applying to engage in archaeological excavation and to obtain an archaeological excavation qualification certificate shall meet the following conditions:\n(a) having four or more persons who have received professional archaeological training and have directed archaeological excavation projects;\n(b) having personnel who hold professional and technical positions in cultural relics and museology;\n(c) having professional personnel for the security of cultural relics;\n(d) having the technical equipment required for archaeological excavation;\n(e) having facilities and premises for ensuring the safety of cultural relics; and\n(f) other conditions prescribed by laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Archaeological Excavation"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "To apply for an archaeological excavation qualification certificate, an application shall be submitted to the cultural relics administrative department of the State Council. The cultural relics administrative department of the State Council shall, within 30 working days from the date of receipt of the application, make a decision to approve or not to approve. Where approval is decided, an archaeological excavation qualification certificate shall be issued; where approval is not decided, the party concerned shall be notified in writing together with the reasons."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Archaeological Excavation"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "A system of responsibility by project leader shall apply to archaeological excavation projects."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Archaeological Excavation"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Archaeological survey, exploration and excavation carried out in conjunction with construction projects shall be organised and implemented by the cultural relics administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government. For archaeological survey, exploration and excavation within the scope of a construction project spanning provinces, autonomous regions and municipalities directly under the Central Government, the cultural relics administrative departments of the relevant people's governments of the provinces, autonomous regions and municipalities directly under the Central Government where the construction project is located shall jointly organise and implement them; among them, for archaeological survey, exploration and excavation within the scope of particularly important construction projects, the cultural relics administrative department of the State Council shall organise and implement them.\nConstruction units shall assist the archaeological survey, exploration and excavation carried out in conjunction with construction projects and shall not obstruct such survey, exploration and excavation."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Archaeological Excavation"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The cultural relics administrative department of the State Council shall, within 30 working days from the date of receipt of the excavation plan specified in paragraph 1 of Article 30 of the Cultural Relics Protection Law, make a decision to approve or not to approve. Where approval is decided, an approval document shall be issued; where approval is not decided, the party concerned shall be notified in writing together with the reasons.\nFor rescue excavation specified in paragraph 2 of Article 30 of the Cultural Relics Protection Law, the cultural relics administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government shall, within 10 working days from the date of commencement of the work, complete the supplementary examination and approval formalities with the cultural relics administrative department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Archaeological Excavation"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The scope and standards of the funds required for archaeological survey, exploration and excavation shall be implemented in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Archaeological Excavation"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Units engaged in archaeological excavation shall, within 30 working days from the date of completion of the archaeological excavation, submit a project completion report to the cultural relics administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government and the cultural relics administrative department of the State Council, and shall, within three years from the date of submission of the project completion report, submit an archaeological excavation report to those departments."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Archaeological Excavation"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "After submitting the archaeological excavation report, a unit engaged in archaeological excavation may, upon approval by the cultural relics administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government, retain a small quantity of unearthed cultural relics as scientific research specimens, and shall, within six months from the date of submission of the excavation report, transfer the other unearthed cultural relics to a State-owned museum, library or other State-owned cultural relics collection entity designated by the cultural relics administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government for collection."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Archaeological Excavation"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Cultural relics collection entities shall establish systems for the receipt, appraisal, registration, cataloguing and archiving of collected cultural relics, a storehouse management system, systems for entry into and exit from the storehouse, cancellation and statistics, and systems for maintenance, restoration and reproduction."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Cultural Relics in Collections"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The cultural relics administrative department of a county-level people's government shall, according to the administrative subordination relationship, report the archives of collected cultural relics within its administrative area to the cultural relics administrative department of the people's government at the level of a city with districts or an autonomous prefecture or of the province, autonomous region or municipality directly under the Central Government for the record; the cultural relics administrative department of a people's government at the level of a city with districts or an autonomous prefecture shall report the archives of collected cultural relics within its administrative area to the cultural relics administrative department of the province, autonomous region or municipality directly under the Central Government for the record; and the cultural relics administrative department of the province, autonomous region or municipality directly under the Central Government shall report the archives of Grade 1 cultural relics in its collection within its administrative area to the cultural relics administrative department of the State Council for the record."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Cultural Relics in Collections"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where cultural relics collection entities lend collected cultural relics among themselves, the borrower shall take the necessary protective measures for the borrowed collected cultural relics so as to ensure the safety of the cultural relics.\nUnless otherwise agreed by the parties, the risk of loss or damage of the borrowed collected cultural relics shall be borne by the cultural relics collection entity that borrowed them."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Cultural Relics in Collections"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where a State-owned cultural relics collection entity fails to establish archives of collected cultural relics and report them to the competent cultural relics administrative department for the record in accordance with Article 36 of the Cultural Relics Protection Law, it shall not exchange or borrow collected cultural relics."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Cultural Relics in Collections"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The restoration, reproduction or rubbing of Grade 2 and Grade 3 cultural relics in collections shall be reported to the cultural relics administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government for approval; the restoration, reproduction or rubbing of Grade 1 cultural relics in collections shall be reported to the cultural relics administrative department of the State Council for approval."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Cultural Relics in Collections"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Units engaged in the restoration, reproduction or rubbing of collected cultural relics shall meet the following conditions:\n(a) having personnel who hold professional and technical positions of the intermediate level or above in cultural relics and museology;\n(b) having the premises and technical equipment required for the restoration, reproduction or rubbing of collected cultural relics; and\n(c) other conditions prescribed by laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Cultural Relics in Collections"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "To engage in the restoration, reproduction or rubbing of collected cultural relics, an application shall be submitted to the cultural relics administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government. That department shall, within 30 working days from the date of receipt of the application, make a decision to approve or not to approve. Where approval is decided, a qualification certificate of the corresponding grade shall be issued; where approval is not decided, the party concerned shall be notified in writing together with the reasons."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Cultural Relics in Collections"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "To photograph collected cultural relics for the production of publications, audio-visual products and the like, the consent of the cultural relics collection entity shall be obtained and a photographing agreement shall be signed specifying the measures and responsibilities for the protection of cultural relics. The cultural relics collection entity shall, within 10 working days after the photographing is completed, report the photographing to the cultural relics administrative department."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Cultural Relics in Collections"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Where collected cultural relics are stolen, robbed or lost, the cultural relics collection entity shall immediately report the case to the public security organ and shall at the same time report it to the competent cultural relics administrative department; the competent cultural relics administrative department shall, within 24 hours after receiving the report of the cultural relics collection entity, report the relevant circumstances to the cultural relics administrative department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Cultural Relics in Collections"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "State organs and State-owned enterprises and institutions that collect or keep State-owned cultural relics shall perform the following obligations:\n(a) to establish an archive system for cultural relics in their collection and report the archives to the cultural relics administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government at the place where they are located for the record;\n(b) to establish and improve management systems for the maintenance and restoration of cultural relics in their collection so as to ensure the safety of the cultural relics; and\n(c) where cultural relics in their collection are stolen, robbed or lost, to immediately report the case to the public security organ and at the same time report it to the cultural relics administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government at the place where they are located."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Cultural Relics in Collections"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Citizens, legal persons and other organisations other than cultural relics collection entities may collect cultural relics in accordance with law, and the ownership of the cultural relics they lawfully collect shall be protected by law.\nWhere citizens, legal persons and other organisations lawfully collect cultural relics, they may request the cultural relics administrative department to provide advice on the appraisal, restoration and custody of the cultural relics they collect."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V Cultural Relics in Private Collections"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "To establish a cultural relics shop, the following conditions shall be met:\n(a) having a registered capital of not less than RMB 2,000,000;\n(b) having five or more persons who hold professional and technical positions of the intermediate level or above in cultural relics and museology;\n(c) having the premises, facilities and technical conditions for the custody of cultural relics; and\n(d) other conditions prescribed by laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V Cultural Relics in Private Collections"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "To establish a cultural relics shop, an application shall be submitted to the cultural relics administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government. That department shall, within 30 working days from the date of receipt of the application, make a decision to approve or not to approve. Where approval is decided, an approval document shall be issued; where approval is not decided, the party concerned shall be notified in writing together with the reasons."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter V Cultural Relics in Private Collections"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "An auction enterprise established in accordance with law that engages in cultural relics auction business activities shall have five or more professional cultural relics auction personnel holding senior professional and technical positions in cultural relics and museology, and shall obtain a cultural relics auction licence issued by the cultural relics administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter V Cultural Relics in Private Collections"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "To apply for a cultural relics auction licence, an auction enterprise established in accordance with law shall submit an application to the cultural relics administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government. That department shall, within 30 working days from the date of receipt of the application, make a decision to approve or not to approve. Where approval is decided, a cultural relics auction licence shall be issued; where approval is not decided, the party concerned shall be notified in writing together with the reasons."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter V Cultural Relics in Private Collections"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where a cultural relics shop purchases or sells cultural relics, or an auction enterprise operating cultural relics auctions auctions cultural relics, it shall record the names, illustrated catalogues and sources of the cultural relics, the names or titles, domiciles and valid identity document numbers or valid licence numbers of the sellers, consignors and buyers of the cultural relics, and the transaction prices, and shall report them to the cultural relics administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government for the record. The cultural relics administrative department accepting the filing shall keep them confidential in accordance with law and shall preserve the records for 75 years.\nCultural relics administrative departments shall strengthen supervision and inspection of cultural relics shops and auction enterprises operating cultural relics auctions."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter V Cultural Relics in Private Collections"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "The cultural relics entry and exit examination institution designated by the cultural relics administrative department of the State Council shall have five or more responsible cultural relics entry and exit authenticators holding professional and technical positions of the intermediate level or above in cultural relics and museology."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VI Exit and Entry of Cultural Relics"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where cultural relics are transported, posted or carried out of the country, they shall be reported to the cultural relics entry and exit examination institution for examination in accordance with law before leaving the country. The cultural relics entry and exit examination institution shall, within 15 working days from the date of receipt of the application, make a decision on whether to permit exit.\nThe examination of cultural relics by the cultural relics entry and exit examination institution shall be participated in by three or more professional and technical personnel in cultural relics and museology; among them, there shall be two or more responsible cultural relics entry and exit authenticators.\nThe examination opinions on the exit of cultural relics shall be jointly signed by the responsible cultural relics entry and exit authenticators; only where the responsible cultural relics entry and exit authenticators unanimously agree after examination to permit exit may the cultural relics entry and exit examination institution make a decision to permit exit.\nThe standards for the examination of the exit of cultural relics shall be formulated by the cultural relics administrative department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VI Exit and Entry of Cultural Relics"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "The cultural relics entry and exit examination institution shall register the names, materials, dimensions and grades of the cultural relics examined for entry and exit, the names or titles, domiciles and valid identity document numbers or valid licence numbers of the parties concerned, and the ports of entry and exit, the destinations of the cultural relics and the dates of examination."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VI Exit and Entry of Cultural Relics"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "For cultural relics examined and permitted to exit, the cultural relics administrative department of the State Council shall issue a cultural relics exit permit, and the cultural relics entry and exit examination institution shall mark the cultural relics exit mark. Cultural relics examined and permitted to exit shall exit through the ports designated by the cultural relics administrative department of the State Council. The customs shall release them against the cultural relics exit permit after verifying the cultural relics exit mark.\nFor cultural relics examined and not permitted to exit, the cultural relics entry and exit examination institution shall return them to the party concerned."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VI Exit and Entry of Cultural Relics"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "The undertaking unit of an exhibition of cultural relics abroad shall, six months before holding the exhibition, submit an application to the cultural relics administrative department of the State Council. That department shall, within 30 working days from the date of receipt of the application, make a decision to approve or not to approve. Where approval is decided, an approval document shall be issued; where approval is not decided, the party concerned shall be notified in writing together with the reasons.\nWhere the exhibits of Grade 1 cultural relics exceed 120 items (sets), or the exhibits of Grade 1 cultural relics exceed 20 per cent of the total exhibits, the matter shall be reported to the State Council for approval."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VI Exit and Entry of Cultural Relics"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Unique items and fragile items among Grade 1 cultural relics are prohibited from being exhibited abroad. The catalogue of cultural relics prohibited from being exhibited abroad shall be published periodically by the cultural relics administrative department of the State Council.\nCultural relics that have never been formally exhibited domestically shall not be exhibited abroad."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VI Exit and Entry of Cultural Relics"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "The period of an exhibition of cultural relics abroad shall not exceed one year. Where special needs require, the period may be extended upon approval by the original approving authority; however, the extension shall not exceed one year at the longest."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VI Exit and Entry of Cultural Relics"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where, during an exhibition of cultural relics abroad, a situation that may endanger the safety of the exhibited cultural relics arises, the original approving authority may decide to suspend or cancel the exhibition."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VI Exit and Entry of Cultural Relics"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "For cultural relics temporarily entering the country, after the customs seals the cultural relics, they shall be handed over to the party concerned to report to the cultural relics entry and exit examination institution for examination and registration. After verifying that the customs seals are intact, the cultural relics entry and exit examination institution shall mark each cultural relic temporarily entering the country with a temporary entry mark and register and photograph it.\nWhen cultural relics temporarily entering the country are re-exported, the cultural relics entry and exit examination institution that originally examined and registered them shall check the entry registration and photograph records and, after verifying that the temporary entry marks are correct, mark the cultural relics exit mark, and the cultural relics administrative department of the State Council shall issue a cultural relics exit permit.\nWhere cultural relics temporarily entering the country are re-exported without completing the formalities specified in paragraph 1 of this Article, the provisions of this Chapter on the exit of cultural relics shall apply."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VI Exit and Entry of Cultural Relics"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "No unit or individual may remove, replace, misappropriate or damage the cultural relics exit mark or the temporary entry mark without authorisation."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VI Exit and Entry of Cultural Relics"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where the public security organs, industry and commerce administration, cultural relics, customs, urban and rural planning, construction and other relevant departments or their staff members violate these Regulations by abusing their examination and approval powers, failing to perform their duties, or failing to investigate and deal with unlawful acts discovered, an administrative sanction shall be imposed in accordance with law on the responsible persons in charge and other directly responsible persons; where a crime is constituted, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where, in violation of these Regulations, anyone undertakes the repair, relocation or reconstruction of sites protected for their historical and cultural value without obtaining a qualification certificate for cultural relics protection projects of the corresponding grade, the cultural relics administrative department shall order correction within a specified period; where correction is not made within the specified period or serious consequences are caused, a fine of not less than RMB 50,000 but not more than RMB 500,000 shall be imposed; and where a crime is constituted, criminal liability shall be investigated in accordance with law.\nWhere, in violation of these Regulations, anyone undertakes the repair, relocation or reconstruction of sites protected for their historical and cultural value involving construction activities without obtaining a qualification certificate of the corresponding grade issued by the construction administrative department, the construction administrative department shall impose a penalty in accordance with the provisions of the relevant laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where, in violation of these Regulations, anyone engages without authorisation in the restoration, reproduction or rubbing of collected cultural relics without obtaining a qualification certificate, the cultural relics administrative department shall order the cessation of the unlawful activity; the illegal income and the special tools and equipment used in the unlawful activity shall be confiscated; where serious consequences are caused, a fine of not less than RMB 10,000 but not more than RMB 100,000 shall be concurrently imposed; and where a crime is constituted, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "The fine specified in paragraph 2 of Article 66 of the Cultural Relics Protection Law shall be not more than RMB 200."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where, in violation of these Regulations, anyone restores, reproduces or rubs precious collected cultural relics without approval, the cultural relics administrative department shall give a warning; where serious consequences are caused, a fine of not less than RMB 2,000 but not more than RMB 20,000 shall be imposed; and an administrative sanction shall be imposed in accordance with law on the responsible persons in charge and other directly responsible persons.\nWhere, in violation of these Regulations, a cultural relics collection entity fails to report the photographing of cultural relics to the cultural relics administrative department within the prescribed period, the cultural relics administrative department shall order correction within a specified period; where correction is not made within the specified period, an administrative sanction shall be imposed in accordance with law on the responsible persons in charge and other directly responsible persons."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where, in violation of these Regulations, an archaeological excavation unit fails to submit a project completion report or an archaeological excavation report within the prescribed period, the cultural relics administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government or the cultural relics administrative department of the State Council shall order correction within a specified period; where correction is not made within the specified period, an administrative sanction shall be imposed in accordance with law on the responsible persons in charge and other directly responsible persons."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Where, in violation of these Regulations, an archaeological excavation unit fails to transfer cultural relics within the prescribed period, the cultural relics administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government or the cultural relics administrative department of the State Council shall order correction within a specified period; where correction is not made within the specified period or serious consequences are caused, an administrative sanction shall be imposed in accordance with law on the responsible persons in charge and other directly responsible persons."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where, in violation of these Regulations, an exhibition of cultural relics abroad exceeds the exhibition period, the cultural relics administrative department of the State Council shall order correction within a specified period; and an administrative sanction shall be imposed in accordance with law on the responsible persons in charge and other directly responsible persons."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Where a unit is subjected to the administrative penalty of revocation of its licence in accordance with Articles 66 and 73 of the Cultural Relics Protection Law, it shall complete the formalities for amendment registration or cancellation registration with the industry and commerce administrative department in accordance with law; where it fails to do so within the prescribed period, the industry and commerce administrative department shall revoke its business licence."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Where, in violation of these Regulations, anyone changes the purpose of the institutional revenue of State-owned museums, memorial halls and entities responsible for sites protected for their historical and cultural value, an administrative sanction shall be imposed in accordance with law on the responsible persons in charge and other directly responsible persons; where a crime is constituted, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "These Regulations shall come into force on 1 July 2003."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
         }
       }
     ]

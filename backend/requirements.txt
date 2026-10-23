@@ -1,0 +1,8 @@
+﻿# CALR 后端依赖（Phase A）
+fastapi>=0.110
+uvicorn[standard]>=0.27
+httpx>=0.27
+# Phase B 追加（暂未启用）：
+# numpy
+# sentence-transformers   # 本地 bge-m3
+# faiss-cpu

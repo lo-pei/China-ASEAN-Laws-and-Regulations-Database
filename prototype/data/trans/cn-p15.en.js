@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p15
-   法规 70 部 / 译文 2407 条
+   法规 72 部 / 译文 2533 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -12521,6 +12521,762 @@
     ]
   };
 
+  TR['CN-REG-0220'] = {
+    "lawId": "CN-REG-0220",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 64 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the National Defence Law of the People's Republic of China, the Military Service Law of the People's Republic of China, the Law of the People's Republic of China on the Status, Rights and Interests of Military Personnel, the Law of the People's Republic of China on the Protection of Veterans and other relevant laws for the purpose of ensuring the State's pension and preferential treatment for military personnel, inspiring the spirit of dedication of military personnel in defending and building the motherland, strengthening national defence and the modernisation of the armed forces, and making military service a profession respected by the whole of society."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "For the purposes of these Regulations, the recipients of pension and preferential treatment include:\n(a) military personnel;\n(b) disabled military personnel in active service and retired from active service;\n(c) the surviving family members of martyrs, of military personnel who died in the line of duty and of military personnel who died of illness;\n(d) the family members of military personnel; and\n(e) veterans."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The work of pension and preferential treatment for military personnel shall uphold the leadership of the Communist Party of China.\nThe work of pension and preferential treatment for military personnel shall practise the core socialist values, implement the principles of matching treatment with contribution, laying equal stress on the moral and the material, and combining care with services, provide classified safeguards, highlight the key points, gradually advance the urban-rural integration of the pension and preferential treatment system, improve the dynamic adjustment mechanism for the standards of pension and preferential treatment, and ensure that the level of pension and preferential treatment safeguards is commensurate with the level of economic and social development and with the needs of national defence and armed forces building."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The State shall ensure that recipients of pension and preferential treatment enjoy the universal benefits available to citizens, such as social security and basic public services, and at the same time enjoy the corresponding pension and preferential treatment benefits.\nWhen examining whether recipients of pension and preferential treatment meet the conditions for enjoying the corresponding social security and basic public services, pensions, subsidies and preferential payments shall not be counted in the personal and household income of the recipients."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The competent department for veterans affairs of the State Council shall be responsible for the work of pension and preferential treatment for military personnel throughout the country; the competent departments for veterans affairs of local people's governments at or above the county level shall be responsible for the work of pension and preferential treatment for military personnel within their administrative areas.\nThe relevant organs of the Central Committee and the State, the relevant departments of the Central Military Commission and the relevant organs of local authorities at all levels shall, within the scope of their respective duties, do a good job in the work of pension and preferential treatment for military personnel."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "In accordance with the principle of dividing fiscal powers and expenditure responsibilities between the central and local governments, the funds required for the pension and preferential treatment of military personnel shall mainly be borne by the central finance, and provincial financial input shall be moderately increased so as to ease the financial pressure on the grassroots level.\nLocal people's governments at or above the county level shall ensure funding for the work of pension and preferential treatment for military personnel.\nThe funds required for the pension and preferential treatment of military personnel and the working funds allocated by the central and local finances shall be subject to whole-process budget performance management and shall be subject to the supervision of the finance and audit departments."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The State encourages and guides social forces such as people's organisations, enterprises and public institutions, social organisations and individuals to provide support and assistance for the work of pension and preferential treatment for military personnel in accordance with law through donations, the establishment of funds, volunteer services and other means.\nThe whole of society shall care for and respect the recipients of pension and preferential treatment, carry out activities in various forms to support the army and give preferential treatment to the families of service personnel and martyrs, and create a strong atmosphere of patriotism, support for the army and respect for military personnel."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The State shall advance the informatisation of the work of pension and preferential treatment for military personnel, strengthen the development of a comprehensive information platform for recipients of pension and preferential treatment, strengthen coordination and information sharing among departments, achieve the accurate identification of recipients of pension and preferential treatment, and enhance the service capacity and level of the work of pension and preferential treatment for military personnel.\nThe State shall establish an annual confirmation system for recipients enjoying regular pensions and subsidies and a mechanism for pursuing responsibility for fraudulently obtaining benefits, so as to ensure the accurate payment of pension and preferential treatment funds."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Units and individuals that have made outstanding achievements in the work of pension and preferential treatment for military personnel shall be commended and rewarded in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The surviving family members of martyrs shall enjoy the martyr commendation money and a lump-sum pension, and may enjoy a regular pension, funeral subsidies, a lump-sum special pension and the like in accordance with the provisions.\nThe surviving family members of military personnel who died in the line of duty and of military personnel who died of illness shall enjoy a lump-sum pension and may enjoy a regular pension, funeral subsidies, a lump-sum special pension and the like in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Pensions for the Death of Military Personnel"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Where a military person sacrifices his life and falls under any of the following circumstances, he shall be assessed as a martyr:\n(a) sacrificing his life in battle against the enemy, or being wounded in battle against the enemy and dying of the wound before the conclusion of medical treatment;\n(b) being killed by the enemy or by criminals in the performance of a task, or, after being captured or taken prisoner, refusing to submit and being killed by the enemy or dying under torture;\n(c) sacrificing his life in rescuing and protecting State property, collective property or the lives and property of citizens, or in carrying out counter-terrorism tasks and handling emergencies;\n(d) sacrificing his life in the performance of military exercises, combat-readiness navigation and flight, airborne and missile launching training, trial navigation and trial flight tasks, and participation in scientific research tests of weapons and equipment; or\n(e) sacrificing his life in the performance of diplomatic tasks or in foreign aid or international peace-keeping tasks dispatched by the State; or\n(f) other circumstances in which the sacrifice is particularly outstanding and worthy of being a model.\nWhere a military person goes missing in the performance of tasks such as battle against the enemy, international peace-keeping, border and coastal defence duty or emergency rescue and disaster relief and is declared dead, he shall be treated as a martyr.\nThe assessment of a martyr shall, where the sacrifice is in battle, be approved by the political work department of a military unit at or above the regiment level; where the sacrifice is not in battle, be approved by the political work department of a military unit at or above the corps level; and, where the circumstances specified in item (f) of paragraph 1 of this Article apply, be approved by the Political Work Department of the Central Military Commission."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Pensions for the Death of Military Personnel"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Where a military person dies and falls under any of the following circumstances, the death shall be confirmed as a death in the line of duty:\n(a) dying as a result of an accident in the performance of a task, at the work post or on the way to or from work;\n(b) dying of the recurrence of an old wound after being determined to be disabled in battle or in the line of duty;\n(c) dying of an occupational disease;\n(d) dying suddenly of illness in the performance of a task or at the work post; or\n(e) other deaths in the line of duty.\nWhere a military person goes missing in the performance of tasks other than battle against the enemy, international peace-keeping, border and coastal defence duty or emergency rescue and disaster relief and is declared dead, he shall be treated as having died in the line of duty.\nThe death of a military person in the line of duty shall be confirmed by the political work department of a military unit at or above the regiment level; where the circumstances specified in item (e) of paragraph 1 of this Article apply, it shall be confirmed by the political work department of a military unit at or above the corps level."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Pensions for the Death of Military Personnel"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where a military person dies of an illness other than in the circumstances specified in items (c) and (d) of paragraph 1 of Article 12 of these Regulations, the death shall be confirmed as a death of illness.\nWhere a military person dies not in the performance of a task, or goes missing and is declared dead, he shall be treated as having died of illness.\nThe death of a military person of illness shall be confirmed by the political work department of a military unit at or above the regiment level."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Pensions for the Death of Military Personnel"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "After a military person who sacrificed his life is assessed as a martyr, or his death is confirmed as a death in the line of duty or a death of illness, the relevant military department or unit shall send the Notice of Assessment as a Martyr, the Notice of Death of a Military Person in the Line of Duty, the Notice of Death of a Military Person of Illness, the Certificate of Death of a Military Person in the Line of Duty and the Certificate of Death of a Military Person of Illness to the competent department for veterans affairs of the county-level people's government at the place of household registration of the surviving family members of the martyr, of the military person who died in the line of duty or of the military person who died of illness. The issuance of the martyr certificate shall be carried out in accordance with the provisions of the Regulations on the Commendation of Martyrs, and the Certificate of Death of a Military Person in the Line of Duty and the Certificate of Death of a Military Person of Illness shall be issued by the competent department for veterans affairs of the county-level people's government specified in this Article to the surviving family members of the military person who died in the line of duty or of the military person who died of illness.\nWhere all the surviving family members are military personnel and have no household registration, the place where the military unit is located shall serve as the place of household registration of the surviving family members."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Pensions for the Death of Military Personnel"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The martyr commendation money shall be paid to the surviving family members by the competent department for veterans affairs of the county-level people's government at the place of household registration of the surviving family members of the martyr who receive the martyr certificate, at the standard of 30 times the per capita disposable income of urban residents nationwide in the previous year at the time of the martyr's sacrifice. In wartime, the standard of martyr commendation money for martyrs who sacrificed their lives in battle may be appropriately raised.\nWhere a military person dies, the competent department for veterans affairs of the county-level people's government that received the Notice of Assessment as a Martyr, the Notice of Death of a Military Person in the Line of Duty or the Notice of Death of a Military Person of Illness shall, according to the nature of the death and the standard of the monthly basic salary at the time of death, pay a lump-sum pension to the surviving family members at the following standards: for martyrs and those who died in the line of duty, 20 times the per capita disposable income of urban residents nationwide in the previous year plus 40 months of the person's basic salary; for those who died of illness, two times the per capita disposable income of urban residents nationwide in the previous year plus 40 months of the person's basic salary. Where the monthly basic salary or allowance is lower than the standard of the basic salary of a second lieutenant officer, it shall be calculated according to the standard of the basic salary of a second lieutenant officer. Where a military rank is posthumously conferred, the standard of monthly basic salary shall be determined according to the grade of the posthumously conferred rank and the corresponding treatment grade."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Pensions for the Death of Military Personnel"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where a military person who received commendations of meritorious service and honours during active service is assessed as a martyr or his death is confirmed as a death in the line of duty or a death of illness, the competent department for veterans affairs of the county-level people's government shall, on the basis of the lump-sum pension to which the surviving family members are entitled, additionally pay a lump-sum pension at the following percentages:\n(a) where the person received a medal or a national honorary title, an additional 40 per cent;\n(b) where the person received an honorary title conferred separately or jointly by the Central Committee of the Party, the State Council or the Central Military Commission, an additional 35 per cent;\n(c) where the person was awarded first-class meritorious service in battle, received a first-class commendation or received an honorary title conferred by a unit authorised by the Central Military Commission, an additional 30 per cent;\n(d) where the person was awarded second-class meritorious service in battle or first-class meritorious service, or received a second-class commendation with approval, an additional 25 per cent;\n(e) where the person was awarded third-class meritorious service in battle or second-class meritorious service, an additional 15 per cent; or\n(f) where the person was awarded fourth-class meritorious service in battle or third-class meritorious service, an additional 5 per cent.\nWhere commendations of meritorious service and honours are posthumously conferred after the death of a military person, the lump-sum pension shall be additionally paid by reference to the preceding paragraph.\nWhere a martyr, a military person who died in the line of duty or a military person who died of illness received commendations of meritorious service and honours several times during active service, the competent department for veterans affairs of the county-level people's government shall additionally pay the lump-sum pension to the surviving family members at the highest of the additional percentages."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Pensions for the Death of Military Personnel"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "For martyrs, military personnel who died in the line of duty and military personnel who died of illness who made special contributions during their lifetime, in addition to the lump-sum pension paid to their surviving family members in accordance with these Regulations, the military may pay a lump-sum special pension to their surviving family members in accordance with the relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Pensions for the Death of Military Personnel"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The martyr commendation money shall be paid to the parents (supporters), spouse and children of the martyr; where there are no parents (supporters), spouse or children, it shall be paid to the brothers and sisters who are under 18 years of age and to those who are 18 years of age or older but have no source of living expenses and were supported by the military person during his lifetime.\nThe lump-sum pension shall be paid to the surviving family members of martyrs, of military personnel who died in the line of duty and of military personnel who died of illness, and the scope of surviving family members shall be determined in accordance with the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Pensions for the Death of Military Personnel"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "For the surviving family members of martyrs, of military personnel who died in the line of duty and of military personnel who died of illness who meet the following conditions, the competent department for veterans affairs of the county-level people's government at the place of their household registration shall, on the basis of their applications, pay a regular pension from the month in which their eligibility is examined and confirmed:\n(a) parents (supporters) and spouse who have no working capacity and no source of living expenses, or whose income level is lower than the average living standard of local residents;\n(b) children who are under 18 years of age or who are 18 years of age or older but have no source of living expenses owing to schooling or disability; and\n(c) brothers and sisters who are under 18 years of age or who are 18 years of age or older but have no source of living expenses owing to schooling and who were supported by the military person during his lifetime.\nThe standards for the regular pension shall be determined by reference to the per capita disposable income of residents nationwide in the previous year, and the specific standards and the measures for their adjustment shall be prescribed by the competent department for veterans affairs of the State Council together with the finance department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Pensions for the Death of Military Personnel"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where the spouse of a martyr, of a military person who died in the line of duty or of a military person who died of illness remarries and continues to support the parents (supporters) of the martyr or of the deceased military person and continues to raise the brothers and sisters who were under 18 years of age or who are 18 years of age or older but have no working capacity and no source of living expenses and who were supported by the deceased military person during his lifetime, the competent department for veterans affairs of the county-level people's government at the place of her household registration shall continue to pay the regular pension."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Pensions for the Death of Military Personnel"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "For the surviving family members of martyrs, of military personnel who died in the line of duty and of military personnel who died of illness who still have special difficulties in living after receiving the regular pension, local people's governments at or above the county level may pay an additional pension or provide hardship subsidies by other means."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Pensions for the Death of Military Personnel"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Where a surviving family member of a martyr, of a military person who died in the line of duty or of a military person who died of illness who enjoys a regular pension dies, the regular pension he originally enjoyed shall continue to be paid for six months as a funeral subsidy."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter II Pensions for the Death of Military Personnel"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where a military person goes missing and is declared dead and, after being assessed as a martyr or having his death confirmed as a death in the line of duty or a death of illness, the declaration of death is subsequently revoked through statutory procedure, the authority that originally made the assessment or confirmation shall cancel his status as a martyr, as a military person who died in the line of duty or as a military person who died of illness, the certificate-issuing authority shall withdraw the relevant certificates, and the pension benefits originally enjoyed by his family members shall terminate."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter II Pensions for the Death of Military Personnel"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Disabled military personnel shall enjoy a disability pension and may enjoy treatment of support and maintenance, nursing fees and the like in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Pensions for Disability of Military Personnel"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Where a military person becomes disabled and falls under any of the following circumstances, the disability shall be determined as a disability incurred in battle:\n(a) becoming disabled from wounds sustained in battle against the enemy;\n(b) becoming disabled from injuries inflicted by the enemy or by criminals in the performance of a task, or, after being captured or taken prisoner, refusing to submit and becoming disabled from injuries inflicted by the enemy or from torture;\n(c) becoming disabled in rescuing and protecting State property, collective property or the lives and property of citizens, or in carrying out counter-terrorism tasks and handling emergencies;\n(d) becoming disabled in the performance of military exercises, combat-readiness navigation and flight, airborne and missile launching training, trial navigation and trial flight tasks, and participation in scientific research tests of weapons and equipment;\n(e) becoming disabled in the performance of diplomatic tasks or in foreign aid or international peace-keeping tasks dispatched by the State; or\n(f) other disabilities incurred in battle.\nWhere a military person becomes disabled and falls under any of the following circumstances, the disability shall be determined as a disability incurred in the line of duty:\n(a) becoming disabled as a result of an accident in the performance of a task, at the work post or on the way to and from work;\n(b) becoming disabled from an occupational disease;\n(c) becoming disabled from injuries sustained in a sudden illness in the performance of a task or at the work post; or\n(d) other disabilities incurred in the line of duty.\nWhere a conscript or junior non-commissioned officer becomes disabled from an illness other than in the circumstances specified in items (b) and (c) of the preceding paragraph, the disability shall be determined as a disability incurred from illness."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Pensions for Disability of Military Personnel"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The grades of disability shall be determined according to the degree of dysfunction in work and the degree of impairment in the ability to care for oneself, and shall be divided, from the most severe to the least severe, into Grades 1 to 10.\nThe specific assessment standards for the grades of disability shall be prescribed by the competent department for veterans affairs of the State Council together with the human resources and social security department, the health department of the State Council and the relevant departments of the military."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Pensions for Disability of Military Personnel"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where a military person becomes disabled in battle or in the line of duty and, after treatment, his injury has stabilised and he meets the conditions for assessment of the grade of disability, the grade of disability shall be assessed in a timely manner. Where a conscript or junior non-commissioned officer becomes disabled from illness and, after treatment, his condition has stabilised and he meets the conditions for assessment of the grade of disability, he (or his guardian, in the case of a person with no or limited capacity for civil conduct) or the unit in which he serves shall promptly submit an application, and the grade of disability shall be assessed during active service.\nWhere a person becomes disabled in battle or in the line of duty and is assessed as Grade 1 to Grade 10, he shall enjoy a pension; where a person becomes disabled from illness and is assessed as Grade 1 to Grade 6, he shall enjoy a pension. Where the grade of disability has been assessed, the disability pension shall be paid from the month of approval."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Pensions for Disability of Military Personnel"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The authority to determine the nature of a disability incurred in battle, in the line of duty or from illness and to assess the grade of disability shall be as follows:\n(a) for the disability of conscripts and junior non-commissioned officers, the health department of a military unit at or above the corps level together with the relevant departments shall determine and assess it;\n(b) for the disability of officers and non-commissioned officers of the intermediate level or above, the health department of a military unit at or above the theatre command level together with the relevant departments shall determine and assess it; and\n(c) where a retired military person, or a retired cadre of the military on temporary leave or a retired non-commissioned officer transferred to the government for placement, needs the nature of the disability determined and the grade of disability assessed, the competent department for veterans affairs of the provincial people's government shall determine and assess it.\nThe assessment of the grade of disability shall be based on the medical appraisal opinion on the grade of disability issued by a medical expert group.\nA disabled military person shall be issued a Certificate of Disabled Military Personnel of the People's Republic of China by the authority that determined the nature of the disability and assessed the grade of disability."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Pensions for Disability of Military Personnel"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Where a military person becomes disabled in battle or in the line of duty and his grade of disability was not assessed in a timely manner, he (or his guardian, in the case of a person with no or limited capacity for civil conduct) shall promptly apply for supplementary assessment of the grade of disability after retirement from active service; where the original archives and the original medical records can prove that the disability and the nature of the disability during active service meet the conditions for assessment of the grade of disability, the grade of disability may be assessed.\nWhere a person is diagnosed or appraised as having an occupational disease, or becomes disabled from shrapnel retained in the body and meets the conditions for assessment of the grade of disability, the assessment of the grade of disability may be made up.\nWhere, after the assessment of the grade of disability, the disability of the originally disabled part changes markedly during active service or after retirement from active service such that the originally determined grade clearly does not correspond to the disability, and the person (or his guardian, in the case of a person with no or limited capacity for civil conduct) applies, or the health department of the military or the competent department for veterans affairs of the local people's government proposes that the grade of disability needs to be adjusted, the grade of disability may be re-assessed. An application for adjustment of the grade of disability shall be made one year after the previous assessment."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Pensions for Disability of Military Personnel"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "A disabled military person who has retired from active service or who has been transferred to the government shall, within 60 days after the military completes the retirement or transfer formalities, apply to the competent department for veterans affairs of the county-level people's government at the place to which his household registration is moved for the transfer of his pension relationship and shall enjoy the disability pension according to the nature and grade of the disability. The disability pension for the year of his retirement or transfer to the government shall be paid by the unit in which he served, and the competent department for veterans affairs of the county-level people's government at the place of transfer shall pay it at the local standard from the following year.\nWhere a disabled military person continues in active service because of the needs of work, the unit in which he serves shall pay the disability pension in accordance with the provisions upon approval by a military unit at or above the corps level."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Pensions for Disability of Military Personnel"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The standards for the pension of disabled military personnel shall be determined by reference to the average annual wage of urban employed persons nationwide in the previous year. The standards for the disability pension and the specific measures for disabled military personnel of Grades 1 to 10 to enjoy the disability pension shall be prescribed by the competent department for veterans affairs of the State Council together with the finance department of the State Council.\nFor disabled military personnel who still have special difficulties in living after receiving the disability pension, local people's governments at or above the county level may pay an additional pension or provide hardship subsidies by other means."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Pensions for Disability of Military Personnel"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Where a disabled military person who retired from active service with a disability incurred in battle or in the line of duty dies of the recurrence of an old wound, the competent department for veterans affairs of the county-level people's government shall pay a lump-sum pension to his surviving family members at the pension standard for military personnel who died in the line of duty, and his surviving family members shall enjoy the treatment of a regular pension for the surviving family members of military personnel who died in the line of duty in accordance with the provisions of the State.\nWhere a disabled military person who retired from active service dies of illness, the disability pension he originally enjoyed shall continue to be paid to his surviving family members for 12 months as a funeral subsidy; among them, where a disabled military person of Grades 1 to 4 with a disability incurred in battle or in the line of duty dies of illness, his surviving family members shall enjoy the treatment of a regular pension for the surviving family members of military personnel who died of illness in accordance with the provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III Pensions for Disability of Military Personnel"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Disabled military personnel of Grades 1 to 4 at the time of retirement from active service shall be supported by the State for life; among them, those requiring long-term medical treatment or those who are single and for whom dispersed support is inconvenient may, upon approval by the competent department for veterans affairs of the provincial people's government, be supported in a centralised manner."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter III Pensions for Disability of Military Personnel"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Nursing fees shall be paid to disabled military personnel of Grades 1 to 4 who are supported in a dispersed manner at the time of retirement from active service, to those whose grade is made up or adjusted to Grades 1 to 4 after retirement from active service, and to those assessed as Grades 5 to 6 during active service owing to mental disorder. The standards of nursing fees shall be:\n(a) for Grades 1 and 2 disabilities incurred in battle or in the line of duty, 50 per cent of the average monthly wage of urban employed persons in the locality in the previous year;\n(b) for Grades 3 and 4 disabilities incurred in battle or in the line of duty, 40 per cent of the average monthly wage of urban employed persons in the locality in the previous year;\n(c) for Grades 1 to 4 disabilities incurred from illness, 30 per cent of the average monthly wage of urban employed persons in the locality in the previous year; and\n(d) for Grades 5 to 6 disabilities incurred from mental disorder, 25 per cent of the average monthly wage of urban employed persons in the locality in the previous year.\nThe nursing fees of disabled military personnel who have retired from active service and been transferred to the locality shall be paid by the competent department for veterans affairs of local people's governments at or above the county level. The nursing fees of disabled military personnel who have not retired from active service or have not been transferred to the locality shall be paid by the unit in which they serve in accordance with the relevant provisions of the military. The nursing fees of retired disabled military personnel on temporary leave who have been transferred to the government for placement shall be paid in accordance with the relevant provisions of the State and the military.\nWhere a disabled military person enjoying nursing fees is admitted for centralised treatment in a preferential care hospital, the nursing fees shall be used by the preferential care hospital in an overall manner. Where a disabled military person enjoying nursing fees is served by a unit that purchases care services from the locality during his service in the military, the nursing fees shall be included by the unit in the funds for the purchase of social services for unified management and use in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter III Pensions for Disability of Military Personnel"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Where a disabled military person requires rehabilitation assistive devices such as artificial limbs, wheelchairs and hearing aids owing to his disability, the unit at or above the corps level of the military shall be responsible for providing them during active service; after retirement from active service, the competent department for veterans affairs of the provincial people's government shall be responsible for providing them, and the funds required shall be ensured by the provincial people's government."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter III Pensions for Disability of Military Personnel"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Recipients of pension and preferential treatment shall, in accordance with law, enjoy family preferential payments, honour incentives and care and assistance, as well as preferential treatment in education, medical care, employment, housing, elderly care, transport and culture."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Preferential Treatment"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The State shall improve the measures for commending and rewarding recipients of pension and preferential treatment, build an honour incentive system that lays equal stress on the moral and the material, establish an honour incentive mechanism for recipients of pension and preferential treatment, and improve the policies and systems for inviting them to major celebratory activities, carrying out publicity of typical examples, hanging honour plaques, issuing preferential treatment certificates, delivering good news announcements, recording them in local chronicles and organising short-term convalescence."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Preferential Treatment"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "The State shall establish a mechanism of care and assistance for recipients of pension and preferential treatment, gradually improve the registration system of information files on the living conditions of recipients of pension and preferential treatment, and localities where conditions permit may establish veterans care funds and make full use of veterans care funds and the like to carry out assistance, so as to intensify care and assistance for recipients of pension and preferential treatment who have undergone major changes in their lives or encountered special difficulties.\nTownship people's governments and sub-district offices shall, through household visits and other means, take the initiative to ascertain the living conditions of recipients of pension and preferential treatment in their administrative areas, promptly identify those in difficulty and provide services such as assistance in applying and organising assistance. Community-level mass self-governing organisations shall assist in the visiting and assistance work for recipients of pension and preferential treatment. The role of social organisations, social workers and volunteers shall be encouraged in providing services such as psychological counselling, moral comfort, legal aid and humanistic care to recipients of pension and preferential treatment. People's governments at or above the county level shall take measures to provide conditions and support for township people's governments, sub-district offices and community-level mass self-governing organisations to carry out the relevant work."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Preferential Treatment"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The State shall gradually increase preferential treatment for the surviving family members of martyrs in education, medical care, employment, elderly care, housing, transport and culture.\nThe relevant departments of the State Council, the relevant departments of the military and local people's governments shall show concern for the living conditions of the surviving family members of martyrs, carry out visits and condolences, and promptly give them honour incentives and moral comfort.\nWhere the children of martyrs meet the conditions for examination, recruitment or employment as civil servants or full-time community workers, they shall be given priority in recruitment or employment under equal conditions."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter IV Preferential Treatment"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where the children and brothers and sisters of martyrs, of military personnel who died in the line of duty and of military personnel who died of illness, and the children of military personnel, voluntarily apply for enlistment and meet the conditions for conscription, they shall be given priority in approval for active service; where they apply for civilian personnel positions in the military, they shall enjoy preferential treatment in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter IV Preferential Treatment"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "The State shall establish preferential care hospitals and glory homes to provide preferential services to recipients of pension and preferential treatment in accordance with the provisions. People's governments at or above the county level shall make full use of existing medical and elderly care service resources, strengthen the development of preferential care hospitals and glory homes in light of local conditions, and admit or provide centralised support for veterans who are elderly and living alone or unable to care for themselves.\nWhere veterans who participated in battle, the surviving family members of martyrs, of military personnel who died in the line of duty and of military personnel who died of illness, and the family members of military personnel meet the prescribed conditions and apply for centralised support, inpatient treatment or short-term convalescence in preferential care hospitals or glory homes established by the State, they shall enjoy priority and preferential treatment.\nSocial welfare institutions of all types shall give priority to admitting recipients of pension and preferential treatment. Where the surviving family members of martyrs, of military personnel who died in the line of duty and of military personnel who died of illness and the family members of military personnel meet the prescribed conditions and apply to stay in public elderly care institutions, they shall be given priority under equal conditions."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IV Preferential Treatment"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The State shall establish a system of preferential payments to the families of conscripts, with costs shared in grades between the central and local finances. During the active service of a conscript, the county-level people's government at the place where his enlistment was approved shall pay preferential payments to his family, and his family shall at the same time enjoy other preferential treatment in accordance with the provisions.\nThe rural land contractual management rights lawfully acquired by conscripts and non-commissioned officers before enlistment shall be retained during their active service.\nOrdinary mail sent by conscripts from their units shall be posted free of charge."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter IV Preferential Treatment"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where the children of martyrs apply for admission to ordinary senior secondary schools, secondary vocational schools or institutions of higher education, they shall enjoy preferential treatment in accordance with the Regulations on the Commendation of Martyrs and other laws and regulations and the relevant provisions of the State. Where they study in public kindergartens or public schools, they shall enjoy policies such as various student financial aid in accordance with the relevant provisions of the State.\nWhere the children of military personnel who died in the line of duty and the children of disabled military personnel of Grades 1 to 4 apply for admission to ordinary senior secondary schools, secondary vocational schools or institutions of higher education, they shall be given preferential treatment at the time of admission in accordance with the relevant provisions of the State; where they receive academic education, they shall enjoy policies such as various student financial aid in accordance with the relevant provisions of the State.\nWhere the children of military personnel enter public schools at the compulsory education stage and inclusive kindergartens, they may do so at the place of household registration of themselves, their parents, paternal grandparents, maternal grandparents or other statutory guardians, or at the place of residence of their parents or the place where the military unit is stationed, and shall enjoy the local preferential education policies for the children of military personnel; where they apply for admission to ordinary senior secondary schools, secondary vocational schools or institutions of higher education, they shall be given priority in admission in accordance with the relevant provisions of the State; where they receive academic education, they shall enjoy policies such as various student financial aid in accordance with the relevant provisions of the State. Local people's governments at all levels and their relevant departments shall, in accordance with laws, regulations and the relevant provisions of the State, create conditions for the children of military personnel to receive a good education.\nWhere disabled military personnel, conscripts and junior non-commissioned officers apply for admission to secondary vocational schools or institutions of higher education after retirement from active service, they shall enjoy preferential treatment in accordance with the relevant provisions of the State. Disabled military personnel shall be given priority in arranging participation in study and training and shall enjoy the State financial aid policies in accordance with the provisions. Veterans shall participate in education and training free of charge in accordance with the provisions. Where eligible retired college student soldiers resume their studies, change their majors or pursue a master's degree, they shall enjoy preferential policies in accordance with the relevant provisions of the State.\nThe specific measures for recipients of pension and preferential treatment to enjoy preferential education shall be prescribed by the competent department for veterans affairs of the State Council together with the education department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter IV Preferential Treatment"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "The State shall ensure the medical expenses of disabled military personnel of Grades 1 to 6 in accordance with the provisions, and among them, the medical expenses for the recurrence of an old wound of disabled military personnel of Grades 1 to 6 who participate in work injury insurance shall be paid from the work injury insurance fund.\nFor the medical expenses for the recurrence of an old wound of disabled military personnel of Grades 7 to 10, where they participate in work injury insurance, the expenses shall be paid from the work injury insurance fund; where they do not participate in work injury insurance, the expenses shall be resolved by their employing units if they have one, and by the local people's government at or above the county level if they do not. For the medical expenses of disabled military personnel of Grades 7 to 10 other than those for the recurrence of an old wound, where they do not participate in medical insurance and have difficulty paying themselves, the local people's government at or above the county level shall, as appropriate, grant a subsidy.\nRecipients of pension and preferential treatment shall enjoy preferential services in accordance with the provisions in medical and health institutions of the military and medical and health institutions established by the government, and the State encourages medical and health institutions established by social forces to provide preferential services for the medical treatment of recipients of pension and preferential treatment. Veterans who participated in battle and disabled military personnel shall enjoy preferential medical treatment in accordance with the provisions.\nThe specific measures for recipients of pension and preferential treatment to enjoy preferential medical treatment and concessions shall be prescribed by the competent department for veterans affairs of the State Council and the logistics support department of the Central Military Commission together with the finance, health and medical security departments of the State Council.\nThe central finance shall give appropriate subsidies to local governments to help resolve the difficulties of recipients of pension and preferential treatment in respect of medical expenses."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter IV Preferential Treatment"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where a conscript or non-commissioned officer was a staff member of a State organ, people's organisation, public institution or State-owned enterprise before enlistment and is placed by way of self-employment after retirement from active service, he may choose to resume his original post or return to work, and his wages and welfare benefits shall not be lower than the average level of staff members of the same unit under equal conditions; during his active service, his family members shall continue to enjoy the relevant welfare benefits for the family members of staff members of that unit.\nWhere disabled military personnel, conscripts and junior non-commissioned officers apply for civil service positions after retirement from active service, they shall enjoy preferential treatment in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter IV Preferential Treatment"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "The State shall safeguard in accordance with law the rights and interests of the spouses of military personnel in employment placement. State organs, people's organisations, enterprises and public institutions, social organisations and other organisations shall perform in accordance with law the obligation to accept the employment placement of the spouses of military personnel. The family members of officers and non-commissioned officers approved to join the military by the political work department of a military unit at or above the regiment level shall have their household registration formalities completed by the public security organ at the place where the military unit is stationed.\nWhere the spouse of a military person worked in a State organ or public institution before joining the military, the people's government at the place of placement and its competent departments shall, in accordance with the relevant provisions of the State, arrange for the spouse to work in a corresponding unit. Among them, where the spouse was a civil servant before joining the military, the spouse shall, by way of transfer of post and other means and within the prescribed staffing limits and number of posts, in light of the local situation and the actual situation of the spouse, in principle be placed in a corresponding post in a State organ; where the spouse was a staff member of a public institution before joining the military, the spouse shall, by way of exchange and within the prescribed staffing limits and number of posts established, in light of the local situation and the actual situation of the spouse, in principle be placed in a corresponding post in a public institution. Through two-way selection between the individual and the receiving unit, the spouse may also be placed in a suitable post in another unit in accordance with the provisions.\nWhere the spouse of a military person worked in another unit before joining the military, or has no employing unit but has the ability and the intention to work, the people's government at the place of placement shall provide employment services such as vocational guidance, job referral and vocational training, implement the relevant supporting policies in accordance with the provisions, and help the spouse to find employment.\nThe local people's government shall give priority to arranging employment for the surviving family members of martyrs, the surviving family members of military personnel who died in the line of duty and the spouses of military personnel meeting the prescribed conditions. Where eligible officers and non-commissioned officers retire from active service, their spouses and children may be transferred and relocated together in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter IV Preferential Treatment"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "The State encourages employing units with employment needs to give priority to arranging employment for the family members of military personnel who join the military. State-owned enterprises shall, when recruiting new staff, employ the family members of military personnel who join the military in an appropriate proportion of their employment needs; private enterprises where conditions permit may, when recruiting new staff, employ such family members in an appropriate proportion of their employment needs.\nThe State encourages and supports the spouses of military personnel who have the conditions and the intention to find employment or start businesses on their own, and implements the relevant supporting policies in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter IV Preferential Treatment"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "For officers and non-commissioned officers of units stationed in counties (cities) in border areas of the national frontier, desert areas, the third-category areas among the remote areas determined by the State and the special, first-category and second-category islands determined by the military, whose family members meet the conditions for joining the military but cannot do so, such family members may choose to voluntarily settle at the place of original household registration of the military person or of his spouse, or at the place of household registration of the parents of the military person or of the parents of his spouse, and the local people's government shall properly place them."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter IV Preferential Treatment"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where the surviving family members of martyrs, of military personnel who died in the line of duty and of military personnel who died of illness who joined the military are transferred to local people's governments for placement, they shall enjoy the preferential treatment prescribed by these Regulations and by the local people's government."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter IV Preferential Treatment"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where disabled military personnel work in State organs, people's organisations, enterprises and public institutions or social organisations after retirement from active service, they shall enjoy the same living welfare and medical treatment as persons injured at work in their units. Their units shall not dismiss them or terminate their employment contracts or labour contracts on account of their disability."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter IV Preferential Treatment"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "The State shall, in keeping with the requirements of the reform and development of the housing security system, gradually improve the measures for housing preference for recipients of pension and preferential treatment and appropriately increase the intensity of preferential treatment for veterans who participated in battle and for the surviving family members of martyrs, of military personnel who died in the line of duty and of military personnel who died of illness. Where recipients of pension and preferential treatment meeting the local housing security conditions rent or purchase indemnificatory housing, the relevant departments of local people's governments at or above the county level shall give them priority. Eligible recipients of pension and preferential treatment living in rural areas shall, under equal conditions, be given priority for inclusion in the scope of projects relating to the renovation of dilapidated rural housing implemented by the State or the locality."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter IV Preferential Treatment"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Military personnel may, on the strength of valid documents such as officer certificates, non-commissioned officer certificates, conscript certificates and cadet certificates, disabled military personnel on the strength of the Certificate of Disabled Military Personnel of the People's Republic of China, and the surviving family members of martyrs, of military personnel who died in the line of duty and of military personnel who died of illness on the strength of preferential treatment certificates, enjoy priority services in ticket purchase, security check, waiting and boarding when travelling by railway passenger trains, ships, long-distance passenger coaches and civil aircraft operated within the territory, and the family members travelling with them may enjoy priority services together with them; disabled military personnel shall enjoy the preferential treatment of a 50 per cent reduction on the fares published by domestic transport operators.\nMilitary personnel and disabled military personnel may, on the strength of their certificates, travel free of charge on urban buses, trolleybuses, ferries and rail transit."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter IV Preferential Treatment"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where recipients of pension and preferential treatment visit and tour public cultural facilities such as libraries, museums, art galleries, science and technology museums, memorial halls and sports venues, and parks, exhibition halls and places of historic interest and scenic beauty, they shall enjoy preferential treatment and preferential services in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter IV Preferential Treatment"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Military personnel shall enjoy preferential individual income tax policies in accordance with law. Where veterans engage in individual business or enterprises employ veterans and meet the conditions, they shall enjoy tax preferences in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter IV Preferential Treatment"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where a unit administering the pension and preferential treatment of military personnel or its staff members misappropriates, withholds or privately divides the funds required for the pension and preferential treatment of military personnel or the working funds, and a crime is constituted, criminal liability of the responsible persons shall be investigated in accordance with law; where a crime is not constituted, sanctions shall be imposed in accordance with law on the responsible persons. The funds required for the pension and preferential treatment of military personnel and the working funds that have been misappropriated, withheld or privately divided shall be recovered by order of the competent department for veterans affairs of the people's government at the next higher level or the relevant department of the military."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where a unit administering the pension and preferential treatment of military personnel or its staff members, or a unit participating in the work of pension and preferential treatment of military personnel or its staff members, commits any of the following acts, the competent department at the higher level shall order correction; where the circumstances are serious and a crime is constituted, criminal liability of the responsible persons shall be investigated in accordance with law; where a crime is not constituted, sanctions shall be imposed in accordance with law on the responsible persons:\n(a) approving pension benefits for military personnel in violation of the provisions;\n(b) issuing false diagnoses, appraisals or certificates in the course of examining and approving pension benefits for military personnel;\n(c) examining and approving or paying pensions, subsidies and preferential payments not in accordance with the prescribed standards, amounts or recipients;\n(d) taking advantage of position to seek personal gain in the work of pension and preferential treatment for military personnel; or\n(e) other acts in violation of laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where a unit obligated to provide preferential treatment to military personnel fails to perform its obligation of preferential treatment, the competent department for veterans affairs of a local people's government at or above the county level shall order it to perform the obligation within a specified period; where it still fails to perform upon expiry of the period, it shall be fined not less than RMB 20,000 but not more than RMB 50,000; and sanctions shall be imposed in accordance with law on the directly responsible persons in charge and other directly responsible persons. Where a recipient of pension and preferential treatment suffers loss because of the failure to perform the obligation of preferential treatment, liability for compensation shall be borne in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where a recipient of pension and preferential treatment or any other person commits any of the following acts, the competent department for veterans affairs of a local people's government at or above the county level or the relevant department of the military shall cancel the relevant benefits and recover the illegal gains, and the unit in which the person works or the relevant department shall impose a sanction in accordance with law; where a crime is constituted, criminal liability shall be investigated in accordance with law:\n(a) fraudulently obtaining pensions, subsidies or preferential payments;\n(b) fabricating the circumstances of disability, injury or illness to fraudulently obtain medical expenses or other expenses or the relevant pension and preferential treatment benefits;\n(c) issuing false certificates or forging certificates or seals to fraudulently obtain pensions, subsidies or preferential payments; or\n(d) fraudulently obtaining pension and preferential treatment benefits by other deceptive means."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where a recipient of pension and preferential treatment is sentenced to fixed-term imprisonment, deprived of political rights or wanted, the payment of pensions and subsidies shall be suspended; where the person is sentenced to death or life imprisonment or is expelled from the military register, his eligibility for pension and preferential treatment shall be cancelled.\nWhere a recipient of pension and preferential treatment falls under the circumstances specified in the preceding paragraph, the competent department for veterans affairs of the provincial people's government shall, in accordance with the relevant provisions of the State, suspend or cancel the relevant pension and preferential treatment benefits and report the matter to the competent department for veterans affairs of the State Council for the record."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "These Regulations apply to the Chinese People's Armed Police Force."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "The pension and preferential treatment of retired military cadres on temporary leave and retired non-commissioned officers shall be carried out in accordance with the provisions of these Regulations on the pension and preferential treatment of military personnel.\nVeterans who participated in tests shall be treated by reference to the provisions of these Regulations on veterans who participated in battle.\nThe pension for reserve personnel, militia members, civilian workers and other persons who are killed or injured in battle or in participation in military operations other than war, military training and the performance of military duties shall be handled by reference to the relevant provisions of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "The State shall, in accordance with the provisions, pay regular living subsidies to eligible veterans who participated in battle, veterans who returned to their home villages with illness, rural retired soldiers aged 60 or above, persons who enlisted before 31 October 1954 and were subsequently approved for retirement from active service, and children of martyrs who live in rural areas or in towns without an employing unit, are aged 60 or above and were 18 years of age or older when the State established the regular pension system.\nWhere a veteran who participated in battle and enjoys the State regular living subsidy dies, the regular living subsidy he originally enjoyed shall continue to be paid for six months as a funeral subsidy."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Civilian personnel converted from active military personnel during the deepening of national defence and military reform shall be treated in accordance with the provisions of these Regulations on the pension and preferential treatment of military personnel.\nThe pension and preferential treatment of other civilian personnel for death or injury sustained in undertaking support and safeguard tasks in combat and military operations with a combat background, in participation in military operations other than war, and in military training approved by a unit at or above the corps level and included in the military training plan shall be handled by reference to the relevant provisions of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "These Regulations shall come into force on 1 October 2024."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-REG-0221'] = {
     "lawId": "CN-REG-0221",
     "sourceLang": "zh",
@@ -21099,6 +21855,744 @@
         },
         "noLabel": {
           "en": "Article 16."
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0247'] = {
+    "lawId": "CN-REG-0247",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 62 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated for the purpose of strengthening the supervision and administration of civil nuclear safety equipment, ensuring the safe operation of civil nuclear facilities, preventing nuclear accidents, safeguarding the health of workers and the public, protecting the environment and promoting the sound development of the nuclear energy industry."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "For the purposes of these Regulations, \"civil nuclear safety equipment\" means equipment used in civil nuclear facilities that performs nuclear safety functions, including nuclear safety mechanical equipment and nuclear safety electrical equipment.\nThe catalogue of civil nuclear safety equipment shall be drawn up and issued by the nuclear safety regulatory authority of the State Council in consultation with the relevant departments of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "These Regulations apply to the design, manufacture, installation and non-destructive testing of civil nuclear safety equipment.\nMaintenance activities carried out on civil nuclear safety equipment away from the site of a civil nuclear facility shall be governed by the relevant provisions on the manufacture of civil nuclear safety equipment."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The nuclear safety regulatory authority of the State Council shall exercise supervision and administration over the design, manufacture, installation and non-destructive testing of civil nuclear safety equipment.\nThe nuclear industry competent department of the State Council and other relevant departments shall be responsible for the relevant work in accordance with these Regulations and the division of duties prescribed by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Entities engaged in the design, manufacture, installation and non-destructive testing of civil nuclear safety equipment shall establish and improve a responsibility system, strengthen quality management and bear overall responsibility for the design, manufacture, installation and non-destructive testing activities of civil nuclear safety equipment in which they engage.\nOperating entities of civil nuclear facilities shall inspect, test, examine and maintain civil nuclear safety equipment in service, and bear overall responsibility for the use and operational safety of civil nuclear safety equipment."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The design, manufacture, installation and non-destructive testing of civil nuclear safety equipment shall conform to the relevant industrial policies of the State.\nThe State encourages scientific and technological research on the design, manufacture, installation and non-destructive testing of civil nuclear safety equipment so as to raise the level of safety."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Any unit or individual shall have the right to report to the nuclear safety regulatory authority of the State Council any act that violates these Regulations. Upon receipt of a report, the nuclear safety regulatory authority of the State Council shall promptly investigate and handle the matter and keep the identity of the reporter confidential."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Standards for civil nuclear safety equipment constitute the technical basis for engaging in the design, manufacture, installation and non-destructive testing of civil nuclear safety equipment."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Standards"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The State shall establish and improve a system of standards for civil nuclear safety equipment. In formulating standards for civil nuclear safety equipment, full account shall be taken of the technological development and application requirements of civil nuclear safety equipment and of China's industrial foundation and technical level, so that such standards are safe and reliable, technically mature and economically rational.\nStandards for civil nuclear safety equipment include national standards, industry standards and enterprise standards."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Standards"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "National standards for civil nuclear safety equipment that involve the basic principles and technical requirements of nuclear safety shall be drafted under the organisation of the nuclear safety regulatory authority of the State Council and issued jointly by the standardisation competent department of the State Council and the nuclear safety regulatory authority of the State Council; other national standards for civil nuclear safety equipment shall be drafted under the organisation of the nuclear industry competent department of the State Council, recognised by the nuclear safety regulatory authority of the State Council and issued by the standardisation competent department of the State Council.\nIndustry standards for civil nuclear safety equipment shall be drafted under the organisation of the nuclear industry competent department of the State Council, recognised by the nuclear safety regulatory authority of the State Council, issued by the nuclear industry competent department of the State Council and filed with the standardisation competent department of the State Council.\nIn formulating national standards and industry standards for civil nuclear safety equipment, the opinions of the relevant departments and experts shall be fully solicited."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Standards"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Where the corresponding national standards and industry standards have not yet been formulated, entities engaged in the design, manufacture, installation and non-destructive testing of civil nuclear safety equipment shall adopt standards recognised by the nuclear safety regulatory authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Standards"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Entities engaged in the design, manufacture, installation and non-destructive testing of civil nuclear safety equipment shall apply for and obtain a licence in accordance with these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter III Licensing"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Entities applying for a licence for the design, manufacture, installation or non-destructive testing of civil nuclear safety equipment shall meet the following conditions:\n(a) they have the status of a legal person;\n(b) they have work records relevant or similar to the activities they intend to engage in and extending over five years or more;\n(c) they have professional and technical personnel suited to the activities they intend to engage in who have passed the requisite assessment, and among them the professional and technical personnel engaging in the welding and non-destructive testing of civil nuclear safety equipment shall have obtained the corresponding qualification certificates;\n(d) they have workplaces, facilities and equipment suited to the activities they intend to engage in; and\n(e) they have sound management systems and a complete quality assurance system, as well as a quality assurance programme that conforms to the provisions on nuclear safety supervision and administration.\nEntities applying for a licence for the manufacture or installation of civil nuclear safety equipment shall additionally produce representative mock-ups."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter III Licensing"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Entities applying for a licence for the design, manufacture, installation or non-destructive testing of civil nuclear safety equipment shall submit a written application to the nuclear safety regulatory authority of the State Council together with supporting documents proving that they meet the conditions set out in Article 13 of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter III Licensing"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The nuclear safety regulatory authority of the State Council shall complete its examination within 45 working days from the date of acceptance of the application, issue a licence to entities that meet the conditions and make a public announcement, and notify in writing entities that do not meet the conditions together with the reasons.\nIn the course of examination, the nuclear safety regulatory authority of the State Council shall organise experts to conduct a technical review and solicit the opinions of the nuclear industry competent department of the State Council and other relevant departments. The time required for the technical review shall not be counted within the time limit prescribed in the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Licensing"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "A licence for the design, manufacture, installation and non-destructive testing of civil nuclear safety equipment shall state the following:\n(a) the name, address and legal representative of the entity;\n(b) the type and scope of the activities permitted;\n(c) the period of validity; and\n(d) the licensing authority, the date of issue and the licence number."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Licensing"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Where an entity engaged in the design, manufacture, installation and non-destructive testing of civil nuclear safety equipment changes its name, address or legal representative, it shall apply to the nuclear safety regulatory authority of the State Council for amendment of its licence within 20 days from the date of the change in its industrial and commercial registration.\nWhere an entity engaged in the design, manufacture, installation and non-destructive testing of civil nuclear safety equipment changes the type or scope of activities specified in its licence, it shall apply afresh to the nuclear safety regulatory authority of the State Council for a licence in accordance with the original application procedure."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Licensing"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "A licence for the design, manufacture, installation and non-destructive testing of civil nuclear safety equipment shall be valid for five years.\nWhere an entity engaged in the design, manufacture, installation and non-destructive testing of civil nuclear safety equipment needs to continue the relevant activities upon expiry of the licence, it shall submit an application for extension to the nuclear safety regulatory authority of the State Council six months before the licence expires.\nThe nuclear safety regulatory authority of the State Council shall decide whether to grant an extension before the licence expires; where no decision is made within that period, the extension shall be deemed granted."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Licensing"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "It is prohibited to engage in the design, manufacture, installation and non-destructive testing of civil nuclear safety equipment without a licence or beyond the type and scope of activities specified in the licence.\nIt is prohibited to commission entities that have not obtained the corresponding licence to carry out the design, manufacture, installation and non-destructive testing of civil nuclear safety equipment.\nIt is prohibited to forge, alter or transfer licences."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Licensing"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Entities engaged in the design, manufacture, installation and non-destructive testing of civil nuclear safety equipment shall enhance their nuclear safety awareness, establish a complete quality assurance system and ensure the quality and reliability of civil nuclear safety equipment.\nOperating entities of civil nuclear facilities shall exercise quality management and process control over the design, manufacture, installation and non-destructive testing of civil nuclear safety equipment and shall properly perform supervision of manufacture and acceptance."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter IV Design, Manufacture, Installation and Non-Destructive Testing"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Entities engaged in the design, manufacture, installation and non-destructive testing of civil nuclear safety equipment shall, on the basis of their quality assurance programme and the requirements of the operating entity of the civil nuclear facility, prepare a project-specific quality assurance sub-programme before the design, manufacture, installation and non-destructive testing activities commence, and shall obtain the examination and consent of the operating entity of the civil nuclear facility."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter IV Design, Manufacture, Installation and Non-Destructive Testing"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Entities engaged in the design of civil nuclear safety equipment shall, 30 days before design activities commence, file the following documents with the nuclear safety regulatory authority of the State Council:\n(a) the project-specific design quality assurance sub-programme and a list of procedures;\n(b) the design content and the design schedule;\n(c) a list of the standards and codes observed in the design and a list of the computer software used in the design; and\n(d) a list of design verification activities."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter IV Design, Manufacture, Installation and Non-Destructive Testing"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Entities engaged in the manufacture and installation of civil nuclear safety equipment shall, 30 days before manufacture and installation activities commence, file the following documents with the nuclear safety regulatory authority of the State Council:\n(a) the project-specific manufacture and installation quality assurance sub-programme and a list of procedures;\n(b) the manufacture and installation technical specifications;\n(c) a list of subcontracted items; and\n(d) the manufacture and installation quality plan."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter IV Design, Manufacture, Installation and Non-Destructive Testing"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Entities engaged in the design, manufacture, installation and non-destructive testing of civil nuclear safety equipment shall not subcontract to other entities the key process stages designated by the nuclear safety regulatory authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter IV Design, Manufacture, Installation and Non-Destructive Testing"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Entities engaged in the manufacture, installation and non-destructive testing of civil nuclear safety equipment, and operating entities of civil nuclear facilities, shall employ persons holding qualification certificates for welders, welding operators and non-destructive testing personnel for civil nuclear safety equipment to carry out the welding and non-destructive testing of civil nuclear safety equipment.\nQualification certificates for welders, welding operators and non-destructive testing personnel for civil nuclear safety equipment shall be examined, approved and issued by the nuclear safety regulatory authority of the State Council.\nWelders, welding operators and non-destructive testing personnel for civil nuclear safety equipment shall strictly observe the operating rules in the welding and non-destructive testing of civil nuclear safety equipment."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter IV Design, Manufacture, Installation and Non-Destructive Testing"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Entities engaged in the non-destructive testing of civil nuclear safety equipment shall issue non-destructive testing result reports objectively and accurately. A non-destructive testing result report shall be valid only after it is signed by non-destructive testing personnel who have obtained the corresponding qualification certificate.\nEntities engaged in the non-destructive testing of civil nuclear safety equipment and their non-destructive testing personnel shall be responsible for the non-destructive testing result reports."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Design, Manufacture, Installation and Non-Destructive Testing"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Entities engaged in the design of civil nuclear safety equipment shall carry out design verification of their designs. Design verification shall be performed by professional personnel who did not participate in the original design.\nDesign verification may take the form of design review, qualification tests or other calculation methods different from those used in the design."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Design, Manufacture, Installation and Non-Destructive Testing"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Entities engaged in the manufacture and installation of civil nuclear safety equipment shall inspect the manufacture and installation quality of civil nuclear safety equipment. Equipment that has not been inspected or that fails inspection shall not be delivered for acceptance."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Design, Manufacture, Installation and Non-Destructive Testing"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Operating entities of civil nuclear facilities shall conduct acceptance of the quality of civil nuclear safety equipment. Acceptance shall not be passed in any of the following circumstances:\n(a) the quality cannot be shown to be under control in accordance with quality assurance requirements; or\n(b) a major quality problem has arisen and has not been fully resolved."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Design, Manufacture, Installation and Non-Destructive Testing"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Entities engaged in the design, manufacture, installation and non-destructive testing of civil nuclear safety equipment shall conduct an annual assessment of the design, manufacture, installation and non-destructive testing activities of civil nuclear safety equipment in which they engage, and shall submit the assessment report for the previous year to the nuclear safety regulatory authority of the State Council before 1 April each year.\nThe assessment report shall cover changes in the entity's workplaces, facilities, equipment and personnel, the implementation of the quality assurance system, the handling of major quality problems, and the implementation of rectification requirements raised by the nuclear safety regulatory authority of the State Council and the operating entity of the civil nuclear facility.\nWhere a major quality problem arises in the design, manufacture, installation and non-destructive testing of civil nuclear safety equipment in which an entity engages, the entity shall immediately take remedial measures and report to the nuclear safety regulatory authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Design, Manufacture, Installation and Non-Destructive Testing"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Overseas entities engaging in the design, manufacture, installation and non-destructive testing of civil nuclear safety equipment for civil nuclear facilities within the territory of the People's Republic of China shall meet the following conditions:\n(a) they comply with the laws and administrative regulations of the People's Republic of China and the provisions on nuclear safety supervision and administration;\n(b) they have obtained the corresponding qualifications prescribed by the nuclear safety regulatory authority of their host country;\n(c) the technology they use for the design, manufacture, installation and non-destructive testing of civil nuclear safety equipment is mature or has been verified; and\n(d) they adopt the national standards or industry standards of the People's Republic of China for civil nuclear safety equipment, or standards recognised by the nuclear safety regulatory authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter V Import and Export"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Overseas entities engaging in the design, manufacture, installation and non-destructive testing of civil nuclear safety equipment for civil nuclear facilities within the territory of the People's Republic of China shall complete registration formalities with the nuclear safety regulatory authority of the State Council in advance. The nuclear safety regulatory authority of the State Council shall copy the registration information of overseas entities to the nuclear industry competent department of the State Council and other relevant departments.\nThe specific measures for registration shall be formulated by the nuclear safety regulatory authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter V Import and Export"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The nuclear safety regulatory authority of the State Council and the inspection bodies subordinate to it shall conduct safety inspection of imported civil nuclear safety equipment in accordance with law.\nImported civil nuclear safety equipment shall, after passing safety inspection, be subject to commodity inspection by the customs."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter V Import and Export"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The nuclear safety regulatory authority of the State Council may, as required, conduct nuclear safety supervision and inspection of the design, manufacture, installation and non-destructive testing of civil nuclear safety equipment carried out by overseas entities for civil nuclear facilities within the territory of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter V Import and Export"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Operating entities of civil nuclear facilities shall stipulate in foreign trade contracts requirements concerning the supervision of manufacture, pre-shipment inspection and supervision of loading of civil nuclear safety equipment."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter V Import and Export"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The export of civil nuclear safety equipment shall be administered in accordance with the provisions of the relevant laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter V Import and Export"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The nuclear safety regulatory authority of the State Council and its dispatched offices shall, in accordance with these Regulations, conduct supervision and inspection of the design, manufacture, installation and non-destructive testing of civil nuclear safety equipment. Supervision and inspection shall be divided into routine inspection and non-routine inspection."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "The nuclear safety regulatory authority of the State Council and its dispatched offices shall have the power to take the following measures when conducting supervision and inspection:\n(a) to investigate and ascertain the situation from the legal representative and other relevant personnel of the inspected entity;\n(b) to enter the premises of the inspected entity to conduct on-site investigation or verification;\n(c) to consult and copy the relevant documents, records and other relevant materials;\n(d) to require the inspected entity to submit explanations of the relevant situation or reports on subsequent handling; and\n(e) to seal up temporarily civil nuclear safety equipment or its main components where there is evidence indicating the possible existence of a major quality problem.\nThe inspected entity shall cooperate, faithfully reflect the situation and provide the necessary materials, and shall not refuse or obstruct the inspection."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The nuclear safety regulatory authority of the State Council and its dispatched offices shall, when conducting supervision and inspection, make records of the content of the inspection, the problems found and the handling thereof, and such records shall be signed and confirmed by the supervision and inspection personnel and the responsible person of the inspected entity. Where the responsible person of the inspected entity refuses to sign, the supervision and inspection personnel shall place the relevant circumstances on record."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Supervision and inspection personnel for civil nuclear safety equipment shall produce their credentials when conducting supervision and inspection and shall preserve the technical and business secrets of the inspected entity.\nSupervision and inspection personnel for civil nuclear safety equipment shall not abuse their powers to infringe the lawful rights and interests of enterprises, nor take advantage of their position to demand or accept property.\nSupervision and inspection personnel for civil nuclear safety equipment shall not engage in or participate in business activities relating to civil nuclear safety equipment."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where the nuclear safety regulatory authority of the State Council finds that an entity engaged in the design, manufacture, installation and non-destructive testing of civil nuclear safety equipment no longer meets the conditions for the issue of a licence, it shall order the entity to rectify within a specified period."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The nuclear industry competent department of the State Council shall strengthen its administration of the operating entities of civil nuclear facilities in its industry and urge them to comply with the laws, administrative regulations and provisions on nuclear safety supervision and administration."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where the nuclear safety regulatory authority of the State Council or its supervision and inspection personnel for civil nuclear safety equipment commits any of the following acts, sanctions shall be imposed in accordance with law on the directly responsible persons in charge and other directly responsible persons; where a crime is constituted, criminal liability shall be investigated in accordance with law:\n(a) issuing a licence not in accordance with these Regulations;\n(b) failing to investigate and deal with an act in violation of these Regulations that has been discovered, or failing to handle a report in accordance with law after receiving it;\n(c) abusing powers to infringe the lawful rights and interests of enterprises, or taking advantage of position to demand or accept property;\n(d) engaging in or participating in business activities relating to civil nuclear safety equipment; or\n(e) committing other illegal acts in the supervision and administration of civil nuclear safety equipment."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where an entity engages in the design, manufacture, installation or non-destructive testing of civil nuclear safety equipment without a licence, the nuclear safety regulatory authority of the State Council shall order it to stop the illegal act and impose a fine of not less than RMB 500,000 but not more than RMB 1,000,000; where there is illegal income, such income shall be confiscated; and a fine of not less than RMB 20,000 but not more than RMB 100,000 shall be imposed on the directly responsible persons in charge and other directly responsible persons."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where an entity engaged in the design, manufacture, installation and non-destructive testing of civil nuclear safety equipment carries out such activities beyond the type or scope of activities specified in its licence, the nuclear safety regulatory authority of the State Council shall order it to stop the illegal act, rectify within a specified period and impose a fine of not less than RMB 100,000 but not more than RMB 500,000; where there is illegal income, such income shall be confiscated; where rectification is not completed within the specified period, its licence shall be suspended or revoked, and a fine of not less than RMB 20,000 but not more than RMB 100,000 shall be imposed on the directly responsible persons in charge and other directly responsible persons."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where an entity engaged in the design, manufacture, installation and non-destructive testing of civil nuclear safety equipment changes its name, address or legal representative without completing the licence amendment formalities in accordance with law, the nuclear safety regulatory authority of the State Council shall order it to rectify within a specified period; where rectification is not completed within the specified period, its licence shall be suspended or revoked."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where an entity forges, alters or transfers a licence, the nuclear safety regulatory authority of the State Council shall confiscate the forged or altered licence or revoke the licence and impose a fine of not less than RMB 100,000 but not more than RMB 500,000; where there is illegal income, such income shall be confiscated; a fine of not less than RMB 20,000 but not more than RMB 100,000 shall be imposed on the directly responsible persons in charge and other directly responsible persons; where the act constitutes a violation of public security administration, the public security organ shall impose a public security penalty in accordance with law; and where a crime is constituted, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where an entity engaged in the design, manufacture, installation and non-destructive testing of civil nuclear safety equipment carries out such activities not in accordance with the standards for civil nuclear safety equipment, the nuclear safety regulatory authority of the State Council shall order it to stop the illegal act, rectify within a specified period and cease the use of the relevant designs and equipment, and impose a fine of not less than RMB 100,000 but not more than RMB 500,000; where there is illegal income, such income shall be confiscated; where rectification is not completed within the specified period, its licence shall be suspended or revoked, and a fine of not less than RMB 20,000 but not more than RMB 100,000 shall be imposed on the directly responsible persons in charge and other directly responsible persons."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where an entity engaged in the design, manufacture, installation and non-destructive testing of civil nuclear safety equipment commits any of the following acts, the nuclear safety regulatory authority of the State Council shall order it to stop the illegal act, rectify within a specified period and impose a fine of not less than RMB 100,000 but not more than RMB 500,000; where rectification is not completed within the specified period, its licence shall be suspended or revoked, and a fine of not less than RMB 20,000 but not more than RMB 100,000 shall be imposed on the directly responsible persons in charge and other directly responsible persons:\n(a) commissioning an entity that has not obtained the corresponding licence to carry out the design, manufacture, installation or non-destructive testing of civil nuclear safety equipment;\n(b) employing persons who have not obtained the corresponding qualification certificates to carry out the welding or non-destructive testing of civil nuclear safety equipment; or\n(c) subcontracting to another entity the key process stages designated by the nuclear safety regulatory authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where an entity engaged in the design, manufacture, installation and non-destructive testing of civil nuclear safety equipment fails, in respect of a major quality problem arising in its design, manufacture, installation or non-destructive testing activities, to take remedial measures and report to the nuclear safety regulatory authority of the State Council as required, the nuclear safety regulatory authority of the State Council shall order it to stop the design, manufacture, installation or non-destructive testing of civil nuclear safety equipment, rectify within a specified period and impose a fine of not less than RMB 50,000 but not more than RMB 200,000; where rectification is not completed within the specified period, its licence shall be suspended or revoked, and a fine of not less than RMB 20,000 but not more than RMB 100,000 shall be imposed on the directly responsible persons in charge and other directly responsible persons."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where an entity engaged in the design, manufacture, installation and non-destructive testing of civil nuclear safety equipment commits any of the following acts, the nuclear safety regulatory authority of the State Council shall order it to stop the design, manufacture, installation or non-destructive testing of civil nuclear safety equipment with a time limit for rectification, and where rectification is not completed within the specified period, impose a fine of not less than RMB 50,000 but not more than RMB 200,000 and suspend or revoke its licence:\n(a) failing to prepare a project-specific quality assurance sub-programme and obtain the examination and consent of the operating entity of the civil nuclear facility as required;\n(b) failing to file the relevant documents with the nuclear safety regulatory authority of the State Council as required before the design, manufacture or installation of civil nuclear safety equipment commences; or\n(c) failing to conduct the annual assessment and submit the assessment report to the nuclear safety regulatory authority of the State Council as required."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where an entity engaged in the non-destructive testing of civil nuclear safety equipment issues a false non-destructive testing result report, the nuclear safety regulatory authority of the State Council shall impose a fine of not less than RMB 100,000 but not more than RMB 500,000 and revoke its licence; where there is illegal income, such income shall be confiscated; a fine of not less than RMB 20,000 but not more than RMB 100,000 shall be imposed on the directly responsible persons in charge and other directly responsible persons; and where a crime is constituted, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where a welder or welding operator for civil nuclear safety equipment violates the operating rules and thereby causes a serious welding quality problem, the nuclear safety regulatory authority of the State Council shall revoke his qualification certificate."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where non-destructive testing personnel for civil nuclear safety equipment violate the operating rules and thereby cause a serious error in a non-destructive testing result report, the nuclear safety regulatory authority of the State Council shall revoke his qualification certificate."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where an entity engaged in the design of civil nuclear safety equipment fails to carry out design verification as required, or an entity engaged in the manufacture or installation of civil nuclear safety equipment fails to conduct quality inspection as required or delivers equipment for acceptance when inspection has failed, the nuclear safety regulatory authority of the State Council shall order rectification within a specified period and impose a fine of not less than RMB 100,000 but not more than RMB 500,000; where there is illegal income, such income shall be confiscated; where rectification is not completed within the specified period, its licence shall be revoked, and a fine of not less than RMB 20,000 but not more than RMB 100,000 shall be imposed on the directly responsible persons in charge and other directly responsible persons."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where an operating entity of a civil nuclear facility commits any of the following acts, the nuclear safety regulatory authority of the State Council shall order it to rectify within a specified period and impose a fine of not less than RMB 1,000,000 but not more than RMB 5,000,000; where rectification is not completed within the specified period, its nuclear facility construction licence or nuclear facility operating licence shall be revoked, and a fine of not less than RMB 20,000 but not more than RMB 100,000 shall be imposed on the directly responsible persons in charge and other directly responsible persons:\n(a) commissioning an entity that has not obtained the corresponding licence to carry out the design, manufacture, installation or non-destructive testing of civil nuclear safety equipment; or\n(b) passing acceptance of civil nuclear safety equipment whose quality cannot be shown to be under control in accordance with quality assurance requirements, or in respect of which a major quality problem has arisen and has not been fully resolved."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where an entity engaged in the design, manufacture, installation and non-destructive testing of civil nuclear safety equipment is ordered to rectify within a specified period but fails to do so, or still fails to meet the conditions for the issue of a licence after rectification, the nuclear safety regulatory authority of the State Council shall suspend or revoke its licence."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where any entity refuses or obstructs supervision and inspection by the nuclear safety regulatory authority of the State Council or its dispatched offices, the nuclear safety regulatory authority of the State Council shall order it to rectify within a specified period; where it fails to rectify within the specified period or practises fraud in the course of supervision and inspection, its licence shall be suspended or revoked."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "An entity whose licence has been revoked in accordance with law for violating these Regulations shall not apply afresh for a licence within one year from the date of revocation."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Entities applying for a licence for the design, manufacture, installation or non-destructive testing of civil nuclear safety equipment shall pay the technical review fee in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "For the purposes of these Regulations, the following terms have the meanings given below:\n(a) nuclear safety mechanical equipment includes pressure vessels, steel containment vessels (steel liners), storage tanks, heat exchangers, pumps, fans and compressors, valves, gates, piping (including heat exchanger tubes) and pipe fittings, expansion joints, bellows, flanges, reactor internals, control rod drive mechanisms, supports, mechanical penetrations and castings and forgings for the above equipment that perform nuclear safety functions.\n(b) nuclear safety electrical equipment includes sensors (including detectors and transmitters), cables, cabinets (including enclosures and racks), control console panels, display instruments, emergency diesel generator sets, storage batteries (battery banks), electric motors, valve actuators and electrical penetrations that perform nuclear safety functions."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "These Regulations shall come into force on 1 January 2008."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
         }
       }
     ]
