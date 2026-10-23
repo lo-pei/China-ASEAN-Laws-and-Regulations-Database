@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p02
-   法规 73 部 / 译文 4646 条
+   法规 74 部 / 译文 4773 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -49341,6 +49341,1530 @@
         },
         "chapter": {
           "en": "Chapter X Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0150'] = {
+    "lawId": "CN-LAW-0150",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 127 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is enacted in order to safeguard the litigation rights of parties to maritime litigation, ensure that people's courts ascertain the facts, distinguish responsibility and correctly apply the law, and promptly try maritime cases."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Maritime litigation conducted within the territory of the People's Republic of China shall be governed by the Civil Procedure Law of the People's Republic of China and by this Law. Where this Law makes provision, those provisions shall apply."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Where an international treaty to which the People's Republic of China is a party or which it has concluded provides otherwise than the Civil Procedure Law of the People's Republic of China and this Law with respect to maritime litigation involving foreign elements, the provisions of that international treaty shall apply, except for the clauses on which the People's Republic of China has made reservations."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Maritime courts shall accept actions brought by parties in disputes over maritime tort, disputes over maritime contract, and other maritime disputes prescribed by law."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "This Law applies to maritime courts and to the higher people's courts and the Supreme People's Court of the places where they are located when they try maritime cases."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Territorial jurisdiction over maritime litigation shall be governed by the relevant provisions of the Civil Procedure Law of the People's Republic of China.\nTerritorial jurisdiction over the following maritime litigation shall be governed by the following provisions:\n(a) an action brought in respect of a maritime tort may, in addition to being governed by the provisions of Articles 29 to 31 of the Civil Procedure Law of the People's Republic of China, also be under the jurisdiction of the maritime court of the place where the port of registry is located;\n(b) an action brought in respect of a dispute over a contract of carriage by sea may, in addition to being governed by the provisions of Article 28 of the Civil Procedure Law of the People's Republic of China, also be under the jurisdiction of the maritime court of the place where the port of transhipment is located;\n(c) an action brought in respect of a dispute over a contract for the charter of a sea-going vessel shall be under the jurisdiction of the maritime court of the place where the vessel is delivered, the place where the vessel is redelivered, the place where the port of registry is located or the domicile of the defendant;\n(d) an action brought in respect of a dispute over a contract of protection and indemnity shall be under the jurisdiction of the maritime court of the place where the subject matter of the protection and indemnity is located, the place where the accident occurred or the domicile of the defendant;\n(e) an action brought in respect of a dispute over a contract of employment of seafarers on a sea-going vessel shall be under the jurisdiction of the maritime court of the domicile of the plaintiff, the place where the contract was concluded, the place where the seafarer boarded or left the vessel, or the domicile of the defendant;\n(f) an action brought in respect of a dispute over maritime security shall be under the jurisdiction of the maritime court of the place where the security is located or the domicile of the defendant; an action brought in respect of a dispute over a ship mortgage may also be under the jurisdiction of the maritime court of the place where the port of registry is located;\n(g) an action brought in respect of a dispute over the ownership, right of possession, right of use or priority right of a sea-going vessel shall be under the jurisdiction of the maritime court of the place where the vessel is located, the place where the port of registry is located or the domicile of the defendant."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        },
+        "chapter": {
+          "en": "Chapter II Jurisdiction"
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The following maritime litigation shall be under the exclusive jurisdiction of the maritime courts specified in this Article:\n(a) an action brought in respect of a dispute over operations at a coastal port shall be under the jurisdiction of the maritime court of the place where the port is located;\n(b) an action brought in respect of pollution damage to sea areas caused by the discharge, leakage or dumping of oils or other harmful substances from vessels, or by offshore production, operations, or shipbreaking or ship repair operations, shall be under the jurisdiction of the maritime court of the place where the pollution occurred, the place where the damage resulted or the place where measures to prevent pollution were taken;\n(c) an action brought in respect of a dispute over a contract of offshore exploration and development performed within the territory of the People's Republic of China and in sea areas under its jurisdiction shall be under the jurisdiction of the maritime court of the place of performance of the contract."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Jurisdiction"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Where all the parties to a maritime dispute are foreigners, stateless persons, foreign enterprises or organisations, and the parties choose by written agreement the jurisdiction of a maritime court of the People's Republic of China, that maritime court shall have jurisdiction over the dispute even if the place having an actual connection with the dispute is not within the territory of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Jurisdiction"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Where a party applies for a finding that maritime property is ownerless, the application shall be filed with the maritime court of the place where the property is located; where a party applies for a declaration of death as a result of a maritime accident, the application shall be filed with the maritime court of the place where the competent authority handling the maritime accident is located or of the maritime court that has accepted the relevant maritime case."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Jurisdiction"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Where a dispute over jurisdiction arises between a maritime court and a local people's court, it shall be resolved through consultation between the two; where consultation fails, the people's court at the next higher level common to both shall be requested to designate jurisdiction."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Jurisdiction"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Where a party applies for enforcement of a maritime arbitral award, or for recognition and enforcement of a judgment or ruling of a foreign court or a foreign maritime arbitral award, the application shall be filed with the maritime court of the place where the property to be enforced is located or of the domicile of the person subject to enforcement. Where there is no maritime court at the place where the property to be enforced is located or at the domicile of the person subject to enforcement, the application shall be filed with the intermediate people's court of that place."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Jurisdiction"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Preservation of a maritime claim means the compulsory measure taken by a maritime court, upon the application of a maritime claimant and in order to safeguard the realisation of the maritime claim, against the property of the person against whom the claim is made."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where a party applies for preservation of a maritime claim before bringing an action, the application shall be filed with the maritime court of the place where the property to be preserved is located."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Preservation of a maritime claim is not subject to any agreement between the parties on litigation jurisdiction or arbitration concerning that maritime claim."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "A maritime claimant applying for preservation of a maritime claim shall submit a written application to the maritime court. The application shall state the maritime claim, the grounds for the application, the subject matter to be preserved and the amount of security required to be provided, and shall be accompanied by the relevant evidence."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where a maritime court accepts an application for preservation of a maritime claim, it may order the maritime claimant to provide security. Where the maritime claimant fails to provide it, the application shall be rejected."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "After accepting an application, the maritime court shall make a ruling within 48 hours. Where the ruling adopts measures for the preservation of a maritime claim, it shall be enforced immediately; where the conditions for preservation of a maritime claim are not met, a ruling shall be made rejecting the application.\nWhere a party is dissatisfied with the ruling, it may apply once for reconsideration within five days from the date of receipt of the ruling. The maritime court shall make a reconsideration decision within five days from the date of receipt of the application for reconsideration. The execution of the ruling shall not be suspended during reconsideration.\nWhere an interested party raises an objection to the preservation of a maritime claim and the maritime court, upon examination, considers the grounds well founded, it shall release the preservation of that party's property."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where the person against whom the claim is made provides security, or where a party applies for release of the preservation of a maritime claim for justified reasons, the maritime court shall release the preservation promptly.\nWhere the maritime claimant fails to bring an action or to apply for arbitration in accordance with the arbitration agreement within the period prescribed by this Law, the maritime court shall promptly release the preservation or return the security."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Where, after the preservation of a maritime claim has been enforced, the maritime dispute concerned has not entered litigation or arbitration proceedings, the parties may, in respect of that maritime claim, bring an action before the maritime court that adopted the preservation of the maritime claim or before another maritime court with jurisdiction, unless the parties have concluded an agreement on litigation jurisdiction or arbitration."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where a maritime claimant applies for preservation of a maritime claim in error, it shall compensate the person against whom the claim is made or an interested party for the losses suffered as a result."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "An application may be made for the arrest of a vessel in respect of the following maritime claims:\n(a) loss of or damage to property caused by the operation of the vessel;\n(b) loss of life or personal injury occurring in direct connection with the operation of the vessel;\n(c) salvage at sea;\n(d) damage or threat of damage caused by the vessel to the environment, the coastline or parties with relevant interests; measures taken to prevent, reduce or eliminate such damage; compensation payable for such damage; the costs of reasonable measures actually taken or to be taken to restore the environment; loss suffered or likely to be suffered by third parties as a result of such damage; and damage, costs or loss of a nature similar to those referred to in this item;\n(e) costs relating to the raising, removal, recovery or destruction of a sunken vessel, wreck, stranded vessel or abandoned vessel, or to rendering it harmless, including costs relating to the raising, removal, recovery or destruction of objects that are or have been on board such vessel, or to rendering them harmless, and costs relating to the maintenance of an abandoned vessel and the maintenance of its crew;\n(f) an agreement relating to the use or charter of the vessel;\n(g) an agreement relating to the carriage of goods or the carriage of passengers;\n(h) goods (including luggage) carried on board the vessel, or loss of or damage relating thereto;\n(i) general average;\n(j) towage;\n(k) pilotage;\n(l) materials or services provided for the operation, management, maintenance or repair of the vessel;\n(m) the construction, reconstruction, repair, conversion or equipping of the vessel;\n(n) port, canal, wharf, harbour and other waterway dues and charges;\n(o) wages and other sums due to seafarers, including repatriation costs and social insurance contributions payable on their behalf;\n(p) disbursements made on behalf of the vessel or its owner;\n(q) insurance premiums (including mutual insurance association calls) payable by the owner of the vessel or the bareboat charterer, or payable on their behalf by others;\n(r) commission, brokerage or agency fees relating to the vessel payable by the owner of the vessel or the bareboat charterer, or payable on their behalf by others;\n(s) disputes concerning the ownership or possession of the vessel;\n(t) disputes between co-owners of the vessel concerning the use of the vessel or the income derived from it;\n(u) a mortgage on the vessel or a right of the same nature;\n(v) disputes arising from a contract for the sale and purchase of the vessel."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Section 2 Arrest and Auction of Ships"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "A vessel may not be arrested otherwise than in respect of a maritime claim specified in Article 21 of this Law, except for the enforcement of judgments, arbitral awards and other legal documents."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Section 2 Arrest and Auction of Ships"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where any of the following circumstances exists, a maritime court may arrest the vessel concerned:\n(a) the owner of the vessel is liable for the maritime claim and was the owner of that vessel at the time of the arrest;\n(b) the bareboat charterer of the vessel is liable for the maritime claim and was the bareboat charterer or owner of that vessel at the time of the arrest;\n(c) the maritime claim is in respect of a mortgage on the vessel or a right of the same nature;\n(d) the maritime claim concerns the ownership or possession of the vessel;\n(e) the maritime claim is in respect of a maritime lien on the vessel.\nA maritime court may arrest any other vessel owned at the time of the arrest by the owner, bareboat charterer, time charterer or voyage charterer who is liable for the maritime claim, except for claims concerning the ownership or possession of the vessel.\nVessels on military or government service may not be arrested."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Section 2 Arrest and Auction of Ships"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "A maritime claimant may not apply for the arrest of a vessel that has already been arrested in respect of the same maritime claim, unless any of the following circumstances exists:\n(a) the person against whom the claim is made has not provided sufficient security;\n(b) the security provider is likely to be unable to perform its security obligations in whole or in part;\n(c) the maritime claimant consents for justified reasons to release the arrested vessel or to return the security already provided, or is unable to prevent the release of the arrested vessel or the return of the security already provided by reasonable means."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Section 2 Arrest and Auction of Ships"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Where a maritime claimant applies for the arrest of the vessel concerned and the name of the person against whom the claim is made cannot be ascertained immediately, this shall not affect the making of the application."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Section 2 Arrest and Auction of Ships"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "At the same time as issuing or revoking an order for the arrest of a vessel, the maritime court may send a notice for assistance in enforcement to the relevant departments, stating the scope and content of the assistance required, and the relevant departments are obliged to assist. Where the maritime court deems it necessary, it may send personnel on board to keep watch."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Section 2 Arrest and Auction of Ships"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where a maritime court has ruled to preserve a vessel, it may, with the consent of the maritime claimant, permit the vessel to continue operating by means of restrictions on its disposal or mortgage."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Section 2 Arrest and Auction of Ships"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The period of arrest of a vessel for the preservation of a maritime claim shall be 30 days.\nWhere the maritime claimant brings an action or applies for arbitration within the 30 days, or applies for the arrest of the vessel in the course of the litigation or arbitration, the arrest of the vessel shall not be subject to the period prescribed in the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Section 2 Arrest and Auction of Ships"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Where the period of arrest of a vessel has expired, the person against whom the claim is made has not provided security, and the vessel is unsuitable for continued arrest, the maritime claimant may, after bringing an action or applying for arbitration, apply to the maritime court that arrested the vessel for the auction of the vessel."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Section 2 Arrest and Auction of Ships"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "After receiving an application for the auction of a vessel, the maritime court shall examine it and make a ruling permitting or not permitting the auction of the vessel.\nWhere a party is dissatisfied with the ruling, it may apply once for reconsideration within five days from the date of receipt of the ruling. The maritime court shall make a reconsideration decision within five days from the date of receipt of the application for reconsideration. The execution of the ruling shall be suspended during reconsideration."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Section 2 Arrest and Auction of Ships"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where, after submitting an application for the auction of a vessel, the maritime claimant applies to terminate the auction, whether to permit it shall be ruled on by the maritime court. Where the maritime court rules to terminate the auction of the vessel, the expenses incurred in preparing for the auction shall be borne by the maritime claimant."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Section 2 Arrest and Auction of Ships"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Where a maritime court rules to auction a vessel, it shall publish a notice through a newspaper or other news media. Where a foreign vessel is to be auctioned, the notice shall be published through a newspaper or other news media distributed abroad.\nThe notice shall include the following content:\n(a) the name and nationality of the vessel to be auctioned;\n(b) the grounds for and basis of the auction of the vessel;\n(c) the composition of the vessel auction committee;\n(d) the time and place of the auction of the vessel;\n(e) the time and place of the display of the vessel to be auctioned;\n(f) the formalities to be completed for participation in the bidding;\n(g) the matters concerning registration of claims;\n(h) other matters requiring notice.\nThe period of the notice for the auction of a vessel shall be not less than 30 days."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Section 2 Arrest and Auction of Ships"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The maritime court shall, 30 days before the auction of the vessel, send notice to the registration authority of the State of registration of the vessel to be auctioned and to the known holders of maritime liens, mortgagees and owners of the vessel.\nThe notice shall include the name of the vessel to be auctioned, the time and place of the auction, the grounds for and basis of the auction, and the registration of claims.\nThe notice may be given in writing or by other appropriate means capable of confirming receipt."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Section 2 Arrest and Auction of Ships"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The auction of a vessel shall be conducted by a vessel auction committee. The vessel auction committee shall be composed of three or five persons, namely the enforcement personnel of the court designated by the maritime court and an auctioneer and a marine surveyor engaged by it.\nThe vessel auction committee shall organise the survey and valuation of the vessel, organise and preside over the auction, sign the confirmation of auction sale with bidders, and complete the formalities for the delivery of the vessel.\nThe vessel auction committee shall be responsible to and subject to the supervision of the maritime court."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Section 2 Arrest and Auction of Ships"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Bidders shall register with the vessel auction committee within the prescribed time limit. At the time of registration, they shall present for examination their own identity certificates, or those of the legal representative of an enterprise or the person in charge of another organisation, and the power of attorney of an entrusted agent, and shall pay a certain amount as a deposit for the purchase of the vessel."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Section 2 Arrest and Auction of Ships"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Before the auction of a vessel, the vessel auction committee shall display the vessel to be auctioned and provide conditions for inspecting the vessel and the relevant materials."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Section 2 Arrest and Auction of Ships"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "After signing the confirmation of auction sale, the buyer shall immediately pay not less than 20 per cent of the price of the vessel, and shall pay the balance in full within seven days from the date of the sale, unless otherwise agreed between the vessel auction committee and the buyer."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Section 2 Arrest and Auction of Ships"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "After the buyer has paid the full price, the original owner of the vessel shall, within the designated time limit, deliver the vessel to the buyer in its existing condition at the place where the vessel is moored. The vessel auction committee shall organise and supervise the delivery of the vessel and, after delivery, sign with the buyer a confirmation that delivery of the vessel has been completed.\nUpon completion of the delivery of the vessel, the maritime court shall issue an order for the release of the arrested vessel."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Section 2 Arrest and Auction of Ships"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "After delivery of the vessel, the maritime court shall publish a notice through a newspaper or other news media announcing that the vessel has been publicly auctioned and delivered to the buyer."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Section 2 Arrest and Auction of Ships"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "After receiving the vessel, the buyer shall, on the strength of the confirmation of auction sale and the relevant materials, complete the formalities for registration of ownership of the vessel with the vessel registration authority. The original owner of the vessel shall complete the formalities for cancellation of the registration of ownership with the original vessel registration authority. The failure of the original owner to complete the cancellation of registration of ownership shall not affect the transfer of ownership of the vessel."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Section 2 Arrest and Auction of Ships"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where bidders collude in bad faith, the auction shall be invalid. Bidders participating in the collusion shall bear the costs of the vessel auction and compensate the relevant losses. The maritime court may impose a fine of not less than 10 per cent but not more than 30 per cent of the highest bid on the bidders participating in the collusion."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Section 2 Arrest and Auction of Ships"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Apart from the provisions of this Section, auctions shall be governed by the relevant provisions of the Auction Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Section 2 Arrest and Auction of Ships"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where an arrested vessel is auctioned in enforcement proceedings to satisfy debts, the relevant provisions of this Section may be applied by reference."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Section 2 Arrest and Auction of Ships"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "A maritime claimant may, in order to safeguard the realisation of its maritime claim, apply for the arrest of cargo carried on board a vessel.\nThe cargo carried on board for which arrest is applied shall be owned by the person against whom the claim is made."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Section 3 Arrest and Auction of Cargo on Board"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "The value of the cargo carried on board for which a maritime claimant applies for arrest shall be commensurate with the amount of its claim."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Section 3 Arrest and Auction of Cargo on Board"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "The period of arrest of cargo carried on board a vessel for the preservation of a maritime claim shall be 15 days.\nWhere the maritime claimant brings an action or applies for arbitration within the 15 days, or applies for the arrest of the cargo in the course of the litigation or arbitration, the arrest of the cargo shall not be subject to the period prescribed in the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Section 3 Arrest and Auction of Cargo on Board"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where the period of arrest of cargo carried on board a vessel has expired, the person against whom the claim is made has not provided security, and the cargo is unsuitable for continued arrest, the maritime claimant may, after bringing an action or applying for arbitration, apply to the maritime court that arrested the cargo for the auction of the cargo.\nFor articles that cannot be kept, are not easily kept, or whose keeping costs may exceed their value, the maritime claimant may apply for auction in advance."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Section 3 Arrest and Auction of Cargo on Board"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "After receiving an application for the auction of cargo carried on board a vessel, the maritime court shall examine it and, within seven days, make a ruling permitting or not permitting the auction of the cargo.\nWhere a party is dissatisfied with the ruling, it may apply once for reconsideration within five days from the date of receipt of the ruling. The maritime court shall make a reconsideration decision within five days from the date of receipt of the application for reconsideration. The execution of the ruling shall be suspended during reconsideration."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Section 3 Arrest and Auction of Cargo on Board"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "The auction of cargo carried on board a vessel shall be conducted by an auction organisation composed of the enforcement personnel of the court designated by the maritime court and an auctioneer engaged by it, or by an agency entrusted by the maritime court.\nWhere this Section is silent on the auction of cargo carried on board a vessel, the relevant provisions of Section 2 of this Chapter on the auction of vessels shall be applied by reference."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Section 3 Arrest and Auction of Cargo on Board"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where a maritime claimant applies for preservation of a maritime claim in respect of bunker fuel and stores for the vessel related to the maritime claim, the provisions of this Section shall apply."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Section 3 Arrest and Auction of Cargo on Board"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "A maritime injunction means the compulsory measure ordered by a maritime court, upon the application of a maritime claimant and in order to protect its lawful rights and interests from infringement, requiring the person against whom the claim is made to do or refrain from doing something."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter IV Maritime Injunctions"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where a party applies for a maritime injunction before bringing an action, the application shall be filed with the maritime court of the place where the maritime dispute arose."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter IV Maritime Injunctions"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "A maritime injunction is not subject to any agreement between the parties on litigation jurisdiction or arbitration concerning that maritime claim."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter IV Maritime Injunctions"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "A maritime claimant applying for a maritime injunction shall submit a written application to the maritime court. The application shall state the grounds for the application and shall be accompanied by the relevant evidence."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter IV Maritime Injunctions"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where a maritime court accepts an application for a maritime injunction, it may order the maritime claimant to provide security. Where the maritime claimant fails to provide it, the application shall be rejected."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter IV Maritime Injunctions"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "The following conditions shall be met for the issuance of a maritime injunction:\n(a) the claimant has a specific maritime claim;\n(b) it is necessary to correct an act of the person against whom the claim is made that violates the provisions of law or the terms of a contract;\n(c) the situation is urgent, and failure to issue a maritime injunction immediately will cause damage or aggravate the damage."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter IV Maritime Injunctions"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "After accepting an application, the maritime court shall make a ruling within 48 hours. Where the ruling issues a maritime injunction, it shall be enforced immediately; where the conditions for a maritime injunction are not met, a ruling shall be made rejecting the application."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter IV Maritime Injunctions"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where a party is dissatisfied with the ruling, it may apply once for reconsideration within five days from the date of receipt of the ruling. The maritime court shall make a reconsideration decision within five days from the date of receipt of the application for reconsideration. The execution of the ruling shall not be suspended during reconsideration.\nWhere an interested party raises an objection to the maritime injunction and the maritime court, upon examination, considers the grounds well founded, it shall rule to revoke the maritime injunction."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter IV Maritime Injunctions"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where the person against whom the claim is made refuses to execute a maritime injunction, the maritime court may, in light of the gravity of the circumstances, impose a fine or detention; where a crime is constituted, criminal liability shall be pursued in accordance with law.\nThe amount of the fine for an individual shall be not less than 1,000 yuan but not more than 30,000 yuan. The amount of the fine for a unit shall be not less than 30,000 yuan but not more than 100,000 yuan.\nThe period of detention shall be not more than 15 days."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter IV Maritime Injunctions"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Where a maritime claimant applies for a maritime injunction in error, it shall compensate the person against whom the claim is made or an interested party for the losses suffered as a result."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter IV Maritime Injunctions"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where, after a maritime injunction has been executed, the maritime dispute concerned has not entered litigation or arbitration proceedings, the parties may, in respect of that maritime claim, bring an action before the maritime court that issued the maritime injunction or before another maritime court with jurisdiction, unless the parties have concluded an agreement on litigation jurisdiction or arbitration."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter IV Maritime Injunctions"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Preservation of maritime evidence means the compulsory measure taken by a maritime court, upon the application of a maritime claimant, to extract, preserve or seal up evidence relating to a maritime claim."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter V Preservation of Maritime Evidence"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Where a party applies for preservation of maritime evidence before bringing an action, the application shall be filed with the maritime court of the place where the evidence to be preserved is located."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter V Preservation of Maritime Evidence"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Preservation of maritime evidence is not subject to any agreement between the parties on litigation jurisdiction or arbitration concerning that maritime claim."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter V Preservation of Maritime Evidence"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "A maritime claimant applying for preservation of maritime evidence shall submit a written application to the maritime court. The application shall state the evidence for which preservation is sought, the connection between that evidence and the maritime claim, and the grounds for the application."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter V Preservation of Maritime Evidence"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Where a maritime court accepts an application for preservation of maritime evidence, it may order the maritime claimant to provide security. Where the maritime claimant fails to provide it, the application shall be rejected."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter V Preservation of Maritime Evidence"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "The following conditions shall be met for the adoption of preservation of maritime evidence:\n(a) the claimant is a party to the maritime claim;\n(b) the evidence for which preservation is sought has probative effect in relation to that maritime claim;\n(c) the person against whom the claim is made is a person connected with the evidence for which preservation is sought;\n(d) the situation is urgent, and failure to adopt preservation of evidence immediately will result in the loss of the evidence for that maritime claim or make it difficult to obtain."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter V Preservation of Maritime Evidence"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "After accepting an application, the maritime court shall make a ruling within 48 hours. Where the ruling adopts measures for the preservation of maritime evidence, it shall be enforced immediately; where the conditions for preservation of maritime evidence are not met, a ruling shall be made rejecting the application."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter V Preservation of Maritime Evidence"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "Where a party is dissatisfied with the ruling, it may apply once for reconsideration within five days from the date of receipt of the ruling. The maritime court shall make a reconsideration decision within five days from the date of receipt of the application for reconsideration. The execution of the ruling shall not be suspended during reconsideration. Where the grounds of the person against whom the claim is made for requesting reconsideration are well founded, the evidence preserved shall be returned to that person.\nWhere an interested party raises an objection to the preservation of maritime evidence and the maritime court, upon examination, considers the grounds well founded, it shall rule to revoke the preservation of maritime evidence; where it has already been executed, the evidence relating to the interested party shall be returned to that party."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter V Preservation of Maritime Evidence"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "In preserving maritime evidence, the maritime court may, in light of the specific circumstances, seal up the evidence, or extract copies or duplicates, or take photographs or make video recordings, or make extracts or investigation records. Where genuinely necessary, the original evidence may also be extracted."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter V Preservation of Maritime Evidence"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "Where a maritime claimant applies for preservation of maritime evidence in error, it shall compensate the person against whom the claim is made or an interested party for the losses suffered as a result."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter V Preservation of Maritime Evidence"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "Where, after the preservation of maritime evidence, the maritime dispute concerned has not entered litigation or arbitration proceedings, the parties may, in respect of that maritime claim, bring an action before the maritime court that adopted the preservation of evidence or before another maritime court with jurisdiction, unless the parties have concluded an agreement on litigation jurisdiction or arbitration."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter V Preservation of Maritime Evidence"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "Maritime security includes the security involved in the procedures of preservation of maritime claims, maritime injunctions and preservation of maritime evidence provided for in this Law.\nSecurity shall be provided in the form of cash or a guarantee, or by the creation of a mortgage or pledge."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter VI Maritime Security"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "Security provided by a maritime claimant shall be submitted to the maritime court; security provided by the person against whom the claim is made may be submitted to the maritime court or provided to the maritime claimant."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter VI Maritime Security"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "The form and amount of security provided by a maritime claimant shall be determined by the maritime court. The form and amount of security provided by the person against whom the claim is made shall be agreed between the maritime claimant and that person; where no agreement is reached, they shall be determined by the maritime court."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter VI Maritime Security"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "The amount of security that a maritime claimant requires the person against whom the claim is made to provide in respect of preservation of a maritime claim shall be commensurate with the amount of its claim, but may not exceed the value of the property preserved.\nThe amount of security provided by a maritime claimant shall be equivalent to the loss that may be caused to the person against whom the claim is made by its application. The specific amount shall be determined by the maritime court."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter VI Maritime Security"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "After security has been provided, the person providing it may, for justified reasons, apply to the maritime court for a reduction, modification or cancellation of the security."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter VI Maritime Security"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "Where the amount of security requested by a maritime claimant is excessively high and causes loss to the person against whom the claim is made, the claimant shall bear liability for compensation."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Chapter VI Maritime Security"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "The security involved in the procedures of constituting a limitation fund for maritime claims and of advance execution may be governed by the provisions of this Chapter by reference."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Chapter VI Maritime Security"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "The service of legal documents in maritime litigation shall be governed by the relevant provisions of the Civil Procedure Law of the People's Republic of China, and the following methods may also be used:\n(a) service on the litigation agent entrusted by the person on whom service is to be made;\n(b) service on the representative office, branch or business agent established by the person on whom service is to be made within the territory of the People's Republic of China;\n(c) service by other appropriate means capable of confirming receipt.\nLegal documents concerning the arrest of a vessel may also be served on the master of the vessel concerned."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Chapter VII Service"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "Where a person obliged to accept legal documents refuses to sign for them, and the process server records the circumstances on the proof of service and, after the process server and a witness have signed or affixed their seals, leaves the legal documents at that person's domicile or office, the service shall be deemed effected."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Chapter VII Service"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "At the time of bringing an action, the plaintiff and, at the time of defence, the defendant shall truthfully complete the Maritime Accident Investigation Form."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Section 1 Provisions on the Trial of Ship Collision Cases"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "Where a maritime court serves a statement of claim or statement of defence on a party, it shall not enclose the relevant evidentiary materials."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Section 1 Provisions on the Trial of Ship Collision Cases"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "The parties shall complete the submission of evidence before the hearing. After a party has completed the submission of evidence and issued to the maritime court a statement of completion of evidence submission, it may apply to inspect the factual evidence relating to the collision."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Section 1 Provisions on the Trial of Ship Collision Cases"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "A party may not overturn its statements in the Maritime Accident Investigation Form or the evidence already submitted, unless there is new evidence and sufficient reasons are given to explain why that evidence could not be submitted within the period for submission of evidence."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        },
+        "chapter": {
+          "en": "Section 1 Provisions on the Trial of Ship Collision Cases"
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "The survey and valuation of vessels shall be undertaken by institutions or individuals authorised by the State or otherwise professionally qualified. Conclusions of survey or valuation made by institutions or individuals not authorised by the State or not professionally qualified shall not be adopted by the maritime court."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        },
+        "chapter": {
+          "en": "Section 1 Provisions on the Trial of Ship Collision Cases"
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "A maritime court trying a case of collision of vessels shall conclude the trial within one year after the case is docketed. Where an extension is necessary under special circumstances, it shall be approved by the president of the court."
+        },
+        "noLabel": {
+          "en": "Article 87."
+        },
+        "chapter": {
+          "en": "Section 1 Provisions on the Trial of Ship Collision Cases"
+        }
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "Parties to a dispute over general average may agree to entrust an average adjusting institution with the adjustment, or may bring an action directly before a maritime court. Where a maritime court accepts a dispute over general average that has not been adjusted, it may entrust an average adjusting institution with the adjustment."
+        },
+        "noLabel": {
+          "en": "Article 88."
+        },
+        "chapter": {
+          "en": "Section 2 Provisions on the Trial of General Average Cases"
+        }
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "Where the parties raise no objection, the general average adjustment report made by the average adjusting institution may serve as the basis for apportioning liability; where the parties raise an objection, the maritime court shall decide whether to adopt it."
+        },
+        "noLabel": {
+          "en": "Article 89."
+        },
+        "chapter": {
+          "en": "Section 2 Provisions on the Trial of General Average Cases"
+        }
+      },
+      {
+        "no": 90,
+        "text": {
+          "en": "A party may, irrespective of the general average proceedings brought in respect of the same casualty, bring an action against the person liable for losses other than general average losses."
+        },
+        "noLabel": {
+          "en": "Article 90."
+        },
+        "chapter": {
+          "en": "Section 2 Provisions on the Trial of General Average Cases"
+        }
+      },
+      {
+        "no": 91,
+        "text": {
+          "en": "Where a party brings before the maritime court that has accepted a general average case an action in respect of losses other than general average arising from the same casualty, or brings an action for recourse against the person liable in respect of contribution to general average, the maritime court may consolidate the trial."
+        },
+        "noLabel": {
+          "en": "Article 91."
+        },
+        "chapter": {
+          "en": "Section 2 Provisions on the Trial of General Average Cases"
+        }
+      },
+      {
+        "no": 92,
+        "text": {
+          "en": "A maritime court trying a general average case shall conclude the trial within one year after the case is docketed. Where an extension is necessary under special circumstances, it shall be approved by the president of the court."
+        },
+        "noLabel": {
+          "en": "Article 92."
+        },
+        "chapter": {
+          "en": "Section 2 Provisions on the Trial of General Average Cases"
+        }
+      },
+      {
+        "no": 93,
+        "text": {
+          "en": "Where an insured event is caused by a third party, the insurer may, after paying insurance indemnity to the insured, exercise by subrogation, within the scope of the indemnity, the insured's right to claim compensation from the third party."
+        },
+        "noLabel": {
+          "en": "Article 93."
+        },
+        "chapter": {
+          "en": "Section 3 Provisions on the Exercise by Marine Insurers of the Right of Subrogation"
+        }
+      },
+      {
+        "no": 94,
+        "text": {
+          "en": "Where an insurer exercises the right of subrogation and the insured has not brought an action against the third party that caused the insured event, the insurer shall bring an action against that third party in its own name."
+        },
+        "noLabel": {
+          "en": "Article 94."
+        },
+        "chapter": {
+          "en": "Section 3 Provisions on the Exercise by Marine Insurers of the Right of Subrogation"
+        }
+      },
+      {
+        "no": 95,
+        "text": {
+          "en": "Where an insurer exercises the right of subrogation and the insured has already brought an action against the third party that caused the insured event, the insurer may apply to the court that has accepted the case for a change of party, so as to exercise by subrogation the insured's right to claim compensation from the third party.\nWhere the insurance indemnity obtained by the insured cannot cover the entire loss caused by the third party, the insurer and the insured may claim compensation from the third party as joint plaintiffs."
+        },
+        "noLabel": {
+          "en": "Article 95."
+        },
+        "chapter": {
+          "en": "Section 3 Provisions on the Exercise by Marine Insurers of the Right of Subrogation"
+        }
+      },
+      {
+        "no": 96,
+        "text": {
+          "en": "Where an insurer brings an action or applies to join an action in accordance with the provisions of Articles 94 and 95 of this Law, it shall submit to the maritime court that has accepted the case the vouchers showing payment of the insurance indemnity and the other documents required to be submitted for participation in the action."
+        },
+        "noLabel": {
+          "en": "Article 96."
+        },
+        "chapter": {
+          "en": "Section 3 Provisions on the Exercise by Marine Insurers of the Right of Subrogation"
+        }
+      },
+      {
+        "no": 97,
+        "text": {
+          "en": "In respect of a claim for compensation for oil pollution damage caused by a vessel, the person suffering the damage may make the claim against the owner of the vessel causing the oil pollution damage, or may make it directly against the insurer liable for the owner's oil pollution damage or another person providing financial security.\nWhere an insurer liable for oil pollution damage or another person providing financial security is sued, it has the right to require the owner of the vessel causing the oil pollution damage to join the action."
+        },
+        "noLabel": {
+          "en": "Article 97."
+        },
+        "chapter": {
+          "en": "Section 3 Provisions on the Exercise by Marine Insurers of the Right of Subrogation"
+        }
+      },
+      {
+        "no": 98,
+        "text": {
+          "en": "Where a maritime court tries a simple maritime case in which the facts are clear, the relationship of rights and obligations is clear and the dispute is not substantial, the provisions of the Civil Procedure Law of the People's Republic of China on summary procedure may apply."
+        },
+        "noLabel": {
+          "en": "Article 98."
+        },
+        "chapter": {
+          "en": "Section 4 Summary Procedure, Procedure for Hastening Debt Recovery and Procedure for Public Summons"
+        }
+      },
+      {
+        "no": 99,
+        "text": {
+          "en": "Where a creditor requests a debtor to pay money or negotiable securities on a maritime ground and the relevant provisions of the Civil Procedure Law of the People's Republic of China are met, the creditor may apply to the maritime court with jurisdiction for a payment order.\nWhere the debtor is a foreigner, a stateless person, a foreign enterprise or a foreign organisation, but has a domicile, representative office or branch within the territory of the People's Republic of China at which the payment order can be served, the creditor may apply to the maritime court with jurisdiction for a payment order."
+        },
+        "noLabel": {
+          "en": "Article 99."
+        },
+        "chapter": {
+          "en": "Section 4 Summary Procedure, Procedure for Hastening Debt Recovery and Procedure for Public Summons"
+        }
+      },
+      {
+        "no": 100,
+        "text": {
+          "en": "Where the holder of a bill of lading or other document for taking delivery of goods loses control of the document or the document is lost, the holder may apply to the maritime court of the place where the goods are located for a public summons."
+        },
+        "noLabel": {
+          "en": "Article 100."
+        },
+        "chapter": {
+          "en": "Section 4 Summary Procedure, Procedure for Hastening Debt Recovery and Procedure for Public Summons"
+        }
+      },
+      {
+        "no": 101,
+        "text": {
+          "en": "Where, after a maritime accident, the owner, charterer, operator, salvor or insurer of a vessel applies for limitation of liability in accordance with law, it may apply to a maritime court for the constitution of a limitation fund for maritime claims.\nWhere oil pollution damage is caused by a vessel, the owner of the vessel and its liability insurer or other persons providing financial security shall, in order to obtain the right to limit liability prescribed by law, constitute a limitation fund for maritime claims in respect of the oil pollution damage with a maritime court.\nAn application for the constitution of a limitation fund may be made before the bringing of an action or in the course of litigation, but shall be made no later than before the judgment of first instance is rendered."
+        },
+        "noLabel": {
+          "en": "Article 101."
+        },
+        "chapter": {
+          "en": "Chapter IX Procedure for Constituting a Limitation Fund for Maritime Claims"
+        }
+      },
+      {
+        "no": 102,
+        "text": {
+          "en": "Where a party applies for the constitution of a limitation fund for maritime claims before bringing an action, the application shall be filed with the maritime court of the place where the accident occurred, the place of performance of the contract or the place where the vessel was arrested."
+        },
+        "noLabel": {
+          "en": "Article 102."
+        },
+        "chapter": {
+          "en": "Chapter IX Procedure for Constituting a Limitation Fund for Maritime Claims"
+        }
+      },
+      {
+        "no": 103,
+        "text": {
+          "en": "The constitution of a limitation fund for maritime claims is not subject to any agreement between the parties on litigation jurisdiction or arbitration."
+        },
+        "noLabel": {
+          "en": "Article 103."
+        },
+        "chapter": {
+          "en": "Chapter IX Procedure for Constituting a Limitation Fund for Maritime Claims"
+        }
+      },
+      {
+        "no": 104,
+        "text": {
+          "en": "An applicant applying to a maritime court for the constitution of a limitation fund for maritime claims shall submit a written application. The application shall state the amount and grounds of the limitation fund applied for, as well as the names, addresses and means of communication of the known interested parties, and shall be accompanied by the relevant evidence."
+        },
+        "noLabel": {
+          "en": "Article 104."
+        },
+        "chapter": {
+          "en": "Chapter IX Procedure for Constituting a Limitation Fund for Maritime Claims"
+        }
+      },
+      {
+        "no": 105,
+        "text": {
+          "en": "After accepting an application for the constitution of a limitation fund for maritime claims, the maritime court shall, within seven days, send notice to the known interested parties and at the same time publish a notice through a newspaper or other news media.\nThe notice and announcement shall include the following content:\n(a) the name of the applicant;\n(b) the facts and grounds of the application;\n(c) the matter of constituting the limitation fund for maritime claims;\n(d) the matter of registration of claims;\n(e) other matters requiring notification."
+        },
+        "noLabel": {
+          "en": "Article 105."
+        },
+        "chapter": {
+          "en": "Chapter IX Procedure for Constituting a Limitation Fund for Maritime Claims"
+        }
+      },
+      {
+        "no": 106,
+        "text": {
+          "en": "Where an interested party objects to the applicant's application for the constitution of a limitation fund for maritime claims, it shall submit the objection in writing to the maritime court within seven days from the date of receipt of the notice or, where no notice is received, within 30 days from the date of the announcement.\nAfter receiving a written objection from an interested party, the maritime court shall examine it and make a ruling within 15 days. Where the objection is well founded, it shall rule to reject the applicant's application; where the objection is not well founded, it shall rule to permit the applicant to constitute the limitation fund for maritime claims.\nWhere a party is dissatisfied with the ruling, it may appeal within seven days from the date of receipt of the ruling. The people's court of second instance shall make a ruling within 15 days from the date of receipt of the appeal petition."
+        },
+        "noLabel": {
+          "en": "Article 106."
+        },
+        "chapter": {
+          "en": "Chapter IX Procedure for Constituting a Limitation Fund for Maritime Claims"
+        }
+      },
+      {
+        "no": 107,
+        "text": {
+          "en": "Where no interested party raises an objection within the prescribed period, the maritime court shall rule to permit the applicant to constitute the limitation fund for maritime claims."
+        },
+        "noLabel": {
+          "en": "Article 107."
+        },
+        "chapter": {
+          "en": "Chapter IX Procedure for Constituting a Limitation Fund for Maritime Claims"
+        }
+      },
+      {
+        "no": 108,
+        "text": {
+          "en": "After the ruling permitting the applicant to constitute a limitation fund for maritime claims takes effect, the applicant shall constitute the limitation fund with the maritime court.\nA limitation fund for maritime claims may be constituted by providing cash or by providing security recognised by the maritime court.\nThe amount of the limitation fund for maritime claims shall be the limit of liability for maritime claims plus interest from the date of the accident to the date of constitution of the fund. Where the fund is constituted by way of security, the amount of the security shall be the amount of the fund plus interest during the period of constitution of the fund.\nWhere the fund is constituted by cash, the date on which the fund reaches the account designated by the maritime court shall be the date of constitution of the fund. Where the fund is constituted by security, the date on which the maritime court accepts the security shall be the date of constitution of the fund."
+        },
+        "noLabel": {
+          "en": "Article 108."
+        },
+        "chapter": {
+          "en": "Chapter IX Procedure for Constituting a Limitation Fund for Maritime Claims"
+        }
+      },
+      {
+        "no": 109,
+        "text": {
+          "en": "After the constitution of a limitation fund for maritime claims, the parties shall, in respect of the relevant maritime dispute, bring an action before the maritime court with which the fund is constituted, unless the parties have concluded an agreement on litigation jurisdiction or arbitration."
+        },
+        "noLabel": {
+          "en": "Article 109."
+        },
+        "chapter": {
+          "en": "Chapter IX Procedure for Constituting a Limitation Fund for Maritime Claims"
+        }
+      },
+      {
+        "no": 110,
+        "text": {
+          "en": "Where an applicant applies for the constitution of a limitation fund for maritime claims in error, it shall compensate the interested parties for the losses suffered as a result."
+        },
+        "noLabel": {
+          "en": "Article 110."
+        },
+        "chapter": {
+          "en": "Chapter IX Procedure for Constituting a Limitation Fund for Maritime Claims"
+        }
+      },
+      {
+        "no": 111,
+        "text": {
+          "en": "After the maritime court publishes the announcement of its ruling on the compulsory auction of a vessel, creditors shall, within the period of the announcement, apply for registration of the claims relating to the vessel to be auctioned. Failure to register before the expiry of the period of the announcement shall be deemed a waiver of the right to be satisfied out of the proceeds of the auction of the vessel."
+        },
+        "noLabel": {
+          "en": "Article 111."
+        },
+        "chapter": {
+          "en": "Chapter X Procedure for Registration of Claims and Satisfaction"
+        }
+      },
+      {
+        "no": 112,
+        "text": {
+          "en": "After the maritime court publishes the announcement of its acceptance of an application for the constitution of a limitation fund for maritime claims, creditors shall, within the period of the announcement, apply for registration of the claims relating to the maritime accident that occurred on the specific occasion. Failure to register before the expiry of the period of the announcement shall be deemed a waiver of the claim."
+        },
+        "noLabel": {
+          "en": "Article 112."
+        },
+        "chapter": {
+          "en": "Chapter X Procedure for Registration of Claims and Satisfaction"
+        }
+      },
+      {
+        "no": 113,
+        "text": {
+          "en": "Where a creditor applies to a maritime court for registration of a claim, it shall submit a written application and provide the relevant evidence of the claim.\nEvidence of a claim includes legally effective judgments, rulings, mediation statements, arbitral awards and notarised instruments of debt that prove the claim, as well as other evidentiary materials proving a maritime claim."
+        },
+        "noLabel": {
+          "en": "Article 113."
+        },
+        "chapter": {
+          "en": "Chapter X Procedure for Registration of Claims and Satisfaction"
+        }
+      },
+      {
+        "no": 114,
+        "text": {
+          "en": "The maritime court shall examine the creditor's application; where evidence of the claim is provided, it shall rule to permit registration; where no evidence of the claim is provided, it shall rule to reject the application."
+        },
+        "noLabel": {
+          "en": "Article 114."
+        },
+        "chapter": {
+          "en": "Chapter X Procedure for Registration of Claims and Satisfaction"
+        }
+      },
+      {
+        "no": 115,
+        "text": {
+          "en": "Where a creditor provides a judgment, ruling, mediation statement, arbitral award or notarised instrument of debt proving the claim, and the maritime court, upon examination, finds the said document genuine and lawful, it shall rule to confirm it."
+        },
+        "noLabel": {
+          "en": "Article 115."
+        },
+        "chapter": {
+          "en": "Chapter X Procedure for Registration of Claims and Satisfaction"
+        }
+      },
+      {
+        "no": 116,
+        "text": {
+          "en": "Where a creditor provides other evidence of a maritime claim, it shall, after completing the registration of the claim, bring an action to confirm rights before the maritime court that accepted the registration of the claim. Where the parties have an arbitration agreement, they shall promptly apply for arbitration.\nJudgments and rulings made by a maritime court in an action to confirm rights shall have legal effect, and the parties may not appeal."
+        },
+        "noLabel": {
+          "en": "Article 116."
+        },
+        "chapter": {
+          "en": "Chapter X Procedure for Registration of Claims and Satisfaction"
+        }
+      },
+      {
+        "no": 117,
+        "text": {
+          "en": "After the maritime court has tried and confirmed the claims, it shall issue notices of creditors' meeting to the creditors and convene a creditors' meeting."
+        },
+        "noLabel": {
+          "en": "Article 117."
+        },
+        "chapter": {
+          "en": "Chapter X Procedure for Registration of Claims and Satisfaction"
+        }
+      },
+      {
+        "no": 118,
+        "text": {
+          "en": "The creditors' meeting may, through consultation, propose a scheme for the distribution of the proceeds of the vessel or of the limitation fund for maritime claims, and conclude an agreement on satisfaction.\nAn agreement on satisfaction shall have legal effect once it is ruled to be recognised by the maritime court.\nWhere the creditors' meeting fails to reach agreement through consultation, the maritime court shall rule on the scheme for the distribution of the proceeds of the vessel or of the limitation fund for maritime claims in accordance with the order of satisfaction prescribed by the Maritime Code of the People's Republic of China and other relevant laws."
+        },
+        "noLabel": {
+          "en": "Article 118."
+        },
+        "chapter": {
+          "en": "Chapter X Procedure for Registration of Claims and Satisfaction"
+        }
+      },
+      {
+        "no": 119,
+        "text": {
+          "en": "The proceeds of the auction of the vessel and interest thereon, or the limitation fund for maritime claims and interest thereon, shall be distributed together.\nIn distributing the proceeds of the vessel, the litigation costs to be borne by the person liable, the expenses incurred in preserving and auctioning the vessel and in distributing the proceeds, and other expenses paid for the common benefit of the creditors shall be disbursed from the proceeds of the vessel in advance.\nThe balance remaining after satisfaction of the debts shall be returned to the original owner of the vessel or to the person who constituted the limitation fund for maritime claims."
+        },
+        "noLabel": {
+          "en": "Article 119."
+        },
+        "chapter": {
+          "en": "Chapter X Procedure for Registration of Claims and Satisfaction"
+        }
+      },
+      {
+        "no": 120,
+        "text": {
+          "en": "Where a vessel is transferred, the transferee may apply to a maritime court for a public summons in respect of maritime liens, so as to urge the holders of maritime liens to assert their rights promptly and to extinguish the maritime liens attaching to the vessel."
+        },
+        "noLabel": {
+          "en": "Article 120."
+        },
+        "chapter": {
+          "en": "Chapter XI Procedure for Public Summons in Respect of Maritime Liens"
+        }
+      },
+      {
+        "no": 121,
+        "text": {
+          "en": "Where a transferee applies for a public summons in respect of maritime liens, the application shall be filed with the maritime court of the place of delivery of the transferred vessel or of the domicile of the transferee."
+        },
+        "noLabel": {
+          "en": "Article 121."
+        },
+        "chapter": {
+          "en": "Chapter XI Procedure for Public Summons in Respect of Maritime Liens"
+        }
+      },
+      {
+        "no": 122,
+        "text": {
+          "en": "To apply for a public summons in respect of maritime liens, the applicant shall submit to the maritime court an application, the contract for the transfer of the vessel, the technical materials of the vessel and other documents. The application shall state the name of the vessel and the facts and grounds for applying for the public summons."
+        },
+        "noLabel": {
+          "en": "Article 122."
+        },
+        "chapter": {
+          "en": "Chapter XI Procedure for Public Summons in Respect of Maritime Liens"
+        }
+      },
+      {
+        "no": 123,
+        "text": {
+          "en": "After receiving the application and the relevant documents, the maritime court shall examine them and, within seven days, make a ruling permitting or not permitting the application.\nWhere the transferee is dissatisfied with the ruling, it may apply once for reconsideration."
+        },
+        "noLabel": {
+          "en": "Article 123."
+        },
+        "chapter": {
+          "en": "Chapter XI Procedure for Public Summons in Respect of Maritime Liens"
+        }
+      },
+      {
+        "no": 124,
+        "text": {
+          "en": "After the ruling permitting the application takes effect, the maritime court shall publish a notice through a newspaper or other news media, urging the holders of maritime liens to assert their maritime liens within the period of the public summons.\nThe period of the public summons in respect of maritime liens shall be 60 days."
+        },
+        "noLabel": {
+          "en": "Article 124."
+        },
+        "chapter": {
+          "en": "Chapter XI Procedure for Public Summons in Respect of Maritime Liens"
+        }
+      },
+      {
+        "no": 125,
+        "text": {
+          "en": "During the period of the public summons in respect of maritime liens, a holder of a maritime lien who asserts its right shall complete registration with the maritime court; where the right is not asserted, the maritime lien shall be deemed waived."
+        },
+        "noLabel": {
+          "en": "Article 125."
+        },
+        "chapter": {
+          "en": "Chapter XI Procedure for Public Summons in Respect of Maritime Liens"
+        }
+      },
+      {
+        "no": 126,
+        "text": {
+          "en": "Where, upon expiry of the period of the public summons in respect of maritime liens, no one asserts a maritime lien, the maritime court shall, upon the application of the party, make a judgment declaring that the transferred vessel is free from maritime liens. The content of the judgment shall be announced."
+        },
+        "noLabel": {
+          "en": "Article 126."
+        },
+        "chapter": {
+          "en": "Chapter XI Procedure for Public Summons in Respect of Maritime Liens"
+        }
+      },
+      {
+        "no": 127,
+        "text": {
+          "en": "This Law shall come into force on 1 July 2000."
+        },
+        "noLabel": {
+          "en": "Article 127."
+        },
+        "chapter": {
+          "en": "Chapter XII Supplementary Provisions"
         }
       }
     ]

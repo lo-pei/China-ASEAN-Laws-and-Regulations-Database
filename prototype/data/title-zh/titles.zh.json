@@ -1,7 +1,7 @@
 {
  "formatVersion": "calr-title-zh-v1",
- "generatedAt": "2026-10-18",
- "count": 17992,
+ "generatedAt": "2026-10-24T00:42:14",
+ "count": 18227,
  "titles": {
   "BN-BANKRUPTCY-RULES": {
    "zh": "破产规则",
@@ -143945,6 +143945,2121 @@
    "model": null,
    "reviewed": false,
    "note": "标题来自原始扫描件题名，人工核对；正文为 OCR 结果"
+  },
+  "BN-H018": {
+   "zh": "Unfair Contract Terms Act",
+   "en": "Unfair Contract Terms Act",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "BN-H020": {
+   "zh": "ARBITRATION ACT (Chapter 173)",
+   "en": "ARBITRATION ACT (Chapter 173)",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "BN-H021": {
+   "zh": "COMPANIES ACT (Chapter 39)",
+   "en": "COMPANIES ACT (Chapter 39)",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "BN-H023": {
+   "zh": "LABOUR ACT (Chapter 93)",
+   "en": "LABOUR ACT (Chapter 93)",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "BN-H024": {
+   "zh": "INVENTIONS ACT (Chapter 72)",
+   "en": "INVENTIONS ACT (Chapter 72)",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "BN-H026": {
+   "zh": "MERCHANDISE MARKS ACT (Chapter 96)",
+   "en": "MERCHANDISE MARKS ACT (Chapter 96)",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "BN-H029": {
+   "zh": "International Business Companies Order, 2000",
+   "en": "International Business Companies Order, 2000",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "BN-H031": {
+   "zh": "EMPLOYMENT INFORMATION ACT (Chapter 99)",
+   "en": "EMPLOYMENT INFORMATION ACT (Chapter 99)",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "BN-H032": {
+   "zh": "EMPLOYMENT ACT (Chapter 278)",
+   "en": "EMPLOYMENT ACT (Chapter 278)",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "BN-H033": {
+   "zh": "INCOME TAX ACT (Chapter 35)",
+   "en": "INCOME TAX ACT (Chapter 35)",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "BN-H035": {
+   "zh": "INVESTMENT INCENTIVES ACT (Chapter 97)",
+   "en": "INVESTMENT INCENTIVES ACT (Chapter 97)",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "BN-H043": {
+   "zh": "CONTRACTS ACT (Chapter 106)",
+   "en": "CONTRACTS ACT (Chapter 106)",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "BN-H048": {
+   "zh": "BRUNEI ECONOMIC DEVELOPMENT BOARD ACT (Chapter 104)",
+   "en": "BRUNEI ECONOMIC DEVELOPMENT BOARD ACT (Chapter 104)",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "BN-H052": {
+   "zh": "CONSTITUTION OF BRUNEI DARUSSALAM",
+   "en": "CONSTITUTION OF BRUNEI DARUSSALAM",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "BN-H055": {
+   "zh": "LIMITED LIABILITY PARTNERSHIPS ORDER, 2010",
+   "en": "LIMITED LIABILITY PARTNERSHIPS ORDER, 2010",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "BN-H056": {
+   "zh": "BILLS OF EXCHANGE ACT (Chapter 172)",
+   "en": "BILLS OF EXCHANGE ACT (Chapter 172)",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "BN-H058": {
+   "zh": "COPYRIGHT ORDER, 1999",
+   "en": "COPYRIGHT ORDER, 1999",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "BN-H059": {
+   "zh": "SUCCESSION AND REGENCY PROCLAMATION 1959",
+   "en": "SUCCESSION AND REGENCY PROCLAMATION 1959",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "BN-H061": {
+   "zh": "INCOME TAX (PETROLEUM) ACT (Chapter 119)",
+   "en": "INCOME TAX (PETROLEUM) ACT (Chapter 119)",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "BN-H064": {
+   "zh": "\"COMPUTER MISUSE ACT\"",
+   "en": "\"COMPUTER MISUSE ACT\"",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "BN-H120": {
+   "zh": "Evidence Act",
+   "en": "Evidence Act",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "BN-H121": {
+   "zh": "Industrial Designs Order, 1999",
+   "en": "Industrial Designs Order, 1999",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "BN-H122": {
+   "zh": "Intermediate Courts Act",
+   "en": "Intermediate Courts Act",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "BN-H123": {
+   "zh": "Limitation Act",
+   "en": "Limitation Act",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "BN-H124": {
+   "zh": "Reciprocal Enforcement of Foreign Judgments Act",
+   "en": "Reciprocal Enforcement of Foreign Judgments Act",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "BN-H125": {
+   "zh": "Stamp Act",
+   "en": "Stamp Act",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "BN-H126": {
+   "zh": "Subordinate Courts Act",
+   "en": "Subordinate Courts Act",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "BN-H128": {
+   "zh": "Workmen's Compensation Act",
+   "en": "Workmen's Compensation Act",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "BN-H130": {
+   "zh": "信息通信技术产业管理局令",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "BN-H131": {
+   "zh": "刑事诉讼法典",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "BN-H135": {
+   "zh": "宗教理事会与卡迪法院法修订令",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "BN-H138": {
+   "zh": "护照法签证豁免修订令",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "BN-H140": {
+   "zh": "法律修订令第一号",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "BN-H141": {
+   "zh": "法律修订令第三号",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "BN-H142": {
+   "zh": "法律修订令第二号",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "BN-H143": {
+   "zh": "清真寺建设基金规则",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "BN-H144": {
+   "zh": "特别救济法",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "ID-H016": {
+   "zh": "民法典",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "ID-H020": {
+   "zh": "电子商务法",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "ID-H068": {
+   "zh": "Undang-Undang Nomor 23 Tahun 1999 tentang Bank Indonesia",
+   "en": "Undang-Undang Nomor 23 Tahun 1999 tentang Bank Indonesia",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "ID-H070": {
+   "zh": "Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan",
+   "en": "Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "ID-H071": {
+   "zh": "Undang-Undang Nomor 7 Tahun 1983 tentang Pajak Penghasilan",
+   "en": "Undang-Undang Nomor 7 Tahun 1983 tentang Pajak Penghasilan",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "ID-H072": {
+   "zh": "Law of the Republic of Indonesia Number 25 of 2007 on Investment",
+   "en": "Law of the Republic of Indonesia Number 25 of 2007 on Investment",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "ID-H074": {
+   "zh": "资本市场法（1995年第8号）",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "KH-H016": {
+   "zh": "ព្រះរាជក្រឹត្យនៃច្បាប់ស្តីពីសារពើពន្ធ (Royal Kram No. 0523/004)",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "KH-H1079": {
+   "zh": "ច្បាប់ស្តីពីការងារ",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "KH-H1387": {
+   "zh": "Anti Corruption Law (Full Text)",
+   "en": "Anti Corruption Law (Full Text)",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "KH-H1853": {
+   "zh": "Law on Concessions (Full Text)",
+   "en": "Law on Concessions (Full Text)",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "KH-H2265": {
+   "zh": "Sub Decree No_139 dated 26 June 2023",
+   "en": "Sub Decree No_139 dated 26 June 2023",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "KH-H2567": {
+   "zh": "Law on the Implementation of the Civil Code",
+   "en": "Law on the Implementation of the Civil Code",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "KH-H2653": {
+   "zh": "The Constitution",
+   "en": "The Constitution",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "KH-H2668": {
+   "zh": "Land Law",
+   "en": "Land Law",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "KH-H2814": {
+   "zh": "Law on Social Security (Royal Kram NS/RKM/0902/018) (the “Social Security Law”)",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "KH-H2978": {
+   "zh": "Law on the Organization and Conduct of the National Bank of Cambodia_Full Text",
+   "en": "Law on the Organization and Conduct of the National Bank of Cambodia_Full Text",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "KH-H2980": {
+   "zh": "Law on Banking and Financial Institutions",
+   "en": "Law on Banking and Financial Institutions",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "KH-H2988": {
+   "zh": "Law on the Patents, Utility Model Certificates and Industrial Design",
+   "en": "Law on the Patents, Utility Model Certificates and Industrial Design",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "KH-H3494": {
+   "zh": "Decree #38 Referring to Contract and Other Liabilities",
+   "en": "Decree #38 Referring to Contract and Other Liabilities",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "KH-H3536": {
+   "zh": "Law Bearing Upon Commercial Regulations and Commercial Register",
+   "en": "Law Bearing Upon Commercial Regulations and Commercial Register",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "KH-H3896": {
+   "zh": "Law on Insolvency",
+   "en": "Law on Insolvency",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "KH-H3897": {
+   "zh": "Law on Negotiable Instruments and Payments Transaction",
+   "en": "Law on Negotiable Instruments and Payments Transaction",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "KH-H3898": {
+   "zh": "Law on Notary",
+   "en": "Law on Notary",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "KH-H3899": {
+   "zh": "Law on Taxation of 2004",
+   "en": "Law on Taxation of 2004",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "KH-H3900": {
+   "zh": "Law on Taxation",
+   "en": "Law on Taxation",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "KH-H3901": {
+   "zh": "Land Law (2001)",
+   "en": "Land Law (2001)",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "KH-H3902": {
+   "zh": "Law on Investment (1994)",
+   "en": "Law on Investment (1994)",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "KH-H3903": {
+   "zh": "投资法",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "KH-H3904": {
+   "zh": "柬埔寨王国投资法 (Law on Investment of the Kingdom of Cambodia)",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "KH-H3905": {
+   "zh": "ក្រមរដ្ឋប្បវេណីនៃព្រះរាជាណាចក្រកម្ពុជា",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "KH-H3906": {
+   "zh": "ច្បាប់ស្តីពីពាណិជ្ជកម្មតាមប្រព័ន្ធអេឡិចត្រូនិក",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "LA-H418": {
+   "zh": "Decree on Electronic Commerce, No.296/GoL, date 12 April 2021.",
+   "en": "Decree on Electronic Commerce, No.296/GoL, date 12 April 2021.",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "LA-H419": {
+   "zh": "Decree on the Implementation Of the Customs Law No. 362/PMO, dated 19 October 2007",
+   "en": "Decree on the Implementation Of the Customs Law No. 362/PMO, dated 19 October 2007",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "LA-H424": {
+   "zh": "Law on Bank of the Lao PDR (amended version) no. 47/NA, dated 19 June 2018",
+   "en": "Law on Bank of the Lao PDR (amended version) no. 47/NA, dated 19 June 2018",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "LA-H425": {
+   "zh": "Law on Consumption Tax No 68/NA, date 19 June 2019",
+   "en": "Law on Consumption Tax No 68/NA, date 19 June 2019",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "LA-H426": {
+   "zh": "Law on Income Tax No 67/NA, date 18 June 2019",
+   "en": "Law on Income Tax No 67/NA, date 18 June 2019",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "LA-H427": {
+   "zh": "企业法",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "LA-H428": {
+   "zh": "关税法（修订）",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "LA-H430": {
+   "zh": "合同和非合同关系法",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "LA-H431": {
+   "zh": "外国投资者商业活动清单",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "LA-H432": {
+   "zh": "宪法",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "LA-H433": {
+   "zh": "宪法_2025修正版",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "LA-H434": {
+   "zh": "律师法",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "LA-H435": {
+   "zh": "投资促进法",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "LA-H436": {
+   "zh": "投资促进法",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "LA-H437": {
+   "zh": "投资法实施条例",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "LA-H438": {
+   "zh": "民法典",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "LA-H441": {
+   "zh": "民法典",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "LA-H442": {
+   "zh": "海关法",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "LA-H443": {
+   "zh": "海关法（修订条款）",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "LA-H444": {
+   "zh": "环境保护法",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "LA-H447": {
+   "zh": "电子商务法（修订版）",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "LA-H448": {
+   "zh": "知识产权法",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "LA-H449": {
+   "zh": "税收征管法（修订）",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "LA-H451": {
+   "zh": "econdispute_2010【实为HTML】",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "LA-H453": {
+   "zh": "gaz_p2",
+   "en": "gaz_p2",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "MM-H009": {
+   "zh": "Insolvency Law 2020（缅文原文）",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "MM-H018": {
+   "zh": "The Edited Settlement of Dispute Law (September, 2014)",
+   "en": "The Edited Settlement of Dispute Law (September, 2014)",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "MM-H032": {
+   "zh": "专利法",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "MM-H085": {
+   "zh": "The Amended Law for Factory Act (2016)",
+   "en": "The Amended Law for Factory Act (2016)",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "MM-H086": {
+   "zh": "The Labour Organization Rule",
+   "en": "The Labour Organization Rule",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "MM-H088": {
+   "zh": "The Amended Law for Leave and Holiday Law 1951 (July 2014)",
+   "en": "The Amended Law for Leave and Holiday Law 1951 (July 2014)",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "MM-H089": {
+   "zh": "Minimum Wages Law 2013",
+   "en": "Minimum Wages Law 2013",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "MM-H090": {
+   "zh": "The Minimum Wages Rule (2013)",
+   "en": "The Minimum Wages Rule (2013)",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "MM-H093": {
+   "zh": "Myanmar Investment Law 2016（缅文原文）",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "MM-H094": {
+   "zh": "Notification No. 35/2017",
+   "en": "Notification No. 35/2017",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "MM-H095": {
+   "zh": "Special Economic Zone Rules",
+   "en": "Special Economic Zone Rules",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "MM-H096": {
+   "zh": "Overseas Employment Law (1999)",
+   "en": "Overseas Employment Law (1999)",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "MM-H097": {
+   "zh": "The Amended Law for Shop and Workplace (2016)",
+   "en": "The Amended Law for Shop and Workplace (2016)",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "MM-H098": {
+   "zh": "中央银行法",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "MM-H099": {
+   "zh": "公司法示范章程公告60-2018",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "MM-H101": {
+   "zh": "商标法（缅文版）",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "MM-H102": {
+   "zh": "工业设计法（缅文版）",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "MM-H105": {
+   "zh": "破产法",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "MM-H106": {
+   "zh": "著作权法（缅文版，附2024年实施细则）",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "MY-H112": {
+   "zh": "AKTA CAP DAGANGAN 2019",
+   "en": "AKTA CAP DAGANGAN 2019",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "MY-H113": {
+   "zh": "AKTA PERDAGANGAN ELEKTRONIK 2006",
+   "en": "AKTA PERDAGANGAN ELEKTRONIK 2006",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "MY-H114": {
+   "zh": "AKTA PERLINDUNGAN DATA PERIBADI 2010",
+   "en": "AKTA PERLINDUNGAN DATA PERIBADI 2010",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "MY-H115": {
+   "zh": "AKTA SYARIKAT 2016",
+   "en": "AKTA SYARIKAT 2016",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "MY-H116": {
+   "zh": "AKTA TIMBANGTARA 2005",
+   "en": "AKTA TIMBANGTARA 2005",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "MY-H117": {
+   "zh": "AKTA TIMBANGTARA 2005 Sebagaimana Pada 01-11-2018ARBITRATION ACT 2005 As At 01-11-2018",
+   "en": "AKTA TIMBANGTARA 2005 Sebagaimana Pada 01-11-2018ARBITRATION ACT 2005 As At 01-11-2018",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "MY-H121": {
+   "zh": "*AKTA SYARIKAT 2016 Sebagaimana Pada 31-01-2025*COMPANIES ACT 2016 As At 31-01-2025",
+   "en": "*AKTA SYARIKAT 2016 Sebagaimana Pada 31-01-2025*COMPANIES ACT 2016 As At 31-01-2025",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "MY-H122": {
+   "zh": "Digital Signature Act 1997",
+   "en": "Digital Signature Act 1997",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "MY-H123": {
+   "zh": "Electronic Commerce Act 2006",
+   "en": "Electronic Commerce Act 2006",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "MY-H129": {
+   "zh": "Perlembagaan Persekutuan",
+   "en": "Perlembagaan Persekutuan",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "MY-H130": {
+   "zh": "个人资料保护法",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "MY-H131": {
+   "zh": "LAWS OF MALAYSIA — Act 646 — ARBITRATION ACT 2005",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "MY-H132": {
+   "zh": "LAWS OF MALAYSIA — Act 777 — COMPANIES ACT 2016",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "MY-H133": {
+   "zh": "LAWS OF MALAYSIA — Act 53 — INCOME TAX ACT 1967",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "MY-H134": {
+   "zh": "数据保护法",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "MY-H135": {
+   "zh": "LAWS OF MALAYSIA — Act 658 — ELECTRONIC COMMERCE ACT 2006",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "MY-H136": {
+   "zh": "FEDERAL CONSTITUTION（1957年马来亚联合邦宪法；1963年改称马来西亚联邦宪法）",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "PH-H10712": {
+   "zh": "Barangay Micro Business Enterprises Act of 2002",
+   "en": "Barangay Micro Business Enterprises Act of 2002",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "PH-H10713": {
+   "zh": "知识产权案件诉讼程序规则2020",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1078": {
+   "zh": "พระราชบัญญัติคุ้มครองข้อมูลส่วนบุคคล พ.ศ. ๒๕๖๒",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1086": {
+   "zh": "1977年促进投资法",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1087": {
+   "zh": "1999年农产品期货交易法",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1088": {
+   "zh": "1999年商业和工业租赁不动产法",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1089": {
+   "zh": "1999年商业竞争法",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1090": {
+   "zh": "2002年仲裁法案",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1091": {
+   "zh": "2017年投资促进法修正案",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1092": {
+   "zh": "ACT OF ARBITRATION CENTER, B.E. 2550 (2007)",
+   "en": "ACT OF ARBITRATION CENTER, B.E. 2550 (2007)",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1093": {
+   "zh": "Bank of Thailand Act, B.E. 2485 (1942)",
+   "en": "Bank of Thailand Act, B.E. 2485 (1942)",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1094": {
+   "zh": "CYBER SECURITY MAINTENANCE ACT, B.E. 2562 (2019)",
+   "en": "CYBER SECURITY MAINTENANCE ACT, B.E. 2562 (2019)",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1095": {
+   "zh": "Constitution of the Kingdom of Thailand, B.E. 2560 (2017)",
+   "en": "Constitution of the Kingdom of Thailand, B.E. 2560 (2017)",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1096": {
+   "zh": "พระราชบัญญัติการรักษาความมั่นคงปลอดภัยไซเบอร์ พ.ศ. 2562",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1097": {
+   "zh": "DISPUTE MEDIATION ACT, B.E. 2562 (2019)",
+   "en": "DISPUTE MEDIATION ACT, B.E. 2562 (2019)",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1098": {
+   "zh": "Electronic Transactions Act, B.E. 2544 (2001)",
+   "en": "Electronic Transactions Act, B.E. 2544 (2001)",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1099": {
+   "zh": "FOREIGN BUSINESS ACT, B.E. 2542 (1999)",
+   "en": "FOREIGN BUSINESS ACT, B.E. 2542 (1999)",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1101": {
+   "zh": "\"พระราชบัญญัติว่าด้วยการกระทำความผิดเกี่ยวกับคอมพิวเตอร์ พ.ศ. 2550\"",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1102": {
+   "zh": "\"พระราชบัญญัติว่าด้วยข้อสัญญาที่ไม่เป็นธรรม พ.ศ. 2540\"",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1103": {
+   "zh": "\"พระราชบัญญัติคุ้มครองข้อมูลส่วนบุคคล พ.ศ. 2562\"",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1104": {
+   "zh": "LABOUR PROTECTION IN FISHING WORK ACT, B.E. 2562 (2019)",
+   "en": "LABOUR PROTECTION IN FISHING WORK ACT, B.E. 2562 (2019)",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1105": {
+   "zh": "Labour Protection Act B.E. 2541 (1998)",
+   "en": "Labour Protection Act B.E. 2541 (1998)",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1106": {
+   "zh": "พระราชบัญญัติสิทธิบัตร พ.ศ. 2522 และที่แก้ไขเพิ่มเติม (ฉบับอัพเดท)",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1107": {
+   "zh": "Personal Data Protection Act, B.E. 2562 (2019)",
+   "en": "Personal Data Protection Act, B.E. 2562 (2019)",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1108": {
+   "zh": "พระราชบัญญัติว่าด้วยธุรกรรมทางอิเล็กทรอนิกส์ พ.ศ. ๒๕๔๔",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1109": {
+   "zh": "พระราชบัญญัติคุ้มครองข้อมูลส่วนบุคคล พ.ศ. 2562",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1110": {
+   "zh": "\"รัฐธรรมนูญแห่งราชอาณาจักรไทย\"",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1111": {
+   "zh": "Revenue Code — Title 1 General provisions (English version)",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1112": {
+   "zh": "Revenue Code — Title 2 Revenue Taxes (English version)",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1113": {
+   "zh": "Revenue Code — Title 2, Chapter 1 Bis Commission of Taxation (English version)",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1114": {
+   "zh": "Revenue Code — Title 2, Chapter 1 General provisions (English version)",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1115": {
+   "zh": "Revenue Code — Title 2, Chapter 2 Procedures regarding assessment tax (English version)",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1116": {
+   "zh": "Revenue Code_Title 2, Chapter 3 Income Tax",
+   "en": "Revenue Code_Title 2, Chapter 3 Income Tax",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1117": {
+   "zh": "Revenue Code — Title 2, Chapter 4 Value Added Tax (English version)",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1118": {
+   "zh": "Revenue Code — Title 2, Chapter 5 Signboard Tax (Repealed) (English version)",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1119": {
+   "zh": "Revenue Code — Title 2, Chapter 5 Specific Business Tax (English version)",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1120": {
+   "zh": "Revenue Code — Title 2, Chapter 6 Stamp Duty (English version)",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1121": {
+   "zh": "Revenue Code — Title 2, Chapter 7 Entertainment Duty (Repealed) (English version)",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1122": {
+   "zh": "Revenue Code — Title 3 Local Maintenance Tax (Repealed) (English version)",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1129": {
+   "zh": "RevenueCode_IncomeTax",
+   "en": "RevenueCode_IncomeTax",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1131": {
+   "zh": "TRADE COMPETITION ACT, B.E. 2560 (2017)",
+   "en": "TRADE COMPETITION ACT, B.E. 2560 (2017)",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1132": {
+   "zh": "\"พระราชบัญญัติว่าด้วยธุรกรรมทางอิเล็กทรอนิกส์ พ.ศ. 2544\"",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1133": {
+   "zh": "UNFAIR CONTRACT TERMS ACT, B.E. 2540 (1997)",
+   "en": "UNFAIR CONTRACT TERMS ACT, B.E. 2540 (1997)",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1134": {
+   "zh": "专利法",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1136": {
+   "zh": "个人信息保护法",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1139": {
+   "zh": "个人数据保护法（佛历2562年／2019）",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1140": {
+   "zh": "仲裁法",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1141": {
+   "zh": "仲裁法",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1142": {
+   "zh": "公司法（公众有限公司法）",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1143": {
+   "zh": "劳动法",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1144": {
+   "zh": "商标法",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1145": {
+   "zh": "商用工业用不动产租赁法",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1147": {
+   "zh": "外国人经营法",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1148": {
+   "zh": "宪法",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1149": {
+   "zh": "投资促进法",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1150": {
+   "zh": "投资促进法",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1151": {
+   "zh": "民商法",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1152": {
+   "zh": "民商法典",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1153": {
+   "zh": "泰王国税法典（Revenue Code）_现行",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1154": {
+   "zh": "版权法",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1157": {
+   "zh": "电子交易法（佛历2544年／2001，修订版）",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1159": {
+   "zh": "พระราชบัญญัติว่าด้วยธุรกรรมทางอิเล็กทรอนิกส์ พ.ศ. 2544",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1160": {
+   "zh": "电子商务法",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1161": {
+   "zh": "电脑相关犯罪法（佛历2550年／2007）",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1162": {
+   "zh": "税务法典",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1163": {
+   "zh": "ประมวลรัษฎากร (The Revenue Code)",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1165": {
+   "zh": "竞争法",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1167": {
+   "zh": "网络安全法（佛历2562年／2019）",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "TH-H1168": {
+   "zh": "พระราชบัญญัติว่าด้วยการกระทำความผิดเกี่ยวกับคอมพิวเตอร์ พ.ศ. 2550",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "VN-H026": {
+   "zh": "Law on Enterprises (Lu\u0000t Doanh nghi\u0000p) No. 59/2020/QH14",
+   "en": "Law on Enterprises (Lu\u0000t Doanh nghi\u0000p) No. 59/2020/QH14",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "VN-H030": {
+   "zh": "Labor Code (B\u0000 lu\u0000t Lao \u0000\u0000ng) No. 45/2019/QH14 — 合并本 18/VBHN-VPQH",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "VN-H036": {
+   "zh": "Law on Investment (Lu\u0000t \u0000\u0000u t\u0000) No. 61/2020/QH14",
+   "en": "Law on Investment (Lu\u0000t \u0000\u0000u t\u0000) No. 61/2020/QH14",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "VN-H042": {
+   "zh": "Law on Intellectual Property (Lu\u0000t S\u0000 h\u0000u trí tu\u0000) No. 50/2005/QH11",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "VN-H093": {
+   "zh": "Luật Trọng tài thương mại số 54/2010/QH12",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "VN-H094": {
+   "zh": "Commercial Law 2005",
+   "en": "Commercial Law 2005",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "VN-H095": {
+   "zh": "Commercial Law 2005_2005_vi_official",
+   "en": "Commercial Law 2005_2005_vi_official",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "VN-H096": {
+   "zh": "Competition Law 2018",
+   "en": "Competition Law 2018",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "VN-H097": {
+   "zh": "Competition Law 2018_2018_vi_official",
+   "en": "Competition Law 2018_2018_vi_official",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "VN-H098": {
+   "zh": "Corporate Income Tax Law 2008",
+   "en": "Corporate Income Tax Law 2008",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "VN-H099": {
+   "zh": "Corporate Income Tax Law 2008_2008_vi_official",
+   "en": "Corporate Income Tax Law 2008_2008_vi_official",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "VN-H100": {
+   "zh": "Nghị định số 52/2013/NĐ-CP Về Thương mại điện tử",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "VN-H101": {
+   "zh": "Decree 52-2013 E-commerce 2013_2013_vi_p1",
+   "en": "Decree 52-2013 E-commerce 2013_2013_vi_p1",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "VN-H102": {
+   "zh": "Intellectual Property Law 2005",
+   "en": "Intellectual Property Law 2005",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "VN-H103": {
+   "zh": "Intellectual Property Law 2005_2005_vi_official",
+   "en": "Intellectual Property Law 2005_2005_vi_official",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "VN-H104": {
+   "zh": "Luật Quản lý thuế số 108/2025/QH15",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "VN-H105": {
+   "zh": "个人所得税法",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "VN-H106": {
+   "zh": "Decree on Personal Data Protection (Ngh\u0000 \u0000\u0000nh s\u0000 13/2023/N\u0000-CP) — GOVERNMENT No.",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "VN-H107": {
+   "zh": "企业所得税法",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "VN-H108": {
+   "zh": "信贷机构法",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "VN-H109": {
+   "zh": "商事仲裁法",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "VN-H110": {
+   "zh": "Law on Commercial Arbitration (Lu\u0000t Tr\u0000ng tài th\u0000\u0000ng m\u0000i) No. 54/2010/QH12",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "VN-H111": {
+   "zh": "商法",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "VN-H112": {
+   "zh": "土地法",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "VN-H113": {
+   "zh": "增值税法",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "VN-H114": {
+   "zh": "婚姻家庭法",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "VN-H115": {
+   "zh": "Constitution of the Socialist Republic of Vietnam (Hi\u0000n pháp n\u0000\u0000c C\u0000ng hòa x\u0000 h\u0000i ch\u0000",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "VN-H116": {
+   "zh": "投资法",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "VN-H117": {
+   "zh": "投资法",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "VN-H118": {
+   "zh": "民事判决执行法",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "VN-H119": {
+   "zh": "Civil Code (B\u0000 lu\u0000t D\u0000n s\u0000) No. 91/2015/QH13",
+   "en": "Civil Code (B\u0000 lu\u0000t D\u0000n s\u0000) No. 91/2015/QH13",
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "VN-H120": {
+   "zh": "电信法",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "VN-H121": {
+   "zh": "电子交易法",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "VN-H123": {
+   "zh": "知识产权法",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "VN-H124": {
+   "zh": "税收管理法",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
+  },
+  "VN-H125": {
+   "zh": "证券法",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "model": "source.name / 正文原文标题",
+   "reviewed": false,
+   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
   }
  }
 }

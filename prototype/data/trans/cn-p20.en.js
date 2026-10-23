@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p20
-   法规 43 部 / 译文 2108 条
+   法规 44 部 / 译文 2257 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -15165,6 +15165,1761 @@
         },
         "noLabel": {
           "en": "Article 38."
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0604'] = {
+    "lawId": "CN-REG-0604",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 149 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Rules are formulated in accordance with the Patent Law of the People's Republic of China (hereinafter referred to as the Patent Law)."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The various formalities provided in the Patent Law and these Rules shall be gone through in writing or in other forms prescribed by the patent administration department under the State Council. Electronic data messages that can tangibly express the contents contained therein by means of electronic data interchange and that can be retrieved and consulted at any time (hereinafter collectively referred to as electronic form) shall be deemed to be in writing."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The various documents submitted in accordance with the provisions of the Patent Law and these Rules shall be in Chinese; where the State has uniform provisions on scientific and technical terms, the standard terms shall be used; where foreign personal names, place names and scientific and technical terms have no uniform Chinese translation, the original text shall be indicated.\nWhere the various certificates and supporting documents submitted in accordance with the provisions of the Patent Law and these Rules are in a foreign language, the patent administration department under the State Council may, when it deems necessary, require the party concerned to submit a Chinese translation within a specified time limit; where the translation is not submitted upon expiry of the time limit, the certificate or supporting document shall be deemed not to have been submitted."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "For the various documents mailed to the patent administration department under the State Council, the date of the postmark of mailing shall be the date of submission; where the postmark date is illegible, the date of receipt by the patent administration department under the State Council shall be the date of submission, unless the party concerned can provide evidence to the contrary.\nWhere the various documents are submitted to the patent administration department under the State Council in electronic form, the date of entry into the specific electronic system designated by the patent administration department under the State Council shall be the date of submission.\nThe various documents of the patent administration department under the State Council may be served on the party concerned in electronic form, by post, by direct delivery or by other means. Where the party concerned has entrusted a patent agency, the documents shall be delivered to the patent agency; where no patent agency has been entrusted, the documents shall be delivered to the contact person specified in the request.\nFor the various documents mailed by the patent administration department under the State Council, the date on which 15 days have elapsed from the date of dispatch of the documents shall be presumed to be the date on which the party concerned receives them. Where the party concerned provides evidence proving the actual date of receipt of the documents, the actual date of receipt shall prevail.\nFor documents that should be delivered directly as prescribed by the patent administration department under the State Council, the date of delivery shall be the date of service.\nWhere the address to which the documents are delivered is unclear and service by post is impossible, service may be made on the party concerned by way of announcement. The documents shall be deemed to have been served upon the expiry of 1 month from the date of the announcement.\nFor the various documents served in electronic form by the patent administration department under the State Council, the date of entry into the electronic system recognised by the party concerned shall be the date of service."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The day on which the various time limits provided in the Patent Law and these Rules commence shall not be counted within the time limit, and counting shall start from the following day. Where a time limit is calculated in years or months, the corresponding day in the last month shall be the date of expiry of the time limit; where there is no corresponding day in that month, the last day of that month shall be the date of expiry of the time limit; where the date of expiry of the time limit is a statutory holiday, the first working day after the holiday shall be the date of expiry of the time limit."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Where a party concerned delays, for reasons of force majeure, the time limit provided in the Patent Law or these Rules or the time limit specified by the patent administration department under the State Council, resulting in the loss of its rights, it may request the patent administration department under the State Council to restore its rights within 2 months from the date of removal of the obstacle and within 2 years from the date of expiry of the time limit.\nExcept for the circumstances provided in the preceding paragraph, where a party concerned delays, for other justified reasons, the time limit provided in the Patent Law or these Rules or the time limit specified by the patent administration department under the State Council, resulting in the loss of its rights, it may request the patent administration department under the State Council to restore its rights within 2 months from the date of receipt of the notification of the patent administration department under the State Council; however, where the time limit for requesting reexamination is delayed, it may request the patent administration department under the State Council to restore its rights within 2 months from the date of expiry of the time limit for requesting reexamination.\nWhere a party concerned requests the restoration of rights in accordance with the provisions of Paragraph 1 or Paragraph 2 of this Article, it shall submit a request for restoration of rights, state the reasons, attach the relevant supporting documents where necessary, and go through the corresponding formalities that should have been gone through before the loss of rights; where it requests the restoration of rights in accordance with the provisions of Paragraph 2 of this Article, it shall also pay the fee for requesting restoration of rights.\nWhere a party concerned requests an extension of the time limit specified by the patent administration department under the State Council, it shall, before the expiry of the time limit, submit a request for extension of the time limit to the patent administration department under the State Council, state the reasons and go through the relevant formalities.\nThe provisions of Paragraphs 1 and 2 of this Article shall not apply to the time limits provided in Article 24, Article 29, Article 42 and Article 74 of the Patent Law."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Where a patent application involves national defence interests and needs to be kept secret, it shall be accepted and examined by the national defence patent institution; where a patent application accepted by the patent administration department under the State Council involves national defence interests and needs to be kept secret, it shall be promptly transferred to the national defence patent institution for examination. Where no ground for rejection is found upon examination by the national defence patent institution, the patent administration department under the State Council shall make a decision to grant a national defence patent.\nWhere the patent administration department under the State Council considers that an application for an invention or utility model patent accepted by it involves national security or major interests other than national defence interests and needs to be kept secret, it shall promptly make a decision to handle it as a secret patent application and notify the applicant. The special procedures for the examination and reexamination of secret patent applications and for the invalidation of secret patent rights shall be prescribed by the patent administration department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The invention or utility model completed in China mentioned in Article 19 of the Patent Law refers to an invention or utility model the substantive content of whose technical solution is completed within the territory of China.\nWhere any unit or individual applies for a patent in a foreign country for an invention or utility model completed in China, it shall request the patent administration department under the State Council to conduct a confidentiality examination in one of the following ways:\n(a) where it directly applies for a patent in a foreign country or submits an international application for a patent to a relevant foreign institution, it shall file a request with the patent administration department under the State Council in advance and state its technical solution in detail;\n(b) where, after applying for a patent with the patent administration department under the State Council, it intends to apply for a patent in a foreign country or submit an international application for a patent to a relevant foreign institution, it shall file a request with the patent administration department under the State Council before applying for a patent in the foreign country or submitting the international application for a patent to the relevant foreign institution.\nWhere an international application for a patent is submitted to the patent administration department under the State Council, it shall be deemed that a request for confidentiality examination has been filed at the same time."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Where the patent administration department under the State Council, after receiving a request submitted in accordance with the provisions of Article 8 of these Rules, considers upon examination that the invention or utility model may involve national security or major interests and needs to be kept secret, it shall issue a confidentiality examination notification to the applicant within 2 months from the date of submission of the request; where the circumstances are complicated, the period may be extended by 2 months.\nWhere the patent administration department under the State Council notifies the conduct of a confidentiality examination in accordance with the provisions of the preceding paragraph, it shall, within 4 months from the date of submission of the request, make a decision on whether confidentiality is required and notify the applicant; where the circumstances are complicated, the period may be extended by 2 months."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The inventions-creations that violate the law mentioned in Article 5 of the Patent Law do not include inventions-creations whose exploitation alone is prohibited by law."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "An application for a patent shall follow the principle of honesty and credibility. Applications for patents of various types shall be based on genuine inventive and creative activities, and no falsification shall be permitted."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Except for the circumstances provided in Article 28 and Article 42 of the Patent Law, where there is a right of priority, the filing date mentioned in the Patent Law refers to the date of priority.\nThe filing date mentioned in these Rules refers, unless otherwise provided, to the filing date provided in Article 28 of the Patent Law."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The service inventions-creations completed in the course of performing the tasks of the entity mentioned in Article 6 of the Patent Law refer to:\n(a) inventions-creations made in the course of the person's own work;\n(b) inventions-creations made in the course of performing tasks other than the person's own work assigned by the entity;\n(c) inventions-creations made within 1 year after retirement, transfer away from the original entity or termination of the labour or personnel relationship, which are related to the person's own work undertaken in the original entity or the tasks assigned by the original entity.\nThe entity mentioned in Article 6 of the Patent Law includes a temporary work entity; the material and technical conditions of the entity mentioned in Article 6 of the Patent Law refer to the funds, equipment, components, raw materials or undisclosed technical information and materials of the entity."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The inventor or designer mentioned in the Patent Law refers to the person who has made creative contributions to the substantive features of the invention-creation. In the course of completing the invention-creation, persons who are only responsible for organisational work, persons who facilitate the use of material and technical conditions, or persons who engage in other auxiliary work are not inventors or designers."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Except for the assignment of patent rights in accordance with the provisions of Article 10 of the Patent Law, where a patent right is transferred for other reasons, the party concerned shall, on the strength of the relevant supporting documents or legal instruments, go through the formalities for the transfer of the patent right with the patent administration department under the State Council.\nA patent exploitation licence contract concluded between the patentee and another person shall be recorded with the patent administration department under the State Council within 3 months from the date of effectiveness of the contract.\nWhere a patent right is pledged, the pledgor and the pledgee shall jointly go through the pledge registration with the patent administration department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Patent work shall implement the intellectual property strategy of the Party and the State, enhance the capacity of China in the creation, exploitation, protection, management of and service for patents, support comprehensive innovation and promote the building of an innovation-oriented country.\nThe patent administration department under the State Council shall enhance its public service capacity in patent information, publish patent information in a complete, accurate and timely manner, provide basic patent data, and promote the open sharing and interconnection of patent-related data resources."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "An applicant for a patent shall submit the application documents to the patent administration department under the State Council. The application documents shall comply with the prescribed requirements.\nWhere an applicant entrusts a patent agency to apply for a patent with the patent administration department under the State Council and to handle other patent matters, it shall submit a power of attorney at the same time, stating the scope of the authorisation.\nWhere there are 2 or more applicants and no patent agency has been entrusted, the first applicant specified in the request shall be the representative, unless otherwise declared in the request."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Application for a Patent"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where a patent agency is entrusted to apply for a patent in China and to handle other patent matters in accordance with the provisions of Paragraph 1 of Article 18 of the Patent Law, the applicant or patentee may handle the following matters by itself:\n(a) submitting a copy of the documents of the earlier patent application (hereinafter referred to as the earlier application) where priority is claimed;\n(b) paying fees;\n(c) other matters prescribed by the patent administration department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Application for a Patent"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The request for a patent application for an invention, utility model or design shall state the following matters:\n(a) the title of the invention, utility model or design;\n(b) where the applicant is a Chinese entity or individual, its name or title, address, postal code, unified social credit code or identity document number; where the applicant is a foreigner, foreign enterprise or other foreign organisation, its name or title, and nationality or the country or region of registration;\n(c) the name of the inventor or designer;\n(d) where the applicant has entrusted a patent agency, the name and code of the entrusted agency and the name, patent agent qualification certificate number and contact telephone number of the patent agent designated by that agency;\n(e) where priority is claimed, the filing date and filing number of the earlier application and the name of the original receiving institution;\n(f) the signature or seal of the applicant or the patent agency;\n(g) the list of application documents;\n(h) the list of additional documents;\n(i) other relevant matters requiring statement."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Application for a Patent"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The description of an application for an invention or utility model patent shall state the title of the invention or utility model, which shall be consistent with the title in the request. The description shall include the following:\n(a) technical field: stating the technical field to which the claimed technical solution pertains;\n(b) background art: stating the background art useful for understanding, searching and examining the invention or utility model and, where possible, citing the documents reflecting such background art;\n(c) contents of the invention: stating the technical problem to be solved by the invention or utility model and the technical solution adopted to solve the technical problem, and stating the beneficial effects of the invention or utility model in comparison with the prior art;\n(d) description of the drawings: where the description contains drawings, giving a brief description of each drawing;\n(e) specific modes of carrying out the invention: stating in detail the preferred modes by which the applicant considers the invention or utility model should be carried out; giving examples where necessary; and referring to the drawings where there are drawings.\nAn applicant for an invention or utility model patent shall draft the description in the manner and order provided in the preceding paragraph and shall state a heading before each part of the description, unless the nature of the invention or utility model permits drafting in another manner or order that can save the length of the description and enable others to accurately understand the invention or utility model.\nThe description of an invention or utility model shall use standard terms and clear statements, and shall not use references such as 'as described in claim ......' or commercial advertising language.\nWhere an application for an invention patent contains one or more nucleotide or amino acid sequences, the description shall include a sequence listing conforming to the provisions of the patent administration department under the State Council.\nThe description of an application for a utility model patent shall contain drawings showing the shape, structure or combination thereof of the product claimed for protection."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Application for a Patent"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where there are several drawings in an application for an invention or utility model patent, they shall be numbered and arranged in the order of 'Fig. 1, Fig. 2, ......'.\nReference signs not mentioned in the textual part of the description of the invention or utility model shall not appear in the drawings, and reference signs not appearing in the drawings shall not be mentioned in the textual part of the description. The reference signs denoting the same component in the application documents shall be consistent.\nThe drawings shall not contain annotations other than the necessary words."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Application for a Patent"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The claims shall state the technical features of the invention or utility model.\nWhere the claims contain several claims, they shall be numbered consecutively in Arabic numerals.\nThe scientific and technical terms used in the claims shall be consistent with those used in the description; chemical formulae or mathematical formulae may be contained, but no illustrations shall be contained. Except where absolutely necessary, expressions such as 'as described in the ...... part of the description' or 'as shown in Fig. ......' shall not be used.\nThe technical features in a claim may refer to the corresponding reference signs in the drawings of the description, and such reference signs shall be placed after the corresponding technical features in parentheses so as to facilitate the understanding of the claim. The reference signs shall not be construed as limiting the claim."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter II Application for a Patent"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The claims shall contain an independent claim and may also contain dependent claims.\nThe independent claim shall reflect the technical solution of the invention or utility model as a whole and state the essential technical features for solving the technical problem.\nThe dependent claim shall further limit the claim referred to by means of additional technical features."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter II Application for a Patent"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The independent claim of an invention or utility model shall contain a preamble portion and a characterising portion and shall be drafted in accordance with the following provisions:\n(a) the preamble portion: stating the title of the subject matter of the technical solution of the invention or utility model claimed for protection and the essential technical features shared by the subject matter of the invention or utility model and the closest prior art;\n(b) the characterising portion: using the expression 'characterised in that ......' or similar expressions to state the technical features of the invention or utility model that distinguish it from the closest prior art. These features together with the features stated in the preamble portion define the scope of protection claimed for the invention or utility model.\nWhere the nature of the invention or utility model is not suitable for expression in the manner provided in the preceding paragraph, the independent claim may be drafted in other ways.\nOne invention or utility model shall have only one independent claim, which shall be placed before the dependent claims of the same invention or utility model."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter II Application for a Patent"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The dependent claim of an invention or utility model shall contain a reference portion and a limiting portion and shall be drafted in accordance with the following provisions:\n(a) the reference portion: stating the number of the claim referred to and the title of its subject matter;\n(b) the limiting portion: stating the additional technical features of the invention or utility model.\nA dependent claim may only refer to a preceding claim. A multiple dependent claim referring to two or more claims may only refer to the preceding claims in the alternative and shall not serve as a basis for another multiple dependent claim."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter II Application for a Patent"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The abstract of the description shall state a summary of the contents disclosed in the patent application for an invention or utility model, that is, state the title of the invention or utility model and the technical field to which it pertains, and clearly reflect the technical problem to be solved, the gist of the technical solution for solving the problem and the main use.\nThe abstract of the description may contain the chemical formula that best illustrates the invention; where the patent application contains drawings, one drawing of the description that best illustrates the technical features of the invention or utility model shall also be designated in the request as the abstract drawing. Commercial advertising language shall not be used in the abstract."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter II Application for a Patent"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where the invention for which a patent is applied for involves a new biological material that is not available to the public and the description of the biological material is insufficient to enable a person skilled in the art to carry out the invention, the applicant shall, in addition to complying with the relevant provisions of the Patent Law and these Rules, go through the following formalities:\n(a) submit a sample of the biological material to a depositary institution recognised by the patent administration department under the State Council for deposit before the filing date or at the latest on the filing date (the date of priority where there is a right of priority), and submit the deposit certificate and viability certificate issued by the depositary institution at the time of filing or at the latest within 4 months from the filing date; where the certificates are not submitted upon expiry of the time limit, the sample shall be deemed not to have been deposited;\n(b) furnish in the application documents the information concerning the characteristics of the biological material;\n(c) where a patent application involves the deposit of a sample of biological material, state in the request and the description the taxonomic nomenclature of the biological material (indicating the Latin name), the name and address of the institution with which the sample of the biological material is deposited, the date of deposit and the deposit number; where not stated at the time of filing, this shall be corrected within 4 months from the filing date; where no correction is made upon expiry of the time limit, the deposit shall be deemed not to have been made."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter II Application for a Patent"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Where an applicant for an invention patent has deposited a sample of biological material in accordance with the provisions of Article 27 of these Rules, any unit or individual that needs to use the biological material involved in the patent application for experimental purposes after the publication of the application for the invention patent shall file a request with the patent administration department under the State Council and state the following matters:\n(a) the name or title and address of the requesting person;\n(b) an undertaking not to provide the biological material to any other person;\n(c) an undertaking to use it only for experimental purposes before the patent right is granted."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter II Application for a Patent"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The genetic resources mentioned in the Patent Law refer to materials of actual or potential value obtained from the human body, animals, plants or microorganisms that contain functional units of heredity, and the genetic information derived from the use of such materials; the inventions-creations completed by relying on genetic resources mentioned in the Patent Law refer to inventions-creations completed by using the hereditary functions of genetic resources.\nWhere a patent is applied for an invention-creation completed by relying on genetic resources, the applicant shall state this in the request and fill in the form formulated by the patent administration department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter II Application for a Patent"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "An applicant shall submit the relevant drawings or photographs in respect of the content of each design product for which protection is required.\nWhere a patent is applied for a partial design, the views of the entire product shall be submitted, and the content of the part for which protection is required shall be indicated by a combination of broken lines and solid lines or in other ways.\nWhere an applicant requests protection of colour, colour drawings or photographs shall be submitted."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter II Application for a Patent"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The brief description of a design shall state the title and use of the design product and the design points, and designate one drawing or photograph that best shows the design points. Where a view is omitted or protection of colour is requested, this shall be stated in the brief description.\nWhere one application for a design patent is filed for multiple similar designs of the same product, one of them shall be designated as the basic design in the brief description.\nWhere a patent is applied for a partial design, the part for which protection is requested shall be stated in the brief description, unless it has already been indicated in the views of the entire product by a combination of broken lines and solid lines.\nCommercial advertising language shall not be used in the brief description, nor shall the performance of the product be described."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter II Application for a Patent"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Where the patent administration department under the State Council deems it necessary, it may require an applicant for a design patent to submit a sample or model of the product using the design. The volume of the sample or model shall not exceed 30 cm x 30 cm x 30 cm and its weight shall not exceed 15 kilogrammes. Perishable, fragile or dangerous goods shall not be submitted as samples or models."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter II Application for a Patent"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The international exhibition recognised by the Chinese Government mentioned in Article 24(2) of the Patent Law refers to an international exhibition registered with or recognised by the Bureau International des Expositions as provided by the Convention on International Exhibitions.\nThe academic or technical conference mentioned in Article 24(3) of the Patent Law refers to an academic or technical conference organised and convened by the relevant competent department of the State Council or a national academic organisation, and an academic or technical conference convened by an international organisation and recognised by the relevant competent department of the State Council.\nWhere an invention-creation for which a patent is applied for falls under the circumstances listed in Article 24(2) or (3) of the Patent Law, the applicant shall declare this at the time of filing the patent application and submit, within 2 months from the filing date, supporting documents proving that the invention-creation has been exhibited or published and the date of the exhibition or publication.\nWhere an invention-creation for which a patent is applied for falls under the circumstances listed in Article 24(1) or (4) of the Patent Law, the patent administration department under the State Council may, where it deems necessary, require the applicant to submit supporting documents within a specified time limit.\nWhere an applicant fails to make a declaration and submit supporting documents in accordance with the provisions of Paragraph 3 of this Article, or fails to submit supporting documents within the specified time limit in accordance with the provisions of Paragraph 4 of this Article, the provisions of Article 24 of the Patent Law shall not apply to its application."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter II Application for a Patent"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Where an applicant claims a foreign right of priority in accordance with the provisions of Article 30 of the Patent Law, the copy of the earlier application documents submitted by the applicant shall be certified by the original receiving institution. Where, in accordance with an agreement concluded between the patent administration department under the State Council and that receiving institution, the patent administration department under the State Council obtains the copy of the earlier application documents by electronic exchange or other means, it shall be deemed that the applicant has submitted a copy of the earlier application documents certified by that receiving institution. Where a domestic right of priority is claimed and the applicant states the filing date and filing number of the earlier application in the request, it shall be deemed that a copy of the earlier application documents has been submitted.\nWhere priority is claimed but one or two of the filing date and filing number of the earlier application and the name of the original receiving institution are omitted or wrongly stated in the request, the patent administration department under the State Council shall notify the applicant to make corrections within a specified time limit; where no correction is made upon expiry of the time limit, the priority shall be deemed not to have been claimed.\nWhere the name or title of the applicant claiming priority is inconsistent with the name or title of the applicant recorded in the copy of the earlier application documents, supporting documents on the transfer of the right of priority shall be submitted; where such supporting documents are not submitted, the priority shall be deemed not to have been claimed.\nWhere an applicant for a design patent claims a foreign right of priority, its earlier application did not contain a brief description of the design, and the brief description submitted by the applicant in accordance with the provisions of Article 31 of these Rules does not go beyond the scope indicated by the drawings or photographs of the earlier application documents, its enjoyment of the right of priority shall not be affected."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter II Application for a Patent"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "An applicant may claim one or more rights of priority in one patent application; where multiple rights of priority are claimed, the priority period of the application shall be calculated from the date of the earliest priority.\nWhere an applicant for an invention or utility model patent claims a domestic right of priority and the earlier application is an application for an invention patent, it may file an application for an invention or utility model patent for the same subject matter; where the earlier application is an application for a utility model patent, it may file an application for a utility model or invention patent for the same subject matter. Where an applicant for a design patent claims a domestic right of priority and the earlier application is an application for an invention or utility model patent, it may file an application for a design patent for the same subject matter in respect of the design shown in the drawings; where the earlier application is an application for a design patent, it may file an application for a design patent for the same subject matter. However, where the subject matter of the earlier application falls under any of the following circumstances at the time of filing the later application, it shall not serve as the basis for claiming a domestic right of priority:\n(a) a foreign or domestic right of priority has already been claimed;\n(b) a patent right has already been granted;\n(c) it is a divisional application filed in accordance with the provisions.\nWhere an applicant claims a domestic right of priority, its earlier application shall be deemed withdrawn from the date of filing of the later application, except where the applicant for a design patent claims a domestic right of priority on the basis of an application for an invention or utility model patent."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter II Application for a Patent"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Where an applicant files an application for an invention or utility model patent for the same subject matter with the patent administration department under the State Council beyond the time limit provided in Article 29 of the Patent Law and has justified reasons, it may request the restoration of the right of priority within 2 months from the date of expiry of the time limit."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter II Application for a Patent"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Where an applicant for an invention or utility model patent has claimed a right of priority, it may request the addition or correction of the priority claim in the request within 16 months from the date of priority or within 4 months from the filing date."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter II Application for a Patent"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where an applicant that has no habitual residence or business office in China applies for a patent or claims a foreign right of priority, the patent administration department under the State Council may, where it deems necessary, require it to provide the following documents:\n(a) where the applicant is an individual, proof of his or her nationality;\n(b) where the applicant is an enterprise or other organisation, the supporting document on the country or region of its registration;\n(c) a supporting document proving that the country to which the applicant belongs recognises that Chinese units and individuals may, on the same conditions as its nationals, enjoy patent rights, rights of priority and other patent-related rights in that country."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter II Application for a Patent"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "In accordance with the provisions of Paragraph 1 of Article 31 of the Patent Law, two or more inventions or utility models belonging to a single general inventive concept that may be filed as one patent application shall be technically interrelated and contain one or more identical or corresponding special technical features, where the special technical features refer to the technical features that, as a whole, make a contribution over the prior art by each invention or utility model."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter II Application for a Patent"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "In accordance with the provisions of Paragraph 2 of Article 31 of the Patent Law, where multiple similar designs of the same product are filed as one application, the other designs of the product shall be similar to the basic design designated in the brief description. An application for a design patent shall not contain more than 10 similar designs.\nTwo or more designs of products of the same class that are sold or used as a set mentioned in Paragraph 2 of Article 31 of the Patent Law mean that the products belong to the same class in the classification table, are customarily sold or used at the same time, and the designs of the products share the same design concept.\nWhere two or more designs are filed as one application, the serial numbers of the designs shall be marked before the titles of the drawings or photographs of each design product."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter II Application for a Patent"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where an applicant withdraws its patent application, it shall make a declaration to the patent administration department under the State Council, stating the title of the invention-creation, the filing number and the filing date.\nWhere the declaration of withdrawal of the patent application is filed after the patent administration department under the State Council has completed the printing preparations for the publication of the patent application documents, the application documents shall still be published; however, the declaration of withdrawal of the patent application shall be announced in the Patent Gazette to be published later."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter II Application for a Patent"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "In the procedures of preliminary examination, substantive examination, reexamination and invalidation, where a person conducting examination and adjudication falls under any of the following circumstances, that person shall withdraw on its own initiative, and the party concerned or other interested parties may request that person to withdraw:\n(a) being a close relative of the party concerned or its agent;\n(b) having an interest in the patent application or patent right;\n(c) having other relations with the party concerned or its agent that may affect the impartial examination and adjudication;\n(d) in reexamination or invalidation procedures, having participated in the examination of the original application."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter III Examination and Approval of Patent Applications"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Upon receipt of the request, description (the drawings must be included for a utility model) and claims of an application for an invention or utility model patent, or the request, drawings or photographs of the design and the brief description of an application for a design patent, the patent administration department under the State Council shall determine the filing date, allot a filing number and notify the applicant."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter III Examination and Approval of Patent Applications"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where the patent application documents fall under any of the following circumstances, the patent administration department under the State Council shall not accept the application and shall notify the applicant:\n(a) an application for an invention or utility model patent lacks a request, a description (a utility model without drawings) or claims, or an application for a design patent lacks a request, drawings or photographs, or a brief description;\n(b) the documents are not in Chinese;\n(c) the format of the application documents does not conform to the provisions;\n(d) the request lacks the name or title of the applicant, or lacks an address;\n(e) the documents obviously do not conform to the provisions of Article 17 or Paragraph 1 of Article 18 of the Patent Law;\n(f) the type of patent application (invention, utility model or design) is unclear or difficult to determine."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter III Examination and Approval of Patent Applications"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where an application for an invention or utility model patent lacks, or erroneously submits, the claims, the description or part of the contents of the claims or the description, but the applicant has claimed priority on the date of submission, it may supplement them by reference to the earlier application documents within 2 months from the date of submission or within the time limit specified by the patent administration department under the State Council. Where the supplemented documents conform to the relevant provisions, the date of submission of the documents first submitted shall be the filing date."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter III Examination and Approval of Patent Applications"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where the description contains a reference to drawings but there are no drawings or some of the drawings are missing, the applicant shall, within the time limit specified by the patent administration department under the State Council, submit the drawings or declare the deletion of the reference to the drawings. Where the applicant submits the drawings, the date on which the drawings are submitted to or mailed to the patent administration department under the State Council shall be the filing date; where the reference to the drawings is deleted, the original filing date shall be retained."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter III Examination and Approval of Patent Applications"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where two or more applicants separately apply for patents for the same invention-creation on the same day (referring to the filing date; where there is a right of priority, referring to the date of priority), they shall, after receiving the notification of the patent administration department under the State Council, determine the applicant through consultation by themselves.\nWhere the same applicant files both an application for a utility model patent and an application for an invention patent for the same invention-creation on the same day (referring to the filing date), it shall state separately at the time of filing that another patent has been applied for the same invention-creation; where no such statement is made, the matter shall be handled in accordance with the provisions of Paragraph 1 of Article 9 of the Patent Law that only one patent right may be granted for the same invention-creation.\nWhen the patent administration department under the State Council announces the grant of a utility model patent, it shall announce the statement that the applicant has simultaneously applied for an invention patent in accordance with the provisions of Paragraph 2 of this Article.\nWhere no ground for rejection is found upon examination of the application for an invention patent, the patent administration department under the State Council shall notify the applicant to declare the abandonment of the utility model patent right within the prescribed time limit. Where the applicant declares the abandonment, the patent administration department under the State Council shall make a decision to grant the invention patent right and, when announcing the grant of the invention patent right, announce together the applicant's declaration of abandonment of the utility model patent right. Where the applicant does not agree to abandon it, the patent administration department under the State Council shall reject the application for the invention patent; where the applicant fails to reply upon expiry of the time limit, the application for the invention patent shall be deemed withdrawn.\nThe utility model patent right shall terminate from the date of announcement of the grant of the invention patent right."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter III Examination and Approval of Patent Applications"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where one patent application contains two or more inventions, utility models or designs, the applicant may file a divisional application with the patent administration department under the State Council before the expiry of the time limit provided in Paragraph 1 of Article 60 of these Rules; however, where the patent application has been rejected, withdrawn or deemed withdrawn, a divisional application may not be filed.\nWhere the patent administration department under the State Council considers that a patent application does not conform to the provisions of Article 31 of the Patent Law and Article 39 or Article 40 of these Rules, it shall notify the applicant to amend the application within a specified time limit; where the applicant fails to reply upon expiry of the time limit, the application shall be deemed withdrawn.\nA divisional application shall not change the type of the original application."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter III Examination and Approval of Patent Applications"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "A divisional application filed in accordance with the provisions of Article 48 of these Rules may retain the original filing date and, where a right of priority is enjoyed, may retain the date of priority, but shall not go beyond the scope recorded in the original application.\nA divisional application shall be subject to the relevant formalities in accordance with the provisions of the Patent Law and these Rules.\nThe request of a divisional application shall state the filing number and filing date of the original application."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter III Examination and Approval of Patent Applications"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "The preliminary examination mentioned in Article 34 and Article 40 of the Patent Law refers to the examination of whether a patent application possesses the documents provided in Article 26 or Article 27 of the Patent Law and other necessary documents, whether these documents conform to the prescribed format, and the examination of the following items:\n(a) whether an application for an invention patent obviously falls under the circumstances provided in Article 5 or Article 25 of the Patent Law, whether it fails to conform to the provisions of Article 17, Paragraph 1 of Article 18, Paragraph 1 of Article 19 of the Patent Law or Article 11, Article 19 or Paragraph 2 of Article 29 of these Rules, and whether it obviously fails to conform to the provisions of Paragraph 2 of Article 2, Paragraph 5 of Article 26, Paragraph 1 of Article 31, Article 33 of the Patent Law or Articles 20 to 24 of these Rules;\n(b) whether an application for a utility model patent obviously falls under the circumstances provided in Article 5 or Article 25 of the Patent Law, whether it fails to conform to the provisions of Article 17, Paragraph 1 of Article 18, Paragraph 1 of Article 19 of the Patent Law or Article 11, Article 19 to Article 22, Article 24 to Article 26 of these Rules, and whether it obviously fails to conform to the provisions of Paragraph 3 of Article 2, Article 22, Paragraph 3 of Article 26, Paragraph 4 of Article 26, Paragraph 1 of Article 31, Article 33 of the Patent Law or Article 23 or Paragraph 1 of Article 49 of these Rules, and whether no patent right may be granted in accordance with the provisions of Article 9 of the Patent Law;\n(c) whether an application for a design patent obviously falls under the circumstances provided in Article 5 or Item (6) of Paragraph 1 of Article 25 of the Patent Law, whether it fails to conform to the provisions of Article 17, Paragraph 1 of Article 18 of the Patent Law or Article 11, Article 19, Article 30 or Article 31 of these Rules, and whether it obviously fails to conform to the provisions of Paragraph 4 of Article 2, Paragraph 1 of Article 23, Paragraph 2 of Article 23, Paragraph 2 of Article 27, Paragraph 2 of Article 31, Article 33 of the Patent Law or Paragraph 1 of Article 49 of these Rules, and whether no patent right may be granted in accordance with the provisions of Article 9 of the Patent Law;\n(d) whether the application documents conform to the provisions of Article 2 and Paragraph 1 of Article 3 of these Rules.\nThe patent administration department under the State Council shall notify the applicant of the examination opinion and require it to state its observations or make corrections within a specified time limit; where the applicant fails to reply upon expiry of the time limit, its application shall be deemed withdrawn. Where, after the applicant states its observations or makes corrections, the patent administration department under the State Council still considers that the provisions listed in the preceding paragraph are not conformed to, it shall reject the application."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter III Examination and Approval of Patent Applications"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where the other documents relating to the patent application submitted by an applicant to the patent administration department under the State Council, apart from the patent application documents, fall under any of the following circumstances, they shall be deemed not to have been submitted:\n(a) the prescribed format is not used or the entries do not conform to the provisions;\n(b) the supporting materials are not submitted in accordance with the provisions.\nThe patent administration department under the State Council shall notify the applicant of the examination opinion that the documents are deemed not to have been submitted."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter III Examination and Approval of Patent Applications"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where an applicant requests early publication of its application for an invention patent, it shall make a declaration to the patent administration department under the State Council. After conducting the preliminary examination of the application, the patent administration department under the State Council shall, unless the application is rejected, publish the application immediately."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter III Examination and Approval of Patent Applications"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where an applicant states the product using the design and the class to which it belongs, it shall use the classification table of design products published by the patent administration department under the State Council. Where the class to which the product using the design belongs is not stated or the class stated is inaccurate, the patent administration department under the State Council may supplement or amend it."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter III Examination and Approval of Patent Applications"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "From the date of publication of an application for an invention patent to the date of announcement of the grant of the patent right, any person may submit observations to the patent administration department under the State Council on the patent application that does not conform to the provisions of the Patent Law, and state the reasons."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter III Examination and Approval of Patent Applications"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where an applicant for an invention patent is unable to submit the search materials or the materials on the results of examination provided in Article 36 of the Patent Law for justified reasons, it shall make a declaration to the patent administration department under the State Council and submit them later after obtaining the relevant materials."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter III Examination and Approval of Patent Applications"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "When the patent administration department under the State Council conducts examination of a patent application on its own initiative in accordance with the provisions of Paragraph 2 of Article 35 of the Patent Law, it shall notify the applicant.\nAn applicant may file a request for deferred examination of the patent application."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter III Examination and Approval of Patent Applications"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "An applicant for an invention patent may, at the time of filing the request for substantive examination and within 3 months from the date of receipt of the notification issued by the patent administration department under the State Council that the application for an invention patent has entered the substantive examination stage, make amendments to the application for an invention patent on its own initiative.\nAn applicant for a utility model or design patent may, within 2 months from the filing date, make amendments to the application for a utility model or design patent on its own initiative.\nWhere an applicant amends the patent application documents after receiving the notification of examination opinion issued by the patent administration department under the State Council, the amendments shall be directed to the defects pointed out in the notification.\nThe patent administration department under the State Council may correct obvious errors in the wording and symbols in the patent application documents on its own initiative. Where the patent administration department under the State Council makes corrections on its own initiative, it shall notify the applicant."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter III Examination and Approval of Patent Applications"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "For the amended parts of the description or claims of an application for an invention or utility model patent, replacement pages shall be submitted in the prescribed format, except for individual amendments of wording or additions and deletions. For amendments to the drawings or photographs of an application for a design patent, replacement pages shall be submitted as prescribed."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter III Examination and Approval of Patent Applications"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "In accordance with the provisions of Article 38 of the Patent Law, the circumstances under which an application for an invention patent shall be rejected after substantive examination refer to:\n(a) the application falls under the circumstances provided in Article 5 or Article 25 of the Patent Law, or no patent right may be granted in accordance with the provisions of Article 9 of the Patent Law;\n(b) the application fails to conform to the provisions of Paragraph 2 of Article 2, Paragraph 1 of Article 19, Article 22, Paragraph 3 of Article 26, Paragraph 4 of Article 26, Paragraph 5 of Article 26, Paragraph 1 of Article 31 of the Patent Law or Article 11 or Paragraph 2 of Article 23 of these Rules;\n(c) the amendments to the application fail to conform to the provisions of Article 33 of the Patent Law, or the divisional application fails to conform to the provisions of Paragraph 1 of Article 49 of these Rules."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter III Examination and Approval of Patent Applications"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "After the patent administration department under the State Council issues the notification of grant of the patent right, the applicant shall go through the registration formalities within 2 months from the date of receipt of the notification. Where the applicant goes through the registration formalities on time, the patent administration department under the State Council shall grant the patent right, issue the patent certificate and make an announcement.\nWhere the registration formalities are not gone through upon expiry of the time limit, the right to obtain the patent right shall be deemed abandoned."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter III Examination and Approval of Patent Applications"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where no ground for rejection is found upon examination of a secret patent application, the patent administration department under the State Council shall make a decision to grant the secret patent right, issue the secret patent certificate and register the relevant matters concerning the secret patent right."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter III Examination and Approval of Patent Applications"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "After the announcement of the decision to grant a utility model or design patent right, the patentee, the interested party and the alleged infringer provided in Article 66 of the Patent Law may request the patent administration department under the State Council to make a patent right evaluation report. An applicant may request the patent administration department under the State Council to make a patent right evaluation report at the time of going through the patent right registration formalities.\nTo request a patent right evaluation report, a request for a patent right evaluation report shall be submitted, stating the patent application number or patent number. Each request shall be limited to one patent application or patent right.\nWhere the request for a patent right evaluation report does not conform to the provisions, the patent administration department under the State Council shall notify the requesting person to make corrections within a specified time limit; where the requesting person fails to make corrections upon expiry of the time limit, the request shall be deemed not to have been filed."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter III Examination and Approval of Patent Applications"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "The patent administration department under the State Council shall make a patent right evaluation report within 2 months from the date of receipt of the request for a patent right evaluation report; however, where an applicant requests the making of a patent right evaluation report at the time of going through the patent right registration formalities, the patent administration department under the State Council shall make the patent right evaluation report within 2 months from the date of announcement of the grant of the patent right.\nWhere, in respect of the same utility model or design patent right, several requesting persons request the making of patent right evaluation reports, the patent administration department under the State Council shall make only one patent right evaluation report. Any unit or individual may consult or copy the patent right evaluation report."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter III Examination and Approval of Patent Applications"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Errors appearing in patent announcements and separate patent documents shall be corrected promptly once discovered by the patent administration department under the State Council, and the corrections made shall be announced."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter III Examination and Approval of Patent Applications"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Where reexamination is requested from the patent administration department under the State Council in accordance with the provisions of Article 41 of the Patent Law, a request for reexamination shall be submitted, the reasons shall be stated and, where necessary, the relevant evidence shall be attached.\nWhere a request for reexamination does not conform to the provisions of Paragraph 1 of Article 18 or Paragraph 1 of Article 41 of the Patent Law, the patent administration department under the State Council shall not accept it and shall notify the requesting person in writing of the reasons.\nWhere the request for reexamination does not conform to the prescribed format, the requesting person shall make corrections within the time limit specified by the patent administration department under the State Council; where no correction is made upon expiry of the time limit, the request for reexamination shall be deemed not to have been filed."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter IV Reexamination of Patent Applications and Invalidation of Patent Rights"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "A requesting person may amend the patent application documents when filing the request for reexamination or when responding to the notification of reexamination issued by the patent administration department under the State Council; however, the amendments shall be limited to the removal of the defects pointed out in the decision of rejection or in the notification of reexamination."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter IV Reexamination of Patent Applications and Invalidation of Patent Rights"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Where, after conducting reexamination, the patent administration department under the State Council considers that the request for reexamination does not conform to the relevant provisions of the Patent Law and these Rules, or that the patent application has other circumstances obviously violating the relevant provisions of the Patent Law and these Rules, it shall notify the requesting person and require it to state its observations within a specified time limit. Where no reply is made upon expiry of the time limit, the request for reexamination shall be deemed withdrawn; where, after the observations are stated or amendments are made, the patent administration department under the State Council still considers that the relevant provisions of the Patent Law and these Rules are not conformed to, it shall make a reexamination decision rejecting the request for reexamination.\nWhere, after conducting reexamination, the patent administration department under the State Council considers that the original decision of rejection does not conform to the relevant provisions of the Patent Law and these Rules, or considers that the amended patent application documents have removed the defects pointed out in the original decision of rejection and the notification of reexamination, it shall revoke the original decision of rejection and continue the examination procedure."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter IV Reexamination of Patent Applications and Invalidation of Patent Rights"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "A requesting person for reexamination may withdraw its request for reexamination before the patent administration department under the State Council makes a decision.\nWhere a requesting person for reexamination withdraws its request for reexamination before the patent administration department under the State Council makes a decision, the reexamination procedure shall terminate."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter IV Reexamination of Patent Applications and Invalidation of Patent Rights"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "In accordance with the provisions of Article 45 of the Patent Law, a person requesting the declaration of invalidity of a patent right, in whole or in part, shall submit to the patent administration department under the State Council a request for declaration of invalidity of the patent right and the necessary evidence in duplicate. The request for declaration of invalidity shall, in conjunction with all the evidence submitted, specifically state the reasons for the request for declaration of invalidity and indicate the evidence on which each reason is based.\nThe reasons for the request for declaration of invalidity mentioned in the preceding paragraph refer to the circumstance where the invention-creation for which the patent is granted fails to conform to the provisions of Article 2, Paragraph 1 of Article 19, Article 22, Article 23, Paragraph 3 of Article 26, Paragraph 4 of Article 26, Paragraph 2 of Article 27, Article 33 of the Patent Law or Article 11, Paragraph 2 of Article 23 or Paragraph 1 of Article 49 of these Rules, or falls under the circumstances provided in Article 5 or Article 25 of the Patent Law, or no patent right may be granted in accordance with the provisions of Article 9 of the Patent Law."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter IV Reexamination of Patent Applications and Invalidation of Patent Rights"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "Where a request for declaration of invalidity of a patent right does not conform to the provisions of Paragraph 1 of Article 18 of the Patent Law or Article 69 of these Rules, the patent administration department under the State Council shall not accept it.\nWhere, after the patent administration department under the State Council has made a decision on a request for declaration of invalidity, a request for declaration of invalidity is filed again on the same reasons and evidence, the patent administration department under the State Council shall not accept it.\nWhere a request is made for the declaration of invalidity of a design patent right on the ground that the provisions of Paragraph 3 of Article 23 of the Patent Law are not conformed to, but no evidence proving the conflict of rights is submitted, the patent administration department under the State Council shall not accept it.\nWhere the request for declaration of invalidity of a patent right does not conform to the prescribed format, the requesting person shall make corrections within the time limit specified by the patent administration department under the State Council; where no correction is made upon expiry of the time limit, the request for declaration of invalidity shall be deemed not to have been filed."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter IV Reexamination of Patent Applications and Invalidation of Patent Rights"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "After the patent administration department under the State Council accepts a request for declaration of invalidity, the requesting person may add reasons or supplement evidence within 1 month from the date of filing the request for declaration of invalidity. Where reasons are added or evidence is supplemented beyond that time limit, the patent administration department under the State Council may disregard them."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter IV Reexamination of Patent Applications and Invalidation of Patent Rights"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "The patent administration department under the State Council shall send a copy of the request for declaration of invalidity of the patent right and the relevant documents to the patentee and require it to state its observations within a specified time limit.\nThe patentee and the requesting person for declaration of invalidity shall reply, within the specified time limit, to the notification of transmission of documents or the notification of examination of the request for declaration of invalidity issued by the patent administration department under the State Council; failure to reply upon expiry of the time limit shall not affect the adjudication of the patent administration department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter IV Reexamination of Patent Applications and Invalidation of Patent Rights"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "In the course of examining a request for declaration of invalidity, the patentee of an invention or utility model patent may amend its claims, but shall not broaden the scope of protection of the original patent. Where the patent administration department under the State Council makes a decision to maintain the patent right in force or to declare the patent right partially invalid on the basis of the amended claims, it shall announce the amended claims.\nThe patentee of an invention or utility model patent shall not amend the patent description and drawings, and the patentee of a design patent shall not amend the drawings, photographs and brief description."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter IV Reexamination of Patent Applications and Invalidation of Patent Rights"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "The patent administration department under the State Council may, at the request of a party or where the circumstances of the case so require, decide to conduct an oral hearing on the request for declaration of invalidity.\nWhere the patent administration department under the State Council decides to conduct an oral hearing on the request for declaration of invalidity, it shall issue a notification of oral hearing to the parties, informing them of the date and place of the oral hearing. The parties shall reply within the time limit specified in the notification.\nWhere the requesting person for declaration of invalidity fails to reply within the specified time limit to the notification of oral hearing issued by the patent administration department under the State Council and does not attend the oral hearing, its request for declaration of invalidity shall be deemed withdrawn; where the patentee does not attend the oral hearing, the hearing may proceed by default."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter IV Reexamination of Patent Applications and Invalidation of Patent Rights"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "In the procedure for examining a request for declaration of invalidity, the time limit specified by the patent administration department under the State Council shall not be extended."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter IV Reexamination of Patent Applications and Invalidation of Patent Rights"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "Before the patent administration department under the State Council makes a decision on a request for declaration of invalidity, the requesting person may withdraw its request.\nWhere, before the patent administration department under the State Council makes a decision, the requesting person withdraws its request or its request for declaration of invalidity is deemed withdrawn, the procedure for examining the request for declaration of invalidity shall terminate. However, where the patent administration department under the State Council considers that, on the basis of the examination work already carried out, it is able to make a decision to declare the patent right invalid or partially invalid, the examination procedure shall not terminate."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter IV Reexamination of Patent Applications and Invalidation of Patent Rights"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "Where compensation of the term of a patent right is requested in accordance with the provisions of Paragraph 2 of Article 42 of the Patent Law, the patentee shall file the request with the patent administration department under the State Council within 3 months from the date of announcement of the grant of the patent right."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter V Compensation of the Term of Patent Rights"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "Where compensation of the term of a patent right is granted in accordance with the provisions of Paragraph 2 of Article 42 of the Patent Law, the compensation term shall be calculated according to the actual number of days of unreasonable delay of the invention patent in the course of grant.\nThe actual number of days of unreasonable delay of an invention patent in the course of grant mentioned in the preceding paragraph refers to the number of days in the interval from the date on which 4 years have elapsed since the filing date of the application for the invention patent and 3 years have elapsed since the date of the request for substantive examination to the date of announcement of the grant of the patent right, minus the number of days of reasonable delay and the number of days of unreasonable delay caused by the applicant.\nThe following circumstances constitute reasonable delay:\n(a) delay caused by the reexamination procedure where the patent right is granted after the patent application documents are amended in accordance with the provisions of Article 66 of these Rules;\n(b) delay caused by the circumstances provided in Article 103 and Article 104 of these Rules;\n(c) delay caused by other reasonable circumstances.\nWhere the same applicant files both an application for a utility model patent and an application for an invention patent for the same invention-creation on the same day and obtains the invention patent right in accordance with the provisions of Paragraph 4 of Article 47 of these Rules, the provisions of Paragraph 2 of Article 42 of the Patent Law shall not apply to the term of that invention patent right."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Chapter V Compensation of the Term of Patent Rights"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "The unreasonable delay caused by the applicant provided in Paragraph 2 of Article 42 of the Patent Law includes the following circumstances:\n(a) failure to reply, within the specified time limit, to a notification issued by the patent administration department under the State Council;\n(b) applying for deferred examination;\n(c) delay caused by the circumstances provided in Article 45 of these Rules;\n(d) other unreasonable delay caused by the applicant."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Chapter V Compensation of the Term of Patent Rights"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "The invention patents relating to new drugs mentioned in Paragraph 3 of Article 42 of the Patent Law refer to the qualifying product patents, preparation method patents and pharmaceutical use patents for new drugs."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Chapter V Compensation of the Term of Patent Rights"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "Where compensation of the term of an invention patent relating to a new drug is requested in accordance with the provisions of Paragraph 3 of Article 42 of the Patent Law, the following requirements shall be met and the request shall be filed with the patent administration department under the State Council within 3 months from the date on which the new drug obtains marketing authorisation in China:\n(a) where the new drug is simultaneously covered by several patents, the patentee may only request compensation of the term of one of them;\n(b) where one patent simultaneously relates to several new drugs, a request for compensation of the term of the patent may only be made in respect of one new drug;\n(c) the patent is within its validity period and has not yet obtained compensation of the term of an invention patent relating to a new drug."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Chapter V Compensation of the Term of Patent Rights"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "Where compensation of the term of a patent right is granted in accordance with the provisions of Paragraph 3 of Article 42 of the Patent Law, the compensation term shall be determined, on the basis of conformity with the provisions of Paragraph 3 of Article 42 of the Patent Law, according to the number of days in the interval from the filing date of the application to the date on which the new drug obtains marketing authorisation in China, minus 5 years."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Chapter V Compensation of the Term of Patent Rights"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "During the period of compensation of the term of an invention patent relating to a new drug, the scope of protection of the patent shall be limited to the technical solutions relating to the new drug and its approved indications; within the scope of protection, the rights enjoyed and the obligations borne by the patentee shall be the same as before the compensation of the term of the patent right."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Chapter V Compensation of the Term of Patent Rights"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "Where, after examining a request for compensation of the term of a patent right filed in accordance with the provisions of Paragraphs 2 and 3 of Article 42 of the Patent Law, the patent administration department under the State Council considers that the conditions for compensation are met, it shall make a decision to grant term compensation and register and announce it; where the conditions for compensation are not met, it shall make a decision not to grant term compensation and notify the patentee that filed the request."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Chapter V Compensation of the Term of Patent Rights"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "Where a patentee voluntarily declares that it implements an open licence for its patent, it shall file the declaration after the announcement of the grant of the patent right.\nThe declaration of open licence shall state the following matters:\n(a) the patent number;\n(b) the name or title of the patentee;\n(c) the method and standard of payment of the patent licensing fee;\n(d) the term of the patent licence;\n(e) other matters requiring clarification.\nThe content of the declaration of open licence shall be accurate and clear, and shall not contain commercial advertising language."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        },
+        "chapter": {
+          "en": "Chapter VI Special Licences for the Exploitation of Patents"
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "Where a patent right falls under any of the following circumstances, the patentee shall not implement an open licence for it:\n(a) the patent right is within the valid term of an exclusive or sole licence;\n(b) it falls under the circumstances of suspension provided in Article 103 or Article 104 of these Rules;\n(c) the annual fee has not been paid in accordance with the provisions;\n(d) the patent right is pledged without the consent of the pledgee;\n(e) other circumstances hindering the effective exploitation of the patent right."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        },
+        "chapter": {
+          "en": "Chapter VI Special Licences for the Exploitation of Patents"
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "Where a patent exploitation licence is concluded through an open licence, the patentee or the licensee shall record it with the patent administration department under the State Council on the strength of the written document capable of proving the conclusion of the licence."
+        },
+        "noLabel": {
+          "en": "Article 87."
+        },
+        "chapter": {
+          "en": "Chapter VI Special Licences for the Exploitation of Patents"
+        }
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "A patentee shall not, by providing false materials, concealing facts or other means, make a declaration of open licence or obtain a reduction or exemption of the patent annual fee during the implementation of an open licence."
+        },
+        "noLabel": {
+          "en": "Article 88."
+        },
+        "chapter": {
+          "en": "Chapter VI Special Licences for the Exploitation of Patents"
+        }
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "The failure to sufficiently exploit its patent mentioned in Article 53(1) of the Patent Law refers to the circumstance where the manner or scale of exploitation of its patent by the patentee and its licensees cannot meet the domestic demand for the patented product or patented process.\nThe patented pharmaceutical products mentioned in Article 55 of the Patent Law refer to any patented product in the pharmaceutical field needed to address public health problems or any product directly obtained by a patented process, including the patented active ingredients needed for the manufacture of such products and the diagnostic products needed for the use of such products."
+        },
+        "noLabel": {
+          "en": "Article 89."
+        },
+        "chapter": {
+          "en": "Chapter VI Special Licences for the Exploitation of Patents"
+        }
+      },
+      {
+        "no": 90,
+        "text": {
+          "en": "To request the grant of a compulsory licence, a request for compulsory licence shall be submitted to the patent administration department under the State Council, stating the reasons and attaching the relevant supporting documents.\nThe patent administration department under the State Council shall send a copy of the request for compulsory licence to the patentee, and the patentee shall state its observations within the time limit specified by the patent administration department under the State Council; failure to reply upon expiry of the time limit shall not affect the decision of the patent administration department under the State Council.\nBefore making a decision to reject a request for compulsory licence or a decision to grant a compulsory licence, the patent administration department under the State Council shall notify the requesting person and the patentee of the decision to be made and the reasons therefor.\nWhere the patent administration department under the State Council makes a decision to grant a compulsory licence in accordance with the provisions of Article 55 of the Patent Law, the decision shall also conform to the provisions of the relevant international treaties concluded or acceded to by China on the grant of compulsory licences for addressing public health problems, except for the reservations made by China."
+        },
+        "noLabel": {
+          "en": "Article 90."
+        },
+        "chapter": {
+          "en": "Chapter VI Special Licences for the Exploitation of Patents"
+        }
+      },
+      {
+        "no": 91,
+        "text": {
+          "en": "In accordance with the provisions of Article 62 of the Patent Law, where a request is made to the patent administration department under the State Council for a ruling on the amount of the exploitation fee, the party concerned shall file a request for ruling and attach supporting documents proving that the parties are unable to reach an agreement. The patent administration department under the State Council shall make a ruling within 3 months from the date of receipt of the request and notify the parties."
+        },
+        "noLabel": {
+          "en": "Article 91."
+        },
+        "chapter": {
+          "en": "Chapter VI Special Licences for the Exploitation of Patents"
+        }
+      },
+      {
+        "no": 92,
+        "text": {
+          "en": "An entity that has been granted a patent right may agree with the inventor or designer on, or provide in its rules and regulations formulated in accordance with the law, the manner and amount of the reward and remuneration provided in Article 15 of the Patent Law. Entities that have been granted patent rights are encouraged to implement property rights incentives, adopting methods such as equity, share options and profit sharing, so that inventors or designers may reasonably share the benefits of innovation.\nThe rewards and remuneration given to inventors or designers by enterprises and public institutions shall be handled in accordance with the provisions of the relevant State financial and accounting systems."
+        },
+        "noLabel": {
+          "en": "Article 92."
+        },
+        "chapter": {
+          "en": "Chapter VII Reward and Remuneration for Inventors or Designers of Service Inventions-Creations"
+        }
+      },
+      {
+        "no": 93,
+        "text": {
+          "en": "Where an entity that has been granted a patent right has neither agreed with the inventor or designer on, nor provided in its rules and regulations formulated in accordance with the law, the manner and amount of the reward provided in Article 15 of the Patent Law, it shall pay a reward to the inventor or designer within 3 months from the date of announcement of the grant of the patent right. The reward for an invention patent shall be not less than RMB 4,000; the reward for a utility model patent or a design patent shall be not less than RMB 1,500.\nFor an invention-creation completed as a result of a suggestion made by an inventor or designer and adopted by the entity to which the inventor or designer belongs, the entity that has been granted the patent right shall pay the reward on favourable terms."
+        },
+        "noLabel": {
+          "en": "Article 93."
+        },
+        "chapter": {
+          "en": "Chapter VII Reward and Remuneration for Inventors or Designers of Service Inventions-Creations"
+        }
+      },
+      {
+        "no": 94,
+        "text": {
+          "en": "Where an entity that has been granted a patent right has neither agreed with the inventor or designer on, nor provided in its rules and regulations formulated in accordance with the law, the manner and amount of the remuneration provided in Article 15 of the Patent Law, it shall pay reasonable remuneration to the inventor or designer in accordance with the provisions of the Law of the People's Republic of China on Promoting the Transformation of Scientific and Technological Achievements."
+        },
+        "noLabel": {
+          "en": "Article 94."
+        },
+        "chapter": {
+          "en": "Chapter VII Reward and Remuneration for Inventors or Designers of Service Inventions-Creations"
+        }
+      },
+      {
+        "no": 95,
+        "text": {
+          "en": "The departments responsible for patent work of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government, as well as the departments responsible for patent work of the people's governments of prefecture-level cities, autonomous prefectures, leagues, prefectures and districts of municipalities directly under the Central Government that have a large volume of patent administration work and actual capacity for handling cases, may handle and mediate patent disputes."
+        },
+        "noLabel": {
+          "en": "Article 95."
+        },
+        "chapter": {
+          "en": "Chapter VIII Protection of Patent Rights"
+        }
+      },
+      {
+        "no": 96,
+        "text": {
+          "en": "Under any of the following circumstances, a patent infringement dispute shall be one having significant impact nationwide as mentioned in Article 70 of the Patent Law:\n(a) involving major public interests;\n(b) having a significant impact on the development of the industry;\n(c) a major case spanning the regions of provinces, autonomous regions or municipalities directly under the Central Government;\n(d) other circumstances under which the patent administration department under the State Council considers that there may be significant impact.\nWhere a patentee or interested party requests the patent administration department under the State Council to handle a patent infringement dispute and the case is not a patent infringement dispute having significant impact nationwide, the patent administration department under the State Council may designate the department responsible for patent work of the local people's government with jurisdiction to handle it."
+        },
+        "noLabel": {
+          "en": "Article 96."
+        },
+        "chapter": {
+          "en": "Chapter VIII Protection of Patent Rights"
+        }
+      },
+      {
+        "no": 97,
+        "text": {
+          "en": "Where a party concerned requests the handling of a patent infringement dispute or the mediation of a patent dispute, the case shall be under the jurisdiction of the department responsible for patent work at the place where the respondent is located or where the infringing act occurs.\nWhere two or more departments responsible for patent work have jurisdiction over a patent dispute, the party concerned may file a request with one of them; where the party concerned files requests with two or more departments responsible for patent work having jurisdiction, the dispute shall be under the jurisdiction of the department that first accepts it.\nWhere a dispute over jurisdiction arises between departments responsible for patent work, jurisdiction shall be designated by the department responsible for patent work of the people's government at the next higher level common to them; where there is no department responsible for patent work of a people's government at a common higher level, jurisdiction shall be designated by the patent administration department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 97."
+        },
+        "chapter": {
+          "en": "Chapter VIII Protection of Patent Rights"
+        }
+      },
+      {
+        "no": 98,
+        "text": {
+          "en": "In the course of handling a patent infringement dispute, where the respondent files a request for declaration of invalidity and the request is accepted by the patent administration department under the State Council, it may request the department responsible for patent work to suspend the handling.\nWhere the department responsible for patent work considers that the reasons for suspension put forward by the respondent obviously cannot be established, it may not suspend the handling."
+        },
+        "noLabel": {
+          "en": "Article 98."
+        },
+        "chapter": {
+          "en": "Chapter VIII Protection of Patent Rights"
+        }
+      },
+      {
+        "no": 99,
+        "text": {
+          "en": "Where a patentee marks the patent identification on its patented product or the packaging of the product in accordance with the provisions of Article 16 of the Patent Law, it shall make the marking in the manner prescribed by the patent administration department under the State Council.\nWhere the patent identification does not conform to the provisions of the preceding paragraph, the department responsible for patent enforcement at or above the county level shall order correction."
+        },
+        "noLabel": {
+          "en": "Article 99."
+        },
+        "chapter": {
+          "en": "Chapter VIII Protection of Patent Rights"
+        }
+      },
+      {
+        "no": 100,
+        "text": {
+          "en": "Where an applicant or patentee violates the provisions of Article 11 or Article 88 of these Rules, the department responsible for patent enforcement at or above the county level shall give a warning and may impose a fine of not more than RMB 100,000."
+        },
+        "noLabel": {
+          "en": "Article 100."
+        },
+        "chapter": {
+          "en": "Chapter VIII Protection of Patent Rights"
+        }
+      },
+      {
+        "no": 101,
+        "text": {
+          "en": "The following acts shall be the acts of patent counterfeiting provided in Article 68 of the Patent Law:\n(a) marking a patent identification on a product or its packaging for which no patent right has been granted, continuing to mark a patent identification on a product or its packaging after the patent right has been declared invalid or has terminated, or marking the patent number of another person on a product or its packaging without permission;\n(b) selling the products mentioned in Item (a);\n(c) describing a technology or design for which no patent right has been granted as patented technology or a patented design, describing a patent application as a patent, or using the patent number of another person without permission in product specifications and other materials, so that the public mistakenly believes that the technology or design involved is patented technology or a patented design;\n(d) forging or altering patent certificates, patent documents or patent application documents;\n(e) other acts that confuse the public and cause a technology or design for which no patent right has been granted to be mistaken for patented technology or a patented design.\nWhere a patent identification was marked in accordance with the law on a patented product, a product directly obtained by a patented process or the packaging thereof before the termination of the patent right, and the product is offered for sale or sold after the termination of the patent right, such act shall not constitute patent counterfeiting.\nWhere a person sells a product that it does not know is a counterfeit patented product and can prove the lawful source of the product, the department responsible for patent enforcement at or above the county level shall order it to stop selling the product."
+        },
+        "noLabel": {
+          "en": "Article 101."
+        },
+        "chapter": {
+          "en": "Chapter VIII Protection of Patent Rights"
+        }
+      },
+      {
+        "no": 102,
+        "text": {
+          "en": "Except as provided in Article 65 of the Patent Law, the department responsible for patent work may, at the request of a party, mediate the following patent disputes:\n(1) disputes over the ownership of the right to apply for a patent and of a patent right;\n(2) disputes over the qualification of an inventor or designer;\n(3) disputes over the reward and remuneration of the inventor or designer of a service invention-creation;\n(4) disputes over the failure to pay appropriate fees for the exploitation of an invention after the publication of the application for an invention patent and before the grant of the patent right;\n(5) other patent disputes.\nFor the disputes listed in Item (4) of the preceding paragraph, where a party requests mediation by the department responsible for patent work, the request shall be filed after the patent right is granted."
+        },
+        "noLabel": {
+          "en": "Article 102."
+        },
+        "chapter": {
+          "en": "Chapter VIII Protection of Patent Rights"
+        }
+      },
+      {
+        "no": 103,
+        "text": {
+          "en": "Where a dispute arises between parties over the ownership of the right to apply for a patent or of a patent right and a request for mediation by the department responsible for patent work has been made or an action has been brought in a people's court, the party may request the patent administration department under the State Council to suspend the relevant procedures.\nTo request suspension of the relevant procedures in accordance with the provisions of the preceding paragraph, a request shall be submitted to the patent administration department under the State Council, stating the reasons and attaching a copy of the relevant acceptance document of the department responsible for patent work or the people's court that states the filing number or patent number. Where the patent administration department under the State Council considers that the reasons for suspension put forward by the party obviously cannot be established, it may not suspend the relevant procedures.\nAfter the mediation statement made by the department responsible for patent work or the judgment made by the people's court takes effect, the party shall go through the formalities for resuming the relevant procedures with the patent administration department under the State Council. Where, within 1 year from the date of the request for suspension, the dispute over the ownership of the right to apply for a patent or of the patent right has not been concluded and the relevant procedures need to be further suspended, the requesting person shall request an extension of the suspension within that time limit; where no extension is requested upon expiry of the time limit, the patent administration department under the State Council shall resume the relevant procedures on its own initiative."
+        },
+        "noLabel": {
+          "en": "Article 103."
+        },
+        "chapter": {
+          "en": "Chapter VIII Protection of Patent Rights"
+        }
+      },
+      {
+        "no": 104,
+        "text": {
+          "en": "Where a people's court, in hearing a civil case, rules to take preservation measures in respect of the right to apply for a patent or a patent right, the patent administration department under the State Council shall suspend the relevant procedures concerning the preserved right to apply for a patent or patent right on the date of receipt of the ruling stating the filing number or patent number and the notification of assistance in enforcement. Where, upon expiry of the preservation period, the people's court has not ruled to continue the preservation measures, the patent administration department under the State Council shall resume the relevant procedures on its own initiative."
+        },
+        "noLabel": {
+          "en": "Article 104."
+        },
+        "chapter": {
+          "en": "Chapter VIII Protection of Patent Rights"
+        }
+      },
+      {
+        "no": 105,
+        "text": {
+          "en": "The suspension of the relevant procedures by the patent administration department under the State Council in accordance with the provisions of Article 103 and Article 104 of these Rules refers to the suspension of the preliminary examination, substantive examination and reexamination procedures of a patent application, the procedure for granting a patent right and the procedure for declaring a patent right invalid; and the suspension of the formalities for waiving, changing or transferring a patent right or the right to apply for a patent, the formalities for pledging a patent right and the formalities for termination before the expiry of the term of a patent right."
+        },
+        "noLabel": {
+          "en": "Article 105."
+        },
+        "chapter": {
+          "en": "Chapter VIII Protection of Patent Rights"
+        }
+      },
+      {
+        "no": 106,
+        "text": {
+          "en": "The patent administration department under the State Council shall set up a patent register to register the following matters relating to patent applications and patent rights:\n(a) the grant of patent rights;\n(b) the transfer of the right to apply for a patent and of patent rights;\n(c) the pledge and preservation of patent rights and the release thereof;\n(d) the recordal of patent exploitation licence contracts;\n(e) the declassification of national defence patents and secret patents;\n(f) the declaration of invalidity of patent rights;\n(g) the termination of patent rights;\n(h) the restoration of patent rights;\n(i) the compensation of the term of patent rights;\n(j) open licences for patent exploitation;\n(k) compulsory licences for patent exploitation;\n(l) changes in the name or title, nationality and address of patentees."
+        },
+        "noLabel": {
+          "en": "Article 106."
+        },
+        "chapter": {
+          "en": "Chapter IX Patent Register and Patent Gazette"
+        }
+      },
+      {
+        "no": 107,
+        "text": {
+          "en": "The patent administration department under the State Council shall publish the Patent Gazette periodically, publishing or announcing the following:\n(a) the bibliographic items and the abstract of the description of applications for invention patents;\n(b) requests for substantive examination of applications for invention patents and decisions of the patent administration department under the State Council to conduct substantive examination of applications for invention patents on its own initiative;\n(c) the rejection, withdrawal, deemed withdrawal, deemed abandonment, restoration and transfer of applications for invention patents after publication;\n(d) the grant of patent rights and the bibliographic items of patent rights;\n(e) the abstract of the description of utility model patents and one drawing or photograph of design patents;\n(f) the declassification of national defence patents and secret patents;\n(g) the declaration of invalidity of patent rights;\n(h) the termination and restoration of patent rights;\n(i) the compensation of the term of patent rights;\n(j) the transfer of patent rights;\n(k) the recordal of patent exploitation licence contracts;\n(l) the pledge and preservation of patent rights and the release thereof;\n(m) matters concerning open licences for patent exploitation;\n(n) the granting of compulsory licences for patent exploitation;\n(o) changes in the name or title, nationality and address of patentees;\n(p) service of documents by announcement;\n(q) corrections made by the patent administration department under the State Council;\n(r) other relevant matters."
+        },
+        "noLabel": {
+          "en": "Article 107."
+        },
+        "chapter": {
+          "en": "Chapter IX Patent Register and Patent Gazette"
+        }
+      },
+      {
+        "no": 108,
+        "text": {
+          "en": "The patent administration department under the State Council shall provide the Patent Gazette, the separate copies of applications for invention patents and the separate copies of invention patents, utility model patents and design patents for free inspection by the public."
+        },
+        "noLabel": {
+          "en": "Article 108."
+        },
+        "chapter": {
+          "en": "Chapter IX Patent Register and Patent Gazette"
+        }
+      },
+      {
+        "no": 109,
+        "text": {
+          "en": "The patent administration department under the State Council shall be responsible for exchanging patent documents with the patent offices of other countries and regions or regional patent organisations in accordance with the principle of reciprocity."
+        },
+        "noLabel": {
+          "en": "Article 109."
+        },
+        "chapter": {
+          "en": "Chapter IX Patent Register and Patent Gazette"
+        }
+      },
+      {
+        "no": 110,
+        "text": {
+          "en": "When applying for a patent with the patent administration department under the State Council and going through other formalities, the following fees shall be paid:\n(a) the filing fee, additional filing fee, publication printing fee and priority claim fee;\n(b) the substantive examination fee and reexamination fee for applications for invention patents;\n(c) the annual fee;\n(d) the fee for requesting restoration of rights and the fee for requesting extension of a time limit;\n(e) the fee for changing bibliographic items, the fee for requesting a patent right evaluation report, the fee for requesting a declaration of invalidity and the fee for certifying copies of patent documents.\nThe standards for payment of the various fees listed in the preceding paragraph shall be prescribed by the development and reform department and the finance department of the State Council together with the patent administration department under the State Council according to the division of their functions. The finance department and the development and reform department of the State Council may, together with the patent administration department under the State Council and in light of the actual situation, adjust the types and standards of the fees payable for applying for patents and going through other formalities."
+        },
+        "noLabel": {
+          "en": "Article 110."
+        },
+        "chapter": {
+          "en": "Chapter X Fees"
+        }
+      },
+      {
+        "no": 111,
+        "text": {
+          "en": "The various fees provided in the Patent Law and these Rules shall be paid strictly in accordance with the provisions.\nWhere fees are paid directly to the patent administration department under the State Council, the date of payment shall be the date of payment; where fees are paid by post office remittance, the date of the postmark of the remittance by the post office shall be the date of payment; where fees are paid by bank remittance, the date on which the bank actually remits the money shall be the date of payment.\nWhere patent fees are overpaid, paid repeatedly or paid erroneously, the party concerned may file a request for refund with the patent administration department under the State Council within 3 years from the date of payment, and the patent administration department under the State Council shall refund them."
+        },
+        "noLabel": {
+          "en": "Article 111."
+        },
+        "chapter": {
+          "en": "Chapter X Fees"
+        }
+      },
+      {
+        "no": 112,
+        "text": {
+          "en": "The applicant shall pay the filing fee, the publication printing fee and the necessary additional filing fee within 2 months from the filing date or within 15 days from the date of receipt of the notification of acceptance; where the fees are not paid or not paid in full upon expiry of the time limit, the application shall be deemed withdrawn.\nWhere an applicant claims priority, it shall pay the priority claim fee at the same time as it pays the filing fee; where the fee is not paid or not paid in full upon expiry of the time limit, the priority shall be deemed not to have been claimed."
+        },
+        "noLabel": {
+          "en": "Article 112."
+        },
+        "chapter": {
+          "en": "Chapter X Fees"
+        }
+      },
+      {
+        "no": 113,
+        "text": {
+          "en": "Where a party concerned requests substantive examination or reexamination, it shall pay the fee within the relevant time limit provided in the Patent Law and these Rules; where the fee is not paid or not paid in full upon expiry of the time limit, the request shall be deemed not to have been filed."
+        },
+        "noLabel": {
+          "en": "Article 113."
+        },
+        "chapter": {
+          "en": "Chapter X Fees"
+        }
+      },
+      {
+        "no": 114,
+        "text": {
+          "en": "When going through the registration formalities, the applicant shall pay the annual fee for the year in which the patent right is granted; where the fee is not paid or not paid in full upon expiry of the time limit, the registration formalities shall be deemed not to have been gone through."
+        },
+        "noLabel": {
+          "en": "Article 114."
+        },
+        "chapter": {
+          "en": "Chapter X Fees"
+        }
+      },
+      {
+        "no": 115,
+        "text": {
+          "en": "The annual fee for the years after the year in which the patent right is granted shall be paid before the expiry of the preceding year. Where the patentee fails to pay or fails to pay in full, the patent administration department under the State Council shall notify the patentee to make supplementary payment within 6 months from the date of expiry of the time limit for payment of the annual fee, and to pay a late fee at the same time; the amount of the late fee shall be calculated at 5 per cent of the full annual fee for the year for each month by which the prescribed payment time is exceeded; where the fee is not paid upon expiry of the time limit, the patent right shall terminate from the date of expiry of the time limit for payment of the annual fee."
+        },
+        "noLabel": {
+          "en": "Article 115."
+        },
+        "chapter": {
+          "en": "Chapter X Fees"
+        }
+      },
+      {
+        "no": 116,
+        "text": {
+          "en": "The fee for requesting restoration of rights shall be paid within the relevant time limit provided in these Rules; where it is not paid or not paid in full upon expiry of the time limit, the request shall be deemed not to have been filed.\nThe fee for requesting extension of a time limit shall be paid before the date of expiry of the corresponding time limit; where it is not paid or not paid in full upon expiry of the time limit, the request shall be deemed not to have been filed.\nThe fee for changing bibliographic items, the fee for requesting a patent right evaluation report and the fee for requesting a declaration of invalidity shall be paid within 1 month from the date of filing the request; where they are not paid or not paid in full upon expiry of the time limit, the request shall be deemed not to have been filed."
+        },
+        "noLabel": {
+          "en": "Article 116."
+        },
+        "chapter": {
+          "en": "Chapter X Fees"
+        }
+      },
+      {
+        "no": 117,
+        "text": {
+          "en": "Where an applicant or patentee has difficulty in paying the various fees provided in these Rules, it may file a request for reduction with the patent administration department under the State Council in accordance with the provisions. The measures for reduction shall be prescribed by the finance department of the State Council together with the development and reform department of the State Council and the patent administration department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 117."
+        },
+        "chapter": {
+          "en": "Chapter X Fees"
+        }
+      },
+      {
+        "no": 118,
+        "text": {
+          "en": "The patent administration department under the State Council shall, in accordance with the provisions of Article 19 of the Patent Law, accept international applications for patents filed under the Patent Cooperation Treaty.\nThe conditions and procedures for an international application for a patent filed under the Patent Cooperation Treaty and designating China (hereinafter referred to as an international application) to enter the processing stage of the patent administration department under the State Council (hereinafter referred to as entering the Chinese national phase) shall be governed by the provisions of this Chapter; where this Chapter does not provide, the relevant provisions of the Patent Law and the other Chapters of these Rules shall apply."
+        },
+        "noLabel": {
+          "en": "Article 118."
+        },
+        "chapter": {
+          "en": "Chapter XI Special Provisions on International Applications for Inventions and Utility Models"
+        }
+      },
+      {
+        "no": 119,
+        "text": {
+          "en": "An international application for which an international filing date has been determined and which designates China in accordance with the Patent Cooperation Treaty shall be deemed to be a patent application filed with the patent administration department under the State Council, and the international filing date shall be deemed to be the filing date mentioned in Article 28 of the Patent Law."
+        },
+        "noLabel": {
+          "en": "Article 119."
+        },
+        "chapter": {
+          "en": "Chapter XI Special Provisions on International Applications for Inventions and Utility Models"
+        }
+      },
+      {
+        "no": 120,
+        "text": {
+          "en": "The applicant of an international application shall, within 30 months from the date of priority mentioned in Article 2 of the Patent Cooperation Treaty (hereinafter referred to in this Chapter as the date of priority), go through the formalities for entering the Chinese national phase with the patent administration department under the State Council; where the applicant fails to go through such formalities within that time limit, it may, after paying the grace period fee, go through the formalities for entering the Chinese national phase within 32 months from the date of priority."
+        },
+        "noLabel": {
+          "en": "Article 120."
+        },
+        "chapter": {
+          "en": "Chapter XI Special Provisions on International Applications for Inventions and Utility Models"
+        }
+      },
+      {
+        "no": 121,
+        "text": {
+          "en": "Where an applicant goes through the formalities for entering the Chinese national phase in accordance with the provisions of Article 120 of these Rules, the following requirements shall be met:\n(1) submitting a written declaration for entering the Chinese national phase in Chinese, stating the international application number and the type of patent right sought;\n(2) paying the filing fee and publication printing fee provided in Paragraph 1 of Article 110 of these Rules and, where necessary, the grace period fee provided in Article 120 of these Rules;\n(3) where the international application is filed in a foreign language, submitting a Chinese translation of the description and claims of the original international application;\n(4) stating in the written declaration for entering the Chinese national phase the title of the invention-creation, the name or title and address of the applicant and the name of the inventor, which shall be consistent with the records of the International Bureau of the World Intellectual Property Organisation (hereinafter referred to as the International Bureau); where the inventor is not stated in the international application, stating the name of the inventor in the aforesaid declaration;\n(5) where the international application is filed in a foreign language, submitting a Chinese translation of the abstract and, where there are drawings and an abstract drawing, submitting a copy of the drawings and designating the abstract drawing, and where there are words in the drawings, replacing them with the corresponding Chinese words;\n(6) where the formalities for change of applicant have been gone through with the International Bureau in the international phase, providing where necessary supporting materials proving that the changed applicant enjoys the right to apply;\n(7) paying where necessary the additional filing fee provided in Paragraph 1 of Article 110 of these Rules.\nWhere the requirements of Items (1) to (3) of Paragraph 1 of this Article are met, the patent administration department under the State Council shall allot a filing number, specify the date on which the international application enters the Chinese national phase (hereinafter referred to as the date of entry) and notify the applicant that its international application has entered the Chinese national phase.\nWhere an international application has entered the Chinese national phase but fails to meet the requirements of Items (4) to (7) of Paragraph 1 of this Article, the patent administration department under the State Council shall notify the applicant to make corrections within a specified time limit; where no correction is made upon expiry of the time limit, the application shall be deemed withdrawn."
+        },
+        "noLabel": {
+          "en": "Article 121."
+        },
+        "chapter": {
+          "en": "Chapter XI Special Provisions on International Applications for Inventions and Utility Models"
+        }
+      },
+      {
+        "no": 122,
+        "text": {
+          "en": "The effect of an international application in China shall terminate under any of the following circumstances:\n(1) in the international phase, the international application is withdrawn or deemed withdrawn, or the designation of China in the international application is withdrawn;\n(2) the applicant fails to go through the formalities for entering the Chinese national phase in accordance with the provisions of Article 120 of these Rules within 32 months from the date of priority;\n(3) the applicant goes through the formalities for entering the Chinese national phase, but upon expiry of the 32-month time limit from the date of priority still fails to meet the requirements of Items (1) to (3) of Article 121 of these Rules.\nWhere the effect of an international application in China terminates in accordance with the provisions of Item (1) of the preceding paragraph, the provisions of Article 6 of these Rules shall not apply; where the effect of an international application in China terminates in accordance with the provisions of Item (2) or (3) of the preceding paragraph, the provisions of Paragraph 2 of Article 6 of these Rules shall not apply."
+        },
+        "noLabel": {
+          "en": "Article 122."
+        },
+        "chapter": {
+          "en": "Chapter XI Special Provisions on International Applications for Inventions and Utility Models"
+        }
+      },
+      {
+        "no": 123,
+        "text": {
+          "en": "Where an international application has been amended in the international phase and the applicant requests that the examination be based on the amended application documents, it shall submit a Chinese translation of the amended parts within 2 months from the date of entry. Where the Chinese translation is not submitted within that period, the amendments made by the applicant in the international phase shall not be taken into consideration by the patent administration department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 123."
+        },
+        "chapter": {
+          "en": "Chapter XI Special Provisions on International Applications for Inventions and Utility Models"
+        }
+      },
+      {
+        "no": 124,
+        "text": {
+          "en": "Where the invention-creation involved in an international application falls under any of the circumstances listed in Article 24(2) or (3) of the Patent Law and a declaration was made at the time of filing the international application, the applicant shall state this in the written declaration for entering the Chinese national phase and submit, within 2 months from the date of entry, the relevant supporting documents provided in Paragraph 3 of Article 33 of these Rules; where no statement is made or the supporting documents are not submitted upon expiry of the time limit, the provisions of Article 24 of the Patent Law shall not apply to its application."
+        },
+        "noLabel": {
+          "en": "Article 124."
+        },
+        "chapter": {
+          "en": "Chapter XI Special Provisions on International Applications for Inventions and Utility Models"
+        }
+      },
+      {
+        "no": 125,
+        "text": {
+          "en": "Where an applicant has made a statement on the deposit of a sample of biological material in accordance with the provisions of the Patent Cooperation Treaty, it shall be deemed to have met the requirements of Item (3) of Article 27 of these Rules. The applicant shall indicate in the declaration for entering the Chinese national phase the document recording the matters concerning the deposit of the sample of biological material and the specific location of the record in that document.\nWhere the applicant has recorded the matters concerning the deposit of the sample of biological material in the description of the international application as originally filed but has not indicated them in the declaration for entering the Chinese national phase, it shall make corrections within 4 months from the date of entry. Where no correction is made upon expiry of the time limit, the biological material shall be deemed not to have been deposited.\nWhere the applicant submits the deposit certificate and viability certificate of the sample of biological material to the patent administration department under the State Council within 4 months from the date of entry, it shall be deemed to have submitted them within the time limit provided in Item (1) of Article 27 of these Rules."
+        },
+        "noLabel": {
+          "en": "Article 125."
+        },
+        "chapter": {
+          "en": "Chapter XI Special Provisions on International Applications for Inventions and Utility Models"
+        }
+      },
+      {
+        "no": 126,
+        "text": {
+          "en": "Where the invention-creation involved in an international application is completed by relying on genetic resources, the applicant shall state this in the written declaration for the international application to enter the Chinese national phase and fill in the form formulated by the patent administration department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 126."
+        },
+        "chapter": {
+          "en": "Chapter XI Special Provisions on International Applications for Inventions and Utility Models"
+        }
+      },
+      {
+        "no": 127,
+        "text": {
+          "en": "Where an applicant has claimed one or more rights of priority in the international phase and the priority claim continues to be valid at the time of entering the Chinese national phase, it shall be deemed that a written declaration has been made in accordance with the provisions of Article 30 of the Patent Law.\nThe applicant shall pay the priority claim fee within 2 months from the date of entry; where the fee is not paid or not paid in full upon expiry of the time limit, the priority shall be deemed not to have been claimed.\nWhere the applicant has submitted a copy of the earlier application documents in the international phase in accordance with the provisions of the Patent Cooperation Treaty, it need not submit the copy of the earlier application documents to the patent administration department under the State Council when going through the formalities for entering the Chinese national phase. Where the applicant has not submitted a copy of the earlier application documents in the international phase, the patent administration department under the State Council may, where it deems necessary, notify the applicant to submit it later within a specified time limit; where the applicant fails to submit it upon expiry of the time limit, the priority claim shall be deemed not to have been made."
+        },
+        "noLabel": {
+          "en": "Article 127."
+        },
+        "chapter": {
+          "en": "Chapter XI Special Provisions on International Applications for Inventions and Utility Models"
+        }
+      },
+      {
+        "no": 128,
+        "text": {
+          "en": "Where the filing date of an international application is within 2 months after the expiry of the priority period and the receiving Office has approved the restoration of the right of priority in the international phase, it shall be deemed that a request for restoration of the right of priority has been filed in accordance with the provisions of Article 36 of these Rules; where the applicant did not request the restoration of the right of priority in the international phase, or filed a request for restoration of the right of priority but the receiving Office did not approve it, and the applicant has justified reasons, it may request the patent administration department under the State Council to restore the right of priority within 2 months from the date of entry."
+        },
+        "noLabel": {
+          "en": "Article 128."
+        },
+        "chapter": {
+          "en": "Chapter XI Special Provisions on International Applications for Inventions and Utility Models"
+        }
+      },
+      {
+        "no": 129,
+        "text": {
+          "en": "Where early processing and examination of an international application by the patent administration department under the State Council is requested before the expiry of the 30-month period from the date of priority, the applicant shall, in addition to going through the formalities for entering the Chinese national phase, file a request in accordance with the provisions of Paragraph 2 of Article 23 of the Patent Cooperation Treaty. Where the International Bureau has not yet transmitted the international application to the patent administration department under the State Council, the applicant shall submit a confirmed copy of the international application."
+        },
+        "noLabel": {
+          "en": "Article 129."
+        },
+        "chapter": {
+          "en": "Chapter XI Special Provisions on International Applications for Inventions and Utility Models"
+        }
+      },
+      {
+        "no": 130,
+        "text": {
+          "en": "For an international application seeking a utility model patent right, the applicant may make amendments to the patent application documents on its own initiative within 2 months from the date of entry.\nFor an international application seeking an invention patent right, the provisions of Paragraph 1 of Article 57 of these Rules shall apply."
+        },
+        "noLabel": {
+          "en": "Article 130."
+        },
+        "chapter": {
+          "en": "Chapter XI Special Provisions on International Applications for Inventions and Utility Models"
+        }
+      },
+      {
+        "no": 131,
+        "text": {
+          "en": "Where an applicant finds errors in the Chinese translation of the text in the description, claims or drawings submitted, it may make corrections on the basis of the text of the original international application within the following time limits:\n(a) before the patent administration department under the State Council completes the preparations for publishing the application for an invention patent or announcing the utility model patent right;\n(b) within 3 months from the date of receipt of the notification issued by the patent administration department under the State Council that the application for an invention patent has entered the substantive examination stage.\nTo correct errors in the translation, the applicant shall file a written request and pay the prescribed translation correction fee.\nWhere an applicant corrects the translation as required by the notification of the patent administration department under the State Council, it shall go through the formalities provided in Paragraph 2 of this Article within the specified time limit; where the prescribed formalities are not gone through upon expiry of the time limit, the application shall be deemed withdrawn."
+        },
+        "noLabel": {
+          "en": "Article 131."
+        },
+        "chapter": {
+          "en": "Chapter XI Special Provisions on International Applications for Inventions and Utility Models"
+        }
+      },
+      {
+        "no": 132,
+        "text": {
+          "en": "For an international application seeking an invention patent right, where the patent administration department under the State Council considers upon preliminary examination that it conforms to the relevant provisions of the Patent Law and these Rules, it shall publish it in the Patent Gazette; where the international application is filed in a language other than Chinese, the Chinese translation of the application documents shall be published.\nFor an international application seeking an invention patent right that is internationally published in Chinese by the International Bureau, the provisions of Article 13 of the Patent Law shall apply from the date of international publication or the date of publication by the patent administration department under the State Council; where it is internationally published in a language other than Chinese by the International Bureau, the provisions of Article 13 of the Patent Law shall apply from the date of publication by the patent administration department under the State Council.\nFor international applications, the publication mentioned in Article 21 and Article 22 of the Patent Law refers to the publication provided in Paragraph 1 of this Article."
+        },
+        "noLabel": {
+          "en": "Article 132."
+        },
+        "chapter": {
+          "en": "Chapter XI Special Provisions on International Applications for Inventions and Utility Models"
+        }
+      },
+      {
+        "no": 133,
+        "text": {
+          "en": "Where an international application contains two or more inventions or utility models, the applicant may, from the date of entry, file a divisional application in accordance with the provisions of Paragraph 1 of Article 48 of these Rules.\nWhere, in the international phase, the International Searching Authority or the International Preliminary Examining Authority considers that the international application does not meet the requirement of unity of invention provided in the Patent Cooperation Treaty, and the applicant fails to pay the additional fee as prescribed, so that certain parts of the international application are not subjected to international search or international preliminary examination, and at the time of entering the Chinese national phase the applicant requests that the said parts serve as the basis for examination, the patent administration department under the State Council shall, where it considers that the judgment of the International Searching Authority or the International Preliminary Examining Authority on unity of invention is correct, notify the applicant to pay the fee for restoration of unity within a specified time limit. Where the fee is not paid or not paid in full upon expiry of the time limit, the parts of the international application not subjected to search or international preliminary examination shall be deemed withdrawn."
+        },
+        "noLabel": {
+          "en": "Article 133."
+        },
+        "chapter": {
+          "en": "Chapter XI Special Provisions on International Applications for Inventions and Utility Models"
+        }
+      },
+      {
+        "no": 134,
+        "text": {
+          "en": "Where an international application is refused an international filing date by the relevant international authority in the international phase or is declared deemed withdrawn, the applicant may, within 2 months from the date of receipt of the notification, request the International Bureau to transmit to the patent administration department under the State Council a copy of any document in the file of the international application, and within that time limit go through the formalities provided in Article 120 of these Rules with the patent administration department under the State Council; the patent administration department under the State Council shall, after receiving the documents transmitted by the International Bureau, re-examine whether the decision made by the international authority is correct."
+        },
+        "noLabel": {
+          "en": "Article 134."
+        },
+        "chapter": {
+          "en": "Chapter XI Special Provisions on International Applications for Inventions and Utility Models"
+        }
+      },
+      {
+        "no": 135,
+        "text": {
+          "en": "Where, for a patent right granted on the basis of an international application, errors in the translation cause the scope of protection determined in accordance with the provisions of Article 64 of the Patent Law to exceed the scope expressed in the original text of the international application, the scope of protection as limited according to the original text shall prevail; where the scope of protection becomes narrower than the scope expressed in the original text of the international application, the scope of protection at the time of grant shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 135."
+        },
+        "chapter": {
+          "en": "Chapter XI Special Provisions on International Applications for Inventions and Utility Models"
+        }
+      },
+      {
+        "no": 136,
+        "text": {
+          "en": "The patent administration department under the State Council shall, in accordance with the provisions of Paragraphs 2 and 3 of Article 19 of the Patent Law, process international registration applications for designs filed under the Hague Agreement Concerning the International Registration of Industrial Designs (1999 Act) (hereinafter referred to as the Hague Agreement).\nThe conditions and procedures for the patent administration department under the State Council to process international registration applications for designs filed under the Hague Agreement and designating China (hereinafter referred to as international design applications) shall be governed by the provisions of this Chapter; where this Chapter does not provide, the relevant provisions of the Patent Law and the other Chapters of these Rules shall apply."
+        },
+        "noLabel": {
+          "en": "Article 136."
+        },
+        "chapter": {
+          "en": "Chapter XII Special Provisions on International Applications for Designs"
+        }
+      },
+      {
+        "no": 137,
+        "text": {
+          "en": "An international design application for which an international registration date has been determined and which designates China in accordance with the Hague Agreement shall be deemed to be an application for a design patent filed with the patent administration department under the State Council, and the international registration date shall be deemed to be the filing date mentioned in Article 28 of the Patent Law."
+        },
+        "noLabel": {
+          "en": "Article 137."
+        },
+        "chapter": {
+          "en": "Chapter XII Special Provisions on International Applications for Designs"
+        }
+      },
+      {
+        "no": 138,
+        "text": {
+          "en": "After the International Bureau publishes an international design application, the patent administration department under the State Council shall examine the international design application and notify the International Bureau of the examination result."
+        },
+        "noLabel": {
+          "en": "Article 138."
+        },
+        "chapter": {
+          "en": "Chapter XII Special Provisions on International Applications for Designs"
+        }
+      },
+      {
+        "no": 139,
+        "text": {
+          "en": "Where an international design application published by the International Bureau contains one or more rights of priority, it shall be deemed that a written declaration has been made in accordance with the provisions of Article 30 of the Patent Law.\nWhere the applicant of an international design application claims priority, it shall submit a copy of the earlier application documents within 3 months from the date of publication of the international design application."
+        },
+        "noLabel": {
+          "en": "Article 139."
+        },
+        "chapter": {
+          "en": "Chapter XII Special Provisions on International Applications for Designs"
+        }
+      },
+      {
+        "no": 140,
+        "text": {
+          "en": "Where the design involved in an international design application falls under the circumstances listed in Article 24(2) or (3) of the Patent Law, a declaration shall be made at the time of filing the international design application, and the relevant supporting documents provided in Paragraph 3 of Article 33 of these Rules shall be submitted within 2 months from the date of publication of the international design application."
+        },
+        "noLabel": {
+          "en": "Article 140."
+        },
+        "chapter": {
+          "en": "Chapter XII Special Provisions on International Applications for Designs"
+        }
+      },
+      {
+        "no": 141,
+        "text": {
+          "en": "Where one international design application contains two or more designs, the applicant may, within 2 months from the date of publication of the international design application, file a divisional application with the patent administration department under the State Council and pay the fees."
+        },
+        "noLabel": {
+          "en": "Article 141."
+        },
+        "chapter": {
+          "en": "Chapter XII Special Provisions on International Applications for Designs"
+        }
+      },
+      {
+        "no": 142,
+        "text": {
+          "en": "Where an international design application published by the International Bureau contains a statement containing the design points, it shall be deemed that a brief description has been submitted in accordance with the provisions of Article 31 of these Rules."
+        },
+        "noLabel": {
+          "en": "Article 142."
+        },
+        "chapter": {
+          "en": "Chapter XII Special Provisions on International Applications for Designs"
+        }
+      },
+      {
+        "no": 143,
+        "text": {
+          "en": "Where no ground for rejection is found upon examination of an international design application by the patent administration department under the State Council, the patent administration department under the State Council shall make a decision to grant protection and notify the International Bureau.\nAfter the patent administration department under the State Council makes the decision to grant protection and announces it, the design patent right shall take effect from the date of the announcement."
+        },
+        "noLabel": {
+          "en": "Article 143."
+        },
+        "chapter": {
+          "en": "Chapter XII Special Provisions on International Applications for Designs"
+        }
+      },
+      {
+        "no": 144,
+        "text": {
+          "en": "Where the formalities for change of rights have been gone through with the International Bureau, the applicant shall provide the relevant supporting materials to the patent administration department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 144."
+        },
+        "chapter": {
+          "en": "Chapter XII Special Provisions on International Applications for Designs"
+        }
+      },
+      {
+        "no": 145,
+        "text": {
+          "en": "With the consent of the patent administration department under the State Council, any person may consult or copy the files of published or announced patent applications and the patent register, and may request the patent administration department under the State Council to issue a copy of the patent register.\nThe files of patent applications that have been deemed withdrawn, rejected or withdrawn on the applicant's own initiative shall not be preserved after 2 years from the date of invalidation of the patent application.\nThe files of patent rights that have been abandoned, declared wholly invalid or terminated shall not be preserved after 3 years from the date of invalidation of the patent right."
+        },
+        "noLabel": {
+          "en": "Article 145."
+        },
+        "chapter": {
+          "en": "Chapter XIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 146,
+        "text": {
+          "en": "When submitting application documents to or going through various formalities with the patent administration department under the State Council, the documents shall be signed or sealed by the applicant, the patentee, other interested parties or their representatives; where a patent agency is entrusted, the documents shall be sealed by the patent agency.\nWhere a request is made to change the name of the inventor, the name or title, nationality and address of the patent applicant and patentee, or the name and address of the patent agency and the name of the patent agent, the formalities for changing bibliographic items shall be gone through with the patent administration department under the State Council and, where necessary, supporting materials on the reasons for the change shall be submitted."
+        },
+        "noLabel": {
+          "en": "Article 146."
+        },
+        "chapter": {
+          "en": "Chapter XIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 147,
+        "text": {
+          "en": "When mailing documents relating to an application or a patent right to the patent administration department under the State Council, registered letters shall be used and parcels shall not be used.\nExcept for the first submission of patent application documents, when submitting various documents to or going through various formalities with the patent administration department under the State Council, the filing number or patent number, the title of the invention-creation and the name or title of the applicant or patentee shall be indicated.\nOne letter shall contain only the documents relating to the same application."
+        },
+        "noLabel": {
+          "en": "Article 147."
+        },
+        "chapter": {
+          "en": "Chapter XIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 148,
+        "text": {
+          "en": "The patent administration department under the State Council shall formulate the Guidelines for Patent Examination in accordance with the Patent Law and these Rules."
+        },
+        "noLabel": {
+          "en": "Article 148."
+        },
+        "chapter": {
+          "en": "Chapter XIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 149,
+        "text": {
+          "en": "These Rules shall come into force on 1 July 2001. The Detailed Rules for the Implementation of the Patent Law of the People's Republic of China, revised with the approval of the State Council on 12 December 1992 and promulgated by the Patent Office of China on 21 December 1992, shall be repealed simultaneously."
+        },
+        "noLabel": {
+          "en": "Article 149."
+        },
+        "chapter": {
+          "en": "Chapter XIII Supplementary Provisions"
         }
       }
     ]

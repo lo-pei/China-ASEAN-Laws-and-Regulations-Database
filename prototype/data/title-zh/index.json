@@ -1,9 +1,9 @@
 {
  "formatVersion": "calr-title-zh-v1",
- "updatedAt": "2026-10-17",
+ "updatedAt": "2026-10-24T00:42:15",
  "note": "法规标题中文译名的权威导出与交付物归档。译名正文以 prototype/data/laws/<id>.json 的 title.zh 为唯一真源，本目录为其汇总导出与过程存档。",
  "lawCount": 18854,
- "translatedCount": 17992,
+ "translatedCount": 18227,
  "coverage": {
   "PH": {
    "total": 10619,
@@ -159,6 +159,12 @@
    "count": 7,
    "source": "用户提供的 Myanmar Law Library 扫描件",
    "note": "OCR by rapidocr-onnxruntime 1.4.4；OCR 置信度与噪声页记录在各法规 source/pdfs 字段"
+  },
+  {
+   "name": "title-fill-2026-10-24",
+   "count": 235,
+   "engine": "source-extract",
+   "note": "从已有数据提取标题，非翻译"
   }
  ],
  "files": [

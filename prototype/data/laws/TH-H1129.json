@@ -1,9 +1,9 @@
 {
  "id": "TH-H1129",
  "title": {
-  "zh": null,
+  "zh": "RevenueCode_IncomeTax",
   "en": null,
-  "orig": null
+  "orig": "RevenueCode_IncomeTax"
  },
  "country": "TH",
  "countryName": "泰国",
@@ -88,5 +88,6 @@
     "en": "Section 76 Ter\n (Repealed by an Act Amending Revenue Code (No. 16) B.E. 2502)\n \nIncome Tax Rates Schedule\n\nLast updated: 07.01.2021"
    }
   }
- ]
+ ],
+ "titleFilledFrom": "来源：source.name（2026-10-24 补）"
 }

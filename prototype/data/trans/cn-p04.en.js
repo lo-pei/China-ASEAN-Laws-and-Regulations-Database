@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p04
-   法规 69 部 / 译文 4211 条
+   法规 72 部 / 译文 4620 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -17618,6 +17618,1782 @@
     ]
   };
 
+  TR['CN-LAW-0259'] = {
+    "lawId": "CN-LAW-0259",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 150 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is enacted for the purpose of ensuring food safety and safeguarding public health and the safety of life."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Whoever engages in the following activities within the territory of the People's Republic of China shall comply with this Law:\n(a) food production and processing (hereinafter referred to as food production) and food sale and catering services (hereinafter referred to as food business);\n(b) the production and business of food additives;\n(c) the production and business of packaging materials, containers, detergents and disinfectants used for food and the tools and equipment used for food production and business (hereinafter referred to as food-related products);\n(d) the use of food additives and food-related products by food producers and traders;\n(e) the storage and transport of food;\n(f) the safety management of food, food additives and food-related products.\nThe quality and safety management of primary products derived from agriculture for consumption (hereinafter referred to as edible agricultural products) shall comply with the provisions of the Law of the People's Republic of China on the Quality and Safety of Agricultural Products. However, the market sale of edible agricultural products, the formulation of relevant quality and safety standards, the publication of relevant safety information and the provisions of this Law on agricultural inputs shall comply with the provisions of this Law."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Food safety work shall follow the principles of prevention first, risk management, whole-process control and social co-governance, and a scientific and strict supervision and administration system shall be established."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Food producers and traders shall be responsible for the safety of the food they produce and trade.\nFood producers and traders shall, in accordance with laws, regulations and food safety standards, engage in production and business activities, ensure food safety, act in good faith and with self-discipline, be responsible to society and the public, accept social supervision and bear social responsibility."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The State Council shall establish a food safety committee, whose duties shall be prescribed by the State Council.\nThe food safety supervision and administration department of the State Council shall, in accordance with this Law and the duties prescribed by the State Council, exercise supervision and administration over food production and business activities.\nThe health administrative department of the State Council shall, in accordance with this Law and the duties prescribed by the State Council, organise the conduct of food safety risk monitoring and risk assessment, and shall, together with the food safety supervision and administration department of the State Council, formulate and publish national food safety standards.\nOther relevant departments of the State Council shall, in accordance with this Law and the duties prescribed by the State Council, undertake the relevant food safety work."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Local people's governments at or above the county level shall be responsible for the food safety supervision and administration work within their respective administrative regions, exercise unified leadership, organisation and coordination over the food safety supervision and administration work and the response to food safety emergencies within their respective administrative regions, and establish and improve the working mechanisms for whole-process food safety supervision and administration and for information sharing.\nLocal people's governments at or above the county level shall, in accordance with this Law and the provisions of the State Council, determine the duties of the food safety supervision and administration department, the health administrative department and other relevant departments at the same level. The relevant departments shall, within the scope of their respective duties, be responsible for the food safety supervision and administration work within their respective administrative regions.\nThe food safety supervision and administration department of the people's government at the county level may establish dispatched agencies in townships or specific areas."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Local people's governments at or above the county level shall implement a responsibility system for food safety supervision and administration. The people's government at a higher level shall be responsible for reviewing and assessing the food safety supervision and administration work of the people's government at the next lower level. Local people's governments at or above the county level shall be responsible for reviewing and assessing the food safety supervision and administration work of the food safety supervision and administration department and other relevant departments at the same level."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "People's governments at or above the county level shall incorporate food safety work into the national economic and social development plan at the same level, include the funds for food safety work in the financial budget of the government at the same level, strengthen capacity building for food safety supervision and administration and provide guarantees for food safety work.\nThe food safety supervision and administration department and other relevant departments of people's governments at or above the county level shall strengthen communication and cooperate closely, exercise their functions and powers in accordance with the law according to the division of their respective duties and bear responsibility."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Food industry associations shall strengthen industry self-discipline, establish and improve industry norms and reward and punishment mechanisms in accordance with their articles of association, provide food safety information, technical and other services, guide and urge food producers and traders to produce and trade in accordance with the law, promote the building of industry credibility, and publicise and popularise food safety knowledge.\nConsumers associations and other consumer organisations shall, in accordance with the law, exercise social supervision over acts that violate the provisions of this Law and harm the lawful rights and interests of consumers."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "People's governments at all levels shall strengthen publicity and education on food safety, popularise food safety knowledge, encourage social organisations, grassroots self-governing organisations of the masses and food producers and traders to carry out the popularisation of food safety laws and regulations as well as food safety standards and knowledge, advocate healthy dietary patterns and enhance consumers' awareness of food safety and capacity for self-protection.\nThe news media shall carry out public-interest publicity on food safety laws and regulations as well as food safety standards and knowledge, and exercise supervision by public opinion over illegal food safety acts. Publicity reports on food safety shall be truthful and impartial."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The State encourages and supports basic research and applied research relating to food safety, and encourages and supports food producers and traders in adopting advanced technologies and advanced management practices to improve the level of food safety.\nThe State applies a strict management system to the use of pesticides, accelerates the phasing out of pesticides that are highly toxic, highly poisonous or leave high residues, promotes the research, development and application of substitute products, and encourages the use of pesticides that are highly effective, of low toxicity and leave low residues."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Any organisation or individual shall have the right to report illegal food safety acts, to obtain food safety information from the relevant departments in accordance with the law, and to put forward opinions and suggestions on food safety supervision and administration work."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Units and individuals that have made outstanding contributions to food safety work shall be commended and rewarded in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The State establishes a food safety risk monitoring system to monitor food-borne diseases, food contamination and harmful factors in food.\nThe health administrative department of the State Council shall, together with the food safety supervision and administration department and other departments of the State Council, formulate and implement the national food safety risk monitoring plan.\nUpon learning of information on food safety risks, the food safety supervision and administration department of the State Council and other relevant departments shall immediately verify it and notify the health administrative department of the State Council. With respect to information on food safety risks notified by the relevant departments and information on food-borne diseases and other diseases reported by medical institutions, the health administrative department of the State Council shall, together with the relevant departments of the State Council, analyse and study it, and where it deems necessary, promptly adjust the national food safety risk monitoring plan.\nThe health administrative department of the people's government of a province, autonomous region or municipality directly under the Central Government shall, together with the food safety supervision and administration department and other departments at the same level and on the basis of the national food safety risk monitoring plan and in light of the specific circumstances of its administrative region, formulate and adjust the food safety risk monitoring programme of its administrative region, report it to the health administrative department of the State Council for the record and implement it."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Monitoring and Assessment of Food Safety Risks"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Technical institutions undertaking food safety risk monitoring work shall carry out monitoring work in accordance with the food safety risk monitoring plan and monitoring programme, ensure that the monitoring data are truthful and accurate, and submit the monitoring data and analysis results in accordance with the requirements of the food safety risk monitoring plan and monitoring programme.\nFood safety risk monitoring personnel shall have the right to enter the places where the relevant edible agricultural products are planted or bred and the places where food is produced or traded to collect samples and gather the relevant data. Samples collected shall be paid for at market prices."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Monitoring and Assessment of Food Safety Risks"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where the results of food safety risk monitoring show that food safety hazards may exist, the health administrative department of the people's government at or above the county level shall promptly notify the food safety supervision and administration department and other departments at the same level of the relevant information, and report to the people's government at the same level and the health administrative department of the people's government at the next higher level. The food safety supervision and administration department and other departments shall organise and conduct further investigation."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Monitoring and Assessment of Food Safety Risks"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The State establishes a food safety risk assessment system, applying scientific methods and, on the basis of food safety risk monitoring information, scientific data and relevant information, to conduct risk assessment of biological, chemical and physical hazards in food, food additives and food-related products.\nThe health administrative department of the State Council shall be responsible for organising food safety risk assessment work and shall establish a food safety risk assessment expert committee composed of experts in medicine, agriculture, food, nutrition, biology, the environment and other fields to conduct food safety risk assessment. The results of food safety risk assessment shall be published by the health administrative department of the State Council.\nExperts of the food safety risk assessment expert committee shall participate in the safety assessment of pesticides, fertilisers, veterinary drugs, feed and feed additives.\nNo fees shall be charged to producers and traders for food safety risk assessment, and samples collected shall be paid for at market prices."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Monitoring and Assessment of Food Safety Risks"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Food safety risk assessment shall be conducted under any of the following circumstances:\n(a) where food safety hazards may exist in food, food additives or food-related products as discovered through food safety risk monitoring or upon receipt of a report;\n(b) where risk assessment is required to provide a scientific basis for formulating or revising national food safety standards;\n(c) where risk assessment is required to determine the priority areas and priority varieties for supervision and administration;\n(d) where new factors that may endanger food safety are discovered;\n(e) where it is necessary to determine whether a certain factor constitutes a food safety hazard;\n(f) other circumstances under which the health administrative department of the State Council considers that risk assessment is required."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Monitoring and Assessment of Food Safety Risks"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Where the food safety supervision and administration department, the agriculture administrative department and other departments of the State Council find in the course of supervision and administration that food safety risk assessment is required, they shall put forward suggestions on food safety risk assessment to the health administrative department of the State Council and provide information and materials such as the source of the risk and the relevant inspection data and conclusions. Where the circumstances provided in Article 18 of this Law exist, the health administrative department of the State Council shall promptly conduct food safety risk assessment and notify the relevant departments of the State Council of the assessment results."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Monitoring and Assessment of Food Safety Risks"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The health administrative department and the agriculture administrative department of people's governments at or above the provincial level shall promptly notify each other of information on the risk monitoring of food and edible agricultural products.\nThe health administrative department and the agriculture administrative department of the State Council shall promptly notify each other of information such as the results of food safety risk assessment of food and edible agricultural products."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Monitoring and Assessment of Food Safety Risks"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The results of food safety risk assessment are the scientific basis for formulating and revising food safety standards and for implementing food safety supervision and administration.\nWhere food safety risk assessment leads to the conclusion that food, food additives or food-related products are unsafe, the food safety supervision and administration department and other departments of the State Council shall, in accordance with their respective duties, immediately announce this to the public, inform consumers to stop eating or using them, and take corresponding measures to ensure that the production and business of such food, food additives or food-related products are stopped; where the relevant national food safety standards need to be formulated or revised, the health administrative department of the State Council shall, together with the food safety supervision and administration department of the State Council, promptly formulate or revise them."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Monitoring and Assessment of Food Safety Risks"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The food safety supervision and administration department of the State Council shall, together with the relevant departments of the State Council and on the basis of the results of food safety risk assessment and information on food safety supervision and administration, conduct a comprehensive analysis of the food safety situation. For food that may pose a relatively high degree of safety risk as shown by the comprehensive analysis, the food safety supervision and administration department of the State Council shall promptly issue a food safety risk warning and publish it to the public."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter II Monitoring and Assessment of Food Safety Risks"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The food safety supervision and administration department and other relevant departments of people's governments at or above the county level, the food safety risk assessment expert committee and its technical institutions shall, in accordance with the principles of being scientific, objective, timely and open, organise food producers and traders, food inspection institutions, certification institutions, food industry associations, consumers associations and the news media to exchange and communicate on food safety risk assessment information and food safety supervision and administration information."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter II Monitoring and Assessment of Food Safety Risks"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The formulation of food safety standards shall take safeguarding public health as its purpose and shall be scientific, reasonable, safe and reliable."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Food Safety Standards"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Food safety standards are standards for compulsory enforcement. Apart from food safety standards, no other compulsory standards for food may be formulated."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Food Safety Standards"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Food safety standards shall include the following:\n(a) provisions on the limits of pathogenic microorganisms, pesticide residues, veterinary drug residues, biotoxins, heavy metals and other contaminants and other substances harmful to human health in food, food additives and food-related products;\n(b) the varieties, scope of use and dosages of food additives;\n(c) nutritional composition requirements for staple and supplementary foods exclusively for infants and young children and other specific population groups;\n(d) requirements for labels, marks and instructions relating to food safety requirements such as hygiene and nutrition;\n(e) hygiene requirements for the food production and business process;\n(f) quality requirements relating to food safety;\n(g) food inspection methods and procedures relating to food safety;\n(h) other contents that need to be formulated as food safety standards."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Food Safety Standards"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "National food safety standards shall be formulated and published by the health administrative department of the State Council together with the food safety supervision and administration department of the State Council, and the standardisation administrative department of the State Council shall provide the national standard numbers.\nThe provisions on the limits of pesticide residues and veterinary drug residues in food and the inspection methods and procedures therefor shall be formulated by the health administrative department and the agriculture administrative department of the State Council together with the food safety supervision and administration department of the State Council.\nThe inspection procedures for slaughtered livestock and poultry shall be formulated by the agriculture administrative department of the State Council together with the health administrative department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Food Safety Standards"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "To formulate national food safety standards, the results of food safety risk assessment shall be relied upon and the results of safety risk assessment of edible agricultural products shall be fully taken into account, reference shall be made to the relevant international standards and the results of international food safety risk assessment, and the drafts of national food safety standards shall be published to the public to extensively solicit the opinions of food producers and traders, consumers and the relevant departments.\nNational food safety standards shall be examined and adopted by the national food safety standards review committee organised by the health administrative department of the State Council. The national food safety standards review committee shall be composed of experts in medicine, agriculture, food, nutrition, biology, the environment and other fields as well as representatives of the relevant departments of the State Council, food industry associations and consumers associations, and shall examine the scientific nature and practicability of the drafts of national food safety standards."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Food Safety Standards"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "For foods with local characteristics for which there are no national food safety standards, the health administrative department of the people's government of a province, autonomous region or municipality directly under the Central Government may formulate and publish local food safety standards and report them to the health administrative department of the State Council for the record. Once the national food safety standards are formulated, the local standards shall be repealed."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Food Safety Standards"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "The State encourages food production enterprises to formulate enterprise standards stricter than national food safety standards or local standards, to apply them within the enterprise and to report them to the health administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government for the record."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Food Safety Standards"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The health administrative department of people's governments at or above the provincial level shall publish on its website the national food safety standards, local standards and enterprise standards that have been formulated and recorded, for free inspection and download by the public.\nWith respect to problems arising in the implementation of food safety standards, the health administrative department of people's governments at or above the county level shall, together with the relevant departments, promptly provide guidance and explanations."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Food Safety Standards"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The health administrative department of people's governments at or above the provincial level shall, together with the food safety supervision and administration department, the agriculture administrative department and other departments at the same level, conduct follow-up evaluation of the implementation of national food safety standards and local standards respectively, and promptly revise the food safety standards in light of the evaluation results.\nThe food safety supervision and administration department, the agriculture administrative department and other departments of people's governments at or above the provincial level shall collect and summarise the problems existing in the implementation of food safety standards and promptly notify the health administrative department at the same level.\nWhere food producers and traders or food industry associations find problems in the implementation of food safety standards, they shall immediately report them to the health administrative department."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III Food Safety Standards"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Food production and business shall conform to food safety standards and meet the following requirements:\n(a) having places for the processing of food raw materials and for food processing, packaging and storage that are commensurate with the varieties and quantities of the food produced or traded, keeping such places clean and tidy and at the prescribed distance from toxic and harmful places and other sources of contamination;\n(b) having production and business equipment or facilities commensurate with the varieties and quantities of the food produced or traded, and having the corresponding equipment or facilities for disinfection, changing clothes, washing, lighting, illumination, ventilation, preservation, dust prevention, fly prevention, rat prevention, insect prevention and washing as well as for the treatment of waste water and the storage of refuse and waste;\n(c) having full-time or part-time food safety professional and technical personnel and food safety management personnel and rules and regulations ensuring food safety;\n(d) having a reasonable equipment layout and process flow to prevent cross-contamination between food awaiting processing and food for direct consumption and between raw materials and finished products, and to avoid food coming into contact with toxic or unclean substances;\n(e) tableware, drinking vessels and containers holding food for direct consumption shall be washed and disinfected before use, and cooking utensils and implements shall be washed and kept clean after use;\n(f) containers, tools and equipment for the storage, transport, loading and unloading of food shall be safe, harmless and kept clean so as to prevent food contamination, and shall meet the special requirements for temperature, humidity and the like necessary for ensuring food safety; food shall not be stored or transported together with toxic or harmful articles;\n(g) food for direct consumption shall use non-toxic and clean packaging materials, tableware, drinking vessels and containers;\n(h) food production and business personnel shall maintain personal hygiene and, when producing or trading food, shall wash their hands and wear clean work clothes and caps; when selling unpackaged food for direct consumption, non-toxic and clean containers, selling tools and equipment shall be used;\n(i) the water used shall conform to the national sanitary standards for drinking water;\n(j) the detergents and disinfectants used shall be safe and harmless to the human body;\n(k) other requirements provided by laws and regulations.\nWhere a person other than a food producer or trader engages in the storage, transport, loading and unloading of food, it shall comply with the provisions of Item (6) of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The production and business of the following food, food additives and food-related products shall be prohibited:\n(a) food produced from non-food raw materials, or food to which chemical substances other than food additives or other substances that may endanger human health have been added, or food produced from recycled food as raw materials;\n(b) food, food additives and food-related products in which the content of pathogenic microorganisms, pesticide residues, veterinary drug residues, biotoxins, heavy metals and other contaminants and other substances harmful to human health exceeds the limits of food safety standards;\n(c) food and food additives produced from food raw materials or food additives that have exceeded their shelf life;\n(d) food in which food additives are used beyond the permitted scope or beyond the permitted limits;\n(e) staple and supplementary foods exclusively for infants and young children and other specific population groups whose nutritional composition does not conform to food safety standards;\n(f) food and food additives that are putrid and deteriorated, rancid in oil and fat, mouldy and insect-infested, filthy and unclean, mixed with foreign matter, adulterated or abnormal in sensory properties;\n(g) the meat of poultry, livestock, beasts and aquatic animals that died of disease, were poisoned to death or died of unknown causes, and products made therefrom;\n(h) meat that has not been quarantined as prescribed or has failed quarantine, or meat products that have not been inspected or have failed inspection;\n(i) food and food additives contaminated by packaging materials, containers, means of transport or the like;\n(j) food and food additives marked with false production dates or shelf lives, or that have exceeded their shelf life;\n(k) prepackaged food and food additives without labels;\n(l) food whose production and business are expressly prohibited by the State for special needs such as disease prevention;\n(m) other food, food additives and food-related products that do not conform to laws, regulations or food safety standards."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The State applies a licensing system to food production and business. Those engaging in food production, food sale or catering services shall obtain a licence in accordance with the law. However, no licence is required for the sale of edible agricultural products or for the sale of prepackaged food only. Those selling prepackaged food only shall report to the food safety supervision and administration department of the local people's government at or above the county level for the record.\nThe food safety supervision and administration department of a local people's government at or above the county level shall, in accordance with the provisions of the Administrative Licensing Law of the People's Republic of China, examine the relevant materials submitted by the applicant as required by Items (1) to (4) of Paragraph 1 of Article 33 of this Law and, where necessary, conduct an on-site inspection of the applicant's production and business premises; where the prescribed conditions are met, it shall grant the licence; where the prescribed conditions are not met, it shall not grant the licence and shall explain the reasons in writing."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Small food production and processing workshops, food vendors and the like engaging in food production and business activities shall meet the food safety requirements provided in this Law that are commensurate with their scale and conditions of production and business, ensure that the food produced and traded is hygienic, non-toxic and harmless, and the food safety supervision and administration department shall strengthen supervision and administration over them.\nLocal people's governments at or above the county level shall carry out comprehensive governance of small food production and processing workshops, food vendors and the like, strengthen services and unified planning, improve their production and business environment, and encourage and support them in improving their production and business conditions, entering fixed premises such as centralised trading markets and shops, or operating in designated temporary business areas and time periods.\nThe specific administrative measures for small food production and processing workshops, food vendors and the like shall be formulated by provinces, autonomous regions and municipalities directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Whoever produces food from new food raw materials, or produces new varieties of food additives or new varieties of food-related products, shall submit safety assessment materials on the relevant products to the health administrative department of the State Council. The health administrative department of the State Council shall organise the examination within sixty days from the date of receipt of the application; where the food safety requirements are met, it shall grant the licence and publish it; where the food safety requirements are not met, it shall not grant the licence and shall explain the reasons in writing."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "No medicines may be added to the food produced or traded, but substances that are traditionally both food and Chinese medicinal materials may be added. The catalogue of substances that are traditionally both food and Chinese medicinal materials shall be formulated and published by the health administrative department of the State Council together with the food safety supervision and administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The State applies a licensing system to the production of food additives. Those engaging in the production of food additives shall have premises, production equipment or facilities, professional and technical personnel and management systems commensurate with the varieties of food additives produced, and shall obtain a food additive production licence in accordance with the procedures provided in Paragraph 2 of Article 35 of this Law.\nThe production of food additives shall conform to laws, regulations and national food safety standards."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Food additives may be included in the scope of permitted use only where they are technically necessary and have been proven safe and reliable through risk assessment; the relevant national food safety standards shall be promptly revised in light of technical necessity and the results of food safety risk assessment.\nFood producers and traders shall use food additives in accordance with national food safety standards."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "The production of food-related products shall conform to laws, regulations and national food safety standards. For food-related products with relatively high risks, such as packaging materials that come into direct contact with food, production licences shall be implemented in accordance with the provisions of the State on the administration of production licences for industrial products. The food safety supervision and administration department shall strengthen supervision and administration over the production activities of food-related products."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The State establishes a whole-process food safety traceability system.\nFood producers and traders shall, in accordance with the provisions of this Law, establish a food safety traceability system to ensure that food is traceable. The State encourages food producers and traders to collect and retain production and business information by information technology means and to establish food safety traceability systems.\nThe food safety supervision and administration department of the State Council shall, together with the agriculture administrative department and other relevant departments of the State Council, establish a coordination mechanism for whole-process food safety traceability."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Local people's governments at all levels shall take measures to encourage large-scale food production and chain operation and distribution.\nThe State encourages food production and business enterprises to take out food safety liability insurance."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Food production and business enterprises shall establish and improve food safety management systems, conduct food safety knowledge training for their employees, strengthen food inspection work and engage in production and business activities in accordance with the law.\nThe principal persons in charge of food production and business enterprises shall implement the enterprise's food safety management system and take overall responsibility for the food safety work of the enterprise.\nFood production and business enterprises shall be staffed with food safety management personnel and shall strengthen training and assessment of them. Those who do not have the capacity for food safety management upon assessment shall not take up their posts. The food safety supervision and administration department shall conduct random supervisory inspection and assessment of the food safety management personnel of enterprises and publish the assessment results. No fees shall be charged for such supervisory inspection and assessment."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Section 2 Control of the Production and Business Process"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Food producers and traders shall establish and implement a health management system for their employees. Persons suffering from diseases that hinder food safety as prescribed by the health administrative department of the State Council shall not engage in work that involves contact with food for direct consumption.\nFood production and business personnel engaging in work that involves contact with food for direct consumption shall undergo an annual health examination and may take up their posts only after obtaining a health certificate."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Section 2 Control of the Production and Business Process"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Food production enterprises shall formulate and implement control requirements for the following matters to ensure that the food produced conforms to food safety standards:\n(a) control of raw materials such as the procurement and acceptance of raw materials and the feeding of materials;\n(b) control of key production links such as production processes, equipment, storage and packaging;\n(c) inspection control such as raw material inspection, inspection of semi-finished products and ex-factory inspection of finished products;\n(d) control of transport and delivery."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Section 2 Control of the Production and Business Process"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Food producers and traders shall establish a food safety self-inspection system and conduct regular inspection and evaluation of the food safety situation. Where the production and business conditions change and no longer meet food safety requirements, food producers and traders shall immediately take rectification measures; where there is a potential risk of a food safety accident, they shall immediately stop food production and business activities and report to the food safety supervision and administration department of the local people's government at the county level."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Section 2 Control of the Production and Business Process"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "The State encourages food production and business enterprises to conform to the requirements of good manufacturing practice and to implement the hazard analysis and critical control point system so as to improve the level of food safety management.\nFor food production and business enterprises that have been certified under good manufacturing practice or the hazard analysis and critical control point system, the certification institution shall conduct follow-up investigations in accordance with the law; for enterprises that no longer meet the certification requirements, it shall revoke the certification in accordance with the law, promptly notify the food safety supervision and administration department of the people's government at or above the county level and publish this to the public. No fees shall be charged by certification institutions for follow-up investigations."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Section 2 Control of the Production and Business Process"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Producers of edible agricultural products shall use pesticides, fertilisers, veterinary drugs, feed and feed additives and other agricultural inputs in accordance with food safety standards and the relevant provisions of the State, strictly implement the provisions on the safety interval or withdrawal period for the use of agricultural inputs, and shall not use agricultural inputs expressly prohibited by the State. It is prohibited to use pesticides that are highly toxic or highly poisonous on vegetables, melons and fruits, tea leaves, Chinese medicinal herbs and other crops prescribed by the State.\nProduction enterprises of edible agricultural products and specialised farmers' cooperative economic organisations shall establish a record system for the use of agricultural inputs.\nThe agriculture administrative department of people's governments at or above the county level shall strengthen supervision, administration and guidance over the use of agricultural inputs and establish and improve the system for the safe use of agricultural inputs."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Section 2 Control of the Production and Business Process"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "When purchasing food raw materials, food additives or food-related products, food producers shall check the supplier's licence and product conformity certificate; for food raw materials for which no conformity certificate can be provided, they shall be inspected in accordance with food safety standards; food raw materials, food additives and food-related products that do not conform to food safety standards shall not be purchased or used.\nFood production enterprises shall establish a system of records for the inspection of purchased food raw materials, food additives and food-related products, truthfully record the names, specifications, quantities, production dates or production batch numbers, shelf lives, purchase dates and the names, addresses and contact details of suppliers of the food raw materials, food additives and food-related products, and retain the relevant vouchers. The retention period for records and vouchers shall not be less than six months after the expiry of the shelf life of the products; where there is no clear shelf life, the retention period shall not be less than two years."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Section 2 Control of the Production and Business Process"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Food production enterprises shall establish a system of records for ex-factory inspection of food, check the inspection conformity certificate and safety status of the food leaving the factory, truthfully record the names, specifications, quantities, production dates or production batch numbers, shelf lives, inspection conformity certificate numbers, sales dates and the names, addresses and contact details of purchasers of the food, and retain the relevant vouchers. The retention period for records and vouchers shall conform to the provisions of Paragraph 2 of Article 50 of this Law."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Section 2 Control of the Production and Business Process"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Producers of food, food additives and food-related products shall inspect the food, food additives and food-related products they produce in accordance with food safety standards, and may release them from the factory or sell them only after they have passed inspection."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Section 2 Control of the Production and Business Process"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "When purchasing food, food traders shall check the supplier's licence and the food ex-factory inspection conformity certificate or other conformity certificates (hereinafter referred to as conformity certification documents).\nFood business enterprises shall establish a system of records for the inspection of purchased food, truthfully record the names, specifications, quantities, production dates or production batch numbers, shelf lives, purchase dates and the names, addresses and contact details of suppliers of the food, and retain the relevant vouchers. The retention period for records and vouchers shall conform to the provisions of Paragraph 2 of Article 50 of this Law.\nFor food business enterprises adopting a unified distribution mode of operation, the headquarters of the enterprise may uniformly check the supplier's licence and food conformity certification documents and keep the records of inspection of purchased food.\nFood business enterprises engaging in food wholesale shall establish a food sales record system, truthfully record the names, specifications, quantities, production dates or production batch numbers, shelf lives, sales dates and the names, addresses and contact details of purchasers of the wholesale food, and retain the relevant vouchers. The retention period for records and vouchers shall conform to the provisions of Paragraph 2 of Article 50 of this Law."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Section 2 Control of the Production and Business Process"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Food traders shall store food in accordance with the requirements for ensuring food safety, regularly check the food in stock and promptly clear away food that has deteriorated or exceeded its shelf life.\nWhere a food trader stores food in bulk, it shall indicate at the storage location the name, production date or production batch number, shelf life of the food and the name and contact details of the producer."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Section 2 Control of the Production and Business Process"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Catering service providers shall formulate and implement raw material control requirements and shall not purchase food raw materials that do not conform to food safety standards. Catering service providers are encouraged to make their processing procedures public and to disclose information such as food raw materials and their sources.\nDuring processing, catering service providers shall inspect the food and raw materials awaiting processing and shall not process or use them where the circumstances provided in Item (6) of Article 34 of this Law are found."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Section 2 Control of the Production and Business Process"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Catering service providers shall regularly maintain the facilities and equipment for food processing, storage and display and regularly clean and calibrate heat preservation facilities and refrigeration and freezing facilities.\nCatering service providers shall wash and disinfect tableware and drinking vessels as required and shall not use tableware or drinking vessels that have not been washed and disinfected; where a catering service provider entrusts another party with the washing and disinfection of tableware and drinking vessels, it shall entrust a centralised tableware and drinking vessel disinfection service unit that meets the conditions provided in this Law."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Section 2 Control of the Production and Business Process"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "The canteens of units providing centralised meals such as schools, nursery institutions, elderly care institutions and construction sites shall strictly comply with laws, regulations and food safety standards; where meals are ordered from a meal supply unit, they shall be ordered from an enterprise that has obtained a food production and business licence and shall inspect the ordered food as required. Meal supply units shall strictly comply with laws, regulations and food safety standards, process the food for the current meal and ensure food safety.\nThe competent departments of units providing centralised meals such as schools, nursery institutions, elderly care institutions and construction sites shall strengthen food safety education and daily management of such units, reduce food safety risks and promptly eliminate food safety hazards."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Section 2 Control of the Production and Business Process"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Centralised tableware and drinking vessel disinfection service units shall have the corresponding workplaces and washing and disinfection equipment or facilities, and the water used and the detergents and disinfectants used shall conform to the relevant national food safety standards and other national standards and hygiene norms.\nCentralised tableware and drinking vessel disinfection service units shall inspect the disinfected tableware and drinking vessels batch by batch and may release them from the factory only after they have passed inspection, and shall attach a disinfection conformity certificate. The disinfected tableware and drinking vessels shall be marked on the independent packaging with the name, address and contact details of the unit, the disinfection date and the period of use."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Section 2 Control of the Production and Business Process"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Producers of food additives shall establish a system of records for ex-factory inspection of food additives, check the inspection conformity certificate and safety status of the products leaving the factory, truthfully record the names, specifications, quantities, production dates or production batch numbers, shelf lives, inspection conformity certificate numbers, sales dates and the names, addresses and contact details of purchasers of the food additives and other relevant information, and retain the relevant vouchers. The retention period for records and vouchers shall conform to the provisions of Paragraph 2 of Article 50 of this Law."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Section 2 Control of the Production and Business Process"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "When purchasing food additives, food additive traders shall check the supplier's licence and product conformity certification documents in accordance with the law, truthfully record the names, specifications, quantities, production dates or production batch numbers, shelf lives, purchase dates and the names, addresses and contact details of suppliers of the food additives, and retain the relevant vouchers. The retention period for records and vouchers shall conform to the provisions of Paragraph 2 of Article 50 of this Law."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Section 2 Control of the Production and Business Process"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "The operators of centralised trading markets, the lessors of counters and the organisers of trade fairs shall, in accordance with the law, examine the licences of food traders entering the market, clarify their food safety management responsibilities, regularly inspect their business environment and conditions and, upon finding that they have committed acts violating the provisions of this Law, promptly stop them and immediately report to the food safety supervision and administration department of the local people's government at the county level."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Section 2 Control of the Production and Business Process"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Third-party platform providers for online food transactions shall register the real identities of food traders on the platform and clarify their food safety management responsibilities; where a licence should be obtained in accordance with the law, they shall also examine the licence.\nWhere a third-party platform provider for online food transactions finds that a food trader on the platform has committed an act violating the provisions of this Law, it shall promptly stop it and immediately report to the food safety supervision and administration department of the local people's government at the county level; where serious illegal acts are found, it shall immediately stop providing online trading platform services."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Section 2 Control of the Production and Business Process"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "The State establishes a food recall system. Where a food producer finds that the food it produces does not conform to food safety standards or there is evidence proving that it may endanger human health, it shall immediately stop production, recall the food already on the market, notify the relevant producers, traders and consumers and keep records of the recall and notification.\nWhere a food trader finds that the food it trades falls under the circumstances provided in the preceding paragraph, it shall immediately stop trading, notify the relevant producers, traders and consumers and keep records of the cessation of trading and notification. Where the food producer considers that a recall is necessary, it shall immediately recall the food. Where the circumstances provided in the preceding paragraph exist in respect of the food traded due to reasons attributable to the food trader, the food trader shall recall it.\nFood producers and traders shall take measures such as harmless treatment and destruction with respect to the recalled food to prevent it from re-entering the market. However, for food recalled because its labels, marks or instructions do not conform to food safety standards, the food producer may continue to sell it where it has taken remedial measures and can ensure food safety; when selling it, it shall clearly inform consumers of the remedial measures.\nFood producers and traders shall report the recall and handling of food to the food safety supervision and administration department of the local people's government at the county level; where harmless treatment or destruction of the recalled food is required, they shall report the time and place in advance. The food safety supervision and administration department may, where it deems necessary, conduct on-site supervision.\nWhere a food producer or trader fails to recall the food or stop trading it in accordance with the provisions of this Article, the food safety supervision and administration department of the people's government at or above the county level may order it to recall the food or stop trading it."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Section 2 Control of the Production and Business Process"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Wholesale markets for edible agricultural products shall be equipped with inspection equipment and inspection personnel or entrust food inspection institutions conforming to the provisions of this Law to conduct sampling inspection of the edible agricultural products entering the wholesale market for sale; where products not conforming to food safety standards are found, they shall require the sellers to immediately stop selling them and report to the food safety supervision and administration department."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Section 2 Control of the Production and Business Process"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Sellers of edible agricultural products shall establish a system of records for the inspection of purchased edible agricultural products, truthfully record the names and quantities of the edible agricultural products, the purchase dates and the names, addresses and contact details of suppliers, and retain the relevant vouchers. The retention period for records and vouchers shall not be less than six months."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Section 2 Control of the Production and Business Process"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Where preservatives, antistaling agents and other food additives and packaging materials and other food-related products are used in the packaging, preservation, storage and transport of edible agricultural products entering the market for sale, they shall conform to national food safety standards."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Section 2 Control of the Production and Business Process"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "The packaging of prepackaged food shall bear a label. The label shall indicate the following matters:\n(a) the name, specification, net content and production date;\n(b) the ingredients or ingredient list;\n(c) the name, address and contact details of the producer;\n(d) the shelf life;\n(e) the product standard code;\n(f) the storage conditions;\n(g) the generic names in national standards of the food additives used;\n(h) the production licence number;\n(i) other matters that should be indicated as provided by laws, regulations or food safety standards.\nFor staple and supplementary foods exclusively for infants and young children and other specific population groups, the label shall also indicate the main nutritional components and their contents.\nWhere national food safety standards otherwise provide for the matters to be indicated on labels, those provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Section 3 Labels, Instructions and Advertisements"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "Where a food trader sells food in bulk, it shall indicate on the containers and outer packaging of the bulk food the name, production date or production batch number, shelf life of the food and the name, address and contact details of the producer or trader."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Section 3 Labels, Instructions and Advertisements"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "Genetically modified food shall be conspicuously marked as required in its production and business."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Section 3 Labels, Instructions and Advertisements"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "Food additives shall have labels, instructions and packaging. The labels and instructions shall state the matters provided in Items (1) to (6), Item (8) and Item (9) of Paragraph 1 of Article 67 of this Law as well as the scope of use, dosage and method of use of the food additives, and the words 'food additive' shall be stated on the labels."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Section 3 Labels, Instructions and Advertisements"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "The labels and instructions of food and food additives shall not contain false content and shall not relate to disease prevention or treatment functions. Producers and traders shall be responsible for the content of the labels and instructions they provide.\nThe labels and instructions of food and food additives shall be clear and conspicuous, and matters such as the production date and shelf life shall be conspicuously marked and easily identifiable.\nFood and food additives that are inconsistent with the content of their labels or instructions shall not be put on the market for sale."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Section 3 Labels, Instructions and Advertisements"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "Food traders shall sell food in accordance with the requirements of the warning marks, warning statements or matters requiring attention indicated on the food labels."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Section 3 Labels, Instructions and Advertisements"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "The content of food advertisements shall be truthful and lawful, shall not contain false content and shall not relate to disease prevention or treatment functions. Food producers and traders shall be responsible for the truthfulness and lawfulness of the content of food advertisements.\nThe food safety supervision and administration department and other relevant departments of people's governments at or above the county level, as well as food inspection institutions and food industry associations, shall not recommend food to consumers by means of advertisements or in other forms. Consumer organisations shall not recommend food to consumers by charging fees or by other means of seeking benefits."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Section 3 Labels, Instructions and Advertisements"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "The State applies strict supervision and administration to special food such as health food, formula food for special medical purposes and formula food for infants and young children."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Section 4 Special Food"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "Claims of health functions by health food shall have a scientific basis and shall not cause acute, subacute or chronic harm to the human body.\nThe catalogue of raw materials for health food and the catalogue of health functions that health food is permitted to claim shall be formulated, adjusted and published by the food safety supervision and administration department of the State Council together with the health administrative department of the State Council and the national administrative department of traditional Chinese medicine.\nThe catalogue of raw materials for health food shall include the names, dosages and corresponding effects of the raw materials; raw materials included in the catalogue of raw materials for health food may only be used for the production of health food and shall not be used for the production of other food."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Section 4 Special Food"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "Health food using raw materials other than those in the catalogue of raw materials for health food and health food imported for the first time shall be registered with the food safety supervision and administration department of the State Council. However, among health food imported for the first time, those that supplement nutrients such as vitamins and minerals shall be reported to the food safety supervision and administration department of the State Council for the record. Other health food shall be reported to the food safety supervision and administration department of the people's government of the province, autonomous region or municipality directly under the Central Government for the record.\nImported health food shall be products that the competent department of the exporting country (region) permits to be put on the market for sale."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Section 4 Special Food"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "For health food that shall be registered in accordance with the law, materials such as the research and development report, product formula, production process, safety and health function evaluation, labels and instructions of the health food as well as samples shall be submitted at the time of registration, together with the relevant supporting documents. Where, after organising technical review, the food safety supervision and administration department of the State Council considers that the requirements on safety and functional claims are met, it shall grant registration; where the requirements are not met, it shall not grant registration and shall explain the reasons in writing. Where a decision to grant registration is made for health food using raw materials other than those in the catalogue of raw materials for health food, the raw materials shall be promptly included in the catalogue of raw materials for health food.\nFor health food that shall be recorded in accordance with the law, the product formula, production process, labels and instructions as well as the materials showing the safety and health functions of the product shall be submitted at the time of recordal."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Section 4 Special Food"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "The labels and instructions of health food shall not relate to disease prevention or treatment functions, their content shall be truthful and consistent with the content of registration or recordal, they shall state the suitable population, the unsuitable population, the functional components or marker components and their contents, and shall declare that 'this product cannot replace medicines'. The functions and components of health food shall be consistent with the labels and instructions."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Section 4 Special Food"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "In addition to conforming to the provisions of Paragraph 1 of Article 73 of this Law, advertisements for health food shall also declare that 'this product cannot replace medicines'; their content shall be examined and approved by the food safety supervision and administration department of the people's government of the province, autonomous region or municipality directly under the Central Government where the production enterprise is located, and an approval document for the health food advertisement shall be obtained. The food safety supervision and administration department of the people's government of the province, autonomous region or municipality directly under the Central Government shall publish and promptly update the catalogue of approved health food advertisements and the approved advertisement contents."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Section 4 Special Food"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "Formula food for special medical purposes shall be registered with the food safety supervision and administration department of the State Council. At the time of registration, materials such as the product formula, production process, labels, instructions and the materials showing the safety, nutritional adequacy and clinical effect of the special medical purpose of the product shall be submitted.\nAdvertisements for formula food for special medical purposes shall be governed by the provisions of the Advertisement Law of the People's Republic of China and other laws and administrative regulations on the administration of pharmaceutical advertisements."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Section 4 Special Food"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "Production enterprises of formula food for infants and young children shall implement whole-process quality control from the entry of raw materials into the factory to the release of finished products from the factory, and shall carry out batch-by-batch inspection of the formula food for infants and young children leaving the factory to ensure food safety.\nRaw milk, auxiliary materials and other food raw materials and food additives used in the production of formula food for infants and young children shall conform to the provisions of laws and administrative regulations and national food safety standards, and shall ensure the nutritional components required for the growth and development of infants and young children.\nProduction enterprises of formula food for infants and young children shall report matters such as food raw materials, food additives, product formula and labels to the food safety supervision and administration department of the people's government of the province, autonomous region or municipality directly under the Central Government for the record.\nThe product formula of formula milk powder for infants and young children shall be registered with the food safety supervision and administration department of the State Council. At the time of registration, the formula research and development report and other materials showing the scientific nature and safety of the formula shall be submitted.\nFormula milk powder for infants and young children shall not be produced by way of repackaging, and the same enterprise shall not produce formula milk powder for infants and young children of different brands using the same formula."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Section 4 Special Food"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "The registrants or recorders of health food, formula food for special medical purposes and formula milk powder for infants and young children shall be responsible for the authenticity of the materials they submit.\nThe food safety supervision and administration department of people's governments at or above the provincial level shall promptly publish the catalogue of registered or recorded health food, formula food for special medical purposes and formula milk powder for infants and young children, and shall keep confidential the trade secrets of enterprises learned in the course of registration or recordal.\nProduction enterprises of health food, formula food for special medical purposes and formula milk powder for infants and young children shall organise production in accordance with the technical requirements such as the registered or recorded product formula and production process."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Section 4 Special Food"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "Enterprises producing health food, formula food for special medical purposes, formula food for infants and young children and other staple and supplementary foods exclusively for specific population groups shall, in accordance with the requirements of good manufacturing practice, establish a production quality management system commensurate with the food produced, regularly conduct self-inspection of the operation of the system to ensure its effective operation, and submit a self-inspection report to the food safety supervision and administration department of the local people's government at the county level."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Section 4 Special Food"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "Food inspection institutions may engage in food inspection activities only after obtaining qualification accreditation in accordance with the provisions of the State on certification and accreditation, unless otherwise provided by laws.\nThe conditions for qualification accreditation and the inspection norms of food inspection institutions shall be prescribed by the food safety supervision and administration department of the State Council.\nInspection reports issued by food inspection institutions conforming to the provisions of this Law shall have equal effect.\nPeople's governments at or above the county level shall integrate food inspection resources and achieve resource sharing."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Chapter V Food Inspection"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "Food inspection shall be conducted independently by inspectors designated by the food inspection institution.\nInspectors shall, in accordance with the provisions of the relevant laws and regulations and in accordance with food safety standards and inspection norms, inspect food, respect science, strictly observe professional ethics, ensure that the inspection data and conclusions issued are objective and impartial, and shall not issue false inspection reports."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        },
+        "chapter": {
+          "en": "Chapter V Food Inspection"
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "A system under which the food inspection institution and the inspectors are responsible shall be applied to food inspection. A food inspection report shall be affixed with the official seal of the food inspection institution and signed or sealed by the inspectors. The food inspection institution and the inspectors shall be responsible for the food inspection reports they issue."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        },
+        "chapter": {
+          "en": "Chapter V Food Inspection"
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "The food safety supervision and administration department of people's governments at or above the county level shall conduct regular or irregular sampling inspection of food and publish the inspection results in accordance with the relevant provisions, and shall not grant exemption from inspection. For sampling inspection, the samples taken shall be purchased, a food inspection institution conforming to the provisions of this Law shall be entrusted to conduct the inspection, and the relevant fees shall be paid; no inspection fees or other fees shall be charged to food producers and traders."
+        },
+        "noLabel": {
+          "en": "Article 87."
+        },
+        "chapter": {
+          "en": "Chapter V Food Inspection"
+        }
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "Where there is an objection to the inspection conclusion made in accordance with the provisions of this Law, the food producer or trader may, within seven working days from the date of receipt of the inspection conclusion, apply for re-inspection to the food safety supervision and administration department that conducted the sampling inspection or the food safety supervision and administration department at the next higher level; the food safety supervision and administration department accepting the re-inspection application shall randomly determine a re-inspection institution from the published list of re-inspection institutions to conduct the re-inspection. The re-inspection conclusion issued by the re-inspection institution shall be the final inspection conclusion. The re-inspection institution and the initial inspection institution shall not be the same institution. The list of re-inspection institutions shall be jointly published by the certification and accreditation supervision and administration department, the food safety supervision and administration department, the health administrative department and the agriculture administrative department of the State Council.\nWhere the rapid testing method prescribed by the State is used for random testing of edible agricultural products and the party subject to testing objects to the testing result, it may apply for re-inspection within four hours from the time of receipt of the testing result. The rapid testing method shall not be used for re-inspection."
+        },
+        "noLabel": {
+          "en": "Article 88."
+        },
+        "chapter": {
+          "en": "Chapter V Food Inspection"
+        }
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "Food production enterprises may inspect the food they produce by themselves or may entrust food inspection institutions conforming to the provisions of this Law to conduct the inspection.\nWhere food industry associations, consumers associations and other organisations or consumers need to entrust food inspection institutions with the inspection of food, they shall entrust food inspection institutions conforming to the provisions of this Law."
+        },
+        "noLabel": {
+          "en": "Article 89."
+        },
+        "chapter": {
+          "en": "Chapter V Food Inspection"
+        }
+      },
+      {
+        "no": 90,
+        "text": {
+          "en": "The inspection of food additives shall be governed by the provisions of this Law on food inspection."
+        },
+        "noLabel": {
+          "en": "Article 90."
+        },
+        "chapter": {
+          "en": "Chapter V Food Inspection"
+        }
+      },
+      {
+        "no": 91,
+        "text": {
+          "en": "The entry-exit inspection and quarantine department of the State shall exercise supervision and administration over the safety of imported and exported food."
+        },
+        "noLabel": {
+          "en": "Article 91."
+        },
+        "chapter": {
+          "en": "Chapter VI Food Import and Export"
+        }
+      },
+      {
+        "no": 92,
+        "text": {
+          "en": "Imported food, food additives and food-related products shall conform to the national food safety standards of China.\nImported food and food additives shall pass inspection by the entry-exit inspection and quarantine institution in accordance with the provisions of the relevant laws and administrative regulations on the inspection of import and export commodities.\nImported food and food additives shall be accompanied by conformity certification materials as required by the entry-exit inspection and quarantine department of the State."
+        },
+        "noLabel": {
+          "en": "Article 92."
+        },
+        "chapter": {
+          "en": "Chapter VI Food Import and Export"
+        }
+      },
+      {
+        "no": 93,
+        "text": {
+          "en": "For the import of food for which there are no national food safety standards, the overseas exporter, the overseas production enterprise or the importer entrusted by them shall submit the relevant national (regional) standards or international standards implemented to the health administrative department of the State Council. Where, after examining the relevant standards, the health administrative department of the State Council considers that the food safety requirements are met, it shall decide to apply them temporarily and promptly formulate the corresponding national food safety standards. The import of food produced from new food raw materials, or the import of new varieties of food additives or new varieties of food-related products, shall be handled in accordance with the provisions of Article 37 of this Law.\nThe entry-exit inspection and quarantine institution shall, in accordance with the requirements of the health administrative department of the State Council, inspect the food, food additives and food-related products provided in the preceding paragraph. The inspection results shall be made public."
+        },
+        "noLabel": {
+          "en": "Article 93."
+        },
+        "chapter": {
+          "en": "Chapter VI Food Import and Export"
+        }
+      },
+      {
+        "no": 94,
+        "text": {
+          "en": "Overseas exporters and overseas production enterprises shall ensure that the food, food additives and food-related products exported to China conform to the provisions of this Law and other relevant laws and administrative regulations of China and the requirements of national food safety standards, and shall be responsible for the content of labels and instructions.\nImporters shall establish an audit system for overseas exporters and overseas production enterprises, focusing on auditing the matters provided in the preceding paragraph; where the audit is not passed, the products shall not be imported.\nWhere imported food is found not to conform to the national food safety standards of China or there is evidence proving that it may endanger human health, the importer shall immediately stop importing it and recall it in accordance with the provisions of Article 63 of this Law."
+        },
+        "noLabel": {
+          "en": "Article 94."
+        },
+        "chapter": {
+          "en": "Chapter VI Food Import and Export"
+        }
+      },
+      {
+        "no": 95,
+        "text": {
+          "en": "Where a food safety incident occurring overseas may affect the territory of China, or where serious food safety problems are found in imported food, food additives or food-related products, the entry-exit inspection and quarantine department of the State shall promptly take risk warning or control measures and notify the food safety supervision and administration department, the health administrative department and the agriculture administrative department of the State Council. The departments receiving the notification shall promptly take corresponding measures.\nThe food safety supervision and administration department of people's governments at or above the county level shall exercise supervision and administration over imported food and food additives sold on the domestic market. Where serious food safety problems are found, the food safety supervision and administration department of the State Council shall promptly notify the entry-exit inspection and quarantine department of the State. The entry-exit inspection and quarantine department of the State shall promptly take corresponding measures."
+        },
+        "noLabel": {
+          "en": "Article 95."
+        },
+        "chapter": {
+          "en": "Chapter VI Food Import and Export"
+        }
+      },
+      {
+        "no": 96,
+        "text": {
+          "en": "Overseas exporters or agents exporting food to the territory of China and importers of imported food shall report to the entry-exit inspection and quarantine department of the State for the record. Overseas food production enterprises exporting food to the territory of China shall be registered with the entry-exit inspection and quarantine department of the State. Where a registered overseas food production enterprise provides false materials, or causes a major food safety accident in imported food due to its own reasons, the entry-exit inspection and quarantine department of the State shall revoke the registration and make an announcement.\nThe entry-exit inspection and quarantine department of the State shall regularly publish the list of recorded overseas exporters, agents and importers and the list of registered overseas food production enterprises."
+        },
+        "noLabel": {
+          "en": "Article 96."
+        },
+        "chapter": {
+          "en": "Chapter VI Food Import and Export"
+        }
+      },
+      {
+        "no": 97,
+        "text": {
+          "en": "Imported prepackaged food and food additives shall bear Chinese labels; where instructions are required in accordance with the law, Chinese instructions shall also be provided. The labels and instructions shall conform to the provisions of this Law and other relevant laws and administrative regulations of China and the requirements of national food safety standards, and shall state the place of origin of the food and the name, address and contact details of the domestic agent. Prepackaged food without Chinese labels or Chinese instructions, or whose labels or instructions do not conform to the provisions of this Article, shall not be imported."
+        },
+        "noLabel": {
+          "en": "Article 97."
+        },
+        "chapter": {
+          "en": "Chapter VI Food Import and Export"
+        }
+      },
+      {
+        "no": 98,
+        "text": {
+          "en": "Importers shall establish a system of records for the import and sale of food and food additives, truthfully record the names, specifications, quantities, production dates, production or import batch numbers, shelf lives, names, addresses and contact details of overseas exporters and purchasers, delivery dates and other contents of the food and food additives, and retain the relevant vouchers. The retention period for records and vouchers shall conform to the provisions of Paragraph 2 of Article 50 of this Law."
+        },
+        "noLabel": {
+          "en": "Article 98."
+        },
+        "chapter": {
+          "en": "Chapter VI Food Import and Export"
+        }
+      },
+      {
+        "no": 99,
+        "text": {
+          "en": "Production enterprises of exported food shall ensure that their exported food conforms to the standards of the importing country (region) or the requirements of the contract.\nProduction enterprises of exported food and the farms for planting and breeding raw materials of exported food shall report to the entry-exit inspection and quarantine department of the State for the record."
+        },
+        "noLabel": {
+          "en": "Article 99."
+        },
+        "chapter": {
+          "en": "Chapter VI Food Import and Export"
+        }
+      },
+      {
+        "no": 100,
+        "text": {
+          "en": "The entry-exit inspection and quarantine department of the State shall collect and summarise the following information on the safety of imported and exported food and promptly notify the relevant departments, institutions and enterprises:\n(a) food safety information found by entry-exit inspection and quarantine institutions in the inspection and quarantine of imported and exported food;\n(b) information on the safety of imported food reported by food industry associations, consumers associations and other organisations and by consumers;\n(c) risk warning information and other food safety information released by international organisations and overseas government agencies, as well as food safety information reported by overseas food industry associations and other organisations and by consumers;\n(d) other food safety information.\nThe entry-exit inspection and quarantine department of the State shall implement credit management over importers and exporters of imported and exported food and production enterprises of exported food, establish credit records and publish them to the public in accordance with the law. For importers, exporters and production enterprises of exported food with bad records, the inspection and quarantine of the food they import or export shall be strengthened."
+        },
+        "noLabel": {
+          "en": "Article 100."
+        },
+        "chapter": {
+          "en": "Chapter VI Food Import and Export"
+        }
+      },
+      {
+        "no": 101,
+        "text": {
+          "en": "The entry-exit inspection and quarantine department of the State may evaluate and review the food safety management systems and food safety situations of the countries (regions) exporting food to the territory of China and, on the basis of the evaluation and review results, determine the corresponding inspection and quarantine requirements."
+        },
+        "noLabel": {
+          "en": "Article 101."
+        },
+        "chapter": {
+          "en": "Chapter VI Food Import and Export"
+        }
+      },
+      {
+        "no": 102,
+        "text": {
+          "en": "The State Council shall organise the formulation of a national contingency plan for food safety accidents.\nLocal people's governments at or above the county level shall, in accordance with the provisions of the relevant laws and regulations, the contingency plans for food safety accidents of the people's governments at higher levels and the actual situation of their administrative regions, formulate contingency plans for food safety accidents in their administrative regions and report them to the people's governments at the next higher level for the record.\nThe contingency plans for food safety accidents shall provide for the classification of food safety accidents, the organisation, command system and duties for accident response, the prevention and early warning mechanism, the response procedures and emergency safeguard measures.\nFood production and business enterprises shall formulate plans for the handling of food safety accidents, regularly check the implementation of the various food safety precautionary measures of the enterprise and promptly eliminate hidden accident hazards."
+        },
+        "noLabel": {
+          "en": "Article 102."
+        },
+        "chapter": {
+          "en": "Chapter VII Handling of Food Safety Accidents"
+        }
+      },
+      {
+        "no": 103,
+        "text": {
+          "en": "A unit where a food safety accident occurs shall immediately take measures to prevent the accident from expanding. The unit where the accident occurs and the medical institution that receives and treats patients shall promptly report to the food safety supervision and administration department and the health administrative department of the people's government at the county level in the place where the accident occurs.\nWhere the agriculture administrative department and other departments of people's governments at or above the county level discover a food safety accident or receive a report of an accident in the course of routine supervision and administration, they shall immediately notify the food safety supervision and administration department at the same level.\nWhere a food safety accident occurs, the food safety supervision and administration department of the people's government at the county level that receives the report shall report to the people's government at the same level and the food safety supervision and administration department of the people's government at the next higher level in accordance with the provisions of the contingency plan. The people's government at the county level and the food safety supervision and administration department of the people's government at the next higher level shall report upwards in accordance with the provisions of the contingency plan.\nNo unit or individual may conceal, falsely report or delay the reporting of a food safety accident, or conceal, forge or destroy the relevant evidence."
+        },
+        "noLabel": {
+          "en": "Article 103."
+        },
+        "chapter": {
+          "en": "Chapter VII Handling of Food Safety Accidents"
+        }
+      },
+      {
+        "no": 104,
+        "text": {
+          "en": "Where a medical institution finds that a patient it receives is a patient with a food-borne disease or a suspected patient, it shall, in accordance with the provisions, promptly report the relevant information to the health administrative department of the local people's government at the county level. Where the health administrative department of the people's government at the county level considers that it is related to food safety, it shall promptly notify the food safety supervision and administration department at the same level.\nWhere the health administrative department of a people's government at or above the county level finds information related to food safety in the course of investigating and handling infectious diseases or other public health emergencies, it shall promptly notify the food safety supervision and administration department at the same level."
+        },
+        "noLabel": {
+          "en": "Article 104."
+        },
+        "chapter": {
+          "en": "Chapter VII Handling of Food Safety Accidents"
+        }
+      },
+      {
+        "no": 105,
+        "text": {
+          "en": "Upon receipt of a report of a food safety accident, the food safety supervision and administration department of a people's government at or above the county level shall immediately, together with the health administrative department, the agriculture administrative department and other departments at the same level, conduct investigation and handling and take the following measures to prevent or mitigate social harm:\n(a) carry out emergency rescue work and organise the treatment of persons suffering personal injury caused by the food safety accident;\n(b) seal up the food and its raw materials that may cause the food safety accident and immediately conduct inspection; for food and raw materials confirmed to be contaminated, order the food producers and traders to recall them or stop trading them in accordance with the provisions of Article 63 of this Law;\n(c) seal up the contaminated food-related products and order their cleaning and disinfection;\n(d) do a good job in information release, release information on the food safety accident and its handling in accordance with the law, and explain and clarify the possible harm.\nWhere a food safety accident occurs and the contingency plan needs to be activated, the people's government at or above the county level shall immediately establish a command institution for accident response, activate the contingency plan and carry out the response in accordance with the provisions of the preceding paragraph and the contingency plan.\nWhere a food safety accident occurs, the disease prevention and control institution at or above the county level shall carry out sanitary treatment at the scene of the accident and conduct an epidemiological investigation of the factors related to the accident, and the relevant departments shall provide assistance. The disease prevention and control institution at or above the county level shall submit an epidemiological investigation report to the food safety supervision and administration department and the health administrative department at the same level."
+        },
+        "noLabel": {
+          "en": "Article 105."
+        },
+        "chapter": {
+          "en": "Chapter VII Handling of Food Safety Accidents"
+        }
+      },
+      {
+        "no": 106,
+        "text": {
+          "en": "Where a food safety accident occurs, the food safety supervision and administration department of a people's government at or above the level of a city divided into districts shall immediately, together with the relevant departments, conduct an investigation into the responsibility for the accident, urge the relevant departments to perform their duties, and submit a report on the investigation and handling of the responsibility for the accident to the people's government at the same level and the food safety supervision and administration department of the people's government at the next higher level.\nMajor food safety accidents involving two or more provinces, autonomous regions or municipalities directly under the Central Government shall be investigated for responsibility by the food safety supervision and administration department of the State Council in accordance with the provisions of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 106."
+        },
+        "chapter": {
+          "en": "Chapter VII Handling of Food Safety Accidents"
+        }
+      },
+      {
+        "no": 107,
+        "text": {
+          "en": "The investigation of a food safety accident shall adhere to the principles of seeking truth from facts and respecting science, promptly and accurately ascertain the nature and causes of the accident, determine the responsibility for the accident and put forward rectification measures.\nIn investigating a food safety accident, in addition to ascertaining the responsibility of the unit where the accident occurs, the responsibility of the relevant supervision and administration departments, food inspection institutions, certification institutions and their staff shall also be ascertained."
+        },
+        "noLabel": {
+          "en": "Article 107."
+        },
+        "chapter": {
+          "en": "Chapter VII Handling of Food Safety Accidents"
+        }
+      },
+      {
+        "no": 108,
+        "text": {
+          "en": "The department investigating a food safety accident shall have the right to learn from the relevant units and individuals about the circumstances related to the accident and to require them to provide the relevant materials and samples. The relevant units and individuals shall cooperate and provide the relevant materials and samples as required, and shall not refuse.\nNo unit or individual may obstruct or interfere with the investigation and handling of a food safety accident."
+        },
+        "noLabel": {
+          "en": "Article 108."
+        },
+        "chapter": {
+          "en": "Chapter VII Handling of Food Safety Accidents"
+        }
+      },
+      {
+        "no": 109,
+        "text": {
+          "en": "The food safety supervision and administration department of a people's government at or above the county level shall, on the basis of the results of food safety risk monitoring and risk assessment and the food safety situation, determine the priorities, methods and frequency of supervision and administration and implement risk-based tiered management.\nLocal people's governments at or above the county level shall organise the food safety supervision and administration department, the agriculture administrative department and other departments at the same level to formulate the annual food safety supervision and administration plan of their administrative region, publish it to the public and organise its implementation.\nThe annual food safety supervision and administration plan shall take the following matters as the priorities of supervision and administration:\n(a) staple and supplementary foods exclusively for infants and young children and other specific population groups;\n(b) the act of adding substances in the production of health food and the organisation of production in accordance with the registered or recorded technical requirements, and the functional claims in the labels, instructions and publicity materials of health food;\n(c) food producers and traders with a relatively high risk of food safety accidents;\n(d) matters for which food safety hazards may exist as shown by the results of food safety risk monitoring."
+        },
+        "noLabel": {
+          "en": "Article 109."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supervision and Administration"
+        }
+      },
+      {
+        "no": 110,
+        "text": {
+          "en": "When performing their food safety supervision and administration duties, the food safety supervision and administration departments of people's governments at or above the county level shall have the right to take the following measures to supervise and inspect the compliance of producers and traders with this Law:\n(a) entering the production and business premises to carry out on-site inspection;\n(b) conducting sampling inspection of the food, food additives and food-related products produced and traded;\n(c) consulting and copying the relevant contracts, bills, account books and other relevant materials;\n(d) sealing up and seizing food, food additives and food-related products for which there is evidence proving that they do not conform to food safety standards or that there are potential safety hazards, as well as those used for illegal production and business;\n(e) sealing up the premises where production and business activities are illegally carried out."
+        },
+        "noLabel": {
+          "en": "Article 110."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supervision and Administration"
+        }
+      },
+      {
+        "no": 111,
+        "text": {
+          "en": "Where the results of food safety risk assessment prove that food safety hazards exist in food and food safety standards need to be formulated or revised, the health administrative department of the State Council shall, before formulating or revising the food safety standards, promptly, together with the relevant departments of the State Council, prescribe the provisional limit values of harmful substances in food and provisional inspection methods, which shall serve as the basis for production and business and for supervision and administration."
+        },
+        "noLabel": {
+          "en": "Article 111."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supervision and Administration"
+        }
+      },
+      {
+        "no": 112,
+        "text": {
+          "en": "The food safety supervision and administration department of a people's government at or above the county level may, in its food safety supervision and administration work, use the rapid testing method prescribed by the State to conduct random testing of food.\nFor food that may not conform to food safety standards as shown by the results of random testing, inspection shall be conducted in accordance with the provisions of Article 87 of this Law. Where the results of random testing determine that the food concerned does not conform to food safety standards, they may serve as the basis for administrative penalty."
+        },
+        "noLabel": {
+          "en": "Article 112."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supervision and Administration"
+        }
+      },
+      {
+        "no": 113,
+        "text": {
+          "en": "The food safety supervision and administration department of a people's government at or above the county level shall establish food safety credit files for food producers and traders, recording the issuance of licences, the results of routine supervision and inspection, the investigation and handling of illegal acts and other circumstances, publish them to the public in accordance with the law and update them in real time; it shall increase the frequency of supervision and inspection for food producers and traders with bad credit records and, for food producers and traders whose illegal acts are serious, may notify the investment competent department, the securities supervision and administration institution and the relevant financial institutions."
+        },
+        "noLabel": {
+          "en": "Article 113."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supervision and Administration"
+        }
+      },
+      {
+        "no": 114,
+        "text": {
+          "en": "Where food safety hazards exist in the food production and business process and measures have not been taken promptly to eliminate them, the food safety supervision and administration department of a people's government at or above the county level may conduct a accountability interview with the legal representative or the principal person in charge of the food producer or trader. The food producer or trader shall immediately take measures to carry out rectification and eliminate the hazards. The circumstances of the accountability interview and the rectification shall be included in the food safety credit file of the food producer or trader."
+        },
+        "noLabel": {
+          "en": "Article 114."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supervision and Administration"
+        }
+      },
+      {
+        "no": 115,
+        "text": {
+          "en": "The food safety supervision and administration department and other departments of people's governments at or above the county level shall publish the e-mail addresses or telephone numbers of their departments and accept consultations, complaints and reports. Upon receiving a consultation, complaint or report, where it falls within the duties of the department, the department shall accept it and promptly reply, verify and handle it within the statutory time limit; where it does not fall within the duties of the department, the department shall transfer it to the department with the power to handle it and notify the person making the consultation, complaint or report in writing. The department with the power to handle it shall promptly handle it within the statutory time limit and shall not shift responsibility. Rewards shall be given to persons making reports that are verified to be true.\nThe relevant departments shall keep confidential the information of persons making reports and protect their lawful rights and interests. Where a person making a report reports the enterprise to which it belongs, the enterprise shall not retaliate against the person by rescinding or modifying the labour contract or by other means."
+        },
+        "noLabel": {
+          "en": "Article 115."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supervision and Administration"
+        }
+      },
+      {
+        "no": 116,
+        "text": {
+          "en": "The food safety supervision and administration department and other departments of people's governments at or above the county level shall strengthen training of law enforcement personnel in food safety laws, regulations, standards, professional knowledge and law enforcement capacity and organise assessments. Those without the corresponding knowledge and capacity shall not engage in food safety law enforcement work.\nWhere food producers and traders, food industry associations or consumers associations find that food safety law enforcement personnel have, in the course of law enforcement, committed acts violating the provisions of laws and regulations or non-standard law enforcement acts, they may complain or report to the food safety supervision and administration department or other departments of the people's government at the same level or at a higher level or to the supervisory organ. The department or organ receiving the complaint or report shall verify it and notify the department to which the food safety law enforcement personnel belong of the verified circumstances; where a violation of law or discipline is suspected, it shall be handled in accordance with this Law and the relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 116."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supervision and Administration"
+        }
+      },
+      {
+        "no": 117,
+        "text": {
+          "en": "Where the food safety supervision and administration department and other departments of a people's government at or above the county level fail to promptly discover systemic food safety risks or fail to promptly eliminate food safety hazards within the area under their supervision and administration, the people's government at the same level may conduct an accountability interview with their principal persons in charge.\nWhere a local people's government fails to perform its food safety duties and fails to promptly eliminate major regional food safety hazards, the people's government at a higher level may conduct an accountability interview with its principal person in charge.\nThe food safety supervision and administration department and other departments and the local people's government that are interviewed shall immediately take measures to rectify their food safety supervision and administration work.\nThe circumstances of the accountability interview and the rectification shall be included in the records of review and assessment of the food safety supervision and administration work of the local people's government and the relevant departments."
+        },
+        "noLabel": {
+          "en": "Article 117."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supervision and Administration"
+        }
+      },
+      {
+        "no": 118,
+        "text": {
+          "en": "The State establishes a unified food safety information platform and implements a system of unified publication of food safety information. The overall national food safety situation, food safety risk warning information, information on major food safety accidents and their investigation and handling and other information that the State Council determines needs to be uniformly published shall be uniformly published by the food safety supervision and administration department of the State Council. Where the impact of food safety risk warning information and information on major food safety accidents and their investigation and handling is limited to a specific region, it may also be published by the food safety supervision and administration department of the people's government of the relevant province, autonomous region or municipality directly under the Central Government. The aforesaid information shall not be released without authorisation.\nThe food safety supervision and administration department and the agriculture administrative department of people's governments at or above the county level shall publish routine food safety supervision and administration information in accordance with their respective duties.\nFood safety information shall be published accurately and promptly, with the necessary explanations, so as to avoid misleading consumers and public opinion."
+        },
+        "noLabel": {
+          "en": "Article 118."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supervision and Administration"
+        }
+      },
+      {
+        "no": 119,
+        "text": {
+          "en": "Where the food safety supervision and administration department, the health administrative department or the agriculture administrative department of a local people's government at or above the county level learns of information that needs to be uniformly published as provided in this Law, it shall report to the competent department at the higher level, and the competent department at the higher level shall immediately report to the food safety supervision and administration department of the State Council; where necessary, it may report directly to the food safety supervision and administration department of the State Council.\nThe food safety supervision and administration department, the health administrative department and the agriculture administrative department of people's governments at or above the county level shall notify each other of the food safety information they have learned."
+        },
+        "noLabel": {
+          "en": "Article 119."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supervision and Administration"
+        }
+      },
+      {
+        "no": 120,
+        "text": {
+          "en": "No unit or individual may fabricate or spread false food safety information.\nWhere the food safety supervision and administration department of a people's government at or above the county level finds food safety information that may mislead consumers and public opinion, it shall immediately organise the relevant departments, professional institutions, the relevant food producers and traders and others to verify and analyse it and promptly publish the result."
+        },
+        "noLabel": {
+          "en": "Article 120."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supervision and Administration"
+        }
+      },
+      {
+        "no": 121,
+        "text": {
+          "en": "Where the food safety supervision and administration department and other departments of a people's government at or above the county level find a suspected food safety crime, they shall, in accordance with the relevant provisions, promptly transfer the case to the public security organ. For the transferred case, the public security organ shall promptly examine it; where it considers that there are facts of a crime and criminal responsibility needs to be pursued, it shall file a case for investigation.\nWhere, in the course of investigating a food safety criminal case, the public security organ considers that there are no facts of a crime, or that the facts of the crime are obviously minor and criminal responsibility need not be pursued, but administrative responsibility should be pursued in accordance with the law, it shall promptly transfer the case to the food safety supervision and administration department and other departments and the supervisory organ, and the relevant departments shall handle it in accordance with the law.\nWhere the public security organ requests the food safety supervision and administration department, the ecology and environment department and other departments to provide assistance such as inspection conclusions, identification opinions and harmless treatment of the articles involved in the case, the relevant departments shall promptly provide such assistance."
+        },
+        "noLabel": {
+          "en": "Article 121."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supervision and Administration"
+        }
+      },
+      {
+        "no": 122,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a person engages in food production and business without obtaining a food production and business licence, or engages in the production of food additives without obtaining a food additive production licence, the food safety supervision and administration department of a people's government at or above the county level shall confiscate the illegal gains and the food and food additives illegally produced or traded as well as the tools, equipment, raw materials and other articles used for illegal production and business; where the value of the food and food additives illegally produced or traded is less than RMB 10,000, a fine of not less than RMB 50,000 but not more than RMB 100,000 shall be imposed concurrently; where the value is RMB 10,000 or more, a fine of not less than 10 times but not more than 20 times the value shall be imposed concurrently.\nWhere a person, knowing that another person is committing the illegal act provided in the preceding paragraph, still provides production and business premises or other conditions for it, the food safety supervision and administration department of a people's government at or above the county level shall order it to stop the illegal act, confiscate the illegal gains and impose a fine of not less than RMB 50,000 but not more than RMB 100,000; where the lawful rights and interests of consumers are harmed, it shall bear joint and several liability together with the food or food additive producer or trader."
+        },
+        "noLabel": {
+          "en": "Article 122."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 123,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, any of the following circumstances exists and a crime is not yet constituted, the food safety supervision and administration department of a people's government at or above the county level shall confiscate the illegal gains and the food illegally produced or traded, and may confiscate the tools, equipment, raw materials and other articles used for illegal production and business; where the value of the food illegally produced or traded is less than RMB 10,000, a fine of not less than RMB 100,000 but not more than RMB 150,000 shall be imposed concurrently; where the value is RMB 10,000 or more, a fine of not less than 15 times but not more than 30 times the value shall be imposed concurrently; where the circumstances are serious, the licence shall be revoked, and the public security organ may impose detention of not less than five days but not more than fifteen days on the persons directly in charge and other persons directly responsible:\n(a) producing food from non-food raw materials, adding chemical substances other than food additives or other substances that may endanger human health to food, producing food from recycled food as raw materials, or trading the aforesaid food;\n(b) producing or trading staple and supplementary foods exclusively for infants and young children and other specific population groups whose nutritional composition does not conform to food safety standards;\n(c) trading the meat of poultry, livestock, beasts and aquatic animals that died of disease, were poisoned to death or died of unknown causes, or producing or trading products made therefrom;\n(d) trading meat that has not been quarantined as prescribed or has failed quarantine, or producing or trading meat products that have not been inspected or have failed inspection;\n(e) producing or trading food whose production and business are expressly prohibited by the State for special needs such as disease prevention;\n(f) producing or trading food to which medicines have been added.\nWhere a person, knowing that another person is committing the illegal act provided in the preceding paragraph, still provides production and business premises or other conditions for it, the food safety supervision and administration department of a people's government at or above the county level shall order it to stop the illegal act, confiscate the illegal gains and impose a fine of not less than RMB 100,000 but not more than RMB 200,000; where the lawful rights and interests of consumers are harmed, it shall bear joint and several liability together with the food producer or trader.\nWhere pesticides that are highly toxic or highly poisonous are used in violation of the law, in addition to the penalties given in accordance with the provisions of the relevant laws and regulations, the public security organ may impose detention in accordance with the provisions of Paragraph 1."
+        },
+        "noLabel": {
+          "en": "Article 123."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 124,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, any of the following circumstances exists and a crime is not yet constituted, the food safety supervision and administration department of a people's government at or above the county level shall confiscate the illegal gains and the food and food additives illegally produced or traded, and may confiscate the tools, equipment, raw materials and other articles used for illegal production and business; where the value of the food and food additives illegally produced or traded is less than RMB 10,000, a fine of not less than RMB 50,000 but not more than RMB 100,000 shall be imposed concurrently; where the value is RMB 10,000 or more, a fine of not less than 10 times but not more than 20 times the value shall be imposed concurrently; where the circumstances are serious, the licence shall be revoked:\n(a) producing or trading food or food additives in which the content of pathogenic microorganisms, pesticide residues, veterinary drug residues, biotoxins, heavy metals and other contaminants and other substances harmful to human health exceeds the limits of food safety standards;\n(b) producing food or food additives from food raw materials or food additives that have exceeded their shelf life, or trading the aforesaid food or food additives;\n(c) producing or trading food in which food additives are used beyond the permitted scope or beyond the permitted limits;\n(d) producing or trading food or food additives that are putrid and deteriorated, rancid in oil and fat, mouldy and insect-infested, filthy and unclean, mixed with foreign matter, adulterated or abnormal in sensory properties;\n(e) producing or trading food or food additives marked with false production dates or shelf lives, or that have exceeded their shelf life;\n(f) producing or trading health food, formula food for special medical purposes or formula milk powder for infants and young children that has not been registered as prescribed, or organising production not in accordance with the technical requirements such as the registered product formula and production process;\n(g) producing formula milk powder for infants and young children by way of repackaging, or the same enterprise producing formula milk powder for infants and young children of different brands using the same formula;\n(h) producing food from new food raw materials, or producing new varieties of food additives, without passing safety assessment;\n(i) food producers or traders still refusing to recall the food or stop trading it after the food safety supervision and administration department has ordered them to do so.\nExcept for the circumstances provided in the preceding paragraph and Article 123 and Article 125 of this Law, whoever produces or trades food or food additives that do not conform to laws, regulations or food safety standards shall be punished in accordance with the provisions of the preceding paragraph.\nWhoever produces new varieties of food-related products without passing safety assessment, or produces food-related products that do not conform to food safety standards, shall be punished by the food safety supervision and administration department of a people's government at or above the county level in accordance with the provisions of Paragraph 1."
+        },
+        "noLabel": {
+          "en": "Article 124."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 125,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, any of the following circumstances exists, the food safety supervision and administration department of a people's government at or above the county level shall confiscate the illegal gains and the food and food additives illegally produced or traded, and may confiscate the tools, equipment, raw materials and other articles used for illegal production and business; where the value of the food and food additives illegally produced or traded is less than RMB 10,000, a fine of not less than RMB 5,000 but not more than RMB 50,000 shall be imposed concurrently; where the value is RMB 10,000 or more, a fine of not less than 5 times but not more than 10 times the value shall be imposed concurrently; where the circumstances are serious, it shall order suspension of production and business, up to revocation of the licence:\n(a) producing or trading food or food additives contaminated by packaging materials, containers, means of transport or the like;\n(b) producing or trading prepackaged food or food additives without labels, or food or food additives whose labels or instructions do not conform to the provisions of this Law;\n(c) producing or trading genetically modified food that is not marked as prescribed;\n(d) food producers or traders purchasing or using food raw materials, food additives or food-related products that do not conform to food safety standards.\nWhere the labels or instructions of the food or food additives produced or traded have defects that do not affect food safety and will not mislead consumers, the food safety supervision and administration department of a people's government at or above the county level shall order correction; where correction is refused, a fine of not more than RMB 2,000 shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 125."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 126,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, any of the following circumstances exists, the food safety supervision and administration department of a people's government at or above the county level shall order correction and give a warning; where correction is refused, a fine of not less than RMB 5,000 but not more than RMB 50,000 shall be imposed; where the circumstances are serious, it shall order suspension of production and business, up to revocation of the licence:\n(a) producers of food or food additives failing to inspect the purchased food raw materials and the food or food additives produced as prescribed;\n(b) food production and business enterprises failing to establish food safety management systems as prescribed, or failing to be staffed with, train or assess food safety management personnel as prescribed;\n(c) producers or traders of food or food additives failing to check licences and relevant certification documents at the time of purchase, or failing to establish and observe the systems of records for purchase inspection, ex-factory inspection and sales as prescribed;\n(d) food production and business enterprises failing to formulate plans for the handling of food safety accidents;\n(e) tableware, drinking vessels and containers holding food for direct consumption not being washed and disinfected before use, or the washing and disinfection not being up to standard, or catering service facilities and equipment not being regularly maintained, cleaned and calibrated as prescribed;\n(f) food producers or traders arranging persons who have not obtained health certificates or who suffer from diseases that hinder food safety as prescribed by the health administrative department of the State Council to engage in work that involves contact with food for direct consumption;\n(g) food traders failing to sell food in accordance with the prescribed requirements;\n(h) production enterprises of health food failing to report to the food safety supervision and administration department for the record as prescribed, or failing to organise production in accordance with the technical requirements such as the recorded product formula and production process;\n(i) production enterprises of formula food for infants and young children failing to report food raw materials, food additives, product formula and labels to the food safety supervision and administration department for the record;\n(j) production enterprises of special food failing to establish and effectively operate a production quality management system as prescribed, or failing to submit self-inspection reports regularly;\n(k) food producers or traders failing to regularly inspect and evaluate the food safety situation, or failing to handle changes in production and business conditions as prescribed;\n(l) units providing centralised meals such as schools, nursery institutions, elderly care institutions and construction sites failing to perform their food safety management responsibilities as prescribed;\n(m) food production enterprises or catering service providers failing to formulate and implement control requirements for the production and business process as prescribed.\nWhere a centralised tableware and drinking vessel disinfection service unit uses water, detergents or disinfectants in violation of the provisions of this Law, or the tableware and drinking vessels leaving the factory have not passed inspection as prescribed and are not accompanied by a disinfection conformity certificate, or the relevant contents are not marked on the independent packaging as prescribed, the health administrative department of a people's government at or above the county level shall impose a penalty in accordance with the provisions of the preceding paragraph.\nWhere a producer of food-related products fails to inspect the food-related products it produces as prescribed, the food safety supervision and administration department of a people's government at or above the county level shall impose a penalty in accordance with the provisions of Paragraph 1.\nWhere a seller of edible agricultural products violates the provisions of Article 65 of this Law, the food safety supervision and administration department of a people's government at or above the county level shall impose a penalty in accordance with the provisions of Paragraph 1."
+        },
+        "noLabel": {
+          "en": "Article 126."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 127,
+        "text": {
+          "en": "Penalties for illegal acts of small food production and processing workshops, food vendors and the like shall be executed in accordance with the specific administrative measures formulated by the province, autonomous region or municipality directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 127."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 128,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, the unit where a food safety accident occurs fails to handle or report the accident after it occurs, the relevant competent departments shall, according to the division of their respective duties, order correction and give a warning; where the relevant evidence is concealed, forged or destroyed, it shall order suspension of production and business, confiscate the illegal gains and impose a fine of not less than RMB 100,000 but not more than RMB 500,000; where serious consequences are caused, the licence shall be revoked."
+        },
+        "noLabel": {
+          "en": "Article 128."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 129,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, any of the following circumstances exists, the entry-exit inspection and quarantine institution shall impose a penalty in accordance with the provisions of Article 124 of this Law:\n(a) providing false materials to import food, food additives or food-related products that do not conform to the national food safety standards of China;\n(b) importing food for which there are no national food safety standards without submitting the standards implemented and having them examined by the health administrative department of the State Council, or importing food produced from new food raw materials or new varieties of food additives or new varieties of food-related products without passing safety assessment;\n(c) failing to observe the provisions of this Law in exporting food;\n(d) the importer still refusing to recall the imported food after the relevant competent department has ordered it to do so in accordance with the provisions of this Law.\nWhere, in violation of the provisions of this Law, an importer fails to establish and observe the system of records for the import and sale of food and food additives or the audit system for overseas exporters or production enterprises, the entry-exit inspection and quarantine institution shall impose a penalty in accordance with the provisions of Article 126 of this Law."
+        },
+        "noLabel": {
+          "en": "Article 129."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 130,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, the operator of a centralised trading market, the lessor of counters or the organiser of a trade fair allows food traders that have not obtained a licence in accordance with the law to enter the market to sell food, or fails to perform obligations such as inspection and reporting, the food safety supervision and administration department of a people's government at or above the county level shall order correction, confiscate the illegal gains and impose a fine of not less than RMB 50,000 but not more than RMB 200,000; where serious consequences are caused, it shall order suspension of business, up to revocation of the licence by the original licensing department; where the lawful rights and interests of consumers are harmed, it shall bear joint and several liability together with the food traders.\nWhere a wholesale market for edible agricultural products violates the provisions of Article 64 of this Law, it shall bear responsibility in accordance with the provisions of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 130."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 131,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a third-party platform provider for online food transactions fails to register the real identities of food traders on the platform, examine their licences, or perform obligations such as reporting and stopping the provision of online trading platform services, the food safety supervision and administration department of a people's government at or above the county level shall order correction, confiscate the illegal gains and impose a fine of not less than RMB 50,000 but not more than RMB 200,000; where serious consequences are caused, it shall order suspension of business, up to revocation of the licence by the original licensing department; where the lawful rights and interests of consumers are harmed, it shall bear joint and several liability together with the food traders.\nWhere a consumer purchases food through a third-party platform for online food transactions and its lawful rights and interests are harmed, it may claim compensation from the food trader on the platform or the food producer. Where the third-party platform provider for online food transactions cannot provide the true name, address and valid contact details of the food trader on the platform, it shall make compensation. After making compensation, the third-party platform provider for online food transactions shall have the right of recourse against the food trader on the platform or the food producer. Where a third-party platform provider for online food transactions has made commitments more favourable to consumers, it shall honour its commitments."
+        },
+        "noLabel": {
+          "en": "Article 131."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 132,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, food is stored, transported, loaded or unloaded without meeting the requirements, the food safety supervision and administration department and other departments of a people's government at or above the county level shall, according to the division of their respective duties, order correction and give a warning; where correction is refused, it shall order suspension of production and business and impose a fine of not less than RMB 10,000 but not more than RMB 50,000; where the circumstances are serious, the licence shall be revoked."
+        },
+        "noLabel": {
+          "en": "Article 132."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 133,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a person refuses, obstructs or interferes with the supervision and inspection of food safety, investigation and handling of accidents, risk monitoring and risk assessment carried out by the relevant departments, institutions and their staff in accordance with the law, the relevant competent departments shall, according to the division of their respective duties, order suspension of production and business and impose a fine of not less than RMB 2,000 but not more than RMB 50,000; where the circumstances are serious, the licence shall be revoked; where an act in violation of public security administration is constituted, the public security organ shall impose a penalty for public security administration in accordance with the law.\nWhere, in violation of the provisions of this Law, a person retaliates against a person making a report by rescinding or modifying the labour contract or by other means, it shall bear responsibility in accordance with the provisions of the relevant laws."
+        },
+        "noLabel": {
+          "en": "Article 133."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 134,
+        "text": {
+          "en": "Where a food producer or trader has been penalised three times cumulatively within one year for violating the provisions of this Law, by penalties other than an order to suspend production and business or revocation of the licence, the food safety supervision and administration department shall order it to suspend production and business, up to revocation of the licence."
+        },
+        "noLabel": {
+          "en": "Article 134."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 135,
+        "text": {
+          "en": "Food producers and traders whose licences have been revoked as well as their legal representatives, persons directly in charge and other persons directly responsible shall not apply for a food production and business licence, engage in food production and business management work, or serve as food safety management personnel of food production and business enterprises within five years from the date of the decision on the penalty.\nWhoever is sentenced to fixed-term imprisonment or a heavier punishment for a food safety crime shall be prohibited for life from engaging in food production and business management work or serving as food safety management personnel of a food production and business enterprise.\nWhere a food producer or trader employs persons in violation of the provisions of the preceding two paragraphs, the food safety supervision and administration department of a people's government at or above the county level shall revoke its licence."
+        },
+        "noLabel": {
+          "en": "Article 135."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 136,
+        "text": {
+          "en": "Where a food trader has performed the obligations provided in this Law such as purchase inspection, has sufficient evidence to prove that it did not know that the food purchased did not conform to food safety standards, and can truthfully explain the source of its purchase, it may be exempted from penalty, but the food that does not conform to food safety standards shall be confiscated in accordance with the law; where personal, property or other damage is caused, it shall bear the liability for compensation in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 136."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 137,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a technical institution or technical personnel undertaking food safety risk monitoring or risk assessment work provides false monitoring or assessment information, the persons directly in charge of the technical institution and the technical personnel shall be given the sanction of removal from office or dismissal in accordance with the law; where they hold practising qualifications, the competent department that granted the qualifications shall revoke their practising certificates."
+        },
+        "noLabel": {
+          "en": "Article 137."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 138,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a food inspection institution or food inspector issues a false inspection report, the competent department or institution that granted its qualification shall revoke the inspection qualification of the food inspection institution, confiscate the inspection fees collected and impose a fine of not less than 5 times but not more than 10 times the inspection fees; where the inspection fees are less than RMB 10,000, a fine of not less than RMB 50,000 but not more than RMB 100,000 shall be imposed concurrently; the persons directly in charge of the food inspection institution and the food inspectors shall be given the sanction of removal from office or dismissal in accordance with the law; where a major food safety accident is caused, the persons directly in charge and the food inspectors shall be given the sanction of dismissal.\nWhere, in violation of the provisions of this Law, a person of a food inspection institution who has been given the sanction of dismissal shall not engage in food inspection work within ten years from the date of the decision on the sanction; where a person of a food inspection institution has been subject to criminal punishment for an illegal food safety act, or has been given the sanction of dismissal for issuing a false inspection report that caused a major food safety accident, that person shall be prohibited for life from engaging in food inspection work. Where a food inspection institution employs a person who is prohibited from engaging in food inspection work, the competent department or institution that granted its qualification shall revoke the inspection qualification of the food inspection institution.\nWhere a food inspection institution issues a false inspection report and thereby harms the lawful rights and interests of consumers, it shall bear joint and several liability together with the food producer or trader."
+        },
+        "noLabel": {
+          "en": "Article 138."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 139,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a certification institution issues a false certification conclusion, the certification and accreditation supervision and administration department shall confiscate the certification fees collected and impose a fine of not less than 5 times but not more than 10 times the certification fees; where the certification fees are less than RMB 10,000, a fine of not less than RMB 50,000 but not more than RMB 100,000 shall be imposed concurrently; where the circumstances are serious, it shall order suspension of business, up to revocation of the approval document of the certification institution, and make an announcement to the public; the practising qualifications of the persons directly in charge and the certification personnel directly responsible shall be revoked.\nWhere a certification institution issues a false certification conclusion and thereby harms the lawful rights and interests of consumers, it shall bear joint and several liability together with the food producer or trader."
+        },
+        "noLabel": {
+          "en": "Article 139."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 140,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a person makes false publicity about food in advertisements to deceive consumers, or publishes advertisements for health food that have not obtained approval documents or whose contents are inconsistent with the approval documents, a penalty shall be imposed in accordance with the provisions of the Advertisement Law of the People's Republic of China.\nWhere an advertisement operator or publisher designs, produces or publishes false food advertisements and thereby harms the lawful rights and interests of consumers, it shall bear joint and several liability together with the food producer or trader.\nWhere a social group or other organisation or individual recommends food to consumers in false advertisements or other false publicity and thereby harms the lawful rights and interests of consumers, it shall bear joint and several liability together with the food producer or trader.\nWhere, in violation of the provisions of this Law, the food safety supervision and administration department and other departments, food inspection institutions or food industry associations recommend food to consumers by means of advertisements or in other forms, or consumer organisations recommend food to consumers by charging fees or by other means of seeking benefits, the relevant competent departments shall confiscate the illegal gains and give the persons directly in charge and other persons directly responsible the sanction of recording a major demerit, demotion or removal from office in accordance with the law; where the circumstances are serious, the sanction of dismissal shall be given.\nWhere false publicity is made about food and the circumstances are serious, the food safety supervision and administration department of a people's government at or above the provincial level shall decide to suspend the sale of the food and make an announcement to the public; where the food is still sold, the food safety supervision and administration department of a people's government at or above the county level shall confiscate the illegal gains and the food illegally sold and impose a fine of not less than RMB 20,000 but not more than RMB 50,000."
+        },
+        "noLabel": {
+          "en": "Article 140."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 141,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a person fabricates or spreads false food safety information, constituting an act in violation of public security administration, the public security organ shall impose a penalty for public security administration in accordance with the law.\nWhere the media fabricate or spread false food safety information, the relevant competent department shall impose a penalty in accordance with the law and give a sanction to the persons directly in charge and other persons directly responsible; where the lawful rights and interests of citizens, legal persons or other organisations are harmed, civil liability such as eliminating the adverse effect, rehabilitating reputation, compensating for losses and making an apology shall be borne in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 141."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 142,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a local people's government at or above the county level commits any of the following acts, the persons directly in charge and other persons directly responsible shall be given the sanction of recording a major demerit; where the circumstances are relatively serious, the sanction of demotion or removal from office shall be given; where the circumstances are serious, the sanction of dismissal shall be given; where serious consequences are caused, the principal persons in charge shall also resign to take responsibility:\n(a) failing to promptly organise and coordinate the relevant departments to carry out effective response to a food safety accident occurring within its administrative region, causing an adverse impact or loss;\n(b) failing to promptly organise rectification of a regional food safety problem involving multiple links within its administrative region, causing an adverse impact or loss;\n(c) concealing, falsely reporting or delaying the reporting of a food safety accident;\n(d) an especially major food safety accident occurring within its administrative region, or major food safety accidents occurring successively."
+        },
+        "noLabel": {
+          "en": "Article 142."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 143,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a local people's government at or above the county level commits any of the following acts, the persons directly in charge and other persons directly responsible shall be given the sanction of a warning, recording a demerit or recording a major demerit; where serious consequences are caused, the sanction of demotion or removal from office shall be given:\n(a) failing to determine the food safety supervision and administration duties of the relevant departments, failing to establish and improve the working mechanisms for whole-process food safety supervision and administration and for information sharing, or failing to implement the responsibility system for food safety supervision and administration;\n(b) failing to formulate the contingency plan for food safety accidents of its administrative region, or failing to immediately establish a command institution for accident response and activate the contingency plan as prescribed after a food safety accident occurs."
+        },
+        "noLabel": {
+          "en": "Article 143."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 144,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, the food safety supervision and administration department, the health administrative department, the agriculture administrative department or another department of a people's government at or above the county level commits any of the following acts, the persons directly in charge and other persons directly responsible shall be given the sanction of recording a major demerit; where the circumstances are relatively serious, the sanction of demotion or removal from office shall be given; where the circumstances are serious, the sanction of dismissal shall be given; where serious consequences are caused, the principal persons in charge shall also resign to take responsibility:\n(a) concealing, falsely reporting or delaying the reporting of a food safety accident;\n(b) failing to investigate and handle a food safety accident as prescribed, or failing to promptly handle a report of a food safety accident, causing the accident to expand or spread;\n(c) failing to promptly take corresponding measures after food safety risk assessment leads to the conclusion that food, food additives or food-related products are unsafe, causing a food safety accident or an adverse social impact;\n(d) granting a licence to an applicant that does not meet the conditions, or granting a licence beyond the statutory functions and powers;\n(e) failing to perform food safety supervision and administration duties, resulting in a food safety accident."
+        },
+        "noLabel": {
+          "en": "Article 144."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 145,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, the food safety supervision and administration department, the health administrative department, the agriculture administrative department or another department of a people's government at or above the county level commits any of the following acts and causes adverse consequences, the persons directly in charge and other persons directly responsible shall be given the sanction of a warning, recording a demerit or recording a major demerit; where the circumstances are relatively serious, the sanction of demotion or removal from office shall be given; where the circumstances are serious, the sanction of dismissal shall be given:\n(a) failing to report to the competent department at the higher level and the people's government at the same level as prescribed, or failing to notify each other as prescribed, after learning of the relevant food safety information;\n(b) failing to publish food safety information as prescribed;\n(c) failing to perform statutory duties, failing to cooperate in the investigation and handling of illegal food safety acts, or abusing their functions and powers, derelicting their duties or engaging in malpractice for personal gain."
+        },
+        "noLabel": {
+          "en": "Article 145."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 146,
+        "text": {
+          "en": "Where, in the course of performing food safety supervision and administration duties, the food safety supervision and administration department and other departments illegally implement law enforcement measures such as inspection and compulsion and cause losses to producers and traders, they shall make compensation in accordance with the law, and the persons directly in charge and other persons directly responsible shall be given a sanction in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 146."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 147,
+        "text": {
+          "en": "Where personal, property or other damage is caused in violation of the provisions of this Law, the liability for compensation shall be borne in accordance with the law. Where the property of a producer or trader is insufficient to concurrently bear civil compensation liability and pay a fine or penalty, the civil compensation liability shall be borne first."
+        },
+        "noLabel": {
+          "en": "Article 147."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 148,
+        "text": {
+          "en": "Where a consumer suffers damage from food that does not conform to food safety standards, it may claim compensation for losses from the trader or claim compensation for losses from the producer. The producer or trader receiving the consumer's claim for compensation shall implement the system of first responsibility, make compensation first and shall not shift responsibility; where the responsibility lies with the producer, the trader shall have the right of recourse against the producer after making compensation; where the responsibility lies with the trader, the producer shall have the right of recourse against the trader after making compensation.\nWhere food that does not conform to food safety standards is produced, or food that is known not to conform to food safety standards is traded, the consumer may, in addition to claiming compensation for losses, claim compensation from the producer or trader of ten times the price paid or three times the losses; where the additional compensation is less than RMB 1,000, it shall be RMB 1,000. However, this does not apply where the labels or instructions of the food have defects that do not affect food safety and will not mislead consumers."
+        },
+        "noLabel": {
+          "en": "Article 148."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 149,
+        "text": {
+          "en": "Where a violation of the provisions of this Law constitutes a crime, criminal responsibility shall be pursued in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 149."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 150,
+        "text": {
+          "en": "The meanings of the following terms in this Law are as follows:\nFood means various finished products and raw materials for human consumption or drinking as well as articles that are traditionally both food and Chinese medicinal materials, but does not include articles used for therapeutic purposes.\nFood safety means that food is non-toxic and harmless, conforms to the nutritional requirements it should have, and does not cause any acute, subacute or chronic harm to human health.\nPrepackaged food means food prepackaged in fixed quantities or made up in packaging materials or containers.\nFood additive means synthetically produced or natural substances added to food for the purpose of improving food quality, colour, aroma and taste as well as for the needs of preservation, antistaling and processing techniques, including nutritional fortifiers.\nPackaging materials and containers used for food mean products made of paper, bamboo, wood, metal, enamel, ceramics, plastics, rubber, natural fibres, chemical fibres, glass and the like used for packaging or holding food or food additives, and coatings that come into direct contact with food or food additives.\nTools and equipment used for food production and business mean machinery, pipes, conveyor belts, containers, implements and tableware that come into direct contact with food or food additives in the course of the production, sale and use of food or food additives.\nDetergents and disinfectants used for food mean substances used directly for washing or disinfecting food, tableware, drinking vessels and tools and equipment that come into direct contact with food, or food packaging materials and containers.\nShelf life of food means the period during which food maintains its quality under the marked storage conditions.\nFood-borne disease means infectious, toxic and other diseases caused by pathogenic factors in food entering the human body, including food poisoning.\nFood safety accident means an accident arising from food, such as food-borne disease or food contamination, that harms or may harm human health."
+        },
+        "noLabel": {
+          "en": "Article 150."
+        },
+        "chapter": {
+          "en": "Chapter X Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-LAW-0260'] = {
     "lawId": "CN-LAW-0260",
     "sourceLang": "zh",
@@ -32541,6 +34317,3057 @@
         },
         "chapter": {
           "en": "Chapter VII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0278'] = {
+    "lawId": "CN-LAW-0278",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 127 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is enacted in order to strengthen the safety management of hazardous chemicals, prevent and reduce hazardous chemical accidents, safeguard the health, life safety and property safety of the people, and protect the ecological environment."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "This Law applies to the safety management of the production, storage, use, business operation and transport of hazardous chemicals.\nThe disposal of waste hazardous chemicals shall be carried out in accordance with the laws and administrative regulations on ecological and environmental protection and the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "For the purposes of this Law, hazardous chemicals means highly toxic chemicals and other chemicals that are toxic, corrosive, explosive, flammable or combustion-supporting in nature and are hazardous to persons, facilities and the ecological environment.\nThe State establishes and improves a system of administration of the catalogue of hazardous chemicals. The catalogue of hazardous chemicals shall be determined and published, and adjusted in due course, by the emergency management department of the State Council jointly with the departments of industry and information technology, public security, ecology and environment, transport, agriculture and rural affairs, health, customs, market regulation, railways and civil aviation, in accordance with the standards for the identification and classification of the hazardous characteristics of chemicals."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Work on the safety management of hazardous chemicals shall uphold the leadership of the Communist Party of China.\nWork on the safety management of hazardous chemicals shall adhere to the principle that the people come first and life is paramount, implement the holistic approach to national security, coordinate development and safety, adhere to the policy of safety first, prevention oriented and comprehensive treatment, and prevent and defuse major safety risks at the source.\nWork on the safety management of hazardous chemicals shall implement the requirement that those who administer an industry must administer safety, those who administer a business must administer safety, and those who administer production and business operations must administer safety, strengthen and implement the principal responsibility of units and the regulatory responsibility of the government, and establish a mechanism under which units are responsible, employees participate, the government supervises, the industry exercises self-discipline and the public supervises."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Enterprises, schools, scientific research institutions, medical institutions, testing institutions, inspection institutions and other units (hereinafter collectively referred to as hazardous chemical units) that produce, store, use, deal in or transport hazardous chemicals shall implement a work safety responsibility system for all personnel, build a dual prevention mechanism of tiered control of safety risks and investigation and treatment of hidden dangers, and strengthen the standardisation and informatisation of work safety, and their principal persons in charge shall be fully responsible for the work safety of hazardous chemicals in their units.\nHazardous chemical units shall have the safety conditions prescribed by laws, administrative regulations and the requirements of national standards and industry standards, establish and improve safety management rules and regulations and a system of post-based safety responsibility, provide work safety education and training to employees, provide employees with labour protection articles meeting national or industry standards, and participate in work injury insurance in accordance with law. Employees shall receive education and training and may work only after passing assessment; for posts with qualification requirements, personnel who have obtained the corresponding qualifications in accordance with law shall be provided."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "No unit or individual may produce, use or deal in hazardous chemicals whose production, use or business operation is prohibited by the State.\nWhere the State has restrictive provisions on the use of hazardous chemicals, no unit or individual may use hazardous chemicals in violation of those restrictive provisions."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The relevant departments that implement safety supervision and administration over the production, storage, use, business operation and transport of hazardous chemicals (hereinafter collectively referred to as the departments responsible for the supervision and administration of hazardous chemical safety) shall perform their duties in accordance with the following provisions:\n(a) the emergency management departments shall be responsible for the supervision and administration of work safety in the production of hazardous chemicals and for the comprehensive work of supervision and administration of hazardous chemical safety, organise the determination, publication and adjustment of the catalogue of hazardous chemicals, conduct in accordance with law the review of safety conditions and the review of the design of safety facilities for construction projects for the new construction, reconstruction or expansion of facilities producing or storing hazardous chemicals (including the use of long-distance pipelines to transport hazardous chemicals, the same below) (hereinafter collectively referred to as hazardous chemical construction projects), issue hazardous chemical work safety licences, hazardous chemical safe use licences and hazardous chemical business licences, and be responsible for hazardous chemical registration and for organising emergency handling of hazardous chemical accidents.\n(b) the public security organs shall be responsible for the public security management of hazardous chemicals, issue highly toxic chemical purchase permits and highly toxic chemical road transport passes, be responsible for permission for vehicles transporting hazardous chemicals to enter areas where the passage of hazardous chemical transport vehicles is restricted, and be responsible for the road traffic safety management of hazardous chemical transport vehicles.\n(c) the market regulation departments shall be responsible for implementing industrial product production licence management and product quality supervision over hazardous chemicals and their packaging and containers (including tank bodies, excluding fixed large storage tanks for storing hazardous chemicals, the same below) that are included in the catalogue of industrial products subject to production licence management, and for issuing business licences to enterprises producing, storing, dealing in or transporting hazardous chemicals.\n(d) the competent departments of ecology and environment shall be responsible for the supervision and administration of the disposal of waste hazardous chemicals, organise the identification of the ecological and environmental hazards of hazardous chemicals and the assessment of the degree of ecological and environmental risk, be responsible for the environmental management registration of new chemical substances, investigate environmental pollution accidents and ecological damage incidents involving the relevant hazardous chemicals in accordance with the division of duties, and be responsible for emergency monitoring of the ecological environment at the scene of hazardous chemical accidents.\n(e) the competent departments of transport shall be responsible for the safety supervision and administration of road and waterway transport activities involving hazardous chemicals, for the licensing or filing of road and waterway transport of hazardous chemicals and for the safety supervision and administration of means of transport, and for the qualification recognition of drivers, seafarers, loading and unloading managers, escorts, declarants and container packing on-site inspectors of road and waterway transport enterprises transporting hazardous chemicals. The railway regulatory departments shall be responsible for the safety supervision and administration of railway transport of hazardous chemicals and of the means of transport. The competent departments of civil aviation shall be responsible for the safety supervision and administration of air transport of hazardous chemicals and of air transport enterprises and their means of transport. The postal administration departments shall be responsible for investigating and dealing with, in accordance with law, the posting and delivery of hazardous chemicals.\n(f) the competent departments of health shall be responsible for the administration of toxicity identification of hazardous chemicals, for the supervision and administration of occupational health in hazardous chemical units, and for organising and coordinating medical and health rescue of persons injured in hazardous chemical accidents.\n(g) the competent departments of natural resources shall, when preparing territorial spatial plans, incorporate the relevant content such as hazardous chemical construction projects, chemical industrial parks, special areas for storing hazardous chemicals and the surrounding safety control distances into the local territorial spatial plans in accordance with the procedures, and supervise the implementation of the plans.\n(h) the competent departments of industry and information technology shall, in accordance with their duties, be responsible for the industry plans and layout for the production and storage of hazardous chemicals, organise the formulation of construction standards and measures for the recognition and administration of chemical industrial parks, and promote the withdrawal of backward processes and production capacity.\n(i) customs shall be responsible for inspecting, in accordance with law, imported and exported hazardous chemicals and their packaging.\n(j) other departments shall perform their duties of supervision and administration of hazardous chemical safety in accordance with their respective duties.\nWhere, in connection with an emerging industry or field, the responsibility for supervision and administration of hazardous chemical safety is unclear, the people's government at or above the county level shall promptly determine the supervisory and administrative department in accordance with the principle of similarity of business."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The departments responsible for the supervision and administration of hazardous chemical safety may, when conducting supervision and inspection in accordance with law, adopt the following measures:\n(a) enter hazardous chemical operation sites to conduct on-site inspection, ascertain the circumstances from the relevant units and persons, consult and copy the relevant documents and materials, and where necessary conduct sampling tests on hazardous chemicals;\n(b) use information-based means to carry out online patrol and spot checks of the major hazard installations of hazardous chemical units;\n(c) where hidden dangers of hazardous chemical accidents are discovered, order their elimination immediately or within a time limit;\n(d) where facilities, equipment, devices, apparatus, means of transport and the like do not comply with the provisions of laws, administrative regulations or rules or the requirements of national or industry standards, order their immediate suspension of use;\n(e) with the approval of the principal person in charge of the department, seal up the sites where hazardous chemicals are produced, stored, used or dealt in illegally, and detain the hazardous chemicals illegally produced, stored, used, dealt in or transported, as well as the raw materials, equipment and means of transport used for the illegal production, use or transport of hazardous chemicals;\n(f) where illegal acts affecting hazardous chemical safety are discovered, correct them on the spot or order correction within a time limit.\nWhere the departments responsible for the supervision and administration of hazardous chemical safety conduct supervision and inspection in accordance with law, there shall be not fewer than two supervisory and inspection personnel, who shall produce their law enforcement certificates; the relevant units and individuals shall cooperate with supervision and inspection conducted in accordance with law, and may not refuse or obstruct it."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "People's governments at or above the county level shall establish a coordination mechanism for the supervision and administration of hazardous chemical safety, support and urge the departments responsible for the supervision and administration of hazardous chemical safety to perform their duties in accordance with law, and coordinate and resolve major issues in such supervision and administration.\nThe departments responsible for the supervision and administration of hazardous chemical safety shall strengthen regulatory cooperation and joint law enforcement, coordinate and cooperate closely, achieve timely, full and effective information sharing, and strengthen the supervision and administration of hazardous chemical safety in accordance with law. Where illegal acts that ought to be handled by another department in accordance with law are discovered, they shall be promptly referred to that department for handling."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Every unit and individual has the right to report or complain to the departments responsible for the supervision and administration of hazardous chemical safety about acts in violation of the provisions of this Law or about hidden dangers of accidents. People's governments at or above the county level and their relevant departments shall, in accordance with law, reward persons who have performed meritorious service in reporting illegal acts or reporting major hidden dangers of accidents, and shall keep the information of reporters and complainants strictly confidential."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The departments of people's governments at or above the county level responsible for the supervision and administration of hazardous chemical safety shall strengthen information-based supervision of hazardous chemicals and implement electronic identification and whole-life-cycle information-based management and monitoring of hazardous chemicals.\nChemical industrial parks shall clarify the relevant working bodies responsible for the supervision and administration of work safety and their duties, strengthen the information-based development of hazardous chemicals, achieve information-based safety monitoring, surveillance and early warning, and achieve interconnection with the relevant government departments."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The State encourages hazardous chemical units to adopt advanced technologies, processes, equipment and automatic control systems conducive to raising the level of safety guarantee, and encourages specialised storage, unified distribution and centralised sales of hazardous chemicals."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Units that produce, store, use or deal in hazardous chemicals shall, in accordance with the relevant provisions of the State, register and establish archives for major hazard installations of hazardous chemicals, conduct periodic testing, assessment and monitoring, formulate contingency plans, establish a safety responsibility system for major hazard installations, and file the storage quantities, storage locations and information on management personnel of the major hazard installations and the relevant safety and emergency measures with the emergency management department, the fire and rescue agency and the relevant departments of the county-level people's government of the place where they are located; where the hazardous chemicals are stored within a port area, they shall be filed with the port administrative department, the fire and rescue agency and the relevant departments.\nThe departments responsible for the supervision and administration of hazardous chemical safety shall carry out periodic special supervision and inspection of major hazard installations of hazardous chemicals by grade and category, urge hazardous chemical units to promptly eliminate hidden dangers of accidents, and prevent the occurrence of serious and extraordinarily serious accidents.\nFor the purposes of this Law, major hazard installation means a unit (including sites and facilities) in which hazardous chemicals are produced, stored, used and dealt in on a long-term or temporary basis and in which the quantity of hazardous chemicals equals or exceeds the threshold quantity."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "People's governments at all levels and their relevant departments shall adopt various forms to strengthen the popularisation of laws and regulations on hazardous chemical safety and of knowledge of hazardous chemical safety, and promote the enhancement of society-wide awareness of hazardous chemical safety.\nChemical industrial parks and hazardous chemical units shall carry out publicity on laws and regulations on hazardous chemical safety and on knowledge of hazardous chemical safety for the surrounding people and other producers and operators.\nThe news media shall carry out public-interest publicity on laws and regulations on hazardous chemical safety and on knowledge of hazardous chemical safety, and exercise public opinion supervision over illegal acts concerning hazardous chemical safety."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Units and individuals that make outstanding contributions to hazardous chemical safety work shall be commended and rewarded in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The State applies overall planning and rational layout to the production and storage of hazardous chemicals.\nThe competent department of industry and information technology of the State Council and other relevant departments of the State Council shall, in accordance with their respective duties, be responsible for the industry plans and layout for the production and storage of hazardous chemicals.\nWhen local people's governments organise the preparation of territorial spatial plans, they shall, in light of the actual conditions of their regions and in accordance with the principle of ensuring safety, plan appropriate areas (including chemical industrial parks) to be dedicated to the production and storage of hazardous chemicals."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Planning and Layout"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Chemical industrial parks shall be recognised and published, and periodically reviewed, by the people's governments of provinces, autonomous regions and municipalities directly under the Central Government or by departments authorised by them.\nThe people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall rationally develop chemical industrial parks, organise assessments and demonstrations of the safety risk levels of chemical industrial parks, and establish and implement control measures.\nChemical industrial parks shall exercise dynamic supervision over all hazardous chemicals entering and leaving the park, and implement risk monitoring and early warning for enterprises, key sites, major hazard installations and infrastructure within the park."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Planning and Layout"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Construction projects for the new construction or expansion of hazardous chemical production shall be located within chemical industrial parks, except for projects constructed together with production facilities of other industries and other projects conforming to the provisions of the State.\nApart from enterprises providing supporting services to chemical enterprises, non-chemical enterprises are prohibited from entering chemical industrial parks."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Planning and Layout"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "A chemical industrial park shall carry out an overall safety risk assessment at least once every three years, propose countermeasures for eliminating, reducing and controlling safety risks, and implement them effectively.\nWhere the variety, quantity or layout of hazardous chemicals in a chemical industrial park changes and the risk control conditions of the park need to be adjusted in accordance with the relevant provisions of the State, a new overall safety risk assessment of the park shall be organised promptly and the relevant contingency plans shall be revised."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Planning and Layout"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "A chemical industrial park shall maintain a safety distance from urban built-up areas, places with concentrated populations, important facilities, sensitive targets and the like that complies with the relevant laws and regulations and the requirements of national standards.\nA chemical industrial park shall, in accordance with the relevant laws and regulations and the requirements of national standards, draft a planned safety control line around the park and submit it to the people's government at the level of city divided into districts of the place where the park is located or to a department authorised by it for determination, after which it shall be incorporated into the local territorial spatial plan in accordance with the procedures.\nThe competent departments of natural resources of the people's governments at the levels of city divided into districts and of county of the place where a chemical industrial park is located shall strictly control land development and utilisation within the planned safety control line around the park, and construction projects within the scope of the planned safety control line shall meet the requirements of safety risk control."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Planning and Layout"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Local people's governments at or above the county level shall strengthen the guarantee of safety for the transport of hazardous chemicals, and make plans for logistics parks and centralised parking areas involving the storage, loading and unloading and transport of hazardous chemicals, as well as petrol stations and gas filling stations in expressway service areas."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Planning and Layout"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The safety distance between a hazardous chemical production installation or a hazardous chemical storage facility whose storage quantity constitutes a major hazard installation and the following sites, facilities and areas shall comply with the relevant provisions of the State:\n(a) residential areas and places with concentrated populations such as commercial centres and parks;\n(b) public facilities such as schools, hospitals, cinemas and theatres, and sports venues;\n(c) drinking water sources, waterworks and drinking water source protection areas;\n(d) stations, wharves (except those licensed in accordance with law to engage in hazardous chemical loading and unloading operations), airports, trunk communication lines, communication hubs, railway lines, trunk road traffic lines, trunk waterway traffic lines, subway ventilation shafts and subway station entrances and exits;\n(e) ecological conservation red lines, protected natural areas, permanent capital farmland, basic grasslands, germplasm resource banks (farms, areas and nurseries), large-scale livestock and poultry farms, fishery waters, and production bases of seeds, breeding livestock and poultry, and aquatic fry;\n(f) rivers, lakes, reservoirs, the sea, important water diversion and transmission lines, and flood storage and detention areas;\n(g) military prohibited zones, military administrative zones and the relevant military installations;\n(h) nuclear facilities;\n(i) other sites, facilities and areas prescribed by laws and administrative regulations.\nWhere an existing hazardous chemical production installation or a hazardous chemical storage facility whose storage quantity constitutes a major hazard installation does not comply with the provisions of the preceding paragraph, the emergency management department of the people's government at the level of city divided into districts of the place where it is located shall, jointly with the relevant departments, supervise the unit to which it belongs in carrying out rectification within the prescribed time limit; where conversion of production, suspension of production, relocation or closure is required, the people's government at the corresponding level shall decide and organise the implementation.\nThe site selection of a hazardous chemical storage facility whose storage quantity constitutes a major hazard installation shall avoid areas of active seismic faults and areas prone to floods, geological disasters and forest and grassland fires."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter II Planning and Layout"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Hazardous chemical construction projects shall be subject to review of safety conditions by the emergency management departments.\nThe construction unit shall entrust an institution with the qualifications prescribed by the State to conduct a safety assessment of the hazardous chemical construction project, and report the safety assessment to the emergency management department of the people's government at or above the level of city divided into districts of the place where the project is located; the emergency management department shall, within 20 working days from the date of receipt of the report, make a decision on the review of safety conditions and notify the construction unit in writing. The specific measures shall be formulated by the emergency management department of the State Council.\nConstruction projects at ports for the new construction, reconstruction or expansion of facilities for storing, loading and unloading hazardous chemicals (hereinafter collectively referred to as hazardous chemical port construction projects) shall be subject to review of safety conditions by the port administrative departments in accordance with the provisions of the competent department of transport of the State Council.\nThe qualification requirements for institutions undertaking safety assessment and other duties shall be prescribed by the emergency management department of the State Council jointly with the relevant departments."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Safety of Production and Storage"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The safety facilities of hazardous chemical construction projects and hazardous chemical port construction projects must be designed, constructed and put into production and use at the same time as the main works. Investment in safety facilities shall be included in the estimate of the construction project."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Safety of Production and Storage"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The designers and design institutions of the safety facilities of hazardous chemical construction projects and hazardous chemical port construction projects shall be responsible for the design of the safety facilities. Proposals for measures to ensure safety shall be put forward in the design of safety facilities."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Safety of Production and Storage"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The design of the safety facilities of hazardous chemical construction projects shall be submitted to the emergency management department of the people's government at or above the level of city divided into districts of the place where the project is located for review. The specific measures shall be formulated by the emergency management department of the State Council.\nThe design of the safety facilities of hazardous chemical port construction projects shall be reviewed by the port administrative departments in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Safety of Production and Storage"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The construction unit must construct in accordance with the approved design of safety facilities and be responsible for the engineering quality and construction safety of the safety facilities. For hazardous chemical construction projects subject to project supervision, the construction unit shall entrust supervision of the construction of the safety facilities together with the project.\nThe construction unit shall organise acceptance inspection of the safety facilities, and only after acceptance may the project be put into production and use.\nThe departments responsible for the supervision and administration of work safety of hazardous chemical construction projects and hazardous chemical port construction projects shall strengthen supervision and verification of the acceptance activities and acceptance results of construction units."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Safety of Production and Storage"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The safety management of buried, above-ground and overhead hazardous chemical transmission pipelines and their ancillary facilities in public areas by units producing or storing hazardous chemicals shall comply with the provisions of laws and administrative regulations and the requirements of national and industry standards.\nUnits producing or storing hazardous chemicals shall set up conspicuous marks for the hazardous chemical pipelines they lay, and shall periodically inspect, test and patrol the pipelines.\nWhere construction operations that may endanger the safety of hazardous chemical pipelines are carried out, the construction unit shall, seven days before commencement, notify the unit to which the pipelines belong in writing of the construction plan, jointly formulate a contingency plan with that unit, and adopt the corresponding safety protection measures. The unit to which the pipelines belong shall assign specialised personnel to the site to provide guidance on pipeline safety protection."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Safety of Production and Storage"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The principal persons in charge (including the legal representative, the actual controller and the actual person in charge) and the work safety management personnel of hazardous chemical production enterprises shall have the corresponding work safety knowledge and management capability, and shall pass assessment by the emergency management departments.\nEmployees of hazardous chemical production enterprises shall meet the educational requirements prescribed by the State, receive work safety education and training, and work only after passing assessment.\nHazardous chemical production enterprises shall establish and improve safety training management systems, organise training periodically, and raise the safety awareness and work safety skills of employees."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Safety of Production and Storage"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Before commencing production, a hazardous chemical production enterprise shall obtain a hazardous chemical work safety licence in accordance with the provisions of the laws and administrative regulations on work safety licensing.\nEnterprises producing hazardous chemicals listed in the national catalogue of industrial products subject to the production licence system shall also obtain an industrial product production licence in accordance with the provisions of the laws and administrative regulations on industrial product production licensing. Hazardous chemicals produced on a trial basis may be sold after an industrial product production licence is obtained and they pass inspection by an inspection institution with the corresponding qualifications.\nThe departments responsible for issuing hazardous chemical work safety licences and industrial product production licences shall, in accordance with the provisions of the relevant laws and administrative regulations, promptly make public the issuance of the licences."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Safety of Production and Storage"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Hazardous chemical production enterprises and importing enterprises shall provide safety data sheets in Chinese for the hazardous chemicals they produce or import that correspond to those chemicals, and shall affix, print or attach to the hazardous chemical packaging (including outer packaging, the same below) chemical safety labels in Chinese corresponding to the hazardous chemicals in the packaging. Safety data sheets and chemical safety labels shall meet the requirements of national standards.\nWhere a hazardous chemical production enterprise or importing enterprise discovers new hazardous characteristics of the hazardous chemicals it produces or imports, it shall immediately make an announcement and promptly revise its safety data sheets and chemical safety labels."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Safety of Production and Storage"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The packaging of hazardous chemicals shall comply with the provisions of laws, administrative regulations and rules and the requirements of national and industry standards.\nThe materials of hazardous chemical packaging and containers, and the type, specifications, methods and unit mass of hazardous chemical packaging, shall be suited to the nature and use of the hazardous chemicals packaged."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III Safety of Production and Storage"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Enterprises producing packaging or containers for hazardous chemicals listed in the national catalogue of industrial products subject to the production licence system shall obtain an industrial product production licence in accordance with the provisions of the laws and administrative regulations on industrial product production licensing; the packaging and containers for hazardous chemicals they produce may leave the factory for sale only after passing inspection by an inspection institution with the corresponding qualifications.\nVessels transporting hazardous chemicals and the containers loaded on them shall comply with the requirements of the relevant laws, administrative regulations and rules as well as mandatory standards and technical specifications, and may be put into use only after passing inspection by a vessel inspection agency recognised by the National Maritime Safety Administration.\nFor reusable hazardous chemical packaging and containers, the user shall inspect them before reuse; where hidden safety dangers are found, they shall be promptly repaired or replaced. The user shall keep records of the inspection, and such records shall be kept for not less than three years."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter III Safety of Production and Storage"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Enterprises producing or storing hazardous chemicals shall establish a system of tiered control of safety risks, carry out identification and assessment of safety risks, and adopt the corresponding control measures according to the safety risk grade.\nWhere the processes, facilities, equipment, raw materials and the like of an enterprise producing or storing hazardous chemicals change, identification and assessment of safety risks shall be carried out anew.\nEnterprises producing or storing hazardous chemicals may not use processes, technologies, facilities or equipment endangering production safety that are expressly eliminated or prohibited for use by the State; the specific catalogue shall be formulated and published by the emergency management department of the State Council jointly with the relevant departments."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter III Safety of Production and Storage"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Enterprises producing or storing hazardous chemicals shall establish a process safety management system covering all production and operation links, including process operation, special operations, equipment management, storage conditions, start-up and shutdown and inspection and maintenance, and modifications, clarify the responsible persons, post duties and operating procedures, and ensure effective implementation."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter III Safety of Production and Storage"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Enterprises producing or storing hazardous chemicals shall, in accordance with national or industry standards, be equipped with automatic control systems and safety instrumented systems, establish a safety risk monitoring and early warning system, and achieve interconnection with the relevant government departments."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter III Safety of Production and Storage"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Units producing or storing hazardous chemicals shall, in light of the types and hazardous characteristics of the hazardous chemicals they produce or store, install at their operation sites the corresponding safety facilities and equipment for monitoring, surveillance, ventilation, sun protection, temperature regulation, fire prevention, fire extinguishing, explosion prevention, pressure relief, poison prevention, neutralisation, moisture prevention, lightning protection, anti-static protection, anti-corrosion, leakage prevention and protective embankments or isolated operation, and shall carry out routine maintenance and servicing of the safety facilities and equipment in accordance with national standards, industry standards or the relevant provisions of the State, so as to ensure their normal use.\nUnits producing or storing hazardous chemicals shall set up conspicuous safety warning marks at their operation sites and on their safety facilities and equipment."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter III Safety of Production and Storage"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Units producing or storing hazardous chemicals shall install communication and alarm devices at their operation sites and ensure that they are in a serviceable condition.\nUnits producing or storing hazardous chemicals may not close or damage monitoring, alarm, protection or life-saving facilities or equipment directly related to production safety or affect their normal use in any other way, and may not tamper with, conceal or destroy the relevant data or information."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter III Safety of Production and Storage"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Enterprises producing or storing hazardous chemicals shall entrust an institution with the qualifications prescribed by the State to conduct a safety assessment of their work safety conditions once every three years and issue a safety assessment report. The safety assessment report shall include a plan for rectifying the problems existing in the work safety conditions and a conclusive opinion upon completion of the rectification. The safety assessment report shall be made public in accordance with the provisions.\nEnterprises producing or storing hazardous chemicals shall file the safety assessment report and the implementation of the rectification plan with the emergency management department of the county-level people's government of the place where they are located.\nEnterprises storing or loading and unloading hazardous chemicals within a port area shall conduct safety assessments in accordance with the requirements of the first paragraph of this Article, and file the safety assessment report and the implementation of the rectification plan, in accordance with the provisions, with the port administrative department or the emergency management department of the county-level people's government of the place where they are located."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter III Safety of Production and Storage"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Units producing or storing highly toxic chemicals or hazardous chemicals that the public security department of the State Council prescribes as usable in the manufacture of explosives (hereinafter referred to as explosives-precursor hazardous chemicals) shall truthfully record the varieties, quantities and destinations of the highly toxic chemicals and explosives-precursor hazardous chemicals they produce or store, and adopt the necessary safety precautions to prevent their loss or theft; where the loss or theft of highly toxic chemicals or explosives-precursor hazardous chemicals is discovered, they shall immediately report to the local public security organ; the public security organ shall, in light of the actual circumstances, promptly notify the emergency management department and other relevant departments.\nUnits producing or storing highly toxic chemicals or explosives-precursor hazardous chemicals shall establish public security bodies, be staffed with full-time public security personnel, and file with the public security organ in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter III Safety of Production and Storage"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Hazardous chemicals shall be stored in dedicated warehouses, dedicated sites or dedicated storage rooms and dedicated storage cabinets (hereinafter collectively referred to as dedicated storage sites) and managed by dedicated persons; highly toxic chemicals and other hazardous chemicals whose storage quantity constitutes a major hazard installation shall be stored separately within the dedicated storage sites, under a system of two-person receipt and dispatch and two-person safekeeping, and the receipt and dispatch records shall be kept for not less than three years.\nThe methods, means and quantities of storage of hazardous chemicals shall comply with national standards or the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter III Safety of Production and Storage"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Units storing hazardous chemicals shall establish a system of verification and registration for the warehousing and outbound delivery of hazardous chemicals.\nUnits storing highly toxic chemicals shall report the storage quantities, storage locations and information on management personnel of the highly toxic chemicals to the emergency management department, the fire and rescue agency and the public security organ of the county-level people's government of the place where they are located; where they are stored within a port area, they shall be reported to the port administrative department, the fire and rescue agency and the public security organ."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter III Safety of Production and Storage"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Dedicated storage sites for hazardous chemicals shall meet the requirements of national and industry standards and be marked conspicuously. Dedicated storage sites for highly toxic chemicals and explosives-precursor hazardous chemicals shall, in accordance with the relevant provisions of the State, be equipped with the corresponding physical and technical protection facilities.\nUnits storing hazardous chemicals shall periodically test and inspect the safety facilities and equipment of their dedicated storage sites for hazardous chemicals; where the test or inspection fails, use shall be discontinued and repair or replacement shall be carried out in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter III Safety of Production and Storage"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "In developing new processes, new technologies and new products for hazardous chemicals, research and development units shall strengthen safety management of the research and development process, ensure the safety of that process, and may not apply new processes or new technologies that have not undergone laboratory tests, pilot tests and industrial tests directly to industrial production.\nWhen transferring new processes or new technologies for hazardous chemicals, research and development units shall provide safety demonstration reports and the relevant materials for the new processes or technologies, and provide technical guidance."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter III Safety of Production and Storage"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where a unit producing or storing hazardous chemicals converts production, suspends production, suspends business or dissolves, in whole or in part, it shall take effective measures to promptly and properly dispose of its hazardous chemical production installations, storage facilities and hazardous chemicals in stock, and may not discard hazardous chemicals; the disposal plan shall be filed with the emergency management, industry and information technology and ecology and environment departments and the public security organ and fire and rescue agency of the county-level people's government of the place where it is located. The emergency management department shall, jointly with the competent department of ecology and environment, the public security organ and the fire and rescue agency, supervise and inspect the disposal, and where disposal is not carried out in accordance with the provisions, shall order immediate disposal."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter III Safety of Production and Storage"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "The relevant departments of people's governments at or above the county level shall, in accordance with the division of duties, strengthen supervision and administration of the use of hazardous chemicals by enterprises, schools, scientific research institutions, medical institutions, testing institutions, inspection institutions and other units."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety of Use"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "The conditions of use (including processes) of units using hazardous chemicals shall comply with the provisions of laws and administrative regulations and the requirements of national and industry standards, and such units shall, in light of the types, hazardous characteristics, quantities used and ways of use of the hazardous chemicals used, establish and improve safety management rules and regulations and safe operating procedures for the use of hazardous chemicals, so as to ensure their safe use."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety of Use"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Chemical enterprises that use hazardous chemicals of the types prescribed by the State to engage in production and whose quantities used reach the prescribed quantities (excluding hazardous chemical production enterprises, the same below) shall obtain a hazardous chemical safe use licence in accordance with the provisions of this Law.\nThe types of hazardous chemicals and the quantitative standards for their quantities used specified in the preceding paragraph shall be determined and published by the emergency management department of the State Council jointly with the departments of public security and agriculture and rural affairs."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety of Use"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "A chemical enterprise applying for a hazardous chemical safe use licence shall, in addition to complying with the provisions of Article 47 of this Law, also meet the following conditions:\n(a) it has professional and technical personnel suited to the hazardous chemicals used, and its employees have passed assessment;\n(b) it has a work safety management body and full-time work safety management personnel;\n(c) it has a contingency plan for hazardous chemical accidents meeting the provisions of the State and the necessary emergency rescue apparatus, equipment, devices and materials;\n(d) it has conducted a safety assessment in accordance with law;\n(e) other conditions prescribed by laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety of Use"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "A chemical enterprise applying for a hazardous chemical safe use licence shall file an application with the emergency management department of the people's government at the level of city divided into districts of the place where it is located, and submit evidentiary materials showing that it meets the conditions prescribed in Article 49 of this Law. The emergency management department of the people's government at the level of city divided into districts shall conduct examination in accordance with law and, within 20 working days from the date of receipt of the evidentiary materials, make a decision to approve or not to approve. Where approval is granted, a hazardous chemical safe use licence shall be issued; where approval is not granted, the applicant shall be notified in writing and the reasons explained.\nThe emergency management department of the people's government at the level of city divided into districts shall, in accordance with the provisions of the relevant laws and administrative regulations, promptly make public the issuance of hazardous chemical safe use licences."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety of Use"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Units using hazardous chemicals shall provide their employees with the safety data sheets and chemical safety labels for the chemicals used at their operation sites, strengthen training and education, and inform employees of the correct methods of use and the measures to be taken in emergencies.\nIndividuals using hazardous chemicals shall understand the hazardous characteristics of the hazardous chemicals, the correct methods of use and protective measures, and may not use, store or dispose of hazardous chemicals in violation of law."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety of Use"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "The provisions of Articles 37, 38, the first paragraph of Article 40 and Article 45 of this Law on units producing or storing hazardous chemicals shall apply to units using hazardous chemicals; the provisions of Articles 34, 35, 36 and 39 on enterprises producing or storing hazardous chemicals shall apply to enterprises using hazardous chemicals to engage in production."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety of Use"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "The State applies a licensing system to the business operation of hazardous chemicals (including warehousing operations, the same below). Without a licence, no unit or individual may deal in hazardous chemicals. Hazardous chemical business enterprises may not purchase hazardous chemicals from enterprises that produce or deal in hazardous chemicals without a licence.\nA hazardous chemical production enterprise established in accordance with law that sells, within the scope of its factory premises, hazardous chemicals produced by itself need not obtain a hazardous chemical business licence.\nA port operator that has obtained a port operation licence in accordance with the provisions of the Port Law of the People's Republic of China and engages in warehousing operations of hazardous chemicals within a port area need not obtain a hazardous chemical business licence."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter V Safety of Business Operation"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Enterprises engaged in the business operation of hazardous chemicals shall meet the following conditions:\n(a) they have business premises meeting national and industry standards and, where hazardous chemicals are stored, storage facilities meeting national and industry standards;\n(b) their employees have undergone professional and technical training and passed assessment;\n(c) they have sound safety management rules and regulations;\n(d) they have full-time work safety management personnel, and their principal persons in charge and work safety management personnel have work safety knowledge and management capability suited to the hazardous chemical business activities of the enterprise and have passed assessment by the emergency management departments;\n(e) they have a contingency plan for hazardous chemical accidents meeting the provisions of the State and the necessary emergency rescue apparatus, equipment, devices and materials;\n(f) other conditions prescribed by laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter V Safety of Business Operation"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Enterprises engaged in the business operation of highly toxic chemicals or explosives-precursor hazardous chemicals shall file an application with the emergency management department of the people's government at the level of city divided into districts of the place where they are located. Enterprises engaged in the business operation of other hazardous chemicals shall file an application with the emergency management department of the county-level people's government of the place where they are located; where they have storage facilities whose storage quantity constitutes a major hazard installation, they shall file an application with the emergency management department of the people's government at the level of city divided into districts of the place where they are located. The applicant shall submit evidentiary materials showing that it meets the conditions prescribed in Article 54 of this Law. The emergency management department of the people's government at the level of city divided into districts or the emergency management department of the county-level people's government shall conduct examination in accordance with law and carry out on-site verification of the applicant's business premises and storage facilities in accordance with the provisions. A decision to approve or not to approve shall be made within 20 working days from the date of receipt of the evidentiary materials. Where approval is granted, a hazardous chemical business licence shall be issued; where approval is not granted, the applicant shall be notified in writing and the reasons explained.\nThe emergency management departments of the people's governments at the level of city divided into districts and of the county level shall, in accordance with the provisions of the relevant laws and administrative regulations, promptly make public the issuance of hazardous chemical business licences.\nOnly after the applicant has completed registration formalities with the market regulation department on the strength of the hazardous chemical business licence may it engage in hazardous chemical business activities. Where laws, administrative regulations or the provisions of the State require that the business operation of hazardous chemicals also be licensed by other relevant departments, the applicant shall hold the corresponding licensing documents when completing registration formalities with the market regulation department."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter V Safety of Business Operation"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where a hazardous chemical business enterprise stores hazardous chemicals, it shall comply with the provisions of Chapter III of this Law on the storage of hazardous chemicals. Only hazardous chemicals in small consumer packages may be kept in hazardous chemical shops."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter V Safety of Business Operation"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "When selling hazardous chemicals, hazardous chemical production enterprises and business enterprises shall provide the purchasing unit or individual with safety data sheets meeting the requirements of laws, administrative regulations and national and industry standards, and may not deal in hazardous chemicals without safety data sheets or chemical safety labels, and may not alter safety data sheets or chemical safety labels without authorisation.\nWhen purchasing hazardous chemicals, every unit and individual has the right to request the relevant safety data sheets from the hazardous chemical production enterprise or business enterprise, so as to understand the hazardous characteristics, protective measures and methods of use."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter V Safety of Business Operation"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Enterprises that have obtained a hazardous chemical work safety licence, hazardous chemical safe use licence or hazardous chemical business licence in accordance with law may purchase highly toxic chemicals or explosives-precursor hazardous chemicals on the strength of the corresponding licensing documents. Enterprises engaged in the research and production of civil explosives, fireworks and firecrackers, and weapons and equipment may purchase explosives-precursor hazardous chemicals on the strength of the corresponding licences.\nUnits other than those specified in the preceding paragraph that purchase highly toxic chemicals shall apply to the public security organ of the county-level people's government of the place where they are located for a highly toxic chemical purchase permit; to purchase explosives-precursor hazardous chemicals, they shall hold a statement of lawful use issued by their own unit.\nIndividuals may not purchase highly toxic chemicals (except pesticides that are highly toxic chemicals) or explosives-precursor hazardous chemicals (except daily necessities such as food additives, medicines, veterinary medicines and disinfectants that contain explosives-precursor hazardous chemicals)."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter V Safety of Business Operation"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "To apply for a highly toxic chemical purchase permit, the applicant shall submit the following materials to the public security organ of the county-level people's government of the place where it is located:\n(a) a copy of the business licence or legal person certificate (registration certificate);\n(b) a statement of the varieties and quantities of the highly toxic chemicals to be purchased;\n(c) a statement of the use of the highly toxic chemicals to be purchased;\n(d) the identity certificate of the person handling the matter.\nThe public security organ of the county-level people's government shall, within three working days from the date of receipt of the materials specified in the preceding paragraph, make a decision to approve or not to approve. Where approval is granted, a highly toxic chemical purchase permit shall be issued; where approval is not granted, the applicant shall be notified in writing and the reasons explained.\nThe administration of highly toxic chemical purchase permits shall be carried out in accordance with the provisions of the public security department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter V Safety of Business Operation"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Where hazardous chemical production enterprises or business enterprises sell highly toxic chemicals or explosives-precursor hazardous chemicals, they shall verify the relevant licensing documents or evidentiary documents specified in the first and second paragraphs of Article 58 of this Law, and may not sell highly toxic chemicals or explosives-precursor hazardous chemicals to units that do not have the relevant licensing documents or evidentiary documents. Where highly toxic chemicals are purchased on the strength of a highly toxic chemical purchase permit, the sale shall be made in accordance with the varieties and quantities stated in the permit.\nIt is prohibited to sell highly toxic chemicals (except pesticides that are highly toxic chemicals) or explosives-precursor hazardous chemicals (except daily necessities such as food additives, medicines, veterinary medicines and disinfectants that contain explosives-precursor hazardous chemicals) to individuals."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter V Safety of Business Operation"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where hazardous chemical production enterprises or business enterprises sell highly toxic chemicals or explosives-precursor hazardous chemicals, they shall truthfully record the name and address of the purchasing unit, the name and identity card number of the person handling the matter, and the varieties, quantities and uses of the highly toxic chemicals or explosives-precursor hazardous chemicals purchased. The sales records and copies of the identity certificates of the persons handling the matters and copies of the relevant licensing documents or evidentiary documents shall be kept for not less than three years.\nSelling enterprises and purchasing units of highly toxic chemicals or explosives-precursor hazardous chemicals shall, within three days after the sale or purchase, report the varieties, quantities and destination information of the highly toxic chemicals or explosives-precursor hazardous chemicals sold or purchased to the public security organ of the county-level people's government of the place where they are located, and enter the information into a computer system."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter V Safety of Business Operation"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Units using highly toxic chemicals or explosives-precursor hazardous chemicals may not lend or transfer the highly toxic chemicals or explosives-precursor hazardous chemicals they have purchased; where transfer is genuinely necessary owing to conversion of production, suspension of production, relocation, closure or the like, the transfer shall be made to units that have the relevant licensing documents or evidentiary documents specified in the first and second paragraphs of Article 58 of this Law, and the varieties, quantities and destination information of the highly toxic chemicals or explosives-precursor hazardous chemicals transferred shall, within three days after the transfer, be reported to the public security organ of the county-level people's government of the place where the transferor is located."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter V Safety of Business Operation"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "It is prohibited to sell or purchase highly toxic chemicals or explosives-precursor hazardous chemicals on the Internet."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter V Safety of Business Operation"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "The transport of hazardous chemicals administered as dangerous goods by road or waterway shall comply with this Law, the relevant laws and administrative regulations, and the provisions of the competent department of transport of the State Council on the safety of road and waterway transport of dangerous goods."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VI Safety of Transport"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Those engaging in the road or waterway transport of hazardous chemicals shall complete registration formalities with the market regulation department and shall, in accordance with the provisions of the laws and administrative regulations on road transport and waterway transport respectively, obtain a road transport licence for dangerous goods, the corresponding waterway transport licence for dangerous goods, or complete filing formalities.\nHazardous chemicals shall be transported by road or waterway by transport enterprises that have obtained the corresponding licence or completed filing formalities in accordance with law, and no other unit or individual may undertake the carriage. The shipper shall entrust a transport enterprise that has obtained the corresponding licence or completed filing formalities in accordance with law to undertake the carriage, and may not entrust other units or individuals with it. The hazardous chemical transport vehicles of other units and individuals may not operate under affiliation arrangements.\nRoad and waterway transport enterprises of hazardous chemicals shall be staffed with full-time work safety management personnel.\nHazardous chemicals that, after proper treatment, may be administered as ordinary goods shall be transported as ordinary goods, and the specific measures shall be formulated by the competent department of transport of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter VI Safety of Transport"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "The drivers, seafarers, loading and unloading managers, escorts, declarants and container packing on-site inspectors of road and waterway transport enterprises of hazardous chemicals shall pass assessment by the competent departments of transport and obtain practice qualifications. The specific measures shall be formulated by the competent department of transport of the State Council.\nThe loading and unloading of hazardous chemicals shall comply with the safety operation standards, procedures and systems, and shall be carried out under the on-site command or monitoring of loading and unloading managers. The container packing of hazardous chemicals transported by waterway shall be carried out under the command or monitoring of a container packing on-site inspector and shall comply with the norms and requirements for stowage and segregation; after packing is completed, the container packing on-site inspector shall sign a packing certificate."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter VI Safety of Transport"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "In transporting hazardous chemicals, the corresponding safety protection measures shall be adopted in light of their hazardous characteristics, and the necessary protective articles and emergency rescue apparatus, equipment, devices and materials shall be provided.\nTank cars and other containers used to transport hazardous chemicals shall be tightly sealed and able to prevent the hazardous chemicals from leaking or spilling during transport due to changes in temperature, humidity or pressure; the overflow and pressure relief devices of tank cars and other containers shall be accurately set and operate flexibly.\nIn transporting hazardous chemicals, the drivers, seafarers, loading and unloading managers, escorts, declarants and container packing on-site inspectors shall be familiar with the hazardous characteristics of the hazardous chemicals transported and the requirements for the use of their packaging and containers, and shall master the emergency handling methods in the event of a dangerous situation."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter VI Safety of Transport"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "In transporting hazardous chemicals by road, the hazardous chemicals shall be loaded in accordance with the rated load capacity of the transport vehicle, and overloading is prohibited.\nHazardous chemical transport vehicles shall meet the safety technical conditions required by national standards, and shall undergo periodic safety technical inspection in accordance with the relevant provisions of the State.\nHazardous chemical transport vehicles shall display or paint warning marks meeting the requirements of national standards, which may not be obscured or removed.\nHazardous chemical transport vehicles shall be installed with satellite positioning monitoring devices meeting the requirements of national and industry standards and ensure that they are in good operating condition; the devices may not be removed or switched off, nor may their normal operation be affected by signal shielding or other means, and the monitoring data may not be deleted or tampered with."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter VI Safety of Transport"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "In transporting hazardous chemicals by road, escorts shall be provided as required, and it shall be ensured that the hazardous chemicals transported are under the monitoring of the escorts. The specific measures shall be formulated by the competent department of transport of the State Council jointly with the relevant departments.\nRoad transport enterprises of hazardous chemicals shall carry out real-time monitoring and management of the operating status of transport vehicles and drivers, promptly correct illegal and non-compliant driving behaviour such as speeding, fatigue driving and driving off the prescribed route, and achieve safety monitoring, surveillance and early warning. Drivers of vehicles transporting hazardous chemicals shall strictly comply with the laws and regulations on road traffic safety, and the continuous driving time may not exceed four hours during the day or two hours at night, with a rest of not less than 20 minutes at each stop.\nWhere a vehicle transporting hazardous chemicals needs to stop en route, the driver and escort shall adopt the corresponding safety precautions; where the transport of highly toxic chemicals or explosives-precursor hazardous chemicals requires a relatively long stop owing to accommodation or circumstances affecting normal transport, they shall also report to the local public security organ."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter VI Safety of Transport"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "Without the approval of the public security organ, vehicles transporting hazardous chemicals may not enter areas where the passage of hazardous chemical transport vehicles is restricted. Areas where the passage of hazardous chemical transport vehicles is restricted shall be designated by the public security organ of the county-level people's government or jointly with the relevant departments, and conspicuously marked.\nThe administration of permission for vehicles transporting hazardous chemicals to enter areas where the passage of hazardous chemical transport vehicles is restricted shall be carried out in accordance with the provisions of the public security department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter VI Safety of Transport"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "In transporting highly toxic chemicals by road, the shipper shall apply to the public security organ of the county-level people's government of the place of origin or destination of transport for a highly toxic chemical road transport pass.\nTo apply for a highly toxic chemical road transport pass, the shipper shall submit the following materials to the public security organ of the county-level people's government:\n(a) a statement of the varieties and quantities of the highly toxic chemicals to be transported;\n(b) a statement of the place of origin, destination, time and route of transport;\n(c) evidentiary documents showing that the carrier has obtained the corresponding road transport licence for dangerous goods, that the transport vehicles have obtained the corresponding operating certificates, and that the drivers and escorts have obtained the corresponding qualifications to take up their posts;\n(d) the relevant licensing documents for the purchase of highly toxic chemicals specified in the first and second paragraphs of Article 58 of this Law, or import and export evidentiary documents issued by customs.\nThe public security organ of the county-level people's government shall, within seven working days from the date of receipt of the materials specified in the preceding paragraph, make a decision to approve or not to approve. Where approval is granted, a highly toxic chemical road transport pass shall be issued; where approval is not granted, the applicant shall be notified in writing and the reasons explained.\nThe administration of highly toxic chemical road transport passes shall be carried out in accordance with the provisions of the public security department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter VI Safety of Transport"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "Where highly toxic chemicals or explosives-precursor hazardous chemicals are lost, stolen, robbed or disperse or leak during road transport, the driver and escort shall immediately adopt the corresponding warning and safety measures and report to the local public security organ. Upon receipt of the report, the public security organ shall, in light of the actual circumstances, immediately notify the departments of transport, emergency management, ecology and environment, and health. The relevant departments shall adopt the necessary emergency handling measures."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter VI Safety of Transport"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "The maritime safety administration shall, in light of the types and hazardous characteristics of hazardous chemicals, determine the safe transport conditions for the carriage of hazardous chemicals by vessel.\nWhere the safe transport conditions for chemicals to be delivered for carriage by vessel are unclear, the cargo owner or agent shall entrust a relevant technical institution to conduct an assessment, and may deliver them for carriage by vessel only after the relevant safe transport conditions are clarified and confirmed by the maritime safety administration."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter VI Safety of Transport"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "It is prohibited to transport highly toxic chemicals through enclosed inland waters.\nIt is prohibited to transport through inland waters hazardous chemicals whose transport through inland waters is prohibited by the State. The scope of hazardous chemicals prohibited from transport through inland waters shall be prescribed and published by the competent department of transport of the State Council jointly with the departments of ecology and environment, emergency management and industry and information technology, in light of factors such as the hazardous characteristics of the hazardous chemicals, the degree of harm they cause to persons and the water environment, and the ease of eliminating the consequences of the harm."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter VI Safety of Transport"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "The competent department of transport of the State Council shall, in light of the hazardous characteristics of hazardous chemicals, apply classified management to hazardous chemicals other than those prescribed in Article 74 of this Law that are transported through inland waters (hereinafter referred to as hazardous chemicals transported through inland waters), prescribe separately the modes of transport, packaging norms and safety protection measures for each category of hazardous chemicals, and supervise their implementation."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter VI Safety of Transport"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "Hazardous chemicals transported through inland waters shall be carried by transport vessels that have obtained a certificate of fitness for the carriage of dangerous goods in accordance with law. Waterway transport enterprises shall, in light of the hazardous characteristics of the hazardous chemicals transported, formulate contingency plans for emergency rescue from hazardous chemical accidents involving transport vessels, and provide transport vessels with sufficient and effective emergency rescue apparatus, equipment, devices and materials.\nFor vessels transporting hazardous chemicals through inland waters, the owner or operator shall obtain a certificate of insurance or other financial security for vessel pollution damage liability. A copy of the certificate of insurance or other financial security for vessel pollution damage liability shall be kept on board."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter VI Safety of Transport"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "For the transport of hazardous chemicals through inland waters, the materials, type and strength of the packaging of the hazardous chemicals and the packaging methods shall comply with the requirements of the relevant packaging norms for waterway transport. Where the competent department of transport of the State Council has restrictive provisions on the quantity of hazardous chemicals transported per vessel, the carrier shall arrange the transport quantity in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter VI Safety of Transport"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "Inland river wharves and berths used for hazardous chemical transport operations shall comply with the relevant national safety norms and maintain the safety distance prescribed by the State from drinking water intake points. The relevant management units shall formulate contingency plans for hazardous chemical accidents at the wharves and berths and provide them with sufficient and effective emergency rescue apparatus, equipment, devices and materials.\nInland river wharves and berths used for hazardous chemical transport operations may be put into use only after passing acceptance inspection in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Chapter VI Safety of Transport"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "Vessels carrying hazardous chemicals entering or leaving an inland river port shall report to the maritime safety administration in accordance with the provisions of laws and administrative regulations. Upon receipt of the report, the maritime safety administration shall, within the time prescribed by the competent department of transport of the State Council, decide whether to agree, notify the person making the report, and at the same time notify the port administrative department.\nFor the loading and unloading or transhipment of hazardous chemicals within an inland river port, the name, hazardous characteristics and packaging of the hazardous chemicals and the time and place of the operations shall be reported to the port administrative department. Upon receipt of the report, the port administrative department shall, within the time prescribed by the competent department of transport of the State Council, decide whether to agree, notify the person making the report, and at the same time notify the maritime safety administration.\nWhere a vessel carrying hazardous chemicals navigating in inland waters passes through navigation structures, it shall meet the relevant requirements for the safety management of navigation structures and report in advance to the operating unit of the navigation structures. The operating unit shall promptly relay the report to the competent department of transport. A vessel carrying hazardous chemicals passing through navigation structures shall accept the administration of the competent department of transport."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Chapter VI Safety of Transport"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "Vessels carrying hazardous chemicals that navigate, load or unload, or berth in inland waters shall display dedicated warning marks and display dedicated signals in accordance with the provisions.\nWhere a vessel carrying hazardous chemicals navigating in inland waters requires pilotage in accordance with the provisions of laws and administrative regulations and of the competent department of transport of the State Council, it shall apply for pilotage."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Chapter VI Safety of Transport"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "Vessels carrying hazardous chemicals navigating in inland waters shall comply with the provisions of laws and administrative regulations and other relevant provisions of the State on the protection of drinking water sources and protected natural areas. Inland waterway development plans shall be coordinated with the delimitation schemes of drinking water source protection areas approved in accordance with law and with the master plans of protected natural areas."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Chapter VI Safety of Transport"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "In consigning hazardous chemicals, the shipper shall submit to the carrier an electronic or paper list of consigned dangerous goods, stating the types, quantities and hazardous characteristics of the hazardous chemicals consigned and the emergency handling measures in the event of a dangerous situation, provide the safety data sheets, properly pack the hazardous chemicals consigned in accordance with the relevant provisions of the State, affix, print or attach to the packaging chemical safety labels in Chinese corresponding to the hazardous chemicals in the packaging, and ensure that they are available for inspection at any time.\nWhere inhibitors or stabilisers need to be added to hazardous chemicals for transport, the shipper shall add them in accordance with the provisions and inform the carrier of the relevant circumstances.\nThe loading party shall perform verification duties before filling or loading hazardous chemicals, and shall carry out filling and loading operations in accordance with the requirements of the standards."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Chapter VI Safety of Transport"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "A shipper may not include hazardous chemicals in ordinary goods consigned, and may not conceal or falsely declare hazardous chemicals as ordinary goods for consignment.\nNo unit or individual may post hazardous chemicals for delivery or include hazardous chemicals in mail or express items, and may not conceal or falsely declare hazardous chemicals as ordinary articles for delivery. Postal enterprises and express delivery enterprises may not accept hazardous chemicals for delivery.\nWhere a suspected violation of the provisions of the first or second paragraph of this Article exists, the competent department of transport or the postal administration department may, in accordance with law, open the consignment and carry out verification by sampling tests and other means."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Chapter VI Safety of Transport"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "The safety management of the transport of hazardous chemicals by railway or air shall be carried out in accordance with the provisions of the laws, administrative regulations and rules on railway and air transport."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Chapter VI Safety of Transport"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "The State applies a hazardous chemical registration system, so as to provide technical and information support for the safety management of hazardous chemicals and for the prevention of hazardous chemical accidents and emergency rescue."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        },
+        "chapter": {
+          "en": "Chapter VII Registration of Hazardous Chemicals"
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "Hazardous chemical production enterprises and importing enterprises shall complete hazardous chemical registration with the agency of the emergency management department of the State Council responsible for hazardous chemical registration (hereinafter referred to as the hazardous chemical registration agency).\nHazardous chemical registration includes the following content:\n(a) classification and labelling information;\n(b) physical and chemical properties;\n(c) main uses;\n(d) hazardous characteristics;\n(e) safety requirements for storage, use and transport;\n(f) emergency handling measures in the event of a dangerous situation.\nHazardous chemicals of the same variety produced or imported by the same enterprise shall not be registered repeatedly. Where a hazardous chemical production enterprise or importing enterprise discovers new hazardous characteristics of the hazardous chemicals it produces or imports, or other registration content changes, it shall promptly complete formalities for changing the registration content with the hazardous chemical registration agency.\nThe specific measures for hazardous chemical registration shall be formulated by the emergency management department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        },
+        "chapter": {
+          "en": "Chapter VII Registration of Hazardous Chemicals"
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "The State exempts from registration hazardous chemicals in research and development and in trial production and trial sale that involve low volumes, low release and low exposure. The specific measures for exemption from registration shall be formulated by the emergency management department of the State Council jointly with the departments of industry and information technology, public security, ecology and environment, agriculture and rural affairs, health and customs."
+        },
+        "noLabel": {
+          "en": "Article 87."
+        },
+        "chapter": {
+          "en": "Chapter VII Registration of Hazardous Chemicals"
+        }
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "The hazardous chemical registration agency shall share hazardous chemical registration information and data with units such as the departments of industry and information technology, public security, natural resources, ecology and environment, transport, agriculture and rural affairs, health, customs, market regulation and energy and with military organs."
+        },
+        "noLabel": {
+          "en": "Article 88."
+        },
+        "chapter": {
+          "en": "Chapter VII Registration of Hazardous Chemicals"
+        }
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "The environmental management registration of new chemical substances shall be carried out in accordance with the provisions of the laws, administrative regulations and rules on ecological and environmental protection."
+        },
+        "noLabel": {
+          "en": "Article 89."
+        },
+        "chapter": {
+          "en": "Chapter VII Registration of Hazardous Chemicals"
+        }
+      },
+      {
+        "no": 90,
+        "text": {
+          "en": "The emergency management departments of local people's governments at or above the county level shall, jointly with the departments of industry and information technology, public security, ecology and environment, transport, health and market regulation, and in light of the actual conditions of their regions, formulate contingency plans for hazardous chemical accidents, submit them to the people's government at the corresponding level for approval, and publish them in accordance with law.\nThe departments responsible for the supervision and administration of hazardous chemical safety shall include content on emergency handling of hazardous chemical accidents when formulating their departmental contingency plans.\nThe Chinese People's Liberation Army and the Chinese People's Armed Police Force shall, in accordance with the orders of the Central Military Commission, participate in emergency rescue work for hazardous chemical accidents in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 90."
+        },
+        "chapter": {
+          "en": "Chapter VIII Emergency Rescue of Accidents"
+        }
+      },
+      {
+        "no": 91,
+        "text": {
+          "en": "Hazardous chemical units shall make emergency preparations, improve emergency management systems, formulate their own contingency plans for hazardous chemical accidents, establish full-time or part-time emergency rescue teams in accordance with law, be equipped with the necessary emergency rescue apparatus, equipment, devices and materials, and organise emergency rescue drills on a regular basis, so as to improve the emergency handling capacity of employees. Units of a relatively small production and business scale may dispense with emergency rescue teams, but shall designate part-time emergency rescue personnel and may conclude emergency rescue agreements with nearby emergency rescue teams.\nHazardous chemical units shall, in accordance with the relevant provisions of the State, submit their contingency plans for hazardous chemical accidents to the emergency management department of the people's government at or above the county level for the record, and publish them in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 91."
+        },
+        "chapter": {
+          "en": "Chapter VIII Emergency Rescue of Accidents"
+        }
+      },
+      {
+        "no": 92,
+        "text": {
+          "en": "Local people's governments at or above the county level shall, in light of the actual needs of emergency work for production safety accidents, strengthen the development of professional hazardous chemical emergency rescue forces in chemical industrial parks, may rely on qualified production and business units and social organisations to jointly establish professional hazardous chemical emergency rescue teams, be equipped with the necessary emergency rescue apparatus, equipment, devices and materials, and organise training on a regular basis.\nHazardous chemical units within a chemical industrial park may jointly establish emergency rescue teams."
+        },
+        "noLabel": {
+          "en": "Article 92."
+        },
+        "chapter": {
+          "en": "Chapter VIII Emergency Rescue of Accidents"
+        }
+      },
+      {
+        "no": 93,
+        "text": {
+          "en": "Where a hazardous chemical accident occurs, the principal person in charge of the unit where the accident occurred shall immediately organise rescue in accordance with the unit's contingency plan for hazardous chemical accidents, report to the local departments of emergency management, ecology and environment, public security, health and market regulation, and promptly notify the units and persons that may be affected; where a hazardous chemical accident occurs in the course of road or waterway transport, the driver, seafarer or escort shall also report to the competent department of transport of the place where the accident occurred."
+        },
+        "noLabel": {
+          "en": "Article 93."
+        },
+        "chapter": {
+          "en": "Chapter VIII Emergency Rescue of Accidents"
+        }
+      },
+      {
+        "no": 94,
+        "text": {
+          "en": "Where an emergency directly endangering personal safety occurs in a hazardous chemical unit, the shift leader, team leader and dispatcher at the operation site have the right, on the premise of ensuring safety, to immediately issue an order to stop production and evacuate personnel, and to direct the endangered persons to evacuate."
+        },
+        "noLabel": {
+          "en": "Article 94."
+        },
+        "chapter": {
+          "en": "Chapter VIII Emergency Rescue of Accidents"
+        }
+      },
+      {
+        "no": 95,
+        "text": {
+          "en": "Where a hazardous chemical accident occurs, the relevant local people's government shall immediately organise the departments of emergency management, ecology and environment, public security, health and transport and other relevant departments to organise and carry out rescue in accordance with the regional contingency plan for hazardous chemical accidents, and may not delay or shift responsibility.\nThe relevant local people's government and its relevant departments shall, in accordance with the following provisions, adopt the necessary emergency handling measures to reduce accident losses and prevent the spread and escalation of the accident:\n(a) immediately organise the rescue and treatment of the affected persons, transfer, evacuate and relocate other threatened persons and properly resettle them, or adopt other protective measures;\n(b) promptly bring the source of the hazard under control, determine the properties of the hazardous chemicals, and assess the hazard area and degree of hazard of the accident;\n(c) promptly adopt measures such as sealing off, isolation and decontamination in response to the actual and possible harm caused by the accident to persons, animals and plants, soil, water sources, water bodies and the atmosphere;\n(d) monitor and assess the environmental pollution and ecological damage caused by the hazardous chemical accident, and adopt the corresponding measures for environmental pollution treatment and ecological restoration."
+        },
+        "noLabel": {
+          "en": "Article 95."
+        },
+        "chapter": {
+          "en": "Chapter VIII Emergency Rescue of Accidents"
+        }
+      },
+      {
+        "no": 96,
+        "text": {
+          "en": "The relevant hazardous chemical units shall provide technical guidance and the necessary assistance for emergency rescue in hazardous chemical accidents."
+        },
+        "noLabel": {
+          "en": "Article 96."
+        },
+        "chapter": {
+          "en": "Chapter VIII Emergency Rescue of Accidents"
+        }
+      },
+      {
+        "no": 97,
+        "text": {
+          "en": "Where a hazardous chemical accident causes environmental pollution and ecological damage, the people's government performing the duty of unified leadership shall uniformly release the relevant information."
+        },
+        "noLabel": {
+          "en": "Article 97."
+        },
+        "chapter": {
+          "en": "Chapter VIII Emergency Rescue of Accidents"
+        }
+      },
+      {
+        "no": 98,
+        "text": {
+          "en": "Where hazardous chemicals whose production, use or business operation is prohibited by the State are produced, used or dealt in, the emergency management department shall order the cessation of the production, use or business operation, confiscate the illegal gains if any, and confiscate the hazardous chemicals illegally produced, used or dealt in as well as the tools, equipment, raw materials and the like used for the illegal production, use or business operation; where the value of the hazardous chemicals illegally produced, used or dealt in is less than 100,000 yuan, a fine of not less than 300,000 yuan but not more than 500,000 yuan shall also be imposed; where the value is 100,000 yuan or more, a fine of not less than five times but not more than ten times the value shall also be imposed.\nWhere an act specified in the preceding paragraph is committed, the emergency management department shall also order the unit to render the hazardous chemicals produced, used or dealt in harmless.\nWhere hazardous chemicals are used in violation of the restrictive provisions of the State on the use of hazardous chemicals, they shall be handled and punished in accordance with the first paragraph of this Article."
+        },
+        "noLabel": {
+          "en": "Article 98."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 99,
+        "text": {
+          "en": "Where any of the following circumstances exists, the departments responsible for the supervision and administration of hazardous chemical safety shall, in accordance with the division of duties, order the cessation of construction or suspension of production and business for rectification, order correction within a time limit, and impose a fine of not less than 100,000 yuan but not more than 500,000 yuan, and impose a fine of not less than 20,000 yuan but not more than 50,000 yuan on the directly responsible person in charge and other directly responsible persons; where correction is not made within the time limit, a fine of not less than 500,000 yuan but not more than 1,000,000 yuan shall be imposed, and a fine of not less than 50,000 yuan but not more than 100,000 yuan shall be imposed on the directly responsible person in charge and other directly responsible persons:\n(a) a hazardous chemical construction project has not undergone review of safety conditions;\n(b) a hazardous chemical construction project has no design of safety facilities or its design of safety facilities has not been submitted to the relevant emergency management department for examination and approval;\n(c) the construction unit has not constructed in accordance with the approved design of safety facilities;\n(d) for a hazardous chemical construction project subject to project supervision, the construction unit has not entrusted supervision of the construction of the safety facilities together with the project;\n(e) before a completed hazardous chemical construction project is put into production or use, the safety facilities have not passed acceptance inspection.\nWhere a hazardous chemical port construction project falls under any of the circumstances specified in the preceding paragraph, the port administrative department shall handle and punish it in accordance with the provisions of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 99."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 100,
+        "text": {
+          "en": "Where a party engages in the production of hazardous chemicals without obtaining a hazardous chemical work safety licence in accordance with law, or engages in the production of hazardous chemicals or their packaging or containers without obtaining an industrial product production licence in accordance with law, the matter shall be handled and punished in accordance with the provisions of the laws and administrative regulations on work safety licensing and on industrial product production licensing respectively.\nWhere an act in violation of the provisions of this Law involves a chemical enterprise using hazardous chemicals to engage in production without obtaining a hazardous chemical safe use licence, the emergency management department shall order correction within a time limit and impose a fine of not less than 100,000 yuan but not more than 500,000 yuan; where correction is not made within the time limit, it shall order suspension of production for rectification.\nWhere an act in violation of the provisions of this Law involves engaging in the business operation of hazardous chemicals without obtaining a hazardous chemical business licence, the emergency management department shall order the cessation of the business activity, confiscate the hazardous chemicals illegally dealt in and the illegal gains, and impose a fine of not less than 100,000 yuan but not more than 500,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 100."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 101,
+        "text": {
+          "en": "Where any of the following circumstances exists, the departments responsible for the supervision and administration of hazardous chemical safety shall, in accordance with the division of duties, order correction within a time limit and may impose a fine of not more than 100,000 yuan; where correction is not made within the time limit, a fine of not less than 100,000 yuan but not more than 200,000 yuan shall be imposed, and a fine of not less than 20,000 yuan but not more than 50,000 yuan shall be imposed on the directly responsible person in charge and other directly responsible persons; where the circumstances are serious, suspension of production and business for rectification shall be ordered:\n(a) a hazardous chemical production enterprise or importing enterprise fails to provide safety data sheets in Chinese, or fails to affix, print or attach chemical safety labels in Chinese on hazardous chemical packaging;\n(b) the safety data sheets in Chinese provided by a hazardous chemical production enterprise or importing enterprise do not correspond to the hazardous chemicals it produces or imports, the chemical safety labels in Chinese affixed, printed or attached to hazardous chemical packaging do not correspond to the hazardous chemicals in the packaging, or the safety data sheets or chemical safety labels do not meet the requirements of national standards;\n(c) a hazardous chemical production enterprise or importing enterprise discovers new hazardous characteristics of the hazardous chemicals it produces or imports but fails to make an immediate announcement, or fails to promptly revise its safety data sheets or chemical safety labels;\n(d) a unit producing or storing hazardous chemicals fails to set up conspicuous marks for the hazardous chemical pipelines it lays, or fails to periodically inspect, test and patrol the hazardous chemical pipelines;\n(e) in carrying out construction operations that may endanger the safety of hazardous chemical pipelines, the construction unit fails to notify the unit to which the pipelines belong in writing of the construction plan in accordance with the provisions, fails to jointly formulate a contingency plan and adopt the corresponding safety protection measures with that unit, or the unit to which the pipelines belong fails to assign specialised personnel to the site to provide guidance on pipeline safety protection;\n(f) employees of a hazardous chemical production enterprise fail to meet the educational requirements prescribed by the State, fail to receive work safety education and training, or work without passing assessment;\n(g) the materials of hazardous chemical packaging or containers, or the type, specifications, methods and unit mass of the packaging, are not suited to the nature and use of the hazardous chemicals packaged;\n(h) an enterprise producing or storing hazardous chemicals or an enterprise using hazardous chemicals to engage in production fails to clarify the responsible persons, post duties and operating procedures;\n(i) an enterprise producing or storing hazardous chemicals or an enterprise using hazardous chemicals to engage in production fails to be equipped with automatic control systems and safety instrumented systems in accordance with the provisions, fails to establish a safety risk monitoring and early warning system, or the safety risk monitoring and early warning system is not interconnected with the relevant government departments;\n(j) a unit producing, storing or using hazardous chemicals fails to set up conspicuous safety warning marks at its operation sites or on its safety facilities and equipment, or fails to install communication and alarm devices at its operation sites and keep them in a serviceable condition;\n(k) a dedicated storage site for hazardous chemicals is not managed by dedicated persons, the system of two-person receipt and dispatch and two-person safekeeping is not implemented for the highly toxic chemicals stored and other hazardous chemicals whose storage quantity constitutes a major hazard installation, or the receipt and dispatch records are kept for less than three years;\n(l) a unit storing hazardous chemicals fails to establish a system of verification and registration for the warehousing and outbound delivery of hazardous chemicals;\n(m) a dedicated storage site for hazardous chemicals is not conspicuously marked;\n(n) a research and development unit applies new processes or new technologies that have not undergone laboratory tests, pilot tests and industrial tests directly to industrial production, or fails to provide safety demonstration reports and the relevant materials for new processes or new technologies when transferring them;\n(o) a unit using hazardous chemicals fails to provide its employees with the safety data sheets and chemical safety labels for the chemicals used at its operation sites, or fails to inform employees of the correct methods of use and the measures to be taken in emergencies;\n(p) a hazardous chemical production enterprise or business enterprise deals in hazardous chemicals without safety data sheets or chemical safety labels, or alters safety data sheets or chemical safety labels without authorisation;\n(q) a hazardous chemical production enterprise or importing enterprise fails to complete hazardous chemical registration, or fails to complete formalities for changing the registration content when it discovers new hazardous characteristics of the hazardous chemicals it produces or imports or when other registration content changes.\nWhere a port operator engaged in warehousing operations of hazardous chemicals falls under any of the circumstances specified in the preceding paragraph, the port administrative department shall handle and punish it in accordance with the provisions of the preceding paragraph. Where a dedicated storage site for highly toxic chemicals or explosives-precursor hazardous chemicals is not equipped with the corresponding physical and technical protection facilities in accordance with the relevant provisions of the State, the public security organ shall handle and punish the matter in accordance with the provisions of the preceding paragraph.\nWhere a unit producing or storing highly toxic chemicals or explosives-precursor hazardous chemicals fails to establish a public security body or to be staffed with full-time public security personnel, the matter shall be handled and punished in accordance with the provisions of the laws and administrative regulations on internal public security of enterprises and public institutions."
+        },
+        "noLabel": {
+          "en": "Article 101."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 102,
+        "text": {
+          "en": "Where an enterprise producing packaging or containers for hazardous chemicals sells packaging or containers for hazardous chemicals that have not been inspected or have failed inspection, the market regulation department shall order correction within a time limit and impose a fine of not less than 200,000 yuan but not more than 500,000 yuan, and confiscate the illegal gains if any; where correction is not made within the time limit, it shall order suspension of production and business for rectification and impose a fine of not less than 10,000 yuan but not more than 50,000 yuan on the directly responsible person in charge and other directly responsible persons.\nWhere vessels transporting hazardous chemicals and the containers loaded on them are put into use without passing inspection, the maritime safety administration shall handle and punish the matter in accordance with the provisions of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 102."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 103,
+        "text": {
+          "en": "Where any of the following circumstances exists, the departments responsible for the supervision and administration of hazardous chemical safety shall, in accordance with the division of duties, order correction within a time limit and impose a fine of not less than 50,000 yuan but not more than 100,000 yuan; where correction is not made within the time limit, they shall order suspension of production and business for rectification and, until the original licensing authority revokes the relevant licensing documents, impose a fine of not less than 100,000 yuan but not more than 200,000 yuan, and impose a fine of not less than 20,000 yuan but not more than 50,000 yuan on the directly responsible person in charge and other directly responsible persons; where the relevant licensing documents are revoked, the market regulation department shall order it to complete registration of the change of business scope or revoke its business licence:\n(a) failing to register and establish archives for major hazard installations of hazardous chemicals in accordance with the relevant provisions of the State, failing to conduct periodic testing, assessment and monitoring, failing to formulate contingency plans, or failing to establish a safety responsibility system for major hazard installations;\n(b) failing to inspect reusable hazardous chemical packaging or containers before reuse, or using hazardous chemical packaging or containers with hidden safety dangers;\n(c) failing to install the relevant safety facilities and equipment at operation sites in light of the types and hazardous characteristics of the hazardous chemicals produced or stored, or failing to carry out routine maintenance and servicing of the safety facilities and equipment in accordance with national standards, industry standards or the relevant provisions of the State;\n(d) failing to conduct periodic safety assessments of its work safety conditions in accordance with the provisions of this Law;\n(e) failing to store hazardous chemicals in dedicated storage sites, or failing to store highly toxic chemicals and other hazardous chemicals whose storage quantity constitutes a major hazard installation separately within dedicated storage sites;\n(f) the methods, means or quantities of storage of hazardous chemicals not complying with national standards or the relevant provisions of the State;\n(g) dedicated storage sites for hazardous chemicals not meeting the requirements of national or industry standards;\n(h) failing to periodically test and inspect the safety facilities and equipment of dedicated storage sites for hazardous chemicals, or, where the test or inspection fails, failing to discontinue use and carry out repair or replacement in accordance with the provisions;\n(i) an enterprise producing or storing hazardous chemicals or an enterprise using hazardous chemicals to engage in production failing to establish a system of tiered control of safety risks, failing to carry out identification and assessment of safety risks, failing to adopt the corresponding safety control measures according to the safety risk grade, or failing to carry out identification and assessment of safety risks anew when the processes, facilities, equipment, raw materials and the like change.\nWhere a port operator engaged in warehousing operations of hazardous chemicals falls under any of the circumstances specified in the preceding paragraph, the port administrative department shall handle and punish it in accordance with the provisions of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 103."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 104,
+        "text": {
+          "en": "Where any of the following circumstances exists, the public security organ shall order correction within a time limit and may impose a fine of not less than 20,000 yuan but not more than 100,000 yuan; where correction is not made within the time limit, a fine of not less than 100,000 yuan but not more than 200,000 yuan shall be imposed, and a fine of not less than 10,000 yuan but not more than 50,000 yuan shall be imposed on the directly responsible person in charge and other directly responsible persons:\n(a) a unit producing, storing or using highly toxic chemicals or explosives-precursor hazardous chemicals fails to truthfully record the varieties, quantities and destinations of the highly toxic chemicals or explosives-precursor hazardous chemicals it produces, stores or uses;\n(b) a unit producing, storing or using highly toxic chemicals or explosives-precursor hazardous chemicals discovers the loss or theft of the highly toxic chemicals or explosives-precursor hazardous chemicals but fails to immediately report to the public security organ;\n(c) a unit storing highly toxic chemicals fails to report the storage quantities and storage locations of the highly toxic chemicals and information on management personnel to the public security organ of the county-level people's government of the place where it is located for the record;\n(d) a hazardous chemical production enterprise or business enterprise fails to truthfully record the name and address of the purchasing unit of highly toxic chemicals or explosives-precursor hazardous chemicals, the name and identity card number of the person handling the matter, and the varieties, quantities and uses of the highly toxic chemicals or explosives-precursor hazardous chemicals purchased, or keeps the sales records and related materials for less than three years;\n(e) a selling enterprise or purchasing unit of highly toxic chemicals or explosives-precursor hazardous chemicals fails to report the varieties, quantities and destination information of the highly toxic chemicals or explosives-precursor hazardous chemicals sold or purchased to the public security organ of the county-level people's government of the place where it is located for the record within the prescribed time limit;\n(f) a unit using highly toxic chemicals or explosives-precursor hazardous chemicals transfers the highly toxic chemicals or explosives-precursor hazardous chemicals it purchased in accordance with the provisions of this Law but fails to report the relevant circumstances to the public security organ of the county-level people's government of the place where it is located for the record within three days after the transfer.\nWhere an enterprise producing or storing hazardous chemicals, an enterprise using hazardous chemicals to engage in production, or an enterprise storing or loading and unloading hazardous chemicals within a port area fails to file the safety assessment report and the implementation of the rectification plan with the emergency management department or the port administrative department of the county-level people's government of the place where it is located in accordance with the provisions of this Law, the emergency management department or the port administrative department shall handle and punish the matter in accordance with the provisions of the preceding paragraph respectively.\nWhere a party fails to report the circumstances of highly toxic chemicals and major hazard installations of hazardous chemicals to the emergency management department, the port administrative department or the fire and rescue agency for the record in accordance with the provisions of this Law, the emergency management department, the port administrative department or the fire and rescue agency shall handle and punish the matter in accordance with the provisions of the first paragraph of this Article respectively."
+        },
+        "noLabel": {
+          "en": "Article 104."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 105,
+        "text": {
+          "en": "Where a unit producing, storing or using hazardous chemicals converts production, suspends production, suspends business or dissolves and fails to take effective measures to promptly and properly dispose of its hazardous chemical production installations, storage facilities and hazardous chemicals in stock, or discards hazardous chemicals, the emergency management department shall order correction within a time limit and impose a fine of not less than 100,000 yuan but not more than 500,000 yuan.\nWhere a unit producing, storing or using hazardous chemicals converts production, suspends production, suspends business or dissolves and fails to file the disposal plan for its hazardous chemical production installations, storage facilities and hazardous chemicals in stock with the relevant departments for the record in accordance with the provisions of this Law, the relevant departments shall respectively order correction within a time limit and may impose a fine of not less than 20,000 yuan but not more than 100,000 yuan; where correction is not made within the time limit, a fine of not less than 100,000 yuan but not more than 200,000 yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 105."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 106,
+        "text": {
+          "en": "Where a hazardous chemical business enterprise purchases hazardous chemicals from an enterprise that unlawfully produces or deals in hazardous chemicals without a licence, the emergency management department shall order correction within a time limit and impose a fine of not less than 200,000 yuan but not more than 500,000 yuan; where correction is not made within the time limit, it shall order suspension of business for rectification and, until the original licensing authority revokes its hazardous chemical business licence, impose a fine of not less than 50,000 yuan but not more than 100,000 yuan on the directly responsible person in charge and other directly responsible persons; where the relevant licensing documents are revoked, the market regulation department shall order it to complete registration of the change of business scope or revoke its business licence."
+        },
+        "noLabel": {
+          "en": "Article 106."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 107,
+        "text": {
+          "en": "Where a hazardous chemical production enterprise or business enterprise falls under any of the following circumstances, the emergency management department shall order correction within a time limit, confiscate the illegal gains, and impose a fine of not less than 200,000 yuan but not more than 500,000 yuan; where correction is not made within the time limit, it shall order suspension of production and business for rectification and, until the original licensing authority revokes its hazardous chemical work safety licence or hazardous chemical business licence, impose a fine of not less than 50,000 yuan but not more than 100,000 yuan on the directly responsible person in charge and other directly responsible persons; where the relevant licensing documents are revoked, the market regulation department shall order it to complete registration of the change of business scope or revoke its business licence:\n(a) selling highly toxic chemicals or explosives-precursor hazardous chemicals to units that do not have the relevant licensing documents or evidentiary documents specified in the first and second paragraphs of Article 58 of this Law;\n(b) failing to sell highly toxic chemicals in accordance with the varieties and quantities stated in the highly toxic chemical purchase permit;\n(c) selling highly toxic chemicals (except pesticides that are highly toxic chemicals) or explosives-precursor hazardous chemicals (except daily necessities such as food additives, medicines, veterinary medicines and disinfectants that contain explosives-precursor hazardous chemicals) to individuals.\nWhere a unit without the relevant licensing documents or evidentiary documents specified in the first and second paragraphs of Article 58 of this Law purchases highly toxic chemicals or explosives-precursor hazardous chemicals, or an individual purchases highly toxic chemicals (except pesticides that are highly toxic chemicals) or explosives-precursor hazardous chemicals (except daily necessities such as food additives, medicines, veterinary medicines and disinfectants that contain explosives-precursor hazardous chemicals), the public security organ shall confiscate the highly toxic chemicals or explosives-precursor hazardous chemicals purchased, and may concurrently impose a fine of not less than 20,000 yuan but not more than 50,000 yuan.\nWhere a unit using highly toxic chemicals or explosives-precursor hazardous chemicals lends the highly toxic chemicals or explosives-precursor hazardous chemicals it purchased, or transfers them to units that do not have the relevant licensing documents or evidentiary documents specified in the first and second paragraphs of Article 58 of this Law, or transfers to individuals the highly toxic chemicals (except pesticides that are highly toxic chemicals) or explosives-precursor hazardous chemicals (except daily necessities such as food additives, medicines, veterinary medicines and disinfectants that contain explosives-precursor hazardous chemicals) it purchased, the public security organ shall order correction within a time limit, confiscate the illegal gains, and impose a fine of not less than 100,000 yuan but not more than 500,000 yuan; where correction is not made within the time limit, it shall order suspension of production and business for rectification.\nWhere an act in violation of the provisions of this Law involves selling highly toxic chemicals or explosives-precursor hazardous chemicals on the Internet, the departments responsible for the supervision and administration of hazardous chemical safety shall, in accordance with the division of duties, handle and punish the matter in accordance with the provisions of the first paragraph of this Article."
+        },
+        "noLabel": {
+          "en": "Article 107."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 108,
+        "text": {
+          "en": "Where a party engages in the road or waterway transport of hazardous chemicals without obtaining a road transport licence for dangerous goods or the corresponding waterway transport licence for dangerous goods in accordance with law, or without completing filing formalities, the matter shall be handled and punished in accordance with the provisions of the laws and administrative regulations on road transport and waterway transport respectively."
+        },
+        "noLabel": {
+          "en": "Article 108."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 109,
+        "text": {
+          "en": "Where any of the following circumstances exists, the competent department of transport shall order correction within a time limit and impose a fine of not less than 50,000 yuan but not more than 500,000 yuan; where correction is not made within the time limit, it shall order suspension of production and business for rectification and impose a fine of not less than 10,000 yuan but not more than 50,000 yuan on the directly responsible person in charge and other directly responsible persons:\n(a) the drivers, seafarers, loading and unloading managers, escorts, declarants or container packing on-site inspectors of a road or waterway transport enterprise of hazardous chemicals work without having obtained practice qualifications;\n(b) the loading and unloading of hazardous chemicals fails to comply with the safety operation standards, procedures and systems, or is not carried out under the on-site command or monitoring of loading and unloading managers;\n(c) the container packing of hazardous chemicals transported by waterway is not carried out under the command or monitoring of a container packing on-site inspector, or does not comply with the norms and requirements for stowage and segregation;\n(d) in transporting hazardous chemicals, the corresponding safety protection measures are not adopted in light of the hazardous characteristics of the hazardous chemicals, or the necessary protective articles and emergency rescue apparatus, equipment, devices and materials are not provided;\n(e) a road transport enterprise of hazardous chemicals fails to carry out real-time monitoring and management of the operating status of transport vehicles and drivers;\n(f) using vessels that have not obtained a certificate of fitness for the carriage of dangerous goods in accordance with law to transport hazardous chemicals through inland waters;\n(g) a carrier transporting hazardous chemicals through inland waters violates the restrictive provisions of the competent department of transport of the State Council on the quantity of hazardous chemicals transported per vessel;\n(h) inland river wharves or berths used for hazardous chemical transport operations do not comply with the relevant national safety norms, do not maintain the safety distance prescribed by the State from drinking water intake points, or are put into use without passing acceptance inspection in accordance with the relevant provisions of the State;\n(i) the shipper fails to submit to the carrier an electronic or paper list of consigned dangerous goods stating the relevant circumstances of the hazardous chemicals consigned, fails to provide safety data sheets, or fails to properly pack the hazardous chemicals consigned in accordance with the relevant provisions of the State and affix, print or attach to the packaging chemical safety labels in Chinese corresponding to the hazardous chemicals in the packaging;\n(j) where inhibitors or stabilisers need to be added to hazardous chemicals for transport, the shipper fails to add them in accordance with the provisions or fails to inform the carrier of the relevant circumstances.\nWhere a declarant or container packing on-site inspector of a waterway transport enterprise violates the provisions of laws, administrative regulations or rules on the safety management of hazardous chemicals, the competent department of transport shall order correction within a time limit and issue a warning; where the circumstances are serious, it shall order suspension of practice activities and, in the most serious cases, revoke their practice qualifications."
+        },
+        "noLabel": {
+          "en": "Article 109."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 110,
+        "text": {
+          "en": "Where any of the following circumstances exists, the competent department of transport shall order correction within a time limit and impose a fine of not less than 200,000 yuan but not more than 300,000 yuan, and confiscate the illegal gains if any; where correction is not made within the time limit, it shall order suspension of production and business for rectification and impose a fine of not less than 10,000 yuan but not more than 50,000 yuan on the directly responsible person in charge and other directly responsible persons:\n(a) entrusting a unit or individual that has not obtained the corresponding licence or completed filing formalities in accordance with law with the carriage of hazardous chemicals;\n(b) transporting highly toxic chemicals through enclosed inland waters;\n(c) transporting through inland waters hazardous chemicals whose transport through inland waters is prohibited by the State;\n(d) a vessel carrying hazardous chemicals failing to report in advance to the operating unit of navigation structures when passing through them in inland waters, or failing to comply with the administration of the competent department of transport;\n(e) including hazardous chemicals in ordinary goods consigned, or concealing or falsely declaring hazardous chemicals as ordinary goods for consignment.\nWhere a postal enterprise or express delivery enterprise accepts hazardous chemicals for delivery, the matter shall be handled and punished in accordance with the provisions of the Postal Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 110."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 111,
+        "text": {
+          "en": "Where any of the following circumstances exists, the public security organ shall order correction within a time limit and impose a fine of not less than 100,000 yuan but not more than 200,000 yuan:\n(a) loading hazardous chemicals in excess of the rated load capacity of the transport vehicle;\n(b) using vehicles whose safety technical conditions do not meet the requirements of national standards to transport hazardous chemicals;\n(c) vehicles transporting hazardous chemicals entering areas where the passage of hazardous chemical transport vehicles is restricted without the approval of the public security organ;\n(d) transporting highly toxic chemicals by road without obtaining a highly toxic chemical road transport pass."
+        },
+        "noLabel": {
+          "en": "Article 111."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 112,
+        "text": {
+          "en": "Where any of the following circumstances exists, the public security organ shall order correction within a time limit and impose a fine of not less than 50,000 yuan but not more than 100,000 yuan:\n(a) a hazardous chemical transport vehicle fails to display or paint warning marks, or obscures or removes them, or the warning marks do not meet the requirements of national standards;\n(b) in transporting hazardous chemicals by road, escorts are not provided as required;\n(c) where a relatively long stop is required en route in the transport of highly toxic chemicals or explosives-precursor hazardous chemicals, the driver or escort fails to report to the local public security organ;\n(d) where highly toxic chemicals or explosives-precursor hazardous chemicals are lost, stolen, robbed or disperse or leak during road transport, the driver or escort fails to adopt the corresponding warning and safety measures, or fails to report to the local public security organ."
+        },
+        "noLabel": {
+          "en": "Article 112."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 113,
+        "text": {
+          "en": "For a road transport enterprise of hazardous chemicals that bears full or primary responsibility for a traffic accident, the public security organ shall order it to eliminate the hidden safety dangers, and hazardous chemical transport vehicles that have not eliminated the hidden safety dangers shall be prohibited from driving on roads."
+        },
+        "noLabel": {
+          "en": "Article 113."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 114,
+        "text": {
+          "en": "Where any of the following circumstances exists, the competent department of transport shall order correction within a time limit and may impose a fine of not more than 50,000 yuan; where correction is not made within the time limit, a fine of not less than 50,000 yuan but not more than 100,000 yuan shall be imposed:\n(a) a road or waterway transport enterprise of hazardous chemicals is not staffed with full-time work safety management personnel;\n(b) the management unit of an inland river wharf or berth used for hazardous chemical transport operations fails to formulate a contingency plan for hazardous chemical accidents at the wharf or berth, or fails to provide the wharf or berth with sufficient and effective emergency rescue apparatus, equipment, devices and materials."
+        },
+        "noLabel": {
+          "en": "Article 114."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 115,
+        "text": {
+          "en": "Where any of the following circumstances exists, the matter shall be handled and punished in accordance with the provisions of the laws and administrative regulations on inland waterway traffic safety management:\n(a) a waterway transport enterprise transporting hazardous chemicals through inland waters fails to formulate a contingency plan for emergency rescue from hazardous chemical accidents involving transport vessels, or fails to provide transport vessels with sufficient and effective emergency rescue apparatus, equipment, devices and materials;\n(b) the owner or operator of a vessel transporting hazardous chemicals through inland waters fails to obtain a certificate of insurance or other financial security for vessel pollution damage liability;\n(c) a vessel carrying hazardous chemicals fails to report to the maritime safety administration and obtain its consent in accordance with the provisions of laws and administrative regulations when entering or leaving an inland river port;\n(d) a vessel carrying hazardous chemicals navigating, loading or unloading, or berthing in inland waters fails to display dedicated warning marks, fails to display dedicated signals in accordance with the provisions, or fails to apply for pilotage in accordance with the provisions.\nWhere the loading and unloading or transhipment of hazardous chemicals is carried out within an inland river port without reporting to the port administrative department and obtaining its consent, the matter shall be handled and punished in accordance with the provisions of the Port Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 115."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 116,
+        "text": {
+          "en": "Where a hazardous chemical work safety licence or industrial product production licence is forged, altered, leased, lent or transferred, or a forged or altered hazardous chemical work safety licence or industrial product production licence is used, the matter shall be handled and punished in accordance with the provisions of the laws and administrative regulations on work safety licensing and on industrial product production licensing respectively.\nWhere any other licence prescribed by this Law is forged, altered, leased, lent or transferred, or a forged or altered licence prescribed by this Law is used, the authority issuing and administering the relevant licence shall respectively impose a fine of not less than 200,000 yuan but not more than 300,000 yuan and confiscate the illegal gains if any."
+        },
+        "noLabel": {
+          "en": "Article 116."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 117,
+        "text": {
+          "en": "Where a hazardous chemical accident occurs in a hazardous chemical unit and its principal person in charge fails to immediately organise rescue or to immediately report to the relevant departments, the matter shall be handled and punished in accordance with the provisions of the laws and administrative regulations on the reporting and investigation and handling of production safety accidents.\nWhere the principal person in charge of a hazardous chemical unit fails to perform work safety management duties, resulting in a production safety accident, the person shall be restricted from practising in accordance with the provisions of the Work Safety Law of the People's Republic of China.\nWhere a hazardous chemical accident occurs in a hazardous chemical unit and causes personal injury or property loss to others, the unit shall bear liability for compensation in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 117."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 118,
+        "text": {
+          "en": "Where a hazardous chemical accident occurs and the relevant local people's government or its relevant departments fail to immediately organise and carry out rescue, or fail to adopt the necessary emergency handling measures to reduce accident losses and prevent the spread and escalation of the accident, sanctions shall be imposed in accordance with law on the leading personnel and directly responsible persons bearing responsibility."
+        },
+        "noLabel": {
+          "en": "Article 118."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 119,
+        "text": {
+          "en": "Where staff of the departments responsible for the supervision and administration of hazardous chemical safety abuse their powers, derelict their duties or engage in malpractices for personal gain in the supervision and administration of hazardous chemical safety, sanctions shall be imposed in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 119."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 120,
+        "text": {
+          "en": "Where an act in violation of the provisions of this Law constitutes a violation of public security administration, public security administration punishment shall be imposed in accordance with law; where a crime is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 120."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 121,
+        "text": {
+          "en": "The safety management of monitored chemicals and of medicines and pesticides that are hazardous chemicals shall be carried out in accordance with the provisions of this Law; where laws or administrative regulations provide otherwise, those provisions shall apply.\nThis Law does not apply to the safety management of civil explosives, fireworks and firecrackers, radioactive articles, nuclear energy substances and hazardous chemicals used for national defence research and production.\nWhere laws or administrative regulations provide otherwise for the safety management of gas, those provisions shall apply.\nWhere containers for hazardous chemicals are special equipment, their safety management shall be carried out in accordance with the provisions of the laws and administrative regulations on the safety of special equipment."
+        },
+        "noLabel": {
+          "en": "Article 121."
+        },
+        "chapter": {
+          "en": "Chapter X Supplementary Provisions"
+        }
+      },
+      {
+        "no": 122,
+        "text": {
+          "en": "The administration of the import and export of hazardous chemicals shall be carried out in accordance with the provisions of the laws, administrative regulations and rules on foreign trade; where the export of hazardous chemicals involves controlled items prescribed by the Export Control Law of the People's Republic of China, the provisions of the laws, administrative regulations and rules on export control shall apply; the safety management of the storage, use, business operation and transport of imported hazardous chemicals shall be carried out in accordance with the provisions of this Law."
+        },
+        "noLabel": {
+          "en": "Article 122."
+        },
+        "chapter": {
+          "en": "Chapter X Supplementary Provisions"
+        }
+      },
+      {
+        "no": 123,
+        "text": {
+          "en": "Ownerless hazardous chemicals discovered or picked up by the public shall be taken over by the public security organ or the emergency management department. Where hazardous chemicals taken over by the relevant departments or confiscated in accordance with law require disposal, they shall be handed over to the competent department of ecology and environment, which shall arrange for a specialised unit recognised by it to carry out the disposal, or handed over to the relevant hazardous chemical production enterprise for disposal. The costs of disposal shall be borne by the government."
+        },
+        "noLabel": {
+          "en": "Article 123."
+        },
+        "chapter": {
+          "en": "Chapter X Supplementary Provisions"
+        }
+      },
+      {
+        "no": 124,
+        "text": {
+          "en": "Where the hazardous characteristics of a chemical have not yet been determined, the departments of emergency management, ecology and environment and health of the State Council shall respectively be responsible for organising the identification of the physical hazards, ecological and environmental hazards and toxicological characteristics of that chemical. Where the catalogue of hazardous chemicals needs to be adjusted on the basis of the identification results, the matter shall be handled in accordance with the provisions of the second paragraph of Article 3 of this Law.\nWhere the hazardous characteristics of a chemical have not yet been determined, no unit or individual may, without authorisation, engage in the production, storage, use, business operation, transport or other activities involving that chemical."
+        },
+        "noLabel": {
+          "en": "Article 124."
+        },
+        "chapter": {
+          "en": "Chapter X Supplementary Provisions"
+        }
+      },
+      {
+        "no": 125,
+        "text": {
+          "en": "The production of hazardous chemicals within a port area and the production installations for the use of hazardous chemicals and the storage tanks connected to them shall be subject to the safety supervision and administration of the emergency management department; the storage tanks connected only to hazardous chemical wharves shall be subject to the safety supervision and administration of the port administrative department."
+        },
+        "noLabel": {
+          "en": "Article 125."
+        },
+        "chapter": {
+          "en": "Chapter X Supplementary Provisions"
+        }
+      },
+      {
+        "no": 126,
+        "text": {
+          "en": "The safety management of hazardous chemicals of the Chinese People's Liberation Army and the Chinese People's Armed Police Force shall be carried out in accordance with the relevant provisions of this Law and the provisions of the Central Military Commission."
+        },
+        "noLabel": {
+          "en": "Article 126."
+        },
+        "chapter": {
+          "en": "Chapter X Supplementary Provisions"
+        }
+      },
+      {
+        "no": 127,
+        "text": {
+          "en": "This Law shall come into force on 1 May 2026."
+        },
+        "noLabel": {
+          "en": "Article 127."
+        },
+        "chapter": {
+          "en": "Chapter X Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0279'] = {
+    "lawId": "CN-LAW-0279",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 132 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is enacted in accordance with the Constitution in order to protect the physical and mental health of minors, safeguard the lawful rights and interests of minors, promote the all-round development of minors in moral, intellectual, physical, aesthetic and labour education, cultivate socialist builders and successors who have ideals, moral integrity, culture and discipline, and cultivate a new generation capable of undertaking the mission of national rejuvenation."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "For the purposes of this Law, minors means citizens under the age of 18."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The State safeguards the rights of minors to survival, development, protection and participation.\nMinors enjoy all rights equally in accordance with law, and shall not be discriminated against on the grounds of their own or their parents' or other guardians' ethnic identity, race, sex, household registration, occupation, religious belief, level of education, family circumstances, physical and mental health or the like."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The protection of minors shall adhere to the principle of what is in the best interests of minors. Matters involving minors shall be handled in compliance with the following requirements:\n(a) giving minors special and priority protection;\n(b) respecting the personal dignity of minors;\n(c) protecting the privacy and personal information of minors;\n(d) adapting to the patterns and characteristics of the physical and mental development of minors;\n(e) soliciting the opinions of minors;\n(f) combining protection with education."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The State, society, schools and families shall provide minors with education in ideals, morality, science, culture, the rule of law, national security, health and labour, strengthen education in patriotism, collectivism and socialism with Chinese characteristics, cultivate public morality that loves the motherland, the people, labour, science and socialism, resist the erosion of capitalism, feudalism and other decadent ideas, and guide minors to establish and practise the core socialist values."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The protection of minors is the common responsibility of State organs, the armed forces, political parties, people's organisations, enterprises and public institutions, social organisations, urban and rural grassroots mass self-governing organisations, guardians of minors and other adults.\nThe State, society, schools and families shall educate and help minors to safeguard their own lawful rights and interests and to strengthen their awareness and capacity for self-protection."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The parents or other guardians of minors shall, in accordance with law, assume the duty of guardianship over minors.\nThe State takes measures to guide, support, help and supervise the parents or other guardians of minors in performing their duty of guardianship."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "People's governments at or above the county level shall incorporate work on the protection of minors into national economic and social development plans, and include the relevant funds in the budgets of the governments at the corresponding level."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "People's governments at all levels shall attach importance to and strengthen work on the protection of minors. The bodies of people's governments at or above the county level responsible for work on women and children shall be responsible for the organisation, coordination, guidance and supervision of work on the protection of minors, and the relevant departments shall do the relevant work well within the scope of their respective duties."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Communist Youth League organisations, women's federations, trade unions, federations of persons with disabilities, working committees for the care of the next generation, youth federations, student federations, the Young Pioneers and other people's organisations and the relevant social organisations shall assist people's governments at all levels and their relevant departments, people's procuratorates and people's courts in doing work on the protection of minors well and in safeguarding the lawful rights and interests of minors."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Any organisation or individual that discovers circumstances adverse to the physical or mental health of minors or circumstances infringing the lawful rights and interests of minors has the right to dissuade, stop or report or complain to the departments of public security, civil affairs, education and other relevant departments.\nWhere State organs, residents' committees, villagers' committees, units in close contact with minors and their staff discover in the course of work that the physical or mental health of a minor has been infringed, is suspected of having been infringed, or that the minor faces other dangers, they shall immediately report to the departments of public security, civil affairs, education and other relevant departments.\nWhere the relevant departments receive reports or complaints involving minors, they shall promptly accept and handle them in accordance with law, and inform the relevant units and persons of the handling results in an appropriate manner."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The State encourages and supports scientific research on the protection of minors, develops the relevant disciplines, establishes the relevant specialities, and strengthens the cultivation of personnel."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The State establishes and improves a statistical survey system for minors, carries out statistics, surveys and analysis of the health, education and other circumstances of minors, and publishes the relevant information on the protection of minors."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The State commends and rewards organisations and individuals that make notable achievements in protecting minors."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The parents or other guardians of minors shall learn knowledge of family education, accept guidance on family education, and create a sound, harmonious and civilised family environment.\nOther adult family members living together shall assist the parents or other guardians of minors in raising, educating and protecting minors."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Family Protection"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The parents or other guardians of minors shall perform the following duties of guardianship:\n(a) providing minors with guarantees in respect of livelihood, health and safety;\n(b) attending to the physical and psychological conditions and emotional needs of minors;\n(c) educating and guiding minors to obey the law and observe discipline, to be diligent and thrifty, and to develop sound moral character and behavioural habits;\n(d) providing safety education to minors and enhancing their awareness and capacity for self-protection;\n(e) respecting the right of minors to education and ensuring that school-age minors receive and complete compulsory education in accordance with law;\n(f) ensuring time for minors to rest, enjoy recreation and take physical exercise, and guiding minors in activities beneficial to their physical and mental health;\n(g) properly administering and protecting the property of minors;\n(h) acting as agent for minors in civil juristic acts in accordance with law;\n(i) preventing and stopping bad behaviour and illegal or criminal behaviour of minors, and exercising reasonable discipline;\n(j) other duties of guardianship that ought to be performed."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Family Protection"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The parents or other guardians of minors may not commit the following acts:\n(a) maltreating, abandoning or unlawfully giving a minor up for adoption, or committing domestic violence against a minor;\n(b) indulging, instigating or using minors to commit illegal or criminal acts;\n(c) indulging or instigating minors to participate in cults or superstition, or to be subjected to harm by terrorism, separatism, extremism or the like;\n(d) indulging or instigating minors to smoke (including e-cigarettes, the same below), drink alcohol, gamble, wander and beg, or bully others;\n(e) indulging or forcing minors who ought to receive compulsory education to drop out of or be absent from school;\n(f) indulging minors in internet addiction or in access to books, newspapers, periodicals, films, radio and television programmes, audio-visual products, electronic publications, online information and the like that are harmful or may affect their physical and mental health;\n(g) indulging minors in entering commercial entertainment venues, bars, internet access service premises and other premises unsuitable for minors' activities;\n(h) permitting or forcing minors to engage in labour other than that prescribed by the State;\n(i) permitting or forcing minors to marry or concluding a betrothal for minors;\n(j) unlawfully disposing of or misappropriating the property of minors, or using minors to obtain improper benefits;\n(k) other acts infringing the physical or mental health or property rights and interests of minors or failing to perform the obligation of protecting minors in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Family Protection"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The parents or other guardians of minors shall provide a safe family living environment for minors, promptly eliminate hidden safety dangers that may cause electric shock, scalding, falls and other injuries; adopt measures such as installing child safety seats and educating minors to observe traffic rules, so as to prevent minors from being injured in traffic accidents; and raise awareness of outdoor safety protection, so as to prevent minors from drowning, being injured by animals and other accidents."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Family Protection"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The parents or other guardians of minors shall, in light of the age and intellectual development of the minors, solicit their opinions before making decisions relating to their rights and interests, and give full consideration to their true wishes."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Family Protection"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where the parents or other guardians of minors discover that the physical or mental health of a minor has been infringed or is suspected of having been infringed, or that other lawful rights and interests of the minor have been infringed, they shall promptly ascertain the circumstances and adopt protective measures; where the circumstances are serious, they shall immediately report to the departments of public security, civil affairs, education and other relevant departments."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Family Protection"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The parents or other guardians of minors may not leave minors under the age of eight, or minors requiring special care for physical or psychological reasons, without any person to look after them, nor place them temporarily in the care of persons without capacity for civil conduct or with limited capacity for civil conduct, persons suffering from serious infectious diseases or other persons unsuitable for such care.\nThe parents or other guardians of minors may not allow minors under the age of 16 to live apart from them without guardianship."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Family Protection"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Where the parents or other guardians of minors cannot fully perform their duties of guardianship within a certain period because they work elsewhere or for other reasons, they shall entrust the care of the minors to a person with full capacity for civil conduct who has the capacity to provide care; they may not entrust the care to others without justified reasons.\nWhen determining the entrusted person, the parents or other guardians of minors shall comprehensively consider the person's moral character, family circumstances, physical and mental health, emotional ties with the minors in daily life and other circumstances, and shall solicit the opinions of minors capable of expressing their wishes.\nA person falling under any of the following circumstances may not serve as an entrusted person:\n(a) having previously committed illegal or criminal acts such as sexual assault, maltreatment, abandonment, trafficking or violent injury;\n(b) having bad habits such as drug abuse, heavy drinking or gambling;\n(c) having previously refused to perform or having long been remiss in performing the duties of guardianship or care;\n(d) other circumstances rendering the person unsuitable to serve as an entrusted person."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter II Family Protection"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The parents or other guardians of minors shall promptly inform in writing the school and kindergarten attended by the minors and the residents' committee or villagers' committee of the place of actual residence of the entrusted care, strengthen communication with the school and kindergarten attended by the minors, and contact and communicate with the minors and the entrusted person at least once a week, so as to understand the minors' living, study and psychological circumstances and give them family affection and care.\nWhere the parents or other guardians of minors receive notice from the entrusted person, the residents' committee, the villagers' committee, the school, the kindergarten or the like concerning psychological or behavioural abnormalities of the minors, they shall promptly adopt intervention measures."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter II Family Protection"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Where the parents of a minor divorce, they shall properly handle matters such as the custody, education, visitation and property of the minor child, and shall solicit the opinions of the minor child who is capable of expressing wishes. They may not compete for custody by snatching or concealing the minor child or by other such means.\nAfter the parents of a minor divorce, the parent who does not directly raise the minor child shall visit the child in accordance with the time and manner determined by their agreement, the judgment of the people's court or the mediation, without affecting the child's study and life, and the parent who directly raises the child shall cooperate, except where the right of visitation has been suspended by the people's court in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter II Family Protection"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Schools shall comprehensively implement the educational policy of the State, adhere to fostering virtue through education, implement education for all-round development, improve the quality of education, focus on cultivating the cognitive ability, cooperative ability, innovative ability and practical ability of minor students, and promote their all-round development.\nSchools shall establish a system for the protection of minor students, improve codes of student conduct, and cultivate in minor students good behavioural habits of obeying the law and observing discipline."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III School Protection"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Kindergartens shall do well in nursing and education work, follow the patterns of physical and mental development of young children, implement enlightenment education, and promote the harmonious development of young children in physique, intelligence, moral character and other aspects."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III School Protection"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The teaching and administrative staff of schools and kindergartens shall respect the personal dignity of minors, and may not impose corporal punishment, corporal punishment in disguised form or other acts insulting personal dignity on minors."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III School Protection"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Schools shall safeguard the right of minor students to education, and may not expel or expel in disguised form minor students in violation of the provisions of the State.\nSchools shall register minor students who have dropped out of school before completing compulsory education and persuade them to return to school; where persuasion is ineffective, they shall promptly report in writing to the education administrative department."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III School Protection"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Schools shall care for and cherish minor students, and may not discriminate against students on the grounds of family, physical, psychological or learning ability circumstances. Care shall be provided to students from poor families and students with physical or mental impairments; patient assistance shall be given to students with abnormal behaviour or learning difficulties.\nSchools shall cooperate with the relevant government departments in establishing information files on left-behind minor students and minor students in difficulty, and carry out care and assistance work."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III School Protection"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Schools shall, in light of the characteristics of the physical and mental development of minor students, provide guidance on social life, psychological health counselling, adolescent education and life education."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III School Protection"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Schools shall organise minor students to participate in daily life labour, productive labour and service labour suited to their age, help minor students acquire the necessary labour knowledge and skills, and cultivate good labour habits."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III School Protection"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Schools and kindergartens shall carry out publicity and education activities on diligence and thrift, opposing waste, cherishing food and civilised eating, help minors develop the awareness that waste is shameful and thrift is honourable, and cultivate civilised, healthy, green and environmentally friendly living habits."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III School Protection"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Schools shall cooperate with the parents or other guardians of minor students to reasonably arrange the study time of minor students and ensure their time for rest, recreation and physical exercise.\nSchools may not occupy national statutory holidays, rest days, and winter and summer vacations to organise collective supplementary lessons for minor students at the compulsory education stage, thereby increasing their study burden.\nKindergartens and off-campus training institutions may not provide primary school curriculum education to pre-school minors."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter III School Protection"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Schools and kindergartens shall provide the necessary health care conditions and assist the health departments in doing well the health care work of minors at school and in kindergarten."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter III School Protection"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Schools and kindergartens shall establish safety management systems, provide safety education to minors, improve security facilities and be staffed with security personnel, so as to safeguard the personal and property safety of minors while at school and in kindergarten.\nSchools and kindergartens may not conduct education and teaching activities in school buildings and other facilities or premises that endanger the personal safety or physical and mental health of minors.\nWhere schools and kindergartens arrange for minors to participate in collective activities such as cultural recreation and social practice, they shall protect the physical and mental health of minors and prevent accidents causing personal injury."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter III School Protection"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Schools and kindergartens using school buses shall establish and improve school bus safety management systems, be staffed with safety management personnel, periodically carry out safety inspections of school buses, provide safety education to school bus drivers, explain to minors knowledge on safe riding in school buses, and cultivate minors' skills in emergency handling of school bus accidents."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter III School Protection"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Schools and kindergartens shall, as required, formulate contingency plans for responding to emergencies such as natural disasters, accidents and disasters, and public health incidents, as well as accidental injuries, be equipped with the corresponding facilities and conduct the necessary drills on a regular basis.\nWhere personal injury accidents occur to minors at school or in kindergarten, or in off-campus activities organised by the school or kindergarten, the school or kindergarten shall provide immediate rescue, handle the matter properly, promptly notify the parents or other guardians of the minors, and report to the relevant departments."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter III School Protection"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Schools and kindergartens may not arrange for minors to participate in commercial activities, and may not sell, or require minors and their parents or other guardians to purchase, designated goods and services.\nSchools and kindergartens may not cooperate with off-campus training institutions to provide paid course tutoring to minors."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter III School Protection"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Schools shall establish a system for the prevention and control of student bullying, and carry out education and training on the prevention and control of student bullying among teaching and administrative staff, students and others.\nSchools shall immediately stop acts of student bullying, notify the parents or other guardians of the minor students who commit and who suffer the bullying to participate in the identification and handling of the bullying, promptly provide psychological counselling, education and guidance to the minor students concerned, and provide the necessary guidance on family education to the parents or other guardians of the minor students concerned.\nFor minor students who commit bullying, schools shall, in accordance with law, strengthen discipline in light of the nature and degree of the bullying. For serious bullying, schools may not conceal it, and shall promptly report to the public security organ and the education administrative department and cooperate with the relevant departments in handling it in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter III School Protection"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Schools and kindergartens shall establish systems for the prevention of sexual assault and sexual harassment of minors. Schools and kindergartens may not conceal illegal or criminal acts such as sexual assault and sexual harassment of minors, and shall promptly report to the public security organ and the education administrative department and cooperate with the relevant departments in handling them in accordance with law.\nSchools and kindergartens shall provide sex education suited to the age of minors, so as to enhance minors' awareness and capacity for self-protection against sexual assault and sexual harassment. For minors who have suffered sexual assault or sexual harassment, schools and kindergartens shall promptly adopt the relevant protective measures."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter III School Protection"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Infant and toddler care service institutions, early education service institutions, off-campus training institutions, off-campus after-school care institutions and the like shall, by reference to the relevant provisions of this Chapter and in light of the growth characteristics and patterns of minors at different ages, do well in the protection of minors."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter III School Protection"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The whole of society shall foster a sound trend of caring for and cherishing minors.\nThe State encourages, supports and guides people's organisations, enterprises and public institutions, social organisations and other organisations and individuals to carry out social activities and services conducive to the healthy growth of minors."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter IV Social Protection"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Residents' committees and villagers' committees shall assign dedicated personnel to dedicated posts responsible for the protection of minors, assist the relevant government departments in publicising the laws and regulations on the protection of minors, guide, help and supervise the parents or other guardians of minors in performing their duties of guardianship in accordance with law, and establish information files on left-behind minors and minors in difficulty and provide care and assistance.\nResidents' committees and villagers' committees shall assist the relevant government departments in supervising entrusted care of minors and, where they discover that an entrusted person lacks the capacity to provide care or is remiss in performing the duty of care, shall promptly report to the relevant government departments, inform the parents or other guardians of the minors, and help and urge the entrusted person to perform the duty of care."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter IV Social Protection"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Patriotic education bases, libraries, youth palaces, children's activity centres and children's homes shall be open to minors free of charge; museums, memorial halls, science and technology museums, exhibition halls, art galleries, cultural centres, community public-interest internet access service premises, as well as cinemas and theatres, sports venues, zoos, botanical gardens, parks and other premises shall, in accordance with the relevant provisions, be open to minors free of charge or at a discount.\nThe State encourages public venues such as patriotic education bases, museums, science and technology museums and art galleries to hold special sessions for minors and provide targeted services for them.\nThe State encourages State organs, enterprises and public institutions, and the armed forces to develop their own educational resources, establish open days for minors, and provide support for thematic education, social practice and career experience for minors.\nThe State encourages scientific research institutions and scientific and technological social organisations to carry out science popularisation activities for minors."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter IV Social Protection"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Urban public transport and road, railway, waterway and air passenger transport shall, in accordance with the relevant provisions, apply free or discounted fares to minors."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter IV Social Protection"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "The State encourages large public premises, public means of transport and tourist attractions to provide nursing rooms, baby care tables, and sanitary facilities such as toilets and washbasins convenient for young children, so as to facilitate minors."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter IV Social Protection"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "No organisation or individual may, in violation of the relevant provisions, restrict the care or preferential treatment that minors ought to enjoy."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter IV Social Protection"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "The State encourages the creation, publication, production and dissemination of books, newspapers, periodicals, films, radio and television programmes, stage art works, audio-visual products, electronic publications and online information conducive to the healthy growth of minors."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter IV Social Protection"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "The news media shall strengthen publicity on the protection of minors and exercise public opinion supervision over acts infringing the lawful rights and interests of minors. When interviewing and reporting on events involving minors, the news media shall be objective, prudent and moderate, and may not infringe the reputation, privacy or other lawful rights and interests of minors."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter IV Social Protection"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "It is prohibited to produce, reproduce, publish, release or disseminate books, newspapers, periodicals, films, radio and television programmes, stage art works, audio-visual products, electronic publications, online information and the like that contain content advocating obscenity, pornography, violence, cults, superstition, gambling, incitement to suicide, terrorism, separatism, extremism or other content harmful to the physical and mental health of minors."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter IV Social Protection"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where books, newspapers, periodicals, films, radio and television programmes, stage art works, audio-visual products, electronic publications or online information published, released or disseminated by any organisation or individual contain content that may affect the physical and mental health of minors, a warning shall be given in a conspicuous manner."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter IV Social Protection"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "It is prohibited to produce, reproduce, publish, disseminate or possess obscene and pornographic articles and online information concerning minors."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter IV Social Protection"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "No organisation or individual may publish, broadcast, post or distribute advertisements containing content harmful to the physical and mental health of minors; may not broadcast, post or distribute commercial advertisements in schools or kindergartens; and may not publish or publish in disguised form commercial advertisements by using school uniforms, teaching materials and the like."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter IV Social Protection"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "It is prohibited to traffic, kidnap, maltreat or unlawfully adopt minors; it is prohibited to commit sexual assault or sexual harassment against minors.\nIt is prohibited to coerce, induce or instigate minors to join organisations of a mafia-like nature or to engage in illegal or criminal activities.\nIt is prohibited to coerce, deceive or use minors to beg."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter IV Social Protection"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Food, medicines, toys and appliances for minors, and video game equipment and amusement facilities produced or sold for minors shall comply with national or industry standards, and may not endanger the personal safety or physical and mental health of minors. The producers of the said products shall mark precautions in a conspicuous position; products without such precautions may not be sold."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter IV Social Protection"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Public premises where minors gather for activities shall comply with national or industry safety standards and adopt the corresponding safety protection measures. Facilities that may present safety risks shall be maintained periodically, marked conspicuously with safety warnings and marked with the applicable age range and precautions; where necessary, dedicated personnel shall be assigned to keep watch.\nThe operating units of large shopping malls, supermarkets, hospitals, libraries, museums, science and technology museums, amusement parks, stations, wharves, airports and tourist attractions shall install safety alarm systems for searching for lost minors. Upon receiving a request for help, the operating unit of the premises shall immediately activate the safety alarm system, organise personnel to search and report to the public security organ.\nWhen an emergency occurs in a public place, priority shall be given to rescuing minors."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter IV Social Protection"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where operators of accommodation such as inns, guesthouses and hotels receive minors for lodging, or receive minors lodging together with adults, they shall inquire about the contact details of the parents or other guardians, the identity relationship of the lodgers and other relevant circumstances; where any suspicion of illegal or criminal activity is discovered, they shall immediately report to the public security organ and promptly contact the parents or other guardians of the minors."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter IV Social Protection"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Premises unsuitable for minors' activities, such as commercial entertainment venues, bars and internet access service premises, may not be established in the vicinity of schools and kindergartens. Operators of premises unsuitable for minors' activities, such as commercial song-and-dance entertainment venues, bars and internet access service premises, may not allow minors to enter; electronic game equipment installed in amusement arcades may not be provided to minors except on national statutory holidays. Operators shall set up conspicuous signs prohibiting or restricting the entry of minors; where it is difficult to determine whether a person is a minor, they shall require the person to produce identity documents."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter IV Social Protection"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Outlets for the sale of tobacco, alcohol and lottery tickets may not be established in the vicinity of schools and kindergartens. It is prohibited to sell tobacco, alcohol or lottery tickets to minors or to pay out lottery prizes to minors. Operators of tobacco, alcohol and lottery tickets shall set up conspicuous signs stating that tobacco, alcohol or lottery tickets are not sold to minors; where it is difficult to determine whether a person is a minor, they shall require the person to produce identity documents.\nNo person may smoke or drink alcohol in schools, kindergartens or other public places where minors gather for activities."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter IV Social Protection"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "It is prohibited to provide or sell to minors controlled knives or other articles that may cause serious injury. Where an operator finds it difficult to determine whether a purchaser is a minor, it shall require the purchaser to produce identity documents."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter IV Social Protection"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "No organisation or individual may recruit minors under the age of 16, unless otherwise provided by the State.\nPremises unsuitable for minors' activities, such as commercial entertainment venues, bars and internet access service premises, may not recruit minors who have reached the age of 16.\nUnits and individuals recruiting minors who have reached the age of 16 shall comply with the provisions of the State on the type of work, working hours, labour intensity and protective measures, and may not arrange for them to engage in excessively heavy, toxic or harmful labour or dangerous operations that endanger their physical and mental health.\nNo organisation or individual may organise minors to engage in performances or other activities harmful to their physical and mental health. Where minors participate in performances, programme production and other activities with the consent of their parents or other guardians, the organiser of the activity shall, in accordance with the relevant provisions of the State, safeguard the lawful rights and interests of the minors."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter IV Social Protection"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "When recruiting staff, units in close contact with minors shall consult the public security organ and the people's procuratorate as to whether the applicants have records of illegal or criminal acts such as sexual assault, maltreatment, trafficking or violent injury; where such records are found, they may not be employed.\nUnits in close contact with minors shall periodically, once every year, consult whether their staff have the said records of illegal or criminal acts. Where it is found through consultation or other means that a staff member has committed such acts, the person shall be promptly dismissed."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter IV Social Protection"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "No organisation or individual may conceal, destroy or unlawfully delete the letters, diaries, emails or other online communication content of minors.\nExcept in the following circumstances, no organisation or individual may open or inspect the letters, diaries, emails or other online communication content of minors:\n(a) the parents or other guardians of a minor without capacity for civil conduct open or inspect them on the minor's behalf;\n(b) inspection is conducted in accordance with law for reasons of national security or the investigation of criminal offences;\n(c) in an emergency, in order to protect the personal safety of the minor."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter IV Social Protection"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "The State, society, schools and families shall strengthen publicity and education on the internet literacy of minors, cultivate and improve the internet literacy of minors, enhance their awareness and capacity to use the internet in a scientific, civilised, safe and rational manner, and safeguard the lawful rights and interests of minors in cyberspace."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter V Network Protection"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "The State encourages and supports the creation and dissemination of online content conducive to the healthy growth of minors, and encourages and supports the research, development, production and use of online technologies, products and services dedicated to serving minors and suited to the characteristics of their physical and mental health."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter V Network Protection"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "The cyberspace administration departments and other relevant departments shall strengthen supervision and inspection of work on the online protection of minors, punish in accordance with law activities using the internet to harm the physical and mental health of minors, and provide a safe and healthy online environment for minors."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter V Network Protection"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "The cyberspace administration departments shall, jointly with the departments of public security, culture and tourism, press and publication, film, and radio and television, determine, in light of the need to protect minors of different ages, the types, scope and criteria for judging online information that may affect the physical and mental health of minors."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter V Network Protection"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "The departments of press and publication, education, health, culture and tourism, and cyberspace administration shall periodically carry out publicity and education on preventing minors from becoming addicted to the internet, supervise providers of online products and services in performing their obligation to prevent minors from becoming addicted to the internet, and guide families, schools and social organisations to cooperate and adopt scientific and reasonable methods to prevent and intervene in minors' internet addiction.\nNo organisation or individual may intervene in minors' internet addiction in a manner that infringes their physical or mental health."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter V Network Protection"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "Internet access service facilities provided to minors by schools, communities, libraries, cultural centres, youth palaces and other premises shall be installed with software for the online protection of minors or be subject to other technical safety protection measures.\nManufacturers and sellers of smart terminal products shall install software for the online protection of minors on their products, or inform users in a conspicuous manner of the channels and methods for installing such software."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter V Network Protection"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "Schools shall use the internet reasonably for teaching activities. Without the permission of the school, minor students may not bring mobile phones and other smart terminal products into the classroom, and those brought into the school shall be managed centrally.\nWhere a school discovers that a minor student is addicted to the internet, it shall promptly inform the parents or other guardians and, together with them, educate and guide the minor student and help the student return to a normal study life."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter V Network Protection"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "The parents or other guardians of minors shall improve their own internet literacy, regulate their own use of the internet, and strengthen guidance and supervision of minors' use of the internet.\nThe parents or other guardians of minors shall, by installing software for the online protection of minors on smart terminal products and selecting service modes and management functions suited to minors, prevent minors from accessing online information that is harmful or may affect their physical and mental health, reasonably arrange the time minors spend online, and effectively prevent minors from becoming addicted to the internet."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter V Network Protection"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "Where information processors process the personal information of minors through the internet, they shall follow the principles of lawfulness, legitimacy and necessity. To process the personal information of minors under the age of 14, the consent of the minors' parents or other guardians shall be obtained, unless otherwise provided by laws or administrative regulations.\nWhere minors, their parents or other guardians request information processors to correct or delete the personal information of minors, the information processors shall promptly take measures to correct or delete it, unless otherwise provided by laws or administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter V Network Protection"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "Where a provider of online services discovers that a minor has published private information through the internet, it shall promptly give a warning and adopt the necessary protective measures."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter V Network Protection"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "Providers of online products and services may not provide minors with products and services that induce addiction.\nProviders of online services such as online games, live streaming, online audio and video, and online social networking shall, in respect of minors' use of their services, provide corresponding functions such as time management, permission management and consumption management.\nOnline education products and services targeting minors may not insert links to online games, or push advertisements and other information unrelated to teaching."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter V Network Protection"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "Online games may be operated only after approval in accordance with law.\nThe State establishes a unified electronic identity authentication system for minors' online games. Providers of online game services shall require minors to register and log in to online games with their real identity information.\nProviders of online game services shall, in accordance with the relevant provisions and standards of the State, classify game products, provide age-appropriate warnings, and adopt technical measures to prevent minors from accessing unsuitable games or game functions.\nProviders of online game services may not provide online game services to minors between 22:00 each day and 08:00 the following day."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter V Network Protection"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "Providers of live streaming services may not provide live streaming publisher account registration services to minors under the age of 16; when providing such services to minors who have reached the age of 16, they shall authenticate their identity information and obtain the consent of their parents or other guardians."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter V Network Protection"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "No organisation or individual may commit cyberbullying against minors through the internet in the form of text, images, audio or video, such as insulting, defaming, threatening or maliciously damaging their image.\nMinors who have suffered cyberbullying and their parents or other guardians have the right to notify providers of online services to take measures such as deletion, blocking and disconnection of links. Upon receiving the notice, the providers of online services shall promptly take the necessary measures to stop the cyberbullying and prevent the spread of the information."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter V Network Protection"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "Providers of online products and services shall establish convenient, reasonable and effective channels for complaints and reports, make public information such as the means of complaint and report, and promptly accept and handle complaints and reports involving minors."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Chapter V Network Protection"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "Any organisation or individual that discovers that online products or services contain information harmful to the physical and mental health of minors has the right to complain or report to the providers of the online products and services or to the departments of cyberspace administration, public security and other relevant departments."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Chapter V Network Protection"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "Where a provider of online services discovers that a user has published or disseminated information that may affect the physical and mental health of minors without a conspicuous warning, it shall give a warning or notify the user to give a warning; where no warning is given, the relevant information may not be transmitted.\nWhere a provider of online services discovers that a user has published or disseminated information containing content harmful to the physical and mental health of minors, it shall immediately stop transmitting the relevant information, take disposal measures such as deletion, blocking and disconnection of links, preserve the relevant records, and report to the departments of cyberspace administration, public security and other relevant departments.\nWhere a provider of online services discovers that a user is using its online services to commit illegal or criminal acts against minors, it shall immediately stop providing online services to that user, preserve the relevant records, and report to the public security organ."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Chapter V Network Protection"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "The functional department of the people's government at or above the county level that undertakes the specific work of the coordination mechanism for the protection of minors shall designate the relevant internal body or dedicated personnel to be responsible for work on the protection of minors.\nTownship people's governments and sub-district offices shall establish work stations for the protection of minors or designate dedicated personnel to promptly handle matters concerning minors, and shall support and guide residents' committees and villagers' committees in assigning dedicated personnel to dedicated posts to do well in the protection of minors."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Chapter VI Government Protection"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "People's governments at all levels shall incorporate guidance services on family education into the urban and rural public service system, carry out publicity on knowledge of family education, and encourage and support the relevant people's organisations, enterprises and public institutions and social organisations in carrying out guidance services on family education."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Chapter VI Government Protection"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "People's governments at all levels shall safeguard the right of minors to education, and take measures to ensure that left-behind minors, minors in difficulty and minors with disabilities receive compulsory education.\nFor minor students who have dropped out of school before completing compulsory education, the education administrative department shall order their parents or other guardians to send them to school to receive compulsory education."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Chapter VI Government Protection"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "People's governments at all levels shall develop childcare and pre-school education undertakings, run infant and toddler care service institutions and kindergartens well, and support social forces in establishing nursing rooms, infant and toddler care service institutions and kindergartens in accordance with law.\nLocal people's governments at or above the county level and their relevant departments shall cultivate and train the nursing and teaching staff of infant and toddler care service institutions and kindergartens, and improve their professional ethics and professional competence."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Chapter VI Government Protection"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "People's governments at all levels shall develop vocational education, ensure that minors receive vocational education or vocational skills training, and encourage and support people's organisations, enterprises and public institutions and social organisations in providing vocational skills training services to minors."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        },
+        "chapter": {
+          "en": "Chapter VI Government Protection"
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "People's governments at all levels shall ensure that minors with disabilities who have the ability to receive general education and can adapt to school life receive education in nearby general schools and kindergartens, and ensure that minors with disabilities who do not have the ability to receive general education receive pre-school education, compulsory education and vocational education in special education schools and kindergartens.\nPeople's governments at all levels shall ensure the conditions for running special education schools and kindergartens, and encourage and support social forces in establishing special education schools and kindergartens."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        },
+        "chapter": {
+          "en": "Chapter VI Government Protection"
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "Local people's governments and their relevant departments shall safeguard campus safety, supervise and guide schools, kindergartens and other units in implementing campus safety responsibilities, and establish mechanisms for reporting, handling and coordinating emergencies."
+        },
+        "noLabel": {
+          "en": "Article 87."
+        },
+        "chapter": {
+          "en": "Chapter VI Government Protection"
+        }
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "Public security organs and other relevant departments shall, in accordance with law, maintain public order and traffic order in the vicinity of schools, install monitoring equipment and traffic safety facilities, and prevent and stop illegal and criminal acts infringing upon minors."
+        },
+        "noLabel": {
+          "en": "Article 88."
+        },
+        "chapter": {
+          "en": "Chapter VI Government Protection"
+        }
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "Local people's governments shall establish and improve activity premises and facilities suited to minors, support the construction and operation of public-interest activity premises and facilities for minors, encourage social forces to establish activity premises and facilities suited to minors, and strengthen administration.\nLocal people's governments shall take measures to encourage and support schools in opening their cultural and sports facilities to minors free of charge or at a discount during national statutory holidays, rest days, and winter and summer vacations.\nLocal people's governments shall take measures to prevent any organisation or individual from encroaching on or damaging the sites, buildings and facilities of activity premises for minors such as schools, kindergartens and infant and toddler care service institutions."
+        },
+        "noLabel": {
+          "en": "Article 89."
+        },
+        "chapter": {
+          "en": "Chapter VI Government Protection"
+        }
+      },
+      {
+        "no": 90,
+        "text": {
+          "en": "People's governments at all levels and their relevant departments shall provide health care and nutritional guidance to minors and provide health care services.\nThe health departments shall, in accordance with law, regulate the vaccination of minors, prevent and treat common and frequently occurring diseases of minors, strengthen the prevention, control, supervision and administration of infectious diseases, do well in injury prevention and intervention, and guide and supervise schools, kindergartens and infant and toddler care service institutions in carrying out health care work.\nThe education administrative departments shall strengthen psychological health education for minors and establish mechanisms for the early discovery of and prompt intervention in psychological problems of minors. The health departments shall do well in psychological treatment, psychological crisis intervention, and early identification, diagnosis and treatment of mental disorders of minors."
+        },
+        "noLabel": {
+          "en": "Article 90."
+        },
+        "chapter": {
+          "en": "Chapter VI Government Protection"
+        }
+      },
+      {
+        "no": 91,
+        "text": {
+          "en": "People's governments at all levels and their relevant departments shall implement classified guarantees for minors in difficulty and take measures to meet their basic needs in respect of livelihood, education, safety, medical rehabilitation and housing."
+        },
+        "noLabel": {
+          "en": "Article 91."
+        },
+        "chapter": {
+          "en": "Chapter VI Government Protection"
+        }
+      },
+      {
+        "no": 92,
+        "text": {
+          "en": "Where any of the following circumstances exists, the civil affairs department shall, in accordance with law, exercise temporary guardianship over the minor:\n(a) the minor wanders and begs or his identity is unknown, and his parents or other guardians cannot be found for the time being;\n(b) the guardian's whereabouts are unknown and no other person can serve as guardian;\n(c) the guardian is unable to perform the duty of guardianship for objective reasons of his own or because of emergencies such as natural disasters, accidents and disasters, or public health incidents, resulting in the absence of guardianship over the minor;\n(d) the guardian refuses or is remiss in performing the duty of guardianship, resulting in the minor being left without care;\n(e) the guardian instigates or uses the minor to commit illegal or criminal acts and the minor needs to be taken away and resettled;\n(f) the minor has suffered serious harm from the guardian or faces a threat to personal safety and needs emergency resettlement;\n(g) other circumstances prescribed by law."
+        },
+        "noLabel": {
+          "en": "Article 92."
+        },
+        "chapter": {
+          "en": "Chapter VI Government Protection"
+        }
+      },
+      {
+        "no": 93,
+        "text": {
+          "en": "For minors under temporary guardianship, the civil affairs department may arrange resettlement by entrusting relatives with raising them or by family foster care, or may deliver them to a minor rescue and protection institution or a child welfare institution for shelter and raising.\nDuring temporary guardianship, where the civil affairs department, upon assessment, finds that the guardian again meets the conditions for performing the duty of guardianship, it may return the minor to the guardian for raising."
+        },
+        "noLabel": {
+          "en": "Article 93."
+        },
+        "chapter": {
+          "en": "Chapter VI Government Protection"
+        }
+      },
+      {
+        "no": 94,
+        "text": {
+          "en": "Where any of the following circumstances exists, the civil affairs department shall, in accordance with law, exercise long-term guardianship over the minor:\n(a) the parents or other guardians of the minor cannot be found;\n(b) the guardian has died or has been declared dead and no other person can serve as guardian;\n(c) the guardian has lost the capacity for guardianship and no other person can serve as guardian;\n(d) the people's court has ruled to disqualify the guardian and designated the civil affairs department as guardian;\n(e) other circumstances prescribed by law."
+        },
+        "noLabel": {
+          "en": "Article 94."
+        },
+        "chapter": {
+          "en": "Chapter VI Government Protection"
+        }
+      },
+      {
+        "no": 95,
+        "text": {
+          "en": "After conducting an adoption assessment, the civil affairs department may, in accordance with law, deliver the minor under its long-term guardianship to a qualified applicant for adoption. Once the adoptive relationship is established, the guardianship relationship between the civil affairs department and the minor shall terminate."
+        },
+        "noLabel": {
+          "en": "Article 95."
+        },
+        "chapter": {
+          "en": "Chapter VI Government Protection"
+        }
+      },
+      {
+        "no": 96,
+        "text": {
+          "en": "Where the civil affairs department assumes the duty of temporary or long-term guardianship, the departments of finance, education, health and public security shall cooperate in accordance with their respective duties.\nPeople's governments at or above the county level and their civil affairs departments shall, as required, establish minor rescue and protection institutions and child welfare institutions responsible for sheltering and raising minors under the guardianship of the civil affairs departments."
+        },
+        "noLabel": {
+          "en": "Article 96."
+        },
+        "chapter": {
+          "en": "Chapter VI Government Protection"
+        }
+      },
+      {
+        "no": 97,
+        "text": {
+          "en": "People's governments at or above the county level shall open a unified national hotline for the protection of minors, so as to promptly accept and refer complaints and reports infringing the lawful rights and interests of minors; they shall encourage and support people's organisations, enterprises and public institutions and social organisations in participating in the development of service platforms, service hotlines and service stations for the protection of minors, and in providing consultation and assistance on the protection of minors."
+        },
+        "noLabel": {
+          "en": "Article 97."
+        },
+        "chapter": {
+          "en": "Chapter VI Government Protection"
+        }
+      },
+      {
+        "no": 98,
+        "text": {
+          "en": "The State establishes an information inquiry system for persons who have committed illegal or criminal acts such as sexual assault, maltreatment, trafficking and violent injury, and provides free inquiry services to units in close contact with minors."
+        },
+        "noLabel": {
+          "en": "Article 98."
+        },
+        "chapter": {
+          "en": "Chapter VI Government Protection"
+        }
+      },
+      {
+        "no": 99,
+        "text": {
+          "en": "Local people's governments shall cultivate, guide and regulate the participation of the relevant social organisations and social workers in work on the protection of minors, carry out guidance services on family education, and provide professional services such as psychological counselling, rehabilitation assistance, and guardianship and adoption assessments for minors."
+        },
+        "noLabel": {
+          "en": "Article 99."
+        },
+        "chapter": {
+          "en": "Chapter VI Government Protection"
+        }
+      },
+      {
+        "no": 100,
+        "text": {
+          "en": "Public security organs, people's procuratorates, people's courts and judicial administrative departments shall perform their duties in accordance with law and safeguard the lawful rights and interests of minors."
+        },
+        "noLabel": {
+          "en": "Article 100."
+        },
+        "chapter": {
+          "en": "Chapter VII Judicial Protection"
+        }
+      },
+      {
+        "no": 101,
+        "text": {
+          "en": "Public security organs, people's procuratorates, people's courts and judicial administrative departments shall establish specialised bodies or designate dedicated personnel to be responsible for handling cases involving minors. Personnel handling cases involving minors shall have received specialised training and be familiar with the physical and mental characteristics of minors. Among the specialised bodies or dedicated personnel there shall be female staff.\nPublic security organs, people's procuratorates, people's courts and judicial administrative departments shall apply evaluation and assessment standards to the said bodies and personnel that are suited to work on the protection of minors."
+        },
+        "noLabel": {
+          "en": "Article 101."
+        },
+        "chapter": {
+          "en": "Chapter VII Judicial Protection"
+        }
+      },
+      {
+        "no": 102,
+        "text": {
+          "en": "In handling cases involving minors, public security organs, people's procuratorates, people's courts and judicial administrative departments shall take into account the physical and mental characteristics of minors and the need for their healthy growth, use language and forms of expression that minors can understand, and solicit the opinions of minors."
+        },
+        "noLabel": {
+          "en": "Article 102."
+        },
+        "chapter": {
+          "en": "Chapter VII Judicial Protection"
+        }
+      },
+      {
+        "no": 103,
+        "text": {
+          "en": "Public security organs, people's procuratorates, people's courts, judicial administrative departments and other organisations and individuals may not disclose the names, images, residences, schools attended or other information that may identify minors involved in cases, except in circumstances such as the search for missing or trafficked minors."
+        },
+        "noLabel": {
+          "en": "Article 103."
+        },
+        "chapter": {
+          "en": "Chapter VII Judicial Protection"
+        }
+      },
+      {
+        "no": 104,
+        "text": {
+          "en": "For minors requiring legal aid or judicial assistance, the legal aid institutions or the public security organs, people's procuratorates, people's courts and judicial administrative departments shall provide assistance and provide legal aid or judicial assistance to them in accordance with law.\nLegal aid institutions shall assign lawyers familiar with the physical and mental characteristics of minors to provide legal aid services to minors.\nLegal aid institutions and lawyers associations shall provide guidance and training to lawyers handling legal aid cases involving minors."
+        },
+        "noLabel": {
+          "en": "Article 104."
+        },
+        "chapter": {
+          "en": "Chapter VII Judicial Protection"
+        }
+      },
+      {
+        "no": 105,
+        "text": {
+          "en": "People's procuratorates shall, by exercising procuratorial powers, supervise litigation activities and other matters involving minors in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 105."
+        },
+        "chapter": {
+          "en": "Chapter VII Judicial Protection"
+        }
+      },
+      {
+        "no": 106,
+        "text": {
+          "en": "Where the lawful rights and interests of minors are infringed and the relevant organisations and individuals fail to bring an action on their behalf, the people's procuratorate may urge and support them in bringing an action; where the public interest is involved, the people's procuratorate has the right to bring a public interest action."
+        },
+        "noLabel": {
+          "en": "Article 106."
+        },
+        "chapter": {
+          "en": "Chapter VII Judicial Protection"
+        }
+      },
+      {
+        "no": 107,
+        "text": {
+          "en": "When trying inheritance cases, people's courts shall protect the right of inheritance and the right to receive testamentary gifts of minors in accordance with law.\nWhen trying divorce cases involving the custody of minor children, people's courts shall respect the true wishes of minor children who have reached the age of eight, and handle the matter in accordance with law in light of the specific circumstances of both parties and in accordance with the principle of what is in the best interests of the minor children."
+        },
+        "noLabel": {
+          "en": "Article 107."
+        },
+        "chapter": {
+          "en": "Chapter VII Judicial Protection"
+        }
+      },
+      {
+        "no": 108,
+        "text": {
+          "en": "Where the parents or other guardians of minors fail to perform their duties of guardianship in accordance with law or seriously infringe the lawful rights and interests of the minors under their guardianship, the people's court may, upon the application of the relevant persons or units, make in accordance with law an order for personal safety protection or disqualify the guardian.\nParents or other guardians whose guardianship has been disqualified shall continue to bear the costs of raising the minors in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 108."
+        },
+        "chapter": {
+          "en": "Chapter VII Judicial Protection"
+        }
+      },
+      {
+        "no": 109,
+        "text": {
+          "en": "Where people's courts try cases involving minors such as divorce, raising, adoption, guardianship and visitation, they may, on their own or by entrusting a social organisation, conduct a social investigation into the relevant circumstances of the minors."
+        },
+        "noLabel": {
+          "en": "Article 109."
+        },
+        "chapter": {
+          "en": "Chapter VII Judicial Protection"
+        }
+      },
+      {
+        "no": 110,
+        "text": {
+          "en": "When interrogating minor criminal suspects or defendants and questioning minor victims or witnesses, public security organs, people's procuratorates and people's courts shall, in accordance with law, notify their legal representatives or adult relatives, representatives of their schools or other appropriate adults to be present, and shall do so in an appropriate manner and at an appropriate place, so as to safeguard the right to reputation, the right to privacy and other lawful rights and interests of minors.\nWhere people's courts hold hearings of cases involving minors, minor victims and witnesses shall generally not appear in court to testify; where their appearance is necessary, protective measures such as technical means to protect their privacy and psychological intervention shall be adopted."
+        },
+        "noLabel": {
+          "en": "Article 110."
+        },
+        "chapter": {
+          "en": "Chapter VII Judicial Protection"
+        }
+      },
+      {
+        "no": 111,
+        "text": {
+          "en": "Public security organs, people's procuratorates and people's courts shall cooperate with other relevant government departments, people's organisations and social organisations in implementing the necessary protective measures such as psychological intervention, financial assistance, legal aid and transfer to another school for minor victims of sexual assault or violent injury and their families."
+        },
+        "noLabel": {
+          "en": "Article 111."
+        },
+        "chapter": {
+          "en": "Chapter VII Judicial Protection"
+        }
+      },
+      {
+        "no": 112,
+        "text": {
+          "en": "When handling cases in which minors have suffered sexual assault or violent injury, public security organs, people's procuratorates and people's courts shall, when questioning minor victims and witnesses, adopt measures such as simultaneous audio and video recording and complete the questioning in a single session as far as possible; where minor victims or witnesses are female, the questioning shall be conducted by female staff."
+        },
+        "noLabel": {
+          "en": "Article 112."
+        },
+        "chapter": {
+          "en": "Chapter VII Judicial Protection"
+        }
+      },
+      {
+        "no": 113,
+        "text": {
+          "en": "A policy of education, persuasion and redemption shall be applied to minors who have broken the law or committed crimes, and the principle of education first with punishment as a supplement shall be adhered to.\nMinors who have broken the law or committed crimes may not be discriminated against in respect of further education, employment and the like after being punished in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 113."
+        },
+        "chapter": {
+          "en": "Chapter VII Judicial Protection"
+        }
+      },
+      {
+        "no": 114,
+        "text": {
+          "en": "Where public security organs, people's procuratorates, people's courts and judicial administrative departments discover that the relevant units have failed to perform their duties of protection such as education, management, assistance and care of minors, they shall make recommendations to those units. The units to which recommendations are made shall give a written reply within one month."
+        },
+        "noLabel": {
+          "en": "Article 114."
+        },
+        "chapter": {
+          "en": "Chapter VII Judicial Protection"
+        }
+      },
+      {
+        "no": 115,
+        "text": {
+          "en": "Public security organs, people's procuratorates, people's courts and judicial administrative departments shall, in light of the actual circumstances and the characteristics of cases involving minors, carry out publicity and education on the rule of law for minors."
+        },
+        "noLabel": {
+          "en": "Article 115."
+        },
+        "chapter": {
+          "en": "Chapter VII Judicial Protection"
+        }
+      },
+      {
+        "no": 116,
+        "text": {
+          "en": "The State encourages and supports social organisations and social workers in participating in psychological intervention, legal aid, social investigation, social supervision and protection, educational correction and community correction for minors involved in cases."
+        },
+        "noLabel": {
+          "en": "Article 116."
+        },
+        "chapter": {
+          "en": "Chapter VII Judicial Protection"
+        }
+      },
+      {
+        "no": 117,
+        "text": {
+          "en": "Where an act in violation of the provisions of the second paragraph of Article 11 of this Law involves failing to perform the obligation to report and causing serious consequences, the competent department at a higher level or the unit to which the person belongs shall impose sanctions in accordance with law on the directly responsible person in charge and other directly responsible persons."
+        },
+        "noLabel": {
+          "en": "Article 117."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 118,
+        "text": {
+          "en": "Where the parents or other guardians of minors fail to perform their duties of guardianship in accordance with law or infringe the lawful rights and interests of minors, the residents' committee or villagers' committee of their place of residence shall admonish and stop them; where the circumstances are serious, the residents' committee or villagers' committee shall promptly report to the public security organ.\nWhere a public security organ receives such a report, or where a public security organ, people's procuratorate or people's court discovers in the course of handling a case that the parents or other guardians of a minor fall under the aforementioned circumstances, it shall admonish them and may order them to accept guidance on family education."
+        },
+        "noLabel": {
+          "en": "Article 118."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 119,
+        "text": {
+          "en": "Where schools, kindergartens, infant and toddler care service institutions and the like and their teaching and administrative staff violate the provisions of Articles 27, 28 and 39 of this Law, the departments of public security, education, health and market regulation shall, in accordance with the division of duties, order correction; where correction is refused or the circumstances are serious, sanctions shall be imposed in accordance with law on the directly responsible person in charge and other directly responsible persons."
+        },
+        "noLabel": {
+          "en": "Article 119."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 120,
+        "text": {
+          "en": "Where an act in violation of the provisions of Articles 44, 45 and 47 of this Law involves failing to give minors free treatment or preferential treatment, the departments of market regulation, culture and tourism, and transport shall, in accordance with the division of duties, order correction within a time limit and issue a warning; where correction is refused, a fine of not less than 10,000 yuan but not more than 100,000 yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 120."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 121,
+        "text": {
+          "en": "Where an act in violation of the provisions of Articles 50 and 51 of this Law is committed, the departments of press and publication, radio and television, film and cyberspace administration shall, in accordance with the division of duties, order correction within a time limit, issue a warning, confiscate the illegal gains, and may concurrently impose a fine of not more than 100,000 yuan; where correction is refused or the circumstances are serious, they shall order suspension of the relevant business, suspension of production and business, or revocation of the business licence or the relevant permits, and where the illegal gains are 1,000,000 yuan or more, concurrently impose a fine of not less than one time but not more than ten times the illegal gains, and where there are no illegal gains or the illegal gains are less than 1,000,000 yuan, concurrently impose a fine of not less than 100,000 yuan but not more than 1,000,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 121."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 122,
+        "text": {
+          "en": "Where the operating unit of premises violates the provisions of the second paragraph of Article 56 of this Law, or an accommodation operator violates the provisions of Article 57 of this Law, the departments of market regulation, emergency management and public security shall, in accordance with the division of duties, order correction within a time limit and issue a warning; where correction is refused or serious consequences are caused, they shall order suspension of business for rectification or revoke the business licence or the relevant permits, and impose a fine of not less than 10,000 yuan but not more than 100,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 122."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 123,
+        "text": {
+          "en": "Where the relevant operators violate the provisions of Article 58, the first paragraph of Article 59 or Article 60 of this Law, the departments of culture and tourism, market regulation, tobacco monopoly and public security shall, in accordance with the division of duties, order correction within a time limit, issue a warning, confiscate the illegal gains, and may concurrently impose a fine of not more than 50,000 yuan; where correction is refused or the circumstances are serious, they shall order suspension of business for rectification or revoke the business licence or the relevant permits, and may concurrently impose a fine of not less than 50,000 yuan but not more than 500,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 123."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 124,
+        "text": {
+          "en": "Where an act in violation of the provisions of the second paragraph of Article 59 of this Law involves smoking or drinking alcohol in schools, kindergartens or other public places where minors gather for activities, the departments of health, education and market regulation shall, in accordance with the division of duties, order correction, issue a warning, and may concurrently impose a fine of not more than 500 yuan; where the manager of the premises fails to stop the act promptly, the departments of health, education and market regulation shall, in accordance with the division of duties, issue a warning and impose a fine of not more than 10,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 124."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 125,
+        "text": {
+          "en": "Where an act in violation of the provisions of Article 61 of this Law is committed, the departments of culture and tourism, human resources and social security, and market regulation shall, in accordance with the division of duties, order correction within a time limit, issue a warning, confiscate the illegal gains, and may concurrently impose a fine of not more than 100,000 yuan; where correction is refused or the circumstances are serious, they shall order suspension of production and business or revoke the business licence or the relevant permits, and impose a fine of not less than 100,000 yuan but not more than 1,000,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 125."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 126,
+        "text": {
+          "en": "Where a unit in close contact with minors violates the provisions of Article 62 of this Law by failing to perform the obligation of inquiry, or employs or continues to employ persons with the relevant records of illegal or criminal acts, the departments of education, human resources and social security, and market regulation shall, in accordance with the division of duties, order correction within a time limit, issue a warning, and impose a fine of not more than 50,000 yuan; where correction is refused or serious consequences are caused, they shall order suspension of business for rectification or revoke the business licence or the relevant permits, impose a fine of not less than 50,000 yuan but not more than 500,000 yuan, and impose sanctions in accordance with law on the directly responsible person in charge and other directly responsible persons."
+        },
+        "noLabel": {
+          "en": "Article 126."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 127,
+        "text": {
+          "en": "Where an information processor violates the provisions of Article 72 of this Law, or a provider of online products or services violates the provisions of Articles 73, 74, 75, 76, 77 and 80 of this Law, the relevant departments of public security, cyberspace administration, telecommunications, press and publication, radio and television, and culture and tourism shall, in accordance with the division of duties, order correction, issue a warning, confiscate the illegal gains, and where the illegal gains are 1,000,000 yuan or more, concurrently impose a fine of not less than one time but not more than ten times the illegal gains, and where there are no illegal gains or the illegal gains are less than 1,000,000 yuan, concurrently impose a fine of not less than 100,000 yuan but not more than 1,000,000 yuan, and impose a fine of not less than 10,000 yuan but not more than 100,000 yuan on the directly responsible person in charge and other responsible persons; where correction is refused or the circumstances are serious, they may also order suspension of the relevant business, suspension of business for rectification, closure of the website, revocation of the business licence or revocation of the relevant permits."
+        },
+        "noLabel": {
+          "en": "Article 127."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 128,
+        "text": {
+          "en": "Where staff of State organs derelict their duties, abuse their powers or engage in malpractices for personal gain, infringing the lawful rights and interests of minors, sanctions shall be imposed in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 128."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 129,
+        "text": {
+          "en": "Where an act in violation of the provisions of this Law infringes the lawful rights and interests of minors and causes personal injury, property damage or other damage, civil liability shall be borne in accordance with law.\nWhere an act in violation of the provisions of this Law constitutes a violation of public security administration, public security administration punishment shall be imposed in accordance with law; where a crime is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 129."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 130,
+        "text": {
+          "en": "For the purposes of this Law, the following terms have the meanings given below:\n(a) unit in close contact with minors means educational institutions such as schools and kindergartens; off-campus training institutions; minor resettlement and rescue institutions such as minor rescue and protection institutions and child welfare institutions; infant and toddler care service institutions and early education service institutions; off-campus after-school care and temporary care institutions; domestic service institutions; medical institutions providing medical services to minors; and other enterprises and public institutions and social organisations that bear duties of education, training, guardianship, assistance, care or medical treatment towards minors.\n(b) school means ordinary primary and secondary schools, special education schools, secondary vocational schools and specialised schools.\n(c) student bullying means acts occurring between students in which one party deliberately or maliciously oppresses or insults the other party by physical, verbal or online means and causes personal injury, property loss or mental harm to the other party."
+        },
+        "noLabel": {
+          "en": "Article 130."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 131,
+        "text": {
+          "en": "Foreigners and stateless persons under the age of 18 within the territory of China shall be protected in accordance with the relevant provisions of this Law."
+        },
+        "noLabel": {
+          "en": "Article 131."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 132,
+        "text": {
+          "en": "This Law shall come into force on 1 June 2021."
+        },
+        "noLabel": {
+          "en": "Article 132."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
         }
       }
     ]

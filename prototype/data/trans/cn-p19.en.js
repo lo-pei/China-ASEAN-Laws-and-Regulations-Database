@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p19
-   法规 77 部 / 译文 3266 条
+   法规 78 部 / 译文 3398 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -21615,6 +21615,1581 @@
         },
         "chapter": {
           "en": "Chapter XI Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0549'] = {
+    "lawId": "CN-REG-0549",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 132 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the provisions of the Enterprise Income Tax Law of the People's Republic of China (hereinafter referred to as the Enterprise Income Tax Law)."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The sole proprietorship enterprises and partnership enterprises mentioned in Article 1 of the Enterprise Income Tax Law refer to sole proprietorship enterprises and partnership enterprises established in accordance with Chinese laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The enterprises established within the territory of China in accordance with the law mentioned in Article 2 of the Enterprise Income Tax Law include enterprises, public institutions, social organisations and other organisations deriving income that are established within the territory of China in accordance with Chinese laws and administrative regulations.\nThe enterprises established in accordance with the laws of foreign countries (regions) mentioned in Article 2 of the Enterprise Income Tax Law include enterprises and other organisations deriving income that are established in accordance with the laws of foreign countries (regions)."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The actual management organ mentioned in Article 2 of the Enterprise Income Tax Law refers to an organ that exercises substantive overall management and control over the production and operation, personnel, accounting and property of an enterprise."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The institutions and sites mentioned in Paragraph 3 of Article 2 of the Enterprise Income Tax Law refer to institutions and sites engaged in production and operation activities within the territory of China, including:\n(1) management institutions, business institutions and liaison offices;\n(2) factories, farms and sites for the exploitation of natural resources;\n(3) sites for the provision of labour services;\n(4) sites for engineering operations such as construction, installation, assembly, repair and exploration;\n(5) other institutions and sites engaged in production and operation activities.\nWhere a non-resident enterprise entrusts a business agent to engage in production and operation activities within the territory of China, including entrusting a unit or an individual to regularly sign contracts on its behalf or to store and deliver goods, such business agent shall be deemed an institution or site established within the territory of China by the non-resident enterprise."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The income mentioned in Article 3 of the Enterprise Income Tax Law includes income from the sale of goods, income from the provision of labour services, income from the transfer of property, income from equity investments such as dividends and bonuses, interest income, rental income, royalty income, income from donations accepted and other income."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The income derived from within and outside the territory of China mentioned in Article 3 of the Enterprise Income Tax Law shall be determined in accordance with the following principles:\n(1) income from the sale of goods shall be determined according to the place where the transaction activities occur;\n(2) income from the provision of labour services shall be determined according to the place where the labour services occur;\n(3) income from the transfer of property: income from the transfer of immovable property shall be determined according to the place where the immovable property is located, income from the transfer of movable property shall be determined according to the place where the enterprise, institution or site transferring the movable property is located, and income from the transfer of equity investment assets shall be determined according to the place where the invested enterprise is located;\n(4) income from equity investments such as dividends and bonuses shall be determined according to the place where the enterprise distributing the income is located;\n(5) interest income, rental income and royalty income shall be determined according to the place where the enterprise, institution or site bearing and paying the income is located, or according to the domicile of the individual bearing and paying the income;\n(6) other income shall be determined by the competent departments of finance and taxation of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The actual connection mentioned in Article 3 of the Enterprise Income Tax Law refers to the circumstance where the institutions and sites established within the territory of China by a non-resident enterprise hold the equity and creditor's rights on which the income is based, and hold, manage and control the property on which the income is based."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The taxable income of an enterprise shall be calculated on the principle of accrual basis: the revenue and expenses belonging to the current period shall be treated as the revenue and expenses of the current period regardless of whether the money is received or paid; the revenue and expenses not belonging to the current period shall not be treated as the revenue and expenses of the current period even if the money has been received or paid in the current period, unless otherwise provided in these Regulations and by the competent departments of finance and taxation of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The loss mentioned in Article 5 of the Enterprise Income Tax Law refers to the amount below zero obtained by an enterprise after deducting non-taxable income, tax-exempt income and various deductions from the total income of each tax year in accordance with the provisions of the Enterprise Income Tax Law and these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The liquidation income mentioned in Article 55 of the Enterprise Income Tax Law refers to the balance of the realisable value or transaction price of all the assets of an enterprise after deducting the net value of the assets, liquidation expenses and relevant taxes and fees.\nWhere an investing enterprise obtains residual assets from a liquidated enterprise, the portion equivalent to the share it should obtain from the accumulated undistributed profits and accumulated surplus reserves of the liquidated enterprise shall be recognised as dividend income; the balance of the residual assets after deducting the aforesaid dividend income, to the extent that it exceeds or falls below the investment cost, shall be recognised as income or loss from the transfer of investment assets."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The monetary forms of income obtained by an enterprise mentioned in Article 6 of the Enterprise Income Tax Law include cash, deposits, accounts receivable, notes receivable, bond investments intended to be held to maturity and forgiveness of debts.\nThe non-monetary forms of income obtained by an enterprise mentioned in Article 6 of the Enterprise Income Tax Law include fixed assets, biological assets, intangible assets, equity investments, inventories, bond investments not intended to be held to maturity, labour services and relevant rights and interests."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Section 2 Income"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Income obtained by an enterprise in non-monetary forms mentioned in Article 6 of the Enterprise Income Tax Law shall be measured at fair value.\nThe fair value mentioned in the preceding paragraph refers to the value determined according to the market price."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Section 2 Income"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The income from the sale of goods mentioned in Article 6(1) of the Enterprise Income Tax Law refers to the income obtained by an enterprise from the sale of commodities, products, raw materials, packaging materials, low-value consumables and other inventories."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Section 2 Income"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The income from the provision of labour services mentioned in Article 6(2) of the Enterprise Income Tax Law refers to the income obtained by an enterprise from activities of construction and installation, repair and refitting, transport, warehousing and leasing, finance and insurance, post and telecommunications, consulting and brokerage, culture and sports, scientific research, technical services, education and training, catering and accommodation, intermediary agency, health care, community services, tourism, entertainment, processing and other labour service activities."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Section 2 Income"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The income from the transfer of property mentioned in Article 6(3) of the Enterprise Income Tax Law refers to the income obtained by an enterprise from the transfer of fixed assets, biological assets, intangible assets, equity, creditor's rights and other property."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Section 2 Income"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The investment income from equity such as dividends and bonuses mentioned in Article 6(4) of the Enterprise Income Tax Law refers to the income obtained by an enterprise from the invested party as a result of equity investment.\nUnless otherwise provided by the competent departments of finance and taxation of the State Council, the investment income from equity such as dividends and bonuses shall be recognised as realised on the date when the invested party makes the decision on profit distribution."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Section 2 Income"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The interest income mentioned in Article 6(5) of the Enterprise Income Tax Law refers to the income obtained by an enterprise from providing funds to others for use where such provision does not constitute equity investment, or from the occupation of the enterprise's funds by others, including deposit interest, loan interest, bond interest, interest on outstanding amounts and other interest income.\nInterest income shall be recognised as realised on the date on which the debtor should pay interest as agreed in the contract."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Section 2 Income"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The rental income mentioned in Article 6(6) of the Enterprise Income Tax Law refers to the income obtained by an enterprise from providing the right to use fixed assets, packaging materials or other tangible assets.\nRental income shall be recognised as realised on the date on which the lessee should pay the rent as agreed in the contract."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Section 2 Income"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The royalty income mentioned in Article 6(7) of the Enterprise Income Tax Law refers to the income obtained by an enterprise from providing the right to use patent rights, non-patented technology, trademark rights, copyright and other royalties.\nRoyalty income shall be recognised as realised on the date on which the royalty user should pay the royalty as agreed in the contract."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Section 2 Income"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The income from donations accepted mentioned in Article 6(8) of the Enterprise Income Tax Law refers to the monetary and non-monetary assets given gratis to an enterprise by other enterprises, organisations or individuals.\nIncome from donations accepted shall be recognised as realised on the date on which the donated assets are actually received."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Section 2 Income"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The other income mentioned in Article 6(9) of the Enterprise Income Tax Law refers to income obtained by an enterprise other than the income specified in Article 6(1) to (8) of the Enterprise Income Tax Law, including income from asset surplus, income from deposits on packaging materials not returned after the time limit, payables that genuinely cannot be settled, receivables recovered after being written off as bad debts, income from debt restructuring, subsidy income, income from liquidated damages, exchange gains and other income."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Section 2 Income"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "An enterprise may recognise the realisation of income in instalments for the following production and operation businesses:\n(1) where goods are sold by instalment, income shall be recognised as realised on the date of collection agreed in the contract;\n(2) where an enterprise undertakes the processing and manufacture of large machinery and equipment, ships and aircraft, or engages in construction, installation and assembly projects or provides other labour services for a duration of more than 12 months, income shall be recognised as realised according to the progress of completion or the work volume completed within the tax year."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Section 2 Income"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Where income is obtained in the form of product sharing, the income shall be recognised as realised on the date on which the enterprise receives its share of the products, and the amount of income shall be determined according to the fair value of the products."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Section 2 Income"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Where an enterprise engages in the exchange of non-monetary assets, or uses goods, property or labour services for purposes such as donation, debt settlement, sponsorship, fund-raising, advertising, samples, employee welfare or profit distribution, such use shall be deemed as the sale of goods, transfer of property or provision of labour services, unless otherwise provided by the competent departments of finance and taxation of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Section 2 Income"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The financial appropriations mentioned in Article 7(1) of the Enterprise Income Tax Law refer to the financial funds allocated by people's governments at all levels to public institutions, social organisations and other organisations whose budgets are subject to budgetary management, unless otherwise provided by the State Council and the competent departments of finance and taxation of the State Council.\nThe administrative and institutional charges mentioned in Article 7(2) of the Enterprise Income Tax Law refer to the fees collected from specific recipients and incorporated into financial management in the course of exercising public administration and providing specific public services to citizens, legal persons or other organisations, in accordance with laws, regulations and other relevant provisions and with the procedures approved by the State Council.\nThe government funds mentioned in Article 7(2) of the Enterprise Income Tax Law refer to the financial funds with special purposes collected by an enterprise on behalf of the government in accordance with laws, administrative regulations and other relevant provisions.\nThe other non-taxable income specified by the State Council mentioned in Article 7(3) of the Enterprise Income Tax Law refers to the financial funds obtained by an enterprise for which the competent departments of finance and taxation of the State Council have specified special purposes and which have been approved by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Section 2 Income"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The relevant expenditures mentioned in Article 8 of the Enterprise Income Tax Law refer to expenditures directly related to the acquisition of income.\nThe reasonable expenditures mentioned in Article 8 of the Enterprise Income Tax Law refer to the necessary and normal expenditures that conform to the usual practice of production and operation activities and should be included in the profit and loss of the current period or in the cost of the relevant assets."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Section 3 Deductions"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The expenditures incurred by an enterprise shall be distinguished between revenue expenditures and capital expenditures. Revenue expenditures shall be deducted directly in the period in which they are incurred; capital expenditures shall be deducted in instalments or included in the cost of the relevant assets, and shall not be deducted directly in the period in which they are incurred.\nThe expenses or property formed by the use of non-taxable income of an enterprise for expenditures shall not be deducted, nor shall the corresponding depreciation or amortisation be calculated and deducted.\nUnless otherwise provided in the Enterprise Income Tax Law and these Regulations, the costs, expenses, taxes, losses and other expenditures actually incurred by an enterprise shall not be deducted repeatedly."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Section 3 Deductions"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The costs mentioned in Article 8 of the Enterprise Income Tax Law refer to the selling costs, cost of goods sold, business expenditures and other consumption incurred by an enterprise in its production and operation activities."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Section 3 Deductions"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "The expenses mentioned in Article 8 of the Enterprise Income Tax Law refer to the selling expenses, administrative expenses and financial expenses incurred by an enterprise in its production and operation activities, excluding the relevant expenses already included in costs."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Section 3 Deductions"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The taxes mentioned in Article 8 of the Enterprise Income Tax Law refer to the various taxes and surcharges incurred by an enterprise other than enterprise income tax and value-added tax that may be credited."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Section 3 Deductions"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The losses mentioned in Article 8 of the Enterprise Income Tax Law refer to the losses from inventory shortage, damage and scrapping of fixed assets and inventories, losses from the transfer of property, losses from doubtful accounts, bad debt losses, losses caused by force majeure such as natural disasters and other losses incurred by an enterprise in its production and operation activities.\nThe balance of the losses incurred by an enterprise after deducting compensation from the person liable and insurance indemnities shall be deducted in accordance with the provisions of the competent departments of finance and taxation of the State Council.\nWhere assets already treated as losses by an enterprise are fully or partially recovered in subsequent tax years, they shall be included in the income of the current period."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Section 3 Deductions"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The other expenditures mentioned in Article 8 of the Enterprise Income Tax Law refer to the reasonable expenditures related to production and operation activities incurred by an enterprise in its production and operation activities other than costs, expenses, taxes and losses."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Section 3 Deductions"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The reasonable wage and salary expenditures incurred by an enterprise shall be deductible.\nThe wages and salaries mentioned in the preceding paragraph refer to all forms of cash or non-cash labour remuneration paid by an enterprise in each tax year to employees who hold posts or are employed by the enterprise, including basic wages, bonuses, allowances, subsidies, year-end salary increases, overtime pay and other expenditures related to the holding of posts or employment of employees."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Section 3 Deductions"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The basic old-age insurance premiums, basic medical insurance premiums, unemployment insurance premiums, work-related injury insurance premiums, maternity insurance premiums and other basic social insurance premiums and housing provident fund paid by an enterprise for its employees within the scope and according to the standards prescribed by the relevant competent departments of the State Council or the provincial people's governments shall be deductible.\nThe supplementary old-age insurance premiums and supplementary medical insurance premiums paid by an enterprise for investors or employees shall be deductible within the scope and according to the standards prescribed by the competent departments of finance and taxation of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Section 3 Deductions"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Except for the personal safety insurance premiums paid by an enterprise for employees in special types of work in accordance with relevant State provisions and other commercial insurance premiums that may be deducted as prescribed by the competent departments of finance and taxation of the State Council, the commercial insurance premiums paid by an enterprise for investors or employees shall not be deductible."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Section 3 Deductions"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The reasonable borrowing costs incurred by an enterprise in its production and operation activities that do not require capitalisation shall be deductible.\nWhere an enterprise borrows funds for the purchase and construction of fixed assets, intangible assets and inventories that can reach the intended saleable condition only after more than 12 months of construction, the reasonable borrowing costs incurred during the period of purchase and construction of the relevant assets shall be treated as capital expenditures, included in the cost of the relevant assets and deducted in accordance with the provisions of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Section 3 Deductions"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "The following interest expenditures incurred by an enterprise in its production and operation activities shall be deductible:\n(1) interest expenditures of a non-financial enterprise on loans borrowed from financial enterprises, interest expenditures of financial enterprises on various deposits and on interbank lending, and interest expenditures of enterprises on bonds issued with approval;\n(2) interest expenditures of a non-financial enterprise on loans borrowed from non-financial enterprises, to the extent that they do not exceed the amount calculated at the interest rate for loans of the same type and in the same period of financial enterprises."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Section 3 Deductions"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The exchange losses incurred by an enterprise in monetary transactions and in translating monetary assets and liabilities denominated in currencies other than the Renminbi into Renminbi at the central parity rate of the Renminbi spot exchange rate at the end of the tax year shall be deductible, except for the portion already included in the cost of the relevant assets and the portion related to profit distribution to owners."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Section 3 Deductions"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "The employee welfare expenditures incurred by an enterprise, to the extent that they do not exceed 14 per cent of the total wages and salaries, shall be deductible."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Section 3 Deductions"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "The trade union funds allocated and paid by an enterprise, to the extent that they do not exceed 2 per cent of the total wages and salaries, shall be deductible."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Section 3 Deductions"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Unless otherwise provided by the competent departments of finance and taxation of the State Council, the employee education expenditures incurred by an enterprise, to the extent that they do not exceed 2.5 per cent of the total wages and salaries, shall be deductible; the excess portion may be carried forward to subsequent tax years for deduction."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Section 3 Deductions"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "The business entertainment expenditures incurred by an enterprise related to its production and operation activities shall be deducted at 60 per cent of the amount incurred, but shall not exceed 5 per mille of the sales (business) income of the year."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Section 3 Deductions"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Unless otherwise provided by the competent departments of finance and taxation of the State Council, the qualifying advertising expenses and business promotion expenses incurred by an enterprise, to the extent that they do not exceed 15 per cent of the sales (business) income of the year, shall be deductible; the excess portion may be carried forward to subsequent tax years for deduction."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Section 3 Deductions"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "The special funds set aside by an enterprise in accordance with relevant provisions of laws and administrative regulations for environmental protection, ecological restoration and similar purposes shall be deductible. Where the purposes of the aforesaid special funds are changed after they are set aside, they shall not be deductible."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Section 3 Deductions"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "The insurance premiums paid by an enterprise for property insurance in accordance with the provisions shall be deductible."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Section 3 Deductions"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "The rental fees paid by an enterprise for leased fixed assets as required by its production and operation activities shall be deducted in accordance with the following methods:\n(1) the rental expenses incurred for fixed assets leased under an operating lease shall be deducted evenly over the lease term;\n(2) for the rental expenses incurred for fixed assets leased under a finance lease, depreciation expenses shall be calculated and deducted in instalments for the portion that constitutes the value of the fixed assets leased under the finance lease in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Section 3 Deductions"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "The reasonable labour protection expenditures incurred by an enterprise shall be deductible."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Section 3 Deductions"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "The management fees paid between enterprises, the rent and royalties paid between business institutions within an enterprise, and the interest paid between business institutions within a non-bank enterprise shall not be deductible."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Section 3 Deductions"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where the institutions and sites established within the territory of China by a non-resident enterprise can provide supporting documents such as the scope of expense pooling, fixed amounts, basis and methods of allocation issued by the head office in respect of the expenses incurred by the head office outside China that are related to the production and operation of such institutions and sites, and reasonably apportion such expenses, the apportioned expenses shall be deductible."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Section 3 Deductions"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "The public welfare donations mentioned in Article 9 of the Enterprise Income Tax Law refer to donations made by an enterprise through public welfare social organisations or people's governments at or above the county level and their departments for charitable activities and public welfare undertakings that conform to the provisions of laws."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Section 3 Deductions"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "The public welfare social organisations mentioned in Article 51 of these Regulations refer to charitable organisations and other social organisations that simultaneously meet the following conditions:\n(1) they are registered in accordance with the law and have legal person status;\n(2) they take the development of public welfare undertakings as their purpose and are not for profit;\n(3) all of their assets and the appreciation thereof are owned by the legal person;\n(4) their income and operating surplus are mainly used for undertakings consistent with the purpose of establishment of the legal person;\n(5) their residual property after termination is not attributed to any individual or for-profit organisation;\n(6) they do not operate businesses unrelated to their purpose of establishment;\n(7) they have a sound financial and accounting system;\n(8) donors do not participate in the distribution of the property of the legal person in any form;\n(9) they meet other conditions prescribed by the competent departments of finance and taxation of the State Council together with the registration and administration departments such as the civil affairs department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Section 3 Deductions"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "The public welfare donation expenditures incurred by an enterprise in the current year and carried forward from previous years, to the extent that they do not exceed 12 per cent of the total annual profits, shall be deductible.\nThe total annual profits refer to the annual accounting profits calculated by an enterprise in accordance with the provisions of the unified national accounting system."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Section 3 Deductions"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "The sponsorship expenditures mentioned in Article 10(6) of the Enterprise Income Tax Law refer to various non-advertising expenditures incurred by an enterprise that are unrelated to its production and operation activities."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Section 3 Deductions"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "The reserve expenditures not verified and approved mentioned in Article 10(7) of the Enterprise Income Tax Law refer to expenditures on reserves such as asset impairment reserves and risk reserves that do not conform to the provisions of the competent departments of finance and taxation of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Section 3 Deductions"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "The various assets of an enterprise, including fixed assets, biological assets, intangible assets, long-term deferred expenses, investment assets and inventories, shall be based on historical cost for tax purposes.\nThe historical cost mentioned in the preceding paragraph refers to the expenditures actually incurred by an enterprise when it acquired the asset.\nWhere the value of an asset increases or decreases during the period in which the enterprise holds it, the tax basis of the asset shall not be adjusted, unless the competent departments of finance and taxation of the State Council provide that the profit or loss may be recognised."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Section 4 Tax Treatment of Assets"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "The fixed assets mentioned in Article 11 of the Enterprise Income Tax Law refer to the non-monetary assets held by an enterprise for the purpose of producing products, providing labour services, leasing or operation and management, with a useful life of more than 12 months, including houses, buildings, machinery, machines, means of transport and other equipment, appliances and tools related to production and operation activities."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Section 4 Tax Treatment of Assets"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "The tax basis of fixed assets shall be determined in accordance with the following methods:\n(1) for fixed assets purchased from outside, the tax basis shall be the purchase price, the relevant taxes and fees paid and other expenditures directly attributable to bringing the asset to its intended use;\n(2) for self-constructed fixed assets, the tax basis shall be the expenditures incurred before the completion settlement;\n(3) for fixed assets leased under a finance lease, the tax basis shall be the total amount of payments agreed in the lease contract and the relevant expenses incurred by the lessee in the course of signing the lease contract; where the lease contract does not stipulate the total amount of payments, the tax basis shall be the fair value of the asset and the relevant expenses incurred by the lessee in the course of signing the lease contract;\n(4) for fixed assets with inventory surplus, the tax basis shall be the full replacement value of fixed assets of the same kind;\n(5) for fixed assets acquired through donation, investment, exchange of non-monetary assets, debt restructuring or other means, the tax basis shall be the fair value of the asset and the relevant taxes and fees paid;\n(6) for rebuilt fixed assets, except for the expenditures specified in Article 13(1) and (2) of the Enterprise Income Tax Law, the tax basis shall be increased by the rebuilding expenditures incurred in the course of rebuilding."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Section 4 Tax Treatment of Assets"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "The depreciation of fixed assets calculated by the straight-line method shall be deductible.\nAn enterprise shall calculate depreciation from the month following the month in which the fixed asset is put into use; for fixed assets that cease to be used, the calculation of depreciation shall cease from the month following the month in which they cease to be used.\nAn enterprise shall reasonably determine the estimated net residual value of fixed assets according to the nature and use of the fixed assets. Once the estimated net residual value of a fixed asset is determined, it shall not be changed."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Section 4 Tax Treatment of Assets"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Unless otherwise provided by the competent departments of finance and taxation of the State Council, the minimum years for calculating the depreciation of fixed assets are as follows:\n(1) 20 years for houses and buildings;\n(2) 10 years for aircraft, trains, ships, machines, machinery and other production equipment;\n(3) 5 years for appliances, tools, furniture and similar items related to production and operation activities;\n(4) 4 years for means of transport other than aircraft, trains and ships;\n(5) 3 years for electronic equipment."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Section 4 Tax Treatment of Assets"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "For enterprises engaged in the exploitation of petroleum, natural gas and other mineral resources, the methods for depletion and depreciation of the expenses incurred and the relevant fixed assets before the commencement of commercial production shall be separately prescribed by the competent departments of finance and taxation of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Section 4 Tax Treatment of Assets"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "The tax basis of productive biological assets shall be determined in accordance with the following methods:\n(1) for productive biological assets purchased from outside, the tax basis shall be the purchase price and the relevant taxes and fees paid;\n(2) for productive biological assets acquired through donation, investment, exchange of non-monetary assets, debt restructuring or other means, the tax basis shall be the fair value of the asset and the relevant taxes and fees paid.\nThe productive biological assets mentioned in the preceding paragraph refer to the biological assets held by an enterprise for the production of agricultural products, the provision of labour services or leasing, including economic forests, firewood forests, productive livestock and draught animals."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Section 4 Tax Treatment of Assets"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "The depreciation of productive biological assets calculated by the straight-line method shall be deductible.\nAn enterprise shall calculate depreciation from the month following the month in which the productive biological asset is put into use; for productive biological assets that cease to be used, the calculation of depreciation shall cease from the month following the month in which they cease to be used.\nAn enterprise shall reasonably determine the estimated net residual value of productive biological assets according to the nature and use of the productive biological assets. Once the estimated net residual value of a productive biological asset is determined, it shall not be changed."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Section 4 Tax Treatment of Assets"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "The minimum years for calculating the depreciation of productive biological assets are as follows:\n(1) 10 years for forestry productive biological assets;\n(2) 3 years for livestock productive biological assets."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Section 4 Tax Treatment of Assets"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "The intangible assets mentioned in Article 12 of the Enterprise Income Tax Law refer to the non-monetary long-term assets without physical form held by an enterprise for the purpose of producing products, providing labour services, leasing or operation and management, including patent rights, trademark rights, copyright, land use rights, non-patented technology and goodwill."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Section 4 Tax Treatment of Assets"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "The tax basis of intangible assets shall be determined in accordance with the following methods:\n(1) for intangible assets purchased from outside, the tax basis shall be the purchase price, the relevant taxes and fees paid and other expenditures directly attributable to bringing the asset to its intended use;\n(2) for self-developed intangible assets, the tax basis shall be the expenditures incurred in the course of development after the asset meets the capitalisation conditions and before it reaches its intended use;\n(3) for intangible assets acquired through donation, investment, exchange of non-monetary assets, debt restructuring or other means, the tax basis shall be the fair value of the asset and the relevant taxes and fees paid."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Section 4 Tax Treatment of Assets"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "The amortisation expenses of intangible assets calculated by the straight-line method shall be deductible.\nThe amortisation period of intangible assets shall not be less than 10 years.\nFor intangible assets acquired as investment or by transfer, where the relevant laws provide or the contract stipulates a period of use, they may be amortised in instalments over the period of use provided or stipulated.\nThe expenditure on goodwill purchased from outside shall be deductible when the enterprise is transferred as a whole or liquidated."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Section 4 Tax Treatment of Assets"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "The rebuilding expenditures of fixed assets mentioned in Article 13(1) and (2) of the Enterprise Income Tax Law refer to the expenditures incurred in changing the structure of houses or buildings and extending the useful life.\nThe expenditures specified in Article 13(1) of the Enterprise Income Tax Law shall be amortised in instalments over the estimated remaining useful life of the fixed assets; the expenditures specified in Article 13(2) shall be amortised in instalments over the remaining lease term agreed in the contract.\nWhere the rebuilding of fixed assets extends their useful life, the depreciation period shall be appropriately extended, except as provided in Article 13(1) and (2) of the Enterprise Income Tax Law."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Section 4 Tax Treatment of Assets"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "The overhaul expenditures of fixed assets mentioned in Article 13(3) of the Enterprise Income Tax Law refer to the expenditures that simultaneously meet the following conditions:\n(1) the repair expenditures reach 50 per cent or more of the tax basis of the fixed assets at the time of acquisition;\n(2) the useful life of the fixed assets is extended by more than 2 years after the repair.\nThe expenditures specified in Article 13(3) of the Enterprise Income Tax Law shall be amortised in instalments over the remaining useful life of the fixed assets."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Section 4 Tax Treatment of Assets"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "The other expenditures that should be treated as long-term deferred expenses mentioned in Article 13(4) of the Enterprise Income Tax Law shall be amortised in instalments from the month following the month in which the expenditures are incurred, and the amortisation period shall not be less than 3 years."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Section 4 Tax Treatment of Assets"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "The investment assets mentioned in Article 14 of the Enterprise Income Tax Law refer to the assets formed by an enterprise's external equity investments and creditor's rights investments.\nWhen an enterprise transfers or disposes of investment assets, the cost of the investment assets shall be deductible.\nThe cost of investment assets shall be determined in accordance with the following methods:\n(1) for investment assets acquired by payment in cash, the cost shall be the purchase price;\n(2) for investment assets acquired by means other than payment in cash, the cost shall be the fair value of the asset and the relevant taxes and fees paid."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Section 4 Tax Treatment of Assets"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "The inventories mentioned in Article 15 of the Enterprise Income Tax Law refer to the products or commodities held by an enterprise for sale, the work in progress in the production process, and the materials and supplies consumed in the production process or in the provision of labour services.\nThe cost of inventories shall be determined in accordance with the following methods:\n(1) for inventories acquired by payment in cash, the cost shall be the purchase price and the relevant taxes and fees paid;\n(2) for inventories acquired by means other than payment in cash, the cost shall be the fair value of the inventories and the relevant taxes and fees paid;\n(3) for agricultural products harvested from productive biological assets, the cost shall be the necessary expenditures such as material costs, labour costs and apportioned indirect expenses incurred in the course of production or harvesting."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Section 4 Tax Treatment of Assets"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "An enterprise may choose one of the first-in first-out method, the weighted average method and the specific identification method as the method for calculating the cost of inventories used or sold. Once a valuation method is chosen, it shall not be changed arbitrarily."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Section 4 Tax Treatment of Assets"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "The net value of assets mentioned in Article 16 of the Enterprise Income Tax Law and the net value of property mentioned in Article 19 refer to the balance of the tax basis of the relevant assets and property after deducting the depreciation, depletion, amortisation, reserves and similar amounts already deducted in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Section 4 Tax Treatment of Assets"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "Unless otherwise provided by the competent departments of finance and taxation of the State Council, an enterprise shall, in the course of reorganisation, recognise the income or loss from the transfer of the relevant assets when the transaction occurs, and the tax basis of the relevant assets shall be re-determined according to the transaction price."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Section 4 Tax Treatment of Assets"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "The formula for calculating the tax payable provided in Article 22 of the Enterprise Income Tax Law is as follows:\nTax payable = taxable income x applicable tax rate - tax amount reduced or exempted - tax amount credited\nThe tax amount reduced or exempted and the tax amount credited in the formula refer to the tax payable reduced, exempted and credited in accordance with the Enterprise Income Tax Law and the tax preference provisions of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter III Tax Payable"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "The amount of income tax already paid outside China mentioned in Article 23 of the Enterprise Income Tax Law refers to the tax of the nature of enterprise income tax that should be paid and has actually been paid in accordance with the tax laws and relevant provisions of foreign countries on the income of an enterprise derived from outside the territory of China."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter III Tax Payable"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "The credit limit mentioned in Article 23 of the Enterprise Income Tax Law refers to the tax payable computed on the income of an enterprise derived from outside the territory of China in accordance with the provisions of the Enterprise Income Tax Law and these Regulations. Unless otherwise provided by the competent departments of finance and taxation of the State Council, the credit limit shall be computed by country (region) without distinguishing between items, and the formula is as follows:\nCredit limit = total tax payable on income within and outside the territory of China computed in accordance with the provisions of the Enterprise Income Tax Law and these Regulations x taxable income derived from a certain country (region) / total taxable income within and outside the territory of China"
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Chapter III Tax Payable"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "The 5 years mentioned in Article 23 of the Enterprise Income Tax Law refer to the 5 consecutive tax years starting from the year following the year in which the amount of tax of the nature of enterprise income tax already paid outside the territory of China on the income derived by an enterprise from outside the territory of China exceeds the credit limit."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Chapter III Tax Payable"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "The direct control mentioned in Article 24 of the Enterprise Income Tax Law refers to a resident enterprise directly holding 20 per cent or more of the shares of a foreign enterprise.\nThe indirect control mentioned in Article 24 of the Enterprise Income Tax Law refers to a resident enterprise holding 20 per cent or more of the shares of a foreign enterprise by way of indirect shareholding; the specific measures for determination shall be separately formulated by the competent departments of finance and taxation of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Chapter III Tax Payable"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "When an enterprise credits the amount of enterprise income tax in accordance with Articles 23 and 24 of the Enterprise Income Tax Law, it shall provide the relevant tax payment vouchers for the year to which the tax pertains issued by the tax authorities outside the territory of China."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Chapter III Tax Payable"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "The interest income from government bonds mentioned in Article 26(1) of the Enterprise Income Tax Law refers to the interest income obtained by an enterprise from holding government bonds issued by the finance department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Chapter IV Tax Incentives"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "The qualifying investment income from equity such as dividends and bonuses between resident enterprises mentioned in Article 26(2) of the Enterprise Income Tax Law refers to the investment income obtained by a resident enterprise from direct investment in other resident enterprises. The investment income from equity such as dividends and bonuses mentioned in Article 26(2) and (3) of the Enterprise Income Tax Law does not include the investment income obtained from shares publicly issued and listed for circulation by a resident enterprise that have been held continuously for less than 12 months."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Chapter IV Tax Incentives"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "The qualifying non-profit organisations mentioned in Article 26(4) of the Enterprise Income Tax Law refer to organisations that simultaneously meet the following conditions:\n(1) they have gone through the registration formalities for non-profit organisations in accordance with the law;\n(2) they engage in public welfare or non-profit activities;\n(3) apart from the reasonable expenditures related to the organisation, all the income obtained is used for the public welfare or non-profit undertakings specified in the registration verification or the articles of association;\n(4) their property and the fruits thereof are not used for distribution;\n(5) in accordance with the registration verification or the articles of association, the residual property of the organisation after deregistration is used for public welfare or non-profit purposes, or is transferred by the registration and administration authority to organisations of the same nature and purpose as the organisation, and an announcement is made to the public;\n(6) the investors do not retain or enjoy any property rights in the property invested in the organisation;\n(7) the salary and welfare expenditures of the staff are controlled within the prescribed proportions, and the property of the organisation is not distributed in disguised form.\nThe measures for the administration of the recognition of non-profit organisations provided in the preceding paragraph shall be formulated by the competent departments of finance and taxation of the State Council together with the relevant departments of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Chapter IV Tax Incentives"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "The income of qualifying non-profit organisations mentioned in Article 26(4) of the Enterprise Income Tax Law does not include the income obtained by non-profit organisations from for-profit activities, unless otherwise provided by the competent departments of finance and taxation of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        },
+        "chapter": {
+          "en": "Chapter IV Tax Incentives"
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "The exemption and reduction of enterprise income tax for the income of enterprises from agriculture, forestry, animal husbandry and fishery projects specified in Article 27(1) of the Enterprise Income Tax Law means:\n(1) the income of enterprises from the following projects shall be exempted from enterprise income tax:\n1. cultivation of vegetables, grains, tubers, oil-bearing crops, beans, cotton, hemp, sugar crops, fruits and nuts;\n2. breeding and selection of new crop varieties;\n3. cultivation of Chinese medicinal materials;\n4. cultivation and planting of trees;\n5. raising of livestock and poultry;\n6. gathering of forest products;\n7. agriculture, forestry, animal husbandry and fishery service projects such as irrigation, primary processing of agricultural products, veterinary services, popularisation of agricultural technology, and agricultural machinery operation and repair;\n8. ocean fishing.\n(2) the income of enterprises from the following projects shall be subject to enterprise income tax at half the rate:\n1. cultivation of flowers, tea and other beverage crops and spice crops;\n2. mariculture and inland aquaculture.\nEnterprises engaged in projects whose development is restricted or prohibited by the State shall not enjoy the enterprise income tax preferences provided in this Article."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        },
+        "chapter": {
+          "en": "Chapter IV Tax Incentives"
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "The public infrastructure projects under key State support mentioned in Article 27(2) of the Enterprise Income Tax Law refer to projects such as port terminals, airports, railways, highways, urban public transport, electric power and water conservancy specified in the Catalogue of Enterprise Income Tax Preferences for Public Infrastructure Projects.\nFor the income from the investment in and operation of the public infrastructure projects under key State support specified in the preceding paragraph, an enterprise shall be exempted from enterprise income tax from the first year to the third year, and shall be subject to enterprise income tax at half the rate from the fourth year to the sixth year, starting from the tax year to which the first income from production and operation of the project pertains.\nEnterprises that contract for the operation of, contract for the construction of, or build and use internally the projects specified in this Article shall not enjoy the enterprise income tax preferences provided in this Article."
+        },
+        "noLabel": {
+          "en": "Article 87."
+        },
+        "chapter": {
+          "en": "Chapter IV Tax Incentives"
+        }
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "The qualifying environmental protection, energy-saving and water-saving projects mentioned in Article 27(3) of the Enterprise Income Tax Law include public sewage treatment, public refuse treatment, comprehensive development and utilisation of biogas, technological transformation for energy conservation and emission reduction, and seawater desalination. The specific conditions and scope of such projects shall be formulated by the competent departments of finance and taxation of the State Council in consultation with the relevant departments of the State Council, and shall be promulgated and implemented after approval by the State Council.\nFor the income from the qualifying environmental protection, energy-saving and water-saving projects specified in the preceding paragraph, an enterprise shall be exempted from enterprise income tax from the first year to the third year, and shall be subject to enterprise income tax at half the rate from the fourth year to the sixth year, starting from the tax year to which the first income from production and operation of the project pertains."
+        },
+        "noLabel": {
+          "en": "Article 88."
+        },
+        "chapter": {
+          "en": "Chapter IV Tax Incentives"
+        }
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "Where a project enjoying the tax reduction and exemption preferences in accordance with Articles 87 and 88 of these Regulations is transferred within the period of tax reduction and exemption, the transferee may, from the date of transfer, enjoy the prescribed tax reduction and exemption preferences for the remaining period; where the project is transferred after the expiry of the period of tax reduction and exemption, the transferee shall not enjoy the tax reduction and exemption preferences for the project again."
+        },
+        "noLabel": {
+          "en": "Article 89."
+        },
+        "chapter": {
+          "en": "Chapter IV Tax Incentives"
+        }
+      },
+      {
+        "no": 90,
+        "text": {
+          "en": "The exemption and reduction of enterprise income tax for qualifying income from technology transfer mentioned in Article 27(4) of the Enterprise Income Tax Law means that, within one tax year, the portion of the income of a resident enterprise from technology transfer not exceeding RMB 5 million shall be exempted from enterprise income tax, and the portion exceeding RMB 5 million shall be subject to enterprise income tax at half the rate."
+        },
+        "noLabel": {
+          "en": "Article 90."
+        },
+        "chapter": {
+          "en": "Chapter IV Tax Incentives"
+        }
+      },
+      {
+        "no": 91,
+        "text": {
+          "en": "Income obtained by a non-resident enterprise as specified in Article 27(5) of the Enterprise Income Tax Law shall be subject to enterprise income tax at the reduced rate of 10 per cent.\nThe following income may be exempted from enterprise income tax:\n(1) interest income obtained by foreign governments from loans provided to the Chinese Government;\n(2) interest income obtained by international financial organisations from preferential loans provided to the Chinese Government and resident enterprises;\n(3) other income approved by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 91."
+        },
+        "chapter": {
+          "en": "Chapter IV Tax Incentives"
+        }
+      },
+      {
+        "no": 92,
+        "text": {
+          "en": "The qualifying small low-profit enterprises mentioned in Paragraph 1 of Article 28 of the Enterprise Income Tax Law refer to enterprises engaged in industries not restricted or prohibited by the State that meet the following conditions:\n(1) for industrial enterprises, the annual taxable income does not exceed RMB 300,000, the number of employees does not exceed 100 and the total assets do not exceed RMB 30 million;\n(2) for other enterprises, the annual taxable income does not exceed RMB 300,000, the number of employees does not exceed 80 and the total assets do not exceed RMB 10 million."
+        },
+        "noLabel": {
+          "en": "Article 92."
+        },
+        "chapter": {
+          "en": "Chapter IV Tax Incentives"
+        }
+      },
+      {
+        "no": 93,
+        "text": {
+          "en": "The new and high technology enterprises that the State needs to support as a priority mentioned in Paragraph 2 of Article 28 of the Enterprise Income Tax Law refer to enterprises that own core independent intellectual property rights and simultaneously meet the following conditions:\n(1) their products (services) fall within the scope specified in the Catalogue of New and High Technology Fields under Key State Support;\n(2) the proportion of research and development expenses to sales revenue is not lower than the prescribed proportion;\n(3) the proportion of income from new and high technology products (services) to the total income of the enterprise is not lower than the prescribed proportion;\n(4) the proportion of scientific and technical personnel to the total number of employees of the enterprise is not lower than the prescribed proportion;\n(5) they meet other conditions prescribed by the Measures for the Administration of the Recognition of New and High Technology Enterprises.\nThe Catalogue of New and High Technology Fields under Key State Support and the Measures for the Administration of the Recognition of New and High Technology Enterprises shall be formulated by the competent departments of industry and information technology, science and technology, finance and taxation of the State Council in consultation with the relevant departments of the State Council, and shall be promulgated and implemented after approval by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 93."
+        },
+        "chapter": {
+          "en": "Chapter IV Tax Incentives"
+        }
+      },
+      {
+        "no": 94,
+        "text": {
+          "en": "The ethnic autonomous areas mentioned in Article 29 of the Enterprise Income Tax Law refer to the autonomous regions, autonomous prefectures and autonomous counties practising regional ethnic autonomy in accordance with the provisions of the Law of the People's Republic of China on Regional Ethnic Autonomy.\nEnterprises in industries restricted or prohibited by the State in ethnic autonomous areas shall not be granted reduction or exemption of enterprise income tax."
+        },
+        "noLabel": {
+          "en": "Article 94."
+        },
+        "chapter": {
+          "en": "Chapter IV Tax Incentives"
+        }
+      },
+      {
+        "no": 95,
+        "text": {
+          "en": "The additional deduction of research and development expenses mentioned in Article 30(1) of the Enterprise Income Tax Law means that, for the research and development expenses incurred by an enterprise for the development of new technologies, new products and new techniques, where no intangible asset is formed and the expenses are included in the profit and loss of the current period, an additional deduction of 50 per cent of the research and development expenses shall be made on the basis of the deduction made in accordance with the provisions on an actual basis; where an intangible asset is formed, it shall be amortised at 150 per cent of the cost of the intangible asset."
+        },
+        "noLabel": {
+          "en": "Article 95."
+        },
+        "chapter": {
+          "en": "Chapter IV Tax Incentives"
+        }
+      },
+      {
+        "no": 96,
+        "text": {
+          "en": "The additional deduction of the wages paid by an enterprise for the placement of persons with disabilities mentioned in Article 30(2) of the Enterprise Income Tax Law means that, where an enterprise places persons with disabilities, an additional deduction of 100 per cent of the wages paid to the employees with disabilities shall be made on the basis of the deduction made in accordance with the provisions on an actual basis. The scope of persons with disabilities shall be governed by the relevant provisions of the Law of the People's Republic of China on the Protection of Persons with Disabilities.\nThe measures for the additional deduction of the wages paid by an enterprise for the placement of other persons encouraged by the State to be employed as mentioned in Article 30(2) of the Enterprise Income Tax Law shall be separately prescribed by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 96."
+        },
+        "chapter": {
+          "en": "Chapter IV Tax Incentives"
+        }
+      },
+      {
+        "no": 97,
+        "text": {
+          "en": "The deduction against taxable income mentioned in Article 31 of the Enterprise Income Tax Law means that, where a venture capital enterprise invests in an unlisted small or medium-sized new and high technology enterprise by way of equity investment for 2 years or more, 70 per cent of its investment amount may be deducted from the taxable income of the venture capital enterprise in the year in which the equity has been held for 2 full years; where the deduction is insufficient in that year, it may be carried forward to subsequent tax years for deduction."
+        },
+        "noLabel": {
+          "en": "Article 97."
+        },
+        "chapter": {
+          "en": "Chapter IV Tax Incentives"
+        }
+      },
+      {
+        "no": 98,
+        "text": {
+          "en": "The fixed assets for which the method of shortening the depreciation period or the method of accelerated depreciation may be adopted as mentioned in Article 32 of the Enterprise Income Tax Law include:\n(1) fixed assets whose products are updated rapidly due to technological progress;\n(2) fixed assets that are in a state of strong vibration or high corrosion all year round.\nWhere the method of shortening the depreciation period is adopted, the minimum depreciation period shall not be less than 60 per cent of the depreciation period prescribed in Article 60 of these Regulations; where the method of accelerated depreciation is adopted, the double declining balance method or the sum-of-the-years-digits method may be used."
+        },
+        "noLabel": {
+          "en": "Article 98."
+        },
+        "chapter": {
+          "en": "Chapter IV Tax Incentives"
+        }
+      },
+      {
+        "no": 99,
+        "text": {
+          "en": "The reduction of income mentioned in Article 33 of the Enterprise Income Tax Law means that, where an enterprise uses the resources specified in the Catalogue of Enterprise Income Tax Preferences for Comprehensive Utilisation of Resources as its main raw materials to produce products whose development is not restricted or prohibited by the State and which conform to the relevant national and industry standards, the income obtained shall be included in the total income at the reduced rate of 90 per cent.\nThe proportion of the raw materials mentioned in the preceding paragraph to the materials used for producing the products shall not be lower than the standard specified in the Catalogue of Enterprise Income Tax Preferences for Comprehensive Utilisation of Resources."
+        },
+        "noLabel": {
+          "en": "Article 99."
+        },
+        "chapter": {
+          "en": "Chapter IV Tax Incentives"
+        }
+      },
+      {
+        "no": 100,
+        "text": {
+          "en": "The tax credit mentioned in Article 34 of the Enterprise Income Tax Law means that, where an enterprise purchases and actually uses the special equipment for environmental protection, energy conservation and water saving, and work safety specified in the Catalogue of Enterprise Income Tax Preferences for Special Equipment for Environmental Protection, the Catalogue of Enterprise Income Tax Preferences for Special Equipment for Energy Conservation and Water Saving, and the Catalogue of Enterprise Income Tax Preferences for Special Equipment for Work Safety, 10 per cent of the investment amount in such special equipment may be credited against the tax payable of the enterprise for the current year; where the credit is insufficient in that year, it may be carried forward to the subsequent 5 tax years for credit.\nEnterprises enjoying the enterprise income tax preferences provided in the preceding paragraph shall actually purchase and put into use by themselves the special equipment specified in the preceding paragraph; where an enterprise transfers or leases the aforesaid special equipment within 5 years after purchase, it shall cease to enjoy the enterprise income tax preferences and shall pay the enterprise income tax already credited."
+        },
+        "noLabel": {
+          "en": "Article 100."
+        },
+        "chapter": {
+          "en": "Chapter IV Tax Incentives"
+        }
+      },
+      {
+        "no": 101,
+        "text": {
+          "en": "The catalogues of enterprise income tax preferences provided in Articles 87, 99 and 100 of this Chapter shall be formulated by the competent departments of finance and taxation of the State Council in consultation with the relevant departments of the State Council, and shall be promulgated and implemented after approval by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 101."
+        },
+        "chapter": {
+          "en": "Chapter IV Tax Incentives"
+        }
+      },
+      {
+        "no": 102,
+        "text": {
+          "en": "Where an enterprise simultaneously engages in projects subject to different enterprise income tax treatments, it shall separately compute the income of the projects enjoying preferences and reasonably apportion the period expenses of the enterprise; where it fails to make separate computations, it shall not enjoy the enterprise income tax preferences."
+        },
+        "noLabel": {
+          "en": "Article 102."
+        },
+        "chapter": {
+          "en": "Chapter IV Tax Incentives"
+        }
+      },
+      {
+        "no": 103,
+        "text": {
+          "en": "Where enterprise income tax payable by a non-resident enterprise is subject to withholding at source in accordance with the Enterprise Income Tax Law, the taxable income shall be computed in accordance with the provisions of Article 19 of the Enterprise Income Tax Law.\nThe full amount of income mentioned in Article 19 of the Enterprise Income Tax Law refers to the total price and off-price fees collected by a non-resident enterprise from the payer."
+        },
+        "noLabel": {
+          "en": "Article 103."
+        },
+        "chapter": {
+          "en": "Chapter V Withholding at Source"
+        }
+      },
+      {
+        "no": 104,
+        "text": {
+          "en": "The payer mentioned in Article 37 of the Enterprise Income Tax Law refers to the unit or individual that is directly obliged to pay the relevant amounts to the non-resident enterprise in accordance with the relevant legal provisions or the contract."
+        },
+        "noLabel": {
+          "en": "Article 104."
+        },
+        "chapter": {
+          "en": "Chapter V Withholding at Source"
+        }
+      },
+      {
+        "no": 105,
+        "text": {
+          "en": "The payment mentioned in Article 37 of the Enterprise Income Tax Law includes monetary and non-monetary payments such as payment in cash, payment by remittance, payment by transfer and payment in consideration of rights and interests.\nThe amounts due and payable mentioned in Article 37 of the Enterprise Income Tax Law refer to the payables that the payer should include in the relevant costs and expenses in accordance with the principle of accrual basis."
+        },
+        "noLabel": {
+          "en": "Article 105."
+        },
+        "chapter": {
+          "en": "Chapter V Withholding at Source"
+        }
+      },
+      {
+        "no": 106,
+        "text": {
+          "en": "The circumstances in which a withholding agent may be designated as provided in Article 38 of the Enterprise Income Tax Law include:\n(1) where the expected duration of the engineering operation or the provision of labour services is less than one tax year and there is evidence showing that the tax obligation will not be performed;\n(2) where tax registration or temporary tax registration has not been completed and no agent within the territory of China has been entrusted to perform the tax obligation;\n(3) where the enterprise income tax return or the advance payment return has not been filed within the prescribed time limit.\nThe withholding agent provided in the preceding paragraph shall be designated by the tax authorities at or above the county level, and shall be informed at the same time of the basis for computing the tax to be withheld, the computation method, the withholding time limit and the withholding method."
+        },
+        "noLabel": {
+          "en": "Article 106."
+        },
+        "chapter": {
+          "en": "Chapter V Withholding at Source"
+        }
+      },
+      {
+        "no": 107,
+        "text": {
+          "en": "The place where the income arises mentioned in Article 39 of the Enterprise Income Tax Law refers to the place where the income arises as determined in accordance with the principles provided in Article 7 of these Regulations. Where there are multiple places where the income arises within the territory of China, the taxpayer may choose one of them for filing and paying enterprise income tax."
+        },
+        "noLabel": {
+          "en": "Article 107."
+        },
+        "chapter": {
+          "en": "Chapter V Withholding at Source"
+        }
+      },
+      {
+        "no": 108,
+        "text": {
+          "en": "The other income of the taxpayer within the territory of China mentioned in Article 39 of the Enterprise Income Tax Law refers to the income obtained by the taxpayer within the territory of China from various other sources.\nWhen the tax authorities recover the tax payable of the taxpayer, they shall inform the taxpayer of the reasons for recovery, the amount to be recovered, the time limit for payment and the method of payment."
+        },
+        "noLabel": {
+          "en": "Article 108."
+        },
+        "chapter": {
+          "en": "Chapter V Withholding at Source"
+        }
+      },
+      {
+        "no": 109,
+        "text": {
+          "en": "The related parties mentioned in Article 41 of the Enterprise Income Tax Law refer to enterprises, other organisations or individuals that have one of the following related relationships with an enterprise:\n(1) a direct or indirect relationship of control in respect of funds, operations, purchase and sale and other aspects;\n(2) direct or indirect control by the same third party;\n(3) other relationships of association in terms of interests."
+        },
+        "noLabel": {
+          "en": "Article 109."
+        },
+        "chapter": {
+          "en": "Chapter VI Special Tax Adjustments"
+        }
+      },
+      {
+        "no": 110,
+        "text": {
+          "en": "The arm's length principle mentioned in Article 41 of the Enterprise Income Tax Law refers to the principle to be followed by parties to a transaction without a related relationship in their business dealings according to fair transaction prices and ordinary business practices."
+        },
+        "noLabel": {
+          "en": "Article 110."
+        },
+        "chapter": {
+          "en": "Chapter VI Special Tax Adjustments"
+        }
+      },
+      {
+        "no": 111,
+        "text": {
+          "en": "The reasonable methods mentioned in Article 41 of the Enterprise Income Tax Law include:\n(1) the comparable uncontrolled price method, which refers to the method of pricing according to the prices of identical or similar business dealings between parties to a transaction without a related relationship;\n(2) the resale price method, which refers to the method of pricing according to the price at which goods purchased from a related party are resold to a party to a transaction without a related relationship, after deducting the gross profit from identical or similar business;\n(3) the cost plus method, which refers to the method of pricing according to cost plus reasonable expenses and profit;\n(4) the transactional net margin method, which refers to the method of determining profit according to the level of net profit obtained by parties to a transaction without a related relationship from identical or similar business dealings;\n(5) the profit split method, which refers to the method of allocating the consolidated profit or loss of an enterprise and its related parties among the parties using reasonable criteria;\n(6) other methods conforming to the arm's length principle."
+        },
+        "noLabel": {
+          "en": "Article 111."
+        },
+        "chapter": {
+          "en": "Chapter VI Special Tax Adjustments"
+        }
+      },
+      {
+        "no": 112,
+        "text": {
+          "en": "An enterprise may, in accordance with the provisions of Paragraph 2 of Article 41 of the Enterprise Income Tax Law, apportion the costs jointly incurred with its related parties in accordance with the arm's length principle and conclude a cost sharing agreement.\nWhen apportioning costs with its related parties, an enterprise shall apportion them in accordance with the principle of matching costs with expected benefits, and shall submit the relevant materials as required by the tax authorities within the time limit prescribed by the tax authorities.\nWhere an enterprise violates the provisions of Paragraphs 1 and 2 of this Article when apportioning costs with its related parties, the costs apportioned by it on its own shall not be deducted in computing the taxable income."
+        },
+        "noLabel": {
+          "en": "Article 112."
+        },
+        "chapter": {
+          "en": "Chapter VI Special Tax Adjustments"
+        }
+      },
+      {
+        "no": 113,
+        "text": {
+          "en": "The advance pricing arrangement mentioned in Article 42 of the Enterprise Income Tax Law refers to the agreement reached by an enterprise with the tax authorities after applying to the tax authorities for the pricing principles and computation methods of the related-party transactions of its future years and after consultation and confirmation with the tax authorities in accordance with the arm's length principle."
+        },
+        "noLabel": {
+          "en": "Article 113."
+        },
+        "chapter": {
+          "en": "Chapter VI Special Tax Adjustments"
+        }
+      },
+      {
+        "no": 114,
+        "text": {
+          "en": "The relevant materials mentioned in Article 43 of the Enterprise Income Tax Law include:\n(1) contemporaneous documentation such as the standards for setting prices and fees, computation methods and explanations related to related-party business dealings;\n(2) the relevant materials on the resale (transfer) price or the final sale (transfer) price of the property, the right to use property, labour services and similar items involved in related-party business dealings;\n(3) the materials that other enterprises related to the related-party business investigation should provide, such as the product prices, pricing methods and profit levels comparable to those of the enterprise under investigation;\n(4) other materials related to related-party business dealings.\nThe other enterprises related to the related-party business investigation mentioned in Article 43 of the Enterprise Income Tax Law refer to enterprises similar to the enterprise under investigation in terms of the content and mode of production and operation.\nAn enterprise shall, within the time limit prescribed by the tax authorities, provide materials such as the standards for setting prices and fees, computation methods and explanations related to related-party business dealings. Related parties and other enterprises related to the related-party business investigation shall provide the relevant materials within the time limit agreed with the tax authorities."
+        },
+        "noLabel": {
+          "en": "Article 114."
+        },
+        "chapter": {
+          "en": "Chapter VI Special Tax Adjustments"
+        }
+      },
+      {
+        "no": 115,
+        "text": {
+          "en": "When the tax authorities verify and determine the taxable income of an enterprise in accordance with the provisions of Article 44 of the Enterprise Income Tax Law, they may adopt the following methods:\n(1) verification by reference to the profit level of identical or similar enterprises;\n(2) verification according to the method of cost plus reasonable expenses and profit;\n(3) verification according to a reasonable proportion of the overall profit of the group of affiliated enterprises;\n(4) verification according to other reasonable methods.\nWhere an enterprise objects to the taxable income verified and determined by the tax authorities according to the methods provided in the preceding paragraph, it shall provide the relevant evidence; the verified and determined taxable income shall be adjusted after confirmation by the tax authorities."
+        },
+        "noLabel": {
+          "en": "Article 115."
+        },
+        "chapter": {
+          "en": "Chapter VI Special Tax Adjustments"
+        }
+      },
+      {
+        "no": 116,
+        "text": {
+          "en": "The Chinese residents mentioned in Article 45 of the Enterprise Income Tax Law refer to individuals who, in accordance with the provisions of the Individual Income Tax Law of the People's Republic of China, pay individual income tax in China on the income derived from within and outside the territory of China."
+        },
+        "noLabel": {
+          "en": "Article 116."
+        },
+        "chapter": {
+          "en": "Chapter VI Special Tax Adjustments"
+        }
+      },
+      {
+        "no": 117,
+        "text": {
+          "en": "The control mentioned in Article 45 of the Enterprise Income Tax Law includes:\n(1) a resident enterprise or a Chinese resident directly or indirectly holds, alone, 10 per cent or more of the voting shares of a foreign enterprise and, together with others, holds 50 per cent or more of the shares of the foreign enterprise;\n(2) a resident enterprise, or a resident enterprise together with a Chinese resident, has not reached the shareholding ratio standard specified in Item (1), but exercises substantive control over the foreign enterprise in respect of shares, funds, operations, purchase and sale and other aspects."
+        },
+        "noLabel": {
+          "en": "Article 117."
+        },
+        "chapter": {
+          "en": "Chapter VI Special Tax Adjustments"
+        }
+      },
+      {
+        "no": 118,
+        "text": {
+          "en": "The circumstance where the actual tax burden is obviously lower than the tax rate level provided in Paragraph 1 of Article 4 of the Enterprise Income Tax Law mentioned in Article 45 of the Enterprise Income Tax Law refers to a burden lower than 50 per cent of the tax rate provided in Paragraph 1 of Article 4 of the Enterprise Income Tax Law."
+        },
+        "noLabel": {
+          "en": "Article 118."
+        },
+        "chapter": {
+          "en": "Chapter VI Special Tax Adjustments"
+        }
+      },
+      {
+        "no": 119,
+        "text": {
+          "en": "The creditor's rights investment mentioned in Article 46 of the Enterprise Income Tax Law refers to the financing obtained by an enterprise directly or indirectly from a related party that requires the repayment of principal and the payment of interest, or that requires compensation in other ways of the nature of interest payment.\nThe creditor's rights investment obtained indirectly by an enterprise from a related party includes:\n(1) creditor's rights investment provided by a related party through an unrelated third party;\n(2) creditor's rights investment provided by an unrelated third party and guaranteed by a related party with joint and several liability;\n(3) other creditor's rights investment obtained indirectly from a related party that has the substance of a liability.\nThe equity investment mentioned in Article 46 of the Enterprise Income Tax Law refers to the investment accepted by an enterprise that does not require the repayment of principal and the payment of interest and in respect of which the investor has ownership of the net assets of the enterprise.\nThe standard mentioned in Article 46 of the Enterprise Income Tax Law shall be separately prescribed by the competent departments of finance and taxation of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 119."
+        },
+        "chapter": {
+          "en": "Chapter VI Special Tax Adjustments"
+        }
+      },
+      {
+        "no": 120,
+        "text": {
+          "en": "The absence of a reasonable commercial purpose mentioned in Article 47 of the Enterprise Income Tax Law means that the main purpose is to reduce, exempt or defer the payment of tax."
+        },
+        "noLabel": {
+          "en": "Article 120."
+        },
+        "chapter": {
+          "en": "Chapter VI Special Tax Adjustments"
+        }
+      },
+      {
+        "no": 121,
+        "text": {
+          "en": "Where the tax authorities make a special tax adjustment to an enterprise in accordance with the provisions of tax laws and administrative regulations, they shall charge interest on a daily basis on the recovered tax during the period from 1 June of the year following the tax year to which the tax pertains to the date of supplementary payment of the tax.\nThe interest charged under the preceding paragraph shall not be deducted in computing the taxable income."
+        },
+        "noLabel": {
+          "en": "Article 121."
+        },
+        "chapter": {
+          "en": "Chapter VI Special Tax Adjustments"
+        }
+      },
+      {
+        "no": 122,
+        "text": {
+          "en": "The interest mentioned in Article 48 of the Enterprise Income Tax Law shall be computed at the benchmark Renminbi loan interest rate for the same period as the tax recovery period published by the People's Bank of China for the tax year to which the tax pertains, plus 5 percentage points.\nWhere an enterprise provides the relevant materials in accordance with Article 43 of the Enterprise Income Tax Law and these Regulations, interest may be computed only at the benchmark Renminbi loan interest rate provided in the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 122."
+        },
+        "chapter": {
+          "en": "Chapter VI Special Tax Adjustments"
+        }
+      },
+      {
+        "no": 123,
+        "text": {
+          "en": "Where the business dealings between an enterprise and its related parties do not conform to the arm's length principle, or where an enterprise implements other arrangements without a reasonable commercial purpose, the tax authorities shall have the power to make a tax adjustment within 10 years from the tax year in which the business occurs."
+        },
+        "noLabel": {
+          "en": "Article 123."
+        },
+        "chapter": {
+          "en": "Chapter VI Special Tax Adjustments"
+        }
+      },
+      {
+        "no": 124,
+        "text": {
+          "en": "The place of registration of an enterprise mentioned in Article 50 of the Enterprise Income Tax Law refers to the domicile where the enterprise is registered in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 124."
+        },
+        "chapter": {
+          "en": "Chapter VII Administration of Tax Collection"
+        }
+      },
+      {
+        "no": 125,
+        "text": {
+          "en": "When an enterprise computes and pays enterprise income tax on a consolidated basis, it shall uniformly account for the taxable income; the specific measures shall be separately formulated by the competent departments of finance and taxation of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 125."
+        },
+        "chapter": {
+          "en": "Chapter VII Administration of Tax Collection"
+        }
+      },
+      {
+        "no": 126,
+        "text": {
+          "en": "The principal institutions and sites mentioned in Article 51 of the Enterprise Income Tax Law shall simultaneously meet the following conditions:\n(1) they are responsible for the supervision and administration of the production and operation activities of the other institutions and sites;\n(2) they have complete account books and vouchers that can accurately reflect the income, costs, expenses and profit and loss of each institution and site."
+        },
+        "noLabel": {
+          "en": "Article 126."
+        },
+        "chapter": {
+          "en": "Chapter VII Administration of Tax Collection"
+        }
+      },
+      {
+        "no": 127,
+        "text": {
+          "en": "The advance payment of enterprise income tax on a monthly or quarterly basis shall be specifically verified and determined by the tax authorities.\nWhen an enterprise makes advance payment of enterprise income tax on a monthly or quarterly basis in accordance with the provisions of Article 54 of the Enterprise Income Tax Law, it shall make advance payment according to the actual amount of profit of the month or quarter; where it is difficult to make advance payment according to the actual amount of profit of the month or quarter, it may make advance payment according to the monthly or quarterly average of the taxable income of the preceding tax year, or according to other methods approved by the tax authorities. Once the method of advance payment is determined, it shall not be changed arbitrarily within the tax year."
+        },
+        "noLabel": {
+          "en": "Article 127."
+        },
+        "chapter": {
+          "en": "Chapter VII Administration of Tax Collection"
+        }
+      },
+      {
+        "no": 128,
+        "text": {
+          "en": "Whether an enterprise is in profit or in loss within a tax year, it shall submit to the tax authorities the enterprise income tax advance payment return, the annual enterprise income tax return, the financial and accounting reports and other relevant materials that the tax authorities require to be submitted, within the time limit prescribed in Article 54 of the Enterprise Income Tax Law."
+        },
+        "noLabel": {
+          "en": "Article 128."
+        },
+        "chapter": {
+          "en": "Chapter VII Administration of Tax Collection"
+        }
+      },
+      {
+        "no": 129,
+        "text": {
+          "en": "Where the income of an enterprise is computed in a currency other than the Renminbi, when making advance payment of enterprise income tax, the taxable income shall be computed by converting the income into the Renminbi at the central parity rate of the Renminbi exchange rate on the last day of the month or quarter. When making the annual final settlement and payment at the end of the year, no re-conversion and re-computation shall be made for the tax already paid in advance on a monthly or quarterly basis; only the portion of enterprise income tax not yet paid within the tax year shall be converted into the Renminbi at the central parity rate of the Renminbi exchange rate on the last day of the tax year for computing the taxable income.\nWhere, upon examination and confirmation by the tax authorities, an enterprise has understated or overstated the income provided in the preceding paragraph, the understated or overstated income shall be converted into the Renminbi at the central parity rate of the Renminbi exchange rate on the last day of the month preceding the month in which the tax is supplemented or refunded as confirmed by the examination, so as to compute the taxable income, and then the tax to be supplemented or refunded shall be computed."
+        },
+        "noLabel": {
+          "en": "Article 129."
+        },
+        "chapter": {
+          "en": "Chapter VII Administration of Tax Collection"
+        }
+      },
+      {
+        "no": 130,
+        "text": {
+          "en": "The enterprises already approved for establishment before the promulgation of the Enterprise Income Tax Law mentioned in Paragraph 1 of Article 57 of the Enterprise Income Tax Law refer to the enterprises that have completed registration before the promulgation of the Enterprise Income Tax Law."
+        },
+        "noLabel": {
+          "en": "Article 130."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 131,
+        "text": {
+          "en": "Enterprises established in the Hong Kong Special Administrative Region, the Macao Special Administrative Region and the Taiwan Region shall apply the relevant provisions of Paragraphs 2 and 3 of Article 2 of the Enterprise Income Tax Law by reference."
+        },
+        "noLabel": {
+          "en": "Article 131."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 132,
+        "text": {
+          "en": "These Regulations shall come into force on 1 January 2008. The Detailed Rules for the Implementation of the Income Tax Law of the People's Republic of China on Foreign-Invested Enterprises and Foreign Enterprises promulgated by the State Council on 30 June 1991 and the Detailed Rules for the Implementation of the Provisional Regulations of the People's Republic of China on Enterprise Income Tax promulgated by the Ministry of Finance on 4 February 1994 shall be repealed simultaneously."
+        },
+        "noLabel": {
+          "en": "Article 132."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
         }
       }
     ]

@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p03
-   法规 72 部 / 译文 4872 条
+   法规 73 部 / 译文 5008 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -55911,6 +55911,1635 @@
         },
         "chapter": {
           "en": "Chapter IX Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0228'] = {
+    "lawId": "CN-LAW-0228",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 136 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is enacted for the purpose of regulating the bankruptcy procedures of enterprises, settling claims and debts in a fair manner, protecting the lawful rights and interests of creditors and debtors, and maintaining the order of the socialist market economy."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where an enterprise legal person is unable to pay off its due debts and its assets are insufficient to pay off all its debts or it is obviously lacking in the capacity to pay off its debts, its debts shall be settled in accordance with the provisions of this Law.\nWhere an enterprise legal person falls under the circumstances provided in the preceding paragraph, or is likely to obviously lose the capacity to pay off its debts, it may undergo reorganisation in accordance with the provisions of this Law."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Bankruptcy cases shall be under the jurisdiction of the people's court of the place where the debtor is domiciled."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Where matters concerning the procedure for hearing a bankruptcy case are not provided in this Law, the relevant provisions of the Civil Procedure Law shall apply."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The bankruptcy procedures commenced in accordance with this Law shall have effect on the property of the debtor outside the territory of the People's Republic of China.\nWhere a legally effective judgment or ruling of a foreign court in a bankruptcy case involves the property of the debtor within the territory of the People's Republic of China and an application or request is made to a people's court for recognition and enforcement, the people's court shall examine it in accordance with the international treaties concluded or acceded to by the People's Republic of China or in accordance with the principle of reciprocity and, if it considers that the judgment or ruling does not violate the basic principles of the laws of the People's Republic of China, does not harm State sovereignty, security and public interests, and does not harm the lawful rights and interests of creditors within the territory of the People's Republic of China, rule to recognise and enforce it."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "When hearing bankruptcy cases, people's courts shall, in accordance with the law, protect the lawful rights and interests of the employees of enterprises and pursue the legal liability of the operation and management personnel of bankrupt enterprises in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Where a debtor falls under the circumstances provided in Article 2 of this Law, it may file an application with a people's court for reorganisation, composition or bankruptcy liquidation.\nWhere a debtor is unable to pay off its due debts, its creditors may file an application with a people's court for the reorganisation or bankruptcy liquidation of the debtor.\nWhere an enterprise legal person has been dissolved but has not been liquidated or has not completed liquidation and its assets are insufficient to pay off its debts, the persons legally responsible for liquidation shall apply to a people's court for bankruptcy liquidation."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Section 1 Application"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "An applicant filing a bankruptcy application with a people's court shall submit a bankruptcy application form and the relevant evidence.\nThe bankruptcy application form shall state the following matters:\n(1) the basic information of the applicant and the respondent;\n(2) the purpose of the application;\n(3) the facts and reasons for the application;\n(4) other matters that the people's court considers should be stated.\nWhere a debtor files the application, it shall also submit to the people's court a statement of its property status, a schedule of debts, a schedule of claims, the relevant financial and accounting reports, a plan for the placement of employees, and information on the payment of employees' wages and the payment of social insurance premiums."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Section 1 Application"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Before a people's court accepts a bankruptcy application, the applicant may request the withdrawal of the application."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Section 1 Application"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Where a creditor files a bankruptcy application, the people's court shall notify the debtor within five days from the date of receipt of the application. Where the debtor objects to the application, it shall submit the objection to the people's court within seven days from the date of receipt of the notice of the people's court. The people's court shall rule within ten days from the date of expiry of the period for objection on whether to accept the application.\nExcept for the circumstances provided in the preceding paragraph, a people's court shall rule within fifteen days from the date of receipt of the bankruptcy application on whether to accept it.\nWhere the period for ruling on acceptance provided in the preceding two paragraphs needs to be extended under special circumstances, it may be extended by fifteen days upon approval by the people's court at the next higher level."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Section 2 Acceptance"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Where a people's court accepts a bankruptcy application, it shall serve the ruling on the applicant within five days from the date of making the ruling.\nWhere the application is filed by a creditor, the people's court shall serve the ruling on the debtor within five days from the date of making the ruling. The debtor shall, within fifteen days from the date of service of the ruling, submit to the people's court a statement of its property status, a schedule of debts, a schedule of claims, the relevant financial and accounting reports, and information on the payment of employees' wages and the payment of social insurance premiums."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Section 2 Acceptance"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Where a people's court rules not to accept a bankruptcy application, it shall serve the ruling on the applicant within five days from the date of making the ruling and explain the reasons. Where the applicant is dissatisfied with the ruling, it may appeal to the people's court at the next higher level within ten days from the date of service of the ruling.\nAfter a people's court accepts a bankruptcy application and before the declaration of bankruptcy, if upon examination it is found that the debtor does not fall under the circumstances provided in Article 2 of this Law, the people's court may rule to reject the application. Where the applicant is dissatisfied with the ruling, it may appeal to the people's court at the next higher level within ten days from the date of service of the ruling."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Section 2 Acceptance"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where a people's court rules to accept a bankruptcy application, it shall at the same time designate an administrator."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Section 2 Acceptance"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "A people's court shall, within twenty-five days from the date of the ruling to accept a bankruptcy application, notify the known creditors and make an announcement.\nThe notice and announcement shall state the following matters:\n(1) the names or titles of the applicant and the respondent;\n(2) the time when the people's court accepted the bankruptcy application;\n(3) the time limit, place and matters requiring attention for the declaration of claims;\n(4) the name or title of the administrator and the address at which the administrator handles affairs;\n(5) the requirement that the debtors of the debtor or the holders of its property shall pay debts or deliver property to the administrator;\n(6) the time and place for convening the first meeting of creditors;\n(7) other matters that the people's court considers should be notified and announced."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Section 2 Acceptance"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "From the date of service on the debtor of the ruling of the people's court to accept the bankruptcy application to the date of termination of the bankruptcy procedure, the relevant personnel of the debtor shall assume the following obligations:\n(1) to properly keep the property, seals, account books, documents and other materials in their possession and management;\n(2) to work as required by the people's court and the administrator and to truthfully answer inquiries;\n(3) to attend the meeting of creditors as non-voting participants and truthfully answer the inquiries of creditors;\n(4) not to leave their domicile without the permission of the people's court;\n(5) not to serve as a director, supervisor or senior manager of another enterprise.\nThe relevant personnel mentioned in the preceding paragraph refer to the legal representative of the enterprise; as decided by the people's court, they may include the financial management personnel and other operation and management personnel of the enterprise."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Section 2 Acceptance"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "After a people's court accepts a bankruptcy application, the payment of debts by the debtor to individual creditors shall be void."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Section 2 Acceptance"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "After a people's court accepts a bankruptcy application, the debtors of the debtor or the holders of its property shall pay debts or deliver property to the administrator.\nWhere the debtors of the debtor or the holders of its property intentionally violate the provisions of the preceding paragraph by paying debts or delivering property to the debtor, causing losses to creditors, their obligation to pay debts or deliver property shall not be exempted."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Section 2 Acceptance"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "After a people's court accepts a bankruptcy application, the administrator shall have the right to decide to rescind or to continue performing a contract concluded before the acceptance of the bankruptcy application which neither the debtor nor the other party has fully performed, and shall notify the other party. Where the administrator fails to notify the other party within two months from the date of acceptance of the bankruptcy application, or fails to reply within thirty days from the date of receipt of a demand from the other party, the contract shall be deemed rescinded.\nWhere the administrator decides to continue performing the contract, the other party shall perform it; however, the other party shall have the right to require the administrator to provide security. Where the administrator does not provide security, the contract shall be deemed rescinded."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Section 2 Acceptance"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "After a people's court accepts a bankruptcy application, the preservation measures in respect of the property of the debtor shall be lifted and the enforcement procedures shall be suspended."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Section 2 Acceptance"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "After a people's court accepts a bankruptcy application, civil litigation or arbitration concerning the debtor that has already commenced but has not been concluded shall be suspended; after the administrator takes over the property of the debtor, such litigation or arbitration shall continue."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Section 2 Acceptance"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "After a people's court accepts a bankruptcy application, civil litigation concerning the debtor may only be instituted in the people's court that accepted the bankruptcy application."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Section 2 Acceptance"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The administrator shall be designated by the people's court.\nWhere the meeting of creditors considers that the administrator is unable to perform its duties in accordance with the law and impartially, or that there are other circumstances under which the administrator is not competent for the post, it may apply to the people's court for replacement.\nThe measures for designating administrators and determining their remuneration shall be prescribed by the Supreme People's Court."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Administrator"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The administrator shall perform its duties in accordance with the provisions of this Law, report its work to the people's court and accept the supervision of the meeting of creditors and the creditors' committee.\nThe administrator shall attend the meeting of creditors as a non-voting participant, report to the meeting of creditors on the performance of its duties and answer inquiries."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Administrator"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The administrator may be a liquidation group composed of personnel from the relevant departments and institutions, or a social intermediary institution such as a law firm, an accounting firm or a bankruptcy liquidation firm established in accordance with the law.\nOn the basis of the actual situation of the debtor, a people's court may, after consulting the relevant social intermediary institution, designate a person of that institution who possesses the relevant professional knowledge and has obtained the practising qualification to serve as the administrator.\nNone of the following persons may serve as an administrator:\n(1) having been subjected to criminal punishment for an intentional crime;\n(2) having had the relevant professional practising certificate revoked;\n(3) having an interest in the case;\n(4) other circumstances under which the people's court considers it inappropriate for the person to serve as an administrator.\nAn individual serving as an administrator shall take out practising liability insurance."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Administrator"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The administrator shall perform the following duties:\n(1) to take over the property, seals, account books, documents and other materials of the debtor;\n(2) to investigate the property status of the debtor and prepare a report on the property status;\n(3) to decide on the internal management affairs of the debtor;\n(4) to decide on the daily expenses and other necessary expenses of the debtor;\n(5) to decide whether to continue or suspend the business of the debtor before the first meeting of creditors is convened;\n(6) to manage and dispose of the property of the debtor;\n(7) to represent the debtor in litigation, arbitration or other legal proceedings;\n(8) to propose the convening of a meeting of creditors;\n(9) other duties that the people's court considers the administrator should perform.\nWhere this Law otherwise provides for the duties of the administrator, those provisions shall apply."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Administrator"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Before the first meeting of creditors is convened, the administrator's decision to continue or suspend the business of the debtor, or to commit any of the acts provided in Article 69 of this Law, shall be subject to the permission of the people's court."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Administrator"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The administrator shall be diligent and conscientious and shall faithfully perform its duties."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Administrator"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The administrator may, with the permission of the people's court, employ the necessary staff.\nThe remuneration of the administrator shall be determined by the people's court. Where the meeting of creditors objects to the remuneration of the administrator, it shall have the right to raise the objection with the people's court."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Administrator"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The administrator shall not resign from its post without justifiable reasons. The resignation of the administrator shall be subject to the permission of the people's court."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Administrator"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "All the property belonging to the debtor at the time of acceptance of the bankruptcy application, as well as the property acquired by the debtor after the acceptance of the bankruptcy application and before the termination of the bankruptcy procedure, shall constitute the property of the debtor."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Property of the Debtor"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Within one year before the people's court accepts a bankruptcy application, the administrator shall have the right to request the people's court to revoke the following acts involving the property of the debtor:\n(1) transferring property without consideration;\n(2) entering into transactions at obviously unreasonable prices;\n(3) providing property security for debts not secured by property;\n(4) making early payment of debts not yet due;\n(5) waiving claims."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Property of the Debtor"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Within six months before the people's court accepts a bankruptcy application, where the debtor falls under the circumstances provided in Paragraph 1 of Article 2 of this Law and still makes payment to individual creditors, the administrator shall have the right to request the people's court to revoke such payment, except where the individual payment benefits the property of the debtor."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Property of the Debtor"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The following acts involving the property of the debtor shall be void:\n(1) concealing or transferring property in order to evade debts;\n(2) fabricating debts or acknowledging debts that are not genuine."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Property of the Debtor"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The administrator shall have the right to recover the property of the debtor acquired by any person through the acts provided in Article 31, Article 32 or Article 33 of this Law."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Property of the Debtor"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "After a people's court accepts a bankruptcy application, where the capital contributors of the debtor have not fully performed their capital contribution obligations, the administrator shall require such capital contributors to pay the subscribed capital contributions, without being subject to the time limit for capital contribution."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Property of the Debtor"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The administrator shall recover the abnormal income obtained from the enterprise by the directors, supervisors and senior managers of the debtor by taking advantage of their positions and the enterprise property misappropriated by them."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Property of the Debtor"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "After a people's court accepts a bankruptcy application, the administrator may recover the pledged property or the property under lien by paying off the debts or providing security acceptable to the creditors.\nWhere the value of the pledged property or the property under lien is lower than the amount of the claim secured, the debt payment or substitute security provided in the preceding paragraph shall be limited to the market value of the pledged property or the property under lien at that time."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Property of the Debtor"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "After a people's court accepts a bankruptcy application, the person entitled to the property in the possession of the debtor that does not belong to the debtor may recover the property through the administrator, unless otherwise provided in this Law."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Property of the Debtor"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where, at the time a people's court accepts a bankruptcy application, the seller has dispatched the subject matter of the sale to the debtor as the buyer and the debtor has not yet received it and has not paid the full price, the seller may recover the subject matter in transit. However, the administrator may pay the full price and request the seller to deliver the subject matter."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter IV Property of the Debtor"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where a creditor owes a debt to the debtor before the acceptance of the bankruptcy application, it may claim a set-off against the administrator. However, no set-off may be made under any of the following circumstances:\n(1) where a debtor of the debtor acquires another person's claim against the debtor after the acceptance of the bankruptcy application;\n(2) where a creditor, knowing that the debtor is unable to pay off its due debts or that a bankruptcy application has been filed, assumes a debt to the debtor; however, this does not apply where the creditor assumes the debt by operation of law or for reasons that occurred one year before the bankruptcy application;\n(3) where a debtor of the debtor, knowing that the debtor is unable to pay off its due debts or that a bankruptcy application has been filed, acquires a claim against the debtor; however, this does not apply where the debtor of the debtor acquires the claim by operation of law or for reasons that occurred one year before the bankruptcy application."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter IV Property of the Debtor"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "The following expenses incurred after a people's court accepts a bankruptcy application shall constitute bankruptcy expenses:\n(1) the litigation costs of the bankruptcy case;\n(2) the expenses for the management, realisation and distribution of the property of the debtor;\n(3) the expenses incurred by the administrator in performing its duties, its remuneration and the expenses for employing staff."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter V Bankruptcy Expenses and Debts for the Common Benefit"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The following debts incurred after a people's court accepts a bankruptcy application shall constitute debts for the common benefit:\n(1) debts arising from the request by the administrator or the debtor to the other party to perform a contract which neither party has fully performed;\n(2) debts arising from the management of the property of the debtor without mandate;\n(3) debts arising from unjust enrichment of the debtor;\n(4) labour remuneration and social insurance premiums payable for the continuation of the business of the debtor and other debts arising therefrom;\n(5) debts arising from damage caused to others by the administrator or the relevant personnel in the performance of their duties;\n(6) debts arising from damage caused to others by the property of the debtor."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter V Bankruptcy Expenses and Debts for the Common Benefit"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Bankruptcy expenses and debts for the common benefit shall be paid at any time out of the property of the debtor.\nWhere the property of the debtor is insufficient to pay all bankruptcy expenses and debts for the common benefit, the bankruptcy expenses shall be paid first.\nWhere the property of the debtor is insufficient to pay all bankruptcy expenses or all debts for the common benefit, payment shall be made proportionally.\nWhere the property of the debtor is insufficient to pay the bankruptcy expenses, the administrator shall request the people's court to terminate the bankruptcy procedure. The people's court shall, within fifteen days from the date of receipt of the request, rule to terminate the bankruptcy procedure and make an announcement."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter V Bankruptcy Expenses and Debts for the Common Benefit"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Creditors who hold claims against the debtor at the time a people's court accepts a bankruptcy application shall exercise their rights in accordance with the procedures provided in this Law."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VI Declaration of Claims"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "After a people's court accepts a bankruptcy application, it shall determine the time limit for creditors to declare their claims. The time limit for the declaration of claims shall be counted from the date of publication of the announcement of the acceptance of the bankruptcy application by the people's court, and shall be not less than thirty days and not more than three months."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VI Declaration of Claims"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Claims not yet due shall be deemed due at the time of acceptance of the bankruptcy application.\nThe calculation of interest on claims bearing interest shall cease from the time of acceptance of the bankruptcy application."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VI Declaration of Claims"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Creditors may declare claims that are subject to conditions or subject to time limits and claims that are the subject matter of pending litigation or arbitration."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VI Declaration of Claims"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Creditors shall declare their claims to the administrator within the time limit for the declaration of claims determined by the people's court.\nThe wages, medical expenses, disability subsidies and pensions owed by the debtor to its employees, the basic old-age insurance premiums and basic medical insurance premiums owed that should be credited to the employees' individual accounts, and the compensation that should be paid to employees as provided by laws and administrative regulations need not be declared; the administrator shall, after investigation, prepare a list thereof and make it public. Where employees object to the entries in the list, they may request the administrator to make corrections; where the administrator refuses to make corrections, the employees may institute litigation in the people's court."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VI Declaration of Claims"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "When declaring a claim, a creditor shall state in writing the amount of the claim and whether it is secured by property, and shall submit the relevant evidence. Where the declared claim is a joint and several claim, this shall be stated."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VI Declaration of Claims"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Joint and several creditors may designate one of them to declare the claims on behalf of all the joint and several creditors, or may declare the claims jointly."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VI Declaration of Claims"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where the guarantor of the debtor or another joint and several debtor has already paid off the debts on behalf of the debtor, it shall declare a claim on the basis of its right of recourse against the debtor.\nWhere the guarantor of the debtor or another joint and several debtor has not yet paid off the debts on behalf of the debtor, it shall declare a claim on the basis of its future right of recourse against the debtor, unless the creditor has already declared the entire claim to the administrator."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VI Declaration of Claims"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where several joint and several debtors are ruled to be subject to the procedures provided in this Law, their creditors shall have the right to declare the entire claim separately in each bankruptcy case."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VI Declaration of Claims"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where the administrator or the debtor rescinds a contract in accordance with the provisions of this Law, the other party shall declare a claim on the basis of its right to claim compensation for the damage arising from the rescission of the contract."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VI Declaration of Claims"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where the debtor is the principal of an agency contract and is ruled to be subject to the procedures provided in this Law, and the agent, not knowing this fact, continues to handle the agency matters, the agent shall declare a claim on the basis of the right of claim arising therefrom."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VI Declaration of Claims"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where the debtor is the drawer of a negotiable instrument and is ruled to be subject to the procedures provided in this Law, and the payer of the instrument continues to make payment or accept the instrument, the payer shall declare a claim on the basis of the right of claim arising therefrom."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VI Declaration of Claims"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where a creditor fails to declare its claim within the time limit for the declaration of claims determined by the people's court, it may make a supplementary declaration before the final distribution of the bankruptcy property; however, no supplementary distribution shall be made to it in respect of the distributions already made. The expenses for examining and confirming the supplementary declared claim shall be borne by the person making the supplementary declaration.\nA creditor that fails to declare its claim in accordance with the provisions of this Law shall not exercise its rights in accordance with the procedures provided in this Law."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VI Declaration of Claims"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "After receiving the materials for the declaration of claims, the administrator shall register them, examine the declared claims and prepare a schedule of claims.\nThe schedule of claims and the materials for the declaration of claims shall be kept by the administrator for inspection by the interested parties."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VI Declaration of Claims"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "The schedule of claims prepared in accordance with the provisions of Article 57 of this Law shall be submitted to the first meeting of creditors for verification.\nWhere the debtor and the creditors have no objection to the claims recorded in the schedule of claims, the people's court shall rule to confirm them.\nWhere the debtor or the creditors have objections to the claims recorded in the schedule of claims, they may institute litigation in the people's court that accepted the bankruptcy application."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VI Declaration of Claims"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Creditors who have declared their claims in accordance with the law are members of the meeting of creditors and shall have the right to attend the meeting of creditors and to vote.\nCreditors whose claims have not yet been determined shall not exercise the right to vote, unless the people's court can temporarily determine the amount of their claims for the purpose of exercising the right to vote.\nCreditors enjoying security rights over specific property of the debtor who have not waived the right of priority of repayment shall not have the right to vote on the matters specified in Items (7) and (10) of Paragraph 1 of Article 61 of this Law.\nCreditors may entrust agents to attend the meeting of creditors and exercise the right to vote on their behalf. An agent attending the meeting of creditors shall submit a power of attorney from the creditor to the people's court or the chairman of the meeting of creditors.\nThe meeting of creditors shall include representatives of the employees and the trade union of the debtor to express their opinions on the relevant matters."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "The meeting of creditors shall have one chairman, who shall be designated by the people's court from among the creditors entitled to vote.\nThe chairman of the meeting of creditors shall preside over the meeting of creditors."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "The meeting of creditors shall exercise the following functions and powers:\n(1) to verify claims;\n(2) to apply to the people's court for replacement of the administrator and to examine the expenses and remuneration of the administrator;\n(3) to supervise the administrator;\n(4) to elect and replace the members of the creditors' committee;\n(5) to decide whether to continue or suspend the business of the debtor;\n(6) to adopt the reorganisation plan;\n(7) to adopt the composition agreement;\n(8) to adopt the plan for the management of the property of the debtor;\n(9) to adopt the plan for the realisation of the bankruptcy property;\n(10) to adopt the plan for the distribution of the bankruptcy property;\n(11) other functions and powers that the people's court considers should be exercised by the meeting of creditors.\nThe meeting of creditors shall make minutes of the resolutions on the matters deliberated."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "The first meeting of creditors shall be convened by the people's court within fifteen days from the date of expiry of the time limit for the declaration of claims.\nSubsequent meetings of creditors shall be convened when the people's court considers it necessary, or when the administrator, the creditors' committee or creditors representing more than one quarter of the total amount of claims propose it to the chairman of the meeting of creditors."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "When convening a meeting of creditors, the administrator shall notify the known creditors fifteen days in advance."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "A resolution of the meeting of creditors shall be adopted by more than half of the creditors entitled to vote who attend the meeting, and the amount of claims represented by them shall account for more than one half of the total amount of claims not secured by property, unless otherwise provided in this Law.\nWhere a creditor considers that a resolution of the meeting of creditors violates the provisions of laws and harms its interests, it may, within fifteen days from the date on which the resolution is made by the meeting of creditors, request the people's court to rule to revoke the resolution and order the meeting of creditors to make a new resolution in accordance with the law.\nA resolution of the meeting of creditors shall be binding on all creditors."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Where the matters listed in Items (8) and (9) of Paragraph 1 of Article 61 of this Law are not adopted upon voting by the meeting of creditors, the people's court shall rule on them.\nWhere the matter listed in Item (10) of Paragraph 1 of Article 61 of this Law is still not adopted after the second vote of the meeting of creditors, the people's court shall rule on it.\nThe people's court may announce the rulings provided in the preceding two paragraphs at the meeting of creditors or otherwise notify the creditors."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Where a creditor is dissatisfied with the ruling made by a people's court in accordance with Paragraph 1 of Article 65 of this Law, or where creditors whose claims account for more than one half of the total amount of claims not secured by property are dissatisfied with the ruling made by a people's court in accordance with Paragraph 2 of Article 65 of this Law, they may apply to that people's court for reconsideration within fifteen days from the date of announcement of the ruling or the date of receipt of the notice. The execution of the ruling shall not be suspended during the period of reconsideration."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "The meeting of creditors may decide to establish a creditors' committee. The creditors' committee shall be composed of the representatives of creditors elected by the meeting of creditors and one representative of the employees or of the trade union of the debtor. The members of the creditors' committee shall not exceed nine.\nThe members of the creditors' committee shall be recognised by a written decision of the people's court."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Section 2 Creditors' Committee"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "The creditors' committee shall exercise the following functions and powers:\n(1) to supervise the management and disposal of the property of the debtor;\n(2) to supervise the distribution of the bankruptcy property;\n(3) to propose the convening of a meeting of creditors;\n(4) other functions and powers entrusted by the meeting of creditors.\nWhen performing its duties, the creditors' committee shall have the right to require the administrator and the relevant personnel of the debtor to give explanations or provide the relevant documents on matters within the scope of its functions and powers.\nWhere the administrator or the relevant personnel of the debtor violate the provisions of this Law and refuse to accept supervision, the creditors' committee shall have the right to request the people's court to make a decision on the matter of supervision; the people's court shall make the decision within five days."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Section 2 Creditors' Committee"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "The administrator shall promptly report the following acts to the creditors' committee:\n(1) the transfer of rights and interests in immovable property such as land and houses;\n(2) the transfer of property rights such as exploration rights, mining rights and intellectual property rights;\n(3) the transfer of all the inventory or the business;\n(4) borrowing of funds;\n(5) the creation of property security;\n(6) the transfer of claims and marketable securities;\n(7) the performance of contracts which neither the debtor nor the other party has fully performed;\n(8) the waiver of rights;\n(9) the recovery of the collateral;\n(10) other acts of disposal of property that have a significant impact on the interests of creditors.\nWhere no creditors' committee has been established, the administrator shall promptly report the acts provided in the preceding paragraph to the people's court."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Section 2 Creditors' Committee"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "A debtor or its creditors may, in accordance with the provisions of this Law, directly apply to a people's court for the reorganisation of the debtor.\nWhere a creditor applies for bankruptcy liquidation of the debtor, after the people's court accepts the bankruptcy application and before the debtor is declared bankrupt, the debtor or capital contributors whose capital contributions account for more than one tenth of the registered capital of the debtor may apply to the people's court for reorganisation."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Section 1 Application for Reorganisation and Reorganisation Period"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "Where a people's court, upon examination, considers that an application for reorganisation conforms to the provisions of this Law, it shall rule that the debtor undergoes reorganisation and make an announcement."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Section 1 Application for Reorganisation and Reorganisation Period"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "The period from the date of the ruling of the people's court that the debtor undergoes reorganisation to the date of termination of the reorganisation procedure shall be the reorganisation period."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Section 1 Application for Reorganisation and Reorganisation Period"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "During the reorganisation period, the debtor may, upon its application and with the approval of the people's court, manage its property and business affairs by itself under the supervision of the administrator.\nUnder the circumstances provided in the preceding paragraph, the administrator that has taken over the property and business affairs of the debtor in accordance with the provisions of this Law shall transfer the property and business affairs to the debtor, and the functions and powers of the administrator provided in this Law shall be exercised by the debtor."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Section 1 Application for Reorganisation and Reorganisation Period"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "Where the administrator is responsible for the management of the property and business affairs, it may engage the operation and management personnel of the debtor to take charge of the business affairs."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Section 1 Application for Reorganisation and Reorganisation Period"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "During the reorganisation period, the exercise of security rights over specific property of the debtor shall be suspended. However, where the collateral is likely to be damaged or its value is likely to decrease significantly, to the extent that the rights of the secured party would be harmed, the secured party may request the people's court to resume the exercise of the security right.\nDuring the reorganisation period, where the debtor or the administrator borrows funds for the continuation of business, security may be provided for such borrowing."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Section 1 Application for Reorganisation and Reorganisation Period"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "Where the person entitled to property lawfully in the possession of the debtor requests the recovery of the property during the reorganisation period, the conditions agreed in advance shall be met."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Section 1 Application for Reorganisation and Reorganisation Period"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "During the reorganisation period, the capital contributors of the debtor shall not request the distribution of investment returns.\nDuring the reorganisation period, the directors, supervisors and senior managers of the debtor shall not transfer the equity of the debtor held by them to third parties, unless with the consent of the people's court."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Section 1 Application for Reorganisation and Reorganisation Period"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "During the reorganisation period, under any of the following circumstances, the people's court shall, upon the request of the administrator or an interested party, rule to terminate the reorganisation procedure and declare the debtor bankrupt:\n(1) the business and property conditions of the debtor continue to deteriorate and there is no possibility of rescue;\n(2) the debtor commits fraud, maliciously reduces the property of the debtor or commits other acts obviously detrimental to creditors;\n(3) the acts of the debtor render the administrator unable to perform its duties."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Section 1 Application for Reorganisation and Reorganisation Period"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "The debtor or the administrator shall, within six months from the date of the ruling of the people's court that the debtor undergoes reorganisation, submit a draft reorganisation plan to the people's court and the meeting of creditors at the same time.\nWhere the time limit provided in the preceding paragraph expires, the people's court may, upon the request of the debtor or the administrator and for justifiable reasons, rule to extend it by three months.\nWhere the debtor or the administrator fails to submit a draft reorganisation plan within the time limit, the people's court shall rule to terminate the reorganisation procedure and declare the debtor bankrupt."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Section 2 Formulation and Approval of the Reorganisation Plan"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "Where the debtor manages its property and business affairs by itself, the draft reorganisation plan shall be prepared by the debtor.\nWhere the administrator is responsible for the management of the property and business affairs, the draft reorganisation plan shall be prepared by the administrator."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Section 2 Formulation and Approval of the Reorganisation Plan"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "The draft reorganisation plan shall include the following:\n(1) the business plan of the debtor;\n(2) the classification of claims;\n(3) the plan for the adjustment of claims;\n(4) the plan for the repayment of claims;\n(5) the period for the implementation of the reorganisation plan;\n(6) the period for supervision over the implementation of the reorganisation plan;\n(7) other plans conducive to the reorganisation of the debtor."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Section 2 Formulation and Approval of the Reorganisation Plan"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "Creditors of the following classes of claims shall participate in the meeting of creditors that discusses the draft reorganisation plan and vote on the draft reorganisation plan in groups according to the following classification of claims:\n(1) claims enjoying security rights over specific property of the debtor;\n(2) the wages, medical expenses, disability subsidies and pensions owed by the debtor to its employees, the basic old-age insurance premiums and basic medical insurance premiums owed that should be credited to the employees' individual accounts, and the compensation that should be paid to employees as provided by laws and administrative regulations;\n(3) the taxes owed by the debtor;\n(4) ordinary claims.\nWhere necessary, the people's court may decide to establish a group of small-amount claims within the group of ordinary claims to vote on the draft reorganisation plan."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Section 2 Formulation and Approval of the Reorganisation Plan"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "The reorganisation plan shall not provide for the reduction or exemption of the social insurance expenses owed by the debtor other than those specified in Item (2) of Paragraph 1 of Article 82 of this Law; the creditors of such expenses shall not participate in the voting on the draft reorganisation plan."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Section 2 Formulation and Approval of the Reorganisation Plan"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "The people's court shall, within thirty days from the date of receipt of the draft reorganisation plan, convene a meeting of creditors to vote on the draft reorganisation plan.\nWhere more than half of the creditors in the same voting group attending the meeting agree to the draft reorganisation plan and the amount of claims represented by them accounts for more than two thirds of the total amount of claims in that group, the draft reorganisation plan shall be deemed adopted by that group.\nThe debtor or the administrator shall give explanations on the draft reorganisation plan to the meeting of creditors and answer inquiries."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Section 2 Formulation and Approval of the Reorganisation Plan"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "The representatives of the capital contributors of the debtor may attend the meeting of creditors that discusses the draft reorganisation plan as non-voting participants.\nWhere the draft reorganisation plan involves matters concerning the adjustment of the rights and interests of capital contributors, a group of capital contributors shall be established to vote on such matters."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        },
+        "chapter": {
+          "en": "Section 2 Formulation and Approval of the Reorganisation Plan"
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "When the draft reorganisation plan is adopted by all voting groups, the reorganisation plan shall be deemed adopted.\nWithin ten days from the date of adoption of the reorganisation plan, the debtor or the administrator shall file an application with the people's court for approval of the reorganisation plan. Where the people's court, upon examination, considers that it conforms to the provisions of this Law, it shall, within thirty days from the date of receipt of the application, rule to approve it, terminate the reorganisation procedure and make an announcement."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        },
+        "chapter": {
+          "en": "Section 2 Formulation and Approval of the Reorganisation Plan"
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "Where some voting groups do not adopt the draft reorganisation plan, the debtor or the administrator may negotiate with the voting groups that did not adopt the draft reorganisation plan. Such voting groups may vote once again after the negotiation. The result of the negotiation between the parties shall not harm the interests of other voting groups.\nWhere the voting groups that did not adopt the draft reorganisation plan refuse to vote again or still do not adopt the draft reorganisation plan after voting again, but the draft reorganisation plan meets the following conditions, the debtor or the administrator may apply to the people's court for approval of the draft reorganisation plan:\n(1) according to the draft reorganisation plan, the claims listed in Item (1) of Paragraph 1 of Article 82 of this Law will be paid in full in respect of the specific property, the losses suffered due to the deferred payment will be fairly compensated, and their security rights will not be substantially harmed, or the voting group has already adopted the draft reorganisation plan;\n(2) according to the draft reorganisation plan, the claims listed in Items (2) and (3) of Paragraph 1 of Article 82 of this Law will be paid in full, or the corresponding voting group has already adopted the draft reorganisation plan;\n(3) according to the draft reorganisation plan, the repayment ratio for ordinary claims is not lower than the repayment ratio that they could obtain under the bankruptcy liquidation procedure at the time the draft reorganisation plan is submitted for approval, or the voting group has already adopted the draft reorganisation plan;\n(4) the adjustment of the rights and interests of capital contributors under the draft reorganisation plan is fair and just, or the group of capital contributors has already adopted the draft reorganisation plan;\n(5) the draft reorganisation plan treats the members of the same voting group fairly and the order of repayment of claims provided therein does not violate the provisions of Article 113 of this Law;\n(6) the business plan of the debtor is feasible.\nWhere the people's court, upon examination, considers that the draft reorganisation plan conforms to the provisions of the preceding paragraph, it shall, within thirty days from the date of receipt of the application, rule to approve it, terminate the reorganisation procedure and make an announcement."
+        },
+        "noLabel": {
+          "en": "Article 87."
+        },
+        "chapter": {
+          "en": "Section 2 Formulation and Approval of the Reorganisation Plan"
+        }
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "Where the draft reorganisation plan is not adopted and is not approved in accordance with the provisions of Article 87 of this Law, or where the reorganisation plan already adopted is not approved, the people's court shall rule to terminate the reorganisation procedure and declare the debtor bankrupt."
+        },
+        "noLabel": {
+          "en": "Article 88."
+        },
+        "chapter": {
+          "en": "Section 2 Formulation and Approval of the Reorganisation Plan"
+        }
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "The reorganisation plan shall be implemented by the debtor.\nAfter the people's court rules to approve the reorganisation plan, the administrator that has taken over the property and business affairs shall transfer the property and business affairs to the debtor."
+        },
+        "noLabel": {
+          "en": "Article 89."
+        },
+        "chapter": {
+          "en": "Section 3 Implementation of the Reorganisation Plan"
+        }
+      },
+      {
+        "no": 90,
+        "text": {
+          "en": "From the date of the ruling of the people's court to approve the reorganisation plan, the administrator shall supervise the implementation of the reorganisation plan during the supervision period provided in the reorganisation plan.\nDuring the supervision period, the debtor shall report to the administrator on the implementation of the reorganisation plan and on its financial condition."
+        },
+        "noLabel": {
+          "en": "Article 90."
+        },
+        "chapter": {
+          "en": "Section 3 Implementation of the Reorganisation Plan"
+        }
+      },
+      {
+        "no": 91,
+        "text": {
+          "en": "When the supervision period expires, the administrator shall submit a supervision report to the people's court. From the date of submission of the supervision report, the supervision duties of the administrator shall terminate.\nThe interested parties of the reorganisation plan shall have the right to inspect the supervision report submitted by the administrator to the people's court.\nUpon the application of the administrator, the people's court may rule to extend the supervision period for the implementation of the reorganisation plan."
+        },
+        "noLabel": {
+          "en": "Article 91."
+        },
+        "chapter": {
+          "en": "Section 3 Implementation of the Reorganisation Plan"
+        }
+      },
+      {
+        "no": 92,
+        "text": {
+          "en": "The reorganisation plan approved by a ruling of the people's court shall be binding on the debtor and all creditors.\nCreditors that have not declared their claims in accordance with the provisions of this Law shall not exercise their rights during the implementation of the reorganisation plan; after the implementation of the reorganisation plan is completed, they may exercise their rights in accordance with the repayment conditions for claims of the same class provided in the reorganisation plan.\nThe rights enjoyed by creditors against the guarantors and other joint and several debtors of the debtor shall not be affected by the reorganisation plan."
+        },
+        "noLabel": {
+          "en": "Article 92."
+        },
+        "chapter": {
+          "en": "Section 3 Implementation of the Reorganisation Plan"
+        }
+      },
+      {
+        "no": 93,
+        "text": {
+          "en": "Where the debtor is unable to implement or does not implement the reorganisation plan, the people's court shall, upon the request of the administrator or an interested party, rule to terminate the implementation of the reorganisation plan and declare the debtor bankrupt.\nWhere the people's court rules to terminate the implementation of the reorganisation plan, the commitments made by creditors in the reorganisation plan to adjust their claims shall cease to be effective. The repayments received by creditors from the implementation of the reorganisation plan shall remain valid, and the unpaid portion of their claims shall constitute bankruptcy claims.\nThe creditors provided in the preceding paragraph may continue to receive distributions only when the repayments received by them reach the same ratio as those received by other creditors of the same priority.\nUnder the circumstances provided in Paragraph 1 of this Article, the security provided for the implementation of the reorganisation plan shall remain valid."
+        },
+        "noLabel": {
+          "en": "Article 93."
+        },
+        "chapter": {
+          "en": "Section 3 Implementation of the Reorganisation Plan"
+        }
+      },
+      {
+        "no": 94,
+        "text": {
+          "en": "For debts reduced or exempted in accordance with the reorganisation plan, the debtor shall no longer be liable for repayment from the time the implementation of the reorganisation plan is completed."
+        },
+        "noLabel": {
+          "en": "Article 94."
+        },
+        "chapter": {
+          "en": "Section 3 Implementation of the Reorganisation Plan"
+        }
+      },
+      {
+        "no": 95,
+        "text": {
+          "en": "A debtor may, in accordance with the provisions of this Law, directly apply to a people's court for composition; it may also apply to the people's court for composition after the people's court accepts the bankruptcy application and before the debtor is declared bankrupt.\nWhere a debtor applies for composition, it shall submit a draft composition agreement."
+        },
+        "noLabel": {
+          "en": "Article 95."
+        },
+        "chapter": {
+          "en": "Chapter IX Composition"
+        }
+      },
+      {
+        "no": 96,
+        "text": {
+          "en": "Where a people's court, upon examination, considers that an application for composition conforms to the provisions of this Law, it shall rule for composition, make an announcement and convene a meeting of creditors to discuss the draft composition agreement.\nThe persons entitled to security rights over specific property of the debtor may exercise their rights from the date of the ruling of the people's court for composition."
+        },
+        "noLabel": {
+          "en": "Article 96."
+        },
+        "chapter": {
+          "en": "Chapter IX Composition"
+        }
+      },
+      {
+        "no": 97,
+        "text": {
+          "en": "A resolution of the meeting of creditors to adopt a composition agreement shall be adopted by more than half of the creditors entitled to vote who attend the meeting, and the amount of claims represented by them shall account for more than two thirds of the total amount of claims not secured by property."
+        },
+        "noLabel": {
+          "en": "Article 97."
+        },
+        "chapter": {
+          "en": "Chapter IX Composition"
+        }
+      },
+      {
+        "no": 98,
+        "text": {
+          "en": "Where a composition agreement is adopted by the meeting of creditors, it shall be ruled to be recognised by the people's court, the composition procedure shall be terminated and an announcement shall be made. The administrator shall transfer the property and business affairs to the debtor and submit a report on the performance of its duties to the people's court."
+        },
+        "noLabel": {
+          "en": "Article 98."
+        },
+        "chapter": {
+          "en": "Chapter IX Composition"
+        }
+      },
+      {
+        "no": 99,
+        "text": {
+          "en": "Where a draft composition agreement is not adopted upon voting by the meeting of creditors, or where a composition agreement adopted by the meeting of creditors is not recognised by the people's court, the people's court shall rule to terminate the composition procedure and declare the debtor bankrupt."
+        },
+        "noLabel": {
+          "en": "Article 99."
+        },
+        "chapter": {
+          "en": "Chapter IX Composition"
+        }
+      },
+      {
+        "no": 100,
+        "text": {
+          "en": "A composition agreement recognised by a ruling of the people's court shall be binding on the debtor and all composition creditors.\nComposition creditors refer to the persons who hold claims against the debtor not secured by property at the time the people's court accepts the bankruptcy application.\nWhere composition creditors have not declared their claims in accordance with the provisions of this Law, they shall not exercise their rights during the implementation of the composition agreement; after the implementation of the composition agreement is completed, they may exercise their rights in accordance with the repayment conditions provided in the composition agreement."
+        },
+        "noLabel": {
+          "en": "Article 100."
+        },
+        "chapter": {
+          "en": "Chapter IX Composition"
+        }
+      },
+      {
+        "no": 101,
+        "text": {
+          "en": "The rights enjoyed by composition creditors against the guarantors and other joint and several debtors of the debtor shall not be affected by the composition agreement."
+        },
+        "noLabel": {
+          "en": "Article 101."
+        },
+        "chapter": {
+          "en": "Chapter IX Composition"
+        }
+      },
+      {
+        "no": 102,
+        "text": {
+          "en": "The debtor shall pay off its debts in accordance with the conditions provided in the composition agreement."
+        },
+        "noLabel": {
+          "en": "Article 102."
+        },
+        "chapter": {
+          "en": "Chapter IX Composition"
+        }
+      },
+      {
+        "no": 103,
+        "text": {
+          "en": "Where a composition agreement is concluded as a result of fraud or other illegal acts of the debtor, the people's court shall rule it invalid and declare the debtor bankrupt.\nUnder the circumstances provided in the preceding paragraph, the repayments received by composition creditors from the implementation of the composition agreement shall not be returned to the extent that other creditors have received repayments of the same ratio."
+        },
+        "noLabel": {
+          "en": "Article 103."
+        },
+        "chapter": {
+          "en": "Chapter IX Composition"
+        }
+      },
+      {
+        "no": 104,
+        "text": {
+          "en": "Where the debtor is unable to implement or does not implement the composition agreement, the people's court shall, upon the request of the composition creditors, rule to terminate the implementation of the composition agreement and declare the debtor bankrupt.\nWhere the people's court rules to terminate the implementation of the composition agreement, the commitments made by composition creditors in the composition agreement to adjust their claims shall cease to be effective. The repayments received by composition creditors from the implementation of the composition agreement shall remain valid, and the unpaid portion of their composition claims shall constitute bankruptcy claims.\nThe creditors provided in the preceding paragraph may continue to receive distributions only when the repayments received by them reach the same ratio as those received by other creditors.\nUnder the circumstances provided in Paragraph 1 of this Article, the security provided for the implementation of the composition agreement shall remain valid."
+        },
+        "noLabel": {
+          "en": "Article 104."
+        },
+        "chapter": {
+          "en": "Chapter IX Composition"
+        }
+      },
+      {
+        "no": 105,
+        "text": {
+          "en": "After a people's court accepts a bankruptcy application, where the debtor and all creditors reach an agreement by themselves on the settlement of claims and debts, they may request the people's court to rule to recognise it and terminate the bankruptcy procedure."
+        },
+        "noLabel": {
+          "en": "Article 105."
+        },
+        "chapter": {
+          "en": "Chapter IX Composition"
+        }
+      },
+      {
+        "no": 106,
+        "text": {
+          "en": "For debts reduced or exempted in accordance with the composition agreement, the debtor shall no longer be liable for repayment from the time the implementation of the composition agreement is completed."
+        },
+        "noLabel": {
+          "en": "Article 106."
+        },
+        "chapter": {
+          "en": "Chapter IX Composition"
+        }
+      },
+      {
+        "no": 107,
+        "text": {
+          "en": "Where a people's court declares a debtor bankrupt in accordance with the provisions of this Law, it shall serve the ruling on the debtor and the administrator within five days from the date of making the ruling, notify the known creditors within ten days from the date of making the ruling and make an announcement.\nAfter a debtor is declared bankrupt, the debtor shall be referred to as the bankrupt, the property of the debtor shall be referred to as the bankruptcy property, and the claims held against the debtor at the time the people's court accepts the bankruptcy application shall be referred to as bankruptcy claims."
+        },
+        "noLabel": {
+          "en": "Article 107."
+        },
+        "chapter": {
+          "en": "Section 1 Declaration of Bankruptcy"
+        }
+      },
+      {
+        "no": 108,
+        "text": {
+          "en": "Before the declaration of bankruptcy, under any of the following circumstances, the people's court shall rule to terminate the bankruptcy procedure and make an announcement:\n(1) a third party provides sufficient security for the debtor or pays off all the due debts of the debtor;\n(2) the debtor has paid off all its due debts."
+        },
+        "noLabel": {
+          "en": "Article 108."
+        },
+        "chapter": {
+          "en": "Section 1 Declaration of Bankruptcy"
+        }
+      },
+      {
+        "no": 109,
+        "text": {
+          "en": "The persons entitled to security rights over specific property of the bankrupt shall enjoy the right of priority of repayment in respect of such specific property."
+        },
+        "noLabel": {
+          "en": "Article 109."
+        },
+        "chapter": {
+          "en": "Section 1 Declaration of Bankruptcy"
+        }
+      },
+      {
+        "no": 110,
+        "text": {
+          "en": "Where a creditor enjoying the rights provided in Article 109 of this Law fails to obtain full repayment in exercising the right of priority of repayment, the unpaid portion of its claim shall constitute an ordinary claim; where it waives the right of priority of repayment, its claim shall constitute an ordinary claim."
+        },
+        "noLabel": {
+          "en": "Article 110."
+        },
+        "chapter": {
+          "en": "Section 1 Declaration of Bankruptcy"
+        }
+      },
+      {
+        "no": 111,
+        "text": {
+          "en": "The administrator shall promptly prepare a plan for the realisation of the bankruptcy property and submit it to the meeting of creditors for discussion.\nThe administrator shall realise and sell the bankruptcy property at the appropriate time in accordance with the plan for the realisation of the bankruptcy property adopted by the meeting of creditors or ruled by the people's court in accordance with the provisions of Paragraph 1 of Article 65 of this Law."
+        },
+        "noLabel": {
+          "en": "Article 111."
+        },
+        "chapter": {
+          "en": "Section 2 Realisation and Distribution"
+        }
+      },
+      {
+        "no": 112,
+        "text": {
+          "en": "The bankruptcy property shall be realised and sold by auction, unless the meeting of creditors resolves otherwise.\nA bankrupt enterprise may be realised and sold as a whole or in part. Where an enterprise is realised and sold, the intangible assets and other property therein may be realised and sold separately.\nProperty that cannot be auctioned or whose transfer is restricted in accordance with State provisions shall be dealt with in the manner prescribed by the State."
+        },
+        "noLabel": {
+          "en": "Article 112."
+        },
+        "chapter": {
+          "en": "Section 2 Realisation and Distribution"
+        }
+      },
+      {
+        "no": 113,
+        "text": {
+          "en": "After the bankruptcy expenses and debts for the common benefit are paid off in priority, the bankruptcy property shall be applied in the following order:\n(1) the wages, medical expenses, disability subsidies and pensions owed by the bankrupt to its employees, the basic old-age insurance premiums and basic medical insurance premiums owed that should be credited to the employees' individual accounts, and the compensation that should be paid to employees as provided by laws and administrative regulations;\n(2) the social insurance expenses owed by the bankrupt other than those specified in the preceding item and the taxes owed by the bankrupt;\n(3) ordinary bankruptcy claims.\nWhere the bankruptcy property is insufficient to satisfy the repayment claims of the same order, distribution shall be made proportionally.\nThe wages of the directors, supervisors and senior managers of a bankrupt enterprise shall be calculated according to the average wage of the employees of that enterprise."
+        },
+        "noLabel": {
+          "en": "Article 113."
+        },
+        "chapter": {
+          "en": "Section 2 Realisation and Distribution"
+        }
+      },
+      {
+        "no": 114,
+        "text": {
+          "en": "The distribution of the bankruptcy property shall be made in monetary form, unless the meeting of creditors resolves otherwise."
+        },
+        "noLabel": {
+          "en": "Article 114."
+        },
+        "chapter": {
+          "en": "Section 2 Realisation and Distribution"
+        }
+      },
+      {
+        "no": 115,
+        "text": {
+          "en": "The administrator shall promptly prepare a plan for the distribution of the bankruptcy property and submit it to the meeting of creditors for discussion.\nThe plan for the distribution of the bankruptcy property shall state the following matters:\n(1) the names or titles and domiciles of the creditors participating in the distribution of the bankruptcy property;\n(2) the amounts of the claims participating in the distribution of the bankruptcy property;\n(3) the amount of the bankruptcy property available for distribution;\n(4) the order, ratio and amounts of the distribution of the bankruptcy property;\n(5) the method for implementing the distribution of the bankruptcy property.\nAfter the meeting of creditors adopts the plan for the distribution of the bankruptcy property, the administrator shall submit the plan to the people's court for ruling and recognition."
+        },
+        "noLabel": {
+          "en": "Article 115."
+        },
+        "chapter": {
+          "en": "Section 2 Realisation and Distribution"
+        }
+      },
+      {
+        "no": 116,
+        "text": {
+          "en": "After the plan for the distribution of the bankruptcy property is ruled to be recognised by the people's court, it shall be implemented by the administrator.\nWhere the administrator implements multiple distributions in accordance with the plan for the distribution of the bankruptcy property, it shall announce the amount of property and the amount of claims of the current distribution. Where the administrator implements the final distribution, it shall specify this in the announcement and state the matters provided in Paragraph 2 of Article 117 of this Law."
+        },
+        "noLabel": {
+          "en": "Article 116."
+        },
+        "chapter": {
+          "en": "Section 2 Realisation and Distribution"
+        }
+      },
+      {
+        "no": 117,
+        "text": {
+          "en": "For claims subject to conditions of effectiveness or conditions of rescission, the administrator shall deposit the amounts distributable to them.\nWhere, on the date of the announcement of the final distribution, the condition of effectiveness has not been met or the condition of rescission has been met, the amounts deposited by the administrator in accordance with the preceding paragraph shall be distributed to other creditors; where, on the date of the announcement of the final distribution, the condition of effectiveness has been met or the condition of rescission has not been met, the amounts shall be delivered to the creditors."
+        },
+        "noLabel": {
+          "en": "Article 117."
+        },
+        "chapter": {
+          "en": "Section 2 Realisation and Distribution"
+        }
+      },
+      {
+        "no": 118,
+        "text": {
+          "en": "Where a creditor fails to collect the amount distributed from the bankruptcy property, the administrator shall deposit it. Where the creditor still fails to collect it two months after the date of the announcement of the final distribution, it shall be deemed to have waived the right to receive the distribution, and the administrator or the people's court shall distribute the deposited amount to other creditors."
+        },
+        "noLabel": {
+          "en": "Article 118."
+        },
+        "chapter": {
+          "en": "Section 2 Realisation and Distribution"
+        }
+      },
+      {
+        "no": 119,
+        "text": {
+          "en": "At the time of distribution of the bankruptcy property, for claims that are the subject matter of pending litigation or arbitration, the administrator shall deposit the amounts distributable to them. Where the amounts still cannot be collected two years after the date of termination of the bankruptcy procedure, the people's court shall distribute the deposited amounts to other creditors."
+        },
+        "noLabel": {
+          "en": "Article 119."
+        },
+        "chapter": {
+          "en": "Section 2 Realisation and Distribution"
+        }
+      },
+      {
+        "no": 120,
+        "text": {
+          "en": "Where the bankrupt has no property available for distribution, the administrator shall request the people's court to rule to terminate the bankruptcy procedure.\nAfter the final distribution is completed, the administrator shall promptly submit to the people's court a report on the distribution of the bankruptcy property and request the people's court to rule to terminate the bankruptcy procedure.\nThe people's court shall, within fifteen days from the date of receipt of the request of the administrator to terminate the bankruptcy procedure, make a ruling on whether to terminate the bankruptcy procedure. Where it rules to terminate, it shall make an announcement."
+        },
+        "noLabel": {
+          "en": "Article 120."
+        },
+        "chapter": {
+          "en": "Section 3 Termination of Bankruptcy Procedure"
+        }
+      },
+      {
+        "no": 121,
+        "text": {
+          "en": "The administrator shall, within ten days from the date of termination of the bankruptcy procedure, present the ruling of the people's court terminating the bankruptcy procedure and complete the deregistration with the original registration authority of the bankrupt."
+        },
+        "noLabel": {
+          "en": "Article 121."
+        },
+        "chapter": {
+          "en": "Section 3 Termination of Bankruptcy Procedure"
+        }
+      },
+      {
+        "no": 122,
+        "text": {
+          "en": "The administrator shall terminate the performance of its duties on the day following the completion of the deregistration, unless there is pending litigation or arbitration."
+        },
+        "noLabel": {
+          "en": "Article 122."
+        },
+        "chapter": {
+          "en": "Section 3 Termination of Bankruptcy Procedure"
+        }
+      },
+      {
+        "no": 123,
+        "text": {
+          "en": "Within two years from the date of termination of the bankruptcy procedure in accordance with Paragraph 4 of Article 43 or Article 120 of this Law, under any of the following circumstances, creditors may request the people's court to make a supplementary distribution in accordance with the plan for the distribution of the bankruptcy property:\n(1) property that should be recovered in accordance with the provisions of Article 31, Article 32, Article 33 and Article 36 of this Law is discovered;\n(2) other property of the bankrupt that should be available for distribution is discovered.\nWhere the circumstances provided in the preceding paragraph exist but the amount of property is insufficient to pay the distribution expenses, no supplementary distribution shall be made, and the people's court shall turn it over to the State Treasury."
+        },
+        "noLabel": {
+          "en": "Article 123."
+        },
+        "chapter": {
+          "en": "Section 3 Termination of Bankruptcy Procedure"
+        }
+      },
+      {
+        "no": 124,
+        "text": {
+          "en": "After the termination of the bankruptcy procedure, the guarantors and other joint and several debtors of the bankrupt shall, in accordance with the law, continue to be liable for the repayment of the claims not satisfied in accordance with the bankruptcy liquidation procedure."
+        },
+        "noLabel": {
+          "en": "Article 124."
+        },
+        "chapter": {
+          "en": "Section 3 Termination of Bankruptcy Procedure"
+        }
+      },
+      {
+        "no": 125,
+        "text": {
+          "en": "Where the directors, supervisors or senior managers of an enterprise violate their duties of loyalty and diligence, causing the enterprise to go bankrupt, they shall bear civil liability in accordance with the law.\nPersons under the circumstances provided in the preceding paragraph shall not serve as a director, supervisor or senior manager of any enterprise within three years from the date of termination of the bankruptcy procedure."
+        },
+        "noLabel": {
+          "en": "Article 125."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 126,
+        "text": {
+          "en": "Where the relevant personnel of the debtor who are obliged to attend the meeting of creditors, after being summoned by the people's court, refuse to attend the meeting of creditors without justifiable reasons, the people's court may compel their appearance and impose a fine in accordance with the law. Where the relevant personnel of the debtor violate the provisions of this Law and refuse to make statements or answer questions, or make false statements or answers, the people's court may impose a fine in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 126."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 127,
+        "text": {
+          "en": "Where a debtor violates the provisions of this Law and refuses to submit to the people's court, or submits false, statements of property status, schedules of debts, schedules of claims, relevant financial and accounting reports, and information on the payment of employees' wages and the payment of social insurance premiums, the people's court may impose a fine on the persons directly responsible in accordance with the law.\nWhere a debtor violates the provisions of this Law and refuses to transfer the property, seals, account books, documents and other materials to the administrator, or forges or destroys the evidentiary materials concerning the property, rendering the property status unclear, the people's court may impose a fine on the persons directly responsible in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 127."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 128,
+        "text": {
+          "en": "Where a debtor commits the acts provided in Article 31, Article 32 or Article 33 of this Law, harming the interests of creditors, the legal representative and other persons directly responsible of the debtor shall bear the liability for compensation in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 128."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 129,
+        "text": {
+          "en": "Where the relevant personnel of the debtor violate the provisions of this Law and leave their domicile without authorisation, the people's court may admonish or detain them and may impose a fine concurrently in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 129."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 130,
+        "text": {
+          "en": "Where the administrator fails to be diligent and conscientious and to faithfully perform its duties in accordance with the provisions of this Law, the people's court may impose a fine in accordance with the law; where losses are caused to creditors, the debtor or third parties, it shall bear the liability for compensation in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 130."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 131,
+        "text": {
+          "en": "Where a violation of the provisions of this Law constitutes a criminal offence, criminal liability shall be pursued in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 131."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 132,
+        "text": {
+          "en": "After this Law comes into force, where the wages, medical expenses, disability subsidies and pensions owed by the bankrupt to its employees before the promulgation of this Law, the basic old-age insurance premiums and basic medical insurance premiums owed that should be credited to the employees' individual accounts, and the compensation that should be paid to employees as provided by laws and administrative regulations, are insufficient to be paid off after repayment in accordance with the provisions of Article 113 of this Law, the unpaid portion shall be repaid out of the specific property provided in Article 109 of this Law in priority to the persons entitled to security rights over such specific property."
+        },
+        "noLabel": {
+          "en": "Article 132."
+        },
+        "chapter": {
+          "en": "Chapter XII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 133,
+        "text": {
+          "en": "The special matters concerning the bankruptcy of State-owned enterprises within the time limit and scope prescribed by the State Council before this Law comes into force shall be handled in accordance with the relevant provisions of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 133."
+        },
+        "chapter": {
+          "en": "Chapter XII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 134,
+        "text": {
+          "en": "Where financial institutions such as commercial banks, securities companies and insurance companies fall under the circumstances provided in Article 2 of this Law, the financial supervision and administration institution of the State Council may file an application with a people's court for the reorganisation or bankruptcy liquidation of such financial institution. Where the financial supervision and administration institution of the State Council takes measures such as takeover and trusteeship in accordance with the law against a financial institution that has incurred major operational risks, it may apply to the people's court for suspension of the civil litigation procedures or enforcement procedures in which such financial institution is the defendant or the person subject to enforcement.\nWhere a financial institution undergoes bankruptcy, the State Council may formulate implementing measures in accordance with this Law and other relevant laws."
+        },
+        "noLabel": {
+          "en": "Article 134."
+        },
+        "chapter": {
+          "en": "Chapter XII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 135,
+        "text": {
+          "en": "Where the liquidation of organisations other than enterprise legal persons provided by other laws is bankruptcy liquidation, the procedures provided in this Law shall apply by reference."
+        },
+        "noLabel": {
+          "en": "Article 135."
+        },
+        "chapter": {
+          "en": "Chapter XII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 136,
+        "text": {
+          "en": "This Law shall come into force on 1 June 2007, and the Law of the People's Republic of China on Enterprise Bankruptcy (for Trial Implementation) shall be repealed simultaneously."
+        },
+        "noLabel": {
+          "en": "Article 136."
+        },
+        "chapter": {
+          "en": "Chapter XII Supplementary Provisions"
         }
       }
     ]
