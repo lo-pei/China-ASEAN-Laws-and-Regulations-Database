@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p16
-   法规 72 部 / 译文 2527 条
+   法规 80 部 / 译文 3176 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -2031,6 +2031,1038 @@
         },
         "noLabel": {
           "en": "Article 21."
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0270'] = {
+    "lawId": "CN-REG-0270",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 86 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated for the purpose of regulating futures trading, strengthening the supervision and administration of futures trading, maintaining order in the futures market, preventing risks, protecting the lawful rights and interests of all parties to futures trading and the public interest of society, and promoting the positive and steady development of the futures market."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Any unit or individual engaging in futures trading and related activities shall comply with these Regulations.\nFutures trading as mentioned in these Regulations means trading activities that use futures contracts or options contracts as the subject matter of trading and that are conducted by means of public centralized trading or by other means approved by the futures supervision and administration institution of the State Council.\nFutures contract as mentioned in these Regulations means a standardised contract uniformly formulated by a futures trading venue that provides for the delivery of a specified quantity of an underlying at a specified time and place in the future. Futures contracts include commodity futures contracts, financial futures contracts and other futures contracts.\nOptions contract as mentioned in these Regulations means a standardised contract uniformly formulated by a futures trading venue that provides that the buyer has the right to buy or sell the agreed underlying (including futures contracts) at a specified price at a specified time in the future."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Futures trading activities shall follow the principles of openness, fairness, impartiality and good faith. Illegal activities such as fraud, insider trading and the manipulation of futures trading prices are prohibited."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Futures trading shall be conducted on futures exchanges established in accordance with the provisions of paragraph 1 of Article 6 of these Regulations, or on other futures trading venues approved by the State Council or approved by the futures supervision and administration institution of the State Council.\nFutures trading outside the futures trading venues specified in the preceding paragraph is prohibited."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The futures supervision and administration institution of the State Council shall exercise centralized and unified supervision and administration over the futures market.\nThe local offices of the futures supervision and administration institution of the State Council shall perform supervision and administration duties in accordance with the relevant provisions of these Regulations and the authorisation of the futures supervision and administration institution of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The establishment of a futures exchange shall be subject to examination and approval by the futures supervision and administration institution of the State Council.\nWithout the approval of the State Council or the approval of the futures supervision and administration institution of the State Council, no unit or individual may establish a futures trading venue or organise futures trading and related activities in any form."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        },
+        "chapter": {
+          "en": "Chapter II Futures Exchanges"
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "A futures exchange is a non-profit entity that exercises self-regulation in accordance with the provisions of its articles of association. A futures exchange shall bear civil liability to the extent of all of its property. The persons in charge of a futures exchange shall be appointed and removed by the futures supervision and administration institution of the State Council.\nThe administrative measures for futures exchanges shall be formulated by the futures supervision and administration institution of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Futures Exchanges"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Members of a futures exchange shall be enterprise legal persons or other economic organisations registered within the territory of the People's Republic of China.\nA futures exchange may implement a tiered member settlement system. Where a futures exchange implements a tiered member settlement system, its members shall consist of clearing members and non-clearing members."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Futures Exchanges"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "A person in any of the circumstances specified in Article 146 of the Company Law of the People's Republic of China or in any of the following circumstances may not serve as a person in charge or a financial accounting officer of a futures exchange:\n(1) a person in charge of a futures exchange, a stock exchange or a securities registration and clearing institution, or a director, supervisor or senior manager of a futures company or a securities company, or any other person prescribed by the futures supervision and administration institution of the State Council, who was removed from office for an illegal act or a breach of discipline, where less than 5 years have elapsed since the date of removal;\n(2) a lawyer, certified public accountant or professional of an investment consulting institution, financial advisory institution, credit rating institution, asset appraisal institution or verification institution whose qualification was revoked for an illegal act or a breach of discipline, where less than 5 years have elapsed since the date of revocation of qualification."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Futures Exchanges"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "A futures exchange shall, in accordance with these Regulations and the provisions of the futures supervision and administration institution of the State Council, establish and improve its various rules and regulations and strengthen risk control over trading activities and the supervision and administration of its members and its own staff. A futures exchange shall perform the following duties:\n(1) to provide trading venues, facilities and services;\n(2) to design contracts and arrange for the listing of contracts;\n(3) to organise and supervise trading, settlement and delivery;\n(4) to provide centralized performance guarantees for futures trading;\n(5) to supervise and administer members in accordance with its articles of association and trading rules;\n(6) other duties prescribed by the futures supervision and administration institution of the State Council.\nA futures exchange may not participate directly or indirectly in futures trading. Without examination by the futures supervision and administration institution of the State Council and approval by the State Council, a futures exchange may not engage in trust investment, equity investment, investment in real property not for its own use or other business unrelated to its duties."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Futures Exchanges"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "A futures exchange shall, in accordance with the relevant provisions of the State, establish and improve the following risk management systems:\n(1) the margin system;\n(2) the mark-to-market settlement system;\n(3) the price limit system;\n(4) the position limit and large-trader position reporting systems;\n(5) the risk reserve fund system;\n(6) other risk management systems prescribed by the futures supervision and administration institution of the State Council.\nA futures exchange that implements a tiered member settlement system shall also establish and improve a settlement guarantee fund system."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Futures Exchanges"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Where abnormal circumstances arise in the futures market, a futures exchange may, in accordance with the powers and procedures provided in its articles of association, decide to take the following emergency measures and shall immediately report them to the futures supervision and administration institution of the State Council:\n(1) raising margins;\n(2) adjusting the range of the price limit;\n(3) restricting the maximum position of a member or client;\n(4) suspending trading temporarily;\n(5) taking other emergency measures.\nAbnormal circumstances as mentioned in the preceding paragraph mean the occurrence in trading of acts manipulating futures trading prices, the occurrence of irresistible emergencies, and other situations prescribed by the futures supervision and administration institution of the State Council.\nAfter the abnormal circumstances disappear, the futures exchange shall promptly cancel the emergency measures."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Futures Exchanges"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "A futures exchange shall obtain the approval of the futures supervision and administration institution of the State Council before handling the following matters:\n(1) formulating or amending its articles of association and trading rules;\n(2) listing, suspending, cancelling or resuming trading varieties;\n(3) other matters prescribed by the futures supervision and administration institution of the State Council.\nBefore approving the listing of new trading varieties by a futures exchange, the futures supervision and administration institution of the State Council shall seek the opinions of the relevant departments of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Futures Exchanges"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The income of a futures exchange shall be managed and used in accordance with the relevant provisions of the State, but shall first be used to ensure the operation and improvement of futures trading venues and facilities."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Futures Exchanges"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "A futures company is a financial institution established in accordance with the Company Law of the People's Republic of China and these Regulations that engages in futures business. To establish a futures company, the applicant shall register with the company registration authority and obtain the approval of the futures supervision and administration institution of the State Council.\nWithout the approval of the futures supervision and administration institution of the State Council, no unit or individual may establish, or establish in disguised form, a futures company to engage in futures business."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Futures Companies"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "An applicant for the establishment of a futures company shall comply with the provisions of the Company Law of the People's Republic of China and meet the following conditions:\n(1) a minimum registered capital of RMB 30 million yuan;\n(2) the directors, supervisors and senior managers possess the qualifications for holding office, and the practitioners possess futures practice qualifications;\n(3) it has articles of association that comply with the provisions of laws and administrative regulations;\n(4) its principal shareholders and actual controllers have sustained profitability and a good reputation and have no record of major violations of laws and regulations in the most recent 3 years;\n(5) it has qualified business premises and business facilities;\n(6) it has sound risk management and internal control systems;\n(7) other conditions prescribed by the futures supervision and administration institution of the State Council.\nThe futures supervision and administration institution of the State Council may, in accordance with the principle of prudential supervision and the degree of risk of each type of business, raise the minimum registered capital. Registered capital shall be paid-up capital. Shareholders shall make capital contributions in currency or in non-monetary property necessary for the operation of the futures company, and the proportion of currency contributions shall not be less than 85 per cent.\nThe futures supervision and administration institution of the State Council shall, within 6 months from the date of accepting an application for the establishment of a futures company, conduct an examination in accordance with the principle of prudential supervision and make a decision to approve or not to approve.\nWithout the approval of the futures supervision and administration institution of the State Council, no unit or individual may entrust another person, or accept the entrustment of another person, to hold or manage the equity of a futures company."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Futures Companies"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "A licensing system shall apply to the business of futures companies, and the futures supervision and administration institution of the State Council shall issue licences according to the types of commodity futures and financial futures business. In addition to applying to engage in domestic futures brokerage business, a futures company may also apply to engage in overseas futures brokerage, futures investment consulting and other futures business prescribed by the futures supervision and administration institution of the State Council.\nA futures company may not engage in activities unrelated to futures business, unless otherwise provided by laws, administrative regulations or the futures supervision and administration institution of the State Council.\nA futures company may not engage in, or engage in disguised form in, proprietary futures business.\nA futures company may not provide financing to its shareholders, actual controllers or other related persons, and may not provide external guarantees."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Futures Companies"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where a futures company engages in brokerage business, it shall accept the entrustment of clients and conduct futures trading for clients in its own name, and the trading results shall be borne by the clients."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Futures Companies"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "A futures company shall obtain the approval of the futures supervision and administration institution of the State Council before handling the following matters:\n(1) merger, division, suspension of business, dissolution or bankruptcy;\n(2) change of business scope;\n(3) change of registered capital together with adjustment of the equity structure;\n(4) addition of a shareholder holding 5 per cent or more of the equity, or a change of controlling shareholder;\n(5) other matters prescribed by the futures supervision and administration institution of the State Council.\nFor the matters listed in items (3) and (5) of the preceding paragraph, the futures supervision and administration institution of the State Council shall, within 20 days from the date of accepting the application, make a decision to approve or not to approve; for the other matters listed in the preceding paragraph, the futures supervision and administration institution of the State Council shall, within 2 months from the date of accepting the application, make a decision to approve or not to approve."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Futures Companies"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where a futures company or any of its branches is in any of the circumstances specified in Article 70 of the Administrative Licensing Law of the People's Republic of China or in any of the following circumstances, the futures supervision and administration institution of the State Council shall complete the formalities for cancellation of the futures business licence in accordance with law:\n(1) its business licence has been cancelled in accordance with law by the company registration authority;\n(2) it has not commenced business for more than 3 months after establishment without justified reasons, or has suspended business for 3 consecutive months or more after commencement without justified reasons;\n(3) it voluntarily applies for cancellation;\n(4) other circumstances prescribed by the futures supervision and administration institution of the State Council.\nBefore cancelling its futures business licence, a futures company shall settle the relevant futures business and return clients' margins and other assets in accordance with law. Before cancelling its operating licence, a branch of a futures company shall terminate its business activities and properly handle clients' assets."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Futures Companies"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "A futures company shall establish, improve and strictly implement business management rules and risk management systems, comply with the information disclosure system, ensure the safe custody of clients' margins, and report the list of large traders and trading information to the futures exchange in accordance with the provisions of the futures exchange."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Futures Companies"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Where other futures operating institutions engage in futures investment consulting business, they shall comply with the provisions of the futures supervision and administration institution of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Futures Companies"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Persons conducting futures trading on a futures exchange shall be members of that futures exchange.\nOverseas institutions that meet the prescribed conditions may conduct futures trading in specific varieties on a futures exchange. The specific measures shall be formulated by the futures supervision and administration institution of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter IV Basic Rules for Futures Trading"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Where a futures company accepts a client's entrustment to conduct futures trading for the client, it shall first present a risk disclosure statement to the client and, after the client has signed to confirm it, conclude a written contract with the client. A futures company may not conduct futures trading without the client's entrustment or in a manner inconsistent with the content of the client's entrustment.\nA futures company may not give profit guarantees to clients, and may not agree with clients in brokerage business to share profits or jointly bear risks."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter IV Basic Rules for Futures Trading"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The following units and individuals may not engage in futures trading, and futures companies may not accept their entrustment to conduct futures trading for them:\n(1) State organs and public institutions;\n(2) the staff of the futures supervision and administration institution of the State Council, futures exchanges, the futures margin safety custody and monitoring institution and futures industry associations;\n(3) persons prohibited from entering the securities or futures market;\n(4) units and individuals that fail to provide the materials certifying the opening of an account;\n(5) other units and individuals that are prescribed by the futures supervision and administration institution of the State Council as being prohibited from engaging in futures trading."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter IV Basic Rules for Futures Trading"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Clients may place trading orders with futures companies in writing, by telephone, via the Internet or by other means prescribed by the futures supervision and administration institution of the State Council. Clients' trading orders shall be clear and complete.\nA futures company may not conceal important matters or use other improper means to induce clients to place trading orders."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Basic Rules for Futures Trading"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "A futures exchange shall promptly publish the trading volume, transaction price, open interest, highest and lowest prices, opening and closing prices and other real-time quotations that should be published in respect of listed contracts, and shall ensure that the real-time quotations are true and accurate. A futures exchange may not publish price forecast information.\nWithout the permission of a futures exchange, no unit or individual may publish real-time quotations of futures trading."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Basic Rules for Futures Trading"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The margin system shall be strictly implemented in futures trading. The margins collected by a futures exchange from members and by a futures company from clients may not be lower than the standards prescribed by the futures supervision and administration institution of the State Council and the futures exchange, and shall be kept separate from proprietary funds and deposited in dedicated accounts.\nMargins collected by a futures exchange from members belong to the members and, except for use in the members' trading settlement, may strictly not be misappropriated for other purposes.\nMargins collected by a futures company from clients belong to the clients and, except in the following circumstances in which transfer is permitted, may strictly not be misappropriated for other purposes:\n(1) payment of available funds at the request of the client;\n(2) deposit of margins and payment of handling fees and taxes on behalf of the client;\n(3) other circumstances prescribed by the futures supervision and administration institution of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Basic Rules for Futures Trading"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "A futures company shall open a separate dedicated account and set up a trading code for each client, and may not conduct trading under mixed codes."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Basic Rules for Futures Trading"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where a futures company engages in futures brokerage business and simultaneously engages in other futures business, it shall strictly implement the systems of business segregation and fund segregation and may not conduct mixed operations."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Basic Rules for Futures Trading"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Futures exchanges, futures companies and non-futures-company clearing members shall accrue, manage and use risk reserve funds in accordance with the provisions of the futures supervision and administration institution of the State Council and the finance department, and may not misappropriate them."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Basic Rules for Futures Trading"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The charging items, charging standards and administrative measures for futures trading shall be formulated and published in a unified manner by the relevant competent departments of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Basic Rules for Futures Trading"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Settlement of futures trading shall be organised in a unified manner by the futures exchange.\nA futures exchange shall implement the mark-to-market settlement system. A futures exchange shall notify members of the settlement results in a timely manner on the same day.\nA futures company shall settle accounts with clients based on the settlement results of the futures exchange and shall notify clients of the settlement results in a timely manner in the manner agreed with the clients. Clients shall promptly check and properly handle their own trading positions."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Basic Rules for Futures Trading"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Where a member of a futures exchange has insufficient margin, it shall promptly pay additional margin or close out its positions itself. Where a member fails to pay additional margin or close out its positions itself within the time prescribed by the futures exchange, the futures exchange shall compulsorily close out the member's contracts, and the costs relating to the compulsory closing out and the resulting losses shall be borne by that member.\nWhere a client has insufficient margin, the client shall promptly pay additional margin or close out its positions itself. Where a client fails to promptly pay additional margin or close out its positions itself within the time prescribed by the futures company, the futures company shall compulsorily close out the client's contracts, and the costs relating to the compulsory closing out and the resulting losses shall be borne by that client."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Basic Rules for Futures Trading"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Delivery in futures trading shall be organised in a unified manner by the futures exchange.\nDelivery warehouses shall be designated by the futures exchange. A futures exchange may not restrict the total volume of physical delivery, and shall conclude agreements with delivery warehouses specifying the rights and obligations of both parties. A delivery warehouse may not commit any of the following acts:\n(1) issuing false warehouse receipts;\n(2) restricting the warehousing or outbound delivery of deliverable goods in violation of the business rules of the futures exchange;\n(3) disclosing trade secrets relating to futures trading;\n(4) participating in futures trading in violation of the relevant provisions of the State;\n(5) other acts prescribed by the futures supervision and administration institution of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Basic Rules for Futures Trading"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Where a member defaults in futures trading, the futures exchange shall first use that member's margin to bear the liability for breach of contract; where the margin is insufficient, the futures exchange shall use the risk reserve fund and its proprietary funds to bear the liability for breach of contract on its behalf and shall thereby acquire the corresponding right of recourse against that member.\nWhere a client defaults in futures trading, the futures company shall first use that client's margin to bear the liability for breach of contract; where the margin is insufficient, the futures company shall use the risk reserve fund and its proprietary funds to bear the liability for breach of contract on its behalf and shall thereby acquire the corresponding right of recourse against that client."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Basic Rules for Futures Trading"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "A futures exchange that implements a tiered member settlement system shall collect settlement guarantee funds from clearing members. A futures exchange shall only settle accounts with, collect and pursue margins from, use settlement guarantee funds, risk reserve funds and proprietary funds to bear liability for breach of contract on behalf of, and take other related measures in respect of clearing members; settlement with, collection and pursuit of margins from, bearing of liability for breach of contract on behalf of, and other related measures in respect of non-clearing members shall be carried out by the clearing members."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Basic Rules for Futures Trading"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Futures exchanges, futures companies and non-futures-company clearing members shall ensure the integrity and security of futures trading, settlement and delivery materials."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Basic Rules for Futures Trading"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "No unit or individual may fabricate or disseminate false information relating to futures trading, or maliciously collude, jointly buy or sell, or manipulate futures trading prices by other means."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter IV Basic Rules for Futures Trading"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "No unit or individual may use credit funds or fiscal funds in violation of regulations to engage in futures trading.\nThe qualifications of banking financial institutions to engage in futures trading financing or guarantee business shall be approved by the banking supervision and administration institution of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter IV Basic Rules for Futures Trading"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where State-owned enterprises and State-controlled enterprises conduct domestic or overseas futures trading, they shall follow the principle of hedging and strictly comply with the relevant provisions of the State-owned assets supervision and administration institution of the State Council and other relevant departments on enterprises entering the futures market with State-owned assets."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IV Basic Rules for Futures Trading"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The purchase and settlement of foreign exchange and foreign exchange receipts and payments under overseas futures shall comply with the relevant provisions of the State on foreign exchange administration.\nThe measures for domestic units or individuals to engage in overseas futures trading shall be formulated by the futures supervision and administration institution of the State Council together with the competent commerce department, the State-owned assets supervision and administration institution, the banking supervision and administration institution, the foreign exchange administration department and other relevant departments of the State Council, and shall be implemented after approval by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter IV Basic Rules for Futures Trading"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "A futures industry association is a self-regulatory organisation of the futures industry and is a legal person of a social organisation.\nFutures companies and other institutions specializing in futures operations shall join the futures industry association and pay membership fees."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter V Futures Industry Association"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "The authority of a futures industry association is the general meeting of members composed of all members.\nThe articles of association of a futures industry association shall be formulated by the general meeting of members and filed with the futures supervision and administration institution of the State Council.\nA futures industry association shall have a board of directors. The members of the board of directors shall be elected in accordance with the provisions of the articles of association."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter V Futures Industry Association"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "A futures industry association shall perform the following duties:\n(1) to educate and organise members to comply with futures laws, regulations and policies;\n(2) to formulate industry self-regulatory rules to be observed by members, to supervise and inspect members' conduct, and to impose disciplinary sanctions in accordance with provisions on those who violate the articles of association and self-regulatory rules;\n(3) to be responsible for the recognition, administration and revocation of the qualifications of futures practitioners;\n(4) to accept complaints from clients relating to futures business and to mediate disputes between members, or between members and clients;\n(5) to safeguard the lawful rights and interests of members in accordance with law and to report members' suggestions and requests to the futures supervision and administration institution of the State Council;\n(6) to organise professional training for futures practitioners and to carry out professional exchanges among members;\n(7) to organise members to conduct research on the development, operation and other related aspects of the futures industry;\n(8) other duties provided in the articles of association of the futures industry association.\nThe business activities of a futures industry association shall be subject to the guidance and supervision of the futures supervision and administration institution of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter V Futures Industry Association"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "The futures supervision and administration institution of the State Council shall supervise and administer the futures market and perform the following duties in accordance with law:\n(1) to formulate rules and regulations on the supervision and administration of the futures market and to exercise the power of examination and approval in accordance with law;\n(2) to supervise and administer the listing, trading, settlement and delivery of varieties and other futures trading and related activities;\n(3) to supervise and administer the futures business activities of futures exchanges, futures companies and other futures operating institutions, non-futures-company clearing members, the futures margin safety custody and monitoring institution, futures margin depository banks, delivery warehouses and other market participants;\n(4) to formulate qualification standards and administrative measures for futures practitioners and to supervise their implementation;\n(5) to supervise and inspect the disclosure of information on futures trading;\n(6) to guide and supervise the activities of futures industry associations;\n(7) to investigate and deal with acts violating the laws and administrative regulations on the supervision and administration of the futures market;\n(8) to carry out international exchange and cooperation activities relating to the supervision and administration of the futures market;\n(9) other duties prescribed by laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "The futures supervision and administration institution of the State Council may, in performing its duties in accordance with law, take the following measures:\n(1) to conduct on-site inspections of futures exchanges, futures companies and other futures operating institutions, non-futures-company clearing members, the futures margin safety custody and monitoring institution and delivery warehouses;\n(2) to enter the premises where suspected illegal acts have occurred to investigate and collect evidence;\n(3) to question the parties concerned and the units and individuals relating to the investigated matter and require them to give explanations on matters relating to the investigated matter;\n(4) to inspect and copy materials such as property rights registration relating to the investigated matter;\n(5) to inspect and copy the futures trading records, financial and accounting materials and other relevant documents and materials of the parties concerned and of the units and individuals relating to the investigated matter; and to seal up documents and materials that may be transferred, concealed or destroyed;\n(6) to inquire into the margin accounts and bank accounts of the units relating to the investigated matter;\n(7) when investigating major futures violations such as the manipulation of futures trading prices and insider trading, to restrict the futures trading of the parties to the investigated matter with the approval of the principal person in charge of the futures supervision and administration institution of the State Council, provided that the restriction may not exceed 15 trading days; where the case is complicated, it may be extended to 30 trading days;\n(8) other measures prescribed by laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Futures exchanges, futures companies and other futures operating institutions and the futures margin safety custody and monitoring institution shall submit financial and accounting reports, business materials and other relevant materials to the futures supervision and administration institution of the State Council.\nThe futures supervision and administration institution of the State Council shall designate special personnel to examine the annual reports submitted by futures companies and other futures operating institutions and to prepare examination reports. The examining personnel shall sign the examination reports. Where problems are discovered in the examination, the futures supervision and administration institution of the State Council shall promptly take corresponding measures.\nWhere necessary, the futures supervision and administration institution of the State Council may require non-futures-company clearing members, delivery warehouses, and shareholders, actual controllers or other related persons of futures companies to submit relevant materials."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "When the futures supervision and administration institution of the State Council performs its duties in accordance with law and conducts supervision and inspection or investigation, the units and individuals under inspection or investigation shall cooperate and truthfully provide the relevant documents and materials, and may not refuse, obstruct or conceal; other relevant departments and units shall give support and cooperation."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "The State shall, in light of the needs of the development of the futures market, establish a futures investor protection fund.\nThe specific measures for the raising, management and use of the futures investor protection fund shall be formulated by the futures supervision and administration institution of the State Council together with the finance department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "The futures supervision and administration institution of the State Council shall establish and improve the margin safety custody and monitoring system and establish a futures margin safety custody and monitoring institution.\nClients and futures exchanges, futures companies and other futures operating institutions, non-futures-company clearing members and futures margin depository banks shall comply with the provisions of the futures supervision and administration institution of the State Council on margin safety custody and monitoring."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "The futures margin safety custody and monitoring institution shall monitor margin safety in accordance with the relevant provisions and conduct daily audits, and shall immediately report any problems discovered to the futures supervision and administration institution of the State Council. The futures supervision and administration institution of the State Council shall, in light of the different circumstances, handle the matter promptly in accordance with the relevant provisions of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "The futures supervision and administration institution of the State Council shall apply a qualification administration system to the directors, supervisors and senior managers of futures exchanges and of the futures margin safety custody and monitoring institution."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "The futures supervision and administration institution of the State Council shall formulate rules on the continuing operations of futures companies, shall prescribe risk supervision indicators such as the ratio of net capital to net assets, the ratio of net capital to the scale of domestic futures brokerage, overseas futures brokerage and other business, and the ratio of current assets to current liabilities, and shall impose requirements on futures companies and their branches in respect of operating conditions, risk management, internal control, margin custody and related-party transactions."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where a futures company or any of its branches fails to comply with the rules on continuing operations or is exposed to operational risks, the futures supervision and administration institution of the State Council may take supervisory measures such as conducting interviews, issuing warnings and recording the matter in credit records against the futures company and its directors, supervisors and senior managers, or order the futures company to rectify within a time limit and inspect and accept its rectification.\nWhere a futures company fails to rectify within the time limit, and its conduct seriously endangers the sound operation of the futures company and harms the lawful rights and interests of clients, or where it is suspected of serious violations of laws and regulations and is under investigation by the futures supervision and administration institution of the State Council, the futures supervision and administration institution of the State Council may, according to the circumstances, take the following measures against it:\n(1) restricting or suspending part of its futures business;\n(2) ceasing to approve new business;\n(3) restricting the distribution of dividends and restricting the payment of remuneration and the provision of benefits to directors, supervisors and senior managers;\n(4) restricting the transfer of property or the creation of other rights over property;\n(5) ordering the replacement of directors, supervisors and senior managers or of the persons in charge of the relevant business departments or branches, or restricting their powers;\n(6) restricting the allocation and use of the futures company's proprietary funds or risk reserve funds;\n(7) ordering the controlling shareholder to transfer its equity or restricting the relevant shareholders from exercising shareholder rights.\nFor a futures company that has been rectified and meets the requirements of the relevant laws and administrative regulations and the rules on continuing operations, the futures supervision and administration institution of the State Council shall, within 3 days from the date of completion of the inspection and acceptance, release the relevant measures taken against it.\nFor a futures company that still fails to meet the requirements of the rules on continuing operations after rectification and whose normal operations are seriously affected, the futures supervision and administration institution of the State Council has the power to revoke part or all of its futures business licences and to close its branches."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where a futures company operates illegally or is exposed to major risks, seriously jeopardizing the order of the futures market and harming the interests of clients, the futures supervision and administration institution of the State Council may take supervisory measures such as ordering it to suspend business for rectification and designating another institution to place it under custody or take it over. With the approval of the futures supervision and administration institution of the State Council, the following measures may be taken against the directors, supervisors and senior managers directly responsible and other persons directly responsible of that futures company:\n(1) notifying the exit administration authorities to prevent them from leaving the country in accordance with law;\n(2) applying to the judicial authorities to prohibit them from transferring, assigning or otherwise disposing of property, or from creating other rights over property."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where a shareholder of a futures company makes false capital contributions or withdraws capital contributions, the futures supervision and administration institution of the State Council shall order it to rectify within a time limit and may order it to transfer the equity it holds in the futures company.\nBefore the shareholder rectifies the illegal act and transfers the equity it holds in the futures company as required in the preceding paragraph, the futures supervision and administration institution of the State Council may restrict its shareholder rights."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where abnormal circumstances arise in the futures market, the futures supervision and administration institution of the State Council may take necessary risk disposal measures."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "The trading software and settlement software of a futures company shall meet the requirements of prudent operation and risk management of the futures company and the provisions of the futures supervision and administration institution of the State Council on margin safety custody and monitoring. Where the trading software or settlement software of a futures company fails to meet the requirements, the futures supervision and administration institution of the State Council has the power to require the futures company to improve or replace it.\nThe futures supervision and administration institution of the State Council may require the suppliers of the trading software and settlement software of a futures company to provide relevant information on that software, and the suppliers shall cooperate. The futures supervision and administration institution of the State Council shall be under an obligation to keep confidential the relevant information provided by the suppliers."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Where a futures company is involved in major litigation or arbitration, or its equity is frozen or used as security, or other major events occur, the futures company and its relevant shareholders and actual controllers shall submit a written report to the futures supervision and administration institution of the State Council within 5 days from the date of occurrence of the event."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where intermediary service institutions such as accounting firms, law firms and asset appraisal institutions provide relevant services to futures exchanges, futures companies and other market participants, they shall comply with futures laws, administrative regulations and the relevant provisions of the State, and shall provide relevant materials as required by the futures supervision and administration institution of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "The futures supervision and administration institution of the State Council shall establish mechanisms for information sharing and coordination with the relevant departments in supervision and administration.\nThe futures supervision and administration institution of the State Council may establish supervision and administration cooperation mechanisms with the futures supervision and administration institutions of other countries or regions to implement cross-border supervision and administration."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "The staff of the futures supervision and administration institution of the State Council, futures exchanges, the futures margin safety custody and monitoring institution, futures margin depository banks and other relevant units shall be loyal to their duties, act in accordance with law, be impartial and honest, keep State secrets and the trade secrets of the parties concerned confidential, and may not take advantage of their position to seek improper benefits."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Where a futures exchange or a non-futures-company clearing member commits any of the following acts, it shall be ordered to rectify, be given a warning and have its illegal gains confiscated:\n(1) admitting members in violation of provisions;\n(2) collecting handling fees in violation of provisions;\n(3) using or distributing income in violation of provisions;\n(4) failing to publish real-time quotations as required, or publishing price forecast information;\n(5) failing to perform the reporting obligation to the futures supervision and administration institution of the State Council as required;\n(6) failing to submit relevant documents and materials to the futures supervision and administration institution of the State Council as required;\n(7) failing to establish and improve the settlement guarantee fund system as required;\n(8) failing to accrue, manage and use risk reserve funds as required;\n(9) violating the provisions of the futures supervision and administration institution of the State Council on margin safety custody and monitoring;\n(10) restricting the total volume of physical delivery by members;\n(11) appointing futures practitioners who do not possess qualifications;\n(12) other acts in violation of the provisions of the futures supervision and administration institution of the State Council.\nWhere any of the acts listed in the preceding paragraph is committed, disciplinary sanctions shall be imposed on the persons in charge who are directly responsible and other persons directly responsible, and a fine of not less than RMB 10,000 yuan but not more than RMB 100,000 yuan shall be imposed.\nWhere the act listed in item (2) of paragraph 1 of this Article is committed, the excess handling fees collected shall be ordered to be refunded.\nWhere the futures margin safety custody and monitoring institution commits any of the acts listed in items (5), (6), (9), (11) and (12) of paragraph 1 of this Article, it shall be punished and sanctioned in accordance with the provisions of paragraphs 1 and 2 of this Article. Where a futures margin depository bank commits any of the acts listed in items (9) and (12) of paragraph 1 of this Article, it shall be punished and sanctioned in accordance with the provisions of paragraphs 1 and 2 of this Article."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Where a futures exchange commits any of the following acts, it shall be ordered to rectify, be given a warning, have its illegal gains confiscated and, in addition, be fined not less than 1 time but not more than 5 times the illegal gains; where there are no illegal gains or the illegal gains are less than RMB 100,000 yuan, it shall in addition be fined not less than RMB 100,000 yuan but not more than RMB 500,000 yuan; where the circumstances are serious, it shall be ordered to suspend business for rectification:\n(1) handling the matters listed in Article 13 of these Regulations without approval;\n(2) allowing members to conduct futures trading where margin is insufficient;\n(3) participating directly or indirectly in futures trading, or engaging in business unrelated to its duties in violation of provisions;\n(4) collecting margins in violation of provisions or misappropriating margins;\n(5) forging, altering or failing to preserve futures trading, settlement and delivery materials as required;\n(6) failing to establish or implement the mark-to-market settlement, price limit, position limit and large-trader position reporting systems;\n(7) refusing or obstructing supervision and inspection by the futures supervision and administration institution of the State Council;\n(8) other acts in violation of the provisions of the futures supervision and administration institution of the State Council.\nWhere any of the acts listed in the preceding paragraph is committed, disciplinary sanctions shall be imposed on the persons in charge who are directly responsible and other persons directly responsible, and a fine of not less than RMB 10,000 yuan but not more than RMB 100,000 yuan shall be imposed.\nWhere a non-futures-company clearing member commits any of the acts listed in items (2) and (4) to (8) of paragraph 1 of this Article, it shall be punished and sanctioned in accordance with the provisions of paragraphs 1 and 2 of this Article.\nWhere the futures margin safety custody and monitoring institution commits any of the acts listed in items (3), (7) and (8) of paragraph 1 of this Article, it shall be punished and sanctioned in accordance with the provisions of paragraphs 1 and 2 of this Article."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Where a futures company commits any of the following acts, it shall be ordered to rectify, be given a warning, have its illegal gains confiscated and, in addition, be fined not less than 1 time but not more than 3 times the illegal gains; where there are no illegal gains or the illegal gains are less than RMB 100,000 yuan, it shall in addition be fined not less than RMB 100,000 yuan but not more than RMB 300,000 yuan; where the circumstances are serious, it shall be ordered to suspend business for rectification or have its futures business licence revoked:\n(1) accepting the entrustment of units or individuals that do not meet the prescribed conditions;\n(2) allowing clients to conduct futures trading where margin is insufficient;\n(3) handling the matters listed in Article 19 of these Regulations without approval;\n(4) engaging in activities unrelated to futures business in violation of provisions;\n(5) engaging in, or engaging in disguised form in, proprietary futures business;\n(6) providing financing to its shareholders, actual controllers or other related persons, or providing external guarantees;\n(7) violating the provisions of the futures supervision and administration institution of the State Council on margin safety custody and monitoring;\n(8) failing to perform the reporting obligation to, or to submit relevant documents and materials to, the futures supervision and administration institution of the State Council as required;\n(9) its trading software or settlement software failing to meet the requirements of prudent operation and risk management of the futures company and the provisions of the futures supervision and administration institution of the State Council on margin safety custody and monitoring;\n(10) failing to accrue, manage and use risk reserve funds as required;\n(11) forging, altering or failing to preserve futures trading, settlement and delivery materials as required;\n(12) appointing futures practitioners who do not possess qualifications;\n(13) forging, altering, leasing, lending or trading in futures business licences or operating licences;\n(14) conducting trading under mixed codes;\n(15) refusing or obstructing supervision and inspection by the futures supervision and administration institution of the State Council;\n(16) other acts in violation of the provisions of the futures supervision and administration institution of the State Council.\nWhere a futures company commits any of the acts listed in the preceding paragraph, a warning shall be given to the persons in charge who are directly responsible and other persons directly responsible, and a fine of not less than RMB 10,000 yuan but not more than RMB 50,000 yuan shall be imposed; where the circumstances are serious, the qualifications of the futures practitioners concerned shall be suspended or revoked.\nWhere a futures operating institution other than a futures company commits any of the acts listed in items (8), (12), (13), (15) and (16) of paragraph 1 of this Article, it shall be punished in accordance with the provisions of paragraphs 1 and 2 of this Article.\nWhere a shareholder, actual controller or other related person of a futures company entrusts another person, or accepts the entrustment of another person, to hold or manage the equity of the futures company without approval, refuses to cooperate with the inspection of the futures supervision and administration institution of the State Council, refuses to perform the reporting obligation or provide relevant information and materials as required, or the information and materials submitted or provided contain false records, misleading statements or material omissions, it shall be punished in accordance with the provisions of paragraphs 1 and 2 of this Article."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Where a futures company commits any of the following acts of defrauding clients, it shall be ordered to rectify, be given a warning, have its illegal gains confiscated and, in addition, be fined not less than 1 time but not more than 5 times the illegal gains; where there are no illegal gains or the illegal gains are less than RMB 100,000 yuan, it shall in addition be fined not less than RMB 100,000 yuan but not more than RMB 500,000 yuan; where the circumstances are serious, it shall be ordered to suspend business for rectification or have its futures business licence revoked:\n(1) giving profit guarantees to clients, or failing to present a risk disclosure statement to clients as required;\n(2) agreeing with clients in brokerage business to share profits or jointly bear risks;\n(3) failing to accept clients' entrustment as required, or conducting futures trading without authorisation in a manner inconsistent with the content of clients' entrustment;\n(4) concealing important matters or using other improper means to induce clients to place trading orders;\n(5) providing clients with false reports on executed transactions;\n(6) failing to transmit clients' trading orders to the futures exchange;\n(7) misappropriating clients' margins;\n(8) failing to open margin accounts with a futures margin depository bank as required, or transferring clients' margins in violation of provisions;\n(9) other acts of defrauding clients prescribed by the futures supervision and administration institution of the State Council.\nWhere a futures company commits any of the acts listed in the preceding paragraph, a warning shall be given to the persons in charge who are directly responsible and other persons directly responsible, and a fine of not less than RMB 10,000 yuan but not more than RMB 100,000 yuan shall be imposed; where the circumstances are serious, the qualifications of the futures practitioners concerned shall be suspended or revoked.\nWhere any unit or individual fabricates and disseminates false information relating to futures trading and disrupts the futures trading market, it shall be punished in accordance with the provisions of paragraphs 1 and 2 of this Article."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "Where a futures company or other futures operating institution, a non-futures-company clearing member or a futures margin depository bank provides false application documents or uses other fraudulent means to conceal important facts in order to obtain a futures business licence by deception, its futures business licence shall be revoked and its illegal gains shall be confiscated."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "Where a person with knowledge of insider information on futures trading, or a person who illegally obtains insider information on futures trading, before the information that has a material impact on futures trading prices is made public, uses the insider information to conduct futures trading, or discloses the insider information to another person so that the other person uses the insider information to conduct futures trading, the illegal gains shall be confiscated and a fine of not less than 1 time but not more than 5 times the illegal gains shall be imposed; where there are no illegal gains or the illegal gains are less than RMB 100,000 yuan, a fine of not less than RMB 100,000 yuan but not more than RMB 500,000 yuan shall be imposed. Where a unit engages in insider trading, a warning shall in addition be given to the persons in charge who are directly responsible and other persons directly responsible, and a fine of not less than RMB 30,000 yuan but not more than RMB 300,000 yuan shall be imposed.\nWhere the staff of the futures supervision and administration institution of the State Council, futures exchanges or the futures margin safety custody and monitoring institution engage in insider trading, they shall be given a heavier punishment."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "Where any unit or individual commits any of the following acts to manipulate futures trading prices, it shall be ordered to rectify, have its illegal gains confiscated and, in addition, be fined not less than 1 time but not more than 5 times the illegal gains; where there are no illegal gains or the illegal gains are less than RMB 200,000 yuan, a fine of not less than RMB 200,000 yuan but not more than RMB 1,000,000 yuan shall be imposed:\n(1) acting alone or in collusion, concentrating capital advantages or position advantages, or taking advantage of information advantages, to buy or sell contracts jointly or continuously so as to manipulate futures trading prices;\n(2) deliberately colluding to trade futures with each other at a prearranged time, price and manner, thereby affecting futures trading prices or futures trading volume;\n(3) taking oneself as the counterparty and buying and selling to oneself, thereby affecting futures trading prices or futures trading volume;\n(4) hoarding spot goods in order to affect the market quotations of the futures market;\n(5) other acts manipulating futures trading prices prescribed by the futures supervision and administration institution of the State Council.\nWhere a unit commits any of the acts listed in the preceding paragraph, a warning shall be given to the persons in charge who are directly responsible and other persons directly responsible, and a fine of not less than RMB 10,000 yuan but not more than RMB 100,000 yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "Where a delivery warehouse commits any of the acts listed in paragraph 2 of Article 35 of these Regulations, it shall be ordered to rectify, be given a warning, have its illegal gains confiscated and, in addition, be fined not less than 1 time but not more than 5 times the illegal gains; where there are no illegal gains or the illegal gains are less than RMB 100,000 yuan, it shall in addition be fined not less than RMB 100,000 yuan but not more than RMB 500,000 yuan; where the circumstances are serious, the futures exchange shall be ordered to suspend or cancel its qualification as a delivery warehouse. A warning shall be given to the persons in charge who are directly responsible and other persons directly responsible, and a fine of not less than RMB 10,000 yuan but not more than RMB 100,000 yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "Where a State-owned enterprise or a State-controlled enterprise conducts futures trading in violation of these Regulations and the relevant provisions of the State-owned assets supervision and administration institution of the State Council and other relevant departments on enterprises entering the futures market with State-owned assets, or where a unit or individual uses credit funds or fiscal funds in violation of regulations to conduct futures trading, a warning shall be given, the illegal gains shall be confiscated and, in addition, a fine of not less than 1 time but not more than 5 times the illegal gains shall be imposed; where there are no illegal gains or the illegal gains are less than RMB 100,000 yuan, a fine of not less than RMB 100,000 yuan but not more than RMB 500,000 yuan shall in addition be imposed. Disciplinary sanctions ranging from demotion to dismissal shall be imposed on the persons in charge who are directly responsible and other persons directly responsible."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "Where a domestic unit or individual engages in overseas futures trading in violation of provisions, it shall be ordered to rectify, be given a warning, have its illegal gains confiscated and, in addition, be fined not less than 1 time but not more than 5 times the illegal gains; where there are no illegal gains or the illegal gains are less than RMB 200,000 yuan, it shall in addition be fined not less than RMB 200,000 yuan but not more than RMB 1,000,000 yuan; where the circumstances are serious, its overseas futures trading shall be suspended. A warning shall be given to the persons in charge who are directly responsible and other persons directly responsible, and a fine of not less than RMB 10,000 yuan but not more than RMB 100,000 yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "Where a futures trading venue is illegally established or futures trading activities are organised in other forms, the local people's government at or above the county level of the place where it is located shall ban it, confiscate its illegal gains and impose a fine of not less than 1 time but not more than 5 times the illegal gains; where there are no illegal gains or the illegal gains are less than RMB 200,000 yuan, a fine of not less than RMB 200,000 yuan but not more than RMB 1,000,000 yuan shall be imposed. A warning shall be given to the persons in charge who are directly responsible and other persons directly responsible, and a fine of not less than RMB 10,000 yuan but not more than RMB 100,000 yuan shall be imposed.\nWhere a futures company or other futures operating institution is illegally established, or futures business is engaged in without authorisation, it shall be banned, its illegal gains shall be confiscated and a fine of not less than 1 time but not more than 5 times the illegal gains shall be imposed; where there are no illegal gains or the illegal gains are less than RMB 200,000 yuan, a fine of not less than RMB 200,000 yuan but not more than RMB 1,000,000 yuan shall be imposed. A warning shall be given to the persons in charge who are directly responsible and other persons directly responsible, and a fine of not less than RMB 10,000 yuan but not more than RMB 100,000 yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "Where a supplier of the trading software or settlement software of a futures company refuses to cooperate with the investigation of the futures supervision and administration institution of the State Council, or fails to provide the relevant software materials to the futures supervision and administration institution of the State Council as required, or the software materials provided contain falsehoods or material omissions, it shall be ordered to rectify and be fined not less than RMB 30,000 yuan but not more than RMB 100,000 yuan. A warning shall be given to the persons in charge who are directly responsible and other persons directly responsible, and a fine of not less than RMB 10,000 yuan but not more than RMB 50,000 yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "Where an intermediary service institution such as an accounting firm, a law firm or an asset appraisal institution fails to exercise due diligence and the documents it issues contain false records, misleading statements or material omissions, it shall be ordered to rectify, have its business income confiscated, have the relevant business licence suspended or revoked and, in addition, be fined not less than 1 time but not more than 5 times its business income. A warning shall be given to the persons in charge who are directly responsible and other persons directly responsible, and a fine of not less than RMB 30,000 yuan but not more than RMB 100,000 yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "Where any unit or individual violates the provisions of these Regulations and the circumstances are serious, the futures supervision and administration institution of the State Council shall declare that individual, that unit or the persons directly responsible of that unit to be prohibited from entering the futures market."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "Where the staff of the futures supervision and administration institution of the State Council, futures exchanges, the futures margin safety custody and monitoring institution, futures margin depository banks and other relevant units disclose State secrets or the trade secrets of members or clients that come to their knowledge, or engage in favouritism and irregularities, dereliction of duty, abuse of power or acceptance of bribes, they shall be given administrative sanctions or disciplinary sanctions in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "Where the provisions of these Regulations are violated and a crime is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "Administrative penalties for the illegal acts provided for in these Regulations shall, except where otherwise provided in these Regulations, be decided by the futures supervision and administration institution of the State Council; where the statutory powers of other relevant departments are involved, the futures supervision and administration institution of the State Council shall handle the matter together with the other relevant departments; where the matter falls within the statutory powers of other relevant departments, the futures supervision and administration institution of the State Council shall transfer it to the other relevant departments for handling."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "The following terms used in these Regulations have the following meanings:\n(1) Commodity futures contract means a futures contract with agricultural products, industrial products, energy and other commodities and related index products as the underlying.\n(2) Financial futures contract means a futures contract with securities, interest rates, exchange rates and other financial products and related index products as the underlying.\n(3) Margin means the funds paid by a futures trader in accordance with provisions, or the standard warehouse receipts, treasury bonds and other securities of stable value and strong liquidity submitted by a futures trader, which are used for settlement and to guarantee performance.\n(4) Settlement means the clearing and transfer of funds in respect of the trading results of both parties based on the settlement price published by the futures exchange.\n(5) Delivery means the process whereby, upon the expiry of a contract and in accordance with the rules and procedures of the futures exchange, the parties to the transaction conclude the open contract at expiry through the transfer of ownership of the underlying specified in the contract, or through cash settlement of the price difference at the prescribed settlement price.\n(6) Closing out means the act of a futures trader buying or selling a contract of the same variety, quantity and delivery month as the contract it holds but in the opposite trading direction, thereby concluding the futures trading.\n(7) Open interest means the number of open contracts held by a futures trader.\n(8) Position limit means the maximum amount prescribed by the futures exchange for the positions of a futures trader.\n(9) Standard warehouse receipt means a standardised document for taking delivery issued by a delivery warehouse and recognised by the futures exchange.\n(10) Price limit means that the trading price of a contract in one trading day may not be higher or lower than the prescribed upward or downward range, and quotations exceeding that range shall be deemed invalid and may not be concluded.\n(11) Insider information means information not yet made public that may have a material impact on futures trading prices, including: policies formulated by the futures supervision and administration institution of the State Council and other relevant departments that may have a material impact on futures trading prices, decisions made by futures exchanges that may have a material impact on futures trading prices, the fund and trading movements of members and clients of futures exchanges, and other important information recognised by the futures supervision and administration institution of the State Council as having a significant impact on futures trading prices.\n(12) Persons with knowledge of insider information means persons who, by virtue of their managerial, supervisory or professional position, or as employees or professional advisers performing their duties, are able to come into contact with or obtain insider information, including: the management personnel of futures exchanges and other practitioners who may obtain insider information by virtue of their office, the staff of the futures supervision and administration institution of the State Council and other relevant departments, and other persons prescribed by the futures supervision and administration institution of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "The futures supervision and administration institution of the State Council may approve the establishment of specialized futures clearing institutions to exclusively perform the settlement and related duties of futures exchanges and to bear the corresponding legal liability."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "The administrative measures for overseas institutions to establish, acquire or take equity stakes in futures operating institutions within the territory, and for overseas futures operating institutions to establish branches (including representative offices) within the territory, shall be formulated by the futures supervision and administration institution of the State Council together with the competent commerce department, the foreign exchange administration department and other relevant departments of the State Council, and shall be implemented after approval by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "Futures trading conducted on trading venues approved by the futures supervision and administration institution of the State Council other than futures exchanges shall be governed by the relevant provisions of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "Other trading activities in commodities or financial products that do not constitute futures trading shall be supervised and administered by the relevant departments of the State, and these Regulations shall not apply."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "These Regulations shall come into force on 15 April 2007. The Interim Regulations on the Administration of Futures Trading promulgated by the State Council on 2 June 1999 shall be repealed simultaneously."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
         }
       }
     ]
@@ -16079,6 +17111,807 @@
     ]
   };
 
+  TR['CN-REG-0307'] = {
+    "lawId": "CN-REG-0307",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 67 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the Cryptography Law of the People's Republic of China and other laws for the purpose of standardising the application and administration of commercial cryptography, encouraging and promoting the development of the commercial cryptography industry, safeguarding cyber and information security, maintaining national security and the public interest of society, and protecting the lawful rights and interests of citizens, legal persons and other organisations."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "These Regulations apply to activities such as the research and development, production, sale, service, testing, certification, import and export and application of commercial cryptography within the territory of the People's Republic of China, as well as to the supervision and administration thereof.\nFor the purposes of these Regulations, commercial cryptography means the technologies, products and services that use specific transformation methods to carry out encryption protection and security authentication of information that does not constitute State secrets and the like."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The leadership of the Communist Party of China over commercial cryptography work shall be upheld and the holistic approach to national security shall be implemented. The cryptography administration department of the State shall be responsible for administering commercial cryptography work throughout the country. Cryptography administration departments of local people's governments at or above the county level shall be responsible for administering commercial cryptography work within their respective administrative regions.\nThe cyberspace administration, commerce, customs, market regulation and other relevant departments shall, within the scope of their respective duties, be responsible for the relevant administration of commercial cryptography."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The State shall strengthen the cultivation of commercial cryptography talent, establish and improve the systems and mechanisms for talent development and the talent evaluation system in the field of commercial cryptography, encourage and support the development of cryptography-related disciplines and specialities, standardise socialised training in commercial cryptography and promote the exchange of commercial cryptography talent."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "People's governments at all levels and their relevant departments shall, in various forms, strengthen publicity and education on commercial cryptography and enhance the cryptography security awareness of citizens, legal persons and other organisations."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Learned societies, industry associations and other social organisations in the field of commercial cryptography shall, in accordance with the provisions of laws, administrative regulations and their own constitutions, carry out activities such as academic exchange, policy research and public services, strengthen academic and industry self-discipline, promote the building of integrity and facilitate the sound development of the industry.\nCryptography administration departments shall strengthen guidance on and support for social organisations in the field of commercial cryptography."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The State shall establish and improve mechanisms for promoting scientific and technological innovation in commercial cryptography, support independent innovation in commercial cryptography science and technology, and commend and reward organisations and individuals that make outstanding contributions in accordance with the relevant provisions of the State.\nThe State shall protect intellectual property rights in the field of commercial cryptography in accordance with the law. Those engaging in commercial cryptography activities shall enhance their awareness of intellectual property rights and improve their ability to apply, protect and manage intellectual property rights.\nThe State encourages cooperation in commercial cryptography technology in the course of foreign investment on the basis of the principle of voluntariness and commercial rules. Administrative organs and their staff may not use administrative means to compel the transfer of commercial cryptography technology."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Scientific and Technological Innovation and Standardisation"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The State encourages and supports the transformation and industrial application of scientific and technological achievements in commercial cryptography and establishes and improves mechanisms for the collection and reporting, release and feedback on application of information on scientific and technological achievements in commercial cryptography."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Scientific and Technological Innovation and Standardisation"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The cryptography administration department of the State shall organise the review and appraisal of commercial cryptography technologies such as cryptographic algorithms, cryptographic protocols and key management mechanisms used in networks and information systems that are required by laws, administrative regulations and relevant provisions of the State to use commercial cryptography for protection."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Scientific and Technological Innovation and Standardisation"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The administrative department for standardisation of the State Council and the cryptography administration department of the State shall, in accordance with their respective duties, organise the formulation of national standards and industry standards for commercial cryptography and standardise, guide and supervise the formulation of association standards for commercial cryptography. The cryptography administration department of the State shall, in accordance with its duties, establish a feedback and evaluation mechanism for information on the implementation of commercial cryptography standards and supervise and inspect the implementation of commercial cryptography standards.\nThe State shall promote participation in international standardisation activities for commercial cryptography, participate in the formulation of international standards for commercial cryptography, advance the conversion and application between Chinese standards and foreign standards for commercial cryptography, and encourage enterprises, social organisations, educational and scientific research institutions and the like to participate in international standardisation activities for commercial cryptography.\nWhere standards in other fields involve commercial cryptography, they shall be kept consistent with the national standards and industry standards for commercial cryptography."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Scientific and Technological Innovation and Standardisation"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Those engaging in commercial cryptography activities shall comply with the technical requirements of the relevant laws, administrative regulations and mandatory national standards for commercial cryptography, as well as of the standards declared and made public by themselves.\nThe State encourages the adoption of recommended national standards and industry standards for commercial cryptography in commercial cryptography activities so as to enhance the protective capacity of commercial cryptography and safeguard the lawful rights and interests of users."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Scientific and Technological Innovation and Standardisation"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The State shall advance the development of a commercial cryptography testing and certification system and encourage voluntary acceptance of commercial cryptography testing and certification in commercial cryptography activities."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter III Testing and Certification"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Institutions that engage in commercial cryptography testing activities such as testing of commercial cryptography products and security assessment of the application of commercial cryptography in networks and information systems and that issue to society data and results of a certifying nature shall be recognised by the cryptography administration department of the State and shall obtain the qualification of commercial cryptography testing institution in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter III Testing and Certification"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "To obtain the qualification of commercial cryptography testing institution, the following conditions shall be met:\n(a) having the status of a legal person;\n(b) having funds, premises, equipment and facilities, professional personnel and professional competence commensurate with engaging in commercial cryptography testing activities;\n(c) having a management system ensuring the effective operation of commercial cryptography testing activities."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter III Testing and Certification"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "An applicant for the qualification of commercial cryptography testing institution shall submit a written application to the cryptography administration department of the State, together with materials showing that the conditions specified in Article 14 of these Regulations are met.\nThe cryptography administration department of the State shall, within 20 working days from the date of acceptance of the application, examine the application and make a decision in accordance with the law on whether to grant recognition.\nWhere a technical review of the applicant is required, the time required for the technical review shall not be counted in the time limit specified in this Article. The cryptography administration department of the State shall notify the applicant in writing of the time required."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Testing and Certification"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Commercial cryptography testing institutions shall, in accordance with laws, administrative regulations and the technical specifications and rules for commercial cryptography testing, carry out commercial cryptography testing independently, impartially, scientifically and in good faith within the approved scope, be responsible for the testing data and results issued, and periodically report the implementation of testing to the cryptography administration department of the State.\nThe technical specifications and rules for commercial cryptography testing shall be formulated and published by the cryptography administration department of the State."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Testing and Certification"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The market regulation department of the State Council shall, together with the cryptography administration department of the State, establish a commercial cryptography certification system implemented uniformly throughout the country, implement certification of commercial cryptography products, services and management systems, and formulate and publish the certification catalogue and the technical specifications and rules."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Testing and Certification"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Institutions engaging in commercial cryptography certification activities shall obtain the qualification of commercial cryptography certification institution in accordance with the law.\nAn applicant for the qualification of commercial cryptography certification institution shall submit a written application to the market regulation department of the State Council. In addition to meeting the basic conditions for certification institutions required by laws, administrative regulations and the relevant provisions of the State, the applicant shall also have the testing, inspection and other technical capabilities commensurate with engaging in commercial cryptography certification activities.\nWhen examining an application for the qualification of commercial cryptography certification institution, the market regulation department of the State Council shall seek the opinions of the cryptography administration department of the State."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Testing and Certification"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Commercial cryptography certification institutions shall, in accordance with laws, administrative regulations and the technical specifications and rules for commercial cryptography certification, carry out commercial cryptography certification independently, impartially, scientifically and in good faith within the approved scope and be responsible for the certification conclusions issued.\nCommercial cryptography certification institutions shall conduct effective follow-up investigation of the commercial cryptography products, services and management systems they have certified, so as to ensure that the certified commercial cryptography products, services and management systems continue to meet the certification requirements."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Testing and Certification"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Commercial cryptography products involving national security, the national economy and the livelihood of the people and the public interest of society shall, in accordance with the law, be included in the catalogue of critical network equipment and dedicated network security products, and may be sold or provided only after they have passed testing and certification by qualified commercial cryptography testing and certification institutions."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Testing and Certification"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where commercial cryptography services use critical network equipment and dedicated network security products, the commercial cryptography service shall have passed certification by a commercial cryptography certification institution."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Testing and Certification"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Those providing electronic authentication services by using commercial cryptography technology shall have the premises, equipment and facilities, professional personnel, professional competence and management system commensurate with the use of cryptography, and shall obtain in accordance with the law the document of the cryptography administration department of the State certifying approval to use cryptography."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter IV Electronic Authentication"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Electronic authentication service institutions shall, in accordance with laws, administrative regulations and the technical specifications and rules for the use of cryptography in electronic authentication services, use cryptography to provide electronic authentication services and ensure that their use of cryptography in electronic authentication services continues to meet the requirements.\nThe technical specifications and rules for the use of cryptography in electronic authentication services shall be formulated and published by the cryptography administration department of the State."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter IV Electronic Authentication"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Institutions engaging in electronic authentication services for e-government affairs by using commercial cryptography technology shall be recognised by the cryptography administration department of the State and shall obtain the qualification of e-government electronic authentication service institution in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter IV Electronic Authentication"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "To obtain the qualification of e-government electronic authentication service institution, the following conditions shall be met:\n(a) having the status of a legal person of an enterprise or of a public institution;\n(b) having funds, premises, equipment and facilities and professional personnel commensurate with engaging in e-government electronic authentication service activities and with their use of cryptography;\n(c) having the capacity to provide long-term e-government electronic authentication services for government affairs activities;\n(d) having a management system ensuring the safe operation of e-government electronic authentication service activities and of their use of cryptography."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter IV Electronic Authentication"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "An applicant for the qualification of e-government electronic authentication service institution shall submit a written application to the cryptography administration department of the State, together with materials showing that the conditions specified in Article 25 of these Regulations are met.\nThe cryptography administration department of the State shall, within 20 working days from the date of acceptance of the application, examine the application and make a decision in accordance with the law on whether to grant recognition.\nWhere a technical review of the applicant is required, the time required for the technical review shall not be counted in the time limit specified in this Article. The cryptography administration department of the State shall notify the applicant in writing of the time required."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Electronic Authentication"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where foreign investment in e-government electronic authentication services affects or may affect national security, a national security review of the foreign investment shall be conducted in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Electronic Authentication"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "E-government electronic authentication service institutions shall, in accordance with laws, administrative regulations and the technical specifications and rules for e-government electronic authentication services, provide e-government electronic authentication services within the approved scope and periodically report the implementation of services to the cryptography administration department of the province, autonomous region or municipality directly under the Central Government where their principal office is located.\nThe technical specifications and rules for e-government electronic authentication services shall be formulated and published by the cryptography administration department of the State."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Electronic Authentication"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The State shall establish a unified trust mechanism for electronic authentication. The cryptography administration department of the State shall be responsible for the planning and administration of the trust sources for electronic authentication and, together with the relevant departments, shall promote mutual trust and mutual recognition of electronic authentication services."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Electronic Authentication"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Cryptography administration departments shall, together with the relevant departments, be responsible for the administration of the use of electronic signatures and electronic data messages in government affairs activities.\nElectronic authentication services relating to electronic signatures, electronic seals, electronic certificates and the like in government affairs activities shall be provided by e-government electronic authentication service institutions established in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Electronic Authentication"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Commercial cryptography that involves national security and the public interest of society and has the function of encryption protection shall be included in the list of commercial cryptography subject to import licensing and shall be subject to import licensing. Commercial cryptography that involves national security, the public interest of society or the international obligations assumed by China shall be included in the list of commercial cryptography subject to export control and shall be subject to export control.\nThe list of commercial cryptography subject to import licensing and the list of commercial cryptography subject to export control shall be formulated and published by the competent commerce department of the State Council together with the cryptography administration department of the State and the General Administration of Customs.\nThe system of import licensing and export control shall not apply to commercial cryptography used in mass consumer products."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter V Import and Export"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "To import commercial cryptography included in the list of commercial cryptography subject to import licensing or to export commercial cryptography included in the list of commercial cryptography subject to export control, an application shall be filed with the competent commerce department of the State Council for an import or export licence.\nThe provisions of the preceding paragraph shall apply to the transit, transhipment, through carriage and re-export of commercial cryptography and to its movement between places outside China and customs special supervision areas such as comprehensive bonded zones, or between places outside China and bonded supervision premises such as export supervision warehouses and bonded logistics centres."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter V Import and Export"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "When importing commercial cryptography included in the list of commercial cryptography subject to import licensing or exporting commercial cryptography included in the list of commercial cryptography subject to export control, the import or export licence shall be produced to the customs and the customs declaration formalities shall be completed in accordance with the relevant provisions of the State.\nWhere an import or export operator fails to produce an import or export licence to the customs and the customs has evidence showing that the imported or exported products may fall within the scope of the list of commercial cryptography subject to import licensing or the list of commercial cryptography subject to export control, the customs shall raise a query with the import or export operator; the customs may propose to the competent commerce department of the State Council that an identification be organised, and shall deal with the matter in accordance with the law on the basis of the identification conclusion made by the competent commerce department of the State Council together with the cryptography administration department of the State. During the period of identification or query, the customs shall not release the imported or exported products."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter V Import and Export"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "An applicant for a commercial cryptography import or export licence shall submit a written application to the competent commerce department of the State Council, together with the following materials:\n(a) identity documents of the legal representative, the principal business manager and the handling person of the applicant;\n(b) a copy of the contract or agreement;\n(c) a technical description of the commercial cryptography;\n(d) certification of the end user and the end use;\n(e) other documents required to be submitted by the competent commerce department of the State Council.\nThe competent commerce department of the State Council shall, within 45 working days from the date of acceptance of the application, examine the application together with the cryptography administration department of the State and make a decision in accordance with the law on whether to grant the licence.\nFor the export of commercial cryptography that has a major impact on national security, the public interest of society or foreign policy, the competent commerce department of the State Council shall, together with the cryptography administration department of the State and other relevant departments, submit the matter to the State Council for approval. Where the matter is submitted to the State Council for approval, the time limit specified in the preceding paragraph shall not apply."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter V Import and Export"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The State encourages citizens, legal persons and other organisations to use commercial cryptography to protect cyber and information security in accordance with the law and encourages the use of commercial cryptography that has passed testing and certification.\nNo organisation or individual may steal information encrypted and protected by others or illegally intrude into the commercial cryptography safeguard systems of others, or use commercial cryptography to engage in illegal and criminal activities endangering national security, the public interest of society or the lawful rights and interests of others."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter VI Promotion of Application"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The State supports the use of commercial cryptography by network products and services to enhance security and supports and standardises the application of commercial cryptography in new technologies, new forms of business and new models in the information field."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter VI Promotion of Application"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The State shall establish a coordination mechanism for promoting the application of commercial cryptography and strengthen overall guidance on the application of commercial cryptography. State organs and units involved in commercial cryptography work shall, within the scope of their duties, be responsible for the application of commercial cryptography and the related safeguard work of the said organs, units or systems.\nCryptography administration departments shall, together with the relevant departments, strengthen the collection of information on the application of commercial cryptography, risk assessment, information notification and consultation on major matters, and strengthen the connection with cyber security monitoring, early warning and information notification."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter VI Promotion of Application"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "For critical information infrastructure that is required by laws, administrative regulations and relevant provisions of the State to use commercial cryptography for protection, the operators shall use commercial cryptography for protection, formulate plans for the application of commercial cryptography, allocate the necessary funds and professional personnel, plan, build and operate the commercial cryptography safeguard system simultaneously, and conduct security assessment of the application of commercial cryptography by themselves or by entrusting a commercial cryptography testing institution.\nThe critical information infrastructure listed in the preceding paragraph may be put into operation only after it has passed the security assessment of the application of commercial cryptography, and shall be assessed at least once a year after being put into operation; the assessment shall be reported, in accordance with the relevant provisions of the State, to the cryptography administration department of the State or to the cryptography administration department of the province, autonomous region or municipality directly under the Central Government where the critical information infrastructure is located for the record."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter VI Promotion of Application"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "For critical information infrastructure that is required by laws, administrative regulations and relevant provisions of the State to use commercial cryptography for protection, the commercial cryptography products and services used shall have passed testing and certification, and the commercial cryptography technologies used, such as cryptographic algorithms, cryptographic protocols and key management mechanisms, shall have passed the review and appraisal of the cryptography administration department of the State."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter VI Promotion of Application"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where an operator of critical information infrastructure purchases network products and services involving commercial cryptography that may affect national security, it shall, in accordance with the law, pass the national security review organised by the national cyberspace administration department together with the cryptography administration department of the State and other relevant departments."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter VI Promotion of Application"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Network operators shall, in accordance with the requirements of the national classified protection system for cyber security, use commercial cryptography to protect cyber security. The cryptography administration department of the State shall, according to the security protection classification of networks, determine the requirements for the use, administration and security assessment of the application of commercial cryptography and formulate standards and specifications for cryptography under the classified protection of cyber security."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter VI Promotion of Application"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The security assessment of the application of commercial cryptography, the security testing and assessment of critical information infrastructure and the classified cyber security evaluation shall be better connected so as to avoid duplicate assessment and evaluation."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VI Promotion of Application"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Cryptography administration departments shall, in accordance with the law, organise supervision and inspection of commercial cryptography activities and provide guidance and supervision on the work relating to commercial cryptography of State organs and of units involved in commercial cryptography work."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Administration"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Cryptography administration departments and the relevant departments shall establish a collaborative mechanism for the supervision and administration of commercial cryptography and strengthen coordination and cooperation in the supervision, inspection and guidance of commercial cryptography."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Administration"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "In carrying out supervision and inspection of commercial cryptography in accordance with the law, cryptography administration departments and the relevant departments may exercise the following powers:\n(a) entering premises where commercial cryptography activities are conducted to carry out on-site inspection;\n(b) making investigations and inquiries of the legal representative, the principal person in charge and other relevant personnel of the party concerned;\n(c) consulting and copying the relevant contracts, receipts, account books and other relevant materials."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Administration"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Cryptography administration departments and the relevant departments shall advance the connection between the supervision and administration of commercial cryptography and the social credit system and, in accordance with the law, establish and implement mechanisms such as credit records, classified credit-based supervision, punishment for dishonesty and credit repair for commercial cryptography business entities."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Administration"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Commercial cryptography testing and certification institutions and e-government electronic authentication service institutions and their staff shall bear the obligation of confidentiality in respect of the State secrets and trade secrets they learn of in commercial cryptography activities.\nCryptography administration departments and the relevant departments and their staff may not require units engaged in the research and development, production, sale, service and import and export of commercial cryptography and commercial cryptography testing and certification institutions to disclose to them source codes and other proprietary information relating to cryptography, and shall strictly keep confidential the trade secrets and personal privacy they learn of in the performance of their duties and may not divulge them or unlawfully provide them to others."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Administration"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where cryptography administration departments and the relevant departments carry out supervision and administration of commercial cryptography in accordance with the law, the units and persons concerned shall cooperate, and no unit or individual may unlawfully interfere with or obstruct such supervision and administration."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Administration"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Any unit or individual has the right to report violations of these Regulations to cryptography administration departments and the relevant departments. Cryptography administration departments and the relevant departments shall, upon receiving a report, promptly verify and handle the matter and keep the identity of the reporter confidential."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Administration"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a party carries out commercial cryptography testing activities for society without recognition, or engages in e-government electronic authentication services without recognition, the cryptography administration department shall order correction or cessation of the illegal act, give a warning and confiscate the illegal products and illegal gains; where the illegal gains are RMB 300,000 or more, a fine of not less than one time but not more than three times the illegal gains may be imposed concurrently; where there are no illegal gains or the illegal gains are less than RMB 300,000, a fine of not less than RMB 100,000 but not more than RMB 300,000 may be imposed concurrently.\nWhere, in violation of the provisions of these Regulations, a party engages in commercial cryptography certification activities without approval, the market regulation department shall, together with the cryptography administration department, impose a penalty in accordance with the provisions of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where a commercial cryptography testing institution, in carrying out commercial cryptography testing, falls under any of the following circumstances, the cryptography administration department shall order correction or cessation of the illegal act, give a warning and confiscate the illegal gains; where the illegal gains are RMB 300,000 or more, a fine of not less than one time but not more than three times the illegal gains may be imposed concurrently; where there are no illegal gains or the illegal gains are less than RMB 300,000, a fine of not less than RMB 100,000 but not more than RMB 300,000 may be imposed concurrently; where the circumstances are serious, the qualification of commercial cryptography testing institution shall be revoked in accordance with the law:\n(a) exceeding the approved scope;\n(b) conduct affecting the independence, impartiality or good faith of testing;\n(c) the testing data or results issued being false or inaccurate;\n(d) refusing to report or failing to truthfully report the implementation of testing;\n(e) failing to perform the obligation of confidentiality;\n(f) other circumstances of carrying out commercial cryptography testing in violation of laws, administrative regulations and the technical specifications and rules for commercial cryptography testing."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where a commercial cryptography certification institution, in carrying out commercial cryptography certification, falls under any of the following circumstances, the market regulation department shall, together with the cryptography administration department, order correction or cessation of the illegal act, give a warning and confiscate the illegal gains; where the illegal gains are RMB 300,000 or more, a fine of not less than one time but not more than three times the illegal gains may be imposed concurrently; where there are no illegal gains or the illegal gains are less than RMB 300,000, a fine of not less than RMB 100,000 but not more than RMB 300,000 may be imposed concurrently; where the circumstances are serious, the qualification of commercial cryptography certification institution shall be revoked in accordance with the law:\n(a) exceeding the approved scope;\n(b) conduct affecting the independence, impartiality or good faith of certification;\n(c) the certification conclusions issued being false or inaccurate;\n(d) failing to conduct effective follow-up investigation of the commercial cryptography products, services and management systems it has certified;\n(e) failing to perform the obligation of confidentiality;\n(f) other circumstances of carrying out commercial cryptography certification in violation of laws, administrative regulations and the technical specifications and rules for commercial cryptography certification."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where, in violation of the provisions of Article 20 or Article 21 of these Regulations, a party sells or provides commercial cryptography products that have not been tested and certified or that have failed testing and certification, or provides commercial cryptography services that have not been certified or that have failed certification, the market regulation department shall, together with the cryptography administration department, order correction or cessation of the illegal act, give a warning and confiscate the illegal products and illegal gains; where the illegal gains are RMB 100,000 or more, a fine of not less than one time but not more than three times the illegal gains may be imposed concurrently; where there are no illegal gains or the illegal gains are less than RMB 100,000, a fine of not less than RMB 30,000 but not more than RMB 100,000 may be imposed concurrently."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where an electronic authentication service institution uses cryptography in violation of laws, administrative regulations and the technical specifications and rules for the use of cryptography in electronic authentication services, the cryptography administration department shall order correction or cessation of the illegal act, give a warning and confiscate the illegal gains; where the illegal gains are RMB 300,000 or more, a fine of not less than one time but not more than three times the illegal gains may be imposed concurrently; where there are no illegal gains or the illegal gains are less than RMB 300,000, a fine of not less than RMB 100,000 but not more than RMB 300,000 may be imposed concurrently; where the circumstances are serious, the document certifying approval to use cryptography for electronic authentication services shall be revoked in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where an e-government electronic authentication service institution, in providing e-government electronic authentication services, falls under any of the following circumstances, the cryptography administration department shall order correction or cessation of the illegal act, give a warning and confiscate the illegal gains; where the illegal gains are RMB 300,000 or more, a fine of not less than one time but not more than three times the illegal gains may be imposed concurrently; where there are no illegal gains or the illegal gains are less than RMB 300,000, a fine of not less than RMB 100,000 but not more than RMB 300,000 may be imposed concurrently; where the circumstances are serious, it shall be ordered to suspend business for rectification, up to revocation of the qualification of e-government electronic authentication service institution:\n(a) exceeding the approved scope;\n(b) refusing to report or failing to truthfully report the implementation of services;\n(c) failing to perform the obligation of confidentiality;\n(d) other circumstances of providing e-government electronic authentication services in violation of laws, administrative regulations and the technical specifications and rules for e-government electronic authentication services."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where an electronic signatory or a party relying on an electronic signature suffers losses in government affairs activities in reliance on the electronic signature authentication services provided by an e-government electronic authentication service institution, the e-government electronic authentication service institution shall bear the liability for compensation if it cannot prove that it is not at fault."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where electronic authentication services relating to electronic signatures, electronic seals, electronic certificates and the like in government affairs activities are, in violation of the provisions of Article 30 of these Regulations, not provided by an e-government electronic authentication service institution established in accordance with the law, the cryptography administration department shall order correction and give a warning; where correction is refused or other serious circumstances exist, the cryptography administration department shall suggest that the relevant State organ or unit give sanctions or take other measures against the persons directly in charge and the other persons directly responsible in accordance with the law. The relevant State organ or unit shall notify the cryptography administration department in writing of the sanctions or other measures taken."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where commercial cryptography is imported or exported in violation of the provisions of these Regulations, the competent commerce department of the State Council or the customs shall impose a penalty in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Whoever steals information encrypted and protected by others, illegally intrudes into the commercial cryptography safeguard systems of others, or uses commercial cryptography to engage in illegal activities endangering national security, the public interest of society or the lawful rights and interests of others shall have legal liability pursued by the relevant departments in accordance with the provisions of the Cyber Security Law of the People's Republic of China and other relevant laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Where an operator of critical information infrastructure, in violation of the provisions of Article 38 or Article 39 of these Regulations, fails to use commercial cryptography as required, or fails to carry out the security assessment of the application of commercial cryptography as required, the cryptography administration department shall order correction and give a warning; where correction is refused or other serious circumstances exist, a fine of not less than RMB 100,000 but not more than RMB 1,000,000 shall be imposed, and a fine of not less than RMB 10,000 but not more than RMB 100,000 shall be imposed on the persons directly in charge."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where an operator of critical information infrastructure, in violation of the provisions of Article 40 of these Regulations, uses network products or services involving commercial cryptography that have not undergone security review or that have failed security review, the competent departments concerned shall order cessation of use and impose a fine of not less than one time but not more than ten times the procurement amount; and shall impose a fine of not less than RMB 10,000 but not more than RMB 100,000 on the persons directly in charge and the other persons directly responsible."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Where a network operator, in violation of the provisions of Article 41 of these Regulations, fails to use commercial cryptography to protect cyber security in accordance with the requirements of the national classified protection system for cyber security, the cryptography administration department shall order correction and give a warning; where correction is refused or consequences such as endangering cyber security are caused, a fine of not less than RMB 10,000 but not more than RMB 100,000 shall be imposed, and a fine of not less than RMB 5,000 but not more than RMB 50,000 shall be imposed on the persons directly in charge."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Whoever, without justified reasons, refuses to accept, fails to cooperate with, or interferes with or obstructs the supervision and administration of commercial cryptography by cryptography administration departments or the relevant departments shall be ordered by the cryptography administration departments or the relevant departments to make correction and be given a warning; where correction is refused or other serious circumstances exist, a fine of not less than RMB 50,000 but not more than RMB 500,000 shall be imposed, and a fine of not less than RMB 10,000 but not more than RMB 100,000 shall be imposed on the persons directly in charge and the other persons directly responsible; where the circumstances are especially serious, it shall be ordered to suspend business for rectification, up to revocation of the commercial cryptography licence."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Where a State organ falls under any of the circumstances of violation specified in Article 60, Article 61, Article 62 or Article 63 of these Regulations, the cryptography administration department or the relevant department shall order correction and give a warning; where correction is refused or other serious circumstances exist, the cryptography administration department or the relevant department shall suggest that the relevant State organ give sanctions or take other measures against the persons directly in charge and the other persons directly responsible in accordance with the law. The relevant State organ shall notify the cryptography administration department or the relevant department in writing of the sanctions or other measures taken."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Where members of the staff of cryptography administration departments and of the relevant departments abuse their power, neglect their duties or practise favouritism and irregularities in commercial cryptography work, or divulge or unlawfully provide to others the trade secrets, personal privacy or information on reporters they learn of in the performance of their duties, sanctions shall be given in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Where a violation of the provisions of these Regulations constitutes a crime, criminal liability shall be investigated in accordance with the law; where damage is caused to others, civil liability shall be borne in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "These Regulations shall come into force on 1 July 2023."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-REG-0308'] = {
     "lawId": "CN-REG-0308",
     "sourceLang": "zh",
@@ -17634,6 +19467,837 @@
         },
         "chapter": {
           "en": "Chapter VII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0311'] = {
+    "lawId": "CN-REG-0311",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 70 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Measures are formulated in accordance with the Constitution in order to strengthen social assistance, guarantee the basic living of citizens, promote social fairness and maintain social harmony and stability."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The social assistance system shall adhere to the principles of providing a basic safety net, relieving urgent difficulties and being sustainable, shall be linked with other social security systems, and the level of social assistance shall be commensurate with the level of economic and social development.\nThe work of social assistance shall follow the principles of openness, fairness, impartiality and timeliness."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The civil affairs department of the State Council shall coordinate the development of the social assistance system throughout the country. The civil affairs, emergency management, health, education, housing and urban-rural development, human resources and social security, medical security and other departments of the State Council shall be responsible for the corresponding social assistance administration work in accordance with their respective duties.\nThe civil affairs, emergency management, health, education, housing and urban-rural development, human resources and social security, medical security and other departments of local people's governments at or above the county level shall be responsible for the corresponding social assistance administration work within their respective administrative areas in accordance with their respective duties.\nThe administrative departments listed in the preceding two paragraphs are collectively referred to as the social assistance administration departments."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Township people's governments and sub-district offices shall be responsible for accepting applications for social assistance and for investigation and examination; the specific work shall be undertaken by the social assistance handling agencies or handling personnel.\nVillagers' committees and residents' committees shall assist in the work of social assistance."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "People's governments at or above the county level shall incorporate social assistance into their plans for national economic and social development, establish and improve the coordination mechanism for social assistance work under the leadership of the government, with the civil affairs department taking the lead, the relevant departments cooperating and social forces participating, improve the mechanism for guaranteeing funds and materials for social assistance, and include the social assistance funds arranged by the government and the operating funds for social assistance work in the fiscal budget.\nSocial assistance funds shall be subject to special management, separate accounting and earmarked use, and no unit or individual may misappropriate or divert them. Payment of social assistance funds shall be made in accordance with the relevant provisions on treasury management of public finance."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "People's governments at or above the county level shall, in accordance with the unified plan of the State, establish social assistance management information systems so as to achieve interconnection and sharing of social assistance information."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The State encourages and supports social forces to participate in social assistance."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Units and individuals that make outstanding achievements in social assistance work shall be commended and rewarded in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The State shall provide minimum living guarantee to families whose per capita income of members living together is lower than the local minimum living guarantee standard and that meet the provisions of the locality on the property status of minimum living guarantee families."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Minimum Living Guarantee"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The minimum living guarantee standard shall be determined and announced by the people's government of the province, autonomous region or municipality directly under the Central Government or of a city with districts in accordance with the expenses necessary for the living of local residents, and shall be adjusted in good time in light of the local level of economic and social development and changes in prices.\nThe measures for determining the income status and property status of minimum living guarantee families shall be formulated by the people's government of the province, autonomous region or municipality directly under the Central Government or of a city with districts in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Minimum Living Guarantee"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "An application for minimum living guarantee shall be handled in accordance with the following procedures:\n(a) a member of the family living together shall submit a written application to the township people's government or sub-district office at the place of household registration; where family members have difficulty in applying, they may entrust the villagers' committee or residents' committee to submit the application on their behalf;\n(b) the township people's government or sub-district office shall, through household visits, neighbourhood interviews, correspondence for verification, public appraisal by the masses, information verification and other means, investigate and verify the family income status and property status of the applicant, put forward preliminary examination opinions and, after making them public in the village or community where the applicant resides, report them to the civil affairs department of the county-level people's government for approval;\n(c) the civil affairs department of the county-level people's government shall, after examination, approve applications that meet the conditions and announce them in the village or community where the applicant resides; it shall not approve applications that do not meet the conditions and shall state the reasons in writing to the applicant."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Minimum Living Guarantee"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "For families approved to receive minimum living guarantee, the civil affairs department of the county-level people's government shall pay the minimum living guarantee allowance monthly in the amount of the difference between the per capita income of the family members living together and the local minimum living guarantee standard.\nFor elderly persons, minors, persons with severe disabilities and persons with serious illnesses who still have difficulties in living after receiving minimum living guarantee, local people's governments at or above the county level shall take necessary measures to guarantee their living."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Minimum Living Guarantee"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where the household composition, income status or property status of a minimum living guarantee family changes, the family shall promptly inform the township people's government or sub-district office.\nThe civil affairs department of the county-level people's government and the township people's governments and sub-district offices shall regularly verify the household composition, income status and property status of families receiving minimum living guarantee.\nWhere the household composition, income status or property status of a minimum living guarantee family changes, the civil affairs department of the county-level people's government shall promptly decide to increase, reduce or suspend the minimum living guarantee allowance; where it decides to suspend the allowance, it shall state the reasons in writing."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Minimum Living Guarantee"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The State shall provide for persons in extreme poverty, namely elderly persons, persons with disabilities and minors under 16 years of age who have no capacity for work, no source of living and no statutory obligor for support, maintenance or upbringing, or whose statutory obligor for support, maintenance or upbringing has no capacity to support, maintain or bring them up."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter III Provision for Persons in Extreme Poverty"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The provision for persons in extreme poverty shall include:\n(a) providing basic living conditions;\n(b) providing care to those who are unable to take care of themselves;\n(c) providing medical treatment for illnesses;\n(d) handling funeral matters.\nThe standard for the provision for persons in extreme poverty shall be determined and announced by the people's government of the province, autonomous region or municipality directly under the Central Government or of a city with districts.\nThe provision for persons in extreme poverty shall be linked with the systems of basic old-age insurance for urban and rural residents, basic medical security, minimum living guarantee and basic living guarantee for orphans."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Provision for Persons in Extreme Poverty"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "To apply for provision for persons in extreme poverty, the person shall submit a written application to the township people's government or sub-district office at the place of household registration; where the person has difficulty in applying, he may entrust the villagers' committee or residents' committee to submit the application on his behalf.\nThe approval procedures for the provision for persons in extreme poverty shall be governed by the provisions of Article 11 of these Measures."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Provision for Persons in Extreme Poverty"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Township people's governments and sub-district offices shall promptly ascertain and keep informed of the living conditions of residents and, upon discovering persons who meet the conditions for provision for persons in extreme poverty, shall take the initiative to arrange such provision for them in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Provision for Persons in Extreme Poverty"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where a person receiving provision for persons in extreme poverty no longer meets the conditions for such provision, the villagers' committee, residents' committee or provision service institution shall inform the township people's government or sub-district office, which shall examine the matter and, after reporting it to the civil affairs department of the county-level people's government for verification and approval, terminate the provision and make the termination public."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Provision for Persons in Extreme Poverty"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Persons receiving provision for persons in extreme poverty may receive centralised provision in local provision service institutions or decentralised provision at home. Such persons may choose the form of provision themselves."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Provision for Persons in Extreme Poverty"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The State shall establish and improve the natural disaster assistance system and provide living assistance to persons whose basic living is seriously affected by natural disasters.\nNatural disaster assistance shall be subject to territorial management and responsibility at different levels."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter IV Assistance to Disaster-Affected Persons"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "People's governments at or above the level of cities with districts and the county-level people's governments of areas where natural disasters occur frequently or are likely to occur shall, in light of the characteristics of natural disasters and the size and distribution of the resident population, establish reserve warehouses for natural disaster assistance materials so as to guarantee the emergency supply of assistance materials after natural disasters occur."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter IV Assistance to Disaster-Affected Persons"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "After a natural disaster occurs, the people's government at or above the county level or the comprehensive emergency coordination body for natural disaster assistance of the people's government shall, in light of the circumstances, urgently evacuate, relocate and resettle the affected persons and promptly provide them with necessary emergency assistance such as food, drinking water, clothing and bedding, heating, temporary shelter, medical treatment and epidemic prevention."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter IV Assistance to Disaster-Affected Persons"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "After the disaster situation becomes stable, the people's government at or above the county level in the disaster-affected area shall assess, verify and publish the losses caused by the natural disaster."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter IV Assistance to Disaster-Affected Persons"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The people's government of the disaster-affected area shall, on the premise of ensuring safety, provide transitional resettlement for affected persons whose housing has been seriously damaged."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter IV Assistance to Disaster-Affected Persons"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "After the danger of the natural disaster has been eliminated, the emergency management and other departments of the people's government of the disaster-affected area shall promptly verify the persons within their administrative area who are eligible for subsidies for the restoration and reconstruction of housing and shall provide them with funds, materials and other assistance."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter IV Assistance to Disaster-Affected Persons"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "After a natural disaster occurs, the people's government of the disaster-affected area shall provide basic living assistance to affected persons who encounter difficulties in living because of the cold of the winter of that year or the spring famine of the following year."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Assistance to Disaster-Affected Persons"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The State shall establish and improve the medical assistance system and ensure that persons eligible for medical assistance obtain basic medical and health services."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter V Medical Assistance"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The following persons may apply for the relevant medical assistance:\n(a) members of minimum living guarantee families;\n(b) persons receiving provision for persons in extreme poverty;\n(c) other persons with special difficulties prescribed by the people's government at or above the county level."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter V Medical Assistance"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Medical assistance shall take the following forms:\n(a) subsidising the portion of individual contributions paid by persons eligible for assistance for participating in the basic medical insurance for urban residents or the new-type rural cooperative medical care;\n(b) granting subsidies to persons eligible for assistance for the prescribed out-of-pocket basic medical expenses that the individuals and their families find difficult to bear after payment by basic medical insurance, critical illness insurance and other supplementary medical insurance.\nThe standard for medical assistance shall be determined and announced by the people's government at or above the county level in accordance with the level of economic and social development and the situation of medical assistance funds."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter V Medical Assistance"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "An application for medical assistance shall be submitted to the township people's government or sub-district office and, after examination and public announcement, shall be approved by the medical security department of the county-level people's government. Medical assistance for members of minimum living guarantee families and persons receiving provision for persons in extreme poverty shall be handled directly by the medical security department of the county-level people's government."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter V Medical Assistance"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "People's governments at or above the county level shall establish and improve the mechanism for settling medical expenses that links medical assistance with basic medical insurance and critical illness insurance, so as to provide convenient services to persons eligible for medical assistance."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter V Medical Assistance"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The State shall establish an emergency medical assistance system to provide assistance to patients with acute, severe or critical injuries or illnesses who need emergency treatment but whose identity is unknown or who are unable to pay the emergency treatment expenses. The prescribed emergency treatment expenses shall be paid from the emergency medical assistance fund.\nThe emergency medical assistance system shall be linked with other medical security systems."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter V Medical Assistance"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The State shall provide education assistance to members of minimum living guarantee families and persons receiving provision for persons in extreme poverty who are studying at the stage of compulsory education.\nAppropriate education assistance shall be provided, in light of actual circumstances, to members of minimum living guarantee families and persons receiving provision for persons in extreme poverty who are studying at the stages of senior secondary education (including secondary vocational education) and ordinary higher education, and to children with disabilities who are unable to attend school to receive compulsory education."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter VI Education Assistance"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Education assistance shall, in accordance with the needs of different stages of education, be implemented by reducing or waiving the relevant fees, granting scholarships or grants, providing living allowances and arranging work-study programmes, so as to guarantee the basic study and living needs of persons eligible for education assistance."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter VI Education Assistance"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The standard for education assistance shall be determined and announced by the people's government of the province, autonomous region or municipality directly under the Central Government in accordance with the level of economic and social development and the basic study and living needs of persons eligible for education assistance."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter VI Education Assistance"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "An application for education assistance shall be submitted to the school being attended in accordance with the relevant provisions of the State and, after examination and confirmation in accordance with the prescribed procedures, shall be implemented by the school in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter VI Education Assistance"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The State shall provide housing assistance to minimum living guarantee families with housing difficulties and to persons in extreme poverty receiving decentralised provision who meet the prescribed standards."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter VII Housing Assistance"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Housing assistance shall be implemented by allocating public rental housing, granting housing rental subsidies, renovating dilapidated rural housing and other means."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter VII Housing Assistance"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The standards for housing difficulties and for assistance shall be determined and announced by local people's governments at or above the county level in accordance with the level of economic and social development, the level of housing prices and other factors in their respective administrative areas."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter VII Housing Assistance"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where an urban family applies for housing assistance, the application shall be submitted through the township people's government or sub-district office or directly to the housing security department of the county-level people's government; after the civil affairs department of the county-level people's government has examined the family's income and property status and the housing security department of the county-level people's government has examined the family's housing situation and made the result public, the housing security department of the county-level people's government shall give priority to providing security to applicants who meet the conditions for application.\nWhere a rural family applies for housing assistance, the relevant provisions of the people's government at or above the county level shall apply."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter VII Housing Assistance"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "People's governments at all levels shall, in accordance with the provisions of the State, provide guarantees for the implementation of housing assistance through fiscal input, land supply and other measures."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter VII Housing Assistance"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The State shall provide employment assistance, through interest subsidies on loans, social insurance subsidies, job subsidies, training subsidies, fee reductions or exemptions and placement in public welfare posts, to members of minimum living guarantee families who have the capacity for work and are unemployed."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VIII Employment Assistance"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where all members of a minimum living guarantee family who have the capacity for work are unemployed, the local people's government at or above the county level shall take targeted measures to ensure that at least one member of the family is employed."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VIII Employment Assistance"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "An application for employment assistance shall be submitted to the public employment service institution of the sub-district or community where the applicant resides; the public employment service institution shall register the applicant after verification and shall provide free employment services such as information on job vacancies, job referral and vocational guidance."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VIII Employment Assistance"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Members of a minimum living guarantee family who have the capacity for work but are not employed shall accept jobs introduced by the human resources and social security and other relevant departments; where, without justified reason, they refuse three consecutive times to accept jobs introduced that are suited to their state of health and capacity for work, the civil affairs department of the county-level people's government shall decide to reduce or suspend the minimum living guarantee allowance for them."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VIII Employment Assistance"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Employing units that take on persons eligible for employment assistance shall, in accordance with the relevant provisions of the State, enjoy employment support policies such as social insurance subsidies, tax preferences and small-sum guaranteed loans."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VIII Employment Assistance"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "The State shall provide temporary assistance to families whose basic living is temporarily in serious difficulty due to accidents such as fires or traffic accidents or to a member's sudden serious illness, to minimum living guarantee families whose basic living is temporarily in serious difficulty because necessary living expenses have suddenly increased beyond what the family can bear, and to families encountering other special difficulties."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter IX Temporary Assistance"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "An application for temporary assistance shall be submitted to the township people's government or sub-district office and, after examination and public announcement, shall be approved by the civil affairs department of the county-level people's government; where the amount of assistance is small, the civil affairs department of the county-level people's government may entrust the township people's government or sub-district office with the approval. In urgent circumstances, the approval procedures may be simplified in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter IX Temporary Assistance"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "The specific items and standards of temporary assistance shall be determined and announced by local people's governments at or above the county level."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter IX Temporary Assistance"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "The State shall provide assistance such as temporary food and shelter, emergency medical treatment and help in returning home to vagrants and beggars who have no means of livelihood."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter IX Temporary Assistance"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where the staff of public security organs and other relevant administrative organs discover vagrants or beggars in the performance of official duties, they shall inform them to seek help from the assistance administration institution. Persons with disabilities, minors, elderly persons and other persons with limited mobility among them shall be guided or escorted to the assistance administration institution; and in the case of persons with sudden acute illnesses, the emergency medical institution shall be notified immediately to provide treatment."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter IX Temporary Assistance"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "The State encourages units, individuals and other social forces to participate in social assistance by means of donation, establishment of assistance projects, establishment of service institutions and provision of voluntary services."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter X Participation of Social Forces"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Social forces participating in social assistance shall, in accordance with the relevant provisions of the State, enjoy policies such as fiscal subsidies, tax preferences and fee reductions or exemptions."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter X Participation of Social Forces"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Local people's governments at or above the county level may purchase services from social forces by means of entrustment, contracting, procurement and other methods in respect of the specific service items in social assistance."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter X Participation of Social Forces"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Local people's governments at or above the county level shall give play to the role of social work service institutions and social workers in providing persons eligible for social assistance with professional services such as social integration, capacity building and psychological counselling."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter X Participation of Social Forces"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "The social assistance administration departments and the institutions concerned shall establish mechanisms and channels for social forces to participate in social assistance, provide information on social assistance projects and needs, and create conditions and provide convenience for social forces to participate in social assistance."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter X Participation of Social Forces"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "People's governments at or above the county level and their social assistance administration departments shall strengthen supervision and inspection of social assistance work and improve the relevant supervision and management systems."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter XI Supervision and Administration"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Families applying for or having obtained social assistance shall truthfully declare their family income status and property status in accordance with the provisions.\nThe civil affairs departments of people's governments at or above the county level may, upon the request or entrustment of families applying for or having obtained social assistance, inquire into and verify their family income status and property status through units responsible for household registration, taxation, social insurance, immovable property registration, business registration, housing provident fund management, vehicle and vessel management and through banking, insurance, securities and other financial institutions; the units and financial institutions concerned shall cooperate.\nThe civil affairs departments of people's governments at or above the county level shall establish a platform for verifying information on the economic status of families applying for or having obtained social assistance, so as to provide a basis for examining and determining the recipients of social assistance."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter XI Supervision and Administration"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "The social assistance administration departments of people's governments at or above the county level and the township people's governments and sub-district offices may, in the course of performing their social assistance duties, consult, record and copy materials related to social assistance matters, make inquiries of units and individuals related to social assistance matters and require them to explain the relevant circumstances and provide the relevant supporting materials. The units and individuals concerned shall provide them truthfully."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter XI Supervision and Administration"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "An application for social assistance shall be submitted in accordance with the provisions of these Measures; where an applicant has difficulty in determining the competent social assistance administration department, he may first seek help from a social assistance handling agency or from the civil affairs department of the county-level people's government. The social assistance handling agency or the civil affairs department of the county-level people's government shall, upon receiving the request for help, handle the matter promptly or refer it to another social assistance administration department for handling.\nTownship people's governments and sub-district offices shall establish a unified window for accepting applications for social assistance and shall accept and refer applications promptly."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter XI Supervision and Administration"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Staff performing social assistance duties shall keep confidential the personal information of citizens that they learn of in social assistance work, except for the information that shall be made public in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter XI Supervision and Administration"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "People's governments at or above the county level and their social assistance administration departments shall publicise the laws, regulations and policies on social assistance through newspapers and periodicals, radio, television, the internet and other media.\nCounty-level people's governments and their social assistance administration departments shall, through public reading rooms, material supply points, information bulletin boards and other channels convenient for the public to learn of, promptly make public the management and use of social assistance funds and materials and accept public supervision."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter XI Supervision and Administration"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Staff performing social assistance duties shall, in exercising their functions and powers, accept public supervision.\nAny unit or individual has the right to report or complain about illegal acts committed in social assistance work by staff performing social assistance duties. The organ accepting the report or complaint shall promptly verify and handle it."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter XI Supervision and Administration"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "The finance departments and audit institutions of people's governments at or above the county level shall, in accordance with law, supervise the raising, allocation, management and use of social assistance funds and materials."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter XI Supervision and Administration"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Where a family or person applying for or having obtained social assistance is dissatisfied with a specific administrative act taken by a social assistance administration department, it may apply for administrative reconsideration or bring an administrative action in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter XI Supervision and Administration"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Where any of the following circumstances occurs in violation of the provisions of these Measures, the administrative organ at the higher level or the supervisory organ shall order correction; and sanctions shall be imposed in accordance with law on the persons in charge who are directly responsible and other persons who are directly responsible:\n(a) refusing to accept an application for assistance that meets the conditions for application;\n(b) refusing to approve an application for assistance that meets the conditions for assistance;\n(c) approving an application for assistance that does not meet the conditions for assistance;\n(d) disclosing personal information of citizens learned of in the course of work, thereby causing consequences;\n(e) losing or tampering with data such as records of funds, materials and services received as social assistance;\n(f) failing to pay out social assistance funds or materials or to provide the relevant services in accordance with the provisions;\n(g) committing other acts of abusing functions and powers, neglecting duties or engaging in malpractices for personal gain in the course of performing social assistance duties."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter XII Legal Liability"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Where social assistance funds or materials are withheld, misappropriated, diverted or privately distributed in violation of the provisions of these Measures, the relevant departments shall order their recovery; where there are illegal gains, the illegal gains shall be confiscated; and sanctions shall be imposed in accordance with law on the persons in charge who are directly responsible and other persons who are directly responsible."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter XII Legal Liability"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "Whoever obtains social assistance funds, materials or services by fraudulent means such as false declaration, concealment or forgery shall have the social assistance terminated by decision of the relevant department and shall be ordered to return the illegally obtained assistance funds and materials, and may be fined not less than one time and not more than three times the amount of the illegally obtained assistance funds or the value of the materials; where the act constitutes a violation of public security administration, penalties for administration of public security shall be imposed in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter XII Legal Liability"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "Where an act in violation of the provisions of these Measures constitutes a crime, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter XII Legal Liability"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "These Measures shall come into force on 1 May 2014."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter XIII Supplementary Provisions"
         }
       }
     ]
@@ -23453,6 +26117,831 @@
     ]
   };
 
+  TR['CN-REG-0326'] = {
+    "lawId": "CN-REG-0326",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 70 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Regulation is formulated in accordance with the provisions of the Law on the Prevention and Control of Occupational Diseases and other relevant laws and administrative regulations in order to ensure the safe use of toxic substances in workplaces, to prevent, control and eliminate occupational poisoning hazards and to protect the life safety, physical health and related rights and interests of workers."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "This Regulation applies to labour protection in respect of the use of toxic substances in workplaces that may give rise to occupational poisoning hazards."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "According to the degree of occupational poisoning hazard caused by toxic substances, toxic substances are divided into ordinary toxic substances and highly toxic substances. The State applies special administration to the use of highly toxic substances in workplaces.\nThe catalogue of ordinary toxic substances and the catalogue of highly toxic substances shall be formulated, adjusted and announced by the health administration department of the State Council together with the relevant departments on the basis of national standards."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Employing units engaged in operations involving the use of toxic substances (hereinafter referred to as employing units) shall use toxic substances that conform to national standards, and may not use in workplaces toxic substances whose use is expressly prohibited by the State or toxic substances that do not conform to national standards.\nEmploying units shall use non-toxic substances wherever possible; where toxic substances need to be used, priority shall be given to the use of substances of low toxicity."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Employing units shall, in accordance with the provisions of this Regulation and other relevant laws and administrative regulations, adopt effective protective measures to prevent the occurrence of occupational poisoning accidents, participate in work-related injury insurance in accordance with law and guarantee the life safety and physical health of workers."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The State encourages the research, development, popularisation and application of new technologies, new processes and new materials conducive to preventing, controlling and eliminating occupational poisoning hazards and protecting the health of workers; restricts the use of or eliminates technologies, processes and materials that cause serious occupational poisoning hazards; strengthens basic research on the mechanisms and patterns of occurrence of the relevant occupational diseases; and raises the scientific and technological level of the prevention and control of the relevant occupational diseases."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The use of child labour is prohibited.\nEmploying units may not assign minors or female staff and workers who are pregnant or breastfeeding to operations involving the use of toxic substances."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Trade union organisations shall urge and assist employing units in carrying out publicity, education and training on occupational health, put forward opinions and suggestions on the occupational health work of employing units, and coordinate with employing units on the problems of prevention and control of occupational diseases reported by workers and urge their resolution.\nTrade union organisations have the right to demand correction of acts of employing units that violate laws and regulations and infringe upon the lawful rights and interests of workers; where serious occupational poisoning hazards arise, they have the right to demand that employing units adopt protective measures or to propose to the relevant government departments the adoption of compulsory measures; where an occupational poisoning accident occurs, they have the right to participate in the investigation and handling of the accident; and where circumstances endangering the life and health of workers are discovered, they have the right to propose that employing units organise the evacuation of workers from the dangerous site, and employing units shall immediately take action."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The health administration, disease prevention and control departments and other relevant administrative departments of people's governments at or above the county level shall, in accordance with their respective duties, supervise employing units in strictly observing the provisions of this Regulation and other relevant laws and regulations, strengthen labour protection in respect of the use of toxic substances in workplaces, prevent the occurrence of occupational poisoning accidents and ensure the rights enjoyed by workers in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "People's governments at all levels shall strengthen leadership over occupational health safety and related labour protection work in workplaces where toxic substances are used, urge and support the health administration, disease prevention and control departments and other relevant administrative departments in performing their duties of supervision and inspection in accordance with law, and promptly coordinate and resolve the major problems involved; where an occupational poisoning accident occurs, they shall adopt effective measures to control the spread of the hazard of the accident and eliminate it, and shall properly handle the aftermath."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The establishment of an employing unit shall conform to the conditions for establishment prescribed by the relevant laws and administrative regulations, and the unit shall complete the relevant formalities in accordance with law and obtain a business licence.\nIn addition to conforming to the occupational health requirements prescribed by the Law on the Prevention and Control of Occupational Diseases, the workplaces where an employing unit uses toxic substances must also meet the following requirements:\n(a) the workplace is separated from living quarters, and no persons may live in the workplace;\n(b) hazardous operations are separated from non-hazardous operations, and highly toxic operations are isolated from other operations;\n(c) effective ventilation devices are installed; and in workplaces where large quantities of toxic substances may suddenly leak or where acute poisoning is likely to occur, automatic alarm devices and accident ventilation facilities are installed;\n(d) highly toxic workplaces are provided with emergency evacuation routes and the necessary hazard relief areas."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Preventive Measures in Workplaces"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Workplaces where toxic substances are used shall be provided with yellow warning lines, warning signs and warning instructions in Chinese. The warning instructions shall state the types and consequences of the occupational poisoning hazards, the preventive measures and the emergency rescue measures.\nHighly toxic workplaces shall be provided with red warning lines, warning signs and warning instructions in Chinese, and shall be equipped with communication and alarm equipment."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Preventive Measures in Workplaces"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where new construction, expansion or reconstruction projects and technical transformation or technical introduction projects (hereinafter collectively referred to as construction projects) may give rise to occupational poisoning hazards, a pre-assessment of occupational poisoning hazards shall be carried out in accordance with the provisions of the Law on the Prevention and Control of Occupational Diseases; the occupational poisoning hazard protection facilities of a construction project that may give rise to occupational poisoning hazards shall be designed, constructed and put into production and use at the same time as the principal works; before the completion acceptance of a construction project, an assessment of the effectiveness of the control of occupational poisoning hazards shall be carried out; and the occupational poisoning hazard protection facilities of the construction project may be put into production and use only after they have been organised for acceptance in accordance with law and have passed.\nThe design of the occupational poisoning hazard protection facilities of a construction project that may give rise to occupational poisoning hazards shall conform to the national occupational health standards and health requirements."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Preventive Measures in Workplaces"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Employing units shall, in accordance with the provisions of the health administration department of the State Council, promptly and truthfully declare to the health administration department the projects in which occupational poisoning hazards exist.\nEmploying units engaged in operations involving the use of highly toxic substances shall, when declaring projects involving the use of highly toxic substances, submit the following materials to the health administration department:\n(a) the report on the assessment of the effectiveness of the control of occupational poisoning hazards;\n(b) materials such as the occupational health management system and operating rules;\n(c) the emergency rescue plan for occupational poisoning accidents.\nWhere an employing unit engaged in operations involving the use of highly toxic substances changes the variety of highly toxic substances used, it shall re-declare to the health administration department that originally accepted the declaration in accordance with the provisions of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Preventive Measures in Workplaces"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where an employing unit changes its name, legal representative or person in charge, it shall file the change with the health administration department that originally accepted the declaration for the record."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Preventive Measures in Workplaces"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Employing units engaged in operations involving the use of highly toxic substances shall be equipped with emergency rescue personnel and the necessary emergency rescue equipment and devices, formulate emergency rescue plans for accidents, revise those plans in good time in light of changes in actual circumstances and organise drills on a regular basis. The emergency rescue plans for accidents and the drill records shall be submitted to the local health administration department, emergency management department and public security department for the record."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Preventive Measures in Workplaces"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Employing units shall, in accordance with the relevant provisions of the Law on the Prevention and Control of Occupational Diseases, adopt effective occupational health protection and management measures and strengthen protection and management in the course of labour.\nEmploying units engaged in operations involving the use of highly toxic substances shall be staffed with full-time or part-time occupational health physicians and nurses; where they do not have the conditions to be so staffed, they shall conclude a contract with an occupational health technical service institution that has obtained qualification certification in accordance with law, which shall provide them with occupational health services."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Protection in the Course of Labour"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Employing units shall conclude labour contracts with workers, truthfully inform the workers of the occupational poisoning hazards that may arise in the course of work and their consequences, the occupational poisoning hazard protection measures and the benefits, and state these in the labour contracts, and may not conceal or deceive.\nWhere, during the term of a concluded labour contract, a worker is assigned to operations involving occupational poisoning hazards not disclosed in the labour contract because of a change in post or work content, the employing unit shall, in accordance with the provisions of the preceding paragraph, truthfully inform the worker and negotiate with him on amending the relevant clauses of the original labour contract.\nWhere an employing unit violates the provisions of the preceding two paragraphs, the worker has the right to refuse to engage in operations involving occupational poisoning hazards, and the employing unit may not unilaterally rescind or terminate the labour contract concluded with the worker on that ground."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Protection in the Course of Labour"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The relevant managerial personnel of employing units shall be familiar with the laws and regulations on the prevention and control of occupational diseases and with the knowledge required to ensure the safe use of toxic substances by workers.\nEmploying units shall provide workers with pre-job occupational health training and regular in-service occupational health training, popularise the relevant occupational health knowledge, urge workers to observe the relevant laws, regulations and operating rules and guide workers in the correct use of occupational poisoning hazard protection equipment and personal occupational poisoning hazard protection articles.\nWorkers may take up their posts only after passing the training assessment."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Protection in the Course of Labour"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Employing units shall ensure that occupational poisoning hazard protection equipment, emergency rescue facilities and communication and alarm devices are in a normal working state, and may not dismantle them or stop their operation without authorisation.\nEmploying units shall frequently maintain and service the facilities listed in the preceding paragraph, regularly test their performance and effectiveness and ensure that they are in good working order.\nWhere occupational poisoning hazard protection equipment, emergency rescue facilities or communication and alarm devices are not in a normal state, the employing unit shall immediately stop operations involving the use of toxic substances; operations may resume only after the normal state has been restored."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Protection in the Course of Labour"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Employing units shall provide workers engaged in operations involving the use of toxic substances with protection articles conforming to national occupational health standards and shall ensure that the workers use them correctly."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Protection in the Course of Labour"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Toxic substances must be accompanied by instructions that truthfully state the characteristics of the product, the main components, the occupational poisoning hazard factors present, the possible harmful consequences, the precautions for safe use, the occupational poisoning hazard protection measures and the emergency rescue measures; toxic substances without instructions or with instructions that do not meet the requirements may not be sold to employing units.\nEmploying units have the right to request instructions from the units that produce or deal in toxic substances."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Protection in the Course of Labour"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The packaging of toxic substances shall conform to national standards, and safety labels for toxic substances shall be affixed or attached in a manner that is easy for workers to understand. The packaging of toxic substances must bear conspicuous warning signs and warning instructions in Chinese.\nUnits that deal in or use toxic substances may not deal in or use toxic substances that have no safety labels, warning signs or warning instructions in Chinese."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Protection in the Course of Labour"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Where an employing unit maintains or services production installations in which highly toxic substances exist, it must formulate a maintenance and servicing plan in advance, specify the occupational poisoning hazard protection measures and ensure the life safety and physical health of the maintenance and servicing personnel.\nThe maintenance and servicing of production installations in which highly toxic substances exist must be carried out strictly in accordance with the maintenance and servicing plan and the operating rules. A specially assigned person shall be present to supervise the maintenance and servicing site, and warning marks shall be set up."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Protection in the Course of Labour"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Where it is necessary to enter equipment, containers or narrow enclosed places in which highly toxic substances exist to carry out operations, the employing unit shall take the following measures in advance:\n(a) maintaining good ventilation in the workplace and ensuring that the concentration of occupational poisoning hazard factors in the workplace conforms to national occupational health standards;\n(b) providing workers with protection articles conforming to national occupational health standards;\n(c) assigning on-site supervisors and providing on-site rescue equipment.\nWhere the measures prescribed in the preceding paragraph have not been taken or the measures taken do not meet the requirements, the employing unit may not assign workers to enter equipment, containers or narrow enclosed places in which highly toxic substances exist to carry out operations."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Protection in the Course of Labour"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Employing units shall, in accordance with the provisions of the health administration department of the State Council, regularly test and assess the occupational poisoning hazard factors in workplaces where toxic substances are used. The test and assessment results shall be kept in the occupational health files of the employing unit, reported periodically to the local health administration department and published to the workers.\nEmploying units engaged in operations involving the use of highly toxic substances shall test the occupational poisoning hazard factors in highly toxic workplaces at least once every month and shall assess the effectiveness of the control of occupational poisoning hazards at least once every six months.\nWhere the occupational poisoning hazard factors in a highly toxic workplace do not conform to national occupational health standards and health requirements, the employing unit must immediately stop the highly toxic operations and adopt corresponding treatment measures; operations may resume only after the occupational poisoning hazard factors conform to national occupational health standards and health requirements following treatment."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Protection in the Course of Labour"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Employing units engaged in operations involving the use of highly toxic substances shall provide shower rooms and changing rooms and shall provide special rooms for washing, storing or treating the work clothes, work shoes, hats and other articles of workers engaged in operations involving the use of highly toxic substances.\nWhen workers finish their operations, the work clothes, work shoes, hats and other articles they have used must be kept within the highly toxic operation area and may not be worn into non-highly-toxic operation areas."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Protection in the Course of Labour"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Employing units shall, in accordance with the provisions, rotate the posts of workers engaged in operations involving the use of highly toxic substances.\nEmploying units shall provide post allowances to workers engaged in operations involving the use of highly toxic substances."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Protection in the Course of Labour"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Where an employing unit changes its line of production, suspends production or business, closes down, dissolves or becomes bankrupt, it shall adopt effective measures to properly dispose of equipment, packaging materials and containers in which toxic substances remain or are left over."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Protection in the Course of Labour"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Employing units shall conduct regular supervision and inspection of their own implementation of the provisions of this Regulation; where problems are found, they shall promptly deal with them in accordance with the requirements prescribed in this Regulation."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Protection in the Course of Labour"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Employing units shall organise pre-job occupational health examinations for workers engaged in operations involving the use of toxic substances.\nEmploying units may not assign workers who have not undergone pre-job occupational health examinations to operations involving the use of toxic substances, and may not assign workers with occupational contraindications to the operations contraindicated for them."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Occupational Health Surveillance"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Employing units shall conduct regular occupational health examinations for workers engaged in operations involving the use of toxic substances.\nWhere an employing unit finds a worker with an occupational contraindication or with health damage related to the occupation in which he is engaged, it shall promptly transfer him from his original post and make proper arrangements for him.\nFor workers requiring re-examination and medical observation, the employing unit shall arrange re-examination and medical observation in accordance with the requirements of the physical examination institution."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Occupational Health Surveillance"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Employing units shall conduct occupational health examinations for workers engaged in operations involving the use of toxic substances at the time they leave their posts; an employing unit may not rescind or terminate the labour contract concluded with a worker who has not undergone an occupational health examination at the time of leaving his post.\nWhere an employing unit is divided, merged, dissolved, declared bankrupt or in similar circumstances, it shall conduct health examinations for workers engaged in operations involving the use of toxic substances and shall make proper arrangements for patients with occupational diseases in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Occupational Health Surveillance"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "For workers who have suffered or may suffer acute occupational poisoning hazards, employing units shall promptly organise health examinations and medical observation."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Occupational Health Surveillance"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The expenses of occupational health examinations and medical observation for workers shall be borne by the employing units."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Occupational Health Surveillance"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Employing units shall establish occupational health surveillance files.\nThe occupational health surveillance files shall include the following:\n(a) the occupational history of the worker and his history of exposure to occupational poisoning hazards;\n(b) the monitoring results of occupational poisoning hazard factors in the corresponding workplace;\n(c) the results of occupational health examinations and the handling thereof;\n(d) health data of the worker such as the diagnosis and treatment of occupational diseases."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Occupational Health Surveillance"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Where circumstances endangering life safety or physical health exist, workers engaged in operations involving the use of toxic substances have the right to notify the employing unit and to evacuate from the dangerous site caused by the use of toxic substances.\nEmploying units may not, on the ground that a worker exercises his rights in accordance with the provisions of the preceding paragraph, cancel or reduce the wages and welfare benefits the worker enjoys during normal work."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter V Rights and Obligations of Workers"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Workers shall enjoy the following rights of occupational health protection:\n(a) to receive occupational health education and training;\n(b) to receive occupational health examinations, diagnosis and treatment of occupational diseases, rehabilitation and other services for the prevention and control of occupational diseases;\n(c) to learn about the occupational poisoning hazard factors present or likely to be present in the workplace, the harmful consequences and the occupational poisoning hazard protection measures that should be taken;\n(d) to require the employing unit to provide occupational poisoning hazard protection facilities meeting the requirements for the prevention and control of occupational diseases and personal occupational poisoning hazard protection articles, and to improve working conditions;\n(e) to criticise, report and complain about acts that violate the laws and regulations on the prevention and control of occupational diseases and endanger life and health;\n(f) to refuse to obey instructions given in violation of rules and regulations and to refuse to carry out operations forced upon them that have no occupational poisoning hazard protection measures;\n(g) to participate in the democratic management of the occupational health work of the employing unit and to put forward opinions and suggestions on the prevention and control of occupational diseases.\nEmploying units shall guarantee the exercise by workers of the rights listed in the preceding paragraph. It is prohibited to reduce the wages, welfare benefits and other benefits of workers, or to rescind or terminate the labour contracts concluded with them, on the ground that they exercise their legitimate rights in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V Rights and Obligations of Workers"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Workers have the right to obtain the following materials from employing units before formally taking up their posts:\n(a) information on the characteristics of the toxic substances used in the workplace, their harmful components, preventive measures and education and training materials;\n(b) labels and signs of toxic substances and the related materials;\n(c) instructions for the safe use of toxic substances;\n(d) other relevant materials that may affect the safe use of toxic substances."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V Rights and Obligations of Workers"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Workers have the right to consult and photocopy their own occupational health surveillance files.\nWhen workers leave the employing unit, they have the right to obtain photocopies of their own health surveillance files; the employing unit shall provide them truthfully and free of charge and shall sign and seal the photocopies provided."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter V Rights and Obligations of Workers"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where an employing unit participates in work-related injury insurance in accordance with State provisions, a worker suffering from an occupational disease shall have the right to enjoy the following work-related injury insurance benefits in accordance with the State provisions on work-related injury insurance:\n(a) medical expenses: the expenses required for diagnosis and treatment of the occupational disease shall be paid from the work-related injury insurance fund in accordance with the prescribed standards;\n(b) hospital food allowance: to be paid by the employing unit at a certain proportion of the local food allowance standard for official business trips;\n(c) rehabilitation expenses: to be paid from the work-related injury insurance fund in accordance with the prescribed standards;\n(d) expenses for disability appliances: where assistive devices are required because of disability, the expenses shall be paid from the work-related injury insurance fund in accordance with the standards for popular-model assistive devices;\n(e) benefits during the period of suspension of work with pay: the original wages and welfare benefits remain unchanged and shall be paid by the employing unit;\n(f) living care subsidy: where disability is assessed and the need for living care is confirmed, the living care subsidy shall be paid from the work-related injury insurance fund in accordance with the prescribed standards;\n(g) lump-sum disability subsidy: where disability of grade 10 to grade 1 is determined, a lump-sum disability subsidy equivalent to 6 to 24 months of the worker's own wages shall be enjoyed according to the grade of disability and shall be paid from the work-related injury insurance fund;\n(h) disability allowance: where disability of grade 4 to grade 1 is determined, a disability allowance equivalent to 75 per cent to 90 per cent of the worker's own wages shall be enjoyed in accordance with the provisions and shall be paid from the work-related injury insurance fund;\n(i) death subsidy: where death results from occupational poisoning, the subsidy shall be paid in a lump sum from the work-related injury insurance fund at a standard of not less than 48 months of the average monthly wage of staff and workers in the coordinating region in the preceding year;\n(j) funeral subsidy: where death results from occupational poisoning, the subsidy shall be paid in a lump sum from the work-related injury insurance fund at a standard of 6 months of the average monthly wage of staff and workers in the coordinating region in the preceding year;\n(k) pension for dependent relatives: where death results from occupational poisoning, the work-related injury insurance fund shall pay a pension to the relatives who depended mainly on the deceased for their livelihood: 40 per cent of the average monthly wage of staff and workers in the coordinating region in the preceding year per month to the spouse, and 30 per cent of that average monthly wage per month to each of the lineal relatives supported by the deceased;\n(l) other work-related injury insurance benefits prescribed by the State.\nWhere the State adjusts the items and standards of work-related injury insurance benefits after this Regulation comes into force, those provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter V Rights and Obligations of Workers"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where an employing unit does not participate in work-related injury insurance and a worker contracts an occupational disease in operations involving toxic substances, the employing unit shall, in accordance with the items and standards prescribed in the State provisions on work-related injury insurance, ensure that the worker enjoys work-related injury benefits."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter V Rights and Obligations of Workers"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where an employing unit has no business licence or has had its business licence revoked in accordance with law and a worker contracts an occupational disease in operations involving the use of toxic substances, the worker shall be given lump-sum compensation in accordance with the items and standards prescribed in the State provisions on work-related injury insurance."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter V Rights and Obligations of Workers"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where an employing unit is divided or merged, the successor unit shall bear the compensation liability of the original employing unit towards workers suffering from occupational diseases.\nWhere an employing unit is dissolved or becomes bankrupt, the compensation expenses for workers suffering from occupational diseases shall, in accordance with law, be paid in priority out of its liquidation property."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter V Rights and Obligations of Workers"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "In addition to enjoying work-related injury insurance in accordance with law, where a worker has the right to compensation under the provisions of the relevant civil laws, he has the right to claim compensation from the employing unit."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter V Rights and Obligations of Workers"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Workers shall study and master the relevant occupational health knowledge, observe the relevant laws, regulations and operating rules on labour protection and correctly use and maintain occupational poisoning hazard protection facilities and articles; where hidden dangers of occupational poisoning accidents are discovered, they shall promptly report them.\nWhere danger arising from the use of toxic substances occurs in the workplace, workers shall take the necessary measures, correctly use the protection facilities in accordance with the provisions and eliminate the danger or reduce it to the minimum."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter V Rights and Obligations of Workers"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "The health administration and disease prevention and control departments of people's governments at or above the county level shall, in accordance with the provisions of this Regulation and the relevant occupational health requirements of the State and according to the division of duties, supervise and inspect operations involving the use of toxic substances in workplaces and the activities of testing and assessing occupational poisoning hazards.\nThe health administration and disease prevention and control departments shall not charge fees, nor accept property or other benefits from employing units, when carrying out supervision and inspection."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "The health administration and disease prevention and control departments shall establish and improve the supervision system, verify the materials reflecting the labour protection of employing units and perform their supervisory duties.\nEmploying units shall truthfully and specifically provide the health administration and disease prevention and control departments with materials reflecting the relevant labour protection; where necessary, the health administration and disease prevention and control departments may consult the relevant materials or require employing units to submit them."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "The health administration and disease prevention and control departments shall supervise employing units in strictly implementing the relevant occupational health standards.\nThe health administration and disease prevention and control departments shall, in accordance with the provisions of this Regulation, carry out regular inspection and irregular spot checks on the protective performance of occupational health protection equipment and facilities in workplaces where toxic substances are used; where hidden dangers are found in occupational health protection equipment or facilities, they shall order the employing unit to eliminate them immediately, and during the period of elimination they shall order it to suspend operations."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "The health administration and disease prevention and control departments shall take measures to encourage the reporting, complaint, exposure and accusation of illegal acts of employing units.\nThe health administration and disease prevention and control departments shall promptly verify reports, complaints, exposures and accusations, handle them in accordance with law and publish the results of handling.\nThe health administration and disease prevention and control departments are obliged to keep confidential the identity of persons who report, complain, expose or accuse."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Law enforcement officers of occupational health supervision shall produce their law enforcement credentials when performing their duties in accordance with law.\nLaw enforcement officers of occupational health supervision shall be loyal to their duties and enforce the law impartially; where the secrets of an employing unit are involved, they shall keep them confidential."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where the disease prevention and control department imposes administrative penalties of fines in accordance with law, it shall, in accordance with the provisions of the relevant laws and administrative regulations, separate the decision on the fine from the collection of the fine; the fines collected and the business income confiscated in accordance with law must all be turned over to the State treasury."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "The health administration and disease prevention and control departments have the right to take the following measures when performing their duties of supervision and inspection:\n(a) to enter the premises of employing units and workplaces where toxic substances are used, to ascertain the circumstances, to investigate and collect evidence, to conduct sampling inspections, tests and examinations and to carry out on-site inspections;\n(b) to consult or copy materials related to acts violating this Regulation and to take samples;\n(c) to order units and individuals violating the provisions of this Regulation to stop their illegal acts."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where an occupational poisoning accident occurs or where there is evidence that a state of occupational poisoning hazard may lead to an accident, the health administration and disease prevention and control departments have the right to take the following temporary control measures:\n(a) to order suspension of the operations that caused the occupational poisoning accident;\n(b) to seal up the articles that caused the occupational poisoning accident or may lead to its occurrence;\n(c) to organise control of the site of the occupational poisoning accident.\nAfter the occupational poisoning accident or the state of hazard has been effectively controlled, the health administration and disease prevention and control departments shall promptly lift the control measures."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "When law enforcement officers of occupational health supervision perform their duties in accordance with law, the unit being inspected shall accept the inspection and shall support and cooperate with it, and may not refuse or obstruct it."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "The disease prevention and control departments shall strengthen the building of their teams, improve the political and professional quality of law enforcement officers of occupational health supervision and, in accordance with the provisions of this Regulation, establish and improve the internal supervision system so as to supervise and inspect the implementation of laws and regulations and the observance of discipline by law enforcement officers of occupational health supervision."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where any of the following acts of the staff of the health administration and disease prevention and control departments leads to the occurrence of an occupational poisoning accident, criminal liability shall be investigated in accordance with law under the provisions of the Criminal Law on the crime of abuse of power, the crime of dereliction of duty or other crimes; where occupational poisoning hazards are caused but no occupational poisoning accident has yet occurred and the case is not serious enough for criminal punishment, sanctions of demotion, removal from office or dismissal shall be imposed in accordance with law in light of the different circumstances:\n(a) failing to perform the duty of supervision and inspection in respect of an employing unit, or failing to investigate and deal with acts of an employing unit that violate this Regulation when discovered;\n(b) failing to promptly take control measures in accordance with law upon discovering that occupational poisoning hazards exist in an employing unit and may cause an occupational poisoning accident."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VII Penalty Provisions"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where an employing unit violates the provisions of this Regulation and falls under any of the following circumstances, the disease prevention and control department shall give it a warning and order it to make corrections within a specified time limit; where it fails to make corrections at the expiry of the time limit, a fine of not less than RMB 100,000 and not more than RMB 500,000 shall be imposed; where the circumstances are serious, it shall be requested that the relevant people's government, in accordance with the limit of authority prescribed by the State Council, order suspension of construction and closure; and where serious occupational poisoning hazards are caused or an occupational poisoning accident occurs, criminal liability shall be investigated in accordance with law under the provisions of the Criminal Law on the crime of major labour safety accident or other crimes against the persons in charge who are responsible and other persons who are directly responsible:\n(a) failing to carry out a pre-assessment of occupational poisoning hazards for a construction project that may give rise to such hazards in accordance with the provisions of the Law on the Prevention and Control of Occupational Diseases;\n(b) failing to design, construct and put into production and use the occupational poisoning hazard protection facilities at the same time as the principal works;\n(c) failing to carry out an assessment of the effectiveness of the control of occupational poisoning hazards before the completion acceptance of a construction project, or putting the occupational poisoning hazard protection facilities into production and use without having organised acceptance in accordance with law and passed;\n(d) the design of the occupational poisoning hazard protection facilities of a construction project that may give rise to occupational poisoning hazards not conforming to national occupational health standards and health requirements."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VII Penalty Provisions"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where an employing unit violates the provisions of this Regulation and falls under any of the following circumstances, the disease prevention and control department shall give it a warning and order it to make corrections within a specified time limit; where it fails to make corrections at the expiry of the time limit, a fine of not less than RMB 50,000 and not more than RMB 200,000 shall be imposed; where the circumstances are serious, it shall be requested that the relevant people's government, in accordance with the limit of authority prescribed by the State Council, close it down; and where serious occupational poisoning hazards are caused or an occupational poisoning accident occurs, criminal liability shall be investigated in accordance with law under the provisions of the Criminal Law on the crime of major labour safety accident or other crimes against the persons in charge who are responsible and other persons who are directly responsible:\n(a) failing to set up warning signs and warning instructions in Chinese in workplaces where toxic substances are used as required;\n(b) failing to maintain, service and regularly test occupational health protection equipment, emergency rescue facilities and communication and alarm devices, so that those facilities are in an abnormal state;\n(c) failing to test occupational poisoning hazard factors and assess the effectiveness of the control of occupational poisoning hazards in accordance with the provisions of this Regulation;\n(d) failing to provide workers engaged in operations involving the use of toxic substances with protection articles conforming to national occupational health standards, or failing to ensure that workers use them correctly.\nWhere an employing unit violates the provisions of this Regulation and falls under any of the following circumstances, the disease prevention and control department shall give it a warning, order it to make corrections within a specified time limit and impose a fine of not less than RMB 50,000 and not more than RMB 200,000; where it fails to make corrections at the expiry of the time limit, it shall be requested that the relevant people's government, in accordance with the limit of authority prescribed by the State Council, close it down; and where serious occupational poisoning hazards are caused or an occupational poisoning accident occurs, criminal liability shall be investigated in accordance with law under the provisions of the Criminal Law on the crime of major labour safety accident or other crimes against the persons in charge who are responsible and other persons who are directly responsible:\n(a) failing to provide evacuation routes and hazard relief areas in highly toxic workplaces as required;\n(b) failing to set up warning lines in highly toxic workplaces as required."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VII Penalty Provisions"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Where an employing unit violates the provisions of this Regulation and falls under any of the following circumstances, the disease prevention and control department shall give it a warning, order it to make corrections within a specified time limit and impose a fine of not less than RMB 50,000 and not more than RMB 300,000; where it fails to make corrections at the expiry of the time limit, it shall be requested that the relevant people's government, in accordance with the limit of authority prescribed by the State Council, close it down; and where serious occupational poisoning hazards are caused or an occupational poisoning accident occurs, criminal liability shall be investigated in accordance with law under the provisions of the Criminal Law on the crime of major liability accident, the crime of major labour safety accident or other crimes against the persons in charge who are responsible and other persons who are directly responsible:\n(a) failing to install effective ventilation devices in workplaces where toxic substances are used, or failing to install automatic alarm devices or accident ventilation facilities in workplaces where large quantities of toxic substances may suddenly leak or where acute poisoning is likely to occur;\n(b) failing to stop operations when occupational health protection equipment, emergency rescue facilities or communication and alarm devices are in an abnormal state, or dismantling or stopping the operation of such equipment, facilities or devices without authorisation."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VII Penalty Provisions"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where an employing unit engaged in operations involving the use of highly toxic substances violates the provisions of this Regulation and commits any of the following acts, the disease prevention and control department shall give it a warning, order it to make corrections within a specified time limit and impose a fine of not less than RMB 50,000 and not more than RMB 200,000; where it fails to make corrections at the expiry of the time limit, it shall be requested that the relevant people's government, in accordance with the limit of authority prescribed by the State Council, close it down; and where serious occupational poisoning hazards are caused or an occupational poisoning accident occurs, criminal liability shall be investigated in accordance with law under the provisions of the Criminal Law on the crime of major liability accident or other crimes against the persons in charge who are responsible and other persons who are directly responsible:\n(a) failing to immediately stop highly toxic operations and adopt corresponding treatment measures when the occupational poisoning hazard factors in the workplace do not conform to national occupational health standards and health requirements, or resuming operations after treatment of the occupational poisoning hazard factors without their conforming to national occupational health standards and health requirements;\n(b) failing to maintain and service production installations in which highly toxic substances exist in accordance with the provisions of this Regulation;\n(c) failing to take the measures prescribed in this Regulation and assigning workers to enter equipment, containers or narrow enclosed places in which highly toxic substances exist to carry out operations."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VII Penalty Provisions"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Where toxic substances whose use is expressly prohibited by the State are used in a workplace, or toxic substances that do not conform to national standards are used, the disease prevention and control department shall order immediate cessation of their use and impose a fine of not less than RMB 50,000 and not more than RMB 300,000; where the circumstances are serious, it shall order cessation of operations involving the use of toxic substances or request that the relevant people's government, in accordance with the limit of authority prescribed by the State Council, close it down; and where serious occupational poisoning hazards are caused or an occupational poisoning accident occurs, criminal liability shall be investigated in accordance with law under the provisions of the Criminal Law on the crime of causing an accident with dangerous articles, the crime of major liability accident or other crimes against the persons in charge who are responsible and other persons who are directly responsible."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VII Penalty Provisions"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Where an employing unit violates the provisions of this Regulation and commits any of the following acts, the disease prevention and control department shall order it to make corrections within a specified time limit and impose a fine of not less than RMB 50,000 and not more than RMB 300,000; where the circumstances are serious, it shall order cessation of operations involving the use of toxic substances or request that the relevant people's government, in accordance with the limit of authority prescribed by the State Council, close it down; and where serious occupational poisoning hazards are caused or an occupational poisoning accident occurs, criminal liability shall be investigated in accordance with law under the provisions of the Criminal Law on the crime of major liability accident or other crimes against the persons in charge who are responsible and other persons who are directly responsible:\n(a) failing to organise pre-job occupational health examinations for workers engaged in operations involving the use of toxic substances and assigning workers who have not undergone pre-job occupational health examinations to operations involving the use of toxic substances;\n(b) using workers who have not passed the training assessment for highly toxic operations;\n(c) assigning workers with occupational contraindications to the operations contraindicated for them;\n(d) failing to promptly transfer workers found to have occupational contraindications or health damage related to the occupation in which they are engaged from their original posts and to make proper arrangements for them;\n(e) assigning minors or female staff and workers who are pregnant or breastfeeding to operations involving the use of toxic substances;\n(f) using child labour."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VII Penalty Provisions"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Where an employing unit engaged in operations involving the use of toxic substances violates the provisions of this Regulation and, when changing its line of production, suspending production or business, closing down, dissolving or becoming bankrupt, fails to adopt effective measures to properly dispose of equipment, packaging materials and containers in which highly toxic substances remain or are left over, the disease prevention and control department shall order it to make corrections and impose a fine of not less than RMB 20,000 and not more than RMB 100,000; where a criminal law is violated, criminal liability shall be investigated in accordance with law under the provisions of the Criminal Law on the crime of environmental pollution, the crime of causing an accident with dangerous articles or other crimes against the persons in charge who are responsible and other persons who are directly responsible."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VII Penalty Provisions"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Where an employing unit violates the provisions of this Regulation and falls under any of the following circumstances, the disease prevention and control department shall give it a warning, order it to make corrections within a specified time limit and impose a fine of not less than RMB 5,000 and not more than RMB 20,000; where it fails to make corrections at the expiry of the time limit, it shall order cessation of operations involving the use of toxic substances or request that the relevant people's government, in accordance with the limit of authority prescribed by the State Council, close it down; and where serious occupational poisoning hazards are caused or an occupational poisoning accident occurs, criminal liability shall be investigated in accordance with law under the provisions of the Criminal Law on the crime of major labour safety accident, the crime of causing an accident with dangerous articles or other crimes against the persons in charge who are responsible and other persons who are directly responsible:\n(a) failing to separate workplaces where toxic substances are used from living quarters, or allowing persons to live in the workplace;\n(b) failing to separate hazardous operations from non-hazardous operations;\n(c) failing to effectively isolate highly toxic workplaces from other workplaces;\n(d) failing to provide the emergency rescue facilities or formulate the emergency rescue plans for accidents as required for highly toxic operations."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter VII Penalty Provisions"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Where an employing unit violates the provisions of this Regulation and falls under any of the following circumstances, the disease prevention and control department shall give it a warning, order it to make corrections within a specified time limit and impose a fine of not less than RMB 20,000 and not more than RMB 50,000; where it fails to make corrections at the expiry of the time limit, it shall be requested that the relevant people's government, in accordance with the limit of authority prescribed by the State Council, close it down:\n(a) failing to declare projects involving highly toxic operations to the health administration department as required;\n(b) changing the variety of highly toxic substances used without re-declaring to the health administration department that originally accepted the declaration as required, or making a declaration that is not timely or is false."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter VII Penalty Provisions"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Where an employing unit violates the provisions of this Regulation and commits any of the following acts, the disease prevention and control department shall give it a warning, order it to make corrections within a specified time limit and may concurrently impose a fine of not less than RMB 50,000 and not more than RMB 100,000; where it fails to make corrections at the expiry of the time limit, it shall order cessation of operations involving the use of toxic substances or request that the relevant people's government, in accordance with the limit of authority prescribed by the State Council, close it down:\n(a) failing to organise regular occupational health examinations for workers engaged in operations involving the use of toxic substances;\n(b) failing to organise occupational health examinations at the time of leaving their posts for workers engaged in operations involving the use of toxic substances;\n(c) rescinding or terminating the labour contract concluded with a worker who has not undergone an occupational health examination at the time of leaving his post;\n(d) failing to conduct health examinations for workers engaged in operations involving the use of toxic substances and to make proper arrangements for patients with occupational diseases in accordance with the relevant provisions of the State when circumstances such as division, merger, dissolution or bankruptcy occur;\n(e) failing to promptly organise health examinations and medical observation for workers who have suffered or may suffer acute occupational poisoning hazards;\n(f) failing to establish occupational health surveillance files;\n(g) failing to truthfully and free of charge provide the occupational health surveillance files when a worker leaves the employing unit;\n(h) failing to truthfully inform workers of the occupational poisoning hazards that may arise in the course of work and their consequences, the relevant occupational health protection measures and benefits and to state these in the labour contract in accordance with the provisions of the Law on the Prevention and Control of Occupational Diseases and this Regulation;\n(i) cancelling or reducing the benefits a worker should enjoy because he evacuated from a dangerous site in circumstances endangering life or health."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter VII Penalty Provisions"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "Where an employing unit violates the provisions of this Regulation and commits any of the following acts, the disease prevention and control department shall give it a warning, order it to make corrections within a specified time limit and impose a fine of not less than RMB 5,000 and not more than RMB 20,000; where it fails to make corrections at the expiry of the time limit, it shall order cessation of operations involving the use of toxic substances or request that the relevant people's government, in accordance with the limit of authority prescribed by the State Council, close it down:\n(a) failing to provide or engage occupational health physicians and nurses as required;\n(b) failing to provide shower rooms and changing rooms, or special rooms for washing, storing and treating work clothes, work shoes, hats and other articles, for workers engaged in operations involving the use of highly toxic substances, or such rooms not being able to be used normally;\n(c) failing to arrange post rotation for workers who have been engaged in operations involving the use of highly toxic substances for a certain number of years."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter VII Penalty Provisions"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "Matters relating to labour protection in respect of the use of toxic substances in workplaces that may give rise to occupational poisoning hazards and that are not provided for in this Regulation shall be governed by the provisions of the Law on the Prevention and Control of Occupational Diseases and other relevant laws and administrative regulations.\nThe safety management of the production, dealing, storage, transport, use and waste disposal of toxic substances shall be governed by the Regulation on the Safety Management of Hazardous Chemicals."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "This Regulation shall come into force on the date of its promulgation."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-REG-0327'] = {
     "lawId": "CN-REG-0327",
     "sourceLang": "zh",
@@ -25125,6 +28614,906 @@
         },
         "chapter": {
           "en": "Chapter VI Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0331'] = {
+    "lawId": "CN-REG-0331",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 75 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated to strengthen the administration of veterinary drugs, ensure the quality of veterinary drugs, prevent and treat animal diseases, promote the development of the breeding industry, and safeguard human health."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "These Regulations shall be observed in the research and development, production, trading, import and export, use, supervision and administration of veterinary drugs within the territory of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The veterinary administrative department of the State Council shall be responsible for the supervision and administration of veterinary drugs throughout the country.\nThe veterinary administrative departments of local people's governments at or above the county level shall be responsible for the supervision and administration of veterinary drugs within their respective administrative regions."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The State applies a system of classified administration of prescription veterinary drugs and non-prescription veterinary drugs. The measures and the specific steps for implementation of the classified administration of prescription veterinary drugs and non-prescription veterinary drugs shall be prescribed by the veterinary administrative department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The State operates a system of reserves of veterinary drugs.\nWhen a major animal epidemic, disaster or other emergency occurs, the veterinary administrative department of the State Council may requisition veterinary drugs from the State reserves; where necessary, it may also requisition veterinary drugs outside the State reserves."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The State encourages the research and development of new veterinary drugs and protects the lawful rights and interests of developers in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        },
+        "chapter": {
+          "en": "Chapter II Research and Development of New Veterinary Drugs"
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "To develop a new veterinary drug, the developer shall have premises, instruments and equipment, professional technical personnel, and safety management rules and measures appropriate to the research and development.\nTo develop a new veterinary drug, a safety evaluation shall be conducted. Units engaged in the safety evaluation of veterinary drugs shall comply with the Good Laboratory Practice for Veterinary Drugs and the Good Clinical Practice for Veterinary Drugs formulated by the veterinary administrative department of the State Council.\nThe veterinary administrative departments of people's governments at or above the provincial level shall supervise and inspect whether units conducting safety evaluation of veterinary drugs meet the requirements of the Good Laboratory Practice for Veterinary Drugs and the Good Clinical Practice for Veterinary Drugs, and shall publish the results of such supervision and inspection."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Research and Development of New Veterinary Drugs"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "To develop a new veterinary drug, the developer shall, before clinical trials, file a record with the veterinary administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government in the place where the clinical trials are to be conducted, together with the report on the laboratory-stage safety evaluation of the new veterinary drug and other pre-clinical research materials.\nWhere the new veterinary drug under development is a biological product, an application shall be filed with the veterinary administrative department of the State Council before clinical trials, and the veterinary administrative department of the State Council shall, within 60 working days from the date of receipt of the application, notify the applicant in writing of the result of its examination.\nWhere the development of a new veterinary drug requires the use of pathogens of Category I, the developer shall also meet the conditions prescribed by the veterinary administrative department of the State Council and shall, before the laboratory stage, report the matter to the veterinary administrative department of the State Council for approval."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Research and Development of New Veterinary Drugs"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "After completion of the clinical trials, when the developer of a new veterinary drug files an application for registration of the new veterinary drug with the veterinary administrative department of the State Council, it shall submit samples of the new veterinary drug and the following materials:\n(a) the name, main ingredients, and physical and chemical properties;\n(b) the development method, production process, quality standards and testing methods;\n(c) the results of pharmacological and toxicological tests, the clinical trial report and the stability test report;\n(d) the environmental impact report and pollution prevention and control measures.\nWhere the new veterinary drug under development is a biological product, the relevant materials and data on strains of bacteria (viruses and parasites) and cells shall also be provided. Strains of bacteria (viruses and parasites) and cells shall be preserved by an institution designated by the veterinary administrative department of the State Council.\nWhere the new veterinary drug under development is intended for food-producing animals, a veterinary drug residue test shall also be conducted in accordance with the provisions of the veterinary administrative department of the State Council, and data on the withdrawal period, the maximum residue limits, the residue testing methods and the basis for their formulation shall be provided.\nThe veterinary administrative department of the State Council shall, within 10 working days from the date of receipt of the application, send the materials on the new veterinary drug that it decides to accept to the veterinary drug evaluation institution established by it for evaluation, send samples of the new veterinary drug to the testing institution designated by it for verification testing, and complete its examination within 60 working days from the date of receipt of the evaluation and verification testing conclusions. Where the examination is passed, it shall issue a new veterinary drug registration certificate and publish the quality standards for that veterinary drug; where it is not passed, it shall notify the applicant in writing."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Research and Development of New Veterinary Drugs"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The State protects the undisclosed test data and other data obtained by the applicant itself and submitted in respect of a veterinary drug containing a new compound that has been registered in accordance with law.\nWithin 6 years from the date of registration, where another applicant applies for registration of a veterinary drug using the data prescribed in the preceding paragraph without the consent of the applicant that has obtained registration of the veterinary drug, the veterinary drug registration authority shall not grant registration; this does not apply, however, where the other applicant submits data obtained by itself.\nThe veterinary drug registration authority may not disclose the data prescribed in the first paragraph of this Article except in the following circumstances:\n(a) where required by the public interest;\n(b) where measures have been taken to ensure that such information will not be improperly used for commercial purposes."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Research and Development of New Veterinary Drugs"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "An enterprise engaged in the production of veterinary drugs shall conform to the national development plan and industrial policy for the veterinary drug industry and shall meet the following conditions:\n(a) having technical personnel in veterinary medicine, pharmacy or related specialties appropriate to the veterinary drugs to be produced;\n(b) having factory buildings and facilities appropriate to the veterinary drugs to be produced;\n(c) having bodies, personnel, instruments and equipment for quality management and quality testing of veterinary drugs appropriate to the veterinary drugs to be produced;\n(d) having a production environment meeting safety and hygiene requirements;\n(e) other production conditions prescribed by the Good Manufacturing Practice for Veterinary Drugs.\nAn applicant that meets the conditions prescribed in the preceding paragraph may file an application with the veterinary administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government, together with supporting materials proving that it meets the conditions prescribed in the preceding paragraph; the said department shall complete its examination within 40 working days from the date of receipt of the application. Where the examination is passed, it shall issue a veterinary drug production licence; where it is not passed, it shall notify the applicant in writing."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter III Production of Veterinary Drugs"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The veterinary drug production licence shall state such matters as the scope of production, the place of production, the period of validity, and the name and address of the legal representative.\nThe veterinary drug production licence shall be valid for 5 years. Where production of veterinary drugs is to be continued upon expiry of the period of validity, an application for renewal of the veterinary drug production licence shall be filed with the issuing authority 6 months before the expiry of the period of validity."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter III Production of Veterinary Drugs"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where an enterprise producing veterinary drugs changes its scope of production or place of production, it shall apply for renewal of its veterinary drug production licence in accordance with the provisions of Article 11 of these Regulations; where it changes its enterprise name or legal representative, it shall, within 15 working days after completing the formalities for the registration of the industrial and commercial change, apply to the issuing authority for renewal of its veterinary drug production licence."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter III Production of Veterinary Drugs"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "An enterprise producing veterinary drugs shall organise production in accordance with the Good Manufacturing Practice for Veterinary Drugs formulated by the veterinary administrative department of the State Council.\nThe veterinary administrative departments of people's governments at or above the provincial level shall supervise and inspect whether enterprises producing veterinary drugs meet the requirements of the Good Manufacturing Practice for Veterinary Drugs, and shall publish the results of such inspection."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter III Production of Veterinary Drugs"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "An enterprise producing veterinary drugs shall, in order to produce veterinary drugs, obtain a product approval number issued by the veterinary administrative department of the State Council; the product approval number shall be valid for 5 years. The measures for issuing product approval numbers for veterinary drug products shall be formulated by the veterinary administrative department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Production of Veterinary Drugs"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "An enterprise producing veterinary drugs shall produce in accordance with the national standards for veterinary drugs and the production process approved by the veterinary administrative department of the State Council. Where an enterprise producing veterinary drugs changes a production process that affects the quality of the veterinary drugs, it shall report the change to the original approving department for examination and approval.\nAn enterprise producing veterinary drugs shall keep production records, and the production records shall be complete and accurate."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Production of Veterinary Drugs"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The raw materials and auxiliary materials required for the production of veterinary drugs shall conform to national standards or to the quality requirements of the veterinary drugs to be produced.\nPackaging materials and containers that come into direct contact with veterinary drugs shall meet pharmaceutical requirements."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Production of Veterinary Drugs"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Veterinary drugs shall undergo quality testing before leaving the factory, and those not conforming to the quality standards may not leave the factory.\nVeterinary drugs leaving the factory shall be accompanied by a product quality certificate of conformity.\nThe production of counterfeit or substandard veterinary drugs is prohibited."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Production of Veterinary Drugs"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Each batch of veterinary biological products produced by an enterprise producing veterinary drugs shall, before leaving the factory, be examined and checked by a testing institution designated by the veterinary administrative department of the State Council, and shall be subject to sampling inspection where necessary; where they have not been examined and checked or fail the sampling inspection, they may not be sold.\nVeterinary biological products required for compulsory immunisation shall be produced by enterprises designated by the veterinary administrative department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Production of Veterinary Drugs"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The packaging of veterinary drugs shall bear printed or affixed labels and be accompanied by package inserts, and shall state the words \"for veterinary use\" in a conspicuous position.\nThe labels and package inserts of veterinary drugs may be used only after they have been approved and published by the veterinary administrative department of the State Council.\nThe label or package insert of a veterinary drug shall, in Chinese, state the generic name, the ingredients and their content, the specifications, the producing enterprise, the product approval number (the import veterinary drug registration certificate number), the product batch number, the date of production, the period of validity, the indications or the functions and indications, the method of use, the dosage, the withdrawal period, the contraindications, the adverse reactions, the precautions, the conditions for transport, storage and keeping, and other content that should be stated. Where there is a trade name, the trade name shall also be stated.\nIn addition to the content prescribed in the preceding paragraph, the label or package insert of a prescription veterinary drug shall also bear the warning content prescribed by the veterinary administrative department of the State Council, and the labels or package inserts of veterinary narcotic drugs, psychotropic drugs, toxic drugs and radioactive drugs shall also bear the special marks prescribed by the veterinary administrative department of the State Council; the label or package insert of a non-prescription veterinary drug shall also bear the non-prescription drug mark prescribed by the veterinary administrative department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Production of Veterinary Drugs"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The veterinary administrative department of the State Council may, in light of the need to ensure the quality and safety of animal products and human health, establish a monitoring period of not more than 5 years for a new veterinary drug; during the monitoring period, no other enterprise may be approved to produce or import that new veterinary drug. The producing enterprise shall, during the monitoring period, collect data on the efficacy and adverse reactions of the new veterinary drug and promptly submit them to the veterinary administrative department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Production of Veterinary Drugs"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "An enterprise trading in veterinary drugs shall meet the following conditions:\n(a) having veterinary drug technical personnel appropriate to the veterinary drugs to be traded in;\n(b) having business premises, equipment and warehouse facilities appropriate to the veterinary drugs to be traded in;\n(c) having a quality management body or personnel appropriate to the veterinary drugs to be traded in;\n(d) other trading conditions prescribed by the Good Supply Practice for Veterinary Drugs.\nAn applicant that meets the conditions prescribed in the preceding paragraph may file an application with the veterinary administrative department of the people's government of the city or county, together with supporting materials proving that it meets the conditions prescribed in the preceding paragraph; an applicant trading in veterinary biological products shall file an application with the veterinary administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government, together with supporting materials proving that it meets the conditions prescribed in the preceding paragraph.\nThe veterinary administrative departments of local people's governments at or above the county level shall complete their examination within 30 working days from the date of receipt of the application. Where the examination is passed, they shall issue a veterinary drug trading licence; where it is not passed, they shall notify the applicant in writing."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter IV Trading in Veterinary Drugs"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The veterinary drug trading licence shall state such matters as the scope of business, the place of business, the period of validity, and the name and address of the legal representative.\nThe veterinary drug trading licence shall be valid for 5 years. Where trading in veterinary drugs is to be continued upon expiry of the period of validity, an application for renewal of the veterinary drug trading licence shall be filed with the issuing authority 6 months before the expiry of the period of validity."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter IV Trading in Veterinary Drugs"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Where an enterprise trading in veterinary drugs changes its scope of business or place of business, it shall apply for renewal of its veterinary drug trading licence in accordance with the provisions of Article 22 of these Regulations; where it changes its enterprise name or legal representative, it shall, within 15 working days after completing the formalities for the registration of the industrial and commercial change, apply to the issuing authority for renewal of its veterinary drug trading licence."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter IV Trading in Veterinary Drugs"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "An enterprise trading in veterinary drugs shall comply with the Good Supply Practice for Veterinary Drugs formulated by the veterinary administrative department of the State Council.\nThe veterinary administrative departments of local people's governments at or above the county level shall supervise and inspect whether enterprises trading in veterinary drugs meet the requirements of the Good Supply Practice for Veterinary Drugs, and shall publish the results of such inspection."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter IV Trading in Veterinary Drugs"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "When purchasing veterinary drugs, an enterprise trading in veterinary drugs shall verify that the veterinary drug products correspond without discrepancy to the product labels or package inserts and the product quality certificates of conformity."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Trading in Veterinary Drugs"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "An enterprise trading in veterinary drugs shall explain to purchasers the functions and indications, the method of use, the dosage and the precautions of the veterinary drugs. Where prescription veterinary drugs are sold, the measures for the administration of prescription veterinary drugs shall be complied with.\nWhere an enterprise trading in veterinary drugs sells Chinese crude drugs for veterinary use, it shall state the place of origin.\nEnterprises trading in veterinary drugs are prohibited from trading in drugs for human use and in counterfeit or substandard veterinary drugs."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Trading in Veterinary Drugs"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "An enterprise trading in veterinary drugs shall keep records of purchase and sale when buying and selling veterinary drugs. The records of purchase and sale shall state the trade name, generic name, dosage form, specifications, batch number, period of validity, manufacturer, purchasing and selling units, quantities purchased and sold, dates of purchase and sale, and other matters prescribed by the veterinary administrative department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Trading in Veterinary Drugs"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "An enterprise trading in veterinary drugs shall establish a system for the keeping of veterinary drugs, take the necessary measures for refrigeration, freezing prevention, moisture prevention, insect prevention and rat prevention, and maintain the quality of the veterinary drugs in which it trades.\nThe warehousing and release of veterinary drugs from storage shall be subject to a system of inspection and acceptance and shall be accurately recorded."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Trading in Veterinary Drugs"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "The trading in veterinary biological products required for compulsory immunisation shall conform to the provisions of the veterinary administrative department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Trading in Veterinary Drugs"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The content of advertisements for veterinary drugs shall be consistent with the content of the package inserts of the veterinary drugs. Where an advertisement for a veterinary drug is to be published in the national key media, it shall be examined and approved by the veterinary administrative department of the State Council and an approval number for the veterinary drug advertisement shall be obtained. Where an advertisement for a veterinary drug is to be published in local media, it shall be examined and approved by the veterinary administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government and an approval number for the veterinary drug advertisement shall be obtained; where it has not been approved, it may not be published."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Trading in Veterinary Drugs"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "For a veterinary drug to be exported to China for the first time, the exporting party shall, through its office established within the territory of China or a domestic agency in China entrusted by it, apply to the veterinary administrative department of the State Council for registration and submit the following materials and items:\n(a) documents of the veterinary drug administration department of the country (region) in which the producing enterprise is located certifying approval of production and sale.\n(b) documents certifying conformity with the Good Manufacturing Practice for Veterinary Drugs issued by the veterinary drug administration department of the country (region) in which the producing enterprise is located.\n(c) the manufacturing method, production process, quality standards, testing methods, results of pharmacological and toxicological tests, clinical trial report, stability test report and other relevant materials of the veterinary drug; and, for veterinary drugs intended for food-producing animals, data on the withdrawal period, the maximum residue limits, the residue testing methods and the basis for their formulation.\n(d) samples of the label and package insert of the veterinary drug.\n(e) samples, reference substances and standard substances of the veterinary drug.\n(f) the environmental impact report and pollution prevention and control measures.\n(g) other materials relating to the safety of the veterinary drug.\nAn applicant applying to export veterinary biological products to China shall also provide the relevant materials and data on strains of bacteria (viruses and parasites) and cells."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter V Import and Export of Veterinary Drugs"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The veterinary administrative department of the State Council shall organise a preliminary examination within 10 working days from the date of receipt of the application. Where the preliminary examination is passed, it shall send the materials on the veterinary drug that it decides to accept to the veterinary drug evaluation institution established by it for evaluation, send samples of the veterinary drug to the testing institution designated by it for verification testing, and complete its examination within 60 working days from the date of receipt of the evaluation and verification testing conclusions. Where the examination is passed, it shall issue an import veterinary drug registration certificate and publish the quality standards for that veterinary drug; where it is not passed, it shall notify the applicant in writing.\nIn the course of examination, the veterinary administrative department of the State Council may inspect whether an enterprise exporting veterinary drugs to China meets the requirements of the Good Manufacturing Practice for Veterinary Drugs, and has the power to require the enterprise to conduct tests of the safety and efficacy of the veterinary drug at an institution designated by the veterinary administrative department of the State Council.\nThe import of veterinary drugs urgently needed domestically, of small quantities of veterinary drugs for scientific research, or of samples, reference substances and standard substances of registered veterinary drugs shall be handled in accordance with the provisions of the veterinary administrative department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter V Import and Export of Veterinary Drugs"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The import veterinary drug registration certificate shall be valid for 5 years. Where export of the veterinary drug to China is to be continued upon expiry of the period of validity, an application for re-registration shall be filed with the issuing authority 6 months before the expiry of the period of validity."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter V Import and Export of Veterinary Drugs"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "An overseas enterprise may not sell veterinary drugs directly in China. Where an overseas enterprise sells veterinary drugs in China, it shall establish a sales body within the territory of China in accordance with law or entrust a qualified domestic agency in China.\nWhere a veterinary drug for which an import veterinary drug registration certificate has been obtained in China is imported, the domestic agency in China shall, on the strength of the import veterinary drug registration certificate, undergo the formalities for a customs clearance notice for the imported veterinary drug with the veterinary administrative department of the people's government at the place of the port. The customs shall release the goods on the strength of the customs clearance notice for imported veterinary drugs. The measures for the administration of the import of veterinary drugs shall be formulated by the veterinary administrative department of the State Council together with the General Administration of Customs.\nAfter veterinary biological products are imported, they shall be subject to examination and checking and sampling inspection in accordance with the provisions of Article 19 of these Regulations. After other veterinary drugs are imported, the local veterinary administrative department shall notify the veterinary drug testing institution to conduct sampling inspection."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter V Import and Export of Veterinary Drugs"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The import of the following veterinary drugs is prohibited:\n(a) those whose efficacy is uncertain, which cause major adverse reactions, or which may endanger the breeding industry or human health or involve potential risks;\n(b) veterinary biological products from epidemic areas that may cause the spread of epizootic diseases within the territory of China;\n(c) those whose production conditions are found upon inspection not to conform to the provisions;\n(d) those whose production, trading and use are prohibited by the veterinary administrative department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter V Import and Export of Veterinary Drugs"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Where veterinary drugs are exported outside the territory of China and the importing party requires documents certifying the export of the veterinary drugs, the veterinary administrative department of the State Council or the veterinary administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government in the place where the enterprise is located may issue documents certifying the export of the veterinary drugs.\nWith respect to vaccines urgently needed for domestic epidemic prevention, the veterinary administrative department of the State Council may restrict or prohibit their export."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter V Import and Export of Veterinary Drugs"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "A unit using veterinary drugs shall comply with the provisions on the safe use of veterinary drugs formulated by the veterinary administrative department of the State Council and shall keep records of medication."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter VI Use of Veterinary Drugs"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The use of counterfeit or substandard veterinary drugs and of drugs and other compounds whose use is prohibited by the veterinary administrative department of the State Council is prohibited. The catalogue of prohibited drugs and other compounds shall be formulated and published by the veterinary administrative department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter VI Use of Veterinary Drugs"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where a veterinary drug for which a withdrawal period is prescribed is used on food-producing animals, the raiser shall provide the purchaser or slaughterer with accurate and truthful records of medication; the purchaser or slaughterer shall ensure that the animals and their products are not used for food consumption during the period of medication and the withdrawal period."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter VI Use of Veterinary Drugs"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "The veterinary administrative department of the State Council shall be responsible for formulating and publishing the catalogue of varieties of medicated feed additives permitted to be added to feed.\nThe addition of hormone drugs and other prohibited drugs prescribed by the veterinary administrative department of the State Council to feed and drinking water for animals is prohibited.\nVeterinary drugs that may be added to feed upon approval shall be added only after the enterprise producing veterinary drugs has made them into medicated feed additives. The direct addition of active pharmaceutical ingredients to feed and drinking water for animals, or direct feeding of such ingredients to animals, is prohibited.\nThe use of drugs for human use on animals is prohibited."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter VI Use of Veterinary Drugs"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The veterinary administrative department of the State Council shall formulate and organise the implementation of the national plan for monitoring veterinary drug residues in animals and animal products.\nThe veterinary administrative departments of people's governments at or above the county level shall be responsible for organising the testing of veterinary drug residues in animal products. The results of veterinary drug residue testing shall be published by the veterinary administrative department of the State Council or by the veterinary administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government in accordance with their respective limits of authority.\nWhere the producer or seller of an animal product objects to the testing result, it may, within 7 working days from the date of receipt of the testing result, apply to the veterinary administrative department that organised the veterinary drug residue testing or to the veterinary administrative department at the higher level, and the veterinary administrative department accepting the application shall designate a testing institution to conduct a re-test.\nThe maximum residue limits and the residue testing methods shall be formulated and published by the veterinary administrative department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VI Use of Veterinary Drugs"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "The sale of food-producing animal products that contain prohibited drugs or whose veterinary drug residues exceed the standards is prohibited."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VI Use of Veterinary Drugs"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "The veterinary administrative departments of people's governments at or above the county level shall exercise the power of supervision and administration of veterinary drugs.\nThe testing of veterinary drugs shall be undertaken by the veterinary drug testing institutions established by the veterinary administrative department of the State Council and by the veterinary administrative departments of provinces, autonomous regions and municipalities directly under the Central Government. The veterinary administrative department of the State Council may, as needed, recognise other testing institutions to undertake the testing of veterinary drugs.\nWhere a party objects to the result of veterinary drug testing, it may, within 7 working days from the date of receipt of the testing result, apply for a re-test to the institution that conducted the testing or to a testing institution established by the veterinary administrative department at the higher level."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Administration of Veterinary Drugs"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Veterinary drugs shall conform to the national standards for veterinary drugs.\nThe Veterinary Pharmacopoeia of the People's Republic of China prepared by the National Veterinary Pharmacopoeia Commission and published by the veterinary administrative department of the State Council, and other quality standards for veterinary drugs published by the veterinary administrative department of the State Council, constitute the national standards for veterinary drugs.\nThe calibration of standard substances and reference substances for the national standards for veterinary drugs shall be the responsibility of the veterinary drug testing institution established by the veterinary administrative department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Administration of Veterinary Drugs"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "When the veterinary administrative department conducts supervision and inspection in accordance with law, it shall, in respect of veterinary drugs for which there is evidence proving that they may be counterfeit or substandard, take administrative compulsory measures of sealing up and seizure, and shall, within 7 working days from the date of taking the administrative compulsory measures, decide whether to place the case on file; where testing is required, it shall decide whether to place the case on file within 15 working days from the date of issuance of the testing report; where the conditions for placing the case on file are not met, it shall lift the administrative compulsory measures; where suspension of production is required, a decision shall be made by the veterinary administrative department of the State Council or by the veterinary administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government in accordance with the limits of authority; where suspension of trading or use is required, a decision shall be made by the veterinary administrative department of the people's government at or above the county level in accordance with the limits of authority.\nThe veterinary drugs and relevant materials sealed up or seized may not be transferred, used, destroyed or sold without authorisation without the approval of the authority that decided on the administrative compulsory measures or of its superior authority."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Administration of Veterinary Drugs"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Any of the following constitutes a counterfeit veterinary drug:\n(a) passing off a non-veterinary drug as a veterinary drug, or passing off one kind of veterinary drug as another kind;\n(b) the types and names of the ingredients contained in the veterinary drug being inconsistent with the national standards for veterinary drugs.\nAny of the following shall be dealt with as a counterfeit veterinary drug:\n(a) those whose use is prohibited by the veterinary administrative department of the State Council;\n(b) those produced or imported without the examination and approval that should have been obtained in accordance with the provisions of these Regulations, or sold or imported without the sampling inspection and examination and checking that should have been conducted in accordance with the provisions of these Regulations;\n(c) those that have deteriorated;\n(d) those that have been contaminated;\n(e) those whose stated indications or functions and indications exceed the prescribed scope."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Administration of Veterinary Drugs"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Any of the following constitutes a substandard veterinary drug:\n(a) the content of the ingredients not conforming to the national standards for veterinary drugs, or the active ingredients not being stated;\n(b) the period of validity not being stated or being altered, or the period of validity having expired;\n(c) the product batch number not being stated or being altered;\n(d) other non-conformity with the national standards for veterinary drugs that does not constitute a counterfeit veterinary drug."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Administration of Veterinary Drugs"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "The sale of active pharmaceutical ingredients for veterinary use in broken bulk, or their sale to units or individuals other than enterprises producing veterinary drugs, is prohibited.\nSelling, purchasing or using veterinary drugs that are subject to prescription drug administration as prescribed by the veterinary administrative department of the State Council, without a prescription issued by a veterinarian, is prohibited."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Administration of Veterinary Drugs"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "The State operates a system for reporting adverse reactions to veterinary drugs.\nWhere an enterprise producing veterinary drugs, an enterprise trading in veterinary drugs, a unit using veterinary drugs or a veterinarian issuing prescriptions discovers a serious adverse reaction that may be related to the use of a veterinary drug, it shall immediately report the matter to the veterinary administrative department of the people's government at its location."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Administration of Veterinary Drugs"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where an enterprise producing or trading in veterinary drugs ceases production or trading for more than 6 months or closes down, the issuing authority shall order it to return its veterinary drug production licence or veterinary drug trading licence."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Administration of Veterinary Drugs"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Buying, selling, leasing or lending veterinary drug production licences, veterinary drug trading licences and veterinary drug approval documents is prohibited."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Administration of Veterinary Drugs"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "The items and standards for the fees charged for the evaluation and testing of veterinary drugs shall be formulated and announced by the finance department of the State Council together with the competent pricing department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Administration of Veterinary Drugs"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "The veterinary administrative departments at all levels, the veterinary drug testing institutions and their staff members may not participate in the production or trading of veterinary drugs, and may not recommend veterinary drugs, or supervise their production or sales, in their own names."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Administration of Veterinary Drugs"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where a veterinary administrative department or its staff members take advantage of their position to accept property from others or to seek other benefits, issue licences or sign opinions of examination and consent in respect of units or individuals that do not meet the statutory conditions, fail to perform their supervisory duties, or fail to investigate and deal with unlawful acts discovered, causing serious consequences, and a crime is constituted, criminal liability shall be pursued in accordance with law; where a crime is not constituted, administrative sanctions shall be imposed in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, veterinary drugs are produced or traded in without a veterinary drug production licence or a veterinary drug trading licence, or, although a veterinary drug production licence or a veterinary drug trading licence has been obtained, counterfeit or substandard veterinary drugs are produced or traded in, or an enterprise trading in veterinary drugs trades in drugs for human use, the enterprise shall be ordered to cease production or trading, the raw materials, auxiliary materials and packaging materials used for unlawful production and the veterinary drugs produced or traded in and the illegal gains shall be confiscated, and a fine of not less than 2 times but not more than 5 times the value of the veterinary drugs unlawfully produced or traded in (including veterinary drugs already sold and not yet sold, the same below) shall be imposed; where the value of the goods cannot be ascertained and verified, a fine of not less than RMB 100,000 but not more than RMB 200,000 shall be imposed; where veterinary drugs are produced without a veterinary drug production licence and the circumstances are serious, the production equipment shall be confiscated; where counterfeit or substandard veterinary drugs are produced or traded in and the circumstances are serious, the veterinary drug production licence or veterinary drug trading licence shall be revoked; where a crime is constituted, criminal liability shall be pursued in accordance with law; where losses are caused to others, liability for compensation shall be borne in accordance with law. The principal persons in charge and the persons directly in charge of the producing or trading enterprise may never again engage in the production or trading of veterinary drugs.\nWhere veterinary biological products required for compulsory immunisation are produced without authorisation, the penalty for producing veterinary drugs without a veterinary drug production licence shall apply."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a veterinary drug production licence, a veterinary drug trading licence or a veterinary drug approval document is obtained by providing false materials or samples or by other fraudulent means, the veterinary drug production licence or veterinary drug trading licence shall be revoked or the veterinary drug approval document shall be cancelled, and a fine of not less than RMB 50,000 but not more than RMB 100,000 shall be imposed; where losses are caused to others, liability for compensation shall be borne in accordance with law. Its principal person in charge and the persons directly in charge may never again engage in the production, trading, import or export of veterinary drugs."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where a veterinary drug production licence, a veterinary drug trading licence or a veterinary drug approval document is bought, sold, leased or lent, the illegal gains shall be confiscated and a fine of not less than RMB 10,000 but not more than RMB 100,000 shall be imposed; where the circumstances are serious, the veterinary drug production licence or veterinary drug trading licence shall be revoked or the veterinary drug approval document shall be cancelled; where a crime is constituted, criminal liability shall be pursued in accordance with law; where losses are caused to others, liability for compensation shall be borne in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a unit conducting safety evaluation of veterinary drugs, a unit conducting clinical trials, or a producing or trading enterprise fails to implement the good practice for the research and testing, production or trading of veterinary drugs as required, it shall be given a warning and ordered to make correction within a time limit; where it fails to make correction within the time limit, it shall be ordered to cease the research and testing, production or trading of veterinary drugs and a fine of not more than RMB 50,000 shall be imposed; where the circumstances are serious, the veterinary drug production licence or veterinary drug trading licence shall be revoked; where losses are caused to others, liability for compensation shall be borne in accordance with law.\nWhere, in violation of the provisions of these Regulations, a developer of a new veterinary drug without the prescribed conditions uses pathogens of Category I without authorisation or without approval before the laboratory stage, it shall be ordered to cease the experiment and a fine of not less than RMB 50,000 but not more than RMB 100,000 shall be imposed; where a crime is constituted, criminal liability shall be pursued in accordance with law; where losses are caused to others, liability for compensation shall be borne in accordance with law.\nWhere, in violation of the provisions of these Regulations, clinical trials of a new veterinary drug are conducted without the required filing, it shall be ordered to make immediate correction, given a warning and imposed a fine of not less than RMB 50,000 but not more than RMB 100,000; where losses are caused to others, liability for compensation shall be borne in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, the label and package insert of a veterinary drug have not been approved, the enterprise shall be ordered to make correction within a time limit; where it fails to make correction within the time limit, it shall be dealt with as producing or trading in a counterfeit veterinary drug; where a product approval number for the veterinary drug has been obtained, the product approval number shall be cancelled; where losses are caused to others, liability for compensation shall be borne in accordance with law.\nWhere the packaging of a veterinary drug is not accompanied by a label and package insert, or the label and package insert are inconsistent with the approved content, the enterprise shall be ordered to make correction within a time limit; where the circumstances are serious, it shall be penalised in accordance with the provisions of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, an overseas enterprise sells veterinary drugs directly in China, it shall be ordered to make correction within a time limit, the veterinary drugs sold directly and the illegal gains shall be confiscated, and a fine of not less than RMB 50,000 but not more than RMB 100,000 shall be imposed; where the circumstances are serious, the import veterinary drug registration certificate shall be revoked; where losses are caused to others, liability for compensation shall be borne in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, veterinary drugs are used without compliance with the relevant national provisions on the safe use of veterinary drugs, medication records are not kept or are incomplete or untrue, prohibited drugs and other compounds are used, or drugs for human use are used on animals, the unit shall be ordered to make immediate correction, and harmless treatment shall be carried out in respect of the animals fed with prohibited drugs or other compounds and their products; a fine of not less than RMB 10,000 but not more than RMB 50,000 shall be imposed on the unit committing the violation; where losses are caused to others, liability for compensation shall be borne in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, animals and their products that are still within the period of medication or the withdrawal period are sold for food consumption, or animal products containing prohibited drugs or with excessive veterinary drug residues are sold for food consumption, the violator shall be ordered to carry out harmless treatment in respect of the animal products containing prohibited drugs or with excessive veterinary drug residues, the illegal gains shall be confiscated, and a fine of not less than RMB 30,000 but not more than RMB 100,000 shall be imposed; where a crime is constituted, criminal liability shall be pursued in accordance with law; where losses are caused to others, liability for compensation shall be borne in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, veterinary drugs and relevant materials that have been sealed up or seized are transferred, used, destroyed or sold without authorisation, the violator shall be ordered to cease the unlawful acts, given a warning and imposed a fine of not less than RMB 50,000 but not more than RMB 100,000."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, an enterprise producing veterinary drugs, an enterprise trading in veterinary drugs, a unit using veterinary drugs or a veterinarian issuing prescriptions fails to report to the veterinary administrative department of the people's government at its location a serious adverse reaction that may be related to the use of a veterinary drug, it shall be given a warning and imposed a fine of not less than RMB 5,000 but not more than RMB 10,000.\nWhere a producing enterprise fails to collect, or fails to promptly submit, data on the efficacy and adverse reactions of a new veterinary drug during the monitoring period, it shall be ordered to make correction within a time limit and imposed a fine of not less than RMB 10,000 but not more than RMB 50,000; where the circumstances are serious, the product approval number of the new veterinary drug shall be cancelled."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, prescription veterinary drugs are sold, purchased or used without a prescription issued by a veterinarian, the violator shall be ordered to make correction within a time limit, the illegal gains shall be confiscated and a fine of not more than RMB 50,000 shall be imposed; where losses are caused to others, liability for compensation shall be borne in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, an enterprise producing or trading in veterinary drugs sells active pharmaceutical ingredients to units or individuals other than enterprises producing veterinary drugs, or an enterprise trading in veterinary drugs sells active pharmaceutical ingredients in broken bulk, it shall be ordered to make immediate correction, given a warning, its illegal gains shall be confiscated and a fine of not less than RMB 20,000 but not more than RMB 50,000 shall be imposed; where the circumstances are serious, the veterinary drug production licence or veterinary drug trading licence shall be revoked; where losses are caused to others, liability for compensation shall be borne in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, hormone drugs and other prohibited drugs prescribed by the veterinary administrative department of the State Council are added to feed or drinking water for animals, the matter shall be penalised in accordance with the relevant provisions of the Regulations on the Administration of Feed and Feed Additives; where active pharmaceutical ingredients are directly added to feed or drinking water for animals, or fed directly to animals, the violator shall be ordered to make immediate correction and imposed a fine of not less than RMB 10,000 but not more than RMB 30,000; where losses are caused to others, liability for compensation shall be borne in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "Any of the following circumstances shall result in the cancellation of the product approval number of the veterinary drug or the revocation of the import veterinary drug registration certificate:\n(a) failure in sampling inspection for 2 consecutive times;\n(b) uncertain efficacy, major adverse reactions, or the possibility of endangering the breeding industry or human health or involving potential risks;\n(c) the veterinary drug being one whose production, trading and use are prohibited by the veterinary administrative department of the State Council.\nA veterinary drug whose product approval number has been cancelled or whose import veterinary drug registration certificate has been revoked may not continue to be produced, imported, traded in or used. Those already produced or imported shall be destroyed under the supervision of the veterinary administrative department at the place of location, and the costs required shall be borne by the person committing the unlawful act; where losses are caused to others, liability for compensation shall be borne in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "The administrative penalties prescribed in these Regulations shall be decided by the veterinary administrative departments of people's governments at or above the county level; among them, the revocation of a veterinary drug production licence or a veterinary drug trading licence, the cancellation of a veterinary drug approval document, or an order to cease the research and testing of veterinary drugs shall be decided by the department that issued, approved or recorded the matter.\nWhere a veterinary administrative department at a higher level finds that an administrative act of a veterinary administrative department at a lower level violates these Regulations, it shall order correction within a time limit; where correction is not made within the time limit, it has the power to alter or revoke the act."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "The value of goods prescribed in these Regulations shall be calculated on the basis of the marked price of the veterinary drugs unlawfully produced or traded in; where there is no marked price, it shall be calculated on the basis of the market price of veterinary drugs of the same kind."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "The terms used in these Regulations have the following meanings:\n(a) veterinary drugs refer to substances (including medicated feed additives) used for the prevention, treatment or diagnosis of animal diseases or for the purposeful regulation of the physiological functions of animals, mainly including serum products, vaccines, diagnostic products, microecological products, Chinese crude drugs, Chinese patent medicines, chemical drugs, antibiotics, biochemical drugs, radioactive drugs, and externally applied insecticides and disinfectants.\n(b) prescription veterinary drugs refer to veterinary drugs that may be purchased and used only on a prescription issued by a veterinarian.\n(c) non-prescription veterinary drugs refer to veterinary drugs published by the veterinary administrative department of the State Council that may be purchased without a prescription issued by a veterinarian and used in accordance with the package insert.\n(d) enterprises producing veterinary drugs refer to enterprises specialising in the production of veterinary drugs and enterprises producing veterinary drugs in addition to other products, including enterprises engaged in the sub-packaging of veterinary drugs.\n(e) enterprises trading in veterinary drugs refer to enterprises specialising in the trading of veterinary drugs or enterprises trading in veterinary drugs in addition to other business.\n(f) new veterinary drugs refer to veterinary drugs that have not yet been placed on the market for sale within the territory of China.\n(g) veterinary drug approval documents refer to documents such as the product approval number for veterinary drugs, the import veterinary drug registration certificate, the certificate for the export of veterinary drugs, and the new veterinary drug registration certificate."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "Special drugs such as narcotic drugs, psychotropic drugs, toxic drugs and radioactive drugs for veterinary use shall be administered in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "The use of veterinary drugs in aquaculture, the testing of veterinary drug residues and the supervision and administration thereof, and the administrative penalties for unlawful use of drugs in the course of aquaculture shall be the responsibility of the competent fishery departments of people's governments at or above the county level and the fishery supervision and administration bodies subordinate to them."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "These Regulations shall come into force as of 1 November 2004."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
         }
       }
     ]
@@ -27803,6 +32192,843 @@
     ]
   };
 
+  TR['CN-REG-0337'] = {
+    "lawId": "CN-REG-0337",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 70 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Regulation is formulated in order to strengthen the protection of water resources and the prevention and control of water pollution in the Taihu Lake Basin, to guarantee flood control and drought relief and the safety of water used for domestic, production and ecological purposes, and to improve the ecological environment of the Taihu Lake Basin."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The Taihu Lake Basin referred to in this Regulation comprises the area south of the Yangtze River, north of the Qiantang River and east of the watershed divide of the Tianmu and Maoshan Mountains in Jiangsu Province, Zhejiang Province and Shanghai Municipality (hereinafter referred to as the two provinces and one municipality)."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Management of the Taihu Lake Basin shall follow the principles of comprehensive planning, overall coordination, protection first, promoting benefits while eliminating harm, comprehensive treatment and scientific development."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The Taihu Lake Basin shall be subject to a management system that combines basin management with administrative regional management.\nThe State shall establish and improve the coordination mechanism for the management of the Taihu Lake Basin so as to comprehensively coordinate major matters in the management of the Basin."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The water administration, environmental protection and other departments of the State Council shall, in accordance with the provisions of laws and administrative regulations and the division of duties determined by the State Council, be responsible for the relevant work of managing the Taihu Lake Basin.\nThe Taihu Lake Basin management agency established by the water administration department of the State Council (hereinafter referred to as the Taihu Lake Basin management agency) shall, within its jurisdiction, exercise the duties of supervision and management prescribed by laws and administrative regulations and conferred by the water administration department of the State Council.\nThe relevant departments of local people's governments at or above the county level in the Taihu Lake Basin shall, in accordance with the provisions of laws and regulations, be responsible for the relevant management work of the Taihu Lake Basin within their respective administrative areas."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The State shall apply a system of target responsibility and performance assessment for local people's governments in respect of the protection of water resources and the prevention and control of water pollution in the Taihu Lake Basin.\nLocal people's governments at or above the county level in the Taihu Lake Basin shall incorporate the protection of water resources, the prevention and control of water pollution, flood control and drought relief, the protection of waters and shorelines and the safety of water used for domestic, production and ecological purposes into their plans for national economic and social development, adjust the economic structure, optimise the industrial layout and strictly restrict construction projects that consume large amounts of water or cause serious pollution."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Local people's governments at or above the county level in the Taihu Lake Basin shall rationally designate drinking water sources and, in accordance with the provisions of the Water Law of the People's Republic of China and the Law of the People's Republic of China on the Prevention and Control of Water Pollution, delineate drinking water source protection areas so as to guarantee the supply of drinking water and the safety of its quality."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Drinking Water Safety"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "It is prohibited to set up sewage outlets, warehouses for toxic and harmful substances or refuse dumps within drinking water source protection areas in the Taihu Lake Basin; where any have already been set up, the local county-level people's government shall order their removal or closure."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Drinking Water Safety"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "County-level people's governments in the Taihu Lake Basin shall establish a system of daily patrols of drinking water source protection areas and shall install automatic water quality and water quantity monitoring facilities in Grade I drinking water source protection areas."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Drinking Water Safety"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Local people's governments at or above the county level in the Taihu Lake Basin shall, in accordance with the principles of complementing water sources and scientific regulation, rationally plan and construct emergency standby water sources and joint water supply projects spanning administrative regions. Calculated on the basis of normal water consumption within the planned water supply area, an emergency standby water source shall have a water supply capacity of not less than 7 days.\nThe competent water supply departments of local people's governments at or above the county level in the Taihu Lake Basin shall, in accordance with the requirements of the national standards for drinking water, prepare plans for the technical transformation of water supply facilities and organise their implementation after approval by the people's government at the same level."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Drinking Water Safety"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Local people's governments at or above the county level in the Taihu Lake Basin shall organise the water administration, environmental protection, housing and urban-rural development and other departments to formulate emergency plans for water supply safety for their respective administrative areas. The relevant departments shall formulate implementation plans on the basis of the emergency plans for water supply safety of their respective administrative areas.\nWater supply units in the Taihu Lake Basin shall, on the basis of the emergency plans for water supply safety of their respective administrative areas, formulate corresponding emergency work plans and submit them to the competent water supply department for the record."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Drinking Water Safety"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "An emergency plan for water supply safety shall include the following main contents:\n(a) emergency standby water sources and emergency water supply facilities;\n(b) monitoring, early warning, information reporting and handling;\n(c) the organisation and command system and the emergency response mechanism;\n(d) the plan for activating emergency standby water sources or the emergency water diversion plan;\n(e) safeguard measures in respect of funds, materials and technology."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Drinking Water Safety"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Municipal and county people's governments in the Taihu Lake Basin shall organise real-time monitoring of water quality at drinking water sources, water supply facilities and residential water use points; during special periods such as blue-green algae outbreaks, they shall increase the frequency of monitoring and the number of monitoring points so as to keep abreast of water quality conditions.\nWhere municipal and county people's governments in the Taihu Lake Basin find abnormal water quality at drinking water sources, water supply facilities or residential water use points that may affect water supply safety, they shall immediately take preventive and control measures and promptly release early warning information to society."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Drinking Water Safety"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Where a water supply safety accident occurs, the local people's government at or above the county level in the Taihu Lake Basin shall immediately report it in accordance with the prescribed procedures and, in light of the severity and scope of impact of the accident and in accordance with its duties and powers, activate the corresponding emergency plan for water supply safety, giving priority to guaranteeing drinking water for residents.\nWhere a water supply safety accident occurs and emergency regulation of water resources across basins or across the administrative areas of provinces or municipalities directly under the Central Government is required, the Taihu Lake Basin management agency shall issue regulation instructions for the water projects on Taihu Lake, the Taipu River, the Xinmeng River and the Wangyu River.\nWhere a water supply safety accident occurs during flood control and drought relief and emergency regulation of water resources is required, the flood control and drought relief command body of the Taihu Lake Basin and the flood control and drought relief command bodies of local people's governments at or above the county level in the Taihu Lake Basin shall issue the regulation instructions."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Drinking Water Safety"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The allocation and regulation of water resources in the Taihu Lake Basin shall first satisfy domestic water use by residents, take into account the needs of production, ecological water use and navigation, maintain a reasonable water level in Taihu Lake, promote water circulation and increase the water environment capacity of the Taihu Lake Basin.\nThe allocation and regulation of water resources in the Taihu Lake Basin shall follow the principles of unified implementation and responsibility at different levels and shall coordinate the relationship between total volume control and water level control."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Protection of Water Resources"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The Taihu Lake Basin management agency shall, in consultation with the competent water administration departments of the people's governments of the two provinces and one municipality, formulate a water resources regulation plan on the basis of the comprehensive plan for the Taihu Lake Basin and, after submitting it to the water administration department of the State Council for approval, organise its unified implementation by the competent water administration departments of the people's governments of the two provinces and one municipality.\nBefore the water resources regulation plan is approved, the regulation of water resources in the Taihu Lake Basin shall be carried out in accordance with the regulation plan for diverting water from the Yangtze River to Taihu Lake approved by the water administration department of the State Council and the relevant annual regulation plans.\nThe principal persons in charge of local people's governments, the Taihu Lake Basin management agency and water project management units shall be responsible for the implementation of the water resources regulation plan and regulation instructions."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Protection of Water Resources"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The Taihu Lake Basin management agency shall issue regulation instructions for the Taipu Sluice and pumping station on the Taipu River, the riverside complex and the canal interchange complex on the Xinmeng River, and the Wangting and Changshu water conservancy complexes on the Wangyu River.\nFor water projects determined by the water administration department of the State Council to have a relatively large impact on the allocation of water resources in the basin, the Taihu Lake Basin management agency shall issue regulation instructions in consultation with the competent water administration departments of the local provincial or municipal people's governments directly under the Central Government.\nFor other water projects in the Taihu Lake Basin, the competent water administration departments of local people's governments at or above the county level shall issue regulation instructions in accordance with their duties and powers.\nRegulation instructions shall be issued on the basic basis of the water resources regulation plan and in comprehensive consideration of real-time water and rainfall conditions."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Protection of Water Resources"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "A system of total water withdrawal control shall be applied to Taihu Lake, the Taipu River, the Xinmeng River and the Wangyu River. The competent water administration departments of the people's governments of the two provinces and one municipality shall, before 1 February each year, report to the Taihu Lake Basin management agency the total water withdrawal control situation of the preceding year and their proposals for the water withdrawal plan for the current year. The Taihu Lake Basin management agency shall, on the basis of the total water withdrawal control targets and in conjunction with the predicted annual inflow, issue the annual water withdrawal plan to the competent water administration departments of the people's governments of the two provinces and one municipality before 25 February each year.\nThe Taihu Lake Basin management agency shall conduct real-time monitoring of the total water withdrawal control in Taihu Lake, the Taipu River, the Xinmeng River and the Wangyu River. Where the total water withdrawal has reached or exceeded the total water withdrawal control target, no additional water withdrawal for construction projects may be approved."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Protection of Water Resources"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The water administration department of the State Council shall, together with the environmental protection and other departments of the State Council and the people's governments of the two provinces and one municipality, draft the water function zoning of the Taihu Lake Basin in accordance with the comprehensive basin plan, the water resources protection plan and the requirements of economic and social development, and submit it to the State Council for approval.\nThe water function zoning of other waters in the Taihu Lake Basin not covered by the water function zoning of the Taihu Lake Basin shall be drafted by the competent water administration departments of the people's governments of the two provinces and one municipality together with the environmental protection and other departments at the same level and, after soliciting the opinions of the Taihu Lake Basin management agency, shall be approved by the people's government at the same level and filed with the competent water administration and environmental protection departments of the State Council for the record.\nAdjustments to approved water function zoning shall be subject to approval by the original approving organ or an organ authorised by it."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Protection of Water Resources"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Plans for aquaculture, navigation, tourism and other activities involving the development and utilisation of water resources in the Taihu Lake Basin shall comply with the approved water function zoning.\nThose engaging in production, construction and other development and utilisation activities in the lakes and rivers of the Taihu Lake Basin shall meet the water function protection requirements; among them, those engaging in production, construction and other development and utilisation activities in Taihu Lake shall, before the competent departments concerned complete the approval formalities, solicit the opinions of the Taihu Lake Basin management agency as to whether the activities meet the water function protection requirements."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Protection of Water Resources"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The competent water administration departments of local people's governments at or above the county level in the Taihu Lake Basin and the Taihu Lake Basin management agency shall strengthen supervision and inspection of the protection of water function zones and periodically publish the state of water resources; where they find that a water function zone has not reached the water quality target, they shall promptly report to the people's government concerned so that treatment measures may be taken and shall notify the competent environmental protection department.\nWhere the control sections of major rivers flowing into Taihu Lake do not reach the water quality targets, the Taihu Lake Basin management agency shall, on the premise of not affecting flood control safety, notify the local people's government concerned to close the outlets into the lake and organise treatment."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Protection of Water Resources"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Local people's governments at or above the county level in the Taihu Lake Basin shall, in accordance with the requirements of the comprehensive plan for the Taihu Lake Basin and the overall plan for the comprehensive treatment of the water environment of the Taihu Lake Basin, organise the adoption of environmentally friendly dredging measures, carry out ecological dredging of the lakes and rivers in the Taihu Lake Basin and render harmless the silt removed."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Protection of Water Resources"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Local people's governments at or above the county level in the Taihu Lake Basin shall strengthen the management of water use quotas, adopt effective measures to reduce water consumption and improve water use efficiency, and encourage the reuse of reclaimed water and the comprehensive utilisation of rainwater, seawater and brackish water.\nNew construction, reconstruction and expansion projects that require water withdrawal shall, in the water resources assessment report and in accordance with the water use quota requirements of the industry, specify water conservation measures and shall construct supporting water conservation facilities. Water conservation facilities shall be designed, constructed and put into operation at the same time as the principal works."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Protection of Water Resources"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The State treats the confined groundwater of the Taihu Lake Basin as an emergency and strategic reserve water source. No unit or individual may extract it, except for emergency water use in the event of a water supply safety accident."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Protection of Water Resources"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "A system of total discharge control of major water pollutants shall be applied in the Taihu Lake Basin.\nThe Taihu Lake Basin management agency shall organise the competent water administration departments of the people's governments of the two provinces and one municipality to verify the pollutant-carrying capacity of the lakes and rivers in the Taihu Lake Basin on the basis of the water quality requirements of the water function zones and the natural purification capacity of the water bodies, and to put forward opinions on limiting the total discharge of pollutants to the competent environmental protection departments of the people's governments of the two provinces and one municipality.\nThe competent environmental protection departments of the people's governments of the two provinces and one municipality shall, in accordance with the water quality targets and related requirements set by the overall plan for the comprehensive treatment of the water environment of the Taihu Lake Basin and the plan for the prevention and control of water pollution in the Taihu Lake Basin, and in full consideration of the opinions on limiting the total discharge of pollutants, formulate plans for the reduction and control of the total discharge of major water pollutants and, after examination and consent by the environmental protection department of the State Council, submit them to the people's governments of the two provinces and one municipality for approval and announcement.\nThe people's governments of the two provinces and one municipality shall break down and assign the control targets set in the plans for the reduction and control of the total discharge of major water pollutants to the cities and counties in the Taihu Lake Basin. The municipal and county people's governments shall break down and assign the control targets to the pollutant-discharging units."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter IV Water Pollution Prevention and Control"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The competent environmental protection departments of the people's governments of the two provinces and one municipality shall, in light of the needs of the prevention and control of water pollution, formulate control targets for the total discharge of other water pollutants in their respective administrative areas and, after examination by the environmental protection department of the State Council, submit them to the people's government at the same level for approval, and the people's governments of the two provinces and one municipality shall copy them to the environmental protection and water administration departments of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Water Pollution Prevention and Control"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The environmental protection department of the State Council may, in light of the needs of the prevention and control of water pollution in the Taihu Lake Basin and of optimising the industrial structure and adjusting the industrial layout, set special discharge limits for water pollutants and, in consultation with the people's governments of the two provinces and one municipality, determine and announce the specific geographical scope and time limit for the application of the special discharge limits for water pollutants in the Taihu Lake Basin."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Water Pollution Prevention and Control"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Pollutant-discharging units may not discharge water pollutants in excess of the verified total discharge of water pollutants, and shall set up standardised sewage outlets that facilitate inspection and sampling in accordance with the provisions and hang up signs; they may not secretly install concealed pipes or discharge water pollutants in other ways that evade supervision.\nIt is prohibited to establish in the Taihu Lake Basin production projects discharging water pollutants such as papermaking, leather making, alcohol, starch, metallurgy, brewing, printing and dyeing and electroplating that do not conform to the State industrial policy and the requirements of comprehensive water environment treatment; existing production projects that cannot achieve discharge up to standard shall be closed in accordance with law.\nNewly established enterprises in the Taihu Lake Basin shall meet the cleaner production requirements prescribed by the State; existing enterprises that have not yet met the cleaner production requirements shall carry out technical transformation in accordance with the requirements of the cleaner production plan, and the people's governments of the two provinces and one municipality shall strengthen supervision and inspection."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Water Pollution Prevention and Control"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The following acts are prohibited within the river shorelines from 10,000 metres upstream to 50,000 metres upstream from the estuary of major rivers flowing into Taihu Lake other than the Xinmeng River and the Wangyu River, and within 1,000 metres on each side of those shorelines:\n(a) newly building or expanding chemical or pharmaceutical production projects;\n(b) newly building or expanding sewage outlets other than the sewage outlets of centralised sewage treatment facilities;\n(c) expanding the scale of aquaculture."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Water Pollution Prevention and Control"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "The following acts are prohibited within the shoreline of Taihu Lake and within 5,000 metres around it, within the shoreline of Dianshan Lake and within 2,000 metres around it, within the shorelines of the Taipu River, the Xinmeng River and the Wangyu River and within 1,000 metres on each side of them, and within the shorelines from the estuary up to 10,000 metres upstream of other major rivers flowing into Taihu Lake and within 1,000 metres on each side of those shorelines:\n(a) setting up storage and transport facilities for highly toxic substances and hazardous chemicals, and waste recycling sites and refuse dumps;\n(b) setting up on-water catering business facilities;\n(c) newly building or expanding golf courses;\n(d) newly building or expanding livestock and poultry farms;\n(e) newly building or expanding construction projects that discharge pollutants into water bodies;\n(f) the acts prescribed in Article 29 of this Regulation.\nWhere facilities specified in items (a) and (b) of the preceding paragraph have already been set up, the local county-level people's government shall order their removal or closure."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Water Pollution Prevention and Control"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Local people's governments at or above the county level in the Taihu Lake Basin shall popularise advanced and applicable agricultural production techniques such as soil testing and formulated fertilisation, precision fertilisation and biological pest control, implement projects to reduce the application of pesticides and chemical fertilisers, reduce the quantities of chemical fertilisers and pesticides used, develop green and ecological agriculture, carry out the construction of clean small watersheds and effectively control agricultural non-point source pollution."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Water Pollution Prevention and Control"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The people's governments of the two provinces and one municipality shall strengthen the management of aquaculture in the Taihu Lake Basin, rationally determine the scale and layout of aquaculture, popularise ecological aquaculture techniques such as recirculating water aquaculture and aquaculture without feed and reduce pollution from aquaculture.\nThe State shall gradually eliminate pen aquaculture in Taihu Lake. The competent fishery administration departments of the people's governments of Jiangsu Province and Zhejiang Province shall, in accordance with the principles of unified planning, step-by-step implementation and reasonable compensation, organise the clearance of the pen aquaculture facilities set up in Taihu Lake."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Water Pollution Prevention and Control"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Livestock and poultry farms, specialised aquaculture cooperatives and aquaculture zones in the Taihu Lake Basin shall render harmless the manure and waste water of livestock and poultry and achieve discharge of sewage up to standard; where they reach the scale prescribed by the people's governments of the two provinces and one municipality, they shall construct supporting facilities such as biogas digesters and fermentation tanks for the comprehensive utilisation or harmless treatment of livestock and poultry manure and waste water and shall ensure their normal operation."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Water Pollution Prevention and Control"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Local people's governments at or above the county level in the Taihu Lake Basin shall rationally plan and construct public sewage pipelines and centralised sewage treatment facilities so as to achieve the separation of rainwater and sewage. Within 5 years from the date this Regulation comes into force, all domestic sewage in the towns where the local people's governments at or above the county level in the Taihu Lake Basin are located and in key designated towns shall be connected to public sewage pipelines and treated by centralised sewage treatment facilities.\nCounty-level people's governments in the Taihu Lake Basin shall provide the rural residential areas within their administrative areas with sewage and refuse collection facilities and shall carry out centralised treatment of the collected sewage and refuse."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Water Pollution Prevention and Control"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Newly built centralised sewage treatment facilities in the Taihu Lake Basin shall meet the requirements for advanced treatment for nitrogen and phosphorus removal; where existing centralised sewage treatment facilities do not meet those requirements, the local municipal or county people's government shall organise their technical transformation within 1 year from the date this Regulation comes into force.\nMunicipal and county people's governments in the Taihu Lake Basin shall make overall plans for the construction of sludge treatment facilities and shall guide centralised sewage treatment units in rendering harmless the sludge and other wastes generated in sewage treatment so as to avoid secondary pollution.\nThe State encourages centralised sewage treatment units to construct supporting facilities for the utilisation of reclaimed water."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Water Pollution Prevention and Control"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Vessels navigating in the Taihu Lake Basin shall be equipped as required with facilities for collecting pollutants and wastes such as sewage, waste oil, refuse and night soil. Vessels that do not hold lawful and valid certificates and documents for the prevention of pollution of the water environment may not navigate in the Taihu Lake Basin. Vessels transporting highly toxic substances or hazardous chemicals may not enter Taihu Lake.\nAll ports, wharves, loading and unloading stations and ship repair yards in the Taihu Lake Basin shall be equipped with facilities for receiving vessel pollutants and wastes and the necessary emergency facilities for water pollution, and shall accept supervision by the local port administration department and the competent environmental protection department.\nLocal people's governments at or above the county level in the Taihu Lake Basin and the maritime safety administration agencies concerned shall establish and improve the emergency system for vessel-caused water pollution accidents and shall immediately take emergency response measures after such an accident occurs."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Water Pollution Prevention and Control"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "County-level people's governments in the Taihu Lake Basin shall form professional salvage teams responsible for salvaging blue-green algae and other harmful algae in key local waters. The salvaged blue-green algae and other harmful algae shall be transported to designated sites for harmless treatment.\nThe State encourages the use of technically mature, safe and reliable methods for the ecological prevention and control of blue-green algae and other harmful algae."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Water Pollution Prevention and Control"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "The flood control and drought relief command body of the Taihu Lake Basin shall, under the leadership of the national flood control and drought relief command body, uniformly organise, command, guide, coordinate and supervise flood control and drought relief work in the Taihu Lake Basin, and its specific work shall be undertaken by the Taihu Lake Basin management agency."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V Flood Control and Drought Relief and Protection of Waters and Shorelines"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The Taihu Lake Basin management agency shall, together with the people's governments of the two provinces and one municipality, formulate a flood regulation plan for the Taihu Lake Basin and submit it to the national flood control and drought relief command body for approval. The flood regulation plan for the Taihu Lake Basin is the basic basis for flood control regulation in the Basin.\nWhere a flood exceeding the design standard or an exceptionally severe drought disaster occurs in the Taihu Lake Basin, the flood control and drought relief command body of the Taihu Lake Basin shall organise the flood control and drought relief command bodies of the people's governments of the two provinces and one municipality to put forward handling opinions, which shall be implemented after approval by the national flood control and drought relief command body."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V Flood Control and Drought Relief and Protection of Waters and Shorelines"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "The flood control and drought relief command body of the Taihu Lake Basin shall issue flood control and drought relief regulation instructions for the Taipu Sluice and pumping station on the Taipu River, the riverside complex and the canal interchange complex on the Xinmeng River, the Wangting and Changshu water conservancy complexes on the Wangyu River, and the water projects determined by the national flood control and drought relief command body to have a relatively large impact on flood control and drought relief in the Basin.\nFlood control and drought relief regulation instructions for other water projects in the Taihu Lake Basin shall be issued by the flood control and drought relief command bodies of local people's governments at or above the county level in the Basin in accordance with their duties and powers."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter V Flood Control and Drought Relief and Protection of Waters and Shorelines"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "The water level of Taihu Lake and other hydrological measurement data related to regulation shall be based on the measurement data of the national basic hydrological stations; where no national basic hydrological station has been established, the hydrological measurement data confirmed by the Taihu Lake Basin management agency shall be authoritative."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter V Flood Control and Drought Relief and Protection of Waters and Shorelines"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The Taihu Lake Basin management agency shall organise the competent water administration departments of the people's governments of the two provinces and one municipality, together with the competent transport departments at the same level, to formulate a shoreline utilisation and management plan in accordance with the needs of flood control, drought relief and water area protection and, after soliciting the opinions of the land and resources, environmental protection, urban and rural planning and other departments of the people's governments of the two provinces and one municipality, submit it to the water administration department of the State Council for examination and for submission to the State Council for approval. The shoreline utilisation and management plan shall specify the requirements for the delineation, utilisation and management of the shorelines of Taihu Lake, the Taipu River, the Xinmeng River and the Wangyu River.\nCounty-level people's governments in the Taihu Lake Basin shall, in accordance with the shoreline utilisation and management plan, organise the delineation of the shorelines of Taihu Lake, the Taipu River, the Xinmeng River and the Wangyu River, set up boundary markers and report them to the Taihu Lake Basin management agency for the record."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter V Flood Control and Drought Relief and Protection of Waters and Shorelines"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Construction projects built within the shorelines of Taihu Lake, the Taipu River, the Xinmeng River and the Wangyu River shall conform to the comprehensive plan for the Taihu Lake Basin and the shoreline utilisation and management plan, may not reduce the area of waters, may not lower the flood discharge and storage capacity and may not change the use nature of waters or beaches without authorisation; where it is unavoidable to reduce the area of waters or lower the flood discharge and storage capacity, equivalent replacement works shall be built at the same time or other functional remedial measures shall be taken."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter V Flood Control and Drought Relief and Protection of Waters and Shorelines"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where it is necessary to temporarily occupy waters or beaches within the shorelines of Taihu Lake, the Taipu River, the Xinmeng River and the Wangyu River, the consent of the Taihu Lake Basin management agency shall be obtained and the relevant formalities shall be completed in accordance with law. The period of temporary occupation of waters or beaches may not exceed 2 years.\nWhen the period of temporary occupation expires, the temporary occupier shall promptly restore the waters and beaches to their original state; where the temporary occupation of waters or beaches causes losses to the production of local residents and the like, compensation shall be made in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter V Flood Control and Drought Relief and Protection of Waters and Shorelines"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "The construction and treatment of polder areas in the Taihu Lake Basin shall conform to the basin flood control requirements, the standards for polder areas shall be rationally controlled, the scale of drainage rivers outside polder areas shall be arranged in an overall manner, the linking and merging of polders shall be strictly controlled, enclosing large areas of waters such as lakes and marshes within polders is prohibited and reducing the area of waters outside polders is prohibited.\nThe competent water administration departments of the people's governments of the two provinces and one municipality shall prepare plans for the construction and treatment of polder areas and organise their implementation after approval by the people's government at the same level. The plans for the construction and treatment of polder areas in Taihu Lake, the Taipu River, the Xinmeng River and the Wangyu River and in the rivers on the boundaries of the administrative areas of the two provinces and one municipality shall, before approval, obtain the consent of the Taihu Lake Basin management agency."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter V Flood Control and Drought Relief and Protection of Waters and Shorelines"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "It is prohibited to enclose polders or reclaim land from the lake within the shoreline of Taihu Lake; existing enclosed polders may not have their dikes heightened or widened, and land already reclaimed from the lake may not have its ground level raised.\nThe competent water administration departments of the people's governments of the two provinces and one municipality shall, together with the land and resources and other departments at the same level, prepare within 2 years from the date this Regulation comes into force a work plan for clearing the existing enclosed polders and the land reclaimed from the lake within the shoreline of Taihu Lake and organise its implementation after approval by the water administration department of the State Council and the people's governments of the two provinces and one municipality."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter V Flood Control and Drought Relief and Protection of Waters and Shorelines"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Local people's governments at or above the county level in the Taihu Lake Basin and their relevant departments shall take measures to protect and improve the ecological environment of Taihu Lake and shall rationally build ecological shelterbelts within 500 metres around the shoreline of Taihu Lake, within 1,500 metres around drinking water source protection areas and within 200 metres on each side of the shorelines of major rivers flowing into Taihu Lake."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VI Guarantee Measures"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "The forestry, water administration, environmental protection, agriculture and other departments of local people's governments at or above the county level in the Taihu Lake Basin shall carry out comprehensive treatment, protect wetlands and promote ecological restoration.\nThe competent fishery administration departments of the people's governments of the two provinces and one municipality shall, in light of the state of aquatic biological resources in the Taihu Lake Basin, the reproduction patterns of important fishery resources and the need to protect aquatic germplasm resources, carry out the release of aquatic organisms to increase resources, apply the systems of closed fishing areas and closed fishing seasons and delineate aquatic germplasm resource protection areas."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VI Guarantee Measures"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where an upstream area fails to complete the plan for the reduction and control of the total discharge of major water pollutants, or the water quality of the cross-sections at the boundary of its administrative area fails to reach the phased water quality targets, it shall compensate the downstream area; where an upstream area completes the plan for the reduction and control of the total discharge of major water pollutants and the water quality of the cross-sections at the boundary of its administrative area reaches the phased water quality targets, the downstream area shall compensate the upstream area. Compensation shall be paid by way of fiscal transfer payments or other means determined through consultation by the local people's governments concerned. The specific measures shall be formulated by the competent finance and environmental protection departments of the State Council together with the people's governments of the two provinces and one municipality."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VI Guarantee Measures"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Units and individuals that discharge sewage shall pay sewage treatment fees in accordance with the provisions. Where water is supplied through public water supply facilities, the sewage treatment fee shall be collected together with the water charge; where self-supplied water sources are used, the sewage treatment fee shall be collected together with the water resources fee. Sewage treatment fees shall be included in local budgetary management and used exclusively for the construction and operation of centralised sewage treatment facilities. Where the sewage treatment fees cannot cover the normal operating costs of a centralised sewage treatment unit, the local county-level people's government shall grant appropriate subsidies."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VI Guarantee Measures"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "For enterprises that voluntarily close down, relocate, change their line of production or carry out technical transformation in order to reduce the discharge of water pollutants, the people's governments of the two provinces and one municipality shall give encouragement and support through fiscal, credit, government procurement and other measures.\nThe State encourages enterprises discharging water pollutants in the Taihu Lake Basin to take out environmental pollution liability insurance; the specific measures shall be formulated by the environmental protection department of the State Council together with the insurance regulatory authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VI Guarantee Measures"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "For farmers who change their line of production or occupation as a result of the clearing of aquaculture and livestock and poultry breeding and the implementation of returning farmland to lakes and returning fisheries to lakes, the local county-level people's government shall grant subsidies and support and shall guarantee their basic living by means such as labour skills training and inclusion in the social security system.\nFor farmers whose income is reduced or whose expenses are increased as a result of the implementation of projects to reduce the application of pesticides and chemical fertilisers, the local county-level people's government shall grant subsidies."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VI Guarantee Measures"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "The development and reform, environmental protection, water administration, housing and urban-rural development and other departments of the State Council shall, in accordance with the relevant provisions of the State Council, conduct annual assessments of the implementation by the people's governments of the two provinces and one municipality of their target responsibilities for the protection of water resources and the prevention and control of water pollution and shall report the assessment results to the State Council.\nLocal people's governments at or above the county level in the Taihu Lake Basin shall conduct annual assessments of the implementation by the people's governments at the next lower level of their target responsibilities for the protection of water resources and the prevention and control of water pollution."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VII Monitoring and Supervision"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "The State shall establish a monitoring system and an information sharing mechanism for the Taihu Lake Basin in accordance with the requirements of unified planning and layout, unified standards and methods and unified information release.\nThe Taihu Lake Basin management agency shall, in consultation with the competent environmental protection and water administration departments and the competent meteorological agencies of the people's governments of the two provinces and one municipality, establish a unified platform for sharing monitoring information on the Taihu Lake Basin.\nThe competent environmental protection departments of the people's governments of the two provinces and one municipality shall be responsible for monitoring the quality of the water environment and for supervisory monitoring of pollution sources within their respective administrative areas. The Taihu Lake Basin management agency and the competent water administration departments of the people's governments of the two provinces and one municipality shall be responsible for hydrological and water resources monitoring; the Taihu Lake Basin management agency shall be responsible for monitoring the quality of the water environment in the waters at the boundaries of the administrative areas of the two provinces and one municipality and at the control sections of major rivers flowing into Taihu Lake, as well as for monitoring water quality in key water function zones of the Taihu Lake Basin and in the water diverted from the Yangtze River to Taihu Lake.\nInformation on the quality of the water environment of the Taihu Lake Basin shall be released by the competent environmental protection departments of the people's governments of the two provinces and one municipality in accordance with their duties and powers. Information on hydrology and water resources of the Taihu Lake Basin shall be released in a unified manner by the Taihu Lake Basin management agency together with the competent water administration departments of the people's governments of the two provinces and one municipality; where the release of hydrological and water resources information involves content on the quality of the water environment, it shall be agreed with the competent environmental protection department. The annual monitoring report on the Taihu Lake Basin shall be jointly released by the environmental protection and water administration departments of the State Council and, where necessary, may be released by authorising the Taihu Lake Basin management agency."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VII Monitoring and Supervision"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Under any of the following circumstances, the departments concerned shall suspend the handling of the procedures for approval and verification and for environmental impact assessment, water withdrawal permits and examination of the establishment of sewage outlets in respect of construction projects that may cause pollution in the relevant administrative areas of the two provinces and one municipality or in areas along major rivers flowing into Taihu Lake, and shall notify the local people's government concerned to take treatment measures:\n(a) failing to complete the plan for the reduction and control of the total discharge of major water pollutants, or the cross-sections at the boundaries of administrative areas or the control sections of major rivers flowing into Taihu Lake failing to reach the phased water quality targets;\n(b) failing to complete the tasks of removing or closing illegal facilities prescribed in this Regulation;\n(c) causing serious consequences such as a water supply safety accident through the illegal approval of the new construction or expansion of production projects that pollute the water environment."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VII Monitoring and Supervision"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "The Taihu Lake Basin management agency and the competent water administration departments of local people's governments at or above the county level in the Taihu Lake Basin shall verify and register the sewage outlets set up in the lakes and rivers of the Taihu Lake Basin, establish supervision and management files and, in respect of sewage outlets that cause serious pollution or are illegally set up, deal with them in accordance with the provisions of the Water Law of the People's Republic of China and the Law of the People's Republic of China on the Prevention and Control of Water Pollution."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VII Monitoring and Supervision"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "The competent environmental protection departments of local people's governments at or above the county level in the Taihu Lake Basin shall, together with the relevant departments, strengthen supervision and inspection of the implementation of the plans for the reduction and control of the total discharge of major water pollutants and shall periodically publish the results to society in accordance with their duties and powers.\nThe environmental protection department of the State Council shall periodically carry out investigations and assessments of water pollution in the Taihu Lake Basin."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VII Monitoring and Supervision"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "The water administration, environmental protection, fishery, transport, housing and urban-rural development and other departments of local people's governments at or above the county level in the Taihu Lake Basin and the Taihu Lake Basin management agency shall, in accordance with the provisions of this Regulation and the relevant laws and regulations, strengthen supervision and inspection of the development, utilisation, protection and treatment of Taihu Lake, and upon discovering illegal acts shall notify the relevant departments to investigate and deal with them or, where necessary, may directly notify the local people's government concerned to investigate and deal with them."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VII Monitoring and Supervision"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where local people's governments at or above the county level in the Taihu Lake Basin and their staff violate the provisions of this Regulation and commit any of the following acts, sanctions shall be imposed in accordance with law on the persons in charge who are directly responsible and other persons who are directly responsible; where a crime is constituted, criminal liability shall be investigated in accordance with law:\n(a) failing to perform the duties of monitoring, reporting and early warning for water supply safety, or failing to promptly take emergency measures after a water supply safety accident occurs;\n(b) failing to perform the duties of reducing and controlling the total discharge of water pollutants, or failing to order the removal or closure of illegal facilities in accordance with law;\n(c) failing to perform other duties prescribed in this Regulation."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Where the water administration, environmental protection, housing and urban-rural development and other departments of people's governments at or above the county level and their staff violate the provisions of this Regulation and commit any of the following acts, the people's government at the same level shall order correction and circulate a notice of criticism, and sanctions shall be imposed in accordance with law on the persons in charge who are directly responsible and other persons who are directly responsible; where a crime is constituted, criminal liability shall be investigated in accordance with law:\n(a) failing to organise the implementation of the technical transformation of water supply facilities;\n(b) failing to implement the system of total water withdrawal control;\n(c) failing to perform the duty of monitoring or releasing false monitoring information;\n(d) failing to organise the clearance of enclosed polders, land reclaimed from the lake and pen aquaculture facilities in Taihu Lake within the shoreline of Taihu Lake;\n(e) failing to perform other duties prescribed in this Regulation."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where the Taihu Lake Basin management agency and its staff violate the provisions of this Regulation and commit any of the following acts, the water administration department of the State Council shall order correction and circulate a notice of criticism, and sanctions shall be imposed in accordance with law on the persons in charge who are directly responsible and other persons who are directly responsible; where a crime is constituted, criminal liability shall be investigated in accordance with law:\n(a) failing to perform the duty of regulating water resources;\n(b) failing to perform the duty of managing water function zones and sewage outlets;\n(c) failing to organise the formulation of water resources regulation plans and shoreline utilisation and management plans;\n(d) failing to perform the duty of monitoring;\n(e) failing to perform other duties prescribed in this Regulation."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Where a water project management unit in the Taihu Lake Basin violates the provisions of this Regulation and refuses to obey regulation, the Taihu Lake Basin management agency or the water administration department shall, in accordance with its duties and powers, order correction and circulate a notice of criticism, and sanctions shall be imposed in accordance with law on the persons in charge who are directly responsible and other persons who are directly responsible; where a crime is constituted, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Where a pollutant-discharging unit violates the provisions of this Regulation by discharging water pollutants in excess of the verified total discharge of water pollutants, or discharges water pollutants in excess of the special discharge limits for water pollutants within the geographical scope and time limit for which the application of such special discharge limits in the Taihu Lake Basin has been determined, it shall be penalised in accordance with the provisions of Article 74 of the Law of the People's Republic of China on the Prevention and Control of Water Pollution."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Whoever, in violation of the provisions of this Regulation, newly builds or expands chemical or pharmaceutical production projects, or sets up storage or transport facilities for highly toxic substances or hazardous chemicals, or sets up waste recycling sites, refuse dumps or on-water catering business facilities within the shorelines of Taihu Lake, Dianshan Lake, the Taipu River, the Xinmeng River, the Wangyu River and other major rivers flowing into Taihu Lake or within the protected areas around or on both sides of those shorelines shall be ordered by the competent environmental protection department of the local people's government at or above the county level in the Taihu Lake Basin to make corrections and shall be fined not less than RMB 200,000 and not more than RMB 500,000; where corrections are refused, the competent environmental protection department of the local people's government at or above the county level in the Taihu Lake Basin shall enforce the decision in accordance with law, and the expenses incurred shall be borne by the person committing the illegal act; where a crime is constituted, criminal liability shall be investigated in accordance with law.\nWhoever, in violation of the provisions of this Regulation, newly builds or expands a golf course within the shorelines of Taihu Lake, Dianshan Lake, the Taipu River, the Xinmeng River, the Wangyu River and other major rivers flowing into Taihu Lake or within the protected areas around or on both sides of those shorelines shall be ordered by the local people's government at or above the county level in the Taihu Lake Basin to stop construction or to close down."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Whoever, in violation of the provisions of this Regulation, brings a vessel transporting highly toxic substances or hazardous chemicals into Taihu Lake shall be ordered by the competent transport department to make corrections and shall be fined not less than RMB 100,000 and not more than RMB 200,000; where there are illegal gains, the illegal gains shall be confiscated; where corrections are refused, the offender shall be ordered to suspend production or business for rectification; where a crime is constituted, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Whoever, in violation of the provisions of this Regulation, builds a construction project within the shorelines of Taihu Lake, the Taipu River, the Xinmeng River or the Wangyu River that does not conform to the shoreline utilisation and management plan, or fails to build equivalent replacement works or take other functional remedial measures in accordance with law, shall be ordered by the Taihu Lake Basin management agency or the competent water administration department of the local people's government at or above the county level, in accordance with its duties and powers, to make corrections and shall be fined not less than RMB 100,000 and not more than RMB 300,000; where corrections are refused, the Taihu Lake Basin management agency or the competent water administration department of the local people's government at or above the county level shall, in accordance with its duties and powers, enforce the decision in accordance with law, and the expenses incurred shall be borne by the person committing the illegal act."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Whoever commits any of the following acts in violation of the provisions of this Regulation shall be ordered by the Taihu Lake Basin management agency or the competent water administration department of the local people's government at or above the county level, in accordance with its duties and powers, to make corrections and shall be fined not less than RMB 50,000 and not more than RMB 100,000 in the case of a unit, or not less than RMB 10,000 and not more than RMB 30,000 in the case of an individual; where corrections are refused, the Taihu Lake Basin management agency or the competent water administration department of the local people's government at or above the county level shall, in accordance with its duties and powers, enforce the decision in accordance with law, and the expenses incurred shall be borne by the person committing the illegal act:\n(a) occupying waters or beaches within the shorelines of Taihu Lake, the Taipu River, the Xinmeng River or the Wangyu River without authorisation, or failing to promptly restore the original state upon the expiry of a period of temporary occupation;\n(b) enclosing polders within the shoreline of Taihu Lake, heightening or widening the dikes of existing enclosed polders, or raising the ground level of land already reclaimed from the lake;\n(c) engaging in development and utilisation activities in Taihu Lake that do not meet the water function protection requirements.\nWhoever, in violation of the provisions of this Regulation, reclaims land from the lake within the shoreline of Taihu Lake shall be penalised in accordance with the provisions of Article 66 of the Water Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "The control sections of major rivers flowing into Taihu Lake referred to in this Regulation include the control sections at the points where the following rivers flow into Taihu Lake: the Wangyu River, Daxi Port, Liangxi River, Zhihu Port, Wujin Port, the Taige Canal, Caoqiao River, Yincun Port, Shedu Port, Guandu Port, Hongxiang Port, Chendong Port, Dapu Port, Wuxi Port, Dagang River, Jiapu Port, Hexin New Port, Changxing Port, Yangjiapu Port, Mao'er Port, the Tiao Creek and Daqian Port."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "The two provinces and one municipality may, in light of the needs of comprehensive water environment treatment, set industrial access conditions and water pollution prevention and control standards that are stricter than those prescribed by the State."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "This Regulation shall come into force on 1 November 2011."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-REG-0338'] = {
     "lawId": "CN-REG-0338",
     "sourceLang": "zh",
@@ -28551,6 +33777,2520 @@
         },
         "chapter": {
           "en": "Chapter IV Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0341'] = {
+    "lawId": "CN-REG-0341",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 103 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Regulation is formulated in order to strengthen safety supervision over special equipment, prevent and reduce accidents, safeguard the lives and property of the people and promote economic development."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Special equipment referred to in this Regulation means boilers, pressure vessels (including gas cylinders, the same below), pressure pipelines, lifts, hoisting machinery, passenger ropeways, large amusement devices and special motor vehicles used in sites (plants) that involve the safety of life and are relatively dangerous.\nThe catalogue of the special equipment referred to in the preceding paragraph shall be drawn up by the department responsible for safety supervision and administration of special equipment under the State Council (hereinafter referred to as the special equipment safety supervision and administration department of the State Council), and shall be implemented after being submitted to the State Council for approval."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The production (including design, manufacture, installation, alteration and repair, the same below), use, inspection and testing of special equipment and the supervision and inspection thereof shall comply with this Regulation, except as otherwise provided in this Regulation.\nThis Regulation shall not apply to safety supervision over special equipment used in military equipment, nuclear facilities, aerospace vehicles, railway locomotives, offshore facilities and vessels, and underground mines, or over equipment special to civil airports.\nThe supervision and administration of the installation and use of hoisting machinery and special motor vehicles used in sites (plants) on housing construction sites and municipal engineering sites shall be carried out by the competent construction administration departments in accordance with the provisions of the relevant laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The special equipment safety supervision and administration department of the State Council shall be responsible for the safety supervision of special equipment throughout the country, and the departments responsible for safety supervision and administration of special equipment of local authorities at or above the county level shall exercise safety supervision over special equipment within their respective administrative regions (hereinafter collectively referred to as the special equipment safety supervision and administration departments)."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Units producing and using special equipment shall establish and improve sound management systems for the safety and energy conservation of special equipment and systems of post-based responsibility for safety and energy conservation.\nThe principal persons in charge of units producing and using special equipment shall be fully responsible for the safety and energy conservation of the special equipment of their units.\nUnits producing and using special equipment and special equipment inspection and testing institutions shall accept the safety supervision over special equipment lawfully carried out by the special equipment safety supervision and administration departments."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Special equipment inspection and testing institutions shall carry out inspection and testing work in accordance with the provisions of this Regulation, and shall bear legal liability for their inspection and testing results and appraisal conclusions."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Local people's governments at or above the county level shall urge and support the special equipment safety supervision and administration departments in lawfully performing their duties of safety supervision, and shall promptly coordinate and resolve major problems existing in the safety supervision of special equipment."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The State encourages the promotion of scientific management methods and the adoption of advanced technology to improve the safety performance and management level of special equipment and enhance the ability of units producing and using special equipment to prevent accidents, and shall give awards to units and individuals that have achieved outstanding results.\nThe State encourages research, development, demonstration and dissemination of energy conservation technology for special equipment, and promotes innovation in and application of energy conservation technology for special equipment.\nUnits producing and using special equipment and special equipment inspection and testing institutions shall ensure the necessary investment in safety and energy conservation.\nThe State encourages the implementation of a liability insurance system for special equipment to improve the capacity for compensation in accidents."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Any unit or individual shall have the right to report acts violating the provisions of this Regulation to the special equipment safety supervision and administration departments and the administrative supervision and other relevant departments.\nSpecial equipment safety supervision and administration departments shall establish a reporting system for safety supervision of special equipment, make public reporting telephone numbers, mailboxes or e-mail addresses, accept reports of unlawful acts in the production, use, inspection and testing of special equipment, and handle them promptly.\nSpecial equipment safety supervision and administration departments and the administrative supervision and other relevant departments shall keep reports confidential and give awards in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Units producing special equipment shall carry out production activities in accordance with the provisions of this Regulation and the requirements of the safety technology codes formulated and published by the special equipment safety supervision and administration department of the State Council (hereinafter referred to as the safety technology codes).\nUnits producing special equipment shall be responsible for the safety performance and energy efficiency indicators of the special equipment they produce, and may not produce special equipment that does not meet the requirements for safety performance and energy efficiency indicators, or special equipment that is expressly eliminated under the industrial policy of the State."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Production of Special Equipment"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "A unit designing pressure vessels may engage in pressure vessel design activities only after obtaining a licence from the special equipment safety supervision and administration department of the State Council.\nA unit designing pressure vessels shall meet the following conditions:\n(a) having design personnel and design review personnel suited to pressure vessel design;\n(b) having premises and equipment suited to pressure vessel design;\n(c) having sound management systems and responsibility systems suited to pressure vessel design."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Production of Special Equipment"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The design documents of boilers, gas cylinders within pressure vessels (hereinafter referred to as gas cylinders), oxygen chambers, passenger ropeways, large amusement devices and high energy-consuming special equipment shall be appraised by inspection and testing institutions approved by the special equipment safety supervision and administration department of the State Council before they may be used for manufacture."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Production of Special Equipment"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where, in accordance with the requirements of the safety technology codes, type testing is required for special equipment products or components, or for trial-manufactured new special equipment products, new components or new materials, type testing and energy efficiency testing must be carried out."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Production of Special Equipment"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Units manufacturing, installing or altering boilers, pressure vessels, lifts, hoisting machinery, passenger ropeways, large amusement devices and their safety accessories and safety protection devices, units manufacturing pipes, pipe fittings, valves, flanges, compensators, safety protection devices and the like for pressure pipelines (hereinafter referred to as pressure pipeline components), and units manufacturing or altering special motor vehicles used in sites (plants) may engage in the corresponding activities only after obtaining a licence from the special equipment safety supervision and administration department of the State Council.\nThe units manufacturing, installing or altering the special equipment referred to in the preceding paragraph shall meet the following conditions:\n(a) having professional and technical personnel and skilled workers suited to the manufacture, installation or alteration of special equipment;\n(b) having production conditions and testing means suited to the manufacture, installation or alteration of special equipment;\n(c) having sound quality management systems and responsibility systems."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Production of Special Equipment"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "When special equipment leaves the factory, it shall be accompanied by documents required by the safety technology codes, such as design documents, product quality certification, installation, use and repair instructions, and supervision and inspection certificates."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Production of Special Equipment"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Units repairing boilers, pressure vessels, lifts, hoisting machinery, passenger ropeways, large amusement devices and special motor vehicles used in sites (plants) shall have professional and technical personnel and skilled workers suited to the repair of special equipment and the necessary testing means, and may engage in the corresponding repair activities only after obtaining a licence from the special equipment safety supervision and administration department of the province, autonomous region or municipality directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Production of Special Equipment"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The installation, alteration and repair of boilers, pressure vessels, hoisting machinery, passenger ropeways and large amusement devices, and the alteration and repair of special motor vehicles used in sites (plants), must be carried out by units that have obtained a licence in accordance with this Regulation.\nThe installation, alteration and repair of lifts must be carried out by the lift manufacturing unit or by units that have obtained a licence in accordance with this Regulation and that it has entrusted by contract or consented to. The lift manufacturing unit shall be responsible for the quality of the lift and for quality problems relating to safe operation.\nThe construction units installing, altering or repairing special equipment shall, before construction, notify in writing the special equipment safety supervision and administration department of the municipality directly under the Central Government or of the city with districts of the proposed installation, alteration or repair of special equipment, and may commence construction after such notification."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Production of Special Equipment"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The civil engineering works of lift shafts must meet the quality requirements for construction works. During lift installation, the lift installation unit shall comply with the safety production requirements of the construction site and implement on-site safety protection measures. During lift installation, supervision of safety production at the construction site shall be carried out by the relevant departments in accordance with the provisions of the relevant laws and administrative regulations.\nDuring lift installation, the lift installation unit shall submit to the safety production management of the construction site by the general construction contractor, and shall conclude a contract specifying the respective safety responsibilities."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Production of Special Equipment"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The manufacture, installation, alteration and repair of lifts must strictly comply with the requirements of the safety technology codes. Where a lift manufacturing unit entrusts or consents to another unit carrying out lift installation, alteration or repair, it shall provide safety guidance and monitoring for such activities. After the installation, alteration or repair of a lift is completed, the lift manufacturing unit shall calibrate and commission the lift in accordance with the requirements of the safety technology codes, and shall be responsible for the results of the calibration and commissioning."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Production of Special Equipment"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "After the completion of the installation, alteration or repair of boilers, pressure vessels, lifts, hoisting machinery, passenger ropeways and large amusement devices, and of the alteration or repair of special motor vehicles used in sites (plants), the construction unit undertaking the installation, alteration or repair shall, within 30 days after acceptance, transfer the relevant technical data to the user unit; for high energy-consuming special equipment, an energy efficiency testing report shall also be submitted in accordance with the requirements of the safety technology codes. The user unit shall place them in the safety technical file of the special equipment."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Production of Special Equipment"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The manufacturing process of boilers, pressure vessels, pressure pipeline components, hoisting machinery and large amusement devices, and the installation, alteration and major repair process of boilers, pressure vessels, lifts, hoisting machinery, passenger ropeways and large amusement devices, must undergo supervision and inspection by inspection and testing institutions approved by the special equipment safety supervision and administration department of the State Council in accordance with the requirements of the safety technology codes; those that have not passed supervision and inspection may not leave the factory or be delivered for use."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Production of Special Equipment"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Units filling mobile pressure vessels or gas cylinders may engage in filling activities only after obtaining a licence from the special equipment safety supervision and administration department of the province, autonomous region or municipality directly under the Central Government.\nFilling units shall meet the following conditions:\n(a) having management personnel and technical personnel suited to filling and management;\n(b) having filling equipment, testing means, sites and workshops, appliances and safety facilities suited to filling and management;\n(c) having sound filling management systems, responsibility systems and emergency handling measures.\nGas cylinder filling units shall provide gas users with gas cylinders meeting the requirements of the safety technology codes, give users guidance on the safe use of gas cylinders, handle the registration of use of gas cylinders in accordance with the requirements of the safety technology codes, and set out the requirements for periodic inspection of gas cylinders."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter II Production of Special Equipment"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Units using special equipment shall strictly implement the provisions of this Regulation and the provisions of laws and administrative regulations on safety production, and shall ensure the safe use of special equipment."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Use of Special Equipment"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Units using special equipment shall use special equipment meeting the requirements of the safety technology codes. Before special equipment is put into use, the user unit shall verify whether it is accompanied by the relevant documents provided in Article 15 of this Regulation."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Use of Special Equipment"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Before special equipment is put into use or within 30 days after it is put into use, the unit using the special equipment shall register it with the special equipment safety supervision and administration department of the municipality directly under the Central Government or of the city with districts. The registration mark shall be placed at or affixed to a conspicuous position on the special equipment."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Use of Special Equipment"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Units using special equipment shall establish safety technical files for special equipment. The safety technical files shall include the following:\n(a) documents such as the design documents of the special equipment, the manufacturing unit, the product quality certification, and the use and maintenance instructions, as well as installation technical documents and materials;\n(b) records of periodic inspection and periodic self-inspection of the special equipment;\n(c) records of the daily use of the special equipment;\n(d) records of daily maintenance of the special equipment and its safety accessories, safety protection devices, measurement and control devices and related ancillary instruments and meters;\n(e) records of operational failures and accidents of the special equipment;\n(f) energy efficiency testing reports, records of energy consumption and technical materials on energy conservation alteration of high energy-consuming special equipment."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Use of Special Equipment"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Units using special equipment shall carry out frequent daily maintenance of special equipment in use and conduct periodic self-inspection.\nUnits using special equipment shall conduct a self-inspection of special equipment in use at least once a month and keep records. Where abnormal conditions are found during the self-inspection and daily maintenance of special equipment in use, the user unit shall handle them promptly.\nUnits using special equipment shall carry out periodic calibration and overhaul of the safety accessories, safety protection devices, measurement and control devices and related ancillary instruments and meters of special equipment in use, and keep records.\nUnits using boilers shall carry out water (medium) treatment of boilers in accordance with the requirements of the safety technology codes, and shall accept the periodic inspection of water (medium) treatment carried out by special equipment inspection and testing institutions.\nUnits engaged in boiler cleaning shall carry out boiler cleaning in accordance with the requirements of the safety technology codes, and shall accept supervision and inspection of the boiler cleaning process carried out by special equipment inspection and testing institutions."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Use of Special Equipment"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Units using special equipment shall, in accordance with the periodic inspection requirements of the safety technology codes, submit a request for periodic inspection to a special equipment inspection and testing institution 1 month before the expiry of the period of validity of the safety inspection certificate.\nUpon receipt of a request for periodic inspection, the inspection and testing institution shall promptly carry out safety performance inspection and energy efficiency testing in accordance with the requirements of the safety technology codes.\nSpecial equipment that has not undergone periodic inspection or that fails inspection may not continue to be used."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Use of Special Equipment"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Where special equipment malfunctions or abnormal conditions occur, the user unit shall carry out a comprehensive examination of it and may put it back into use only after hidden accident hazards have been eliminated.\nWhere special equipment does not meet the energy efficiency indicators, the unit using the special equipment shall take corresponding measures for rectification."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Use of Special Equipment"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where special equipment has serious hidden accident hazards, is not worth altering or repairing, or has exceeded the service life prescribed by the safety technology codes, the unit using the special equipment shall scrap it promptly and shall complete deregistration with the special equipment safety supervision and administration department with which it was originally registered."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Use of Special Equipment"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The daily maintenance of lifts must be carried out by installation, alteration or repair units that have obtained a licence in accordance with this Regulation, or by the lift manufacturing unit.\nLifts shall be cleaned, lubricated, adjusted and inspected at least once every 15 days."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Use of Special Equipment"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Units carrying out daily maintenance of lifts shall, in the course of maintenance, strictly implement the requirements of the State safety technology codes, ensure the safety technical performance of the lifts they maintain, and be responsible for implementing on-site safety protection measures and ensuring construction safety.\nUnits carrying out daily maintenance of lifts shall be responsible for the safety performance of the lifts they maintain. Upon receiving notice of a failure, they shall immediately rush to the scene and take the necessary emergency rescue measures."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III Use of Special Equipment"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Units operating and using special equipment that provides services to the public, such as lifts, passenger ropeways and large amusement devices, shall establish a special equipment safety management body or be staffed with full-time safety management personnel; other units using special equipment shall, according to circumstances, establish a special equipment safety management body or be staffed with full-time or part-time safety management personnel.\nSafety management personnel for special equipment shall carry out frequent inspections of the use of special equipment and shall handle problems immediately upon discovery; in an emergency, they may decide to stop the use of the special equipment and promptly report to the relevant person in charge of their unit."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter III Use of Special Equipment"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Units operating and using passenger ropeways and large amusement devices shall, before putting passenger ropeways and large amusement devices into use each day, carry out trial operation and routine safety inspection, and shall inspect and confirm the safety devices.\nUnits operating and using lifts, passenger ropeways and large amusement devices shall place safety notices and warning signs for lifts, passenger ropeways and large amusement devices in conspicuous positions that are easy for passengers to notice."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter III Use of Special Equipment"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The principal persons in charge of units operating and using passenger ropeways and large amusement devices shall be familiar with the relevant safety knowledge of passenger ropeways and large amusement devices, and shall be fully responsible for the safe use of passenger ropeways and large amusement devices.\nThe principal persons in charge of units operating and using passenger ropeways and large amusement devices shall hold a meeting at least once a month to urge and inspect the work of safe use of passenger ropeways and large amusement devices.\nUnits operating and using passenger ropeways and large amusement devices shall, in light of their actual circumstances, be equipped with a corresponding number of rescue equipment and first-aid supplies."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter III Use of Special Equipment"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Passengers of lifts, passenger ropeways and large amusement devices shall comply with the requirements of the safety notices for use and obey the directions of the relevant staff members."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter III Use of Special Equipment"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "After a lift is put into use, the lift manufacturing unit shall track, investigate and learn about the safe operation of the lifts it has manufactured, put forward suggestions for improvement in respect of problems existing in safe operation on the part of units carrying out daily maintenance of the lift or units using the lift, and provide the necessary technical assistance. Where it finds that a lift has serious hidden accident hazards, it shall promptly report to the special equipment safety supervision and administration department. The lift manufacturing unit shall keep records of the circumstances investigated and learned."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter III Use of Special Equipment"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Operators of boilers, pressure vessels, lifts, hoisting machinery, passenger ropeways, large amusement devices and special motor vehicles used in sites (plants) and the relevant management personnel thereof (hereinafter collectively referred to as special equipment operators) may engage in the corresponding operations or management work only after passing the examination of the special equipment safety supervision and administration department in accordance with the relevant provisions of the State and obtaining a certificate for special operations personnel in the unified format of the State."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter III Use of Special Equipment"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Units using special equipment shall provide special equipment operators with education and training on the safety and energy conservation of special equipment, and shall ensure that special equipment operators possess the necessary knowledge of the safety and energy conservation of special equipment.\nSpecial equipment operators shall, in their operations, strictly implement the operating rules of special equipment and the relevant safety rules and regulations."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter III Use of Special Equipment"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where special equipment operators discover hidden accident hazards or other unsafe factors in the course of operations, they shall immediately report to the on-site safety management personnel and the relevant person in charge of the unit."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter III Use of Special Equipment"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Special equipment inspection and testing institutions engaged in supervision and inspection, periodic inspection, type testing and non-destructive testing services provided specially for the production, use, inspection and testing of special equipment as provided in this Regulation shall be subject to approval by the special equipment safety supervision and administration department of the State Council.\nSpecial equipment inspection and testing institutions established by units using special equipment shall, upon approval by the special equipment safety supervision and administration department of the State Council, be responsible for periodic inspection of special equipment within the scope of approval of their own units."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IV Inspection and Testing"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Special equipment inspection and testing institutions shall meet the following conditions:\n(a) having inspection and testing personnel suited to the inspection and testing work they undertake;\n(b) having inspection and testing instruments and equipment suited to the inspection and testing work they undertake;\n(c) having sound inspection and testing management systems and inspection and testing responsibility systems."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter IV Inspection and Testing"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Supervision and inspection, periodic inspection, type testing and non-destructive testing of special equipment shall be carried out by special equipment inspection and testing institutions approved in accordance with this Regulation.\nInspection and testing of special equipment shall meet the requirements of the safety technology codes."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter IV Inspection and Testing"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Special equipment inspection and testing personnel engaged in supervision and inspection, periodic inspection, type testing and non-destructive testing as provided in this Regulation may engage in inspection and testing work only after passing the examination organised by the special equipment safety supervision and administration department of the State Council and obtaining an inspection and testing personnel certificate.\nInspection and testing personnel engaged in inspection and testing work must practise in a special equipment inspection and testing institution, but may not practise simultaneously in two or more inspection and testing institutions."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter IV Inspection and Testing"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Special equipment inspection and testing institutions and inspection and testing personnel shall, in conducting inspection and testing of special equipment, follow the principles of good faith and of facilitating enterprises, and shall provide reliable and convenient inspection and testing services for units producing and using special equipment.\nSpecial equipment inspection and testing institutions and inspection and testing personnel shall be obliged to keep confidential the commercial secrets of the units inspected and tested."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter IV Inspection and Testing"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Special equipment inspection and testing institutions and inspection and testing personnel shall issue inspection and testing results and appraisal conclusions objectively, impartially and promptly. The inspection and testing results and appraisal conclusions shall, after being signed by the inspection and testing personnel, be signed by the person in charge of the inspection and testing institution.\nSpecial equipment inspection and testing institutions and inspection and testing personnel shall be responsible for the inspection and testing results and appraisal conclusions.\nThe special equipment safety supervision and administration department of the State Council shall organise supervisory random inspection of the inspection and testing results and appraisal conclusions of special equipment inspection and testing institutions. The departments responsible for safety supervision and administration of special equipment of local authorities at or above the county level may also organise supervisory random inspection within their respective administrative regions, provided that repeated random inspections are avoided. The results of supervisory random inspection shall be made public."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter IV Inspection and Testing"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Special equipment inspection and testing institutions and inspection and testing personnel may not engage in the production or sale of special equipment, and may not recommend, supervise the manufacture of, or supervise the sale of special equipment in their own name."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter IV Inspection and Testing"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where, in conducting inspection and testing of special equipment, a special equipment inspection and testing institution finds serious hidden accident hazards or serious excess over energy consumption standards, it shall promptly inform the unit using the special equipment and immediately report to the special equipment safety supervision and administration department."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter IV Inspection and Testing"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where special equipment inspection and testing institutions or inspection and testing personnel deliberately create difficulties for units producing or using special equipment by taking advantage of inspection and testing work, the units producing or using special equipment shall have the right to complain to the special equipment safety supervision and administration department, and the department receiving the complaint shall promptly conduct investigation and handling."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter IV Inspection and Testing"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Special equipment safety supervision and administration departments shall, in accordance with the provisions of this Regulation, carry out safety supervision over units producing and using special equipment and over inspection and testing institutions.\nIn respect of special equipment in schools, kindergartens and places where the public congregate such as stations, passenger wharves, shopping malls, stadiums and gymnasiums, exhibition halls and parks, special equipment safety supervision and administration departments shall carry out priority safety supervision."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Inspection"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where special equipment safety supervision and administration departments, on the basis of reports or evidence of suspected violations obtained, investigate and deal with acts suspected of violating the provisions of this Regulation, they may exercise the following functions and powers:\n(a) to investigate and learn from the legal representatives, principal persons in charge and other relevant personnel of units producing or using special equipment and of inspection and testing institutions about circumstances relating to suspected production, use, inspection or testing in violation of this Regulation;\n(b) to consult and copy the relevant contracts, invoices, account books and other relevant materials of units producing or using special equipment and of inspection and testing institutions;\n(c) to seal up or distrain special equipment in respect of which evidence shows that it does not meet the requirements of the safety technology codes or that there are other serious hidden accident hazards or serious excess over energy consumption standards."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Inspection"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Special equipment safety supervision and administration departments that grant licences, approvals or registration in accordance with the provisions of this Regulation shall strictly review the relevant matters in accordance with the conditions provided in this Regulation and the requirements of the safety technology codes; where the conditions provided in this Regulation and the requirements of the safety technology codes are not met, no licence, approval or registration shall be granted; where, during the period in which an application for a licence or approval is being processed, the special equipment safety supervision and administration department finds that the applicant has engaged in the corresponding activities of special equipment without a licence or has forged a licence or approval certificate, it shall not accept the application or grant the licence or approval, and shall not accept any new application of the applicant for a licence or approval within 1 year.\nWhere a unit that has not lawfully obtained a licence, approval or registration engages in the production, use, inspection or testing of special equipment without authorisation, the special equipment safety supervision and administration department shall deal with it in accordance with law.\nWhere a licence is revoked in accordance with law for violation of the provisions of this Regulation, the special equipment safety supervision and administration department shall not accept a new application of that unit for a licence within 3 years from the date of revocation of the licence."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Inspection"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where special equipment safety supervision and administration departments handle the administrative examination and approval matters provided in this Regulation, the procedures for acceptance, review, licensing and approval must be made public, and a decision to grant or not to grant the licence or approval shall be made within 30 days from the date of acceptance of the application; where the licence or approval is not granted, the reasons shall be explained to the applicant in writing."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Inspection"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Special equipment safety supervision and administration departments of local authorities at all levels may not engage in local protectionism or regional blockades in any form, may not grant licences repeatedly to units producing special equipment that have obtained a licence in other places in accordance with the provisions of this Regulation, and may not require repeated inspection and testing of special equipment that has passed inspection and testing in other places in accordance with the provisions of this Regulation."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Inspection"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Safety supervision personnel of special equipment safety supervision and administration departments (hereinafter referred to as special equipment safety supervision personnel) shall be familiar with the relevant laws, regulations, rules and safety technology codes, possess the corresponding professional knowledge and work experience, and shall have passed the examination of the special equipment safety supervision and administration department of the State Council and obtained a certificate for special equipment safety supervision personnel.\nSpecial equipment safety supervision personnel shall be loyal to their duties, adhere to principles and enforce the law impartially."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Inspection"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where special equipment safety supervision and administration departments carry out safety supervision over units producing or using special equipment and over inspection and testing institutions, two or more special equipment safety supervision personnel shall participate and shall present valid certificates of special equipment safety supervision personnel."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Inspection"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where special equipment safety supervision and administration departments carry out safety supervision over units producing or using special equipment and over inspection and testing institutions, they shall keep records of the content of each safety supervision, the problems found and the handling thereof, and the records shall be signed by the special equipment safety supervision personnel participating in the safety supervision and by the relevant person in charge of the unit inspected, and then placed on file. Where the relevant person in charge of the unit inspected refuses to sign, the special equipment safety supervision personnel shall record the circumstances in the case file."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Inspection"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where, in the course of safety supervision over units producing or using special equipment and over inspection and testing institutions, special equipment safety supervision and administration departments find acts violating the provisions of this Regulation and the requirements of the safety technology codes, or find that special equipment in use has hidden accident hazards or does not meet the energy efficiency indicators, they shall issue a special equipment safety supervision order in writing, ordering the relevant unit to promptly take measures to correct the matter or eliminate the hidden accident hazards. Where urgent disposal measures are required in an emergency, a written notice shall be issued subsequently."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Inspection"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where, in the course of safety supervision over units producing or using special equipment and over inspection and testing institutions, special equipment safety supervision and administration departments find major unlawful acts or serious hidden accident hazards, they shall, while taking necessary measures, promptly report to the special equipment safety supervision and administration department at the higher level. The department receiving the report shall take the necessary measures and promptly handle the matter.\nWhere the handling of unlawful acts, serious hidden accident hazards or failure to meet energy efficiency indicators requires the support and cooperation of the local people's government and the relevant departments, the special equipment safety supervision and administration department shall report to the local people's government and notify the other relevant departments. The local people's government and the other relevant departments shall take the necessary measures and promptly handle the matter."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Inspection"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "The special equipment safety supervision and administration department of the State Council and the special equipment safety supervision and administration departments of provinces, autonomous regions and municipalities directly under the Central Government shall periodically publish to the public the safety and energy efficiency status of special equipment.\nThe publication of the safety and energy efficiency status of special equipment shall include the following:\n(a) the quality and safety status of special equipment;\n(b) the circumstances, characteristics, cause analysis and preventive countermeasures of special equipment accidents;\n(c) the energy efficiency status of special equipment;\n(d) other circumstances that need to be published."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Inspection"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Any of the following circumstances shall constitute an especially major accident:\n(a) a special equipment accident causing 30 or more deaths, or 100 or more serious injuries (including acute industrial poisoning, the same below), or direct economic loss of 100 million yuan or more;\n(b) explosion of a boiler of 600 MW or more;\n(c) leakage of toxic media from pressure vessels or pressure pipelines, causing the evacuation of 150,000 or more persons;\n(d) stranding of 100 or more persons in the air on a passenger ropeway or large amusement device for 48 hours or more."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VI Accident Prevention, Investigation and Handling"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Any of the following circumstances shall constitute a major accident:\n(a) a special equipment accident causing 10 or more but fewer than 30 deaths, or 50 or more but fewer than 100 serious injuries, or direct economic loss of 50 million yuan or more but less than 100 million yuan;\n(b) interruption of operation of a boiler of 600 MW or more for 240 hours or more due to a safety failure;\n(c) leakage of toxic media from pressure vessels or pressure pipelines, causing the evacuation of 50,000 or more but fewer than 150,000 persons;\n(d) stranding of 100 or more persons in the air on a passenger ropeway or large amusement device for 24 hours or more but less than 48 hours."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VI Accident Prevention, Investigation and Handling"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Any of the following circumstances shall constitute a relatively major accident:\n(a) a special equipment accident causing 3 or more but fewer than 10 deaths, or 10 or more but fewer than 50 serious injuries, or direct economic loss of 10 million yuan or more but less than 50 million yuan;\n(b) explosion of a boiler, pressure vessel or pressure pipeline;\n(c) leakage of toxic media from pressure vessels or pressure pipelines, causing the evacuation of 10,000 or more but fewer than 50,000 persons;\n(d) complete overturning of hoisting machinery;\n(e) stranding of persons in the air on a passenger ropeway or large amusement device for 12 hours or more."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VI Accident Prevention, Investigation and Handling"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Any of the following circumstances shall constitute an ordinary accident:\n(a) a special equipment accident causing fewer than 3 deaths, or fewer than 10 serious injuries, or direct economic loss of 10,000 yuan or more but less than 10 million yuan;\n(b) leakage of toxic media from pressure vessels or pressure pipelines, causing the evacuation of 500 or more but fewer than 10,000 persons;\n(c) stranding of persons in a lift car for 2 hours or more;\n(d) breakage of a main load-bearing structural member of hoisting machinery or fall of the hoisting mechanism;\n(e) stranding of persons in the air on a passenger ropeway for 3.5 hours or more but less than 12 hours;\n(f) stranding of persons in the air on a large amusement device for 1 hour or more but less than 12 hours.\nIn addition to the provisions of the preceding paragraph, the special equipment safety supervision and administration department of the State Council may make supplementary provisions on other circumstances of ordinary accidents."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VI Accident Prevention, Investigation and Handling"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Special equipment safety supervision and administration departments shall formulate emergency plans for special equipment. Units using special equipment shall formulate special emergency plans for accidents and shall regularly conduct emergency drills for accidents.\nWhere pressure vessels or pressure pipelines explode or leak, the characteristics of the media shall be distinguished in emergency rescue, and handling shall be carried out strictly in accordance with the procedures provided in the relevant plans, so as to prevent secondary explosions."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter VI Accident Prevention, Investigation and Handling"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "After a special equipment accident occurs, the unit where the accident occurs shall immediately activate the emergency plan for the accident, organise rescue, prevent the expansion of the accident, reduce casualties and property losses, and promptly report to the special equipment safety supervision and administration department at or above the county level and the relevant departments of the place where the accident occurs.\nUpon receipt of a report of an accident, the special equipment safety supervision and administration department at or above the county level shall verify the relevant circumstances as soon as possible, immediately report to the local people's government and report the circumstances of the accident level by level. When necessary, the special equipment safety supervision and administration department may report the circumstances of the accident by bypassing the immediate level. In respect of especially major accidents and major accidents, the special equipment safety supervision and administration department of the State Council shall immediately report to the State Council and notify the department of the State Council responsible for safety production supervision and administration and other relevant departments."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter VI Accident Prevention, Investigation and Handling"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Especially major accidents shall be investigated by an accident investigation team organised by the State Council or by the relevant department authorised by the State Council.\nMajor accidents shall be investigated by an accident investigation team organised by the special equipment safety supervision and administration department of the State Council together with the relevant departments.\nRelatively major accidents shall be investigated by an accident investigation team organised by the special equipment safety supervision and administration department of the province, autonomous region or municipality directly under the Central Government together with the relevant departments.\nOrdinary accidents shall be investigated by an accident investigation team organised by the special equipment safety supervision and administration department of the city with districts together with the relevant departments."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter VI Accident Prevention, Investigation and Handling"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "The accident investigation report shall be approved by the people's government of the place where the special equipment safety supervision and administration department responsible for organising the accident investigation is located, and shall be submitted to the special equipment safety supervision and administration department at the next higher level for the record.\nThe relevant organs shall, in accordance with the approval and in accordance with the limits of authority and procedures provided by laws and administrative regulations, impose administrative penalties on the units responsible for the accident and the relevant personnel, and impose sanctions on the State functionaries responsible for the accident."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter VI Accident Prevention, Investigation and Handling"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "Special equipment safety supervision and administration departments shall, under the leadership of the relevant local people's governments, organise and carry out the investigation and handling of special equipment accidents.\nThe relevant local people's governments shall support and cooperate with the accident investigation and handling work of the people's government at a higher level or of the special equipment safety supervision and administration department, and shall provide the necessary conveniences."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter VI Accident Prevention, Investigation and Handling"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "Special equipment safety supervision and administration departments shall analyse the causes of accidents, and shall assess the relevant safety technology codes in light of the management and technical characteristics of special equipment and the circumstances of the accidents; where the relevant safety technology codes need to be formulated or revised, they shall be formulated or revised promptly."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter VI Accident Prevention, Investigation and Handling"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "The term \"or more\" referred to in this Chapter includes the figure itself, and the term \"fewer than\" referred to in this Chapter does not include the figure itself."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter VI Accident Prevention, Investigation and Handling"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "Where a unit engages in pressure vessel design activities without authorisation and without a licence, the special equipment safety supervision and administration department shall ban it, impose a fine of not less than 50,000 yuan but not more than 200,000 yuan, and confiscate any illegal gains; where the criminal law is violated, the responsible persons in charge and the other persons directly responsible shall be pursued for criminal liability in accordance with law under the provisions of the criminal law on the crime of illegal business operation or other crimes."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "Where the design documents of boilers, gas cylinders, oxygen chambers, passenger ropeways, large amusement devices and high energy-consuming special equipment are used for manufacture without authorisation and without appraisal by an inspection and testing institution approved by the special equipment safety supervision and administration department of the State Council, the special equipment safety supervision and administration department shall order correction, confiscate the illegally manufactured products and impose a fine of not less than 50,000 yuan but not more than 200,000 yuan; where the criminal law is violated, the responsible persons in charge and the other persons directly responsible shall be pursued for criminal liability in accordance with law under the provisions of the criminal law on the crime of producing or selling fake or inferior products, the crime of illegal business operation or other crimes."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "Where type testing of a complete machine or component is not carried out for special equipment products or components for which type testing is required in accordance with the requirements of the safety technology codes, or for trial-manufactured new special equipment products or new components, the special equipment safety supervision and administration department shall order correction within a time limit; where correction is not made on expiry of the time limit, a fine of not less than 20,000 yuan but not more than 100,000 yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "Where a unit engages without authorisation and without a licence in the manufacture, installation or alteration of boilers, pressure vessels, lifts, hoisting machinery, passenger ropeways, large amusement devices and their safety accessories and safety protection devices, or in the manufacture of pressure pipeline components, the special equipment safety supervision and administration department shall ban it, confiscate the illegally manufactured products; where installation or alteration has already been carried out, order restoration to the original state or order that reinstallation or realteration be carried out within a time limit by a unit that has obtained a licence, and impose a fine of not less than 100,000 yuan but not more than 500,000 yuan; where the criminal law is violated, the responsible persons in charge and the other persons directly responsible shall be pursued for criminal liability in accordance with law under the provisions of the criminal law on the crime of producing or selling fake or inferior products, the crime of illegal business operation, the crime of major responsibility accident or other crimes."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "Where, when special equipment leaves the factory, documents such as design documents, product quality certification, installation, use and repair instructions, and supervision and inspection certificates are not attached in accordance with the requirements of the safety technology codes, the special equipment safety supervision and administration department shall order correction; where the circumstances are serious, order suspension of production and sale and impose a fine of not more than 30 per cent of the value of the goods unlawfully produced or sold; where there are illegal gains, confiscate the illegal gains."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "Where a unit engages without authorisation and without a licence in the repair or daily maintenance of boilers, pressure vessels, lifts, hoisting machinery, passenger ropeways, large amusement devices or special motor vehicles used in sites (plants), the special equipment safety supervision and administration department shall ban it and impose a fine of not less than 10,000 yuan but not more than 50,000 yuan; where there are illegal gains, confiscate the illegal gains; where the criminal law is violated, the responsible persons in charge and the other persons directly responsible shall be pursued for criminal liability in accordance with law under the provisions of the criminal law on the crime of illegal business operation, the crime of major responsibility accident or other crimes."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "Where a construction unit installing, altering or repairing boilers, pressure vessels, lifts, hoisting machinery, passenger ropeways or large amusement devices, or a unit altering or repairing special motor vehicles used in sites (plants), commences construction before notifying in writing the special equipment safety supervision and administration department of the municipality directly under the Central Government or of the city with districts of the proposed installation, alteration or repair of special equipment, or fails to transfer the relevant technical data to the unit using the boilers, pressure vessels, lifts, hoisting machinery, passenger ropeways or large amusement devices within 30 days after acceptance, the special equipment safety supervision and administration department shall order correction within a time limit; where correction is not made on expiry of the time limit, a fine of not less than 2,000 yuan but not more than 10,000 yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "Where the manufacturing process of boilers, pressure vessels, pressure pipeline components, hoisting machinery or large amusement devices, the installation, alteration or major repair process of boilers, pressure vessels, lifts, hoisting machinery, passenger ropeways or large amusement devices, or the boiler cleaning process has not undergone supervision and inspection by an inspection and testing institution approved by the special equipment safety supervision and administration department of the State Council in accordance with the requirements of the safety technology codes, the special equipment safety supervision and administration department shall order correction; where the products have already left the factory, confiscate the unlawfully produced and sold products; where installation, alteration, major repair or cleaning has already been carried out, order supervision and inspection within a time limit and impose a fine of not less than 50,000 yuan but not more than 200,000 yuan; where there are illegal gains, confiscate the illegal gains; where the circumstances are serious, revoke the licence already obtained by the manufacturing, installation, alteration or repair unit, and the administrative department for industry and commerce shall revoke its business licence; where the criminal law is violated, the responsible persons in charge and the other persons directly responsible shall be pursued for criminal liability in accordance with law under the provisions of the criminal law on the crime of producing or selling fake or inferior products or other crimes."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "Where a unit engages without authorisation and without a licence in the filling of mobile pressure vessels or gas cylinders, the special equipment safety supervision and administration department shall ban it, confiscate the unlawfully filled gas cylinders and impose a fine of not less than 100,000 yuan but not more than 500,000 yuan; where there are illegal gains, confiscate the illegal gains; where the criminal law is violated, the responsible persons in charge and the other persons directly responsible shall be pursued for criminal liability in accordance with law under the provisions of the criminal law on the crime of illegal business operation or other crimes.\nWhere a unit filling mobile pressure vessels or gas cylinders carries out filling activities not in accordance with the requirements of the safety technology codes, the special equipment safety supervision and administration department shall order correction and impose a fine of not less than 20,000 yuan but not more than 100,000 yuan; where the circumstances are serious, revoke its filling qualification."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "Where a lift manufacturing unit falls under any of the following circumstances, the special equipment safety supervision and administration department shall order correction within a time limit; where correction is not made on expiry of the time limit, circulate a notice of criticism:\n(a) failing to calibrate and commission the lift in accordance with the provisions of Article 19 of this Regulation;\n(b) failing, when tracking, investigating and learning about the safe operation of the lift, to promptly report to the special equipment safety supervision and administration department upon discovery of serious hidden accident hazards."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "Where a unit producing special equipment or an inspection and testing institution that has obtained a licence or approval commits any of the following acts, the special equipment safety supervision and administration department shall order correction and impose a fine of not less than 20,000 yuan but not more than 100,000 yuan; where the circumstances are serious, revoke its corresponding qualification:\n(a) failing to complete the formalities for modification of the licence in accordance with the requirements of the safety technology codes;\n(b) continuing to engage in the production, inspection or testing of special equipment when it no longer meets the conditions provided in this Regulation or required by the safety technology codes;\n(c) engaging in the production, inspection or testing of special equipment not in accordance with the provisions of this Regulation or the requirements of the safety technology codes;\n(d) forging, altering, leasing, lending or transferring licence certificates or supervision and inspection reports."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "Where a unit using special equipment falls under any of the following circumstances, the special equipment safety supervision and administration department shall order correction within a time limit; where correction is not made on expiry of the time limit, impose a fine of not less than 2,000 yuan but not more than 20,000 yuan; where the circumstances are serious, order suspension of use or suspension of production or business for rectification:\n(a) putting special equipment into use without authorisation without registering it with the special equipment safety supervision and administration department before it is put into use or within 30 days after it is put into use;\n(b) failing to establish safety technical files for special equipment in accordance with the provisions of Article 26 of this Regulation;\n(c) failing to carry out frequent daily maintenance and periodic self-inspection of special equipment in use in accordance with the provisions of Article 27 of this Regulation, or failing to carry out periodic calibration and overhaul of the safety accessories, safety protection devices, measurement and control devices and related ancillary instruments and meters of special equipment in use and keep records;\n(d) failing to submit a request for periodic inspection to a special equipment inspection and testing institution 1 month before the expiry of the period of validity of the safety inspection certificate in accordance with the periodic inspection requirements of the safety technology codes;\n(e) using special equipment that has not undergone periodic inspection or that fails inspection;\n(f) continuing to put special equipment into use after it malfunctions or abnormal conditions occur, without carrying out a comprehensive examination of it and eliminating the hidden accident hazards;\n(g) failing to formulate a special emergency plan for special equipment accidents;\n(h) failing to clean, lubricate, adjust and inspect lifts in accordance with the provisions of paragraph 2 of Article 31 of this Regulation;\n(i) failing to carry out water (medium) treatment of boilers in accordance with the requirements of the safety technology codes;\n(j) failing to promptly take corresponding measures for rectification where special equipment does not meet the energy efficiency indicators.\nWhere a unit using special equipment uses special equipment produced by a unit that has not obtained a production licence, or uses a non-pressure-bearing boiler or non-pressure vessel as a pressure-bearing boiler or pressure vessel, the special equipment safety supervision and administration department shall order suspension of use, confiscate the equipment and impose a fine of not less than 20,000 yuan but not more than 100,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "Where special equipment has serious hidden accident hazards, is not worth altering or repairing, or has exceeded the service life prescribed by the safety technology codes, and the unit using the special equipment fails to scrap it and complete deregistration with the special equipment safety supervision and administration department with which it was originally registered, the special equipment safety supervision and administration department shall order correction within a time limit; where correction is not made on expiry of the time limit, a fine of not less than 50,000 yuan but not more than 200,000 yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "Where a unit operating and using lifts, passenger ropeways or large amusement devices falls under any of the following circumstances, the special equipment safety supervision and administration department shall order correction within a time limit; where correction is not made on expiry of the time limit, order suspension of use or suspension of production or business for rectification and impose a fine of not less than 10,000 yuan but not more than 50,000 yuan:\n(a) failing, before putting passenger ropeways or large amusement devices into use each day, to carry out trial operation and routine safety inspection and to inspect and confirm the safety devices;\n(b) failing to place safety notices and warning signs for lifts, passenger ropeways and large amusement devices in conspicuous positions that are easy for passengers to notice."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "Where a unit using special equipment falls under any of the following circumstances, the special equipment safety supervision and administration department shall order correction within a time limit; where correction is not made on expiry of the time limit, order suspension of use or suspension of production or business for rectification and impose a fine of not less than 2,000 yuan but not more than 20,000 yuan:\n(a) failing to establish a special equipment safety management body or be staffed with full-time or part-time safety management personnel in accordance with the provisions of this Regulation;\n(b) allowing persons engaged in special equipment operations to take up posts without having obtained the corresponding certificate for special operations personnel;\n(c) failing to provide special equipment operators with safety education and training on special equipment."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "Where a special equipment accident occurs and any of the following circumstances exists, the special equipment safety supervision and administration department shall impose a fine of not less than 50,000 yuan but not more than 200,000 yuan on the unit, and a fine of not less than 4,000 yuan but not more than 20,000 yuan on the principal person in charge; where the person is a State functionary, a sanction shall be imposed in accordance with law; where the criminal law is violated, criminal liability shall be pursued in accordance with law under the provisions of the criminal law on the crime of major responsibility accident or other crimes:\n(a) the principal person in charge of the unit using special equipment fails to immediately organise rescue when a special equipment accident occurs in the unit, or leaves his or her post without authorisation or absconds during the investigation and handling of the accident;\n(b) the principal person in charge of the unit using special equipment conceals, makes a false report of, or delays in reporting a special equipment accident."
+        },
+        "noLabel": {
+          "en": "Article 87."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "A unit responsible for an accident shall be imposed a fine by the special equipment safety supervision and administration department in accordance with the following provisions:\n(a) where an ordinary accident occurs, a fine of not less than 100,000 yuan but not more than 200,000 yuan;\n(b) where a relatively major accident occurs, a fine of not less than 200,000 yuan but not more than 500,000 yuan;\n(c) where a major accident occurs, a fine of not less than 500,000 yuan but not more than 2 million yuan."
+        },
+        "noLabel": {
+          "en": "Article 88."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "Where the principal person in charge of a unit responsible for an accident fails to perform his or her duties in accordance with law, resulting in the accident, the special equipment safety supervision and administration department shall impose a fine in accordance with the following provisions; where the person is a State functionary, a sanction shall also be imposed in accordance with law; where the criminal law is violated, criminal liability shall be pursued in accordance with law under the provisions of the criminal law on the crime of major responsibility accident or other crimes:\n(a) where an ordinary accident occurs, a fine of 30 per cent of the person's income of the previous year;\n(b) where a relatively major accident occurs, a fine of 40 per cent of the person's income of the previous year;\n(c) where a major accident occurs, a fine of 60 per cent of the person's income of the previous year."
+        },
+        "noLabel": {
+          "en": "Article 89."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 90,
+        "text": {
+          "en": "Where a special equipment operator operates in violation of the operating rules of special equipment and the relevant safety rules and regulations, or fails, upon discovering hidden accident hazards or other unsafe factors in the course of operations, to immediately report to the on-site safety management personnel and the relevant person in charge of the unit, the unit using the special equipment shall give criticism and education and impose a sanction; where the circumstances are serious, revoke the qualification of the special equipment operator; where the criminal law is violated, criminal liability shall be pursued in accordance with law under the provisions of the criminal law on the crime of major responsibility accident or other crimes."
+        },
+        "noLabel": {
+          "en": "Article 90."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 91,
+        "text": {
+          "en": "Where a unit engages without approval and without authorisation in inspection and testing activities such as supervision and inspection, periodic inspection, type testing and non-destructive testing provided in this Regulation, the special equipment safety supervision and administration department shall ban it and impose a fine of not less than 50,000 yuan but not more than 200,000 yuan; where there are illegal gains, confiscate the illegal gains; where the criminal law is violated, the responsible persons in charge and the other persons directly responsible shall be pursued for criminal liability in accordance with law under the provisions of the criminal law on the crime of illegal business operation or other crimes."
+        },
+        "noLabel": {
+          "en": "Article 91."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 92,
+        "text": {
+          "en": "Where a special equipment inspection and testing institution falls under any of the following circumstances, the special equipment safety supervision and administration department shall impose a fine of not less than 20,000 yuan but not more than 100,000 yuan; where the circumstances are serious, revoke its inspection and testing qualification:\n(a) employing persons who have not passed the examination organised by the special equipment safety supervision and administration department and obtained an inspection and testing personnel certificate to engage in the relevant inspection and testing work;\n(b) failing, upon discovering serious hidden accident hazards or serious excess over energy consumption standards in the course of inspection and testing of special equipment, to promptly inform the unit using the special equipment and immediately report to the special equipment safety supervision and administration department."
+        },
+        "noLabel": {
+          "en": "Article 92."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 93,
+        "text": {
+          "en": "Where a special equipment inspection and testing institution or inspection and testing personnel issues false inspection and testing results or appraisal conclusions, or where the inspection and testing results or appraisal conclusions are seriously inconsistent with the facts, the special equipment safety supervision and administration department shall confiscate the illegal gains of the inspection and testing institution and impose a fine of not less than 50,000 yuan but not more than 200,000 yuan and, where the circumstances are serious, revoke its inspection and testing qualification; and shall impose a fine of not less than 5,000 yuan but not more than 50,000 yuan on the inspection and testing personnel and, where the circumstances are serious, revoke their inspection and testing qualification; where the criminal law is violated, criminal liability shall be pursued in accordance with law under the provisions of the criminal law on the crime of personnel of intermediary organisations providing false certification documents, the crime of personnel of intermediary organisations issuing certification documents seriously inconsistent with the facts, or other crimes.\nWhere a special equipment inspection and testing institution or inspection and testing personnel issues false inspection and testing results or appraisal conclusions, or where the inspection and testing results or appraisal conclusions are seriously inconsistent with the facts, thereby causing damage, they shall bear liability for compensation."
+        },
+        "noLabel": {
+          "en": "Article 93."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 94,
+        "text": {
+          "en": "Where a special equipment inspection and testing institution or inspection and testing personnel engages in the production or sale of special equipment, or recommends, supervises the manufacture of, or supervises the sale of special equipment in its or their own name, the special equipment safety supervision and administration department shall revoke the qualification of the special equipment inspection and testing institution and of the inspection and testing personnel and impose a fine of not less than 50,000 yuan but not more than 200,000 yuan; where there are illegal gains, confiscate the illegal gains."
+        },
+        "noLabel": {
+          "en": "Article 94."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 95,
+        "text": {
+          "en": "Where a special equipment inspection and testing institution or inspection and testing personnel deliberately creates difficulties for units producing or using special equipment by taking advantage of inspection and testing work, the special equipment safety supervision and administration department shall order correction; where correction is refused, revoke their inspection and testing qualification."
+        },
+        "noLabel": {
+          "en": "Article 95."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 96,
+        "text": {
+          "en": "Where inspection and testing personnel engaged in inspection and testing work do not practise in a special equipment inspection and testing institution, or practise simultaneously in two or more inspection and testing institutions, the special equipment safety supervision and administration department shall order correction and, where the circumstances are serious, impose the penalty of suspension of practice for not less than 6 months but not more than 2 years; where there are illegal gains, confiscate the illegal gains."
+        },
+        "noLabel": {
+          "en": "Article 96."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 97,
+        "text": {
+          "en": "Where a special equipment safety supervision and administration department or its special equipment safety supervision personnel commits any of the following unlawful acts, a sanction of demotion or removal from office shall be imposed in accordance with law on the persons directly in charge and the other persons directly responsible; where the criminal law is violated, criminal liability shall be pursued in accordance with law under the provisions of the criminal law on the crime of accepting bribes, the crime of abuse of power, the crime of dereliction of duty or other crimes:\n(a) granting a licence, approval or registration not in accordance with the conditions provided in this Regulation and the requirements of the safety technology codes;\n(b) failing to ban or lawfully deal with a unit found to be engaging without authorisation in the production, use, inspection or testing of special equipment without a licence, approval or registration;\n(c) failing to revoke the original licence of a unit producing or using special equipment upon finding that it no longer meets the conditions provided in this Regulation, or failing to investigate and deal with unlawful acts of production or use of special equipment;\n(d) failing to revoke the original approval of a special equipment inspection and testing institution upon finding that it no longer meets the conditions provided in this Regulation, or failing to investigate and deal with its issuance of false inspection and testing results or appraisal conclusions or results or conclusions seriously inconsistent with the facts;\n(e) granting licences repeatedly to units producing special equipment that have obtained a licence in other places in accordance with the provisions of this Regulation, or carrying out repeated inspection and testing of special equipment that has passed inspection and testing in other places in accordance with the provisions of this Regulation;\n(f) failing to immediately deal with acts violating this Regulation and the safety technology codes, or with serious hidden accident hazards in special equipment in use, upon discovery;\n(g) failing to promptly report major unlawful acts or serious hidden accident hazards to the special equipment safety supervision and administration department at the higher level, or failing of the department receiving the report to immediately deal with them;\n(h) delaying, omitting, concealing or falsely reporting an accident;\n(i) obstructing accident rescue or the investigation and handling of an accident."
+        },
+        "noLabel": {
+          "en": "Article 97."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 98,
+        "text": {
+          "en": "Where a unit producing or using special equipment, or an inspection and testing institution, refuses to accept the safety supervision lawfully carried out by the special equipment safety supervision and administration department, the special equipment safety supervision and administration department shall order correction within a time limit; where correction is not made on expiry of the time limit, order suspension of production or business for rectification and impose a fine of not less than 20,000 yuan but not more than 100,000 yuan; where the criminal law is violated, criminal liability shall be pursued in accordance with law under the provisions of the criminal law on the crime of obstructing official duties or other crimes.\nWhere a unit producing or using special equipment without authorisation uses, replaces, transfers or destroys special equipment or its main components that have been sealed up or distrained, the special equipment safety supervision and administration department shall order correction and impose a fine of not less than 50,000 yuan but not more than 200,000 yuan; where the circumstances are serious, revoke its corresponding qualification."
+        },
+        "noLabel": {
+          "en": "Article 98."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 99,
+        "text": {
+          "en": "The terms used in this Regulation have the following meanings:\n(a) Boiler means equipment that uses various fuels, electricity or other energy sources to heat the liquid contained therein to certain parameters and to output heat energy externally; its scope covers pressure-bearing steam boilers with a volume greater than or equal to 30 L; pressure-bearing hot water boilers with an outlet water pressure greater than or equal to 0.1 MPa (gauge pressure) and a rated power greater than or equal to 0.1 MW; and organic heat carrier boilers.\n(b) Pressure vessel means a closed vessel containing gas or liquid and bearing a certain pressure; its scope covers stationary vessels and mobile vessels for gas, liquefied gas and liquids with a maximum working temperature higher than or equal to the standard boiling point, having a maximum working pressure greater than or equal to 0.1 MPa (gauge pressure) and a product of pressure and volume greater than or equal to 2.5 MPa·L; gas cylinders for gas, liquefied gas and liquids with a standard boiling point equal to or lower than 60 degrees Celsius, having a nominal working pressure greater than or equal to 0.2 MPa (gauge pressure) and a product of pressure and volume greater than or equal to 1.0 MPa·L; and oxygen chambers, etc.\n(c) Pressure pipeline means tubular equipment that uses a certain pressure to convey gas or liquid; its scope covers pipelines with a nominal diameter greater than 25 mm for media of gas, liquefied gas, steam, or flammable, explosive, toxic or corrosive liquid media with a maximum working temperature higher than or equal to the standard boiling point, having a maximum working pressure greater than or equal to 0.1 MPa (gauge pressure).\n(d) Lift means electromechanical equipment driven by power that uses a car running along rigid guide rails or steps running along a fixed route to lift or convey persons or goods in parallel, including passenger (goods) lifts, escalators and moving walks.\n(e) Hoisting machinery means electromechanical equipment used to lift heavy objects vertically or to lift them vertically and move them horizontally; its scope covers hoists with a rated lifting capacity greater than or equal to 0.5 t; cranes with a rated lifting capacity greater than or equal to 1 t and a lifting height greater than or equal to 2 m; and electric hoists with a fixed load-bearing form, etc.\n(f) Passenger ropeway means electromechanical equipment driven by power that uses flexible ropes to pull carriers such as cars to convey persons, including passenger aerial ropeways, passenger cable cars and passenger surface lifts.\n(g) Large amusement device means a facility used for business purposes that carries passengers for amusement; its scope covers large passenger amusement devices with a designed maximum operating linear speed greater than or equal to 2 m/s, or an operating height above the ground greater than or equal to 2 m.\n(h) Special motor vehicle used in sites (plants) means a special motor vehicle used only in specific areas such as factory premises, tourist attractions and amusement sites, other than road vehicles and agricultural vehicles.\nSpecial equipment includes the materials used therein, the ancillary safety accessories, safety protection devices and the facilities related to the safety protection devices."
+        },
+        "noLabel": {
+          "en": "Article 99."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 100,
+        "text": {
+          "en": "Measures for the safety supervision and administration of the design, installation and use of pressure pipelines shall be formulated separately by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 100."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 101,
+        "text": {
+          "en": "The special equipment safety supervision and administration department of the State Council may authorise the special equipment safety supervision and administration departments of provinces, autonomous regions and municipalities directly under the Central Government to be responsible for the administrative licensing of special equipment provided in this Regulation; the specific measures shall be formulated by the special equipment safety supervision and administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 101."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 102,
+        "text": {
+          "en": "Fees shall be charged for the administrative licensing, inspection and testing of special equipment in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 102."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 103,
+        "text": {
+          "en": "This Regulation shall come into force on 1 June 2003. The Interim Regulations on Safety Supervision of Boilers and Pressure Vessels promulgated by the State Council on 6 February 1982 shall be repealed simultaneously."
+        },
+        "noLabel": {
+          "en": "Article 103."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0342'] = {
+    "lawId": "CN-REG-0342",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 108 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Regulation is formulated in order to strengthen railway safety management, ensure the safety and smooth flow of railway transport, and protect the safety of persons and property."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Railway safety management shall adhere to the policy of safety first, prevention predominating and comprehensive control."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The railway industry supervision and administration department of the State Council shall be responsible for railway safety supervision and administration throughout the country, and the railway supervision and administration institutions established by the railway industry supervision and administration department of the State Council shall be responsible for railway safety supervision and administration within their respective jurisdictions. The railway industry supervision and administration department of the State Council and the railway supervision and administration institutions are collectively referred to as the railway supervision departments.\nThe relevant departments of the State Council shall, in accordance with the duties provided by law and by the State Council, be responsible for the relevant work of railway safety management."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Local people's governments at all levels along railway lines and the relevant departments of local people's governments at or above the county level shall, in accordance with their respective duties, strengthen education on safeguarding railway safety, implement the responsibility system for joint protection of railways, prevent and stop acts endangering railway safety, coordinate and handle matters relating to safeguarding railway safety, and do well in the work relating to safeguarding railway safety."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Units engaged in railway construction, transport, and equipment manufacture and repair shall strengthen safety management, establish and improve safety production management systems, implement the principal responsibility of enterprises for safety production, establish safety management bodies or be staffed with safety management personnel, implement the national and industry standards for ensuring production safety and product quality safety, strengthen safety education and training for employees, and ensure the capital investment necessary for safety production.\nStaff members of units engaged in railway construction, transport, and equipment manufacture and repair shall strictly implement rules and regulations, carry out standardised operations and ensure railway safety."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Railway supervision departments, railway transport enterprises and other units shall formulate emergency response plans in accordance with the relevant provisions of the State and organise emergency drills."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "It is prohibited to disrupt the order of railway construction or transport. It is prohibited to damage or unlawfully occupy railway facilities and equipment, railway signs and railway land.\nAny unit or individual that discovers damage to or unlawful occupation of railway facilities and equipment, railway signs or railway land, or other acts affecting railway safety, shall have the right to report to the railway transport enterprise, or to report to the railway supervision department, the public security organ or other relevant departments. The railway transport enterprise receiving the report and the department receiving the report shall promptly handle the matter in accordance with their respective duties.\nUnits or individuals that make outstanding contributions to maintaining railway safety shall be commended and rewarded in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The survey, design, construction and supervision of railway construction projects and the procurement of construction materials and equipment shall be subject to tender in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Quality and Safety of Railway Construction"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Units engaged in the survey, design, construction and supervision of railway construction projects shall obtain the corresponding qualifications in accordance with law and engage in railway construction activities within the scope permitted by their qualification grades."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Quality and Safety of Railway Construction"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Railway construction units shall select survey, design, construction and supervision units possessing the corresponding qualification grades to carry out project construction, and shall supervise and inspect the quality and safety of the construction project and make inspection records for retention for reference."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Quality and Safety of Railway Construction"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The survey, design, construction and supervision of railway construction projects shall comply with the provisions of laws and administrative regulations on the quality and safety management of construction projects, and shall implement national standards, industry standards and technical codes.\nThe survey, design and construction units of railway construction projects shall be responsible for the quality of survey, design and construction in accordance with law, and supervision units shall bear supervision responsibility for construction quality in accordance with law.\nA system of supervision over engineering geological survey shall be implemented for high-speed railways and railway construction projects with complex geological structures."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Quality and Safety of Railway Construction"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The safety facilities of railway construction projects shall be designed, constructed and put into use simultaneously with the principal works. Investment in safety facilities shall be included in the estimated budget of the construction project."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Quality and Safety of Railway Construction"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Products such as materials, components and equipment used in railway construction projects shall conform to the mandatory national standards and industry standards relating to product quality."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Quality and Safety of Railway Construction"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The construction period of railway construction projects shall be reasonably determined and adjusted in accordance with national standards, industry standards and technical codes and in light of factors such as engineering geological conditions and degree of technical complexity.\nNo unit or individual may, in violation of the provisions of the preceding paragraph, require railway construction, design or construction units to shorten the construction period."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Quality and Safety of Railway Construction"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Upon completion of a railway construction project, acceptance shall be organised in accordance with the relevant provisions of the State, and the railway transport enterprise shall carry out an operational safety assessment. Only those that pass acceptance and assessment and meet operational safety requirements may be put into operation."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Quality and Safety of Railway Construction"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where railway construction is carried out on railway lines and in adjacent areas, the provisions on safety management of construction on railway operating lines shall be implemented. Railway construction units shall, together with the relevant railway transport enterprises and the project design and construction units, formulate a safe construction plan and carry out construction in accordance with the plan. Upon completion of construction, the site shall be promptly cleared, and the safety of railway operations may not be affected."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Quality and Safety of Railway Construction"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Where newly built or reconstructed railways designed for trains at a speed of 120 km/h or above, or railways whose designed transport volume reaches the relatively large transport volume standard prescribed by the railway industry supervision and administration department of the State Council, need to cross roads, grade separation facilities shall be installed.\nWhere newly built or reconstructed expressways, first-class highways or urban expressways need to cross railways, grade separation facilities shall be installed, and the option of passing under the railway shall be preferred.\nWhere existing railways and roads falling under the circumstances provided in the preceding two paragraphs cross at grade, they shall be gradually reconstructed into grade separation.\nWhere newly built or reconstructed high-speed railways need to cross ordinary railways, roads, aqueducts, pipelines and other facilities, the option of the high-speed railway passing overhead shall be preferred."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Quality and Safety of Railway Construction"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The bearing of the costs required for installing grade separation facilities at railway-road crossings and their ancillary safety facilities shall be determined according to the following principles:\n(a) where newly built or reconstructed railways cross existing roads, the railway side shall bear the construction costs; the additional costs of construction exceeding the existing road construction standards as required by the road side shall be borne by the road side;\n(b) where newly built or reconstructed roads cross existing railways, the road side shall bear the construction costs; the additional costs of construction exceeding the existing railway line construction standards as required by the railway side shall be borne by the railway side;\n(c) where railway and road are constructed simultaneously and grade separation facilities need to be installed, and where existing railway level crossings are reconstructed into grade separation, the construction costs shall be shared by the railway side and the road side according to the principle of fairness and reasonableness."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Quality and Safety of Railway Construction"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "After grade separation facilities at railway-road crossings and their ancillary safety facilities pass completion acceptance, they shall be handed over to the relevant units for management and maintenance in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Quality and Safety of Railway Construction"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where dedicated railways or dedicated railway lines need to be connected to the public railway network, they shall conform to the national provisions on the safety management of railway construction and transport."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Quality and Safety of Railway Construction"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The design, manufacture, repair or import of new types of railway rolling stock shall conform to national standards and industry standards, and applications shall be made respectively to the railway industry supervision and administration department of the State Council for a type certificate, manufacturing licence, repair licence or import licence; the specific measures shall be formulated by the railway industry supervision and administration department of the State Council.\nUnits manufacturing, repairing and using railway rolling stock shall comply with the laws and administrative regulations on product quality and other relevant provisions of the State, and ensure that the rolling stock put into use meets operational safety requirements."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Quality and Safety of Railway Special Equipment"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Enterprises producing railway turnouts and their switching equipment, railway signal control software and control equipment, railway communication equipment and railway traction power supply equipment shall meet the following conditions and be subject to examination and approval in accordance with law by the railway industry supervision and administration department of the State Council:\n(a) having professional production equipment that has passed testing and inspection in accordance with national standards and industry standards;\n(b) having the corresponding professional and technical personnel;\n(c) having a complete product quality assurance system and safety management system;\n(d) other conditions provided by laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Quality and Safety of Railway Special Equipment"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where railway special equipment other than railway rolling stock that directly affects railway transport safety is subject to product certification in accordance with law, it may leave the factory, be sold, imported or used only after passing certification."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Quality and Safety of Railway Special Equipment"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The production, testing and inspection of railway tank cars, special-purpose vehicles and other containers used for the transport of hazardous chemicals and radioactive articles shall be carried out in accordance with the provisions of the relevant laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Quality and Safety of Railway Special Equipment"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Safety inspection, monitoring and protection facilities and equipment used for railway transport, transport appliances such as containers and containerisation equipment, special loading and unloading machinery, rigging, tarpaulins, loading and securing materials or devices, as well as transport packaging and cargo loading and securing, shall conform to national standards, industry standards and technical codes."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Quality and Safety of Railway Special Equipment"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Where railway rolling stock or other railway special equipment is defective, that is, where due to design, manufacture, marking or other reasons, railway special equipment of the same batch, model or category generally fails to conform to the national or industry standards for safeguarding the safety of persons and property, or presents other unreasonable danger endangering the safety of persons and property, production, sale, import and use shall immediately be stopped; the equipment manufacturer shall recall the defective products and take measures to eliminate the defects. The specific measures shall be formulated by the railway industry supervision and administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Quality and Safety of Railway Special Equipment"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Railway line safety protection zones shall be established on both sides of railway lines. The scope of a railway line safety protection zone shall be the distances measured outward from the toe of the railway embankment slope, the crest of the cutting slope or the outer side of the railway bridge (including combined railway-road bridges, the same below), as follows:\n(a) in urban built-up areas, 10 m for high-speed railways and 8 m for other railways;\n(b) in suburban residential areas, 12 m for high-speed railways and 10 m for other railways;\n(c) in village and town residential areas, 15 m for high-speed railways and 12 m for other railways;\n(d) in other areas, 20 m for high-speed railways and 15 m for other railways.\nWhere the distances provided in the preceding paragraph cannot meet the needs of railway transport safety protection, the railway construction unit or railway transport enterprise shall put forward a plan, and the railway supervision and administration institution or the local people's government at or above the county level shall delimit the zone in accordance with the procedure provided in paragraph 3 of this Article.\nWhere a railway line safety protection zone is delimited within the scope of railway land, the railway supervision and administration institution shall organise the railway construction unit or railway transport enterprise to delimit and announce it. Where a railway line safety protection zone is delimited outside the scope of railway land, the local people's government at or above the county level shall, in accordance with the principles of safeguarding railway transport safety and economising land, organise the relevant railway supervision and administration institutions, the land and resources departments of the local people's government at or above the county level and other departments to delimit and announce it.\nWhere a railway line safety protection zone overlaps with a highway building control zone, a river course management scope, a water conservancy project management and protection scope, a navigation channel protection scope, or a protection zone for petroleum, electric power or other important facilities, the local people's government at or above the county level shall organise the relevant departments to delimit and announce it through consultation in accordance with the provisions of laws and administrative regulations.\nThe scope of the railway line safety protection zone for newly built or reconstructed railways shall be delimited and announced by the local people's government at or above the county level in accordance with the provisions of this Regulation within 30 days from the date of approval of the preliminary design of the railway construction project. The railway construction unit or railway transport enterprise shall carry out boundary survey on the basis of the completion materials, draw a plan of the railway line safety protection zone and set up boundary markers on the basis of the plan."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety of Railway Lines"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Railways designed for trains at a speed of 120 km/h or above shall implement fully enclosed management. Railway construction units or railway transport enterprises shall install enclosure facilities and warning signs within the scope of railway land in accordance with the provisions of the railway industry supervision and administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety of Railway Lines"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "It is prohibited to burn off vegetation, graze livestock, or plant trees and other plants affecting the safety of railway lines and the line of sight for train operation within railway line safety protection zones.\nIt is prohibited to discharge pollutants, dump refuse or dump other substances endangering railway safety into railway line safety protection zones."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety of Railway Lines"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "To construct buildings, structures and other facilities, excavate soil, sand or trenches, carry out mining of worked-out areas, or stack or suspend articles within a railway line safety protection zone, the consent of the railway transport enterprise shall be obtained and a safety agreement shall be concluded, national standards, industry standards and construction safety codes for ensuring railway safety shall be complied with, and measures shall be taken to prevent any impact on railway transport safety. The railway transport enterprise shall assign personnel to exercise safety supervision over the construction site."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety of Railway Lines"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where existing buildings or structures within a railway line safety protection zone endanger railway transport safety, the necessary safety protection measures shall be taken; where safety cannot be ensured even after safety protection measures are taken, they shall be demolished in accordance with the provisions of the relevant laws.\nWhere the demolition of buildings or structures within a railway line safety protection zone, the clearing of plants within a railway line safety protection zone, or the restriction of lawful rights such as mining rights already lawfully obtained by others within a railway line safety protection zone causes loss to others, compensation shall be given in accordance with law or the necessary remedial measures shall be taken. However, this shall not apply to the demolition of unlawfully constructed buildings or structures."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety of Railway Lines"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Buildings, structures, equipment and the like constructed or installed within a railway line safety protection zone and its adjacent areas may not intrude into the railway construction clearance prescribed by the State."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety of Railway Lines"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Sites and warehouses for the production, processing, storage or sale of dangerous articles such as flammable, explosive or radioactive articles constructed or established on both sides of railway lines shall conform to the safety protection distances provided in national standards and industry standards."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety of Railway Lines"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Mining, quarrying or blasting operations on both sides of railway lines shall comply with the laws and regulations on mining and civil blasting, and conform to national standards, industry standards and railway safety protection requirements.\nWhere open-pit mining, quarrying or blasting operations are genuinely needed within 1,000 m outward from the toe of the railway embankment slope, the crest of the cutting slope or the outer side of the railway bridge, and within 1,000 m on each side of the centre line above a railway tunnel, agreement shall be reached through consultation with the railway transport enterprise and approval shall be reported to the relevant department of the local people's government at or above the county level in accordance with the provisions of the relevant laws and regulations; the operations may proceed only after safety protection measures have been taken."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety of Railway Lines"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The extraction of groundwater is prohibited within 200 m outward from the toe of the embankment slope, the crest of the cutting slope or the outer side of the railway bridge of a high-speed railway line.\nOutside the scope provided in the preceding paragraph, where the area through which a high-speed railway line passes is a land subsidence area and the extraction of groundwater endangers the safety of the high-speed railway, zones where groundwater extraction is prohibited or restricted shall be designated; the specific scope shall be proposed by the railway supervision and administration institution together with the water administrative department of the local people's government at or above the county level, and shall be submitted to the people's government of the province, autonomous region or municipality directly under the Central Government for approval and announcement."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety of Railway Lines"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Where production activities near an electrified railway that discharge dust, soot or corrosive gases exceed the emission standards prescribed by the State and endanger railway transport safety, the relevant department of the local people's government at or above the county level shall order rectification in accordance with law so as to eliminate hidden safety hazards."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety of Railway Lines"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "No unit or individual may, without authorisation, reclaim land from marshes, build dams across rivers, erect pontoon bridges or construct other facilities affecting the safety of railway bridges within 1,000 m upstream and downstream of the river course at a railway bridge crossing.\nWhere, for special reasons, it is genuinely necessary to carry out activities such as reclaiming land from marshes, building dams across rivers or erecting pontoon bridges within the scope provided in the preceding paragraph, a safety demonstration shall be carried out, and the organ responsible for examination and approval shall solicit the opinions of the relevant railway transport enterprise before approval."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety of Railway Lines"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Sand extraction and gold panning are prohibited within the following scopes upstream and downstream of the river course at railway bridge crossings:\n(a) for railway bridges with a river crossing length of 500 m or more, 500 m upstream and 3,000 m downstream of the river course;\n(b) for railway bridges with a river crossing length of 100 m or more but less than 500 m, 500 m upstream and 2,000 m downstream of the river course;\n(c) for railway bridges with a river crossing length of less than 100 m, 500 m upstream and 1,000 m downstream of the river course.\nWhere the scope of prohibited extraction lawfully delimited by the relevant departments upstream and downstream of the river course at a railway bridge crossing is larger than the scope of prohibited extraction provided in the preceding paragraph, the delimited scope of prohibited extraction shall prevail.\nThe water administrative departments and land and resources departments of local people's governments at or above the county level shall, in accordance with their respective duties, delimit prohibited extraction areas, set up signs for prohibited extraction and stop unlawful sand extraction and gold panning."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety of Railway Lines"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where dredging operations are carried out within 500 m upstream and downstream of the river course at a railway bridge crossing, a safety technical assessment shall be carried out, and the relevant river course and navigation channel administrative departments shall solicit the opinions of the railway transport enterprise and approve the dredging operations only after safety is confirmed or safety technical measures are taken. However, this shall not apply to the routine maintenance and dredging of river courses and navigation channels carried out in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety of Railway Lines"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Combined railway-road bridges shall be periodically inspected and jointly maintained by the local railway transport enterprise and the road administrative department or road operating enterprise so as to ensure that the bridges are in a safe technical condition.\nThe testing and repair of shared parts such as piers and girders of combined railway-road bridges shall be the joint responsibility of the railway transport enterprise and the road administrative department or road operating enterprise, and the required costs shall be shared according to the principle of fairness and reasonableness."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety of Railway Lines"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Important railway bridges and tunnels shall be guarded by the Chinese People's Armed Police Force in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety of Railway Lines"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Vessels passing under railway bridges shall conform to the navigable clearance height of the bridges and comply with navigation rules.\nAmong the navigation marks in a bridge area, the bridge navigation marks, pier marks and bridge water gauge marks shall be installed and maintained by the railway transport enterprise; the water surface navigation marks shall be installed by the railway transport enterprise and maintained by the navigation channel administrative department."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety of Railway Lines"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Roads passing under railway bridges and culverts shall be provided with vehicle height limit and width limit signs and height limit protective frames in accordance with national standards. The height limit and width limit signs for urban roads shall be installed and maintained by the department designated by the local people's government, and those for highways shall be installed and maintained by the highway administrative department. Height limit protective frames shall be installed at the time of construction of the railway bridge, culvert or road and shall be maintained by the railway transport enterprise.\nMotor vehicles passing along roads under railway bridges and culverts shall comply with the height limit and width limit provisions.\nThe unit managing a railway culvert passed under shall be responsible for the daily management and maintenance of the culvert so as to prevent silting and water accumulation."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety of Railway Lines"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Roads within railway line safety protection zones, roads on railway cuttings, and road bridges crossing railway lines shall be provided with safety protection facilities and warning signs to prevent vehicles and other objects from entering or falling onto railway lines in accordance with the relevant provisions of the State, and shall be maintained and managed by the road administrative department or road operating enterprise."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety of Railway Lines"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "The erection and laying of railway signal and communication lines and towers shall conform to national standards, industry standards and railway safety protection requirements. Railway transport enterprises and telecommunications enterprises providing services for railway transport shall strengthen the maintenance and management of railway signal and communication lines and towers."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety of Railway Lines"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "The installation or widening of railway level crossings and railway pedestrian crossings shall be subject to the consent of the railway transport enterprise."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety of Railway Lines"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Unattended level crossings at railway-road intersections shall be provided with warning signs in accordance with national standards; attended level crossings shall be provided with safety protection facilities such as movable barriers, train approach warning devices, warning lights, warning signs and road markings at the level crossing section.\nSafety protection facilities such as movable barriers, train approach warning devices and warning lights at level crossings shall be installed and maintained by the railway transport enterprise; warning signs and road markings at the level crossing section shall be installed and maintained by the road administrative department of the place where the railway level crossing is located."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety of Railway Lines"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where a motor vehicle or non-motor vehicle breaks down at a railway level crossing or its load falls off, the broken-down vehicle or fallen load shall immediately be moved to a safe place beyond the stop line of the railway level crossing or 5 m beyond the outermost rail of the railway line. Where it cannot immediately be moved to a safe place, a report shall immediately be made to the level crossing attendant; at an unattended crossing, measures shall immediately be taken at both ends of the crossing to stop trains, and the nearby railway station or public security organ shall be notified."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety of Railway Lines"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where tracked vehicles and other vehicles or objects that may damage railway facilities and equipment pass through a railway level crossing, the unit managing the railway level crossing shall be notified in advance, and they shall pass with its assistance and guidance and with the corresponding safety protection measures taken."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety of Railway Lines"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "At the following locations, railway transport enterprises shall install easily recognisable warning and protection signs in accordance with national standards and industry standards:\n(a) both ends of railway bridges and tunnels;\n(b) the locations where railway signal and communication optical (electrical) cables are buried and laid;\n(c) locations near electric power facilities such as the catenary of electrified railways, automatic block power supply lines and through power lines where danger is likely to occur."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety of Railway Lines"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "It is prohibited to damage or destroy facilities and equipment such as railway lines and platforms, and railway roadbeds, slope protection, drainage ditches, protective forest trees, slope protection lawns, railway line enclosure nets and other railway protection facilities."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety of Railway Lines"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "The following acts endangering the safety of railway communication and signal facilities are prohibited:\n(a) drilling, stacking heavy objects or refuse, burning articles, or dumping corrosive substances on the ground above buried underground optical (electrical) cable facilities;\n(b) constructing or erecting buildings, structures and other facilities within 1 m on each side of underground optical (electrical) cables;\n(c) excavating sand or soil within 1 m on each side of underground optical (electrical) cables;\n(d) excavating sand, dropping anchors or carrying out other operations endangering the safety of optical (electrical) cables within 100 m on each side of river-crossing optical (electrical) cables."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety of Railway Lines"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "The following acts endangering electrified railway facilities are prohibited:\n(a) throwing articles at the catenary of an electrified railway;\n(b) flying kites, balloons and other low-altitude floating objects within 500 m on each side of the conductors of railway power lines;\n(c) climbing railway power line towers or erecting or installing other facilities and equipment on the towers;\n(d) excavating soil, driving piles, drilling, or dumping harmful chemical substances within 20 m around railway power line towers and guy wires;\n(e) touching the catenary of an electrified railway."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety of Railway Lines"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "People's governments at or above the county level and their relevant departments and railway transport enterprises shall, in accordance with the provisions of the laws and regulations on the prevention and control of geological disasters, strengthen the prevention, control and emergency handling of geological disasters along railway lines."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety of Railway Lines"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Railway transport enterprises shall carry out frequent patrols and maintenance of railway lines, railway protection facilities and warning signs; safety problems found in patrols shall be handled immediately, and where they cannot be handled immediately, they shall promptly be reported to the railway supervision and administration institution. The circumstances of patrols and handling shall be recorded and retained."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety of Railway Lines"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Railway transport enterprises shall, in accordance with laws, administrative regulations and the provisions of the railway industry supervision and administration department of the State Council, formulate railway transport safety management systems and improve the relevant operating procedures so as to ensure the safety of railway passenger and freight transport."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter V Safety of Railway Operations"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Drivers of railway rolling stock shall take the examination organised by the railway industry supervision and administration department of the State Council and may take up their posts only after passing the examination. The specific measures shall be formulated by the railway industry supervision and administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter V Safety of Railway Operations"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Railway transport enterprises shall strengthen professional and safety training for employees in professional and technical posts and major train operation posts, and enhance their professional skills and safety awareness."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter V Safety of Railway Operations"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Railway transport enterprises shall strengthen safety protection in the course of transport, and the means of transport, loading and securing equipment and other special facilities and equipment used shall conform to national standards, industry standards and safety requirements."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter V Safety of Railway Operations"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Railway transport enterprises shall establish and improve systems for the inspection and protection of railway facilities and equipment, strengthen the daily maintenance and repair of railway facilities and equipment, and ensure that railway facilities and equipment are in good condition and operate safely.\nEmployees of railway transport enterprises shall use and manage railway facilities and equipment in accordance with operating procedures."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter V Safety of Railway Operations"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "During peak periods of railway transport such as statutory holidays and traditional festivals, or under severe meteorological conditions, railway transport enterprises shall take the necessary safety emergency management measures and strengthen railway transport safety inspections so as to ensure transport safety."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter V Safety of Railway Operations"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Railway transport enterprises shall announce at places such as trains and stations the safety management provisions to be observed by passengers, train staff members and other persons entering stations."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter V Safety of Railway Operations"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Public security organs shall, in accordance with the division of duties, maintain public order at railway places such as stations and trains and along railway lines."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter V Safety of Railway Operations"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Railway transport enterprises shall implement the system of real-name purchase and verification of train tickets in accordance with the provisions of the railway industry supervision and administration department of the State Council.\nWhere the system of real-name purchase and verification of train tickets is implemented, passengers shall purchase tickets and travel on the strength of valid identity documents; railway transport enterprises shall have the right to refuse station entry and travel to ticket holders whose identity information recorded on the ticket does not match the identity documents held or their true identity.\nRailway transport enterprises shall take effective measures to facilitate real-name ticket purchase and travel for passengers and strengthen the protection of passengers' identity information. Staff members of railway transport enterprises may not steal or disclose passengers' identity information."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter V Safety of Railway Operations"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Railway transport enterprises shall, in accordance with laws, administrative regulations and the provisions of the railway industry supervision and administration department of the State Council, carry out safety inspections of passengers and the luggage and articles they carry or consign.\nStaff members engaged in safety inspections shall wear safety inspection marks, lawfully perform their safety inspection duties, and shall have the right to refuse station entry and travel and the consignment of luggage and articles to passengers who refuse to accept safety inspection."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter V Safety of Railway Operations"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Passengers shall accept and cooperate with the safety inspections carried out by railway transport enterprises at stations and on trains, and may not unlawfully carry or conceal controlled instruments, or unlawfully carry or consign dangerous articles such as fireworks and firecrackers, guns and ammunition, or other prohibited articles.\nThe types and quantities of articles prohibited or restricted for carriage shall be prescribed by the railway industry supervision and administration department of the State Council together with the public security organ and shall be announced at places such as stations and trains."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter V Safety of Railway Operations"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Consignors of railway transport consigning goods, luggage or parcels may not commit the following acts:\n(a) concealing or falsely declaring the name, nature or weight of the goods;\n(b) concealing dangerous goods among ordinary goods, or concealing goods prohibited from being stowed together among dangerous goods;\n(c) loading into vehicles or containers in excess of the prescribed weight."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter V Safety of Railway Operations"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "Railway transport enterprises shall carry out safety inspections of the goods they carry, and may not commit the following acts:\n(a) handling the formalities for accepting dangerous goods at a station not handling dangerous goods;\n(b) carrying goods that have not undergone safety inspection;\n(c) carrying goods that do not conform to safety provisions and may endanger railway transport safety."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter V Safety of Railway Operations"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "The transport of dangerous goods shall use special facilities and equipment in accordance with laws, regulations and other relevant provisions of the State; the consignor shall provide the necessary escort personnel and emergency handling materials, equipment and protective articles, and shall keep the dangerous goods under the supervision of the escort personnel at all times; where dangerous goods are stolen, lost, leaked or the like, a timely report shall be made in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter V Safety of Railway Operations"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "Staff members handling dangerous goods transport business, loading and unloading personnel and escort personnel shall have a grasp of the nature of the dangerous goods, their hazardous characteristics, the use characteristics of packaging containers and emergency measures in the event of an accident."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter V Safety of Railway Operations"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "Railway transport enterprises and consignors shall package, load, unload and transport dangerous goods in accordance with operating procedures so as to prevent leakage and explosion of dangerous goods."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter V Safety of Railway Operations"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "Railway transport enterprises and consignors shall package, load and escort special pharmaceuticals in accordance with laws, regulations and other relevant provisions of the State so as to prevent special pharmaceuticals from being stolen, robbed or lost in the course of transport."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter V Safety of Railway Operations"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "The construction and use of railway management information systems and their facilities shall conform to the safety technical requirements of laws, regulations and other relevant provisions of the State.\nRailway transport enterprises shall establish an emergency safeguard system for network and information security and be staffed with the corresponding professional and technical personnel responsible for the safety management of networks and information systems."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter V Safety of Railway Operations"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "It is prohibited to use radio stations (radio stations) and other instruments or devices to interfere with the normal use of radio frequencies for railway operation command and dispatch.\nWhere radio frequencies for railway operation command and dispatch are interfered with, the railway transport enterprise shall immediately take investigation measures and report to the radio management institution and the railway supervision department; the radio management institution and the railway supervision department shall eliminate the interference in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter V Safety of Railway Operations"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "Electric power enterprises shall lawfully ensure the continuous supply of electricity needed for railway transport and ensure the quality of power supply.\nRailway transport enterprises shall strengthen the safety management of electricity use and rationally configure power supply sources and emergency standby power sources.\nWhere special circumstances affect the power supply to railways, electric power enterprises and railway transport enterprises shall promptly organise emergency repair in accordance with their respective duties so as to restore normal power supply as soon as possible."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter V Safety of Railway Operations"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "Railway transport enterprises shall strengthen the management of railway catering safety, comply with the laws and regulations on food safety management and other relevant provisions of the State, and ensure food safety."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter V Safety of Railway Operations"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "The following acts endangering railway safety are prohibited:\n(a) unlawfully intercepting trains or blocking railway transport;\n(b) disrupting the normal order of railway transport command and dispatch bodies and of stations and trains;\n(c) placing or abandoning obstacles on railway lines;\n(d) striking trains;\n(e) moving rolling stock on railway lines without authorisation, or opening train doors without authorisation or irregularly operating train emergency braking equipment;\n(f) dismantling, stealing, damaging or moving without authorisation railway facilities and equipment, rolling stock components, boundary markers, protection facilities and safety signs;\n(g) walking or lying on railway lines, or crossing railway lines at places where no level crossing or pedestrian crossing has been installed;\n(h) entering enclosed areas of railway lines without authorisation, or passing through railway bridges or tunnels where no pedestrian passage has been installed;\n(i) opening or closing freight car valves or covers of trains without authorisation, or destroying the sealed state;\n(j) opening container doors of trains without authorisation, or damaging container bodies, valves, covers or the sealed state;\n(k) loosening, dismantling or moving without authorisation the cargo loading and securing materials, devices and equipment of trains;\n(l) crawling under, climbing onto or jumping off trains;\n(m) throwing objects from trains;\n(n) smoking on high-speed trains or in no-smoking areas of other trains;\n(o) forcibly boarding or occupying trains by refusing to alight and other means;\n(p) storming, blocking or occupying station entrance and exit passages, waiting areas or platforms."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter V Safety of Railway Operations"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "Railway supervision departments shall supervise and inspect the implementation of this Regulation by enterprises engaged in railway construction, transport, and equipment manufacture and repair, investigate and deal with acts violating the provisions of this Regulation in accordance with law, and lawfully organise or participate in the investigation and handling of railway safety accidents.\nRailway supervision departments shall establish a system for recording and announcing the unlawful acts of enterprises, and shall announce enterprises engaged in railway construction, transport, and equipment manufacture and repair that are pursued for legal liability in accordance with law for violating this Regulation."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "Railway supervision departments shall strengthen supervision and administration of transport safety during peak periods of railway transport and under severe meteorological conditions, and strengthen supervision and inspection of key links of railway transport, the safety conditions of important facilities and equipment, and the establishment and implementation of emergency response plans for railway transport emergencies."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "Railway supervision departments and the safety production supervision and administration departments of people's governments at or above the county level shall establish an information notification system and a coordination mechanism for transport safety production. Where a major hidden safety hazard is discovered and the railway transport enterprise has difficulty eliminating it on its own, it shall promptly report to the railway supervision department and the relevant local people's government. Where a local people's government learns of important circumstances along railway lines endangering railway transport safety, it shall promptly notify the relevant railway transport enterprise and the railway supervision department."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "Where a railway supervision department discovers a hidden safety hazard, it shall order the relevant unit to eliminate it immediately. Where safety cannot be ensured before or during the elimination of a major hidden safety hazard, it shall order the withdrawal of personnel and equipment from the danger area and cessation of operations; operations may resume only after the major hidden safety hazard has been eliminated."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "Personnel carrying out railway safety supervision and inspection shall wear marks or present documents when performing supervision and inspection tasks. No unit or individual may obstruct or interfere with safety supervision and inspection personnel in lawfully performing their safety inspection duties."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "Where railway construction units and the survey, design, construction and supervision units of railway construction violate the provisions of this Regulation on the quality and safety management of railway construction, the railway supervision department shall impose a penalty in accordance with the provisions of the laws and administrative regulations on the management of engineering construction and tendering and bidding."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "Where a railway construction unit fails to implement supervision over engineering geological survey for high-speed railways and railway construction projects with complex geological structures, or fails to implement the provisions on safety management of construction on railway operating lines when carrying out railway construction on railway lines and in adjacent areas, thereby affecting railway operational safety, the railway supervision department shall order correction and impose a fine of not less than 100,000 yuan but not more than 500,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "Where railway special equipment subject to product certification in accordance with law leaves the factory, is sold, imported or used without authorisation without passing certification, a penalty shall be imposed in accordance with the provisions of the Regulations of the People's Republic of China on Certification and Accreditation."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "Where a manufacturer of railway rolling stock or other special equipment fails to recall defective products and take measures to eliminate defects in accordance with provisions, the railway industry supervision and administration department of the State Council shall order correction; where correction is refused, impose a fine of not less than 1 per cent but not more than 10 per cent of the value of the defective products; where the circumstances are serious, the railway industry supervision and administration department of the State Council shall revoke the corresponding licence certificate."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "Under any of the following circumstances, the railway supervision and administration institution shall order correction and impose a fine of not less than 20,000 yuan but not more than 100,000 yuan:\n(a) safety inspection, monitoring and protection facilities and equipment used for railway transport, transport appliances such as containers and containerisation equipment, special loading and unloading machinery, rigging, tarpaulins, loading and securing materials or devices, transport packaging, and cargo loading and securing do not conform to national standards, industry standards and technical codes;\n(b) railway enclosure facilities and safety protection facilities are not installed or maintained in accordance with the relevant provisions and standards of the State;\n(c) the erection and laying of railway signal and communication lines and towers do not conform to national standards, industry standards and railway safety protection requirements, or railway signal and communication lines and towers are not maintained and managed;\n(d) special facilities and equipment are not used for the transport of dangerous goods in accordance with laws, regulations and other relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 87."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "Where a person burns off vegetation, grazes livestock, or plants trees and other plants affecting the safety of railway lines and the line of sight for train operation within a railway line safety protection zone, or discharges pollutants, dumps refuse or dumps other substances endangering railway safety into a railway line safety protection zone, the railway supervision and administration institution shall order correction, and may impose a fine of not more than 50,000 yuan on a unit and a fine of not more than 2,000 yuan on an individual."
+        },
+        "noLabel": {
+          "en": "Article 88."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "Where, without the consent of the railway transport enterprise or without concluding a safety agreement, a person constructs buildings, structures and other facilities, excavates soil, sand or trenches, carries out mining of worked-out areas, or stacks or suspends articles within a railway line safety protection zone, or violates national standards, industry standards and construction safety codes for ensuring railway safety, thereby affecting railway transport safety, the railway supervision and administration institution shall order correction and may impose a fine of not more than 100,000 yuan.\nWhere a railway transport enterprise fails to assign personnel to exercise safety supervision over a construction site within a railway line safety protection zone, the railway supervision and administration institution shall order correction and may impose a fine of not more than 30,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 89."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 90,
+        "text": {
+          "en": "Where buildings, structures, equipment and the like constructed or installed within a railway line safety protection zone and its adjacent areas intrude into the railway construction clearance prescribed by the State, or where sites and warehouses for the production, processing, storage or sale of dangerous articles such as flammable, explosive or radioactive articles constructed or established on both sides of railway lines do not conform to the safety protection distances provided in national standards and industry standards, the railway supervision and administration institution shall order correction, impose a fine of not less than 50,000 yuan but not more than 200,000 yuan on a unit and a fine of not less than 10,000 yuan but not more than 50,000 yuan on an individual."
+        },
+        "noLabel": {
+          "en": "Article 90."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 91,
+        "text": {
+          "en": "Where any of the following acts is committed, a penalty shall be imposed respectively by the water administrative department, the land and resources department or the radio management institution of the local people's government at or above the county level of the place along the railway line in accordance with the provisions of the laws and administrative regulations on water resources management, mineral resources management and radio management:\n(a) carrying out open-pit mining, quarrying or blasting operations within 1,000 m on both sides of railway lines without approval;\n(b) extracting groundwater in a zone where groundwater extraction is prohibited or restricted;\n(c) reclaiming land from marshes, building dams across rivers, erecting pontoon bridges or constructing other facilities affecting the safety of railway bridges within 1,000 m upstream and downstream of the river course at a railway bridge crossing;\n(d) extracting sand or panning for gold within the scope upstream and downstream of the river course at a railway bridge crossing where sand extraction and gold panning are prohibited;\n(e) interfering with the normal use of radio frequencies for railway operation command and dispatch."
+        },
+        "noLabel": {
+          "en": "Article 91."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 92,
+        "text": {
+          "en": "Where a railway transport enterprise, road administrative department or road operating enterprise fails to perform its duties of inspecting and maintaining a combined railway-road bridge, the railway supervision and administration institution or the road administrative department at the higher level shall order correction; where correction is refused, the railway supervision and administration institution or the road administrative department at the higher level shall designate another unit to carry out maintenance and repair, and the costs of maintenance and repair shall be borne by the railway transport enterprise, road administrative department or road operating enterprise that refuses to perform its obligations."
+        },
+        "noLabel": {
+          "en": "Article 92."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 93,
+        "text": {
+          "en": "Where a motor vehicle passes along a road under a railway bridge or culvert without complying with the height limit and width limit provisions, the public security organ shall impose a penalty in accordance with the provisions of the laws and administrative regulations on road traffic safety management."
+        },
+        "noLabel": {
+          "en": "Article 93."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 94,
+        "text": {
+          "en": "Where the provisions of Article 48 or Article 49 of this Regulation on the safety management of railway level crossings are violated, the railway supervision and administration institution shall order correction and impose a fine of not less than 1,000 yuan but not more than 5,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 94."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 95,
+        "text": {
+          "en": "Where the provisions of Article 51, Article 52, Article 53 or Article 77 of this Regulation are violated, the public security organ shall order correction, impose a fine of not less than 10,000 yuan but not more than 50,000 yuan on a unit and a fine of not less than 500 yuan but not more than 2,000 yuan on an individual."
+        },
+        "noLabel": {
+          "en": "Article 95."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 96,
+        "text": {
+          "en": "Where a consignor of railway transport conceals or falsely declares the name, nature or weight of goods when consigning goods, luggage or parcels, or loads into vehicles or containers in excess of the prescribed weight, the railway supervision and administration institution shall order correction and may impose a fine of not more than 2,000 yuan; where the circumstances are relatively serious, impose a fine of not less than 2,000 yuan but not more than 20,000 yuan; where hazardous chemicals are falsely declared or concealed as ordinary goods for consignment, impose a fine of not less than 100,000 yuan but not more than 200,000 yuan.\nWhere a consignor of railway transport conceals dangerous goods among ordinary goods, or conceals goods prohibited from being stowed together among dangerous goods, the railway supervision and administration institution shall order correction and impose a fine of not less than 30,000 yuan but not more than 200,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 96."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 97,
+        "text": {
+          "en": "Where a consignor of railway transport fails to provide the necessary emergency handling materials, equipment and protective articles for the transport of dangerous goods, or fails to package, load, unload or transport dangerous goods in accordance with operating procedures, the railway supervision and administration institution shall order correction and impose a fine of not less than 10,000 yuan but not more than 50,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 97."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 98,
+        "text": {
+          "en": "Where a consignor of railway transport fails to provide the necessary escort personnel for the transport of dangerous goods in accordance with provisions, or fails to make a timely report in accordance with provisions when dangerous goods are stolen, lost, leaked or the like, the public security organ shall order correction and impose a fine of not less than 10,000 yuan but not more than 50,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 98."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 99,
+        "text": {
+          "en": "Where a passenger unlawfully carries or conceals controlled instruments, or unlawfully carries or consigns dangerous articles such as fireworks and firecrackers, guns and ammunition, or other prohibited articles, the public security organ shall impose a public security administration penalty in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 99."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 100,
+        "text": {
+          "en": "Where a railway transport enterprise falls under any of the following circumstances, the railway supervision department shall order correction and impose a fine of not less than 20,000 yuan but not more than 100,000 yuan:\n(a) handling the formalities for accepting dangerous goods at a station not handling dangerous goods;\n(b) carrying goods that have not undergone safety inspection;\n(c) carrying goods that do not conform to safety provisions and may endanger railway transport safety;\n(d) failing to package, load, unload or transport dangerous goods in accordance with operating procedures."
+        },
+        "noLabel": {
+          "en": "Article 100."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 101,
+        "text": {
+          "en": "Railway supervision departments and their staff members shall exercise the power of administrative penalty strictly in accordance with the types and ranges of penalties provided in this Regulation and in light of the nature and specific circumstances of the unlawful act; the specific measures shall be formulated by the railway industry supervision and administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 101."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 102,
+        "text": {
+          "en": "Where a staff member of a railway transport enterprise steals or discloses passengers' identity information, the public security organ shall impose a penalty in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 102."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 103,
+        "text": {
+          "en": "Where a unit engaged in railway construction, transport, or equipment manufacture and repair violates the provisions of this Regulation, sanctions shall be imposed in accordance with law on the persons directly in charge and the other persons directly responsible."
+        },
+        "noLabel": {
+          "en": "Article 103."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 104,
+        "text": {
+          "en": "Where a railway supervision department or its staff members fail to perform their duties in accordance with the provisions of this Regulation, sanctions shall be imposed in accordance with law on the responsible leading personnel and the persons directly responsible."
+        },
+        "noLabel": {
+          "en": "Article 104."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 105,
+        "text": {
+          "en": "Where a violation of the provisions of this Regulation causes loss to the property of a railway transport enterprise or of another unit or individual, civil liability shall be borne in accordance with law.\nWhere a violation of the provisions of this Regulation constitutes an act violating public security administration, the public security organ shall impose a public security administration penalty in accordance with law; where a crime is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 105."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 106,
+        "text": {
+          "en": "The safety management of dedicated railways and dedicated railway lines shall be carried out with reference to the provisions of this Regulation."
+        },
+        "noLabel": {
+          "en": "Article 106."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 107,
+        "text": {
+          "en": "High-speed railway referred to in this Regulation means a dedicated passenger railway line designed for trains at a speed of 250 km/h or above (including reserved capacity) and with an initial operating speed of 200 km/h or above."
+        },
+        "noLabel": {
+          "en": "Article 107."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 108,
+        "text": {
+          "en": "This Regulation shall come into force on 1 January 2014. The Regulations on the Protection of Railway Transport Safety promulgated by the State Council on 27 December 2004 shall be repealed simultaneously."
+        },
+        "noLabel": {
+          "en": "Article 108."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
         }
       }
     ]

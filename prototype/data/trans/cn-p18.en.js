@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p18
-   法规 69 部 / 译文 2114 条
+   法规 78 部 / 译文 2804 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -759,6 +759,1164 @@
         },
         "chapter": {
           "en": "Chapter VII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0423'] = {
+    "lawId": "CN-REG-0423",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 97 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the Company Law of the People's Republic of China (hereinafter referred to as the Company Law) and the Securities Law of the People's Republic of China (hereinafter referred to as the Securities Law) for the purpose of strengthening the supervision and administration of securities companies, regulating the conduct of securities companies, preventing risks of securities companies, protecting the lawful rights and interests of clients and the public interest of society, and promoting the sound development of the securities industry."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Securities companies shall comply with laws, administrative regulations and the provisions of the securities supervision and administration institution of the State Council, operate prudently and perform their fiduciary duties to clients."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Shareholders and actual controllers of securities companies may not abuse their rights, misappropriate the assets of the securities company or of clients, or harm the lawful rights and interests of the securities company or of clients."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The State encourages securities companies to carry out, on the premise of effective risk control, innovation in operating methods, business or products, organisation and incentive and restraint mechanisms in accordance with law.\nThe securities supervision and administration institution of the State Council and the relevant departments of the State Council shall take effective measures to promote the standardised and orderly conduct of innovation activities of securities companies."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Securities companies may, in accordance with the provisions of the State, issue, trade in and sell securities-type financial products."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The securities supervision and administration institution of the State Council shall perform the duties of supervision and administration of securities companies in accordance with law. The local offices of the securities supervision and administration institution of the State Council shall, within the scope of authorisation of the securities supervision and administration institution of the State Council, perform the duties of supervision and administration of securities companies."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The securities supervision and administration institution of the State Council, the People's Bank of China and other financial supervision and administration institutions of the State Council shall establish an information sharing mechanism for the supervision and administration of securities companies.\nThe securities supervision and administration institution of the State Council and local people's governments shall establish a mechanism for reporting the relevant circumstances of securities companies."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The establishment of a securities company shall meet the conditions provided in the Company Law, the Securities Law and these Regulations and shall be subject to the approval of the securities supervision and administration institution of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment and Change"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Shareholders of a securities company shall make capital contributions in currency or in non-monetary property necessary for the operation of the securities company. The total amount of non-monetary property contributions of the shareholders of a securities company may not exceed 30 per cent of the registered capital of the securities company.\nThe capital contributions of the shareholders of a securities company shall be verified and certified by an accounting firm qualified for securities and futures-related business; non-monetary property among the contributions shall be appraised by an asset appraisal institution qualified for securities-related business.\nIn the course of the operation of a securities company, where a creditor of the securities company converts its claim into equity of the securities company, it shall not be subject to the restriction provided in paragraph 1 of this Article."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment and Change"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "A unit or individual in any of the following circumstances may not become a shareholder holding 5 per cent or more of the equity of a securities company or an actual controller:\n(1) having been sentenced to criminal punishment for an intentional crime, where less than 3 years have elapsed since completion of the execution of the punishment;\n(2) having net assets lower than 50 per cent of the paid-in capital, or having contingent liabilities reaching 50 per cent of net assets;\n(3) being unable to pay off debts due;\n(4) other circumstances recognised by the securities supervision and administration institution of the State Council.\nOther shareholders of a securities company shall meet the relevant requirements of the securities supervision and administration institution of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment and Change"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "A securities company shall have not fewer than 3 senior managers who have served as senior managers in the securities industry for a full 2 years."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment and Change"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "At the time of establishment of a securities company, its business scope shall be commensurate with its financial condition, internal control systems, compliance systems and human resources. In the course of its operation, the securities supervision and administration institution of the State Council may, upon its application, adjust its business scope on the basis of its financial condition, level of internal control, degree of compliance, business management capability of its senior managers and number of professional personnel."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment and Change"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where a securities company increases its registered capital with a major adjustment of its equity structure, reduces its registered capital, changes its business scope or the important clauses of its articles of association, merges or divides, establishes, acquires or cancels domestic branches, or establishes, acquires or takes equity stakes in securities operating institutions overseas, it shall obtain the approval of the securities supervision and administration institution of the State Council.\nImportant clauses of the articles of association as mentioned in the preceding paragraph mean clauses providing for the following matters:\n(1) the name and domicile of the securities company;\n(2) the organisational structure of the securities company and the method of its formation, its powers and its rules of procedure;\n(3) the types and amounts of external investment and external guarantees of the securities company and the internal approval procedures therefor;\n(4) the grounds for dissolution of the securities company and the liquidation measures;\n(5) other matters required by the securities supervision and administration institution of the State Council to be provided in the articles of association of the securities company.\nBranches of a securities company as mentioned in paragraph 1 of this Article mean non-legal-person units subordinate to a securities company, such as branch offices and securities business departments, that engage in business operations."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment and Change"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Where any unit or individual is in any of the following circumstances, it shall notify the securities company in advance, and the securities company shall report to the securities supervision and administration institution of the State Council for approval:\n(1) after subscribing for or acquiring equity of the securities company, its shareholding reaches 5 per cent of the registered capital of the securities company;\n(2) actually controlling 5 per cent or more of the equity of the securities company by holding equity of the shareholders of the securities company or by other means.\nWithout the approval of the securities supervision and administration institution of the State Council, no unit or individual may entrust another person, or accept the entrustment of another person, to hold or manage the equity of a securities company. Shareholders of a securities company may not, in violation of the provisions of the State, agree not to exercise voting rights in proportion to their capital contributions."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment and Change"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where a securities company merges or divides, a major transfer of assets involving the rights and interests of clients shall be appraised by an asset appraisal institution qualified for securities-related business.\nWhere a securities company suspends business, dissolves or becomes bankrupt, it shall obtain the approval of the securities supervision and administration institution of the State Council and shall, in accordance with the relevant provisions, make arrangements for clients and handle its unsettled business."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment and Change"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The securities supervision and administration institution of the State Council shall examine the following applications and, within the following time limits, make a written decision to approve or not to approve:\n(1) for an application to establish a securities company within the territory or to establish, acquire or take equity stakes in a securities operating institution overseas, 6 months from the date of acceptance;\n(2) for an application to increase the registered capital with a major adjustment of the equity structure, to reduce the registered capital, to merge or divide, or to have the qualifications of shareholders or actual controllers examined, 3 months from the date of acceptance;\n(3) for an application to change the business scope or the important clauses of the articles of association, or to have the qualifications of senior managers for holding office examined, 45 working days from the date of acceptance;\n(4) for an application to establish, acquire or cancel domestic branches, or to suspend business, dissolve or become bankrupt, 30 working days from the date of acceptance;\n(5) for an application to have the qualifications of directors or supervisors for holding office examined, 20 working days from the date of acceptance.\nWhen examining and approving an application for the establishment of a securities company or its branches, the securities supervision and administration institution of the State Council shall take into account the needs of the development of the securities market and of fair competition."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment and Change"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The company registration authority shall, in accordance with the provisions of laws and administrative regulations and on the strength of the approval documents of the securities supervision and administration institution of the State Council, handle the registration of establishment, change and cancellation of a securities company and its domestic branches.\nAfter a securities company obtains the business licence for the securities company or for a domestic branch issued or renewed by the company registration authority, it shall apply to the securities supervision and administration institution of the State Council for the issue or renewal of a licence to operate securities business. The licence to operate securities business shall state the scope of securities business of the securities company or of the domestic branch.\nWithout a licence to operate securities business, a securities company and its domestic branches may not operate securities business.\nWhere a securities company ceases all securities business, dissolves, becomes bankrupt or cancels a domestic branch, it shall make a public announcement in a newspaper or periodical designated by the securities supervision and administration institution of the State Council and shall, in accordance with provisions, surrender its licence to operate securities business to the securities supervision and administration institution of the State Council for cancellation."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment and Change"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Securities companies shall, in accordance with the provisions of the Company Law, the Securities Law and these Regulations, establish and improve their organisational structures and clarify the powers of their decision-making, executive and supervisory bodies."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Organisational Structure"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "A securities company may establish independent directors. An independent director of a securities company may not hold any position in the securities company other than on the board of directors, and may not have any relationship with the securities company that may impede his or her independent and objective judgement."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Organisational Structure"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where a securities company operates two or more of securities brokerage business, securities asset management business, margin trading and securities lending business, and securities underwriting and sponsorship business, its board of directors shall establish a remuneration and nomination committee, an audit committee and a risk control committee to exercise the powers provided in the articles of association.\nWhere the board of directors of a securities company establishes a remuneration and nomination committee and an audit committee, the persons in charge of the committees shall be independent directors."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Organisational Structure"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "A securities company shall have a secretary to the board of directors, who shall be responsible for the preparation of meetings of the shareholders' meeting and of the board of directors, the custody of documents and the management of shareholder information, and who shall, in accordance with provisions or at the request of the securities supervision and administration institution of the State Council, shareholders and other relevant units or individuals, provide the relevant materials in accordance with law and handle matters of information submission or information disclosure. The secretary to the board of directors is a senior manager of the securities company."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Organisational Structure"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Where a securities company establishes a body exercising the powers of operation and management of the securities company, it shall specify in its articles of association the name, composition, duties and rules of procedure of that body, and the members of that body shall be senior managers of the securities company."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Organisational Structure"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "A securities company shall have a compliance officer, who shall review, supervise or inspect the lawfulness and compliance of the operation and management conduct of the securities company. The compliance officer is a senior manager of the securities company, shall be engaged by decision of the board of directors and shall be recognised by the securities supervision and administration institution of the State Council. The compliance officer may not concurrently hold a position in the securities company responsible for operation and management.\nWhere the compliance officer discovers any violation of laws or regulations, he or she shall report it to the body provided in the articles of association and simultaneously report it to the securities supervision and administration institution of the State Council or the relevant self-regulatory organisation in accordance with provisions.\nWhere a securities company dismisses its compliance officer, it shall have justified reasons and shall, within 3 working days from the date of dismissal, report in writing the fact of and reasons for the dismissal to the securities supervision and administration institution of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Organisational Structure"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The directors, supervisors and senior managers of a securities company shall obtain the qualifications for holding office approved by the securities supervision and administration institution of the State Council before taking up their posts.\nA securities company may not engage or appoint persons who have not obtained the qualifications for holding office to the posts specified in the preceding paragraph; where already engaged or appointed, the relevant resolutions or decisions on the engagement or appointment shall be invalid."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Organisational Structure"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Where the legal representative or a senior manager of a securities company leaves office, the securities company shall conduct an audit of that person and shall, within 2 months from the date of his or her departure, submit the audit report to the securities supervision and administration institution of the State Council; where the legal representative or the principal person in charge of operation and management of the securities company leaves office, an accounting firm qualified for securities and futures-related business shall be engaged to audit that person.\nWhere the audit report provided in the preceding paragraph is not submitted to the securities supervision and administration institution of the State Council, the person who has left office may not hold a post in another securities company.\nBusiness Rules and Risk Control"
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Organisational Structure"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Where a securities company and its domestic branches engage in the securities business provided in Article 125 of the Securities Law, they shall comply with the provisions of the Securities Law and these Regulations.\nThe business operated by a securities company and its domestic branches shall be approved by the securities supervision and administration institution of the State Council, and no business that has not been approved may be operated.\nWhere two or more securities companies are controlled by the same unit or individual or have a controlling relationship with each other, they may not operate the same securities business, unless otherwise provided by the securities supervision and administration institution of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Securities companies shall, in accordance with the principle of prudent operation, establish and improve risk management and internal control systems to prevent and control risks.\nSecurities companies shall exercise centralized and unified management over their branches, and may not operate branches through joint ventures or cooperation with others, or contract, lease or entrust their branches to others for operation and management."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Where a securities company opens securities accounts for clients as entrusted by the securities registration and clearing institution, it shall, in accordance with the rules for the administration of securities accounts, examine the authenticity of the names and identities declared by clients. The names on the cash account and the securities account opened by the same client shall be consistent.\nSecurities accounts opened by a securities company for securities asset management clients shall be reported to the stock exchange for the record within 3 trading days from the date of account opening.\nA securities company may not provide clients' cash accounts or securities accounts for use by others."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Where a securities company engages in securities asset management business or margin trading and securities lending business, or sells securities-type financial products, it shall, in accordance with the prescribed procedures, ascertain the identity, property and income status, securities investment experience and risk preference of clients and shall record and preserve them in written and electronic form. A securities company shall recommend appropriate products or services on the basis of the circumstances of the clients it has ascertained. The specific rules shall be formulated by the Securities Association of China."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where a securities company concludes with a client a business contract for securities trading entrustment, securities asset management, margin trading and securities lending or the like, it shall designate in advance dedicated personnel to explain the relevant business rules and the content of the contract to the client and shall deliver a risk disclosure statement to the client for signature and confirmation. The essential clauses of business contracts and the standard format of risk disclosure statements shall be formulated by the Securities Association of China and filed with the securities supervision and administration institution of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where a securities company engages in securities asset management business or margin trading and securities lending business, it shall prepare statements of account in accordance with provisions and send them to clients monthly. Where the securities company and the client have otherwise agreed on the time or method of delivery of the statements of account, such agreement shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "A securities company shall establish an information inquiry system to ensure that clients can inquire at any time during the business hours of the securities company about their entrustment records, trading records, securities and cash balances, and the names, practice certificates, securities broker certificate numbers and other information of the business handling personnel and securities brokers of the securities company.\nWhere a client considers that the relevant information records are inconsistent with the actual situation, it may complain to the securities company or to the securities supervision and administration institution of the State Council. A securities company shall designate a dedicated department to be responsible for handling client complaints. The securities supervision and administration institution of the State Council shall take corresponding measures on the basis of clients' complaints."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "A securities company may not, in violation of provisions, entrust other units or individuals to carry out client solicitation, client services or product sales activities."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Where a securities company provides investment advice to clients, it may not make definitive judgements on the rise or fall of securities prices or on market trends.\nA securities company and its practitioners may not seek improper benefits by providing investment advice to clients."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "A securities company shall establish and implement effective management systems to prevent its practitioners from directly, or in a false name or in the name of another person, holding or trading in shares, or accepting shares given by others."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "A securities company shall, in accordance with provisions, set aside a general risk reserve to cover operating losses."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Where a securities company engages in securities brokerage business, it shall examine whether the cash and securities in the client's account are sufficient. Where the cash in the client's cash account is insufficient, it may not accept the client's purchase entrustment; where the securities in the client's securities account are insufficient, it may not accept the client's sale entrustment."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Section 2 Securities Brokerage Business"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where a securities company engages in securities brokerage business, it may entrust persons other than the staff of the securities company to act as securities brokers to conduct client solicitation, client services and other activities on its behalf. A securities broker shall possess securities practice qualifications.\nA securities company shall conclude an entrustment contract with the securities broker it has engaged, issue a securities broker certificate, specify the scope of authorisation of the securities broker and supervise the practice conduct of the securities broker.\nA securities broker shall conduct business within the scope of authorisation of the securities company and shall produce his or her securities broker certificate to clients."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Section 2 Securities Brokerage Business"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "A securities broker shall comply with the management provisions for practitioners of securities companies; for acts within the scope of authorisation of the securities company, the securities company shall bear the corresponding legal liability in accordance with law; for acts beyond the scope of authorisation, the securities broker shall bear the corresponding legal liability in accordance with law.\nA securities broker may accept the entrustment of only one securities company to conduct client solicitation, client services and other activities.\nA securities broker may not handle securities subscription, trading and other matters for clients."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Section 2 Securities Brokerage Business"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where a securities company charges clients securities trading fees, it shall comply with the relevant provisions of the State and shall publicise the charging items and charging standards in a conspicuous position at its business premises."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Section 2 Securities Brokerage Business"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where a securities company engages in proprietary securities business, it shall be limited to buying and selling lawfully publicly issued shares, bonds, warrants, securities investment funds or other securities recognised by the securities supervision and administration institution of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Section 3 Proprietary Securities Business"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "A securities company engaging in proprietary securities business shall use a proprietary securities account under its real name.\nThe proprietary securities account of a securities company shall be reported to the stock exchange for the record within 3 trading days from the date of account opening."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Section 3 Proprietary Securities Business"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "A securities company engaging in proprietary securities business may not commit any of the following acts:\n(1) purchasing, in violation of provisions, securities issued by the controlling shareholder of the securities company or by an issuer having other major interests with the securities company;\n(2) entrusting others, in violation of provisions, to buy or sell securities on its behalf;\n(3) using insider information to buy or sell securities or manipulating the securities market;\n(4) other acts prohibited by laws, administrative regulations or the securities supervision and administration institution of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Section 3 Proprietary Securities Business"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where a securities company engages in proprietary securities business, risk control indicators such as the ratio of the total value of proprietary securities to the net capital of the company, the ratio of the value of a single security held to the net capital of the company, and the ratio of the quantity of a single security held to the total issue volume of that security shall comply with the provisions of the securities supervision and administration institution of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Section 3 Proprietary Securities Business"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "A securities company may, in accordance with the provisions of the Securities Law and these Regulations, engage in securities asset management business by accepting the entrustment of clients and using clients' assets to make investments. The returns generated by the investment shall be enjoyed by the clients and the losses shall be borne by the clients, and the securities company may charge a management fee as agreed.\nWhere a securities company engages in securities asset management business, it shall conclude a securities asset management contract with the client, specifying matters such as the scope of investment, investment proportion, management period and management fee."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Section 4 Securities Asset Management Business"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "A securities company engaging in securities asset management business may not commit any of the following acts:\n(1) making commitments to clients guaranteeing that the principal of their assets will not suffer loss or guaranteeing that they will obtain a minimum return;\n(2) accepting a single entrustment of assets from one client with a value lower than the minimum limit prescribed by the securities supervision and administration institution of the State Council;\n(3) using clients' assets to conduct unnecessary securities transactions;\n(4) conducting transactions between a proprietary securities account and a securities asset management account or between different securities asset management accounts without sufficient evidence proving that effective segregation has been lawfully achieved;\n(5) other acts prohibited by laws, administrative regulations or the securities supervision and administration institution of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Section 4 Securities Asset Management Business"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where a securities company uses the assets of several clients to make collective investments, it shall comply with the provisions of laws, administrative regulations and the securities supervision and administration institution of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Section 4 Securities Asset Management Business"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Margin trading and securities lending business as mentioned in these Regulations means business operations in securities trading conducted on a stock exchange or other securities trading venue approved by the State Council, in which a securities company lends funds to a client for the purchase of securities or lends securities to a client for sale, and the client deposits the corresponding collateral."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Section 5 Margin Trading and Securities Lending Business"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "A securities company operating margin trading and securities lending business shall meet the following conditions:\n(1) the securities company has a sound governance structure and effective internal control;\n(2) its risk control indicators comply with provisions and its financial condition and compliance condition are good;\n(3) it has the professional personnel, technical conditions, funds and securities required for operating margin trading and securities lending business;\n(4) it has sound management systems and implementation plans for margin trading and securities lending business;\n(5) other conditions prescribed by the securities supervision and administration institution of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Section 5 Margin Trading and Securities Lending Business"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where a securities company engages in margin trading and securities lending business, it shall conclude a margin trading and securities lending contract with the client and shall, in accordance with the provisions of the securities supervision and administration institution of the State Council, open a client securities collateral account with the securities registration and clearing institution and a client cash collateral account with a designated commercial bank in the name of the securities company. The funds in the client cash collateral account shall be managed with reference to the provisions of Article 57 of these Regulations.\nWithin the client securities collateral account and the client cash collateral account opened in the name of the securities company, a separate credit account shall be opened for each client."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Section 5 Margin Trading and Securities Lending Business"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where a securities company provides margin financing to clients, it shall use its proprietary funds or funds lawfully raised; where it provides securities lending to clients, it shall use its proprietary securities or securities over which it has lawfully obtained the right of disposal."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Section 5 Margin Trading and Securities Lending Business"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where a securities company provides margin financing or securities lending to clients, the clients shall deposit a certain proportion of margin. Securities may be used to substitute for margin.\nThe margin deposited by clients, together with all securities purchased through margin trading and securities lending transactions and all funds obtained from the sale of securities, are collateral for the securities company and shall be deposited into the client securities collateral account or the client cash collateral account of the securities company and recorded in the credit account of that client."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Section 5 Margin Trading and Securities Lending Business"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "The securities in the client securities collateral account and the funds in the client cash collateral account are trust property. A securities company may not, in breach of its fiduciary duty, misappropriate the securities or funds in the client collateral accounts. Except in the circumstances provided in Article 54 of these Regulations or where the securities company and the client have otherwise agreed in accordance with law, a securities company may not use the securities or funds in the client collateral accounts."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Section 5 Margin Trading and Securities Lending Business"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "A securities company shall calculate daily the ratio of the value of a client's collateral to the client's debt. Where the ratio falls below the prescribed minimum maintenance collateral ratio, the securities company shall notify the client to make up the difference within a certain period. Where the client fails to make up the difference in full within the time limit, or fails to repay the margin trading and securities lending debt at maturity, the securities company shall immediately dispose of the client's collateral in accordance with the agreement."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Section 5 Margin Trading and Securities Lending Business"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "The proportion of margin to be deposited by clients in accordance with the provisions of paragraph 1 of Article 52 of these Regulations shall be prescribed by the unit authorised by the securities supervision and administration institution of the State Council.\nThe types of securities that a securities company may lend to clients and the types of securities that may be purchased with the funds lent, the types and conversion rates of securities that may substitute for margin, the term of margin trading and securities lending, the minimum maintenance collateral ratio and the time limit for making up the difference shall be prescribed by the stock exchange.\nThe relevant provisions made by the authorised unit or the stock exchange as provided in paragraphs 1 and 2 of this Article shall be filed with the securities supervision and administration institution of the State Council and may not violate the monetary policy of the State."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Section 5 Margin Trading and Securities Lending Business"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where a securities company engages in margin trading and securities lending business and its proprietary funds or securities are insufficient, it may borrow from a securities finance company. The establishment and dissolution of a securities finance company shall be decided by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Section 5 Margin Trading and Securities Lending Business"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where a securities company engages in securities brokerage business, the trading settlement funds of its clients shall be deposited in a designated commercial bank and managed in a separate account in the name of each client.\nThe designated commercial bank shall conclude with the securities company and its clients a contract for the custody of clients' trading settlement funds, specifying matters such as the deposit, withdrawal, transfer and inquiry of clients' trading settlement funds, and shall, in accordance with the requirements of net settlement of securities transactions and delivery versus payment, open a general account of clients' trading settlement funds for the securities company.\nThe deposit and withdrawal of clients' trading settlement funds shall be handled through the designated commercial bank. The designated commercial bank shall ensure that clients can inquire at any time about the balance and changes of their trading settlement funds.\nThe list of designated commercial banks shall be determined and announced by the securities supervision and administration institution of the State Council together with the banking supervision and administration institution of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter V Protection of Clients' Assets"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where a securities company engages in securities asset management business, it shall place the entrusted assets of clients under the custody of a designated commercial bank as provided in paragraph 4 of Article 57 of these Regulations or another asset custody institution recognised by the securities supervision and administration institution of the State Council.\nThe asset custody institution shall, in accordance with the provisions of the securities supervision and administration institution of the State Council and the securities asset management contract, perform duties such as safely keeping the entrusted assets of clients, handling fund receipts and payments, and supervising the investment conduct of the securities company."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter V Protection of Clients' Assets"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Clients' trading settlement funds and the entrusted assets of securities asset management clients belong to the clients and shall be independent of and managed separately from the proprietary assets of the securities company, the designated commercial bank and the asset custody institution. Except for debts of the clients themselves or other circumstances provided by law, no unit or individual may apply for the sealing up, freezing or compulsory execution of clients' trading settlement funds or entrusted assets."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter V Protection of Clients' Assets"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Except in the following circumstances, clients' trading settlement funds or entrusted funds may not be used:\n(1) clients' subscription for securities, settlement of securities transactions or clients' withdrawal of funds;\n(2) clients' payment of commissions, fees or taxes relating to securities transactions;\n(3) other circumstances provided by law."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter V Protection of Clients' Assets"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "A securities company may not use the assets of securities brokerage clients or securities asset management clients to provide financing or guarantees to others. No unit or individual may compel, instruct, assist or accept a securities company's provision of financing or guarantees with the assets of its securities brokerage clients or securities asset management clients."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter V Protection of Clients' Assets"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Designated commercial banks, asset custody institutions and securities registration and clearing institutions shall supervise the use of clients' trading settlement funds, entrusted funds and the funds and securities in client collateral accounts deposited with them, and shall periodically submit to the securities supervision and administration institution of the State Council, in accordance with provisions, the relevant data on the custody or use of clients' trading settlement funds, entrusted funds and the funds and securities in client collateral accounts.\nWhere designated commercial banks, asset custody institutions and securities registration and clearing institutions receive applications or instructions to use clients' trading settlement funds, entrusted funds or the funds and securities in client collateral accounts beyond the scope provided in Articles 53, 54 and 60 of these Regulations, they shall refuse them; where they discover that clients' trading settlement funds, entrusted funds or the funds and securities in client collateral accounts have been unlawfully used or other abnormal circumstances exist, they shall immediately report to the securities supervision and administration institution of the State Council and send a copy of the report to the relevant supervision and administration institutions."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter V Protection of Clients' Assets"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "A securities company shall, within 4 months from the end of each accounting year, submit an annual report to the securities supervision and administration institution of the State Council, and shall, within 7 working days from the end of each month, submit a monthly report.\nWhere a major event occurs that affects or may affect the operation and management, financial condition, risk control indicators or the safety of clients' assets of a securities company, the securities company shall immediately submit an interim report to the securities supervision and administration institution of the State Council, explaining the cause of the event, its current state, the possible consequences and the corresponding measures proposed to be taken."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration Measures"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "The financial and accounting report, the risk control indicator report and other special reports prescribed by the securities supervision and administration institution of the State Council in the annual report of a securities company shall be audited by an accounting firm qualified for securities and futures-related business. The annual report of a securities company shall be accompanied by an internal control review report issued by that accounting firm.\nThe directors and senior managers of a securities company shall sign confirmations on the annual report of the securities company; the principal person in charge of operation and management and the person in charge of finance shall sign confirmations on the monthly report. The persons signing the annual report or monthly report of a securities company shall ensure that the content of the report is true, accurate and complete; where they hold objections to the content of the report, they shall state their opinions and reasons."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration Measures"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "For the annual reports and monthly reports submitted by securities companies, the securities supervision and administration institution of the State Council shall designate special personnel to examine them and prepare examination reports. The examining personnel shall sign the examination reports. Where problems are discovered in the examination, the securities supervision and administration institution of the State Council shall promptly take corresponding measures.\nThe securities supervision and administration institution of the State Council shall compare and verify the relevant data on clients' trading settlement funds, entrusted funds and the funds and securities in client collateral accounts submitted by the relevant institutions, so as to promptly discover any unlawful use of funds or securities."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration Measures"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "A securities company shall, in accordance with law, publicly disclose to the public its basic information, its equity participation and controlling status, its liabilities and contingent liabilities, its operation and management status, its financial receipts and expenditures, the remuneration of its senior managers and other relevant information. The specific measures shall be formulated by the securities supervision and administration institution of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration Measures"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "The securities supervision and administration institution of the State Council may require the following units or individuals to provide, within a designated period, materials and information relating to the operation and management and financial condition of a securities company:\n(1) the securities company and its directors, supervisors and staff;\n(2) the shareholders and actual controllers of the securities company;\n(3) enterprises controlled or actually controlled by the securities company;\n(4) the account banks, designated commercial banks, asset custody institutions, stock exchanges and securities registration and clearing institutions of the securities company;\n(5) securities service institutions providing services to the securities company."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration Measures"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "The securities supervision and administration institution of the State Council has the power to take the following measures to inspect the business activities, financial condition and operation and management of a securities company:\n(1) questioning the directors, supervisors and staff of the securities company and requiring them to give explanations on the matters under inspection;\n(2) entering the office premises or business premises of the securities company to conduct inspections;\n(3) inspecting and copying documents and materials relating to the matters under inspection, and sealing up documents, materials and electronic equipment that may be transferred, concealed or destroyed;\n(4) inspecting the computer information management system of the securities company and copying the relevant data and materials.\nIn order to ascertain the business situation and financial condition of a securities company, the securities supervision and administration institution of the State Council may, with the approval of its person in charge, inquire into the bank accounts of the securities company and of enterprises having a controlling or actual controlling relationship with the securities company."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration Measures"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "The materials and information disclosed, submitted or provided by a securities company and the relevant units and individuals shall be true, accurate and complete, and may not contain false records, misleading statements or material omissions."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration Measures"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "For a securities company with an unsound governance structure, imperfect internal control, chaotic operation and management, off-book accounts or off-book operations, refusal to execute supervision and administration decisions, or violations of laws and regulations, the securities supervision and administration institution of the State Council shall order it to rectify within a time limit and may take the following measures:\n(1) ordering an increase in the number of internal compliance inspections and the submission of compliance inspection reports;\n(2) admonishing the securities company and its relevant directors, supervisors, senior managers and persons in charge of domestic branches;\n(3) ordering the punishment of the responsible persons concerned and reporting the results;\n(4) ordering the replacement of directors, supervisors or senior managers, or restricting their powers;\n(5) placing the securities company under temporary takeover and conducting a comprehensive verification;\n(6) ordering the suspension of part or all of the business of the securities company or its domestic branches and the cancellation of domestic branches within a time limit.\nWhere a securities company has its business suspended or its domestic branches cancelled within a time limit, it shall, in accordance with the relevant provisions, make arrangements for clients and handle its unsettled business.\nWhere the compliance officer has already performed the duties of stopping and reporting the violations of laws and regulations of the securities company in accordance with law, he or she shall be exempted from liability."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration Measures"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "Where any unit or individual holds or actually controls 5 per cent or more of the equity of a securities company without approval, the securities supervision and administration institution of the State Council shall order it to rectify within a time limit; before rectification, the corresponding equity shall not carry voting rights."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration Measures"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "Where any person who has not obtained the qualifications for holding office actually exercises the powers of a director, supervisor or senior manager of a securities company or of a person in charge of a domestic branch, the securities supervision and administration institution of the State Council shall order him or her to cease exercising the powers, make a public announcement and may, in accordance with provisions, take measures to prohibit him or her from entering the securities market."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration Measures"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "Where a director, supervisor or senior manager of a securities company or a person in charge of a domestic branch no longer meets the conditions for the qualifications for holding office, the securities company shall remove him or her from office and report to the securities supervision and administration institution of the State Council; where the securities company fails to remove him or her from office, the securities supervision and administration institution of the State Council shall order the removal."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration Measures"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "Where a securities company engages or dismisses an accounting firm, it shall, within 3 working days from the date of the decision, report to the securities supervision and administration institution of the State Council for the record; where it dismisses an accounting firm, it shall state the reasons."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration Measures"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "Where an accounting firm audits a securities company or its relevant personnel, it may inspect and copy client information or other relevant documents and materials of the securities company relating to the audit matters, and may retrieve the relevant data and materials in the computer information management system of the securities company.\nAn accounting firm shall keep confidential the information it has come to know, unless otherwise provided by laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration Measures"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "Stock exchanges shall conduct real-time monitoring of the trading conduct of the proprietary securities accounts and securities asset management accounts of securities companies; where abnormal circumstances are discovered, they shall promptly deal with them in accordance with the trading rules and member management rules and report to the securities supervision and administration institution of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration Measures"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "Where a securities company is in any of the following circumstances, it shall be punished in accordance with the provisions of Article 198 of the Securities Law:\n(1) engaging a person without the qualifications for holding office as the person in charge of a domestic branch;\n(2) failing to remove, in accordance with the decision lawfully made by the securities supervision and administration institution of the State Council, a director, supervisor, senior manager or person in charge of a domestic branch who no longer meets the conditions for the qualifications for holding office."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "Where a securities company engaging in securities brokerage business accepts a client's purchase entrustment when the client's funds are insufficient, or accepts a client's sale entrustment when the client's securities are insufficient, it shall be punished in accordance with the provisions of Article 205 of the Securities Law."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "Where a securities company provides clients' cash accounts or securities accounts for use by others, it shall be punished in accordance with the provisions of Article 208 of the Securities Law."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "Where a securities company induces clients to conduct unnecessary securities transactions, or, when engaging in securities asset management business, uses clients' assets to conduct unnecessary securities transactions, it shall be punished in accordance with the provisions of Article 210 of the Securities Law."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "Where a securities company or its domestic branch operates business beyond the scope approved by the securities supervision and administration institution of the State Council, it shall be punished in accordance with the provisions of Article 219 of the Securities Law."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "Where a securities company conducts transactions between a proprietary securities account and a securities asset management account or between different securities asset management accounts without sufficient evidence proving that effective segregation has been lawfully achieved, it shall be punished in accordance with the provisions of Article 220 of the Securities Law."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "Where a securities company violates the provisions of these Regulations and is in any of the following circumstances, it shall be ordered to rectify, be given a warning, have its illegal gains confiscated and, in addition, be fined not less than 1 time but not more than 5 times the illegal gains; where there are no illegal gains or the illegal gains are less than RMB 100,000 yuan, it shall be fined not less than RMB 100,000 yuan but not more than RMB 300,000 yuan; where the circumstances are serious, the relevant securities business licence shall be suspended or revoked. A warning shall be given to the persons in charge who are directly responsible and other persons directly responsible, and they shall be fined not less than RMB 30,000 yuan but not more than RMB 100,000 yuan; where the circumstances are serious, their qualifications for holding office or securities practice qualifications shall be revoked:\n(1) entrusting other units or individuals, in violation of provisions, to carry out client solicitation, client services or product sales activities;\n(2) providing investment advice to clients and making definitive judgements on the rise or fall of securities prices or on market trends;\n(3) entrusting others, in violation of provisions, to buy or sell securities on its behalf;\n(4) engaging in proprietary securities business or securities asset management business with an investment scope or investment proportion in violation of provisions;\n(5) engaging in securities asset management business and accepting a single entrustment of assets from one client with a value lower than the prescribed minimum limit."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "Where a securities company violates the provisions of these Regulations and is in any of the following circumstances, it shall be ordered to rectify, be given a warning, have its illegal gains confiscated and, in addition, be fined not less than 1 time but not more than 5 times the illegal gains; where there are no illegal gains or the illegal gains are less than RMB 30,000 yuan, it shall be fined not less than RMB 30,000 yuan but not more than RMB 300,000 yuan. A warning and a fine of not less than RMB 30,000 yuan but not more than RMB 100,000 yuan shall be imposed on the persons in charge who are directly responsible and other persons directly responsible, either alone or in addition; where the circumstances are serious, their qualifications for holding office or securities practice qualifications shall be revoked:\n(1) failing to audit a legal representative or senior manager who has left office and submit an audit report in accordance with provisions;\n(2) operating a branch through a joint venture or cooperation with others, or contracting, leasing or entrusting a branch to others for operation and management;\n(3) failing to report the proprietary securities account or the securities accounts of securities asset management clients to the stock exchange for the record in accordance with provisions;\n(4) failing to ascertain, in accordance with the prescribed procedures, the identity, property and income status, securities investment experience and risk preference of clients;\n(5) recommending products or services that are incompatible with the circumstances of the clients ascertained;\n(6) failing to designate dedicated personnel in accordance with provisions to explain the relevant business rules and the content of the contract to clients and to disclose investment risks to them in writing;\n(7) failing to conclude a business contract with a client in accordance with provisions, or failing to include the prescribed essential clauses in the business contract concluded with a client;\n(8) failing to prepare and deliver statements of account to clients in accordance with provisions, or failing to establish and effectively implement an information inquiry system in accordance with provisions;\n(9) failing to designate a dedicated department to handle client complaints in accordance with provisions;\n(10) failing to set aside a general risk reserve in accordance with provisions;\n(11) failing to deposit and manage clients' trading settlement funds, entrusted funds and the funds and securities in client collateral accounts in accordance with provisions;\n(12) engaging or dismissing an accounting firm without reporting to the securities supervision and administration institution of the State Council for the record in accordance with provisions, or dismissing an accounting firm without stating the reasons."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "Where a securities company fails to open accounts for clients in accordance with provisions, it shall be ordered to rectify; where the circumstances are serious, a fine of not less than RMB 200,000 yuan but not more than RMB 500,000 yuan shall be imposed and a fine of not less than RMB 10,000 yuan but not more than RMB 50,000 yuan shall be imposed on the directors, senior managers and other persons directly responsible."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "Where the provisions of these Regulations are violated and any of the following circumstances exists, the party shall be ordered to rectify, be given a warning, have its illegal gains confiscated and, in addition, be fined not less than 1 time but not more than 5 times the illegal gains; where there are no illegal gains or the illegal gains are less than RMB 100,000 yuan, it shall be fined not less than RMB 100,000 yuan but not more than RMB 600,000 yuan; where the circumstances are serious, the relevant business licence shall be revoked. A warning shall be given to the persons in charge who are directly responsible and other persons directly responsible, their qualifications for holding office or securities practice qualifications shall be revoked, and they shall be fined not less than RMB 30,000 yuan but not more than RMB 300,000 yuan:\n(1) entrusting another person, or accepting the entrustment of another person, to hold or manage the equity of a securities company without approval, or subscribing for, acquiring or actually controlling the equity of a securities company without approval;\n(2) a shareholder or actual controller of a securities company compelling, instructing, assisting or accepting the securities company's provision of financing or guarantees with the assets of its securities brokerage clients or securities asset management clients;\n(3) a securities company, asset custody institution or securities registration and clearing institution using clients' trading settlement funds, entrusted funds or the funds and securities in client collateral accounts in violation of provisions;\n(4) an asset custody institution or securities registration and clearing institution consenting to or executing applications or instructions to use entrusted funds or the funds and securities in client collateral accounts in violation of provisions;\n(5) an asset custody institution or securities registration and clearing institution failing to report to the securities supervision and administration institution of the State Council upon discovering that entrusted funds or the funds and securities in client collateral accounts have been unlawfully used."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "Where a designated commercial bank is in any of the following circumstances, the securities supervision and administration institution of the State Council shall order it to rectify, give it a warning, confiscate its illegal gains and, in addition, impose a fine of not less than 1 time but not more than 5 times the illegal gains; where there are no illegal gains or the illegal gains are less than RMB 100,000 yuan, a fine of not less than RMB 100,000 yuan but not more than RMB 600,000 yuan shall be imposed. A warning shall be given to the persons in charge who are directly responsible and other persons directly responsible, and they shall be fined not less than RMB 30,000 yuan but not more than RMB 300,000 yuan:\n(1) using clients' trading settlement funds in violation of provisions;\n(2) consenting to or executing applications or instructions to use clients' trading settlement funds in violation of provisions;\n(3) failing to report to the securities supervision and administration institution of the State Council upon discovering that clients' trading settlement funds have been unlawfully used.\nWhere a designated commercial bank commits the acts provided in the preceding paragraph and the circumstances are serious, the securities supervision and administration institution of the State Council shall, together with the banking supervision and administration institution of the State Council, order it to suspend or terminate its business of keeping clients' trading settlement funds in custody; in respect of the persons in charge who are directly responsible and other persons directly responsible, the securities supervision and administration institution of the State Council may recommend that the banking supervision and administration institution of the State Council impose a penalty in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 87."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "Where the provisions of these Regulations are violated and any of the following circumstances exists, the party shall be ordered to rectify, be given a warning and be fined not less than RMB 30,000 yuan but not more than RMB 200,000 yuan; a warning shall be given to the persons in charge who are directly responsible and other persons directly responsible, and they may be fined not more than RMB 30,000 yuan:\n(1) a securities company fails to publicly disclose information in accordance with the provisions of Article 66 of these Regulations, or the information publicly disclosed contains false records, misleading statements or material omissions;\n(2) an enterprise controlled or actually controlled by a securities company, an asset custody institution or a securities service institution fails to submit or provide the relevant information and materials to the securities supervision and administration institution of the State Council in accordance with provisions, or the information and materials submitted or provided contain false records, misleading statements or material omissions."
+        },
+        "noLabel": {
+          "en": "Article 88."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "Where the provisions of these Regulations are violated and any of the following circumstances exists, the party shall be ordered to rectify, be given a warning, have its illegal gains confiscated and, in addition, be fined an amount equal to the illegal gains; where there are no illegal gains or the illegal gains are less than RMB 30,000 yuan, a fine of not more than RMB 30,000 yuan shall be imposed; where the circumstances are serious, the qualifications for holding office or securities practice qualifications shall be revoked:\n(1) the compliance officer fails to report violations of laws and regulations to the securities supervision and administration institution of the State Council or the relevant self-regulatory organisation in accordance with provisions;\n(2) a securities broker fails to produce his or her securities broker certificate to clients when conducting business;\n(3) a securities broker simultaneously accepts the entrustment of several securities companies to carry out client solicitation, client services and other activities;\n(4) a securities broker accepts the entrustment of clients to handle securities subscription, trading and other matters for them."
+        },
+        "noLabel": {
+          "en": "Article 89."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 90,
+        "text": {
+          "en": "Where a securities company charges fees in violation of provisions, the relevant competent departments shall impose a penalty in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 90."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 91,
+        "text": {
+          "en": "Where the securities business operated by a securities company does not comply with the provisions of paragraph 3 of Article 26 of these Regulations, it shall meet the prescribed requirements within the time limit prescribed by the securities supervision and administration institution of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 91."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 92,
+        "text": {
+          "en": "Where the custody method for clients' trading settlement funds of a securities company does not comply with the provisions of Article 57 of these Regulations, the securities supervision and administration institution of the State Council shall order it to make adjustments within a time limit.\nThe custody method for clients' trading settlement funds of a securities company shall meet the prescribed requirements within 1 year from the date of implementation of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 92."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 93,
+        "text": {
+          "en": "A securities company may borrow from its shareholders or other units debt whose repayment order is after that of ordinary debts, and the specific administrative measures shall be formulated by the securities supervision and administration institution of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 93."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 94,
+        "text": {
+          "en": "The business scope of foreign-invested securities companies and the qualification conditions and capital contribution proportions of overseas shareholders shall be prescribed by the securities supervision and administration institution of the State Council and submitted to the State Council for approval."
+        },
+        "noLabel": {
+          "en": "Article 94."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 95,
+        "text": {
+          "en": "Where an overseas securities operating institution operates securities business within the territory or establishes a representative office, it shall obtain the approval of the securities supervision and administration institution of the State Council. The specific measures shall be formulated by the securities supervision and administration institution of the State Council and submitted to the State Council for approval."
+        },
+        "noLabel": {
+          "en": "Article 95."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 96,
+        "text": {
+          "en": "Securities registration and clearing institution as mentioned in these Regulations means the securities registration and clearing institution provided in Article 155 of the Securities Law."
+        },
+        "noLabel": {
+          "en": "Article 96."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 97,
+        "text": {
+          "en": "These Regulations shall come into force on 1 June 2008."
+        },
+        "noLabel": {
+          "en": "Article 97."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
         }
       }
     ]
@@ -6875,6 +8033,909 @@
     ]
   };
 
+  TR['CN-REG-0444'] = {
+    "lawId": "CN-REG-0444",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 76 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the National Defence Law of the People's Republic of China and other relevant laws in order to standardise the administration of civilian personnel, protect the lawful rights and interests of civilian personnel, build a high-quality and professional contingent of civilian personnel with both integrity and ability, and promote the modernisation of military personnel."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Civilian personnel as mentioned in these Regulations refer to persons who are not performing military service and who perform their duties in accordance with law in posts in the military establishment; they are a component of military personnel and shall, in accordance with law, enjoy the corresponding rights and perform the corresponding obligations of State functionaries."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The administration of civilian personnel shall uphold the absolute leadership of the Communist Party of China, thoroughly implement Xi Jinping's thinking on strengthening the military, implement the system under which the Chairman of the Central Military Commission assumes overall responsibility, implement the Party's organisational line for the new era, uphold the principle that the Party manages cadres and the Party manages talent, uphold the principle that talent is the primary resource, and uphold openness, equality, competition and selection on merit, and shall be conducted in accordance with the statutory limits of authority, conditions, standards and procedures."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Civilian personnel shall mainly be established in posts that are common to both military and civilian use, that do not involve direct participation in combat, and that are relatively professional, supportive and stable in nature; according to the nature of the posts, they are divided into management-type civilian personnel, professional and technical civilian personnel, and professional skills civilian personnel. Management-type civilian personnel and professional and technical civilian personnel are an important component of the Party's contingent of cadres."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The military shall establish a system of policies and institutions for civilian personnel that is independent of those for military personnel, civil servants and staff of public institutions. The policies and institutions for civilian personnel shall reflect the characteristics of the military profession and shall build sound management and support mechanisms.\nThe military shall apply classified and graded administration to civilian personnel so as to raise the effectiveness and scientific level of administration."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The Central Military Commission shall exercise unified leadership over the administration of civilian personnel throughout the military, and the Political Work Department of the Central Military Commission shall be responsible for organising and guiding the administration of civilian personnel throughout the military. The political work departments of units at or above the regiment level shall, under the leadership of the Party committee, be responsible for the administration of civilian personnel of their own units.\nThe relevant central and State organs, the relevant local organs and the relevant military units shall, in accordance with the division of duties, do well the work of recruitment and employment, education and training, household registration administration, social security, human resources management, pensions and preferential care, and retirement administration of civilian personnel, and shall provide public services and facilities for civilian personnel."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The State and the military shall, in accordance with law, guarantee that civilian personnel enjoy status and rights and interests commensurate with their identity and attributes, professional characteristics, duties and missions, and contributions, and shall encourage civilian personnel to serve national defence and military development steadily over the long term.\nThe relevant military units shall, together with the relevant central and State organs and the relevant local organs, establish a joint working mechanism for civilian personnel so as to coordinate the work relating to the administration of civilian personnel across military and civilian boundaries."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Units and individuals that make outstanding contributions in the administration of civilian personnel shall be commended and rewarded in accordance with the relevant provisions of the State and the military."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Civilian personnel shall meet the following basic conditions:\n(a) holding the nationality of the People's Republic of China;\n(b) having reached the age of 18;\n(c) meeting the political conditions of the military for the recruitment and employment of civilian personnel;\n(d) being willing to serve national defence and military development;\n(e) meeting the educational level, professional level and working capacity required by the post;\n(f) having the physical conditions and psychological quality for the normal performance of duties;\n(g) other conditions prescribed by laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Basic Conditions, Duties, Obligations and Rights"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Civilian personnel shall mainly perform the following duties:\n(a) in accordance with the post held, engaging in management work such as administrative affairs, in professional and technical work such as education and teaching, scientific research, engineering technology and medical and health work, and in professional skills work such as operation and maintenance and service support;\n(b) participating in military training and combat readiness duty as required;\n(c) undertaking support and guarantee tasks in combat and in military operations with a combat background, and participating in military operations other than war, as required;\n(d) other duties prescribed by laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Basic Conditions, Duties, Obligations and Rights"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Civilian personnel shall perform the following obligations:\n(a) being loyal to the Communist Party of China, to socialism, to the motherland and to the people, and striving to serve national defence and military development;\n(b) abiding by the Constitution, laws and regulations and the relevant rules and regulations of the military;\n(c) obeying orders, heeding command, observing discipline, keeping secrets, carrying forward the fine traditions of the military, and safeguarding the good image of the military;\n(d) earnestly performing their duties and responsibilities, working in unity and cooperation, being diligent and dedicated, and striving to improve the quality and efficiency of work;\n(e) studying and mastering the scientific, cultural, professional and technical knowledge and skills required for the performance of duties, and improving their professional capacity;\n(f) being honest and upright, fair and decent, strictly observing professional ethics, and exemplarily observing social morality and family virtues;\n(g) transferring to active service in accordance with law as required;\n(h) other obligations prescribed by laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Basic Conditions, Duties, Obligations and Rights"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Civilian personnel shall enjoy the following rights:\n(a) receiving medals, honorary titles, awards, commendations and commemorative medals and the like;\n(b) receiving wages and remuneration and enjoying the corresponding welfare benefits, pensions and preferential care, and social security;\n(c) obtaining the working conditions and labour protection that should be available for the performance of duties;\n(d) participating in training;\n(e) not being removed from office, demoted (in grade), dismissed, having their employment contract terminated or rescinded, or subjected to sanctions, except for statutory reasons and through statutory procedures;\n(f) applying to resign or to rescind the employment contract, applying for the handling of personnel disputes, and lodging appeals and complaints;\n(g) other rights prescribed by laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Basic Conditions, Duties, Obligations and Rights"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The military shall establish a system of post management for civilian personnel.\nThe military shall establish posts for civilian personnel in accordance with duties and tasks and the personnel establishment, and shall specify the post category, post duty level and post grade.\nPosts for civilian personnel are divided into management posts, professional and technical posts and professional skills posts. A number of specific categories may be divided in light of the characteristics of the posts and the needs of management.\nPost duty levels for civilian personnel shall be established for management posts and professional and technical posts.\nPost grades for civilian personnel are divided, according to the post category, into clerical staff grades, professional and technical post grades and professional skills post grades."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter III Post Establishment and Grades"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "A system under which post duty levels and clerical staff grades run in parallel shall apply to management-type civilian personnel.\nThe post duty levels of management-type civilian personnel holding leadership posts are divided, from high to low, into seven levels, namely deputy ministry level, bureau principal level, bureau deputy level, division principal level, division deputy level, section principal level and section deputy level of military civilian personnel.\nClerical staff grades shall be established at and below the bureau level of military civilian personnel and are divided, from high to low, into twelve grades, namely Grade 1 to Grade 12 clerical staff.\nThe minimum clerical staff grades corresponding to post duty levels at and below the bureau level of military civilian personnel are:\n(a) bureau principal level of military civilian personnel: Grade 1 clerical staff;\n(b) bureau deputy level of military civilian personnel: Grade 2 clerical staff;\n(c) division principal level of military civilian personnel: Grade 4 clerical staff;\n(d) division deputy level of military civilian personnel: Grade 6 clerical staff;\n(e) section principal level of military civilian personnel: Grade 8 clerical staff;\n(f) section deputy level of military civilian personnel: Grade 10 clerical staff."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter III Post Establishment and Grades"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "A system of management of post duty levels and professional and technical post grades shall apply to professional and technical civilian personnel.\nThe establishment and administration of the post duty levels of professional and technical civilian personnel shall be carried out in accordance with the relevant provisions of the military.\nThe professional and technical post grades of professional and technical civilian personnel are divided, from high to low, into thirteen grades, namely professional and technical Grade 1 to Grade 13."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Post Establishment and Grades"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Posts for professional skills civilian personnel are divided into skilled worker posts and general worker posts.\nA system of management of professional skills post grades shall apply to civilian personnel in skilled worker posts, and the grades are divided, from high to low, into five grades, namely professional skills Grade 1 to Grade 5; civilian personnel in general worker posts are not graded."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Post Establishment and Grades"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "A system of rank administration shall apply to civilian personnel.\nThe rank of civilian personnel shall be determined on the basis of the post duty level and post grade held, their integrity and ability, their actual work performance and their seniority.\nThe establishment and administration of the ranks of civilian personnel and their correspondence with post duty levels and post grades shall be carried out in accordance with the relevant provisions of the military.\nThe post duty level, post grade and rank of civilian personnel are the main basis for determining their wages and other treatment."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Post Establishment and Grades"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The military shall operate a system of recruitment and employment of civilian personnel that combines open examination and recruitment, direct introduction and special recruitment.\nOpen examination and recruitment applies to the new recruitment and employment of civilian personnel for Grade 7 clerical staff, professional and technical Grade 8, professional skills Grade 3 and below, and general worker posts.\nDirect introduction applies to the selection of high-level talent and special professional talent.\nSpecial recruitment applies to the recruitment and employment of civilian personnel from specific groups such as veterans."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter IV Recruitment and Employment"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "In addition to meeting the basic conditions prescribed in Article 9 of these Regulations, newly recruited and employed civilian personnel shall also meet the qualifications and conditions relating to the proposed posts as prescribed by the military. The maximum ages for the first recruitment and employment of civilian personnel are respectively:\n(a) 50 years of age for posts at the bureau deputy level of military civilian personnel, Grade 2 clerical staff and above, and professional and technical Grade 7 and above;\n(b) 45 years of age for posts from the division principal level to the section principal level of military civilian personnel, from Grade 3 to Grade 8 clerical staff, from professional and technical Grade 8 to Grade 10, and professional skills Grade 2 and above;\n(c) 35 years of age for posts at the section deputy level of military civilian personnel, from Grade 9 to Grade 12 clerical staff, from professional and technical Grade 11 to Grade 13, and professional skills Grade 3 and below and general worker posts.\nIn light of the needs of military development and the performance of tasks, the upper age limits and other conditions for the recruitment and employment of civilian personnel may be appropriately relaxed in accordance with the relevant provisions of the military.\nWhere posts for civilian personnel are to be filled, priority shall be given to the recruitment and employment of qualified veterans."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter IV Recruitment and Employment"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The open examination and recruitment of civilian personnel shall generally follow the procedures of formulating a plan, publishing information, examining qualifications, conducting a unified written examination, conducting interviews, conducting medical examinations, conducting political assessment, publicising the results, and examination, approval and filing.\nThe procedures for the direct introduction and special recruitment of civilian personnel shall be carried out in accordance with the relevant provisions of the State and the military."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter IV Recruitment and Employment"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The recruitment and employment of civilian personnel for posts at the deputy ministry level of military civilian personnel and professional and technical Grade 3 and above shall be subject to the approval of the Central Military Commission. The recruitment and employment of other management-type civilian personnel and professional and technical civilian personnel shall be subject to the approval of the departments and commissions of the organs of the Central Military Commission, the institutions directly under the Central Military Commission, the theatre commands, the services and arms, and the units directly under the Central Military Commission. The recruitment and employment of professional skills civilian personnel shall be subject to the approval of units at or above the division level."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter IV Recruitment and Employment"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "A probation period shall apply to newly recruited and employed civilian personnel in accordance with the relevant provisions of the military. Where the assessment at the end of the probation period is passed, the person shall be appointed to a post and graded in accordance with the provisions; where the assessment is not passed, or where the person voluntarily gives up during the probation period, the recruitment shall be cancelled."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter IV Recruitment and Employment"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The military shall, in light of the needs of civilian personnel for performing their duties, improving their knowledge structure and enhancing their professional capacity, implement classified and graded training for civilian personnel.\nTraining for civilian personnel shall adhere to the combination of education in military academies, training practice in units and military vocational education."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter V Training"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Training for civilian personnel is divided into initial training, promotion training and post training.\nInitial training shall be conducted for newly recruited and employed civilian personnel so that they acquire the essential military and political quality and basic professional capacity for adapting to their posts.\nPromotion training shall be conducted for civilian personnel proposed for promotion in post duty level so as to enhance their political capacity, management capacity and professional capacity.\nPost training shall be conducted for civilian personnel in light of the characteristics of the posts and the needs of work so as to enhance their capacity to perform their duties."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter V Training"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Training for civilian personnel shall be incorporated into the military personnel training system and organised and implemented in a unified manner.\nThe military may use State and social resources to train civilian personnel. The relevant central and State organs and the relevant local organs shall actively support the military in carrying out training for civilian personnel."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter V Training"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The military may, in light of the needs of work, arrange for civilian personnel to participate in education for upgrading their academic qualifications and select civilian personnel to participate in relevant study and training."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter V Training"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The employing unit shall register the training of civilian personnel and place the record in the personnel file of the civilian personnel.\nThe training record shall serve as one of the bases for the qualification assessment, appraisal and appointment of civilian personnel."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter V Training"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Classified and graded appraisal shall apply to civilian personnel.\nThe appraisal of civilian personnel shall comprehensively appraise their political quality, professional capacity, spirit of taking responsibility, actual work performance, honesty and self-discipline and other circumstances."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter VI Assessment"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The appraisal of civilian personnel is divided into annual appraisal, appraisal for the term of employment (appointment) and special appraisal.\nThe annual appraisal mainly appraises the overall circumstances of the performance of duties by civilian personnel in the year.\nThe appraisal for the term of employment (appointment) mainly appraises the overall circumstances of civilian personnel during a term of employment (appointment).\nThe special appraisal mainly appraises the overall circumstances of civilian personnel proposed for appointment, as well as the circumstances of civilian personnel in performing tasks, participating in education and training, and their performance during the probation period."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter VI Assessment"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "The appraisal of civilian personnel shall be organised and implemented by the employing unit or its superior unit in accordance with the relevant provisions of the military."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter VI Assessment"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The appraisal of civilian personnel shall result in an appraisal report, comments, an assessment or a grade. Among them, the results of the annual appraisal of civilian personnel are divided into four grades, namely excellent, competent, basically competent and incompetent; the grades of the results of appraisal for the term of employment (appointment) and of special appraisal shall be specified as needed.\nThe appraisal results shall serve as the main basis for the appointment of civilian personnel, the determination of wages and treatment, the implementation of rewards and sanctions, renewal of employment and competition for posts, and dismissal and termination of employment."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter VI Assessment"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The appointment of civilian personnel includes the appointment to and removal from post duties, the promotion and demotion of post duty levels, and the determination and adjustment of post grades and ranks."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter VII Appointment"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "A combination of the appointment system and the employment contract system shall apply to the appointment of civilian personnel. For civilian personnel under the employment contract system, the employing unit shall conclude an employment contract with them.\nThe tenure system shall apply to management-type civilian personnel holding leadership posts.\nThe conditions, limits of authority and procedures for the appointment of civilian personnel, and the specific measures for the administration of employment contracts and for the administration of the tenure of leadership posts, shall be prescribed by the Central Military Commission."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter VII Appointment"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "In respect of civilian personnel who are unsuitable for or incompetent in their current posts, the employing unit shall adjust their posts and re-determine their post duty levels, post grades and ranks.\nWhere civilian personnel are transferred to another post, resign, are dismissed, have their employment contract terminated or rescinded, retire, have their post establishment abolished, or are subjected to the sanction of expulsion, their original posts shall automatically be vacated; where removal from office is required in other circumstances, the relevant provisions of the military shall apply."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter VII Appointment"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The acquisition of professional titles, vocational qualifications and vocational skill grades by civilian personnel shall be carried out in accordance with the relevant provisions of the State and the military.\nProfessional titles, vocational qualifications and vocational skill grades obtained by civilian personnel before recruitment and employment shall be recognised by the employing unit.\nAfter civilian personnel leave the military, the professional titles, vocational qualifications and vocational skill grades obtained during their service in the military shall remain valid."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter VII Appointment"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Civilian personnel shall work steadily over the long term in posts in their own professional fields in the employing unit, and exchange may be organised as needed."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter VIII Exchange"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The exchange of civilian personnel is divided into two forms, namely exchange within the military and exchange across military and civilian boundaries, with exchange within the military predominating.\nThe exchange of civilian personnel shall be subject to the qualifications and conditions for the proposed post and to the availability of a vacancy in the establishment for the corresponding post."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter VIII Exchange"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where any of the following circumstances applies, civilian personnel may be exchanged within the military:\n(a) where the performance of tasks requires the reinforcement of strength;\n(b) where there is no suitable candidate in the unit and it is inappropriate to make up the number through recruitment and employment;\n(c) where adjustment of posts is required to improve the structure of the contingent;\n(d) where adjustment of posts is required upon expiry of the term of office, or where recusal from the post is required in accordance with the provisions;\n(e) other circumstances expressly prescribed by laws, regulations and the like."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter VIII Exchange"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where cadres or professional and technical talent in short supply are urgently needed for major national strategies and major projects, major programmes, and major tasks, the relevant military units may, in light of specific needs and in accordance with the limits of authority for cadre management, consult with the relevant central and State organs, the relevant local organs, State-owned enterprises and public institutions to select and transfer cadres or professional and technical talent to work in posts for civilian personnel.\nIn light of the needs of work, the relevant central and State organs, the relevant local organs, State-owned enterprises and public institutions may, in accordance with the limits of authority for cadre management and the relevant provisions of the State and the military, select and transfer civilian personnel to work in the relevant units by way of case-by-case deliberation."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter VIII Exchange"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where any of the following circumstances applies to civilian personnel, they may not be exchanged, except in the circumstance prescribed in item (a) of Article 38 of these Regulations:\n(a) having worked for less than 2 years after recruitment and employment;\n(b) being particularly needed for work and having no suitable replacement for the time being;\n(c) being under disciplinary review or supervisory investigation on suspicion of violating discipline or law, or being suspected of a crime in respect of which judicial proceedings have not yet been concluded;\n(d) other circumstances in which exchange is not permitted as prescribed by laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter VIII Exchange"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "The employing unit shall, in accordance with the relevant provisions of the military and in light of the identity and attributes of civilian personnel and their post duties, adhere to the principle of combining unified and separate management and focusing on effectiveness, and to the principle of attaching equal importance to respect and encouragement and to supervision and restraint, do well the education and administration of civilian personnel, and create a good environment for taking responsibility and starting undertakings."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IX Education Administration"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The employing unit shall strengthen the ideological and political development of the contingent of civilian personnel, guide civilian personnel to devote themselves to the practice of strengthening and revitalising the military, cultivate professional integrity of being politically qualified, professionally proficient, daring to take responsibility, actively taking action, conscientiously performing duties, and observing rules and discipline, and foster a professional identity of loving the military and serving national defence."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter IX Education Administration"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "The employing unit shall strengthen safety management and secrecy education for civilian personnel, and shall administer civilian personnel in classified posts in accordance with the relevant provisions of the State and the military.\nThe administration of civilian personnel leaving the country (leaving the mainland) on official or private business shall be carried out in accordance with the relevant provisions of the State and the military."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter IX Education Administration"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Civilian personnel may, in accordance with the relevant provisions of the military, join academic organisations in their own professional fields of a military or civilian nature, and social organisations, and participate in their activities. The military encourages and supports civilian personnel engaged in professional and technical work in participating in national and local talent project plans, military-civilian collaborative scientific and technological innovation and other activities.\nCivilian personnel engaged in professional and technical work may, on the premise of properly performing their post duties and completing their own work, take part-time employment in units outside the military upon approval."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter IX Education Administration"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "The military shall establish a system of oath-taking for civilian personnel.\nCivilian personnel shall strictly observe the relevant provisions of the military on internal affairs management.\nThe uniform style of civilian personnel's clothing and its insignia and accessories shall be prescribed by the Central Military Commission."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter IX Education Administration"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Civilian personnel who achieve outstanding results in national defence and military development and make outstanding contributions to the State and the people shall be given medals, honorary titles, awards, commendations and commemorative medals and the like in accordance with the relevant provisions of the State and the military.\nCivilian personnel may, in accordance with the relevant provisions of the State and the military, accept honours conferred by local people's governments, mass organisations and social organisations, and by international organisations and other countries and their armed forces."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter IX Education Administration"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Personnel disputes between civilian personnel and their employing units shall be handled in accordance with law and in accordance with the relevant provisions of the State and the military.\nWhere civilian personnel are dissatisfied with the appraisal results, decisions on resignation or dismissal, or decisions on sanctions concerning themselves, they may apply for review or lodge an appeal.\nWhere civilian personnel consider that the employing unit or the persons concerned have infringed their lawful rights and interests, they may lodge a complaint in accordance with law.\nThe relevant military units shall promptly accept the applications for review, appeals or complaints of civilian personnel."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter IX Education Administration"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "A system of recusal shall apply to the recruitment and employment, appraisal, appointment, reward and punishment, and handling of personnel disputes of civilian personnel."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter IX Education Administration"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "The personnel files of civilian personnel shall be administered in accordance with the relevant provisions of the military."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter IX Education Administration"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Military employing units shall carry out registration of organisational bodies in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter IX Education Administration"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "The military shall establish a system of treatment and guarantees for civilian personnel that is linked with the treatment policies for staff of State organs and public institutions and that reflects the incentive orientation of giving preferential treatment to talent and preferential rewards for performance."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter X Treatment and Guarantee"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Civilian personnel shall, in accordance with law, enjoy the corresponding political treatment, working treatment and living treatment.\nThe political treatment of civilian personnel shall be carried out in accordance with the relevant provisions of the State and the military.\nDuring their service in the military, civilian personnel shall, in accordance with the post duty level and post grade held and the like, enjoy such working treatment as office premises and official vehicles as prescribed by the military; where they are removed from office or leave the military, the corresponding working treatment shall be adjusted or cancelled."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter X Treatment and Guarantee"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "The military shall establish a unified wage system for civilian personnel. The wages of civilian personnel include basic wages, allowances and subsidies and the like.\nIn technology-intensive units of the military, performance-based wages may apply to civilian personnel."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter X Treatment and Guarantee"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "The employing unit and its civilian personnel shall participate in social insurance in accordance with the relevant provisions of the State and pay social insurance premiums in accordance with law.\nThe military shall, in accordance with the relevant provisions of the State, establish supplementary guarantees for civilian personnel."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter X Treatment and Guarantee"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Civilian personnel shall enjoy the policy of socialised and monetised housing guarantees prescribed by the State and the military.\nThe employing unit and its civilian personnel shall, in accordance with the provisions, deposit and use the housing provident fund, and the housing provident fund deposited shall be managed in a unified manner by the housing provident fund management centre at the locality.\nCivilian personnel may, in accordance with the relevant provisions of the military, rent and occupy collective dormitories or apartment housing of the military."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter X Treatment and Guarantee"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Civilian personnel shall enjoy the policies of medical subsidy and medical care prescribed by the State and the military. While civilian personnel undertake support and guarantee tasks in combat and in military operations with a combat background and participate in military operations other than war, free medical care of the military shall apply."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter X Treatment and Guarantee"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "The pensions and preferential care of civilian personnel shall be carried out in accordance with the relevant provisions of the State and the military.\nWhere civilian personnel are injured or killed in the course of undertaking support and guarantee tasks in combat and in military operations with a combat background, participating in military operations other than war, or military training approved by units at or above the corps level and included in the military training plan, their pensions and preferential care shall be carried out with reference to the provisions on the pensions and preferential care of military personnel."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter X Treatment and Guarantee"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Civilian personnel shall, in accordance with the relevant provisions of the military, enjoy such welfare benefits as home leave and vacation, transport subsidies, visits and consolation, relief for difficulties, and nursery care for their children."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter X Treatment and Guarantee"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "The settlement of household registration for civilian personnel and the accompanying relocation of their spouses and children shall be carried out in accordance with the relevant provisions of the State and the military."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter X Treatment and Guarantee"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "High-level talent and special professional talent among civilian personnel shall be given the relevant preferential treatment in accordance with the relevant provisions of the State and the military. For those meeting the prescribed conditions, the military may apply market-based remuneration systems such as the annual salary system, agreed wages and project-based wages.\nThe military may purchase the relevant insurance for key talent in posts for civilian personnel. Civilian personnel may enjoy the income from the conversion of scientific and technological achievements."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter X Treatment and Guarantee"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where civilian personnel under the appointment system resign or are dismissed by the employing unit, or where civilian personnel under the employment contract system have their employment contract rescinded or terminated or the employing unit rescinds or terminates the employment contract, the matter shall be handled in accordance with the relevant provisions of the military."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter XI Exit"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Where civilian personnel need to leave the military because of the streamlining and reorganisation of the employing unit or other reasons, the relevant military units shall, together with the relevant central and State organs and the relevant local organs, make proper arrangements in accordance with the relevant policies and in light of the different circumstances."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter XI Exit"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "The employing unit may dismiss civilian personnel or unilaterally rescind the employment contract in accordance with law.\nWhere any of the following circumstances applies, the employing unit may not dismiss civilian personnel or unilaterally rescind the employment contract:\n(a) having been injured in the line of duty (at work) or suffering from an occupational disease and having been appraised by a labour capacity appraisal institution as having a disability of Grade 1 to Grade 6;\n(b) suffering from illness or injury and being within the prescribed period of medical treatment;\n(c) female civilian personnel being pregnant, in the maternity period or in the nursing period;\n(d) other circumstances prescribed by laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter XI Exit"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Civilian personnel may resign or unilaterally rescind the employment contract in accordance with law.\nWhere any of the following circumstances applies, civilian personnel may not resign or unilaterally rescind the employment contract:\n(a) having not completed the minimum number of years of service prescribed by the military;\n(b) when the State issues a mobilisation order or declares a state of war;\n(c) when the unit has received a combat mission or comes under a sudden attack by the enemy;\n(d) during the period of undertaking support and guarantee tasks in combat and in military operations with a combat background, participating in military operations other than war, or military training approved by units at or above the corps level and included in the military training plan;\n(e) holding a post involving core or important military secrets or other special posts, or having left such a post for less than the declassification period prescribed by the military;\n(f) being under audit, disciplinary review or supervisory investigation, or being suspected of a crime in respect of which judicial proceedings have not yet been concluded;\n(g) other circumstances prescribed by laws and regulations or agreed in the employment contract."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter XI Exit"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Civilian personnel who meet the retirement conditions prescribed by the State and the military shall retire.\nAfter retirement, civilian personnel shall enjoy the corresponding treatment prescribed by the State and the military. The competent departments for veterans' affairs of people's governments at all levels shall take the lead in undertaking the service and administration of retired civilian personnel, and the relevant departments such as human resources and social security and medical insurance, and the sub-district offices (townships) and communities (villages) shall do the relevant work in accordance with the division of duties."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter XI Exit"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Where civilian personnel leave the military, the matter shall be examined and approved by the relevant military units in accordance with the limits of authority for appointment."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter XI Exit"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "The personnel relationship between civilian personnel and the employing unit shall terminate from the date on which they leave the military. The employing unit shall, in accordance with the relevant provisions of the State and the military, promptly complete the relevant formalities for the transfer of the personnel file, social insurance, housing provident fund and other relationships of the civilian personnel.\nWhere the circumstances for compensation prescribed by the State and the military are met, the employing unit shall give economic compensation to the civilian personnel.\nAfter civilian personnel leave the military, the restrictions on employment and the administration of the declassification period shall be carried out in accordance with the relevant provisions of the State and the military."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter XI Exit"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "Where the relevant military units and their staff members, in the administration of civilian personnel, violate the provisions of these Regulations and any of the following circumstances applies, the unit to which they belong or the superior unit shall circulate a notice of criticism and order correction within a time limit; sanctions shall be imposed in accordance with law on the leading personnel responsible and the persons directly responsible; where a crime is constituted, criminal liability shall be pursued in accordance with law:\n(a) recruiting and employing civilian personnel without complying with the establishment quota, the qualifications and conditions or the prescribed procedures;\n(b) divulging examination questions, violating examination room discipline or committing other acts seriously affecting openness and fairness in recruitment and employment and the like;\n(c) failing to conduct training, appraisal, appointment, exchange, recusal, reward and punishment, and the formalities for leaving the military in respect of civilian personnel in accordance with the provisions;\n(d) adjusting the standards of wages, welfare and insurance treatment of civilian personnel in violation of the provisions;\n(e) failing to accept and handle the appeals and complaints of civilian personnel in accordance with the provisions;\n(f) other circumstances in violation of the provisions of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter XII Legal Liability"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "Where the relevant central and State organs, the relevant local organs and their staff members abuse their powers, neglect their duties or engage in malpractices for personal gain in the administration of civilian personnel, sanctions shall be imposed in accordance with law on the leading personnel responsible and the persons directly responsible; where a crime is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter XII Legal Liability"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "Where civilian personnel violate discipline or law or fail in their duties or responsibilities, they shall be dealt with in accordance with the provisions; where a crime is constituted, criminal liability shall be pursued in accordance with law.\nWhere civilian personnel violate the relevant provisions of the State and the military or the provisions of the employment contract, causing losses to the employing unit, they shall bear liability for compensation in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter XII Legal Liability"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "Where civilian personnel resign or are dismissed, have their employment contract rescinded, and are guilty of serious breach of contract or dishonesty, or are expelled by the military, they may not again enter the service of the military."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter XII Legal Liability"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "In respect of high-level talent and special professional talent urgently needed for military development, special measures may be taken in such aspects as the establishment of posts for civilian personnel, personnel administration and treatment guarantees; the specific measures shall be prescribed by the Central Military Commission."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter XIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "Where the State and the military provide otherwise in respect of civilian personnel converted from military personnel in active service during the period of deepening the reform of national defence and the military, such provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter XIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "The terms used in these Regulations have the following meanings:\n(a) employing unit refers to an established unit at or above the regiment level of the military that establishes a personnel relationship with civilian personnel;\n(b) the employment contract system refers to the mode of employment in which the basic personnel relationship between the employing unit and civilian personnel is determined by concluding an employment contract;\n(c) the appointment system refers to the mode of employment in which the basic personnel relationship between the employing unit and civilian personnel is determined by direct appointment without concluding an employment contract."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter XIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "These Regulations apply to the civilian personnel of the Chinese People's Armed Police Force."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter XIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "These Regulations shall come into force as of 1 January 2023."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter XIII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-REG-0445'] = {
     "lawId": "CN-REG-0445",
     "sourceLang": "zh",
@@ -8034,6 +10095,876 @@
         },
         "chapter": {
           "en": "Chapter V Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0449'] = {
+    "lawId": "CN-REG-0449",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 74 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the provisions of the Law of the People's Republic of China on Guarding State Secrets (hereinafter referred to as the Secrecy Law)."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Uphold and strengthen the leadership of the Communist Party of China over the work of guarding State secrets (hereinafter referred to as secrecy work).\nThe central leading body for secrecy work shall lead secrecy work throughout the country and be responsible for the top-level design, overall coordination, comprehensive advancement and supervision of implementation of secrecy work throughout the country.\nThe leading bodies for secrecy work at all local levels shall lead secrecy work in their respective regions, implement the national strategy and major policy measures for secrecy work in accordance with the unified arrangements of the central leading body for secrecy work, coordinate major matters and important work concerning secrecy, and supervise the strict implementation of secrecy laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The State secrecy administrative department shall be in charge of secrecy work throughout the country. The secrecy administrative departments of local people's governments at or above the county level shall, under the guidance of the secrecy administrative department at the higher level, be in charge of secrecy work within their respective administrative regions."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The central state organs shall, within the scope of their functions and powers, administer or guide secrecy work in their respective systems and supervise the implementation of secrecy laws and regulations, and may, in light of the actual circumstances, formulate provisions on secrecy in the business under their charge, or formulate such provisions together with the relevant departments."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "State organs and units involving State secrets (hereinafter referred to as state organs and units) may not classify as State secrets matters that shall be made public in accordance with law, and may not make public information involving State secrets."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "State organs and units shall operate a responsibility system for secrecy work and shall bear the principal responsibility for secrecy work in their own organ or unit. The principal person in charge of a state organ or unit shall bear overall responsibility for secrecy work in that organ or unit, the person in charge of secrecy work and the person in charge of business work shall bear leadership responsibility for secrecy work within the scope of their duties, and staff members shall bear direct responsibility for secrecy work in their own posts.\nState organs and units shall strengthen the development of their capacity for secrecy work. Central state organs shall establish secrecy work bodies and be staffed with full-time secrecy cadres; other state organs and units shall, in light of the needs of secrecy work, establish secrecy work bodies or designate personnel to be specially responsible for secrecy work.\nThe performance of the responsibility system for secrecy work by state organs and units and their staff members shall be included in the content of annual evaluation and assessment."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "People's governments at or above the county level shall strengthen the development of secrecy infrastructure and the provision of key secrecy science and technology products.\nThe secrecy administrative departments at or above the provincial level shall promote independent innovation in secrecy science and technology, advance the research and development of key secrecy science and technology products, and encourage and support research in and application of secrecy science and technology."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The funds required by the secrecy administrative departments to perform their duties shall be included in the budget at the corresponding level. The funds required by state organs and units to carry out secrecy work shall be included in their annual budgets or annual plans of revenue and expenditure."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The secrecy administrative departments shall organise and carry out regular publicity and education on secrecy. The competent departments for the education and training of cadres shall, together with the secrecy administrative departments, perform the duties of educating and training cadres in secrecy. Institutions for the education and training of cadres shall incorporate secrecy education into their teaching systems. The administrative departments for education shall promote the incorporation of secrecy education into the national education system. The publicity departments shall guide and encourage the mass media to give full play to their role in popularising knowledge of secrecy, publicising the rule of law on secrecy, and promoting the enhancement of secrecy awareness throughout society.\nState organs and units shall conduct regular education and training for their staff members in the fine traditions of secrecy work, the situation and tasks of secrecy, secrecy laws and regulations, technical protection for secrecy, and warnings drawn from cases of violations of secrecy laws."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The secrecy administrative departments shall, in accordance with the relevant provisions of the State, improve the incentive and guarantee mechanisms, strengthen the development of the contingent of specialised personnel, professional training and the provision of equipment, and enhance the professional capacity and level of secrecy work. The administrative departments for education shall strengthen guidance and support for the development of disciplines and specialties related to secrecy."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Organisations and individuals with any of the following achievements shall be commended and rewarded in accordance with the relevant provisions of the State:\n(a) protecting the security of State secrets in a critical situation;\n(b) making outstanding contributions to safeguarding the security of State secrets in major classified activities;\n(c) achieving major results or notable success in the research and development of secrecy science and technology;\n(d) promptly reporting acts of divulging, or unlawfully obtaining or holding, State secrets;\n(e) discovering that another person has divulged or may divulge State secrets and immediately taking remedial measures, thereby avoiding or mitigating harmful consequences;\n(f) working in secrecy management or other classified posts, being loyal to duty, strictly guarding State secrets and giving outstanding performance;\n(g) making other outstanding contributions to the guarding and protection of State secrets."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The specific scope of State secrets and of their classification levels (hereinafter referred to as the scope of classified matters) shall expressly prescribe the names of the specific classified matters, their classification levels, periods of secrecy, scope of persons with knowledge, and levels at which they arise.\nThe scope of classified matters shall be adjusted promptly in light of changing circumstances. The formulation and revision of the scope of classified matters shall be fully demonstrated, and the opinions of the relevant organs, units and experts in the relevant industries and fields shall be solicited."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Scope and Classification of State Secrets"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "State organs and units with the power to classify shall, on the basis of the scope of classified matters of their own and the relevant industries and fields, formulate a schedule of classified matters and report it to the secrecy administrative department at the same level for the record. The schedule of classified matters shall be revised promptly in light of the scope of classified matters."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Scope and Classification of State Secrets"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The principal person in charge of a state organ or unit shall be the statutory person responsible for classification of that organ or unit and may, in light of the needs of work, designate other persons in charge of the organ or unit, persons in charge of its internal bodies or other personnel as designated persons responsible for classification.\nPersons responsible for classification and the persons handling the matters shall receive training in classification, be familiar with the duties of classification and the scope of classified matters, and master the procedures and methods of classification."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Scope and Classification of State Secrets"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The person responsible for classification shall, within the scope of his duties, undertake the determination, alteration and declassification of State secrets and guide and supervise classification work within the scope of his duties. His specific duties are:\n(a) to examine and approve the classification levels, periods of secrecy and scope of persons with knowledge of State secrets proposed by the persons handling the matters;\n(b) to examine the State secrets determined by his own organ or unit that are still within their periods of secrecy and to decide whether to alter or declassify them;\n(c) to participate in the formulation and revision of the schedule of classified matters of his own organ or unit;\n(d) in respect of matters that are unclear as to whether they are State secrets and as to which classification level they fall under, to propose in advance the classification level, period of secrecy and scope of persons with knowledge and report them, in accordance with the prescribed procedures, to the secrecy administrative department for determination."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Scope and Classification of State Secrets"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Central state organs, provincial-level organs and municipal-level organs of cities divided into districts may, in light of the needs of secrecy work or upon application by the relevant organs or units, grant authorisation for classification within the limits of the classification power and authorisation prescribed by the State secrecy administrative department.\nWhere authorisation cannot be granted in accordance with the preceding paragraph, the secrecy administrative departments at or above the provincial level may, in light of the needs of secrecy work or upon application by the relevant organs or units, grant authorisation for classification.\nAuthorisation for classification shall be granted in writing. The authorising organ shall supervise the performance of the authorisation for classification by the authorised organ or unit. An authorised organ or unit may not grant further authorisation.\nAuthorisations for classification granted by central state organs, provincial-level organs and the secrecy administrative departments of provinces, autonomous regions and municipalities directly under the Central Government shall be reported to the State secrecy administrative department for the record; authorisations for classification granted by municipal-level organs of cities divided into districts shall be reported to the secrecy administrative departments of provinces, autonomous regions and municipalities directly under the Central Government for the record."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Scope and Classification of State Secrets"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "At the same time as a State secret arises, the person handling the matter shall, in a state organ or unit and on the basis of the relevant scope of classified matters, propose the classification level, period of secrecy and scope of persons with knowledge, report them to the person responsible for classification for examination and approval, and take corresponding secrecy measures.\nIn respect of a matter that should be classified but over which the organ or unit has no power of classification, the state organ or unit shall first take secrecy measures and, in accordance with the statutory procedures, report it to the superior organ or unit for determination; where there is no superior organ or unit, it shall report it to the competent business department or the secrecy administrative department with the power of classification for determination.\nWhere a state organ or unit is able to identify the essential elements of a State secret when determining it, it shall determine and mark them in accordance with the national provisions on secrecy."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Scope and Classification of State Secrets"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where a state organ or unit implements classified matters determined by a superior or handles classified matters determined by another state organ or unit, and any of the following circumstances applies, it shall make a derivative classification on the basis of the classification level, period of secrecy and scope of persons with knowledge of the classified matter implemented or handled:\n(a) the matter is entirely identical with a classified matter already determined;\n(b) the matter involves the essential elements of a classified matter already determined;\n(c) the matter summarises, compiles and integrates, or specifies in detail a classified matter already determined;\n(d) the organ or unit that originally classified the matter has expressly required classification in the use of the classified matter already determined."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Scope and Classification of State Secrets"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "State organs and units shall, in respect of the State secrets they generate, determine a specific period of secrecy or a time for declassification in accordance with the provisions on the scope of classified matters; where this cannot be determined, they shall determine the conditions for declassification.\nThe period of secrecy of a State secret shall be calculated from the marked date of production and issuance; where the date of production and issuance cannot be marked, the state organ or unit that determined the State secret shall notify in writing the organs, units and persons within the scope of persons with knowledge, and the period of secrecy shall be calculated from the date of the notification."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Scope and Classification of State Secrets"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "State organs and units shall, in accordance with law, limit the scope of persons with knowledge of State secrets, and shall keep records in respect of persons with knowledge of State secrets at or above the confidential level."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Scope and Classification of State Secrets"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The conspicuous parts of carriers of State secrets and of equipment and products that are State secrets (hereinafter referred to as classified items) shall bear a State secret marking. The State secret marking shall indicate the classification level and the period of secrecy. Where the classification level or the period of secrecy of a State secret is altered, the original State secret marking shall be altered in a timely manner.\nWhere a State secret marking cannot be affixed, the state organ or unit that determined the State secret shall notify in writing the organs, units and persons within the scope of persons with knowledge."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Scope and Classification of State Secrets"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Where a state organ or unit considers that a State secret it has determined conforms to the provisions of the Secrecy Law on declassification or alteration, it shall declassify or alter it in a timely manner.\nWhere a state organ or unit considers that a State secret not determined by itself conforms to the provisions of the Secrecy Law on declassification or alteration, it may make a proposal to the organ or unit that originally classified it or to its superior organ or unit.\nArchives that are State secrets and have been transferred in accordance with law to State archives repositories at various levels shall be subject to declassification examination by the organ or unit that originally classified them in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter II Scope and Classification of State Secrets"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where a state organ or unit is dissolved or is merged or divided, the alteration and declassification of the State secrets it determined shall be the responsibility of the organ or unit that assumes its functions; where there is no corresponding organ or unit, the responsibility shall lie with its superior organ or unit or with the organ or unit designated by the secrecy administrative department at the same level."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter II Scope and Classification of State Secrets"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Where a state organ or unit discovers that the determination, alteration or declassification of its own State secrets is improper, it shall correct it in a timely manner; where a superior organ or unit discovers that the determination, alteration or declassification of State secrets by a subordinate organ or unit is improper, it shall promptly notify it to make correction or may correct it directly."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter II Scope and Classification of State Secrets"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "In respect of an unclear matter that conforms to the provisions of the Secrecy Law but is not covered by the scope of classified matters, a state organ or unit shall first propose the classification level, period of secrecy and scope of persons with knowledge, take the corresponding secrecy measures, and report it to the relevant department for determination within 10 working days from the date of the proposal. Matters proposed to be classified as top secret and matters at the confidential or secret level proposed by central state organs shall be reported to the State secrecy administrative department for determination; matters at the confidential or secret level proposed by other organs or units shall be reported to the secrecy administrative department of the province, autonomous region or municipality directly under the Central Government for determination.\nThe secrecy administrative department shall, within 10 working days after receipt of the report, make a decision. The secrecy administrative departments of provinces, autonomous regions and municipalities directly under the Central Government shall also promptly report the decisions made to the State secrecy administrative department for the record."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter II Scope and Classification of State Secrets"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Where a state organ or unit disagrees as to whether a classified matter already determined is a State secret or as to which classification level it falls under, it may raise an objection with the organ or unit that originally classified it, and that organ or unit shall make a decision.\nWhere the organ or unit that originally classified the matter fails to handle the matter, or where the state organ or unit still disagrees with the decision made, the matter shall be handled in accordance with the following provisions:\n(a) matters determined as top secret and matters at the confidential or secret level determined by central state organs shall be reported to the State secrecy administrative department for determination;\n(b) matters at the confidential or secret level determined by other organs or units shall be reported to the secrecy administrative department of the province, autonomous region or municipality directly under the Central Government for determination; where there is disagreement with the decision made by that department, the matter may be reported to the State secrecy administrative department for determination.\nBefore the organ or unit that originally classified the matter or the secrecy administrative department makes a decision, corresponding secrecy measures shall be taken in respect of the matter concerned at the highest of the classification levels asserted."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter II Scope and Classification of State Secrets"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The administration of carriers of State secrets shall comply with the following provisions:\n(a) the production of carriers of State secrets shall be undertaken by the state organ or unit itself or by a unit that has obtained the qualification for producing and reproducing carriers of State secrets, and the place and equipment of production shall conform to the national provisions on secrecy;\n(b) the receipt and dispatch of carriers of State secrets shall be subject to the formalities of counting, numbering, registration and signed acknowledgement;\n(c) the transmission of carriers of State secrets shall be carried out by confidential transport, confidential communication or other means conforming to the national provisions on secrecy;\n(d) the reading and use of carriers of State secrets shall take place in premises conforming to the national provisions on secrecy;\n(e) the reproduction of carriers of State secrets, or the extraction, quotation or compilation of content that is State secrets, shall be subject to approval as required, the classification level, period of secrecy and scope of persons with knowledge of the original may not be altered without authorisation, and reproductions shall bear the seal of the reproducing organ or unit and shall be administered as originals;\n(f) the premises, facilities and equipment for keeping carriers of State secrets shall conform to the national provisions on secrecy;\n(g) the repair of carriers of State secrets shall be the responsibility of specialised technical personnel of the state organ or unit itself. Where repair by personnel of another unit is truly necessary, personnel of the state organ or unit shall supervise on site. Where repair outside the state organ or unit is truly necessary, the national provisions on secrecy shall be complied with;\n(h) carrying carriers of State secrets out of doors shall conform to the national provisions on secrecy and reliable secrecy measures shall be taken. Carrying carriers of State secrets out of the country shall be subject to the formalities of examination and approval in accordance with the national provisions on secrecy;\n(i) the return of carriers of State secrets shall be handled in accordance with the requirements of the organ or unit that produced and issued them."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Secrecy System"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The destruction of carriers of State secrets shall conform to the national provisions and standards on secrecy and shall ensure that the destroyed State secret information cannot be recovered.\nThe destruction of carriers of State secrets shall be subject to the formalities of counting, registration and approval, and the carriers shall be sent to the working body established by the secrecy administrative department or to a designated unit for destruction. Where a state organ or unit, in light of the needs of work, destroys a small number of carriers of State secrets itself, it shall use destruction equipment and methods conforming to the national standards on secrecy."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Secrecy System"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The administration of carriers of State secrets at the top secret level shall also comply with the following provisions:\n(a) the receipt and dispatch of carriers of State secrets at the top secret level shall be the responsibility of specially designated persons;\n(b) the transmission and carrying of carriers of State secrets at the top secret level shall be conducted by two or more persons travelling together, and the packaging used shall conform to the national provisions on secrecy;\n(c) the reading and use of carriers of State secrets at the top secret level shall take place in designated premises conforming to the national provisions on secrecy;\n(d) the reproduction, downloading, compilation and extraction of documents and information at the top secret level are prohibited; where truly necessary for work, the consent of the organ or unit that originally classified them or of its superior organ shall be obtained;\n(e) carrying carriers of State secrets at the top secret level out of the country is prohibited, unless the State provides otherwise, in which case such provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Secrecy System"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "State organs and units shall, in accordance with law, administer the research and development, production, testing, transport, use, keeping, repair and destruction of classified items.\nState organs and units shall promptly determine the classification level and period of secrecy of classified items, strictly control the range of access to classified items, and take security and secrecy precautions for the premises and parts in which classified items are placed.\nThe research and development, production and repair of classified items at the top secret level shall be carried out in enclosed premises conforming to the national provisions on secrecy, and special premises for their placement and keeping shall be set up.\nParts, components and assemblies of classified items that involve State secrets shall be administered in accordance with the national provisions on secrecy."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Secrecy System"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "State organs and units shall, in accordance with law, determine the key departments and key positions for secrecy, report them to the secrecy administrative department at the same level for confirmation, and exercise strict secrecy management."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Secrecy System"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Classified information systems are divided, according to their degree of classification, into the top secret level, the confidential level and the secret level. State organs and units shall determine the level of protection on the basis of the highest classification level of the information stored and processed in a classified information system, and shall take the corresponding security and secrecy protection measures in accordance with the requirements of graded protection."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III Secrecy System"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "A classified information system may be put into use only after it has been tested and evaluated by an institution established or authorised by the State secrecy administrative department and has passed the examination of the secrecy administrative department at or above the municipal level of cities divided into districts.\nThe testing, evaluation and examination of classified information systems of public security organs and state security organs shall be carried out in accordance with the relevant provisions formulated by the State secrecy administrative department together with the public security and state security departments of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter III Secrecy System"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "State organs and units shall strengthen the operation and maintenance and the use management of information systems and information equipment, designate specialised bodies or personnel to be responsible for operation and maintenance, security and secrecy management and security auditing, build self-supervision facilities for secrecy in accordance with the national provisions on secrecy, carry out security and secrecy inspections and risk assessments on a regular basis, cooperate with the secrecy administrative departments in screening early-warning events, and promptly discover and deal with hidden risks to security and secrecy."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter III Secrecy System"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "State organs and units shall, in accordance with the national provisions on secrecy, carry out a security and secrecy risk assessment at least once a year for information systems at the top secret level and at least once every 2 years for information systems at the confidential level and below. Where changes in the classification level, scope of use or environment of use of a classified information system of a state organ or unit may give rise to new hidden risks to security and secrecy, the state organ or unit shall take the corresponding protective measures in accordance with the national provisions and standards on secrecy and carry out a security and secrecy risk assessment.\nInformation equipment used in classified information systems shall be safe and reliable; where connection to a classified information system is made by wireless means, the national provisions and standards on secrecy and on cryptography shall be complied with.\nWhere a classified information system is no longer in use, the relevant secrecy facilities and equipment shall be disposed of in accordance with the national provisions and standards on secrecy, and the matter shall be promptly reported to the relevant secrecy administrative department for the record."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter III Secrecy System"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The research and development, production, procurement and provision of security and secrecy products and secrecy technical equipment used to protect State secrets shall conform to the national provisions and standards on secrecy.\nThe State encourages research and development and production units to adopt new technologies, new methods and new processes, among others, to innovate security and secrecy products and secrecy technical equipment in light of the needs of secrecy work."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter III Secrecy System"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Research and development and production units shall continuously provide repair and maintenance services for security and secrecy products and secrecy technical equipment used to protect State secrets, establish mechanisms for discovering and dealing with vulnerabilities and defects, and may not install malicious programs in security and secrecy products or secrecy technical equipment.\nResearch and development and production units may apply to an institution established or authorised by the State secrecy administrative department for testing of security and secrecy products and secrecy technical equipment; where the products or equipment pass the test, the said institution shall issue a certificate of conformity. The security and secrecy products and secrecy technical equipment produced by the research and development and production unit shall be consistent with the samples submitted for testing."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter III Secrecy System"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "The State secrecy administrative department shall organise the institutions it has established or authorised to carry out sampling inspection and re-inspection of security and secrecy products and secrecy technical equipment used to protect State secrets; where non-conformity with the national provisions and standards on secrecy is discovered, it shall order rectification; where there are major defects or major hidden risks of divulgence, it shall order the adoption of such remedial measures as suspension of sales and recall of products, and the units concerned shall cooperate."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter III Secrecy System"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Network operators shall abide by secrecy laws and regulations and the relevant provisions of the State, establish systems for the complaint about, reporting, discovery and handling of acts violating secrecy laws, improve the working mechanisms for acceptance and handling, and formulate contingency plans for divulgence. When an incident of divulgence occurs, the network operator shall immediately activate the contingency plan, take remedial measures, and report to the secrecy administrative department or to the public security organ or state security organ."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter III Secrecy System"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Network operators shall cooperate with the investigation of cases of violation of secrecy laws and the screening of early-warning events carried out by the secrecy administrative departments in accordance with law.\nWhere the secrecy administrative departments at or above the provincial level, in performing their duties of secrecy supervision and administration, discover that a relatively serious hidden risk of divulgence exists on a network or that an incident of divulgence has occurred, they may, in accordance with the prescribed limits of power and procedures, conduct a regulatory talk with the legal representative or principal person in charge of the network operator, and urge it to rectify in a timely manner and eliminate the hidden risk."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter III Secrecy System"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "State organs and units shall strengthen secrecy management over the use of the Internet. The use of smart terminal products and the like by staff members of state organs and units shall conform to the national provisions on secrecy, and they may not, in violation of the relevant provisions, use non-classified information systems or information equipment to store, process or transmit State secrets."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter III Secrecy System"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "State organs and units shall improve the working mechanism for secrecy review of information disclosure, specify the reviewing body, standardise the review procedures, and, in accordance with the principle of review first and disclosure afterwards, conduct a secrecy review of the information to be disclosed item by item."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter III Secrecy System"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "State organs and units shall bear the responsibility for the security protection of classified data, and the collection, storage, use, processing, transmission, provision and other processing activities of classified data shall conform to the national provisions on secrecy.\nThe secrecy administrative departments at or above the provincial level shall, together with the relevant departments, establish mechanisms for security and secrecy prevention and control such as dynamic monitoring and comprehensive assessment, guide state organs and units in implementing security and secrecy prevention and control measures, and prevent the risk of divulgence arising from the aggregation and association of data.\nState organs and units shall, in accordance with law, strengthen the security management of data that becomes classified matters after aggregation or association, and implement security and secrecy prevention and control measures."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter III Secrecy System"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where a state organ or unit provides State secrets to an entity outside the country or to an organisation or institution established within China by an entity outside the country, or where foreign personnel appointed or employed by it acquire knowledge of State secrets in the course of work, the matter shall be handled in accordance with the national provisions on secrecy; a review and assessment shall be conducted, a secrecy agreement shall be concluded, and the implementation of secrecy management requirements shall be supervised."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter III Secrecy System"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where a meeting or other activity involves State secrets, the host unit shall take the following secrecy measures, and the units and persons undertaking and participating in the activity shall cooperate:\n(a) determining the classification level in light of the content of the meeting or activity, formulating a secrecy plan, and limiting the range of participants and working personnel;\n(b) using premises, facilities and equipment conforming to the national provisions and standards on secrecy, and taking necessary technical protection measures for secrecy;\n(c) administering carriers of State secrets in accordance with the national provisions on secrecy;\n(d) verifying the identity of participants and working personnel, conducting secrecy education for them, and setting out specific secrecy requirements;\n(e) other measures required by secrecy laws and regulations and the national provisions on secrecy.\nWhere a meeting or other activity involving State secrets is held by such means as television, telephone or network, the relevant national standards on secrecy shall also be complied with."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter III Secrecy System"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "The secrecy administrative departments and other competent departments shall strengthen guidance and supervision of secrecy management in the areas surrounding classified military installations and other important classified units, establish coordination mechanisms, strengthen military-civilian cooperation, and organise and urge rectification; the state organs and units concerned shall cooperate, so as to promptly discover and eliminate hidden risks to security and secrecy."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter III Secrecy System"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Enterprises and institutions engaged in business involving State secrets (hereinafter referred to as classified business) shall meet the following conditions:\n(a) being a legal person established in accordance with law within the territory of the People's Republic of China for not less than 1 year, unless the State provides otherwise, in which case such provisions shall prevail;\n(b) having no criminal record and having had no case of divulgence in the most recent 1 year;\n(c) the personnel engaged in classified business holding the nationality of the People's Republic of China, unless the State provides otherwise, in which case such provisions shall prevail;\n(d) having a complete secrecy system and a specialised body or personnel responsible for secrecy work;\n(e) the premises, facilities and equipment used for classified business conforming to the national provisions and standards on secrecy;\n(f) having the professional capacity to engage in classified business;\n(g) other conditions required by secrecy laws and regulations and the national provisions on secrecy."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter III Secrecy System"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Enterprises and institutions engaged in such classified business as the production, reproduction, repair and destruction of carriers of State secrets, the integration of classified information systems, the research, development and production of weapons and equipment, or the construction of classified military installations shall undergo secrecy review by the secrecy administrative department alone or together with the relevant departments and obtain a secrecy qualification.\nAn enterprise or institution that has obtained a secrecy qualification may not commit any of the following acts:\n(a) undertaking, beyond the scope of the types of business covered by the secrecy qualification, other business for which a secrecy qualification is required;\n(b) altering, selling, leasing or lending the secrecy qualification certificate;\n(c) subcontracting classified business to another unit or subcontracting it to a unit without the corresponding secrecy qualification;\n(d) other acts violating secrecy laws and regulations and the national provisions on secrecy.\nEnterprises and institutions that have obtained a secrecy qualification shall operate an annual self-inspection system and shall, each year, submit the self-inspection report for the previous year to the secrecy administrative department that made the decision to grant the administrative licence."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter III Secrecy System"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where a state organ or unit procures works, goods or services involving State secrets, or entrusts an enterprise or institution with classified business, it shall determine the classification level in accordance with the national provisions on secrecy and shall conform to the national provisions and standards on secrecy. The state organ or unit shall conclude a secrecy agreement with the unit or individual concerned, set out secrecy requirements, take secrecy measures, and exercise whole-process management.\nWhere a state organ or unit procures, or entrusts an enterprise or institution with, classified business prescribed in the first paragraph of Article 48 of these Regulations, it shall verify the secrecy qualification of the undertaking unit. Where it procures, or entrusts an enterprise or institution with, other classified business, it shall verify the professional capacity and secrecy management capacity of the participating unit.\nThe government procurement supervision and administration department and the secrecy administrative department shall, in accordance with law, strengthen supervision and administration of the procurement of works, goods and services involving State secrets and of other entrustment for the conduct of classified business."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter III Secrecy System"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "State organs and units shall, in accordance with law, determine classified posts and shall conduct a pre-post secrecy review of persons proposed to be appointed or employed to work in classified posts so as to confirm whether they possess the conditions and capacity for working in such posts. Persons who have not passed the secrecy review may not be appointed or employed to work in classified posts.\nWhen the organisation and personnel department of a state organ or unit organises and implements a secrecy review, the persons proposed to be appointed or employed to work in classified posts shall truthfully provide the relevant information; where the cooperation of the units in which they previously worked or studied and of the relevant departments and personnel at their place of residence is required, the units, departments and personnel concerned shall cooperate. Where necessary, public security organs and state security organs shall assist in the review upon application.\nThe organisation and personnel department of a state organ or unit shall organise periodic re-examination to ensure that persons with access to State secrets meet the requirements of their classified posts."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter III Secrecy System"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Persons with access to State secrets shall abide by secrecy laws and regulations and the secrecy systems of their own organ or unit, strictly observe secrecy discipline, honour their secrecy commitments, accept secrecy management, and may not divulge State secrets in any manner."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter III Secrecy System"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "The organisation and personnel department of a state organ or unit shall, together with the secrecy work body, be responsible for the secrecy management of persons with access to State secrets. The secrecy work body of a state organ or unit shall carry out regular supervision and inspection of the performance of secrecy responsibilities by persons with access to State secrets and, together with the organisation and personnel department, strengthen secrecy education and training.\nWhere a person with access to State secrets leaves the country, the organisation and personnel department and the secrecy work body of the state organ or unit shall give their opinions, and the matter shall be examined and approved in accordance with the limits of authority for personnel and foreign affairs approval. A person with access to State secrets shall, before leaving the country, receive secrecy education and training and shall promptly report the relevant circumstances abroad."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter III Secrecy System"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "A person with access to State secrets who leaves his post or resigns shall comply with the provisions of the relevant laws and regulations; before leaving his post or resigning, he shall receive a reminder talk on secrecy and sign a letter of commitment on secrecy upon leaving his post or resigning. The state organ or unit shall carry out secrecy education and reminders, take back carriers of State secrets and classified equipment, cancel access rights to classified information systems, and determine the period of declassification. A person with access to State secrets shall, during the period of declassification, comply with the national provisions on secrecy in taking employment and in leaving the country. A person with access to State secrets may not use State secrets of which he has knowledge to provide services to, or seek benefits for, the organisations or individuals concerned."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter III Secrecy System"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where a person with access to State secrets leaves his post without authorisation or seriously violates the national provisions on secrecy during the period of declassification, the state organ or unit shall promptly report the matter to the secrecy administrative department at the same level, and the secrecy administrative department shall, together with the relevant departments, take handling measures in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter III Secrecy System"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "State organs and units shall establish and improve the system for protecting the rights and interests of persons with access to State secrets, and shall, in accordance with the relevant provisions of the State, give appropriate treatment or compensation to persons whose lawful rights and interests have been affected and restricted as a result of performing their secrecy obligations."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter III Secrecy System"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "State organs and units shall report to the secrecy administrative department at the same level on their secrecy work in the current year. The secrecy administrative departments at lower levels shall report to the secrecy administrative departments at higher levels on secrecy work in their respective administrative regions in the current year."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "The State shall establish and improve the system of secrecy standards. The State secrecy administrative department shall, in accordance with the provisions of laws and administrative regulations, formulate national secrecy standards; the relevant learned societies, associations and other social organisations may formulate group standards; and the relevant enterprises may formulate enterprise standards."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "State organs and units shall carry out self-examination and self-evaluation of their compliance with secrecy laws and regulations and the relevant systems. The secrecy administrative departments shall, in accordance with law, inspect the following:\n(a) the implementation of the responsibility system for secrecy work;\n(b) the development of secrecy systems;\n(c) publicity, education and training on secrecy;\n(d) the secrecy management of persons with access to State secrets;\n(e) the determination, alteration and declassification of State secrets;\n(f) the administration of carriers of State secrets;\n(g) the secrecy management of information systems and information equipment;\n(h) the secrecy management of the use of the Internet;\n(i) the management of classified premises and of key departments and key positions for secrecy;\n(j) the management of the procurement of works, goods and services involving State secrets and of the entrustment of enterprises and institutions with classified business;\n(k) the management of meetings and activities involving State secrets;\n(l) the secrecy review of information disclosure;\n(m) other compliance with secrecy laws and regulations and the relevant systems."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "In carrying out secrecy inspections and the investigation and handling of cases in accordance with law, the secrecy administrative departments shall, when consulting the relevant materials, questioning persons, recording circumstances, registering and preserving the facilities, equipment, documents and materials concerned, and conducting technical tests for secrecy, comply with the relevant provisions and procedures of the State.\nThe state organs, units and individuals concerned shall cooperate with the secrecy administrative departments in performing their duties in accordance with law, truthfully report the circumstances, provide the necessary materials, and may not practise fraud, conceal or destroy evidence, or otherwise evade or obstruct secrecy supervision and administration.\nAfter conducting a secrecy inspection, the secrecy administrative department shall issue inspection opinions; where rectification is required, it shall specify the content and time limit for rectification, and shall circulate the inspection results within a certain range."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "In respect of leads and cases suspected of violating secrecy laws, the secrecy administrative departments shall promptly investigate and handle them in accordance with law, or organise and urge the relevant organs or units to investigate and handle them; where it is discovered that remedial measures are required, they shall immediately order the organs, units and persons concerned to stop the unlawful acts and take effective remedial measures. After the investigation is concluded, where there are facts of violation of secrecy laws and regulations and responsibility is to be pursued, the secrecy administrative department shall make an administrative penalty decision or put forward handling proposals in accordance with law; where a crime is suspected, the matter shall be transferred to the supervisory organ or the judicial organ in accordance with law. The organs and units concerned shall promptly inform the secrecy administrative department at the same level in writing of the outcome of the handling."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where a state organ or unit discovers that a State secret has been divulged or may be divulged, it shall immediately take remedial measures and shall, within 24 hours, report the matter to the secrecy administrative department at the same level and to the competent department at the higher level.\nWhere a secrecy administrative department at any local level receives a report of divulgence, it shall, within 24 hours, report it level by level up to the State secrecy administrative department.\nThe secrecy administrative departments shall, in accordance with law, accept reports by citizens of leads suspected of violating secrecy laws and shall protect the lawful rights and interests of the persons making the reports."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Where a secrecy administrative department takes over carriers of State secrets that were unlawfully obtained or held, it shall register them and issue a list, ascertain their classification levels, quantities, sources and range of dissemination, and take the corresponding secrecy measures.\nA secrecy administrative department may request the public security, market supervision and administration and other relevant departments to assist in taking over carriers of State secrets that were unlawfully obtained or held, and the departments concerned shall cooperate."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Where a supervisory organ or judicial organ at any local level handling a case suspected of divulgence applies for an appraisal of State secrets and intelligence, it shall make the application to the secrecy administrative department of the province, autonomous region or municipality directly under the Central Government in which it is located; where a supervisory organ or judicial organ at the central level handling a case suspected of divulgence applies for an appraisal of State secrets and intelligence, it shall make the application to the State secrecy administrative department.\nThe appraisal of State secrets and intelligence shall be conducted on the basis of secrecy laws and regulations and the scope of classified matters. After accepting an application for appraisal, the secrecy administrative department shall issue an appraisal conclusion within 30 days from the date of acceptance; where it cannot do so on time, the period may be extended by 30 days with the approval of the person in charge of the secrecy administrative department. The time taken for expert consultation and the like shall not be counted in the period for handling the appraisal."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "The secrecy administrative departments at or above the municipal level of cities divided into districts shall establish a monitoring and early-warning system, analyse and assess the circumstances relating to secrecy work, provide monitoring and early-warning facilities and the corresponding workforce, discover, identify and deal with hidden risks to security and secrecy, and issue early-warning notices in a timely manner."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "The secrecy administrative departments and other relevant departments shall strengthen coordination and cooperation in secrecy work and promptly notify each other of circumstances."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "The secrecy administrative departments and their staff members shall carry out their work in accordance with the statutory functions and powers and procedures, achieve strict, standardised, fair and civilised law enforcement, and accept supervision in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Where a state organ or unit violates secrecy laws and regulations and an incident of divulgence occurs, and any of the following circumstances applies, sanctions shall be imposed in accordance with law on the persons directly in charge and other persons directly responsible, in light of the seriousness of the circumstances; where a crime is constituted, criminal liability shall be pursued in accordance with law:\n(a) failing to implement the responsibility system for secrecy work;\n(b) failing to determine, alter or declassify State secrets in accordance with law;\n(c) failing to protect or manage classified premises and key departments and key positions for secrecy as required;\n(d) putting a classified information system into use without the prescribed testing, evaluation and examination and failing to make correction after being ordered to do so;\n(e) making public State secrets without secrecy review or with lax secrecy review;\n(f) entrusting a unit that does not meet the conditions for engaging in classified business with classified business;\n(g) violating the provisions on the secrecy management of persons with access to State secrets;\n(h) failing to report an incident of divulgence as required or failing to take remedial measures in a timely manner after its occurrence;\n(i) failing to perform the responsibility for the security management of classified data in accordance with law;\n(j) other circumstances of violating secrecy laws and regulations.\nWhere the circumstances in the preceding paragraph do not yet constitute a crime and the persons concerned are not subject to sanctions, the secrecy administrative department shall urge their competent department to deal with them."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "Where, in a secrecy inspection or in the investigation and handling of a case of violation of secrecy laws, the organs, units and their staff members concerned refuse to cooperate, practise fraud, conceal or destroy evidence, or otherwise evade or obstruct the secrecy inspection or the investigation and handling of the case, sanctions shall be imposed in accordance with law on the persons directly in charge and other persons directly responsible; where the persons concerned are not subject to sanctions, the secrecy administrative department shall urge their competent department to deal with them.\nWhere an enterprise or institution and its staff members assist a state organ or unit in evading or obstructing a secrecy inspection or the investigation and handling of a case of violation of secrecy laws, the competent department concerned shall impose penalties in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "Where a network operator violates secrecy laws and regulations and any of the following circumstances applies, the secrecy administration and other departments shall, in accordance with the division of their duties, order rectification within a time limit and give a warning or circulate a notice of criticism; where the circumstances are serious, a fine of not less than RMB 50,000 but not more than RMB 500,000 shall be imposed, and a fine of not less than RMB 10,000 but not more than RMB 100,000 shall be imposed on the persons directly in charge and other persons directly responsible:\n(a) failing to take remedial measures in accordance with law when an incident of divulgence occurs;\n(b) failing to cooperate in accordance with law with the secrecy administrative department in the investigation of a case of violation of secrecy laws or the screening of early-warning events."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "Where security and secrecy products and secrecy technical equipment used to protect State secrets do not conform to the national provisions and standards on secrecy and any of the following circumstances applies, the secrecy administration and other departments shall give a warning to the research and development and production unit or circulate a notice of criticism, and order the testing institution concerned to revoke the certificate of conformity; where there are illegal gains, the illegal gains shall be confiscated:\n(a) the research and development and production unit refusing to rectify or still failing to conform to the national provisions and standards on secrecy after rectification;\n(b) major defects or major hidden risks of divulgence in the security and secrecy products and secrecy technical equipment;\n(c) causing the divulgence of State secrets;\n(d) otherwise seriously endangering the security of State secrets."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "Where an enterprise or institution engaged in classified business violates secrecy laws and regulations and the national provisions on secrecy, the secrecy administrative department shall order rectification within a time limit and give a warning or circulate a notice of criticism; where there are illegal gains, the illegal gains shall be confiscated.\nWhere an enterprise or institution that has obtained a secrecy qualification is in any of the following circumstances, it shall, in addition, be subject to suspension of classified business and reduction of the grade of its qualification:\n(a) undertaking, beyond the scope of the types of business covered by the secrecy qualification, other business for which a secrecy qualification is required;\n(b) failing to complete rectification within the time limit required by the secrecy administrative department or still failing to conform to secrecy laws and regulations and the national provisions on secrecy after rectification;\n(c) otherwise violating secrecy laws and regulations and the national provisions on secrecy, with a major hidden risk of divulgence.\nWhere an enterprise or institution that has obtained a secrecy qualification is in any of the following circumstances, it shall, in addition, be subject to revocation of the secrecy qualification:\n(a) altering, selling, leasing or lending the secrecy qualification certificate;\n(b) subcontracting classified business to another unit or subcontracting it to a unit without the corresponding secrecy qualification;\n(c) failing to take remedial measures immediately or to report within the prescribed time limit upon discovering that a State secret has been divulged or may be divulged;\n(d) refusing, evading or obstructing a secrecy inspection;\n(e) undertaking new classified business during the period of suspension of classified business;\n(f) still failing to conform to secrecy laws and regulations and the national provisions on secrecy upon expiry of the period of suspension of classified business;\n(g) the occurrence of a major case of divulgence;\n(h) other serious violations of secrecy laws and regulations and the national provisions on secrecy."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "Where a secrecy administrative department fails to perform its duties in accordance with law, or abuses its powers, neglects its duties or engages in malpractices for personal gain, sanctions shall be imposed in accordance with law on the persons directly in charge and other persons directly responsible; where a crime is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "Central state organs shall, in light of the actual work, formulate the specific scope of work secrets in their own industries and fields and report it to the State secrecy administrative department for the record.\nState organs and units shall strengthen the management of their own work secrets and take protective measures such as technical protection and self-supervision. Where the relevant provisions are violated, causing the divulgence of work secrets, and the circumstances are serious, sanctions shall be imposed in accordance with law on the persons directly in charge and other persons directly responsible."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "These Regulations shall come into force as of 1 September 2024."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
         }
       }
     ]
@@ -11072,6 +14003,816 @@
     ]
   };
 
+  TR['CN-REG-0458'] = {
+    "lawId": "CN-REG-0458",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 69 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Regulation is formulated to safeguard the consolidation and development of the urban collective economy, to clarify the rights and obligations of urban collectively owned enterprises and to protect their lawful rights and interests."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "This Regulation applies to collectively owned enterprises of all trades and all forms of organisation in urban areas, except enterprises established by rural peasants' collectives."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The urban collective economy is a basic component of the socialist public ownership economy of the State, and the State encourages and supports the development of the urban collective economy."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "An urban collectively owned enterprise (hereinafter referred to as a collective enterprise) is a socialist economic organisation whose property is collectively owned by the working people, which practises joint labour and in which distribution is mainly based on work performed.\nCollective ownership by the working people referred to in the preceding paragraph shall satisfy any one of the following provisions:\n(a) collective ownership by the working people of the collective enterprise itself;\n(b) collective ownership by the working people within the scope of the joint economic organisation of collective enterprises;\n(c) where a collective enterprise has two or more investors, the property collectively owned by the working people under items (a) and (b) above shall occupy the dominant position. The dominant position referred to in this item means that the proportion of the property collectively owned by the working people to the total property of the enterprise shall generally be not less than 51 per cent; in special circumstances, upon approval by the original approving department, that proportion may be appropriately reduced."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The principles to be observed by collective enterprises are: voluntary association and self-raised funds; independent accounting and sole responsibility for profits and losses; independent operation and democratic management; collective accumulation and independent disposal thereof; and distribution according to work performed and dividends according to shares.\nCollective enterprises shall carry forward the spirit of hard struggle and of building the country through diligence and thrift, and shall take the road of mutual assistance and cooperation and common prosperity."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "A collective enterprise shall acquire the status of a legal person in accordance with law and shall bear civil liability independently to the extent of all its property.\nThe property and lawful rights and interests of a collective enterprise shall be protected by the laws of the State and shall not be infringed upon."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The tasks of a collective enterprise are, in accordance with market and social demand and under the guidance of State planning, to develop commodity production, expand commodity operations, carry out social services, create wealth, increase accumulation, continuously improve economic and social benefits and invigorate the socialist economy."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The staff and workers of a collective enterprise are the masters of the enterprise and shall exercise the power to manage the enterprise in accordance with laws, regulations and the articles of association of the collective enterprise. The lawful rights and interests of the staff and workers of a collective enterprise shall be protected by law."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "A collective enterprise shall practise democratic management in accordance with the provisions of law. The employees' assembly (or employees' representative assembly) is the organ of authority of the collective enterprise, which shall elect and remove the managerial personnel of the enterprise and decide major issues of operation and management.\nA collective enterprise shall practise the system of the factory director (manager) assuming full responsibility.\nThe right of the staff and workers of a collective enterprise to democratic management and the exercise of functions and powers by the factory director (manager) in accordance with law shall both be protected by law."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The primary-level organisation of the Communist Party of China in a collective enterprise is the political leadership core of the collective enterprise; it shall lead the ideological and political work of the enterprise and ensure and supervise the implementation of the lines, principles and policies of the Party and the State in the enterprise."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The trade union of a collective enterprise shall safeguard the lawful rights and interests of the staff and workers, carry out its work independently in accordance with law and organise the staff and workers to participate in democratic management and democratic supervision."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The establishment of a collective enterprise must satisfy the following conditions:\n(a) it has a name, an organisational structure and articles of association;\n(b) it has a fixed place for production and operation and the necessary facilities, and meets the prescribed safety and health conditions;\n(c) it has an amount of funds and a number of employees that conform to State provisions and are commensurate with the scale of its production, operation and services;\n(d) it has a clearly defined scope of business;\n(e) it is able to bear civil liability independently;\n(f) it meets other conditions prescribed by laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment, Modification and Termination of Collective Enterprises"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The articles of association of a collective enterprise must set out the following matters:\n(a) the name and domicile of the enterprise;\n(b) the scope and manner of business;\n(c) the registered capital;\n(d) the source of funds and the form of investment;\n(e) the manner of income distribution;\n(f) the organisational structure and its functions and powers and rules of procedure;\n(g) the conditions and procedures for staff and workers to join and leave the enterprise;\n(h) the rights and obligations of staff and workers;\n(i) the procedure for selecting the legal representative and the scope of his functions and powers;\n(j) the conditions and procedures for termination of the enterprise;\n(k) the procedure for amending the articles of association;\n(l) the date of conclusion of the articles of association;\n(m) other matters that need to be specified."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment, Modification and Termination of Collective Enterprises"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The establishment of a collective enterprise shall be subject to approval by the approving department prescribed by the people's government of the province, autonomous region or municipality directly under the Central Government.\nWhere laws or regulations contain special provisions on the approving department for the establishment of collective enterprises, those provisions shall prevail.\nA collective enterprise shall engage in production and operation within the approved and registered scope of business."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment, Modification and Termination of Collective Enterprises"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The merger, division, suspension of business, relocation or change of the main registered particulars of a collective enterprise must conform to the relevant provisions of the State; the enterprise shall submit an application and report it to the original approving department for approval."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment, Modification and Termination of Collective Enterprises"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The merger and division of collective enterprises shall follow the principles of voluntariness and equality; the parties concerned shall conclude an agreement in accordance with law, properly handle claims and debts, other property relations and outstanding issues, and properly arrange the personnel of the enterprises.\nThe rights and obligations of a collective enterprise prior to merger or division shall be enjoyed and assumed by the legal person after the merger or division."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment, Modification and Termination of Collective Enterprises"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "A collective enterprise shall be terminated on any of the following grounds:\n(a) it applies for dissolution because it is unable to continue operating, and the application is approved by the original approving department;\n(b) it is dissolved in accordance with law;\n(c) it is declared bankrupt in accordance with law;\n(d) other grounds."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment, Modification and Termination of Collective Enterprises"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Upon termination of a collective enterprise, the property of the enterprise shall be liquidated in accordance with the relevant provisions of the State. The property of the enterprise shall be used to pay off various debts and expenses in the following order:\n(a) the various expenses required for the liquidation;\n(b) the wages and labour insurance premiums owed to staff and workers;\n(c) the taxes owed;\n(d) the loans owed to banks and credit cooperatives and other debts.\nWhere the property is insufficient to pay off the claims of the same order, distribution shall be made in proportion."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment, Modification and Termination of Collective Enterprises"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The remaining property of a collective enterprise after liquidation shall be disposed of in the following manner:\n(a) where the State, units and individuals outside the enterprise or individual staff and workers of the enterprise have made investments and taken shares, repayment shall be made from the remaining property of the enterprise in the same proportion as their invested share amount bears to the total assets of the enterprise;\n(b) the remaining property shall be used by the superior administrative organ of the enterprise as funds for unemployment and old-age relief, employment placement and vocational training of the staff and workers of the enterprise, shall be earmarked for specified purposes and may not be diverted to other uses."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment, Modification and Termination of Collective Enterprises"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Upon termination of a collective enterprise, it must carry out deregistration and make a public announcement in accordance with the provisions of the Regulation of the People's Republic of China on the Administration of Registration of Enterprise Legal Persons."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment, Modification and Termination of Collective Enterprises"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "A collective enterprise shall enjoy the following rights within the scope prescribed by the laws and regulations of the State:\n(a) to possess, use, obtain income from and dispose of all its property, and to refuse any form of uncompensated transfer;\n(b) to arrange its production, operation and service activities independently;\n(c) except for prices controlled by the pricing department and the competent departments concerned as prescribed by the State, to determine by itself the prices of its products and services;\n(d) to negotiate and conclude contracts with foreign businessmen in accordance with State provisions, and to retain and use its share of foreign exchange earnings;\n(e) to apply to the specialised banks concerned for loans in accordance with the provisions of the State credit policy;\n(f) to determine, in accordance with State provisions, the form of economic responsibility system, the form of wages and the methods of bonuses and dividends suited to its own circumstances;\n(g) to enjoy the various preferential treatments prescribed by State policies;\n(h) to absorb staff and workers and other enterprises, public institutions and individuals to raise funds and take shares, to enter into joint operations with other enterprises and public institutions, to invest in other enterprises and public institutions and to hold shares in other enterprises;\n(i) to decide, in accordance with State provisions, its organisational structure, staffing, forms of labour organisation and methods of employment, and to recruit and dismiss staff and workers;\n(j) to reward and punish staff and workers."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Rights and Obligations of Collective Enterprises"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "A collective enterprise shall assume the following obligations:\n(a) to abide by the laws and regulations of the State and accept the guidance of State planning;\n(b) to pay taxes and fees in accordance with law;\n(c) to perform contracts in accordance with law;\n(d) to improve operation and management, promote technological progress and improve economic benefits;\n(e) to ensure the quality of products and services and be responsible to users and consumers;\n(f) to implement the work safety system and give effect to labour protection and environmental protection measures;\n(g) to do well the internal security work of the enterprise;\n(h) to safeguard the lawful rights and interests of staff and workers, respect their right to democratic management, improve working conditions, do well the work of family planning and raise the material and cultural living standards of staff and workers;\n(i) to strengthen ideological and political education, legal education, national defence education, scientific and cultural education and technical and vocational training for staff and workers and improve the quality of the workforce."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Rights and Obligations of Collective Enterprises"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "A collective enterprise has the right, in accordance with State provisions, to voluntarily establish, join and withdraw from a joint economic organisation of collective enterprises and, in accordance with the articles of association of that organisation, to enjoy rights and assume obligations."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Rights and Obligations of Collective Enterprises"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Any person who applies, recognises and abides by the articles of association of a collective enterprise and is recruited by the enterprise may become a staff member or worker of that collective enterprise."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter IV Staff and Workers and the Employees' Assembly (or Employees' Representative Assembly)"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Staff and workers shall, in accordance with the provisions of laws and regulations, enjoy the following rights in a collective enterprise:\n(a) the right to elect and to stand for election to managerial posts at all levels of the enterprise;\n(b) to participate in the democratic management of the enterprise and supervise its various activities and the work of its managerial personnel;\n(c) to participate in labour and enjoy the rights to labour remuneration, labour protection, labour insurance, medical care and rest and leave;\n(d) to receive vocational and technical education and training and to be assessed for professional and technical titles in accordance with State provisions;\n(e) to resign;\n(f) to enjoy retirement and old-age benefits;\n(g) other rights."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter IV Staff and Workers and the Employees' Assembly (or Employees' Representative Assembly)"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Staff and workers shall perform the following obligations:\n(a) to abide by the laws and regulations of the State and the rules, regulations and labour discipline of the collective enterprise, to work in the manner of a master of the enterprise and to do their own work well;\n(b) to implement the resolutions of the employees' assembly (or employees' representative assembly) and fulfil their tasks;\n(c) to safeguard the collective interests of the enterprise;\n(d) to study hard political, cultural, scientific and technological knowledge and continuously improve their own quality;\n(e) other obligations prescribed by laws, regulations and the articles of association of the enterprise."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Staff and Workers and the Employees' Assembly (or Employees' Representative Assembly)"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "A collective enterprise must establish and improve the system of the employees' assembly (or employees' representative assembly):\n(a) a collective enterprise with fewer than 100 persons shall establish the system of the employees' assembly;\n(b) a collective enterprise with 300 or more persons shall establish the system of the employees' representative assembly;\n(c) a collective enterprise with 100 or more but fewer than 300 persons shall establish the system of the employees' assembly or of the employees' representative assembly, as the enterprise itself decides.\nRepresentatives to the employees' representative assembly shall be elected by the staff and workers. Representatives shall be staff and workers who are progressive in thinking, active in work, close to the masses and capable of participating in democratic management."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Staff and Workers and the Employees' Assembly (or Employees' Representative Assembly)"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The employees' assembly (or employees' representative assembly) of a collective enterprise shall exercise the following functions and powers within the scope prescribed by the laws and regulations of the State:\n(a) to formulate and amend the articles of association of the collective enterprise;\n(b) to elect, remove, appoint and dismiss the factory director (manager) and the deputy factory director (deputy manager) in accordance with State provisions;\n(c) to deliberate on the various proposals submitted by the factory director (manager) and decide major issues of operation and management of the enterprise;\n(d) to deliberate on and decide the form of wages, wage adjustment plans, bonus and dividend plans, staff housing allocation plans and other major matters concerning the living welfare of staff and workers;\n(e) to deliberate on and decide the measures for rewarding and punishing staff and workers and other important rules and regulations of the enterprise;\n(f) other functions and powers prescribed by laws, regulations and the articles of association of the enterprise."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Staff and Workers and the Employees' Assembly (or Employees' Representative Assembly)"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The employees' assembly (or employees' representative assembly) shall be convened regularly in accordance with the articles of association of the enterprise, but not less than twice each year."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Staff and Workers and the Employees' Assembly (or Employees' Representative Assembly)"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "The employees' representative assembly of a collective enterprise may establish a standing body to be responsible for the work during the period when the assembly is not in session.\nThe composition, method of formation, scope of functions and powers and name of the standing body shall be prescribed by the employees' representative assembly of the collective enterprise and filed with the superior administrative organ for the record."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Staff and Workers and the Employees' Assembly (or Employees' Representative Assembly)"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "A collective enterprise shall practise the system of the factory director (manager) assuming full responsibility. The factory director (manager) shall be responsible to the employees' assembly (or employees' representative assembly) of the enterprise and shall be the legal representative of the collective enterprise."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter V Factory Director (Manager)"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The factory director (manager) shall be elected or recruited by the employees' representative assembly of the enterprise. The specific measures for election and recruitment shall be prescribed by the people's government of the province, autonomous region or municipality directly under the Central Government.\nIn the case of a collective enterprise established with investment by a joint economic organisation of collective enterprises, its factory director (manager) may be appointed and removed by that joint economic organisation.\nIn the case of a collective enterprise with diversified investors, where State investment reaches a certain proportion, its factory director (manager) may be appointed and removed by the superior administrative organ in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter V Factory Director (Manager)"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The factory director (manager) shall meet the following conditions:\n(a) understanding the relevant laws, regulations, lines and policies and adhering to the socialist orientation of the enterprise's operations;\n(b) being familiar with the business of the trade, good at operation and management and capable of organisation and leadership;\n(c) loving the collective, being honest and public-spirited, maintaining close ties with the masses and having a democratic style of work;\n(d) meeting other conditions prescribed by laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter V Factory Director (Manager)"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The factory director (manager) shall exercise the following functions and powers within the scope prescribed by laws and regulations:\n(a) to lead and organise the day-to-day production, operation and administrative work of the enterprise;\n(b) to take charge of preparing and to submit to the employees' assembly (or employees' representative assembly) the medium- and long-term development plan, the annual production and operation plan and the fixed asset investment plan of the enterprise;\n(c) to take charge of preparing and to submit to the employees' assembly (or employees' representative assembly) the plan for the organisational structure of the enterprise, and to decide on plans for adjusting the labour organisation;\n(d) to appoint and remove, or to engage and dismiss, the middle-level administrative leading personnel of the enterprise in accordance with State provisions, unless laws or regulations provide otherwise, in which case those provisions shall prevail;\n(e) to put forward the annual financial budget and final accounts plan and the profit distribution plan of the enterprise;\n(f) to put forward the plan for the economic responsibility system, the wage adjustment plan, the labour protection measures plan, the measures for rewards and punishments and other important rules and regulations of the enterprise;\n(g) to reward and punish staff and workers;\n(h) to propose the convening of the employees' assembly (or employees' representative assembly) in special circumstances;\n(i) other functions and powers prescribed by the articles of association of the enterprise."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter V Factory Director (Manager)"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The factory director (manager) shall have the following duties:\n(a) to implement the lines and policies of the Party and the State, abide by the laws and regulations of the State and execute the resolutions of the employees' assembly (or employees' representative assembly);\n(b) to organise the staff and workers to fulfil the production and operation tasks of the enterprise and the various economic and technical targets, promote the technological progress of the enterprise, improve economic benefits and enhance its capacity for development;\n(c) to strictly observe financial and economic discipline, adhere to democratic financial management and regularly publish the financial accounts to the staff and workers;\n(d) to protect the lawful rights and interests of the enterprise and the legitimate rights of staff and workers within the enterprise;\n(e) to do well the living welfare of staff and workers and gradually develop old-age, unemployment and other insurance for staff and workers;\n(f) to organise the implementation of safety and health measures and achieve safe and civilised production;\n(g) to report work regularly to the employees' assembly (or employees' representative assembly) of the enterprise, listen to opinions and accept supervision;\n(h) other duties prescribed by laws, regulations and the articles of association of the enterprise."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter V Factory Director (Manager)"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "A collective enterprise shall, in accordance with the provisions of this Chapter, carry out verification of its assets and capital and clarify the attribution of ownership of its property."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter VI Property Management and Income Distribution"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The public accumulation of a collective enterprise shall be collectively owned by the working people of the enterprise."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter VI Property Management and Income Distribution"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Investment by the joint economic organisation of collective enterprises shall be collectively owned by the working people within the scope of that joint economic organisation.\nThe mutual aid and cooperation fund established by the joint economic organisation of collective enterprises shall be mainly used to develop production and promote common prosperity within the scope of that organisation."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter VI Property Management and Income Distribution"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where a collective enterprise is established with the support of an enterprise, public institution, social organisation or the like, the support funds may be handled in any one of the following ways:\n(a) as funds borrowed by the enterprise from the supporting unit, to be repaid by the enterprise to the supporting unit in the manner and within the time limit agreed by both parties;\n(b) as investment by the supporting unit in the enterprise, with participation in the profit distribution of the enterprise in proportion to its investment in the total assets of the enterprise.\nThe sources of support funds of enterprises, public institutions and social organisations must conform to the relevant provisions of the competent financial department of the State.\nEnterprises, public institutions and social organisations shall clearly delimit property rights and financial relations with the collective enterprises they support and establish. Supporting units may not interfere in the operation and management activities of collective enterprises, and collective enterprises may not rely on supporting units."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter VI Property Management and Income Distribution"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Shares held by staff and workers shall be owned by the individual staff members and workers."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter VI Property Management and Income Distribution"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Investment by units and individuals outside the collective enterprise shall be owned by the investors."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter VI Property Management and Income Distribution"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Shares held by staff and workers and the various investments absorbed by a collective enterprise may be transferred or inherited by the investors in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VI Property Management and Income Distribution"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "A collective enterprise must ensure the integrity of its property and use and operate its property rationally and effectively."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VI Property Management and Income Distribution"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "The distribution of income of a collective enterprise must follow the principle of taking into account the interests of the State, the collective and the individual."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VI Property Management and Income Distribution"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "A collective enterprise must implement the State's financial and accounting systems, accept audit supervision and strengthen its internal financial management."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VI Property Management and Income Distribution"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "The after-tax profits of a collective enterprise shall be disposed of independently by the enterprise in accordance with law. The enterprise shall determine the proportions of the accumulation fund, the public welfare fund, labour dividends and share dividends in accordance with State provisions."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VI Property Management and Income Distribution"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Remuneration for the work of the staff and workers of a collective enterprise must adhere to the principle of distribution according to work performed. The specific forms and methods of distribution shall be determined by the enterprise itself."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VI Property Management and Income Distribution"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Share dividends of a collective enterprise shall be combined with the profits and losses of the enterprise. Where the enterprise makes a profit, dividends shall be distributed according to shares; where the enterprise sustains losses, no dividends may be distributed before the losses are made up."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VI Property Management and Income Distribution"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "A collective enterprise must set aside old-age, unemployment and other insurance funds for staff and workers in accordance with State provisions. Such funds shall, in accordance with State provisions, be set aside before income tax is levied, be deposited in special accounts and be earmarked for specified purposes."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VI Property Management and Income Distribution"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "People's governments at all levels shall incorporate the development of the urban collective economy into their plans for national economic and social development, provide support and guidance in all respects and ensure the sound development of the urban collective economy."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VII Relations between Collective Enterprises and the Government"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "The competent department of the State Council for the urban collective economy shall be responsible for the macro-level guidance and management of the urban collective economy throughout the country. Its main duties are: to draft development policies, laws and regulations for the urban collective economy, to coordinate major issues in the development of the urban collective economy throughout the country and to organise the parties concerned to supervise and inspect the implementation of policies and regulations concerning collective enterprises."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VII Relations between Collective Enterprises and the Government"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "People's governments at or above the municipal level (including county-level cities, the same below) shall, in light of the needs of the development of the urban collective economy, designate the departments guiding urban collective enterprises, strengthen policy guidance for collective enterprises, coordinate issues in the development of the local urban collective economy and organise the parties concerned to supervise and inspect the implementation of policies and regulations concerning collective enterprises."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VII Relations between Collective Enterprises and the Government"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "The relevant trade administration departments of the government shall, in accordance with the provisions of laws and regulations and within the scope of their respective duties, be responsible for the trade guidance and management of collective enterprises in their respective trades."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VII Relations between Collective Enterprises and the Government"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Other relevant departments of people's governments at all levels shall supervise collective enterprises and provide services to them in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VII Relations between Collective Enterprises and the Government"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "The State protects the lawful rights and interests of collective enterprises.\nNo government department or other unit or individual may change the nature of collective ownership of a collective enterprise or impair its property ownership, may not apportion manpower, material resources or financial resources from collective enterprises, and may not interfere in the production, operation and democratic management of collective enterprises."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VII Relations between Collective Enterprises and the Government"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where a collective enterprise commits any of the following acts, the administrative department for industry and commerce shall impose administrative penalties in accordance with the provisions of the relevant laws and regulations of the State:\n(a) practising fraud in registration or failing to apply for change of registration as required;\n(b) violating the approved and registered particulars or engaging in business beyond the approved and registered scope of business;\n(c) withdrawing funds, concealing or privately distributing property by taking advantage of division, merger, termination, liquidation or similar acts;\n(d) other illegal acts."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where a collective enterprise causes property loss or personal injury to users and consumers by producing or selling shoddy or counterfeit goods, it shall bear liability for compensation; where a crime is constituted, the leading personnel of the collective enterprise who are directly responsible and other persons who are directly responsible shall be investigated for criminal liability in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Any unit or individual that, in violation of the provisions of this Regulation, apportions contributions from a collective enterprise or misappropriates or embezzles the property of a collective enterprise must make compensation. The competent authorities concerned shall, in light of the seriousness of the circumstances, impose administrative sanctions on the persons in charge who are directly responsible and other persons who are directly responsible; where a crime is constituted, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where the leading personnel of a collective enterprise abuse their functions and powers and infringe upon the lawful rights and interests of staff and workers, if the circumstances are serious, the superior administrative organ shall impose administrative sanctions in accordance with the authority for the administration of cadres; where they abuse their functions and powers, use public office for private gain and retaliate against or frame staff and workers, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Where the leading personnel of a collective enterprise or the staff of the relevant government departments cause losses to the enterprise through negligence in their work, the superior administrative organ of the enterprise or the relevant government department shall impose administrative sanctions in accordance with the authority for the administration of cadres.\nWhere the leading personnel of a collective enterprise or the staff of the relevant government departments neglect their duties, causing major losses to the property and interests of the collective enterprise and thereby constituting a crime, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where a collective enterprise violates the provisions of this Regulation on the conditions and procedures for the selection and removal of the leading personnel of collective enterprises, the superior administrative organ shall rectify the matter and pursue the administrative responsibility of the persons directly responsible.\nWhere the superior administrative organ of a collective enterprise violates the provisions of this Regulation on the conditions and procedures for the selection and removal of the leading personnel of collective enterprises, the competent department at the next higher level shall rectify the matter; if the circumstances are serious, the administrative responsibility of the persons directly responsible shall be pursued."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Whoever disturbs the order of a collective enterprise, so that production, business or work cannot be carried on normally or at all, shall be penalised by the public security organ in accordance with the Law of the People's Republic of China on Penalties for Administration of Public Security; where a crime is constituted, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Measures for the establishment and management of joint economic organisations of collective enterprises shall be formulated separately."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "The management of companies of various types under collective ownership shall be governed by the laws and regulations of the State on companies."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Public institutions of collective ownership in urban areas engaged in culture and education, public health, scientific research and the like shall be governed by reference to this Regulation.\nMeasures for the management of supply and marketing cooperatives shall be formulated separately."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Collective enterprises engaged in labour employment services shall observe the principles prescribed in this Regulation, and their specific management measures shall be governed by the Provisions on the Administration of Labour Employment Service Enterprises issued by the State Council.\nMeasures for the management of welfare-oriented collective enterprises that provide centralised placement for persons with disabilities shall be formulated separately in accordance with the principles of this Regulation."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Measures for the management of collective enterprises established with the support of the armed forces shall be formulated separately by the General Logistics Department of the Chinese People's Liberation Army in accordance with the principles prescribed in this Regulation."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "The people's governments of provinces, autonomous regions and municipalities directly under the Central Government and the competent departments of the State Council for various trades may, in accordance with this Regulation and in light of the specific circumstances of their respective regions and trades, formulate implementing rules for this Regulation."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "This Regulation shall come into force on 1 January 1992."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-REG-0459'] = {
     "lawId": "CN-REG-0459",
     "sourceLang": "zh",
@@ -12036,6 +15777,915 @@
         },
         "noLabel": {
           "en": "Article 28."
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0462'] = {
+    "lawId": "CN-REG-0462",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 76 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Measures are formulated in accordance with the provisions of the Law of the People's Republic of China on the Prevention and Control of Infectious Diseases (hereinafter referred to as the Law on the Prevention and Control of Infectious Diseases)."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The State applies the policy of giving priority to prevention to infectious diseases; when formulating plans for social and economic development, governments at all levels must include targets for the prevention and control of infectious diseases and organise the relevant departments to implement them jointly."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The health administrative departments of governments at all levels shall exercise unified supervision and administration over the prevention and control of infectious diseases.\nThe health administration bodies of other relevant departments entrusted by the health administrative department of the State Council shall, within their own systems, exercise the functions and powers listed in the first paragraph of Article 32 of the Law on the Prevention and Control of Infectious Diseases.\nThe prevention and control of infectious diseases in the military shall, in accordance with the relevant provisions of the Law on the Prevention and Control of Infectious Diseases and of these Measures and other relevant provisions of the State, be subject to the supervision and administration of the competent health department of the Chinese People's Liberation Army."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The responsibilities and scope of infectious disease surveillance and administration borne by health and epidemic prevention institutions at all levels and of all types in accordance with the division of professional work shall be determined by the health administrative department of the provincial government.\nThe health and epidemic prevention institutions of railways, transport, civil aviation and factories (farms) and mines shall undertake the surveillance and administration of infectious diseases within their own systems and shall accept professional guidance from the health administration bodies at the higher level of their own systems and from the health and epidemic prevention institutions designated by the health administrative department of the provincial government."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The responsibilities and scope of the administration of the prevention and control of infectious diseases borne by medical and health care institutions at all levels and of all types shall be determined by the health administrative department of the local government."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Governments at all levels shall give rewards to units and individuals that have made notable achievements and contributions in the prevention and control of infectious diseases."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Governments at all levels shall organise the relevant departments to carry out health education on knowledge of the prevention of infectious diseases and on prevention and control measures."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Governments at all levels shall organise and carry out patriotic health campaigns.\nThe railway, transport and civil aviation departments shall be responsible for organising the elimination of rodent damage and the harm of various disease-carrying insects on means of transport.\nThe agriculture and forestry departments shall be responsible for organising the elimination of rodent damage in farmland, pasture and forest areas.\nThe division of work among the relevant ministries and commissions of the State Council in eliminating the harm of Oncomelania snails shall be handled in accordance with the relevant provisions of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Centralised water supply must conform to the national Sanitary Standard for Drinking Water.\nWater sources owned by units may not be connected to the urban centralised water supply system without the approval of the urban construction department and the health administrative department."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Local governments at all levels shall build and improve public health facilities in a planned manner.\nCities shall, in accordance with the standards for urban environmental sanitation facilities, construct public toilets, sites for the harmless treatment of refuse and excrement, sewage and rainwater discharge and treatment systems and other public health facilities.\nRural areas shall gradually improve toilets, carry out harmless treatment of excrement, strengthen sanitary management of water for public living use, and establish the necessary sanitary management systems. The presence of sewage ponds, dung heaps (pits) and other sources of pollution near drinking water sources is prohibited. Washing of bedpans and of tools used for transporting excrement near drinking water sources is prohibited."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The State operates a planned vaccination system.\nAny person within the territory of the People's Republic of China shall accept vaccination in accordance with the relevant provisions.\nThe health administrative departments of the governments of provinces, autonomous regions and municipalities directly under the Central Government may add vaccination items in light of the epidemic situation of infectious diseases in their localities."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The State operates a vaccination certificate system for children.\nChildren of the appropriate age shall accept vaccination in accordance with the relevant provisions of the State. The parents or guardians of children of the appropriate age shall promptly apply to a medical and health care institution for a vaccination certificate.\nWhen handling the formalities for admission to a nursery or school, nursery institutions and schools shall check the vaccination certificate, and children who have not been vaccinated as required shall be vaccinated promptly to make up for the omission."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The preventive health care bodies or personnel of medical and health care institutions at all levels and of all types shall undertake the following work within their own units and the areas for which they are responsible:\n(a) reporting and administration of the epidemic situation of infectious diseases;\n(b) prevention and control of infectious diseases;\n(c) tasks of prevention, control and surveillance of infectious diseases assigned by the health and epidemic prevention institutions designated by the health administrative department."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Medical and health care institutions must, in accordance with the relevant provisions of the health administrative department of the State Council, strictly implement the systems of disinfection and isolation and prevent nosocomial infection and iatrogenic infection."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Health and epidemic prevention institutions and units engaged in scientific research, teaching and production involving pathogenic microorganisms must:\n(a) establish and improve systems for preventing the spread of pathogenic microorganisms and measures for personal protection;\n(b) strictly implement experimental operating rules, and strictly disinfect samples, equipment, contaminated articles and the like after experiments before disposing of them in accordance with the relevant provisions;\n(c) administer laboratory animals in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The strains of bacteria (viruses) of infectious diseases are divided into the following three categories:\nCategory I: Yersinia pestis and Vibrio cholerae; smallpox virus and human immunodeficiency virus;\nCategory II: Brucella, Bacillus anthracis and Mycobacterium leprae; hepatitis virus, rabies virus, haemorrhagic fever virus and dengue virus; Rickettsia typhi;\nCategory III: Neisseria meningitidis, Streptococcus, Neisseria gonorrhoeae, Mycobacterium tuberculosis, Haemophilus pertussis, Corynebacterium diphtheriae, Salmonella, Shigella and Clostridium tetani; Leptospira and Treponema pallidum; Japanese encephalitis virus, poliovirus, influenza virus, mumps virus, measles virus and rubella virus.\nThe health administrative department of the State Council may increase or reduce the types of strains of bacteria (viruses) in light of the circumstances."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The State exercises strict administration over the preservation, carrying and transport of strains of bacteria (viruses) of infectious diseases:\n(a) the preservation of strains of bacteria (viruses) shall be the responsibility of units designated by the health administrative department of the State Council.\n(b) the supply of Category I and Category II strains of bacteria (viruses) shall be by the preservation and administration units designated by the health administrative department of the State Council. Category III strains of bacteria (viruses) shall be supplied by units with specialised laboratories or by the preservation and administration units designated by the health administrative department of the State Council.\n(c) units using Category I strains of bacteria (viruses) must obtain the approval of the health administrative department of the State Council; units using Category II strains of bacteria (viruses) must obtain the approval of the health administrative department of the provincial government; units using Category III strains of bacteria (viruses) shall obtain the approval of the health administrative department of the county government.\n(d) Category I and Category II strains of bacteria (viruses) shall be collected from the supplying units by specially designated persons and may not be sent by post; Category III strains of bacteria (viruses) may be sent by post only on the strength of a certificate from the sending unit and in accordance with the relevant provisions on the posting and packaging of strains of bacteria (viruses)."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Patients suffering from the following infectious diseases or pathogen carriers shall be given the necessary isolation and treatment, and may resume work only after a medical and health care institution certifies that they are no longer infectious:\n(a) plague and cholera;\n(b) AIDS, viral hepatitis, bacillary and amoebic dysentery, typhoid and paratyphoid, anthrax, typhus, measles, pertussis, diphtheria, poliomyelitis, epidemic cerebrospinal meningitis, scarlet fever, epidemic haemorrhagic fever, dengue fever, gonorrhoea and syphilis;\n(c) pulmonary tuberculosis, leprosy, mumps, rubella and acute haemorrhagic conjunctivitis."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Persons employed in work such as water supply, catering, cosmetic surgery and child care that readily spreads infectious diseases must obtain a health certificate in accordance with the relevant provisions of the State before taking up their posts."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "An employing unit that recruits 200 or more mobile persons shall report the matter to the health and epidemic prevention institution designated by the health administrative department of the local government and shall take sanitary measures for the prevention and control of infectious diseases as required."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "In respect of sewage, waste and excrement contaminated by pathogens of Category A infectious diseases, the units and individuals concerned must, under the guidance and supervision of health and epidemic prevention personnel, handle them in accordance with the following requirements:\n(a) Contamination by plague pathogens\n(i) contaminated indoor air, floors and walls must be strictly disinfected, and contaminated articles must be strictly disinfected or incinerated;\n(ii) rodents and fleas in the plague epidemic area shall be thoroughly eliminated; diseased and dead rats discovered shall be sent for examination; the carcasses of rats after dissection and examination must be incinerated;\n(iii) where the skins and furs of rodents in the epidemic area cannot be effectively disinfected on the spot, they must be incinerated under the supervision of a health and epidemic prevention institution.\n(b) Contamination by cholera pathogens\n(i) contaminated drinking water must be strictly disinfected;\n(ii) sewage shall be discharged after disinfection;\n(iii) contaminated food shall be sealed up on the spot and disinfected;\n(iv) excrement shall be disinfected to the point of harmlessness;\n(v) contaminated articles must be strictly disinfected or incinerated."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "In respect of water, articles and excrement contaminated by the pathogens of typhoid and paratyphoid, bacillary dysentery, poliomyelitis and viral hepatitis, the units and individuals concerned shall handle them in accordance with the following requirements:\n(a) contaminated drinking water shall be strictly disinfected;\n(b) sewage shall be discharged after disinfection;\n(c) contaminated articles shall be strictly disinfected or incinerated;\n(d) excrement shall be disinfected to the point of harmlessness.\nThe carcasses of animals that have died of anthrax must be incinerated on the spot, contaminated utensils must be disinfected, and after the contaminated land and turf have been disinfected, the top 10 centimetres of soil must be removed and buried deep at a place far from water sources and rivers."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The sale or transport of skins and furs, old clothing and articles for daily use that are contaminated by pathogens of infectious diseases or that come from epidemic areas and may be contaminated by such pathogens must undergo the necessary sanitary treatment as required by the health and epidemic prevention institution."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Biological products such as bacterial vaccines and vaccines used for the prevention of infectious diseases shall be ordered in a unified manner from biological product manufacturing units by the health and epidemic prevention institutions of each province, autonomous region and municipality directly under the Central Government, and no other unit or individual may trade in them.\nBiological products such as bacterial vaccines and vaccines used for the prevention of infectious diseases must be used under the supervision and guidance of a health and epidemic prevention institution."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "All units and individuals engaged in beauty treatment, cosmetic surgery and the like that may lead to the transmission of infectious diseases through blood must implement the relevant provisions of the health administrative department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Blood stations (blood banks) and biological product manufacturing units must strictly implement the relevant provisions of the health administrative department of the State Council, guarantee the quality of blood and blood products, and prevent the occurrence of viral hepatitis, AIDS, malaria and other diseases caused by the transfusion of blood or blood products. No unit or individual may use blood or blood products whose import is prohibited by the health administrative department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The production, trading and use of disinfectants and disinfection instruments, sanitary articles, sanitary materials, disposable medical apparatus, contact lenses and artificial organs and the like must conform to the relevant national standards, and those not conforming to the relevant national standards may not be produced, traded in or used."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Upon discovery that a zoonotic infectious disease is already prevalent among humans and animals, the health administrative department and the animal husbandry and veterinary department shall go deep into the epidemic area and carry out prevention and control work in respect of humans and animals respectively in accordance with their duties.\nDomestic animals and poultry in an epidemic area of an infectious disease may not be transported out without quarantine by the animal husbandry and veterinary department.\nHunting marmots in the natural foci of plague shall be carried out in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The prevention, control and administration of rabies shall be the responsibility of the following departments in accordance with the following division of work:\n(a) the public security department shall be responsible for the examination and approval of dog keeping in cities at or above the county level and for dealing with dog keeping in violation of the provisions, and for catching and killing rabid and stray dogs.\n(b) the animal husbandry and veterinary department shall be responsible for the research and development, production and supply of rabies vaccines for veterinary use; for providing preventive vaccination, registration and issuance of a \"domestic dog immunisation certificate\" for dogs approved to be kept in urban and rural areas; and for surveillance of the epidemic situation of rabies in dogs and for the quarantine, immunisation and administration of imported and exported dogs.\n(c) the township (town) government shall be responsible for the administration of dog keeping within its jurisdiction and for catching and killing rabid and stray dogs.\n(d) the health department shall be responsible for the supply and administration of rabies vaccines for human use, for vaccination and for the diagnosis and treatment of patients."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "When it is planned to construct a large construction project in a natural focus of infection or in an area that may be a natural focus of infection, the construction unit shall, after the design assignment statement has been approved, apply to the local health and epidemic prevention institution for a sanitary survey of the construction environment, and may undergo the formalities for commencing work only after taking the necessary sanitary and anti-epidemic measures in accordance with the opinions of the health and epidemic prevention institution.\nFor the construction of a construction project within the urban plan in a natural focus of infection or in an area that may be a natural focus of infection, the competent department for urban planning must, when issuing the planning permit for the construction project, include the relevant opinions and conclusions put forward by the health and epidemic prevention department. The construction unit must, in the course of construction, take measures to prevent the transmission and spread of infectious diseases."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "After receiving an application for a sanitary survey from the construction unit of a large construction project to be built in a natural focus of infection or in an area that may be a natural focus of infection, the health and epidemic prevention institution shall promptly form a survey team to conduct an on-site survey and put forward opinions and conclusions on the types of infectious diseases that may exist in the natural environment of the area, the scope and intensity of prevalence, and preventive measures."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "A construction unit constructing in a natural focus of infection or in an area that may be a natural focus of infection shall establish a preventive health care body responsible for sanitary and anti-epidemic work during the construction period."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "All staff members who come into contact with the pathogens of infectious diseases in production or at work may apply for a health and anti-epidemic allowance in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Medical and health care personnel and health and epidemic prevention personnel performing their duties are the responsible reporters of the epidemic situation.\nResponsible reporters of the epidemic situation shall report the epidemic situation to the health and epidemic prevention institution designated by the health administrative department within the time limits prescribed in Article 35 of these Measures, and shall register the epidemic situation."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter III Epidemic Reporting"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "When a responsible reporter of the epidemic situation discovers patients, pathogen carriers or suspected patients of Category A infectious diseases and of AIDS and pulmonary anthrax among Category B infectious diseases, he shall, within 6 hours in urban areas and within 12 hours in rural areas, report the matter to the health and epidemic prevention institution at the place where the disease occurred by the fastest means of communication, and shall at the same time send out an infectious disease report card.\nWhen a responsible reporter of the epidemic situation discovers patients, pathogen carriers or suspected patients of Category B infectious diseases, he shall, within 12 hours in urban areas and within 24 hours in rural areas, send an infectious disease report card to the health and epidemic prevention institution at the place where the disease occurred.\nWhen a responsible reporter of the epidemic situation discovers patients of Category C infectious diseases in a surveillance area for Category C infectious diseases, he shall, within 24 hours, send an infectious disease report card to the health and epidemic prevention institution at the place where the disease occurred."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter III Epidemic Reporting"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "When an infectious disease breaks out or becomes prevalent, the responsible reporter of the epidemic situation shall report the epidemic situation to the local health and epidemic prevention institution by the fastest means of communication. The health and epidemic prevention institution receiving the report shall report it by the fastest means of communication to the health and epidemic prevention institution at the higher level and to the health administrative department of the local government, and the health administrative department shall, after receiving the report, immediately report it to the local government.\nAfter receiving a report of the discovery of Category A infectious diseases or of the outbreak or prevalence of infectious diseases, the health administrative department of the provincial government shall report the matter to the health administrative department of the State Council within 6 hours."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter III Epidemic Reporting"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The reporting and handling of patients, pathogen carriers and suspected patients of infectious diseases among mobile persons shall be the responsibility of the place where they are diagnosed and treated, and the registration and statistics of the epidemic situation shall be the responsibility of the place of their household registration."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter III Epidemic Reporting"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "The health and epidemic prevention institutions of railways, transport, civil aviation and factories (farms) and mines shall periodically report the epidemic situation to the health and epidemic prevention institution designated by the health administrative department at their location."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter III Epidemic Reporting"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The epidemic situation of infectious diseases in the military shall be reported by the competent health department of the Chinese People's Liberation Army to the health administrative department of the State Council in accordance with the relevant provisions of the military.\nWhere the medical and health care institutions and health and epidemic prevention institutions of the military discover patients, pathogen carriers or suspected patients of infectious diseases who have come for diagnosis and treatment in civilian localities, they shall report the epidemic situation in accordance with the provisions of Article 35 of these Measures and shall accept the professional guidance of the local health and epidemic prevention institution."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter III Epidemic Reporting"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "When the health and epidemic prevention institution designated by the health administrative department at the place of a frontier port and the health and epidemic prevention institutions of ports, airports and railways, and the frontier health quarantine organ discover quarantinable infectious diseases prescribed by the Frontier Health Quarantine Law, they shall notify each other of the epidemic situation.\nWhen zoonotic infectious diseases are discovered, the health and epidemic prevention institution and the animal husbandry and veterinary department shall notify each other of the epidemic situation."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter III Epidemic Reporting"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "The health and epidemic prevention institution designated by the health administrative department of the government at each level shall periodically verify, inspect and guide the registration, reporting and administration of the epidemic situation of medical and health care institutions of all types within its jurisdiction."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter III Epidemic Reporting"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The envelopes for posting infectious disease report cards shall bear a conspicuous \"Red Cross\" mark and the words indicating that they are to be received by the health and epidemic prevention institution of the place concerned.\nThe post and telecommunications departments shall promptly transmit telephonic or written reports of the epidemic situation and shall apply total payment of postage."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter III Epidemic Reporting"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Without the approval of the health administrative department of the government at or above the county level, medical personnel may not make public the names, addresses and personal medical histories of patients with gonorrhoea, syphilis, leprosy or AIDS and of AIDS pathogen carriers who have come for diagnosis and treatment, or of their family members."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter III Epidemic Reporting"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "The handling of the epidemic situation of infectious diseases by health and epidemic prevention institutions and medical and health care institutions shall be subject to administration at different levels and in accordance with the division of work."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter IV Control"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "The surveillance and administration of AIDS shall be carried out in accordance with the relevant provisions of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter IV Control"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Patients with gonorrhoea or syphilis shall receive treatment at a medical and health care institution or a health and epidemic prevention institution. Before being cured, they may not enter public bathhouses or swimming pools."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter IV Control"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where a medical and health care institution or a health and epidemic prevention institution discovers in diagnosis and treatment a suspected patient of a Category A infectious disease, it shall make a definitive diagnosis within 2 days."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter IV Control"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Close contacts of patients and pathogen carriers of Category A infectious diseases and of patients with AIDS, gonorrhoea or syphilis among Category B infectious diseases must accept quarantine, medical examination and prevention and control measures in accordance with the relevant provisions.\nClose contacts of patients and pathogen carriers of Category B infectious diseases other than those in the preceding paragraph shall accept medical examination and prevention and control measures."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter IV Control"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where close contacts of suspected patients or pathogen carriers of Category A infectious diseases are excluded upon medical observation from being patients or pathogen carriers, their wages and welfare treatment during the period of medical observation shall be paid in full by the unit to which they belong as if they were present at work."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter IV Control"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "In respect of a contaminated place where a patient, pathogen carrier or suspected patient of a Category A infectious disease has been discovered, the health and epidemic prevention institution shall, after receiving the report of the epidemic situation, immediately carry out strict sanitary treatment."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter IV Control"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where the health administrative department of a local government at any level discovers that an infectious disease that has never before occurred in the area has occurred, or that an infectious disease that the State has declared eliminated has occurred, it shall immediately take measures and, where necessary, report the matter to the local government."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter IV Control"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "In an area where an infectious disease breaks out or is prevalent, the local government shall, in light of the needs of epidemic control, organise the departments of health, medicine, public security, industry and commerce, transport, water resources, urban construction, agriculture, commerce, civil affairs, post and telecommunications, and broadcasting and television to take the following prevention and control measures:\n(a) providing emergency treatment and isolation treatment for patients;\n(b) strengthening the management of excrement and clearing refuse and waste;\n(c) strengthening the management of tap water and other drinking water and protecting drinking water sources;\n(d) eliminating disease-carrying insects, Oncomelania snails, rodents and other infected animals;\n(e) strengthening sanitary management of activities that readily spread infectious diseases;\n(f) carrying out publicity on disease prevention knowledge;\n(g) organising quarantine, preventive medication and emergency vaccination for patients, pathogen carriers and persons in close contact with infected animals;\n(h) supplying medicines, biological products, disinfectants, instruments and the like necessary for the prevention and control of the epidemic;\n(i) guaranteeing the supply of daily necessities for residents."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter IV Control"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Upon receiving a report from the government at the next lower level on the adoption of the emergency measures prescribed in Article 25 of the Law on the Prevention and Control of Infectious Diseases, a government at or above the county level shall make a decision within 24 hours. Before the government at the higher level makes a decision, the government at the next lower level may, where necessary, temporarily adopt the emergency measures in items (a) and (d) of the first paragraph of Article 25 of the Law on the Prevention and Control of Infectious Diseases, but for not more than 24 hours."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter IV Control"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "The conditions for lifting the emergency measures adopted under Article 25 of the Law on the Prevention and Control of Infectious Diseases are:\n(a) all patients and pathogen carriers of Category A infectious diseases have been cured, patients and pathogen carriers of Category B infectious diseases have received effective isolation and treatment, and the corpses of patients have undergone strict disinfection;\n(b) contaminated articles and environments have undergone disinfection and other sanitary treatment, and the disease-carrying insects and infected animals concerned have basically been eliminated;\n(c) after the longest incubation period of the infectious disease that broke out or became prevalent, no new patients have been discovered and the epidemic situation has been effectively controlled."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter IV Control"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "In respect of the corpses of patients who have died of plague, cholera or anthrax, the medical unit that treated the patient shall be responsible for disinfection, and the corpses shall be cremated immediately after such treatment.\nThe corpses of patients who have died of viral hepatitis, typhoid and paratyphoid, AIDS, diphtheria, anthrax or poliomyelitis shall be cremated after disinfection by the medical unit that treated the patient or by the local health and epidemic prevention institution.\nIn rural and remote areas where the conditions for cremation are not available, the medical unit that treated the patient or the local health and epidemic prevention institution shall, after disinfection, bury the corpse deep at a place more than 500 metres away from residential areas and more than 50 metres away from drinking water sources, at a depth of more than 2 metres below ground level.\nThe implementation of the provisions of the preceding paragraph in ethnic autonomous areas shall be handled in accordance with the provisions of the third paragraph of Article 28 of the Law on the Prevention and Control of Infectious Diseases."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter IV Control"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Medical and health care institutions and health and epidemic prevention institutions may, with the approval of the health administrative department of the government at or above the county level, conduct dissection and examination of the corpses of patients of infectious diseases or of suspected patients of infectious diseases."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter IV Control"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Personnel of health and epidemic prevention institutions handling the epidemic situation of infectious diseases may, on the strength of a certificate for handling the epidemic issued by the health administrative department of the local government and valid identity documents, purchase tickets from the railway, transport and civil aviation departments as a matter of priority, and those departments shall guarantee the sale of tickets for the nearest train, ship or flight to the destination.\nArticles for handling the epidemic that are handed over for transport shall bear conspicuous marks, and the railway, transport and civil aviation departments shall guarantee their transport by the fastest means of transport to the destination."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter IV Control"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "The marks on vehicles used for the supervision and control of infectious diseases shall be formulated in a unified manner by the health administrative department of the State Council together with the relevant departments. No unit or individual may obstruct vehicles and personnel performing tasks of handling the epidemic situation in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter IV Control"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Infectious disease management supervisors recommended by the health administrative departments of local governments at all levels, by health and epidemic prevention institutions and by the health administration bodies of other relevant departments entrusted by the health administrative department of the State Council shall be engaged by the health administrative department of the government at or above the provincial level and issued with certificates.\nInfectious disease management supervisors engaged by the health administrative department of the provincial government shall be reported to the health administrative department of the State Council for the record."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Infectious disease management supervisors shall perform the following tasks:\n(a) supervising and inspecting the implementation of the Law on the Prevention and Control of Infectious Diseases and of these Measures;\n(b) conducting on-site investigations, including collecting necessary specimens and consulting, requesting and photocopying necessary textual, pictorial, audio and video materials, and writing written reports on the basis of the investigations;\n(c) putting forward proposals for penalties against units or individuals violating the law;\n(d) performing tasks assigned by the health administrative department or by the health administration bodies of other relevant departments;\n(e) promptly putting forward proposals for measures to prevent and control infectious diseases."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Infectious disease management inspectors established within medical and health care institutions at all levels and of all types shall be recommended by their own units and approved and issued with certificates by the health administrative department of the government at or above the county level or by the health administration bodies of other departments entrusted by the health administrative department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Infectious disease management inspectors shall perform the following tasks:\n(a) publicising the Law on the Prevention and Control of Infectious Diseases and these Measures, and inspecting the implementation of measures for the prevention and control of infectious diseases and the reporting of the epidemic situation in their own units and the areas for which they are responsible;\n(b) providing technical guidance on the prevention and control of infectious diseases in their own units and the areas for which they are responsible;\n(c) implementing the opinions put forward by the health administrative department and the health and epidemic prevention institution on improving the administration of the prevention and control of infectious diseases in their own units and the areas for which they are responsible;\n(d) periodically reporting the circumstances of work to the health and epidemic prevention institution designated by the health administrative department, and promptly reporting emergencies."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "When infectious disease management supervisors and infectious disease management inspectors perform their tasks, the units and individuals concerned must give them assistance."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "The disengagement of an infectious disease management supervisor and the cancellation of the qualification of an infectious disease management inspector shall be decided by the original certifying authority, which shall notify the unit and the individual concerned."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "The health administrative departments of governments at or above the county level and the departments entrusted by the health administrative department of the State Council may establish technical appraisal bodies for infectious diseases."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Where any of the following acts is committed, the health administrative department of the government at or above the county level shall order correction within a time limit and may impose a fine of not more than RMB 5,000; where the circumstances are relatively serious, it may impose a fine of not less than RMB 5,000 but not more than RMB 20,000, and administrative sanctions shall be imposed by the unit to which they belong or by the superior authority on the persons in charge and the persons directly responsible:\n(a) a centralised water supply unit supplying drinking water that does not conform to the national Sanitary Standard for Drinking Water;\n(b) a unit's own water source being connected to the urban water supply system without approval;\n(c) failing to construct public health facilities in accordance with the standards for urban environmental sanitation facilities, so that refuse, excrement and sewage cannot undergo harmless treatment;\n(d) failing to disinfect sewage, waste and excrement contaminated by pathogens of infectious diseases in accordance with the provisions;\n(e) failing to carry out the necessary sanitary treatment of places and articles contaminated by patients, pathogen carriers or suspected patients of Category A and Category B infectious diseases as required by the health and epidemic prevention institution;\n(f) causing iatrogenic infection, nosocomial infection, laboratory infection or the spread of pathogenic microorganisms;\n(g) producing, trading in or using disinfectants and disinfection instruments, sanitary articles, sanitary materials, disposable medical apparatus, contact lenses or artificial organs that do not conform to the national sanitary standards and that may cause, or have caused, the transmission or spread of infectious diseases;\n(h) permitting or conniving at patients, pathogen carriers or suspected patients of infectious diseases engaging in work that is prohibited by the health administrative department of the State Council because it readily spreads the infectious disease;\n(i) patients or pathogen carriers of infectious diseases intentionally transmitting the infectious disease and causing infection of others;\n(j) patients, pathogen carriers or suspected patients of Category A infectious diseases, or patients with AIDS or pulmonary anthrax among Category B infectious diseases, refusing isolation and treatment;\n(k) an employing unit recruiting mobile persons failing to report to the health and epidemic prevention institution and failing to take sanitary measures, thereby causing the transmission or prevalence of an infectious disease;\n(l) keeping dogs in violation of the provisions, or refusing or obstructing the catching and killing of dogs kept in violation of the provisions, thereby causing injury by biting or causing the occurrence of rabies among the population.\nThe relatively serious circumstances mentioned in the preceding paragraph refer to any of the following:\n(a) creating a risk of the transmission of Category A infectious diseases, AIDS or pulmonary anthrax;\n(b) causing the outbreak or prevalence of Category B or Category C infectious diseases other than AIDS and pulmonary anthrax;\n(c) causing the spread of strains of bacteria (viruses) of infectious diseases;\n(d) causing disability or death of patients;\n(e) refusing to implement the provisions of the Law on the Prevention and Control of Infectious Diseases and of these Measures and continuing to violate the law despite repeated education."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Where a large construction project is constructed in a natural focus of infection or in an area that may be a natural focus of infection without a sanitary survey, the health administrative department of the government at or above the county level shall order correction within a time limit and may impose a fine of not less than RMB 2,000 but not more than RMB 20,000."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "Where a unit or individual sells or transports skins and furs, old clothing or articles for daily use that are contaminated by pathogens of infectious diseases or that come from epidemic areas and may be contaminated by such pathogens, the health administrative department of the government at or above the county level shall order sanitary treatment within a time limit and may impose a fine of not more than 1 time the amount of the sale; where the prevalence of an infectious disease is caused, it may, in light of the circumstances, impose a fine of not more than 3 times the amount of the sale, and where the harm is serious and the amount of the sale is less than RMB 2,000, the amount shall be calculated as RMB 2,000; administrative sanctions shall be imposed by the unit to which they belong or by the superior authority on the persons in charge and the persons directly responsible."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "Where a unit or individual unlawfully trades in or sells biological products such as bacterial vaccines and vaccines used for the prevention of infectious diseases, the health administrative department of the government at or above the county level may impose a fine of not more than 3 times the amount of the sale, and where the harm is serious and the amount of the sale is less than RMB 5,000, the amount shall be calculated as RMB 5,000; administrative sanctions may be imposed, in light of the circumstances, by the unit to which they belong or by the superior authority on the persons in charge and the persons directly responsible."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "Where a unit or individual commits any of the following acts, the health administrative department of the government at or above the county level shall, after submitting the matter to the government at the same level for approval, circulate a notice of criticism against the unit; administrative sanctions shall be imposed by the unit to which they belong or by the superior authority on the persons in charge and the persons directly responsible:\n(a) obstructing or refusing to implement the emergency measures taken by the government when an infectious disease breaks out or becomes prevalent;\n(b) medical and health care personnel and health and epidemic prevention personnel refusing to implement the decision of the health administrative department of a government at any level to assemble them to participate in epidemic control when an infectious disease breaks out or becomes prevalent;\n(c) a department responsible for the control of the outbreak or prevalence of an infectious disease refusing to implement the government's decision on epidemic control;\n(d) obstructing or intercepting, without justification, vehicles and personnel performing tasks of handling the epidemic situation in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "Where medical and health care personnel and health and epidemic prevention personnel performing their duties, or the responsible units, fail to report, omit to report or delay in reporting the epidemic situation of an infectious disease, the health administrative department of the government at or above the county level shall order correction within a time limit, and administrative sanctions may be imposed, in light of the circumstances, by the unit to which they belong or by the superior authority on the persons in charge and the persons directly responsible.\nWhere an individual medical practitioner performing his duties fails to report, omits to report or delays in reporting the epidemic situation of an infectious disease, the health administrative department of the government at or above the county level shall order correction within a time limit, and where correction is not made within the time limit, may impose a fine of not less than RMB 100 but not more than RMB 500; where the transmission or prevalence of an infectious disease is caused, it may impose a fine of not less than RMB 200 but not more than RMB 2,000."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "The health administrative department of the county government may make a decision to impose a fine of not more than RMB 10,000; a decision to impose a fine of more than RMB 10,000 shall be submitted to the health administrative department of the government at the higher level for approval.\nThe health administration bodies of the relevant departments entrusted by the health administrative department of the State Council may make a decision to impose a fine of not more than RMB 2,000; a decision to impose a fine of more than RMB 2,000 shall be submitted to the health administrative department of the government at or above the county level at the locality for approval.\nWhen collecting fines, the health administrative departments of governments at or above the county level shall issue official receipts for the fines. All fines shall be turned over to the State treasury."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "The terms used in the Law on the Prevention and Control of Infectious Diseases and in these Measures have the following meanings:\nPatients of infectious diseases and suspected patients of infectious diseases: persons who conform to the diagnostic standards for patients of infectious diseases and suspected patients of infectious diseases in accordance with the Diagnostic Standards for Infectious Diseases under Administration Prescribed by the Law of the People's Republic of China on the Prevention and Control of Infectious Diseases issued by the health administrative department of the State Council.\nPathogen carriers: persons who are infected with a pathogen, have no clinical symptoms but are able to excrete the pathogen.\nOutbreak: the sudden occurrence of multiple patients of the same infectious disease within a short period in a local area.\nPrevalence: the incidence of a certain infectious disease in an area significantly exceeding the general level of incidence of that disease in past years.\nMajor infectious disease epidemic situation: the outbreak or prevalence of infectious diseases as mentioned in Article 25 of the Law on the Prevention and Control of Infectious Diseases.\nSurveillance of infectious diseases: planned, systematic and long-term observation of the occurrence and prevalence of infectious diseases in a population and of the factors affecting them.\nEpidemic area: an area that may be affected when an infectious disease breaks out or becomes prevalent in a population and its pathogen spreads to the surrounding areas.\nZoonotic infectious diseases: plague, epidemic haemorrhagic fever, rabies, leptospirosis, brucellosis, anthrax, epidemic encephalitis B, kala-azar, echinococcosis and schistosomiasis.\nNatural focus of infection: an area in which the pathogens of certain infectious diseases are preserved for a long time in wild animals in nature and cause prevalence among animals.\nPossible natural focus of infection: an area in which there exist, in nature, sources of infection and vectors of transmission of diseases of natural focal origin, but which has not yet been ascertained.\nIatrogenic infection: infection caused by the transmission of pathogens in the course of medical services.\nNosocomial infection: infection contracted by a patient receiving diagnosis and treatment within a medical and health care institution.\nLaboratory infection: infection caused by contact with pathogens in the course of laboratory work.\nDisinfection: the killing or elimination of pathogenic microorganisms in the environment by chemical, physical or biological methods.\nSanitary treatment: sanitary measures such as disinfection, insect elimination and rodent elimination, and medical measures such as isolation, medical observation and on-the-spot examination.\nHealth and epidemic prevention institution: health and epidemic prevention stations, tuberculosis prevention and research institutes (hospitals), parasitic disease prevention and research institutes (stations), schistosomiasis prevention and research institutes (stations), skin and venereal disease prevention and research institutes (stations), endemic disease prevention and research institutes (stations), plague prevention stations (institutes), township preventive health care stations (institutes) and units with the same professional scope as the above institutions.\nMedical and health care institution: hospitals, health centres (clinics), outpatient departments (clinics), sanatoria, maternal and child health care hospitals (stations) and units with the same scope of business activities as the above institutions."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "The governments of provinces, autonomous regions and municipalities directly under the Central Government may formulate implementing rules in accordance with the Law on the Prevention and Control of Infectious Diseases and these Measures."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "The health administrative department of the State Council shall be responsible for the interpretation of these Measures."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "These Measures shall come into force as of the date of promulgation."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
         }
       }
     ]
@@ -13124,6 +17774,804 @@
     ]
   };
 
+  TR['CN-REG-0465'] = {
+    "lawId": "CN-REG-0465",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 66 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated for the purpose of strengthening the administration of seafarers, improving the quality of seafarers, safeguarding the lawful rights and interests of seafarers, ensuring the safety of traffic on waters and protecting the water environment."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "These Regulations apply to such activities as the registration, appointment, training and occupational protection of seafarers and the provision of seafarer services within the territory of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The competent transport department of the State Council shall be in charge of the administration of seafarers throughout the country.\nThe National Maritime Safety Administration shall, in accordance with these Regulations, be responsible for the unified implementation of the administration of seafarers.\nThe maritime safety administrations responsible for the administration of waters under the jurisdiction of the Central Government and the local maritime safety administrations responsible for the administration of other waters (hereinafter collectively referred to as the maritime safety administrations) shall, in accordance with their respective duties, be specifically responsible for the administration of seafarers."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "For the purposes of these Regulations, seafarers mean persons who have obtained certificates of competency for seafarers in accordance with the provisions of these Regulations, including masters, senior crew members and ordinary crew members.\nFor the purposes of these Regulations, a master means a person who has obtained the qualification for serving as master in accordance with the provisions of these Regulations and who is responsible for the management and command of a ship.\nFor the purposes of these Regulations, senior crew members mean the chief officer, second officer, third officer, chief engineer, second engineer, third engineer, fourth engineer, radio personnel and other senior technical or managerial personnel serving on board a ship who have obtained the corresponding qualifications in accordance with the provisions of these Regulations.\nFor the purposes of these Regulations, ordinary crew members mean crew members other than the master and senior crew members."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        },
+        "chapter": {
+          "en": "Chapter II Registration and Qualifications of Seafarers"
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Seafarers shall obtain the corresponding certificates of competency for seafarers in accordance with the provisions of these Regulations.\nApplicants for certificates of competency for seafarers shall meet the following conditions:\n(a) having reached the age of 18 (16 for persons serving on board as trainees or probationers) and not exceeding the age of 60 at the time of the first application;\n(b) meeting the health requirements for the post to be held on board;\n(c) having completed basic safety training for seafarers.\nSeafarers participating in navigational and engine-room watches shall additionally have completed the corresponding training for competency and special training, possess the corresponding sea service for the post and have a good performance record and a good safety record.\nSeafarers serving on ships engaged in international voyages shall additionally pass the professional foreign language examination for seafarers when applying for certificates of competency."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        },
+        "chapter": {
+          "en": "Chapter II Registration and Qualifications of Seafarers"
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "An applicant for a certificate of competency for seafarers may submit a written application to any maritime safety administration with the authority to issue the corresponding certificate of competency for seafarers, together with documentary evidence that the applicant meets the conditions specified in Article 5 of these Regulations. For applicants who meet the prescribed conditions and have passed the examination for the post of seafarer organised by the National Maritime Safety Administration, the maritime safety administration shall issue the corresponding certificate of competency for seafarers and the seafarer's service book."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        },
+        "chapter": {
+          "en": "Chapter II Registration and Qualifications of Seafarers"
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "A certificate of competency for seafarers shall state the navigation area (route), the category and class of ships, the post and the period of validity for which the seafarer is competent.\nThe period of validity of certificates of competency for seafarers participating in navigational and engine-room watches shall not exceed five years.\nA seafarer's service book shall state the name, domicile, contact person, contact details, performance of duties and other relevant particulars of the seafarer.\nWhere any particular recorded in the seafarer's service book changes, the seafarer shall complete the modification formalities with the maritime safety administration."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Registration and Qualifications of Seafarers"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The master of a ship of Chinese nationality shall be a seafarer of Chinese nationality."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Registration and Qualifications of Seafarers"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Where a ship of Chinese nationality outside China encounters force majeure or other special circumstances and cannot meet the minimum safe manning requirements, and a crew member at the next lower level on board needs to temporarily hold a post at the next higher level, an application shall be filed with the maritime safety administration. The maritime safety administration shall issue the corresponding certifying document on the basis of the sea service, performance record and safety record of the crew member intending to hold the post at the next higher level."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Registration and Qualifications of Seafarers"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Where persons who have previously worked on military ships or fishing vessels, or seafarers holding certificates of competency for seafarers of other countries or regions, apply for certificates of competency for seafarers in accordance with the provisions of these Regulations, the maritime safety administration may exempt them from the corresponding parts of seafarer training and examination. The specific measures shall be separately prescribed by the competent transport department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Registration and Qualifications of Seafarers"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Seafarers of Chinese nationality who enter and leave the country in the capacity of seamen and work on ships of foreign countries shall apply to the maritime safety administration designated by the National Maritime Safety Administration for a Seafarer's Identity Document of the People's Republic of China.\nApplicants for a Seafarer's Identity Document of the People's Republic of China shall meet the following conditions:\n(a) being a citizen of the People's Republic of China;\n(b) holding a certificate of competency for seafarers for ships engaged in international voyages or having a confirmed assignment to go abroad as a seafarer;\n(c) no circumstance under which exit from the country is prohibited as provided by laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Registration and Qualifications of Seafarers"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The maritime safety administration shall, within seven days from the date of acceptance of the application, make a decision on approval or non-approval. Where approval is granted, it shall issue a Seafarer's Identity Document of the People's Republic of China; where approval is not granted, it shall notify the applicant in writing and state the reasons."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Registration and Qualifications of Seafarers"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The Seafarer's Identity Document of the People's Republic of China is the document of a seafarer of Chinese nationality showing his status as a citizen of the People's Republic of China when performing assignments outside China. Where a Seafarer's Identity Document of the People's Republic of China is lost, stolen or damaged, an application for replacement shall be filed with the maritime safety administration. Where the seafarer is outside China, an application for replacement shall be filed with the embassy or consulate of the People's Republic of China.\nThe period of validity of a Seafarer's Identity Document of the People's Republic of China shall not exceed five years."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Registration and Qualifications of Seafarers"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Seafarers holding a Seafarer's Identity Document of the People's Republic of China shall enjoy, in other countries and regions, the rights and facilities of passage provided by local law, the relevant international treaties and the maritime or shipping agreements concluded between the People's Republic of China and the countries concerned."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Registration and Qualifications of Seafarers"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Foreign seafarers working on ships of Chinese nationality shall obtain employment permits in accordance with laws, administrative regulations and other relevant provisions of the State, and shall hold the corresponding certificates prescribed by the competent transport department of the State Council and the relevant identity documents issued by the government of the country to which they belong.\nForeign seafarers serving on ships of foreign nationality navigating, berthing or operating in waters under the jurisdiction of the People's Republic of China shall hold the corresponding certificates provided by the international treaties to which the People's Republic of China is a party or has acceded and the relevant identity documents issued by the government of the country to which they belong."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Registration and Qualifications of Seafarers"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "While working on board, seafarers shall meet the following requirements:\n(a) carrying the valid documents prescribed by these Regulations;\n(b) being conversant with the seaworthiness of the ship and the navigational support conditions of the route, as well as necessary information on the meteorology and sea conditions of the relevant navigation area;\n(c) observing the management system and watch regulations of the ship, operating, controlling and managing the ship in accordance with the operating rules for the safety of traffic on waters and the prevention of pollution from ships, truthfully completing the statutory ship documents, and not concealing, falsifying or destroying the statutory certificates and documents of the ship;\n(d) participating in emergency training and drills of the ship and implementing the various emergency precautionary measures in accordance with the requirements of the emergency deployment of the ship;\n(e) observing the ship reporting system and promptly reporting any danger, accident, security incident or circumstance affecting navigational safety that is discovered or occurs;\n(f) doing their utmost to rescue persons in distress, provided that their own safety is not seriously endangered;\n(g) not carrying passengers or goods privately by means of the ship and not carrying prohibited articles."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Duties of Seafarers"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Orders issued by the master within the scope of his functions and powers must be executed by all persons on board the ship.\nSenior crew members shall organise the crew members subordinate to them to execute the master's orders and urge the subordinate crew members to perform their duties."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Duties of Seafarers"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "In managing and commanding a ship, the master shall meet the following requirements:\n(a) ensuring that the ship and the seafarers carry the certificates, documents and relevant navigational information that meet the statutory requirements;\n(b) formulating the emergency plan of the ship and ensuring its effective implementation;\n(c) ensuring that the ship and the seafarers are in a seaworthy and competent condition at the time of sailing, ensuring the minimum safe manning of the ship as prescribed and ensuring the normal watchkeeping of the ship;\n(d) executing the instructions of the maritime safety administration concerning the safety of traffic on waters and the prevention of pollution from ships and, where a traffic accident on waters or a pollution accident occurs to the ship, submitting an accident report to the maritime safety administration;\n(e) conducting routine training and assessment of the seafarers on board and truthfully recording the performance of duties of the seafarers in their seafarers' service books;\n(f) being on watch on the bridge when the ship enters or leaves port, berths or unberths, passes through areas of dense traffic or dangerous navigation areas, or encounters severe weather and sea conditions, or when a traffic accident on waters, a ship pollution accident, a ship security incident or any other emergency occurs, and directly commanding the ship where necessary;\n(g) ensuring the safety of the persons on board and of the persons temporarily on board;\n(h) organising the seafarers and other persons on board to do their utmost to carry out rescue when an accident occurs to the ship and endangers the safety of the persons and property on board;\n(i) taking all measures when abandoning ship, first organising the safe disembarkation of passengers, then arranging the disembarkation of seafarers, the master being the last to leave the ship and, before leaving, directing the seafarers to do their utmost to salvage the deck log book, engine room log book, oil record book, radio log book, the navigational charts and documents used on the voyage, as well as valuables, mail and cash."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Duties of Seafarers"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Masters and senior crew members may not resign, leave their posts or suspend their duties without authorisation during a voyage."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Duties of Seafarers"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The master shall have independent decision-making power and bear ultimate responsibility in respect of ensuring the safety of persons and property on waters, ship security and the prevention of pollution of waters from ships.\nIn order to perform his duties, the master may exercise the following powers:\n(a) deciding the voyage plan of the ship and refusing to sail or to continue the voyage where the conditions for the safe navigation of the ship are not met;\n(b) refusing to execute unlawful instructions given by the seafarer-employing unit or the shipowner, or instructions that may endanger the safety of the persons and property concerned or of the ship, or that may cause pollution of the water environment;\n(c) promptly correcting or stopping the manoeuvring instructions of a pilot where they may threaten the navigational safety of the ship or may cause pollution of the water environment and, where necessary, requesting a replacement of the pilot;\n(d) deciding to evacuate the ship when the ship is in distress and the lives of the persons on board are seriously endangered;\n(e) deciding to abandon the ship where the sinking or destruction of the ship is unavoidable, provided that, except in an emergency, the consent of the shipowner shall be obtained;\n(f) ordering incompetent seafarers to leave their posts.\nWhen a ship is navigating at sea, the master may, in order to ensure the safety of the persons on board and of the ship, confine persons engaging in illegal or criminal activities on board or take other necessary measures against them in accordance with the provisions of the law."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Duties of Seafarers"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Seafarer-employing units and seafarers shall participate in work injury insurance, medical insurance, old-age insurance, unemployment insurance and other social insurance in accordance with the relevant provisions of the State, and shall pay the various insurance premiums in full and on time in accordance with the law.\nSeafarer-employing units shall take out special personal and health insurance for seafarers working on ships bound for or passing through war zones or epidemic areas or transporting toxic or harmful substances, and shall provide the corresponding protective measures."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter IV Occupational Protection of Seafarers"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The living and working quarters of seafarers on board shall conform to the requirements of the national ship inspection specifications concerning the living environment, operational safety and protection of seafarers.\nSeafarer-employing units shall provide seafarers with the necessary daily necessities, protective equipment and medical supplies, establish health records for seafarers, and conduct regular health examinations for seafarers so as to prevent and treat occupational diseases.\nWhere a seafarer falls ill or is injured while working on board, the seafarer-employing unit shall promptly provide medical treatment; where a seafarer is missing or dies, the seafarer-employing unit shall promptly make the corresponding arrangements for the aftermath."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter IV Occupational Protection of Seafarers"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Seafarer-employing units shall conclude labour contracts with seafarers in accordance with the laws and regulations on labour contracts and the relevant international treaties on seafarer labour and social security to which the People's Republic of China is a party or has acceded.\nSeafarer-employing units may not recruit persons who have not obtained the documents prescribed by these Regulations to work on board."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter IV Occupational Protection of Seafarers"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Seafarer trade union organisations shall strengthen the protection of the lawful rights and interests of seafarers and guide and assist seafarers in concluding labour contracts with seafarer-employing units."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter IV Occupational Protection of Seafarers"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Seafarer-employing units shall, in the light of factors such as the risk, hardship and mobility of the seafaring occupation, pay seafarers reasonable wages and pay them in full and on time. No unit or individual may deduct or withhold seafarers' wages.\nSeafarer-employing units shall pay seafarers awaiting assignment during the term of the labour contract not less than the minimum wage published by the people's government of the place where the seafarer-employing unit is located."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter IV Occupational Protection of Seafarers"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The working hours of seafarers on board shall conform to the standards prescribed by the competent transport department of the State Council, and seafarers may not keep watch while fatigued.\nIn addition to the statutory public holidays of the State, seafarers shall also be entitled to annual leave of not less than five days for every two months worked on board.\nSeafarer-employing units shall, during the annual leave of seafarers, pay them remuneration not less than their average wage during the period of work on board."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Occupational Protection of Seafarers"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "While working on board, a seafarer may request repatriation under any of the following circumstances:\n(a) the seafarer's labour contract has terminated or has been dissolved in accordance with the law;\n(b) the seafarer is not competent to perform the duties of the post on board;\n(c) the ship is lost;\n(d) the ship is bound for a war zone or an epidemic area without the consent of the seafarer;\n(e) the seafarer-employing unit or the shipowner is unable to continue to perform its statutory or contractual obligations to the seafarer owing to bankruptcy, sale of the ship, change in the registration of the ship or other reasons."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Occupational Protection of Seafarers"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "A seafarer may choose the place of repatriation from among the following places:\n(a) the place where the seafarer was recruited or the place where he joined the ship for the post;\n(b) the place of residence, the place of household registration or the country of registry of the seafarer;\n(c) the place agreed upon between the seafarer and the seafarer-employing unit or the shipowner."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Occupational Protection of Seafarers"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The costs of repatriation of a seafarer shall be paid by the seafarer-employing unit. The costs of repatriation include the cost of transport for the seafarer, reasonable accommodation, board and medical expenses during the journey, and the cost of transporting 30 kilogrammes of luggage."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Occupational Protection of Seafarers"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where the right of a seafarer to repatriation is infringed, the civil affairs department at the place where the seafarer then is, or the consular institution of the People's Republic of China stationed abroad, shall provide assistance to the seafarer and, where necessary, may directly arrange the repatriation of the seafarer. The seafarer-employing unit shall promptly reimburse the civil affairs department or the consular institution of the People's Republic of China stationed abroad for the expenses advanced for the repatriation of the seafarer."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Occupational Protection of Seafarers"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Seafarers applying to work on board a ship shall complete the corresponding basic safety training and competency training for seafarers in accordance with the provisions of the competent transport department of the State Council.\nSeafarers working on special ships such as ships carrying dangerous goods and passenger ships shall additionally complete the corresponding special training."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter V Seafarer Training and Seafarer Services"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "A training institution established in accordance with the law engaging in seafarer training shall meet the following conditions:\n(a) having premises, facilities and equipment that meet the requirements for seafarer training;\n(b) having teaching and managerial personnel suited to seafarer training;\n(c) having sound management systems for seafarer training and safety protection;\n(d) having a quality control system for seafarer training that conforms to the provisions of the competent transport department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter V Seafarer Training and Seafarer Services"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "A training institution established in accordance with the law engaging in the business of seafarer training shall file an application with the National Maritime Safety Administration, together with documentary evidence that it meets the conditions specified in Article 32 of these Regulations.\nThe National Maritime Safety Administration shall, within 30 days from the date of acceptance of the application, make a decision on approval or non-approval. Where approval is granted, it shall issue a seafarer training licence; where approval is not granted, it shall notify the applicant in writing and state the reasons."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter V Seafarer Training and Seafarer Services"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Institutions engaging in the business of seafarer training shall conduct seafarer training within the approved scope in accordance with the seafarer training syllabus prescribed by the competent transport department of the State Council and the requirements for the safety of traffic on waters, the prevention of pollution from ships and ship security, and shall ensure the quality of seafarer training."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter V Seafarer Training and Seafarer Services"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Institutions engaging in the business of supplying seafarers to ships of Chinese nationality shall obtain a labour dispatch licence in accordance with the provisions of the Labour Contract Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter V Seafarer Training and Seafarer Services"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Institutions engaging in the business of handling, on behalf of seafarers, the relevant formalities for applying for training, examinations and the obtaining of certificates (including certificates for seafarers of foreign ocean-going ships), handling seafarer affairs on behalf of seafarer-employing units, and providing ship manning and other seafarer services (hereinafter referred to as seafarer service institutions) shall establish seafarer files, strengthen the administration of ship manning, keep abreast of the training, sea service, safety records and state of health of seafarers and periodically report the above information to the regulatory authorities for the record. Information on the business of seafarer labour dispatch shall be reported to the labour and social security administrative department for the record, and information on other business shall be reported to the maritime safety administration for the record.\nWhere a seafarer-employing unit directly recruits seafarers, it shall comply with the provisions of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter V Seafarer Training and Seafarer Services"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Seafarer service institutions shall publish their service items and fee standards to the public."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter V Seafarer Training and Seafarer Services"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "In providing services to seafarers, seafarer service institutions shall act honestly and in good faith, may not provide false information and may not harm the lawful rights and interests of seafarers."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V Seafarer Training and Seafarer Services"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where a seafarer service institution provides ship manning services to a seafarer-employing unit, it shall conclude a contract in accordance with the provisions of the relevant laws and administrative regulations.\nWhere a seafarer provided by a seafarer service institution to a seafarer-employing unit is injured, missing or dead, the seafarer service institution shall cooperate with the seafarer-employing unit in making the proper arrangements for the aftermath."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V Seafarer Training and Seafarer Services"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Maritime safety administrations shall establish and improve a system of supervision and inspection over the administration of seafarers, with emphasis on strengthening supervision and inspection over the registration, qualifications, performance of duties and safety records of seafarers, the training quality of seafarer training institutions, the honesty and good faith of seafarer service institutions and the protection of the lawful rights and interests of seafarers by seafarer-employing units, and shall urge seafarer-employing units, shipowners and the relevant institutions to establish and improve systems guaranteeing the personal safety, hygiene, health and labour safety of seafarers on board and to implement the corresponding safeguard measures."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "When conducting supervision and inspection of seafarers, maritime safety administrations shall verify the validity of the documents that seafarers must carry, inspect the performance of duties by seafarers and, where necessary, may conduct on-site assessment."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where seafarers who have obtained certificates of competency for seafarers or Seafarer's Identity Documents of the People's Republic of China in accordance with the provisions of these Regulations, or institutions that have obtained licences to engage in the business of seafarer training, no longer meet the prescribed conditions, the maritime safety administration shall order correction within a specified time limit; where correction is refused or cannot be effected, the maritime safety administration shall revoke the corresponding administrative licensing decision and complete the formalities for cancellation of the administrative licence in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "In respect of seafarers who have committed acts in violation of laws and administrative regulations on the safety of traffic on waters and the prevention of pollution of waters from ships, maritime safety administrations shall, in addition to imposing administrative penalties in accordance with the law, apply a cumulative points system. In respect of seafarers whose cumulative points reach the prescribed score, the maritime safety administration shall retain their certificates of competency for seafarers, order them to attend training on the relevant laws and administrative regulations concerning the safety of traffic on waters and the prevention of pollution from ships and to sit the corresponding examination, and return their certificates of competency for seafarers upon their passing the examination."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where a ship violates the provisions of these Regulations and the relevant laws and administrative regulations, the maritime safety administration shall order correction within a specified time limit; where correction is not effected within the specified time limit, the maritime safety administration may prohibit the ship from leaving port or restrict its navigation, berthing and operations."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "When a maritime safety administration conducts supervision and inspection, not less than two law enforcement officers shall be present and shall produce valid law enforcement certificates.\nIn conducting supervision and inspection, a maritime safety administration may question the parties concerned, make inquiries of the relevant units or individuals, and consult and copy the relevant materials, and shall keep confidential the trade secrets of the units or individuals under investigation.\nThe relevant units or individuals receiving supervision and inspection by a maritime safety administration shall truthfully provide the relevant materials or information."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Maritime safety administrations shall publicise their administrative matters, handling procedures, complaint telephone numbers, correspondence addresses, e-mail addresses and other information, and conscientiously accept public oversight."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "The labour and social security administrative departments shall strengthen supervision and inspection over compliance by seafarer-employing units with the laws and regulations on labour and social security and other relevant provisions of the State.\nWhere, in routine supervision, a maritime safety administration finds that a seafarer-employing unit or seafarer service institution has committed acts in violation of the provisions of laws and administrative regulations on labour and social security, it shall promptly notify the labour and social security administrative department."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Whoever obtains a certificate of competency for seafarers, a seafarer training certificate or a Seafarer's Identity Document of the People's Republic of China by deception, bribery or other improper means in violation of the provisions of these Regulations shall have the document concerned revoked by the maritime safety administration and be fined not less than RMB 2,000 but not more than RMB 20,000."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Whoever forges, alters or trades in a seafarer's service book, a seafarer training certificate or a Seafarer's Identity Document of the People's Republic of China in violation of the provisions of these Regulations shall have the document concerned collected by the maritime safety administration, be fined not less than RMB 20,000 but not more than RMB 100,000 and, where there are illegal gains, have the illegal gains confiscated."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a particular recorded in a seafarer's service book changes and the seafarer fails to complete the modification formalities, the maritime safety administration shall order correction and may impose a fine of not more than RMB 1,000."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a seafarer commits any of the following acts, the maritime safety administration shall impose a fine of not less than RMB 1,000 but not more than RMB 10,000; where the circumstances are serious, it shall additionally impose the penalty of suspending the certificate of competency for seafarers for not less than six months but not more than two years, up to revocation of the certificate:\n(a) leaving his post without authorisation in violation of the watch regulations;\n(b) failing to operate, control and manage the ship in accordance with the operating rules for the safety of traffic on waters and the prevention of pollution from ships;\n(c) failing to promptly report any danger, accident, security incident or circumstance affecting navigational safety that is discovered or occurs;\n(d) failing to truthfully complete or record the statutory documents of the ship or of seafarers;\n(e) concealing, falsifying or destroying the statutory certificates or documents of the ship or of seafarers;\n(f) failing to perform the obligation of rescue in accordance with the law or fleeing the scene after causing an accident;\n(g) carrying passengers or goods privately by means of the ship or carrying prohibited articles."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a master commits any of the following acts, the maritime safety administration shall impose a fine of not less than RMB 2,000 but not more than RMB 20,000; where the circumstances are serious, it shall additionally impose the penalty of suspending the certificate of competency for seafarers for not less than six months but not more than two years, up to revocation of the certificate:\n(a) failing to ensure that the ship and the seafarers carry the documents and the relevant navigational information that meet the statutory requirements;\n(b) failing to ensure that the ship and the seafarers are in a seaworthy and competent condition at the time of sailing, or failing to ensure the minimum safe manning of the ship as prescribed, or failing to ensure the normal watchkeeping of the ship;\n(c) failing to truthfully record the performance of duties of seafarers in their seafarers' service books;\n(d) failing to be on watch on the bridge when the ship enters or leaves port, berths or unberths, passes through areas of dense traffic or dangerous navigation areas, or encounters severe weather and sea conditions, or when a traffic accident on waters, a ship pollution accident, a ship security incident or any other emergency occurs;\n(e) failing to be the last to leave the ship when abandoning or evacuating the ship."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where a certificate of competency for seafarers has been revoked, no application for a certificate of competency for seafarers may be filed within two years from the date of revocation."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a seafarer-employing unit or shipowner commits any of the following acts, the maritime safety administration shall order correction and impose a fine of not less than RMB 30,000 but not more than RMB 150,000:\n(a) recruiting a foreign seafarer to serve as master of a ship of Chinese nationality without authorisation;\n(b) the living and working quarters of seafarers on board not conforming to the requirements of the national ship inspection specifications concerning the living environment, operational safety and protection of seafarers;\n(c) failing to perform the obligation of repatriation;\n(d) failing to promptly provide medical treatment where a seafarer falls ill or is injured while working on board."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a person engages in seafarer training without having obtained a seafarer training licence, the maritime safety administration shall order correction, impose a fine of not less than RMB 50,000 but not more than RMB 250,000 and, where there are illegal gains, confiscate the illegal gains."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a seafarer training institution conducts training not in accordance with the training syllabus prescribed by the competent transport department of the State Council and the requirements for the safety of traffic on waters and the prevention of pollution from ships, the maritime safety administration shall order correction and may impose a fine of not less than RMB 20,000 but not more than RMB 100,000; where the circumstances are serious, it shall impose the penalty of suspending the seafarer training licence for not less than six months but not more than two years, up to revocation of the licence."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a seafarer service institution or a seafarer-employing unit fails to periodically report to the maritime safety administration or the labour and social security administrative department for the record the relevant information on the seafarers it recruits or administers, the maritime safety administration or the labour and social security administrative department shall order correction and impose a fine of not less than RMB 5,000 but not more than RMB 20,000."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a seafarer service institution provides false information and defrauds seafarers in the course of providing seafarer services, the maritime safety administration or the labour and social security administrative department shall, in accordance with its duties, order correction and impose a fine of not less than RMB 30,000 but not more than RMB 150,000; where the circumstances are serious, it shall additionally impose the penalty of suspending the provision of seafarer services for not less than six months but not more than two years, up to revocation of the relevant business licence."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a seafarer service institution engaging in the business of seafarer labour dispatch fails to conclude a contract with the relevant worker or seafarer-employing unit in accordance with the law, the labour and social security administrative department shall impose a penalty in accordance with the provisions of the relevant labour laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Where any member of the staff of a maritime safety administration commits any of the following acts, sanctions shall be given in accordance with the law:\n(a) issuing certificates of competency for seafarers or Seafarer's Identity Documents of the People's Republic of China in violation of the provisions, or approving seafarer training institutions to engage in the relevant activities in violation of the provisions;\n(b) failing to perform the duties of supervision and inspection in accordance with the law;\n(c) failing to implement administrative compulsion or administrative penalties in accordance with the law;\n(d) other acts of abuse of power or dereliction of duty."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where a violation of the provisions of these Regulations is serious and constitutes a crime, criminal liability shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Applicants for the examination for obtaining a certificate of competency for seafarers shall pay the examination fees in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "The training of pilots shall be conducted in accordance with the provisions of these Regulations on seafarer training. The specific measures for the administration of pilots shall be formulated by the competent transport department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "The administration of seafarers on military ships shall be conducted in accordance with the relevant provisions of the State and of the armed forces.\nThe administration of fishing crew members shall be the responsibility of the competent fishery administrative department of the State Council, and the specific measures for administration shall be separately prescribed by the competent fishery administrative department of the State Council with reference to these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Except where these Regulations contain special provisions on the labour and social security of seafarer-employing units and seafarers, seafarer-employing units and seafarers shall comply with the relevant laws and administrative regulations on labour and social security and the relevant provisions of the State.\nThe conferment of professional and technical titles for seafarers and the appointment to professional and technical posts shall be carried out in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "These Regulations shall come into force on 1 September 2007."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-REG-0466'] = {
     "lawId": "CN-REG-0466",
     "sourceLang": "zh",
@@ -13860,6 +19308,1941 @@
         },
         "chapter": {
           "en": "Chapter VIII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0469'] = {
+    "lawId": "CN-REG-0469",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 82 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated for the purpose of maintaining the order of the road transport market, ensuring road transport safety, safeguarding the lawful rights and interests of all parties concerned in road transport and promoting the sound development of the road transport industry."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Whoever engages in road transport operations and road transport-related business shall comply with these Regulations.\nRoad transport operations mentioned in the preceding paragraph include road passenger transport operations (hereinafter referred to as passenger transport operations) and road freight transport operations (hereinafter referred to as freight transport operations); road transport-related business includes the operation of stations (terminals), motor vehicle repair operations and motor vehicle driver training."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Whoever engages in road transport operations and road transport-related business shall operate in accordance with law, in good faith and with fair competition."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Road transport administration shall be fair, impartial, open and convenient for the public."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The State encourages the development of rural road transport and takes the necessary measures to increase the rate of scheduled bus services to townships and administrative villages, so as to meet the living and production needs of the broad masses of farmers."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The State encourages road transport enterprises to operate on a large scale and in an intensive manner. No unit or individual may blockade or monopolise the road transport market."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The competent department of transport of the State Council is in charge of road transport administration nationwide.\nThe competent departments of transport of local people's governments at or above the county level are responsible for road transport administration within their respective administrative areas."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "To apply for engaging in passenger transport operations, the following conditions shall be met:\n(a) having vehicles suited to the business operations and having passed inspection;\n(b) having drivers meeting the conditions provided for in Article 9 of these Regulations;\n(c) having a sound work safety management system.\nTo apply for engaging in scheduled passenger transport operations, there shall also be a clear scheme for routes and stops."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Section 1 Passenger Transport"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Drivers engaging in passenger transport operations shall meet the following conditions:\n(a) having obtained the corresponding motor vehicle driving licence;\n(b) being not more than 60 years of age;\n(c) having no record of a traffic accident with responsibility of a major grade or above within three years;\n(d) having passed the examination on the relevant passenger transport laws and regulations, motor vehicle repair and basic knowledge of first aid for passengers organised by the competent department of transport of the people's government of the city divided into districts."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Section 1 Passenger Transport"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "To apply for engaging in passenger transport operations, one shall, after going through the relevant registration formalities with the market supervision and administration department in accordance with law, submit an application and the relevant materials meeting the conditions provided for in Article 8 of these Regulations in accordance with the following provisions:\n(a) to engage in passenger transport operations within a county-level administrative area and between adjacent county-level administrative areas, submit an application to the competent department of transport of the county-level people's government where it is located;\n(b) to engage in inter-provincial, inter-city and inter-county (other than between adjacent county-level administrative areas) passenger transport operations, submit an application to the competent department of transport of the people's government of the city divided into districts where it is located;\n(c) to apply for engaging in passenger transport operations in a municipality directly under the Central Government, submit an application to the competent department of transport designated by the people's government of the municipality directly under the Central Government where it is located.\nThe competent department of transport receiving the application in accordance with the preceding paragraph shall complete the examination within 20 days from the date of acceptance of the application and make a decision to grant or not to grant the licence. Where the licence is granted, a road transport operating licence shall be issued to the applicant, and vehicle operating certificates shall be issued for the vehicles put into transport by the applicant; where the licence is not granted, the applicant shall be notified in writing with reasons stated.\nFor applications for engaging in inter-provincial and inter-city passenger transport operations, the competent department of transport receiving the application shall, before issuing the road transport operating licence in accordance with paragraph 2 of this Article, consult the corresponding competent department of transport at the destination of the transport route, and where consultation fails, report through the procedures to the competent department of transport of the people's government of the province, autonomous region or municipality directly under the Central Government for decision through consultation. For applications for engaging in passenger transport operations between adjacent counties within a city divided into districts, the competent departments of transport concerned shall consult each other, and where consultation fails, report to the competent department of transport of the people's government at the municipal level where they are located for decision."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Section 1 Passenger Transport"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Where a passenger transport operator that has obtained a road transport operating licence needs to add scheduled passenger transport routes, it shall go through the relevant formalities in accordance with Article 10 of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Section 1 Passenger Transport"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "When examining applications for passenger transport, the competent departments of transport of local people's governments at or above the county level shall take into account factors such as the supply and demand situation of the passenger transport market, universal service and convenience for the public.\nWhere there are three or more applicants for the same route, the licensing decision may be made by way of invitation to bid."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Section 1 Passenger Transport"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The competent departments of transport of local people's governments at or above the county level shall periodically publish the supply and demand situation of the passenger transport market."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Section 1 Passenger Transport"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The operating period of a scheduled passenger transport route shall be from four to eight years. Where renewal of the operating licence for a scheduled passenger transport route is required upon expiry of the operating period, a new application shall be submitted."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Section 1 Passenger Transport"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where a passenger transport operator needs to terminate its passenger transport operations, it shall notify the original licensing authority within 30 days before termination."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Section 1 Passenger Transport"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "A passenger transport operator shall provide passengers with a good riding environment, keep vehicles clean and hygienic, and take the necessary measures to prevent the occurrence of unlawful acts infringing upon the personal and property safety of passengers during transport."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Section 1 Passenger Transport"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Passengers shall take buses with valid tickets, observe boarding order, pay attention to civility and hygiene, and may not carry dangerous articles prescribed by the State or other articles prohibited from being carried on buses."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Section 1 Passenger Transport"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "After obtaining a road transport operating licence, an operator of scheduled passenger transport shall continuously provide transport services to the public and may not suspend, terminate or transfer scheduled transport without authorisation."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Section 1 Passenger Transport"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Whoever engages in charter passenger transport shall transport according to the agreed place of departure, destination and route.\nWhoever engages in tourist passenger transport shall transport within tourist areas according to tourist routes."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Section 1 Passenger Transport"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "A passenger transport operator may not compel passengers to board, may not abandon passengers or extort passengers, and may not replace transport vehicles without authorisation."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Section 1 Passenger Transport"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "To apply for engaging in freight transport operations, the following conditions shall be met:\n(a) having vehicles suited to the business operations and having passed inspection;\n(b) having drivers meeting the conditions provided for in Article 22 of these Regulations;\n(c) having a sound work safety management system."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Section 2 Freight Transport"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Drivers engaging in freight transport operations shall meet the following conditions:\n(a) having obtained the corresponding motor vehicle driving licence;\n(b) being not more than 60 years of age;\n(c) having passed the examination on the relevant freight transport laws and regulations, motor vehicle repair and basic knowledge of cargo loading and safekeeping organised by the competent department of transport of the people's government of the city divided into districts (except drivers using ordinary freight vehicles with a total mass of 4,500 kilograms or less)."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Section 2 Freight Transport"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "To apply for engaging in the operation of dangerous goods transport, the following conditions shall also be met:\n(a) having five or more special vehicles and equipment for dangerous goods transport that have passed inspection;\n(b) having drivers, loading and unloading management personnel and escort personnel who have passed the examination organised by the competent department of transport of the people's government of the city divided into districts where they are located and obtained work qualification certificates;\n(c) the special vehicles for dangerous goods transport are equipped with the necessary communication tools;\n(d) having a sound work safety management system."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Section 2 Freight Transport"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "To apply for engaging in freight transport operations, one shall, after going through the relevant registration formalities with the market supervision and administration department in accordance with law, submit an application and the relevant materials meeting the conditions provided for in Articles 21 and 23 of these Regulations respectively in accordance with the following provisions:\n(a) to engage in freight transport operations other than dangerous goods transport operations, submit an application to the competent department of transport of the county-level people's government;\n(b) to engage in dangerous goods transport operations, submit an application to the competent department of transport of the people's government of the city divided into districts.\nThe competent department of transport receiving the application in accordance with the preceding paragraph shall complete the examination within 20 days from the date of acceptance of the application and make a decision to grant or not to grant the licence. Where the licence is granted, a road transport operating licence shall be issued to the applicant, and vehicle operating certificates shall be issued for the vehicles put into transport by the applicant; where the licence is not granted, the applicant shall be notified in writing with reasons stated.\nWhoever uses ordinary freight vehicles with a total mass of 4,500 kilograms or less to engage in ordinary freight transport operations does not need to apply for a road transport operating licence or vehicle operating certificates in accordance with this Article."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Section 2 Freight Transport"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "A freight transport operator may not transport goods prohibited from being transported by laws and administrative regulations.\nFor goods that may be transported only after the relevant formalities are completed as prescribed by laws and administrative regulations, the freight transport operator shall verify the relevant formalities."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Section 2 Freight Transport"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The State encourages freight transport operators to carry out enclosed transport so as to ensure environmental hygiene and the safety of goods transport.\nA freight transport operator shall take the necessary measures to prevent goods from falling off or scattering.\nThe transport of dangerous goods shall be carried out with the necessary measures to prevent the dangerous goods from burning, exploding, radiating or leaking."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Section 2 Freight Transport"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The transport of dangerous goods shall be provided with the necessary escort personnel to ensure that the dangerous goods are under the supervision of the escort personnel, and conspicuous marks for the transport of dangerous goods shall be displayed.\nWhoever consigns dangerous goods shall explain to the freight transport operator the name, nature and emergency response methods of the dangerous goods, package them strictly in accordance with the relevant provisions of the State and set conspicuous marks."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Section 2 Freight Transport"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Passenger transport operators and freight transport operators shall strengthen safety education and professional ethics education for their employees to ensure road transport safety.\nRoad transport employees shall comply with road transport operating procedures and may not operate in violation of regulations. The continuous driving time of a driver may not exceed four hours."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Section 3 Provisions Common to Passenger and Freight Transport"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Enterprises that manufacture (convert) passenger vehicles and freight vehicles shall, in accordance with the State provisions, mark the approved number of passengers or load capacity of the vehicles, and are strictly prohibited from over-marking or under-marking the approved number of passengers or load capacity.\nPassenger transport operators and freight transport operators shall use vehicles conforming to the standards prescribed by the State for road transport operations."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Section 3 Provisions Common to Passenger and Freight Transport"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Passenger transport operators and freight transport operators shall strengthen the maintenance and inspection of vehicles to ensure that vehicles conform to the technical standards prescribed by the State; they may not use scrapped vehicles, vehicles converted without authorisation or other vehicles not conforming to the State provisions for road transport operations."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Section 3 Provisions Common to Passenger and Freight Transport"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Passenger transport operators and freight transport operators shall formulate emergency plans for road transport concerning traffic accidents, natural disasters and other emergencies. Emergency plans shall include reporting procedures, emergency command, reserves of emergency vehicles and equipment and handling measures."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Section 3 Provisions Common to Passenger and Freight Transport"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "In the event of traffic accidents, natural disasters and other emergencies, passenger transport operators and freight transport operators shall obey the unified dispatch and command of people's governments at or above the county level or the relevant departments."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Section 3 Provisions Common to Passenger and Freight Transport"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Road transport vehicles shall carry the vehicle operating certificate on board, which may not be transferred or leased."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Section 3 Provisions Common to Passenger and Freight Transport"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Where road transport vehicles carry passengers, they may not exceed the approved number of passengers and may not carry goods in violation of the provisions; where they carry goods, they may not carry passengers, the goods carried shall conform to the approved load capacity and overloading is strictly prohibited; the length, width and height of the loaded goods may not violate the loading requirements.\nWhoever violates the preceding paragraph shall be punished by the traffic administration department of the public security organ in accordance with the relevant provisions of the Road Traffic Safety Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Section 3 Provisions Common to Passenger and Freight Transport"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Passenger transport operators and dangerous goods transport operators shall respectively take out carrier liability insurance for passengers or dangerous goods."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Section 3 Provisions Common to Passenger and Freight Transport"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "To engage in the operation of road transport stations (terminals), the following conditions shall be met:\n(a) having transport stations (terminals) that have passed acceptance;\n(b) having the corresponding professional and management personnel;\n(c) having the corresponding equipment and facilities;\n(d) having sound business operating procedures and safety management systems."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter III Road Transport-Related Business"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "To engage in motor vehicle repair operations, the following conditions shall be met:\n(a) having the corresponding motor vehicle repair site;\n(b) having the necessary equipment, facilities and technical personnel;\n(c) having a sound motor vehicle repair management system;\n(d) having the necessary environmental protection measures.\nThe competent department of transport of the State Council shall formulate the business standards for motor vehicle repair operations on the basis of the conditions provided for in the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter III Road Transport-Related Business"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "To engage in motor vehicle driver training, the following conditions shall be met:\n(a) having obtained the qualification of an enterprise legal person;\n(b) having a sound training organisation and management system;\n(c) having teaching and management personnel suited to the training business;\n(d) having the necessary training vehicles and other teaching facilities, equipment and sites."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter III Road Transport-Related Business"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "To apply for engaging in the business of road passenger transport stations (terminals), one shall, after going through the relevant registration formalities with the market supervision and administration department in accordance with law, submit an application to the competent department of transport of the county-level people's government where it is located, together with the relevant materials meeting the conditions provided for in Article 36 of these Regulations. The competent department of transport of the county-level people's government shall complete the examination within 15 days from the date of acceptance of the application, make a decision to grant or not to grant the licence and notify the applicant in writing.\nWhoever engages in the business of road freight transport stations (terminals), motor vehicle repair operations or motor vehicle driver training shall, after going through the relevant registration formalities with the market supervision and administration department in accordance with law, file with the competent department of transport of the county-level people's government where it is located, together with the relevant materials meeting the conditions provided for in Articles 36, 37 and 38 of these Regulations respectively."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter III Road Transport-Related Business"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "An operator of a road transport station (terminal) shall carry out safety inspection of vehicles leaving the station, prohibit vehicles operating without a licence from entering the station to carry out business activities, and prevent overloaded vehicles or vehicles that have not undergone safety inspection from leaving the station.\nAn operator of a road transport station (terminal) shall treat passenger transport operators and freight transport operators using the station (terminal) fairly and may not refuse road transport vehicles entry to carry out business activities without justified reasons.\nAn operator of a road transport station (terminal) shall provide passengers and consignors with safe, convenient and high-quality services, keep the station (terminal) hygienic and clean, and may not arbitrarily change the use and service functions of the station (terminal)."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter III Road Transport-Related Business"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "An operator of a road passenger transport station (terminal) shall reasonably arrange schedules for passenger transport operators, publish their transport routes, starting, ending and intermediate stops, transport schedules, departure times and ticket prices, dispatch vehicles into the station and for departure, guide passengers and maintain order in boarding and alighting.\nAn operator of a road passenger transport station (terminal) shall provide service facilities such as passenger ticketing, waiting, luggage storage and consignment, sell tickets according to the approved passenger capacity of the vehicles, and take measures to prevent persons carrying dangerous articles from entering the station to board buses."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter III Road Transport-Related Business"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "An operator of a road freight transport station (terminal) shall load, unload, store and keep goods in accordance with the business operating procedures prescribed by the competent department of transport of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter III Road Transport-Related Business"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "A motor vehicle repair operator shall repair motor vehicles in accordance with the relevant technical specifications of the State, ensure repair quality and may not use counterfeit or inferior parts to repair motor vehicles.\nA motor vehicle repair operator shall publish the work-hour quotas and charging standards for motor vehicle repair, charge reasonable fees and, after completing repair services, provide a detailed statement of repair costs."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter III Road Transport-Related Business"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where a motor vehicle repair operator carries out second-level maintenance, assembly repair or whole-vehicle repair of a motor vehicle, it shall carry out repair quality inspection. Where the inspection is passed, the repair quality inspector shall issue a motor vehicle repair certificate.\nThe system of quality guarantee periods applies to motor vehicle repair. Where a motor vehicle cannot be used normally because of repair quality during the quality guarantee period, the motor vehicle repair operator shall repair it free of charge.\nThe specific measures for the system of quality guarantee periods for motor vehicle repair shall be formulated by the competent department of transport of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter III Road Transport-Related Business"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "A motor vehicle repair operator may not repair scrapped motor vehicles and may not convert motor vehicles without authorisation."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter III Road Transport-Related Business"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "A motor vehicle driver training institution shall conduct training in accordance with the teaching syllabus prescribed by the competent department of transport of the State Council and ensure training quality. Upon completion of training, it shall issue a training completion certificate to the persons who have participated in the training."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter III Road Transport-Related Business"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "The competent department of transport of the State Council shall promptly publish to the public the international road transport routes determined by the bilateral or multilateral road transport agreements signed between the Chinese Government and the governments of the countries concerned."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter IV International Road Transport"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "To engage in international road transport operations, the following conditions shall be met:\n(a) being an enterprise legal person that has obtained a road transport operating licence in accordance with Articles 10 and 24 of these Regulations;\n(b) having engaged in road transport operations in China for three full years and having had no road traffic accident with responsibility of a major grade or above."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter IV International Road Transport"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "To apply for engaging in international road passenger transport operations, an application shall be submitted to the competent department of transport of the people's government of the province, autonomous region or municipality directly under the Central Government together with the relevant materials meeting the conditions provided for in Article 48 of these Regulations. The competent department of transport of the people's government of the province, autonomous region or municipality directly under the Central Government shall complete the examination within 20 days from the date of acceptance of the application and make a decision to approve or not to approve. Where approval is granted, it shall be filed with the competent department of transport of the State Council; where approval is not granted, the reasons shall be explained to the party concerned.\nWhoever engages in international road freight transport operations shall file with the competent department of transport of the people's government of the province, autonomous region or municipality directly under the Central Government, together with the relevant materials meeting the conditions provided for in Article 48 of these Regulations.\nAn international road transport operator shall, holding the relevant documents, go through the relevant formalities with the relevant departments in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter IV International Road Transport"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "A Chinese international road transport operator shall mark the Chinese nationality identification sign in a conspicuous position on the vehicles it puts into transport.\nWhere vehicles of a foreign international road transport operator transport goods within the territory of China, they shall mark the nationality identification sign of their own country and drive along the prescribed transport routes; they may not change the transport routes without authorisation and may not engage in road transport operations with both the place of departure and the destination within the territory of China."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter IV International Road Transport"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "The international road transport administration institutions established at ports shall strengthen the supervision and administration of international road transport entering and leaving the ports."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter IV International Road Transport"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "The permanent representative offices lawfully established in China by foreign international road transport operators may not engage in business activities."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter IV International Road Transport"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "The transport, public security, market supervision and administration and other departments of local people's governments at or above the county level shall establish mechanisms for information sharing and coordinated supervision, and strengthen the supervision and administration of road transport and related business in accordance with the division of duties."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter V Law Enforcement Supervision"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "The competent departments of transport of people's governments at or above the county level shall strengthen the building of law enforcement teams and improve the legal and professional quality of their staff.\nStaff of the competent departments of transport of people's governments at or above the county level shall receive training and assessment in legal knowledge and road transport administration business; those failing the assessment may not take up posts to perform duties."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter V Law Enforcement Supervision"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "The competent departments of transport at higher levels shall supervise the law enforcement activities of the competent departments of transport at lower levels.\nThe competent departments of transport of people's governments at or above the county level shall establish and improve internal supervision systems and carry out supervision and inspection of the law enforcement activities of their staff."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter V Law Enforcement Supervision"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "When performing their duties, the competent departments of transport of people's governments at or above the county level and their staff shall consciously accept the supervision of society and citizens."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter V Law Enforcement Supervision"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "The competent departments of transport of people's governments at or above the county level shall establish a reporting system for road transport and make public the reporting telephone numbers, postal addresses or e-mail addresses.\nAll units and individuals have the right to report acts of abuse of power or malpractice for personal gain by staff of the competent departments of transport of people's governments at or above the county level. After receiving a report, the competent departments of transport of people's governments at or above the county level and other relevant departments shall promptly investigate and deal with it in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter V Law Enforcement Supervision"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Staff of the competent departments of transport of people's governments at or above the county level shall carry out supervision and inspection strictly in accordance with their duties, powers and procedures, and may not set up checkpoints, charge fees or impose fines in an arbitrary manner.\nStaff of the competent departments of transport of people's governments at or above the county level shall focus their supervision and inspection on the business premises of road transport and related business and on the places where passengers and goods are concentrated and distributed.\nWhen staff of the competent departments of transport of people's governments at or above the county level carry out supervision and inspection at road intersections, they may not arbitrarily stop road transport vehicles driving normally."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter V Law Enforcement Supervision"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "When staff of the competent departments of transport of people's governments at or above the county level carry out supervision and inspection, two or more persons shall participate and shall produce their law enforcement certificates to the parties concerned."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter V Law Enforcement Supervision"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "When staff of the competent departments of transport of people's governments at or above the county level carry out supervision and inspection, they may learn about the circumstances from the relevant units and individuals and consult and copy the relevant materials. However, they shall keep confidential the trade secrets of the units and individuals under investigation.\nThe units and individuals under supervision and inspection shall accept supervision and inspection carried out in accordance with law and truthfully provide the relevant materials or circumstances."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter V Law Enforcement Supervision"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where staff of the competent departments of transport of people's governments at or above the county level discover vehicle overloading in the course of road transport supervision and inspection, they shall immediately stop it and take the corresponding measures to arrange for passengers to change vehicles or to compel unloading."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter V Law Enforcement Supervision"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Where, in the course of road transport supervision and inspection, staff of the competent departments of transport of people's governments at or above the county level temporarily detain vehicles that do not have a vehicle operating certificate and cannot provide other valid proof on the spot, they shall keep the vehicles in proper custody, may not use them and may not charge or charge in disguised form any custody fees."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter V Law Enforcement Supervision"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, any of the following circumstances applies, the competent department of transport of the local people's government at or above the county level shall order the cessation of business and impose a fine; where a crime is constituted, criminal liability shall be pursued in accordance with law:\n(a) engaging in ordinary road freight transport operations without authorisation without obtaining a road transport operating licence, where the unlawful gains exceed 20,000 yuan, the unlawful gains shall be confiscated and a fine of not less than one time but not more than five times the unlawful gains shall be imposed; where there are no unlawful gains or the unlawful gains are 10,000 yuan or less, a fine of not less than 3,000 yuan but not more than 10,000 yuan shall be imposed, and where the circumstances are serious, a fine of not less than 10,000 yuan but not more than 50,000 yuan shall be imposed;\n(b) engaging in road passenger transport operations without authorisation without obtaining a road transport operating licence, where the unlawful gains exceed 20,000 yuan, the unlawful gains shall be confiscated and a fine of not less than two times but not more than 10 times the unlawful gains shall be imposed; where there are no unlawful gains or the unlawful gains are less than 20,000 yuan, a fine of not less than 10,000 yuan but not more than 100,000 yuan shall be imposed;\n(c) engaging in road dangerous goods transport operations without authorisation without obtaining a road transport operating licence, where the unlawful gains exceed 20,000 yuan, the unlawful gains shall be confiscated and a fine of not less than two times but not more than 10 times the unlawful gains shall be imposed; where there are no unlawful gains or the unlawful gains are less than 20,000 yuan, a fine of not less than 30,000 yuan but not more than 100,000 yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Where a person who does not meet the conditions provided for in Articles 9 and 22 of these Regulations drives a vehicle for road transport operations, the competent department of transport of the local people's government at or above the county level shall order correction and impose a fine of not less than 200 yuan but not more than 2,000 yuan; where a crime is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a person engages in the business of road passenger transport stations (terminals) without authorisation and without a licence, the competent department of transport of the local people's government at or above the county level shall order the cessation of business; where there are unlawful gains, the unlawful gains shall be confiscated and a fine of not less than two times but not more than 10 times the unlawful gains shall be imposed; where there are no unlawful gains or the unlawful gains are less than 10,000 yuan, a fine of not less than 20,000 yuan but not more than 50,000 yuan shall be imposed; where a crime is constituted, criminal liability shall be pursued in accordance with law.\nWhere the business of motor vehicle repair operations does not conform to the business standards for motor vehicle repair operations formulated by the competent department of transport of the State Council, the competent department of transport of the local people's government at or above the county level shall order correction; where the circumstances are serious, the competent department of transport of the local people's government at or above the county level shall order suspension of business for rectification.\nWhere a person engages in the business of road freight transport stations (terminals) or motor vehicle driver training without filing as required, the competent department of transport of the local people's government at or above the county level shall order correction; where correction is refused, a fine of not less than 5,000 yuan but not more than 20,000 yuan shall be imposed.\nWhere a person engages in motor vehicle repair operations without filing as required, the competent department of transport of the local people's government at or above the county level shall order correction; where correction is refused, a fine of not less than 3,000 yuan but not more than 10,000 yuan shall be imposed.\nWhere false materials are provided at the time of filing and the circumstances are serious, the person directly in charge and other persons directly responsible may not engage in the originally filed business within five years."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a passenger transport operator, freight transport operator or operator of road transport-related business unlawfully transfers or leases road transport licence documents, the competent department of transport of the local people's government at or above the county level shall order the cessation of the unlawful act, seize the relevant documents and impose a fine of not less than 2,000 yuan but not more than 10,000 yuan; where there are unlawful gains, the unlawful gains shall be confiscated."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a passenger transport operator or dangerous goods transport operator fails to take out carrier liability insurance as required, the competent department of transport of the local people's government at or above the county level shall order it to take out the insurance within a time limit; where it refuses, the original licensing authority shall revoke its road transport operating licence."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a passenger transport operator commits any of the following acts, the competent department of transport of the local people's government at or above the county level shall order correction and impose a fine of not less than 1,000 yuan but not more than 2,000 yuan; where the circumstances are serious, the original licensing authority shall revoke its road transport operating licence:\n(a) stopping at passenger transport stations other than the approved ones or driving not along the prescribed routes and published schedules;\n(b) replacing transport vehicles without authorisation in the course of carrying passengers or handing passengers over to others for transport;\n(c) terminating passenger transport operations without authorisation without reporting to the original licensing authority.\nWhere a passenger transport operator solicits passengers by force, or a freight transport operator solicits goods by force or fails to take the necessary measures to prevent goods from falling off or scattering, the competent department of transport of the local people's government at or above the county level shall order correction and impose a fine of not less than 1,000 yuan but not more than 3,000 yuan; where the circumstances are serious, the original licensing authority shall revoke its road transport operating licence."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a passenger transport operator or freight transport operator fails to maintain and inspect transport vehicles as required, the competent department of transport of the local people's government at or above the county level shall order correction and impose a fine of not less than 1,000 yuan but not more than 5,000 yuan.\nWhere, in violation of the provisions of these Regulations, a passenger transport operator or freight transport operator converts without authorisation a vehicle that has obtained a vehicle operating certificate, the competent department of transport of the local people's government at or above the county level shall order correction and impose a fine of not less than 5,000 yuan but not more than 20,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, an operator of a road passenger transport station (terminal) allows vehicles operating without a licence to enter the station to carry out business activities, allows overloaded vehicles or vehicles that have not undergone safety inspection to leave the station, or refuses road transport vehicles entry to carry out business activities without justified reasons, the competent department of transport of the local people's government at or above the county level shall order correction and impose a fine of not less than 10,000 yuan but not more than 30,000 yuan.\nWhere an operator of a road freight transport station (terminal) commits the unlawful circumstances mentioned in the preceding paragraph, the competent department of transport of the local people's government at or above the county level shall order correction and impose a fine of not less than 3,000 yuan but not more than 30,000 yuan.\nWhere, in violation of the provisions of these Regulations, an operator of a road transport station (terminal) arbitrarily changes the use and service functions of the road transport station (terminal), or fails to publish the transport routes, starting, ending and intermediate stops, transport schedules, departure times and ticket prices, the competent department of transport of the local people's government at or above the county level shall order correction; where correction is refused, a fine of 3,000 yuan shall be imposed; where there are unlawful gains, the unlawful gains shall be confiscated."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a motor vehicle repair operator uses counterfeit or inferior parts to repair motor vehicles, repairs scrapped motor vehicles or converts motor vehicles without authorisation, the competent department of transport of the local people's government at or above the county level shall order correction; where there are unlawful gains, the unlawful gains shall be confiscated and a fine of not less than two times but not more than 10 times the unlawful gains shall be imposed; where there are no unlawful gains or the unlawful gains are less than 10,000 yuan, a fine of not less than 20,000 yuan but not more than 50,000 yuan shall be imposed and the counterfeit or inferior parts and scrapped vehicles shall be confiscated; where the circumstances are serious, the competent department of transport of the local people's government at or above the county level shall order suspension of business for rectification; where a crime is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a motor vehicle repair operator issues a false motor vehicle repair certificate, the competent department of transport of the local people's government at or above the county level shall order correction; where there are unlawful gains, the unlawful gains shall be confiscated and a fine of not less than two times but not more than 10 times the unlawful gains shall be imposed; where there are no unlawful gains or the unlawful gains are less than 3,000 yuan, a fine of not less than 5,000 yuan but not more than 20,000 yuan shall be imposed; where the circumstances are serious, the competent department of transport of the local people's government at or above the county level shall order suspension of business for rectification; where a crime is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a motor vehicle driver training institution fails to conduct training strictly in accordance with the provisions or resorts to fraud in issuing training completion certificates, the competent department of transport of the local people's government at or above the county level shall order correction; where correction is refused, it shall order suspension of business for rectification."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a foreign international road transport operator fails to transport along the prescribed routes and engages in road transport within the territory of China without authorisation, the competent department of transport of the people's government of the province, autonomous region or municipality directly under the Central Government shall order the cessation of transport; where there are unlawful gains, the unlawful gains shall be confiscated and a fine of not less than two times but not more than 10 times the unlawful gains shall be imposed; where there are no unlawful gains or the unlawful gains are less than 10,000 yuan, a fine of not less than 30,000 yuan but not more than 60,000 yuan shall be imposed.\nWhere a foreign international road transport operator fails to mark the nationality identification sign as required, the competent department of transport of the people's government of the province, autonomous region or municipality directly under the Central Government shall order the cessation of transport and impose a fine of not less than 200 yuan but not more than 2,000 yuan.\nWhere a person engages in international road freight transport operations without filing as required, the competent department of transport of the people's government of the province, autonomous region or municipality directly under the Central Government shall order correction; where correction is refused, a fine of not less than 5,000 yuan but not more than 20,000 yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "The competent departments of transport of people's governments at or above the county level shall record the unlawful acts of road transport and road transport-related business operators and employees in credit records and make them public in accordance with the provisions of the relevant laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, staff of the competent departments of transport of people's governments at or above the county level fall under any of the following circumstances, administrative sanctions shall be given in accordance with law; where a crime is constituted, criminal liability shall be pursued in accordance with law:\n(a) failing to implement administrative licensing in accordance with the conditions, procedures and time limits provided for in these Regulations;\n(b) participating or participating in disguised form in road transport operations and road transport-related business;\n(c) failing to promptly investigate and deal with unlawful acts discovered;\n(d) stopping or inspecting road transport vehicles driving normally in violation of the provisions;\n(e) unlawfully detaining transport vehicles or vehicle operating certificates;\n(f) demanding or accepting property from others or seeking other benefits;\n(g) other unlawful acts."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "Road transport between the mainland and the Hong Kong Special Administrative Region and the Macao Special Administrative Region shall be carried out by reference to the relevant provisions of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "Foreign investors may, in accordance with the relevant laws, administrative regulations and the relevant provisions of the State, invest in road transport operations and road transport-related business within the territory of the People's Republic of China in the forms of Chinese-foreign equity joint venture, Chinese-foreign cooperative joint venture and sole proprietorship."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "Whoever engages in non-operational transport of dangerous goods shall comply with the relevant provisions of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "The competent departments of transport of local people's governments at or above the county level may charge a cost fee for issuing operating licence documents and vehicle operating certificates in accordance with these Regulations. The specific charging standard for the cost fee shall be verified by the finance department and the pricing department of the people's government of the province, autonomous region or municipality directly under the Central Government together with the competent department of transport at the same level."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "The measures for the administration of taxi passenger transport and urban bus passenger transport shall be formulated separately by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "These Regulations shall come into force on 1 July 2004."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0470'] = {
+    "lawId": "CN-REG-0470",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 80 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated for the purpose of standardising the order of the telecommunications market, safeguarding the lawful rights and interests of telecommunications users and telecommunications business operators, ensuring the security of telecommunications networks and information and promoting the sound development of the telecommunications industry."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "These Regulations must be complied with in carrying out telecommunications activities or activities related to telecommunications within the territory of the People's Republic of China.\nTelecommunications mentioned in these Regulations refer to activities of transmitting, emitting or receiving voice, text, data, images and information in any other form by means of wired or wireless electromagnetic systems or optical-electronic systems."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The competent department of the information industry of the State Council shall exercise supervision and administration over the telecommunications industry nationwide in accordance with the provisions of these Regulations.\nThe telecommunications administration bodies of provinces, autonomous regions and municipalities directly under the Central Government shall, under the leadership of the competent department of the information industry of the State Council, exercise supervision and administration over the telecommunications industry within their respective administrative areas in accordance with the provisions of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Telecommunications supervision and administration shall follow the principles of separating government administration from enterprise management, breaking monopolies, encouraging competition, promoting development and being open, fair and impartial.\nTelecommunications business operators shall operate in accordance with law, observe business ethics and accept supervision and inspection carried out in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Telecommunications business operators shall provide telecommunications users with rapid, accurate, safe, convenient and reasonably priced telecommunications services."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The security of telecommunications networks and information is protected by law. No organisation or individual may use telecommunications networks to engage in activities endangering national security, public interests or the lawful rights and interests of others."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The State applies a licensing system to telecommunications business operations according to the classification of telecommunications services.\nTo operate a telecommunications business, a telecommunications business operating licence issued by the competent department of the information industry of the State Council or by the telecommunications administration body of the province, autonomous region or municipality directly under the Central Government must be obtained in accordance with the provisions of these Regulations.\nWithout a telecommunications business operating licence, no organisation or individual may engage in telecommunications business operations."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Section 1 Licensing of Telecommunications Business"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Telecommunications services are divided into basic telecommunications services and value-added telecommunications services.\nBasic telecommunications services refer to services providing public network infrastructure, public data transmission and basic voice communication services. Value-added telecommunications services refer to telecommunications and information services provided by using public network infrastructure.\nThe specific classification of telecommunications services is set out in the Catalogue of the Classification of Telecommunications Services appended to these Regulations. The competent department of the information industry of the State Council may, in light of the actual circumstances, make partial adjustments to the items in the classification of telecommunications services listed in the catalogue and republish it."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Section 1 Licensing of Telecommunications Business"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "To operate basic telecommunications services, examination and approval by the competent department of the information industry of the State Council is required, and a Basic Telecommunications Business Operating Licence shall be obtained.\nTo operate value-added telecommunications services with a coverage extending over two or more provinces, autonomous regions or municipalities directly under the Central Government, examination and approval by the competent department of the information industry of the State Council is required, and a Cross-Regional Value-Added Telecommunications Business Operating Licence shall be obtained; where the coverage is within the administrative area of one province, autonomous region or municipality directly under the Central Government, examination and approval by the telecommunications administration body of that province, autonomous region or municipality directly under the Central Government is required, and a Value-Added Telecommunications Business Operating Licence shall be obtained.\nTo trial new types of telecommunications services not listed in the Catalogue of the Classification of Telecommunications Services by using new technologies, filing shall be made with the telecommunications administration body of the province, autonomous region or municipality directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Section 1 Licensing of Telecommunications Business"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "To operate basic telecommunications services, the following conditions shall be met:\n(a) the operator is a company established in accordance with law and specially engaged in basic telecommunications services, and the State-owned equity interest or shares in the company are not less than 51 per cent;\n(b) having a feasibility study report and a network construction technical scheme;\n(c) having funds and professional personnel suited to the business operations;\n(d) having premises and the corresponding resources for carrying out business operations;\n(e) having the reputation or capacity to provide long-term services to users;\n(f) other conditions prescribed by the State."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Section 1 Licensing of Telecommunications Business"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "To apply for operating basic telecommunications services, an application shall be submitted to the competent department of the information industry of the State Council together with the relevant documents provided for in Article 10 of these Regulations. The competent department of the information industry of the State Council shall complete the examination within 180 days from the date of acceptance of the application and make a decision to approve or not to approve. Where approval is granted, a Basic Telecommunications Business Operating Licence shall be issued; where approval is not granted, the applicant shall be notified in writing with reasons stated."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Section 1 Licensing of Telecommunications Business"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "When examining applications for operating basic telecommunications services, the competent department of the information industry of the State Council shall take into account factors such as national security, telecommunications network security, sustainable utilisation of telecommunications resources, environmental protection and the state of competition in the telecommunications market.\nThe Basic Telecommunications Business Operating Licence shall be issued by way of invitation to bid in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Section 1 Licensing of Telecommunications Business"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "To operate value-added telecommunications services, the following conditions shall be met:\n(a) the operator is a company established in accordance with law;\n(b) having funds and professional personnel suited to carrying out the business operations;\n(c) having the reputation or capacity to provide long-term services to users;\n(d) other conditions prescribed by the State."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Section 1 Licensing of Telecommunications Business"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "To apply for operating value-added telecommunications services, an application shall, in accordance with paragraph 2 of Article 9 of these Regulations, be submitted to the competent department of the information industry of the State Council or to the telecommunications administration body of the province, autonomous region or municipality directly under the Central Government, together with the relevant documents provided for in Article 13 of these Regulations. Where the value-added telecommunications services applied for require the examination and approval of the relevant competent department in accordance with the relevant provisions of the State, the documents of examination and consent of the relevant competent department shall also be submitted. The competent department of the information industry of the State Council or the telecommunications administration body of the province, autonomous region or municipality directly under the Central Government shall complete the examination within 60 days from the date of receipt of the application and make a decision to approve or not to approve. Where approval is granted, a Cross-Regional Value-Added Telecommunications Business Operating Licence or a Value-Added Telecommunications Business Operating Licence shall be issued; where approval is not granted, the applicant shall be notified in writing with reasons stated."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Section 1 Licensing of Telecommunications Business"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where a telecommunications business operator changes its operating entity or business scope or ceases operations in the course of operation, it shall, 90 days in advance, submit an application to the authority that originally issued the licence and go through the corresponding formalities; where it ceases operations, it shall also make proper arrangements for the aftermath in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Section 1 Licensing of Telecommunications Business"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where an operating unit of a dedicated telecommunications network operates telecommunications services in its locality, it shall submit an application in accordance with the conditions and procedures provided for in these Regulations and, upon approval, obtain a telecommunications business operating licence."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Section 1 Licensing of Telecommunications Business"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Interconnection shall be achieved between telecommunications networks in accordance with the principles of technical feasibility, economic rationality, fairness and impartiality, and mutual cooperation.\nA dominant telecommunications business operator may not refuse requests for interconnection made by other telecommunications business operators and operating units of dedicated networks.\nA dominant telecommunications business operator mentioned in the preceding paragraph refers to an operator that controls the necessary basic telecommunications facilities, holds a relatively large share of the telecommunications business market and is capable of exerting a substantive influence on the entry of other telecommunications business operators into the telecommunications business market.\nDominant telecommunications business operators shall be determined by the competent department of the information industry of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Section 2 Interconnection between Telecommunications Networks"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "A dominant telecommunications business operator shall, in accordance with the principles of non-discrimination and transparency, formulate interconnection rules including the procedures and time limits for network interconnection and the catalogue of unbundled network elements. The interconnection rules shall be submitted to the competent department of the information industry of the State Council for examination and consent. Such interconnection rules are binding on the interconnection activities of the dominant telecommunications business operator."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Section 2 Interconnection between Telecommunications Networks"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Interconnection between public telecommunications networks and between public telecommunications networks and dedicated telecommunications networks shall be negotiated by both parties to the interconnection in accordance with the interconnection administration provisions of the competent department of the information industry of the State Council, and an interconnection agreement shall be concluded."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Section 2 Interconnection between Telecommunications Networks"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where the two parties to interconnection fail to reach an interconnection agreement through negotiation, either party may, within 60 days from the date on which one party makes the interconnection request, apply for coordination to the competent department of the information industry of the State Council or to the telecommunications administration body of the province, autonomous region or municipality directly under the Central Government in accordance with the coverage of the interconnection; the authority receiving the application shall conduct coordination in accordance with the principles provided for in paragraph 1 of Article 17 of these Regulations and urge the two parties to reach an agreement; where no agreement can be reached through coordination within 45 days from the date on which one or both parties apply for coordination, the coordinating authority shall randomly invite telecommunications technical experts and experts from other relevant fields to conduct an open demonstration and propose an interconnection scheme. The coordinating authority shall make a decision on the basis of the conclusions of the expert demonstration and the proposed interconnection scheme and compel the achievement of interconnection."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Section 2 Interconnection between Telecommunications Networks"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The two parties to interconnection must achieve interconnection within the time limit agreed in the agreement or prescribed in the decision, comply with the interconnection agreement and the relevant provisions of the competent department of the information industry of the State Council, and ensure the smoothness of inter-network communications; neither party may interrupt interconnection without authorisation. Where technical obstacles to communications arise in interconnection, both parties shall immediately take effective measures to eliminate them. Where a dispute arises between the two parties in interconnection, it shall be handled in accordance with the procedures and methods provided for in Article 20 of these Regulations.\nThe communication quality of interconnection shall conform to the relevant standards of the State. Where a dominant telecommunications business operator provides interconnection to other telecommunications business operators, the service quality may not be lower than that of similar services within its own network and of similar services provided to its subsidiaries or branches."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Section 2 Interconnection between Telecommunications Networks"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The settlement and apportionment of interconnection fees shall be carried out in accordance with the relevant provisions of the State, and no fees may be charged in addition to the prescribed standards.\nThe technical standards, fee settlement methods and specific administration provisions for interconnection shall be formulated by the competent department of the information industry of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Section 2 Interconnection between Telecommunications Networks"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Telecommunications tariffs shall be subject to market-adjusted pricing. Telecommunications business operators shall reasonably determine the tariff standards for telecommunications services, taking into overall account factors such as production and operating costs and the supply and demand situation of the telecommunications market."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Section 3 Telecommunications Tariffs"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The State strengthens supervision of the tariff conduct of telecommunications business operators in accordance with law, establishes and improves supervision rules, and safeguards the lawful rights and interests of consumers."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Section 3 Telecommunications Tariffs"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Telecommunications business operators shall, as required by the competent department of the information industry of the State Council and the telecommunications administration bodies of provinces, autonomous regions and municipalities directly under the Central Government, provide accurate and complete business cost data and other relevant materials."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Section 3 Telecommunications Tariffs"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The State applies unified planning, centralised management and rational allocation to telecommunications resources and implements a system of paid use.\nTelecommunications resources mentioned in the preceding paragraph refer to radio frequencies, satellite orbital positions, telecommunications network codes and numbers and other limited resources used for realising telecommunications functions."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Section 4 Telecommunications Resources"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Telecommunications business operators that possess or use telecommunications resources shall pay telecommunications resource fees. The specific charging measures shall be formulated by the competent department of the information industry of the State Council together with the finance department and the pricing department of the State Council, and shall be published and implemented after approval by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Section 4 Telecommunications Resources"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "In allocating telecommunications resources, the planning of telecommunications resources, the purpose of use and the expected service capacity shall be taken into account.\nTelecommunications resources may be allocated by way of designation or by way of auction.\nWhoever obtains the right to use telecommunications resources shall put the allocated resources into use within the prescribed time limit and reach the prescribed minimum scale of use. Without the approval of the competent department of the information industry of the State Council or the telecommunications administration body of the province, autonomous region or municipality directly under the Central Government, telecommunications resources may not be used, transferred or leased without authorisation, nor may their purpose of use be changed."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Section 4 Telecommunications Resources"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "After a user of telecommunications resources lawfully obtains telecommunications network code and number resources, the dominant telecommunications business operator and other relevant units are obliged to take the necessary technical measures to cooperate with the user in realising the functions of its telecommunications network code and number resources.\nWhere laws and administrative regulations have other special provisions on the administration of telecommunications resources, those provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Section 4 Telecommunications Resources"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Telecommunications business operators shall provide services to telecommunications users in accordance with the telecommunications service standards prescribed by the State. The types, scope, tariff standards and time limits of the services provided by telecommunications business operators shall be published to the public and reported to the telecommunications administration body of the province, autonomous region or municipality directly under the Central Government for the record.\nTelecommunications users have the right to independently choose to use the various types of telecommunications services lawfully operated."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Telecommunications Services"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where a telecommunications user applies for the installation or relocation of telecommunications terminal equipment, the telecommunications business operator shall ensure that installation and activation are completed within the time limit it has published; where installation and activation are not completed within the time limit for reasons attributable to the telecommunications business operator, it shall pay the telecommunications user liquidated damages at a daily rate of 1 per cent of the installation fee, relocation fee or other fees collected."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Telecommunications Services"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Where a telecommunications user reports a fault in telecommunications services, the telecommunications business operator shall repair or restore the service within 48 hours in urban areas and 72 hours in rural areas from the date of receipt of the report; where repair or restoration cannot be completed on time, it shall promptly notify the telecommunications user and waive the monthly rental fee for the period of the fault. However, this does not apply where the fault in telecommunications services is caused by telecommunications terminal equipment."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III Telecommunications Services"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Telecommunications business operators shall make it convenient for telecommunications users to pay fees and make inquiries. Where a telecommunications user requests a breakdown of charges for domestic long-distance communications, international communications, mobile communications and information services, the telecommunications business operator shall provide it free of charge.\nWhere abnormally huge telecommunications charges arise for a telecommunications user, the telecommunications business operator shall, as soon as it discovers this, inform the telecommunications user as quickly as possible and take the corresponding measures.\nHuge telecommunications charges mentioned in the preceding paragraph refer to charges that suddenly exceed five times the average telecommunications charges of the telecommunications user over the preceding three months."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter III Telecommunications Services"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Telecommunications users shall pay telecommunications charges to telecommunications business operators promptly and in full in the time and manner agreed. Where a telecommunications user fails to pay telecommunications charges within the time limit, the telecommunications business operator has the right to demand payment of the outstanding charges and may charge liquidated damages at a daily rate of 3 per mille of the amount owed.\nFor a telecommunications user that still fails to pay telecommunications charges 30 days after the agreed time limit for payment, the telecommunications business operator may suspend the provision of telecommunications services to it. Where the telecommunications user still fails to pay the outstanding telecommunications charges and liquidated damages within 60 days after the suspension of services, the telecommunications business operator may terminate the provision of services and may recover the outstanding charges and liquidated damages in accordance with law.\nAn operator of mobile telecommunications services may agree with telecommunications users on the time limit and manner of payment of telecommunications charges, without being subject to the time limit provided in the preceding paragraph.\nA telecommunications business operator shall restore suspended telecommunications services within 48 hours after a telecommunications user that delayed payment makes up the telecommunications charges and liquidated damages."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter III Telecommunications Services"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Where a telecommunications business operator affects or may affect normal telecommunications services for reasons such as engineering construction or network construction, it must promptly inform users within the prescribed time limit and report to the telecommunications administration body of the province, autonomous region or municipality directly under the Central Government.\nWhere telecommunications services are interrupted for the reasons mentioned in the preceding paragraph, the telecommunications business operator shall correspondingly reduce or waive the relevant charges of users during the period of interruption.\nWhere the circumstances provided for in paragraph 1 of this Article occur and the telecommunications business operator fails to promptly inform users, it shall compensate users for the losses thereby caused."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter III Telecommunications Services"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Telecommunications business operators operating local telephone services and mobile telephone services shall provide users free of charge with public welfare telecommunications services such as fire alarms, police alarms, medical emergencies and traffic accident alarms, and shall ensure that communication lines are unobstructed."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter III Telecommunications Services"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Telecommunications business operators shall promptly provide equal and reasonable access services to group users that need to access their telecommunications networks through trunk lines.\nWithout approval, telecommunications business operators may not interrupt access services without authorisation."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter III Telecommunications Services"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Telecommunications business operators shall establish and improve internal service quality management systems and may formulate and publish for implementation enterprise standards higher than the telecommunications service standards prescribed by the State.\nTelecommunications business operators shall listen extensively to the opinions of telecommunications users in various forms, accept public supervision and continuously improve the quality of telecommunications services."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter III Telecommunications Services"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where the telecommunications services provided by a telecommunications business operator fail to reach the telecommunications service standards prescribed by the State or the enterprise standards it has published, or where a telecommunications user has objections to the telecommunications charges paid, the telecommunications user has the right to demand that the telecommunications business operator resolve the matter; where the telecommunications business operator refuses to resolve it or the telecommunications user is dissatisfied with the outcome, the telecommunications user has the right to complain to the competent department of the information industry of the State Council, the telecommunications administration body of the province, autonomous region or municipality directly under the Central Government or other relevant departments. The authority receiving the complaint must handle it promptly and reply to the complainant within 30 days from the date of receipt of the complaint.\nWhere a telecommunications user has objections to the local telephone charges paid, the telecommunications business operator shall, at the request of the telecommunications user, provide the basis for the local telephone charges free of charge and is obliged to take the necessary measures to assist the telecommunications user in identifying the cause."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter III Telecommunications Services"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "A telecommunications business operator may not commit any of the following acts in telecommunications services:\n(a) restricting telecommunications users in any way to use the services it designates;\n(b) restricting telecommunications users to purchase the telecommunications terminal equipment it designates, or refusing to allow telecommunications users to use their own telecommunications terminal equipment that has obtained network access approval;\n(c) refusing, delaying or suspending telecommunications services to telecommunications users without justified reasons;\n(d) failing to honour commitments publicly made to telecommunications users or making false publicity likely to cause misunderstanding;\n(e) making things difficult for telecommunications users by improper means or retaliating against telecommunications users that have complained."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter III Telecommunications Services"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "A telecommunications business operator may not commit any of the following acts in telecommunications business operations:\n(a) restricting telecommunications users in any way from choosing telecommunications services lawfully operated by other telecommunications business operators;\n(b) carrying out unreasonable cross-subsidisation among the different businesses it operates;\n(c) providing telecommunications services below cost for the purpose of excluding competitors and engaging in unfair competition."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter III Telecommunications Services"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The competent department of the information industry of the State Council or the telecommunications administration body of the province, autonomous region or municipality directly under the Central Government shall, in accordance with its functions and powers, conduct supervision and inspection of the quality of telecommunications services and the business operations of telecommunications business operators and publish the results of supervisory sampling inspections to the public."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter III Telecommunications Services"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Telecommunications business operators must perform the corresponding obligations of universal telecommunications service in accordance with the relevant provisions of the State.\nThe competent department of the information industry of the State Council may determine the telecommunications business operators that specifically bear the obligation of universal telecommunications service by way of designation or invitation to bid.\nThe measures for the administration of compensation for the costs of universal telecommunications service shall be formulated by the competent department of the information industry of the State Council together with the finance department and the pricing department of the State Council, and shall be published and implemented after approval by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter III Telecommunications Services"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "The construction of public telecommunications networks, dedicated telecommunications networks and radio and television transmission networks shall be subject to the overall planning and industry administration of the competent department of the information industry of the State Council.\nFor the construction of public telecommunications networks, dedicated telecommunications networks and radio and television transmission networks that constitutes a nationwide information network project or a construction project above the limit prescribed by the State, the consent of the competent department of the information industry of the State Council shall be obtained before the project is submitted for approval in accordance with the approval procedures for State capital construction projects.\nBasic telecommunications construction projects shall be incorporated into the overall urban construction plans of local people's governments at all levels and the overall construction plans of villages and towns and market towns."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Section 1 Construction of Telecommunications Facilities"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Urban construction and the construction of villages and towns and market towns shall be provided with supporting telecommunications facilities. Telecommunications conduits and distribution facilities within buildings and telecommunications pipelines within the land area of construction projects shall be incorporated into the design documents of the construction projects and shall be constructed and accepted simultaneously with the construction projects. The required funds shall be included in the budget estimates of the construction projects.\nWhere the relevant units or departments plan and construct roads, bridges, tunnels or subways, they shall notify the telecommunications administration body of the province, autonomous region or municipality directly under the Central Government and the telecommunications business operators in advance and consult on reserving telecommunications pipelines and other matters."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Section 1 Construction of Telecommunications Facilities"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "A basic telecommunications business operator may attach telecommunications lines to civil buildings or install small antennas, mobile communication base stations and other public telecommunications facilities on them, provided that it notifies the owner or user of the building in advance and pays a use fee to the owner or other rights holder of the building in accordance with the standards prescribed by the people's government of the province, autonomous region or municipality directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Section 1 Construction of Telecommunications Facilities"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where concealed telecommunications facilities such as underground and underwater facilities and high-altitude telecommunications facilities are constructed, signs shall be installed in accordance with the relevant provisions of the State.\nWhere a basic telecommunications business operator constructs submarine telecommunications cables, it shall obtain the consent of the competent department of the information industry of the State Council, solicit the opinions of the relevant departments and go through the relevant formalities in accordance with law. Submarine telecommunications cables shall be marked on charts by the relevant departments of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Section 1 Construction of Telecommunications Facilities"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "No unit or individual may alter or relocate the telecommunications lines and other telecommunications facilities of others without authorisation; where alteration or relocation is necessary under special circumstances, the consent of the owner of the telecommunications facilities shall be obtained, the unit or individual requesting the alteration or relocation shall bear the costs thereof and shall compensate for the economic losses thereby caused."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Section 1 Construction of Telecommunications Facilities"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Activities such as construction, production and tree planting may not endanger the safety of telecommunications lines or other telecommunications facilities or obstruct the smoothness of lines; where telecommunications safety may be endangered, the telecommunications business operators concerned shall be notified in advance, and the unit or individual carrying out the activity shall be responsible for taking the necessary safety protection measures.\nWhoever violates the preceding paragraph by damaging telecommunications lines or other telecommunications facilities or obstructing the smoothness of lines shall restore them to their original state or repair them and shall compensate for the economic losses thereby caused."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Section 1 Construction of Telecommunications Facilities"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "In constructing telecommunications lines, the necessary safe distance shall be maintained from existing telecommunications lines; where it is difficult to avoid them or necessary to cross them, or where existing telecommunications pipelines need to be used, consultation shall be held with the owner of the existing telecommunications lines and an agreement shall be concluded; where no agreement can be reached through consultation, the matter shall be resolved through coordination by the competent department of the information industry of the State Council or the telecommunications administration body of the province, autonomous region or municipality directly under the Central Government according to the different circumstances."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Section 1 Construction of Telecommunications Facilities"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "No organisation or individual may prevent or obstruct a basic telecommunications business operator from lawfully engaging in the construction of telecommunications facilities and providing public telecommunications services to telecommunications users, except in areas where entry is prohibited or restricted by the provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Section 1 Construction of Telecommunications Facilities"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Telecommunications vehicles performing special communications, emergency communications and emergency repair and rescue tasks may, with the approval of the public security traffic administration organ and on the premise of ensuring traffic safety and smoothness, be exempt from the restrictions of various signs prohibiting the passage of motor vehicles."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Section 1 Construction of Telecommunications Facilities"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "The State applies a network access licensing system to telecommunications terminal equipment, radio communication equipment and equipment involving interconnection.\nTelecommunications terminal equipment, radio communication equipment and equipment involving interconnection that are connected to public telecommunications networks must conform to the standards prescribed by the State and obtain a network access licence.\nThe catalogue of telecommunications equipment subject to the network access licensing system shall be formulated and published for implementation by the competent department of the information industry of the State Council together with the product quality supervision department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Section 2 Network Access of Telecommunications Equipment"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "To apply for a network access licence for telecommunications equipment, an application shall be submitted to the competent department of the information industry of the State Council, accompanied by a testing report issued by a telecommunications equipment testing institution recognised by the product quality supervision department of the State Council or a product quality certification certificate issued by a certification institution.\nThe competent department of the information industry of the State Council shall, within 60 days from the date of receipt of the application for a network access licence for telecommunications equipment, complete the examination of the application and the testing report or product quality certification certificate. Where the examination is passed, a network access licence shall be issued; where the examination is not passed, a written reply shall be given with reasons stated."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Section 2 Network Access of Telecommunications Equipment"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Manufacturers of telecommunications equipment must ensure that telecommunications equipment that has obtained network access approval is of stable and reliable quality and may not lower product quality and performance.\nManufacturers of telecommunications equipment shall affix the network access approval mark to the telecommunications equipment that has obtained network access approval and that they produce.\nThe product quality supervision department of the State Council shall, together with the competent department of the information industry of the State Council, conduct quality tracking and supervisory sampling inspection of telecommunications equipment that has obtained a network access licence and publish the inspection results."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Section 2 Network Access of Telecommunications Equipment"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "No organisation or individual may use telecommunications networks to produce, reproduce, publish or disseminate information containing the following content:\n(a) content opposing the basic principles established by the Constitution;\n(b) content endangering national security, divulging State secrets, subverting State power or undermining national unity;\n(c) content harming national honour and interests;\n(d) content inciting ethnic hatred or ethnic discrimination or undermining ethnic solidarity;\n(e) content undermining the State's religious policies or propagating cults and feudal superstition;\n(f) content spreading rumours, disrupting social order or undermining social stability;\n(g) content spreading obscenity, pornography, gambling, violence, homicide or terror, or abetting crime;\n(h) content insulting or defaming others or infringing upon the lawful rights and interests of others;\n(i) content containing other content prohibited by laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter V Telecommunications Security"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "No organisation or individual may commit any of the following acts endangering the security of telecommunications networks and information security:\n(a) deleting or modifying the functions of telecommunications networks or the data and application programs stored, processed or transmitted therein;\n(b) using telecommunications networks to engage in activities stealing or destroying the information of others or harming the lawful rights and interests of others;\n(c) intentionally creating, reproducing or disseminating computer viruses or otherwise attacking the telecommunications networks and other telecommunications facilities of others;\n(d) other acts endangering the security of telecommunications networks and information security."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter V Telecommunications Security"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "No organisation or individual may commit any of the following acts disrupting the order of the telecommunications market:\n(a) operating international telecommunications services or telecommunications services of the Hong Kong Special Administrative Region, the Macao Special Administrative Region and the Taiwan region without authorisation by leasing international dedicated telecommunications lines, privately installing switching equipment or by other means;\n(b) tapping the telecommunications lines of others, copying the telecommunications codes and numbers of others, or using telecommunications facilities or codes and numbers known to be tapped or copied;\n(c) forging or altering telephone cards and other various valuable vouchers for telecommunications services;\n(d) going through network access formalities with false or fraudulently used identity documents and using mobile telephones."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter V Telecommunications Security"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Telecommunications business operators shall, in accordance with the State provisions on telecommunications security, establish and improve internal security safeguard systems and implement a responsibility system for security safeguards."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter V Telecommunications Security"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "In the design, construction and operation of telecommunications networks, telecommunications business operators shall achieve simultaneous planning, simultaneous construction and simultaneous operation with the requirements of national security and telecommunications network security."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter V Telecommunications Security"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "In public information services, where a telecommunications business operator discovers that information transmitted in telecommunications networks clearly falls within the content listed in Article 56 of these Regulations, it shall immediately stop the transmission, preserve the relevant records and report to the relevant State authorities."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter V Telecommunications Security"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Telecommunications users are responsible for the content of the information transmitted using telecommunications networks and the consequences thereof.\nWhere the information transmitted by a telecommunications user using a telecommunications network is State secret information, confidentiality measures must be taken in accordance with the provisions of the Law on Guarding State Secrets."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter V Telecommunications Security"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "In the event of major natural disasters and other emergencies, the competent department of the information industry of the State Council may, with the approval of the State Council, use various telecommunications facilities to ensure the smoothness of important communications."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter V Telecommunications Security"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "International communications services carried out within the territory of the People's Republic of China must be conducted through international communication gateway stations established with the approval of the competent department of the information industry of the State Council.\nCommunications between the mainland of China and the Hong Kong Special Administrative Region, the Macao Special Administrative Region and the Taiwan region shall be handled by reference to the provisions of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter V Telecommunications Security"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "The freedom of telecommunications users to use telecommunications in accordance with law and the confidentiality of communications are protected by law. Except where the content of telecommunications is inspected by public security organs, State security organs or people's procuratorates in accordance with the procedures prescribed by law for the needs of national security or the investigation of criminal offences, no organisation or individual may inspect the content of telecommunications for any reason.\nTelecommunications business operators and their staff may not provide to others without authorisation the content of information transmitted by telecommunications users using telecommunications networks."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter V Telecommunications Security"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Whoever violates the provisions of Articles 56 and 57 of these Regulations and thereby constitutes a crime shall be pursued for criminal liability in accordance with law; where a crime is not constituted, the public security organ or the State security organ shall impose a penalty in accordance with the provisions of the relevant laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Whoever commits any of the acts listed in items (2), (3) and (4) of Article 58 of these Regulations and disrupts the order of the telecommunications market and thereby constitutes a crime shall be pursued for criminal liability in accordance with law; where a crime is not constituted, the competent department of the information industry of the State Council or the telecommunications administration body of the province, autonomous region or municipality directly under the Central Government shall, in accordance with its functions and powers, order correction, confiscate the unlawful gains and impose a fine of not less than three times but not more than five times the unlawful gains; where there are no unlawful gains or the unlawful gains are less than 10,000 yuan, a fine of not less than 10,000 yuan but not more than 100,000 yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "Whoever, in violation of the provisions of these Regulations, forges, fraudulently uses or transfers a telecommunications business operating licence or a telecommunications equipment network access licence, or fabricates the network access licence number marked on telecommunications equipment, shall be ordered to correct by the competent department of the information industry of the State Council or the telecommunications administration body of the province, autonomous region or municipality directly under the Central Government in accordance with its functions and powers, have its unlawful gains confiscated and be fined not less than three times but not more than five times the unlawful gains; where there are no unlawful gains or the unlawful gains are less than 10,000 yuan, a fine of not less than 10,000 yuan but not more than 100,000 yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "Whoever, in violation of the provisions of these Regulations, commits any of the following acts shall be ordered to correct by the competent department of the information industry of the State Council or the telecommunications administration body of the province, autonomous region or municipality directly under the Central Government in accordance with its functions and powers, have its unlawful gains confiscated and be fined not less than three times but not more than five times the unlawful gains; where there are no unlawful gains or the unlawful gains are less than 50,000 yuan, a fine of not less than 100,000 yuan but not more than 1,000,000 yuan shall be imposed; where the circumstances are serious, order suspension of business for rectification:\n(a) violating paragraph 3 of Article 7 of these Regulations or committing the act listed in item (1) of Article 58 of these Regulations by operating telecommunications services without authorisation, or operating telecommunications services beyond the permitted scope;\n(b) establishing international communication gateway stations to conduct international communications without the approval of the competent department of the information industry of the State Council;\n(c) using, transferring or leasing telecommunications resources without authorisation or changing the purpose of use of telecommunications resources;\n(d) interrupting interconnection or access services without authorisation;\n(e) refusing to perform the obligation of universal service."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "Whoever, in violation of the provisions of these Regulations, commits any of the following acts shall be ordered to correct by the competent department of the information industry of the State Council or the telecommunications administration body of the province, autonomous region or municipality directly under the Central Government in accordance with its functions and powers, have its unlawful gains confiscated and be fined not less than one time but not more than three times the unlawful gains; where there are no unlawful gains or the unlawful gains are less than 10,000 yuan, a fine of not less than 10,000 yuan but not more than 100,000 yuan shall be imposed; where the circumstances are serious, order suspension of business for rectification:\n(a) charging additional fees in violation of the provisions in interconnection between telecommunications networks;\n(b) failing to take effective measures to eliminate technical obstacles to inter-network communications;\n(c) providing to others without authorisation the content of information transmitted by telecommunications users using telecommunications networks;\n(d) refusing to pay telecommunications resource use fees in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "Whoever, in violation of the provisions of Article 41 of these Regulations, engages in unfair competition in telecommunications business operations shall be ordered to correct by the competent department of the information industry of the State Council or the telecommunications administration body of the province, autonomous region or municipality directly under the Central Government in accordance with its functions and powers and be fined not less than 100,000 yuan but not more than 1,000,000 yuan; where the circumstances are serious, order suspension of business for rectification."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "Whoever, in violation of the provisions of these Regulations, commits any of the following acts shall be ordered to correct by the competent department of the information industry of the State Council or the telecommunications administration body of the province, autonomous region or municipality directly under the Central Government in accordance with its functions and powers and be fined not less than 50,000 yuan but not more than 500,000 yuan; where the circumstances are serious, order suspension of business for rectification:\n(a) refusing a request for interconnection made by another telecommunications business operator;\n(b) refusing to implement an interconnection decision lawfully made by the competent department of the information industry of the State Council or the telecommunications administration body of the province, autonomous region or municipality directly under the Central Government;\n(c) providing interconnection to other telecommunications business operators at a service quality lower than that within its own network and that of its subsidiaries or branches."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "Whoever, in violation of the provisions of paragraph 1 of Article 33 and paragraph 2 of Article 39 of these Regulations, being a telecommunications business operator that refuses to provide telecommunications users free of charge with breakdowns of charges for domestic long-distance communications, international communications, mobile communications and information services, or that refuses to provide telecommunications users free of charge with the basis for local telephone charges when a telecommunications user has objections to the local telephone charges paid and makes a request, shall be ordered to correct by the telecommunications administration body of the province, autonomous region or municipality directly under the Central Government and shall apologise to the telecommunications user; where it refuses to correct and apologise, a warning shall be given and a fine of not less than 5,000 yuan but not more than 50,000 yuan shall be imposed concurrently."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "Whoever violates the provisions of Article 40 of these Regulations shall be ordered to correct by the telecommunications administration body of the province, autonomous region or municipality directly under the Central Government and shall apologise to the telecommunications user and compensate the telecommunications user for losses; where it refuses to correct and apologise and compensate for losses, a warning shall be given and a fine of not less than 10,000 yuan but not more than 100,000 yuan shall be imposed concurrently; where the circumstances are serious, order suspension of business for rectification."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "Whoever, in violation of the provisions of these Regulations, commits any of the following acts shall be ordered to correct by the telecommunications administration body of the province, autonomous region or municipality directly under the Central Government and be fined not less than 10,000 yuan but not more than 100,000 yuan:\n(a) selling telecommunications terminal equipment that has not obtained network access approval;\n(b) unlawfully preventing or obstructing a telecommunications business operator from providing public telecommunications services to telecommunications users;\n(c) altering or relocating the telecommunications lines and other telecommunications facilities of others without authorisation."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "Whoever, in violation of the provisions of these Regulations, lowers product quality and performance after obtaining a network access licence for telecommunications equipment shall be punished by the product quality supervision department in accordance with the provisions of the relevant laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "Where any of the prohibited acts listed in Articles 56, 57 and 58 of these Regulations is committed and the circumstances are serious, the original licensing authority shall revoke the telecommunications business operating licence.\nAfter revoking a telecommunications business operating licence, the competent department of the information industry of the State Council or the telecommunications administration body of the province, autonomous region or municipality directly under the Central Government shall notify the enterprise registration authority."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "Where staff of the competent department of the information industry of the State Council or of the telecommunications administration body of the province, autonomous region or municipality directly under the Central Government derelict their duty, abuse their power or engage in malpractice for personal gain and thereby constitute a crime, criminal liability shall be pursued in accordance with law; where a crime is not constituted, administrative sanctions shall be given in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "The specific measures for foreign organisations or individuals to invest in and operate telecommunications services within the territory of the People's Republic of China and for organisations or individuals of the Hong Kong Special Administrative Region, the Macao Special Administrative Region and the Taiwan region to invest in and operate telecommunications services in the mainland shall be formulated separately by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "These Regulations shall come into force on the date of promulgation.\nAppendix:\nCatalogue of the Classification of Telecommunications Services\nI. Basic telecommunications services\n(1) Fixed network domestic long-distance and local telephone services;\n(2) Mobile network telephone and data services;\n(3) Satellite communications and satellite mobile communications services;\n(4) Internet and other public data transmission services;\n(5) Leasing and sale of bandwidth, wavelength, optical fibre, optical cable, conduit and other network elements;\n(6) Network carriage, access and network outsourcing services;\n(7) International communications infrastructure and international telecommunications services;\n(8) Radio paging services;\n(9) Resold basic telecommunications services.\nServices under items (8) and (9) shall be administered by reference to value-added telecommunications services.\nII. Value-added telecommunications services\n(1) Electronic mail;\n(2) Voice mail;\n(3) Online information database storage and retrieval;\n(4) Electronic data interchange;\n(5) Online data processing and transaction processing;\n(6) Value-added facsimile;\n(7) Internet access services;\n(8) Internet information services;\n(9) Video telephone conferencing services."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
         }
       }
     ]
@@ -19611,6 +26994,837 @@
         },
         "noLabel": {
           "en": "Article 36."
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0487'] = {
+    "lawId": "CN-REG-0487",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 70 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Regulation is formulated in order to guarantee the quality and safety of important industrial products that have a direct bearing on public safety, human health and the safety of life and property, to implement the State industrial policy and to promote the sound and coordinated development of the socialist market economy."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The State applies the production licence system to enterprises producing the following important industrial products:\n(a) processed foods that have a direct bearing on human health, such as dairy products, meat products, beverages, rice, flour, edible oil and alcoholic beverages;\n(b) products that may endanger the safety of persons and property, such as electric blankets, pressure cookers and gas water heaters;\n(c) products related to financial security and the security of communications quality, such as tax-controlled cash registers, anti-counterfeiting banknote detectors, satellite television broadcasting ground receiving equipment and wireless broadcasting and television transmitting equipment;\n(d) products safeguarding labour safety, such as safety nets, safety helmets and building fasteners;\n(e) products affecting production safety and public safety, such as power transmission towers, bridge bearings, railway industrial products, hydraulic metal structures, and hazardous chemicals and their packaging and containers;\n(f) other products whose production licence administration is required by laws and administrative regulations in accordance with the provisions of this Regulation."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The catalogue of industrial products subject to the State production licence system (hereinafter referred to as the catalogue) shall be formulated by the competent department of the State Council for industrial product production licences together with the relevant departments of the State Council and, after soliciting the opinions of consumers' associations and the relevant product industry associations, shall be submitted to the State Council for approval and then announced to society.\nWhere the quality and safety of an industrial product can be effectively guaranteed through consumers' own judgement, enterprise self-discipline and market competition, the production licence system shall not be applied.\nWhere the quality and safety of an industrial product can be effectively guaranteed through the certification and accreditation system, the production licence system shall not be applied.\nThe competent department of the State Council for industrial product production licences shall, together with the relevant departments of the State Council, evaluate, adjust and gradually reduce the catalogue in good time and, after submitting it to the State Council for approval, announce it to society."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Those producing or selling products listed in the catalogue within the territory of the People's Republic of China, or using such products in business activities, shall comply with this Regulation.\nThe administration of the import and export of products listed in the catalogue shall be governed by laws, administrative regulations and the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "No enterprise may produce products listed in the catalogue without obtaining a production licence. No unit or individual may sell or use in business activities products listed in the catalogue for which no production licence has been obtained."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The competent department of the State Council for industrial product production licences shall, in accordance with this Regulation, be responsible for the unified administration of industrial product production licences throughout the country, and the competent departments for industrial product production licences at or above the county level shall be responsible for the administration of industrial product production licences within their respective administrative areas.\nFor industrial products subject to the industrial product production licence system, the State applies a unified catalogue, unified examination requirements, unified certificate marks and unified supervision and administration."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The administration of industrial product production licences shall follow the principles of being scientific and impartial, open and transparent, lawful in procedure and convenient and efficient."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The competent departments for industrial product production licences at or above the county level and their personnel, as well as inspection institutions and inspection personnel, shall be obliged to keep confidential the State secrets and trade secrets they learn of."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "To obtain a production licence, an enterprise shall meet the following conditions:\n(a) it has a business licence;\n(b) it has professional and technical personnel suited to the products produced;\n(c) it has production conditions and inspection and quarantine means suited to the products produced;\n(d) it has technical documents and process documents suited to the products produced;\n(e) it has sound and effective quality management and responsibility systems;\n(f) its products conform to the relevant national standards and industry standards and to the requirements for safeguarding human health and the safety of persons and property;\n(g) it conforms to the provisions of the State industrial policy and does not involve backward processes, high energy consumption, environmental pollution or waste of resources that are expressly eliminated by the State or in which investment and construction are prohibited.\nWhere laws and administrative regulations contain other provisions, those provisions shall also be complied with."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Application and Acceptance"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The competent department of the State Council for industrial product production licences shall, in accordance with the conditions prescribed in Article 9 of this Regulation and on the basis of the different characteristics of industrial products, formulate and issue the specific requirements for obtaining production licences for products listed in the catalogue; where special provisions need to be made on the specific requirements for production licences for products listed in the catalogue, they shall be formulated and issued together with the relevant departments of the State Council.\nIn formulating the specific requirements for production licences for products listed in the catalogue, the opinions of consumers' associations and the relevant product industry associations shall be solicited."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Application and Acceptance"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "An enterprise producing products listed in the catalogue shall apply to the competent department for industrial product production licences of the province, autonomous region or municipality directly under the Central Government at the place where the enterprise is located for a production licence.\nWhere a product being produced by an enterprise is listed in the catalogue, the enterprise shall apply for a production licence within the time limit prescribed by the competent department of the State Council for industrial product production licences.\nAn enterprise may submit its application by letter, telegram, telex, facsimile, electronic data interchange, electronic mail or other means."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Application and Acceptance"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "After receiving an enterprise's application, the competent department for industrial product production licences of the province, autonomous region or municipality directly under the Central Government shall handle it in accordance with the relevant provisions of the Administrative Licensing Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Application and Acceptance"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The competent department for industrial product production licences of the province, autonomous region or municipality directly under the Central Government and any other unit may not attach any additional conditions to restrict an enterprise from applying for a production licence."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Application and Acceptance"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "After accepting an enterprise's application, the competent department for industrial product production licences of the province, autonomous region or municipality directly under the Central Government shall organise an examination of the enterprise. Where, in accordance with the specific requirements for production licences for products listed in the catalogue, the examination of the enterprise is to be organised by the competent department of the State Council for industrial product production licences, the competent department for industrial product production licences of the province, autonomous region or municipality directly under the Central Government shall, within 5 days from the date of accepting the enterprise's application, submit all the application materials to the competent department of the State Council for industrial product production licences.\nThe examination of an enterprise includes an on-site verification of the enterprise and an inspection of its products."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter III Examination and Decision"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "For an on-site verification of an enterprise, the competent department of the State Council for industrial product production licences or the competent department for industrial product production licences of the province, autonomous region or municipality directly under the Central Government shall assign 2 to 4 verification personnel, and the enterprise shall cooperate."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Examination and Decision"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Verification personnel may engage in the corresponding verification work only after passing the assessment organised by the competent department of the State Council for industrial product production licences and obtaining a verification personnel certificate."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Examination and Decision"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Verification personnel shall conduct on-site verification of enterprises in accordance with the conditions prescribed in Article 9 of this Regulation and the specific requirements for production licences for products listed in the catalogue.\nIn conducting on-site verification of an enterprise, verification personnel may not create difficulties for the enterprise, may not demand or accept property from the enterprise and may not seek other improper benefits."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Examination and Decision"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The competent department of the State Council for industrial product production licences or the competent department for industrial product production licences of the province, autonomous region or municipality directly under the Central Government shall, within 30 days from the date of accepting an enterprise's application, inform the enterprise in writing of the result of the on-site verification. Where the verification fails, the reasons shall be stated."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Examination and Decision"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Where an enterprise passes the on-site verification, product inspection shall be carried out promptly. Where samples are to be submitted for inspection, the verification personnel shall seal the samples and inform the enterprise to deliver the samples to a qualified inspection institution within 7 days. Where on-site inspection is required, the verification personnel shall notify the inspection institution to conduct the on-site inspection."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Examination and Decision"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Inspection institutions shall conduct product inspection in accordance with the relevant national standards and requirements and complete the inspection work within the prescribed time.\nInspection institutions and inspection personnel shall issue inspection reports objectively, impartially and promptly. An inspection report shall be signed by the inspection personnel and then signed by the person in charge of the inspection institution. Inspection institutions and inspection personnel shall be responsible for their inspection reports."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Examination and Decision"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "In conducting product inspection, inspection institutions and inspection personnel shall follow the principle of good faith and the principle of convenience to enterprises, provide reliable and convenient inspection services to enterprises, and may not delay or create difficulties for enterprises."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Examination and Decision"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Inspection institutions and inspection personnel may not engage in production or sales activities related to the products listed in the catalogue that they inspect, and may not recommend, or supervise the production or sale of, in their own name the products listed in the catalogue that they inspect."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Examination and Decision"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where the examination of an enterprise is organised by the competent department for industrial product production licences of the province, autonomous region or municipality directly under the Central Government, that department shall, after completing the examination, submit the examination opinions and all the application materials to the competent department of the State Council for industrial product production licences."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Examination and Decision"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Within 60 days from the date of accepting an enterprise's application, the competent department of the State Council for industrial product production licences shall make a decision on whether to grant a licence; where it decides to grant a licence, it shall, within 10 days from the date of the decision, issue to the enterprise a certificate of industrial product production licence (hereinafter referred to as a licence certificate); where it decides not to grant a licence, it shall notify the enterprise in writing and state the reasons.\nThe time required by an inspection institution to carry out product inspection shall not be counted in the time limit prescribed in the preceding paragraph.\nThe competent department of the State Council for industrial product production licences shall promptly notify the development and reform department, the health department and other relevant departments of the State Council of its decisions to grant licences for the products concerned."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Examination and Decision"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "A production licence shall be valid for 5 years, except that a production licence for a food processing enterprise shall be valid for 3 years. Where a production licence expires and the enterprise continues production, it shall, 6 months before the expiry of the production licence, apply to the competent department for industrial product production licences of the province, autonomous region or municipality directly under the Central Government at the place where it is located for renewal of the licence. The competent department of the State Council for industrial product production licences or the competent department for industrial product production licences of the province, autonomous region or municipality directly under the Central Government shall examine the enterprise in accordance with the procedures prescribed in this Regulation."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Examination and Decision"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Where, during the period of validity of a production licence, the relevant standards or requirements for a product change, the competent department of the State Council for industrial product production licences or the competent department for industrial product production licences of the province, autonomous region or municipality directly under the Central Government may, in accordance with the provisions of this Regulation, organise verification and inspection anew.\nWhere, during the period of validity of a production licence, the production conditions, inspection means, production technology or processes of an enterprise change, the enterprise shall promptly apply to the competent department for industrial product production licences of the province, autonomous region or municipality directly under the Central Government at the place where it is located, and that department or the competent department of the State Council for industrial product production licences shall, in accordance with the provisions of this Regulation, organise verification and inspection anew."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Examination and Decision"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where the competent department of the State Council for industrial product production licences considers that a hearing is necessary for a major licensing matter involving the public interest, it shall announce the matter to society and hold a hearing.\nDecisions to grant licences made by the competent department of the State Council for industrial product production licences shall be announced to society.\nThe competent department of the State Council for industrial product production licences and the competent departments for industrial product production licences of provinces, autonomous regions and municipalities directly under the Central Government shall promptly file the materials relating to the handling of production licences, and the public has the right to consult them."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Examination and Decision"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "A licence certificate consists of an original and a copy. A licence certificate shall state the relevant particulars such as the name and domicile of the enterprise, the production address, the product name, the certificate number, the date of issue and the period of validity.\nThe format of licence certificates shall be prescribed by the competent department of the State Council for industrial product production licences."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Certificates and Marks"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Where the name of an enterprise changes, the enterprise shall promptly apply to the competent department for industrial product production licences of the province, autonomous region or municipality directly under the Central Government at the place where it is located and complete the formalities for the change."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Certificates and Marks"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "An enterprise shall keep its licence certificate properly. Where a licence certificate is lost or damaged, the enterprise shall apply for a replacement, and the competent department for industrial product production licences of the province, autonomous region or municipality directly under the Central Government at the place where the enterprise is located shall promptly accept the application and complete the replacement formalities."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Certificates and Marks"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where, during the period of validity of a production licence, an enterprise ceases to engage in the production of products listed in the catalogue, it shall complete the formalities for cancellation of the production licence. Where an enterprise fails to complete the formalities for cancellation, the competent department of the State Council for industrial product production licences shall cancel its production licence and announce the cancellation to society."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Certificates and Marks"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The mark and design of production licences shall be prescribed and announced by the competent department of the State Council for industrial product production licences."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Certificates and Marks"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "An enterprise must mark the production licence mark and number on its products, packaging or instructions.\nUnpackaged food and other unpackaged products for which marking is difficult in view of the characteristics of the products may be exempted from marking the production licence mark and number."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Certificates and Marks"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Enterprises that sell or use in business activities products listed in the catalogue shall verify the production licence mark and number of the products."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Certificates and Marks"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "No unit or individual may forge or alter licence certificates, production licence marks or numbers. Enterprises that have obtained production licences may not lease, lend or otherwise transfer their licence certificates or production licence marks."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Certificates and Marks"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The competent department of the State Council for industrial product production licences and the competent departments for industrial product production licences at or above the county level shall, in accordance with the provisions of this Regulation, be responsible for supervising and inspecting enterprises producing products listed in the catalogue and the related activities of verification personnel, inspection institutions and inspection personnel.\nThe competent department of the State Council for industrial product production licences shall supervise the administration of production licences by the competent departments for industrial product production licences at or above the county level."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Inspection"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The competent departments for industrial product production licences at or above the county level may, on the basis of evidence of suspected violations already obtained or on the basis of reports, investigate and deal with acts suspected of violating this Regulation and may exercise the following functions and powers:\n(a) to investigate and ascertain from the legal representatives, principal persons in charge and other relevant personnel of the units concerned producing or selling products listed in the catalogue or using them in business activities and of inspection institutions the circumstances of suspected activities in violation of this Regulation;\n(b) to consult and copy the relevant contracts, invoices, account books and other relevant materials of the units concerned producing or selling products listed in the catalogue or using them in business activities and of inspection institutions;\n(c) to seal up or seize products listed in the catalogue that are shown by evidence to have been produced or sold, or used in business activities, in violation of this Regulation."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Inspection"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Enterprises shall ensure that product quality remains stable and up to standard and shall periodically submit reports to the competent department for industrial product production licences of the province, autonomous region or municipality directly under the Central Government. Enterprises shall be responsible for the truthfulness of their reports."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Inspection"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The competent department of the State Council for industrial product production licences and the competent departments for industrial product production licences at or above the county level shall carry out regular or irregular supervision and inspection of enterprises. Where product inspection is required, it shall be carried out in accordance with the relevant provisions of the Product Quality Law of the People's Republic of China.\nSupervision and inspection or product inspection shall be carried out with the participation of not less than 2 staff members, who shall produce valid credentials."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Inspection"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "When the competent department of the State Council for industrial product production licences and the competent departments for industrial product production licences at or above the county level carry out supervision and inspection of enterprises, they may not hinder the normal production and business activities of the enterprises, and may not demand or accept property from the enterprises or seek other benefits."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Inspection"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "When the competent department of the State Council for industrial product production licences and the competent departments for industrial product production licences at or above the county level supervise and inspect enterprises in accordance with law, they shall record the supervision and inspection situation and the results of handling, and the records shall be signed by the supervision and inspection personnel and filed. The public has the right to consult the supervision and inspection records."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Inspection"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The competent department of the State Council for industrial product production licences shall, by consulting inspection reports, comparing inspection conclusions and other means, supervise and inspect whether the inspection process and inspection reports of inspection institutions are objective, impartial and timely."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Inspection"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where verification personnel, inspection institutions or inspection personnel create difficulties for an enterprise, the enterprise has the right to complain to the competent department of the State Council for industrial product production licences or the competent department for industrial product production licences at or above the county level. The department receiving the complaint shall promptly investigate and handle it."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Inspection"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Any unit or individual has the right to report acts violating this Regulation to the competent department of the State Council for industrial product production licences or the competent departments for industrial product production licences at or above the county level. The department receiving the report shall promptly investigate and handle it and shall keep the identity of the reporter confidential."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Inspection"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where an enterprise, without applying for and obtaining a production licence in accordance with the provisions of this Regulation, produces products listed in the catalogue without authorisation, the competent department for industrial product production licences shall order it to stop production, confiscate the illegally produced products and impose a fine of not less than the value of the illegally produced products and not more than 3 times that value; where there are illegal gains, the illegal gains shall be confiscated; where a crime is constituted, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where the production conditions, inspection means, production technology or processes of an enterprise that has obtained a production licence change and the enterprise fails to complete the formalities for re-examination in accordance with the provisions of this Regulation, it shall be ordered to stop production and sales, its illegally produced and sold products shall be confiscated and it shall be ordered to complete the relevant formalities within a time limit; where it still fails to do so at the expiry of the time limit, a fine of not more than 3 times the value of the illegally produced and sold products (including products already sold and not yet sold, the same below) shall be imposed; where there are illegal gains, the illegal gains shall be confiscated; where a crime is constituted, criminal liability shall be investigated in accordance with law.\nWhere the name of an enterprise that has obtained a production licence changes and the enterprise fails to complete the formalities for the change in accordance with the provisions of this Regulation, it shall be ordered to complete the relevant formalities within a time limit; where it still fails to do so at the expiry of the time limit, it shall be ordered to stop production and sales, its illegally produced and sold products shall be confiscated and a fine of not more than the value of the illegally produced and sold products shall be imposed; where there are illegal gains, the illegal gains shall be confiscated."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where an enterprise that has obtained a production licence fails to mark the production licence mark and number on its products, packaging or instructions in accordance with the provisions of this Regulation, it shall be ordered to make corrections within a time limit; where it still fails to do so at the expiry of the time limit, a fine of not more than 30 per cent of the value of the illegally produced and sold products shall be imposed; where there are illegal gains, the illegal gains shall be confiscated; where the circumstances are serious, its production licence shall be revoked."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Whoever sells or uses in business activities products listed in the catalogue for which no production licence has been obtained shall be ordered to make corrections and shall be fined not less than RMB 50,000 and not more than RMB 200,000; where there are illegal gains, the illegal gains shall be confiscated; where a crime is constituted, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where an enterprise that has obtained a production licence leases, lends or transfers its licence certificate, production licence mark or number, it shall be ordered to make corrections within a time limit and shall be fined not more than RMB 200,000; where the circumstances are serious, its production licence shall be revoked. Whoever unlawfully accepts and uses a licence certificate, production licence mark or number provided by another person shall be ordered to stop production and sales, its illegally produced and sold products shall be confiscated and it shall be fined not less than the value of the illegally produced and sold products and not more than 3 times that value; where there are illegal gains, the illegal gains shall be confiscated; where a crime is constituted, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Whoever without authorisation uses, exchanges, transfers or destroys property that has been sealed up or seized shall be ordered to make corrections and shall be fined not less than 5 per cent and not more than 20 per cent of the value of the property used, exchanged, transferred or destroyed; where corrections are refused, a fine of not less than 1 time and not more than 3 times the value of such property shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Whoever forges or alters a licence certificate, production licence mark or number shall be ordered to make corrections, the illegally produced and sold products shall be confiscated and a fine of not less than the value of the illegally produced and sold products and not more than 3 times that value shall be imposed; where there are illegal gains, the illegal gains shall be confiscated; where a crime is constituted, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where an enterprise obtains a production licence by improper means such as deception or bribery, the competent department for industrial product production licences shall impose a fine of not more than RMB 200,000 and shall deal with the matter in accordance with the relevant provisions of the Administrative Licensing Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where an enterprise that has obtained a production licence fails to periodically submit reports to the competent department for industrial product production licences of the province, autonomous region or municipality directly under the Central Government in accordance with the provisions of this Regulation, that department shall order it to make corrections within a time limit."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where a product for which a production licence has been obtained fails a national or provincial supervisory spot check of product quality, the competent department for industrial product production licences shall order correction within a time limit; where it still fails the re-inspection upon expiry of the time limit, the production licence shall be revoked."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where the production licence of an enterprise is revoked, the enterprise may not apply again for a production licence for the same product listed in the catalogue within 3 years."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where an inspection institution undertaking the inspection of products for which certificates are issued forges inspection conclusions or issues false certificates, the competent department for industrial product production licences shall order it to make corrections, impose a fine of not less than RMB 50,000 and not more than RMB 200,000 on the unit and a fine of not less than RMB 10,000 and not more than RMB 50,000 on the persons in charge who are directly responsible and other persons who are directly responsible; where there are illegal gains, the illegal gains shall be confiscated; where the circumstances are serious, its inspection qualification shall be revoked; where a crime is constituted, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where inspection institutions or inspection personnel engage in production or sales activities related to the products listed in the catalogue that they inspect, or recommend, or supervise the production or sale of, in their own name the products listed in the catalogue that they inspect, the competent department for industrial product production licences shall impose a fine of not less than RMB 20,000 and not more than RMB 100,000; where there are illegal gains, the illegal gains shall be confiscated; where the circumstances are serious, their inspection qualification shall be revoked."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where inspection institutions or inspection personnel create difficulties for enterprises by taking advantage of inspection work, the competent department for industrial product production licences shall order them to make corrections; where corrections are refused, their inspection qualification shall be revoked."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where a competent department for industrial product production licences at or above the county level, in violation of the provisions of this Regulation, sets production licence requirements for industrial products other than those listed in the catalogue, the competent department of the State Council for industrial product production licences shall order it to make corrections or shall revoke the requirements in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Where the competent departments for industrial product production licences and their staff violate the provisions of this Regulation and fall under any of the following circumstances, the administrative organ at the higher level or the supervisory organ shall order correction; where the circumstances are serious, administrative sanctions shall be imposed in accordance with law on the persons in charge who are directly responsible and other persons who are directly responsible:\n(a) refusing to accept an application that meets the conditions prescribed in this Regulation;\n(b) failing to make public in the office premises the materials that should be made public in accordance with law;\n(c) failing to perform the statutory duty of informing the applicant or the interested parties in the course of acceptance, examination and decision;\n(d) failing to inform the applicant at one time of all the contents that must be supplemented or corrected where the application materials submitted are incomplete or do not conform to the statutory form;\n(e) failing to state the reasons for not accepting an application or not granting a licence in accordance with law;\n(f) failing to hold a hearing that should be held in accordance with this Regulation and the Administrative Licensing Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where the staff of the competent departments for industrial product production licences, in handling industrial product production licences or carrying out supervision and inspection, demand or accept property from others or seek other benefits and a crime is constituted, criminal liability shall be investigated in accordance with law; where a crime is not constituted, administrative sanctions shall be imposed in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Where the competent departments for industrial product production licences fall under any of the following circumstances, the administrative organ at the higher level, the supervisory organ or the relevant organ shall order correction and deal with the matter in accordance with law; administrative sanctions of demotion or removal from office shall be imposed in accordance with law on the persons in charge who are directly responsible and other persons who are directly responsible; where a crime is constituted, criminal liability shall be investigated in accordance with law:\n(a) granting a licence to an applicant who does not meet the conditions prescribed in this Regulation, or making a decision to grant a licence beyond the statutory functions and powers;\n(b) refusing to grant a licence to an applicant who meets the conditions prescribed in this Regulation, or failing to make a decision to grant a licence within the statutory time limit;\n(c) failing to promptly investigate and deal with, in accordance with law, the production of products listed in the catalogue without authorisation, where it is discovered that no production licence has been applied for and obtained in accordance with the provisions of this Regulation;\n(d) failing to promptly investigate and deal with, in accordance with law, inspection reports or inspection conclusions of inspection institutions that are seriously inconsistent with the facts, where such inconsistency is discovered;\n(e) arbitrarily imposing charges in violation of laws, administrative regulations or the provisions of this Regulation."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Where a competent department for industrial product production licences unlawfully implements licensing and causes harm to the lawful rights and interests of a party, it shall pay compensation in accordance with the provisions of the State Compensation Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Where a competent department for industrial product production licences fails to perform its supervisory duties in accordance with law or its supervision is ineffective, thereby causing serious consequences, the administrative organ at the higher level or the supervisory organ shall order correction, and administrative sanctions shall be imposed in accordance with law on the persons in charge who are directly responsible and other persons who are directly responsible; where a crime is constituted, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "The administrative penalty of revoking a production licence prescribed in this Regulation shall be decided by the competent department for industrial product production licences. The competent department for industrial product production licences shall promptly notify the development and reform department, the health department and other relevant departments of the decision on the administrative penalty of revoking the production licence for the product concerned.\nWhere laws or administrative regulations provide otherwise on the organ exercising the power to impose administrative penalties, the provisions of the relevant laws and administrative regulations shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Where laws or administrative regulations provide otherwise on the administration of industrial products, those provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "The charging items for the handling of industrial product production licences by the competent department of the State Council for industrial product production licences and the competent departments for industrial product production licences of provinces, autonomous regions and municipalities directly under the Central Government shall be governed by the relevant provisions of the finance department and the pricing department of the State Council, and the charging rates for industrial product production licences shall be governed by the relevant provisions of the pricing department and the finance department of the State Council, and shall be open and transparent; the fees collected must all be turned over to the State treasury and may not be withheld, misappropriated, privately distributed or distributed privately in disguised form. The finance department may not return, in any form or in disguised form, the fees collected."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "Where necessary, the competent departments for industrial product production licences of provinces, autonomous regions and municipalities directly under the Central Government may be responsible for the examination and issuance of production licences for some of the products listed in the catalogue; the specific measures shall be formulated separately by the competent department of the State Council for industrial product production licences."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "Where individual industrial and commercial households produce or sell products listed in the catalogue, the provisions of this Regulation shall apply."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "This Regulation shall come into force on 1 September 2005. The Trial Regulation on Industrial Product Production Licences promulgated by the State Council on 7 April 1984 shall be repealed at the same time."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
         }
       }
     ]

@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p05
-   法规 69 部 / 译文 3925 条
+   法规 71 部 / 译文 4129 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -14315,6 +14315,1224 @@
     ]
   };
 
+  TR['CN-LAW-0310'] = {
+    "lawId": "CN-LAW-0310",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 103 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "In order to ensure that the people's courts hear administrative cases fairly and promptly, resolve administrative disputes, protect the lawful rights and interests of citizens, legal persons and other organisations, and supervise the lawful exercise of powers by administrative organs, this Law is enacted in accordance with the Constitution."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where a citizen, legal person or other organisation considers that an administrative act of an administrative organ or of its staff members infringes upon his or its lawful rights and interests, he or it shall have the right to institute an action before a people's court in accordance with this Law.\nThe administrative acts referred to in the preceding paragraph include administrative acts made by organisations authorised by laws, regulations and rules."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "People's courts shall safeguard the right of citizens, legal persons and other organisations to institute actions, and shall in accordance with law accept administrative cases that ought to be accepted.\nAdministrative organs and their staff members may not interfere with or obstruct the acceptance of administrative cases by people's courts.\nThe person in charge of the administrative organ against which the action is brought shall appear in court to respond to the action. Where he or she is unable to appear in court, a corresponding staff member of the administrative organ shall be entrusted to appear in court."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "People's courts shall exercise judicial power independently in administrative cases in accordance with law, and shall be free from interference by administrative organs, public organisations and individuals.\nPeople's courts shall establish administrative tribunals to hear administrative cases."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "People's courts shall, in hearing administrative cases, take facts as the basis and law as the criterion."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "People's courts shall, in hearing administrative cases, review the legality of administrative acts."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "People's courts shall, in hearing administrative cases, apply in accordance with law the systems of collegial panel, withdrawal, open trial and final judgment upon the second instance."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The parties shall have equal legal status in administrative litigation."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Citizens of all ethnic groups shall have the right to conduct administrative litigation in the spoken and written languages of their respective ethnic groups.\nIn areas where ethnic minorities live in concentrated communities or where multiple ethnic groups live together, people's courts shall conduct hearings and issue legal documents in the spoken and written languages commonly used by the local ethnic groups.\nPeople's courts shall provide interpretation for participants in litigation who do not have a command of the spoken and written languages commonly used by the local ethnic groups."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The parties shall have the right to debate in administrative litigation."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "People's procuratorates shall have the right to exercise legal supervision over administrative litigation."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "People's courts shall accept the following actions instituted by citizens, legal persons or other organisations:\n(a) actions against administrative penalties such as administrative detention, temporary suspension or revocation of permits and licences, orders to suspend production or business, confiscation of illegal gains, confiscation of illegal property, fines and warnings;\n(b) actions against administrative compulsory measures and administrative compulsory enforcement such as restriction of personal freedom, and sealing up, distraint or freezing of property;\n(c) actions against the refusal of an administrative organ to grant an administrative licence, its failure to reply within the statutory time limit, or other decisions made by an administrative organ in respect of an administrative licence;\n(d) actions against decisions made by administrative organs on the ownership or right of use of natural resources such as land, mineral resources, waters, forests, mountain ridges, grasslands, wasteland, tidal flats and sea areas;\n(e) actions against decisions on expropriation or requisition and decisions on compensation therefor;\n(f) actions against the refusal of an administrative organ to perform its statutory duty to protect personal rights, property rights and other lawful rights and interests upon application, or its failure to reply to such application;\n(g) actions claiming that an administrative organ has infringed upon one's operational autonomy, or upon rural land contractual management rights or rural land operating rights;\n(h) actions claiming that an administrative organ has abused administrative power to exclude or restrict competition;\n(i) actions claiming that an administrative organ has unlawfully raised funds, apportioned expenses or unlawfully required the performance of other obligations;\n(j) actions claiming that an administrative organ has failed to pay, in accordance with law, pensions, minimum living security benefits or social insurance benefits;\n(k) actions claiming that an administrative organ has failed to perform in accordance with law, has failed to perform as agreed, or has unlawfully modified or rescinded agreements such as government concession agreements and compensation agreements for the expropriation of land and housing;\n(l) actions claiming that an administrative organ has infringed upon other lawful rights and interests such as personal rights and property rights.\nIn addition to the provisions of the preceding paragraph, people's courts shall accept other administrative cases in respect of which laws and regulations provide that an action may be instituted."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Scope of Cases Accepted"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "People's courts shall not accept actions instituted by citizens, legal persons or other organisations in respect of the following matters:\n(a) acts of State such as national defence and foreign affairs;\n(b) administrative regulations, rules, and decisions and orders with general binding force formulated and issued by administrative organs;\n(c) decisions of administrative organs on rewards and punishments, appointment and removal of their staff members;\n(d) administrative acts that are subject to the final ruling of administrative organs as provided by law."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Scope of Cases Accepted"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Basic-level people's courts shall have jurisdiction over administrative cases of first instance."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter III Jurisdiction"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Intermediate people's courts shall have jurisdiction over the following administrative cases of first instance:\n(a) cases instituted against administrative acts made by departments of the State Council or by local people's governments at or above the county level;\n(b) cases handled by customs;\n(c) major and complex cases within their respective jurisdictions;\n(d) other cases over which intermediate people's courts have jurisdiction as provided by law."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Jurisdiction"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Higher people's courts shall have jurisdiction over major and complex administrative cases of first instance within their respective jurisdictions."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Jurisdiction"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The Supreme People's Court shall have jurisdiction over major and complex administrative cases of first instance throughout the country."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Jurisdiction"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "An administrative case shall be under the jurisdiction of the people's court in the place where the administrative organ that originally made the administrative act is located. A case that has undergone administrative reconsideration may also be under the jurisdiction of the people's court in the place where the reconsideration organ is located.\nWith the approval of the Supreme People's Court, a higher people's court may, in light of the actual circumstances of adjudication work, designate a number of people's courts to exercise cross-administrative-region jurisdiction over administrative cases."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Jurisdiction"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "An action against an administrative compulsory measure restricting personal freedom shall be under the jurisdiction of the people's court in the place where the defendant or the plaintiff is located."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Jurisdiction"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "An administrative action instituted in respect of immovable property shall be under the jurisdiction of the people's court in the place where the immovable property is located."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Jurisdiction"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where two or more people's courts have jurisdiction over a case, the plaintiff may choose to institute the action in one of them. Where the plaintiff institutes actions in two or more people's courts with jurisdiction, the case shall be under the jurisdiction of the people's court that first dockets it."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Jurisdiction"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Where a people's court finds that a case it has accepted is not within its jurisdiction, it shall transfer the case to the people's court with jurisdiction, and the people's court to which the case is transferred shall accept it. Where the people's court to which the case is transferred considers that, in accordance with provisions, the transferred case is not within its jurisdiction, it shall request the people's court at the next higher level to designate jurisdiction, and may not transfer the case again on its own."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Jurisdiction"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where a people's court with jurisdiction is unable to exercise jurisdiction for special reasons, jurisdiction shall be designated by the people's court at the next higher level.\nWhere a dispute arises between people's courts over jurisdiction, it shall be resolved through consultation between the two disputing parties. If consultation fails, the matter shall be reported to their common people's court at the next higher level for designation of jurisdiction."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Jurisdiction"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "A people's court at a higher level shall have the power to hear administrative cases of first instance over which a people's court at a lower level has jurisdiction.\nWhere a people's court at a lower level considers that an administrative case of first instance under its jurisdiction needs to be heard by, or jurisdiction over it needs to be designated by, a people's court at a higher level, it may report the matter to the people's court at the higher level for decision."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Jurisdiction"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The counterpart of an administrative act and other citizens, legal persons or organisations whose interests are affected by the administrative act shall have the right to institute an action.\nWhere a citizen with the right to institute an action dies, his or her close relatives may institute the action.\nWhere a legal person or other organisation with the right to institute an action terminates, the legal person or other organisation that succeeds to its rights may institute the action.\nWhere a people's procuratorate, in the course of performing its duties, finds that an administrative organ with supervisory and administrative responsibilities in fields such as protection of the ecological environment and resources, food and drug safety, protection of State-owned property, and assignment of the right to use State-owned land has unlawfully exercised its powers or failed to act, thereby infringing upon national interests or public interests, it shall issue a procuratorial recommendation to the administrative organ urging it to perform its duties in accordance with law. Where the administrative organ fails to perform its duties in accordance with law, the people's procuratorate shall institute an action before a people's court in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter IV Participants in Litigation"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Where a citizen, legal person or other organisation directly institutes an action before a people's court, the administrative organ that made the administrative act shall be the defendant.\nIn a case that has undergone administrative reconsideration, where the reconsideration organ decides to uphold the original administrative act, the administrative organ that made the original administrative act and the reconsideration organ shall be co-defendants; where the reconsideration organ alters the original administrative act, the reconsideration organ shall be the defendant.\nWhere the reconsideration organ fails to make a reconsideration decision within the statutory time limit, and the citizen, legal person or other organisation institutes an action against the original administrative act, the administrative organ that made the original administrative act shall be the defendant; where the action is instituted against the inaction of the reconsideration organ, the reconsideration organ shall be the defendant.\nWhere two or more administrative organs make the same administrative act, the administrative organs that made the act jointly shall be co-defendants.\nWhere an administrative act is made by an organisation entrusted by an administrative organ, the entrusting administrative organ shall be the defendant.\nWhere an administrative organ is dissolved or its functions and powers are changed, the administrative organ that continues to exercise its functions and powers shall be the defendant."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Participants in Litigation"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where one or both parties consist of two or more persons, and the administrative cases arise from the same administrative act, or arise from administrative acts of the same kind and the people's court considers that they may be joined for hearing and the parties agree, the actions shall be joint actions."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Participants in Litigation"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "In a joint action in which one party consists of a large number of persons, the parties may elect representatives to conduct the litigation. The litigation acts of a representative shall be effective against the parties he or she represents, but the modification or waiver of claims, or the acknowledgement of the claims of the opposing party, by a representative shall be subject to the consent of the parties he or she represents."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Participants in Litigation"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Where a citizen, legal person or other organisation has an interest in the administrative act against which an action is brought but has not instituted an action, or has an interest in the outcome of the case, it may apply to participate in the litigation as a third party, or may be notified by the people's court to participate in the litigation.\nWhere a people's court, in its judgment, imposes obligations on a third party or diminishes the rights and interests of a third party, the third party shall have the right to appeal in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Participants in Litigation"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "A citizen without the capacity to litigate shall be represented in litigation by his or her legal representative. Where the legal representatives decline to act for one another, the people's court shall designate one of them to act as representative in the litigation."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Participants in Litigation"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The parties and their legal representatives may entrust one or two persons to act as agents ad litem.\nThe following persons may be entrusted to act as agents ad litem:\n(a) lawyers and grassroots legal service workers;\n(b) close relatives or staff members of the parties;\n(c) citizens recommended by the community or the work unit in which the party is located, or by the relevant public organisation."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Participants in Litigation"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "A lawyer acting as agent ad litem shall have the right, in accordance with provisions, to consult and copy the materials relating to the case, and to investigate before the relevant organisations and citizens and collect evidence relating to the case. Materials involving State secrets, commercial secrets and personal privacy shall be kept confidential in accordance with the provisions of law.\nThe parties and other agents ad litem shall have the right, in accordance with provisions, to consult and copy the court hearing materials of the case, except for content involving State secrets, commercial secrets and personal privacy."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Participants in Litigation"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Evidence shall include:\n(a) documentary evidence;\n(b) material evidence;\n(c) audio-visual materials;\n(d) electronic data;\n(e) testimony of witnesses;\n(f) statements of the parties;\n(g) expert opinions;\n(h) records of inspection and records of the scene.\nThe above evidence may serve as the basis for determining the facts of a case only after it has been verified as true through examination by the court."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter V Evidence"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The defendant shall bear the burden of proof in respect of the administrative act it has made, and shall provide the evidence on which the administrative act was based and the normative documents relied upon.\nWhere the defendant fails to provide evidence, or provides evidence beyond the time limit without justified reasons, it shall be deemed that there is no corresponding evidence. However, where the administrative act against which the action is brought involves the lawful rights and interests of a third party and the third party provides evidence, this shall be an exception."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter V Evidence"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "During the course of litigation, the defendant and its agents ad litem may not, on their own, collect evidence from the plaintiff, third parties and witnesses."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter V Evidence"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Where the defendant has already collected evidence when making the administrative act but is unable to provide it for justified reasons such as force majeure, it may, with the permission of the people's court, provide the evidence after the time limit.\nWhere the plaintiff or a third party raises reasons or evidence that were not raised in the administrative handling procedure, the defendant may, with the permission of the people's court, supplement the evidence."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter V Evidence"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The plaintiff may provide evidence to prove that the administrative act is unlawful. Where the evidence provided by the plaintiff does not hold, the defendant's burden of proof shall not be exempted."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter V Evidence"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "In a case instituted against the failure of the defendant to perform its statutory duty, the plaintiff shall provide evidence that it has made an application to the defendant, except under any of the following circumstances:\n(a) the defendant ought, by virtue of its functions and powers, to perform its statutory duty on its own initiative;\n(b) the plaintiff is unable to provide evidence for justified reasons.\nIn cases of administrative compensation or administrative reparation, the plaintiff shall provide evidence of the damage caused by the administrative act. Where the plaintiff is unable to adduce evidence for reasons attributable to the defendant, the defendant shall bear the burden of proof."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V Evidence"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "A people's court shall have the power to require the parties to provide or supplement evidence."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V Evidence"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "A people's court shall have the power to collect evidence from the relevant administrative organs, other organisations and citizens. However, it may not collect, for the purpose of proving the legality of an administrative act, evidence that was not collected by the defendant at the time the administrative act was made."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter V Evidence"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where the plaintiff or a third party is unable to collect the following evidence relating to the case on its own, it may apply to the people's court to collect it:\n(a) evidence kept by a State organ that must be collected by the people's court;\n(b) evidence involving State secrets, commercial secrets and personal privacy;\n(c) other evidence that cannot be collected on its own for objective reasons."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter V Evidence"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where evidence may be destroyed or is difficult to obtain later, a participant in the litigation may apply to the people's court for preservation of the evidence, and the people's court may also take preservation measures on its own initiative."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter V Evidence"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Evidence shall be presented in court and cross-examined by the parties. Evidence involving State secrets, commercial secrets and personal privacy may not be presented at an open hearing.\nA people's court shall, in accordance with statutory procedure, examine and verify evidence comprehensively and objectively. Reasons shall be stated in the judicial document for evidence not admitted.\nEvidence obtained by unlawful means may not serve as the basis for determining the facts of a case."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter V Evidence"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "For an administrative case within the scope of cases accepted by people's courts, a citizen, legal person or other organisation may first apply to an administrative organ for reconsideration and, if dissatisfied with the reconsideration decision, institute an action before a people's court; or it may directly institute an action before a people's court.\nWhere laws or regulations provide that an application for reconsideration shall first be made to an administrative organ and that, if dissatisfied with the reconsideration decision, an action may then be instituted before a people's court, those provisions shall be followed."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VI Institution and Acceptance of Actions"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where a citizen, legal person or other organisation is dissatisfied with a reconsideration decision, it may institute an action before a people's court within 15 days from the date of receipt of the reconsideration decision. Where the reconsideration organ fails to make a decision within the time limit, the applicant may institute an action before a people's court within 15 days from the date of expiry of the reconsideration period. Except as otherwise provided by law."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VI Institution and Acceptance of Actions"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where a citizen, legal person or other organisation directly institutes an action before a people's court, it shall do so within 6 months from the date on which it knows or ought to have known of the making of the administrative act, except as otherwise provided by law.\nWhere an action is instituted in respect of immovable property more than 20 years after the administrative act was made, or where any other action is instituted more than 5 years after the administrative act was made, the people's court shall not accept it."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VI Institution and Acceptance of Actions"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where a citizen, legal person or other organisation applies to an administrative organ to perform its statutory duty to protect personal rights, property rights and other lawful rights and interests, and the administrative organ fails to perform within 2 months from the date of receipt of the application, the citizen, legal person or other organisation may institute an action before a people's court. Where laws or regulations provide otherwise for the time limit within which an administrative organ shall perform its duties, those provisions shall prevail.\nWhere a citizen, legal person or other organisation, in an emergency, requests an administrative organ to perform its statutory duty to protect personal rights, property rights and other lawful rights and interests and the administrative organ fails to perform, the institution of an action shall not be subject to the time limit provided in the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VI Institution and Acceptance of Actions"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where a citizen, legal person or other organisation delays in meeting the time limit for instituting an action due to force majeure or other reasons not attributable to itself, the time delayed shall not be counted within the time limit for instituting the action.\nWhere a citizen, legal person or other organisation delays in meeting the time limit for instituting an action due to other special circumstances than those provided in the preceding paragraph, it may, within 10 days after the obstacle is removed, apply for an extension of the time limit; whether to grant the extension shall be decided by the people's court."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VI Institution and Acceptance of Actions"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "The institution of an action shall meet the following conditions:\n(a) the plaintiff is a citizen, legal person or other organisation that conforms to the provisions of Article 25 of this Law;\n(b) there is a definite defendant;\n(c) there are specific claims and factual grounds;\n(d) the case is within the scope of cases accepted by people's courts and within the jurisdiction of the people's court before which the action is instituted."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VI Institution and Acceptance of Actions"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "An action shall be instituted by submitting a statement of complaint to a people's court, together with copies in the number of defendants.\nWhere there is genuine difficulty in writing a statement of complaint, the action may be instituted orally, and the people's court shall record it in writing, issue a written document stating the date, and inform the opposing party."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VI Institution and Acceptance of Actions"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where, upon receipt of a statement of complaint, a people's court finds that the conditions for instituting an action provided by this Law are met, it shall docket the case.\nWhere it is impossible to determine on the spot whether the conditions for instituting an action provided by this Law are met, the statement of complaint shall be received, a written document stating the date of receipt shall be issued, and a decision on whether to docket the case shall be made within 7 days. Where the conditions for instituting an action are not met, a ruling not to docket the case shall be made. The ruling shall state the reasons for not docketing the case. Where the plaintiff is dissatisfied with the ruling, it may appeal.\nWhere the contents of the statement of complaint are incomplete or there are other errors, guidance and explanation shall be given, and the party shall be informed at one time of the contents that need to be supplemented or corrected. The statement of complaint may not be refused on the ground that the conditions for instituting an action are not met without prior guidance and explanation.\nWhere a statement of complaint is refused, or is received without a written document being issued, or the party is not informed at one time of the contents of the statement of complaint that need to be supplemented or corrected, the party may complain to the people's court at the next higher level, and the people's court at the next higher level shall order correction and, in accordance with law, impose sanctions on the persons directly in charge and the other persons directly responsible."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VI Institution and Acceptance of Actions"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where a people's court neither dockets a case nor makes a ruling not to docket it, the party may institute an action before the people's court at the next higher level. Where the people's court at the next higher level considers that the conditions for instituting an action are met, it shall docket and hear the case, or may designate another people's court at a lower level to docket and hear the case."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VI Institution and Acceptance of Actions"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where a citizen, legal person or other organisation considers that a normative document formulated by a department of the State Council or by a local people's government or its department, on which an administrative act is based, is unlawful, it may, when instituting an action against the administrative act, concurrently request a review of the normative document.\nThe normative documents referred to in the preceding paragraph do not include rules."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VI Institution and Acceptance of Actions"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "People's courts shall hear administrative cases in public, except where State secrets or personal privacy is involved or where laws provide otherwise.\nIn a case involving commercial secrets, where a party applies for a hearing in camera, the case may be heard in camera."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where a party considers that a judicial officer has an interest in the case or has other relations with the case that may affect the fair adjudication of the case, it shall have the right to apply for the withdrawal of the judicial officer.\nWhere a judicial officer considers that he or she has an interest in the case or has other relations with the case, he or she shall apply for withdrawal.\nThe provisions of the preceding two paragraphs shall apply to court clerks, interpreters, expert witnesses and inspectors.\nWhere the president of a court acts as the presiding judge, his or her withdrawal shall be decided by the judicial committee; the withdrawal of judicial officers shall be decided by the president; the withdrawal of other personnel shall be decided by the presiding judge. Where a party is dissatisfied with the decision, it may apply for reconsideration once."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "During the period of litigation, the execution of the administrative act shall not be suspended. However, execution shall be ruled to be suspended under any of the following circumstances:\n(a) the defendant considers that suspension of execution is necessary;\n(b) the plaintiff or an interested party applies for suspension of execution, and the people's court considers that execution of the administrative act would cause irreparable loss and that suspension of execution would not harm national interests or public interests;\n(c) the people's court considers that execution of the administrative act would cause major harm to national interests or public interests;\n(d) laws or regulations provide for suspension of execution.\nWhere a party is dissatisfied with a ruling on suspension or non-suspension of execution, it may apply for reconsideration once."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "In a case instituted against an administrative organ for failing to pay, in accordance with law, pensions, minimum living security benefits, and work-related injury and medical social insurance benefits, where the relationship of rights and obligations is clear and failure to order advance execution would seriously affect the plaintiff's livelihood, the people's court may, upon application of the plaintiff, rule for advance execution.\nWhere a party is dissatisfied with a ruling on advance execution, it may apply for reconsideration once. Reconsideration shall not suspend the execution of the ruling."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where the plaintiff, having been summoned by summons of the people's court, refuses to appear in court without justified reasons, or withdraws from court midway through the hearing without the permission of the court, the case may be treated as withdrawn; where the defendant refuses to appear in court without justified reasons, or withdraws from court midway through the hearing without the permission of the court, a judgment by default may be made."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where a participant in the litigation or any other person commits any of the following acts, the people's court may, in light of the seriousness of the circumstances, admonish the person, order the person to sign a statement of repentance, or impose a fine of not more than 10,000 yuan or detention of not more than 15 days; where the act constitutes a crime, criminal liability shall be pursued in accordance with law:\n(a) a person obliged to assist in investigation or execution who, without justification, delays, refuses or obstructs investigation or execution in response to a decision of the people's court on assisting investigation or a notice of assisting execution;\n(b) forging, concealing or destroying evidence, or providing false supporting materials, thereby obstructing the people's court in hearing a case;\n(c) instigating, bribing or coercing another person to commit perjury, or threatening or preventing a witness from testifying;\n(d) concealing, transferring, selling or damaging property that has been sealed up, distrained or frozen;\n(e) causing the plaintiff to withdraw an action by unlawful means such as deception or coercion;\n(f) obstructing staff members of the people's court in performing their duties by violence, threats or other means, or disrupting the working order of the people's court by making an uproar, storming the court or other means;\n(g) intimidating, insulting, slandering, falsely accusing, assaulting, besieging or retaliating against judicial officers or other staff members of the people's court, participants in the litigation, or persons assisting in investigation and execution.\nWhere an organisation commits any of the acts provided in the preceding paragraph, the people's court may, in accordance with the preceding paragraph, impose a fine or detention on its principal person in charge or the persons directly responsible; where the act constitutes a crime, criminal liability shall be pursued in accordance with law.\nA fine or detention shall be subject to the approval of the president of the people's court. Where a party is dissatisfied, it may apply to the people's court at the next higher level for reconsideration once. Reconsideration shall not suspend execution."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "People's courts shall not apply mediation in hearing administrative cases. However, mediation may be applied in cases of administrative compensation or administrative reparation and in cases concerning the exercise by administrative organs of discretion provided by laws and regulations.\nMediation shall be conducted in accordance with the principles of voluntariness and legality, and may not harm national interests, public interests or the lawful rights and interests of others."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "In an administrative action involving administrative licensing, registration, expropriation, requisition or an adjudication made by an administrative organ on a civil dispute, where a party applies for the concurrent resolution of the related civil dispute, the people's court may hear them together.\nIn an administrative action, where the people's court considers that the hearing of the administrative case needs to be based on the judgment in a civil action, it may rule to suspend the administrative action."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Where, before a people's court pronounces a judgment or makes a ruling on an administrative case, the plaintiff applies to withdraw the action, or the defendant alters the administrative act it made and the plaintiff agrees and applies to withdraw the action, whether to grant permission shall be ruled on by the people's court."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "People's courts shall, in hearing administrative cases, take laws, administrative regulations and local regulations as the basis. Local regulations shall apply to administrative cases occurring within the respective administrative region.\nIn hearing administrative cases in ethnic autonomous areas, people's courts shall also take the autonomous regulations and separate regulations of those ethnic autonomous areas as the basis.\nPeople's courts shall, in hearing administrative cases, refer to rules."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Where, in hearing an administrative case, a people's court finds upon review that a normative document provided in Article 53 of this Law is unlawful, it shall not take it as the basis for determining an administrative act to be lawful, and shall put forward suggestions for handling to the organ that formulated it."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "People's courts shall make public the judgments and rulings that have taken legal effect for public inspection, except for content involving State secrets, commercial secrets and personal privacy."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Where, in hearing an administrative case, a people's court considers that the persons in charge or the persons directly responsible in an administrative organ have acted unlawfully or breached discipline, it shall transfer the relevant materials to the supervisory organ, that administrative organ or the administrative organ at the next higher level; where it considers that a criminal act has been committed, it shall transfer the relevant materials to the public security or procuratorial organ.\nWhere the defendant, having been summoned by summons, refuses to appear in court without justified reasons, or withdraws from court midway through the hearing without the permission of the court, the people's court may make public the circumstances of the defendant's refusal to appear or withdrawal from court, and may put forward judicial suggestions to the supervisory organ or to the administrative organ at the next higher level that sanctions be imposed in accordance with law on its principal person in charge or the persons directly responsible."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "A people's court shall, within 5 days from the date of docketing the case, send a copy of the statement of complaint to the defendant. The defendant shall, within 15 days from the date of receipt of the copy of the statement of complaint, submit to the people's court the evidence for the administrative act and the normative documents relied upon, and submit a statement of defence. The people's court shall, within 5 days from the date of receipt of the statement of defence, send a copy of the statement of defence to the plaintiff.\nFailure of the defendant to submit a statement of defence shall not affect the hearing of the case by the people's court."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Section 2 Ordinary Procedure of First Instance"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "People's courts shall, in hearing administrative cases, form a collegial panel composed of judicial officers, or a collegial panel composed of judicial officers and people's assessors. The members of a collegial panel shall be an odd number of three or more."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Section 2 Ordinary Procedure of First Instance"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "Where the evidence for an administrative act is conclusive, the application of laws and regulations is correct and statutory procedure is complied with, or where the grounds for the plaintiff's application that the defendant perform its statutory duty or perform its obligation of payment do not hold, the people's court shall make a judgment dismissing the plaintiff's claims."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Section 2 Ordinary Procedure of First Instance"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "Where an administrative act falls under any of the following circumstances, the people's court shall make a judgment to revoke it in whole or in part, and may make a judgment requiring the defendant to make a new administrative act:\n(a) the main evidence is insufficient;\n(b) the application of laws or regulations is erroneous;\n(c) statutory procedure is violated;\n(d) the exercise of functions and powers exceeds authority;\n(e) functions and powers are abused;\n(f) the act is manifestly improper."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Section 2 Ordinary Procedure of First Instance"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "Where a people's court makes a judgment requiring the defendant to make a new administrative act, the defendant may not make an administrative act basically the same as the original administrative act on the same facts and grounds."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Section 2 Ordinary Procedure of First Instance"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "Where, after hearing, a people's court ascertains that the defendant has failed to perform its statutory duty, it shall make a judgment requiring the defendant to perform within a certain time limit."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Section 2 Ordinary Procedure of First Instance"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "Where, after hearing, a people's court ascertains that the defendant is under an obligation of payment in accordance with law, it shall make a judgment requiring the defendant to perform its obligation of payment."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Section 2 Ordinary Procedure of First Instance"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "Where an administrative act falls under any of the following circumstances, the people's court shall make a judgment confirming it to be unlawful, but shall not revoke the administrative act:\n(a) the administrative act ought to be revoked in accordance with law, but revocation would cause major harm to national interests or public interests;\n(b) the administrative act is procedurally unlawful to a minor degree, but has no actual effect on the rights of the plaintiff.\nWhere an administrative act falls under any of the following circumstances and there is no need to revoke it or make a judgment requiring performance, the people's court shall make a judgment confirming it to be unlawful:\n(a) the administrative act is unlawful but has no revocable content;\n(b) the defendant has altered the original unlawful administrative act, but the plaintiff still requests confirmation that the original administrative act was unlawful;\n(c) the defendant has failed or delayed in performing its statutory duty, and a judgment requiring performance would be meaningless."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Section 2 Ordinary Procedure of First Instance"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "Where an administrative act has major and manifest unlawful circumstances, such as the subject implementing the act lacking the qualification of an administrative subject or the act having no basis, and the plaintiff applies for confirmation that the administrative act is void, the people's court shall make a judgment confirming it to be void."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Section 2 Ordinary Procedure of First Instance"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "Where a people's court makes a judgment confirming an administrative act to be unlawful or void, it may at the same time make a judgment ordering the defendant to take remedial measures; where loss has been caused to the plaintiff, it shall, in accordance with law, make a judgment that the defendant bear the liability for compensation."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Section 2 Ordinary Procedure of First Instance"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "Where an administrative penalty is manifestly improper, or where another administrative act involves a genuine error in the determination or ascertainment of an amount, the people's court may make a judgment to modify it.\nA people's court may not, in a judgment of modification, aggravate the obligations of the plaintiff or diminish the rights and interests of the plaintiff. However, this shall be an exception where interested parties are also plaintiffs and their claims are contrary."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Section 2 Ordinary Procedure of First Instance"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "Where the defendant fails to perform in accordance with law, fails to perform as agreed, or unlawfully modifies or rescinds an agreement provided in item (11) of paragraph 1 of Article 12 of this Law, the people's court shall make a judgment that the defendant bear liability such as continuing performance, taking remedial measures or compensating for losses.\nWhere the defendant lawfully modifies or rescinds an agreement provided in item (11) of paragraph 1 of Article 12 of this Law but fails to give compensation in accordance with law, the people's court shall make a judgment that compensation be given."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Section 2 Ordinary Procedure of First Instance"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "In a case where the reconsideration organ and the administrative organ that made the original administrative act are co-defendants, the people's court shall make an adjudication on the reconsideration decision and the original administrative act together."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Section 2 Ordinary Procedure of First Instance"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "People's courts shall, in all cases, whether heard in public or in camera, pronounce judgments publicly.\nWhere a judgment is pronounced in court, the written judgment shall be served within 10 days; where a judgment is pronounced on a fixed date, the written judgment shall be served immediately after pronouncement.\nWhen a judgment is pronounced, the parties must be informed of the right to appeal, the time limit for appeal and the people's court to which the appeal lies."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Section 2 Ordinary Procedure of First Instance"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "A people's court shall make a judgment of first instance within 6 months from the date of docketing the case. Where an extension is needed under special circumstances, it shall be subject to the approval of the higher people's court; where a higher people's court hearing a case of first instance needs an extension, it shall be subject to the approval of the Supreme People's Court."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Section 2 Ordinary Procedure of First Instance"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "Where a people's court, in hearing any of the following administrative cases of first instance, considers that the facts are clear, the relationship of rights and obligations is definite and the dispute is not significant, it may apply the summary procedure:\n(a) the administrative act against which the action is brought was made on the spot in accordance with law;\n(b) the case involves an amount of not more than 2,000 yuan;\n(c) the case is a case concerning disclosure of government information.\nIn administrative cases of first instance other than those provided in the preceding paragraph, where all parties agree to apply the summary procedure, the summary procedure may be applied.\nThe summary procedure shall not apply to cases remanded for retrial or cases retried under the procedure for trial supervision."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Section 3 Summary Procedure"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "An administrative case heard under the summary procedure shall be heard by a single judicial officer alone, and shall be concluded within 45 days from the date of docketing the case."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Section 3 Summary Procedure"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "Where, in the course of hearing, a people's court finds that a case is not suitable for the summary procedure, it shall rule to convert the case to the ordinary procedure."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Section 3 Summary Procedure"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "Where a party is dissatisfied with a judgment of first instance of a people's court, it shall have the right to appeal to the people's court at the next higher level within 15 days from the date of service of the written judgment. Where a party is dissatisfied with a ruling of first instance of a people's court, it shall have the right to appeal to the people's court at the next higher level within 10 days from the date of service of the written ruling. Where no appeal is instituted within the time limit, the judgment or ruling of first instance of the people's court shall take legal effect."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        },
+        "chapter": {
+          "en": "Section 4 Procedure of Second Instance"
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "A people's court shall, in respect of an appealed case, form a collegial panel and hold a court hearing. After reviewing the case file, conducting investigation and questioning the parties, where the collegial panel considers that no court hearing is necessary because no new facts, evidence or grounds have been raised, the case may also be heard without a court hearing."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        },
+        "chapter": {
+          "en": "Section 4 Procedure of Second Instance"
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "A people's court hearing an appealed case shall conduct a comprehensive review of the judgment or ruling of the people's court of original instance and of the administrative act against which the action is brought."
+        },
+        "noLabel": {
+          "en": "Article 87."
+        },
+        "chapter": {
+          "en": "Section 4 Procedure of Second Instance"
+        }
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "A people's court hearing an appealed case shall make a final judgment within 3 months from the date of receipt of the statement of appeal. Where an extension is needed under special circumstances, it shall be subject to the approval of the higher people's court; where a higher people's court hearing an appealed case needs an extension, it shall be subject to the approval of the Supreme People's Court."
+        },
+        "noLabel": {
+          "en": "Article 88."
+        },
+        "chapter": {
+          "en": "Section 4 Procedure of Second Instance"
+        }
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "A people's court hearing an appealed case shall deal with it respectively according to the following circumstances:\n(a) where the facts ascertained in the original judgment or ruling are clear and the application of laws and regulations is correct, the appeal shall be dismissed by judgment or ruling and the original judgment or ruling shall be upheld;\n(b) where the facts ascertained in the original judgment or ruling are erroneous or the application of laws or regulations is erroneous, the judgment shall be altered, revoked or modified in accordance with law;\n(c) where the basic facts ascertained in the original judgment are unclear and the evidence is insufficient, the case shall be remanded to the people's court of original instance for retrial, or the judgment shall be altered after the facts are ascertained;\n(d) where the original judgment omitted a party or was a judgment by default made unlawfully, or where statutory procedure was seriously violated, the original judgment shall be revoked by ruling and the case shall be remanded to the people's court of original instance for retrial.\nWhere, after the people's court of original instance makes a judgment on a case remanded for retrial, a party appeals, the people's court of second instance may not remand the case for retrial again.\nWhere a people's court hearing an appealed case needs to alter the original judgment, it shall at the same time make a judgment on the administrative act against which the action is brought."
+        },
+        "noLabel": {
+          "en": "Article 89."
+        },
+        "chapter": {
+          "en": "Section 4 Procedure of Second Instance"
+        }
+      },
+      {
+        "no": 90,
+        "text": {
+          "en": "Where a party considers that a judgment or ruling that has taken legal effect is genuinely erroneous, it may apply to the people's court at the next higher level for retrial, but the execution of the judgment or ruling shall not be suspended."
+        },
+        "noLabel": {
+          "en": "Article 90."
+        },
+        "chapter": {
+          "en": "Section 5 Procedure for Trial Supervision"
+        }
+      },
+      {
+        "no": 91,
+        "text": {
+          "en": "Where an application of a party falls under any of the following circumstances, the people's court shall order a retrial:\n(a) there is a genuine error in the decision not to docket the case or in the dismissal of the action;\n(b) there is new evidence sufficient to overturn the original judgment or ruling;\n(c) the main evidence on which the original judgment or ruling is based is insufficient, was not cross-examined, or was forged;\n(d) there is a genuine error in the application of laws or regulations in the original judgment or ruling;\n(e) the litigation procedure provided by law was violated and may have affected the fair adjudication of the case;\n(f) the original judgment or ruling omitted a claim;\n(g) the legal document on which the original judgment or ruling was based has been revoked or altered;\n(h) the judicial officer committed embezzlement, accepted bribes, engaged in malpractice for personal gain, or perverted the law in adjudicating the case during the hearing of the case."
+        },
+        "noLabel": {
+          "en": "Article 91."
+        },
+        "chapter": {
+          "en": "Section 5 Procedure for Trial Supervision"
+        }
+      },
+      {
+        "no": 92,
+        "text": {
+          "en": "Where the president of a people's court at any level finds that a judgment or ruling of that court that has taken legal effect falls under any of the circumstances provided in Article 91 of this Law, or finds that mediation violated the principle of voluntariness or that the content of the mediation statement is unlawful, and considers that a retrial is necessary, he or she shall submit the matter to the judicial committee for discussion and decision.\nWhere the Supreme People's Court finds that a judgment or ruling of a local people's court at any level that has taken legal effect falls under any of the circumstances provided in Article 91 of this Law, or finds that mediation violated the principle of voluntariness or that the content of the mediation statement is unlawful, or where a people's court at a higher level makes the same finding in respect of a judgment or ruling of a people's court at a lower level that has taken legal effect, it shall have the power to bring the case up for trial or to direct the people's court at the lower level to conduct a retrial."
+        },
+        "noLabel": {
+          "en": "Article 92."
+        },
+        "chapter": {
+          "en": "Section 5 Procedure for Trial Supervision"
+        }
+      },
+      {
+        "no": 93,
+        "text": {
+          "en": "Where the Supreme People's Procuratorate finds that a judgment or ruling of a people's court at any level that has taken legal effect falls under any of the circumstances provided in Article 91 of this Law, or finds that a mediation statement harms national interests or public interests, or where a people's procuratorate at a higher level makes the same finding in respect of a judgment or ruling of a people's court at a lower level that has taken legal effect, it shall lodge a protest.\nWhere a local people's procuratorate at any level finds that a judgment or ruling of a people's court at the same level that has taken legal effect falls under any of the circumstances provided in Article 91 of this Law, or finds that a mediation statement harms national interests or public interests, it may issue a procuratorial recommendation to the people's court at the same level and report the matter to the people's procuratorate at the higher level for the record; or it may request the people's procuratorate at the higher level to lodge a protest with the people's court at the same level.\nWhere a people's procuratorate at any level finds that a judicial officer has committed an unlawful act in a trial procedure other than the procedure for trial supervision, it shall have the power to issue a procuratorial recommendation to the people's court at the same level."
+        },
+        "noLabel": {
+          "en": "Article 93."
+        },
+        "chapter": {
+          "en": "Section 5 Procedure for Trial Supervision"
+        }
+      },
+      {
+        "no": 94,
+        "text": {
+          "en": "The parties must perform the judgments, rulings and mediation statements of people's courts that have taken legal effect."
+        },
+        "noLabel": {
+          "en": "Article 94."
+        },
+        "chapter": {
+          "en": "Chapter VIII Execution"
+        }
+      },
+      {
+        "no": 95,
+        "text": {
+          "en": "Where a citizen, legal person or other organisation refuses to perform a judgment, ruling or mediation statement, the administrative organ or a third party may apply to the people's court of first instance for compulsory execution, or the administrative organ may carry out compulsory execution in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 95."
+        },
+        "chapter": {
+          "en": "Chapter VIII Execution"
+        }
+      },
+      {
+        "no": 96,
+        "text": {
+          "en": "Where an administrative organ refuses to perform a judgment, ruling or mediation statement, the people's court of first instance may take the following measures:\n(a) in respect of a fine that ought to be returned or an amount that ought to be paid, notify the bank to transfer the amount from the account of the administrative organ;\n(b) where the administrative organ fails to perform within the prescribed time limit, impose on the person in charge of the administrative organ a fine of 50 to 100 yuan per day from the date of expiry of the time limit;\n(c) make public the circumstances of the administrative organ's refusal to perform;\n(d) put forward judicial recommendations to the supervisory organ or to the administrative organ at the next higher level. The organ receiving the judicial recommendations shall handle the matter in accordance with the relevant provisions and inform the people's court of the handling;\n(e) where the administrative organ refuses to perform the judgment, ruling or mediation statement and the social impact is adverse, detention may be imposed on the persons directly in charge and the other persons directly responsible of the administrative organ; where the circumstances are serious and a crime is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 96."
+        },
+        "chapter": {
+          "en": "Chapter VIII Execution"
+        }
+      },
+      {
+        "no": 97,
+        "text": {
+          "en": "Where a citizen, legal person or other organisation neither institutes an action against an administrative act within the statutory time limit nor performs it, the administrative organ may apply to a people's court for compulsory execution, or may carry out compulsory execution in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 97."
+        },
+        "chapter": {
+          "en": "Chapter VIII Execution"
+        }
+      },
+      {
+        "no": 98,
+        "text": {
+          "en": "This Law shall apply to foreigners, stateless persons and foreign organisations conducting administrative litigation in the People's Republic of China, except as otherwise provided by law."
+        },
+        "noLabel": {
+          "en": "Article 98."
+        },
+        "chapter": {
+          "en": "Chapter IX Administrative Litigation Involving Foreign Elements"
+        }
+      },
+      {
+        "no": 99,
+        "text": {
+          "en": "Foreigners, stateless persons and foreign organisations conducting administrative litigation in the People's Republic of China shall have the same litigation rights and obligations as citizens and organisations of the People's Republic of China.\nWhere a foreign court restricts the administrative litigation rights of citizens and organisations of the People's Republic of China, the people's court shall apply the principle of reciprocity in respect of the administrative litigation rights of citizens and organisations of that country."
+        },
+        "noLabel": {
+          "en": "Article 99."
+        },
+        "chapter": {
+          "en": "Chapter IX Administrative Litigation Involving Foreign Elements"
+        }
+      },
+      {
+        "no": 100,
+        "text": {
+          "en": "Where foreigners, stateless persons or foreign organisations conducting administrative litigation in the People's Republic of China entrust lawyers to act as agents ad litem, they shall entrust lawyers of law firms of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 100."
+        },
+        "chapter": {
+          "en": "Chapter IX Administrative Litigation Involving Foreign Elements"
+        }
+      },
+      {
+        "no": 101,
+        "text": {
+          "en": "In respect of matters such as periods, service, property preservation, court hearings, mediation, suspension of litigation, termination of litigation, summary procedure and execution in the hearing of administrative cases by people's courts, as well as supervision by people's procuratorates over the acceptance, hearing, adjudication and execution of administrative cases, where this Law has no provisions, the relevant provisions of the Civil Procedure Law of the People's Republic of China shall apply."
+        },
+        "noLabel": {
+          "en": "Article 101."
+        },
+        "chapter": {
+          "en": "Chapter X Supplementary Provisions"
+        }
+      },
+      {
+        "no": 102,
+        "text": {
+          "en": "People's courts shall charge litigation costs for the hearing of administrative cases. Litigation costs shall be borne by the losing party; where both parties are liable, the costs shall be shared by both parties. Specific measures for the collection of litigation costs shall be prescribed separately."
+        },
+        "noLabel": {
+          "en": "Article 102."
+        },
+        "chapter": {
+          "en": "Chapter X Supplementary Provisions"
+        }
+      },
+      {
+        "no": 103,
+        "text": {
+          "en": "This Law shall come into force on 1 October 1990."
+        },
+        "noLabel": {
+          "en": "Article 103."
+        },
+        "chapter": {
+          "en": "Chapter X Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-LAW-0311'] = {
     "lawId": "CN-LAW-0311",
     "sourceLang": "zh",
@@ -28251,6 +29469,1176 @@
         },
         "chapter": {
           "en": "Chapter VII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0332'] = {
+    "lawId": "CN-LAW-0332",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 101 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is enacted in accordance with the Constitution in order to regulate the revenue and expenditure conduct of the government, strengthen budget constraints, strengthen the management and supervision of budgets, establish and improve a comprehensive, standardised, open and transparent budget system, and safeguard the sound development of the economy and society."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The preparation, examination, approval and supervision of budgets and final accounts, and the execution and adjustment of budgets, shall be governed by the provisions of this Law."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The State practises one budget for each level of government and establishes five levels of budgets, namely the Central level; the level of provinces, autonomous regions and municipalities directly under the Central Government; the level of municipalities with districts and autonomous prefectures; the level of counties, autonomous counties, municipalities not divided into districts and municipal districts; and the level of townships, ethnic townships and towns.\nThe national budget consists of the Central budget and local budgets. Local budgets consist of the general budgets of the provinces, autonomous regions and municipalities directly under the Central Government.\nThe general budget at each local level consists of the budget at the corresponding level and the consolidated general budget at the next lower level; where the next lower level has only a budget at the corresponding level, the general budget at the next lower level means the budget at the corresponding level of that lower level. Where there is no budget at a lower level, the general budget means the budget at the corresponding level."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "A budget consists of budget revenue and budget expenditure.\nAll revenue and expenditure of the government shall be incorporated into the budget."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Budgets include the general public budget, the government fund budget, the State-owned capital operation budget and the social insurance fund budget.\nThe general public budget, the government fund budget, the State-owned capital operation budget and the social insurance fund budget shall remain complete and independent. The government fund budget, the State-owned capital operation budget and the social insurance fund budget shall be consistent with the general public budget."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The general public budget is the budget of revenue and expenditure that arranges fiscal revenue, which mainly consists of taxes, for safeguarding and improving people's wellbeing, promoting economic and social development, safeguarding national security and maintaining the normal operation of State organs.\nThe Central general public budget includes the budgets of the Central departments (including units directly subordinate thereto, the same below) and the budgets of tax refunds and transfer payments from the Central to local levels.\nThe Central general public budget revenue includes revenue at the Central level and revenue remitted by local levels to the Central level. The Central general public budget expenditure includes expenditure at the Central level and tax refunds and transfer payments from the Central to local levels."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The general public budget at each local level includes the budgets of the departments at the corresponding level (including units directly subordinate thereto, the same below) and the budgets of tax refunds and transfer payments.\nThe general public budget revenue at each local level includes revenue at the local level, tax refunds and transfer payments from the higher-level government to the government at the corresponding level, and revenue remitted by lower-level governments. The general public budget expenditure at each local level includes expenditure at the local level, expenditure remitted to higher-level governments, and tax refunds and transfer payments to lower-level governments."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The budget of each department consists of the budgets of the department itself and of the units subordinate to it."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The government fund budget is the budget of revenue and expenditure for funds levied, collected or raised by other means from specific recipients within a certain period in accordance with the provisions of laws and administrative regulations, and used exclusively for the development of specific public undertakings.\nThe government fund budget shall be prepared by fund item on the basis of the revenue situation of the fund items and the actual need for expenditure, so that expenditure is determined by revenue."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The State-owned capital operation budget is the budget of revenue and expenditure that arranges expenditure from State-owned capital proceeds.\nThe State-owned capital operation budget shall be prepared in accordance with the principle of balance between revenue and expenditure, shall not list a deficit, and shall arrange funds to be transferred into the general public budget."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The social insurance fund budget is the budget of revenue and expenditure for funds from social insurance contributions, allocations from the general public budget and funds raised by other means, and used exclusively for social insurance.\nThe social insurance fund budget shall be prepared separately by pooling level and by social insurance item, so as to achieve a balance between revenue and expenditure."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Budgets at all levels shall follow the principles of overall consideration, diligence and thrift, acting within capacity, pursuing performance and maintaining a balance between revenue and expenditure.\nGovernments at all levels shall establish a cross-year budget balance mechanism."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "A budget approved by the people's congress shall not be adjusted without going through statutory procedures. The expenditure of each government, each department and each unit must be based on the approved budget, and no expenditure may be made for items not included in the budget."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The budgets, budget adjustments, final accounts and reports and statements on budget execution approved by the people's congress at the corresponding level or its standing committee shall, within 20 days after approval, be made public to society by the finance department of the government at the corresponding level, together with explanations of important matters such as the arrangement and execution of fiscal transfer payments by the government at the corresponding level and the borrowing of debt.\nThe departmental budgets, final accounts and statements approved by the finance department of the government at the corresponding level shall, within 20 days after approval, be made public to society by each department, together with explanations of important matters such as the arrangement and use of operating expenses of State organs in the departmental budgets and final accounts.\nEach government, each department and each unit shall promptly make public the situation of government procurement.\nThe matters to be made public provided in the first three paragraphs of this Article shall be subject to the exception of those involving State secrets."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The State practises a tax-sharing system between the Central and local governments."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The State practises a fiscal transfer payment system. Fiscal transfer payments shall be standardised, fair and open, with the main objective of promoting the equalisation of basic public services among regions.\nFiscal transfer payments include transfer payments from the Central to local levels and transfer payments from higher-level local governments to lower-level governments, and mainly consist of general transfer payments that serve to equalise the basic financial capacity among regions and are arranged and used by lower-level governments in an overall manner.\nSpecial transfer payments may be established in accordance with laws, administrative regulations and the provisions of the State Council for handling specific matters. A mechanism for the periodic evaluation and withdrawal of special transfer payments shall be established and improved. No special transfer payment shall be established for matters that can be effectively regulated by the market competition mechanism.\nWhere higher-level governments arrange special transfer payments, they shall not require lower-level governments to provide matching funds. The foregoing is subject to the exception of matters that shall be borne jointly by governments at higher and lower levels in accordance with the provisions of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The preparation and execution of budgets at all levels shall be based on a sound mechanism of mutual checks and mutual coordination."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The budget year begins on 1 January of the Gregorian calendar and ends on 31 December."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Budget revenue and budget expenditure shall be calculated in Renminbi yuan."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The National People's Congress examines the draft Central and local budgets and the reports on the execution of the Central and local budgets; approves the Central budget and the report on the execution of the Central budget; and alters or annuls inappropriate resolutions of the Standing Committee of the National People's Congress concerning budgets and final accounts.\nThe Standing Committee of the National People's Congress supervises the execution of the Central and local budgets; examines and approves the plan for adjustment of the Central budget; examines and approves the Central final accounts; annuls administrative regulations, decisions and orders concerning budgets and final accounts formulated by the State Council that contravene the Constitution and laws; and annuls local regulations and resolutions concerning budgets and final accounts formulated by the people's congresses of provinces, autonomous regions and municipalities directly under the Central Government and their standing committees that contravene the Constitution, laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Budget Management Functions and Powers"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The people's congresses of local levels at or above the county level examine the draft general budget at the corresponding level and the report on the execution of the general budget at the corresponding level; approve the budget at the corresponding level and the report on the execution of the budget at the corresponding level; alter or annul inappropriate resolutions of the standing committee of the people's congress at the corresponding level concerning budgets and final accounts; and annul inappropriate decisions and orders of the government at the corresponding level concerning budgets and final accounts.\nThe standing committees of the people's congresses of local levels at or above the county level supervise the execution of the general budget at the corresponding level; examine and approve the plan for adjustment of the budget at the corresponding level; examine and approve the final accounts at the corresponding level; and annul inappropriate decisions, orders and resolutions of the government at the corresponding level and of the people's congress at the next lower level and its standing committee concerning budgets and final accounts.\nThe people's congresses of townships, ethnic townships and towns examine and approve the budget at the corresponding level and the report on the execution of the budget at the corresponding level; supervise the execution of the budget at the corresponding level; examine and approve the plan for adjustment of the budget at the corresponding level; examine and approve the final accounts at the corresponding level; and annul inappropriate decisions and orders of the government at the corresponding level concerning budgets and final accounts."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Budget Management Functions and Powers"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The Financial and Economic Affairs Committee of the National People's Congress shall conduct a preliminary examination of the preliminary plan of the draft Central budget and the budget execution of the preceding year, the preliminary plan for adjustment of the Central budget and the draft Central final accounts, and put forward opinions on the preliminary examination.\nThe relevant special committees of the people's congresses of provinces, autonomous regions and municipalities directly under the Central Government shall conduct a preliminary examination of the preliminary plan of the draft budget at the corresponding level and the budget execution of the preceding year, the preliminary plan for adjustment of the budget at the corresponding level and the draft final accounts at the corresponding level, and put forward opinions on the preliminary examination.\nThe relevant special committees of the people's congresses of municipalities with districts and autonomous prefectures shall conduct a preliminary examination of the preliminary plan of the draft budget at the corresponding level and the budget execution of the preceding year, the preliminary plan for adjustment of the budget at the corresponding level and the draft final accounts at the corresponding level, and put forward opinions on the preliminary examination; where no special committee is established, the relevant working body of the standing committee of the people's congress at the corresponding level shall study the matter and put forward opinions.\nThe standing committees of the people's congresses of counties, autonomous counties, municipalities not divided into districts and municipal districts shall conduct a preliminary examination of the preliminary plan of the draft budget at the corresponding level and the budget execution of the preceding year, and put forward opinions on the preliminary examination. The relevant working bodies of the standing committees of the people's congresses of counties, autonomous counties, municipalities not divided into districts and municipal districts shall study the preliminary plan for adjustment of the budget at the corresponding level and the draft final accounts at the corresponding level and put forward opinions.\nWhere the relevant special committees of the people's congresses at all levels at or above the level of municipalities with districts and autonomous prefectures conduct preliminary examinations and the relevant working bodies of the standing committees study the matter and put forward opinions, deputies to the people's congress at the corresponding level shall be invited to participate.\nWith respect to the opinions put forward in accordance with paragraphs 1 to 4 of this Article, the finance department of the government at the corresponding level shall promptly give feedback on the handling.\nThe opinions put forward in accordance with paragraphs 1 to 4 of this Article and the report on the handling fed back by the finance department of the government at the corresponding level shall be printed and distributed to the deputies to the people's congress at the corresponding level.\nThe relevant working bodies of the standing committees of the National People's Congress and of the standing committees of the people's congresses of provinces, autonomous regions, municipalities directly under the Central Government, municipalities with districts and autonomous prefectures shall, in accordance with the decisions of the standing committee of the people's congress at the corresponding level, assist the Financial and Economic Affairs Committee or the relevant special committee of the people's congress at the corresponding level in undertaking the specific work of examining draft budgets, plans for budget adjustment and draft final accounts and supervising budget execution."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter II Budget Management Functions and Powers"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The State Council prepares the draft Central budget and final accounts; makes reports to the National People's Congress on the draft Central and local budgets; consolidates the budgets submitted by the governments of provinces, autonomous regions and municipalities directly under the Central Government for the record and reports them to the Standing Committee of the National People's Congress for the record; organises the execution of the Central and local budgets; decides on the use of the reserve funds of the Central budget; prepares the plan for adjustment of the Central budget; supervises the budget execution of Central departments and local governments; alters or annuls inappropriate decisions and orders of Central departments and local governments concerning budgets and final accounts; and reports to the National People's Congress and its Standing Committee on the execution of the Central and local budgets."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter II Budget Management Functions and Powers"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Local governments at or above the county level prepare the draft budgets and final accounts at the corresponding level; make reports to the people's congress at the corresponding level on the draft general budget at the corresponding level; consolidate the budgets submitted by the government at the next lower level for the record and report them to the standing committee of the people's congress at the corresponding level for the record; organise the execution of the general budget at the corresponding level; decide on the use of the reserve funds of the budget at the corresponding level; prepare the plan for adjustment of the budget at the corresponding level; supervise the budget execution of the departments at the corresponding level and of lower-level governments; alter or annul inappropriate decisions and orders of the departments at the corresponding level and of lower-level governments concerning budgets and final accounts; and report to the people's congress at the corresponding level and its standing committee on the execution of the general budget at the corresponding level.\nThe governments of townships, ethnic townships and towns prepare the draft budgets and final accounts at the corresponding level; make reports to the people's congress at the corresponding level on the draft budget at the corresponding level; organise the execution of the budget at the corresponding level; decide on the use of the reserve funds of the budget at the corresponding level; prepare the plan for adjustment of the budget at the corresponding level; and report to the people's congress at the corresponding level on the execution of the budget at the corresponding level.\nWith the approval of the government of the province, autonomous region or municipality directly under the Central Government, the draft budget at the corresponding level, the plan for budget adjustment and the draft final accounts of a township, ethnic township or town may be prepared on its behalf by the government at the next higher level and submitted, in accordance with the provisions of Article 21 of this Law, to the people's congress of the township, ethnic township or town for examination and approval."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter II Budget Management Functions and Powers"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The finance department under the State Council shall specifically prepare the draft Central budget and final accounts; specifically organise the execution of the Central and local budgets; put forward plans for the use of the reserve funds of the Central budget; specifically prepare the plan for adjustment of the Central budget; and periodically report to the State Council on the execution of the Central and local budgets.\nThe finance departments of local governments at all levels shall specifically prepare the draft budgets and final accounts at the corresponding level; specifically organise the execution of the general budget at the corresponding level; put forward plans for the use of the reserve funds of the budget at the corresponding level; specifically prepare the plan for adjustment of the budget at the corresponding level; and periodically report to the government at the corresponding level and the finance department of the government at the next higher level on the execution of the general budget at the corresponding level."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter II Budget Management Functions and Powers"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Each department shall prepare the draft budget and final accounts of the department; organise and supervise the execution of the departmental budget; and periodically report to the finance department of the government at the corresponding level on budget execution.\nEach unit shall prepare the draft budget and final accounts of the unit; pay over budget revenue in accordance with the provisions of the State; arrange budget expenditure; and accept the supervision of the relevant departments of the State."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter II Budget Management Functions and Powers"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "General public budget revenue includes revenue from the various taxes, revenue from administrative and institutional charges, revenue from the paid use of State-owned resources (assets), transfer revenue and other revenue.\nGeneral public budget expenditure, by functional classification, includes expenditure on general public services, expenditure on foreign affairs, public security and national defence, expenditure on agriculture and environmental protection, expenditure on education, science and technology, culture, health and sports, expenditure on social security and employment, and other expenditure.\nGeneral public budget expenditure, by economic nature, includes expenditure on wages and welfare, expenditure on goods and services, capital expenditure and other expenditure."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Scope of Budget Revenue and Expenditure"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The scope of revenue and expenditure of the government fund budget, the State-owned capital operation budget and the social insurance fund budget shall be governed by the provisions of laws, administrative regulations and the State Council."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Scope of Budget Revenue and Expenditure"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The specific measures for the division of revenue and expenditure items between the Central budget and local budgets, for revenue remitted by local levels to the Central level and for tax refunds or transfer payments from the Central to local levels shall be prescribed by the State Council and reported to the Standing Committee of the National People's Congress for the record."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Scope of Budget Revenue and Expenditure"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Higher-level governments shall not allocate funds from the budgets of lower-level governments outside the budget. Lower-level governments shall not encroach upon or withhold funds belonging to the budgets of higher-level governments."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Scope of Budget Revenue and Expenditure"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The State Council shall promptly issue a notice on the preparation of the draft budget for the following year. The specific matters concerning the preparation of draft budgets shall be arranged by the finance department under the State Council.\nEach government, each department and each unit shall prepare draft budgets within the time prescribed by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Budget Preparation"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Budgets at all levels shall be prepared in accordance with the annual economic and social development objectives, the overall requirements of national macroeconomic regulation and the needs of cross-year budget balance, with reference to the budget execution of the preceding year, the results of performance evaluation of the relevant expenditure and the revenue and expenditure projections for the current year, and after soliciting opinions from all sides in accordance with the prescribed procedures.\nWhere governments at all levels make decisions or formulate administrative measures in accordance with their statutory authority that involve an increase or decrease in fiscal revenue or expenditure, they shall put them forward before the budget is approved and make corresponding arrangements in the draft budget.\nEach department and each unit shall, in accordance with the government revenue and expenditure classification subjects, the budget expenditure standards and requirements and the budget preparation provisions on performance objective management formulated by the finance department under the State Council, and in light of the needs of performing their functions in accordance with law and developing undertakings and the existing assets, prepare the draft budget of the department or unit.\nThe government revenue and expenditure classification subjects mentioned in the preceding paragraph divide revenue into categories, articles, items and sub-items; expenditure is divided, by functional classification, into categories, articles and items, and, by economic nature, into categories and articles."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Budget Preparation"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The governments of provinces, autonomous regions and municipalities directly under the Central Government shall, within the time prescribed by the State Council, submit the draft general budget at the corresponding level to the State Council for examination and consolidation."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Budget Preparation"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Part of the funds necessary in the Central general public budget may be raised by borrowing domestic and foreign debt and other means; the borrowing of debt shall be kept to an appropriate scale and maintain a reasonable structure.\nA balance management system shall apply to the debt borrowed in the Central general public budget, and the scale of the balance shall not exceed the ceiling approved by the National People's Congress.\nThe finance department under the State Council shall be specifically responsible for the unified management of Central government debt."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Budget Preparation"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Budgets at local levels shall be prepared in accordance with the principle of living within their means and maintaining a balance between revenue and expenditure, and shall not list a deficit unless otherwise provided in this Law.\nPart of the funds necessary for construction investment in the budgets of provinces, autonomous regions and municipalities directly under the Central Government approved by the State Council may be raised by issuing local government bonds to borrow debt within the ceiling determined by the State Council. The scale of borrowed debt shall be reported by the State Council to the National People's Congress or its Standing Committee for approval. The debt borrowed by a province, autonomous region or municipality directly under the Central Government in accordance with the ceiling assigned by the State Council shall be included in the plan for adjustment of the budget at the corresponding level and reported to the standing committee of the people's congress at the corresponding level for approval. Borrowed debt shall be covered by a repayment plan and stable sources of repayment funds, may only be used for public welfare capital expenditure and shall not be used for current expenditure.\nExcept as provided in the preceding paragraph, local governments and the departments subordinate to them shall not borrow debt by any means.\nUnless otherwise provided by law, local governments and the departments subordinate to them shall not provide guarantees by any means for the debt of any unit or individual.\nThe State Council shall establish a mechanism for risk assessment and early warning, an emergency disposal mechanism and a system of accountability for local government debt. The finance department under the State Council shall exercise supervision over local government debt."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Budget Preparation"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The preparation of budget revenue at all levels shall be commensurate with the level of economic and social development and consistent with fiscal policy.\nEach government, each department and each unit shall, in accordance with the provisions of this Law, incorporate all government revenue into the budget and shall not conceal it or list it in reduced amounts."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Budget Preparation"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Budget expenditure at all levels shall, in accordance with the provisions of this Law, be prepared by functional and economic classification.\nThe preparation of budget expenditure at all levels shall implement the principle of diligence and thrift and strictly control the operating expenses of State organs and the capital construction expenditure on office buildings and the like of each department and each unit.\nThe preparation of general public budget expenditure at all levels shall be based on overall consideration and, on the premise of ensuring the reasonable needs of basic public services, shall give priority to the key expenditure determined by the State."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Budget Preparation"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "General transfer payments shall be prepared in accordance with the basic standards and calculation methods prescribed by the State Council. Special transfer payments shall be prepared by region and by project.\nGovernments at or above the county level shall issue in advance to lower-level governments the estimated figures of transfer payments to them.\nLocal governments at all levels shall incorporate the estimated figures of transfer payments issued in advance by higher-level governments into the budgets at the corresponding level."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Budget Preparation"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Necessary funds shall be arranged in the Central budget and the relevant local budgets to assist old revolutionary base areas, areas inhabited by ethnic minorities, border areas and poverty-stricken areas in developing economic, social and construction undertakings."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter IV Budget Preparation"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "General public budgets at all levels shall set aside reserve funds at 1 per cent to 3 per cent of the general public budget expenditure at the corresponding level, to be used for increased expenditure for handling emergencies such as natural disasters and other unforeseen expenses in the budget execution of the year."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter IV Budget Preparation"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "General public budgets at all levels may, in accordance with the provisions of the State Council, set up a budget working capital to be used by the government at the corresponding level to adjust the seasonal difference between revenue and expenditure within the budget year.\nGeneral public budgets at all levels may, in accordance with the provisions of the State Council, set up a budget stabilisation and adjustment fund to make up for the shortage of budgetary funds in subsequent years."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IV Budget Preparation"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The carry-over funds of the budget of the preceding year of each government shall be used in the following year for the expenditure of the carried-over projects; carry-over funds not used up for two consecutive years shall be managed as surplus funds.\nThe carry-over and surplus funds of the budget of the preceding year of each department and each unit shall be dealt with in accordance with the provisions of the finance department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter IV Budget Preparation"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "The Central budget shall be examined and approved by the National People's Congress.\nBudgets at local levels shall be examined and approved by the people's congress at the corresponding level."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter V Examination and Approval of Budgets"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "The finance department under the State Council shall, 45 days before the annual session of the National People's Congress, submit the preliminary plan of the draft Central budget to the Financial and Economic Affairs Committee of the National People's Congress for preliminary examination.\nThe finance departments of the governments of provinces, autonomous regions and municipalities directly under the Central Government shall, 30 days before the session of the people's congress at the corresponding level, submit the preliminary plan of the draft budget at the corresponding level to the relevant special committee of that people's congress for preliminary examination.\nThe finance departments of the governments of municipalities with districts and autonomous prefectures shall, 30 days before the session of the people's congress at the corresponding level, submit the preliminary plan of the draft budget at the corresponding level to the relevant special committee of that people's congress for preliminary examination, or send it to the relevant working body of the standing committee of that people's congress for opinions.\nThe governments of counties, autonomous counties, municipalities not divided into districts and municipal districts shall, 30 days before the session of the people's congress at the corresponding level, submit the preliminary plan of the draft budget at the corresponding level to the standing committee of that people's congress for preliminary examination."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter V Examination and Approval of Budgets"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Before the people's congresses of counties, autonomous counties, municipalities not divided into districts, municipal districts, townships, ethnic townships and towns hold sessions to examine draft budgets, they shall, in various forms, organise the deputies to the people's congress at the corresponding level to hear the opinions of voters and all sectors of society."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter V Examination and Approval of Budgets"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Draft budgets submitted to people's congresses at all levels for examination and approval shall be refined. General public budget expenditure at the corresponding level shall, by functional classification, be itemised down to the item level; by economic nature, basic expenditure shall be itemised down to the article level. The expenditure of the government fund budget, the State-owned capital operation budget and the social insurance fund budget at the corresponding level shall, by functional classification, be itemised down to the item level."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter V Examination and Approval of Budgets"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "When the National People's Congress holds a session, the State Council shall make a report to the session on the draft Central and local budgets and on the execution of the Central and local budgets.\nWhen the people's congress at the corresponding level holds a session, each local government shall make a report to the session on the draft general budget and on the execution of the general budget."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter V Examination and Approval of Budgets"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "The National People's Congress and local people's congresses at all levels shall focus their examination of draft budgets and the reports thereon and the reports on budget execution on the following:\n(a) whether the budget execution of the preceding year conforms to the requirements of the budget resolution of the people's congress at the corresponding level;\n(b) whether the budget arrangements conform to the provisions of this Law;\n(c) whether the budget arrangements implement the guidelines and policies for national economic and social development and whether the revenue and expenditure policies are practicable;\n(d) whether the budget arrangements for key expenditure and major investment projects are appropriate;\n(e) whether the preparation of the budget is complete and conforms to the provisions of Article 46 of this Law;\n(f) whether the budget for transfer expenditure to lower-level governments is standardised and appropriate;\n(g) whether the debt to be borrowed as arranged in the budget is lawful and reasonable and whether there is a repayment plan and stable sources of repayment funds;\n(h) whether the explanations of important matters relating to the budget are clear."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter V Examination and Approval of Budgets"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "The Financial and Economic Affairs Committee of the National People's Congress shall submit to the Presidium of the National People's Congress a report on the examination results of the draft Central and local budgets and of the execution of the Central and local budgets.\nThe relevant special committees of the people's congresses of provinces, autonomous regions, municipalities directly under the Central Government, municipalities with districts and autonomous prefectures, and the standing committees of the people's congresses of counties, autonomous counties, municipalities not divided into districts and municipal districts, shall submit to the Presidium of the people's congress at the corresponding level a report on the examination results of the draft general budget and of the execution of the general budget of the preceding year.\nThe report on examination results shall include the following:\n(a) an appraisal of the budget execution of the preceding year and of the implementation of the budget resolution of the people's congress at the corresponding level;\n(b) an appraisal of whether the draft budget for the current year conforms to the provisions of this Law and whether it is practicable;\n(c) recommendations on the approval of the draft budget and the budget report by the people's congress at the corresponding level;\n(d) opinions and recommendations on executing the annual budget, improving budget management, enhancing budget performance and strengthening budget supervision."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter V Examination and Approval of Budgets"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "The governments of townships, ethnic townships and towns shall promptly report the budget at the corresponding level approved by the people's congress at the corresponding level to the government at the next higher level for the record. Local governments at or above the county level shall promptly consolidate the budget at the corresponding level approved by the people's congress at the corresponding level and the budgets submitted by the government at the next lower level for the record, and report them to the government at the next higher level for the record.\nAfter consolidating the budgets submitted by the government at the next lower level for the record in accordance with the provisions of the preceding paragraph, local governments at or above the county level shall report them to the standing committee of the people's congress at the corresponding level for the record. After consolidating the budgets submitted by the governments of provinces, autonomous regions and municipalities directly under the Central Government for the record in accordance with the provisions of the preceding paragraph, the State Council shall report them to the Standing Committee of the National People's Congress for the record."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter V Examination and Approval of Budgets"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where the State Council and local governments at or above the county level consider that a budget submitted by the government at the next lower level for the record in accordance with the provisions of Article 50 of this Law contravenes laws or administrative regulations or is otherwise inappropriate and that the resolution approving the budget needs to be annulled, they shall request the standing committee of the people's congress at the corresponding level to deliberate and decide."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter V Examination and Approval of Budgets"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "After the budget at the corresponding level is approved by the people's congress at the corresponding level, the finance department of the government at the corresponding level shall, within 20 days, approve the budget to each department at the corresponding level. After receiving the departmental budget approved by the finance department of the government at the corresponding level, each department shall, within 15 days, approve the budget to the units subordinate to it.\nGeneral transfer payments from the Central to local levels shall be formally issued within 30 days after the National People's Congress approves the budget. Special transfer payments from the Central to local levels shall be formally issued within 90 days after the National People's Congress approves the budget.\nAfter receiving general transfer payments and special transfer payments from the Central level, the governments of provinces, autonomous regions and municipalities directly under the Central Government shall formally issue them to governments at or above the county level within their respective administrative regions within 30 days.\nGeneral transfer payments and special transfer payments arranged by budgets at local levels at or above the county level for lower-level governments shall be formally issued within 30 days and 60 days respectively after the people's congress at the corresponding level approves the budget.\nTransfer payments for handling emergencies such as natural disasters shall be issued promptly; transfer payments for special items such as settlement on an actual basis may be issued in instalments, or advanced first and settled afterwards.\nThe finance departments of governments at or above the county level shall send copies of the budgets approved for the departments at the corresponding level and the transfer payment budgets approved for lower-level governments to the Financial and Economic Affairs Committee, the relevant special committees and the relevant working bodies of the standing committee of the people's congress at the corresponding level."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter V Examination and Approval of Budgets"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Budgets at all levels shall be organised and executed by the government at the corresponding level, and the specific work shall be the responsibility of the finance department of the government at the corresponding level.\nEach department and each unit is the subject of budget execution of the department or unit, shall be responsible for the budget execution of the department or unit, and shall be responsible for the results of execution."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VI Budget Execution"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "After the budget year begins and before the draft budget at the corresponding level is approved by the people's congress at the corresponding level, budgets at all levels may arrange the following expenditure:\n(a) expenditure carried over from the preceding year;\n(b) the basic expenditure and project expenditure of departments for the current year that must be paid, and transfer expenditure to lower-level governments, arranged with reference to the amount of budget expenditure for the corresponding period of the preceding year;\n(c) expenditure for which the obligation to pay must be performed as provided by law, and expenditure for handling emergencies such as natural disasters.\nThe circumstances of expenditure arranged in accordance with the provisions of the preceding paragraph shall be explained in the report on the draft budget.\nAfter the budget is approved by the people's congress at the corresponding level, it shall be executed in accordance with the approved budget."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VI Budget Execution"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Budget revenue collection departments and units must collect the budget revenue due in a timely and full manner in accordance with the provisions of laws and administrative regulations. They shall not, in violation of the provisions of laws and administrative regulations, over-collect or collect in advance, or reduce, exempt, or defer the collection of, the budget revenue due, and shall not withhold, misappropriate or divert budget revenue.\nGovernments at all levels shall not assign revenue targets to budget revenue collection departments and units."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VI Budget Execution"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "All government revenue shall be paid into the State treasury (hereinafter referred to as the treasury), and no department, unit or individual shall withhold, misappropriate, divert or delay such payment.\nWith respect to specific dedicated funds that are explicitly provided for by law or approved by the State Council, special fiscal accounts may be established in accordance with the provisions of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VI Budget Execution"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "The finance department of each government must, in accordance with the provisions of laws, administrative regulations and the finance department under the State Council, allocate budget expenditure funds in a timely and full manner and strengthen the management and supervision of budget expenditure.\nThe expenditure of each government, each department and each unit must be executed in accordance with the budget, and no false expenditure shall be listed.\nEach government, each department and each unit shall carry out performance evaluation of budget expenditure."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VI Budget Execution"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "The revenue and expenditure of budgets at all levels shall be on a cash basis.\nWhere specific matters are on an accrual basis in accordance with the provisions of the State Council, the relevant circumstances shall be reported to the standing committee of the people's congress at the corresponding level."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VI Budget Execution"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Treasuries must be established for budgets at or above the county level; townships, ethnic townships and towns that meet the conditions shall also establish treasuries.\nThe business of the Central treasury shall be managed by the People's Bank of China, and the business of local treasuries shall be handled in accordance with the relevant provisions of the State Council.\nTreasuries at all levels shall, in accordance with the relevant provisions of the State, promptly and accurately handle the collection, division, retention and remittance, refund of budget revenue and the allocation of budget expenditure.\nThe right to dispose of treasury funds at each level shall belong to the finance department of the government at the corresponding level. Unless otherwise provided by laws or administrative regulations, no department, unit or individual shall have the right, without the consent of the finance department of the government at the corresponding level, to freeze or use treasury funds or otherwise dispose of funds already paid into the treasury.\nEach government shall strengthen the management and supervision of the treasury at the corresponding level, improve treasury cash management in accordance with the provisions of the State Council, and reasonably regulate the balance of treasury funds."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VI Budget Execution"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Where funds already paid into the treasury need to be refunded in accordance with the provisions of laws or administrative regulations or the decisions of the State Council, the finance department of the government at the corresponding level or an institution authorised by it shall promptly process the refund. Matters that shall be arranged as fiscal expenditure in accordance with the provisions shall not be handled by way of refund from the treasury."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VI Budget Execution"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "The State practises a system of centralised collection and centralised payment through the treasury, and exercises centralised treasury collection and payment management over all government revenue and expenditure."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VI Budget Execution"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Each government shall strengthen leadership over budget execution and support the government departments collecting budget revenue, such as the finance, tax and customs departments, in organising budget revenue in accordance with law, and support the government finance department in strictly managing budget expenditure.\nThe finance, tax, customs and other departments shall, in budget execution, strengthen the analysis of budget execution; where problems are found, they shall promptly recommend that the government at the corresponding level take measures to resolve them."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VI Budget Execution"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Each department and each unit shall strengthen the management of budget revenue and expenditure, shall not withhold or use budget revenue that should be paid over, and shall not alter the purpose of budget expenditure without authorisation."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VI Budget Execution"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "The plan for the use of the reserve funds of the budget at each level shall be put forward by the finance department of the government at the corresponding level and submitted to the government at the corresponding level for decision."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VI Budget Execution"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "The budget working capital at each level shall be managed by the finance department of the government at the corresponding level and shall not be diverted to other uses."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter VI Budget Execution"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Where excess revenue occurs in the annual execution of the general public budget at any level, it may only be used to offset the deficit or to replenish the budget stabilisation and adjustment fund.\nThe surplus funds of the general public budget at any level shall be used to replenish the budget stabilisation and adjustment fund.\nWhere a shortfall occurs in the annual execution of the general public budget of a province, an autonomous region or a municipality directly under the Central Government and a balance between revenue and expenditure cannot be achieved by transferring in funds from the budget stabilisation and adjustment fund, reducing expenditure or other means, the government of the province, autonomous region or municipality directly under the Central Government may, with the approval of the people's congress at the corresponding level or its standing committee, list an additional deficit, report it to the finance department under the State Council for the record, and make it up in the budget for the following year."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter VI Budget Execution"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Where any of the following circumstances arises in the execution of the Central budget approved by the National People's Congress and of the budgets at local levels approved by the local people's congresses at all levels, budget adjustment shall be made:\n(a) the total budget expenditure needs to be increased or decreased;\n(b) funds need to be transferred in from the budget stabilisation and adjustment fund;\n(c) the amount of key expenditure arranged in the budget needs to be reduced;\n(d) the amount of debt to be borrowed needs to be increased."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter VII Budget Adjustment"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "In budget execution, governments at all levels shall generally not formulate new policies and measures that increase fiscal revenue or expenditure, nor formulate policies and measures that reduce fiscal revenue; where such policies and measures must be made and budget adjustment is required, arrangements shall be made in the plan for budget adjustment."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter VII Budget Adjustment"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "In budget execution, where budget adjustment must be made, each government shall prepare a plan for budget adjustment. The plan for budget adjustment shall state the reasons, items and amounts of the budget adjustment.\nIn budget execution, where budget expenditure must be increased promptly because of emergencies such as natural disasters, the reserve funds shall be used first; where the reserve funds are insufficient for the expenditure, each government may arrange the expenditure first, and where it constitutes budget adjustment, it shall be included in the plan for budget adjustment.\nThe finance department under the State Council shall, 30 days before the Standing Committee of the National People's Congress holds a session to examine and approve the plan for budget adjustment, send the preliminary plan for budget adjustment to the Financial and Economic Affairs Committee of the National People's Congress for preliminary examination.\nThe finance departments of the governments of provinces, autonomous regions and municipalities directly under the Central Government shall, 30 days before the standing committee of the people's congress at the corresponding level holds a session to examine and approve the plan for budget adjustment, send the preliminary plan for budget adjustment to the relevant special committee of that people's congress for preliminary examination.\nThe finance departments of the governments of municipalities with districts and autonomous prefectures shall, 30 days before the standing committee of the people's congress at the corresponding level holds a session to examine and approve the plan for budget adjustment, send the preliminary plan for budget adjustment to the relevant special committee of that people's congress for preliminary examination, or send it to the relevant working body of the standing committee of that people's congress for opinions.\nThe finance departments of the governments of counties, autonomous counties, municipalities not divided into districts and municipal districts shall, 30 days before the standing committee of the people's congress at the corresponding level holds a session to examine and approve the plan for budget adjustment, send the preliminary plan for budget adjustment to the relevant working body of the standing committee of that people's congress for opinions.\nThe plan for adjustment of the Central budget shall be submitted to the Standing Committee of the National People's Congress for examination and approval. The plans for adjustment of budgets at local levels at or above the county level shall be submitted to the standing committee of the people's congress at the corresponding level for examination and approval; the plans for adjustment of the budgets of townships, ethnic townships and towns shall be submitted to the people's congress at the corresponding level for examination and approval. Without approval, the budget shall not be adjusted."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter VII Budget Adjustment"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "Each government shall strictly execute the approved plan for budget adjustment. Without going through the procedures provided in Article 69 of this Law, no government may make a decision on budget adjustment.\nWith respect to a decision made in violation of the provisions of the preceding paragraph, the people's congress at the corresponding level, the standing committee of the people's congress at the corresponding level or the government at the next higher level shall order that it be altered or annulled."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter VII Budget Adjustment"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "In budget execution, changes in budget expenditure of local governments at all levels caused by special transfer payments added by higher-level governments that do not require matching funds from the government at the corresponding level do not constitute budget adjustment.\nLocal governments at or above the county level that receive additional special transfer payments shall report the relevant circumstances to the standing committee of the people's congress at the corresponding level; governments of townships, ethnic townships and towns that receive additional special transfer payments shall report the relevant circumstances to the people's congress at the corresponding level."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter VII Budget Adjustment"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "The budget expenditure of each department and each unit shall be executed in accordance with the budget subjects. The transfer of budgetary funds between different budget subjects, budget levels or projects shall be strictly controlled; where transfer and use are truly necessary, they shall be handled in accordance with the provisions of the finance department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter VII Budget Adjustment"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "After the plan for adjustment of the budget at a local level is approved, the government at the corresponding level shall report it to the government at the next higher level for the record."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter VII Budget Adjustment"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "Draft final accounts shall be prepared by each government, each department and each unit at the end of each budget year within the time prescribed by the State Council.\nThe specific matters concerning the preparation of draft final accounts shall be arranged by the finance department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter VIII Final Accounts"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "The preparation of draft final accounts must conform to laws and administrative regulations, and shall achieve authentic revenue and expenditure, accurate amounts, complete content and timely submission.\nDraft final accounts shall correspond to the budget and shall be listed separately by budget figure, adjusted budget figure and final account figure. General public budget expenditure shall, by functional classification, be itemised down to the item level, and by economic nature, be itemised down to the article level."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter VIII Final Accounts"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "Each department shall examine the draft final accounts of the units subordinate to it and compile the draft final accounts of the department on a consolidated basis, and submit them to the finance department of the government at the corresponding level for examination within the prescribed time limit.\nWhere, after examining the draft final accounts of the departments at the corresponding level, the finance department of each government finds that they do not conform to the provisions of laws and administrative regulations, it shall have the power to make corrections."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter VIII Final Accounts"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "The finance department under the State Council shall prepare the draft Central final accounts, which shall, after audit by the audit department under the State Council, be submitted to the State Council for examination and determination, and shall be submitted by the State Council to the Standing Committee of the National People's Congress for examination and approval.\nThe finance departments of local governments at or above the county level shall prepare the draft final accounts at the corresponding level, which shall, after audit by the audit department of the government at the corresponding level, be submitted to the government at the corresponding level for examination and determination, and shall be submitted by the government at the corresponding level to the standing committee of the people's congress at the corresponding level for examination and approval.\nThe governments of townships, ethnic townships and towns shall prepare the draft final accounts at the corresponding level and submit them to the people's congress at the corresponding level for examination and approval."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter VIII Final Accounts"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "The finance department under the State Council shall, 30 days before the Standing Committee of the National People's Congress holds a session to examine and approve the draft Central final accounts, submit the draft Central final accounts of the preceding year to the Financial and Economic Affairs Committee of the National People's Congress for preliminary examination.\nThe finance departments of the governments of provinces, autonomous regions and municipalities directly under the Central Government shall, 30 days before the standing committee of the people's congress at the corresponding level holds a session to examine and approve the draft final accounts at the corresponding level, submit the draft final accounts at the corresponding level of the preceding year to the relevant special committee of that people's congress for preliminary examination.\nThe finance departments of the governments of municipalities with districts and autonomous prefectures shall, 30 days before the standing committee of the people's congress at the corresponding level holds a session to examine and approve the draft final accounts at the corresponding level, submit the draft final accounts at the corresponding level of the preceding year to the relevant special committee of that people's congress for preliminary examination, or send them to the relevant working body of the standing committee of that people's congress for opinions.\nThe finance departments of the governments of counties, autonomous counties, municipalities not divided into districts and municipal districts shall, 30 days before the standing committee of the people's congress at the corresponding level holds a session to examine and approve the draft final accounts at the corresponding level, send the draft final accounts at the corresponding level of the preceding year to the relevant working body of the standing committee of that people's congress for opinions.\nThe Financial and Economic Affairs Committee of the National People's Congress and the relevant special committees of the people's congresses of provinces, autonomous regions, municipalities directly under the Central Government, municipalities with districts and autonomous prefectures shall submit to the standing committee of the people's congress at the corresponding level a report on the examination results of the draft final accounts at the corresponding level."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Chapter VIII Final Accounts"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "The standing committees of the people's congresses at or above the county level and the people's congresses of townships, ethnic townships and towns shall focus their examination of the draft final accounts at the corresponding level on the following:\n(a) the situation of budget revenue;\n(b) the implementation of expenditure policy and the use of and performance of funds for key expenditure and major investment projects;\n(c) the use of carry-over funds;\n(d) the situation of fund surplus;\n(e) the adjustment and execution of the budget at the corresponding level;\n(f) the arrangement and execution of fiscal transfer payments;\n(g) the scale, structure, use and repayment of the debt borrowed as approved;\n(h) the scale and use of the budget working capital at the corresponding level;\n(i) the use of the reserve funds at the corresponding level;\n(j) the arrangement of excess revenue and the scale and use of the budget stabilisation and adjustment fund;\n(k) the implementation of the budget resolution approved by the people's congress at the corresponding level;\n(l) other important circumstances relating to the final accounts.\nThe standing committees of the people's congresses at or above the county level shall examine the draft final accounts at the corresponding level in conjunction with the audit work report on the budget execution and other fiscal revenue and expenditure of the preceding year submitted by the government at the corresponding level."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Chapter VIII Final Accounts"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "After the final accounts at each level are approved, the finance department shall, within 20 days, approve the final accounts to each department at the corresponding level. After receiving the departmental final accounts approved by the finance department of the government at the corresponding level, each department shall, within 15 days, approve the final accounts to the units subordinate to it."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Chapter VIII Final Accounts"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "Each local government shall consolidate the approved final accounts and the final accounts submitted by the government at the next lower level for the record, and report them to the government at the next higher level for the record.\nGovernments at or above the county level shall, after consolidating the final accounts submitted by the government at the next lower level for the record, report them to the standing committee of the people's congress at the corresponding level for the record."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Chapter VIII Final Accounts"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "Where the State Council and local governments at or above the county level consider that the final accounts submitted by the government at the next lower level for the record in accordance with the provisions of Article 81 of this Law contravene laws or administrative regulations or are otherwise inappropriate and that the resolution approving those final accounts needs to be annulled, they shall request the standing committee of the people's congress at the corresponding level to deliberate and decide; where the deliberation decides on annulment, the standing committee of the people's congress at that lower level shall require the government at the corresponding level to prepare new draft final accounts in accordance with the provisions of this Law and submit them to the standing committee of the people's congress at the corresponding level for examination and approval."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Chapter VIII Final Accounts"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "The National People's Congress and its Standing Committee shall supervise the Central and local budgets and final accounts.\nThe people's congresses of local levels at or above the county level and their standing committees shall supervise the budgets and final accounts at the corresponding level and at lower levels.\nThe people's congresses of townships, ethnic townships and towns shall supervise the budgets and final accounts at the corresponding level."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Chapter IX Supervision"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "People's congresses at all levels and the standing committees of people's congresses at or above the county level shall have the power to organise investigations into major matters or specific issues in budgets and final accounts, and the governments, departments, units and individuals concerned shall truthfully report the circumstances and provide the necessary materials."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Chapter IX Supervision"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "When people's congresses at all levels and the standing committees of people's congresses at or above the county level hold sessions, deputies to the people's congress or members of the standing committee may, in accordance with the procedures provided by law, raise enquiries or interpellations concerning relevant issues in budgets and final accounts, and the government or finance department concerned that is subject to the enquiry or interpellation must reply promptly."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        },
+        "chapter": {
+          "en": "Chapter IX Supervision"
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "The State Council and local governments at or above the county level shall, between June and September each year, report on budget execution to the standing committee of the people's congress at the corresponding level."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        },
+        "chapter": {
+          "en": "Chapter IX Supervision"
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "Each government shall supervise the budget execution of lower-level governments; lower-level governments shall periodically report on budget execution to the government at the next higher level."
+        },
+        "noLabel": {
+          "en": "Article 87."
+        },
+        "chapter": {
+          "en": "Chapter IX Supervision"
+        }
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "The finance department of each government shall be responsible for supervising the work relating to budget management of the departments at the corresponding level and of the units subordinate to them, and shall report on budget execution to the government at the corresponding level and the finance department of the government at the next higher level."
+        },
+        "noLabel": {
+          "en": "Article 88."
+        },
+        "chapter": {
+          "en": "Chapter IX Supervision"
+        }
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "The audit departments of governments at or above the county level shall, in accordance with law, exercise audit supervision over budget execution and final accounts.\nThe audit work reports on budget execution and other fiscal revenue and expenditure shall be made public to society."
+        },
+        "noLabel": {
+          "en": "Article 89."
+        },
+        "chapter": {
+          "en": "Chapter IX Supervision"
+        }
+      },
+      {
+        "no": 90,
+        "text": {
+          "en": "The departments of each government shall be responsible for supervising and inspecting the budget execution of the units subordinate to them, promptly report the budget execution of the department to the finance department of the government at the corresponding level, and correct acts violating the budget in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 90."
+        },
+        "chapter": {
+          "en": "Chapter IX Supervision"
+        }
+      },
+      {
+        "no": 91,
+        "text": {
+          "en": "Where a citizen, legal person or other organisation finds any act violating this Law, it may report or complain to the relevant State organ in accordance with law.\nThe State organ receiving the report or complaint shall handle it in accordance with law and keep the informant or complainant confidential. No unit or individual may suppress, retaliate against or take revenge on the informant or complainant."
+        },
+        "noLabel": {
+          "en": "Article 91."
+        },
+        "chapter": {
+          "en": "Chapter IX Supervision"
+        }
+      },
+      {
+        "no": 92,
+        "text": {
+          "en": "Where a government at any level or a relevant department commits any of the following acts, it shall be ordered to make corrections, and administrative liability shall be pursued against the person in charge who bears direct responsibility and other persons directly responsible:\n(a) failing to prepare and submit draft budgets, plans for budget adjustment, draft final accounts and departmental budgets and final accounts, or to approve budgets and final accounts, in accordance with the provisions of this Law;\n(b) making budget adjustments in violation of the provisions of this Law;\n(c) failing to make public and explain the relevant budget matters in accordance with the provisions of this Law;\n(d) establishing government fund items and other fiscal revenue items in violation of the provisions;\n(e) using the budget reserve funds, the budget working capital, the budget stabilisation and adjustment fund or excess revenue in violation of the provisions of laws and regulations;\n(f) opening special fiscal accounts in violation of the provisions of this Law."
+        },
+        "noLabel": {
+          "en": "Article 92."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 93,
+        "text": {
+          "en": "Where a government at any level, a relevant department or a unit commits any of the following acts, it shall be ordered to make corrections, and the person in charge who bears direct responsibility and other persons directly responsible shall be given a sanction of demotion, removal from office or dismissal in accordance with law:\n(a) failing to incorporate all government revenue and expenditure into the budget, or falsely listing revenue and expenditure;\n(b) over-collecting or collecting in advance, or reducing, exempting or deferring the collection of, the budget revenue due, in violation of the provisions of laws and administrative regulations;\n(c) withholding, misappropriating, diverting or delaying the payment of budget revenue that should be paid into the treasury;\n(d) altering the purpose of budget expenditure in violation of the provisions of this Law;\n(e) altering without authorisation the purpose of special transfer payment funds of a higher-level government;\n(f) allocating budget expenditure funds or handling the collection, division, retention and remittance, or refund of budget revenue, in violation of the provisions of this Law, or freezing or using treasury funds or otherwise disposing of funds already paid into the treasury in violation of the provisions of this Law."
+        },
+        "noLabel": {
+          "en": "Article 93."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 94,
+        "text": {
+          "en": "Where a government at any level, a department or a unit, in violation of the provisions of this Law, borrows debt or provides a guarantee for the debt of another, or misappropriates funds for key expenditure, or builds office buildings and the like outside the budget or in excess of budget standards, it shall be ordered to make corrections, and the person in charge who bears direct responsibility and other persons directly responsible shall be given a sanction of removal from office or dismissal."
+        },
+        "noLabel": {
+          "en": "Article 94."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 95,
+        "text": {
+          "en": "Where a relevant department or unit of a government at any level or its staff members commits any of the following acts, it shall be ordered to make corrections, the funds fraudulently obtained or used shall be recovered, and any illegal income shall be confiscated; the unit shall be given a warning or circulated a criticism; and the person in charge who bears direct responsibility and other persons directly responsible shall be given sanctions in accordance with law:\n(a) altering the method of paying over budget revenue in violation of the provisions of laws and regulations;\n(b) fraudulently obtaining budgetary funds by false reporting, fraudulent claim or other means;\n(c) expanding the scope of expenditure or raising expenditure standards in violation of the provisions;\n(d) other acts violating the provisions on fiscal management."
+        },
+        "noLabel": {
+          "en": "Article 95."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 96,
+        "text": {
+          "en": "Where other laws otherwise provide for the handling and punishment of the illegal acts listed in Articles 92, 93, 94 and 95 of this Law, those provisions shall apply.\nWhere a violation of the provisions of this Law constitutes a crime, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 96."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 97,
+        "text": {
+          "en": "The finance department of each government shall prepare annually a comprehensive government financial report on an accrual basis, reporting the overall financial position and operations of the government and its medium- and long-term fiscal sustainability, and submit it to the standing committee of the people's congress at the corresponding level for the record."
+        },
+        "noLabel": {
+          "en": "Article 97."
+        },
+        "chapter": {
+          "en": "Chapter XI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 98,
+        "text": {
+          "en": "The State Council shall formulate implementing regulations in accordance with this Law."
+        },
+        "noLabel": {
+          "en": "Article 98."
+        },
+        "chapter": {
+          "en": "Chapter XI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 99,
+        "text": {
+          "en": "Budget management in national autonomous areas shall be carried out in accordance with the relevant provisions of the Law on Regional National Autonomy; where the Law on Regional National Autonomy does not provide for a matter, the relevant provisions of this Law and of the State Council shall apply."
+        },
+        "noLabel": {
+          "en": "Article 99."
+        },
+        "chapter": {
+          "en": "Chapter XI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 100,
+        "text": {
+          "en": "The people's congresses of provinces, autonomous regions and municipalities directly under the Central Government or their standing committees may, in accordance with this Law, formulate decisions or local regulations on the examination and supervision of budgets."
+        },
+        "noLabel": {
+          "en": "Article 100."
+        },
+        "chapter": {
+          "en": "Chapter XI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 101,
+        "text": {
+          "en": "This Law shall come into force on 1 January 1995. The Regulations on the Administration of the State Budget promulgated by the State Council on 21 October 1991 shall be repealed at the same time."
+        },
+        "noLabel": {
+          "en": "Article 101."
+        },
+        "chapter": {
+          "en": "Chapter XI Supplementary Provisions"
         }
       }
     ]

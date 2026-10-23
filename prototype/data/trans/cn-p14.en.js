@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p14
-   法规 79 部 / 译文 1822 条
+   法规 80 部 / 译文 1902 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -19005,6 +19005,951 @@
         },
         "noLabel": {
           "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0181'] = {
+    "lawId": "CN-REG-0181",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 80 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated for the purpose of standardising the production and business activities of cosmetics, strengthening the supervision and administration of cosmetics, ensuring the quality and safety of cosmetics, safeguarding consumer health and promoting the sound development of the cosmetics industry."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "These Regulations shall be observed in carrying out the production and business activities of cosmetics and the supervision and administration thereof within the territory of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Cosmetics mentioned in these Regulations refer to daily chemical industrial products that are applied to the surface of the human body, such as the skin, hair, nails and lips, by way of smearing, spraying or other similar methods for the purposes of cleaning, protection, beautification and embellishment."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The State applies classified management to cosmetics and cosmetic ingredients according to the degree of risk.\nCosmetics are divided into special cosmetics and ordinary cosmetics. The State applies registration management to special cosmetics and filing management to ordinary cosmetics.\nCosmetic ingredients are divided into new ingredients and ingredients already in use. The State applies registration management to new cosmetic ingredients with a relatively high degree of risk and filing management to other new cosmetic ingredients."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The drug supervision and administration department of the State Council is responsible for the supervision and administration of cosmetics nationwide. The relevant departments of the State Council are responsible for the supervision and administration relating to cosmetics within the scope of their respective duties.\nThe departments responsible for drug supervision and administration of local people's governments at or above the county level are responsible for the supervision and administration of cosmetics within their respective administrative areas. The relevant departments of local people's governments at or above the county level are responsible for the supervision and administration relating to cosmetics within the scope of their respective duties."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The registrant or filer of cosmetics is responsible for the quality and safety of the cosmetics and the efficacy claims thereof.\nProducers and operators of cosmetics shall, in accordance with laws, regulations, mandatory national standards and technical specifications, carry out production and business activities, strengthen management, act in good faith and exercise self-discipline, and ensure the quality and safety of cosmetics."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Cosmetics industry associations shall strengthen industry self-discipline, urge and guide cosmetics producers and operators to carry out production and business activities in accordance with law, and promote the building of industry integrity."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Consumers' associations and other consumer organisations shall, in accordance with law, exercise social supervision over acts that violate the provisions of these Regulations and harm the lawful rights and interests of consumers."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The State encourages and supports research on and innovation in cosmetics to meet consumer needs, advances the building of cosmetics brands and gives play to the leading role of brands. The State protects the lawful rights and interests of units and individuals in carrying out research on and innovation in cosmetics.\nThe State encourages and supports cosmetics producers and operators in adopting advanced technologies and advanced management practices to improve the quality and safety of cosmetics, and encourages and supports the use of modern science and technology, in combination with China's traditional advantageous items and distinctive plant resources, to research and develop cosmetics."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The State strengthens the informatisation of cosmetics supervision and administration, improves the level of online government services, facilitates the handling of administrative licensing and filing of cosmetics, and advances the sharing of supervision and administration information."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "A natural or artificial ingredient used in cosmetics for the first time within the territory of China is a new cosmetic ingredient. A new cosmetic ingredient with the functions of preservation, sun protection, colouring, hair dyeing or freckle removal and whitening may be used only after registration with the drug supervision and administration department of the State Council; other new cosmetic ingredients shall be filed with the drug supervision and administration department of the State Council before use. The drug supervision and administration department of the State Council may, in light of the development of scientific research, adjust the scope of new cosmetic ingredients subject to registration management, to be implemented after approval by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Raw Materials and Products"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "To apply for registration of a new cosmetic ingredient or to file a new cosmetic ingredient, the following materials shall be submitted:\n(a) the name, address and contact details of the registration applicant or filer;\n(b) the research and development report on the new ingredient;\n(c) research materials on the preparation process, stability and quality control standards of the new ingredient;\n(d) the safety assessment materials of the new ingredient.\nThe registration applicant or filer shall be responsible for the authenticity and scientific validity of the materials submitted."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Raw Materials and Products"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The drug supervision and administration department of the State Council shall, within three working days from the date of acceptance of an application for registration of a new cosmetic ingredient, transfer the application materials to the technical review institution. The technical review institution shall, within 90 working days from the date of receipt of the application materials, complete the technical review and submit its review opinions to the drug supervision and administration department of the State Council. The drug supervision and administration department of the State Council shall, within 20 working days from the date of receipt of the review opinions, make a decision. Where the requirements are met, registration shall be granted and a registration certificate for the new cosmetic ingredient issued; where the requirements are not met, registration shall not be granted and the reasons shall be stated in writing.\nThe filer of a new cosmetic ingredient completes the filing upon submitting the filing materials provided for in these Regulations through the online government service platform of the drug supervision and administration department of the State Council.\nThe drug supervision and administration department of the State Council shall, within five working days from the date of granting registration of a new cosmetic ingredient or from the date on which the filer submits the filing materials, publish the relevant registration or filing information to the public."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Raw Materials and Products"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Within three years after a registered or filed new cosmetic ingredient is put into use, the registrant or filer of the new ingredient shall annually report the use and safety of the new ingredient to the drug supervision and administration department of the State Council. For a new cosmetic ingredient with safety problems, the drug supervision and administration department of the State Council shall revoke the registration or cancel the filing. A new cosmetic ingredient for which no safety problem has arisen upon expiry of the three-year period shall be included in the catalogue of cosmetic ingredients already in use formulated by the drug supervision and administration department of the State Council.\nBefore a registered or filed new cosmetic ingredient is included in the catalogue of cosmetic ingredients already in use, it shall still be administered as a new cosmetic ingredient."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Raw Materials and Products"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The catalogue of ingredients prohibited for use in the production of cosmetics shall be formulated and published by the drug supervision and administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Raw Materials and Products"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Cosmetics used for hair dyeing, hair perming, freckle removal and whitening, sun protection and hair loss prevention, as well as cosmetics claiming new efficacy, are special cosmetics. Cosmetics other than special cosmetics are ordinary cosmetics.\nThe drug supervision and administration department of the State Council shall, on the basis of factors such as efficacy claims, application sites, product dosage forms and user groups of cosmetics, formulate and publish the rules and catalogue for the classification of cosmetics."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Raw Materials and Products"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Special cosmetics may be produced or imported only after registration with the drug supervision and administration department of the State Council. Domestic ordinary cosmetics shall, before being placed on the market for sale, be filed with the drug supervision and administration department of the people's government of the province, autonomous region or municipality directly under the Central Government where the filer is located. Imported ordinary cosmetics shall, before importation, be filed with the drug supervision and administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Raw Materials and Products"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "An applicant for cosmetic registration or a filer shall meet the following conditions:\n(a) being an enterprise or other organisation established in accordance with law;\n(b) having a quality management system suited to the product for which registration is applied or which is to be filed;\n(c) having the capacity to monitor and assess adverse reactions to cosmetics."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Raw Materials and Products"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "To apply for registration of special cosmetics or to file ordinary cosmetics, the following materials shall be submitted:\n(a) the name, address and contact details of the registration applicant or filer;\n(b) the name, address and contact details of the manufacturing enterprise;\n(c) the product name;\n(d) the product formula or the full ingredients of the product;\n(e) the standards implemented for the product;\n(f) a draft of the product label;\n(g) the product inspection report;\n(h) the product safety assessment materials.\nWhere a registration applicant applies for registration of special cosmetics for the first time or a filer files ordinary cosmetics for the first time, it shall submit supporting materials proving that it meets the conditions provided for in Article 18 of these Regulations. Where registration of imported special cosmetics is applied for or imported ordinary cosmetics are filed, documents proving that the product has already been placed on the market and sold in the country (region) of production and supporting materials proving that the overseas manufacturing enterprise conforms to the cosmetic production quality management specifications shall be submitted at the same time; where the product is produced solely for export to China and the documents proving that the product has already been placed on the market and sold in the country (region) of production cannot be submitted, the materials of the relevant research and tests conducted for Chinese consumers shall be submitted.\nThe registration applicant or filer shall be responsible for the authenticity and scientific validity of the materials submitted."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Raw Materials and Products"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The drug supervision and administration department of the State Council shall examine applications for registration of special cosmetics in accordance with the registration review procedure for new cosmetic ingredients provided for in paragraph 1 of Article 13 of these Regulations. Where the requirements are met, registration shall be granted and a registration certificate for special cosmetics issued; where the requirements are not met, registration shall not be granted and the reasons shall be stated in writing. Where a registered special cosmetic undergoes substantive changes in production process, efficacy claims, etc., the registrant shall apply to the original registration department for change of registration.\nThe filer of ordinary cosmetics completes the filing upon submitting the filing materials provided for in these Regulations through the online government service platform of the drug supervision and administration department of the State Council.\nThe drug supervision and administration departments of people's governments at or above the provincial level shall, within five working days from the date of granting registration of special cosmetics or from the date on which the filer of ordinary cosmetics submits the filing materials, publish the relevant registration or filing information to the public."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Raw Materials and Products"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Before the registration or filing of new cosmetic ingredients and cosmetics, the registration applicant or filer shall conduct a safety assessment itself or entrust a professional institution to do so.\nPersonnel engaged in safety assessment shall possess professional knowledge relating to cosmetic quality and safety and have more than five years of professional experience in the relevant field."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Raw Materials and Products"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Efficacy claims of cosmetics shall have sufficient scientific basis. The registrant or filer of cosmetics shall publish on the special website prescribed by the drug supervision and administration department of the State Council the abstracts of the literature, research data or product efficacy evaluation materials on which the efficacy claims are based, and accept social supervision."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter II Raw Materials and Products"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The overseas registrant or filer of cosmetics shall designate an enterprise legal person within the territory of China to handle the registration and filing of cosmetics and to assist in monitoring adverse reactions to cosmetics and implementing product recalls."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter II Raw Materials and Products"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The registration certificate for special cosmetics shall be valid for five years. Where renewal of registration is required upon expiry of the period of validity, an application for renewal shall be submitted 30 working days before the expiry. Except in the circumstances provided for in paragraph 2 of this Article, the drug supervision and administration department of the State Council shall make a decision to permit renewal before the expiry of the registration certificate for special cosmetics; where no decision is made within that period, renewal shall be deemed permitted.\nRegistration shall not be renewed in any of the following circumstances:\n(a) the registrant fails to apply for renewal within the prescribed time limit;\n(b) the mandatory national standards or technical specifications have been revised and the cosmetic for which renewal is applied cannot meet the requirements of the revised standards or technical specifications."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter II Raw Materials and Products"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The drug supervision and administration department of the State Council is responsible for proposing projects for, organising the drafting of, soliciting opinions on and conducting the technical review of mandatory national standards for cosmetics. The standardisation administration department of the State Council is responsible for the project approval, numbering and notification to foreign parties of mandatory national standards for cosmetics.\nThe texts of national standards for cosmetics shall be made available to the public free of charge.\nCosmetics shall conform to the mandatory national standards. Enterprises are encouraged to formulate enterprise standards stricter than the mandatory national standards."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter II Raw Materials and Products"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "To engage in cosmetic production activities, the following conditions shall be met:\n(a) being an enterprise established in accordance with law;\n(b) having production sites, environmental conditions, production facilities and equipment suited to the cosmetics to be produced;\n(c) having technical personnel suited to the cosmetics to be produced;\n(d) having inspection personnel and inspection equipment capable of inspecting the cosmetics to be produced;\n(e) having a management system ensuring the quality and safety of cosmetics."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Production and Operation"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "To engage in cosmetic production activities, an application shall be submitted to the drug supervision and administration department of the people's government of the province, autonomous region or municipality directly under the Central Government where the applicant is located, together with supporting materials proving that it meets the conditions provided for in Article 26 of these Regulations, and the applicant shall be responsible for the authenticity of the materials.\nThe drug supervision and administration department of the people's government of the province, autonomous region or municipality directly under the Central Government shall examine the application materials, conduct an on-site inspection of the applicant's production site, and make a decision within 30 working days from the date of acceptance of the application for a cosmetic production licence. Where the prescribed conditions are met, a licence shall be granted and a cosmetic production licence issued; where the prescribed conditions are not met, a licence shall not be granted and the reasons shall be stated in writing.\nThe cosmetic production licence shall be valid for five years. Where renewal is required upon expiry of the period of validity, the matter shall be handled in accordance with the provisions of the Administrative Licensing Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Production and Operation"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The registrant or filer of cosmetics may produce cosmetics itself or entrust other enterprises to produce cosmetics.\nWhere the production of cosmetics is entrusted, the registrant or filer shall entrust an enterprise that has obtained the corresponding cosmetic production licence, and shall supervise the production activities of the entrusted enterprise (hereinafter referred to as the entrusted manufacturing enterprise) to ensure that it produces in accordance with statutory requirements. The entrusted manufacturing enterprise shall produce in accordance with laws, regulations, mandatory national standards, technical specifications and the contract, be responsible for its production activities, and accept the supervision of the registrant or filer."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Production and Operation"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The registrant, filer and entrusted manufacturing enterprise of cosmetics shall organise the production of cosmetics in accordance with the requirements of the cosmetic production quality management specifications formulated by the drug supervision and administration department of the State Council, establish a cosmetic production quality management system, and establish and implement management systems for supplier selection, acceptance of raw materials, production process and quality control, equipment management, and product inspection and retention of samples.\nThe registrant, filer and entrusted manufacturing enterprise of cosmetics shall produce cosmetics in accordance with the technical requirements stated in the cosmetic registration or filing materials."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Production and Operation"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Cosmetic ingredients and packaging materials that come into direct contact with cosmetics shall conform to mandatory national standards and technical specifications.\nCosmetics may not be produced using cosmetics or cosmetic ingredients that have exceeded their period of use or have been discarded or recovered."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Production and Operation"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The registrant, filer and entrusted manufacturing enterprise of cosmetics shall establish and implement a system of records of incoming inspection of raw materials and packaging materials that come into direct contact with cosmetics and a system of product sales records. The incoming inspection records and product sales records shall be true and complete so as to ensure traceability, and shall be kept for not less than one year after the expiry of the period of use of the product; where the period of use of the product is less than one year, the records shall be kept for not less than two years.\nCosmetics may be placed on the market for sale only after passing ex-factory inspection."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Production and Operation"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The registrant, filer and entrusted manufacturing enterprise of cosmetics shall designate a person in charge of quality and safety, who shall assume the corresponding responsibilities for product quality and safety management and product release.\nThe person in charge of quality and safety shall possess professional knowledge relating to cosmetic quality and safety and have more than five years of experience in cosmetic production or quality and safety management."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III Production and Operation"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The registrant, filer and entrusted manufacturing enterprise of cosmetics shall establish and implement a health management system for employees. Persons suffering from diseases that impede cosmetic quality and safety as prescribed by the health department of the State Council may not directly engage in cosmetic production activities."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter III Production and Operation"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The registrant, filer and entrusted manufacturing enterprise of cosmetics shall periodically conduct self-inspection of the implementation of the cosmetic production quality management specifications; where production conditions change and no longer meet the requirements of the cosmetic production quality management specifications, rectification measures shall be taken immediately; where the quality and safety of cosmetics may be affected, production shall be stopped immediately and a report shall be made to the drug supervision and administration department of the people's government of the province, autonomous region or municipality directly under the Central Government where it is located."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter III Production and Operation"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The smallest sales unit of cosmetics shall bear a label. Labels shall conform to the relevant laws, administrative regulations and mandatory national standards, and the content shall be true, complete and accurate.\nImported cosmetics may directly use Chinese labels or may have Chinese labels affixed; where Chinese labels are affixed, the content of the Chinese label shall be consistent with the content of the original label."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter III Production and Operation"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The label of cosmetics shall indicate the following content:\n(a) the product name and the registration certificate number of the special cosmetic;\n(b) the names and addresses of the registrant, the filer and the entrusted manufacturing enterprise;\n(c) the cosmetic production licence number;\n(d) the number of the standards implemented for the product;\n(e) the full ingredients;\n(f) the net content;\n(g) the period of use, the method of use and the necessary safety warnings;\n(h) other content that shall be indicated as prescribed by laws, administrative regulations and mandatory national standards."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter III Production and Operation"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The label of cosmetics is prohibited from indicating the following content:\n(a) content expressly stating or implying a medical effect;\n(b) false or misleading content;\n(c) content contrary to public order and good morals;\n(d) other content prohibited from being indicated by laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter III Production and Operation"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Cosmetics operators shall establish and implement a system of records of incoming inspection, verify the supplier's market entity registration certificate, the registration or filing status of the cosmetics and the certificate of ex-factory inspection, truthfully record and keep the relevant vouchers. The retention period of the records and vouchers shall conform to the provisions of paragraph 1 of Article 31 of these Regulations.\nCosmetics operators may not compound cosmetics themselves."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter III Production and Operation"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Cosmetics producers and operators shall store and transport cosmetics in accordance with the provisions of the relevant laws and regulations and the requirements indicated on the cosmetic labels, and shall periodically inspect and promptly handle cosmetics that have deteriorated or exceeded their period of use."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter III Production and Operation"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "The operator of a cosmetics concentrated trading market and the organiser of a trade fair shall examine the market entity registration certificates of cosmetics operators entering the market, assume responsibility for the management of cosmetics operators entering the market, and periodically inspect the cosmetics operators entering the market; where it discovers that a cosmetics operator entering the market has committed an act violating the provisions of these Regulations, it shall promptly stop it and report to the department responsible for drug supervision and administration of the county-level people's government where it is located."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter III Production and Operation"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "The operator of an e-commerce platform shall conduct real-name registration of cosmetics operators on the platform, assume responsibility for the management of cosmetics operators on the platform, and where it discovers that a cosmetics operator on the platform has committed an act violating the provisions of these Regulations, it shall promptly stop it and report to the drug supervision and administration department of the people's government of the province, autonomous region or municipality directly under the Central Government where the e-commerce platform operator is located; where it discovers a serious unlawful act, it shall immediately stop providing e-commerce platform services to the unlawful cosmetics operator.\nCosmetics operators on a platform shall disclose information on the cosmetics they operate in a comprehensive, true, accurate and timely manner."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter III Production and Operation"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where beauty and hair salons, hotels, etc. use cosmetics in their operations or provide cosmetics to consumers, they shall perform the obligations of cosmetics operators provided for in these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter III Production and Operation"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "The content of cosmetic advertisements shall be true and lawful.\nCosmetic advertisements may not expressly state or imply that the product has a medical effect, may not contain false or misleading content, and may not deceive or mislead consumers."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter III Production and Operation"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where the registrant or filer of cosmetics discovers that the cosmetics have quality defects or other problems that may harm human health, it shall immediately stop production, recall the cosmetics already placed on the market for sale, notify the relevant cosmetics operators and consumers to stop operating and using them, and record the recall and notification. The registrant or filer shall take remedial measures, harmless treatment, destruction and other measures with respect to the recalled cosmetics, and shall report the recall and handling of the cosmetics to the drug supervision and administration department of the people's government of the province, autonomous region or municipality directly under the Central Government where it is located.\nWhere an entrusted manufacturing enterprise or cosmetics operator discovers that the cosmetics it produces or operates fall under the circumstances provided for in the preceding paragraph, it shall immediately stop production or operation and notify the relevant registrant or filer of cosmetics. The registrant or filer shall immediately implement the recall.\nWhere the department responsible for drug supervision and administration discovers in supervision and inspection that cosmetics fall under the circumstances provided for in paragraph 1 of this Article, it shall notify the registrant or filer to implement the recall and notify the entrusted manufacturing enterprise and cosmetics operators to stop production or operation.\nWhere the registrant or filer implements a recall, the entrusted manufacturing enterprise and cosmetics operators shall cooperate.\nWhere the registrant, filer, entrusted manufacturing enterprise or operator of cosmetics fails to implement a recall or stop production or operation in accordance with the provisions of this Article, the department responsible for drug supervision and administration shall order it to implement the recall or stop production or operation."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter III Production and Operation"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "The entry-exit inspection and quarantine institution shall inspect imported cosmetics in accordance with the provisions of the Law of the People's Republic of China on Import and Export Commodity Inspection; cosmetics that fail the inspection may not be imported.\nAn importer shall examine whether the cosmetics to be imported have been registered or filed and whether they conform to these Regulations and the mandatory national standards and technical specifications; where the examination is not passed, they may not be imported. The importer shall truthfully record information on the imported cosmetics, and the retention period of the records shall conform to the provisions of paragraph 1 of Article 31 of these Regulations.\nExported cosmetics shall conform to the standards of the importing country (region) or the requirements of the contract."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter III Production and Operation"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "When the department responsible for drug supervision and administration conducts supervision and inspection of cosmetic production and operation, it has the right to take the following measures:\n(a) entering the production and operation premises to carry out on-site inspection;\n(b) conducting sampling inspection of cosmetics produced and operated;\n(c) consulting and copying the relevant contracts, invoices, account books and other relevant materials;\n(d) sealing up and distraining cosmetics and their ingredients and packaging materials that come into direct contact with cosmetics that do not conform to mandatory national standards or technical specifications or for which there is evidence proving that they may harm human health, as well as tools and equipment for which there is evidence proving that they are used for unlawful production and operation;\n(e) sealing up premises where production and operation activities are unlawfully carried out."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "When the department responsible for drug supervision and administration conducts supervision and inspection of cosmetic production and operation, there shall be not fewer than two inspectors, who shall produce their law enforcement certificates. Inspectors shall, in accordance with law, keep confidential the trade secrets of the inspected unit learned in supervision and inspection. The inspected unit shall cooperate with the supervision and inspection and may not conceal the relevant circumstances.\nThe department responsible for drug supervision and administration shall record the circumstances of supervision and inspection and the handling results, and the records shall be signed by the inspectors and the person in charge of the inspected unit; where the person in charge of the inspected unit refuses to sign, this shall be noted."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "The drug supervision and administration departments of people's governments at or above the provincial level shall organise sampling inspection of cosmetics; for cosmetics on which problems are frequently reflected in reports or found in routine supervision and inspection, the department responsible for drug supervision and administration may conduct special sampling inspection.\nIn conducting sampling inspection, the cost of the samples taken shall be paid, and the funds required shall be included in the budget of the people's government at the same level.\nThe department responsible for drug supervision and administration shall, in accordance with the provisions, promptly publish the results of cosmetic sampling inspection."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "A cosmetics inspection institution may engage in cosmetics inspection activities only after obtaining qualification accreditation in accordance with the State provisions on certification and accreditation. The conditions for qualification accreditation of cosmetics inspection institutions shall be formulated by the drug supervision and administration department of the State Council and the market supervision and administration department of the State Council.\nThe specifications for cosmetics inspection and the provisions on the administration of reference standards relating to cosmetics inspection shall be formulated by the drug supervision and administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "For cosmetics that may be adulterated or produced with ingredients prohibited for use in the production of cosmetics and that cannot be inspected in accordance with the inspection items and inspection methods prescribed in the national standards for cosmetics, the drug supervision and administration department of the State Council may formulate supplementary inspection items and inspection methods for use in sampling inspection of cosmetics, investigation and handling of cosmetic quality and safety cases, and investigation and handling of adverse reactions."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where there is an objection to a inspection conclusion made in accordance with the provisions of these Regulations, the cosmetics producer or operator may, within seven working days from the date of receipt of the inspection conclusion, apply for re-inspection to the department that carried out the sampling inspection or to the department responsible for drug supervision and administration at the next higher level, and the department accepting the re-inspection application shall randomly determine a re-inspection institution from the list of re-inspection institutions to conduct the re-inspection. The re-inspection conclusion issued by the re-inspection institution shall be the final inspection conclusion. The re-inspection institution and the original inspection institution may not be the same institution. The list of re-inspection institutions shall be published by the drug supervision and administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "The State establishes a system for monitoring adverse reactions to cosmetics. The registrant or filer of cosmetics shall monitor adverse reactions to the cosmetics it has placed on the market for sale, promptly carry out assessment, and report to the cosmetics adverse reaction monitoring institution in accordance with the provisions of the drug supervision and administration department of the State Council. Where an entrusted manufacturing enterprise, cosmetics operator or medical institution discovers an adverse reaction that may be related to the use of cosmetics, it shall report to the cosmetics adverse reaction monitoring institution. Other units and individuals are encouraged to report adverse reactions that may be related to the use of cosmetics to the cosmetics adverse reaction monitoring institution or the department responsible for drug supervision and administration.\nThe cosmetics adverse reaction monitoring institution is responsible for collecting, analysing and assessing information on adverse reactions to cosmetics and proposing handling suggestions to the department responsible for drug supervision and administration.\nCosmetics producers and operators shall cooperate with the cosmetics adverse reaction monitoring institution and the department responsible for drug supervision and administration in carrying out investigations of adverse reactions to cosmetics.\nAdverse reactions to cosmetics refer to pathological changes of the skin and its appendages and local or systemic damage to the human body caused by normal use of cosmetics."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "The State establishes a system for monitoring and assessing cosmetic safety risks, monitors and assesses the risk factors affecting cosmetic quality and safety, and provides a scientific basis for formulating risk control measures and standards for cosmetic quality and safety and for carrying out sampling inspection of cosmetics.\nThe national plan for monitoring cosmetic safety risks shall be formulated and published by the drug supervision and administration department of the State Council and implemented by it. The national plan for monitoring cosmetic safety risks shall specify the varieties, items and regions subject to key monitoring.\nThe drug supervision and administration department of the State Council shall establish a mechanism for the exchange of information on cosmetic quality and safety risks, and organise cosmetics producers and operators, inspection institutions, industry associations, consumers' associations and the news media to exchange and communicate on information on cosmetic quality and safety risks."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "For cosmetics that cause harm to the human body or for which there is evidence proving that they may harm human health, the department responsible for drug supervision and administration may take emergency control measures ordering suspension of production and operation and issue safety warning information; where the cosmetics are imported cosmetics, the State entry-exit inspection and quarantine department may suspend their importation."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where, in light of the development of scientific research, understanding of the safety of cosmetics or cosmetic ingredients changes, or where there is evidence indicating that cosmetics or cosmetic ingredients may have defects, the drug supervision and administration departments of people's governments at or above the provincial level may order the registrant or filer of the cosmetics or new cosmetic ingredients to carry out a re-assessment of safety or may directly organise such re-assessment. Where the results of the re-assessment show that the cosmetics or cosmetic ingredients cannot be guaranteed to be safe, the original registration department shall revoke the registration and the filing department shall cancel the filing, and the drug supervision and administration department of the State Council shall include the cosmetic ingredient in the catalogue of ingredients prohibited for use in the production of cosmetics and publish it to the public."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "The department responsible for drug supervision and administration shall, in accordance with law, promptly publish supervision and administration information such as administrative licensing, filing, routine supervision and inspection results and the investigation and handling of unlawful acts relating to cosmetics. When publishing supervision and administration information, the trade secrets of the parties concerned shall be protected.\nThe department responsible for drug supervision and administration shall establish credit files for cosmetics producers and operators. For cosmetics producers and operators with a record of adverse credit, the frequency of supervision and inspection shall be increased; for producers and operators with a record of serious adverse credit, joint punishment shall be implemented in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where potential safety hazards exist in the process of cosmetic production and operation and measures are not taken in a timely manner to eliminate them, the department responsible for drug supervision and administration may conduct a accountability interview with the legal representative or principal person in charge of the cosmetics producer or operator. The cosmetics producer or operator shall immediately take measures, carry out rectification and eliminate the hazards. The circumstances of the accountability interview and the rectification shall be included in the credit file of the cosmetics producer or operator."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "The department responsible for drug supervision and administration shall publish the website address, e-mail address or telephone number of the department to accept consultations, complaints and reports, and shall promptly reply to or handle them. Rewards shall be given to informants for verified reports in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where any of the following circumstances applies, the department responsible for drug supervision and administration shall confiscate the unlawful gains, the cosmetics unlawfully produced and operated and the raw materials, packaging materials, tools, equipment and other articles specially used for unlawful production and operation; where the value of the cosmetics unlawfully produced and operated is less than 10,000 yuan, a fine of not less than 50,000 yuan but not more than 150,000 yuan shall be imposed concurrently; where the value is 10,000 yuan or more, a fine of not less than 15 times but not more than 30 times the value shall be imposed concurrently; where the circumstances are serious, order suspension of production and business, have the filing department cancel the filing or the original licensing department revoke the cosmetic licence, refuse to handle any cosmetic filing or accept any application for cosmetic administrative licensing submitted by it within 10 years, and impose on the legal representative or principal person in charge, the person directly in charge and other persons directly responsible of the unlawful unit a fine of not less than three times but not more than five times the income obtained from the unit in the previous year, and prohibit them from engaging in cosmetic production and operation activities for life; where a crime is constituted, criminal liability shall be pursued in accordance with law:\n(a) engaging in cosmetic production activities without a licence, or the registrant or filer of cosmetics entrusting an enterprise that has not obtained the corresponding cosmetic production licence to produce cosmetics;\n(b) producing, operating or importing special cosmetics that have not been registered;\n(c) producing cosmetics using ingredients prohibited for use in the production of cosmetics or new ingredients that should be registered but have not been registered, unlawfully adding substances that may harm human health to cosmetics, or producing cosmetics using cosmetics or ingredients that have exceeded their period of use or have been discarded or recovered."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Where any of the following circumstances applies, the department responsible for drug supervision and administration shall confiscate the unlawful gains, the cosmetics unlawfully produced and operated and the raw materials, packaging materials, tools, equipment and other articles specially used for unlawful production and operation; where the value of the cosmetics unlawfully produced and operated is less than 10,000 yuan, a fine of not less than 10,000 yuan but not more than 50,000 yuan shall be imposed concurrently; where the value is 10,000 yuan or more, a fine of not less than five times but not more than 20 times the value shall be imposed concurrently; where the circumstances are serious, order suspension of production and business, have the filing department cancel the filing or the original licensing department revoke the cosmetic licence, impose on the legal representative or principal person in charge, the person directly in charge and other persons directly responsible of the unlawful unit a fine of not less than one time but not more than three times the income obtained from the unit in the previous year, and prohibit them from engaging in cosmetic production and operation activities within 10 years; where a crime is constituted, criminal liability shall be pursued in accordance with law:\n(a) producing cosmetics using raw materials or packaging materials that come into direct contact with cosmetics that do not conform to mandatory national standards or technical specifications, or new ingredients that should be filed but have not been filed, or using raw materials not in accordance with mandatory national standards or technical specifications;\n(b) producing or operating cosmetics that do not conform to mandatory national standards or technical specifications or do not conform to the technical requirements stated in the cosmetic registration or filing materials;\n(c) organising production not in accordance with the requirements of the cosmetic production quality management specifications;\n(d) altering the period of use of cosmetics;\n(e) a cosmetics operator compounding cosmetics without authorisation, or operating cosmetics that have deteriorated or exceeded their period of use;\n(f) refusing to implement a recall after the department responsible for drug supervision and administration has ordered it to do so, or refusing to stop or suspend production or operation after the department responsible for drug supervision and administration has ordered it to do so."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where any of the following circumstances applies, the department responsible for drug supervision and administration shall confiscate the unlawful gains and the cosmetics unlawfully produced and operated, and may confiscate the raw materials, packaging materials, tools, equipment and other articles specially used for unlawful production and operation; where the value of the cosmetics unlawfully produced and operated is less than 10,000 yuan, a fine of not less than 10,000 yuan but not more than 30,000 yuan shall be imposed concurrently; where the value is 10,000 yuan or more, a fine of not less than three times but not more than 10 times the value shall be imposed concurrently; where the circumstances are serious, order suspension of production and business, have the filing department cancel the filing or the original licensing department revoke the cosmetic licence, impose on the legal representative or principal person in charge, the person directly in charge and other persons directly responsible of the unlawful unit a fine of not less than one time but not more than two times the income obtained from the unit in the previous year, and prohibit them from engaging in cosmetic production and operation activities within five years:\n(a) placing on the market for sale, operating or importing ordinary cosmetics that have not been filed;\n(b) failing to designate a person in charge of quality and safety in accordance with the provisions of these Regulations;\n(c) the registrant or filer of cosmetics failing to supervise the production activities of the entrusted manufacturing enterprise;\n(d) failing to establish and implement a health management system for employees in accordance with the provisions of these Regulations;\n(e) producing or operating cosmetics whose labels do not conform to the provisions of these Regulations.\nWhere the label of cosmetics produced or operated has defects that do not affect quality and safety and will not mislead consumers, the department responsible for drug supervision and administration shall order correction; where correction is refused, a fine of not more than 2,000 yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Where any of the following circumstances applies, the department responsible for drug supervision and administration shall order correction, give a warning and concurrently impose a fine of not less than 10,000 yuan but not more than 30,000 yuan; where the circumstances are serious, order suspension of production and business and concurrently impose a fine of not less than 30,000 yuan but not more than 50,000 yuan, and impose a fine of not less than 10,000 yuan but not more than 30,000 yuan on the legal representative or principal person in charge, the person directly in charge and other persons directly responsible of the unlawful unit:\n(a) failing to publish the abstracts of the basis for cosmetic efficacy claims in accordance with the provisions of these Regulations;\n(b) failing to establish and implement the system of records of incoming inspection and the system of product sales records in accordance with the provisions of these Regulations;\n(c) failing to conduct self-inspection of the implementation of the cosmetic production quality management specifications in accordance with the provisions of these Regulations;\n(d) failing to store or transport cosmetics in accordance with the provisions of these Regulations;\n(e) failing to monitor or report adverse reactions to cosmetics in accordance with the provisions of these Regulations, or failing to cooperate with the investigation of adverse reactions to cosmetics carried out by the cosmetics adverse reaction monitoring institution and the department responsible for drug supervision and administration.\nWhere an importer fails to record or keep information on imported cosmetics in accordance with the provisions of these Regulations, the entry-exit inspection and quarantine institution shall impose a penalty in accordance with the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Where the registrant or filer of a new cosmetic ingredient fails to report the use and safety of the new cosmetic ingredient in accordance with the provisions of these Regulations, the drug supervision and administration department of the State Council shall order correction and impose a fine of not less than 50,000 yuan but not more than 200,000 yuan; where the circumstances are serious, revoke the registration certificate for the new cosmetic ingredient or cancel the filing of the new cosmetic ingredient and concurrently impose a fine of not less than 200,000 yuan but not more than 500,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Where false materials are provided or other deceptive means are adopted in applying for cosmetic administrative licensing, the administrative licensing shall not be granted, and where administrative licensing has already been obtained, the department that made the administrative licensing decision shall revoke the administrative licensing, shall not accept any application for cosmetic-related licensing submitted by it within five years, and shall confiscate the unlawful gains and the cosmetics already produced or imported; where the value of the cosmetics already produced or imported is less than 10,000 yuan, a fine of not less than 50,000 yuan but not more than 150,000 yuan shall be imposed concurrently; where the value is 10,000 yuan or more, a fine of not less than 15 times but not more than 30 times the value shall be imposed concurrently; and a fine of not less than three times but not more than five times the income obtained from the unit in the previous year shall be imposed on the legal representative or principal person in charge, the person directly in charge and other persons directly responsible of the unlawful unit, and they shall be prohibited from engaging in cosmetic production and operation activities for life.\nWhere cosmetic licences are forged, altered, lent, leased or transferred, the department responsible for drug supervision and administration or the original licensing department shall seize or revoke them and confiscate the unlawful gains; where the unlawful gains are less than 10,000 yuan, a fine of not less than 50,000 yuan but not more than 100,000 yuan shall be imposed concurrently; where the unlawful gains are 10,000 yuan or more, a fine of not less than 10 times but not more than 20 times the unlawful gains shall be imposed concurrently; where the act constitutes a violation of public security administration, the public security organ shall give public security administration punishment in accordance with law; where a crime is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Where false materials are provided at the time of filing, the filing department shall cancel the filing, shall not handle that filing submitted by it within three years, and shall confiscate the unlawful gains and the cosmetics already produced or imported; where the value of the cosmetics already produced or imported is less than 10,000 yuan, a fine of not less than 10,000 yuan but not more than 30,000 yuan shall be imposed concurrently; where the value is 10,000 yuan or more, a fine of not less than three times but not more than 10 times the value shall be imposed concurrently; where the circumstances are serious, order suspension of production and business and, up to revocation of the cosmetic production licence by the original licensing department, impose on the legal representative or principal person in charge, the person directly in charge and other persons directly responsible of the unlawful unit a fine of not less than one time but not more than two times the income obtained from the unit in the previous year, and prohibit them from engaging in cosmetic production and operation activities within five years.\nWhere filed materials do not meet the requirements, the filing department shall order correction within a time limit; among them, where the filed materials relating to the safety of the cosmetics or new cosmetic ingredients do not meet the requirements, the filing department may concurrently order suspension of sale and use; where correction is not made within the time limit, the filing department shall cancel the filing.\nWhere, after the filing department cancels the filing, the new cosmetic ingredient is still used to produce cosmetics or the ordinary cosmetics are still placed on the market for sale or imported, penalties shall be imposed in accordance with Articles 60 and 61 of these Regulations respectively."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Where the operator of a cosmetics concentrated trading market or the organiser of a trade fair fails to perform the management obligations of examination, inspection, stopping and reporting in accordance with the provisions of these Regulations, the department responsible for drug supervision and administration shall impose a fine of not less than 20,000 yuan but not more than 100,000 yuan; where the circumstances are serious, order suspension of business and concurrently impose a fine of not less than 100,000 yuan but not more than 500,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Where the operator of an e-commerce platform fails to perform the management obligations of real-name registration, stopping, reporting and ceasing to provide e-commerce platform services in accordance with the provisions of these Regulations, the drug supervision and administration department of the people's government of the province, autonomous region or municipality directly under the Central Government shall impose a penalty in accordance with the provisions of the E-Commerce Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "Where a cosmetics operator has performed the obligations of records of incoming inspection, etc. provided for in these Regulations and there is evidence proving that it did not know that the cosmetics it purchased did not conform to mandatory national standards or technical specifications or did not conform to the technical requirements stated in the cosmetic registration or filing materials, the cosmetics it operates that do not conform to mandatory national standards or technical specifications or do not conform to the technical requirements stated in the cosmetic registration or filing materials shall be seized, and administrative penalties may be exempted."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "Where cosmetic advertisements violate the provisions of these Regulations, penalties shall be imposed in accordance with the provisions of the Advertising Law of the People's Republic of China; where cosmetics are publicised falsely or misleadingly by other means, penalties shall be imposed in accordance with the provisions of the relevant laws; where a crime is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "Where the enterprise legal person within the territory of China designated by the overseas registrant or filer of cosmetics fails to assist in monitoring adverse reactions to cosmetics and implementing product recalls, the drug supervision and administration department of the people's government of the province, autonomous region or municipality directly under the Central Government shall order correction, give a warning and concurrently impose a fine of not less than 20,000 yuan but not more than 100,000 yuan; where the circumstances are serious, impose a fine of not less than 100,000 yuan but not more than 500,000 yuan, and prohibit its legal representative or principal person in charge, the person directly in charge and other persons directly responsible from engaging in cosmetic production and operation activities within five years.\nWhere the overseas registrant or filer of cosmetics refuses to perform an administrative penalty decision made in accordance with these Regulations, the importation of its cosmetics shall be prohibited within 10 years."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "Where a cosmetics inspection institution issues a false inspection report, the certification and accreditation supervision and administration department shall revoke the qualification certificate of the inspection institution, shall not accept its application for qualification accreditation within 10 years, confiscate the inspection fees collected and concurrently impose a fine of not less than 50,000 yuan but not more than 100,000 yuan; it shall impose on its legal representative or principal person in charge, the person directly in charge and other persons directly responsible a fine of not less than one time but not more than three times the income obtained from the unit in the previous year, and shall give or order the giving of sanctions of demotion in post grade, removal from post or dismissal in accordance with law; those who have been dismissed shall be prohibited from engaging in cosmetics inspection work within 10 years; where a crime is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "Where a technical review institution for cosmetics, a cosmetics adverse reaction monitoring institution or an institution responsible for monitoring cosmetic safety risks fails to perform its duties in accordance with the provisions of these Regulations, resulting in major errors in technical review, adverse reaction monitoring or safety risk monitoring work, the department responsible for drug supervision and administration shall order correction, give a warning and circulate a notice of criticism; where serious consequences are caused, it shall give or order the giving of sanctions of demotion in post grade, removal from post or dismissal in accordance with law to its legal representative or principal person in charge, the person directly in charge and other persons directly responsible."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "Where a cosmetics producer or operator or an inspection institution recruits or employs persons who may not engage in cosmetic production and operation activities or persons who may not engage in cosmetics inspection work to engage in cosmetic production and operation or inspection, the department responsible for drug supervision and administration or other relevant departments shall order correction and give a warning; where correction is refused, order suspension of production and business and, up to revocation of the cosmetic licence or the qualification certificate of the inspection institution."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "Where any of the following circumstances applies and constitutes a violation of public security administration, the public security organ shall give public security administration punishment in accordance with law; where a crime is constituted, criminal liability shall be pursued in accordance with law:\n(a) obstructing staff of the department responsible for drug supervision and administration from performing their duties in accordance with law;\n(b) forging, destroying or concealing evidence, or concealing, transferring, selling off or damaging articles sealed up or distrained in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "Where staff of the department responsible for drug supervision and administration violate the provisions of these Regulations by abusing their power, derelicting their duty or engaging in malpractice for personal gain, sanctions of a warning, demerit or major demerit shall be given in accordance with law; where serious consequences are caused, sanctions of demotion, removal from post or dismissal shall be given in accordance with law; where a crime is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "Whoever violates the provisions of these Regulations and causes personal injury, property damage or other harm shall bear liability for compensation in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "Toothpaste shall be administered by reference to the provisions of these Regulations on ordinary cosmetics. The filer of toothpaste may claim that the toothpaste has efficacy such as preventing dental caries, inhibiting dental plaque, resisting dentine hypersensitivity and alleviating gum problems after carrying out efficacy evaluation in accordance with national standards and industry standards. The specific administrative measures for toothpaste shall be drafted by the drug supervision and administration department of the State Council and submitted to the market supervision and administration department of the State Council for examination and publication.\nThese Regulations do not apply to toilet soap, except where it is claimed to have the efficacy of special cosmetics."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "For cosmetics used for hair growth, hair removal, breast firming, body building and deodorising that had already been registered before the entry into force of these Regulations, a five-year transitional period shall be set from the date of entry into force of these Regulations, during which they may continue to be produced, imported and sold; upon expiry of the transitional period, such cosmetics may not be produced, imported or sold."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "Technical specifications mentioned in these Regulations refer to the supplementary technical requirements for cosmetic quality and safety formulated by the drug supervision and administration department of the State Council in light of the needs of supervision and administration where mandatory national standards have not yet been formulated."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "These Regulations shall come into force on 1 January 2021. The Regulations on Hygiene Supervision of Cosmetics shall be repealed simultaneously."
+        },
+        "noLabel": {
+          "en": "Article 80."
         },
         "chapter": {
           "en": "Chapter VI Supplementary Provisions"

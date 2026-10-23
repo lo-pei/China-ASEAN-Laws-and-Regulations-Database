@@ -23,6 +23,36 @@ K1 = 1.2
 B = 0.75
 PRIORITY_COUNTRY = "CN"
 
+# 从问句里识别国别意图（与前端 detectCountries 对齐）
+COUNTRY_WORDS = {
+    "CN": ["中国", "中华人民共和国", "我国", "国内", "内地"],
+    "VN": ["越南", "vietnam", "viet nam"],
+    "TH": ["泰国", "thailand", "thai"],
+    "MY": ["马来西亚", "malaysia"],
+    "SG": ["新加坡", "singapore"],
+    "ID": ["印度尼西亚", "印尼", "indonesia"],
+    "PH": ["菲律宾", "philippines", "philippine"],
+    "KH": ["柬埔寨", "cambodia"],
+    "LA": ["老挝", "laos"],
+    "MM": ["缅甸", "myanmar", "burma"],
+    "BN": ["文莱", "brunei"],
+    "TL": ["东帝汶", "timor"],
+}
+
+
+def detect_countries(q: str) -> List[str]:
+    """返回问句里提到的法域代码（去重保序）。"""
+    if not q:
+        return []
+    low = q.lower()
+    out = []
+    for code, words in COUNTRY_WORDS.items():
+        for w in words:
+            if w in low:
+                out.append(code)
+                break
+    return out
+
 # 中文同义/近义扩展（与前端 SYNONYMS 的核心子集对齐）
 SYNONYMS = {
     "劳动": ["劳动合同", "劳动法", "雇佣", "用工", "职工"],

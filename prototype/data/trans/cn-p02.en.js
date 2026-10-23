@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p02
-   法规 67 部 / 译文 3950 条
+   法规 69 部 / 译文 4161 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -38879,6 +38879,1206 @@
     ]
   };
 
+  TR['CN-LAW-0144'] = {
+    "lawId": "CN-LAW-0144",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 102 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is enacted in order to safeguard the sovereignty and interests of the State, strengthen Customs supervision and administration, promote foreign economic trade and scientific, technological and cultural exchanges, and safeguard socialist modernisation."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The Customs of the People's Republic of China is the authority for supervision and administration of the entry into and exit from the customs territory of the State (hereinafter referred to as entry and exit). The Customs shall, in accordance with this Law and other relevant laws and administrative regulations, supervise and administer means of transport, goods, luggage, postal items and other articles entering or leaving the territory (hereinafter referred to as means of transport, goods and articles entering or leaving the territory), collect customs duties and other taxes and fees, prevent and investigate smuggling, and compile customs statistics and handle other customs business."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The State Council shall establish the General Administration of Customs to exercise unified management over the Customs throughout the country.\nThe State shall establish Customs offices at ports open to the outside world and at places where customs supervision business is concentrated. The subordinate relationship of Customs offices shall not be restricted by administrative divisions.\nCustoms offices shall exercise their functions and powers independently in accordance with law and shall be responsible to the General Administration of Customs."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The State shall establish within the General Administration of Customs a specialised public security body for the investigation of the crime of smuggling, staffed with full-time anti-smuggling police, responsible for the investigation, detention, execution of arrest and preliminary examination of the smuggling crime cases under its jurisdiction.\nWhere the public security body for the investigation of the crime of smuggling of the Customs performs the duties of investigation, detention, execution of arrest and preliminary examination, it shall act in accordance with the provisions of the Criminal Procedure Law of the People's Republic of China.\nThe public security body for the investigation of the crime of smuggling of the Customs may, in accordance with the relevant provisions of the State, establish branch offices. Each branch office shall, in handling the smuggling crime cases under its jurisdiction, transfer them for prosecution to the people's procuratorate with jurisdiction in accordance with law.\nLocal public security organs at all levels shall cooperate with the public security body for the investigation of the crime of smuggling of the Customs in the performance of its duties in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The State practises a system of anti-smuggling based on joint efforts, unified handling and comprehensive treatment. The Customs shall be responsible for organising, coordinating and managing anti-smuggling work. The relevant provisions shall be formulated separately by the State Council.\nSmuggling cases seized by the relevant administrative law enforcement departments shall, where an administrative penalty is to be imposed, be transferred to the Customs for handling in accordance with law; where a crime is suspected, they shall be transferred to the public security body for the investigation of the crime of smuggling of the Customs or to the local public security organ for handling in accordance with the division of jurisdiction over cases and the statutory procedures."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The Customs may exercise the following powers:\n(a) to inspect means of transport entering or leaving the territory, and to examine goods and articles entering or leaving the territory; where this Law or other relevant laws or administrative regulations are violated, to detain them.\n(b) to examine the papers of persons entering or leaving the territory; to question persons suspected of violating this Law or other relevant laws or administrative regulations and to investigate their illegal acts.\n(c) to examine and copy contracts, invoices, account books, vouchers, records, documents, business correspondence, audio and video recordings and other materials relating to means of transport, goods and articles entering or leaving the territory; to detain those that are connected with means of transport, goods or articles entering or leaving the territory in violation of this Law or other relevant laws or administrative regulations.\n(d) within the customs supervision zone and the designated coastal and border areas near the Customs, to inspect means of transport suspected of smuggling and places suspected of concealing smuggled goods or articles, and to inspect the persons of smuggling suspects; with the approval of the director of the directly subordinate Customs or of the director of the subordinate Customs authorised by him or her, to detain means of transport, goods and articles suspected of smuggling and criminal smuggling suspects; the period of detention of a criminal smuggling suspect shall not exceed 24 hours and may, under special circumstances, be extended to 48 hours.\nOutside the customs supervision zone and the designated coastal and border areas near the Customs, where the Customs investigates a smuggling case, it may, with the approval of the director of the directly subordinate Customs or of the director of the subordinate Customs authorised by him or her, inspect means of transport suspected of smuggling and places other than citizens' residences that are suspected of concealing smuggled goods or articles, and the party concerned shall be present; where the party concerned is not present, the inspection may be conducted directly in the presence of witnesses; means of transport, goods and articles for which there is evidence proving a suspicion of smuggling may be detained.\nThe scope of the designated coastal and border areas near the Customs shall be determined by the General Administration of Customs and the public security department under the State Council in conjunction with the relevant provincial people's governments.\n(e) when investigating a smuggling case, with the approval of the director of the directly subordinate Customs or of the director of the subordinate Customs authorised by him or her, to enquire into the deposits and remittances of the unit and persons suspected in the case at financial institutions and postal enterprises.\n(f) where a means of transport or a person entering or leaving the territory escapes in defiance of customs supervision, the Customs may pursue it or him or her continuously beyond the customs supervision zone and the designated coastal and border areas near the Customs and bring it or him or her back for handling.\n(g) the Customs may be equipped with weapons for the performance of its duties. The rules for the carrying and use of weapons by customs staff shall be formulated by the General Administration of Customs in conjunction with the public security department under the State Council and reported to the State Council for approval.\n(h) other powers that laws and administrative regulations provide shall be exercised by the Customs."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "All localities and departments shall support the Customs in exercising its functions and powers in accordance with law and shall not unlawfully interfere in the law enforcement activities of the Customs."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Means of transport, goods and articles entering or leaving the territory must enter or leave through places where Customs offices are established. Where, under special circumstances, it is necessary to enter or leave temporarily through a place where no Customs office is established, approval must be obtained from the State Council or an authority authorised by the State Council, and the customs formalities shall be completed in accordance with the provisions of this Law."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Unless otherwise provided, the consignee or consignor of imported or exported goods may complete the formalities of customs declaration and duty payment itself, or may entrust a customs declaration enterprise with the completion of such formalities.\nThe owner of an article entering or leaving the territory may complete the formalities of customs declaration and duty payment itself, or may entrust another person with the completion of such formalities."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Where a customs declaration enterprise accepts the entrustment of the consignee or consignor of imported or exported goods and completes the declaration formalities in the name of the principal, it shall submit to the Customs a power of attorney signed by the principal and comply with the various provisions of this Law applicable to principals.\nWhere a customs declaration enterprise accepts the entrustment of the consignee or consignor of imported or exported goods and completes the declaration formalities in its own name, it shall bear the same legal liability as the consignee or consignor.\nWhere a principal entrusts a customs declaration enterprise with the completion of declaration formalities, it shall provide the enterprise with the true circumstances of the matters entrusted for declaration; where a customs declaration enterprise accepts the entrustment of a principal and completes the declaration formalities, it shall reasonably examine the authenticity of the circumstances provided by the principal."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The consignee or consignor of imported or exported goods and customs declaration enterprises shall file with the Customs in accordance with law before completing declaration formalities.\nCustoms declaration enterprises and customs declarants shall not unlawfully act as agents for others in making customs declarations."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Where the Customs performs its duties in accordance with law, the units and individuals concerned shall truthfully answer enquiries and provide cooperation, and no unit or individual may obstruct it.\nWhere the performance of duties by the Customs is violently resisted, the public security organ and the people's armed police force performing the relevant tasks shall provide assistance."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The Customs shall establish a system for reporting acts violating the provisions of this Law by evading customs supervision.\nAny unit or individual shall have the right to report acts violating the provisions of this Law by evading customs supervision.\nThe Customs shall give moral or material rewards to the units and individuals that have rendered meritorious service by reporting or assisting in the seizure of cases violating this Law.\nThe Customs shall keep the identity of informants confidential."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "When a means of transport entering or leaving the territory arrives at or departs from a place where a Customs office is established, the person in charge of the means of transport shall truthfully declare to the Customs, submit the documents for verification and accept customs supervision and inspection.\nA means of transport entering or leaving the territory that is staying at a place where a Customs office is established shall not depart without the consent of the Customs.\nWhere a means of transport entering or leaving the territory travels from one place where a Customs office is established to another, it shall meet the requirements of customs supervision and complete the customs formalities; where the customs formalities have not been completed, it shall not change its course for outside the territory."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Means of Transport Entering and Leaving the Territory"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "A means of transport entering the territory shall, after entry and before declaration to the Customs, and a means of transport leaving the territory shall, after completion of the customs formalities and before exit, proceed along the routes prescribed by the competent transport authority; where the competent transport authority has prescribed no route, the route shall be designated by the Customs."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Means of Transport Entering and Leaving the Territory"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "With respect to the time of arrival and departure, the place of stay, the change of place during the stay and the time for loading and unloading goods and articles of vessels, trains and aircraft entering or leaving the territory, the person in charge of the means of transport or the relevant transport department shall notify the Customs in advance."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Means of Transport Entering and Leaving the Territory"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The loading and unloading of goods and articles entering or leaving the territory and the boarding and landing of passengers entering or leaving the territory shall be subject to customs supervision.\nAfter the loading or unloading of goods and articles is completed, the person in charge of the means of transport shall submit to the Customs the handover documents and records reflecting the actual loading and unloading.\nPersons boarding or landing from a means of transport entering or leaving the territory who carry articles shall truthfully declare them to the Customs and accept customs inspection."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Means of Transport Entering and Leaving the Territory"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where the Customs inspects a means of transport entering or leaving the territory, the person in charge of the means of transport shall be present and shall, as required by the Customs, open the cabins, rooms and vehicle doors; where smuggling is suspected, the person shall also open up the parts that may conceal smuggled goods or articles and move the goods and materials.\nThe Customs may, as required by its work, assign personnel to perform duties on board the means of transport, and the person in charge of the means of transport shall provide convenience."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Means of Transport Entering and Leaving the Territory"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "A means of transport of overseas origin entering the territory and a means of transport of domestic origin leaving the territory shall not be transferred or diverted to other uses without completing the formalities with the Customs and paying customs duties."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Means of Transport Entering and Leaving the Territory"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where vessels and aircraft entering or leaving the territory concurrently engage in domestic passenger and cargo transport, they shall meet the requirements of customs supervision.\nWhere a means of transport entering or leaving the territory is converted to domestic transport, the formalities shall be completed with the Customs."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Means of Transport Entering and Leaving the Territory"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Coastal transport vessels, fishing vessels and special vessels engaged in maritime operations shall not, without the consent of the Customs, carry, or exchange, buy, sell or transfer goods or articles entering or leaving the territory."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Means of Transport Entering and Leaving the Territory"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Where vessels and aircraft entering or leaving the territory are forced by force majeure to berth or land at a place where no Customs office is established, or to throw away or unload goods or articles, the person in charge of the means of transport shall immediately report to the nearby Customs."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter II Means of Transport Entering and Leaving the Territory"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Imported goods shall be subject to customs supervision from the time of entry until the completion of customs formalities, exported goods from the time of declaration to the Customs until exit, and goods in transit, transhipment and through carriage from the time of entry until exit."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Goods Entering and Leaving the Territory"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The consignee of imported goods and the consignor of exported goods shall truthfully declare to the Customs and submit import or export licences and the relevant documents for verification. Goods the import or export of which is restricted by the State shall not be released without import or export licences, and the specific measures for handling shall be prescribed by the State Council.\nThe consignee of imported goods shall declare to the Customs within 14 days from the date of the declaration of entry of the means of transport, and the consignor of exported goods shall, unless specially permitted by the Customs, declare to the Customs 24 hours before loading after the goods have arrived at the customs supervision zone.\nWhere the consignee of imported goods declares to the Customs beyond the time limit provided in the preceding paragraph, the Customs shall collect a fee for delayed declaration."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Goods Entering and Leaving the Territory"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The formalities of customs declaration for imported and exported goods shall be completed in the form of paper declaration forms and electronic data declaration forms."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Goods Entering and Leaving the Territory"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "After the Customs accepts a declaration, the declaration documents and their content shall not be modified or revoked, except in circumstances conforming to the provisions of the Customs."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Goods Entering and Leaving the Territory"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The consignee of imported goods may, with the consent of the Customs, inspect the goods or take samples before declaration. Goods that are subject to quarantine in accordance with law shall be sampled only after they have passed quarantine."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Goods Entering and Leaving the Territory"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Imported and exported goods shall be subject to customs examination. Where the Customs examines goods, the consignee of imported goods and the consignor of exported goods shall be present and shall be responsible for moving the goods and for opening and resealing the packaging of the goods. Where the Customs considers it necessary, it may directly open and examine the goods, re-examine them or take samples.\nThe Customs may, under special circumstances, exempt imported and exported goods from examination; the specific measures shall be formulated by the General Administration of Customs."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Goods Entering and Leaving the Territory"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Unless specially permitted by the Customs, imported and exported goods shall be released under the seal of the Customs after the consignee or consignor has paid the duties in full or provided a guarantee."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Goods Entering and Leaving the Territory"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where the consignee of imported goods fails to declare to the Customs within 3 months from the date of the declaration of entry of the means of transport, the imported goods shall be extracted and sold off in accordance with law by the Customs, and where, after deducting the costs of transport, loading and unloading and storage and the duties from the proceeds, there remains a balance, it shall be returned upon application by the consignee within 1 year from the date of the lawful sale of the goods; where the goods are subject to restrictive provisions of the State on import and the licence that should be submitted cannot be provided, the balance shall not be returned. Where no application is made within the time limit or the balance is not to be returned, it shall be turned over to the State treasury.\nWhere imported goods have indeed been unloaded by mistake or in excess, the person in charge of the original means of transport or the consignee or consignor of the goods shall, as determined by the Customs, complete the formalities of return or import within 3 months from the date of unloading from that means of transport; where necessary, the period may, with the approval of the Customs, be extended by 3 months. Where the formalities are not completed within the time limit, the Customs shall deal with the matter in accordance with the provisions of the preceding paragraph.\nWhere the goods listed in the preceding two paragraphs are not suitable for long-term storage, the Customs may dispose of them in advance in light of the actual circumstances.\nImported goods renounced by the consignee or the owner of the goods shall be extracted and sold off in accordance with law by the Customs; the proceeds, after deducting the costs of transport, loading and unloading and storage, shall be turned over to the State treasury."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Goods Entering and Leaving the Territory"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Goods temporarily imported or temporarily exported in accordance with laws, administrative regulations or the provisions of the State Council or the General Administration of Customs shall be re-shipped out of or into the territory within 6 months; where the period for re-shipment out of or into the territory needs to be extended, the formalities for extension shall be completed in accordance with the provisions of the General Administration of Customs."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Goods Entering and Leaving the Territory"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Engaging in the business of storage, processing, assembly, display, transport and consignment sale of bonded goods and operating duty-free shops shall meet the requirements of customs supervision, be approved by the Customs and go through the registration formalities.\nThe transfer and movement of bonded goods and their entry into and exit from bonded premises shall be subject to the relevant formalities with the Customs and to customs supervision and examination."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III Goods Entering and Leaving the Territory"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Where an enterprise engages in processing trade, it shall file with the Customs in accordance with the provisions of the General Administration of Customs. The unit consumption of materials for finished products of processing trade shall be determined and verified by the Customs in accordance with the relevant provisions.\nFinished products of processing trade shall be re-exported within the prescribed time limit. Where the imported materials and components used therein are permitted to be bonded as provided by the State, the formalities of verification and cancellation shall be completed with the Customs; where duties have been collected in advance, the formalities for duty refund shall be completed with the Customs in accordance with law.\nWhere bonded imported materials and components or finished products of processing trade are sold domestically, the Customs shall collect duties on the bonded imported materials and components in accordance with law; where the goods are subject to restrictive provisions of the State on import, import licences shall also be submitted to the Customs."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter III Goods Entering and Leaving the Territory"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Special customs supervision areas such as bonded zones established within the territory of the People's Republic of China with the approval of the State Council shall be supervised and administered by the Customs in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter III Goods Entering and Leaving the Territory"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The customs formalities for imported goods shall be completed by the consignee at the Customs at the place of entry of the goods, and the customs formalities for exported goods shall be completed by the consignor at the Customs at the place of exit of the goods.\nUpon application by the consignee or consignor and with the consent of the Customs, the consignee of imported goods may complete the customs formalities at the place of destination where a Customs office is established, and the consignor of exported goods may complete the customs formalities at the place of consignment where a Customs office is established. The transit transport of the above goods shall meet the requirements of customs supervision; where necessary, the Customs may assign personnel to escort the goods.\nFor goods transported into or out of the territory by cable, pipeline or other special means, the operating unit shall periodically declare to the designated Customs and complete the customs formalities."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter III Goods Entering and Leaving the Territory"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "For goods in transit, transhipment and through carriage, the person in charge of the means of transport shall truthfully declare to the Customs at the place of entry and shall transport them out of the territory within the prescribed time limit.\nWhere the Customs considers it necessary, it may examine goods in transit, transhipment and through carriage."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter III Goods Entering and Leaving the Territory"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Goods under customs supervision shall not, without the permission of the Customs, be opened, extracted, delivered, dispatched, exchanged, repacked, mortgaged, pledged, retained, transferred, have their marks changed, be diverted to other uses or be otherwise disposed of.\nNo person may open or destroy the seals affixed by the Customs without authorisation.\nWhere a people's court, by judgment or ruling, or a relevant administrative law enforcement department, by decision, disposes of goods under customs supervision, the party concerned shall be ordered to complete the customs formalities."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter III Goods Entering and Leaving the Territory"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Enterprises engaged in the business of storing goods under customs supervision shall be registered with the Customs and shall complete the formalities of receipt and delivery in accordance with the provisions of the Customs.\nGoods under customs supervision stored outside the customs supervision zone shall be subject to the consent of the Customs and to customs supervision.\nWhoever violates the provisions of the preceding two paragraphs, or causes damage to or loss of goods under customs supervision during the period of keeping them, shall, unless the cause is force majeure, bear the corresponding duty payment obligation and legal liability as the person obliged to keep the goods under customs supervision."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter III Goods Entering and Leaving the Territory"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The measures for the supervision of containers entering or leaving the territory, for the salvage of goods entering or leaving the territory and of sunken vessels, for the supervision of goods imported or exported in small amounts in border trade, and for the supervision of other goods entering or leaving the territory not specifically listed in this Law shall be formulated separately by the General Administration of Customs or by the General Administration of Customs in conjunction with the relevant departments under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter III Goods Entering and Leaving the Territory"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where the State has prohibitive or restrictive provisions on goods and articles entering or leaving the territory, the Customs shall exercise supervision on the basis of laws, administrative regulations, the provisions of the State Council or the provisions made by the relevant departments under the State Council on the basis of authorisation by laws or administrative regulations. The specific supervision measures shall be formulated by the General Administration of Customs."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter III Goods Entering and Leaving the Territory"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "The origin of imported and exported goods shall be determined in accordance with the provisions of the State on rules of origin."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter III Goods Entering and Leaving the Territory"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The commodity classification of imported and exported goods shall be determined in accordance with the provisions of the State on commodity classification.\nThe Customs may require the consignee or consignor of imported or exported goods to provide the relevant materials needed to determine the commodity classification; where necessary, the Customs may arrange laboratory analysis and inspection and shall take the results of the laboratory analysis and inspection as determined by the Customs as the basis for commodity classification."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter III Goods Entering and Leaving the Territory"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "The Customs may, on the basis of a written application by a foreign trade operator and in respect of goods to be imported or exported, make in advance an administrative ruling on commodity classification or other matters.\nIdentical goods imported or exported shall be subject to the same administrative ruling on commodity classification.\nAdministrative rulings on commodity classification and other matters made by the Customs shall be published."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter III Goods Entering and Leaving the Territory"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "The Customs shall, in accordance with the provisions of laws and administrative regulations, protect intellectual property rights relating to goods entering or leaving the territory.\nWhere the status of intellectual property rights needs to be declared to the Customs, the consignee or consignor of imported or exported goods and its agent shall truthfully declare the relevant status of the intellectual property rights to the Customs in accordance with the provisions of the State and submit documents proving the lawful use of the relevant intellectual property rights."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter III Goods Entering and Leaving the Territory"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Within 3 years from the date of release of imported or exported goods, or within the period of customs supervision of bonded goods and imported goods with duty reduction or exemption and the 3 years thereafter, the Customs may conduct an audit of the accounting books, accounting vouchers, declaration documents and other relevant materials of the enterprises and units directly related to the imported or exported goods and of the relevant imported and exported goods. The specific measures shall be prescribed by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter III Goods Entering and Leaving the Territory"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Luggage and articles carried by individuals entering or leaving the territory and articles posted into or out of the territory shall be limited to those for personal use and in reasonable quantities, and shall be subject to customs supervision."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter IV Articles Entering and Leaving the Territory"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "The owner of an article entering or leaving the territory shall truthfully declare it to the Customs and accept customs examination.\nNo person may open or destroy the seals affixed by the Customs without authorisation."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter IV Articles Entering and Leaving the Territory"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "The loading and unloading, transhipment and transit of postal bags entering or leaving the territory shall be subject to customs supervision. Postal enterprises shall submit postal route lists to the Customs.\nPostal enterprises shall notify the Customs in advance of the time of opening and dispatching international postal bags, and the Customs shall assign personnel to be present on time for supervision and examination."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter IV Articles Entering and Leaving the Territory"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Articles posted into or out of the territory may be delivered or handed over by the operating unit concerned only after they have been examined and released by the Customs."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter IV Articles Entering and Leaving the Territory"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Articles registered with the Customs and permitted to be temporarily imported or temporarily exported with duty exemption shall be carried out or carried in again by the person himself or herself.\nPersons in transit shall not, without the approval of the Customs, leave the articles they carry within the territory."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter IV Articles Entering and Leaving the Territory"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Articles renounced by their owners, articles for which the customs formalities have not been completed within the time limit prescribed by the Customs or that are unclaimed, and imported postal items that cannot be delivered or returned shall be dealt with by the Customs in accordance with the provisions of Article 30 of this Law."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter IV Articles Entering and Leaving the Territory"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "The entry and exit of official-use articles or personal-use articles of foreign institutions or personnel enjoying diplomatic privileges and immunities shall be handled in accordance with the provisions of the relevant laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter IV Articles Entering and Leaving the Territory"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Customs duties shall be collected by the Customs in accordance with law on goods permitted to be imported or exported and on articles entering or leaving the territory."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter V Customs Duties"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "The consignee of imported goods, the consignor of exported goods and the owner of articles entering or leaving the territory are the persons liable to pay customs duties."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter V Customs Duties"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "The dutiable value of imported and exported goods shall be examined and determined by the Customs on the basis of the transaction value of the goods. Where the transaction value cannot be determined, the dutiable value shall be assessed by the Customs in accordance with law.\nThe dutiable value of imported goods includes the price of the goods, the transport and the related costs and the insurance premium incurred before the goods are unloaded at the place of arrival within the territory of the People's Republic of China; the dutiable value of exported goods includes the price of the goods, the transport and the related costs and the insurance premium incurred before the goods are loaded at the place of departure within the territory of the People's Republic of China, but the amount of export duty included therein shall be deducted.\nThe dutiable value of articles entering or leaving the territory shall be determined by the Customs in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter V Customs Duties"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Customs duties shall be reduced or exempted on the following imported and exported goods and articles entering or leaving the territory:\n(a) advertising materials and samples of no commercial value;\n(b) materials gratuitously donated by foreign governments or international organisations;\n(c) goods that are damaged or lost before release by the Customs;\n(d) articles within the prescribed amounts;\n(e) other goods and articles on which the reduction or exemption of customs duties is provided by law;\n(f) goods and articles on which the reduction or exemption of customs duties is provided by international treaties concluded or acceded to by the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter V Customs Duties"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Customs duties may be reduced or exempted on imported and exported goods of specific regions, of specific enterprises or for specific uses. The scope of and measures for specific duty reduction or exemption shall be prescribed by the State Council.\nGoods imported with duty reduction or exemption in accordance with the provisions of the preceding paragraph may only be used in the specific regions, by the specific enterprises or for the specific uses, and shall not be diverted to other uses without the approval of the Customs and payment of the customs duties in arrears."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter V Customs Duties"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Temporary reduction or exemption of customs duties outside the scope provided in Article 56 and paragraph 1 of Article 57 of this Law shall be decided by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter V Customs Duties"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Goods temporarily imported or temporarily exported, and bonded goods specially permitted to be imported, may be granted temporary exemption from customs duties after the consignee or consignor of the goods has paid to the Customs a deposit equivalent to the duties or provided a guarantee."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter V Customs Duties"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "The person liable to pay customs duties on imported or exported goods shall pay the duties within 15 days from the date on which the Customs fills in and issues the duty payment statement; where payment is overdue, the Customs shall collect a late payment surcharge. Where the person liable to pay duties or the guarantor still fails to pay after 3 months, the Customs may, with the approval of the director of the directly subordinate Customs or of the director of the subordinate Customs authorised by him or her, take the following compulsory measures:\n(a) to notify in writing the bank with which the person has opened an account or other financial institution to deduct the duties from the deposits;\n(b) to sell off the dutiable goods in accordance with law and to offset the duties with the proceeds of the sale;\n(c) to detain and sell off in accordance with law goods or other property of a value equivalent to the duties payable and to offset the duties with the proceeds of the sale.\nWhere the Customs takes compulsory measures, it shall at the same time compulsorily enforce the late payment surcharge unpaid by the person liable to pay duties or the guarantor listed in the preceding paragraph.\nThe person liable to pay customs duties on articles entering or leaving the territory shall pay the duties before the release of the articles."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter V Customs Duties"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where, within the prescribed period for duty payment, the person liable to pay customs duties on imported or exported goods shows clear signs of transferring or concealing the dutiable goods or other property, the Customs may order the person liable to pay duties to provide a guarantee; where the person liable to pay duties cannot provide a duty guarantee, the Customs may, with the approval of the director of the directly subordinate Customs or of the director of the subordinate Customs authorised by him or her, take the following duty preservation measures:\n(a) to notify in writing the bank with which the person liable to pay duties has opened an account or other financial institution to suspend payment of deposits of the person liable to pay duties equivalent to the duties payable;\n(b) to detain goods or other property of the person liable to pay duties of a value equivalent to the duties payable.\nWhere the person liable to pay duties pays the duties within the prescribed period for duty payment, the Customs must immediately lift the duty preservation measures; where the duties are still not paid upon the expiry of the period, the Customs may, with the approval of the director of the directly subordinate Customs or of the director of the subordinate Customs authorised by him or her, notify in writing the bank with which the person liable to pay duties has opened an account or other financial institution to deduct the duties from the deposits the payment of which has been suspended, or sell off in accordance with law the goods or other property detained and offset the duties with the proceeds of the sale.\nWhere duty preservation measures are taken improperly, or where the Customs fails to immediately lift the duty preservation measures after the person liable to pay duties has paid the duties within the prescribed period, thereby causing losses to the lawful rights and interests of the person liable to pay duties, the Customs shall bear the liability for compensation in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter V Customs Duties"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Where, after the release of imported or exported goods or of articles entering or leaving the territory, the Customs finds that duties have been under-collected or omitted, it shall recover them from the person liable to pay duties within 1 year from the date of payment of the duties or of release of the goods or articles. Where the under-collection or omission is caused by a violation of the provisions by the person liable to pay duties, the Customs may recover the duties within 3 years."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter V Customs Duties"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Where the Customs has over-collected duties, it shall immediately refund them upon discovery; the person liable to pay duties may, within 1 year from the date of payment of the duties, request the Customs to refund them."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter V Customs Duties"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Where a dispute over duty payment arises between the person liable to pay duties and the Customs, the person shall pay the duties and may apply for administrative reconsideration in accordance with law; where the person is still dissatisfied with the reconsideration decision, it may institute proceedings before a people's court in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter V Customs Duties"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "The provisions on the administration of the collection of customs duties shall apply to the administration of the collection of taxes collected by the Customs on behalf of other authorities at the import stage."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter V Customs Duties"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Where, before the commodity classification and valuation of goods are determined and valid declaration documents are provided or other customs formalities are completed, the consignee or consignor requests the release of the goods, the Customs shall release them after the consignee or consignor provides a guarantee commensurate with the legal obligations it shall perform in accordance with law. The foregoing is subject to the exception of circumstances in which laws or administrative regulations provide that a guarantee may be dispensed with.\nWhere laws or administrative regulations otherwise provide for guarantees for the performance of customs obligations, those provisions shall apply.\nWhere the State has restrictive provisions on goods and articles entering or leaving the territory and the licence that should be submitted cannot be provided, or in other circumstances in which laws or administrative regulations provide that no guarantee may be given, the Customs shall not process release against a guarantee."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter VI Guarantees for Customs Matters"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "A legal person, other organisation or citizen capable of performing a guarantee for customs matters may serve as a guarantor, unless the law provides that it may not serve as a guarantor."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter VI Guarantees for Customs Matters"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "A guarantor may provide a guarantee with the following property and rights:\n(a) Renminbi and freely convertible currencies;\n(b) bills of exchange, promissory notes, cheques, bonds and deposit receipts;\n(c) letters of guarantee of banks or non-bank financial institutions;\n(d) other property and rights recognised by the Customs in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter VI Guarantees for Customs Matters"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "A guarantor shall bear the guarantee liability within the guarantee period. Performance of the guarantee liability by the guarantor does not relieve the guaranteed person of the obligation to complete the relevant customs formalities."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter VI Guarantees for Customs Matters"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "The measures for the administration of guarantees for customs matters shall be prescribed by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter VI Guarantees for Customs Matters"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "In performing its duties, the Customs must comply with the law, safeguard the interests of the State, strictly enforce the law in accordance with its statutory functions and powers and statutory procedures, and accept supervision."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision of Law Enforcement"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "Customs staff must enforce the law impartially, be honest and self-disciplined, be loyal to their duties and provide courteous service, and shall not commit the following acts:\n(a) shielding or conniving at smuggling, or colluding with others in smuggling;\n(b) unlawfully restricting the personal freedom of others, unlawfully inspecting the person, residence or premises of others, or unlawfully inspecting or detaining means of transport, goods or articles entering or leaving the territory;\n(c) using their functions and powers to seek private gain for themselves or for others;\n(d) extorting or accepting bribes;\n(e) divulging State secrets, trade secrets and secrets of customs work;\n(f) abusing their functions and powers, deliberately creating difficulties, or delaying supervision and examination;\n(g) purchasing, privately dividing or misappropriating confiscated smuggled goods and articles;\n(h) participating or disguisedly participating in for-profit business activities;\n(i) performing duties in violation of statutory procedures or beyond their authority;\n(j) other illegal acts."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision of Law Enforcement"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "The Customs shall, in accordance with the needs of performing its duties in accordance with law, strengthen the building of its workforce so that customs staff have sound political and professional qualities.\nCustoms professionals shall possess legal and relevant professional knowledge and meet the requirements for professional posts prescribed by the Customs.\nThe Customs shall, in accordance with the provisions of the State, recruit staff by open examination, strict assessment and selection of the best.\nThe Customs shall, in a planned manner, provide training and assessment to its staff in political ideology, the legal system and customs business. Customs staff must undergo training and assessment periodically, and those who fail the assessment shall not continue to perform duties at their posts."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision of Law Enforcement"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "The General Administration of Customs shall implement a system of periodic rotation of customs directors.\nCustoms directors shall periodically report on their work to the Customs at the next higher level and truthfully state the circumstances of the performance of their duties. The General Administration of Customs shall periodically assess the directors of directly subordinate Customs, and directly subordinate Customs shall periodically assess the directors of subordinate Customs."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision of Law Enforcement"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "The administrative law enforcement activities of the Customs and its staff shall be subject to the supervision of supervisory commissions in accordance with law; the investigation activities of the anti-smuggling police shall be subject to the supervision of people's procuratorates in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision of Law Enforcement"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "Audit institutions shall, in accordance with law, exercise audit supervision over the fiscal revenue and expenditure of the Customs, and shall have the power to conduct special audit investigations into matters relating to State fiscal revenue and expenditure handled by the Customs."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision of Law Enforcement"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "Higher-level Customs shall, in accordance with law, supervise the law enforcement activities of lower-level Customs. Where higher-level Customs consider that a handling or decision made by lower-level Customs is inappropriate, it may alter or annul it in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision of Law Enforcement"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "The Customs shall, in accordance with this Law and other relevant laws and administrative regulations, establish and improve an internal supervision system and conduct supervision and inspection of its staff in respect of their implementation of laws and administrative regulations and their observance of discipline."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision of Law Enforcement"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "The functions and powers of the main internal posts of the Customs responsible for document examination, examination of goods, release, audit and investigation shall be clearly defined and shall be separated from and mutually restrict one another."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision of Law Enforcement"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "Any unit or individual shall have the right to accuse or report illegal and disciplinary acts of the Customs and its staff. The authority receiving the accusation or report that has the power to handle it shall promptly investigate and handle it in accordance with law and the division of duties. The authority receiving the accusation or report and the authority responsible for investigation and handling shall keep the accuser or informant confidential."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision of Law Enforcement"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "Where, in investigating and handling an illegal case, a customs staff member is in any of the following circumstances, he or she shall withdraw:\n(a) being a party to the case or a close relative of a party;\n(b) having himself or herself or a close relative an interest in the case;\n(c) having another relationship with a party to the case that may affect the impartial handling of the case."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision of Law Enforcement"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "Where this Law and the relevant laws and administrative regulations are violated by evading customs supervision, evading the payment of duties payable or evading the prohibitive or restrictive administration of the State concerning entry and exit, and any of the following circumstances exists, the act constitutes smuggling:\n(a) transporting, carrying or posting into or out of the territory goods or articles the entry or exit of which is prohibited or restricted by the State, or goods or articles on which duties shall be paid in accordance with law;\n(b) selling within the territory, without the permission of the Customs and without payment of the duties payable and submission of the relevant licences, bonded goods, goods with specific duty reduction or exemption and other goods and articles under customs supervision, or means of transport of overseas origin that have entered the territory;\n(c) other acts of evading customs supervision that constitute smuggling.\nWhere any of the acts listed in the preceding paragraph is committed and a crime is not yet constituted, the Customs shall confiscate the smuggled goods and articles and the illegal income and may also impose a fine; goods and articles specially or repeatedly used to cover up smuggling, means of transport specially or repeatedly used for smuggling shall be confiscated, and specially made equipment for concealing smuggled goods and articles shall be ordered to be dismantled or confiscated.\nWhere any of the acts listed in paragraph 1 is committed and a crime is constituted, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "Any of the following acts shall be treated as smuggling and punished in accordance with the provisions of Article 82 of this Law:\n(a) directly and unlawfully purchasing from a smuggler goods or articles smuggled into the territory;\n(b) in inland waters, the territorial sea, boundary rivers and boundary lakes, vessels and the persons on board transporting, purchasing or selling goods or articles the entry or exit of which is prohibited or restricted by the State, or transporting, purchasing or selling goods on which duties shall be paid in accordance with law, without lawful proof."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "Whoever forges, alters or trades in customs documents, or conspires with a smuggler to provide a loan, funds, an account, an invoice, a certificate or customs documents to the smuggler, or conspires with a smuggler to provide transport, safekeeping, posting or other conveniences to the smuggler, shall, where a crime is constituted, be investigated for criminal liability in accordance with law; where a crime is not yet constituted, the Customs shall confiscate the illegal income and impose a fine."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "Where an individual carries or posts into or out of the territory personal-use articles in quantities exceeding reasonable limits and fails to declare them to the Customs in accordance with law, the individual shall be ordered to pay the customs duties in arrears and may be fined."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "Whoever, in violation of the provisions of this Law, commits any of the following acts may be fined, and where there is illegal income, the illegal income shall be confiscated:\n(a) a means of transport entering or leaving the territory not through a place where a Customs office is established;\n(b) failing to notify the Customs of the time of arrival, the place of stay or the place of change of a means of transport entering or leaving the territory;\n(c) making a false declaration to the Customs of imported or exported goods or articles, or of goods in transit, transhipment and through carriage;\n(d) failing to accept customs inspection and examination of means of transport, goods and articles entering or leaving the territory in accordance with the provisions;\n(e) loading or unloading goods or articles entering or leaving the territory, or boarding or landing passengers entering or leaving the territory, without the consent of the Customs;\n(f) a means of transport entering or leaving the territory that is staying at a place where a Customs office is established departing without the consent of the Customs;\n(g) a means of transport entering or leaving the territory travelling from one place where a Customs office is established to another, changing its course on the way for outside the territory or for a place within the territory where no Customs office is established, without completing the customs formalities and without the approval of the Customs;\n(h) a means of transport entering or leaving the territory concurrently engaging in or converting to domestic transport without meeting the requirements of customs supervision or without completing the formalities with the Customs;\n(i) vessels and aircraft entering or leaving the territory forced by force majeure to berth or land at a place where no Customs office is established, or to throw away or unload goods or articles within the territory, and failing to report to the nearby Customs without legitimate reasons;\n(j) opening, extracting, delivering, dispatching, exchanging, repacking, mortgaging, pledging, retaining, transferring, changing the marks of, diverting to other uses or otherwise disposing of goods under customs supervision without the permission of the Customs;\n(k) opening or destroying customs seals without authorisation;\n(l) engaging in the transport, storage, processing or other business of goods under customs supervision where the goods are lost or the relevant records are untrue and no legitimate reasons can be provided;\n(m) other acts violating the provisions on customs supervision."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "Where an enterprise permitted by the Customs to engage in the relevant business violates the relevant provisions of this Law, the Customs shall order it to make corrections and may give a warning, suspend its engagement in the relevant business or even revoke its registration."
+        },
+        "noLabel": {
+          "en": "Article 87."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "Where a person engages in customs declaration business without filing with the Customs, the Customs may impose a fine."
+        },
+        "noLabel": {
+          "en": "Article 88."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "Where a customs declaration enterprise unlawfully acts as agent for another in making customs declarations, the Customs shall order it to make corrections and impose a fine; where the circumstances are serious, it shall be prohibited from engaging in customs declaration activities.\nWhere a customs declarant unlawfully acts as agent for another in making customs declarations, the Customs shall order him or her to make corrections and impose a fine."
+        },
+        "noLabel": {
+          "en": "Article 89."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 90,
+        "text": {
+          "en": "Where the consignee or consignor of imported or exported goods or a customs declaration enterprise bribes a customs staff member, the Customs shall prohibit it from engaging in customs declaration activities and impose a fine; where a crime is constituted, criminal liability shall be investigated in accordance with law.\nWhere a customs declarant bribes a customs staff member, a fine shall be imposed; where a crime is constituted, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 90."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 91,
+        "text": {
+          "en": "Whoever, in violation of the provisions of this Law, imports or exports goods infringing intellectual property rights protected by the laws and administrative regulations of the People's Republic of China shall have the infringing goods confiscated by the Customs in accordance with law and be fined; where a crime is constituted, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 91."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 92,
+        "text": {
+          "en": "Goods, articles and means of transport detained by the Customs in accordance with law shall not be disposed of before a judgment of a people's court or a penalty decision of the Customs is made. However, dangerous goods or goods and articles such as fresh and live, perishable or easily deteriorating goods that are not suitable for long-term storage, and goods, articles and means of transport for which the owner applies for prior sale, may, with the approval of the director of the directly subordinate Customs or of the director of the subordinate Customs authorised by him or her, be sold off in advance in accordance with law, and the proceeds of the sale shall be kept by the Customs, which shall notify the owner.\nSmuggled goods, articles, illegal income, smuggling means of transport and specially made equipment confiscated by judgment of a people's court or by decision of the Customs shall be uniformly disposed of by the Customs in accordance with law, and the proceeds and the fines imposed by decision of the Customs shall all be turned over to the Central State treasury."
+        },
+        "noLabel": {
+          "en": "Article 92."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 93,
+        "text": {
+          "en": "Where a party fails to perform a penalty decision of the Customs within the time limit and neither applies for reconsideration nor institutes proceedings before a people's court, the Customs that made the penalty decision may offset the penalty against the deposit, or sell off the detained goods, articles or means of transport at a price in accordance with law to offset the penalty, or apply to a people's court for compulsory enforcement."
+        },
+        "noLabel": {
+          "en": "Article 93."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 94,
+        "text": {
+          "en": "Where the Customs damages goods or articles in the course of examining goods and articles entering or leaving the territory, it shall compensate for the actual loss."
+        },
+        "noLabel": {
+          "en": "Article 94."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 95,
+        "text": {
+          "en": "Where the Customs unlawfully detains goods, articles or means of transport, causing losses to the lawful rights and interests of the party concerned, it shall bear the liability for compensation in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 95."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 96,
+        "text": {
+          "en": "Where a customs staff member commits any of the acts listed in Article 72 of this Law, an administrative sanction shall be given in accordance with law; where there is illegal income, the illegal income shall be confiscated in accordance with law; where a crime is constituted, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 96."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 97,
+        "text": {
+          "en": "Where the fiscal revenue and expenditure of the Customs violate the provisions of laws and administrative regulations, the audit institution and the relevant departments shall deal with the matter in accordance with the provisions of laws and administrative regulations; the directly responsible person in charge and other persons directly responsible shall be given administrative sanctions in accordance with law; where a crime is constituted, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 97."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 98,
+        "text": {
+          "en": "Where the identity of an accuser, informant or reporter is not kept confidential in accordance with the provisions of this Law, the unit to which the directly responsible person in charge and other persons directly responsible belong or the relevant unit shall give them administrative sanctions in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 98."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 99,
+        "text": {
+          "en": "Where a customs staff member fails to withdraw in accordance with the provisions of this Law when investigating and handling an illegal case, the directly responsible person in charge and other persons directly responsible shall be given administrative sanctions in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 99."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 100,
+        "text": {
+          "en": "The following terms used in this Law have the meanings set out below:\nA directly subordinate Customs means a Customs office directly under the leadership of the General Administration of Customs that is responsible for managing customs business within a certain area; a subordinate Customs means a Customs office under the leadership of a directly subordinate Customs that is responsible for handling specific customs business.\nMeans of transport entering or leaving the territory means the various vessels, vehicles, aircraft and pack animals used to carry persons, goods and articles into or out of the territory.\nGoods in transit, transhipment and through carriage means goods consigned from outside the territory and transported through the territory of China to a destination outside the territory. Among them, goods transported by land through the territory are called goods in transit; goods for which the means of transport is changed at a place within the territory where a Customs office is established and which are not transported by land through the territory are called goods for transhipment; goods carried into the territory by vessel or aircraft and carried out of the territory by the same means of transport are called goods for through carriage.\nGoods under customs supervision means the imported and exported goods listed in Article 23 of this Law, goods in transit, transhipment and through carriage, goods with specific duty reduction or exemption, and goods temporarily imported or exported, bonded goods and other goods entering or leaving the territory for which the customs formalities have not yet been completed.\nBonded goods means goods approved by the Customs to enter the territory without completing duty payment formalities and to be re-shipped out of the territory after storage, processing or assembly within the territory.\nThe customs supervision zone means ports, stations, airports, national boundary passages, international mail exchange offices (exchange stations) and other places where customs supervision business is carried on, as well as places for entry and exit where no Customs office is established but which are approved by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 100."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 101,
+        "text": {
+          "en": "The measures for the supervision of means of transport, goods and articles travelling between special regions such as special economic zones and other areas within the territory shall be formulated separately by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 101."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 102,
+        "text": {
+          "en": "This Law shall come into force on 1 July 1987. The Provisional Customs Law of the People's Republic of China promulgated by the Central People's Government on 18 April 1951 shall be repealed at the same time."
+        },
+        "noLabel": {
+          "en": "Article 102."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-LAW-0145'] = {
     "lawId": "CN-LAW-0145",
     "sourceLang": "zh",
@@ -45072,6 +46272,1290 @@
         },
         "chapter": {
           "en": "Chapter VII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0154'] = {
+    "lawId": "CN-LAW-0154",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 109 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is enacted in order to regulate the conduct of partnerships, protect the lawful rights and interests of partnerships, their partners and creditors, maintain social and economic order and promote the development of the socialist market economy."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Partnership referred to in this Law means a general partnership or a limited partnership established within the territory of China by natural persons, legal persons and other organisations in accordance with this Law.\nA general partnership shall be composed of general partners, who shall bear unlimited joint and several liability for the debts of the partnership. Where this Law contains special provisions on the form in which general partners bear liability, those provisions shall prevail.\nA limited partnership shall be composed of general partners and limited partners. General partners shall bear unlimited joint and several liability for the debts of the partnership, and limited partners shall bear liability for the debts of the partnership to the extent of the capital contributions they have subscribed."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Wholly State-owned companies, State-owned enterprises, listed companies, and public welfare institutions and public organisations may not become general partners."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "A partnership agreement shall be concluded in written form by all partners through consultation and unanimity in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The conclusion of a partnership agreement and the establishment of a partnership shall follow the principles of voluntariness, equality, fairness and good faith."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The income from production and operation and other income of a partnership shall be subject to income tax paid separately by the partners in accordance with the relevant tax provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Partnerships and their partners must comply with laws and administrative regulations, observe social ethics and business ethics, and bear social responsibility."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The lawful property and rights and interests of partnerships and their partners shall be protected by law."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "To apply for the establishment of a partnership, documents such as an application for registration, the partnership agreement and identity documents of the partners shall be submitted to the enterprise registration authority.\nWhere the business scope of a partnership includes items that, in accordance with laws or administrative regulations, require approval before registration, the relevant business shall be approved in accordance with law and the approval documents shall be submitted at the time of registration."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Where the registration application materials submitted by the applicant are complete and conform to the statutory form and the enterprise registration authority is able to register on the spot, it shall register on the spot and issue a business licence.\nExcept in the circumstances provided in the preceding paragraph, the enterprise registration authority shall, within 20 days from the date of acceptance of the application, make a decision on whether to register. Where registration is granted, a business licence shall be issued; where registration is not granted, a written reply shall be given stating the reasons."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The date of issuance of the business licence of a partnership shall be the date of establishment of the partnership.\nBefore a partnership obtains its business licence, its partners may not engage in partnership business in the name of the partnership."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Where a partnership establishes a branch, it shall apply for registration to the enterprise registration authority of the place where the branch is located and obtain a business licence."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where the registered matters of a partnership change, the partner executing partnership affairs shall, within 15 days from the date of the decision on the change or the date on which the cause of change occurs, apply to the enterprise registration authority for modification of registration."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "To establish a partnership, the following conditions shall be met:\n(a) there are two or more partners. Where a partner is a natural person, he or she shall have full capacity for civil conduct;\n(b) there is a written partnership agreement;\n(c) there are capital contributions subscribed or actually paid by the partners;\n(d) there is a name and a place of production and operation for the partnership;\n(e) other conditions provided by laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Section 1 Establishment of Partnerships"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The name of a general partnership shall contain the words \"general partnership\"."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Section 1 Establishment of Partnerships"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "A partner may make capital contributions in currency, in kind, with intellectual property rights, land use rights or other property rights, or with labour services.\nWhere a partner makes capital contributions in kind, with intellectual property rights, land use rights or other property rights and valuation is required, the valuation may be determined by all partners through consultation or by a statutory valuation institution entrusted by all partners.\nWhere a partner makes capital contributions with labour services, the valuation method shall be determined by all partners through consultation and stated in the partnership agreement."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Section 1 Establishment of Partnerships"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Partners shall perform their capital contribution obligations in accordance with the form, amount and time limit for payment of capital contributions agreed in the partnership agreement.\nWhere capital contributions are made with non-monetary property and the formalities for transfer of property rights need to be completed in accordance with the provisions of laws or administrative regulations, those formalities shall be completed in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Section 1 Establishment of Partnerships"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "A partnership agreement shall state the following matters:\n(a) the name of the partnership and the location of its main place of business;\n(b) the purpose of the partnership and the scope of partnership business;\n(c) the names or titles and domiciles of the partners;\n(d) the form, amount and time limit for payment of the capital contributions of the partners;\n(e) the method of profit distribution and loss sharing;\n(f) the execution of partnership affairs;\n(g) admission to and withdrawal from the partnership;\n(h) the method of dispute resolution;\n(i) the dissolution and liquidation of the partnership;\n(j) liability for breach of agreement."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Section 1 Establishment of Partnerships"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "A partnership agreement shall take effect after being signed and sealed by all partners. Partners shall enjoy rights and perform obligations in accordance with the partnership agreement.\nThe modification or supplementation of a partnership agreement shall be subject to the unanimous consent of all partners, except as otherwise agreed in the partnership agreement.\nMatters not agreed upon or not clearly agreed upon in the partnership agreement shall be decided by the partners through consultation; where consultation fails, they shall be handled in accordance with the provisions of this Law and other relevant laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Section 1 Establishment of Partnerships"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The capital contributions of the partners, the proceeds obtained in the name of the partnership and other property lawfully obtained shall all be the property of the partnership."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Section 2 Property of Partnerships"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Before the liquidation of a partnership, a partner may not request the partition of the property of the partnership, except as otherwise provided in this Law.\nWhere a partner privately transfers or disposes of partnership property before the liquidation of the partnership, the partnership may not use this to oppose a bona fide third party."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Section 2 Property of Partnerships"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Unless otherwise agreed in the partnership agreement, where a partner transfers all or part of his or her share of property in the partnership to a person other than the partners, the unanimous consent of the other partners shall be required.\nWhere a partner transfers all or part of his or her share of property in the partnership to another partner, the other partners shall be notified."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Section 2 Property of Partnerships"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where a partner transfers his or her share of property in the partnership to a person other than the partners, the other partners shall have a right of first refusal under equal conditions, except as otherwise agreed in the partnership agreement."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Section 2 Property of Partnerships"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Where a person other than the partners lawfully acquires a partner's share of property in the partnership, he or she shall become a partner of the partnership upon modification of the partnership agreement, and shall enjoy rights and perform obligations in accordance with this Law and the modified partnership agreement."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Section 2 Property of Partnerships"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Where a partner pledges his or her share of property in the partnership, the unanimous consent of the other partners shall be required; without the unanimous consent of the other partners, the act shall be void, and where loss is thereby caused to a bona fide third party, the person committing the act shall bear liability for compensation in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Section 2 Property of Partnerships"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Partners shall enjoy equal rights in the execution of partnership affairs.\nIn accordance with the agreement in the partnership agreement or a decision of all partners, one or several partners may be entrusted to represent the partnership externally and execute partnership affairs.\nWhere a legal person or other organisation that is a partner executes partnership affairs, its appointed representative shall execute them."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Section 3 Execution of Partnership Affairs"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where, in accordance with the provisions of paragraph 2 of Article 26 of this Law, one or several partners are entrusted to execute partnership affairs, the other partners shall no longer execute partnership affairs.\nPartners not executing partnership affairs shall have the right to supervise the execution of partnership affairs by the partners executing affairs."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Section 3 Execution of Partnership Affairs"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Where one or several partners execute partnership affairs, the partners executing affairs shall periodically report to the other partners on the execution of affairs and on the operating and financial condition of the partnership; the proceeds arising from their execution of partnership affairs shall belong to the partnership, and the expenses and losses arising therefrom shall be borne by the partnership.\nIn order to understand the operating and financial condition of the partnership, partners shall have the right to consult the accounting books and other financial materials of the partnership."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Section 3 Execution of Partnership Affairs"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Where partners separately execute partnership affairs, a partner executing affairs may raise objections to affairs executed by another partner. Upon objection being raised, the execution of that matter shall be suspended. Where a dispute arises, a decision shall be made in accordance with the provisions of Article 30 of this Law.\nWhere a partner entrusted to execute partnership affairs executes affairs not in accordance with the partnership agreement or the decisions of all partners, the other partners may decide to revoke the entrustment."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Section 3 Execution of Partnership Affairs"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where partners make resolutions on matters of the partnership, the voting method agreed in the partnership agreement shall be followed. Where the partnership agreement contains no agreement or the agreement is unclear, the voting method of one vote per partner with the approval of more than half of all partners shall apply.\nWhere this Law contains other provisions on the voting method for partnerships, those provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Section 3 Execution of Partnership Affairs"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Unless otherwise agreed in the partnership agreement, the following matters of a partnership shall be subject to the unanimous consent of all partners:\n(a) changing the name of the partnership;\n(b) changing the scope of business of the partnership or the location of its main place of business;\n(c) disposing of the immovable property of the partnership;\n(d) transferring or disposing of the intellectual property rights and other property rights of the partnership;\n(e) providing security for others in the name of the partnership;\n(f) appointing persons other than partners as business managers of the partnership."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Section 3 Execution of Partnership Affairs"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "A partner may not, on his or her own account or in cooperation with others, engage in business competing with the partnership.\nUnless otherwise agreed in the partnership agreement or unless the unanimous consent of all partners is obtained, a partner may not enter into transactions with the partnership.\nA partner may not engage in activities harming the interests of the partnership."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Section 3 Execution of Partnership Affairs"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The distribution of profits and sharing of losses of a partnership shall be handled in accordance with the agreement in the partnership agreement; where the partnership agreement contains no agreement or the agreement is unclear, the matter shall be decided by the partners through consultation; where consultation fails, the partners shall distribute profits and share losses in proportion to their actually paid capital contributions; where the proportion of capital contributions cannot be determined, profits shall be distributed and losses shared equally among the partners.\nA partnership agreement may not provide that all profits are distributed to some partners or that all losses are borne by some partners."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Section 3 Execution of Partnership Affairs"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Partners may, in accordance with the agreement in the partnership agreement or a decision of all partners, increase or reduce their capital contributions to the partnership."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Section 3 Execution of Partnership Affairs"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Business managers appointed by a partnership shall perform their duties within the scope of authorisation of the partnership.\nWhere a business manager appointed by a partnership performs duties beyond the scope of authorisation of the partnership, or causes loss to the partnership through intent or gross negligence in the course of performing duties, he or she shall bear liability for compensation in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Section 3 Execution of Partnership Affairs"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Partnerships shall establish enterprise financial and accounting systems in accordance with the provisions of laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Section 3 Execution of Partnership Affairs"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Restrictions imposed by a partnership on the right of a partner to execute partnership affairs and to represent the partnership externally may not be asserted against a bona fide third party."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Section 4 Relations between Partnerships and Third Parties"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "A partnership shall first satisfy its debts with all of its property."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Section 4 Relations between Partnerships and Third Parties"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where a partnership is unable to satisfy its due debts, the partners shall bear unlimited joint and several liability."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Section 4 Relations between Partnerships and Third Parties"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where, as a result of bearing unlimited joint and several liability, the amount paid by a partner exceeds the proportion of losses he or she should share as provided in paragraph 1 of Article 33 of this Law, he or she shall have the right to claim contribution from the other partners."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Section 4 Relations between Partnerships and Third Parties"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where a partner has debts unrelated to the partnership, the relevant creditor may not use that claim to set off its debts to the partnership, nor may it exercise by subrogation the rights of the partner in the partnership."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Section 4 Relations between Partnerships and Third Parties"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where a partner's own property is insufficient to satisfy debts unrelated to the partnership, the partner may use the proceeds distributed to him or her from the partnership for satisfaction; the creditor may also request a people's court in accordance with law to compulsorily execute the partner's share of property in the partnership for satisfaction.\nWhere a people's court compulsorily executes a partner's share of property, it shall notify all partners, and the other partners shall have a right of first refusal; where the other partners do not purchase it and do not agree to transfer the share of property to another person, a settlement on withdrawal shall be made for the partner in accordance with the provisions of Article 51 of this Law, or a settlement reducing the corresponding share of property of that partner shall be made."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Section 4 Relations between Partnerships and Third Parties"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Unless otherwise agreed in the partnership agreement, the admission of a new partner shall be subject to the unanimous consent of all partners, and a written admission agreement shall be concluded in accordance with law.\nWhen concluding an admission agreement, the original partners shall truthfully inform the new partner of the operating and financial condition of the original partnership."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Section 5 Admission and Withdrawal"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "A newly admitted partner shall enjoy the same rights and bear the same liability as the original partners. Where the admission agreement provides otherwise, those provisions shall prevail.\nA new partner shall bear unlimited joint and several liability for the debts of the partnership incurred before his or her admission."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Section 5 Admission and Withdrawal"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where the partnership agreement provides for the term of the partnership, a partner may withdraw from the partnership during the existence of the partnership under any of the following circumstances:\n(a) the cause for withdrawal agreed in the partnership agreement occurs;\n(b) the unanimous consent of all partners is obtained;\n(c) a cause arises making it difficult for the partner to continue participating in the partnership;\n(d) another partner seriously violates the obligations agreed in the partnership agreement."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Section 5 Admission and Withdrawal"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where the partnership agreement does not provide for the term of the partnership, a partner may withdraw from the partnership without causing adverse effects on the execution of partnership affairs, but shall notify the other partners 30 days in advance."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Section 5 Admission and Withdrawal"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where a partner withdraws from the partnership in violation of the provisions of Article 45 or Article 46 of this Law, he or she shall compensate for the loss thereby caused to the partnership."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Section 5 Admission and Withdrawal"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "A partner shall ipso facto withdraw from the partnership under any of the following circumstances:\n(a) the natural person who is a partner dies or is declared dead in accordance with law;\n(b) the partner personally loses the capacity to satisfy debts;\n(c) the legal person or other organisation that is a partner has its business licence revoked in accordance with law, is ordered to close down or is dissolved, or is declared bankrupt;\n(d) the partner loses the relevant qualification that he or she is required by law or by the partnership agreement to possess;\n(e) the partner's entire share of property in the partnership is compulsorily executed by a people's court.\nWhere a partner is determined in accordance with law to be a person without capacity for civil conduct or a person with limited capacity for civil conduct, he or she may, with the unanimous consent of the other partners, be converted in accordance with law into a limited partner and the general partnership may be converted in accordance with law into a limited partnership. Where the other partners fail to reach unanimous consent, the partner without capacity for civil conduct or with limited capacity for civil conduct shall withdraw from the partnership.\nThe date on which the cause for withdrawal actually occurs shall be the effective date of withdrawal."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Section 5 Admission and Withdrawal"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where a partner falls under any of the following circumstances, a resolution may be made to expel the partner upon the unanimous consent of the other partners:\n(a) failure to perform the capital contribution obligation;\n(b) causing loss to the partnership through intent or gross negligence;\n(c) improper conduct in the execution of partnership affairs;\n(d) occurrence of the cause agreed in the partnership agreement.\nThe resolution expelling a partner shall be notified in writing to the expelled partner. The expulsion shall take effect and the expelled partner shall withdraw from the partnership on the date the expelled partner receives the notice of expulsion.\nWhere the expelled partner has objections to the expulsion resolution, he or she may bring an action before a people's court within 30 days from the date of receipt of the notice of expulsion."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Section 5 Admission and Withdrawal"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where a partner dies or is declared dead in accordance with law, an heir who lawfully enjoys the right of inheritance in respect of the partner's share of property in the partnership shall, in accordance with the agreement in the partnership agreement or with the unanimous consent of all partners, acquire the status of partner of the partnership from the date on which inheritance begins.\nUnder any of the following circumstances, the partnership shall return the share of property of the deceased partner to his or her heirs:\n(a) the heir is unwilling to become a partner;\n(b) the relevant qualification that a partner is required by law or by the partnership agreement to possess has not been obtained by the heir;\n(c) other circumstances provided in the partnership agreement under which a person may not become a partner.\nWhere the heir of a partner is a person without capacity for civil conduct or a person with limited capacity for civil conduct, he or she may, with the unanimous consent of all partners, become a limited partner in accordance with law, and the general partnership may be converted in accordance with law into a limited partnership. Where all partners fail to reach unanimous consent, the partnership shall return the share of property of the deceased partner to the heir."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Section 5 Admission and Withdrawal"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where a partner withdraws from the partnership, the other partners shall settle accounts with the withdrawing partner on the basis of the property condition of the partnership at the time of withdrawal and return the withdrawing partner's share of property. Where the withdrawing partner is liable for compensation for loss caused to the partnership, the amount of compensation payable shall be deducted accordingly.\nWhere partnership affairs remain unsettled at the time of withdrawal, settlement shall be made after those affairs are settled."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Section 5 Admission and Withdrawal"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "The method of returning the withdrawing partner's share of property in the partnership shall be agreed in the partnership agreement or decided by all partners; the return may be made in currency or in kind."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Section 5 Admission and Withdrawal"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "A withdrawing partner shall bear unlimited joint and several liability for the debts of the partnership arising from causes occurring before his or her withdrawal."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Section 5 Admission and Withdrawal"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where, at the time of a partner's withdrawal, the property of the partnership is less than its debts, the withdrawing partner shall share the losses in accordance with the provisions of paragraph 1 of Article 33 of this Law."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Section 5 Admission and Withdrawal"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "A professional service institution providing paid services to clients on the basis of professional knowledge and specialised skills may be established as a special general partnership.\nA special general partnership means a general partnership in which the partners bear liability in accordance with the provisions of Article 57 of this Law.\nThe provisions of this Section shall apply to special general partnerships; where this Section contains no provisions, the provisions of Sections 1 to 5 of this Chapter shall apply."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Section 6 Special General Partnerships"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "The name of a special general partnership shall contain the words \"special general partnership\"."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Section 6 Special General Partnerships"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where one or several partners cause debts of the partnership through intent or gross negligence in the course of professional practice, they shall bear unlimited liability or unlimited joint and several liability, and the other partners shall bear liability to the extent of their shares of property in the partnership.\nDebts of the partnership caused by partners in the course of professional practice not through intent or gross negligence, and other debts of the partnership, shall be borne by all partners with unlimited joint and several liability."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Section 6 Special General Partnerships"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where a debt of the partnership is caused by a partner through intent or gross negligence in the course of professional practice and the partnership property has been used to bear liability externally, that partner shall, in accordance with the agreement in the partnership agreement, bear liability for compensation for the loss caused to the partnership."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Section 6 Special General Partnerships"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "A special general partnership shall establish a professional practice risk fund and take out professional insurance.\nThe professional practice risk fund shall be used to pay debts caused by the professional practice activities of partners. The professional practice risk fund shall be managed in a separate account. The specific administrative measures shall be prescribed by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Section 6 Special General Partnerships"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "The provisions of this Chapter shall apply to limited partnerships and their partners; where this Chapter contains no provisions, the provisions of Sections 1 to 5 of Chapter II of this Law on general partnerships and their partners shall apply."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter III Limited Partnerships"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "A limited partnership shall be established by not fewer than two but not more than fifty partners, except as otherwise provided by law.\nA limited partnership shall have at least one general partner."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter III Limited Partnerships"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "The name of a limited partnership shall contain the words \"limited partnership\"."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter III Limited Partnerships"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "In addition to conforming to the provisions of Article 18 of this Law, a partnership agreement shall also state the following matters:\n(a) the names or titles and domiciles of the general partners and limited partners;\n(b) the conditions to be met by the partner executing affairs and the procedure for selecting that partner;\n(c) the limits of authority of the partner executing affairs and the measures for handling breach of agreement;\n(d) the conditions for expulsion and the procedure for replacement of the partner executing affairs;\n(e) the conditions and procedure for the admission and withdrawal of limited partners and the relevant liability;\n(f) the procedure for conversion between limited partners and general partners."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter III Limited Partnerships"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "A limited partner may make capital contributions at a valuation in currency, in kind, with intellectual property rights, land use rights or other property rights.\nA limited partner may not make capital contributions with labour services."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter III Limited Partnerships"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "A limited partner shall pay capital contributions in full and on time in accordance with the agreement in the partnership agreement; where payment is not made in full and on time, the limited partner shall bear the obligation to make supplementary payment and bear liability for breach of agreement towards the other partners."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter III Limited Partnerships"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "The registered matters of a limited partnership shall state the names or titles of the limited partners and the amounts of capital contributions subscribed."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter III Limited Partnerships"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Partnership affairs of a limited partnership shall be executed by the general partners. The partner executing affairs may require that the remuneration for executing affairs and the method of drawing remuneration be determined in the partnership agreement."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter III Limited Partnerships"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "A limited partner shall not execute partnership affairs and may not represent the limited partnership externally.\nThe following acts of a limited partner shall not be deemed execution of partnership affairs:\n(a) participating in the decision on the admission or withdrawal of a general partner;\n(b) making suggestions on the operation and management of the enterprise;\n(c) participating in the selection of the accounting firm undertaking the audit business of the limited partnership;\n(d) obtaining the audited financial and accounting reports of the limited partnership;\n(e) consulting the financial and accounting books and other financial materials of the limited partnership in respect of circumstances involving his or her own interests;\n(f) asserting rights against the responsible partner or instituting an action when his or her interests in the limited partnership are infringed upon;\n(g) where the partner executing affairs is remiss in exercising rights, urging him or her to exercise them or instituting an action in his or her own name for the benefit of the enterprise;\n(h) providing security for the enterprise in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter III Limited Partnerships"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "A limited partnership may not distribute all profits to some partners, except as otherwise agreed in the partnership agreement."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter III Limited Partnerships"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "A limited partner may enter into transactions with the limited partnership, except as otherwise agreed in the partnership agreement."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter III Limited Partnerships"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "A limited partner may, on his or her own account or in cooperation with others, engage in business competing with the limited partnership, except as otherwise agreed in the partnership agreement."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter III Limited Partnerships"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "A limited partner may pledge his or her share of property in the limited partnership, except as otherwise agreed in the partnership agreement."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter III Limited Partnerships"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "A limited partner may, in accordance with the agreement in the partnership agreement, transfer his or her share of property in the limited partnership to a person other than the partners, but shall notify the other partners 30 days in advance."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter III Limited Partnerships"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "Where a limited partner's own property is insufficient to satisfy debts unrelated to the partnership, the partner may use the proceeds distributed to him or her from the limited partnership for satisfaction; the creditor may also request a people's court in accordance with law to compulsorily execute the limited partner's share of property in the limited partnership for satisfaction.\nWhere a people's court compulsorily executes a limited partner's share of property, it shall notify all partners. Under equal conditions, the other partners shall have a right of first refusal."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter III Limited Partnerships"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "Where only limited partners remain in a limited partnership, the partnership shall be dissolved; where only general partners remain in a limited partnership, it shall be converted into a general partnership."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter III Limited Partnerships"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "Where a third party has reason to believe that a limited partner is a general partner and enters into transactions with him or her, that limited partner shall bear the same liability as a general partner in respect of those transactions.\nWhere a limited partner enters into transactions with others in the name of the limited partnership without authorisation, causing loss to the limited partnership or other partners, that limited partner shall bear liability for compensation."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter III Limited Partnerships"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "A newly admitted limited partner shall bear liability for the debts of the limited partnership incurred before his or her admission to the extent of the capital contribution he or she has subscribed."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter III Limited Partnerships"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "A limited partner shall ipso facto withdraw from the partnership where any of the circumstances listed in items (a), and (c) to (e) of paragraph 1 of Article 48 of this Law applies to him or her."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Chapter III Limited Partnerships"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "Where a natural person who is a limited partner loses capacity for civil conduct during the existence of the limited partnership, the other partners may not require him or her to withdraw from the partnership on that ground."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Chapter III Limited Partnerships"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "Where a natural person who is a limited partner dies or is declared dead in accordance with law, or where a legal person or other organisation that is a limited partner terminates, his or her heir or successor in rights may acquire in accordance with law the status of that limited partner in the limited partnership."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Chapter III Limited Partnerships"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "After a limited partner withdraws from the partnership, he or she shall bear liability for the debts of the limited partnership arising from causes occurring before his or her withdrawal to the extent of the property he or she recovered from the limited partnership upon withdrawal."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Chapter III Limited Partnerships"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "Unless otherwise agreed in the partnership agreement, the conversion of a general partner into a limited partner, or of a limited partner into a general partner, shall be subject to the unanimous consent of all partners."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Chapter III Limited Partnerships"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "Where a limited partner is converted into a general partner, he or she shall bear unlimited joint and several liability for the debts of the limited partnership incurred during the period in which he or she was a limited partner."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Chapter III Limited Partnerships"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "Where a general partner is converted into a limited partner, he or she shall bear unlimited joint and several liability for the debts of the partnership incurred during the period in which he or she was a general partner."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Chapter III Limited Partnerships"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "A partnership shall be dissolved under any of the following circumstances:\n(a) the term of the partnership expires and the partners decide not to continue the business;\n(b) the cause of dissolution agreed in the partnership agreement occurs;\n(c) all partners decide to dissolve the partnership;\n(d) the partners no longer meet the statutory number for 30 days;\n(e) the purpose of the partnership agreed in the partnership agreement has been achieved or cannot be achieved;\n(f) the business licence is revoked in accordance with law, the partnership is ordered to close down or is dissolved;\n(g) other causes provided by laws or administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        },
+        "chapter": {
+          "en": "Chapter IV Dissolution and Liquidation of Partnerships"
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "Where a partnership is dissolved, liquidation shall be carried out by liquidators.\nThe liquidators shall be all the partners; with the consent of more than half of all partners, one or several partners may be designated, or a third party may be entrusted, within 15 days after the cause of dissolution of the partnership occurs, to act as liquidators.\nWhere liquidators are not determined within 15 days from the date on which the cause of dissolution of the partnership occurs, the partners or other interested parties may apply to a people's court to designate liquidators."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        },
+        "chapter": {
+          "en": "Chapter IV Dissolution and Liquidation of Partnerships"
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "Liquidators shall handle the following matters during liquidation:\n(a) clearing the property of the partnership and preparing a balance sheet and a property inventory respectively;\n(b) handling the unsettled affairs of the partnership relating to liquidation;\n(c) paying the taxes owed;\n(d) clearing claims and debts;\n(e) handling the remaining property of the partnership after satisfaction of its debts;\n(f) representing the partnership in litigation or arbitration activities."
+        },
+        "noLabel": {
+          "en": "Article 87."
+        },
+        "chapter": {
+          "en": "Chapter IV Dissolution and Liquidation of Partnerships"
+        }
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "Liquidators shall, within 10 days from the date of their designation, notify creditors of the dissolution of the partnership and shall make an announcement in a newspaper within 60 days. Creditors shall, within 30 days from the date of receipt of the notice, or, where no notice is received, within 45 days from the date of the announcement, declare their claims to the liquidators.\nWhen declaring claims, creditors shall explain the relevant matters of the claims and provide supporting materials. Liquidators shall register the claims.\nDuring liquidation, the partnership shall continue to exist, but may not carry out business activities unrelated to liquidation."
+        },
+        "noLabel": {
+          "en": "Article 88."
+        },
+        "chapter": {
+          "en": "Chapter IV Dissolution and Liquidation of Partnerships"
+        }
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "The remaining property of a partnership after payment of liquidation expenses, employees' wages, social insurance contributions, statutory compensation, and the payment of taxes owed and satisfaction of debts shall be distributed in accordance with the provisions of paragraph 1 of Article 33 of this Law."
+        },
+        "noLabel": {
+          "en": "Article 89."
+        },
+        "chapter": {
+          "en": "Chapter IV Dissolution and Liquidation of Partnerships"
+        }
+      },
+      {
+        "no": 90,
+        "text": {
+          "en": "Upon conclusion of liquidation, the liquidators shall prepare a liquidation report which, after being signed and sealed by all partners, shall be submitted to the enterprise registration authority within 15 days, together with an application for cancellation of registration of the partnership."
+        },
+        "noLabel": {
+          "en": "Article 90."
+        },
+        "chapter": {
+          "en": "Chapter IV Dissolution and Liquidation of Partnerships"
+        }
+      },
+      {
+        "no": 91,
+        "text": {
+          "en": "After the cancellation of a partnership, the former general partners shall still bear unlimited joint and several liability for the debts of the partnership incurred during its existence."
+        },
+        "noLabel": {
+          "en": "Article 91."
+        },
+        "chapter": {
+          "en": "Chapter IV Dissolution and Liquidation of Partnerships"
+        }
+      },
+      {
+        "no": 92,
+        "text": {
+          "en": "Where a partnership is unable to satisfy its due debts, creditors may, in accordance with law, apply to a people's court for bankruptcy liquidation, or may require the general partners to satisfy the debts.\nWhere a partnership is declared bankrupt in accordance with law, the general partners shall still bear unlimited joint and several liability for the debts of the partnership."
+        },
+        "noLabel": {
+          "en": "Article 92."
+        },
+        "chapter": {
+          "en": "Chapter IV Dissolution and Liquidation of Partnerships"
+        }
+      },
+      {
+        "no": 93,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a person submits false documents or adopts other deceptive means to obtain registration of a partnership, the enterprise registration authority shall order correction and impose a fine of not less than 5,000 yuan but not more than 50,000 yuan; where the circumstances are serious, revoke the enterprise registration and impose a fine of not less than 50,000 yuan but not more than 200,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 93."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 94,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a partnership fails to state the words \"general partnership\", \"special general partnership\" or \"limited partnership\" in its name, the enterprise registration authority shall order correction within a time limit and impose a fine of not less than 2,000 yuan but not more than 10,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 94."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 95,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a person engages in partnership business in the name of a partnership or a branch of a partnership without obtaining a business licence, the enterprise registration authority shall order cessation and impose a fine of not less than 5,000 yuan but not more than 50,000 yuan.\nWhere the registered matters of a partnership change and modification of registration is not carried out in accordance with the provisions of this Law, the enterprise registration authority shall order registration within a time limit; where registration is not carried out on expiry of the time limit, a fine of not less than 2,000 yuan but not more than 20,000 yuan shall be imposed.\nWhere the registered matters of a partnership change and the partner executing partnership affairs fails to apply for modification of registration on time, he or she shall compensate for the loss thereby caused to the partnership, the other partners or a bona fide third party."
+        },
+        "noLabel": {
+          "en": "Article 95."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 96,
+        "text": {
+          "en": "Where a partner executing partnership affairs, or an employee of a partnership taking advantage of his or her position, appropriates for himself or herself benefits that should belong to the partnership, or encroaches on partnership property by other means, he or she shall return the benefits and property to the partnership; where loss is caused to the partnership or other partners, he or she shall bear liability for compensation in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 96."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 97,
+        "text": {
+          "en": "Where a partner handles without authorisation matters that, in accordance with the provisions of this Law or the agreement in the partnership agreement, may be handled only with the unanimous consent of all partners, and loss is caused to the partnership or other partners, he or she shall bear liability for compensation in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 97."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 98,
+        "text": {
+          "en": "Where a partner without the power to execute affairs executes partnership affairs without authorisation, causing loss to the partnership or other partners, he or she shall bear liability for compensation in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 98."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 99,
+        "text": {
+          "en": "Where a partner, in violation of the provisions of this Law or the agreement in the partnership agreement, engages in business competing with the partnership or enters into transactions with the partnership, the proceeds shall belong to the partnership; where loss is caused to the partnership or other partners, he or she shall bear liability for compensation in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 99."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 100,
+        "text": {
+          "en": "Where liquidators fail to submit a liquidation report to the enterprise registration authority in accordance with the provisions of this Law, or conceal important facts or have major omissions in the liquidation report submitted, the enterprise registration authority shall order correction. The expenses and losses thereby incurred shall be borne and compensated by the liquidators."
+        },
+        "noLabel": {
+          "en": "Article 100."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 101,
+        "text": {
+          "en": "Where liquidators seek unlawful income or encroach on partnership property in executing liquidation affairs, they shall return the income and the encroached property to the partnership; where loss is caused to the partnership or other partners, they shall bear liability for compensation in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 101."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 102,
+        "text": {
+          "en": "Where liquidators, in violation of the provisions of this Law, conceal or transfer partnership property, make false entries in the balance sheet or property inventory, or distribute property before satisfaction of debts, harming the interests of creditors, they shall bear liability for compensation in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 102."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 103,
+        "text": {
+          "en": "Where a partner breaches the partnership agreement, he or she shall bear liability for breach of agreement in accordance with law.\nWhere a dispute arises in the performance of a partnership agreement, the partners may resolve it through consultation or mediation. Where they are unwilling to resolve it through consultation or mediation, or consultation or mediation fails, they may apply to an arbitration institution for arbitration in accordance with the arbitration clause agreed in the partnership agreement or a written arbitration agreement reached afterwards. Where no arbitration clause is included in the partnership agreement and no written arbitration agreement is reached afterwards, they may bring an action before a people's court."
+        },
+        "noLabel": {
+          "en": "Article 103."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 104,
+        "text": {
+          "en": "Where staff members of the relevant administrative organs, in violation of the provisions of this Law, abuse their powers, engage in malpractice for personal gain, accept bribes or infringe upon the lawful rights and interests of partnerships, an administrative sanction shall be imposed in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 104."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 105,
+        "text": {
+          "en": "Where a violation of the provisions of this Law constitutes a crime, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 105."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 106,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a person is liable both for civil compensation and for payment of a fine or penalty, and his or her property is insufficient to pay both at the same time, the civil compensation liability shall be borne first."
+        },
+        "noLabel": {
+          "en": "Article 106."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 107,
+        "text": {
+          "en": "Where a non-enterprise professional service institution adopts a partnership form in accordance with the relevant laws, the form in which its partners bear liability may be governed by the provisions of this Law on the liability of partners of special general partnerships."
+        },
+        "noLabel": {
+          "en": "Article 107."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 108,
+        "text": {
+          "en": "The measures for the administration of partnerships established within the territory of China by foreign enterprises or individuals shall be prescribed by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 108."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 109,
+        "text": {
+          "en": "This Law shall come into force on 1 June 2007."
+        },
+        "noLabel": {
+          "en": "Article 109."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
         }
       }
     ]

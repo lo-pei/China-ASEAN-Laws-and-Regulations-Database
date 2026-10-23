@@ -38,7 +38,7 @@ from fastapi.responses import JSONResponse
 from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel, Field
 
-from . import db, search as search_mod
+from . import db, search as search_mod, vectors as vec_mod, hybrid as hybrid_mod, embedder
 
 APP_VERSION = "0.1.0-phaseA"
 PROTO = os.path.join(_ROOT, "prototype")
@@ -117,15 +117,25 @@ def articles(law_id: str) -> Dict[str, Any]:
 @app.get("/api/search", summary="法规检索")
 def search(
     q: str = "",
-    mode: str = Query("keyword", pattern="^(keyword|semantic|exact)$"),
+    mode: str = Query("keyword", pattern="^(keyword|semantic|exact|hybrid)$"),
     country: Optional[str] = None,
     level: Optional[str] = None,
     status: Optional[str] = None,
     page: int = Query(1, ge=1),
     size: int = Query(20, ge=1, le=200),
 ) -> Dict[str, Any]:
+    if mode == "hybrid":
+        return hybrid_mod.hybrid_search(q=q, mode="hybrid", country=country,
+                                        level=level, status=status,
+                                        page=page, size=size)
     return search_mod.search(q=q, mode=mode, country=country, level=level,
                              status=status, page=page, size=size)
+
+
+@app.get("/api/vectors", summary="向量索引状态")
+def vectors_status() -> Dict[str, Any]:
+    return {"embeddings": vec_mod.info(), "model": embedder.available(),
+            "modelDir": embedder.DEFAULT_MODEL}
 
 
 @app.get("/api/search/articles", summary="在指定法规内检索条文")

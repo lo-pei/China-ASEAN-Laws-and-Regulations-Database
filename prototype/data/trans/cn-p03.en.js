@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p03
-   法规 63 部 / 译文 3838 条
+   法规 67 部 / 译文 4277 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -3393,6 +3393,1299 @@
         },
         "chapter": {
           "en": "Chapter VI Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0165'] = {
+    "lawId": "CN-LAW-0165",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 110 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is enacted in accordance with the Constitution in order to develop medical and health undertakings, ensure that citizens enjoy basic medical and health services, improve the health level of citizens and advance the building of a Healthy China."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "This Law applies to activities of medical and health care, health promotion and the supervision and administration thereof."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Medical and health undertakings shall adhere to a people-centred approach and serve the health of the people.\nMedical and health undertakings shall adhere to the principle of public welfare."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The State and society shall respect and protect citizens' right to health.\nThe State shall implement the Healthy China strategy, popularise healthy lifestyles, optimise health services, improve health safeguards, build a healthy environment, develop the health industry and enhance the health level of citizens throughout the life cycle.\nThe State shall establish a health education system, ensure citizens' right to receive health education and improve the health literacy of citizens."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Citizens shall, in accordance with law, enjoy the right to obtain basic medical and health services from the State and society.\nThe State shall establish a basic medical and health system, establish and improve the medical and health service system, and protect and realise citizens' right to obtain basic medical and health services."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "People's governments at all levels shall give priority to people's health in the strategic position of development, integrate the concept of health into all policies, adhere to prevention first, improve the working system for health promotion, organise the implementation of plans and actions for health promotion, advance fitness for all, establish a health impact assessment system, and incorporate the improvement of the main health indicators of citizens into the assessment of government target responsibilities.\nThe whole of society shall care about and support the development of medical and health undertakings."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The State Council and local people's governments at all levels shall lead the work of medical and health care and health promotion.\nThe competent health department of the State Council shall be responsible for the overall coordination of medical and health care and health promotion throughout the country. Other relevant departments of the State Council shall, within the scope of their respective duties, be responsible for the relevant work of medical and health care and health promotion.\nThe competent health departments of local people's governments at or above the county level shall be responsible for the overall coordination of medical and health care and health promotion within their respective administrative regions. Other relevant departments of local people's governments at or above the county level shall, within the scope of their respective duties, be responsible for the relevant work of medical and health care and health promotion."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The State shall strengthen basic medical scientific research, encourage innovation in medical science and technology, support the development of clinical medicine, promote the transformation and application of medical scientific and technological achievements, advance the integrated development of medical and health care and information technology, disseminate appropriate medical and health technologies and improve the quality of medical and health services.\nThe State shall develop medical education, improve the medical education system suited to the needs of the development of medical and health undertakings, and vigorously cultivate medical and health talent."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The State shall vigorously develop undertakings of traditional Chinese medicine, adhere to laying equal emphasis on traditional Chinese and Western medicine and to combining inheritance with innovation, and give play to the unique role of traditional Chinese medicine in medical and health undertakings."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The State shall rationally plan and allocate medical and health resources, focus on the community level, and take various measures to give priority support to the development of medical and health institutions below the county level and enhance their capacity for medical and health services."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The State shall increase fiscal input in medical and health undertakings, and give priority support, through increased transfer payments and other means, to the development of medical and health undertakings in old revolutionary base areas, ethnic areas, border areas and economically underdeveloped areas."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The State encourages and supports citizens, legal persons and other organisations in participating in medical and health undertakings by lawfully establishing institutions and by donation and funding, so as to meet the diversified, differentiated and individualised health needs of citizens.\nCitizens, legal persons and other organisations that donate property for medical and health undertakings shall enjoy tax preferences in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Organisations and individuals that make outstanding contributions in medical and health undertakings shall be commended and rewarded in accordance with the provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The State encourages and supports external exchanges and cooperation in the field of medical and health care and health promotion.\nIn carrying out activities of external exchange and cooperation in medical and health care and health promotion, laws and regulations shall be complied with, and national sovereignty, security and public interests shall be safeguarded."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Basic medical and health services mean services such as disease prevention, diagnosis, treatment, nursing and rehabilitation that are necessary for maintaining human health, commensurate with the level of economic and social development and fairly accessible to citizens, and that are provided using appropriate medicines, appropriate technologies and appropriate equipment.\nBasic medical and health services include basic public health services and basic medical services. Basic public health services shall be provided free of charge by the State."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Basic Medical and Health Services"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The State shall take measures to ensure that citizens enjoy safe and effective basic public health services, control risk factors affecting health and improve the level of disease prevention and control.\nThe items of national basic public health services shall be determined by the competent health department of the State Council together with the finance department, the competent department for traditional Chinese medicine and other departments of the State Council.\nThe people's governments of provinces, autonomous regions and municipalities directly under the Central Government may, on the basis of the items of national basic public health services, supplement and determine the items of basic public health services of their respective administrative regions and report them to the competent health department of the State Council for the record."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Basic Medical and Health Services"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The State Council and the people's governments of provinces, autonomous regions and municipalities directly under the Central Government may incorporate service content targeting key areas, key diseases and specific population groups into the items of basic public health services and organise its implementation.\nLocal people's governments at or above the county level shall carry out special prevention and control work in respect of major diseases and main health risk factors in their respective administrative regions."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Basic Medical and Health Services"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "People's governments at or above the county level shall provide basic public health services by establishing specialised public health institutions, community-level medical and health institutions and hospitals, or by purchasing services from other medical and health institutions."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Basic Medical and Health Services"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The State shall establish and improve the health emergency system for emergencies, formulate and improve emergency response plans, and organise and carry out health emergency work such as medical treatment, hygienic investigation and handling and psychological assistance in emergencies, so as to effectively control and eliminate harm."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Basic Medical and Health Services"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The State shall establish an infectious disease prevention and control system, formulate plans for the prevention and control of infectious diseases and organise their implementation, strengthen monitoring and early warning of infectious diseases, adhere to prevention first and combining prevention with control, joint prevention and control, mass prevention and mass control, source control and comprehensive control, block transmission routes, protect susceptible populations and reduce the harm of infectious diseases.\nAny organisation or individual shall accept and cooperate with the measures such as investigation, testing, sample collection, isolation treatment and medical observation lawfully taken by medical and health institutions to prevent, control and eliminate the harm of infectious diseases."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Basic Medical and Health Services"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The State shall implement a vaccination system and strengthen immunisation programme work. Residents shall have the right and obligation to receive vaccines under the immunisation programme in accordance with law. The government shall provide vaccines under the immunisation programme to residents free of charge."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Basic Medical and Health Services"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The State shall establish a system for the prevention, control and management of chronic non-communicable diseases, carry out monitoring, investigation and comprehensive prevention and control intervention in respect of chronic non-communicable diseases and their pathogenic risk factors, promptly identify high-risk groups, and provide patients and high-risk groups with services such as diagnosis and treatment, early intervention, follow-up management and health education."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter II Basic Medical and Health Services"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The State shall strengthen occupational health protection. People's governments at or above the county level shall formulate plans for the prevention and control of occupational diseases, establish and improve working mechanisms for occupational health, strengthen supervision and administration of occupational health, and improve the capacity and level of comprehensive prevention and control of occupational diseases.\nEmploying units shall control occupational disease hazard factors and adopt comprehensive control measures such as engineering technology, individual protection and health management to improve the working environment and working conditions."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter II Basic Medical and Health Services"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The State shall develop maternal and child health undertakings, establish and improve the maternal and child health service system, provide women and children with health care and services for the prevention and treatment of common diseases, and safeguard the health of women and children.\nThe State shall take measures to provide citizens with services such as premarital health care and maternal health care, promote reproductive health and prevent birth defects."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter II Basic Medical and Health Services"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The State shall develop health care undertakings for elderly persons. The State Council and the people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall incorporate the health management of elderly persons and the prevention of common diseases into the items of basic public health services."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter II Basic Medical and Health Services"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The State shall develop undertakings for disability prevention and the rehabilitation of persons with disabilities, improve the systems for disability prevention and the rehabilitation of persons with disabilities and the safeguards therefor, and take measures to provide basic rehabilitation services for persons with disabilities.\nPeople's governments at or above the county level shall give priority to rehabilitation work for children with disabilities and combine rehabilitation with education."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter II Basic Medical and Health Services"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The State shall establish and improve the pre-hospital emergency system and provide prompt, standardised and effective emergency services for patients in acute and critical conditions.\nThe competent health departments, the Red Cross and other relevant departments and organisations shall actively carry out first-aid training, popularise first-aid knowledge and encourage medical and health personnel and persons trained in first aid to actively participate in first-aid services in public places. Public places shall be equipped with the necessary first-aid equipment and facilities in accordance with provisions.\nEmergency centres (stations) may not refuse or delay the provision of emergency services to patients in acute and critical conditions on the ground of non-payment."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter II Basic Medical and Health Services"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The State shall develop mental health undertakings, build and improve the mental health service system, maintain and enhance citizens' psychological health and prevent and treat mental disorders.\nThe State shall take measures to strengthen the development of the mental health service system and the workforce, promote the effective linkage of mental health education, psychological assessment, psychological counselling and psychotherapy services, establish psychological assistance hotlines providing public-interest services to the public, and strengthen mental health services for key groups such as minors, persons with disabilities and elderly persons."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter II Basic Medical and Health Services"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Basic medical services shall mainly be provided by medical and health institutions established by the government. Medical and health institutions established by non-governmental forces are encouraged to provide basic medical services."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter II Basic Medical and Health Services"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "The State shall advance the implementation of the hierarchical diagnosis and treatment system for basic medical services, guide non-emergency patients to first seek medical treatment at community-level medical and health institutions, implement the first-visit responsibility system and the referral review responsibility system, and gradually establish a mechanism of first visit at the community level, two-way referral, division of treatment for acute and chronic conditions, and vertical and horizontal coordination, which is linked with the basic medical insurance system.\nLocal people's governments at or above the county level shall, in light of the medical and health needs of their respective administrative regions, integrate the government-established medical and health resources in the region and, in light of local conditions, establish medical alliances and other cooperative mechanisms for coordinated medical services. Medical and health institutions established by non-governmental forces are encouraged to participate in cooperative mechanisms for medical services."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter II Basic Medical and Health Services"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The State shall advance the implementation of contracted family doctor services by community-level medical and health institutions, establish family doctor service teams, conclude agreements with residents, and provide basic medical and health services in light of residents' health conditions and medical needs."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter II Basic Medical and Health Services"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "In receiving medical and health services, citizens shall, in accordance with law, enjoy the right of informed consent in respect of matters such as the illness condition, diagnosis and treatment plan, medical risks and medical expenses.\nWhere surgery, special examinations or special treatment need to be carried out, medical and health personnel shall promptly explain to the patient the medical risks, alternative medical plans and other circumstances and obtain the patient's consent; where it is impossible or inappropriate to explain to the patient, they shall explain to the patient's close relatives and obtain their consent. Where laws provide otherwise, those provisions shall prevail.\nThe conduct of clinical trials of medicines and medical devices and other medical research shall comply with medical ethics norms, pass ethical review in accordance with law and obtain informed consent."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter II Basic Medical and Health Services"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Citizens receiving medical and health services shall be respected. Medical and health institutions and medical and health personnel shall care for and cherish patients, treat them equally, respect their personal dignity and protect their privacy.\nCitizens receiving medical and health services shall comply with the diagnosis and treatment system and the order of medical and health services, and respect medical and health personnel."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter II Basic Medical and Health Services"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The State shall establish and improve a medical and health service system covering both urban and rural areas, with complementary functions and continuous coordination, composed of community-level medical and health institutions, hospitals and specialised public health institutions.\nThe State shall strengthen the development of county-level hospitals, township health centres, village clinics, community health service centres (stations) and specialised public health institutions, and establish and improve rural medical and health service networks and urban community health service networks."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter III Medical and Health Institutions"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Community-level medical and health institutions shall mainly provide basic medical and health services such as prevention, health care, health education and disease management, the establishment of health records for residents, the diagnosis and treatment of common and frequently occurring diseases, the rehabilitation and nursing of certain diseases, the receipt of patients referred by hospitals, and the referral to hospitals of patients beyond their own service capacity.\nHospitals shall mainly provide medical and health services such as the diagnosis and treatment of diseases, especially the diagnosis and treatment of acute and critical conditions and difficult and complicated diseases, medical handling and rescue in emergencies, and health education, and shall carry out medical education, training of medical and health personnel, medical scientific research and professional guidance to community-level medical and health institutions.\nSpecialised public health institutions shall mainly provide public health services such as the prevention and control of infectious diseases, chronic non-communicable diseases, occupational diseases and endemic diseases, health education, maternal and child health care, mental health, pre-hospital emergency care, blood collection and supply, food safety risk monitoring and assessment, and prevention and treatment of birth defects."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter III Medical and Health Institutions"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Medical and health institutions at all levels and of all types shall divide work and cooperate in providing citizens with comprehensive, full-cycle medical and health services such as prevention, health care, treatment, nursing, rehabilitation and hospice care.\nPeople's governments at all levels shall take measures to support medical and health institutions in establishing collaborative mechanisms with elderly care institutions, child welfare institutions and community organisations so as to provide safe and convenient medical and health services for elderly persons and orphaned and disabled children."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter III Medical and Health Institutions"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "People's governments at or above the county level shall formulate and implement plans for the medical and health service system, scientifically allocate medical and health resources, establish medical and health institutions and provide safeguards for citizens to obtain basic medical and health services.\nIn establishing medical and health institutions, the government shall take into account the population, economic and social development, medical and health resources, health risk factors, morbidity, prevalence and emergency treatment needs of its administrative region."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter III Medical and Health Institutions"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "To establish a medical institution, the following conditions shall be met and the formalities of examination and approval or record-filing shall be completed in accordance with the relevant provisions of the State:\n(a) having a name, organisational structure and premises conforming to provisions;\n(b) having funds, facilities, equipment and medical and health personnel suited to the business carried out;\n(c) having the corresponding rules and regulations;\n(d) being able to bear civil liability independently;\n(e) other conditions provided by laws and administrative regulations.\nA medical institution shall obtain a practice licence in accordance with law. It is prohibited to forge, alter, buy, sell, lease or lend the practice licence of a medical institution.\nThe specific conditions and configuration of medical and health institutions at all levels and of all types shall conform to the standards for medical and health institutions formulated by the competent health department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter III Medical and Health Institutions"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The State shall apply classified management to medical and health institutions.\nThe medical and health service system shall adhere to taking non-profit medical and health institutions as the main body and for-profit medical and health institutions as the supplement. The government shall establish non-profit medical and health institutions to play a leading role in basic medical and health undertakings and ensure that basic medical and health services are fair and accessible.\nMedical and health institutions established or jointly established with government funds or donated assets may not be established as for-profit medical and health institutions.\nMedical and health institutions may not lease out or contract out medical departments to others. Non-profit medical and health institutions may not distribute or disguisedly distribute proceeds to investors or founders."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter III Medical and Health Institutions"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Medical and health institutions established by the government shall adhere to the nature of public welfare, include all revenues and expenditures in budget management, and be reasonably established and have their scale controlled in accordance with plans for the medical and health service system.\nThe State encourages medical and health institutions established by the government to cooperate with non-governmental forces in establishing non-profit medical and health institutions.\nMedical and health institutions established by the government may not invest with other organisations in establishing medical and health institutions without the status of an independent legal person, and may not cooperate with social capital in establishing for-profit medical and health institutions."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter III Medical and Health Institutions"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "The State shall take various measures to encourage and guide non-governmental forces to establish medical and health institutions in accordance with law, and support and regulate cooperation between medical and health institutions established by non-governmental forces and those established by the government in various types of medical business, discipline development and personnel training.\nMedical and health institutions established by non-governmental forces shall enjoy the same rights as medical and health institutions established by the government in respect of designation as basic medical insurance designated institutions, development of key specialties, scientific research and teaching, grade review, market access for specific medical technologies, and assessment of professional titles of medical and health personnel.\nNon-governmental forces may choose to establish non-profit or for-profit medical and health institutions. Non-profit medical and health institutions established by non-governmental forces shall, in accordance with provisions, enjoy the same policies as medical and health institutions established by the government in respect of taxation, fiscal subsidies, land use, water, electricity, gas and heating, and shall accept supervision and administration in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter III Medical and Health Institutions"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The State shall, on the basis of established medical and health institutions, rationally plan and establish national medical centres and national and provincial-level regional medical centres to diagnose and treat difficult and severe diseases, research and overcome major medical problems and cultivate high-level medical and health talent."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter III Medical and Health Institutions"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Medical and health institutions shall comply with laws, regulations and rules, establish and improve internal quality management and control systems, and be responsible for the quality of medical and health services.\nMedical and health institutions shall, in accordance with clinical diagnosis and treatment guidelines, clinical technical operating norms, industry standards and medical ethics norms and other relevant requirements, rationally carry out examinations, medication and diagnosis and treatment, strengthen the prevention of medical and health safety risks, optimise service processes and continuously improve the quality of medical and health services."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter III Medical and Health Institutions"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "The State shall apply classified management to the clinical application of medical and health technologies, and shall exercise strict management over medical and health technologies that are technically difficult, involve high medical risk and require relatively high service capacity and professional and technical levels of personnel.\nIn carrying out the clinical application of medical and health technologies, medical and health institutions shall ensure that it is suited to their functions and tasks, follow the principles of being scientific, safe, standardised, effective and economical, and comply with ethics."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter III Medical and Health Institutions"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "The State shall establish a modern hospital management system with clear rights and responsibilities, scientific management, sound governance, efficient operation and effective supervision.\nHospitals shall formulate articles of association, establish and improve the corporate governance structure, and enhance their capacity for medical and health services and operational efficiency."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter III Medical and Health Institutions"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "The premises where medical and health institutions practise are public places providing medical and health services, and no organisation or individual may disrupt order there."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter III Medical and Health Institutions"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "The State shall improve the mechanism for sharing medical risks, encourage medical institutions to take out medical liability insurance or establish medical risk funds, and encourage patients to take out medical accident insurance."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter III Medical and Health Institutions"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "The State encourages medical and health institutions to continuously improve the technologies, equipment and services for prevention, health care, diagnosis, treatment, nursing and rehabilitation, and supports the development of medical and health technologies suitable for application at the community level and in remote areas."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter III Medical and Health Institutions"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "The State shall advance the informatisation of health for all, promote the application and development of health and medical big data and artificial intelligence, accelerate the construction of medical and health information infrastructure, formulate technical standards for the collection, storage, analysis and application of health and medical data, and use information technology to promote the popularisation and sharing of high-quality medical and health resources.\nPeople's governments at or above the county level and their relevant departments shall take measures to advance the application of information technology in the medical and health field and in medical education, and support the exploration and development of new models and new forms of business in medical and health services.\nThe State shall take measures to advance the establishment and improvement by medical and health institutions of systems for the exchange of medical and health information and for information security, the application of information technology in carrying out telemedicine services, and the building of an integrated online and offline medical service model."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter III Medical and Health Institutions"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where emergencies such as natural disasters, accidental calamities, public health incidents and social safety incidents occur that seriously threaten the life and health of the people, medical and health institutions and medical and health personnel shall obey the deployment of government departments and participate in health emergency handling and medical treatment. Participants who fall ill, become disabled or die shall be given work-related injury treatment, pensions, honours for martyrs and other relevant treatment in accordance with provisions."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter III Medical and Health Institutions"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Medical and health personnel shall carry forward the noble professional spirit of revering life, saving the dying and healing the wounded, being willing to devote themselves and boundless love, comply with industry norms, strictly observe medical ethics, and strive to improve their professional level and quality of service.\nMedical and health industry organisations, medical and health institutions and medical schools shall strengthen education in medical ethics and professional conduct for medical and health personnel."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter IV Medical and Health Personnel"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "The State shall formulate plans for the training of medical and health personnel, establish training mechanisms and mechanisms for balancing supply and demand of medical and health personnel suited to the characteristics of the industry and social needs, improve the systems of medical school education, post-graduation education and continuing education, establish and improve the standardised training system for resident physicians and specialist physicians, and build a medical and health workforce of appropriate scale, reasonable structure and balanced distribution.\nThe State shall strengthen the training and use of general practitioners. General practitioners shall mainly provide services such as the diagnosis and treatment of common and frequently occurring diseases, referral, prevention, health care and rehabilitation, as well as chronic disease management and health management."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter IV Medical and Health Personnel"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "The State shall implement a system of practice registration for physicians, nurses and other medical and health personnel in accordance with law. Medical and health personnel shall obtain the corresponding professional qualifications in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter IV Medical and Health Personnel"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Medical and health personnel shall follow the laws of medical science, comply with the relevant clinical diagnosis and treatment technical norms and various operating norms and medical ethics norms, use appropriate technologies and medicines, carry out rational diagnosis and treatment, treat patients according to their conditions, and may not subject patients to excessive medical treatment.\nMedical and health personnel may not take advantage of their positions to demand or unlawfully accept property or seek other improper benefits."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter IV Medical and Health Personnel"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "The State shall establish and improve personnel, remuneration and reward systems suited to the characteristics of the medical and health industry, reflecting the professional characteristics of medical and health personnel and the value of their technical labour.\nAppropriate allowances shall be given in accordance with the provisions of the State to medical and health personnel engaged in the prevention and treatment of infectious diseases, radiological medicine and mental health work and other medical and health personnel working in special posts. The standards for allowances shall be adjusted periodically."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter IV Medical and Health Personnel"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "The State shall establish a system under which medical and health personnel periodically work at the community level and in difficult and remote areas.\nThe State shall take measures such as targeted free training, counterpart support and re-employment of retired personnel to strengthen the building of the medical and health workforce at the community level and in difficult and remote areas.\nA practising physician who is promoted to the professional title of associate senior technical position shall have accumulated one year or more of experience in providing medical and health services in a medical and health institution below the county level or in a counterpart-support medical and health institution.\nFavourable treatment shall be applied in respect of remuneration and allowances, assessment of professional titles, career development, education and training and commendation and rewards to medical and health personnel working at the community level and in difficult and remote areas.\nThe State shall strengthen the building of the rural medical and health workforce, establish a career development mechanism linking the county, township and village levels, and improve the mechanism for subsidising the service income of rural medical and health personnel through multiple channels and the pension policies for them."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter IV Medical and Health Personnel"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "The whole of society shall care about and respect medical and health personnel, maintain a sound and safe order of medical and health services, and jointly build a harmonious doctor-patient relationship.\nThe personal safety and personal dignity of medical and health personnel shall not be infringed upon, and their lawful rights and interests shall be protected by law. No organisation or individual may threaten or endanger the personal safety of medical and health personnel or infringe upon their personal dignity.\nThe State shall take measures to safeguard the practice environment of medical and health personnel."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter IV Medical and Health Personnel"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "The State shall improve the medicine supply safeguard system and establish a working coordination mechanism to ensure that medicines are safe, effective and accessible."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter V Medicine Supply Safeguards"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "The State shall implement the essential medicines system and select an appropriate number of varieties of essential medicines to meet the basic medication needs for disease prevention and treatment.\nThe State shall publish the list of essential medicines and dynamically adjust the list in light of clinical application practice, changes in medicine standards and the marketing of new medicines.\nEssential medicines shall, in accordance with provisions, be given priority for inclusion in the list of medicines covered by basic medical insurance.\nThe State shall enhance the supply capacity of essential medicines, strengthen quality supervision of essential medicines, and ensure that essential medicines are fairly accessible and rationally used."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter V Medicine Supply Safeguards"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "The State shall establish and improve a clinical-demand-oriented system for the review and approval of medicines, and support the research, development and production of medicines urgently needed in clinical practice, medicines for paediatric use and medicines for the prevention and treatment of rare diseases and major diseases, so as to meet the needs of disease prevention and treatment."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter V Medicine Supply Safeguards"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "The State shall establish and improve a whole-process traceability system for the research and development, production, circulation and use of medicines, strengthen medicine management and ensure medicine quality."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter V Medicine Supply Safeguards"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "The State shall establish and improve a medicine price monitoring system, carry out cost and price investigations, strengthen supervision and inspection of medicine prices, investigate and deal with unlawful acts such as price monopoly, price fraud and unfair competition in accordance with law, and maintain medicine price order.\nThe State shall strengthen management and guidance of the classified procurement of medicines. Bidders participating in medicine procurement tendering may not bid at a price lower than cost, and may not bid by means such as fraud, collusive tendering or abuse of a dominant market position."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter V Medicine Supply Safeguards"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "The State shall establish medicine reserves at both the central and local levels for safeguarding emergency needs such as major disasters, epidemics and other emergencies."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter V Medicine Supply Safeguards"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "The State shall establish and improve a monitoring system for the supply and demand of medicines, promptly collect, compile and analyse information on the supply and demand of medicines, and periodically publish information on the production, circulation and use of medicines."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter V Medicine Supply Safeguards"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "The State shall strengthen the management of medical devices, improve the standards and norms for medical devices and enhance the level of safety and effectiveness of medical devices.\nThe competent health department of the State Council and the competent health departments of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall, in light of the advanced nature, appropriateness and accessibility of technology, prepare plans for the allocation of large medical equipment and promote the rational allocation and full sharing of medical equipment within the region."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter V Medicine Supply Safeguards"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "The State shall strengthen the protection and development of traditional Chinese medicines, fully reflect their characteristics and advantages and give play to their role in prevention, health care, medical treatment and rehabilitation."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter V Medicine Supply Safeguards"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "People's governments at all levels shall strengthen health education work and the training of professionals in that field, establish a system for releasing core information on health knowledge and skills, popularise scientific health knowledge and provide the public with scientific and accurate health information.\nInstitutions for medical and health care, education, sports and publicity, community-level mass self-governance organisations and social organisations shall carry out publicity and popularisation of health knowledge. Medical and health personnel shall carry out health education for patients when providing medical and health services. News media shall carry out public-interest publicity of health knowledge. The publicity of health knowledge shall be scientific and accurate."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter VI Health Promotion"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "The State shall incorporate health education into the national education system. Schools shall implement health education in various forms, popularise health knowledge, scientific fitness knowledge and first-aid knowledge and skills, enhance students' awareness of proactive disease prevention, cultivate students' good hygiene habits and healthy behavioural habits, and reduce and improve students' adverse health conditions such as myopia and obesity.\nSchools shall offer physical education and health courses in accordance with provisions and organise students to carry out radio calisthenics, eye exercises, physical training and other activities.\nSchools shall be staffed with school doctors in accordance with provisions and establish and improve infirmaries and health care rooms.\nThe competent education departments of people's governments at or above the county level shall, in accordance with provisions, incorporate the level of students' physical health into the school assessment system."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter VI Health Promotion"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "Citizens are the first persons responsible for their own health, and shall establish and practise the concept of health management of being responsible for their own health, proactively learn health knowledge, improve health literacy and strengthen health management. Family members are encouraged to care for one another and form a healthy lifestyle suited to their own and their family's characteristics.\nCitizens shall respect the health rights and interests of others, and may not harm the health of others or the public interest of society."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter VI Health Promotion"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "The State shall organise surveys and statistics of the health status of residents, carry out physical fitness monitoring, assess health performance, and on the basis of the assessment results formulate and improve health-related laws, regulations, policies and plans."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter VI Health Promotion"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "The State shall establish a system for monitoring, investigation and risk assessment of diseases and health risk factors. People's governments at or above the county level and their relevant departments shall, in response to the main problems affecting health, organise research on health risk factors and formulate comprehensive prevention and control measures.\nThe State shall strengthen the prevention and control of environmental problems affecting health, organise research on the impact of environmental quality on health, and take measures to prevent and control diseases related to environmental problems."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter VI Health Promotion"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "The State shall vigorously carry out the patriotic health campaign, encourage and support the carrying out of mass health activities such as Patriotic Health Month, rely on and mobilise the masses to control and eliminate health risk factors, improve environmental sanitation, and build healthy cities, healthy villages and towns and healthy communities."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter VI Health Promotion"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "The State shall establish a scientific and strict supervision and administration system for the safety of food and drinking water and improve the level of safety."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter VI Health Promotion"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "The State shall establish a nutritional status monitoring system, implement nutrition intervention programmes for economically underdeveloped areas and key population groups, carry out nutrition improvement actions for minors and elderly persons, advocate healthy dietary habits and reduce the risk of disease caused by unhealthy diets."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter VI Health Promotion"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "The State shall develop undertakings for fitness for all, improve the public service system for fitness for all covering both urban and rural areas, strengthen the construction of public sports facilities, organise, carry out and support fitness activities for all, strengthen guidance services for fitness for all and popularise scientific fitness knowledge and methods.\nThe State encourages the opening of the sports venues and facilities of work units to the public."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter VI Health Promotion"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "The State shall formulate and implement health work plans for minors, women, elderly persons and persons with disabilities, and strengthen health services for key population groups.\nThe State shall advance long-term care safeguard work and encourage the development of long-term care insurance."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter VI Health Promotion"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "The State shall improve the sanitary management system for public places. The competent health departments and other competent departments of people's governments at or above the county level shall strengthen sanitary supervision of public places. Information on sanitary supervision of public places shall be disclosed to society in accordance with law.\nOperating units of public places shall establish, improve and strictly implement sanitary management systems to ensure that their business activities continuously comply with the State's sanitary requirements for public places."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter VI Health Promotion"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "The State shall take measures to reduce the harm of smoking to the health of citizens.\nSmoking shall be controlled in public places and supervision and law enforcement shall be strengthened.\nThe packaging of tobacco products shall bear warnings stating the harm of smoking.\nIt is prohibited to sell tobacco and alcoholic beverages to minors."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Chapter VI Health Promotion"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "Employing units shall create environments and conditions conducive to health for employees, strictly implement the relevant provisions on labour safety and health, actively organise employees to carry out fitness activities and protect employees' health.\nThe State encourages employing units to carry out health guidance for employees.\nThe State advocates that employing units periodically carry out health examinations for employees. Where laws and regulations contain provisions on health examinations, those provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Chapter VI Health Promotion"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "People's governments at all levels shall earnestly perform their duties in developing medical and health undertakings, establish an input mechanism for medical and health undertakings commensurate with economic and social development, the fiscal situation and health indicators, incorporate funds for medical and health care and health promotion into the budget of the government at the corresponding level and, in accordance with provisions, mainly use them to safeguard basic medical services, public health services, basic medical security and the construction and operational development of government-established medical and health institutions."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Chapter VII Funding Safeguards"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "People's governments at or above the county level shall strengthen the supervision and management of funds through budgets, auditing, supervision of law enforcement and social supervision."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Chapter VII Funding Safeguards"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "The costs of basic medical services shall mainly be paid by the basic medical insurance fund and individuals. The State shall raise the basic medical insurance fund through multiple channels in accordance with law and gradually improve the mechanism for sustainable financing of basic medical insurance and adjustment of the level of safeguards.\nCitizens shall have the right and obligation to participate in basic medical insurance in accordance with law. Employing units and employees shall pay basic medical insurance contributions for employees in accordance with the provisions of the State. Urban and rural residents shall pay basic medical insurance contributions for urban and rural residents in accordance with provisions."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Chapter VII Funding Safeguards"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "The State shall establish a multi-tiered medical security system with basic medical insurance as the main body and commercial health insurance, medical assistance, mutual medical aid for employees and medical charity services as supplements.\nThe State encourages the development of commercial health insurance to meet the diversified health security needs of the people.\nThe State shall improve the medical assistance system and ensure that eligible persons in difficulty obtain basic medical services."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Chapter VII Funding Safeguards"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "The State shall establish and improve a consultation and negotiation mechanism between the agencies administering basic medical insurance and the designated medical and health institutions under agreement, scientifically and reasonably determine the payment standards and payment methods of the basic medical insurance fund, guide medical and health institutions to carry out rational diagnosis and treatment, promote the orderly flow of patients and improve the efficiency of the use of the basic medical insurance fund."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Chapter VII Funding Safeguards"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "The scope of payment of the basic medical insurance fund shall be organised and determined by the competent medical security department of the State Council, and the opinions of the competent health department, the competent department for traditional Chinese medicine, the drug supervision and administration department and the finance department of the State Council shall be solicited.\nThe people's governments of provinces, autonomous regions and municipalities directly under the Central Government may, in accordance with the relevant provisions of the State, supplement and determine the specific items and standards of payment of the basic medical insurance fund of their respective administrative regions and report them to the competent medical security department of the State Council for the record.\nThe competent medical security department of the State Council shall organise the carrying out of evidence-based medical and economic evaluations of the list of medicines covered by basic medical insurance, diagnosis and treatment items and standards for medical service facilities that are included in the scope of payment, and shall solicit the opinions of the competent health department, the competent department for traditional Chinese medicine, the drug supervision and administration department, the finance department and other relevant parties of the State Council. The evaluation results shall serve as the basis for adjusting the scope of payment of the basic medical insurance fund."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        },
+        "chapter": {
+          "en": "Chapter VII Funding Safeguards"
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "The State shall establish and improve a comprehensive medical and health supervision and management system combining institutional autonomy, industry self-discipline, government supervision and social supervision.\nThe competent health departments of people's governments at or above the county level shall exercise territorial and whole-industry supervision and administration over the medical and health industry."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supervision and Administration"
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "The competent medical security departments of people's governments at or above the county level shall enhance their capacity and level of medical security supervision, strengthen supervision and administration of medical service conduct and medical expenses covered by the basic medical insurance fund, and ensure the rational use, safety and controllability of the basic medical insurance fund."
+        },
+        "noLabel": {
+          "en": "Article 87."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supervision and Administration"
+        }
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "People's governments at or above the county level shall organise the departments for health, medical security, drug supervision and administration, development and reform, and finance to establish a communication and consultation mechanism, strengthen institutional linkage and work coordination, and improve the efficiency of the use of medical and health resources and the level of safeguards."
+        },
+        "noLabel": {
+          "en": "Article 88."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supervision and Administration"
+        }
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "People's governments at or above the county level shall periodically report to the people's congress at the corresponding level or its standing committee on basic medical and health care and health promotion work, and accept supervision in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 89."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supervision and Administration"
+        }
+      },
+      {
+        "no": 90,
+        "text": {
+          "en": "Where a relevant department of a people's government at or above the county level fails to perform its duties relating to medical and health care and health promotion work, the people's government at the corresponding level or the relevant department of the people's government at a higher level shall conduct an accountability interview with its principal person in charge.\nWhere a local people's government fails to perform its duties relating to medical and health care and health promotion work, the people's government at a higher level shall conduct an accountability interview with its principal person in charge.\nThe departments and local people's governments subjected to an accountability interview shall immediately take measures to carry out rectification.\nThe circumstances of the accountability interview and of the rectification shall be included in the work appraisal and assessment records of the relevant departments and local people's governments."
+        },
+        "noLabel": {
+          "en": "Article 90."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supervision and Administration"
+        }
+      },
+      {
+        "no": 91,
+        "text": {
+          "en": "The competent health departments of local people's governments at or above the county level shall establish a performance assessment system for medical and health institutions and organise assessments of the quality of services, medical technology, and the use of medicines and medical equipment by medical and health institutions. Industry organisations and the public shall be involved in the assessments. The assessment results shall be disclosed to society in an appropriate manner and shall serve as an important basis for evaluating medical and health institutions and health supervision."
+        },
+        "noLabel": {
+          "en": "Article 91."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supervision and Administration"
+        }
+      },
+      {
+        "no": 92,
+        "text": {
+          "en": "The State shall protect citizens' personal health information and ensure the security of citizens' personal health information. No organisation or individual may unlawfully collect, use, process or transmit citizens' personal health information, or unlawfully buy, sell, provide or disclose citizens' personal health information."
+        },
+        "noLabel": {
+          "en": "Article 92."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supervision and Administration"
+        }
+      },
+      {
+        "no": 93,
+        "text": {
+          "en": "The competent health departments and competent medical security departments of people's governments at or above the county level shall establish a credit record system for medical and health institutions and personnel, incorporate it into the national credit information sharing platform and implement joint disciplinary action in accordance with the provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 93."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supervision and Administration"
+        }
+      },
+      {
+        "no": 94,
+        "text": {
+          "en": "The competent health departments of local people's governments at or above the county level and the health supervision institutions entrusted by them shall lawfully carry out administrative law enforcement work such as medical and health law enforcement within their respective administrative regions."
+        },
+        "noLabel": {
+          "en": "Article 94."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supervision and Administration"
+        }
+      },
+      {
+        "no": 95,
+        "text": {
+          "en": "The competent health departments of people's governments at or above the county level shall actively cultivate medical and health industry organisations, give play to their role in medical and health care and health promotion work, and support their participation in the formulation of industry management norms and technical standards and in medical and health evaluation, assessment and review work."
+        },
+        "noLabel": {
+          "en": "Article 95."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supervision and Administration"
+        }
+      },
+      {
+        "no": 96,
+        "text": {
+          "en": "The State shall establish a mechanism for the prevention and handling of medical disputes, properly handle medical disputes and maintain medical order."
+        },
+        "noLabel": {
+          "en": "Article 96."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supervision and Administration"
+        }
+      },
+      {
+        "no": 97,
+        "text": {
+          "en": "The State encourages citizens, legal persons and other organisations to carry out social supervision over medical and health care and health promotion work.\nAny organisation or individual shall have the right to complain of or report to the competent health departments of people's governments at or above the county level and other relevant departments acts violating the provisions of this Law."
+        },
+        "noLabel": {
+          "en": "Article 97."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supervision and Administration"
+        }
+      },
+      {
+        "no": 98,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, local people's governments at all levels, the competent health departments of people's governments at or above the county level or other relevant departments abuse their powers, derelict their duties or engage in malpractice for personal gain, sanctions shall be imposed in accordance with law on the persons directly in charge and the other persons directly responsible."
+        },
+        "noLabel": {
+          "en": "Article 98."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 99,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a person practises without obtaining a practice licence of a medical institution, the competent health department of the people's government at or above the county level shall order cessation of practice, confiscate the illegal gains and the medicines and medical devices, and impose a fine of not less than 5 times but not more than 20 times the illegal gains; where the illegal gains are less than 10,000 yuan, they shall be calculated as 10,000 yuan.\nWhere, in violation of the provisions of this Law, a person forges, alters, buys, sells, leases or lends the practice licence of a medical institution, the competent health department of the people's government at or above the county level shall order correction, confiscate the illegal gains and impose a fine of not less than 5 times but not more than 15 times the illegal gains; where the illegal gains are less than 10,000 yuan, they shall be calculated as 10,000 yuan; where the circumstances are serious, revoke the practice licence of the medical institution."
+        },
+        "noLabel": {
+          "en": "Article 99."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 100,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, any of the following acts is committed, the competent health department of the people's government at or above the county level shall order correction, confiscate the illegal gains and impose a fine of not less than 2 times but not more than 10 times the illegal gains; where the illegal gains are less than 10,000 yuan, they shall be calculated as 10,000 yuan; and shall impose sanctions in accordance with law on the persons directly in charge and the other persons directly responsible:\n(a) a medical and health institution established by the government invests with other organisations in establishing a medical and health institution without the status of an independent legal person;\n(b) a medical and health institution leases out or contracts out medical departments to others;\n(c) a non-profit medical and health institution distributes or disguisedly distributes proceeds to investors or founders."
+        },
+        "noLabel": {
+          "en": "Article 100."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 101,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, the medical information security systems and safeguard measures of a medical and health institution or the like are unsound, resulting in the disclosure of medical information, or where its medical quality management and medical technology management systems and safety measures are unsound, the competent health department and other competent departments of the people's government at or above the county level shall order correction, give a warning and impose a fine of not less than 10,000 yuan but not more than 50,000 yuan; where the circumstances are serious, they may order cessation of the corresponding practice activities and pursue legal liability in accordance with law against the persons directly in charge and the other persons directly responsible."
+        },
+        "noLabel": {
+          "en": "Article 101."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 102,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a medical and health professional commits any of the following acts, the competent health department of the people's government at or above the county level shall impose an administrative penalty in accordance with the provisions of the laws and administrative regulations on the management of practising physicians and nurses and on the prevention and handling of medical disputes:\n(a) taking advantage of his or her position to demand or unlawfully accept property or seek other improper benefits;\n(b) disclosing citizens' personal health information;\n(c) failing to perform the duty of disclosure in accordance with provisions or violating medical ethics norms in the course of carrying out medical research or providing medical and health services.\nWhere a person referred to in the preceding paragraph is a person in a medical and health institution established by the government, a sanction shall be imposed in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 102."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 103,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a bidder participating in medicine procurement tendering bids at a price lower than cost, or bids by means such as fraud, collusive tendering or abuse of a dominant market position, the competent medical security department of the people's government at or above the county level shall order correction and confiscate the illegal gains; where the bid is successful, the successful bid shall be void, a fine of not less than 5 per mille but not more than 10 per mille of the amount of the successful tender project shall be imposed, and a fine of not less than 5 per cent but not more than 10 per cent of the amount of the fine imposed on the unit shall be imposed on the legal representative, principal person in charge, persons directly in charge and other responsible persons; where the circumstances are serious, disqualify the bidder from participating in medicine procurement tendering for two to five years and make a public announcement."
+        },
+        "noLabel": {
+          "en": "Article 103."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 104,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a person obtains basic medical insurance benefits by fraud, forgery of supporting materials or other means, or where an agency administering basic medical insurance, a medical institution, a medicine selling unit or the like obtains expenditures from the basic medical insurance fund by fraud, forgery of supporting materials or other means, the competent medical security department of the people's government at or above the county level shall impose an administrative penalty in accordance with the provisions of the laws and administrative regulations on social insurance."
+        },
+        "noLabel": {
+          "en": "Article 104."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 105,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a person disrupts the order of the premises where a medical and health institution practises, threatens or endangers the personal safety of medical and health personnel, infringes upon the personal dignity of medical and health personnel, unlawfully collects, uses, processes or transmits citizens' personal health information, or unlawfully buys, sells, provides or discloses citizens' personal health information, and such act constitutes an act violating public security administration, a public security administration penalty shall be imposed in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 105."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 106,
+        "text": {
+          "en": "Where a violation of the provisions of this Law constitutes a crime, criminal liability shall be pursued in accordance with law; where personal or property damage is caused, civil liability shall be borne in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 106."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 107,
+        "text": {
+          "en": "The terms used in this Law have the following meanings:\n(a) Main health indicators mean average life expectancy, maternal mortality rate, infant mortality rate, mortality rate of children under five years of age and the like.\n(b) Medical and health institutions mean community-level medical and health institutions, hospitals and specialised public health institutions and the like.\n(c) Community-level medical and health institutions mean township health centres, community health service centres (stations), village clinics, infirmaries, outpatient departments and clinics and the like.\n(d) Specialised public health institutions mean centres for disease prevention and control, specialised disease prevention and treatment institutions, health education institutions, emergency centres (stations) and blood stations and the like.\n(e) Medical and health personnel mean health professionals such as practising physicians, practising assistant physicians, registered nurses, pharmacists (assistants), laboratory technicians (assistants), imaging technicians (assistants) and village doctors.\n(f) Essential medicines mean medicines that meet the basic medication needs for disease prevention and treatment, are suited to the current basic national conditions and safeguard capacity, have appropriate dosage forms, are reasonably priced, can be guaranteed in supply and are fairly accessible."
+        },
+        "noLabel": {
+          "en": "Article 107."
+        },
+        "chapter": {
+          "en": "Chapter X Supplementary Provisions"
+        }
+      },
+      {
+        "no": 108,
+        "text": {
+          "en": "Provinces, autonomous regions, municipalities directly under the Central Government, cities with districts and autonomous prefectures may, in light of actual circumstances, formulate specific measures for the development of medical and health undertakings in their respective localities."
+        },
+        "noLabel": {
+          "en": "Article 108."
+        },
+        "chapter": {
+          "en": "Chapter X Supplementary Provisions"
+        }
+      },
+      {
+        "no": 109,
+        "text": {
+          "en": "The administrative measures for the medical and health care and health promotion work of the Chinese People's Liberation Army and the Chinese People's Armed Police Force shall be formulated by the State Council and the Central Military Commission in accordance with this Law."
+        },
+        "noLabel": {
+          "en": "Article 109."
+        },
+        "chapter": {
+          "en": "Chapter X Supplementary Provisions"
+        }
+      },
+      {
+        "no": 110,
+        "text": {
+          "en": "This Law shall come into force on 1 June 2020."
+        },
+        "noLabel": {
+          "en": "Article 110."
+        },
+        "chapter": {
+          "en": "Chapter X Supplementary Provisions"
         }
       }
     ]
@@ -22400,6 +23693,1278 @@
     ]
   };
 
+  TR['CN-LAW-0195'] = {
+    "lawId": "CN-LAW-0195",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 107 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is enacted in accordance with the Constitution in order to protect the lawful rights and interests of workers, regulate labour relations, establish and maintain a labour system suited to the socialist market economy, and promote economic development and social progress."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "This Law applies to enterprises and individual economic organisations (hereinafter collectively referred to as employing units) within the territory of the People's Republic of China and to workers who form labour relations with them.\nState organs, public institutions, public organisations and workers who form labour contract relations with them shall be governed by this Law."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Workers shall enjoy the right to equal employment and choice of occupation, the right to obtain labour remuneration, the right to rest and leave, the right to obtain protection of labour safety and health, the right to receive vocational skills training, the right to enjoy social insurance and welfare, the right to submit labour disputes for handling, and other labour rights provided by law.\nWorkers shall complete labour tasks, improve vocational skills, implement rules on labour safety and health, and observe labour discipline and professional ethics."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Employing units shall establish and improve rules and regulations in accordance with law and ensure that workers enjoy labour rights and perform labour obligations."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The State shall adopt various measures to promote employment, develop vocational education, formulate labour standards, regulate social income, improve social insurance, coordinate labour relations and gradually raise the living standards of workers."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The State advocates that workers participate in social voluntary labour, carry out labour emulation and rationalisation proposal activities, encourages and protects workers in scientific research, technical innovation and inventions and creations, and commends and rewards model workers and advanced workers."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Workers shall have the right to join and organise trade unions in accordance with law.\nTrade unions shall represent and safeguard the lawful rights and interests of workers and carry out activities independently in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Workers shall, in accordance with the provisions of law and through workers' assemblies, workers' congresses or other forms, participate in democratic management or conduct equal consultation with employing units on the protection of the lawful rights and interests of workers."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The labour administrative department of the State Council shall be in charge of labour work throughout the country.\nThe labour administrative departments of local people's governments at or above the county level shall be in charge of labour work within their respective administrative regions."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The State shall create conditions for employment and expand employment opportunities by promoting economic and social development.\nThe State encourages enterprises, public institutions and public organisations to establish industries or expand operations within the scope provided by laws and administrative regulations so as to increase employment.\nThe State supports workers in obtaining employment by voluntarily organising themselves for employment and by engaging in individual businesses."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Promotion of Employment"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Local people's governments at all levels shall take measures to develop employment agencies of various types and provide employment services."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Promotion of Employment"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Workers shall not be discriminated against in employment on the grounds of ethnicity, race, sex or religious belief."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Promotion of Employment"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Women shall enjoy equal employment rights with men. When recruiting workers, except for types of work or posts that are not suitable for women as prescribed by the State, women may not be refused employment or subjected to higher recruitment standards on the grounds of sex."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Promotion of Employment"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Where laws and regulations contain special provisions on the employment of persons with disabilities, persons of ethnic minorities and demobilised military personnel, those provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Promotion of Employment"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Employing units are prohibited from recruiting minors under the age of 16.\nUnits engaged in literature and art, sports and special handicraft industries that recruit minors under the age of 16 must comply with the relevant provisions of the State and ensure their right to receive compulsory education."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Promotion of Employment"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "A labour contract is an agreement between a worker and an employing unit that establishes a labour relation and specifies the rights and obligations of both parties.\nA labour contract shall be concluded to establish a labour relation."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Labour Contracts and Collective Contracts"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The conclusion and modification of a labour contract shall follow the principles of equality, voluntariness and consensus through consultation, and may not violate the provisions of laws and administrative regulations.\nA labour contract lawfully concluded shall be legally binding, and the parties must perform the obligations provided in the labour contract."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Labour Contracts and Collective Contracts"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The following labour contracts shall be invalid:\n(a) labour contracts that violate laws or administrative regulations;\n(b) labour contracts concluded by means such as fraud or threat.\nAn invalid labour contract shall have no legal binding force from the time of its conclusion. Where a labour contract is confirmed to be partly invalid, if the validity of the remaining part is not affected, the remaining part shall remain valid.\nThe invalidity of a labour contract shall be confirmed by a labour dispute arbitration committee or a people's court."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Labour Contracts and Collective Contracts"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "A labour contract shall be concluded in written form and shall contain the following clauses:\n(a) the term of the labour contract;\n(b) the content of the work;\n(c) labour protection and working conditions;\n(d) labour remuneration;\n(e) labour discipline;\n(f) the conditions for termination of the labour contract;\n(g) liability for breach of the labour contract.\nIn addition to the mandatory clauses provided in the preceding paragraph, the parties may agree through consultation on other content."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Labour Contracts and Collective Contracts"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The term of a labour contract may be a fixed term, an indefinite term, or a term defined by the completion of a specific task.\nWhere a worker has continuously worked in the same employing unit for 10 years or more and both parties agree to extend the labour contract, if the worker proposes the conclusion of an indefinite-term labour contract, an indefinite-term labour contract shall be concluded."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Labour Contracts and Collective Contracts"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "A labour contract may provide for a probation period. The probation period may not exceed 6 months."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Labour Contracts and Collective Contracts"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The parties to a labour contract may agree in the labour contract on matters relating to the preservation of the commercial secrets of the employing unit."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Labour Contracts and Collective Contracts"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "A labour contract shall terminate upon the expiry of its term or upon the occurrence of the conditions for termination of the labour contract agreed upon by the parties."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Labour Contracts and Collective Contracts"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "A labour contract may be rescinded upon consensus reached through consultation between the parties to the labour contract."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Labour Contracts and Collective Contracts"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Where a worker falls under any of the following circumstances, the employing unit may rescind the labour contract:\n(a) it is proved during the probation period that the worker does not meet the recruitment conditions;\n(b) the worker seriously violates labour discipline or the rules and regulations of the employing unit;\n(c) the worker commits serious dereliction of duty or engages in malpractice for personal gain, causing major harm to the interests of the employing unit;\n(d) the worker is pursued for criminal liability in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Labour Contracts and Collective Contracts"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Under any of the following circumstances, the employing unit may rescind the labour contract, but shall notify the worker in writing 30 days in advance:\n(a) the worker is ill or injured other than in the course of work and, after the expiry of the medical treatment period, is unable to perform the original work or work otherwise arranged by the employing unit;\n(b) the worker is not competent for the work and remains not competent after training or adjustment of the work post;\n(c) the objective circumstances on which the labour contract was concluded have changed significantly, making the original labour contract impossible to perform, and the parties are unable to reach an agreement on modifying the labour contract through consultation."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Labour Contracts and Collective Contracts"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where an employing unit is on the verge of bankruptcy and undergoing statutory reorganisation, or its production and business conditions have encountered serious difficulties and it genuinely needs to reduce personnel, it shall explain the situation to the trade union or all the workers 30 days in advance and listen to the opinions of the trade union or the workers, and may reduce personnel after reporting to the labour administrative department.\nWhere an employing unit reduces personnel in accordance with this Article and recruits personnel within 6 months, it shall give priority to recruiting the workers whose employment was reduced."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Labour Contracts and Collective Contracts"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Where an employing unit rescinds a labour contract in accordance with the provisions of Article 24, Article 26 or Article 27 of this Law, it shall give economic compensation in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Labour Contracts and Collective Contracts"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Where a worker falls under any of the following circumstances, the employing unit may not rescind the labour contract in accordance with the provisions of Article 26 or Article 27 of this Law:\n(a) the worker suffers from an occupational disease or is injured in the course of work and is confirmed to have lost all or part of the capacity for work;\n(b) the worker is ill or injured and is within the prescribed medical treatment period;\n(c) a female worker is pregnant, in the maternity period or in the breastfeeding period;\n(d) other circumstances provided by laws or administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Labour Contracts and Collective Contracts"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where an employing unit rescinds a labour contract and the trade union considers it inappropriate, the trade union shall have the right to put forward opinions. If the employing unit violates laws, regulations or the labour contract, the trade union shall have the right to require reconsideration; where the worker applies for arbitration or institutes an action, the trade union shall give support and assistance in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Labour Contracts and Collective Contracts"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where a worker rescinds a labour contract, he or she shall notify the employing unit in writing 30 days in advance."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Labour Contracts and Collective Contracts"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Under any of the following circumstances, a worker may notify the employing unit at any time of the rescission of the labour contract:\n(a) during the probation period;\n(b) the employing unit forces labour by means of violence, threat or unlawful restriction of personal freedom;\n(c) the employing unit fails to pay labour remuneration or provide working conditions as agreed in the labour contract."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III Labour Contracts and Collective Contracts"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The workers of an enterprise may conclude a collective contract with the enterprise on matters such as labour remuneration, working hours, rest and leave, labour safety and health, and insurance and welfare. The draft collective contract shall be submitted to the workers' congress or all the workers for discussion and adoption.\nA collective contract shall be concluded by the trade union on behalf of the workers with the enterprise; in an enterprise where no trade union has been established, it shall be concluded by representatives elected by the workers with the enterprise."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter III Labour Contracts and Collective Contracts"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "A collective contract shall, after conclusion, be submitted to the labour administrative department; where the labour administrative department raises no objection within 15 days from the date of receipt of the text of the collective contract, the collective contract shall take effect."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter III Labour Contracts and Collective Contracts"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "A collective contract lawfully concluded shall be binding on the enterprise and all its workers. The standards for working conditions and labour remuneration in a labour contract concluded between an individual worker and the enterprise may not be lower than those provided in the collective contract."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter III Labour Contracts and Collective Contracts"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The State shall implement a system of working hours under which a worker's working time shall not exceed 8 hours per day and the average working time shall not exceed 44 hours per week."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Working Hours, Rest and Leave"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "For workers paid on a piecework basis, the employing unit shall reasonably determine their labour quota and piecework remuneration standards in accordance with the working hours system provided in Article 36 of this Law."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Working Hours, Rest and Leave"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Employing units shall ensure that workers have at least one rest day per week."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Working Hours, Rest and Leave"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where an enterprise is unable to implement the provisions of Article 36 or Article 38 of this Law due to the characteristics of its production, it may, upon approval by the labour administrative department, implement other working and rest methods."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter IV Working Hours, Rest and Leave"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Employing units shall, in accordance with law, arrange for workers to take leave during the following festivals:\n(a) New Year's Day;\n(b) the Spring Festival;\n(c) International Labour Day;\n(d) National Day;\n(e) other festivals for leave provided by laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter IV Working Hours, Rest and Leave"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where an employing unit needs to extend working hours due to production and business needs, it may do so after consultation with the trade union and the workers, generally not exceeding 1 hour per day; where working hours need to be extended for special reasons, the extension may not exceed 3 hours per day on the condition that the health of the workers is ensured, and may not exceed 36 hours per month."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IV Working Hours, Rest and Leave"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Under any of the following circumstances, the extension of working hours shall not be subject to the restriction provided in Article 41 of this Law:\n(a) a natural disaster, accident or other cause threatens the life, health and property safety of workers and urgent handling is required;\n(b) production equipment, transport lines or public facilities malfunction, affecting production and the public interest, and prompt emergency repair is necessary;\n(c) other circumstances provided by laws or administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter IV Working Hours, Rest and Leave"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Employing units may not extend the working hours of workers in violation of the provisions of this Law."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter IV Working Hours, Rest and Leave"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Under any of the following circumstances, the employing unit shall pay labour remuneration higher than the wages for normal working hours in accordance with the following standards:\n(a) where a worker is arranged to extend working hours, pay labour remuneration of not less than 150 per cent of the wages;\n(b) where a worker is arranged to work on a rest day and no compensatory leave can be arranged, pay labour remuneration of not less than 200 per cent of the wages;\n(c) where a worker is arranged to work on a statutory holiday, pay labour remuneration of not less than 300 per cent of the wages."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter IV Working Hours, Rest and Leave"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "The State shall implement a system of paid annual leave.\nWorkers who have continuously worked for one year or more shall be entitled to paid annual leave. The specific measures shall be prescribed by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter IV Working Hours, Rest and Leave"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Wage distribution shall follow the principle of distribution according to work and shall apply equal pay for equal work.\nWage levels shall be gradually raised on the basis of economic development. The State shall exercise macro-control over the total amount of wages."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter V Wages"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Employing units shall, in accordance with the characteristics of their production and business and their economic efficiency, independently determine their own wage distribution methods and wage levels in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter V Wages"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "The State shall implement a minimum wage guarantee system. The specific standards for minimum wages shall be prescribed by the people's governments of provinces, autonomous regions and municipalities directly under the Central Government and reported to the State Council for the record.\nWages paid by employing units to workers may not be lower than the local minimum wage standards."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter V Wages"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "The determination and adjustment of minimum wage standards shall comprehensively take into account the following factors:\n(a) the minimum living expenses of the worker and the average number of persons supported;\n(b) the average wage level of society;\n(c) labour productivity;\n(d) the employment situation;\n(e) differences in the level of economic development between regions."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter V Wages"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Wages shall be paid in monetary form to the worker personally on a monthly basis. Wages may not be deducted or unjustifiably delayed."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter V Wages"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where a worker is on statutory holidays, marriage or bereavement leave, or participates in social activities in accordance with law, the employing unit shall pay wages in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter V Wages"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Employing units must establish and improve labour safety and health systems, strictly implement the State's rules and standards on labour safety and health, provide workers with labour safety and health education, prevent accidents in the course of work and reduce occupational hazards."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VI Labour Safety and Health"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Labour safety and health facilities must conform to the standards prescribed by the State.\nThe labour safety and health facilities of newly built, reconstructed or expanded projects must be designed, constructed and put into production and use simultaneously with the principal works."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VI Labour Safety and Health"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Employing units must provide workers with labour safety and health conditions conforming to the standards prescribed by the State and the necessary labour protection articles, and shall periodically carry out health examinations for workers engaged in operations with occupational hazards."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VI Labour Safety and Health"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Workers engaged in special operations must undergo special training and obtain the qualification for special operations."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VI Labour Safety and Health"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Workers must strictly comply with safety operating rules in the course of work.\nWorkers shall have the right to refuse to execute the instruction of management personnel of the employing unit that violates rules or forces them to work at risk; and shall have the right to criticise, report and complain of acts endangering life safety and physical health."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VI Labour Safety and Health"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "The State shall establish a system for the statistical reporting and handling of casualty accidents and occupational diseases. The labour administrative departments of people's governments at or above the county level, the relevant departments and employing units shall, in accordance with law, carry out statistics, reporting and handling in respect of casualty accidents occurring to workers in the course of work and the status of occupational diseases of workers."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VI Labour Safety and Health"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "The State shall apply special labour protection to female workers and underage workers.\nUnderage workers mean workers who have reached the age of 16 but not the age of 18."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VII Special Protection for Female Workers and Underage Workers"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Female workers are prohibited from being assigned to work underground in mines, work of the fourth level of physical labour intensity prescribed by the State, and other work prohibited for them."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VII Special Protection for Female Workers and Underage Workers"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Female workers may not be assigned during menstruation to work at heights, in low temperatures or in cold water, or to work of the third level of physical labour intensity prescribed by the State."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VII Special Protection for Female Workers and Underage Workers"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Female workers may not be assigned during pregnancy to work of the third level of physical labour intensity prescribed by the State or work prohibited during pregnancy. Female workers who have been pregnant for 7 months or more may not be assigned extended working hours or night shifts."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VII Special Protection for Female Workers and Underage Workers"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Female workers shall enjoy maternity leave of not less than 90 days for childbirth."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VII Special Protection for Female Workers and Underage Workers"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Female workers may not be assigned during the period of breastfeeding a baby under one year of age to work of the third level of physical labour intensity prescribed by the State or other work prohibited during the breastfeeding period, and may not be assigned extended working hours or night shifts."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VII Special Protection for Female Workers and Underage Workers"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Underage workers may not be assigned to work underground in mines, work involving toxic or harmful substances, work of the fourth level of physical labour intensity prescribed by the State, or other work prohibited for them."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VII Special Protection for Female Workers and Underage Workers"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Employing units shall periodically carry out health examinations for underage workers."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter VII Special Protection for Female Workers and Underage Workers"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "The State shall develop vocational training through various channels and by various measures, develop the vocational skills of workers, improve the quality of workers and enhance their employability and working capacity."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter VIII Vocational Training"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "People's governments at all levels shall incorporate the development of vocational training into plans for social and economic development, and encourage and support enterprises, public institutions, public organisations and individuals with the necessary conditions in carrying out vocational training in various forms."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter VIII Vocational Training"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "Employing units shall establish vocational training systems, draw and use vocational training funds in accordance with the provisions of the State, and provide workers with vocational training in a planned manner in light of their actual circumstances.\nWorkers engaged in skilled trades must undergo training before taking up their posts."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter VIII Vocational Training"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "The State shall determine the classification of occupations, formulate vocational skill standards for the prescribed occupations, implement the system of vocational qualification certificates, and have the assessment and certification institutions placed on record responsible for carrying out vocational skill assessment and certification of workers."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter VIII Vocational Training"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "The State shall develop social insurance, establish a social insurance system and set up social insurance funds so that workers may obtain assistance and compensation in circumstances such as old age, illness, work-related injury, unemployment and childbirth."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter IX Social Insurance and Welfare"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "The level of social insurance shall be commensurate with the level of social and economic development and society's capacity to bear it."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter IX Social Insurance and Welfare"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "The sources of funds for social insurance funds shall be determined according to the type of insurance, and social pooling shall be gradually implemented. Employing units and workers must participate in social insurance and pay social insurance contributions in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter IX Social Insurance and Welfare"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "Workers shall enjoy social insurance benefits in accordance with law under the following circumstances:\n(a) retirement;\n(b) illness or injury;\n(c) disability caused by work-related injury or suffering from an occupational disease;\n(d) unemployment;\n(e) childbirth.\nAfter a worker dies, his or her surviving family members shall enjoy survivors' allowances in accordance with law.\nThe conditions and standards for workers to enjoy social insurance benefits shall be provided by laws and regulations.\nThe social insurance benefits enjoyed by workers must be paid in full and on time."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter IX Social Insurance and Welfare"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "Social insurance fund administration institutions shall, in accordance with the provisions of law, collect and disburse, manage and operate social insurance funds, and shall be responsible for preserving and increasing the value of social insurance funds.\nSocial insurance fund supervision institutions shall, in accordance with the provisions of law, supervise the collection and disbursement, management and operation of social insurance funds.\nThe establishment and functions of social insurance fund administration institutions and social insurance fund supervision institutions shall be provided by law.\nNo organisation or individual may misappropriate social insurance funds."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter IX Social Insurance and Welfare"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "The State encourages employing units to establish supplementary insurance for workers in light of their actual circumstances.\nThe State advocates that workers personally take out savings-type insurance."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter IX Social Insurance and Welfare"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "The State shall develop social welfare undertakings, build public welfare facilities and provide conditions for workers to rest, recuperate and convalesce.\nEmploying units shall create conditions to improve collective welfare and raise the welfare benefits of workers."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter IX Social Insurance and Welfare"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "Where a labour dispute arises between an employing unit and a worker, the parties may apply for mediation, arbitration or institute an action in accordance with law, or may resolve it through consultation.\nThe principle of mediation shall apply to arbitration and litigation procedures."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter X Labour Disputes"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "The resolution of labour disputes shall be based on the principles of lawful, fair and prompt handling, and the lawful rights and interests of the parties to the labour dispute shall be safeguarded in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Chapter X Labour Disputes"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "After a labour dispute arises, a party may apply to the labour dispute mediation committee of its unit for mediation; where mediation fails and a party requests arbitration, it may apply to the labour dispute arbitration committee for arbitration. A party may also directly apply to the labour dispute arbitration committee for arbitration. Where a party is dissatisfied with the arbitration award, it may institute an action before a people's court."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Chapter X Labour Disputes"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "A labour dispute mediation committee may be established within an employing unit. The labour dispute mediation committee shall be composed of representatives of the workers, representatives of the employing unit and representatives of the trade union. The chairman of the labour dispute mediation committee shall be a representative of the trade union.\nWhere a labour dispute is resolved through mediation by agreement, the parties shall perform the agreement."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Chapter X Labour Disputes"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "A labour dispute arbitration committee shall be composed of representatives of the labour administrative department, representatives of the trade union at the same level and representatives of the employing unit side. The chairman of the labour dispute arbitration committee shall be a representative of the labour administrative department."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Chapter X Labour Disputes"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "The party requesting arbitration shall submit a written application to the labour dispute arbitration committee within 60 days from the date on which the labour dispute arises. An arbitration award shall generally be made within 60 days from the date of receipt of the arbitration application. Where there is no objection to the arbitration award, the parties must perform it."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Chapter X Labour Disputes"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "Where a party to a labour dispute is dissatisfied with an arbitration award, it may institute an action before a people's court within 15 days from the date of receipt of the written arbitration award. Where a party neither institutes an action within the statutory time limit nor performs the arbitration award, the other party may apply to a people's court for compulsory execution."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Chapter X Labour Disputes"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "Where a dispute arises from the conclusion of a collective contract and the parties fail to resolve it through consultation, the labour administrative department of the local people's government may organise the parties concerned to coordinate the handling.\nWhere a dispute arises from the performance of a collective contract and the parties fail to resolve it through consultation, they may apply to the labour dispute arbitration committee for arbitration; where a party is dissatisfied with the arbitration award, it may institute an action before a people's court within 15 days from the date of receipt of the written arbitration award."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Chapter X Labour Disputes"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "The labour administrative departments of people's governments at or above the county level shall, in accordance with law, supervise and inspect the compliance of employing units with labour laws and regulations, and shall have the power to stop and order correction of acts violating labour laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        },
+        "chapter": {
+          "en": "Chapter XI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "When performing official duties, the supervisory inspectors of the labour administrative departments of people's governments at or above the county level shall have the power to enter employing units to learn about compliance with labour laws and regulations, consult the necessary materials and inspect labour sites.\nWhen performing official duties, the supervisory inspectors of the labour administrative departments of people's governments at or above the county level must present their documents, enforce the law impartially and comply with the relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        },
+        "chapter": {
+          "en": "Chapter XI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "The relevant departments of people's governments at or above the county level shall, within the scope of their respective duties, supervise the compliance of employing units with labour laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 87."
+        },
+        "chapter": {
+          "en": "Chapter XI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "Trade unions at all levels shall safeguard the lawful rights and interests of workers in accordance with law and supervise the compliance of employing units with labour laws and regulations.\nAny organisation or individual shall have the right to report and complain of acts violating labour laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 88."
+        },
+        "chapter": {
+          "en": "Chapter XI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "Where labour rules and regulations formulated by an employing unit violate the provisions of laws or regulations, the labour administrative department shall give a warning and order correction; where harm is caused to workers, the employing unit shall bear liability for compensation."
+        },
+        "noLabel": {
+          "en": "Article 89."
+        },
+        "chapter": {
+          "en": "Chapter XII Legal Liability"
+        }
+      },
+      {
+        "no": 90,
+        "text": {
+          "en": "Where an employing unit extends the working hours of workers in violation of the provisions of this Law, the labour administrative department shall give a warning, order correction and may impose a fine."
+        },
+        "noLabel": {
+          "en": "Article 90."
+        },
+        "chapter": {
+          "en": "Chapter XII Legal Liability"
+        }
+      },
+      {
+        "no": 91,
+        "text": {
+          "en": "Where an employing unit falls under any of the following circumstances infringing upon the lawful rights and interests of workers, the labour administrative department shall order it to pay the workers their wages and economic compensation, and may order it to pay compensation money:\n(a) deducting wages or unjustifiably delaying the payment of wages;\n(b) refusing to pay remuneration for extended working hours;\n(c) paying wages lower than the local minimum wage standards;\n(d) failing, after rescinding a labour contract, to give economic compensation to the worker in accordance with the provisions of this Law."
+        },
+        "noLabel": {
+          "en": "Article 91."
+        },
+        "chapter": {
+          "en": "Chapter XII Legal Liability"
+        }
+      },
+      {
+        "no": 92,
+        "text": {
+          "en": "Where the labour safety facilities and labour health conditions of an employing unit do not conform to the provisions of the State, or the employing unit fails to provide workers with the necessary labour protection articles and labour protection facilities, the labour administrative department or the relevant department shall order correction and may impose a fine; where the circumstances are serious, it shall request the people's government at or above the county level to decide to order suspension of production for rectification; where failure to take measures against hidden accident hazards results in a major accident and causes loss of life and property of workers, the responsible persons shall be pursued for criminal liability in accordance with the relevant provisions of the criminal law."
+        },
+        "noLabel": {
+          "en": "Article 92."
+        },
+        "chapter": {
+          "en": "Chapter XII Legal Liability"
+        }
+      },
+      {
+        "no": 93,
+        "text": {
+          "en": "Where an employing unit forces workers to work at risk in violation of rules and a major casualty accident occurs, causing serious consequences, the responsible persons shall be pursued for criminal liability in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 93."
+        },
+        "chapter": {
+          "en": "Chapter XII Legal Liability"
+        }
+      },
+      {
+        "no": 94,
+        "text": {
+          "en": "Where an employing unit unlawfully recruits minors under the age of 16, the labour administrative department shall order correction and impose a fine; where the circumstances are serious, the administrative department for market supervision shall revoke its business licence."
+        },
+        "noLabel": {
+          "en": "Article 94."
+        },
+        "chapter": {
+          "en": "Chapter XII Legal Liability"
+        }
+      },
+      {
+        "no": 95,
+        "text": {
+          "en": "Where an employing unit violates the provisions of this Law on the protection of female workers and underage workers and infringes upon their lawful rights and interests, the labour administrative department shall order correction and impose a fine; where harm is caused to female workers or underage workers, it shall bear liability for compensation."
+        },
+        "noLabel": {
+          "en": "Article 95."
+        },
+        "chapter": {
+          "en": "Chapter XII Legal Liability"
+        }
+      },
+      {
+        "no": 96,
+        "text": {
+          "en": "Where an employing unit commits any of the following acts, the public security organ shall impose detention of not more than 15 days, a fine or a warning on the responsible persons; where a crime is constituted, the responsible persons shall be pursued for criminal liability in accordance with law:\n(a) forcing labour by means of violence, threat or unlawful restriction of personal freedom;\n(b) insulting, physically punishing, beating, unlawfully searching or imprisoning workers."
+        },
+        "noLabel": {
+          "en": "Article 96."
+        },
+        "chapter": {
+          "en": "Chapter XII Legal Liability"
+        }
+      },
+      {
+        "no": 97,
+        "text": {
+          "en": "Where an invalid contract concluded for reasons attributable to the employing unit causes harm to a worker, the employing unit shall bear liability for compensation."
+        },
+        "noLabel": {
+          "en": "Article 97."
+        },
+        "chapter": {
+          "en": "Chapter XII Legal Liability"
+        }
+      },
+      {
+        "no": 98,
+        "text": {
+          "en": "Where an employing unit rescinds a labour contract in violation of the conditions provided in this Law, or deliberately delays in concluding a labour contract, the labour administrative department shall order correction; where harm is caused to a worker, the employing unit shall bear liability for compensation."
+        },
+        "noLabel": {
+          "en": "Article 98."
+        },
+        "chapter": {
+          "en": "Chapter XII Legal Liability"
+        }
+      },
+      {
+        "no": 99,
+        "text": {
+          "en": "Where an employing unit recruits a worker whose labour contract has not yet been rescinded, and economic loss is caused to the original employing unit, that employing unit shall bear joint and several liability for compensation in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 99."
+        },
+        "chapter": {
+          "en": "Chapter XII Legal Liability"
+        }
+      },
+      {
+        "no": 100,
+        "text": {
+          "en": "Where an employing unit fails to pay social insurance contributions without justification, the labour administrative department shall order it to pay within a time limit; where payment is not made on expiry of the time limit, a late fee may be additionally charged."
+        },
+        "noLabel": {
+          "en": "Article 100."
+        },
+        "chapter": {
+          "en": "Chapter XII Legal Liability"
+        }
+      },
+      {
+        "no": 101,
+        "text": {
+          "en": "Where an employing unit unreasonably obstructs the labour administrative department, the relevant departments or their staff members in exercising the power of supervision and inspection, or retaliates against persons who report, the labour administrative department or the relevant department shall impose a fine; where a crime is constituted, the responsible persons shall be pursued for criminal liability in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 101."
+        },
+        "chapter": {
+          "en": "Chapter XII Legal Liability"
+        }
+      },
+      {
+        "no": 102,
+        "text": {
+          "en": "Where a worker rescinds a labour contract in violation of the conditions provided in this Law, or violates the confidentiality matters agreed in the labour contract, and economic loss is caused to the employing unit, the worker shall bear liability for compensation in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 102."
+        },
+        "chapter": {
+          "en": "Chapter XII Legal Liability"
+        }
+      },
+      {
+        "no": 103,
+        "text": {
+          "en": "Where staff members of the labour administrative department or the relevant departments abuse their powers, derelict their duties or engage in malpractice for personal gain, and a crime is constituted, they shall be pursued for criminal liability in accordance with law; where a crime is not constituted, an administrative sanction shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 103."
+        },
+        "chapter": {
+          "en": "Chapter XII Legal Liability"
+        }
+      },
+      {
+        "no": 104,
+        "text": {
+          "en": "Where State functionaries or staff members of social insurance fund administration institutions misappropriate social insurance funds and a crime is constituted, they shall be pursued for criminal liability in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 104."
+        },
+        "chapter": {
+          "en": "Chapter XII Legal Liability"
+        }
+      },
+      {
+        "no": 105,
+        "text": {
+          "en": "Where a violation of the provisions of this Law infringes upon the lawful rights and interests of workers and other laws or administrative regulations have provided penalties, the penalties shall be imposed in accordance with the provisions of those laws or administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 105."
+        },
+        "chapter": {
+          "en": "Chapter XII Legal Liability"
+        }
+      },
+      {
+        "no": 106,
+        "text": {
+          "en": "The people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall, in accordance with this Law and the actual circumstances of their respective regions, prescribe the steps for implementing the labour contract system and report them to the State Council for the record."
+        },
+        "noLabel": {
+          "en": "Article 106."
+        },
+        "chapter": {
+          "en": "Chapter XIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 107,
+        "text": {
+          "en": "This Law shall come into force on 1 January 1995."
+        },
+        "noLabel": {
+          "en": "Article 107."
+        },
+        "chapter": {
+          "en": "Chapter XIII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-LAW-0196'] = {
     "lawId": "CN-LAW-0196",
     "sourceLang": "zh",
@@ -25428,6 +27993,1341 @@
         },
         "chapter": {
           "en": "Chapter VII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0202'] = {
+    "lawId": "CN-LAW-0202",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 112 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is enacted in order to safeguard the lawful rights and interests of tourists and tourism operators, regulate the order of the tourism market, protect and rationally utilise tourism resources, and promote the sustained and sound development of the tourism industry."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "This Law applies to tourism activities in the forms of sightseeing, vacationing and leisure within the territory of the People's Republic of China and organised within the territory of the People's Republic of China for destinations outside the territory, as well as business activities providing related services for tourism activities."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The State shall develop tourism undertakings, improve public tourism services and protect tourists' rights in tourism activities in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The development of the tourism industry shall follow the principle of unifying social, economic and ecological benefits. The State encourages all types of market entities to lawfully and rationally utilise tourism resources on the premise of effectively protecting them. Sightseeing venues built with public resources shall reflect their public-welfare nature."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The State advocates healthy, civilised and environmentally friendly forms of tourism, supports and encourages all types of social institutions to carry out public-interest publicity on tourism, and gives awards to units and individuals that make outstanding contributions to promoting the development of the tourism industry."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The State shall establish and improve tourism service standards and market rules, and prohibit industry monopoly and regional monopoly. Tourism operators shall operate in good faith, compete fairly, bear social responsibility and provide tourists with safe, healthy, hygienic and convenient tourism services."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The State Council shall establish and improve a comprehensive coordination mechanism for tourism and carry out comprehensive coordination of the development of the tourism industry.\nLocal people's governments at or above the county level shall strengthen the organisation and leadership of tourism work, designate the relevant departments or bodies, and carry out overall coordination of the development, supervision and administration of the tourism industry within their respective administrative regions."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Lawfully established tourism industry organisations shall exercise self-regulatory management."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Tourists shall have the right to independently choose tourism products and services and the right to refuse forced transactions by tourism operators.\nTourists shall have the right to know the true circumstances of the tourism products and services they purchase.\nTourists shall have the right to require tourism operators to provide products and services in accordance with the agreement."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Tourists"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The personal dignity, ethnic customs and habits and religious beliefs of tourists shall be respected."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Tourists"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Tourists such as persons with disabilities, elderly persons and minors shall, in accordance with laws, regulations and the relevant provisions, enjoy conveniences and preferential treatment in tourism activities."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Tourists"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Where the safety of their person or property is in danger, tourists shall have the right to request rescue and protection.\nWhere the person or property of a tourist is infringed upon, the tourist shall have the right to obtain compensation in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Tourists"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "In tourism activities, tourists shall comply with public order and social ethics, respect local customs and habits, cultural traditions and religious beliefs, cherish tourism resources, protect the ecological environment and comply with the norms of civilised tourism conduct."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Tourists"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "In tourism activities or in resolving disputes, tourists may not harm the lawful rights and interests of local residents, interfere with the tourism activities of others, or harm the lawful rights and interests of tourism operators and tourism practitioners."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Tourists"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "When purchasing or accepting tourism services, tourists shall truthfully inform tourism operators of personal health information relating to the tourism activity and comply with the safety warning provisions in tourism activities.\nTourists shall cooperate with measures temporarily restricting tourism activities adopted by the State in response to major emergencies and with the safety precautions and emergency handling measures taken by the relevant departments, bodies or tourism operators.\nWhere tourists violate safety warning provisions or fail to cooperate with measures temporarily restricting tourism activities adopted by the State in response to major emergencies or with safety precautions and emergency handling measures, they shall bear the corresponding liability in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Tourists"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Outbound tourists may not unlawfully overstay outside the territory, and tourists travelling abroad in a group may not split from the group or leave the group without authorisation.\nInbound tourists may not unlawfully overstay within the territory, and tourists entering the country in a group may not split from the group or leave the group without authorisation."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Tourists"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The State Council and local people's governments at or above the county level shall incorporate the development of the tourism industry into national economic and social development plans.\nThe State Council, the people's governments of provinces, autonomous regions and municipalities directly under the Central Government, and the people's governments of cities with districts and counties rich in tourism resources shall, in accordance with the requirements of national economic and social development plans, organise the preparation of tourism development plans. Where tourism resources that span administrative regions and are suitable for integrated utilisation are utilised, a unified tourism development plan shall be prepared by the people's government at a higher level or prepared through consultation among the relevant local people's governments."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Tourism Planning and Promotion"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "A tourism development plan shall include the overall requirements and development goals of the development of the tourism industry, the requirements and measures for the protection and utilisation of tourism resources, and the requirements and promotional measures for tourism product development, improvement of tourism service quality, development of tourism culture, promotion of tourism image, and construction of tourism infrastructure and public service facilities.\nOn the basis of the tourism development plan, local people's governments at or above the county level may prepare special plans for the development and utilisation of key tourism resources, putting forward specific requirements for the matching of tourism projects, facilities and service functions within a specific area."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Tourism Planning and Promotion"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Tourism development plans shall be linked with overall land use plans, urban and rural plans, environmental protection plans and plans for the protection and utilisation of other natural resources and cultural resources such as cultural relics."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Tourism Planning and Promotion"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "In preparing overall land use plans and urban and rural plans, people's governments at all levels shall fully consider the spatial layout of the relevant tourism projects and facilities and the requirements for construction land. In planning and constructing infrastructure and public service facilities such as transport, communications, water supply, power supply and environmental protection, the needs of the development of the tourism industry shall also be taken into account."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Tourism Planning and Promotion"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The tourism utilisation of natural resources and cultural resources such as cultural relics must strictly comply with the provisions of the relevant laws and regulations, meet the requirements of resource and ecological protection and the safety of cultural relics, respect and safeguard local traditional culture and customs, maintain the regional integrity, cultural representativeness and regional distinctiveness of the resources, and take into account the need to protect military facilities. The relevant competent departments shall strengthen supervision and inspection of the protection of resources and the state of tourism utilisation."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Tourism Planning and Promotion"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "People's governments at all levels shall organise an assessment of the implementation of the tourism development plans prepared by the government at the corresponding level and publish it to society."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Tourism Planning and Promotion"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The State Council and local people's governments at or above the county level shall formulate and organise the implementation of industrial policies conducive to the sustained and sound development of the tourism industry, advance the building of the tourism and leisure system, take measures to promote regional tourism cooperation, encourage the development of cross-regional tourism routes and products, promote the integration of tourism with industry, agriculture, commerce, culture, health, sports, science and education and other fields, and support the development of the tourism industry in ethnic minority areas, old revolutionary base areas, remote areas and poverty-stricken areas."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Tourism Planning and Promotion"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The State Council and local people's governments at or above the county level shall, in light of actual circumstances, allocate funds to strengthen the construction of tourism infrastructure, public tourism services and the promotion of tourism image."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Tourism Planning and Promotion"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The State shall formulate and implement a strategy for promoting the tourism image. The competent tourism department of the State Council shall make overall arrangements for the overseas promotion of the national tourism image, establish tourism image promotion bodies and networks, and carry out international tourism cooperation and exchanges.\nLocal people's governments at or above the county level shall make overall arrangements for the promotion of the local tourism image."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Tourism Planning and Promotion"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The competent tourism department of the State Council and local people's governments at or above the county level shall, as needed, establish public tourism information and consultation platforms to provide tourists free of charge with necessary information and consultation services on tourist attractions, routes, transport, meteorology, accommodation, safety and medical first aid. The relevant departments of the people's governments of cities with districts and counties shall, as needed, set up tourism consultation centres at transport hubs, commercial centres and places where tourists congregate, and install tourism direction signs at tourist attractions and on roads leading to major tourist attractions.\nThe people's governments of cities with districts and counties rich in tourism resources may, in light of local actual circumstances, establish dedicated tourist transport lines or tourist transfer stations to provide services for tourists travelling in and around the city."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Tourism Planning and Promotion"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The State encourages and supports the development of tourism vocational education and training and improves the quality of tourism practitioners."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Tourism Planning and Promotion"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "To establish a travel agency and to solicit, organise and receive tourists and provide them with tourism services, the following conditions shall be met, a licence from the competent tourism department shall be obtained, and industrial and commercial registration shall be completed in accordance with law:\n(a) having a fixed place of business;\n(b) having the necessary business facilities;\n(c) having registered capital conforming to provisions;\n(d) having the necessary business management personnel and tour guides;\n(e) other conditions provided by laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Tourism Operation"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "A travel agency may engage in the following business:\n(a) domestic tourism;\n(b) outbound tourism;\n(c) border tourism;\n(d) inbound tourism;\n(e) other tourism business.\nTo engage in the business in items (b) and (c) of the preceding paragraph, a travel agency shall obtain the corresponding business licence; the specific conditions shall be prescribed by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Tourism Operation"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "A travel agency may not lease out or lend its travel agency business licence, or otherwise unlawfully transfer its travel agency business licence."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Tourism Operation"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "A travel agency shall pay a tourism service quality deposit in accordance with provisions, to be used for compensation for infringement upon tourists' rights and interests and for advancing the costs of emergency rescue when the personal safety of tourists is in danger."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Tourism Operation"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Information published by a travel agency to solicit and organise tourists must be true and accurate, and no false publicity may be carried out to mislead tourists."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Tourism Operation"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "In organising and receiving tourists, a travel agency and its practitioners may not arrange visits to or participation in projects or activities that violate the laws and regulations of China or social ethics."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Tourism Operation"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "A travel agency organising tourism activities shall order products and services from qualified suppliers."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Tourism Operation"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "A travel agency may not organise tourism activities at an unreasonably low price to entice tourists and obtain kickbacks and other improper benefits by arranging shopping or separately charged tourism items.\nIn organising and receiving tourists, a travel agency may not designate specific shopping venues or arrange separately charged tourism items. However, this shall not apply where both parties reach agreement through consultation or the tourist requests it and the itinerary of other tourists is not affected.\nWhere the circumstances provided in the preceding two paragraphs occur, tourists shall have the right, within 30 days after the end of the itinerary, to require the travel agency to handle the return of goods on their behalf and advance the refund price, or to refund the fees for the separately charged tourism items."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Tourism Operation"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Where a travel agency organises outbound group tourism, or organises and receives inbound group tourism, it shall arrange for a tour leader or tour guide to accompany the group throughout in accordance with provisions."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Tourism Operation"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Persons who have passed the tour guide qualification examination and who have concluded a labour contract with a travel agency or registered with the relevant tourism industry organisation may apply for a tour guide certificate."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Tourism Operation"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "A travel agency shall conclude labour contracts with the tour guides it employs in accordance with law, pay labour remuneration and pay social insurance contributions.\nWhere a travel agency temporarily employs a tour guide to provide services for tourists, it shall pay the tour guide in full the tour guide service fee provided in paragraph 3 of Article 60 of this Law.\nWhere a travel agency arranges a tour guide to provide services for group tourism, it may not require the tour guide to advance any expenses or charge the tour guide any fees."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Tourism Operation"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "To engage in the work of a tour leader, a person shall have obtained a tour guide certificate, possess the corresponding educational background, language proficiency and tourism work experience, and have concluded a labour contract with the travel agency that holds an outbound tourism business licence and that dispatches him or her to engage in the work of a tour leader."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter IV Tourism Operation"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Tour guides and tour leaders must accept dispatch by a travel agency when providing services to tourists, and may not undertake tour guide or tour leader business privately."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter IV Tourism Operation"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "In carrying out business activities, tour guides and tour leaders shall wear their tour guide certificates, comply with professional ethics, respect tourists' customs and habits and religious beliefs, inform and explain to tourists the norms of civilised tourism conduct, guide tourists to travel in a healthy and civilised manner, and dissuade tourists from conduct violating social ethics.\nTour guides and tour leaders shall strictly implement the itinerary, may not alter the itinerary without authorisation or suspend service activities, may not demand tips from tourists, and may not induce, deceive, coerce or disguisedly coerce tourists into shopping or participating in separately charged tourism items."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IV Tourism Operation"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The opening of a tourist attraction shall meet the following conditions and the opinions of the competent tourism department shall be solicited:\n(a) having the necessary supporting tourism services and auxiliary facilities;\n(b) having the necessary safety facilities and systems, having passed safety risk assessment and meeting safety conditions;\n(c) having the necessary environmental protection facilities and ecological protection measures;\n(d) other conditions provided by laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter IV Tourism Operation"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Admission tickets to tourist attractions built with public resources and separately charged items such as sightseeing venues and means of transport within the attractions shall be subject to government pricing or government-guided pricing, and price increases shall be strictly controlled. Where fees are to be charged or prices raised, a hearing shall be held to solicit the opinions of tourists, operators and the relevant parties and to demonstrate the necessity and feasibility.\nTourist attractions built with public resources may not raise prices in a disguised form by adding separately charged items; where the investment cost of a separately charged item has been recovered, the price shall be correspondingly lowered or the charge cancelled.\nPublic-welfare urban parks, museums, memorial halls and the like shall gradually be opened free of charge, except for key cultural relics protection units and units collecting precious cultural relics."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter IV Tourism Operation"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Tourist attractions shall publicise at conspicuous positions the admission ticket prices, the prices of separately charged items and group rates. A tourist attraction raising its admission ticket price shall announce it 6 months in advance.\nWhere admission tickets to different tourist attractions, or admission tickets to different sightseeing venues within the same tourist attraction, are sold as a package, the packaged price may not be higher than the sum of the prices of the individual tickets, and tourists shall have the right to choose to purchase individual tickets.\nWhere the core sightseeing item of a tourist attraction is for any reason temporarily not open to tourists or ceases to provide services, this shall be publicised and the charges shall be correspondingly reduced."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter IV Tourism Operation"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "A tourist attraction may not receive tourists in excess of the maximum carrying capacity verified by the competent department for tourist attractions. Tourist attractions shall publish the maximum carrying capacity verified by the competent department for tourist attractions, formulate and implement plans for controlling tourist flows, and may control the number of tourists received by means such as advance ticket booking.\nWhere the number of tourists may reach the maximum carrying capacity, the tourist attraction shall make an announcement in advance and simultaneously report to the local people's government, and the tourist attraction and the local people's government shall promptly take measures such as channelling and diverting tourists."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter IV Tourism Operation"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where urban and rural residents lawfully engage in tourism business using their own homes or other conditions, the administrative measures therefor shall be formulated by provinces, autonomous regions and municipalities directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter IV Tourism Operation"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "To operate high-risk tourism items such as high-altitude, high-speed, water, diving and adventure tourism, a business licence shall be obtained in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter IV Tourism Operation"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "A person operating travel agency business through the Internet shall lawfully obtain a travel agency business licence and indicate the information of its business licence at a conspicuous position on the home page of its website.\nWebsites publishing tourism business information shall ensure that their information is true and accurate."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter IV Tourism Operation"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Operators providing tourists with services such as transport, accommodation, catering and entertainment shall meet the requirements provided by laws and regulations and perform their obligations in accordance with the contract."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter IV Tourism Operation"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Tourism operators shall ensure that the goods and services they provide meet the requirements for safeguarding the safety of persons and property.\nWhere a tourism operator has obtained the relevant quality standard grade, its facilities and services may not be lower than the corresponding standard; where it has not obtained a quality standard grade, it may not use the title and mark of the relevant quality grade."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter IV Tourism Operation"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Tourism operators may not give or accept bribes in selling or purchasing goods or services."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter IV Tourism Operation"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Tourism operators shall keep confidential the personal information of tourists that they learn of in the course of business activities."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter IV Tourism Operation"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Operators engaged in road tourist transport shall comply with the various systems for road passenger transport safety management, clearly display the special mark for road tourist transport at conspicuous positions on vehicles, and publicise at conspicuous positions inside the carriage matters such as information on the operator and the driver and the supervision telephone number of the road transport administration institution."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter IV Tourism Operation"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where a tourist attraction or accommodation operator hands over part of its business items or premises to others for operating accommodation, catering, shopping, sightseeing, entertainment or tourist transport, it shall bear joint and several liability for the damage caused to tourists by the business conduct of the actual operator."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter IV Tourism Operation"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where a tourism operator organising or receiving inbound or outbound tourism discovers that a tourist is engaged in unlawful activities or falls under the circumstances provided in Article 16 of this Law, it shall promptly report to the public security organ, the competent tourism department or a mission of China abroad."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter IV Tourism Operation"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "The State shall, according to the degree of risk of tourism activities, implement a liability insurance system for travel agencies, accommodation, tourist transport and operators of high-risk tourism items provided in Article 47 of this Law."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter IV Tourism Operation"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "A travel agency organising and arranging tourism activities shall conclude a contract with the tourist."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter V Tourism Service Contracts"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "A package tour contract shall be in written form and shall include the following content:\n(a) the basic information of the travel agency and the tourist;\n(b) the itinerary;\n(c) the minimum number of persons for the tour group to be formed;\n(d) the arrangements and standards for tourism services such as transport, accommodation and catering;\n(e) the specific content and time of items such as sightseeing and entertainment;\n(f) the arrangements for free time;\n(g) the tourism fees and the time limit and method of payment thereof;\n(h) liability for breach of contract and the method of dispute resolution;\n(i) other matters provided by laws and regulations and agreed by both parties.\nWhen concluding a package tour contract, the travel agency shall explain to the tourist in detail the content contained in items (b) to (h) of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter V Tourism Service Contracts"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "A travel agency shall provide the tourist with an itinerary before the itinerary begins. The itinerary is an integral part of the package tour contract."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter V Tourism Service Contracts"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Where a travel agency entrusts another travel agency with the agency sale of package tour products and concludes a package tour contract with the tourist, it shall state in the package tour contract the basic information of the entrusting agency and the agent agency.\nWhere a travel agency entrusts, in accordance with the provisions of this Law, the reception business under a package tour contract to a local travel agency for performance, it shall state in the package tour contract the basic information of the local travel agency.\nWhere a tour guide is arranged to provide services for tourists, the tour guide service fee shall be stated in the package tour contract."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter V Tourism Service Contracts"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "A travel agency shall remind tourists participating in group tourism to take out personal accident insurance in accordance with provisions."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter V Tourism Service Contracts"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "When concluding a package tour contract, a travel agency shall inform the tourist of the following matters:\n(a) circumstances under which the tourist is not suitable to participate in tourism activities;\n(b) safety precautions in tourism activities;\n(c) information on which the travel agency may lawfully reduce or exempt liability;\n(d) the relevant laws, regulations, customs and habits and religious taboos of the tourism destination that the tourist should note, and activities that are inappropriate to participate in under Chinese law;\n(e) other matters that should be informed as provided by laws and regulations.\nWhere the matters provided in the preceding paragraph arise in the performance of a package tour contract, the travel agency shall also inform the tourist."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter V Tourism Service Contracts"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Where a travel agency solicits tourists for group tourism and the group cannot depart because the agreed number of persons is not reached, the organising agency may rescind the contract. However, it shall notify the tourists at least 7 days in advance for domestic tourism and at least 30 days in advance for outbound tourism.\nWhere the group cannot depart because the agreed number of persons is not reached, the organising agency may, with the written consent of the tourists, entrust another travel agency with the performance of the contract. The organising agency shall bear liability to the tourists, and the entrusted travel agency shall bear liability to the organising agency. Where the tourists do not consent, they may rescind the contract.\nWhere a contract is rescinded because the agreed number of persons for forming the group is not reached, the organising agency shall refund to the tourists all fees already collected."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter V Tourism Service Contracts"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Before the itinerary begins, a tourist may transfer his or her rights and obligations under the package tour contract to a third party, and the travel agency may not refuse without justified reasons; the additional expenses thereby incurred shall be borne by the tourist and the third party."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter V Tourism Service Contracts"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Where a tourist rescinds the contract before the end of the itinerary, the organising agency shall, after deducting the necessary expenses, refund the balance to the tourist."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter V Tourism Service Contracts"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Where a tourist falls under any of the following circumstances, the travel agency may rescind the contract:\n(a) suffering from an infectious disease or other disease that may endanger the health and safety of other tourists;\n(b) carrying articles endangering public safety and refusing to hand them over to the relevant departments for handling;\n(c) engaging in unlawful activities or activities violating social ethics;\n(d) engaging in activities seriously affecting the rights and interests of other tourists and, after being dissuaded, failing to stop;\n(e) other circumstances provided by law.\nWhere a contract is rescinded for the circumstances provided in the preceding paragraph, the organising agency shall, after deducting the necessary expenses, refund the balance to the tourist; where loss is caused to the travel agency, the tourist shall bear liability for compensation in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter V Tourism Service Contracts"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Where force majeure or an event that the travel agency and the performing assistants have taken reasonable care to avoid but still cannot avoid affects the itinerary, the matter shall be handled according to the following circumstances:\n(a) where the contract cannot continue to be performed, both the travel agency and the tourist may rescind the contract. Where the contract cannot be fully performed, the travel agency may, after explaining to the tourist, modify the contract within a reasonable scope; where the tourist does not agree to the modification, the contract may be rescinded.\n(b) where the contract is rescinded, the organising agency shall, after deducting the fees already paid to the local travel agency or performing assistants and non-refundable, refund the balance to the tourist; where the contract is modified, the additional expenses thereby incurred shall be borne by the tourist, and reduced expenses shall be refunded to the tourist.\n(c) where the safety of the person or property of tourists is endangered, the travel agency shall take the corresponding safety measures, and the expenses thereby incurred shall be shared by the travel agency and the tourists.\n(d) where tourists are stranded, the travel agency shall take the corresponding resettlement measures. The additional accommodation and meal expenses thereby incurred shall be borne by the tourists; the additional return travel expenses shall be shared by the travel agency and the tourists."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter V Tourism Service Contracts"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "Where a contract is rescinded during the itinerary, the travel agency shall assist the tourists in returning to the place of departure or a reasonable place designated by the tourists. Where the contract is rescinded for reasons attributable to the travel agency or performing assistants, the return travel expenses shall be borne by the travel agency."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter V Tourism Service Contracts"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "A travel agency shall perform its obligations in accordance with the agreement in the package tour contract and may not alter the itinerary without authorisation.\nWhere, with the consent of the tourists, a travel agency entrusts the reception business under the package tour contract to another qualified local travel agency for performance, it shall conclude a written entrustment contract with the local travel agency, stipulating the rights and obligations of both parties, provide the local travel agency with a copy of the package tour contract concluded with the tourists, and pay the local travel agency fees not lower than the cost of reception and services. The local travel agency shall provide services in accordance with the package tour contract and the entrustment contract."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter V Tourism Service Contracts"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "Where a travel agency fails to perform the obligations under a package tour contract or performs its contractual obligations not in conformity with the agreement, it shall bear liability for breach of contract such as continuing performance, taking remedial measures or compensating for losses in accordance with law; where personal injury or property loss is caused to tourists, it shall bear liability for compensation in accordance with law. Where a travel agency has the conditions for performance but still refuses to perform the contract upon the request of tourists, causing serious consequences such as personal injury or stranding of tourists, the tourists may also require the travel agency to pay compensation of not less than one time but not more than three times the tourism fees.\nWhere a package tour contract cannot be performed or cannot be performed as agreed, or personal injury or property loss is caused to tourists, due to reasons attributable to the tourists themselves, the travel agency shall not bear liability.\nDuring the period in which tourists arrange activities on their own, where a travel agency fails to perform its duties of safety reminder and rescue, it shall bear the corresponding liability for personal injury and property loss of the tourists."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter V Tourism Service Contracts"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "Where a breach of contract is caused by reasons attributable to the local travel agency or performing assistants, the organising agency shall bear liability; after bearing liability, the organising agency may seek contribution from the local travel agency or performing assistants.\nWhere personal injury or property loss is caused to tourists by reasons attributable to the local travel agency or performing assistants, the tourists may require the local travel agency or performing assistants to bear liability for compensation, or may require the organising agency to bear liability for compensation; after bearing liability, the organising agency may seek contribution from the local travel agency or performing assistants. However, where personal injury or property loss is caused to tourists by reasons attributable to a public transport operator, the public transport operator shall bear liability for compensation in accordance with law, and the travel agency shall assist the tourists in claiming compensation from the public transport operator."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter V Tourism Service Contracts"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "Where a tourist, in tourism activities or in resolving disputes, harms the lawful rights and interests of a travel agency, performing assistants, tourism practitioners or other tourists, the tourist shall bear liability for compensation in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter V Tourism Service Contracts"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "Where a travel agency arranges an itinerary according to the specific requirements of a tourist and concludes a package tour contract with the tourist, and the tourist requests modification of the itinerary, the additional expenses thereby incurred shall be borne by the tourist, and reduced expenses shall be refunded to the tourist."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter V Tourism Service Contracts"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "Where a travel agency accepts the entrustment of a tourist to book on his or her behalf tourism services such as transport, accommodation, catering, sightseeing and entertainment and charges an agency fee, it shall personally handle the entrusted matters. Where loss is caused to the tourist through the fault of the travel agency, the travel agency shall bear liability for compensation.\nWhere a travel agency accepts the entrustment of a tourist to provide services such as itinerary design and tourism information consultation, it shall ensure that the design is reasonable and feasible and that the information is timely and accurate."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter V Tourism Service Contracts"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "An accommodation operator shall provide accommodation services for group tourists in accordance with the agreement in the tourism service contract. Where an accommodation operator fails to provide services in accordance with the tourism service contract, it shall provide tourists with accommodation services not lower than the originally agreed standard, and the additional expenses thereby incurred shall be borne by the accommodation operator; however, where services cannot be provided due to force majeure or measures taken by the government for the needs of public interest, the accommodation operator shall assist in arranging accommodation for the tourists."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter V Tourism Service Contracts"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "People's governments at or above the county level shall be uniformly responsible for tourism safety. The relevant departments of people's governments at or above the county level shall perform their duties of tourism safety supervision in accordance with laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter VI Tourism Safety"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "The State shall establish a system of safety risk warnings for tourism destinations. The classification of levels and the implementation procedures for safety risk warnings for tourism destinations shall be formulated by the competent tourism department of the State Council together with the relevant departments.\nPeople's governments at or above the county level and their relevant departments shall take tourism safety as an important part of the monitoring and assessment of emergencies."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter VI Tourism Safety"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "People's governments at or above the county level shall, in accordance with law, incorporate tourism emergency management into the government emergency management system, formulate emergency response plans and establish mechanisms for responding to tourism emergencies.\nAfter an emergency occurs, the local people's government and its relevant departments and bodies shall take measures to carry out rescue and assist tourists in returning to the place of departure or a reasonable place designated by the tourists."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Chapter VI Tourism Safety"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "Tourism operators shall strictly implement the laws, regulations and national and industry standards on safety production management and fire safety management, possess the corresponding conditions for safety production, and formulate systems for the safety protection of tourists and emergency response plans.\nTourism operators shall carry out frequent emergency rescue skills training for practitioners who directly provide services to tourists, carry out safety inspection, monitoring and assessment of the products and services provided, and take the necessary measures to prevent harm.\nTourism operators organising and receiving tourists such as elderly persons, minors and persons with disabilities shall take the corresponding safety safeguard measures."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Chapter VI Tourism Safety"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "Tourism operators shall, in an express manner, explain or warn tourists in advance of the following matters in tourism activities:\n(a) the methods for correct use of the relevant facilities and equipment;\n(b) the necessary safety precautions and emergency measures;\n(c) business and service premises and facilities and equipment not open to tourists;\n(d) groups not suitable for participating in the relevant activities;\n(e) other circumstances that may endanger the safety of the person or property of tourists."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Chapter VI Tourism Safety"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "After an emergency or a tourism safety accident occurs, the tourism operator shall immediately take the necessary rescue and handling measures, perform its reporting obligation in accordance with law and make proper arrangements for tourists."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Chapter VI Tourism Safety"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "Where the safety of their person or property is in danger, tourists shall have the right to request prompt rescue from tourism operators, the local government and the relevant bodies.\nWhere Chinese outbound tourists find themselves in difficulty abroad, they shall have the right to request assistance and protection within the scope of its duties from the mission of China stationed locally.\nAfter receiving rescue from the relevant organisation or body, tourists shall pay the expenses that should be borne by them personally."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Chapter VI Tourism Safety"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "The competent tourism departments and the relevant departments of people's governments at or above the county level shall, in accordance with this Law and the provisions of the relevant laws and regulations, exercise supervision and administration over the tourism market within the scope of their respective duties.\nPeople's governments at or above the county level shall organise the competent tourism departments, the relevant competent departments and the law enforcement departments for market supervision, transport and others to carry out supervision and inspection of the relevant tourism business conduct."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Chapter VII Tourism Supervision and Administration"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "The competent tourism departments, in performing their duties of supervision and administration, may not charge fees from the objects of supervision and administration in violation of laws and administrative regulations.\nThe competent tourism departments and their staff members may not participate in tourism business activities in any form."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Chapter VII Tourism Supervision and Administration"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "The competent tourism departments of people's governments at or above the county level shall have the power to carry out supervision and inspection of the following matters:\n(a) whether a business licence and practice licence have been obtained for operating travel agency business and engaging in tour guide or tour leader services;\n(b) the business conduct of travel agencies;\n(c) the service conduct of tourism practitioners such as tour guides and tour leaders;\n(d) other matters provided by laws and regulations.\nIn carrying out supervision and inspection in accordance with the preceding paragraph, the competent tourism departments may consult and copy contracts, bills, account books and other materials suspected of being unlawful."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        },
+        "chapter": {
+          "en": "Chapter VII Tourism Supervision and Administration"
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "Where the competent tourism departments and the relevant departments carry out supervision and inspection in accordance with law, their supervisory inspectors shall be not fewer than two persons and shall present lawful documents. Where the supervisory inspectors are fewer than two persons or fail to present lawful documents, the unit and individuals inspected shall have the right to refuse.\nSupervisory inspectors shall keep confidential in accordance with law the commercial secrets and personal information of the units inspected that they learn of in supervision and inspection."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        },
+        "chapter": {
+          "en": "Chapter VII Tourism Supervision and Administration"
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "The relevant units and individuals shall cooperate with supervision and inspection carried out in accordance with law, truthfully explain the circumstances and provide documents and materials, and may not refuse, obstruct or conceal."
+        },
+        "noLabel": {
+          "en": "Article 87."
+        },
+        "chapter": {
+          "en": "Chapter VII Tourism Supervision and Administration"
+        }
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "Where, in performing their duties of supervision and inspection or in handling reports and complaints, the competent tourism departments and the relevant departments of people's governments at or above the county level discover acts violating the provisions of this Law, they shall promptly handle them in accordance with law; where a matter is not within the scope of their duties, they shall promptly notify in writing and refer it to the relevant departments for investigation and handling."
+        },
+        "noLabel": {
+          "en": "Article 88."
+        },
+        "chapter": {
+          "en": "Chapter VII Tourism Supervision and Administration"
+        }
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "Local people's governments at or above the county level shall establish a mechanism for sharing information on the investigation and handling of unlawful tourism acts, and shall supervise the handling of unlawful acts requiring joint investigation and handling across departments and regions.\nThe competent tourism departments and the relevant departments shall, in accordance with their respective duties, promptly publish to society the circumstances of supervision and inspection."
+        },
+        "noLabel": {
+          "en": "Article 89."
+        },
+        "chapter": {
+          "en": "Chapter VII Tourism Supervision and Administration"
+        }
+      },
+      {
+        "no": 90,
+        "text": {
+          "en": "Lawfully established tourism industry organisations shall, in accordance with laws, administrative regulations and their articles of association, formulate industry operating norms and service standards, exercise self-regulatory management over the business conduct and service quality of their members, organise and carry out professional ethics education and vocational training, and improve the quality of practitioners."
+        },
+        "noLabel": {
+          "en": "Article 90."
+        },
+        "chapter": {
+          "en": "Chapter VII Tourism Supervision and Administration"
+        }
+      },
+      {
+        "no": 91,
+        "text": {
+          "en": "People's governments at or above the county level shall designate or establish a unified body for accepting tourism complaints. Upon receiving a complaint, the accepting body shall promptly handle it or refer it to the relevant department for handling, and inform the complainant."
+        },
+        "noLabel": {
+          "en": "Article 91."
+        },
+        "chapter": {
+          "en": "Chapter VIII Handling of Tourism Disputes"
+        }
+      },
+      {
+        "no": 92,
+        "text": {
+          "en": "Where a dispute arises between a tourist and a tourism operator, it may be resolved through the following channels:\n(a) consultation between the two parties;\n(b) application for mediation to a consumers' association, a body for accepting tourism complaints or the relevant mediation organisation;\n(c) submission to an arbitration institution for arbitration in accordance with the arbitration agreement reached with the tourism operator;\n(d) institution of an action before a people's court."
+        },
+        "noLabel": {
+          "en": "Article 92."
+        },
+        "chapter": {
+          "en": "Chapter VIII Handling of Tourism Disputes"
+        }
+      },
+      {
+        "no": 93,
+        "text": {
+          "en": "Consumers' associations, bodies for accepting tourism complaints and the relevant mediation organisations shall, on the basis of the voluntariness of both parties, mediate in accordance with law disputes between tourists and tourism operators."
+        },
+        "noLabel": {
+          "en": "Article 93."
+        },
+        "chapter": {
+          "en": "Chapter VIII Handling of Tourism Disputes"
+        }
+      },
+      {
+        "no": 94,
+        "text": {
+          "en": "Where a dispute arises between tourists and a tourism operator and one party consists of a large number of tourists with a common claim, they may elect representatives to participate in consultation, mediation, arbitration and litigation activities."
+        },
+        "noLabel": {
+          "en": "Article 94."
+        },
+        "chapter": {
+          "en": "Chapter VIII Handling of Tourism Disputes"
+        }
+      },
+      {
+        "no": 95,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a person operates travel agency business without a licence, the competent tourism department or the market supervision and administration department shall order correction, confiscate the illegal gains and impose a fine of not less than 10,000 yuan but not more than 100,000 yuan; where the illegal gains are 100,000 yuan or more, a fine of not less than one time but not more than five times the illegal gains shall also be imposed; and a fine of not less than 2,000 yuan but not more than 20,000 yuan shall be imposed on the responsible persons.\nWhere, in violation of the provisions of this Law, a travel agency operates the business in items (b) and (c) of paragraph 1 of Article 29 of this Law without a licence, or leases out or lends its travel agency business licence, or otherwise unlawfully transfers its travel agency business licence, in addition to the penalty under the preceding paragraph, it shall be ordered to suspend business for rectification; where the circumstances are serious, its travel agency business licence shall be revoked; and a fine of not less than 2,000 yuan but not more than 20,000 yuan shall be imposed on the persons directly in charge."
+        },
+        "noLabel": {
+          "en": "Article 95."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 96,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a travel agency commits any of the following acts, the competent tourism department shall order correction, confiscate the illegal gains and impose a fine of not less than 5,000 yuan but not more than 50,000 yuan; where the circumstances are serious, order suspension of business for rectification or revoke its travel agency business licence; and impose a fine of not less than 2,000 yuan but not more than 20,000 yuan on the persons directly in charge and the other persons directly responsible:\n(a) failing to arrange for a tour leader or tour guide to accompany an outbound or inbound group tour throughout in accordance with provisions;\n(b) arranging for persons without a tour guide certificate to provide tour guide services, or arranging for persons not meeting the conditions for a tour leader to provide tour leader services;\n(c) failing to pay the tour guide service fee to a temporarily employed tour guide;\n(d) requiring a tour guide to advance expenses or charging fees from a tour guide."
+        },
+        "noLabel": {
+          "en": "Article 96."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 97,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a travel agency commits any of the following acts, the competent tourism department or the relevant department shall order correction, confiscate the illegal gains and impose a fine of not less than 5,000 yuan but not more than 50,000 yuan; where the illegal gains are 50,000 yuan or more, a fine of not less than one time but not more than five times the illegal gains shall also be imposed; where the circumstances are serious, order suspension of business for rectification or revoke its travel agency business licence; and impose a fine of not less than 2,000 yuan but not more than 20,000 yuan on the persons directly in charge and the other persons directly responsible:\n(a) carrying out false publicity to mislead tourists;\n(b) ordering products and services from unqualified suppliers;\n(c) failing to take out travel agency liability insurance in accordance with provisions."
+        },
+        "noLabel": {
+          "en": "Article 97."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 98,
+        "text": {
+          "en": "Where a travel agency violates the provisions of Article 35 of this Law, the competent tourism department shall order correction, confiscate the illegal gains, order suspension of business for rectification and impose a fine of not less than 30,000 yuan but not more than 300,000 yuan; where the illegal gains are 300,000 yuan or more, a fine of not less than one time but not more than five times the illegal gains shall also be imposed; where the circumstances are serious, revoke its travel agency business licence; and, in respect of the persons directly in charge and the other persons directly responsible, confiscate the illegal gains, impose a fine of not less than 2,000 yuan but not more than 20,000 yuan, and temporarily withhold or revoke their tour guide certificates."
+        },
+        "noLabel": {
+          "en": "Article 98."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 99,
+        "text": {
+          "en": "Where a travel agency fails to perform the reporting obligation provided in Article 55 of this Law, the competent tourism department shall impose a fine of not less than 5,000 yuan but not more than 50,000 yuan; where the circumstances are serious, order suspension of business for rectification or revoke its travel agency business licence; and, in respect of the persons directly in charge and the other persons directly responsible, impose a fine of not less than 2,000 yuan but not more than 20,000 yuan and temporarily withhold or revoke their tour guide certificates."
+        },
+        "noLabel": {
+          "en": "Article 99."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 100,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a travel agency commits any of the following acts, the competent tourism department shall order correction, impose a fine of not less than 30,000 yuan but not more than 300,000 yuan and order suspension of business for rectification; where serious consequences such as stranding of tourists are caused, revoke its travel agency business licence; and, in respect of the persons directly in charge and the other persons directly responsible, impose a fine of not less than 2,000 yuan but not more than 20,000 yuan and temporarily withhold or revoke their tour guide certificates:\n(a) altering the itinerary without authorisation during the tour, seriously harming the rights and interests of tourists;\n(b) refusing to perform the contract;\n(c) entrusting another travel agency with the performance of the package tour contract without the written consent of the tourists."
+        },
+        "noLabel": {
+          "en": "Article 100."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 101,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a travel agency arranges for tourists to visit or participate in projects or activities violating the laws and regulations of China or social ethics, the competent tourism department shall order correction, confiscate the illegal gains, order suspension of business for rectification and impose a fine of not less than 20,000 yuan but not more than 200,000 yuan; where the circumstances are serious, revoke its travel agency business licence; and, in respect of the persons directly in charge and the other persons directly responsible, impose a fine of not less than 2,000 yuan but not more than 20,000 yuan and temporarily withhold or revoke their tour guide certificates."
+        },
+        "noLabel": {
+          "en": "Article 101."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 102,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a person engages in tour guide or tour leader activities without a tour guide certificate or without meeting the conditions for a tour leader, the competent tourism department shall order correction, confiscate the illegal gains, impose a fine of not less than 1,000 yuan but not more than 10,000 yuan and make a public announcement.\nWhere, in violation of the provisions of this Law, a tour guide or tour leader undertakes business privately, the competent tourism department shall order correction, confiscate the illegal gains, impose a fine of not less than 1,000 yuan but not more than 10,000 yuan and temporarily withhold or revoke his or her tour guide certificate.\nWhere, in violation of the provisions of this Law, a tour guide or tour leader demands tips from tourists, the competent tourism department shall order refund, impose a fine of not less than 1,000 yuan but not more than 10,000 yuan and, where the circumstances are serious, temporarily withhold or revoke his or her tour guide certificate."
+        },
+        "noLabel": {
+          "en": "Article 102."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 103,
+        "text": {
+          "en": "A tour guide or tour leader whose tour guide certificate has been revoked in accordance with law for violation of the provisions of this Law, and the relevant management personnel of a travel agency subject to the penalty of revocation of its travel agency business licence, may not apply anew for a tour guide certificate or engage in travel agency business within 3 years from the date of the penalty."
+        },
+        "noLabel": {
+          "en": "Article 103."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 104,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a tourism operator gives or accepts bribes, the market supervision and administration department shall impose a penalty in accordance with the provisions of the relevant laws and regulations; where the circumstances are serious, the competent tourism department shall also revoke its travel agency business licence."
+        },
+        "noLabel": {
+          "en": "Article 104."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 105,
+        "text": {
+          "en": "Where a tourist attraction receives tourists without meeting the conditions for opening provided in this Law, the competent department for tourist attractions shall order suspension of business for rectification until the conditions for opening are met and impose a fine of not less than 20,000 yuan but not more than 200,000 yuan.\nWhere a tourist attraction, at a time when the number of tourists may reach the maximum carrying capacity, fails to make an announcement in accordance with the provisions of this Law or fails to report to the local people's government, fails to promptly take measures such as channelling and diverting tourists, or receives tourists in excess of the maximum carrying capacity, the competent department for tourist attractions shall order correction and, where the circumstances are serious, order suspension of business for rectification for not less than 1 month but not more than 6 months."
+        },
+        "noLabel": {
+          "en": "Article 105."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 106,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a tourist attraction raises the price of admission tickets or separately charged items without authorisation, or commits other unlawful pricing acts, the relevant competent department shall impose a penalty in accordance with the provisions of the relevant laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 106."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 107,
+        "text": {
+          "en": "Where a tourism operator violates the laws, regulations or national or industry standards on safety production management and fire safety management, the relevant competent department shall impose a penalty in accordance with the provisions of the relevant laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 107."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 108,
+        "text": {
+          "en": "In respect of tourism operators and their practitioners that violate the provisions of this Law, the competent tourism departments and the relevant departments shall record them in credit files and publish them to society."
+        },
+        "noLabel": {
+          "en": "Article 108."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 109,
+        "text": {
+          "en": "Where staff members of the competent tourism departments and the relevant departments abuse their powers, derelict their duties or engage in malpractice for personal gain in performing their duties of supervision and administration, and a crime is not yet constituted, a sanction shall be imposed in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 109."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 110,
+        "text": {
+          "en": "Where a violation of the provisions of this Law constitutes a crime, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 110."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 111,
+        "text": {
+          "en": "The terms used in this Law have the following meanings:\n(a) Tourism operator means a travel agency, a tourist attraction, and an operator providing tourists with services such as transport, accommodation, catering, shopping and entertainment.\n(b) Tourist attraction means a place or area that provides sightseeing services to tourists and has clearly defined management boundaries.\n(c) Package tour contract means a contract under which a travel agency arranges the itinerary in advance, provides or provides through performing assistants two or more tourism services such as transport, accommodation, catering, sightseeing and tour guide or tour leader services, and the tourist pays the tourism fees as a lump sum.\n(d) Organising agency means the travel agency that concludes the package tour contract with the tourist.\n(e) Local travel agency means a travel agency that, entrusted by the organising agency, receives tourists at the destination.\n(f) Performing assistant means a legal person or natural person that has a contractual relationship with a travel agency, assists it in performing its obligations under the package tour contract and actually provides the relevant services."
+        },
+        "noLabel": {
+          "en": "Article 111."
+        },
+        "chapter": {
+          "en": "Chapter X Supplementary Provisions"
+        }
+      },
+      {
+        "no": 112,
+        "text": {
+          "en": "This Law shall come into force on 1 October 2013."
+        },
+        "noLabel": {
+          "en": "Article 112."
+        },
+        "chapter": {
+          "en": "Chapter X Supplementary Provisions"
         }
       }
     ]
@@ -42807,6 +46707,1287 @@
         },
         "chapter": {
           "en": "Chapter VI Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0225'] = {
+    "lawId": "CN-LAW-0225",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 110 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is enacted in order to regulate acts relating to negotiable instruments, protect the lawful rights and interests of the parties in activities relating to negotiable instruments, maintain social and economic order and promote the development of the socialist market economy."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "This Law applies to activities relating to negotiable instruments within the territory of the People's Republic of China.\nNegotiable instruments referred to in this Law mean bills of exchange, promissory notes and cheques."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Activities relating to negotiable instruments shall comply with laws and administrative regulations and may not harm the public interest of society."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "In drawing a negotiable instrument, the drawer shall sign and seal the instrument in accordance with statutory requirements and shall bear liability on the instrument according to the matters recorded thereon.\nIn exercising rights on an instrument, the holder shall sign and seal the instrument in accordance with statutory procedure and present the instrument.\nOther debtors on an instrument who have signed and sealed it shall bear liability on the instrument according to the matters recorded thereon.\nRights on an instrument referred to in this Law mean the right of the holder to demand payment of the amount of the instrument from the debtor on the instrument, including the right to claim payment and the right of recourse.\nLiability on an instrument referred to in this Law means the obligation of the debtor on the instrument to pay the amount of the instrument to the holder."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The parties to an instrument may entrust their agents to sign and seal the instrument, and shall indicate the agency relationship on the instrument.\nWhere a person signs and seals an instrument in the name of an agent without the power of agency, the person signing and sealing shall bear liability on the instrument; where an agent exceeds the scope of the power of agency, he or she shall bear liability on the instrument in respect of the part exceeding that scope."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Where a person without capacity for civil conduct or a person with limited capacity for civil conduct signs and seals an instrument, the signature and seal shall be void, but this shall not affect the validity of other signatures and seals."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The signature and seal on an instrument shall be a signature, a seal, or a signature together with a seal.\nThe signature and seal on an instrument by a legal person or other unit using instruments shall be the seal of the legal person or unit together with the signature and seal of its legal representative or of its authorised agent.\nA signature on an instrument shall be the true name of the party concerned."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The amount of an instrument shall be recorded both in Chinese characters and in figures, and the two must be consistent; where they are inconsistent, the instrument shall be void."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The matters recorded on an instrument must conform to the provisions of this Law.\nThe amount, date and name of the payee on an instrument may not be altered; an altered instrument shall be void.\nOther matters recorded on an instrument may be altered by the original recorder, and the alteration shall be certified by the signature and seal of the original recorder."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The issue, acquisition and transfer of an instrument shall follow the principle of good faith and shall involve genuine transaction relations and relations of rights and obligations.\nThe acquisition of an instrument must be for consideration, that is, the corresponding consideration recognised by both parties to the instrument shall be given."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Where an instrument is acquired gratis in accordance with law by reason of taxation, inheritance or gift, the instrument is not subject to the restriction of giving consideration. However, the rights on the instrument enjoyed may not be superior to the rights of the prior party.\nPrior party means another debtor on the instrument who signed and sealed it before the person who signed and sealed the instrument or the holder."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "A person who acquires an instrument by means such as fraud, theft or coercion, or who acquires an instrument in bad faith while knowing of the foregoing circumstances, may not enjoy rights on the instrument.\nA holder who acquires an instrument not conforming to the provisions of this Law through gross negligence may also not enjoy rights on the instrument."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "A debtor on an instrument may not set up against the holder grounds of defence existing between himself or herself and the drawer or a prior party of the holder, except where the holder acquires the instrument while knowing of the existence of the grounds of defence.\nA debtor on an instrument may raise a defence against a holder who has a direct relationship of creditor's rights and debts with him or her and who fails to perform the agreed obligations.\nDefence referred to in this Law means the act of a debtor on an instrument refusing to perform obligations to the creditor on the instrument in accordance with the provisions of this Law."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The matters recorded on an instrument shall be true and may not be forged or altered. A person who forges or alters the signature and seal or other matters recorded on an instrument shall bear legal liability.\nWhere there is a forged or altered signature and seal on an instrument, this shall not affect the validity of other genuine signatures and seals on the instrument.\nWhere other matters recorded on an instrument are altered, the persons who signed and sealed before the alteration shall be responsible for the original matters recorded; the persons who signed and sealed after the alteration shall be responsible for the matters recorded after the alteration; where it cannot be determined whether a signature and seal was made before or after the alteration, it shall be deemed to have been made before the alteration."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where an instrument is lost, the person who lost it may promptly notify the payer of the instrument to stop payment by reporting the loss, except for instruments on which the payer is not recorded or the payer and its agent payer cannot be ascertained.\nA payer receiving a notice of stop payment by reporting the loss shall suspend payment.\nThe person who lost the instrument shall, within 3 days after notifying the stop payment by reporting the loss, or after the loss of the instrument, apply to a people's court in accordance with law for publicity and exhortation procedure, or institute an action before a people's court."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The holder's exercise of rights on an instrument against the debtor on the instrument, or the preservation of rights on an instrument, shall be carried out at the business premises of the party to the instrument and during business hours; where the party to the instrument has no business premises, it shall be carried out at his or her domicile."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Rights on an instrument shall be extinguished if not exercised within the following time limits:\n(a) the holder's rights against the drawer and acceptor of an instrument, 2 years from the date of maturity of the instrument; for a bill of exchange or promissory note payable on demand, 2 years from the date of issue;\n(b) the holder's rights against the drawer of a cheque, 6 months from the date of issue;\n(c) the holder's right of recourse against prior parties, 6 months from the date of refusal of acceptance or refusal of payment;\n(d) the holder's right of re-recourse against prior parties, 3 months from the date of satisfaction or the date of institution of the action.\nThe date of issue and date of maturity of an instrument shall be determined by the parties to the instrument in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where a holder loses rights on an instrument because the limitation period for rights on the instrument has expired or because the matters recorded on the instrument are incomplete, the holder shall still enjoy civil rights and may request the drawer or acceptor to return the benefit equivalent to the unpaid amount of the instrument."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "A bill of exchange is an instrument issued by the drawer that entrusts the payer to pay unconditionally a fixed sum to the payee or holder at sight or on a specified date.\nBills of exchange are divided into bank bills of exchange and commercial bills of exchange."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Section 1 Issue"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Issue means the act relating to negotiable instruments by which the drawer draws an instrument and delivers it to the payee."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Section 1 Issue"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The drawer of a bill of exchange must have a genuine relationship of entrusted payment with the payer and have a reliable source of funds for payment of the amount of the bill.\nNo bill of exchange may be issued without consideration for the purpose of defrauding a bank or other parties to the instrument of funds."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Section 1 Issue"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "A bill of exchange must record the following matters:\n(a) words indicating \"bill of exchange\";\n(b) an unconditional order to pay;\n(c) a fixed sum;\n(d) the name of the payer;\n(e) the name of the payee;\n(f) the date of issue;\n(g) the signature and seal of the drawer.\nWhere any of the matters provided in the preceding paragraph is not recorded on a bill of exchange, the bill shall be void."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Section 1 Issue"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where matters such as the date of payment, place of payment and place of issue are recorded on a bill of exchange, they shall be clear and definite.\nWhere the date of payment is not recorded on a bill of exchange, the bill shall be payable on demand.\nWhere the place of payment is not recorded on a bill of exchange, the business premises, domicile or habitual residence of the payer shall be the place of payment.\nWhere the place of issue is not recorded on a bill of exchange, the business premises, domicile or habitual residence of the drawer shall be the place of issue."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Section 1 Issue"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Matters of issue other than those provided in this Law may be recorded on a bill of exchange, but such recorded matters shall not have effect on the bill of exchange."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Section 1 Issue"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The date of payment may be recorded in one of the following forms:\n(a) payable on demand;\n(b) payable on a fixed date;\n(c) payable at a fixed period after the date of issue;\n(d) payable at a fixed period after sight.\nThe date of payment provided in the preceding paragraph shall be the date of maturity of the bill of exchange."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Section 1 Issue"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "After issuing a bill of exchange, the drawer shall bear liability for ensuring the acceptance and payment of the bill. Where the bill of exchange is not accepted or paid, the drawer shall satisfy the holder of the amounts and expenses provided in Article 70 and Article 71 of this Law."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Section 1 Issue"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The holder may transfer rights on a bill of exchange to others or authorise others to exercise certain rights on the bill of exchange.\nWhere the drawer records the words \"not transferable\" on a bill of exchange, the bill may not be transferred.\nWhere the holder exercises the rights provided in paragraph 1, he or she shall endorse and deliver the bill of exchange.\nEndorsement means the act relating to negotiable instruments by which the relevant matters are recorded and the instrument is signed and sealed on the back of the instrument or on an allonge."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Section 2 Endorsement"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Where the instrument form cannot accommodate the matters to be recorded by the endorser, an allonge may be attached to the instrument form.\nThe first person recording on an allonge shall sign and seal at the junction between the bill of exchange and the allonge."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Section 2 Endorsement"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "An endorsement shall be signed and sealed by the endorser and state the date of endorsement.\nWhere the date is not recorded in an endorsement, the endorsement shall be deemed to have been made before the maturity of the bill of exchange."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Section 2 Endorsement"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where a bill of exchange is transferred by endorsement, or where certain rights on a bill of exchange are authorised to others by endorsement, the name of the endorsee must be recorded."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Section 2 Endorsement"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "For a bill of exchange transferred by endorsement, the endorsements shall be continuous. The holder proves his or her rights on the bill of exchange by the continuity of the endorsements; where the bill of exchange is acquired by other lawful means and not by endorsement, the holder shall adduce evidence in accordance with law to prove his or her rights on the bill of exchange.\nContinuity of endorsements referred to in the preceding paragraph means that, in the transfer of the instrument, the signature and seal on the bill of exchange of the endorser transferring the bill and of the endorsee receiving the bill are consecutive in order."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Section 2 Endorsement"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "For a bill of exchange transferred by endorsement, the subsequent party shall be responsible for the authenticity of the endorsement of his or her immediate prior party.\nSubsequent party means another debtor on the instrument who signed and sealed it after the person who signed and sealed the instrument."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Section 2 Endorsement"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "An endorsement may not be conditional. Where an endorsement is conditional, the condition attached shall not have effect on the bill of exchange.\nAn endorsement transferring part of the amount of a bill of exchange, or an endorsement transferring the amount of a bill of exchange separately to two or more persons, shall be void."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Section 2 Endorsement"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Where an endorser records the words \"not transferable\" on a bill of exchange and a subsequent party transfers it by endorsement, the original endorser shall not bear liability of guarantee to the endorsee of the subsequent party."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Section 2 Endorsement"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Where an endorsement records the words \"for collection\", the endorsee shall have the right to exercise on behalf of the endorser the rights on the bill of exchange entrusted to him or her. However, the endorsee may not transfer the rights on the bill of exchange by further endorsement.\nA bill of exchange may be pledged; when pledged, the words \"pledge\" shall be recorded by endorsement. When the endorsee lawfully realises his or her pledge right, he or she may exercise the rights on the bill of exchange."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Section 2 Endorsement"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Where a bill of exchange has been refused acceptance or refused payment, or where the time limit for presentation for payment has expired, it may not be transferred by endorsement; where it is transferred by endorsement, the endorser shall bear liability on the bill of exchange."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Section 2 Endorsement"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "After an endorser transfers a bill of exchange by endorsement, he or she shall bear liability for ensuring the acceptance and payment of the bill held by his or her subsequent parties. Where the bill of exchange is not accepted or paid, the endorser shall satisfy the holder of the amounts and expenses provided in Article 70 and Article 71 of this Law."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Section 2 Endorsement"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Acceptance means the act relating to negotiable instruments by which the payer of a bill of exchange undertakes to pay the amount of the bill on the date of maturity."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Section 3 Acceptance"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "For a bill of exchange payable on a fixed date or at a fixed period after the date of issue, the holder shall present the bill to the payer for acceptance before the date of maturity.\nPresentation for acceptance means the act of the holder presenting the bill of exchange to the payer and requiring the payer to undertake to pay."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Section 3 Acceptance"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "For a bill of exchange payable at a fixed period after sight, the holder shall present the bill to the payer for acceptance within 1 month from the date of issue.\nWhere a bill of exchange is not presented for acceptance within the prescribed time limit, the holder shall lose the right of recourse against prior parties.\nA bill of exchange payable on demand need not be presented for acceptance."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Section 3 Acceptance"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "For a bill of exchange presented to the payer for acceptance, the payer shall accept or refuse acceptance within 3 days from the date of receipt of the bill presented for acceptance.\nWhen the payer receives a bill of exchange presented by the holder for acceptance, the payer shall issue to the holder a receipt for the bill of exchange received. The receipt shall record the date of presentation of the bill for acceptance and be signed and sealed."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Section 3 Acceptance"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where the payer accepts a bill of exchange, the payer shall record the words \"accepted\" and the date of acceptance on the face of the bill and sign and seal it; for a bill of exchange payable at a fixed period after sight, the date of payment shall be recorded at the time of acceptance.\nWhere the date of acceptance is not recorded on a bill of exchange, the last day of the time limit provided in paragraph 1 of the preceding Article shall be the date of acceptance."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Section 3 Acceptance"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "The payer's acceptance of a bill of exchange may not be conditional; where acceptance is conditional, it shall be deemed refusal of acceptance."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Section 3 Acceptance"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "After the payer accepts a bill of exchange, the payer shall bear liability for payment at maturity."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Section 3 Acceptance"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "The debts on a bill of exchange may be guaranteed by a guarantor assuming liability of guarantee.\nThe guarantor shall be a person other than a debtor on the bill of exchange."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Section 4 Guarantee"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "The guarantor must record the following matters on the bill of exchange or on an allonge:\n(a) words indicating \"guarantee\";\n(b) the name and domicile of the guarantor;\n(c) the name of the person guaranteed;\n(d) the date of guarantee;\n(e) the signature and seal of the guarantor."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Section 4 Guarantee"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where a guarantor fails to record item (c) of the preceding Article on the bill of exchange or on an allonge, the acceptor shall be the person guaranteed in the case of an accepted bill of exchange, and the drawer shall be the person guaranteed in the case of an unaccepted bill of exchange.\nWhere a guarantor fails to record item (d) of the preceding Article on the bill of exchange or on an allonge, the date of issue shall be the date of guarantee."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Section 4 Guarantee"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "A guarantee may not be conditional; where it is conditional, this shall not affect the liability of guarantee in respect of the bill of exchange."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Section 4 Guarantee"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "The guarantor shall bear liability of guarantee in respect of the rights on the bill of exchange enjoyed by a holder who has lawfully acquired the bill of exchange. However, this shall not apply where the debt of the person guaranteed is void because of incomplete matters recorded on the bill of exchange."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Section 4 Guarantee"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "For a guaranteed bill of exchange, the guarantor shall bear joint and several liability with the person guaranteed towards the holder. Where payment is not obtained at maturity of the bill, the holder shall have the right to demand payment from the guarantor, and the guarantor shall pay in full."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Section 4 Guarantee"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where there are two or more guarantors, the guarantors shall bear joint and several liability among themselves."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Section 4 Guarantee"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "After the guarantor satisfies the debt on the bill of exchange, he or she may exercise the holder's right of recourse against the person guaranteed and prior parties thereof."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Section 4 Guarantee"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "The holder shall present the bill for payment within the following time limits:\n(a) for a bill of exchange payable on demand, present it to the payer for payment within 1 month from the date of issue;\n(b) for a bill of exchange payable on a fixed date, at a fixed period after the date of issue or at a fixed period after sight, present it to the acceptor for payment within 10 days from the date of maturity.\nWhere the holder fails to present the bill for payment within the time limit provided in the preceding paragraph, the acceptor or payer shall still continue to bear liability for payment to the holder after an explanation is made.\nPresentation of a bill for payment to the payer through a collecting bank or through a bill exchange system shall be deemed presentation for payment by the holder."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Section 5 Payment"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where the holder presents the bill for payment in accordance with the provisions of the preceding Article, the payer must pay in full on the same day."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Section 5 Payment"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where the holder obtains payment, he or she shall sign for receipt on the bill of exchange and deliver the bill to the payer. Where the holder entrusts a bank with collection, the entrusted bank's transfer of the collected amount of the bill to the holder's account shall be deemed signing for receipt."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Section 5 Payment"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "The liability of the collecting bank entrusted by the holder shall be limited to transferring the amount of the bill to the holder's account in accordance with the matters recorded on the bill of exchange.\nThe liability of the paying bank entrusted by the payer shall be limited to paying the amount of the bill from the payer's account in accordance with the matters recorded on the bill of exchange."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Section 5 Payment"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "When the payer and its agent payer make payment, they shall examine the continuity of the endorsements on the bill of exchange and examine the lawful identity certificate or valid documents of the person presenting the bill for payment.\nWhere the payer and its agent payer make payment in bad faith or with gross negligence, they shall bear liability themselves."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Section 5 Payment"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "For a bill of exchange payable on a fixed date, at a fixed period after the date of issue or at a fixed period after sight, where the payer pays before maturity, the payer shall bear the liability arising therefrom itself."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Section 5 Payment"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where the amount of a bill of exchange is in foreign currency, it shall be paid in Renminbi at the market exchange rate on the date of payment.\nWhere the parties to the bill of exchange have otherwise agreed on the currency for payment of the bill, those provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Section 5 Payment"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "After the payer lawfully pays in full, the liability of all debtors on the bill of exchange shall be discharged."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Section 5 Payment"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where payment of a bill of exchange is refused at maturity, the holder may exercise the right of recourse against the endorsers, the drawer and other debtors on the bill of exchange.\nBefore the maturity of a bill of exchange, the holder may also exercise the right of recourse under any of the following circumstances:\n(a) acceptance of the bill of exchange is refused;\n(b) the acceptor or payer dies or absconds;\n(c) the acceptor or payer is declared bankrupt in accordance with law or is ordered to terminate business activities for violation of law."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Section 6 Right of Recourse"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "In exercising the right of recourse, the holder shall provide the relevant certification of refusal of acceptance or refusal of payment.\nWhere the holder's presentation for acceptance or presentation for payment is refused, the acceptor or payer must issue a certification of refusal or a statement of reasons for dishonour. Where no certification of refusal or statement of reasons for dishonour is issued, the acceptor or payer shall bear the civil liability arising therefrom."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Section 6 Right of Recourse"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Where the holder is unable to obtain a certification of refusal because the acceptor or payer dies, absconds or for other reasons, the holder may obtain other relevant certification in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Section 6 Right of Recourse"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Where an acceptor or payer is declared bankrupt by a people's court in accordance with law, the relevant judicial documents of the people's court shall have the effect of a certification of refusal.\nWhere an acceptor or payer is ordered to terminate business activities for violation of law, the penalty decision of the relevant competent administrative department shall have the effect of a certification of refusal."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Section 6 Right of Recourse"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Where the holder is unable to present a certification of refusal, a statement of reasons for dishonour, or other lawful certification within the prescribed time limit, the holder shall lose the right of recourse against prior parties. However, the acceptor or payer shall still bear liability to the holder."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Section 6 Right of Recourse"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "The holder shall, within 3 days from the date of receipt of the relevant certification of refusal of acceptance or refusal of payment, notify his or her prior party in writing of the grounds of refusal; the prior party shall, within 3 days from the date of receipt of the notice, notify his or her own prior party in writing. The holder may also simultaneously send written notices to all debtors on the bill of exchange.\nWhere notice is not given within the time limit provided in the preceding paragraph, the holder may still exercise the right of recourse. Where loss is caused to a prior party or to the drawer by the delay in notice, the party to the bill of exchange who failed to give notice within the prescribed time limit shall bear liability for compensation for that loss, provided that the amount of compensation shall be limited to the amount of the bill of exchange.\nWhere notice is mailed within the prescribed time limit to the statutory address or the agreed address, the notice shall be deemed to have been given."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Section 6 Right of Recourse"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "A written notice made in accordance with paragraph 1 of the preceding Article shall record the main matters recorded on the bill of exchange and state that the bill of exchange has been dishonoured."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Section 6 Right of Recourse"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "The drawer, endorsers, acceptor and guarantor of a bill of exchange shall bear joint and several liability towards the holder.\nThe holder may exercise the right of recourse against any one, several or all of the debtors on the bill of exchange, irrespective of the order of the debtors on the bill of exchange.\nWhere the holder has already exercised recourse against one or several of the debtors on the bill of exchange, the holder may still exercise the right of recourse against the other debtors on the bill of exchange. After the person against whom recourse is exercised satisfies the debt, that person shall enjoy the same rights as the holder."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Section 6 Right of Recourse"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "Where the holder is the drawer, the holder shall have no right of recourse against prior parties. Where the holder is an endorser, the holder shall have no right of recourse against subsequent parties."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Section 6 Right of Recourse"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "In exercising the right of recourse, the holder may request the person against whom recourse is exercised to pay the following amounts and expenses:\n(a) the amount of the bill of exchange payment of which has been refused;\n(b) interest on the amount of the bill of exchange, calculated at the interest rate prescribed by the People's Bank of China, from the date of maturity or the date of presentation for payment to the date of satisfaction;\n(c) the expenses of obtaining the relevant certification of refusal and of giving the notice.\nWhen the person against whom recourse is exercised satisfies the debt, the holder shall deliver the bill of exchange and the relevant certification of refusal and issue receipts for the interest and expenses received."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Section 6 Right of Recourse"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "After the person against whom recourse is exercised satisfies the debt in accordance with the provisions of the preceding Article, that person may exercise the right of re-recourse against other debtors on the bill of exchange and request them to pay the following amounts and expenses:\n(a) the total amount already satisfied;\n(b) interest on the amount in the preceding item, calculated at the interest rate prescribed by the People's Bank of China, from the date of satisfaction to the date of satisfaction under the re-recourse;\n(c) the expenses of giving the notice.\nWhen the person exercising the right of re-recourse obtains satisfaction, that person shall deliver the bill of exchange and the relevant certification of refusal and issue receipts for the interest and expenses received."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Section 6 Right of Recourse"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "After the person against whom recourse is exercised satisfies the debt in accordance with the provisions of the preceding two Articles, that person's liability shall be discharged."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Section 6 Right of Recourse"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "A promissory note is an instrument issued by the drawer that undertakes to pay unconditionally a fixed sum to the payee or holder at sight.\nPromissory notes referred to in this Law mean bank promissory notes."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter III Promissory Notes"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "The drawer of a promissory note must have a reliable source of funds for payment of the amount of the promissory note and shall guarantee payment."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter III Promissory Notes"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "A promissory note must record the following matters:\n(a) words indicating \"promissory note\";\n(b) an unconditional undertaking to pay;\n(c) a fixed sum;\n(d) the name of the payee;\n(e) the date of issue;\n(f) the signature and seal of the drawer.\nWhere any of the matters provided in the preceding paragraph is not recorded on a promissory note, the note shall be void."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter III Promissory Notes"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "Where matters such as the place of payment and place of issue are recorded on a promissory note, they shall be clear and definite.\nWhere the place of payment is not recorded on a promissory note, the business premises of the drawer shall be the place of payment.\nWhere the place of issue is not recorded on a promissory note, the business premises of the drawer shall be the place of issue."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter III Promissory Notes"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "The drawer of a promissory note must bear liability for payment when the holder presents the note for sight."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter III Promissory Notes"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "The maximum time limit for payment of a promissory note from the date of issue may not exceed 2 months."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Chapter III Promissory Notes"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "Where the holder of a promissory note fails to present the note for sight within the prescribed time limit, the holder shall lose the right of recourse against prior parties other than the drawer."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Chapter III Promissory Notes"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "Unless otherwise provided in this Chapter, the provisions of Chapter II of this Law on bills of exchange shall apply to the endorsement, guarantee, act of payment and exercise of the right of recourse in respect of promissory notes.\nUnless otherwise provided in this Chapter, the provisions of Article 24 of this Law on bills of exchange shall apply to the act of issuing promissory notes."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Chapter III Promissory Notes"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "A cheque is an instrument issued by the drawer that entrusts the bank or other financial institution handling cheque deposit business to pay unconditionally a fixed sum to the payee or holder at sight."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Chapter IV Cheques"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "To open a cheque deposit account, the applicant must use his or her true name and submit lawful documents certifying his or her identity.\nTo open a cheque deposit account and to obtain cheques, there shall be reliable credit standing and a certain amount of funds shall be deposited.\nTo open a cheque deposit account, the applicant shall leave specimen signatures in his or her true name and a specimen seal."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Chapter IV Cheques"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "A cheque may be used to withdraw cash or to make transfers; where used for transfers, this shall be indicated on the face of the cheque.\nFor cheques specially used for withdrawing cash, cash cheques may be made separately, and cash cheques may only be used for withdrawing cash.\nFor cheques specially used for transfers, transfer cheques may be made separately, and transfer cheques may only be used for transfers and may not be used for withdrawing cash."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Chapter IV Cheques"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "A cheque must record the following matters:\n(a) words indicating \"cheque\";\n(b) an unconditional order to pay;\n(c) a fixed sum;\n(d) the name of the payer;\n(e) the date of issue;\n(f) the signature and seal of the drawer.\nWhere any of the matters provided in the preceding paragraph is not recorded on a cheque, the cheque shall be void."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Chapter IV Cheques"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "The amount on a cheque may be filled in subsequently under the authorisation of the drawer; a cheque on which the amount has not been filled in may not be used."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        },
+        "chapter": {
+          "en": "Chapter IV Cheques"
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "Where the name of the payee is not recorded on a cheque, it may be filled in subsequently under the authorisation of the drawer.\nWhere the place of payment is not recorded on a cheque, the business premises of the payer shall be the place of payment.\nWhere the place of issue is not recorded on a cheque, the business premises, domicile or habitual residence of the drawer shall be the place of issue.\nThe drawer may record himself or herself as the payee on a cheque."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        },
+        "chapter": {
+          "en": "Chapter IV Cheques"
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "The amount of a cheque issued by the drawer may not exceed the amount of the deposit actually held with the payer at the time of payment.\nWhere the amount of a cheque issued by the drawer exceeds the amount of the deposit actually held with the payer at the time of payment, it shall be a dishonoured cheque. The issue of dishonoured cheques is prohibited."
+        },
+        "noLabel": {
+          "en": "Article 87."
+        },
+        "chapter": {
+          "en": "Chapter IV Cheques"
+        }
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "The drawer of a cheque may not issue a cheque whose signature or seal does not conform to the specimen signature or specimen seal in his or her true name left with the payer."
+        },
+        "noLabel": {
+          "en": "Article 88."
+        },
+        "chapter": {
+          "en": "Chapter IV Cheques"
+        }
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "The drawer must bear liability for guaranteeing payment to the holder in accordance with the amount of the cheque issued.\nWhere the drawer's deposit with the payer is sufficient to pay the amount of the cheque, the payer shall pay in full on the same day."
+        },
+        "noLabel": {
+          "en": "Article 89."
+        },
+        "chapter": {
+          "en": "Chapter IV Cheques"
+        }
+      },
+      {
+        "no": 90,
+        "text": {
+          "en": "A cheque shall be payable on demand only, and no separate date of payment may be recorded. Where a date of payment is separately recorded, that record shall be void."
+        },
+        "noLabel": {
+          "en": "Article 90."
+        },
+        "chapter": {
+          "en": "Chapter IV Cheques"
+        }
+      },
+      {
+        "no": 91,
+        "text": {
+          "en": "The holder of a cheque shall present it for payment within 10 days from the date of issue; for cheques used in places other than the place of issue, the time limit for presentation for payment shall be separately prescribed by the People's Bank of China.\nWhere the time limit for presentation for payment is exceeded, the payer may refuse payment; where the payer refuses payment, the drawer shall still bear liability on the instrument to the holder."
+        },
+        "noLabel": {
+          "en": "Article 91."
+        },
+        "chapter": {
+          "en": "Chapter IV Cheques"
+        }
+      },
+      {
+        "no": 92,
+        "text": {
+          "en": "Where the payer lawfully pays the amount of a cheque, it shall no longer bear liability for entrusted payment to the drawer, nor liability for payment to the holder. However, this shall not apply where the payer pays in bad faith or with gross negligence."
+        },
+        "noLabel": {
+          "en": "Article 92."
+        },
+        "chapter": {
+          "en": "Chapter IV Cheques"
+        }
+      },
+      {
+        "no": 93,
+        "text": {
+          "en": "Unless otherwise provided in this Chapter, the provisions of Chapter II of this Law on bills of exchange shall apply to the endorsement, act of payment and exercise of the right of recourse in respect of cheques.\nUnless otherwise provided in this Chapter, the provisions of Article 24 and Article 26 of this Law on bills of exchange shall apply to the act of issuing cheques."
+        },
+        "noLabel": {
+          "en": "Article 93."
+        },
+        "chapter": {
+          "en": "Chapter IV Cheques"
+        }
+      },
+      {
+        "no": 94,
+        "text": {
+          "en": "The law applicable to negotiable instruments involving foreign elements shall be determined in accordance with the provisions of this Chapter.\nNegotiable instruments involving foreign elements referred to in the preceding paragraph mean instruments in respect of which some of the acts such as issue, endorsement, acceptance, guarantee and payment occur within the territory of the People's Republic of China and some occur outside the territory of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 94."
+        },
+        "chapter": {
+          "en": "Chapter V Application of Law to Negotiable Instruments Involving Foreign Elements"
+        }
+      },
+      {
+        "no": 95,
+        "text": {
+          "en": "Where international treaties concluded or acceded to by the People's Republic of China contain provisions different from those of this Law, the provisions of the international treaties shall apply, except for clauses in respect of which the People's Republic of China has declared reservations.\nWhere neither this Law nor the international treaties concluded or acceded to by the People's Republic of China contain provisions, international practice may be applied."
+        },
+        "noLabel": {
+          "en": "Article 95."
+        },
+        "chapter": {
+          "en": "Chapter V Application of Law to Negotiable Instruments Involving Foreign Elements"
+        }
+      },
+      {
+        "no": 96,
+        "text": {
+          "en": "The capacity for civil conduct of a debtor on an instrument shall be governed by the law of his or her own country.\nWhere a debtor on an instrument is a person without capacity for civil conduct or a person with limited capacity for civil conduct according to the law of his or her own country, but is a person with full capacity for civil conduct according to the law of the place of the act, the law of the place of the act shall apply."
+        },
+        "noLabel": {
+          "en": "Article 96."
+        },
+        "chapter": {
+          "en": "Chapter V Application of Law to Negotiable Instruments Involving Foreign Elements"
+        }
+      },
+      {
+        "no": 97,
+        "text": {
+          "en": "The matters to be recorded at the time of issuing a bill of exchange or promissory note shall be governed by the law of the place of issue.\nThe matters to be recorded at the time of issuing a cheque shall be governed by the law of the place of issue; by agreement of the parties, the law of the place of payment may also apply."
+        },
+        "noLabel": {
+          "en": "Article 97."
+        },
+        "chapter": {
+          "en": "Chapter V Application of Law to Negotiable Instruments Involving Foreign Elements"
+        }
+      },
+      {
+        "no": 98,
+        "text": {
+          "en": "The acts of endorsement, acceptance, payment and guarantee of negotiable instruments shall be governed by the law of the place of the act."
+        },
+        "noLabel": {
+          "en": "Article 98."
+        },
+        "chapter": {
+          "en": "Chapter V Application of Law to Negotiable Instruments Involving Foreign Elements"
+        }
+      },
+      {
+        "no": 99,
+        "text": {
+          "en": "The time limit for exercising the right of recourse on a negotiable instrument shall be governed by the law of the place of issue."
+        },
+        "noLabel": {
+          "en": "Article 99."
+        },
+        "chapter": {
+          "en": "Chapter V Application of Law to Negotiable Instruments Involving Foreign Elements"
+        }
+      },
+      {
+        "no": 100,
+        "text": {
+          "en": "The time limit for presentation of a negotiable instrument, the method of the relevant certification of refusal and the time limit for issuing a certification of refusal shall be governed by the law of the place of payment."
+        },
+        "noLabel": {
+          "en": "Article 100."
+        },
+        "chapter": {
+          "en": "Chapter V Application of Law to Negotiable Instruments Involving Foreign Elements"
+        }
+      },
+      {
+        "no": 101,
+        "text": {
+          "en": "Where a negotiable instrument is lost, the procedure by which the person who lost it requests the preservation of rights on the instrument shall be governed by the law of the place of payment."
+        },
+        "noLabel": {
+          "en": "Article 101."
+        },
+        "chapter": {
+          "en": "Chapter V Application of Law to Negotiable Instruments Involving Foreign Elements"
+        }
+      },
+      {
+        "no": 102,
+        "text": {
+          "en": "Criminal liability shall be pursued in accordance with law for any of the following acts of fraud relating to negotiable instruments:\n(a) forging or altering a negotiable instrument;\n(b) intentionally using a forged or altered negotiable instrument;\n(c) issuing a dishonoured cheque, or intentionally issuing a cheque whose signature or seal does not conform to the specimen signature or specimen seal in the true name left with the payer, in order to defraud property;\n(d) issuing a bill of exchange or promissory note without a reliable source of funds in order to defraud funds;\n(e) the drawer of a bill of exchange or promissory note making false records at the time of issue in order to defraud property;\n(f) fraudulently using another person's negotiable instrument, or intentionally using an expired or void negotiable instrument, in order to defraud property;\n(g) the payer maliciously colluding with the drawer or holder to commit any of the acts listed in the preceding six items."
+        },
+        "noLabel": {
+          "en": "Article 102."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 103,
+        "text": {
+          "en": "Where any of the acts listed in the preceding Article is committed and the circumstances are minor and no crime is constituted, an administrative penalty shall be imposed in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 103."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 104,
+        "text": {
+          "en": "Where a staff member of a financial institution derelicts his or her duty in business relating to negotiable instruments and accepts, pays or guarantees an instrument in violation of the provisions of this Law, a sanction shall be imposed; where major loss is caused and a crime is constituted, criminal liability shall be pursued in accordance with law.\nWhere loss is caused to a party by the act provided in the preceding paragraph on the part of a staff member of a financial institution, the financial institution and the person directly responsible shall bear liability for compensation in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 104."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 105,
+        "text": {
+          "en": "Where the payer of a negotiable instrument intentionally holds back an instrument payable on demand or at maturity and delays payment, the financial administrative department shall impose a fine and impose a sanction on the persons directly responsible.\nWhere the payer of a negotiable instrument intentionally holds back the instrument and delays payment, causing loss to the holder, the payer shall bear liability for compensation in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 105."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 106,
+        "text": {
+          "en": "Acts other than those for which liability for compensation is borne in accordance with the provisions of this Law that violate the provisions of this Law and cause loss to others shall give rise to civil liability in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 106."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 107,
+        "text": {
+          "en": "The calculation of the various time limits provided in this Law shall be governed by the provisions of the General Principles of Civil Law on the calculation of periods.\nWhere a time limit is calculated by the month, it shall be calculated by the corresponding date of the month of expiry; where there is no corresponding date, the last day of the month shall be the date of expiry."
+        },
+        "noLabel": {
+          "en": "Article 107."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 108,
+        "text": {
+          "en": "The forms of bills of exchange, promissory notes and cheques shall be uniform.\nThe measures for the administration of the forms and printing of negotiable instrument forms shall be prescribed by the People's Bank of China."
+        },
+        "noLabel": {
+          "en": "Article 108."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 109,
+        "text": {
+          "en": "The specific implementation measures for the administration of negotiable instruments shall be formulated by the People's Bank of China in accordance with this Law and shall be implemented after approval by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 109."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 110,
+        "text": {
+          "en": "This Law shall come into force on 1 January 1996."
+        },
+        "noLabel": {
+          "en": "Article 110."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
         }
       }
     ]

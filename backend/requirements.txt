@@ -1,8 +1,12 @@
-﻿# CALR 后端依赖（Phase A）
+# CALR 后端依赖
+# Phase A：API 与 BM25
 fastapi>=0.110
 uvicorn[standard]>=0.27
 httpx>=0.27
-# Phase B 追加（暂未启用）：
-# numpy
-# sentence-transformers   # 本地 bge-m3
-# faiss-cpu
+# Phase B：向量检索（bge-m3 走 ONNX）
+# GPU（DirectML，Windows 上任何 DX12 显卡可用，无需装 CUDA）：
+onnxruntime-directml>=1.17 ; sys_platform == "win32"
+# 纯 CPU / Linux 服务器：
+onnxruntime>=1.17 ; sys_platform != "win32"
+tokenizers>=0.15
+numpy>=1.26

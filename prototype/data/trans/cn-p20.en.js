@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p20
-   法规 33 部 / 译文 1328 条
+   法规 43 部 / 译文 2108 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -809,6 +809,1716 @@
     ]
   };
 
+  TR['CN-REG-0582'] = {
+    "lawId": "CN-REG-0582",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 66 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the Administrative Reconsideration Law of the People's Republic of China (hereinafter referred to as the Administrative Reconsideration Law) for the purpose of further giving play to the role of the administrative reconsideration system in resolving administrative disputes, building a government under the rule of law and building a harmonious socialist society."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Administrative reconsideration organs at all levels shall conscientiously perform their duties of administrative reconsideration, lead and support the institutions responsible for legal affairs of the said organs (hereinafter referred to as administrative reconsideration bodies) in handling administrative reconsideration matters in accordance with the law, and shall, in accordance with the relevant provisions, allocate, supplement and redeploy full-time administrative reconsideration personnel so as to ensure that the case-handling capacity of the administrative reconsideration bodies is commensurate with their tasks."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "In addition to performing the duties specified in Article 3 of the Administrative Reconsideration Law, administrative reconsideration bodies shall also perform the following duties:\n(a) transmitting the relevant applications for administrative reconsideration in accordance with the provisions of Article 18 of the Administrative Reconsideration Law;\n(b) handling matters such as administrative compensation as provided in Article 29 of the Administrative Reconsideration Law;\n(c) urging, in accordance with their duties and powers, the acceptance of applications for administrative reconsideration and the implementation of administrative reconsideration decisions;\n(d) compiling statistics on administrative reconsideration cases and cases of responding to administrative litigation and handling the recording of major administrative reconsideration decisions;\n(e) handling, or organising the handling of, matters of responding to administrative litigation in respect of actions brought directly without prior administrative reconsideration;\n(f) studying the problems found in administrative reconsideration work, promptly putting forward suggestions for improvement to the relevant organs and promptly reporting major problems to the administrative reconsideration organ."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Full-time administrative reconsideration personnel shall possess the character, professional knowledge and professional competence commensurate with the performance of administrative reconsideration duties, and shall have obtained the corresponding qualifications. The specific measures shall be prescribed by the legislative affairs institution of the State Council together with the relevant departments of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Citizens, legal persons or other organisations that apply for administrative reconsideration in accordance with the provisions of the Administrative Reconsideration Law and these Regulations are applicants."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        },
+        "chapter": {
+          "en": "Section 1 Applicant"
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Where a partnership enterprise applies for administrative reconsideration, the enterprise as approved and registered shall be the applicant, and the partner executing the affairs of the partnership shall represent the enterprise in the administrative reconsideration; where any other partnership organisation applies for administrative reconsideration, the partners shall jointly apply for administrative reconsideration.\nWhere an organisation other than those specified in the preceding paragraph that does not have the status of a legal person applies for administrative reconsideration, the principal person in charge of the organisation shall represent the organisation in the administrative reconsideration; where there is no principal person in charge, another member jointly elected shall represent the organisation in the administrative reconsideration."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        },
+        "chapter": {
+          "en": "Section 1 Applicant"
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Where the shareholders' meeting, the shareholders' representative meeting or the board of directors of a joint-stock enterprise considers that a specific administrative act made by an administrative organ infringes the lawful rights and interests of the enterprise, it may apply for administrative reconsideration in the name of the enterprise."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Section 1 Applicant"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Where the applicants in the same administrative reconsideration case exceed five persons, one to five representatives shall be elected to participate in the administrative reconsideration."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Section 1 Applicant"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "During the period of administrative reconsideration, where the administrative reconsideration body considers that a citizen, legal person or other organisation other than the applicant has an interest in the specific administrative act under review, it may notify that party to participate in the administrative reconsideration as a third party.\nDuring the period of administrative reconsideration, where a citizen, legal person or other organisation other than the applicant has an interest in the specific administrative act under review, it may apply to the administrative reconsideration body to participate in the administrative reconsideration as a third party.\nThe non-participation of a third party in the administrative reconsideration shall not affect the review of the administrative reconsideration case."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Section 1 Applicant"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The applicant and third parties may entrust one or two agents to participate in the administrative reconsideration. Where the applicant or a third party entrusts an agent, it shall submit a power of attorney to the administrative reconsideration body. The power of attorney shall state the matters entrusted, the scope of authority and the time limit. Where a citizen is unable to entrust in writing under special circumstances, he may entrust orally. Where the entrustment is made orally, the administrative reconsideration body shall verify it and record it in the case file. Where the applicant or a third party rescinds or modifies the entrustment, it shall report the matter in writing to the administrative reconsideration body."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Section 1 Applicant"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Where a citizen, legal person or other organisation is dissatisfied with a specific administrative act of an administrative organ and applies for administrative reconsideration in accordance with the provisions of the Administrative Reconsideration Law and these Regulations, the administrative organ that made the specific administrative act shall be the respondent."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Section 2 Respondent"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Where an administrative organ and an organisation authorised by laws or regulations make a specific administrative act in their joint name, the administrative organ and the organisation authorised by laws or regulations shall be the joint respondents.\nWhere an administrative organ and another organisation make a specific administrative act in their joint name, the administrative organ shall be the respondent."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Section 2 Respondent"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where a lower-level administrative organ makes a specific administrative act upon approval by a higher-level administrative organ in accordance with the provisions of laws, regulations and rules, the approving organ shall be the respondent."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Section 2 Respondent"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Where a dispatched agency, an internal agency or another organisation established by an administrative organ makes a specific administrative act in its own name externally without authorisation by laws or regulations, the administrative organ shall be the respondent."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Section 2 Respondent"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The time limit for applying for administrative reconsideration as provided in the first paragraph of Article 9 of the Administrative Reconsideration Law shall be calculated in accordance with the following provisions:\n(a) where the specific administrative act is made on the spot, from the date on which the specific administrative act is made;\n(b) where the legal document stating the specific administrative act is served directly, from the date on which the person served signs for receipt;\n(c) where the legal document stating the specific administrative act is served by post, from the date on which the person served signs the postal receipt; where there is no postal receipt, from the date on which the person served signs the service receipt;\n(d) where the specific administrative act is, in accordance with the law, notified to the person served by way of public announcement, from the date of expiry of the period specified in the announcement;\n(e) where the administrative organ did not notify the citizen, legal person or other organisation at the time of making the specific administrative act and gives supplementary notification afterwards, from the date on which the citizen, legal person or other organisation receives the notice of supplementary notification given by the administrative organ;\n(f) where the respondent is able to prove that the citizen, legal person or other organisation knew of the specific administrative act, from the date on which the evidentiary materials prove that it knew of the specific administrative act.\nWhere an administrative organ has, in accordance with the law, been required to serve the legal document on the citizen, legal person or other organisation concerned when making a specific administrative act but has failed to do so, the citizen, legal person or other organisation shall be deemed not to know of the specific administrative act."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Section 3 Time Limit for Applying for Administrative Reconsideration"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where a citizen, legal person or other organisation applies, in accordance with the provisions of items (h), (i) and (j) of Article 6 of the Administrative Reconsideration Law, for an administrative organ to perform its statutory duties and the administrative organ fails to perform them, the time limit for applying for administrative reconsideration shall be calculated in accordance with the following provisions:\n(a) where a time limit for performance is prescribed, from the date of expiry of the time limit for performance;\n(b) where no time limit for performance is prescribed, from the date 60 days after the administrative organ receives the application.\nWhere, under urgent circumstances, a citizen, legal person or other organisation requests an administrative organ to perform its statutory duty of protecting the right of the person or property rights and the administrative organ fails to perform it, the time limit for applying for administrative reconsideration shall not be subject to the restriction of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Section 3 Time Limit for Applying for Administrative Reconsideration"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Where a specific administrative act made by an administrative organ may adversely affect the rights and obligations of a citizen, legal person or other organisation, the administrative organ shall inform it of its right to apply for administrative reconsideration, the administrative reconsideration organ and the time limit for applying for administrative reconsideration."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Section 3 Time Limit for Applying for Administrative Reconsideration"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where an applicant applies in writing for administrative reconsideration, it may submit the application by hand, by post, by facsimile or by other means.\nAdministrative reconsideration bodies that meet the necessary conditions may accept applications for administrative reconsideration submitted by electronic mail."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Section 4 Filing of Applications for Administrative Reconsideration"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Where an applicant applies in writing for administrative reconsideration, the following particulars shall be stated in the application for administrative reconsideration:\n(a) the basic information of the applicant, including: in the case of a citizen, his name, sex, age, identity card number, work unit, domicile and postal code; in the case of a legal person or other organisation, its name, domicile and postal code and the name and post of its legal representative or principal person in charge;\n(b) the name of the respondent;\n(c) the request for administrative reconsideration and the main facts and reasons for applying for administrative reconsideration;\n(d) the signature or seal of the applicant;\n(e) the date of application for administrative reconsideration."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Section 4 Filing of Applications for Administrative Reconsideration"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where an applicant applies orally for administrative reconsideration, the administrative reconsideration body shall, in accordance with the particulars specified in Article 19 of these Regulations, prepare on the spot a transcript of the application for administrative reconsideration, submit it to the applicant for verification or read it out to the applicant, and have it signed and confirmed by the applicant."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Section 4 Filing of Applications for Administrative Reconsideration"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Under any of the following circumstances, the applicant shall provide evidential materials:\n(a) where it considers that the respondent has failed to perform its statutory duties, providing evidential materials showing that it previously requested the respondent to perform the statutory duties and that the respondent failed to perform them;\n(b) where it simultaneously makes a claim for administrative compensation when applying for administrative reconsideration, providing evidential materials showing the damage caused by the specific administrative act;\n(c) other circumstances in which the applicant is required by laws or regulations to provide evidential materials."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Section 4 Filing of Applications for Administrative Reconsideration"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Where an applicant wrongly designates the respondent when filing an application for administrative reconsideration, the administrative reconsideration body shall inform the applicant to change the respondent."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Section 4 Filing of Applications for Administrative Reconsideration"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where an applicant is dissatisfied with a specific administrative act jointly made by two or more departments of the State Council, it may, in accordance with the provisions of Article 14 of the Administrative Reconsideration Law, file an application for administrative reconsideration with any one of those departments of the State Council, and the departments of the State Council that made the specific administrative act shall jointly make the administrative reconsideration decision."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Section 4 Filing of Applications for Administrative Reconsideration"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Where an applicant is dissatisfied with a specific administrative act made by a department that, upon approval by the State Council, applies vertical leadership below the provincial level, it may choose to apply to the people's government at the corresponding level or to the competent department at the next higher level for administrative reconsideration; where the province, autonomous region or municipality directly under the Central Government provides otherwise, the provisions of the province, autonomous region or municipality directly under the Central Government shall apply."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Section 4 Filing of Applications for Administrative Reconsideration"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Where an applicant applies for administrative reconsideration in accordance with the provisions of the second paragraph of Article 30 of the Administrative Reconsideration Law, it shall file the application for administrative reconsideration with the people's government of the province, autonomous region or municipality directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Section 4 Filing of Applications for Administrative Reconsideration"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "In accordance with the provisions of Article 7 of the Administrative Reconsideration Law, where an applicant considers that the provisions on which a specific administrative act is based are unlawful, it may, at the same time as applying for administrative reconsideration of the specific administrative act, also file an application for review of those provisions; where, at the time of filing the application for administrative reconsideration of the specific administrative act, the applicant did not yet know the provisions on which the specific administrative act is based, it may file an application for review of those provisions with the administrative reconsideration organ before the administrative reconsideration organ makes the administrative reconsideration decision."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Section 4 Filing of Applications for Administrative Reconsideration"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where a citizen, legal person or other organisation considers that a specific administrative act of an administrative organ infringes its lawful rights and interests and files an application for administrative reconsideration, the administrative reconsideration organ must accept the application, except where the conditions for application prescribed by the Administrative Reconsideration Law and these Regulations are not met."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Acceptance of Administrative Reconsideration"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "An application for administrative reconsideration that meets the following provisions shall be accepted:\n(a) there is a definite applicant and a respondent that conforms to the provisions;\n(b) the applicant has an interest in the specific administrative act;\n(c) there is a specific request for administrative reconsideration and specific reasons;\n(d) the application is filed within the statutory time limit for application;\n(e) the matter falls within the scope of administrative reconsideration provided by the Administrative Reconsideration Law;\n(f) the matter falls within the scope of duties of the administrative reconsideration body that receives the application for administrative reconsideration;\n(g) no other administrative reconsideration organ has yet accepted the same application for administrative reconsideration, and no people's court has yet accepted an administrative action brought by the same subject on the same facts."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Acceptance of Administrative Reconsideration"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Where the materials of an application for administrative reconsideration are incomplete or the statements are unclear, the administrative reconsideration body may, within five days from the date of receipt of the application, notify the applicant in writing to make supplementation and correction. The notice of supplementation and correction shall state the particulars requiring supplementation and correction and a reasonable time limit therefor. Where no supplementation or correction is made within the time limit without justified reasons, the applicant shall be deemed to have abandoned the application for administrative reconsideration. The time used for supplementing and correcting the application materials shall not be counted in the time limit for reviewing the administrative reconsideration."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Acceptance of Administrative Reconsideration"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where an applicant applies for administrative reconsideration on the same matter to two or more administrative organs with the authority to accept it, the administrative organ that first receives the application shall accept it; where the applications are received at the same time, the administrative organs receiving them shall determine the matter through consultation within ten days; where consultation fails, their common administrative organ at the next higher level shall designate the accepting organ within ten days. The time used for determining the accepting organ through consultation or designation shall not be counted in the time limit for reviewing the administrative reconsideration."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Acceptance of Administrative Reconsideration"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "In accordance with the provisions of Article 20 of the Administrative Reconsideration Law, where a higher-level administrative organ considers that the reasons for which an administrative reconsideration organ refuses to accept an application for administrative reconsideration do not hold, it may first urge the organ to accept it; where the organ still refuses to accept it after being urged, it shall order the organ to accept it within a specified time limit and, where necessary, may itself accept it directly; where it considers that the application does not meet the statutory conditions for acceptance, it shall inform the applicant."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Acceptance of Administrative Reconsideration"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Administrative reconsideration bodies shall be staffed by not less than two administrative reconsideration personnel in reviewing administrative reconsideration cases."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Administrative Reconsideration Decisions"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Where an administrative reconsideration body considers it necessary, it may conduct on-site investigation to verify evidence; for major or complex cases, where the applicant so requests or the administrative reconsideration body considers it necessary, the case may be reviewed by way of hearing."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Administrative Reconsideration Decisions"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "When administrative reconsideration personnel investigate and collect evidence from the relevant organisations and persons, they may consult, copy and obtain the relevant documents and materials and make inquiries of the relevant persons.\nWhen investigating and collecting evidence, there shall be not less than two administrative reconsideration personnel, who shall produce their certificates to the parties or the persons concerned. The units and persons under investigation shall cooperate with the administrative reconsideration personnel and may not refuse or obstruct them.\nWhere on-site inspection is required, the time used for the on-site inspection shall not be counted in the time limit for reviewing the administrative reconsideration."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Administrative Reconsideration Decisions"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Administrative reconsideration organs shall provide the necessary conditions for applicants and third parties to consult the relevant materials."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Administrative Reconsideration Decisions"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "In cases in which administrative reconsideration at the original level is applied for in accordance with the provisions of Article 14 of the Administrative Reconsideration Law, the department or institution that originally handled the matters relating to the specific administrative act shall submit a written reply and provide the evidence, basis and other relevant materials on which the specific administrative act was made."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Administrative Reconsideration Decisions"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Where specialised matters requiring appraisal arise during the period of administrative reconsideration, the parties may themselves entrust an appraisal institution with the appraisal, or may apply to the administrative reconsideration body to entrust an appraisal institution with the appraisal. The appraisal fees shall be borne by the parties. The time used for the appraisal shall not be counted in the time limit for reviewing the administrative reconsideration."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Administrative Reconsideration Decisions"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where an applicant voluntarily withdraws its application for administrative reconsideration before the administrative reconsideration decision is made, it may do so with the consent of the administrative reconsideration body.\nWhere an applicant withdraws its application for administrative reconsideration, it may not file another application for administrative reconsideration on the same facts and grounds, except where the applicant is able to prove that the withdrawal was contrary to its true intention."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Administrative Reconsideration Decisions"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where, during the period of administrative reconsideration, the respondent alters the original specific administrative act, the review of the administrative reconsideration case shall not be affected, except where the applicant withdraws its application for administrative reconsideration in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter IV Administrative Reconsideration Decisions"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where a citizen, legal person or other organisation applies for administrative reconsideration out of dissatisfaction with a specific administrative act made by an administrative organ in the exercise of the discretion conferred by laws or regulations, and the applicant and the respondent voluntarily reach a settlement before the administrative reconsideration decision is made, they shall submit a written settlement agreement to the administrative reconsideration body; where the content of the settlement does not harm the public interest of society or the lawful rights and interests of others, the administrative reconsideration body shall permit it."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter IV Administrative Reconsideration Decisions"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where any of the following circumstances arises during the period of administrative reconsideration and affects the review of the administrative reconsideration case, the administrative reconsideration shall be suspended:\n(a) the natural person who is the applicant dies and his close relatives have not yet determined whether to participate in the administrative reconsideration;\n(b) the natural person who is the applicant loses the capacity to participate in the administrative reconsideration and no legal agent has yet been determined to participate in the administrative reconsideration;\n(c) the legal person or other organisation that is the applicant terminates and the successor to its rights and obligations has not yet been determined;\n(d) the natural person who is the applicant is missing or has been declared missing;\n(e) the applicant or the respondent is unable to participate in the administrative reconsideration owing to force majeure;\n(f) the case involves a question of the application of law that requires interpretation or confirmation by an authority with the relevant power;\n(g) the review of the case needs to be based on the outcome of the review of another case, and that other case has not yet been concluded;\n(h) other circumstances requiring suspension of the administrative reconsideration.\nAfter the cause of suspension of the administrative reconsideration is eliminated, the review of the administrative reconsideration case shall be resumed in a timely manner.\nWhere an administrative reconsideration body suspends or resumes the review of an administrative reconsideration case, it shall notify the parties concerned."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IV Administrative Reconsideration Decisions"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where any of the following circumstances arises during the period of administrative reconsideration, the administrative reconsideration shall terminate:\n(a) the applicant requests withdrawal of the application for administrative reconsideration and the administrative reconsideration body permits the withdrawal;\n(b) the natural person who is the applicant dies, has no close relatives, or his close relatives waive the right to administrative reconsideration;\n(c) the legal person or other organisation that is the applicant terminates and the successor to its rights and obligations waives the right to administrative reconsideration;\n(d) the applicant and the respondent reach a settlement with the permission of the administrative reconsideration body in accordance with the provisions of Article 40 of these Regulations;\n(e) after the applicant, being dissatisfied with administrative detention or an administrative compulsory measure restricting personal freedom, applies for administrative reconsideration, the administrative detention or administrative compulsory measure restricting personal freedom is converted into criminal detention because the same illegal act of the applicant is suspected of a crime.\nWhere administrative reconsideration is suspended in accordance with the provisions of items (a), (b) and (c) of the first paragraph of Article 41 of these Regulations and the cause of suspension has still not been eliminated upon the expiry of 60 days, the administrative reconsideration shall terminate."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter IV Administrative Reconsideration Decisions"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "In accordance with the provisions of item (a) of the first paragraph of Article 28 of the Administrative Reconsideration Law, where the facts ascertained in the specific administrative act are clear, the evidence is conclusive, the basis applied is correct, the procedure is lawful and the content is appropriate, the administrative reconsideration organ shall decide to affirm the act."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter IV Administrative Reconsideration Decisions"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "In accordance with the provisions of item (b) of the first paragraph of Article 28 of the Administrative Reconsideration Law, where the respondent fails to perform its statutory duties, the administrative reconsideration organ shall decide that it perform its statutory duties within a specified time limit."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter IV Administrative Reconsideration Decisions"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where a specific administrative act falls under any of the circumstances specified in item (c) of the first paragraph of Article 28 of the Administrative Reconsideration Law, the administrative reconsideration organ shall decide to revoke or modify the specific administrative act, or to confirm that the specific administrative act is unlawful; where it decides to revoke the specific administrative act or to confirm that it is unlawful, it may order the respondent to make a new specific administrative act within a specified time limit."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter IV Administrative Reconsideration Decisions"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where the respondent fails to submit a written reply or to provide the evidence, basis and other relevant materials on which the specific administrative act was originally made in accordance with the provisions of Article 23 of the Administrative Reconsideration Law, the specific administrative act shall be deemed to have no evidence or basis, and the administrative reconsideration organ shall decide to revoke the specific administrative act."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter IV Administrative Reconsideration Decisions"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where a specific administrative act falls under any of the following circumstances, the administrative reconsideration organ may decide to modify it:\n(a) the facts ascertained are clear, the evidence is conclusive and the procedure is lawful, but the act is obviously inappropriate or the basis applied is erroneous;\n(b) the facts ascertained are unclear and the evidence is insufficient, but upon review by the administrative reconsideration organ the facts are found to be clear and the evidence conclusive."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter IV Administrative Reconsideration Decisions"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Under any of the following circumstances, the administrative reconsideration organ shall decide to reject the application for administrative reconsideration:\n(a) the applicant applies for administrative reconsideration on the ground that an administrative organ fails to perform its statutory duties and, after accepting the application, the administrative reconsideration organ finds that the administrative organ has no such statutory duty or had already performed the statutory duty before acceptance;\n(b) after accepting the application for administrative reconsideration, the administrative reconsideration organ finds that the application does not meet the conditions for acceptance prescribed by the Administrative Reconsideration Law and these Regulations.\nWhere a higher-level administrative organ considers that the reasons for which an administrative reconsideration organ rejects an application for administrative reconsideration do not hold, it shall order the organ to resume the review."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter IV Administrative Reconsideration Decisions"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where an administrative reconsideration organ orders the respondent to make a new specific administrative act in accordance with the provisions of Article 28 of the Administrative Reconsideration Law, the respondent shall make the new specific administrative act within the time limit prescribed by laws, regulations and rules; where laws, regulations and rules prescribe no time limit, the time limit for making the new specific administrative act shall be 60 days.\nWhere a citizen, legal person or other organisation is dissatisfied with the new specific administrative act made by the respondent, it may apply for administrative reconsideration or bring an administrative action in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter IV Administrative Reconsideration Decisions"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Under any of the following circumstances, the administrative reconsideration organ may conduct mediation in accordance with the principles of voluntariness and lawfulness:\n(a) a citizen, legal person or other organisation applies for administrative reconsideration out of dissatisfaction with a specific administrative act made by an administrative organ in the exercise of the discretion conferred by laws or regulations;\n(b) a dispute over administrative compensation or administrative indemnity between the parties.\nWhere the parties reach an agreement through mediation, the administrative reconsideration organ shall prepare a written administrative reconsideration mediation statement. The mediation statement shall state the request for administrative reconsideration, the facts, the reasons and the result of the mediation, and shall be sealed with the seal of the administrative reconsideration organ. The written administrative reconsideration mediation statement shall have legal effect once it is signed by both parties.\nWhere mediation fails to produce an agreement, or one party retracts before the mediation statement takes effect, the administrative reconsideration organ shall promptly make an administrative reconsideration decision."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter IV Administrative Reconsideration Decisions"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "An administrative reconsideration organ may not, within the scope of the applicant's request for administrative reconsideration, make an administrative reconsideration decision that is more unfavourable to the applicant."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter IV Administrative Reconsideration Decisions"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where a third party neither brings an action within the time limit nor performs the administrative reconsideration decision, the matter shall be handled in accordance with the provisions of Article 33 of the Administrative Reconsideration Law."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter IV Administrative Reconsideration Decisions"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Administrative reconsideration organs shall strengthen leadership over administrative reconsideration work.\nAdministrative reconsideration bodies shall, under the leadership of the administrative reconsideration organs at the corresponding level and in accordance with their duties and powers, urge and guide administrative reconsideration work."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter V Guidance and Supervision of Administrative Reconsideration"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "People's governments at or above the county level shall strengthen supervision over the performance of administrative reconsideration duties by the working departments subordinate to them and by the people's governments at lower levels.\nAdministrative reconsideration organs shall strengthen supervision over the performance of administrative reconsideration duties by their administrative reconsideration bodies."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter V Guidance and Supervision of Administrative Reconsideration"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Local people's governments at or above the county level shall establish and improve a responsibility system for administrative reconsideration work and incorporate administrative reconsideration work into the target responsibility system of the government at the corresponding level."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter V Guidance and Supervision of Administrative Reconsideration"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Local people's governments at or above the county level shall, in accordance with their duties and powers, inspect the administrative reconsideration work of the working departments subordinate to them and of the people's governments at lower levels by such means as organising regular inspections and random checks, and shall promptly give feedback on the inspection results to the parties concerned."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter V Guidance and Supervision of Administrative Reconsideration"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where, during the period of administrative reconsideration, the administrative reconsideration organ finds that the respondent or another lower-level administrative organ has committed an unlawful administrative act in connection with the case or that follow-up work needs to be done properly, it may prepare a written opinion on administrative reconsideration. The organ concerned shall, within 60 days from the date of receipt of the written opinion on administrative reconsideration, notify the administrative reconsideration body of the correction of the unlawful administrative act or of the proper completion of the follow-up work.\nWhere, during the period of administrative reconsideration, the administrative reconsideration body finds problems of a general nature in the implementation of laws, regulations and rules, it may prepare a written suggestion on administrative reconsideration and put forward to the organ concerned suggestions for improving the system and improving administrative law enforcement."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter V Guidance and Supervision of Administrative Reconsideration"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "The administrative reconsideration bodies of people's governments at or above the county level shall periodically submit to the people's government at the corresponding level an analysis report on the state of administrative reconsideration work."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter V Guidance and Supervision of Administrative Reconsideration"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Lower-level administrative reconsideration organs shall promptly report major administrative reconsideration decisions to the higher-level administrative reconsideration organs for the record."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter V Guidance and Supervision of Administrative Reconsideration"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Administrative reconsideration bodies at all levels shall periodically organise professional training for administrative reconsideration personnel so as to improve their professional quality."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter V Guidance and Supervision of Administrative Reconsideration"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Administrative reconsideration organs at all levels shall periodically review their administrative reconsideration work and, in accordance with the relevant provisions, commend and reward units and individuals that have achieved notable results in administrative reconsideration work."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter V Guidance and Supervision of Administrative Reconsideration"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Where, within the specified time limit, a respondent fails to make a new specific administrative act as required by the administrative reconsideration decision, or makes a new specific administrative act in violation of the provisions, legal liability shall be pursued in accordance with the provisions of Article 37 of the Administrative Reconsideration Law."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Whoever refuses to allow or obstructs administrative reconsideration personnel in investigating and collecting evidence or in consulting, copying or obtaining the relevant documents and materials shall have the persons responsible given sanctions or public security penalties in accordance with the law; and where a crime is constituted, criminal liability shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Where an administrative reconsideration organ or administrative reconsideration body fails to perform the administrative reconsideration duties prescribed by the Administrative Reconsideration Law and these Regulations and still fails to correct the matter after being urged by an administrative organ with supervisory authority, the persons directly in charge and the other persons directly responsible shall be given the sanctions of warning, recording of a demerit or recording of a serious demerit in accordance with the law; where serious consequences are caused, they shall be given the sanctions of demotion, removal from office or dismissal in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Where an administrative organ or any of its staff violates the provisions of the Administrative Reconsideration Law and these Regulations, the administrative reconsideration body may put forward to the personnel and supervisory departments suggestions for sanctions against the persons responsible, or may directly transfer the materials on the facts of the violations by the persons concerned to the personnel and supervisory departments for handling; the personnel and supervisory departments receiving the transfer shall handle the matter in accordance with the law and notify the transferring administrative reconsideration body of the result of the handling."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "These Regulations shall come into force on 1 August 2007."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0583'] = {
+    "lawId": "CN-REG-0583",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 77 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the Law of the People's Republic of China on Administrative Reconsideration (hereinafter referred to as the Administrative Reconsideration Law)."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Administrative reconsideration organs shall conduct a comprehensive examination of the lawfulness and appropriateness of administrative acts, protect the lawful rights and interests of citizens, legal persons and other organisations, supervise and guarantee the exercise of functions and powers by administrative organs in accordance with law, promote the substantive resolution of administrative disputes, and facilitate the prevention and reduction of administrative disputes at their source."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Administrative reconsideration organs at all levels shall earnestly perform their duties of administrative reconsideration, lead and support their administrative reconsideration bodies in handling administrative reconsideration matters in accordance with law, and, in accordance with the relevant provisions, provide, augment and adjust full-time administrative reconsideration personnel so as to ensure that the case-handling capacity of the administrative reconsideration bodies is commensurate with their tasks."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Administrative reconsideration bodies shall, in accordance with the provisions of the Administrative Reconsideration Law and these Regulations, perform the following duties:\n(a) accepting applications for administrative reconsideration;\n(b) organising and carrying out mediation in administrative reconsideration;\n(c) hearing administrative reconsideration cases and drafting administrative reconsideration decisions;\n(d) handling the matters of incidental review prescribed in Article 56 and Article 57 of the Administrative Reconsideration Law;\n(e) handling matters such as administrative compensation prescribed in Article 72 of the Administrative Reconsideration Law;\n(f) guiding and supervising, in accordance with their duties and limits of authority, the administrative reconsideration bodies at lower levels in performing their duties of administrative reconsideration in accordance with law;\n(g) urging, in accordance with their duties and limits of authority, the respondent and other relevant administrative organs to implement the written administrative reconsideration decisions, written mediation agreements and written opinions in accordance with law;\n(h) handling the statistics of administrative reconsideration cases and the matters of copying administrative reconsideration decisions to the relevant parties;\n(i) studying the problems discovered in administrative reconsideration work, promptly putting forward proposals for improvement to the relevant organs, and promptly reporting major problems to the administrative reconsideration organ;\n(j) other matters prescribed by laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Administrative reconsideration personnel shall possess the political and professional quality and moral conduct appropriate to the performance of their duties of administrative reconsideration."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Administrative reconsideration organs shall strengthen mediation in administrative reconsideration, support and guarantee administrative reconsideration bodies in carrying out mediation in accordance with law, and the administrative organs concerned shall cooperate."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Administrative reconsideration organs shall strengthen the standardisation of administrative reconsideration work and enhance the level of standardisation of work processes, guarantees and other aspects of administrative reconsideration. The specific standards shall be formulated by the administrative reconsideration body of the State Council together with the relevant departments of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The administrative reconsideration body of the State Council shall, through a unified information platform for administrative reconsideration, provide facilities for citizens, legal persons or other organisations to apply for and participate in administrative reconsideration, and enhance the quality and effectiveness of administrative reconsideration work.\nWhere administrative reconsideration activities are conducted online through an information network platform, they shall have the same legal effect as offline administrative reconsideration activities."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The scope of administrative reconsideration prescribed in item 15 of Article 11 of the Administrative Reconsideration Law includes the following circumstances:\n(a) dissatisfaction with a decision of an administrative organ to include a party in the list of entities of serious dishonesty or with measures for punitive treatment of dishonesty;\n(b) dissatisfaction with a decision of an administrative department for education on an appeal against a school's decision to expel a student or to require withdrawal from school;\n(c) dissatisfaction with an act of a degree-conferring unit in not accepting an application for a degree, not conferring a degree or revoking a degree;\n(d) dissatisfaction with a decision of an administrative organ on the handling of irregular or unlawful acts of an examination candidate in the recruitment of civil servants or of staff administered with reference to the Civil Servants Law;\n(e) considering that other administrative acts of an administrative organ infringe their lawful rights and interests."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Section 1 Scope of Administrative Reconsideration"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The administrative agreements prescribed in item 13 of Article 11 of the Administrative Reconsideration Law include the following agreements:\n(a) agreements on government franchise operations;\n(b) agreements on compensation for the expropriation or requisition of land, housing and the like;\n(c) agreements on the lease and purchase and sale of government-invested indemnificatory housing;\n(d) agreements on medical security services;\n(e) other administrative agreements."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Section 1 Scope of Administrative Reconsideration"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Close relatives as mentioned in the Administrative Reconsideration Law and these Regulations include spouses, parents, children, siblings, paternal and maternal grandparents, grandchildren, and other relatives with a relationship of support or maintenance."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Section 2 Participants in Administrative Reconsideration"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Where an individual industrial and commercial household applies for administrative reconsideration, the operator registered on the business licence shall be the applicant.\nWhere a rural contracting operation household applies for administrative reconsideration, the applicant shall be the person recorded in the certificate of the right to contracted management of land or other certificates, the person who signed the contract, or the representative elected by all members of the rural contracting operation household."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Section 2 Participants in Administrative Reconsideration"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where a partnership enterprise applies for administrative reconsideration, the enterprise registered in accordance with law shall be the applicant, and the partner executing the affairs of the partnership shall represent the enterprise in the administrative reconsideration; where another partnership organisation applies for administrative reconsideration, all partners shall jointly apply for administrative reconsideration.\nWhere an other organisation without legal person status other than those prescribed in the preceding paragraph applies for administrative reconsideration, the principal person in charge of the organisation shall represent the organisation in the administrative reconsideration; where there is no principal person in charge, the representative elected jointly shall represent the organisation in the administrative reconsideration."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Section 2 Participants in Administrative Reconsideration"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Where the shareholders' meeting or the board of directors of a company considers that an administrative act of an administrative organ infringes the lawful rights and interests of the company, it may apply for administrative reconsideration in the name of the company."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Section 2 Participants in Administrative Reconsideration"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where a rural collective economic organisation, or a villagers' committee or villagers' group lawfully performing the functions of a rural collective economic organisation on its behalf, considers that an administrative act of an administrative organ infringes the lawful rights and interests of the rural collective economic organisation, it may apply for administrative reconsideration in its own name.\nWhere a rural collective economic organisation, or a villagers' committee or villagers' group lawfully performing the functions of a rural collective economic organisation on its behalf, does not apply for administrative reconsideration, more than half of the members of the rural collective economic organisation may apply for administrative reconsideration in the name of the rural collective economic organisation, the villagers' committee or the villagers' group."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Section 2 Participants in Administrative Reconsideration"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where the owners' committee considers that an administrative act of an administrative organ infringes the common interests of the owners, it may apply for administrative reconsideration in its own name.\nWhere the owners' committee does not apply for administrative reconsideration or no owners' committee has been established, the owners whose exclusive parts account for more than half of the total area of the building or more than half of the total number of households may apply for administrative reconsideration in their own names."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Section 2 Participants in Administrative Reconsideration"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Where there are more than 10 applicants in the same administrative reconsideration case, 2 to 5 representatives shall be elected to participate in the administrative reconsideration.\nTo elect representatives, the applicants shall submit to the administrative reconsideration organ a letter of election signed, sealed or fingerprinted by all applicants.\nWhere there are more than 10 third parties, representatives may be elected in accordance with the provisions of the preceding two paragraphs."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Section 2 Participants in Administrative Reconsideration"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Other agents as prescribed in the first paragraph of Article 17 of the Administrative Reconsideration Law include close relatives and staff members of the applicant or third party.\nThe respondent shall designate 1 or 2 staff members as agents to participate in the administrative reconsideration, and may not entrust only lawyers to act as agents."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Section 2 Participants in Administrative Reconsideration"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Where an applicant for administrative reconsideration who meets the conditions for legal aid applies for legal aid, it shall apply to the legal aid institution at the place where the administrative reconsideration body is located or at the place where the administrative dispute occurred."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Section 2 Participants in Administrative Reconsideration"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where an administrative organ and an organisation authorised by laws, regulations or rules make the same administrative act in their joint names, the administrative organ and the organisation authorised by laws, regulations or rules that jointly made the administrative act shall be the joint respondents.\nWhere an administrative organ and another organisation make the same administrative act in their joint names, the administrative organ shall be the respondent, and the other organisation may participate in the administrative reconsideration as a third party."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Section 2 Participants in Administrative Reconsideration"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where a dispatched body, internal body or other organisation established by an administrative organ makes an administrative act in its own name externally without authorisation by laws, regulations or rules, the administrative organ shall be the respondent."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Section 2 Participants in Administrative Reconsideration"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Where an organisation authorised by laws, regulations or rules makes an administrative act in accordance with the authorisation, the organisation shall be the respondent."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Section 2 Participants in Administrative Reconsideration"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The calculation of the time limit for applying for administrative reconsideration prescribed in the first paragraph of Article 20 of the Administrative Reconsideration Law shall be carried out in accordance with the following provisions:\n(a) where the administrative act is made on the spot, from the date on which the administrative act is made;\n(b) where the legal document stating the administrative act is served directly, from the date on which the person served signs for receipt or refuses to sign for receipt;\n(c) where the legal document stating the administrative act is served by post, from the date on which the person served signs the postal receipt; where there is no postal receipt, from the date on which the person served signs the receipt of service or the date recorded by the postal institution on which the person served signed for receipt;\n(d) where the legal document stating the administrative act is served by electronic means, from the date on which the legal document reaches the specific system designated by the person served, unless laws and administrative regulations provide otherwise;\n(e) where the administrative act is notified to the person served by way of public announcement in accordance with law, from the date of expiry of the period prescribed in the announcement;\n(f) where the administrative organ fails to inform the citizen, legal person or other organisation at the time of making the administrative act and supplements the notification afterwards, from the date on which the citizen, legal person or other organisation receives the notice of supplementary notification from the administrative organ.\nWhere the respondent is able to prove that the citizen, legal person or other organisation knew or ought to have known of the administrative act, the period shall be calculated from the date on which the evidentiary materials prove that it knew or ought to have known of the administrative act."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Section 3 Submission of Applications"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Where a citizen, legal person or other organisation applies, in accordance with the provisions of items 3, 11 and 12 of Article 11 of the Administrative Reconsideration Law, to an administrative organ for the performance of statutory duties and the administrative organ fails to perform them, the time limit for applying for administrative reconsideration shall be calculated in accordance with the following provisions:\n(a) where a time limit for performance is prescribed, from the date of expiry of the time limit for performance;\n(b) where no time limit for performance is prescribed, from the date on which 60 days have elapsed since the administrative organ received the application.\nWhere a citizen, legal person or other organisation requests an administrative organ in an emergency to perform its statutory duty of protecting personal rights and property rights and the administrative organ fails to perform it, the time limit for applying for administrative reconsideration shall not be subject to the restriction of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Section 3 Submission of Applications"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Where an administrative act made by an administrative organ may have an adverse effect on the rights and obligations of a citizen, legal person or other organisation, the administrative organ shall inform it of the right to apply for administrative reconsideration, the administrative reconsideration organ and the time limit for applying for administrative reconsideration."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Section 3 Submission of Applications"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Where an administrative organ fails, in accordance with the provisions of Article 23 of the Administrative Reconsideration Law, to inform a citizen, legal person or other organisation to first apply to the administrative reconsideration organ for administrative reconsideration, and the citizen, legal person or other organisation directly institutes administrative proceedings in a people's court without administrative reconsideration, the period from the date on which the citizen, legal person or other organisation institutes the administrative proceedings to the date on which the ruling of the people's court dismissing the action is served shall not be counted in the time limit for applying for administrative reconsideration."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Section 3 Submission of Applications"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where a citizen, legal person or other organisation applies for administrative reconsideration in writing, it shall state the following matters in the application, sign, seal or affix a fingerprint, and submit identity documents:\n(a) the basic circumstances of the applicant, including, for a citizen, the name, sex, identity card number, domicile, address for service and contact details, and, for a legal person or other organisation, the name, unified social credit code, domicile, address for service and contact details and the name and post of the legal representative or principal person in charge;\n(b) the name of the respondent;\n(c) the request for administrative reconsideration, and the main facts and reasons for applying for administrative reconsideration;\n(d) the date of application for administrative reconsideration.\nWhere the application for administrative reconsideration is made on behalf of the applicant by a legal agent or an entrusted agent, the basic circumstances of the legal agent or entrusted agent shall be stated in the application, and materials such as the identity document of the legal agent or entrusted agent and proof of the scope of authority of agency shall be submitted."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Section 3 Submission of Applications"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Where an applicant applies for administrative reconsideration through the Internet channel designated by the administrative reconsideration organ, the date on which the application materials reach the specific system shall be the date on which the administrative reconsideration organ receives the application for administrative reconsideration.\nWhere the application materials submitted by the applicant through the Internet channel meet the statutory requirements, the administrative reconsideration organ may not require the separate submission of paper materials."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Section 3 Submission of Applications"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Where an applicant names the wrong respondent when filing an application for administrative reconsideration, the administrative reconsideration body shall inform the applicant to change the respondent. Where the applicant does not agree to the change, or where the respondent named after the change still does not conform to the provisions, the administrative reconsideration organ shall decide not to accept the application and state the reasons."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Section 3 Submission of Applications"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "The failure of an administrative organ to perform its statutory duties as prescribed in item 3 of the first paragraph of Article 23 of the Administrative Reconsideration Law refers to the circumstance in which the applicant has applied to the administrative organ for the performance of the corresponding statutory duty and the administrative organ fails to accept the application within the statutory time limit, fails to reply after accepting it, or fails to perform the corresponding statutory duty, as prescribed in items 3, 11, 12 and 14 of Article 11 of the Administrative Reconsideration Law.\nWhere an administrative organ expressly replies that it will not accept the application, expressly refuses to perform, or incompletely performs, the circumstance shall not constitute failure to perform statutory duties as prescribed in item 3 of the first paragraph of Article 23 of the Administrative Reconsideration Law."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Section 3 Submission of Applications"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where a party is dissatisfied with an act of an administrative organ deciding, on the ground that the government information applied for falls under the circumstances prescribed in Article 14, Article 15 or Article 16 of the Regulations of the People's Republic of China on Open Government Information, not to disclose all or part of the information, it shall first apply to the administrative reconsideration organ for administrative reconsideration in accordance with the provisions of Article 23 of the Administrative Reconsideration Law, and where it is dissatisfied with the administrative reconsideration decision, it may thereafter institute administrative proceedings in a people's court in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Section 3 Submission of Applications"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Where a party is dissatisfied with an administrative act jointly made by two or more departments of the State Council, it may, in accordance with the provisions of Article 25 of the Administrative Reconsideration Law, apply to any one of those departments for administrative reconsideration, and the departments of the State Council that made the administrative act shall jointly make the administrative reconsideration decision.\nWhere a party is dissatisfied with an administrative act jointly made by an administrative organ under vertical leadership such as the customs, financial or foreign exchange administration organs, a tax organ or a state security organ together with another administrative organ, it may apply to any one of the administrative reconsideration organs with jurisdiction for administrative reconsideration, and the administrative reconsideration organs with jurisdiction shall jointly make the administrative reconsideration decision."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Section 4 Jurisdiction over Administrative Reconsideration"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Where a party is dissatisfied with an administrative act made in the name of an internal body established by an administrative organ upon authorisation by laws, regulations or rules, it shall apply to the administrative organ that established the body for administrative reconsideration; where that administrative organ does not have duties of administrative reconsideration, it shall apply to the administrative reconsideration organ with jurisdiction over that administrative organ for administrative reconsideration."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Section 4 Jurisdiction over Administrative Reconsideration"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Where a citizen, legal person or other organisation files an application for administrative reconsideration on the ground that an administrative act of an administrative organ infringes its lawful rights and interests, the administrative reconsideration organ must accept the application, unless it does not meet the conditions for acceptance prescribed by the Administrative Reconsideration Law and these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter III Acceptance of Administrative Reconsideration"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The circumstance that the applicant has an interest in the administrative act under administrative reconsideration as prescribed in item 2 of the first paragraph of Article 30 of the Administrative Reconsideration Law includes the following:\n(a) the administrative act involves the applicant's right of adjacency;\n(b) the administrative act affects the applicant's fair participation in competition;\n(c) the revocation or modification of the administrative act would infringe the lawful rights and interests of the applicant;\n(d) the applicant applies to an administrative organ with the duty to handle the matter for the investigation and punishment of unlawful acts in order to safeguard its own lawful rights and interests, and the administrative organ makes or fails to make a disposition;\n(e) other circumstances in which the applicant has an interest in the administrative act."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter III Acceptance of Administrative Reconsideration"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Where a citizen, legal person or other organisation applies for administrative reconsideration in respect of the following matters, the administrative reconsideration organ shall not accept the application:\n(a) acts of public security, state security, penalty enforcement and other organs in handling criminal cases and enforcing penalties;\n(b) acts of administrative guidance carried out by administrative organs;\n(c) procedural acts such as argumentation, requests for instructions and consultation carried out by administrative organs for the purpose of making administrative acts;\n(d) acts of supervision of law enforcement and urging the performance of duties by higher administrative organs in respect of lower administrative organs;\n(e) acts of registration, acceptance, assignment, referral, review and re-examination made by administrative organs in respect of petition matters."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter III Acceptance of Administrative Reconsideration"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Where an application for administrative reconsideration is in any of the following circumstances and the administrative reconsideration organ has already accepted it, it shall decide to reject the application:\n(a) the request for administrative reconsideration is manifestly lacking in factual and legal basis, and the applicant still insists on applying for administrative reconsideration after explanation;\n(b) the statutory duty or obligation of payment whose performance the applicant requests manifestly falls outside the scope of authority of the administrative organ;\n(c) the legal effect of the administrative act involved in the application for administrative reconsideration filed by the applicant has already been confirmed by a legally effective judgment or written mediation agreement of a people's court.\nWhere an applicant applies again for administrative reconsideration in respect of the same matter without new facts and reasons, the administrative reconsideration organ shall inform the applicant that the matter will no longer be handled and shall record the fact on file."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter III Acceptance of Administrative Reconsideration"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where an administrative organ that made a decision on an administrative penalty receives an application for administrative reconsideration submitted by the applicant in accordance with the provisions of Article 32 of the Administrative Reconsideration Law and considers that the decision on the administrative penalty is unlawful or inappropriate and needs to be corrected on its own initiative, it shall, within 5 working days from the date of receipt of the application, correct it in accordance with the statutory procedures by such means as revoking or modifying the decision on the administrative penalty, and shall inform the applicant and the administrative reconsideration organ of the relevant circumstances.\nWhere the applicant still insists on applying for administrative reconsideration against the original decision on the administrative penalty after the administrative organ has corrected the matter on its own initiative, the administrative organ shall inform the applicant to apply to the administrative reconsideration organ with jurisdiction for administrative reconsideration. The period from the date on which the applicant submits the application for administrative reconsideration to the administrative organ to the date on which the administrative organ informs the applicant of the relevant circumstances shall not be counted in the time limit for applying for administrative reconsideration."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter III Acceptance of Administrative Reconsideration"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "An administrative reconsideration organ hearing an administrative reconsideration case shall be composed of 2 or more administrative reconsideration personnel. Where the simplified procedure applies, the case may be heard by 1 administrative reconsideration officer."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where a higher administrative reconsideration organ considers that an administrative reconsideration case under the jurisdiction of a lower administrative reconsideration organ falls under any of the following circumstances, it may decide to hear the case at a higher level:\n(a) the case involves major public interests of society or has a major impact;\n(b) the case is of a new type and the facts are major, difficult and complex;\n(c) the case has significance for guiding the application of law;\n(d) other circumstances in which it is truly necessary to hear the case at a higher level.\nWhere a lower administrative reconsideration organ considers that an administrative reconsideration case under its own jurisdiction meets the circumstances prescribed in the preceding paragraph and needs to be heard by a higher administrative reconsideration organ, it may request the higher administrative reconsideration organ to decide, and the period during which the request for hearing at a higher level is pending shall not be counted in the time limit for handling the administrative reconsideration case.\nWhere a higher administrative reconsideration organ decides to hear the case at a higher level, it shall notify the lower administrative reconsideration organ to transfer the case materials within 5 working days and shall inform the parties in writing. The time limit for administrative reconsideration hearing shall be recalculated from the date on which the higher administrative reconsideration organ receives the case materials."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "When submitting a written reply, the respondent shall explain the relevant facts and reasons in respect of the lawfulness and appropriateness of the administrative act and the applicant's request for administrative reconsideration."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "For cases of administrative reconsideration at the original level applied for in accordance with the provisions of the second paragraph of Article 24 and item 1 of Article 25 of the Administrative Reconsideration Law, the department or body that originally handled the matters relating to the administrative act shall submit a written reply and submit the evidence, basis and other relevant materials for the administrative act."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where administrative reconsideration cases arise from the same administrative act or the same type of administrative act and any of the following circumstances applies, the administrative reconsideration organ may decide to conduct a consolidated hearing:\n(a) two or more administrative organs separately make administrative acts in respect of the same facts, and the citizens, legal persons or other organisations are dissatisfied and apply to the same administrative reconsideration organ for administrative reconsideration;\n(b) an administrative organ separately makes administrative acts in respect of the same facts against several citizens, legal persons or other organisations, and they are dissatisfied and separately apply to the same administrative reconsideration organ for administrative reconsideration;\n(c) during the period of administrative reconsideration, the respondent makes a new administrative act in respect of the applicant, and the applicant is dissatisfied and applies to the same administrative reconsideration organ for administrative reconsideration;\n(d) other circumstances in which the administrative reconsideration organ considers that a consolidated hearing may be conducted.\nFor cases for which a consolidated hearing is decided, the administrative reconsideration organ may make a consolidated administrative reconsideration decision."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where the administrative reconsideration body considers it necessary, it may question the parties and other relevant persons in person on the facts relating to the case."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Section 2 Evidence in Administrative Reconsideration"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where on-site inspection is required during the period of administrative reconsideration, the units and persons concerned shall cooperate, and the time used for on-site inspection shall not be counted in the time limit for administrative reconsideration hearing."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Section 2 Evidence in Administrative Reconsideration"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where appraisal of specialised matters is required during the period of administrative reconsideration, the parties may apply to the administrative reconsideration body to entrust an appraisal institution with the appraisal. Where the administrative reconsideration body agrees upon examination, it shall organise the parties to consult and determine an appraisal institution with the corresponding qualifications; where consultation fails, the administrative reconsideration body shall designate one. The appraisal fees shall be borne by the parties. The time used for appraisal shall not be counted in the time limit for administrative reconsideration hearing."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Section 2 Evidence in Administrative Reconsideration"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where the respondent has evidence proving that it lawfully required the applicant or third party to provide evidence in the administrative procedure, the applicant or third party failed to provide it without justified reasons, but provides it in the administrative reconsideration procedure, the administrative reconsideration organ shall not admit the evidence."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Section 2 Evidence in Administrative Reconsideration"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "The acknowledgement by the parties of the conditions for negotiation, the proposals and the like made in the course of mediation may not be used as evidence against them in the subsequent hearing of the administrative reconsideration case."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Section 2 Evidence in Administrative Reconsideration"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "The administrative reconsideration organ shall provide the necessary facilities for the applicant, the third party and their entrusted agents to consult and copy the relevant materials."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Section 2 Evidence in Administrative Reconsideration"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "The administrative reconsideration committee of a local people's government at or above the county level shall be composed jointly of the relevant departments of the people's government at the same level, experts and scholars and the like, and may have a chairman and vice-chairmen, who shall be held by the persons in charge of the people's government at the same level, of the administrative reconsideration body at the same level and the like.\nThe departments of the State Council may establish administrative reconsideration committees in light of the actual circumstances of administrative reconsideration work."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Section 3 Procedures for the Hearing of Administrative Reconsideration"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Administrative reconsideration committees shall perform the relevant duties by such means as convening plenary meetings of the administrative reconsideration committee and case consultation meetings."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Section 3 Procedures for the Hearing of Administrative Reconsideration"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "For an administrative reconsideration case submitted to the administrative reconsideration committee for consultation opinions, when the administrative reconsideration body submits the matter to the administrative reconsideration organ for issuance of the administrative reconsideration decision, it shall attach the consultation opinions of the administrative reconsideration committee and explain the adoption of those opinions; where it does not adopt the consultation opinions, it shall state the reasons."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Section 3 Procedures for the Hearing of Administrative Reconsideration"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where an applicant does not yet know the regulatory document on which an administrative act is based when filing an application for administrative reconsideration against the administrative act, it may, before the administrative reconsideration organ makes the administrative reconsideration decision, submit to the administrative reconsideration organ an application for incidental review of that regulatory document.\nThe time limits prescribed in Article 56 and Article 57 of the Administrative Reconsideration Law shall be calculated from the date on which the administrative reconsideration is suspended."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Section 3 Procedures for the Hearing of Administrative Reconsideration"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "The circumstance that the regulatory document or the relevant provisions of the basis prescribed in Article 59 of the Administrative Reconsideration Law exceed the limits of authority or violate a higher-level law includes the following:\n(a) exceeding the statutory functions and powers of the formulating organ or exceeding the scope of authorisation by laws, regulations or rules;\n(b) conflicting with the provisions of higher-level law such as laws, regulations and rules;\n(c) without the basis of laws, regulations or rules, unlawfully increasing the obligations of citizens, legal persons and other organisations or reducing their lawful rights and interests;\n(d) other circumstances violating the provisions of laws, regulations or rules."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Section 3 Procedures for the Hearing of Administrative Reconsideration"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "The circumstance that the content is inappropriate as prescribed in item 1 of the first paragraph of Article 63 of the Administrative Reconsideration Law includes the following:\n(a) departing from the purpose of administrative management;\n(b) exceeding the necessary limits;\n(c) treating parties in the same situation unequally;\n(d) other inappropriate circumstances."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter V Administrative Reconsideration Decisions"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "The failure to correctly apply the basis as prescribed in item 2 of the first paragraph of Article 63 of the Administrative Reconsideration Law includes the following:\n(a) erroneously applying specific provisions of the basis;\n(b) applying a basis of lower legal hierarchy where a basis of higher legal hierarchy should be applied;\n(c) applying general provisions where special provisions should be applied;\n(d) applying only part of the basis where several bases should be applied;\n(e) failing to specify the basis applied;\n(f) other circumstances of failure to correctly apply the basis."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter V Administrative Reconsideration Decisions"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "The circumstance that the basis applied is unlawful as prescribed in item 3 of the first paragraph of Article 64 of the Administrative Reconsideration Law includes the following:\n(a) the basis applied has not yet taken effect;\n(b) the basis applied exceeds the limits of authority of the formulating subject;\n(c) the basis applied violates the provisions of higher-level law;\n(d) other circumstances in which the basis applied is unlawful.\nWhere the basis applied to an administrative act is unlawful but there is a lawful basis that may be applied and the circumstances prescribed in Article 63 of the Administrative Reconsideration Law are met, the administrative reconsideration organ may make a decision to modify."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter V Administrative Reconsideration Decisions"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where an administrative reconsideration organ orders the respondent, in accordance with the provisions of the first paragraph of Article 64 of the Administrative Reconsideration Law, to make a new administrative act, the respondent shall make the new administrative act within the time limit prescribed by laws, regulations or rules; where laws, regulations or rules do not prescribe a time limit, the time limit for making the new administrative act shall be 60 days.\nWhere a citizen, legal person or other organisation is dissatisfied with the new administrative act made by the respondent, it may apply for administrative reconsideration or institute administrative proceedings in accordance with law.\nWhere an administrative organ, in violation of the provisions of the second paragraph of Article 64 of the Administrative Reconsideration Law, makes a new administrative act identical or basically identical to the original administrative act on the same facts and grounds, the administrative reconsideration organ shall decide to revoke the administrative act in whole or in part and order the respondent to make a new administrative act within a certain period."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter V Administrative Reconsideration Decisions"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "The minor procedural unlawfulness prescribed in item 2 of the first paragraph of Article 65 of the Administrative Reconsideration Law includes the following circumstances which do not have an actual impact on important procedural rights lawfully enjoyed by the applicant such as the right to state and the right to defend:\n(a) minor unlawfulness in the time limit for handling;\n(b) minor unlawfulness in procedures such as notification and service;\n(c) other circumstances of minor procedural unlawfulness."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter V Administrative Reconsideration Decisions"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "The major and manifest unlawfulness prescribed in Article 67 of the Administrative Reconsideration Law includes the following:\n(a) the subject implementing the administrative act does not have the qualification of an administrative subject;\n(b) an administrative act increasing obligations or reducing rights has no basis in laws, regulations or rules;\n(c) the content of the administrative act is objectively impossible to implement;\n(d) other circumstances of major and manifest unlawfulness."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter V Administrative Reconsideration Decisions"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where any of the following circumstances applies, the administrative reconsideration organ shall decide to reject the applicant's request for administrative reconsideration:\n(a) the applicant applies for confirmation that the administrative act is void, and after acceptance the administrative reconsideration organ finds that the administrative act does not fall under the circumstances of voidness, and upon explanation the applicant refuses to change the request for administrative reconsideration;\n(b) the applicant applies for administrative reconsideration on the ground that the respondent has failed to perform its statutory duties, and after acceptance the administrative reconsideration organ finds that the respondent is objectively unable to perform the statutory duties for justified reasons such as force majeure;\n(c) the administrative act under administrative reconsideration should be modified in accordance with law, but the modification would be more unfavourable to the applicant.\nThe circumstance in item 3 of the preceding paragraph shall be excepted where a third party makes a contrary request."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter V Administrative Reconsideration Decisions"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "When hearing a case of administrative reconsideration of an administrative agreement, the administrative reconsideration organ shall, in accordance with the circumstances prescribed in Article 71 of the Administrative Reconsideration Law, make the following decisions:\n(a) ordering the respondent to conclude the administrative agreement in accordance with law;\n(b) ordering the respondent to perform its obligations in accordance with law or as agreed in the administrative agreement;\n(c) revoking the administrative act of the respondent modifying or rescinding the administrative agreement, or confirming that the administrative act is unlawful;\n(d) revoking or rescinding the administrative agreement;\n(e) ordering the respondent to take remedial measures, compensate for losses or give reasonable compensation in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter V Administrative Reconsideration Decisions"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "When hearing a case of administrative reconsideration of administrative compensation, the administrative reconsideration organ shall, where compensation should be paid and the method of compensation can be determined, make an administrative reconsideration decision with clear content of compensation.\nWhere the amount of compensation determined in a decision on administrative compensation made by an administrative organ is truly erroneous, the administrative reconsideration organ may make a decision to modify it."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter V Administrative Reconsideration Decisions"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Where any of the following circumstances applies, the administrative reconsideration organ shall decide to reject the applicant's request for administrative compensation:\n(a) the damage asserted by the applicant has no factual basis;\n(b) there is no causal relationship between the damage asserted by the applicant and the unlawful administrative act;\n(c) the loss of the applicant has already been remedied through other channels such as administrative compensation;\n(d) the respondent has already eliminated the corresponding consequences of damage while correcting the original unlawful administrative act on its own initiative;\n(e) other circumstances in which the grounds for the applicant's request for administrative compensation cannot be sustained."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter V Administrative Reconsideration Decisions"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "After an administrative reconsideration organ makes an administrative reconsideration decision, where a citizen, legal person or other organisation other than the applicant applies for administrative reconsideration in respect of the same administrative act or the same type of administrative act and meets the conditions for acceptance, the administrative reconsideration organ may, after acceptance, directly make an administrative reconsideration decision in accordance with the content of the legally effective administrative reconsideration decision.\nThe same type of administrative act prescribed in the preceding paragraph refers to administrative acts separately made by the same administrative organ against several parties on the same facts."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter V Administrative Reconsideration Decisions"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Local people's governments at or above the county level shall establish and improve the responsibility system for administrative reconsideration work, support and guarantee administrative reconsideration bodies in performing their duties in accordance with law, and incorporate administrative reconsideration work into the target responsibility system of the people's government at the same level.\nThe administrative reconsideration bodies of local people's governments at or above the county level shall strengthen the statistical analysis of administrative reconsideration work and periodically submit work reports on administrative reconsideration to the people's government at the same level."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter VI Guidance and Supervision of Administrative Reconsideration"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Local people's governments at or above the county level shall, in accordance with their duties and limits of authority, inspect the administrative reconsideration work of people's governments at lower levels by such means as organising periodic examinations and random inspections, and shall promptly give feedback on the results of inspection. Major matters shall be promptly reported by way of request for instructions in accordance with the relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter VI Guidance and Supervision of Administrative Reconsideration"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "Administrative reconsideration organs shall take effective measures to support and guarantee administrative reconsideration personnel in performing their duties and handling cases in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter VI Guidance and Supervision of Administrative Reconsideration"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "Where, in the course of administrative reconsideration work, an administrative reconsideration body discovers problems of a general nature in the implementation of laws, regulations, rules and regulatory documents, it may prepare a written proposal on administrative reconsideration and put forward to the relevant organs proposals for improving systems and improving administrative law enforcement."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter VI Guidance and Supervision of Administrative Reconsideration"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "Administrative reconsideration bodies at all levels shall periodically provide political, theoretical and professional training to administrative reconsideration personnel so as to enhance their capacity and quality."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter VI Guidance and Supervision of Administrative Reconsideration"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "Where a respondent fails to make a new administrative act as required by the administrative reconsideration decision within the prescribed time limit, or makes a new administrative act in violation of the provisions, legal liability shall be pursued in accordance with the provisions of Article 83 of the Administrative Reconsideration Law."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "Where unlawful acts such as retaliation and framing, insult and defamation, violent infringement, threats and intimidation, or creating disturbances and harassment are committed against administrative reconsideration personnel or their close relatives, sanctions or public security administration penalties shall be imposed in accordance with law; where a crime is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "The integration and coordination between administrative reconsideration and supervisory supervision shall be strengthened, and the mechanisms for information sharing and referral of leads shall be improved."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "Where a citizen, legal person or other organisation is dissatisfied with an act of an administrative organ such as rejecting a trademark application or rejecting a patent application and applies for administrative reconsideration, it shall file a request for review in accordance with the relevant provisions of the Trademark Law of the People's Republic of China and the Patent Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "Where a citizen, legal person or other organisation is dissatisfied with an administrative act of a coast guard agency, it shall apply to the coast guard agency at the next higher level for administrative reconsideration in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "When hearing administrative reconsideration cases, administrative reconsideration organs shall refer to the guiding cases on administrative reconsideration published by the administrative reconsideration body of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "These Regulations shall come into force as of 1 July 2026."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-REG-0584'] = {
     "lawId": "CN-REG-0584",
     "sourceLang": "zh",
@@ -1044,6 +2754,2835 @@
         },
         "noLabel": {
           "en": "Article 25."
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0585'] = {
+    "lawId": "CN-REG-0585",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 66 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the Tobacco Monopoly Law of the People's Republic of China (hereinafter referred to as the Tobacco Monopoly Law)."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Tobacco monopoly means the system under which the State exercises monopolistic operation and unified administration over the production, sale and import and export of tobacco monopoly products."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Cut tobacco among tobacco monopoly products means commodities in shredded, powdered or granular form processed from tobacco leaf, redried tobacco leaf or tobacco sheet as raw materials."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The duties and the leadership system of the competent tobacco monopoly administrative departments of the State Council and of the provinces, autonomous regions and municipalities directly under the Central Government shall be governed by the provisions of Article 4 of the Tobacco Monopoly Law. In municipalities and counties where competent tobacco monopoly administrative departments are established, the municipal or county competent tobacco monopoly administrative departments shall be in charge of tobacco monopoly work within their respective administrative regions, under the dual leadership of the competent tobacco monopoly administrative department at the next higher level and of the people's government at the corresponding level, with the leadership of the competent tobacco monopoly administrative department at the next higher level predominating."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The State exercises control over the tar content of cigarettes and cigars and over the main additives used in cigarettes and cigars. Manufacturers of tobacco products may not use harmful additives or colourants in violation of the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Persons engaging in the production, wholesale and retail of tobacco monopoly products, as well as in the import and export of tobacco monopoly products and in the purchase and sale of foreign tobacco products, must apply for and obtain a tobacco monopoly licence in accordance with the provisions of the Tobacco Monopoly Law and these Regulations.\nTobacco monopoly licences are classified as follows:\n(a) tobacco monopoly production enterprise licence;\n(b) tobacco monopoly wholesale enterprise licence;\n(c) tobacco monopoly retail licence."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        },
+        "chapter": {
+          "en": "Chapter II Tobacco Monopoly Licences"
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "To obtain a tobacco monopoly production enterprise licence, the following conditions shall be met:\n(a) having funds commensurate with the production of tobacco monopoly products;\n(b) having the technical and equipment conditions required for the production of tobacco monopoly products;\n(c) conforming to the requirements of the industrial policy of the national tobacco industry;\n(d) other conditions prescribed by the competent tobacco monopoly administrative department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Tobacco Monopoly Licences"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "To obtain a tobacco monopoly wholesale enterprise licence, the following conditions shall be met:\n(a) having funds commensurate with engaging in the wholesale of tobacco products;\n(b) having fixed business premises and the necessary professional personnel;\n(c) conforming to the requirements for a rational distribution of tobacco monopoly wholesale enterprises;\n(d) other conditions prescribed by the competent tobacco monopoly administrative department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Tobacco Monopoly Licences"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "To obtain a tobacco monopoly retail licence, the following conditions shall be met:\n(a) having funds commensurate with engaging in the retail of tobacco products;\n(b) having fixed business premises;\n(c) conforming to the requirements for a rational distribution of retail outlets for tobacco products;\n(d) other conditions prescribed by the competent tobacco monopoly administrative department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Tobacco Monopoly Licences"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Competent tobacco monopoly administrative departments shall, in accordance with the provisions of the Tobacco Monopoly Law and these Regulations, issue and administer tobacco monopoly licences and transport permits for tobacco monopoly products."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Tobacco Monopoly Licences"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "An applicant for a tobacco monopoly production enterprise licence shall file an application with the competent tobacco monopoly administrative department of the province, autonomous region or municipality directly under the Central Government (hereinafter referred to as the provincial-level competent tobacco monopoly administrative department); the provincial-level competent tobacco monopoly administrative department shall examine the application and sign its opinions thereon, and submit it to the competent tobacco monopoly administrative department of the State Council for examination, approval and issuance of the licence."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Tobacco Monopoly Licences"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "An applicant for a tobacco monopoly wholesale enterprise licence to engage in business across provinces, autonomous regions and municipalities directly under the Central Government shall file an application with the provincial-level competent tobacco monopoly administrative department, which shall examine the application and sign its opinions thereon and submit it to the competent tobacco monopoly administrative department of the State Council for examination, approval and issuance of the licence.\nAn applicant for a tobacco monopoly wholesale enterprise licence to engage in business within a province, autonomous region or municipality directly under the Central Government shall file an application with the competent tobacco monopoly administrative department in the place where the enterprise is located, which shall examine the application and sign its opinions thereon and submit it to the provincial-level competent tobacco monopoly administrative department for examination, approval and issuance of the licence."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Tobacco Monopoly Licences"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Applications for tobacco monopoly retail licences shall be handled in accordance with the provisions of the Tobacco Monopoly Law."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Tobacco Monopoly Licences"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The authorities issuing tobacco monopoly licences may conduct regular or irregular inspections of the enterprises and individuals that have obtained tobacco monopoly licences. Where, upon inspection, the conditions prescribed by the Tobacco Monopoly Law and these Regulations are not met, the authority issuing the tobacco monopoly licence may order suspension of the tobacco monopoly business for rectification, up to disqualifying the party from engaging in the tobacco monopoly business.\nThe specific measures for the administration of tobacco monopoly licences shall be formulated by the competent tobacco monopoly administrative department of the State Council in accordance with the provisions of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Tobacco Monopoly Licences"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The competent tobacco monopoly administrative department of the State Council shall, in accordance with the requirements for a rational distribution, together with the people's governments of the relevant provinces, autonomous regions and municipalities directly under the Central Government and on the basis of the State plan, formulate a plan for tobacco leaf cultivation in accordance with the principles of improved varieties, regionalisation and standardisation."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Cultivation, Purchase and Allocation of Tobacco Leaf"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Tobacco leaf shall be purchased exclusively by tobacco companies or units entrusted by them in accordance with the law. Tobacco companies or units entrusted by them may, as needed, establish tobacco leaf purchasing stations (points) in areas where the State has issued tobacco leaf purchasing plans, in order to purchase tobacco leaf. The establishment of tobacco leaf purchasing stations (points) shall be subject to approval by the competent tobacco monopoly administrative department of the city divided into districts. Without approval, no unit or individual may purchase tobacco leaf."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Cultivation, Purchase and Allocation of Tobacco Leaf"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Local competent tobacco monopoly administrative departments shall organise the relevant departments at the same level and representatives of tobacco leaf producers to form tobacco leaf grading groups to coordinate the grading and assessment of tobacco leaf purchases."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Cultivation, Purchase and Allocation of Tobacco Leaf"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The plans for tobacco leaf for State reserves and for export, and the plans for the allocation of tobacco leaf, shall be issued by the planning department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Cultivation, Purchase and Allocation of Tobacco Leaf"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The establishment of a manufacturer of tobacco products shall be reported by the provincial-level competent tobacco monopoly administrative department to the competent tobacco monopoly administrative department of the State Council for approval, and the manufacturer shall obtain a tobacco monopoly production enterprise licence and be approved and registered by the administrative department for industry and commerce."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter IV Production of Tobacco Products"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Manufacturers of tobacco products must strictly implement the production plans issued by the State."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter IV Production of Tobacco Products"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The use of mouldy or rotten tobacco leaf in the production of cigarettes, cigars and cut tobacco is prohibited."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter IV Production of Tobacco Products"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Cigarettes, cigars and packaged cut tobacco shall use registered trademarks."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter IV Production of Tobacco Products"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "An enterprise that has obtained a tobacco monopoly wholesale enterprise licence shall engage in the wholesale of tobacco products within the business scope and geographical area specified in the licence.\nAn enterprise or individual that has obtained a tobacco monopoly retail licence shall purchase goods from the local tobacco monopoly wholesale enterprise and shall accept the supervision and administration of the authority issuing the tobacco monopoly licence."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter V Sale of Tobacco Products"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Where a unit or individual without a tobacco monopoly wholesale enterprise licence sells 50 or more cartons of cigarettes or cigars at one time, it shall be deemed to be engaging in the wholesale of tobacco products without a tobacco monopoly wholesale enterprise licence."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter V Sale of Tobacco Products"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "No unit or individual may sell tobacco products that are illegally produced."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter V Sale of Tobacco Products"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Tobacco monopoly production enterprises and tobacco monopoly wholesale enterprises may not supply tobacco products to units or individuals without a tobacco monopoly retail licence."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter V Sale of Tobacco Products"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Cigarettes and cigars sold within the territory of China shall be marked on the packets and cartons with the tar content grade and the Chinese words \"Smoking is harmful to health\"."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter V Sale of Tobacco Products"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The competent tobacco monopoly administrative department of the State Council may, when necessary, issue plans for the allocation of cigarettes and cigars among provinces, autonomous regions and municipalities directly under the Central Government in the light of market supply and demand."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter V Sale of Tobacco Products"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The sale of mouldy or deteriorated tobacco products is strictly prohibited. Mouldy or deteriorated tobacco products shall be destroyed under the supervision of the competent tobacco monopoly administrative department or the relevant administrative department."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter V Sale of Tobacco Products"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Tobacco products bearing counterfeit trademarks seized by the relevant departments in accordance with the law shall be handed over to the competent tobacco monopoly administrative department for public destruction in accordance with the relevant provisions of the State, and their sale by any means is prohibited."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter V Sale of Tobacco Products"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The identification and testing of tobacco products bearing counterfeit trademarks shall be carried out by the tobacco quality testing stations designated by the product quality supervision and administration department of the State Council and by the product quality supervision and administration departments of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter V Sale of Tobacco Products"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Transport permits for tobacco monopoly products shall be examined, approved and issued by the competent tobacco monopoly administrative departments at or above the provincial level or by institutions authorised by them. The measures for the administration of transport permits for tobacco monopoly products shall be formulated by the competent tobacco monopoly administrative department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter VI Transport of Tobacco Monopoly Products"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "For the transport across provinces, autonomous regions and municipalities directly under the Central Government of imported tobacco monopoly products, domestically produced special tobacco machinery, tow for cigarettes, filter rods and slit imported cigarette paper, the consignment or self-transport shall be handled on the strength of a transport permit for tobacco monopoly products issued by the competent tobacco monopoly administrative department of the State Council or by an institution authorised by it.\nFor the transport across provinces, autonomous regions and municipalities directly under the Central Government of other domestically produced tobacco monopoly products than special tobacco machinery, tow for cigarettes, filter rods and slit imported cigarette paper, the consignment or self-transport shall be handled on the strength of a transport permit for tobacco monopoly products issued by the competent tobacco monopoly administrative department of the State Council or by the provincial-level competent tobacco monopoly administrative department.\nFor the transport of tobacco monopoly products across cities and counties within a province, autonomous region or municipality directly under the Central Government, the consignment or self-transport shall be handled on the strength of a transport permit for tobacco monopoly products issued by the provincial-level competent tobacco monopoly administrative department or by an institution authorised by it.\nFor the transport of smuggled tobacco monopoly products confiscated in accordance with the law, the consignment or self-transport shall be handled on the strength of a transport permit for tobacco monopoly products issued by the competent tobacco monopoly administrative department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter VI Transport of Tobacco Monopoly Products"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Any of the following circumstances shall constitute transport of tobacco monopoly products without a transport permit for tobacco monopoly products:\n(a) transporting tobacco monopoly products in excess of the quantity or beyond the scope specified in the transport permit for tobacco monopoly products;\n(b) using an expired, altered or photocopied transport permit for tobacco monopoly products;\n(c) having no transport permit for tobacco monopoly products and being unable to provide valid proof of the local purchase of the tobacco monopoly products;\n(d) other acts of transporting tobacco monopoly products without a transport permit for tobacco monopoly products."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter VI Transport of Tobacco Monopoly Products"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "For the transport of customs-supervised tobacco products under customs transit, the transport formalities shall be completed in accordance with the provisions of the State on customs transit transport."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter VI Transport of Tobacco Monopoly Products"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Tobacco monopoly wholesale enterprises and manufacturers of tobacco products may purchase cigarette paper, filter rods, tow for cigarettes and special tobacco machinery only from enterprises that have obtained a tobacco monopoly production enterprise licence.\nManufacturers of cigarette paper, filter rods, tow for cigarettes and special tobacco machinery may not sell their products to units or individuals without a tobacco monopoly production enterprise licence."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter VII Cigarette Paper, Filter Rods, Tow for Cigarettes and Special Tobacco Machinery"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The purchase, sale and transfer of special tobacco machinery must be approved by the competent tobacco monopoly administrative department of the State Council.\nThe catalogue of special tobacco machinery shall be prescribed by the competent tobacco monopoly administrative department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter VII Cigarette Paper, Filter Rods, Tow for Cigarettes and Special Tobacco Machinery"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "No unit or individual may sell illegally produced special tobacco machinery, cigarette paper, filter rods or tow for cigarettes.\nSpecial tobacco machinery that is obsolete and scrapped or illegally assembled, and defective cigarette paper, filter rods, tow for cigarettes and offcuts, shall be dealt with under the supervision of the local competent tobacco monopoly administrative department and may not be sold by any means."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter VII Cigarette Paper, Filter Rods, Tow for Cigarettes and Special Tobacco Machinery"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The establishment of a tobacco monopoly production enterprise with foreign investment shall be reported to the competent tobacco monopoly administrative department of the State Council for examination and consent before the project may be approved in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter VIII Import and Export Trade and Foreign Economic and Technical Cooperation"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Plans for the import of tobacco monopoly products shall be submitted to the competent tobacco monopoly administrative department of the State Council for examination and approval."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter VIII Import and Export Trade and Foreign Economic and Technical Cooperation"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Tobacco products imported free of duty shall be stored in bonded warehouses designated by the customs and shall be kept under the joint locking and administration of the local competent tobacco monopoly administrative department designated by the competent tobacco monopoly administrative department of the State Council and of the customs. The customs shall, on the strength of the duty-free import plan approved by the competent tobacco monopoly administrative department of the State Council, write off in batches the quantity of foreign tobacco products imported free of duty."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter VIII Import and Export Trade and Foreign Economic and Technical Cooperation"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The sale of duty-free cigarettes and cigars within the customs-supervised area may only be by retail, and the packets and cartons of the cigarettes and cigars shall be marked with the special mark prescribed by the competent tobacco monopoly administrative department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VIII Import and Export Trade and Foreign Economic and Technical Cooperation"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Cigarettes and cigars exclusively for export shall be marked on the packets and cartons with the Chinese words \"For Export Only\"."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VIII Import and Export Trade and Foreign Economic and Technical Cooperation"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Competent tobacco monopoly administrative departments shall, in accordance with the law, supervise and inspect the implementation of the Tobacco Monopoly Law and these Regulations, investigate and deal with cases in violation of the Tobacco Monopoly Law and these Regulations, and, together with the relevant departments of the State, investigate and deal with the smuggling and illicit trading of tobacco monopoly products and the counterfeiting and production of inferior tobacco monopoly products."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter IX Supervision and Inspection"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "The competent tobacco monopoly administrative department of the State Council may, when necessary, establish dispatched agencies in key areas in the light of the actual situation of tobacco monopoly work; provincial-level competent tobacco monopoly administrative departments may, when necessary, station personnel in enterprises producing or dealing in tobacco monopoly products. Dispatched agencies and stationed personnel shall supervise and inspect the production and dealing activities of tobacco monopoly products within the scope of authorisation of the dispatching departments."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter IX Supervision and Inspection"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "In investigating and dealing with cases in violation of the Tobacco Monopoly Law and these Regulations, competent tobacco monopoly administrative departments may exercise the following powers:\n(a) questioning the parties, suspects and witnesses in the case of the violation;\n(b) inspecting the business premises of the parties to the case of the violation and dealing with the illegally produced or dealt-in tobacco monopoly products in accordance with the law;\n(c) consulting and copying contracts, invoices, account books, vouchers, records, documents, business correspondence and other materials related to the illegal activities."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter IX Supervision and Inspection"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Competent tobacco monopoly administrative departments, or competent tobacco monopoly administrative departments together with the relevant departments, may inspect and deal with activities of illegally transporting tobacco monopoly products in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter IX Supervision and Inspection"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where tobacco monopoly products confiscated by people's courts and administrative organs in accordance with the law, and tobacco monopoly products used to offset fines, penalties and taxes, are auctioned in accordance with the relevant provisions of the State, the bidders shall hold a tobacco monopoly wholesale enterprise licence.\nAuction enterprises established in accordance with the law that auction tobacco monopoly products shall verify the qualifications of the bidders. Auction enterprises auctioning tobacco monopoly products shall accept the supervision of the competent tobacco monopoly administrative departments."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter IX Supervision and Inspection"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "When performing their official duties, the monopoly administration inspectors of competent tobacco monopoly administrative departments shall wear the badges made and issued by the competent tobacco monopoly administrative department of the State Council and produce the inspection certificates issued by the competent tobacco monopoly administrative departments at or above the provincial level."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter IX Supervision and Inspection"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Units and individuals that merit recognition for reporting cases of violation of the tobacco monopoly law shall be rewarded."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter IX Supervision and Inspection"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Penalties imposed in accordance with the provisions of Article 28 of the Tobacco Monopoly Law shall be executed in accordance with the following provisions:\n(a) where tobacco leaf is purchased without authorisation, a fine of not less than 20 per cent but not more than 50 per cent of the value of the illegally purchased tobacco leaf may be imposed, and the illegally purchased tobacco leaf shall be purchased at 70 per cent of the average purchasing price of tobacco leaf of the previous year issued by the provincial-level competent tobacco monopoly administrative department of the place of seizure;\n(b) where 1,000 kilogrammes or more of tobacco leaf is purchased without authorisation, the illegally purchased tobacco leaf and the illegal gains shall be confiscated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Penalties imposed in accordance with the provisions of Article 29 of the Tobacco Monopoly Law shall be executed in accordance with the following provisions:\n(a) where tobacco monopoly products are consigned or transported by oneself without a transport permit or in excess of the quantity specified in the transport permit, a fine of not less than 20 per cent but not more than 50 per cent of the value of the illegally transported tobacco monopoly products shall be imposed, and the illegally transported tobacco leaf may be purchased at 70 per cent of the average purchasing price of tobacco leaf of the previous year issued by the provincial-level competent tobacco monopoly administrative department of the place of seizure, and other illegally transported tobacco monopoly products than tobacco leaf may be purchased at 70 per cent of the market wholesale price.\n(b) where any of the following circumstances exists, the illegally transported tobacco monopoly products and the illegal gains shall be confiscated:\n(i) the value of the illegally transported tobacco monopoly products exceeds RMB 50,000, or the quantity of cigarettes transported exceeds 100 cases (each case being 10,000 cigarettes);\n(ii) the party has been penalised by a competent tobacco monopoly administrative department two or more times;\n(iii) the party resists inspection lawfully conducted by the supervisory and inspection personnel of a competent tobacco monopoly administrative department;\n(iv) smuggled tobacco monopoly products are illegally transported;\n(v) tobacco monopoly products produced by an enterprise without a tobacco monopoly production enterprise licence are transported;\n(vi) camouflage is used to transport tobacco monopoly products illegally;\n(vii) special vehicles are used to transport tobacco monopoly products in order to evade inspection;\n(viii) other illegal transport acts under serious circumstances.\n(c) where a carrier, knowing the goods to be tobacco monopoly products, transports them for a unit or individual without a transport permit, the illegal gains shall be confiscated and a fine of not less than 10 per cent but not more than 20 per cent of the value of the illegally transported tobacco monopoly products may be imposed concurrently.\n(d) where tobacco leaf or tobacco products are sent by post or carried to another place in a quantity exceeding by one time or more the quota prescribed by the relevant departments of the State Council, the penalty shall be imposed in accordance with the provisions of item (a) of this Article."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Penalties imposed in accordance with the provisions of Article 30 of the Tobacco Monopoly Law shall be executed in accordance with the following provisions:\n(a) where tobacco products are produced without a tobacco monopoly production enterprise licence, the competent tobacco monopoly administrative department shall order closure, confiscate the illegal gains, impose a fine of not less than one time but not more than two times the value of the tobacco products produced, and publicly destroy the illegally produced tobacco products;\n(b) where cigarette paper, filter rods, tow for cigarettes or special tobacco machinery are produced without a tobacco monopoly production enterprise licence, the competent tobacco monopoly administrative department shall order cessation of production, confiscate the illegal gains, impose a fine of not less than one time but not more than two times the value of the illegally produced tobacco monopoly products, and publicly destroy the illegally produced tobacco monopoly products."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "In accordance with the provisions of Article 31 of the Tobacco Monopoly Law, where the wholesale of tobacco products is engaged in without a tobacco monopoly wholesale enterprise licence, the competent tobacco monopoly administrative department shall order closure or cessation of the wholesale of tobacco products, confiscate the illegal gains, and impose a fine of not less than 50 per cent but not more than one time the value of the illegally wholesaled tobacco products."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where a unit holding a tobacco monopoly wholesale enterprise licence, in violation of the provisions of the first paragraph of Article 23 of these Regulations, engages in the wholesale of tobacco products beyond the scope of business and the geographical area, the competent tobacco monopoly administrative department shall order suspension of the wholesale business, confiscate the illegal gains, and impose a fine of not less than 10 per cent but not more than 20 per cent of the value of the illegally dealt-in tobacco products."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where an enterprise or individual holding a tobacco monopoly retail licence, in violation of the provisions of the second paragraph of Article 23 of these Regulations, fails to purchase goods from the local tobacco monopoly wholesale enterprise, the competent tobacco monopoly administrative department shall confiscate the illegal gains and may impose a fine of not less than 5 per cent but not more than 10 per cent of the total amount of the purchases."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where the retail of tobacco products is engaged in without a tobacco monopoly retail licence, the administrative department for industry and commerce, or the administrative department for industry and commerce on the basis of the opinions of the competent tobacco monopoly administrative department, shall order cessation of the retail of tobacco products, confiscate the illegal gains and impose a fine of not less than 20 per cent but not more than 50 per cent of the total amount of the illegal business."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where, in violation of the provisions of Article 25 or of the first paragraph of Article 38 of these Regulations, illegally produced tobacco monopoly products are sold, the competent tobacco monopoly administrative department shall order cessation of sale, confiscate the illegal gains, impose a fine of not less than 20 per cent but not more than 50 per cent of the total amount of the illegal sales, and publicly destroy the illegally sold tobacco monopoly products."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a party without a tobacco monopoly wholesale enterprise licence issued by the competent tobacco monopoly administrative department of the State Council engages without authorisation in the wholesale of tobacco products across provinces, autonomous regions and municipalities directly under the Central Government, the competent tobacco monopoly administrative department shall impose a fine of not less than 10 per cent but not more than 20 per cent of the total amount of the wholesale."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Where, in violation of the provisions of Article 26 or of the second paragraph of Article 36 of these Regulations, tobacco monopoly products are supplied to units or individuals without a tobacco monopoly licence, the competent tobacco monopoly administrative department shall confiscate the illegal gains and impose a fine of not less than 20 per cent but not more than 50 per cent of the total amount of the sales."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where, in violation of the provisions of the first paragraph of Article 36 of these Regulations, a tobacco monopoly wholesale enterprise or a manufacturer of tobacco products purchases cigarette paper, filter rods, tow for cigarettes or special tobacco machinery from an enterprise without a tobacco monopoly production enterprise licence, the competent tobacco monopoly administrative department shall impose a fine of not less than 50 per cent but not more than one time the value of the tobacco monopoly products purchased."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Where, in violation of the provisions of Article 41 of these Regulations, tobacco products imported free of duty are not stored in bonded warehouses for tobacco products as prescribed, a fine of not more than 50 per cent of the value of the tobacco products may be imposed."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Where, in violation of the provisions of Article 42 of these Regulations, duty-free cigarettes or cigars sold within the customs-supervised area are not marked on the packets and cartons with the special mark prescribed by the competent tobacco monopoly administrative department of the State Council, a fine of not more than 50 per cent of the total amount of the illegal business may be imposed."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Where, in violation of the provisions of Article 48 of these Regulations, an auction enterprise fails to verify the qualifications of bidders, or does not accept the supervision of the competent tobacco monopoly administrative department, and auctions tobacco monopoly products without authorisation, the competent tobacco monopoly administrative department shall impose a fine of not less than 20 per cent but not more than 50 per cent of the value of the auctioned tobacco monopoly products and shall, in accordance with the law, disqualify it from auctioning tobacco monopoly products."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Electronic cigarettes and other new tobacco products shall be governed by reference to the relevant provisions of these Regulations on cigarettes."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter XI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "These Regulations shall come into force on the date of promulgation."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter XI Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0586'] = {
+    "lawId": "CN-REG-0586",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 80 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the Drug Administration Law of the People's Republic of China (hereinafter referred to as the Drug Administration Law)."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The drug supervision and administration department of the State Council shall establish the State drug inspection institution.\nThe drug supervision and administration departments of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government may establish drug inspection institutions within their respective administrative areas. The plans for establishing local drug inspection institutions shall be proposed by the drug supervision and administration departments of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government and submitted to the people's governments of the provinces, autonomous regions or municipalities directly under the Central Government for approval.\nThe drug supervision and administration departments of the State Council and of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government may, as needed, designate inspection institutions that meet the conditions for drug inspection to undertake drug inspection work."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "To establish a drug manufacturing enterprise, the applicant shall submit an application to the drug supervision and administration department of the people's government of the province, autonomous region or municipality directly under the Central Government where the enterprise to be established is located. The drug supervision and administration department of the people's government of the province, autonomous region or municipality directly under the Central Government shall, within 30 working days from the date of receipt of the application, organise acceptance inspection in accordance with the establishment conditions provided for in Article 8 of the Drug Administration Law; where the acceptance inspection is passed, a Drug Manufacturing Certificate shall be issued."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        },
+        "chapter": {
+          "en": "Chapter II Administration of Drug Producing Enterprises"
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Where a drug manufacturing enterprise changes the licensed matters of its Drug Manufacturing Certificate, it shall, 30 days before the change of the licensed matters, apply to the original licensing authority for change registration of the Drug Manufacturing Certificate; without approval, the licensed matters may not be changed. The original licensing authority shall make a decision within 15 working days from the date of receipt of the application."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        },
+        "chapter": {
+          "en": "Chapter II Administration of Drug Producing Enterprises"
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The drug supervision and administration departments of people's governments at or above the provincial level shall, in accordance with the Good Manufacturing Practice for Drugs and the implementation measures and implementation steps prescribed by the drug supervision and administration department of the State Council, organise the certification of drug manufacturing enterprises; those conforming to the Good Manufacturing Practice for Drugs shall be issued a certificate of certification. Among them, the certification of drug manufacturing enterprises producing injections, radioactive drugs and biological products prescribed by the drug supervision and administration department of the State Council shall be the responsibility of the drug supervision and administration department of the State Council.\nThe format of the certificate of certification under the Good Manufacturing Practice for Drugs shall be uniformly prescribed by the drug supervision and administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        },
+        "chapter": {
+          "en": "Chapter II Administration of Drug Producing Enterprises"
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Where a newly established drug manufacturing enterprise, or a drug manufacturing enterprise that builds a new drug production workshop or adds a new production dosage form, shall, within 30 days from the date of obtaining the drug production approval document or of being approved for formal production, apply to the drug supervision and administration department for certification under the Good Manufacturing Practice for Drugs in accordance with the provisions. The drug supervision and administration department accepting the application shall, within six months from the date of receipt of the enterprise's application, organise certification of whether the applicant enterprise conforms to the Good Manufacturing Practice for Drugs; where the certification is passed, a certificate of certification shall be issued."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        },
+        "chapter": {
+          "en": "Chapter II Administration of Drug Producing Enterprises"
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The drug supervision and administration department of the State Council shall establish a pool of inspectors for certification under the Good Manufacturing Practice for Drugs. Inspectors for certification under the Good Manufacturing Practice for Drugs must meet the conditions prescribed by the drug supervision and administration department of the State Council. In conducting certification under the Good Manufacturing Practice for Drugs, inspectors shall, in accordance with the provisions of the drug supervision and administration department of the State Council, be randomly selected from the pool of inspectors to form a certification inspection team to carry out the certification inspection."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Administration of Drug Producing Enterprises"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The Drug Manufacturing Certificate shall be valid for five years. Where continued drug manufacturing is required upon expiry of the period of validity, the licence-holding enterprise shall, six months before the expiry, apply for the replacement of the Drug Manufacturing Certificate in accordance with the provisions of the drug supervision and administration department of the State Council.\nWhere a drug manufacturing enterprise ceases drug manufacturing or closes down, its Drug Manufacturing Certificate shall be withdrawn and cancelled by the original licensing department."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Administration of Drug Producing Enterprises"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The active pharmaceutical ingredients used by a drug manufacturing enterprise in manufacturing drugs must have a drug approval number or an imported drug registration certificate or a pharmaceutical product registration certificate issued by the drug supervision and administration department of the State Council, except for traditional Chinese medicinal materials and prepared slices of traditional Chinese medicine for which approval number administration has not been implemented."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Administration of Drug Producing Enterprises"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "In accordance with Article 13 of the Drug Administration Law, where drug production is undertaken on entrustment, the entrusted party must be a drug manufacturing enterprise holding a certificate of certification under the Good Manufacturing Practice for Drugs suited to the drugs entrusted for production.\nVaccines, blood products and other drugs prescribed by the drug supervision and administration department of the State Council may not be entrusted for production."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Administration of Drug Producing Enterprises"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "To establish a drug wholesale enterprise or a drug retail enterprise, an application for a drug business licence shall be submitted in accordance with the provisions of the Drug Administration Law, together with materials proving that it meets the conditions provided for in the Drug Administration Law."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Drug Trading Enterprises"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "For an application for a drug business licence, an administrative licensing decision shall be made within 20 working days from the date of acceptance of the application. Where the prescribed conditions are met, the licence shall be granted and a Drug Business Licence issued; where the prescribed conditions are not met, the licence shall not be granted and the reasons shall be stated in writing."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Drug Trading Enterprises"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The drug supervision and administration departments of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government and the drug supervision and administration institutions of cities divided into districts are responsible for organising the certification of drug business enterprises. Drug business enterprises shall, in accordance with the implementation measures and implementation steps prescribed by the drug supervision and administration department of the State Council, pass the certification under the Good Supply Practice for Drugs organised by the drug supervision and administration department of the people's government of the province, autonomous region or municipality directly under the Central Government or by the drug supervision and administration institution of the city divided into districts, and obtain a certificate of certification. The format of the certificate of certification under the Good Supply Practice for Drugs shall be uniformly prescribed by the drug supervision and administration department of the State Council.\nNewly established drug wholesale enterprises and drug retail enterprises shall, within 30 days from the date of obtaining the Drug Business Licence, apply to the drug supervision and administration department or institution that issued the Drug Business Licence for certification under the Good Supply Practice for Drugs. The drug supervision and administration department or institution accepting the application shall, within three months from the date of receipt of the application and in accordance with the provisions of the drug supervision and administration department of the State Council, organise certification of whether the drug wholesale enterprise or drug retail enterprise applying for certification conforms to the Good Supply Practice for Drugs; where the certification is passed, a certificate of certification shall be issued."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Drug Trading Enterprises"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The drug supervision and administration department of the people's government of the province, autonomous region or municipality directly under the Central Government shall establish a pool of inspectors for certification under the Good Supply Practice for Drugs. Inspectors for certification under the Good Supply Practice for Drugs must meet the conditions prescribed by the drug supervision and administration department of the State Council. In conducting certification under the Good Supply Practice for Drugs, inspectors shall, in accordance with the provisions of the drug supervision and administration department of the State Council, be randomly selected from the pool of inspectors to form a certification inspection team to carry out the certification inspection."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Drug Trading Enterprises"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The State applies a system of classified management of prescription drugs and non-prescription drugs. The State divides non-prescription drugs into Class A non-prescription drugs and Class B non-prescription drugs according to their safety.\nA drug retail enterprise operating prescription drugs and Class A non-prescription drugs shall be staffed with licensed pharmacists or other pharmaceutical technical personnel whose qualifications have been recognised in accordance with law. A drug retail enterprise operating Class B non-prescription drugs shall be staffed with business personnel who have passed the examination organised by the drug supervision and administration institution of a city divided into districts or the county-level drug supervision and administration institution directly established by the drug supervision and administration department of the people's government of the province, autonomous region or municipality directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Drug Trading Enterprises"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where a drug business enterprise changes the licensed matters of its Drug Business Licence, it shall, 30 days before the change of the licensed matters, apply to the original licensing authority for change registration of the Drug Business Licence; without approval, the licensed matters may not be changed. The original licensing authority shall make a decision within 15 working days from the date of receipt of the enterprise's application."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Drug Trading Enterprises"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The Drug Business Licence shall be valid for five years. Where continued drug business is required upon expiry of the period of validity, the licence-holding enterprise shall, six months before the expiry, apply for the replacement of the Drug Business Licence in accordance with the provisions of the drug supervision and administration department of the State Council.\nWhere a drug business enterprise ceases drug business or closes down, its Drug Business Licence shall be withdrawn and cancelled by the original licensing authority."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Drug Trading Enterprises"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where there is no drug retail enterprise in a urban-rural fair trade market in a remote area with inconvenient transport, the local drug retail enterprise may, after approval by the drug supervision and administration institution of the county (city) where it is located and after going through registration with the administration department for industry and commerce, set up an outlet in that urban-rural fair trade market and sell non-prescription drugs within the scope of drugs approved for business."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Drug Trading Enterprises"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Drug manufacturing enterprises, drug business enterprises and medical institutions that conduct drug transactions through the Internet, and the drugs traded by them, must conform to the provisions of the Drug Administration Law and these Regulations. The measures for the administration of Internet drug trading services shall be formulated by the drug supervision and administration department of the State Council together with the relevant departments of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Drug Trading Enterprises"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where a medical institution establishes a pharmaceutical preparation room, it shall submit an application to the health administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government where it is located and, after examination and consent, submit it to the drug supervision and administration department of the people's government at the same level for approval; where the acceptance inspection by the drug supervision and administration department of the people's government of the province, autonomous region or municipality directly under the Central Government is passed, approval shall be granted and a Pharmaceutical Preparation Licence for Medical Institutions issued.\nThe health administrative department and the drug supervision and administration department of the people's government of the province, autonomous region or municipality directly under the Central Government shall, within 30 working days from the date of receipt of the application, make a decision on whether to consent or approve."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter IV Pharmaceutical Administration in Medical Institutions"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where a medical institution changes the licensed matters of its Pharmaceutical Preparation Licence for Medical Institutions, it shall, 30 days before the change of the licensed matters, apply to the original examining and approving authorities for change registration of the Pharmaceutical Preparation Licence for Medical Institutions in accordance with Article 20 of these Regulations; without approval, the licensed matters may not be changed. The original examining and approving authorities shall each make a decision within 15 working days from the date of receipt of the application.\nWhere a medical institution adds a new preparation dosage form or changes the preparation site, it shall, after passing the acceptance inspection by the drug supervision and administration department of the people's government of the province, autonomous region or municipality directly under the Central Government where it is located, go through the change registration of the Pharmaceutical Preparation Licence for Medical Institutions in accordance with the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter IV Pharmaceutical Administration in Medical Institutions"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The Pharmaceutical Preparation Licence for Medical Institutions shall be valid for five years. Where continued preparation of pharmaceutical preparations is required upon expiry of the period of validity, the medical institution shall, six months before the expiry, apply for the replacement of the Pharmaceutical Preparation Licence for Medical Institutions in accordance with the provisions of the drug supervision and administration department of the State Council.\nWhere a medical institution ceases preparing pharmaceutical preparations or closes down, its Pharmaceutical Preparation Licence for Medical Institutions shall be withdrawn and cancelled by the original licensing authority."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter IV Pharmaceutical Administration in Medical Institutions"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "To prepare pharmaceutical preparations, a medical institution must submit the relevant materials and samples in accordance with the provisions of the drug supervision and administration department of the State Council, and may prepare them only after approval by the drug supervision and administration department of the people's government of the province, autonomous region or municipality directly under the Central Government where it is located and issuance of a preparation approval number."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter IV Pharmaceutical Administration in Medical Institutions"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Pharmaceutical preparations prepared by medical institutions may not be sold on the market or sold in disguised form, and advertisements for preparations of medical institutions may not be published.\nIn the event of a disaster, an epidemic, an emergency or an urgent clinical need where there is no market supply, pharmaceutical preparations prepared by medical institutions may, with the approval of the drug supervision and administration department of the State Council or of the people's government of the province, autonomous region or municipality directly under the Central Government, be adjusted for use among designated medical institutions within the prescribed time limit.\nThe adjusted use of special preparations prescribed by the drug supervision and administration department of the State Council and the adjusted use of preparations of medical institutions between provinces, autonomous regions and municipalities directly under the Central Government must be approved by the drug supervision and administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter IV Pharmaceutical Administration in Medical Institutions"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Pharmaceutical personnel who examine and dispense prescriptions in medical institutions must be pharmaceutical technical personnel whose qualifications have been recognised in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter IV Pharmaceutical Administration in Medical Institutions"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Medical institutions purchasing drugs must have true and complete records of drug purchases. The records of drug purchases must state the generic name, dosage form, specification, batch number, period of validity, manufacturer, supplier, quantity purchased, purchase price and date of purchase of the drugs as well as other content prescribed by the drug supervision and administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Pharmaceutical Administration in Medical Institutions"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The drugs provided by a medical institution to patients shall be suited to the scope of diagnosis and treatment and shall be dispensed against prescriptions of licensed physicians or licensed assistant physicians.\nThe procurement and provision of drugs to patients by family planning technical service institutions shall be within a scope consistent with the approved scope of services and shall be dispensed against prescriptions of licensed physicians or licensed assistant physicians.\nMedical institutions such as outpatient departments and clinics established by individuals may not be equipped with drugs other than commonly used drugs and first-aid drugs. The scope and varieties of commonly used drugs and first-aid drugs shall be prescribed by the health administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government where they are located together with the drug supervision and administration department of the people's government at the same level."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Pharmaceutical Administration in Medical Institutions"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Institutions engaged in non-clinical safety evaluation research on drugs must implement the Good Laboratory Practice for Non-clinical Studies of Drugs, and institutions engaged in clinical trials of drugs must implement the Good Clinical Practice for Drugs. The Good Laboratory Practice for Non-clinical Studies of Drugs and the Good Clinical Practice for Drugs shall be formulated by the drug supervision and administration department of the State Council in consultation with the science and technology administrative department of the State Council and the health administrative department of the State Council respectively."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Drugs"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Clinical trials of drugs, drug production and drug importation shall conform to the provisions of the Drug Administration Law and these Regulations and be examined and approved by the drug supervision and administration department of the State Council; the drug supervision and administration department of the State Council may entrust the drug supervision and administration departments of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government with examining the research and development status and conditions of the drugs applied for, conducting a formal examination of the application materials and testing the trial-produced samples. The specific measures shall be formulated by the drug supervision and administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Drugs"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where clinical trials are required in the research and development of new drugs, approval by the drug supervision and administration department of the State Council shall be obtained in accordance with Article 29 of the Drug Administration Law.\nAfter an application for a drug clinical trial is approved by the drug supervision and administration department of the State Council, the applicant shall select the institution to undertake the drug clinical trial from among the institutions with drug clinical trial qualifications recognised in accordance with law, and shall report the clinical trial institution to the drug supervision and administration department of the State Council and the health administrative department of the State Council for the record.\nA drug clinical trial institution conducting a drug clinical trial shall inform the subjects or their guardians of the true circumstances in advance and obtain their written consent."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Drugs"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "To manufacture drugs for which national standards already exist, an application shall, in accordance with the provisions of the drug supervision and administration department of the State Council, be submitted to the drug supervision and administration department of the people's government of the province, autonomous region or municipality directly under the Central Government or to the drug supervision and administration department of the State Council, together with the relevant technical materials and the relevant supporting documents. The drug supervision and administration department of the people's government of the province, autonomous region or municipality directly under the Central Government shall, within 30 working days from the date of acceptance of the application, conduct an examination, put forward its opinions and submit them to the drug supervision and administration department of the State Council for review, and shall simultaneously notify the applicant of its examination opinions. Where the review by the drug supervision and administration department of the State Council confirms conformity with the provisions, a drug approval number shall be issued."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Drugs"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "To change the matters stated in the approval documents and their annexes already obtained for the research and development of new drugs, the manufacture of drugs and the importation of drugs, a supplementary application shall be submitted to the drug supervision and administration department of the State Council; where the review by the drug supervision and administration department of the State Council confirms conformity with the provisions, approval shall be granted. Among them, where the intrinsic quality of the drug is not changed, a supplementary application shall be submitted to the drug supervision and administration department of the people's government of the province, autonomous region or municipality directly under the Central Government; where the review by that department confirms conformity with the provisions, it shall grant approval and report to the drug supervision and administration department of the State Council for the record. The matters for supplementary applications that do not change the intrinsic quality of drugs shall be prescribed by the drug supervision and administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Drugs"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The drug supervision and administration department of the State Council may, in accordance with the requirement of protecting public health, set a monitoring period of not more than five years for new drug varieties manufactured by drug manufacturing enterprises; during the monitoring period, the manufacture and importation of such drugs by other enterprises may not be approved."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Drugs"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The State protects the undisclosed test data and other data independently obtained and submitted by producers or sellers that have obtained the licence to manufacture or sell drugs containing new chemical ingredients, and no person may make improper commercial use of such undisclosed test data and other data.\nWithin six years from the date on which a drug producer or seller obtains the approval document for the manufacture or sale of a drug with new chemical ingredients, where another applicant applies for a licence to manufacture or sell a drug with new chemical ingredients using the data mentioned in the preceding paragraph without the consent of the applicant that has already obtained the licence, the drug supervision and administration department shall not grant the licence; except where the other applicant submits data independently obtained.\nExcept in the following circumstances, the drug supervision and administration department may not disclose the data provided for in paragraph 1 of this Article:\n(a) where required by the public interest;\n(b) where measures have been taken to ensure that such data will not be improperly used for commercial purposes."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Drugs"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Drugs applied for importation shall be drugs that have obtained marketing approval in the country or region of manufacture; where marketing approval has not been obtained in the country or region of manufacture, and the drug supervision and administration department of the State Council confirms that the drug variety is safe, effective and clinically needed, importation may be approved in accordance with the provisions of the Drug Administration Law and these Regulations.\nImported drugs shall be registered in accordance with the provisions of the drug supervision and administration department of the State Council. Drugs manufactured by foreign enterprises may be imported only after obtaining an Imported Drug Registration Certificate, and drugs manufactured by enterprises of the Hong Kong, Macao and Taiwan regions of China may be imported only after obtaining a Pharmaceutical Product Registration Certificate."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Drugs"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Where a medical institution needs to import a small quantity of drugs for urgent clinical needs, it shall, holding its Practice Licence for Medical Institutions, submit an application to the drug supervision and administration department of the State Council; importation may be made only after approval. The imported drugs shall be used for specific medical purposes within the designated medical institution."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Drugs"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "After imported drugs arrive at the port, the importing unit shall, holding the Imported Drug Registration Certificate or the Pharmaceutical Product Registration Certificate as well as the original certificate of origin, a copy of the purchase contract, the packing list, the waybill, the freight invoice, the ex-factory inspection report and the instructions, file with the drug supervision and administration department in the place where the port is located. Where the drug supervision and administration department in the place where the port is located examines the materials and finds that the materials submitted meet the requirements, it shall issue a Customs Clearance Notice for Imported Drugs. The importing unit shall, on the strength of the Customs Clearance Notice for Imported Drugs, go through the customs declaration, inspection and release formalities with the customs.\nThe drug supervision and administration department in the place where the port is located shall notify the drug inspection institution to conduct sampling inspection batch by batch on imported drugs, except in the circumstances provided for in Article 41 of the Drug Administration Law."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Drugs"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Vaccine products, blood products, in vitro diagnostic reagents used for blood screening and other biological products prescribed by the drug supervision and administration department of the State Council shall, before sale or at the time of importation, be inspected or examined and approved in accordance with the provisions of the drug supervision and administration department of the State Council; those failing inspection or not approved may not be sold or imported."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Drugs"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The State encourages the cultivation of traditional Chinese medicinal materials. Approval number administration shall be applied to varieties of traditional Chinese medicinal materials that are cultivated and bred on a centralised and large-scale basis, whose quality can be controlled and that meet the conditions prescribed by the drug supervision and administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Drugs"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "The drug supervision and administration department of the State Council shall conduct re-evaluation of drugs already approved for manufacture and sale, and may, on the basis of the results of the drug re-evaluation, take measures ordering modification of the drug instructions and suspending manufacture, sale and use; for drugs with major adverse reactions or otherwise harmful to human health, the approval documents for the drugs shall be revoked."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Drugs"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "The drug approval numbers, Imported Drug Registration Certificates and Pharmaceutical Product Registration Certificates issued by the drug supervision and administration department of the State Council shall be valid for five years. Where continued manufacture or importation is required upon expiry of the period of validity, an application for re-registration shall be made six months before the expiry. In re-registering a drug, the relevant materials shall be submitted in accordance with the provisions of the drug supervision and administration department of the State Council. Where no application for re-registration is made upon expiry of the period of validity, or where the review finds non-conformity with the provisions of the drug supervision and administration department of the State Council on re-registration, the drug approval number, Imported Drug Registration Certificate or Pharmaceutical Product Registration Certificate shall be cancelled.\nThe re-registration of drug approval numbers shall be examined and approved by the drug supervision and administration department of the people's government of the province, autonomous region or municipality directly under the Central Government and reported to the drug supervision and administration department of the State Council for the record; the re-registration of Imported Drug Registration Certificates and Pharmaceutical Product Registration Certificates shall be examined and approved by the drug supervision and administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Drugs"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Non-drug products may not be publicised in their packaging, labels, instructions and relevant publicity materials with content relating to the prevention, treatment and diagnosis of human diseases, except as otherwise provided by laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Drugs"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "The packaging materials and containers that come into direct contact with drugs and are used by drug manufacturing enterprises must meet the pharmaceutical requirements and the standards for safeguarding human health and safety.\nThe administrative measures, product catalogue and pharmaceutical requirements and standards for packaging materials and containers that come into direct contact with drugs shall be organised, formulated and published by the drug supervision and administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VI Administration of Drug Packaging"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "In producing prepared slices of traditional Chinese medicine, packaging materials and containers suited to the properties of the drugs shall be selected; prepared slices of traditional Chinese medicine with packaging not conforming to the provisions may not be sold. The packaging of prepared slices of traditional Chinese medicine must bear printed or affixed labels.\nThe labels of prepared slices of traditional Chinese medicine must state the product name, specification, place of origin, manufacturer, product batch number and date of production, and prepared slices of traditional Chinese medicine subject to approval number administration must also state the drug approval number."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VI Administration of Drug Packaging"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "The packaging, labels and instructions of drugs must be printed in accordance with the provisions of Article 54 of the Drug Administration Law and the provisions of the drug supervision and administration department of the State Council.\nThe trade names of drugs shall conform to the provisions of the drug supervision and administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VI Administration of Drug Packaging"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "The packaging materials and containers that come into direct contact with drugs and are used by medical institutions in preparing pharmaceutical preparations, and the labels and instructions of the preparations, shall conform to the relevant provisions of Chapter VI of the Drug Administration Law and these Regulations and shall be approved by the drug supervision and administration department of the people's government of the province, autonomous region or municipality directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VI Administration of Drug Packaging"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "When the competent pricing department of the government implements drug price monitoring in accordance with Article 28 of the Pricing Law, it may, in order to grasp and analyse changes and trends in drug prices, designate some drug manufacturing enterprises, drug business enterprises and medical institutions as designated price monitoring units; the designated units shall cooperate and provide support and truthfully provide the relevant information and materials."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VII Administration of Drug Prices and Advertisements"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "To publish drug advertisements, the relevant materials shall be submitted to the drug supervision and administration department of the people's government of the province, autonomous region or municipality directly under the Central Government where the drug manufacturing enterprise is located. The drug supervision and administration department of the people's government of the province, autonomous region or municipality directly under the Central Government shall, within 10 working days from the date of receipt of the relevant materials, make a decision on whether to issue a drug advertisement approval number; where a drug advertisement approval number is issued, it shall simultaneously be reported to the drug supervision and administration department of the State Council for the record. The specific measures shall be formulated by the drug supervision and administration department of the State Council.\nTo publish advertisements for imported drugs, an application for a drug advertisement approval number shall, in accordance with the preceding paragraph, be submitted to the drug supervision and administration department of the people's government of the province, autonomous region or municipality directly under the Central Government where the import agent is located.\nWhere drug advertisements are published in a province, autonomous region or municipality directly under the Central Government other than the place where the drug manufacturing enterprise or the import agent is located, the enterprise publishing the advertisement shall, before publication, file with the drug supervision and administration department of the people's government of the province, autonomous region or municipality directly under the Central Government of the place of publication. Where the drug supervision and administration department of the people's government of the province, autonomous region or municipality directly under the Central Government receiving the filing finds that the approved content of the drug advertisement does not conform to the provisions on the administration of drug advertisements, it shall refer the matter to the original issuing department for handling."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VII Administration of Drug Prices and Advertisements"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "For drugs ordered to suspend manufacture, sale and use by decision of the drug supervision and administration department of the State Council or of the people's government of the province, autonomous region or municipality directly under the Central Government, advertisements for such drug varieties may not be published during the period of suspension; where advertisements have already been published, they must be stopped immediately."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VII Administration of Drug Prices and Advertisements"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "For drug advertisements not approved by the drug supervision and administration department of the people's government of the province, autonomous region or municipality directly under the Central Government, advertisements using forged, fraudulently used or invalid drug advertisement approval numbers, or advertisements for which the drug advertisement approval number has been revoked because of other unlawful advertising activities, the enterprise publishing the advertisement, the advertisement operator and the advertisement publisher must immediately stop the publication of the drug advertisement.\nWhere drug advertisements are published unlawfully and the circumstances are serious, the drug supervision and administration department of the people's government of the province, autonomous region or municipality directly under the Central Government may make a public announcement."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VII Administration of Drug Prices and Advertisements"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "The drug supervision and administration departments (including the drug supervision and administration institutions lawfully established by the drug supervision and administration departments of provincial-level people's governments, the same below) shall, in accordance with law, carry out supervision and inspection of the research and development, manufacture, business and use of drugs."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VIII Drug Supervision"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Drug sampling must be carried out by two or more drug supervision and inspection personnel and in accordance with the provisions of the drug supervision and administration department of the State Council; the party subject to sampling shall provide the samples and may not refuse.\nWhere a unit whose drugs are subject to sampling refuses sampling inspection without justified reasons, the drug supervision and administration department of the State Council and the drug supervision and administration department of the people's government of the province, autonomous region or municipality directly under the Central Government where the unit is located may announce the suspension of the marketing and use of the drugs of that unit for which sampling was refused."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VIII Drug Supervision"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "For drugs suspected of being adulterated or counterfeited, where the inspection methods and inspection items prescribed in the national drug standards cannot be used for inspection, the drug inspection institution may supplement the inspection methods and inspection items for drug inspection; after approval by the drug supervision and administration department of the State Council, the inspection results obtained using the supplementary inspection methods and inspection items may serve as the basis for the drug supervision and administration department to determine the quality of drugs."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VIII Drug Supervision"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "The drug supervision and administration departments of the State Council and of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall, on the basis of the results of sampling inspection of drug quality, periodically publish drug quality announcements. Drug quality announcements shall include the product name of the sampled drugs, the source of the samples, the manufacturer, the production batch number, the drug specification, the inspection institution, the inspection basis, the inspection results, the non-conforming items and other content. Where a drug quality announcement is improper, the publishing department shall, within five days from the date of confirming that the announcement is improper, make a correction within the scope of the original announcement.\nWhere a party has objections to the inspection results of a drug inspection institution and applies for re-inspection, it shall submit a written application and the original drug inspection report to the drug inspection institution responsible for re-inspection. The samples for re-inspection shall be drawn from the retained samples of the original drug inspection institution."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VIII Drug Supervision"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where the drug supervision and administration department takes administrative compulsory measures of sealing up and distraining drugs for which there is evidence proving that they may harm human health and the relevant evidentiary materials in accordance with law, it shall, within seven days from the date of taking the administrative compulsory measures, make a decision on whether to file a case; where inspection is required, it shall, within 15 days from the date of issuance of the inspection report, make a decision on whether to file a case; where the conditions for filing a case are not met, the administrative compulsory measures shall be lifted; where suspension of sale and use is required, the decision shall be made by the drug supervision and administration department of the State Council or of the people's government of the province, autonomous region or municipality directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VIII Drug Supervision"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "No fees may be charged for sampling inspection of drugs.\nWhere a party has objections to the drug inspection results and applies for re-inspection, it shall, in accordance with the provisions of the relevant departments of the State Council or of the relevant departments of the people's government of the province, autonomous region or municipality directly under the Central Government, pay the drug inspection fees to the re-inspection institution in advance. Where the re-inspection conclusion is inconsistent with the original inspection conclusion, the re-inspection fees shall be borne by the original drug inspection institution."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VIII Drug Supervision"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Fees may be charged for issuing certificates, conducting drug registration, drug certification and carrying out drug approval inspection and its mandatory inspection in accordance with the provisions of the Drug Administration Law and these Regulations. The specific fee standards shall be formulated by the finance department of the State Council and the competent pricing department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VIII Drug Supervision"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where a drug manufacturing enterprise or drug business enterprise falls under any of the following circumstances, the drug supervision and administration department shall impose a penalty in accordance with Article 79 of the Drug Administration Law:\n(a) establishing a drug manufacturing enterprise, building a new drug production workshop or adding a new production dosage form and, without having passed certification under the Good Manufacturing Practice for Drugs within the time prescribed by the drug supervision and administration department of the State Council, still manufacturing drugs;\n(b) establishing a drug business enterprise and, without having passed certification under the Good Supply Practice for Drugs within the time prescribed by the drug supervision and administration department of the State Council, still dealing in drugs."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Whoever, in violation of Article 13 of the Drug Administration Law, entrusts or accepts the entrustment of drug production without authorisation shall be punished in accordance with Article 74 of the Drug Administration Law, both the entrusting party and the entrusted party."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Whoever, without approval, sets up an outlet in an urban-rural fair trade market to sell drugs without authorisation, or sells drugs at an outlet in an urban-rural fair trade market beyond the scope of drugs approved for business, shall be punished in accordance with Article 73 of the Drug Administration Law."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where a medical institution uses preparations prepared by another medical institution without approval, it shall be punished in accordance with Article 80 of the Drug Administration Law."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Where a medical institution such as an outpatient department or clinic established by an individual provides drugs to patients beyond the prescribed scope and varieties, it shall be punished in accordance with Article 73 of the Drug Administration Law."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Where a medical institution uses counterfeit or inferior drugs, it shall be punished in accordance with Articles 74 and 75 of the Drug Administration Law."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Whoever, in violation of Article 29 of the Drug Administration Law, conducts clinical trials without authorisation shall be punished in accordance with Article 79 of the Drug Administration Law, and the penalty shall be imposed on the institution undertaking the drug clinical trial."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Where a drug applicant, in applying for a clinical trial, submits false research methods, quality standards, pharmacological and toxicological test results and other relevant materials and samples, the drug supervision and administration department of the State Council shall not approve the clinical trial of the drug applied for and shall give the drug applicant a warning; where the circumstances are serious, it shall not accept the clinical trial application for that variety submitted by the drug applicant within three years."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Where prepared slices of traditional Chinese medicine that have no national drug standards are produced not in conformity with the processing specifications formulated by the drug supervision and administration department of the people's government of the province, autonomous region or municipality directly under the Central Government, or where a medical institution prepares preparations not in accordance with the standards approved by the drug supervision and administration department of the people's government of the province, autonomous region or municipality directly under the Central Government, a penalty shall be imposed in accordance with Article 75 of the Drug Administration Law."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Where the drug supervision and administration department or its staff, in violation of the provisions, discloses the undisclosed test data or other data submitted by a producer or seller to obtain a licence to manufacture or sell drugs containing new chemical ingredients, thereby causing losses to the applicant, the drug supervision and administration department shall bear liability for compensation in accordance with law; after compensating for the losses, the drug supervision and administration department shall order the staff member who acted intentionally or with gross negligence to bear part or all of the compensation costs and shall give administrative sanctions to the persons directly responsible in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "Where the packaging, labels or instructions of drugs manufactured or dealt in by a drug manufacturing enterprise or drug business enterprise or of preparations prepared by a medical institution violate the provisions of the Drug Administration Law and these Regulations, a penalty shall be imposed in accordance with Article 86 of the Drug Administration Law."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "Where a drug manufacturing enterprise, drug business enterprise or medical institution changes the licensed matters of drug manufacture or business and should go through the change registration formalities but fails to do so, the original licensing department shall give a warning and order it to complete the change registration formalities within a time limit; where it fails to do so within the time limit, its Drug Manufacturing Certificate, Drug Business Licence and Pharmaceutical Preparation Licence for Medical Institutions shall be declared invalid; where it still engages in drug manufacturing or business activities, a penalty shall be imposed in accordance with Article 73 of the Drug Administration Law."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "Where the approved content of a drug advertisement is tampered with, the drug supervision and administration department shall order the advertiser to immediately stop the publication of the drug advertisement, and the drug supervision and administration department that originally examined and approved it shall impose a penalty in accordance with Article 92 of the Drug Administration Law.\nAfter revoking a drug advertisement approval number, the drug supervision and administration department shall, within five working days from the date of making the administrative handling decision, notify the advertisement supervision and administration organ. The advertisement supervision and administration organ shall, within 15 working days from the date of receipt of the notification from the drug supervision and administration department, make an administrative handling decision in accordance with the relevant provisions of the Advertising Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "Where an enterprise publishing drug advertisements publishes drug advertisements in a province, autonomous region or municipality directly under the Central Government other than the place where the drug manufacturing enterprise or the import agent is located and fails to file with the drug supervision and administration department of the people's government of the province, autonomous region or municipality directly under the Central Government of the place of publication in accordance with the provisions, the drug supervision and administration department of the place of publication shall order correction within a time limit; where correction is not made within the time limit, the advertisement publication activities for that drug variety in the place of publication shall be stopped."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "Where drug advertisements are published without authorisation and without the approval of the drug supervision and administration department of the people's government of the province, autonomous region or municipality directly under the Central Government, the drug supervision and administration department shall, upon discovery, notify the advertisement supervision and administration organ to investigate and deal with the matter in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "Whoever, in violation of the provisions of the Drug Administration Law and these Regulations, commits any of the following acts shall be given a heavier punishment by the drug supervision and administration department within the range of penalties provided for in the Drug Administration Law and these Regulations:\n(a) passing off narcotic drugs, psychotropic substances, toxic drugs for medical use or radioactive drugs as other drugs, or passing off other drugs as the above drugs;\n(b) manufacturing or selling counterfeit or inferior drugs intended mainly for use by pregnant and lying-in women, infants and young children and children;\n(c) the biological products or blood products manufactured or sold are counterfeit or inferior drugs;\n(d) manufacturing, selling or using counterfeit or inferior drugs, causing harm to persons;\n(e) manufacturing, selling or using counterfeit or inferior drugs and repeating the offence after being dealt with;\n(f) refusing or evading supervision and inspection, or forging, destroying or concealing the relevant evidentiary materials, or using sealed up or distrained articles without authorisation."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "Dispatched agencies established by the drug supervision and administration department have the power to make the administrative penalties of warning, fine and confiscation of unlawfully manufactured or sold drugs and unlawful gains provided for in the Drug Administration Law and these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "Where a drug business enterprise or medical institution has not violated the relevant provisions of the Drug Administration Law and these Regulations and has sufficient evidence proving that it did not know that the drugs it sold or used were counterfeit or inferior drugs, the counterfeit or inferior drugs it sold or used and the unlawful gains shall be confiscated; however, other administrative penalties may be exempted."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "Articles confiscated in accordance with the provisions of the Drug Administration Law and these Regulations shall be supervised and handled by the drug supervision and administration department in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "The following terms used in these Regulations have the following meanings:\nDrug qualification certificates and other marks refer to the drug manufacturing approval documents, drug inspection reports, and the packaging, labels and instructions of drugs.\nNew drugs refer to drugs that have not yet been placed on the market for sale within the territory of China.\nPrescription drugs refer to drugs that may be purchased, dispensed and used only against prescriptions of licensed physicians and licensed assistant physicians.\nNon-prescription drugs refer to drugs published by the drug supervision and administration department of the State Council that may be judged, purchased and used by consumers themselves without prescriptions of licensed physicians and licensed assistant physicians.\nPreparations of medical institutions refer to fixed-prescription preparations prepared upon approval and for the own use of a medical institution in accordance with its own clinical needs.\nDrug certification refers to the process in which the drug supervision and administration department inspects and evaluates the implementation of the corresponding quality management practices by units engaged in the research and development, manufacture, business and use of drugs and decides whether to issue the corresponding certificate of certification.\nForms of drug business refer to drug wholesale and drug retail.\nScope of drug business refers to the categories of varieties of drugs approved by the drug supervision and administration department for business.\nDrug wholesale enterprises refer to drug business enterprises that sell purchased drugs to drug manufacturing enterprises, drug business enterprises and medical institutions.\nDrug retail enterprises refer to drug business enterprises that sell purchased drugs directly to consumers."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter X Supplementary Provisions"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "'Drugs sold in China for the first time' in Article 41 of the Drug Administration Law refers to drugs sold in China for the first time by domestic or foreign drug manufacturing enterprises, including the same varieties manufactured by different drug manufacturing enterprises."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Chapter X Supplementary Provisions"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "'Property or other benefits' in paragraph 2 of Article 59 of the Drug Administration Law, which provides that 'drug manufacturing enterprises, drug business enterprises or their agents are prohibited from giving property or other benefits in any name to the persons in charge, drug purchasing personnel, physicians and other relevant personnel of medical institutions that use their drugs', refers to improper benefits provided by drug manufacturing enterprises, drug business enterprises or their agents to the persons in charge, drug purchasing personnel, physicians and other relevant personnel of medical institutions for the purpose of influencing their drug purchasing or drug prescribing behaviour."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Chapter X Supplementary Provisions"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "These Regulations shall come into force on 15 September 2002."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Chapter X Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0587'] = {
+    "lawId": "CN-REG-0587",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 89 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the Drug Administration Law of the People's Republic of China (hereinafter referred to as the Drug Administration Law)."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Activities of drug research and development, production, trading, use and supervision and administration shall be conducted with the people's health as the centre, in compliance with scientific laws and ethical principles, and with comprehensive risk prevention and control."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The State shall improve the drug innovation system, support clinical-value-oriented drug research and development and innovation, encourage the research and creation of new drugs, and support the clinical promotion and use of new drugs; promote the inheritance and innovation of traditional Chinese medicine and give full play to the role of traditional Chinese medicine in prevention, medical treatment and health care; and promote the research, development and innovation of generic drugs and improve their quality and efficacy."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The departments of people's governments at or above the county level that bear drug supervision and administration duties (hereinafter referred to as the drug supervision and administration departments) shall be responsible for drug supervision and administration. Other relevant departments of people's governments at or above the county level shall be responsible for drug-related supervision and administration within the scope of their respective duties."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The competent industry and information technology department, the competent commerce department and other departments of the State Council shall, in accordance with the division of duties and on the basis of the national economic and social development plan and the development of the drug industry, formulate plans for the development of the national drug production and circulation industries and related industrial policies, promote the structural adjustment and technological innovation of the drug industry, enhance the resilience and safety of the industrial chain, and facilitate the high-quality development of the drug industry. The drug supervision and administration department of the State Council shall cooperate with the competent industry and information technology department, the competent commerce department and other departments of the State Council in implementing the plans and industrial policies for the development of the national drug industry."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Drug research and development activities shall comply with the Good Laboratory Practice for Non-clinical Laboratory Studies and the Good Clinical Practice for Drugs, and shall ensure that records and data are true, accurate, complete and traceable."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        },
+        "chapter": {
+          "en": "Chapter II Drug Research and Development and Registration"
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Where non-clinical safety evaluation studies are carried out for the purpose of applying for drug registration, they shall be conducted by a qualified non-clinical safety evaluation research institution. An application for qualification accreditation as a non-clinical safety evaluation research institution shall be submitted to the drug supervision and administration department of the State Council, together with materials proving conformity with the Good Laboratory Practice for Non-clinical Laboratory Studies. The drug supervision and administration department of the State Council shall organise the examination and make a decision within 20 working days from the date of accepting the application. Where the prescribed conditions are met, a licence shall be granted and a qualification certificate issued; where the prescribed conditions are not met, no licence shall be granted and the reasons shall be stated in writing.\nThe qualification certificate of a non-clinical safety evaluation research institution shall be valid for 5 years. Where the validity period expires and the institution needs to continue to carry out non-clinical safety evaluation studies, it shall apply for renewal of the qualification certificate."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Drug Research and Development and Registration"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The sponsor of a drug clinical trial shall select drug clinical trial institutions and investigators with the corresponding capabilities, and shall perform responsibilities such as the protection of subjects, the management of investigational drugs, the management of clinical trial data and risk management.\nThe manufacture of investigational drugs shall comply with the relevant requirements of the Good Manufacturing Practice for Drugs.\nThe sponsor of a drug clinical trial and the drug clinical trial institution may not charge subjects any fees relating to the clinical trial."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Drug Research and Development and Registration"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Where the sponsor of a drug clinical trial approved for conduct in accordance with the provisions of paragraph 1 of Article 19 of the Drug Administration Law is changed, an application shall be submitted to the drug supervision and administration department of the State Council. The drug supervision and administration department of the State Council shall conduct the examination and make a decision within 20 working days from the date of accepting the application."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Drug Research and Development and Registration"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Where drug research and development activities are carried out overseas for the purpose of applying for drug registration, the relevant provisions of laws, regulations, rules, standards and specifications such as the Drug Administration Law and these Regulations shall be complied with; research data obtained overseas may be used to apply for drug registration where they comply with the relevant provisions of the drug supervision and administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Drug Research and Development and Registration"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Where reference drugs or samples needed for research, development or testing are imported for the purpose of applying for drug registration, approval of the drug supervision and administration department of the State Council shall be obtained; however, investigational drugs specified in the clinical trial approval document may be imported on the strength of that approval document. The drug supervision and administration department of the State Council shall conduct the examination and make a decision within 20 working days from the date of accepting the application."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Drug Research and Development and Registration"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "In developing generic chemical drugs, reference drugs shall be scientifically selected for comparative studies in accordance with the technical requirements formulated by the drug supervision and administration department of the State Council; where a reference preparation has been determined by the drug supervision and administration department of the State Council, that reference preparation shall be selected as the reference drug for comparative studies."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Drug Research and Development and Registration"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The research and development of traditional Chinese medicine shall be guided by the theories of traditional Chinese medicine, and the safety and efficacy of traditional Chinese medicine shall be comprehensively evaluated on the basis of the theories of traditional Chinese medicine, the human use experience of traditional Chinese medicine and clinical trial data. The evaluation of the efficacy of traditional Chinese medicine shall be commensurate with its clinical positioning and reflect the characteristics of traditional Chinese medicine."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Drug Research and Development and Registration"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The research, development and production of traditional Chinese medicine shall ensure the stability of the source and quality of Chinese medicinal materials and the sustainable utilisation of resources, and avoid adverse impacts on the ecological environment; where wild animals or plants are involved, the relevant provisions of the State shall be complied with."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Drug Research and Development and Registration"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "For drugs applying for registration, the drug supervision and administration department of the State Council shall conduct review, evaluation, examination and approval in accordance with the provisions of Article 25 of the Drug Administration Law.\nIn order to support clinical-value-oriented drug research, development and innovation, the drug supervision and administration department of the State Council may, for eligible drug registration applications, adopt the breakthrough therapy drug procedure, the conditional approval procedure, the priority review and approval procedure, the special approval procedure and the like to accelerate the marketing of drugs.\nThe drug supervision and administration department of the State Council shall establish and improve review, evaluation, examination and approval, inspection and testing, and standards management systems that suit the characteristics of traditional Chinese medicine."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Drug Research and Development and Registration"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "When the drug supervision and administration department of the State Council examines and approves a drug, it shall review, evaluate and approve the chemical active pharmaceutical ingredient at the same time; where the conditions are met, it shall issue a drug registration certificate for the drug and a chemical active pharmaceutical ingredient approval certificate for the chemical active pharmaceutical ingredient. Where a chemical active pharmaceutical ingredient used in a registered generic drug is involved, an application for review, evaluation, examination and approval may also be submitted directly to the drug supervision and administration department of the State Council; where the conditions are met, a chemical active pharmaceutical ingredient approval certificate shall be issued. When reviewing, evaluating, examining and approving a chemical active pharmaceutical ingredient, the drug supervision and administration department of the State Council shall approve its quality standards, production process and labels at the same time.\nWhere a drug registration certificate or a chemical active pharmaceutical ingredient approval certificate is assigned, an application shall be submitted to the drug supervision and administration department of the State Council. The drug supervision and administration department of the State Council shall conduct the examination and make a decision within 20 working days from the date of accepting the application."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Drug Research and Development and Registration"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "A drug registration certificate or a chemical active pharmaceutical ingredient approval certificate shall be valid for 5 years. Where the validity period expires and continued marketing is required, re-registration shall be applied for.\nThe marketing authorisation holder of a drug or the production enterprise of a chemical active pharmaceutical ingredient shall apply to the drug supervision and administration department of the people's government at the provincial level of the place where it is located for re-registration; where the marketing authorisation holder of a drug or the production enterprise of a chemical active pharmaceutical ingredient is an overseas enterprise, it shall apply to the drug supervision and administration department of the State Council for re-registration."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Drug Research and Development and Registration"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where the circumstances for over-the-counter drug registration prescribed by the drug supervision and administration department of the State Council are met, the drug registration applicant may directly file an application for over-the-counter drug registration.\nFor a registered prescription drug, where the marketing authorisation holder considers it appropriate to administer it as an over-the-counter drug, it may apply to the drug supervision and administration department of the State Council for conversion into an over-the-counter drug. For a registered over-the-counter drug, where the marketing authorisation holder considers, on the basis of adverse reaction monitoring and post-marketing evaluation results, that it is inappropriate to administer it as an over-the-counter drug, it shall apply to the drug supervision and administration department of the State Council for conversion into a prescription drug. Where the drug supervision and administration department of the State Council, after organising an evaluation, considers that the requirements are met, it shall decide to convert the prescription drug into an over-the-counter drug or to convert the over-the-counter drug into a prescription drug and make a public announcement.\nThe drug supervision and administration department of the State Council may, in light of the need to safeguard public medication safety, decide to convert an over-the-counter drug into a prescription drug after organising an evaluation."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Drug Research and Development and Registration"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The State shall promote the raising of drug standards and the continuous improvement of drug quality.\nThe drug quality standards approved by the drug supervision and administration department of the State Council are drug registration standards. Drug registration standards shall comply with the general technical requirements of the Pharmacopoeia of the People's Republic of China and may not be lower than the corresponding national drug standards. The marketing authorisation holder of a drug shall, in light of the formulation and revision of national drug standards, evaluate the drug registration standards and, where revision is needed, promptly revise them and submit a change application or file a record or report in accordance with the provisions of the drug supervision and administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Drug Research and Development and Registration"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "National drug reference standards and reference substances shall be used in researching and developing drugs and applying for drug registration. Where there are no national drug reference standards or reference substances, the drug registration applicant shall submit the raw materials used in the research on drug quality standards and the relevant technical materials to the drug testing institution established or designated by the drug supervision and administration department of the State Council, and the drug testing institution shall develop and calibrate national drug reference standards and reference substances in accordance with law.\nDrug testing institutions established or designated by the drug supervision and administration department of the State Council shall strengthen their capacity to develop national drug reference standards and reference substances and ensure their supply."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Drug Research and Development and Registration"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The State shall support the research, development and innovation of drugs for paediatric use and drugs for the treatment of rare diseases.\nFor new varieties of drugs for paediatric use, drugs for paediatric use using new dosage forms or new specifications, and drugs with added paediatric indications, a market exclusivity period of not more than 2 years shall be granted where the conditions are met.\nFor eligible drugs for the treatment of rare diseases, where the marketing authorisation holder undertakes to guarantee the supply of the drug, a market exclusivity period of not more than 7 years shall be granted. Where the marketing authorisation holder fails to perform its undertaking to guarantee the supply of the drug, the market exclusivity period shall terminate.\nThe specific conditions and measures for granting the market exclusivity period shall be formulated by the drug supervision and administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Drug Research and Development and Registration"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The State shall protect the undisclosed test data and other data independently obtained and submitted by the marketing authorisation holder of drugs containing new chemical components and of other eligible drugs, and no person may make improper commercial use of such undisclosed test data and other data.\nThe protection period for the data specified in the preceding paragraph shall not exceed 6 years from the date of drug registration. During the protection period, where another applicant uses the data specified in the preceding paragraph to apply for drug registration without the consent of the marketing authorisation holder, no approval shall be granted; except where the other applicant submits data independently obtained by itself.\nExcept in the following circumstances, the drug supervision and administration departments may not disclose the data specified in paragraph 1 of this Article:\n(1) where required by the public interest;\n(2) where measures have been taken to ensure that such data will not be improperly used for commercial purposes.\nThe specific measures for protecting the data specified in paragraph 1 of this Article shall be formulated by the drug supervision and administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter II Drug Research and Development and Registration"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The marketing authorisation holder of a drug shall establish and improve a drug quality assurance system, set up an independent quality management department, and be staffed with a person in charge of production, a person in charge of quality and a qualified person for quality. The qualified person for quality shall independently perform the duty of releasing drugs for marketing."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Marketing Authorisation Holders"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The marketing authorisation holder of a drug shall comply with the Good Pharmacovigilance Practice, establish and improve a pharmacovigilance system, monitor adverse drug reactions and other harmful reactions relating to medication, and establish mechanisms for risk identification, assessment and control. Drug trading enterprises and medical institutions shall cooperate with the marketing authorisation holder of the drug in carrying out pharmacovigilance work.\nThe Good Pharmacovigilance Practice shall be formulated by the drug supervision and administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Marketing Authorisation Holders"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Where the marketing authorisation holder of a drug is an overseas enterprise, the Chinese domestic enterprise legal person designated by it in accordance with the provisions of Article 38 of the Drug Administration Law shall possess the corresponding quality management capability and risk control capability, set up the corresponding management department and be staffed with the corresponding personnel; the relevant information of the designated Chinese domestic enterprise legal person shall be stated in the drug instructions."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Marketing Authorisation Holders"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The marketing authorisation holder of a drug shall, in accordance with the provisions of the drug supervision and administration department of the State Council, provide drug labels and instructions in accessible formats such as audio, large print, Braille or electronic versions, so as to facilitate medication by persons with disabilities and elderly persons.\nThe content of the electronic version of the drug instructions shall be consistent with the content of the drug instructions approved by the drug supervision and administration department of the State Council and shall have the same effect as the paper version of the drug instructions; audio and Braille versions of drug labels and instructions are for reference."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Marketing Authorisation Holders"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The marketing authorisation holder of a drug shall comprehensively assess and verify the impact of changes in the drug production process on the safety, efficacy and quality controllability of the drug, and shall submit a change application or file a record or report in accordance with the provisions of the drug supervision and administration department of the State Council.\nThe drug supervision and administration departments shall strengthen supervision and administration of changes in the drug production process and, upon finding that the assessment and verification of a change filed or reported by the marketing authorisation holder of a drug are insufficient to prove that the change is scientific, reasonable and risk-controllable, or that the marketing authorisation holder has selected an inappropriate category of change management, shall order it to rectify, take the corresponding risk control measures and deal with the matter in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Marketing Authorisation Holders"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The marketing authorisation holder of a drug shall continuously review the quality, efficacy and adverse reactions of registered drugs.\nThe marketing authorisation holder of a drug shall periodically carry out post-marketing evaluation of registered drugs, conduct a comprehensive analysis and assessment of the risks and benefits of the drugs and, on the basis of the post-marketing evaluation results, take measures such as revising the instructions, raising quality standards, improving the production process, suspending production and sales, implementing drug recall and applying for cancellation of the drug registration certificate. Where necessary, the drug supervision and administration department of the State Council may order the marketing authorisation holder to carry out post-marketing evaluation or may directly organise post-marketing evaluation.\nWhere the marketing authorisation holder of a drug fails to continuously review the quality, efficacy and adverse reactions of a registered drug in accordance with provisions, or fails to carry out post-marketing evaluation as required by the drug supervision and administration department of the State Council, re-registration shall not be granted after the validity period of the drug registration certificate expires."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Marketing Authorisation Holders"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Production enterprises of decoction pieces and production enterprises of herbal formula granules shall perform the relevant obligations of the marketing authorisation holder of a drug, exercise whole-process management over the production and sale of decoction pieces and herbal formula granules, establish traceability systems for decoction pieces and herbal formula granules, and ensure that decoction pieces and herbal formula granules are safe, effective and traceable."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Marketing Authorisation Holders"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "To engage in drug production activities, an application shall be submitted to the drug supervision and administration department of the people's government at the provincial level of the place where the applicant is located, together with materials proving conformity with the conditions provided in Article 42 of the Drug Administration Law; to engage in vaccine production activities, materials proving conformity with the conditions provided in paragraph 3 of Article 22 of the Vaccine Administration Law of the People's Republic of China (hereinafter referred to as the Vaccine Administration Law) shall also be submitted. The drug supervision and administration department of the people's government at the provincial level shall organise the examination and make a decision within 30 working days from the date of accepting the application. Where the prescribed conditions are met, a licence shall be granted and a drug production licence issued; where the prescribed conditions are not met, no licence shall be granted and the reasons shall be stated in writing.\nWhere a drug production enterprise changes the licensed matters of its drug production licence, it shall apply to the authority that originally issued the licence. The original issuing authority shall conduct the examination and make a decision within 15 working days from the date of accepting the application.\nA drug production licence shall be valid for 5 years. Where the validity period expires and continued drug production is required, renewal of the drug production licence shall be applied for."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Drug Production"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where the marketing authorisation holder of a drug produces the drug itself, it shall obtain a drug production licence.\nWhere the marketing authorisation holder of a drug commissions the production of a drug, it shall commission an eligible drug production enterprise. The marketing authorisation holder of the drug shall perform responsibilities such as supplier review, management of changes in the drug production process and release of drugs for marketing, supervise the commissioned production enterprise, and ensure that the whole drug production process continuously complies with statutory requirements. The commissioned production enterprise shall organise production in accordance with the Good Manufacturing Practice for Drugs and may not further commission the production.\nBlood products, narcotic drugs, psychotropic drugs, medicinal toxic drugs, precursor chemicals for drugs and drugs containing narcotic drugs, psychotropic drugs or precursor chemicals for drugs may not be produced under commission, unless otherwise provided by the drug supervision and administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Drug Production"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Where the marketing authorisation holder of a drug genuinely needs to do so, it may commission eligible drug production enterprises to produce the following drugs in stages:\n(1) innovative drugs whose production process, facilities and equipment have special requirements;\n(2) drugs urgently needed clinically, drugs urgently needed to respond to public health emergencies, or drugs needed for stockpiling, as proposed by the relevant departments of the State Council;\n(3) other drugs prescribed by the drug supervision and administration department of the State Council.\nWhere the marketing authorisation holder of a drug commissions the production of a drug in stages, it shall establish a unified quality assurance system covering the whole drug production process and all production sites, and ensure that the whole drug production process continuously complies with statutory requirements."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Drug Production"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Where any of the following circumstances exists and the production capacity of the vaccine marketing authorisation holder is exceeded, the vaccine marketing authorisation holder may, with the approval of the drug supervision and administration department of the State Council, commission eligible vaccine production enterprises to produce or produce in stages the vaccines:\n(1) producing multivalent and combination vaccines;\n(2) urgent needs for disease prevention and control or stockpiling needs proposed by the relevant departments of the State Council;\n(3) other circumstances prescribed by the drug supervision and administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Drug Production"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "In the production of vaccines, blood products and other biological products, information technology shall be used in accordance with provisions to truthfully record all data generated in the production and testing process."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Drug Production"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Where a drug marketed within the territory of China is produced overseas, its production activities shall comply with the relevant requirements of laws, regulations, rules, standards and specifications such as the Drug Administration Law and these Regulations. Where an overseas-produced drug is sub-packaged within the territory, the drug production enterprise carrying out the sub-packaging may, after the marketing authorisation holder of the drug files a record with the drug supervision and administration department of the State Council, sell the sub-packaged drug to drug trading enterprises and medical institutions."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Drug Production"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The following drugs produced before obtaining the drug approval document may be marketed and sold after the drug approval document is obtained, provided that they meet the requirements for release for marketing:\n(1) commercial-scale batches of products that have passed the conformity inspection under the corresponding Good Manufacturing Practice for Drugs;\n(2) for new drugs, drugs for the treatment of rare diseases, drugs in shortage and other drugs urgently needed clinically, commercial-scale batches of products produced after passing the conformity inspection under the corresponding Good Manufacturing Practice for Drugs.\nThe marketing authorisation holder of a drug shall strengthen risk management in respect of drugs marketed and sold in accordance with the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Drug Production"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The State shall encourage the standardised cultivation and breeding of Chinese medicinal materials and encourage the use of genuine regional Chinese medicinal materials. People's governments at the provincial level shall, in light of local realities, formulate relevant plans, encourage the implementation of the Good Agricultural Practice for Chinese Crude Drugs and promote the standardised cultivation and breeding of Chinese medicinal materials.\nIn light of the characteristics of Chinese medicinal materials, primary processing at the place of origin may be carried out. The drug supervision and administration department of the people's government at the provincial level shall, in accordance with the Good Agricultural Practice for Chinese Crude Drugs and in the light of the distribution of local Chinese medicinal material resources, the history of traditional cultivation and breeding and the characteristics of genuine regional Chinese medicinal materials, formulate guiding principles for the primary processing of Chinese medicinal materials at the place of origin."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Drug Production"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Chinese medicinal materials used in drug production shall comply with national drug standards and drug registration standards. Where there are no national drug standards or drug registration standards, they shall comply with the standards for regional folk medicinal materials formulated by the drug supervision and administration department of the people's government at the provincial level.\nThe first import of Chinese medicinal materials shall be approved by the drug supervision and administration department of the State Council. The drug supervision and administration department of the State Council shall conduct the examination and make a decision within 20 working days from the date of accepting the application."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Drug Production"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Production enterprises of decoction pieces shall process decoction pieces themselves and may not commission the processing of decoction pieces.\nDecoction pieces shall be processed in accordance with national drug standards; where national drug standards do not provide for them, they shall be processed in accordance with the processing specifications formulated by the drug supervision and administration department of the people's government at the provincial level.\nDecoction pieces processed in accordance with the processing specifications formulated by the drug supervision and administration department of the people's government at the provincial level may be sold and used across provincial administrative regions. Where decoction pieces whose processing methods and medication characteristics differ regionally and are liable to cause confusion in clinical medication are sold across provincial administrative regions, the production enterprise of the decoction pieces shall indicate clinical medication reminders on the labels of the decoction pieces and file a record with the drug supervision and administration departments of the people's governments at the provincial level of the places of purchase and use; medical institutions shall strengthen procurement management and monitoring of rational drug use to prevent confusion in clinical medication. The specific measures shall be formulated by the drug supervision and administration department of the State Council.\nThe labels of decoction pieces shall state the product attributes, product name, specifications, place of origin of the Chinese medicinal materials, production enterprise, product batch number, production date, packing quantity, shelf life, standard implemented and storage conditions; for decoction pieces subject to approval administration, the drug approval number shall also be stated."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter IV Drug Production"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Production enterprises of herbal formula granules shall file a record of the varieties of herbal formula granules they produce with the drug supervision and administration department of the people's government at the provincial level of the place where they are located.\nProduction enterprises of herbal formula granules shall process themselves the decoction pieces used for the production of herbal formula granules and produce the herbal formula granules themselves, may not use purchased decoction pieces to produce herbal formula granules, and may not commission the production of herbal formula granules.\nHerbal formula granules shall be produced in accordance with national drug standards; where national drug standards do not provide for them, they shall be produced in accordance with the standards for herbal formula granules formulated by the drug supervision and administration department of the people's government at the provincial level.\nHerbal formula granules produced in accordance with the standards for herbal formula granules formulated by the drug supervision and administration department of the people's government at the provincial level may be sold and used across provincial administrative regions; where herbal formula granules are sold across provincial administrative regions, the production enterprise shall file a record with the drug supervision and administration departments of the people's governments at the provincial level of the places of purchase and use.\nThe labels of herbal formula granules shall state the product name, specifications, production enterprise, product batch number, production date, shelf life, standard implemented, storage conditions and record-filing number.\nDrug trading enterprises may not trade in herbal formula granules."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter IV Drug Production"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Activities of producing excipients and the packaging materials and containers in direct contact with drugs shall comply with the relevant provisions of the Good Manufacturing Practice for Drugs, and a production quality management system shall be established and improved to ensure that the whole production process continuously complies with statutory requirements.\nIt is prohibited to use excipients or the packaging materials and containers in direct contact with drugs that have been eliminated by the State to produce drugs."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IV Drug Production"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "To engage in drug trading activities, an application shall be submitted to the drug supervision and administration department of the local people's government at or above the county level of the place where the applicant is located, together with materials proving conformity with the conditions provided in Article 52 of the Drug Administration Law. The drug supervision and administration department of the local people's government at or above the county level shall organise the examination and make a decision within 20 working days from the date of accepting the application. Where the prescribed conditions are met, a licence shall be granted and a drug trading licence issued; where the prescribed conditions are not met, no licence shall be granted and the reasons shall be stated in writing.\nWhere a drug trading enterprise changes the licensed matters of its drug trading licence, it shall apply to the authority that originally issued the licence. The original issuing authority shall conduct the examination and make a decision within 15 working days from the date of accepting the application.\nA drug trading licence shall be valid for 5 years. Where the validity period expires and continued drug trading is required, renewal of the drug trading licence shall be applied for."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter V Drug Business"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "A drug trading enterprise shall be staffed with pharmacists or other pharmaceutical technical personnel who have undergone qualification accreditation in accordance with law and who are commensurate with its business scope and scale; however, a drug retail enterprise that trades only in Class B over-the-counter drugs may be staffed with pharmaceutical technical personnel in accordance with the provisions of the drug supervision and administration department of the State Council.\nDrug retail enterprises shall sell prescription drugs on prescription."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter V Drug Business"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where the marketing authorisation holder of a drug, a drug production enterprise or a drug trading enterprise stores or transports drugs, it shall, in light of the packaging, quality characteristics and temperature control requirements of the drugs, take effective measures to ensure drug quality during storage and transportation. Where the marketing authorisation holder of a drug, a drug production enterprise or a drug trading enterprise commissions the storage or transportation of drugs, it shall select a commissioned party with the corresponding capability and shall supervise that party. The commissioned party shall strengthen management of the drug storage and transportation process and take effective measures to ensure drug quality.\nDrugs delivered by drug retail enterprises to patients shall have independent packaging and conspicuous markings."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter V Drug Business"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Providers of third-party online drug trading platforms shall establish and improve a quality management system for online drug sales, set up the corresponding management department, be staffed with pharmacists and other relevant professional personnel, and formulate and implement systems for drug quality management and delivery management. Providers of third-party online drug trading platforms shall review the qualifications of the marketing authorisation holders of drugs and drug trading enterprises applying to conduct business on their platforms, inspect the drug information displayed on their platforms and manage the drug trading activities occurring on their platforms. Providers of third-party online drug trading platforms shall preserve review and inspection records and the drug information displayed on their platforms in accordance with provisions.\nWhere providers of third-party online drug trading platforms, marketing authorisation holders of drugs or drug trading enterprises provide services such as information display and link redirection for other providers of third-party online drug trading platforms, marketing authorisation holders of drugs or drug trading enterprises to sell drugs online, they shall comply with the provisions of the drug supervision and administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter V Drug Business"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Drugs subject to special administration by the State, such as vaccines, blood products, narcotic drugs, psychotropic drugs, medicinal toxic drugs, radioactive drugs and precursor chemicals for drugs, may not be sold online; other drugs with relatively high medication risks may not be retailed online. The specific catalogue shall be formulated by the drug supervision and administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter V Drug Business"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "In respect of an application by a medical institution for the import of a small quantity of drugs that are urgently needed clinically, the drug supervision and administration department of the State Council shall seek the opinions of the competent health department of the State Council and promptly conduct the examination and make a decision. Where the State Council authorises people's governments at the provincial level to exercise examination and approval, the authorised people's governments at the provincial level shall, in light of local realities, formulate specific examination and approval measures."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter V Drug Business"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where an individual carries or mails a small quantity of drugs into China, the quantity shall be limited to a reasonable amount for personal use, and the provisions of the State on the administration of the entry of personal articles shall be complied with."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter V Drug Business"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Medical institutions shall formulate and implement management systems for the incoming inspection and acceptance, storage and use of drugs, and shall set up the corresponding management department or designate personnel to be responsible for drug quality management."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VI Pharmacy Administration in Medical Institutions"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Medical institutions shall strengthen the management of the prescribing, review and dispensing of prescriptions and improve the level of rational drug use by physicians."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VI Pharmacy Administration in Medical Institutions"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Physicians may not prescribe, in online diagnosis and treatment activities, drugs specified in Article 46 of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VI Pharmacy Administration in Medical Institutions"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Medical institutions shall provide patients with prescriptions that comply with the provisions of the competent health department of the State Council, and patients may choose to purchase drugs from drug retail enterprises on the strength of prescriptions.\nIt is encouraged to realise the flow of prescriptions between medical institutions and drug retail enterprises through information technology."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VI Pharmacy Administration in Medical Institutions"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "For a drug under clinical trial for the treatment of a disease that seriously endangers life and for which there is no effective treatment, where medical observation indicates possible benefit and the ethical principles are met, the drug may, after review and consent by the ethics committee and the signing of informed consent by the patient or his or her guardian, be used in the institution conducting the clinical trial for other patients with the same condition who are unable to participate in the clinical trial."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VI Pharmacy Administration in Medical Institutions"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where a medical institution prepares preparations, it shall apply to the drug supervision and administration department of the people's government at the provincial level of the place where it is located, together with materials proving conformity with the conditions provided in paragraph 1 of Article 75 of the Drug Administration Law. The drug supervision and administration department of the people's government at the provincial level shall organise the examination and make a decision within 30 working days from the date of accepting the application. Where the prescribed conditions are met, a licence shall be granted and a medical institution preparation licence issued; where the prescribed conditions are not met, no licence shall be granted and the reasons shall be stated in writing.\nWhere a medical institution changes the licensed matters of its medical institution preparation licence, it shall apply to the authority that originally issued the licence. The original issuing authority shall conduct the examination and make a decision within 15 working days from the date of accepting the application.\nA medical institution preparation licence shall be valid for 5 years. Where the validity period expires and continued preparation of preparations is required, renewal of the medical institution preparation licence shall be applied for."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VI Pharmacy Administration in Medical Institutions"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "A medical institution shall submit to the drug supervision and administration department of the people's government at the provincial level of the place where it is located the data, materials and samples of the preparations it intends to prepare, and may prepare them only after obtaining a medical institution preparation registration certificate through review, evaluation, examination and approval; however, for traditional Chinese medicine preparations prepared using only traditional processes, the medical institution may prepare them after filing a record with the drug supervision and administration department of the people's government at the provincial level of the place where it is located.\nWhen examining and approving an application for registration of a medical institution preparation, the drug supervision and administration department of the people's government at the provincial level shall approve the quality standards, preparation process, labels and instructions of the preparation at the same time.\nA medical institution preparation registration certificate shall be valid for 3 years. Where the validity period expires and continued preparation is required, re-registration shall be applied for."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VI Pharmacy Administration in Medical Institutions"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "For drugs for paediatric use that are genuinely needed clinically but are not available on the market or for which there is no dosage form or specification for paediatric use, the competent health department of the State Council shall, together with the drug supervision and administration department of the State Council, include them in the list of commonly used medical institution preparations for children, support medical institutions in preparing and using them, and meet the clinical medication needs of paediatric patients."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VI Pharmacy Administration in Medical Institutions"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "The following drugs may not be used as medical institution preparations:\n(1) chemical drugs containing active ingredients not yet used in registered drugs;\n(2) chemical drugs in which the active ingredients of registered drugs are used for new indications;\n(3) compound preparations composed of traditional Chinese medicine and chemical drugs;\n(4) traditional Chinese medicine injections;\n(5) medicinal toxic drugs;\n(6) biological products other than allergens;\n(7) other drugs prescribed by the drug supervision and administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VI Pharmacy Administration in Medical Institutions"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "In preparing preparations, medical institutions shall comply with the Good Manufacturing Practice for Medical Institution Preparations, establish and improve a quality management system for the preparation of preparations, and ensure that the whole process of preparing preparations continuously complies with statutory requirements. The Good Manufacturing Practice for Medical Institution Preparations shall be formulated by the drug supervision and administration department of the State Council.\nThe legal representative and the principal person in charge of a medical institution shall take overall responsibility for the preparation activities of that medical institution."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VI Pharmacy Administration in Medical Institutions"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Medical institution preparations may be used only in the medical institution that prepared them, on the prescription of a physician, and may not be sold on the market or sold in disguised form, and no advertising of medical institution preparations may be published.\nWhere a disaster, epidemic or other emergency occurs, or where there is an urgent clinical need and no supply on the market, medical institution preparations may, with the approval of the drug supervision and administration department of the people's government at the provincial level, be used interchangeably among designated medical institutions within a specified period; however, the interchangeable use of special medical institution preparations prescribed by the drug supervision and administration department of the State Council and the interchangeable use of medical institution preparations across provincial administrative regions shall be subject to the approval of the drug supervision and administration department of the State Council. The drug supervision and administration departments of people's governments at or above the provincial level shall conduct the examination and make a decision within 5 working days from the date of accepting the application."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VI Pharmacy Administration in Medical Institutions"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Where a medical institution discovers a suspected adverse drug reaction, it shall promptly report it to the drug supervision and administration department and the health department in accordance with provisions.\nWhere a medical institution discovers a suspected cluster event of adverse drug reactions, it shall promptly provide medical treatment to patients, take measures to control risks, and promptly report to the drug supervision and administration department and the health department in accordance with provisions. The drug supervision and administration department and the health department shall promptly investigate and handle the matter after receiving the report."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VI Pharmacy Administration in Medical Institutions"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where a medical institution discovers quality problems in drugs purchased or used, it shall immediately take measures to control risks, promptly inform the supplying unit and the marketing authorisation holder of the drug, and report to the drug supervision and administration department of the county-level people's government of the place where it is located.\nThe marketing authorisation holder of a drug and the supplying unit shall provide or publish an email address, telephone number, fax number and the like to facilitate the provision of relevant information by medical institutions."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VI Pharmacy Administration in Medical Institutions"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "The drug supervision and administration departments and the health departments shall, in accordance with their respective duties, respectively supervise and administer drug quality and drug use behaviour in the drug use phase."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VI Pharmacy Administration in Medical Institutions"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "In conducting supervision and inspection, the drug supervision and administration departments may take the following measures:\n(1) entering the premises of drug research and development, production, trading and use activities and the premises providing related products or services for drug research and development, production, trading and use, to carry out on-site inspections and take samples;\n(2) inspecting and copying relevant documents, records, invoices, vouchers, electronic data and other materials, and sealing up or seizing materials that may be transferred, concealed or destroyed;\n(3) sealing up or seizing drugs and their related raw materials, excipients, and packaging materials and containers in direct contact with drugs that are proved by evidence to possibly endanger human health;\n(4) sealing up or seizing tools, facilities, equipment and premises that are proved by evidence to possibly be used for illegal activities.\nWhen the drug supervision and administration departments conduct supervision and inspection, there shall be not fewer than two law enforcement officers, who shall produce their law enforcement certificates. The units and individuals concerned shall cooperate with the supervision and inspection and may not refuse or obstruct it."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Administration"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "The drug supervision and administration department of the State Council shall formulate unified drug traceability standards and specifications. The marketing authorisation holders of drugs and drug production enterprises shall, in accordance with provisions, assign traceability identifiers on drug packaging. The marketing authorisation holders of drugs, drug production enterprises, drug trading enterprises and medical institutions shall provide traceability information in accordance with provisions to ensure that drugs are traceable."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Administration"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "The drug supervision and administration department of the State Council shall establish national drug professional technical institutions in accordance with procedures. The drug supervision and administration departments of people's governments at the provincial level may, in light of local drug industry development and the needs of supervision and administration work, establish local drug professional technical institutions in accordance with procedures. National drug professional technical institutions shall strengthen technical guidance to local drug professional technical institutions.\nThe drug supervision and administration departments of people's governments at or above the provincial level may, in light of the needs of drug supervision and administration work, designate eligible institutions to undertake the relevant professional technical work."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Administration"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Sampling inspection of drug quality shall follow the principles of being scientific, standardised and impartial.\nThe drug supervision and administration departments shall, in light of the needs of drug supervision and administration work, formulate and implement plans for sampling inspection of drug quality.\nIn sampling inspection of drug quality, drug sampling shall be carried out by not fewer than two sampling personnel in accordance with the provisions of the drug supervision and administration department of the State Council. The unit sampled shall cooperate with the sampling personnel in sampling. Where the unit sampled fails to cooperate without justified reasons, the drug supervision and administration department may order it to suspend the sale and use of the sampled drug.\nIn light of the needs of drug supervision and administration work, the drug supervision and administration departments may conduct sampling inspection of the quality of excipients and of packaging materials and containers in direct contact with drugs."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Administration"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Where a party disagrees with the test result of a drug testing institution, it may apply for re-testing within 7 days from the date of receiving the drug test result.\nWhere re-testing is applied for, the applicant shall pay the re-testing fee to the re-testing institution in advance in accordance with provisions. Where the re-testing conclusion is inconsistent with the original test conclusion, the re-testing fee shall be borne by the original drug testing institution.\nNo re-testing shall be conducted for test items that national drug standards provide are not subject to re-testing, or where other circumstances under which re-testing is not to be conducted as prescribed by the drug supervision and administration department of the State Council exist."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Administration"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "The results of sampling inspection of drug quality announced by the drug supervision and administration departments of people's governments at or above the provincial level shall include the product name of the sampled drug, the source of the sample, the indicated marketing authorisation holder and production enterprise of the drug or the indicated medical institution, the product batch number, specifications, the testing institution, the testing basis, the testing conclusion and the items not conforming to provisions. Where an announcement of the results of sampling inspection of drug quality is inappropriate, the department that published it shall, within 5 working days from the date of confirming the inappropriateness, make a correction within the scope of the original announcement."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Administration"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "For drugs that may be adulterated or counterfeit and cannot be tested according to the test items and test methods specified in national drug standards and drug registration standards, drug testing institutions may use supplementary test items and test methods approved by the drug supervision and administration department of the State Council for testing. Test results obtained using supplementary test items and test methods may serve as the basis for determining drug quality."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Administration"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "Where the drug supervision and administration departments take risk control measures such as suspension of production, sale, use and import in accordance with the provisions of paragraph 3 of Article 99 of the Drug Administration Law, the marketing authorisation holder of the drug, the drug production enterprise, the drug trading enterprise and the medical institution shall carry out rectification and eliminate the safety hazards. Where the drug supervision and administration department considers upon assessment that the relevant requirements are met, it shall lift the risk control measures taken.\nDuring the period in which the drug supervision and administration departments of people's governments at or above the provincial level take the risk control measures specified in the preceding paragraph, no advertisement for the drug concerned may be published; where already published, it shall immediately be stopped."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Administration"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "The following circumstances constitute fake drugs as provided in item (2) of paragraph 2 of Article 98 of the Drug Administration Law:\n(1) substances that do not have the function of disease prevention, treatment or diagnosis, or substances of unknown composition, which are passed off as drugs by claiming on their labels or instructions to have the function of disease prevention, treatment or diagnosis;\n(2) using the name or approval number of another drug and marking on the labels or instructions indications or functions and indications that the drug does not have;\n(3) the composition of the drug being inconsistent with the composition marked on its labels or instructions;\n(4) marking a false drug approval number or a false marketing authorisation holder of the drug;\n(5) other circumstances in which a non-drug is passed off as a drug or one drug is passed off as another drug."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Administration"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "Where a drug is determined to be a fake drug in accordance with the provisions of item (4) of paragraph 2 of Article 98 of the Drug Administration Law, or a drug is determined to be an inferior drug in accordance with the provisions of items (3) to (5) of paragraph 3 of Article 98 of the Drug Administration Law, drug testing is not required. Where a drug is determined to be a fake drug or an inferior drug in accordance with other provisions of paragraphs 2 and 3 of Article 98 of the Drug Administration Law, drug testing shall be carried out; however, where evidence such as the records of procurement and use of raw materials and excipients can sufficiently prove that it is a fake drug or an inferior drug, drug testing may be dispensed with."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Administration"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "A unit where a drug safety incident occurs shall immediately take measures to prevent the expansion of harm and shall immediately report to the drug supervision and administration department of the county-level people's government of the place where the incident occurs.\nWhere a medical institution discovers the occurrence of a drug safety incident, it shall immediately report to the drug supervision and administration department and the health department of the county-level people's government of the place where the incident occurs.\nAfter receiving a report, the drug supervision and administration department shall, in accordance with provisions, immediately report to the people's government at the corresponding level and the drug supervision and administration department of the people's government at the next higher level.\nPeople's governments at or above the county level shall organise and carry out response work in accordance with the emergency response plan for drug safety incidents."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Administration"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "The State shall strengthen drug stockpiling and implement stockpiling at both the central and local levels. The specific measures shall be formulated by the competent industry and information technology department of the State Council together with the relevant departments of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Administration"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "The competent health department of the State Council shall, together with the relevant departments of the State Council, formulate the national drug policy and the national system for essential drugs, and improve the management mechanism for the national list of essential drugs."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Administration"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "The market supervision and administration departments shall strengthen anti-monopoly and anti-unfair competition supervision and administration in drug production and trading, investigate and deal with monopolistic and unfair competition violations in accordance with law, and maintain the order of fair competition."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Administration"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "Where the drug supervision and administration departments and other departments discover in supervision and administration any leads suggesting that public functionaries are suspected of duty-related violations or duty-related crimes, they shall promptly transfer them to the supervisory organs."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Administration"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "Fees may be charged for drug registration, drug registration testing and compulsory testing. The specific charging items and charging standards shall be formulated respectively by the finance department and the development and reform department of the State Council in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Administration"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "Where any of the following circumstances exists, the drug supervision and administration department of the local people's government at or above the county level shall order rectification within a time limit, confiscate the illegally produced or sold drugs and the illegal gains, and impose a fine of not less than 10 times but not more than 20 times the value of the illegally produced or sold drugs; where the value of the illegally produced or wholesaled drugs is less than RMB 100,000 yuan, it shall be calculated as RMB 100,000 yuan, and where the value of the illegally retailed drugs is less than RMB 10,000 yuan, it shall be calculated as RMB 10,000 yuan; where the circumstances are serious, it shall in addition order suspension of production and business for rectification, up to revocation of the drug production licence or drug trading licence by the original issuing authority:\n(1) the marketing authorisation holder of a drug sells, in violation of Article 36 of these Regulations, commercial-scale batches of products produced before obtaining the drug approval document;\n(2) a production enterprise of decoction pieces commissions the processing of decoction pieces, or a production enterprise of herbal formula granules commissions the production of herbal formula granules;\n(3) a drug trading enterprise trades in herbal formula granules or medical institution preparations;\n(4) drugs are sold online in violation of Article 46 of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "Where any of the following circumstances exists, the drug supervision and administration department of the people's government at the provincial level shall order rectification within a time limit and give a warning; where rectification is not made within the time limit, a fine of not less than RMB 100,000 yuan but not more than RMB 500,000 yuan shall be imposed:\n(1) a production enterprise of decoction pieces or a production enterprise of herbal formula granules sells decoction pieces or herbal formula granules across provincial administrative regions without filing a record in accordance with the provisions of paragraph 3 of Article 39 or paragraph 4 of Article 40 of these Regulations;\n(2) a production enterprise of herbal formula granules produces herbal formula granules without filing a record in accordance with the provisions of paragraph 1 of Article 40 of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "Where a medical institution uses, without approval, preparations prepared by another medical institution, it shall be punished in accordance with the provisions of Articles 129 and 139 of the Drug Administration Law.\nWhere a medical institution is in any of the following circumstances, the drug supervision and administration department of the local people's government at or above the county level shall order rectification within a time limit; where rectification is not made within the time limit, a fine of not less than RMB 10,000 yuan but not more than RMB 100,000 yuan shall be imposed:\n(1) failing to formulate and implement management systems for the incoming inspection and acceptance, storage and use of drugs in accordance with provisions;\n(2) failing to take measures or report in accordance with provisions upon discovering quality problems in drugs purchased or used."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "Where an applicant, in applying for a licence such as the qualification for a non-clinical safety evaluation research institution, a drug clinical trial permit, a drug production permit, a drug trading permit, a medical institution preparation permit or drug registration, provides false certificates, data, materials or samples or adopts other deceptive means, the drug supervision and administration department of the people's government at or above the county level shall not accept the application or grant the licence, shall not accept the corresponding application of the applicant within 10 years, and shall impose a fine of not less than RMB 500,000 yuan but not more than RMB 5,000,000 yuan; where the circumstances are serious, it shall in addition impose a fine of not less than RMB 20,000 yuan but not more than RMB 200,000 yuan on the legal representative, the principal person in charge, the persons in charge who are directly responsible and other responsible persons, and prohibit them from engaging in drug production and trading activities within 10 years.\nWhere the false certificates, data, materials or samples submitted by the applicant were forged or fabricated by a non-clinical safety evaluation research institution, a drug clinical trial institution or another institution entrusted to carry out drug research and development related activities, the drug supervision and administration department of the people's government at or above the provincial level shall punish that institution in accordance with the provisions of Article 126 of the Drug Administration Law."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "Where a drug clinical trial institution that has filed a record does not meet the record-filing conditions, the drug supervision and administration department of the people's government at or above the provincial level shall order rectification within a time limit; where it still does not meet the record-filing conditions after the time limit, the record-filing of the relevant drug clinical trial speciality or of the drug clinical trial institution shall be cancelled, and it shall be prohibited from carrying out drug clinical trials in the relevant speciality within 1 year or from carrying out drug clinical trials within 1 year.\nWhere false certificates are provided when filing a record for a drug clinical trial institution, the drug supervision and administration department of the people's government at or above the provincial level shall cancel the record-filing of the relevant drug clinical trial speciality or of the drug clinical trial institution, prohibit it from carrying out drug clinical trials in the relevant speciality within 3 years or from carrying out drug clinical trials within 3 years, confiscate the illegal gains and impose a fine of not less than RMB 100,000 yuan but not more than RMB 500,000 yuan, and the relevant clinical trial data may not be used to apply for drug registration."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "Where a provider of a third-party online drug trading platform fails to establish and improve a quality management system for online drug sales in accordance with provisions, the drug supervision and administration department of the people's government at the provincial level shall order rectification within a time limit and give a warning; where rectification is not made within the time limit, a fine of not less than RMB 100,000 yuan but not more than RMB 500,000 yuan shall be imposed; where the circumstances are serious, a fine of not less than RMB 500,000 yuan but not more than RMB 2,000,000 yuan shall be imposed.\nWhere a provider of a third-party online drug trading platform, a marketing authorisation holder of a drug or a drug trading enterprise provides services such as information display and link redirection for another provider of a third-party online drug trading platform, marketing authorisation holder of a drug or drug trading enterprise to sell drugs online, in violation of the provisions of the drug supervision and administration department of the State Council, the drug supervision and administration department of the people's government at the provincial level shall order rectification within a time limit and give a warning; where rectification is not made within the time limit, it shall confiscate the illegal gains and impose a fine of not less than RMB 100,000 yuan but not more than RMB 500,000 yuan; where the circumstances are serious, it shall confiscate the illegal gains and impose a fine of not less than RMB 500,000 yuan but not more than RMB 2,000,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "Where a party refuses to comply with risk control measures such as suspension of production, sale, use and import lawfully taken by the drug supervision and administration departments, the drug supervision and administration department of the people's government at or above the county level shall impose a fine of not less than 5 times but not more than 10 times the value of the illegally produced, sold, used or imported drugs, and where the value is less than RMB 10,000 yuan, it shall be calculated as RMB 10,000 yuan; where the circumstances are serious, it shall in addition order suspension of production and business for rectification, up to revocation of the drug approval document, drug production licence, drug trading licence or medical institution preparation licence by the original issuing authority, and impose a fine of not less than RMB 20,000 yuan but not more than RMB 200,000 yuan on the legal representative, the principal person in charge, the persons in charge who are directly responsible and other responsible persons.\nWhere a party, in violation of the provisions of the Drug Administration Law, the Vaccine Administration Law or these Regulations, refuses or obstructs supervision and inspection, the drug supervision and administration department of the people's government at or above the county level shall order rectification within a time limit and impose a fine of not more than RMB 50,000 yuan; where the circumstances are serious, it shall order suspension of production and business for rectification."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "Where a drug trading enterprise or medical institution has performed the obligations such as incoming inspection and acceptance provided in the Drug Administration Law, the Vaccine Administration Law and these Regulations, and has sufficient evidence to prove that it did not know that the drugs it sold or used were fake or inferior drugs, it shall be exempt from punishment, but the fake or inferior drugs it sold or used shall be confiscated; where personal injury, property damage or other harm is caused, it shall bear liability for compensation in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "Where the drug supervision and administration departments or their staff, in violation of the provisions of these Regulations, disclose undisclosed test data or other data of a marketing authorisation holder of a drug and thereby cause losses to the marketing authorisation holder, the drug supervision and administration department shall bear liability for compensation in accordance with law; after compensating for the losses, the drug supervision and administration department shall order the staff members who acted intentionally or with gross negligence to bear part or all of the compensation costs, and shall impose sanctions in accordance with law on the responsible leading personnel and the persons directly responsible."
+        },
+        "noLabel": {
+          "en": "Article 87."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "The time required for drug registration review and evaluation, and the time required for the technical review involved in the examination of applications for the qualification of non-clinical safety evaluation research institutions, drug production licences, drug trading licences and medical institution preparation licences, shall not be counted in the time limit for the drug supervision and administration departments to implement administrative licensing."
+        },
+        "noLabel": {
+          "en": "Article 88."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "These Regulations shall come into force on 15 May 2026."
+        },
+        "noLabel": {
+          "en": "Article 89."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
         }
       }
     ]
@@ -1419,6 +5958,768 @@
         },
         "chapter": {
           "en": "Chapter V Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0589'] = {
+    "lawId": "CN-REG-0589",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 65 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Rules for Implementation are formulated in accordance with the provisions of the Postal Law of the People's Republic of China (hereinafter referred to as the Postal Law)."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The Ministry of Posts and Telecommunications of the People's Republic of China (hereinafter referred to as the MPT) is the competent postal department of the State Council and administers postal work throughout the country.\nThe posts and telecommunications administration bureaux of the provinces, autonomous regions and municipalities directly under the Central Government (hereinafter referred to as the PTA bureaux) are the regional postal administration bodies and administer postal work in their respective regions."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The municipal and county posts and telecommunications offices (including postal offices, the same below) are publicly owned public enterprises operating postal business (hereinafter referred to as postal enterprises) and, as authorised by the PTA bureaux, administer postal work in their respective regions.\nPosts and telecommunications branch offices, posts and telecommunications sub-offices, postal branch offices and postal sub-offices are branch organisations handling postal business (hereinafter referred to as branch organisations); postal kiosks, postal press and periodical kiosks and the like are service points of postal enterprises.\nPosts and telecommunications agencies are treated as branch organisations subordinate to postal enterprises."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Without the entrustment of a postal enterprise, no unit or individual may operate the business of delivering letters, postcards or other articles of a letter nature, except as otherwise provided by the State Council.\nLetters mean carriers of sealed information transmitted in the form of envelopes. Other articles of a letter nature mean carriers of information transmitted by means of symbols, images, sound and the like. The specific content shall be prescribed by the MPT."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Where a postal enterprise entrusts another unit or individual to handle postal business on its behalf, the parties shall reach agreement through consultation and conclude an agency contract."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "All units and individuals that use the postal services of China are collectively referred to as postal users (hereinafter referred to as users)."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Postal enterprises shall provide users with fast, accurate, safe and convenient postal services and safeguard the lawful rights and interests of users in using postal services.\nAll units and individuals have the responsibility to protect the freedom and confidentiality of correspondence and the safety of mail; no unit or individual may use postal business to engage in activities prohibited by laws, regulations and policies.\nExcept where, for the needs of national security or the investigation of criminal offences, the public security organs, State security organs or procuratorial organs inspect correspondence in accordance with the law, no unit or individual may, during the course of transport and delivery, inspect or detain mail for any reason."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Where, for the needs of national security or the investigation of criminal offences, public security organs, State security organs or procuratorial organs inspect or detain mail or freeze remittances or savings deposits, they must, in accordance with the law, issue the corresponding notices of inspection, detention or freezing to the postal enterprise or PTA bureau of the relevant county or at or above the county level, list the specific particulars of the mail, remittances or savings deposits, and complete the formalities for inspection, detention or freezing, after which the postal enterprise shall designate specially assigned persons to pick out the items, register them one by one and complete the formalities for handover; mail, remittances and savings deposits that no longer need to be inspected, detained or frozen, or that are ascertained to be unrelated to the case, shall be promptly returned to the postal enterprise. Where mail, remittances or savings deposits are lost or damaged during the period of inspection, detention or freezing, the relevant public security organ, State security organ or procuratorial organ shall be responsible for compensation."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Where people's courts or procuratorial organs confiscate domestic mail, remittances or savings deposits in accordance with the law, they must produce legal documents and complete the formalities with the postal enterprise or PTA bureau of the relevant county or at or above the county level. Confiscation of inward and outward international postal articles shall be decided by the customs and the formalities shall be completed accordingly."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Where the relevant units need to collect or obtain evidence or consult postal business archives in accordance with the provisions of the law, they must, on the strength of written certificates issued by the public security organ, the State security organ, the procuratorial organ or the people's court in the place where the relevant postal enterprise is located, and having listed the specific particulars of the mail, complete the formalities with the postal enterprise or PTA bureau of the relevant county or at or above the county level."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "No unit or individual may engage in any of the following acts that impede the normal conduct of postal work:\n(a) damaging postal facilities;\n(b) setting up stalls or piling up goods in front of, or at the entrances and passageways of, postal enterprises and branch organisations, thereby hindering users in using postal services or affecting the passage of mail transport vehicles;\n(c) creating disturbances without justification or disrupting normal order at places where postal business is handled;\n(d) obstructing postal staff in the lawful performance of their official duties or picking quarrels and provoking trouble;\n(e) intercepting postal transport vehicles, unlawfully hindering the transport and delivery of mail, or forcibly boarding postal transport vehicles;\n(f) unlawfully inspecting or intercepting mail;\n(g) other acts impeding the normal work of postal enterprises, branch organisations or postal staff."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The standards for establishing postal enterprises and branch organisations shall be prescribed by the MPT; the establishment or dissolution of postal enterprises shall be approved by the MPT; and the establishment or dissolution of branch organisations shall be approved by the PTA bureau and reported to the MPT for the record."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Postal Enterprises and Postal Facilities"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Local people's governments at all levels shall incorporate the establishment of postal enterprises and branch organisations and the construction of postal facilities into urban and rural construction planning."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Postal Enterprises and Postal Facilities"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "In building new urban districts, independent industrial and mining districts, residential districts, or in carrying out contiguous redevelopment of old urban districts, postal enterprises and branch organisations and postal facilities that match the development shall be planned and established at the same time."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Postal Enterprises and Postal Facilities"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where postal enterprises establish postal kiosks, postal press and periodical kiosks, pillar boxes, letter boxes or mobile services in accordance with the law, the relevant units or individuals shall provide convenience."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Postal Enterprises and Postal Facilities"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Letter boxes for receiving mail are supporting facilities of residential buildings, and design units shall incorporate them into the design standards for civil residential buildings.\nOn the ground floor of each unit of a residential building, letter boxes corresponding to the room numbers of the residents shall be installed, or a letter box room (group) shall be provided at a central location of the building for the use of residents in receiving mail.\nLetter boxes shall be repaired and replaced by the owner of the property rights of the residential building or the management unit, which may also entrust the local postal enterprise or its branch organisation with the repair and replacement, and the unit making the entrustment shall pay the labour and material costs required."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Postal Enterprises and Postal Facilities"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Larger railway stations, airports, ports and hotels shall provide, in places convenient to passengers, premises for handling postal business; postal enterprises shall provide postal services there."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Postal Enterprises and Postal Facilities"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where any unit, for construction needs, requisitions or demolishes postal enterprises and branch organisations or postal facilities, it shall consult with the local postal enterprise and, on the premise of ensuring the normal conduct of postal communications, shall relocate the postal enterprises and branch organisations and postal facilities to a suitable place or build replacements, and the costs required shall be borne by the requisitioning or demolishing unit."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Postal Enterprises and Postal Facilities"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Postal enterprises shall operate the business of delivering domestic and international mail and the express mail service.\nDomestic mail means mail posted to and from places within the territory of the People's Republic of China, of which mail sent from or to the Hong Kong Special Administrative Region, the Macao Special Administrative Region and the Taiwan region of China is referred to as mail for the Hong Kong, Macao and Taiwan regions; international mail means mail posted between the People's Republic of China and other countries and regions and mail of other countries and regions transited through the territory of China."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Types of Postal Business"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The domestic press and periodical distribution business means the business in which press and periodical publishing houses entrust postal enterprises with the distribution of newspapers and magazines."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Types of Postal Business"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where a press or periodical publishing house entrusts a postal enterprise with the distribution of newspapers and periodicals, it shall, according to the scope of distribution, produce to the designated postal enterprise or postal press and periodical distribution bureau the certificates that the relevant competent department has approved publication and that a newspaper or periodical registration certificate has been obtained. Where the postal enterprise has the capacity to undertake distribution, it shall, together with the press or periodical publishing house and in accordance with the principles of equality and mutual benefit, agreement through consultation and exchange of equal value, conclude a press and periodical distribution contract in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Types of Postal Business"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Postal savings and postal remittance business are financial business handled by postal enterprises for the purpose of accumulating funds for the State and facilitating economic exchanges; they shall be administered in a unified manner by the MPT and, in accordance with the relevant provisions of the State, shall be subject to the guidance of the People's Bank of China in respect of financial business. The relevant banks shall provide convenience for the savings and remittance business handled by postal enterprises."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Types of Postal Business"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The specific types of postal business and the classification of mail shall be prescribed by the MPT."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Types of Postal Business"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The basic postal rates mean the rates for domestic ordinary letters and postcards within the postal monopoly; non-basic rates mean postal rates other than the basic rates.\nThe basic postal rates shall be set by the competent pricing department of the State Council and submitted to the State Council for approval; non-basic rates shall be prescribed by the MPT."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter IV Postal Rates and Postage Certificates"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The basis for setting and adjusting postal rates is as follows:\n(a) the principle of ensuring the recovery of costs and the capacity for self-development of postal communications enterprises while meeting social needs;\n(b) domestic postal rates shall be adjusted accordingly on the basis of changes in expenditure;\n(c) international postal rates shall be adjusted accordingly on the basis of the provisions of the Universal Postal Union and changes in international and domestic costs and in the exchange rate of the Renminbi."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter IV Postal Rates and Postage Certificates"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Postage certificates are negotiable securities issued by the MPT as marks of payment of postage on mail, including postage stamps, the stamp designs printed on stamped envelopes, stamped postcards and stamped letter sheets, and the postage impressions printed by postage meters."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Postal Rates and Postage Certificates"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "International reply coupons issued by the Universal Postal Union may, in accordance with the uniform international provisions, be exchanged for postage stamps equal to the rate for a specific class of mail of a specific weight step, but may not be exchanged for cash."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Postal Rates and Postage Certificates"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Where stamp designs are reproduced for work needs, the matter must, in accordance with the relevant provisions on the reproduction of stamp designs, be submitted to the competent department for stamps of the MPT or the relevant PTA bureau for examination and approval.\nPrinting units may not undertake the printing of reproduced stamp designs that have not been approved or of printed matter resembling postage stamps."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Postal Rates and Postage Certificates"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Envelopes printed for correspondence must conform to the national standards and shall be supervised in their production by the local PTA bureau."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Postal Rates and Postage Certificates"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Postcards printed must conform to the specifications and standards prescribed by the MPT.\nPostal enterprises at or above the county level may, with the approval of the PTA bureau, print and issue postcards bearing the words \"Chinese People's Post\"; postcards printed by other units shall be supervised in their production by the local PTA bureau but may not bear the words \"Chinese People's Post\"."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Postal Rates and Postage Certificates"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Ordinary letters sent by conscripts from their units shall be delivered free of charge; other military personnel may not send letters free of charge. The measures for supervising and administering the sending of ordinary letters by conscripts shall be formulated by the MPT together with the relevant departments of the Chinese People's Liberation Army."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter V Posting and Delivery of Mail and Compensation for Loss"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Mail posted by users shall conform to the content admissible for posting, the packing specifications and the writing format prescribed by the MPT, and the postal code shall be written correctly; in particular, the envelopes used by users for posting letters must conform to the national standards; the covers of mail and the postal business forms may not have printed (written) on them or affixed to them any words or other articles unrelated to the mail; the face of postage certificates may not be smeared with or covered by other articles; and forged, reproduced, cut and pieced together, or processed and cleaned postage certificates may not be used."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter V Posting and Delivery of Mail and Compensation for Loss"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The following articles are prohibited from being posted or enclosed in mail:\n(a) articles whose circulation or posting is prohibited by law;\n(b) reactionary newspapers, books and propaganda materials, or obscene articles;\n(c) explosives, inflammable, corrosive, radioactive, toxic and other dangerous articles;\n(d) articles harmful to public health;\n(e) articles prone to decay;\n(f) live animals of all kinds;\n(g) currencies of all kinds;\n(h) articles unsuited to the conditions for mailing;\n(i) articles improperly packed that may endanger personal safety or pollute or damage other mail or equipment.\nThe articles mentioned in the preceding paragraph may be accepted for posting where they comply with the provisions of the MPT on specially authorised posting and safety is ensured."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter V Posting and Delivery of Mail and Compensation for Loss"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The articles subject to quantitative restrictions on posting domestically shall be prescribed by the MPT together with the relevant departments of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter V Posting and Delivery of Mail and Compensation for Loss"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "For articles posted in violation of the provisions prohibiting or restricting posting, postal enterprises or branch organisations shall, according to their type, nature and quantity, deal with them respectively as follows:\n(a) not accepting them for posting;\n(b) notifying the sender to collect them within a specified time limit, and disposing of them on the spot if they are not collected after the time limit expires;\n(c) transferring them to the relevant departments for handling in accordance with the law;\n(d) where personal safety is endangered or other mail or equipment is polluted or damaged, the sender shall bear the liability for compensation.\nThe expenses required for handling under items (b) and (c) of the preceding paragraph shall be borne by the sender."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter V Posting and Delivery of Mail and Compensation for Loss"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "For newly built enterprises, institutions and residential housing, the unit or the competent department of the residential housing shall complete the formalities for registration of mail delivery with the local postal enterprise or branch organisation; where a unit changes its name or a recipient changes address, it shall notify the local postal enterprise or branch organisation in advance, and may also complete the formalities for redirecting mail to the new address. Postal enterprises shall publish the registration locations and telephone numbers.\nWhere the following conditions are met, the postal enterprise or branch organisation concerned shall register the matter and arrange delivery within 90 days from the date of registration:\n(a) there are conditions for the passage of postal vehicles and postal staff performing official duties;\n(b) there are house numbers uniformly assigned by the public security organ;\n(c) letter boxes for receiving mail have been installed or a mail room has been established;\n(d) where registration of names in Chinese and foreign languages is required as prescribed, the formalities have been completed."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter V Posting and Delivery of Mail and Compensation for Loss"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Unless otherwise prescribed by the MPT, mail shall be delivered in the following ways:\n(a) Delivery to the address\nMail for urban residents shall be delivered, according to the address of the recipient, to the letter box or mail room at the entrance of the courtyard of a single-storey house or on the ground floor of a building. Mail for units, for institutions and individuals attached to units, and for residents of dormitories within the compound of a unit shall be delivered to the mail room of the unit. The mail room shall be located on the ground floor of the building; where two or more units are located at the same place, they shall agree on a common location for receiving mail. Where delivery of mail, newspapers and periodicals upstairs is required, the user shall consult with the relevant postal enterprise or branch organisation and shall pay a special service fee as prescribed.\nMail in rural and pastoral areas shall, in the light of transport conditions and the volume of mail, generally be delivered to a fixed location in the township or administrative village; as for mail below the township or administrative village level, the township people's government or the villagers' committee shall consult with the postal enterprise or branch organisation on the manner of proper delivery to the recipients.\nMail addressed to ships shall be delivered to the mail room of the unit to which the ship belongs.\n(b) Collection by the user\nMail that can be collected only on the strength of a notice at a postal enterprise or branch organisation, mail addressed to a post office box (private box) number, mail held at the post office for collection, mail exceeding the weight prescribed for delivery to the address, and bulk mail shall be delivered by way of collection by the user."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter V Posting and Delivery of Mail and Compensation for Loss"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where a recipient collects registered mail, or a payee collects a remittance, he shall produce his valid identity certificate to the relevant postal enterprise or branch organisation and affix his seal or signature on the relevant form.\nWhere an agent collects registered mail (remittances) on behalf of a recipient (payee) upon entrustment, he shall produce the valid identity certificates of both the recipient (payee) and the agent and, after confirmation by the postal enterprise or branch organisation, receive the item by affixing his seal or signature.\nValid identity certificates include the resident identity card, the household register and the work permit."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V Posting and Delivery of Mail and Compensation for Loss"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where a recipient, on receiving registered mail, finds the cover damaged, he shall declare the fact on the spot and check the contents. Where the contents are short or damaged owing to the responsibility of the postal enterprise or branch organisation, or where registered mail is lost or damaged owing to the responsibility of the postal enterprise or branch organisation, the postal enterprise or branch organisation shall make compensation as prescribed. Where registered mail is lost or damaged or its contents are short owing to the negligence of the mail room staff of the unit to which the recipient belongs, the mail room staff concerned shall bear the prescribed liability for compensation.\nThe specific requirements for the transport and delivery of mail shall be prescribed and announced by the MPT. Where the transport and delivery of mail violate the provisions of the MPT, the postal enterprise or branch organisation shall compensate the user, and the specific measures for compensation shall be prescribed by the MPT."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V Posting and Delivery of Mail and Compensation for Loss"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Mail received in error by a user shall be promptly returned to the postal enterprise or branch organisation; mail opened in error by a user shall be resealed, signed and sealed and then returned to the postal enterprise or branch organisation, and the user shall keep confidential the contents of the mail opened in error."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter V Posting and Delivery of Mail and Compensation for Loss"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "When the mail room staff of a unit receive registered mail, they shall carefully check the items and, after finding them correct, affix their seal and sign for receipt on the relevant list.\nThe mail room staff have the responsibility to protect and promptly transmit mail of all kinds and may not open mail without authorisation, conceal it, destroy it, or tear off stamps."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter V Posting and Delivery of Mail and Compensation for Loss"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The MPT and the PTA bureaux shall promptly notify the relevant transport departments of changes in the flow and volume of mail transport. The transport departments shall, in accordance with the needs of postal communications, give priority to providing available train services, flights and shipping space.\nThe relevant transport departments shall make appropriate arrangements at railway stations, airports, ports and wharves for the premises, entrances and passageways and buildings required for loading and unloading, storing and handling mail, as well as information facilities for notifying train or voyage movements.\nIn building, rebuilding or expanding railway stations, airports, ports and wharves, unified planning shall be made for the premises and passageways required for the storage and transfer of mail, and the capital construction costs relating thereto shall be borne by postal enterprises."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VI Transport, Customs Examination and Quarantine of Mail"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where a postal enterprise entrusts a transport unit with the transport of mail, it shall conclude an agreement on the transport of mail."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VI Transport, Customs Examination and Quarantine of Mail"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Mail carried by a transport unit shall be dispatched before goods. Where transport is temporarily suspended or the running time or stopping position is changed for any reason, the transport unit shall promptly notify the postal enterprise or branch organisation."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VI Transport, Customs Examination and Quarantine of Mail"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Vessels carrying mail shall fly the postal flag, and the ports concerned shall give priority to the clearance of vessels flying the postal flag."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VI Transport, Customs Examination and Quarantine of Mail"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where a transport unit carries mail, it shall, unless the postal enterprise or branch organisation sends staff to escort the mail, complete the formalities for handover and receipt with the postal enterprise or branch organisation.\nExcept in cases of force majeure, where mail is lost, short or damaged while in the custody of a transport unit or in the course of transport, the transport unit concerned shall make compensation in accordance with the provisions of the agreement on the transport of mail.\nWhere a vessel carrying mail encounters a maritime peril and goods must be jettisoned, the mail being carried may not be jettisoned until the last resort."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VI Transport, Customs Examination and Quarantine of Mail"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where vehicles and vessels performing mail transport and delivery tasks and postal staff pass through bridges, ferries, tunnels and inspection stations, the parties concerned shall give them priority of passage. Postal vehicles bearing special postal markings may, when transporting and delivering mail, be exempt from restrictions on prohibited routes and prohibited stopping sections on the strength of a pass issued by the public security organ. Where mail transport vehicles or postal staff commit a violation of regulations in the course of transporting and delivering mail, the competent departments concerned shall keep a record and let them pass, and deal with the matter after they have completed the transport and delivery tasks."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VI Transport, Customs Examination and Quarantine of Mail"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "The operating timetable drawn up by a postal enterprise on the basis of the arrival (berthing) and departure (sailing) times of means of transport and the time limits for transport and delivery shall be notified to the customs three days before it is changed. The customs shall, in accordance with the operating timetable notified by the postal enterprise, send officers to the scene to supervise international mail bags and inspect inward and outward international postal articles; where the customs fails to appear at the appointed time and the time limits for transport and delivery are delayed as a result, the customs shall bear the liability concerned.\nWhen the customs inspects international postal parcels in accordance with the law, it shall, at a place where a customs office is established, conduct the inspection in the presence of the user. Where the sender or recipient cannot be present, the customs shall open and inspect the parcel, with postal staff present to assist. Parcels opened and inspected shall be jointly sealed by the customs and the postal enterprise, with both parties affixing sealing labels or stamps. Printed matter opened and inspected by the customs in accordance with the law shall be resealed with customs sealing labels or stamps affixed."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VI Transport, Customs Examination and Quarantine of Mail"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where a user posts mail that is subject to health quarantine or animal and plant quarantine, a quarantine certificate must be attached. The quarantine department shall promptly inspect and release the mail so as to ensure compliance with the time limits for the transport and delivery of mail."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VI Transport, Customs Examination and Quarantine of Mail"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "When the customs or the quarantine department inspects international postal articles or quarantines mail in accordance with the law, it shall take care to protect them; where sealing for custody is required, it shall, apart from notifying the sender or recipient, complete the handover formalities with the postal enterprise or branch organisation and be responsible for their custody, and the period of sealing for custody may not exceed 45 days. Where the period of sealing for custody needs to be extended under special circumstances, the consent of the postal enterprise or branch organisation and of the sender or recipient shall be obtained, and the extension shall be premised on not causing loss to the sealed international postal articles or mail. When the sealed international postal articles or mail are returned to the postal enterprise or branch organisation, the postal staff shall check them and, finding them correct, sign for receipt.\nWhere international postal articles are confiscated in accordance with the law, or mail must be destroyed in accordance with the law upon health or animal and plant quarantine, the customs or the quarantine department shall issue a notice of confiscation or of quarantine treatment and promptly notify the sender or recipient and the postal enterprise or branch organisation.\nWhere international postal articles are lost, short or damaged during the period of inspection or sealing for custody in accordance with the law, the customs or the quarantine department shall be responsible for compensation or for dealing with the matter."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VI Transport, Customs Examination and Quarantine of Mail"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where the premises and buildings of a postal enterprise or branch organisation are needed for inspecting postal articles or quarantining mail in accordance with the law, the postal enterprise shall settle the matter with the departments concerned through consultation in the light of work needs and actual possibilities."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VI Transport, Customs Examination and Quarantine of Mail"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "For inward international postal parcels that are undeliverable and are handled by the customs in accordance with the law, the customs shall pay the postal charges concerned."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VI Transport, Customs Examination and Quarantine of Mail"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "The manner of transmitting customs declarations for outward international mail shall be determined by the General Administration of Customs together with the MPT through consultation."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VI Transport, Customs Examination and Quarantine of Mail"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Whoever violates the provisions of Article 11 of these Rules shall be punished by the departments concerned in accordance with the relevant provisions of the State and in the light of the seriousness of the circumstances; and whoever violates the relevant provisions on public security administration shall be punished by the public security organ in accordance with the Regulations of the People's Republic of China on Penalties for Administration of Public Security."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VII Penalty Provisions"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Whoever violates the provisions of item (c) of Article 33 of these Rules and has not yet caused serious consequences shall be dealt with by the public security organ in accordance with the Regulations of the People's Republic of China on Penalties for Administration of Public Security."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VII Penalty Provisions"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Whoever forges or fraudulently uses special postal markings, postal uniform insignia, or special postal articles such as postal date stamps, postal tongs and mail bags shall be fined not more than RMB 1,500 by the PTA bureau or a unit authorised by it, and the articles concerned shall be confiscated."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VII Penalty Provisions"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Whoever, for the purpose of making profits, forges postage certificates, reproduces stamp designs without permission, or prints postcards bearing the words \"Chinese People's Post\" shall be fined not more than RMB 5,000 by the PTA bureau or a unit authorised by it, and the illegal gains and illegal articles shall be confiscated.\nWhere, through the intentional act of the user, mail posted bears postage certificates that do not conform to the provisions, the postal enterprise or branch organisation shall not dispatch it, shall notify the sender to withdraw it within a specified time limit, and shall impose a fine of ten times the postage payable; where the sender cannot be notified or fails to complete the withdrawal formalities within the time limit, the mail shall be treated as undeliverable mail."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VII Penalty Provisions"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where postal staff conceal, destroy or open mail without authorisation, steal mail, or embezzle or fraudulently claim users' money, the postal enterprise shall recover the illicit money and goods, may concurrently impose a fine, and may also, in the light of the seriousness of the circumstances, give administrative sanctions. The specific measures shall be prescribed by the MPT."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VII Penalty Provisions"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Whoever violates the provisions of the second paragraph of Article 41 of these Rules shall be held liable in accordance with the provisions of Article 36 of the Postal Law."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VII Penalty Provisions"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Where a violation of the provisions of these Rules constitutes a crime, the judicial organs shall investigate criminal liability in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VII Penalty Provisions"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Whoever receives in error or opens in error the letters of another person and fails to return them, or returns them but discloses their contents, thereby infringing the right of another person to freedom of correspondence, shall be held liable in accordance with the provisions of Article 36 of the Postal Law."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VII Penalty Provisions"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "The public security organs, State security organs and procuratorial organs mentioned in these Rules mean the public security organs, State security organs and procuratorial organs at or above the county level (including the county level)."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "The MPT may formulate the relevant rules in accordance with these Rules."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "The interpretation of these Rules shall be the responsibility of the MPT."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "These Rules shall come into force on the date of promulgation."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
         }
       }
     ]
@@ -2693,6 +7994,1152 @@
     ]
   };
 
+  TR['CN-REG-0593'] = {
+    "lawId": "CN-REG-0593",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 97 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the Budget Law of the People's Republic of China (hereinafter referred to as the Budget Law)."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Agency offices dispatched by local people's governments at or above the county level shall conduct budget management activities under the authorisation of the people's government at the corresponding level, but shall not constitute a level of budget; their revenue and expenditure shall be incorporated into the budget at the corresponding level."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The social insurance fund budget shall achieve sustainable operation on the basis of actuarial balance. The general public budget may, as required and in light of financial capacity, appropriately allocate funds to supplement the social insurance fund budget."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The departments mentioned in paragraph 2 of Article 6 of the Budget Law refer to State organs, the armed forces, political parties, public institutions, social organisations and other units that have a direct relationship of budget contribution and allocation with the finance department of the people's government at the corresponding level."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The budget of each department shall reflect all budgetary funds allocated to the department and to all units subordinate to it under the general public budget, the government fund budget and the State-owned capital operation budget.\nDepartmental budget revenue includes budgetary appropriation revenue allocated by the finance at the corresponding level to the department and to all units subordinate to it, and other revenue. Departmental budget expenditure is the expenditure corresponding to departmental budget revenue, including basic expenditure and project expenditure.\nThe basic expenditure mentioned in paragraph 2 of this Article refers to expenditure incurred by each department and each unit to ensure the normal operation of its organisation and to accomplish routine work tasks, including personnel expenses and public expenses; the project expenditure refers to expenditure incurred by each department and each unit to accomplish specific work tasks and objectives for the development of undertakings.\nThe budgetary appropriation revenue of each department and of all units subordinate to it, and the corresponding expenditure, shall be separately reflected in the departmental budget.\nThe specific measures for the preparation and execution of departmental budgets shall be prescribed by the finance department of the people's government at the corresponding level in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "General transfer payments shall be disclosed to the public down to the regional level. Special transfer payments shall be disclosed to the public down to the regional and project levels.\nInformation on government debt, operating expenses of State organs, government procurement and funds in special fiscal accounts shall be disclosed to the public in accordance with the relevant provisions.\nDepartmental budgets and final accounts shall disclose basic expenditure and project expenditure. Departmental budget and final account expenditure shall, by functional classification, be disclosed down to the item level; by economic nature, basic expenditure shall be disclosed down to the article level.\nThe budgets, final accounts and statements of units subordinate to each department shall be disclosed to the public by the units within 20 days after approval by the department. Unit budgets and final accounts shall disclose basic expenditure and project expenditure. Unit budget and final account expenditure shall, by functional classification, be disclosed down to the item level; by economic nature, basic expenditure shall be disclosed down to the article level."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The tax-sharing system between the Central and local governments mentioned in Article 15 of the Budget Law refers to a fiscal management system under which, on the basis of dividing administrative powers between the Central and local governments, the scope of fiscal expenditure of the Central and local governments is determined and budget revenue of the Central and local governments is divided by category of tax.\nThe specific content and implementation measures of the tax-sharing fiscal management system shall be governed by the relevant provisions of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Local people's governments at or above the county level shall, in accordance with the principles of the tax-sharing system between the Central and local governments and the relevant provisions of the people's government at the next higher level, determine the fiscal management system applied by the government at the corresponding level to the government at the next lower level."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The general transfer payments mentioned in paragraph 2 of Article 16 of the Budget Law include:\n(a) equalisation transfer payments;\n(b) fiscal subsidies to old revolutionary base areas, areas inhabited by ethnic minorities, border areas and poverty-stricken areas;\n(c) other general transfer payments."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The special transfer payments mentioned in paragraph 3 of Article 16 of the Budget Law refer to budgetary funds granted by a higher-level government to a lower-level government for the purpose of achieving specific economic and social development objectives, and arranged and used by the lower-level government for the purposes prescribed by the higher-level government.\nThe finance departments of governments at or above the county level shall, in conjunction with the relevant departments, establish and improve a mechanism for the periodic evaluation and withdrawal of special transfer payments. Special transfer payments after evaluation shall be dealt with respectively in the following circumstances:\n(a) where they conform to laws, administrative regulations and the provisions of the State Council and it is necessary to continue their implementation, they may continue to be implemented;\n(b) where the relevant requirements for their establishment have changed, or where there is a wide gap between actual performance and the objectives and their management is not sufficiently sound, they shall be adjusted;\n(c) where the basis for their establishment has become invalid or has been repealed, they shall be cancelled."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Budget revenue and budget expenditure shall be calculated in Renminbi yuan. Where budget revenue is collected and budget expenditure is paid in a currency other than Renminbi, it shall be converted into Renminbi for calculation."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The revenue from administrative and institutional charges mentioned in paragraph 1 of Article 27 of the Budget Law refers to revenue generated by State organs, public institutions and other entities charging specific recipients at prescribed rates in the course of performing public administration and providing specific public services to citizens, legal persons and other organisations, in accordance with laws and regulations and with approval obtained through the procedures prescribed by the State Council.\nThe revenue from the paid use of State-owned resources (assets) mentioned in paragraph 1 of Article 27 of the Budget Law refers to revenue from the paid use of mineral resources, water flows, sea areas, uninhabited offshore islands, forests, grasslands and other State-owned resources that are owned by the State as provided by law, and revenue from State-owned assets incorporated into the management of the general public budget in accordance with the provisions, among others.\nThe transfer revenue mentioned in paragraph 1 of Article 27 of the Budget Law refers to tax refunds and transfer payments from higher levels, revenue remitted from lower levels, funds transferred in, and gratuitous assistance from governments with no subordinate relationship that is classified as transfer revenue in accordance with the provisions of the Ministry of Finance."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Scope of Budget Revenue and Expenditure"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Transfer expenditure includes expenditure remitted to higher levels, tax refunds and transfer payments to lower levels, funds transferred out, and gratuitous assistance given to governments with no subordinate relationship that is classified as transfer expenditure in accordance with the provisions of the Ministry of Finance."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Scope of Budget Revenue and Expenditure"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Government fund budget revenue includes revenue from each government fund item and transfer revenue.\nGovernment fund budget expenditure includes expenditure for each item corresponding to government fund budget revenue and transfer expenditure."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Scope of Budget Revenue and Expenditure"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "State-owned capital operation budget revenue includes, in accordance with laws, administrative regulations and the provisions of the State Council, the profit revenue turned over to the State as prescribed by wholly State-owned enterprises and wholly State-owned companies that shall be incorporated into the State-owned capital operation budget, dividend and bonus revenue obtained from State-controlled and State-participating companies, revenue from the transfer of State-owned property rights, liquidation revenue and other revenue.\nState-owned capital operation budget expenditure includes capital expenditure, expense-type expenditure, transfer expenditure such as funds transferred out to the general public budget, and other expenditure."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Scope of Budget Revenue and Expenditure"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Social insurance fund budget revenue includes revenue from the various social insurance contributions, interest revenue, investment income, subsidy revenue from the general public budget, collective subsidy revenue, transfer revenue, subsidy revenue from higher levels, revenue remitted from lower levels and other revenue.\nSocial insurance fund budget expenditure includes expenditure on the various social insurance benefits, transfer expenditure, expenditure on subsidies to lower levels, expenditure remitted to higher levels and other expenditure."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Scope of Budget Revenue and Expenditure"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The specific measures for dividing revenue and expenditure items between budgets at higher and lower levels of local governments at all levels and for remittance, refund or transfer payments shall be prescribed by the local government at the next higher level and reported to the standing committee of the people's congress at the corresponding level for the record."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Scope of Budget Revenue and Expenditure"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The specific measures for dividing revenue and expenditure items between social insurance fund budgets at higher and lower levels of local governments at all levels and for remittance and subsidies shall be prescribed by the local government at the next higher level in accordance with the pooling level and reported to the standing committee of the people's congress at the corresponding level for the record."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Scope of Budget Revenue and Expenditure"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The draft budget mentioned in Article 31 of the Budget Law refers to the budget prepared by each government, each department and each unit that has not been examined and approved through statutory procedures."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Budget Preparation"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The performance evaluation mentioned in paragraph 1 of Article 32 of the Budget Law refers to a systematic and objective evaluation, in accordance with standardised procedures and against the performance objectives set, of the input, the use process, the output and the effects of budgetary funds.\nThe results of performance evaluation shall, in accordance with the provisions, serve as the basis for improving management and preparing the budgets for subsequent years."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Budget Preparation"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The budget expenditure standards mentioned in paragraph 3 of Article 32 of the Budget Law refer to the standards for preparing expenditure budgets that are prescribed separately for budget items after reasonable classification, including basic expenditure standards and project expenditure standards.\nThe finance departments of local people's governments at all levels shall, on the basis of the budget expenditure standards formulated by the Ministry of Finance and in light of the level of economic and social development and the financial situation of their respective regions, formulate the budget expenditure standards for their respective regions or at the corresponding level."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Budget Preparation"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The Ministry of Finance shall, before 15 June each year, make arrangements for the specific matters concerning the preparation of the draft budget for the following year, and prescribe the statement formats, the methods of preparation and submission, the submission deadlines and other matters."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Budget Preparation"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Each Central department shall, in accordance with the requirements of the State Council and the arrangements of the Ministry of Finance and in light of its specific circumstances, organise the preparation of the draft budgets of the department and of all units subordinate to it.\nEach Central department shall be responsible for examining the draft budgets of all units subordinate to it, and shall compile the draft budget of the department on a consolidated basis and submit it to the Ministry of Finance for examination in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Budget Preparation"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The Ministry of Finance shall examine the draft budgets of the Central departments, specifically prepare the draft Central budget, and consolidate the draft local budgets or the local budgets to compile the draft Central and local budgets."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Budget Preparation"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The governments of provinces, autonomous regions and municipalities directly under the Central Government shall, in accordance with the requirements of the State Council and the arrangements of the Ministry of Finance and in light of the specific circumstances of their respective regions, set out the requirements for the preparation of draft budgets within their respective administrative regions.\nThe finance departments of local people's governments at or above the county level shall, before 30 June each year, make arrangements for the specific matters concerning the preparation of the draft budget for the following year within their respective administrative regions, and prescribe the relevant statement formats, the methods of preparation and submission, the submission deadlines and other matters."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Budget Preparation"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Each department of local people's governments at or above the county level shall, in accordance with the requirements of the government at the corresponding level and the arrangements of the finance department of that government and in light of its specific circumstances, organise the preparation of the draft budgets of the department and of all units subordinate to it, and submit them to the finance department of the government at the corresponding level for examination in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Budget Preparation"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The finance departments of local people's governments at or above the county level shall examine the draft budgets of the departments at the corresponding level, specifically prepare the draft budget at the corresponding level, and compile the draft general budget at the corresponding level, which shall, after examination and determination by the government at the corresponding level, be submitted to the finance department of the government at the next higher level within the prescribed time limit in accordance with the provisions.\nThe draft general budget at the corresponding level or the general budget at the corresponding level consolidated by the finance department of the government of a province, an autonomous region or a municipality directly under the Central Government shall be submitted to the Ministry of Finance before 10 January of the following year."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Budget Preparation"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Where, in examining the draft budgets of the departments at the corresponding level, the finance department of a government at or above the county level finds that they do not meet the requirements for budget preparation, it shall make corrections; where, in compiling the draft general budget at the corresponding level, it finds that a draft budget at a lower level does not meet the budget preparation requirements of the higher-level government or of the government at the corresponding level, it shall promptly report to the government at the corresponding level, which shall make corrections."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Budget Preparation"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "In preparing the draft revenue budget, the finance department of each government shall seek the opinions of the tax, customs and other budget revenue collection departments and units.\nBudget revenue collection departments and units shall, in accordance with the requirements of the finance department, provide projections of budget revenue collection for the following year."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Budget Preparation"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "The finance department shall, in conjunction with the social insurance administrative department, make arrangements for the specific matters concerning the preparation of the draft social insurance fund budget for the following year.\nThe social insurance agencies shall specifically prepare the draft social insurance fund budget for the following year and submit it to the social insurance administrative department at the corresponding level for examination and consolidation. The draft social insurance fund revenue budget shall be specifically prepared by the social insurance agencies in conjunction with the social insurance contribution collection agencies. The finance department shall be responsible for examining and consolidating the draft social insurance fund budget."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Budget Preparation"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The finance department of each government shall, in accordance with the Budget Law and these Regulations, formulate procedures for the preparation of the draft budget at the corresponding level."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Budget Preparation"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "In preparing draft budgets, each department and each unit shall, in accordance with the asset allocation standards and in light of the existing assets, prepare the relevant expenditure budgets."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III Budget Preparation"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The preparation of Central general public budget revenue includes general public budget revenue at the corresponding level, funds transferred in from the State-owned capital operation budget, revenue remitted from local levels, funds transferred in from the budget stabilisation and adjustment fund and other funds transferred in.\nThe preparation of Central general public budget expenditure includes general public budget expenditure at the corresponding level, tax refunds and transfer payments to local levels and replenishment of the budget stabilisation and adjustment fund.\nThe ceiling on the outstanding balance of Central government debt shall be listed separately in the budget at the corresponding level."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter III Budget Preparation"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The preparation of general public budget revenue of local governments at all levels includes general public budget revenue at the corresponding level, funds transferred in from the State-owned capital operation budget, tax refunds and transfer payments from higher levels, revenue remitted from lower levels, funds transferred in from the budget stabilisation and adjustment fund and other funds transferred in.\nThe preparation of general public budget expenditure of local governments at all levels includes general public budget expenditure at the corresponding level, expenditure remitted to higher levels, tax refunds and transfer payments to lower levels and replenishment of the budget stabilisation and adjustment fund."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter III Budget Preparation"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The preparation of Central government fund budget revenue includes revenue from each government fund item at the corresponding level, the surplus of the preceding year and revenue remitted from local levels.\nThe preparation of Central government fund budget expenditure includes expenditure for each government fund item at the corresponding level, transfer payments to local levels and funds transferred out."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter III Budget Preparation"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The preparation of local government fund budget revenue includes revenue from each government fund item at the corresponding level, the surplus of the preceding year, revenue remitted from lower levels and transfer payments from higher levels.\nThe preparation of local government fund budget expenditure includes expenditure for each government fund item at the corresponding level, expenditure remitted to higher levels, transfer payments to lower levels and funds transferred out."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter III Budget Preparation"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The preparation of Central State-owned capital operation budget revenue includes revenue at the corresponding level, the surplus of the preceding year and revenue remitted from local levels.\nThe preparation of Central State-owned capital operation budget expenditure includes expenditure at the corresponding level, funds transferred out to the general public budget and transfer payments to local levels for specific matters."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter III Budget Preparation"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "The preparation of local State-owned capital operation budget revenue includes revenue at the corresponding level, the surplus of the preceding year, transfer payments from higher levels for specific matters and revenue remitted from lower levels.\nThe preparation of local State-owned capital operation budget expenditure includes expenditure at the corresponding level, funds transferred out to the general public budget, transfer payments to lower levels for specific matters and expenditure remitted to higher levels."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter III Budget Preparation"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The preparation of the revenue and expenditure of the Central and local social insurance fund budgets includes the various items of revenue and expenditure prescribed in Article 16 of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter III Budget Preparation"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "The preparation of budget revenue of each department and each unit includes budgetary appropriation revenue at the corresponding level, the carry-over of budgetary appropriation and other revenue.\nThe preparation of budget expenditure of each department and each unit includes basic expenditure and project expenditure.\nThe budget expenditure of each department and each unit shall, by functional classification, be itemised down to the item level, and by economic nature, be itemised down to the article level."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter III Budget Preparation"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Each government shall strengthen the management of project expenditure. The finance department of each government shall establish and improve a system for the review and appraisal of project expenditure budgets. Each department and each unit shall carry out budget review and appraisal in accordance with the provisions of the finance department of the government at the corresponding level.\nProject expenditure shall be subject to project library management, and a sound mechanism for the review of projects upon entry into the library and a mechanism for the rolling management of projects shall be established."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter III Budget Preparation"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The balance management mentioned in paragraph 2 of Article 34 of the Budget Law refers to a management approach under which the State Council, within the debt balance ceiling of the Central general public budget approved by the National People's Congress, determines the scale, varieties, terms and timing of bond issuance; the balance refers to the principal of borrowed debt that has not been repaid in the Central general public budget."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter III Budget Preparation"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "A ceiling management system shall apply to the outstanding balance of local government debt. The government debt ceilings of each province, autonomous region and municipality directly under the Central Government shall, within the total ceiling approved by the National People's Congress or its Standing Committee, be proposed by the Ministry of Finance on the basis of factors such as the debt risk and financial situation of each region and in consideration of the needs of the national macroeconomic regulation policies, and submitted to the State Council for approval.\nThe outstanding balance of government debt of each province, autonomous region and municipality directly under the Central Government shall not exceed the ceiling approved by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter III Budget Preparation"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "The scale of borrowed debt mentioned in paragraph 2 of Article 35 of the Budget Law refers to the aggregate of the debt balance ceilings of all local governments, including the general debt ceiling and the special debt ceiling. General debt refers to general bonds included in the general public budget and used for the development of public welfare undertakings, and on-lent loans from foreign governments and international economic organisations for which local governments bear repayment responsibility; special debt refers to special bonds included in the government fund budget and used for the development of public welfare undertakings that generate revenue."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter III Budget Preparation"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "The finance department of the government of a province, an autonomous region or a municipality directly under the Central Government shall, in accordance with the local government debt ceiling for its region assigned by the State Council, propose a plan for the arrangement of the debt ceiling at the corresponding level and the debt ceiling on-lent to lower-level governments, and after approval by the government at the corresponding level, include the additional borrowed debt in the budget adjustment plan at the corresponding level and submit it to the standing committee of the people's congress at the corresponding level for approval.\nA government that receives on-lent loans and on-lends them to lower-level governments shall incorporate the on-lent debt into budget management at the corresponding level. A government that uses on-lent loans and bears direct repayment responsibility shall include the on-lent debt in the budget adjustment plan at the corresponding level and submit it to the standing committee of the people's congress at the corresponding level for approval.\nThe finance departments of local governments at all levels shall be responsible for the unified management of government debt in their respective regions."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter III Budget Preparation"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "The State Council may on-lend loans borrowed from foreign governments and international economic organisations to the governments of provinces, autonomous regions and municipalities directly under the Central Government.\nWhere the government of a province, an autonomous region or a municipality directly under the Central Government bears direct repayment responsibility for loans from foreign governments and international economic organisations on-lent by the State Council, such loans shall be incorporated into budget management at the corresponding level. Where such a government fails to perform its repayment obligation on time, the State Council may deduct a corresponding amount from the tax refunds and other funds for that region.\nThe government of a province, an autonomous region or a municipality directly under the Central Government may on-lend loans from foreign governments and international economic organisations on-lent by the State Council to lower-level governments."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter III Budget Preparation"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "The Ministry of Finance and the finance departments of the governments of provinces, autonomous regions and municipalities directly under the Central Government shall establish and improve an indicator system for assessing local government debt risk, organise assessments of the local government debt risk situation, issue early warnings to regions with high debt risk, and supervise the mitigation of debt risk."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter III Budget Preparation"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Governments at or above the county level shall, in proportion to the estimated execution figure of transfer payments for the current year, issue in advance the estimated figure of transfer payments for the following year to the government at the next lower level; the specific issuance shall be handled by the finance department of the government at the corresponding level.\nExcept for transfer payments for special items such as settlement on an actual basis, the proportion of the estimated figure of general transfer payments issued in advance shall generally be no less than 90 per cent; the proportion of the estimated figure of special transfer payments issued in advance shall generally be no less than 70 per cent. Among them, for special transfer payments managed and allocated on a project basis, the projects to be organised and implemented in the following year shall be specified at the same time."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter III Budget Preparation"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "With the approval of the government at the corresponding level, the finance department of each government may set up a budget working capital, the amount of which shall not exceed 1 per cent of the total general public budget expenditure at the corresponding level. At the end of the year, the finance department of each government may recover the budget working capital and use it to replenish the budget stabilisation and adjustment fund."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter III Budget Preparation"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "The carry-over funds mentioned in paragraph 1 of Article 42 of the Budget Law refer to funds for which the expenditure of a budgeted project has not been fully executed at the end of the year, or has not been executed for some reason but needs to be used for the original purpose in the following year; carry-over funds not used up for two consecutive years refer to funds for the expenditure of a budgeted project that remain unused at the end of the following year.\nThe surplus funds mentioned in paragraph 1 of Article 42 of the Budget Law refer to funds remaining after deducting the actual figure of budget expenditure and the carry-over funds from the actual figure of budget revenue at the end of the annual budget execution."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter III Budget Preparation"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "During budget execution, the main duties of the finance department of a government are:\n(a) to study and implement fiscal and tax policy measures and support sound economic and social development;\n(b) to formulate systems and measures for organising budget revenue, managing budget expenditure and the related financial, accounting, internal control and supervision matters;\n(c) to urge budget revenue collection departments and units to perform their duties in accordance with law and collect budget revenue;\n(d) to reasonably schedule and allocate budgetary funds in accordance with the annual expenditure budget and the fund use plan, and supervise the use and management of budgetary funds by each department and each unit;\n(e) to exercise unified management over the borrowing, expenditure and repayment of government debt and supervise the use of debt funds;\n(f) to guide and supervise each department and each unit in establishing and improving financial systems and accounting systems, standardising account management, improving internal control mechanisms and using budgetary funds in accordance with the provisions;\n(g) to consolidate and compile periodic budget execution data, analyse budget execution, report on budget execution periodically as required by the standing committee of the people's congress at the corresponding level, the government at the corresponding level and the finance department of the government at the next higher level, and put forward relevant policy recommendations;\n(h) to organise and guide the performance monitoring and performance evaluation of budgetary funds;\n(i) to coordinate the business work of budget revenue collection departments and units, the State treasury and other relevant departments."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter IV Budget Execution"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "The special fiscal account mentioned in paragraph 2 of Article 56 of the Budget Law refers to a bank settlement account opened by a finance department, in order to perform fiscal management functions, in accordance with legal provisions or with the approval of the State Council, for the management and accounting of specific dedicated funds; the specific dedicated funds include funds for which special fiscal accounts may be opened as provided by law, loans and grants from foreign governments and international economic organisations, currencies other than Renminbi deposited in accordance with the provisions, and other specific dedicated funds that the Ministry of Finance, in conjunction with the relevant departments, reports to the State Council for approval.\nThe opening and modification of special fiscal accounts shall be subject to approval by the Ministry of Finance, and the closure of special fiscal accounts shall be reported to the Ministry of Finance for the record. The People's Bank of China shall strengthen the approval, management and supervision of account opening with banking financial institutions.\nFunds in special fiscal accounts shall be managed by the finance department of the government at the corresponding level. Unless otherwise provided by law, no department, unit or individual shall have the right to freeze or use funds in special fiscal accounts without the consent of the finance department of the government at the corresponding level.\nFunds in special fiscal accounts shall be incorporated by the finance department of the government at the corresponding level into unified accounting, and shall be separately reflected in the budget execution report, the final accounts and the comprehensive government financial report."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter IV Budget Execution"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "During budget execution, the main duties of each department and each unit are:\n(a) to formulate budget execution rules for the department or unit and establish and improve internal control mechanisms;\n(b) to organise revenue in accordance with law, strictly manage expenditure, implement performance monitoring, carry out performance evaluation and improve the efficiency of fund use;\n(c) to conduct accounting for the various economic transactions of the unit;\n(d) to consolidate the budget execution of the department or unit and periodically submit budget execution reports and performance evaluation reports to the finance department of the government at the corresponding level."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter IV Budget Execution"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "The finance department shall, in conjunction with the social insurance administrative department and the social insurance contribution collection agencies, formulate specific measures for the revenue, expenditure and financial management of the social insurance fund budget.\nThe social insurance fund budget shall be specifically executed by the social insurance contribution collection agencies and the social insurance agencies, which shall report on its execution to the finance department and the social insurance administrative department of the government at the corresponding level in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter IV Budget Execution"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "The finance departments of each government and the tax, customs and other budget revenue collection departments and units must organise budget revenue in accordance with law, collect budget revenue in accordance with the provisions on the fiscal management system, the collection management system and the centralised collection system of the State treasury, and, except for budget revenue such as social insurance funds that is paid into special fiscal accounts in accordance with law, shall promptly pay budget revenue into the State treasury."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter IV Budget Execution"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Except for budget revenue such as social insurance funds that is paid into special fiscal accounts in accordance with law, all departments and units obliged to remit budget revenue must pay the budget revenue they should remit into the State treasury in accordance with the prescribed budget level, government revenue and expenditure classification subjects, methods of treasury payment and time limits; no department, unit or individual may withhold, misappropriate, divert or delay such payment."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter IV Budget Execution"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "The finance department of each government shall strengthen the management of the allocation of budgetary funds and observe the following principles:\n(a) allocation in accordance with the budget, that is, allocating funds in accordance with the approved annual budget and the fund use plan. Except in the circumstances under Article 54 of the Budget Law where expenditure may be arranged before the draft budget is approved, no allocation of funds without a budget or a fund use plan, or in excess of the budget or the plan, shall be processed, and the purpose of expenditure shall not be altered without authorisation;\n(b) allocation in accordance with the prescribed budget level and procedures, that is, allocating funds upon application by the using unit, in accordance with the budget level of the using unit, the examined and determined fund use plan and the budgetary fund allocation procedures prescribed by the finance department;\n(c) allocation in accordance with progress, that is, allocating funds in accordance with the actual progress of fund use by the using unit."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter IV Budget Execution"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "The Ministry of Finance shall, in accordance with the Central government debt balance ceiling approved by the National People's Congress, reasonably arrange the varieties, structure, terms and timing of treasury bond issuance.\nThe finance departments of the governments of provinces, autonomous regions and municipalities directly under the Central Government shall, in accordance with the local government debt ceiling for their regions approved by the State Council, reasonably arrange the structure, terms and timing of the issuance of local government bonds."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter IV Budget Execution"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "The issuance of transfer payment budgets and the allocation of funds shall be handled by the finance department; no other department or unit may issue transfer payment budgets or allocate transfer payment funds to government departments and units at lower levels."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter IV Budget Execution"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Each government, each department and each unit shall strengthen the management of budget expenditure, strictly execute the budget, observe fiscal rules and strengthen budget constraints; they shall not expand the scope of expenditure or raise expenditure standards without authorisation, and shall use funds strictly in accordance with the expenditure purposes prescribed in the budget and reasonably arrange the progress of expenditure."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter IV Budget Execution"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "The Ministry of Finance shall be responsible for formulating the financial rules, accounting standards and accounting systems relating to budget execution. Each department and each unit shall, in accordance with the requirements of the finance department of the government at the corresponding level, establish and improve financial systems and strengthen accounting."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter IV Budget Execution"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "The State treasury is the specialised institution that handles the collection, division, retention and remittance, refund of budget revenue and the allocation of treasury funds. The State treasury is divided into the Central treasury and local treasuries.\nThe business of the Central treasury shall be managed by the People's Bank of China. In areas where no branch of the People's Bank of China is established, the People's Bank of China shall, after consulting the Ministry of Finance, entrust a relevant banking financial institution with the business.\nThe business of local treasuries shall be managed by branches of the People's Bank of China. In areas where no branch of the People's Bank of China is established, the branch of the People's Bank of China at the next higher level shall, after consulting the finance department of the relevant local government, entrust a relevant banking financial institution with the business.\nTownships, ethnic townships and towns that meet the conditions shall establish treasuries. The specific conditions and standards shall be determined by the finance department of the government of the province, autonomous region or municipality directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter IV Budget Execution"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "The business of the Central treasury shall be subject to the guidance and supervision of the Ministry of Finance and shall be responsible to the Central finance.\nThe business of local treasuries shall be subject to the guidance and supervision of the finance department of the government at the corresponding level and shall be responsible to the local finance.\nThe local treasury business procedures formulated by a province, an autonomous region or a municipality directly under the Central Government shall be reported to the Ministry of Finance and the People's Bank of China for the record."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter IV Budget Execution"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "State treasuries at all levels shall promptly compile and submit to the finance department of the government at the corresponding level daily, ten-day, monthly and annual reports on budget revenue entering the treasury, revenue released from the treasury, treasury fund allocation and treasury fund balances."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter IV Budget Execution"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "State treasuries at all levels shall, in accordance with the relevant laws, administrative regulations and the relevant provisions of the State Council, the Ministry of Finance and the People's Bank of China, strengthen the management of treasury business and promptly and accurately handle the collection, division, retention and remittance, refund of budget revenue and the allocation of budget expenditure.\nState treasuries at all levels and the relevant banking financial institutions must comply with the State provisions on the payment of budget revenue into the treasury, and shall not delay the release or withhold budget revenue and treasury funds that should be paid into the treasury."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter IV Budget Execution"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "State treasuries at all levels must, on the same day, process fund allocation against the allocation vouchers or payment settlement instructions issued by the finance department of the government at the corresponding level, and promptly transfer the funds to the account of the receiving unit or for settlement.\nState treasuries at all levels and the relevant banking financial institutions shall not withhold budgetary funds allocated by the finance department."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter IV Budget Execution"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "The finance departments of each government, the budget revenue collection departments and units and the State treasury shall establish and improve a system of mutual reconciliation of budget revenue, checking monthly and annually during budget execution the collection of budget revenue and the allocation of treasury funds, so as to ensure that the collection and payment of budget revenue into the treasury, the allocation of treasury funds and the treasury balance are accurate without error."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter IV Budget Execution"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "The measures for the refund from the treasury of Central budget revenue and of budget revenue shared by the Central and local governments shall be formulated by the Ministry of Finance. The measures for the refund from the treasury of local budget revenue shall be formulated by the finance department of the government of the province, autonomous region or municipality directly under the Central Government.\nThe authority to examine and approve refunds from the treasury of budget revenue at any level shall vest in the finance department of the government at the corresponding level. Refunds of Central budget revenue and of budget revenue shared by the Central and local governments shall be approved by the Ministry of Finance or an institution authorised by it. Refunds of local budget revenue shall be approved by the local government finance department or an institution authorised by it. The specific refund procedures shall be handled in accordance with the relevant provisions of the Ministry of Finance.\nRefunds of budget revenue from the treasury shall be paid directly to the applying unit or the applying individual and used for the purposes prescribed by the State. No department, unit or individual may withhold or misappropriate refunded amounts."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter IV Budget Execution"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "Each government shall strengthen the management and supervision of the State treasury at the corresponding level, and the finance department of each government shall be responsible for coordinating the business work between the budget revenue collection departments and units at the corresponding level and the State treasury."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter IV Budget Execution"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "Where rules and documents formulated by the departments of the State Council involve matters such as the reduction or exemption of budget revenue payable, the establishment and modification of revenue items and standards, the handling of fines and confiscated property, the standards and scope of expenditure, the disposal of State-owned assets and the distribution of proceeds, and accounting, they shall conform to the unified provisions of the State; where they involve an increase or decrease in fiscal revenue or expenditure, the opinions of the Ministry of Finance shall be sought."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter IV Budget Execution"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "Rules and prescribed administrative measures formulated by local governments within the scope of their statutory authority shall not involve the reduction or exemption of Central budget revenue or of budget revenue shared by the Central and local governments, and shall not affect the collection of Central budget revenue or of budget revenue shared by the Central and local governments; where such provisions are violated, the budget revenue collection departments and units concerned shall have the right to refuse to implement them and shall report to the budget revenue collection departments and units at the next higher level and to the Ministry of Finance."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter IV Budget Execution"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "Each government shall strengthen leadership over budget execution, periodically hear the reports of the finance department on budget execution, and study and resolve the problems arising in budget execution."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter IV Budget Execution"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "The finance department of each government shall have the right to supervise the work relating to budget management of the departments at the corresponding level and of all units subordinate to them, and to evaluate and appraise the budget execution and performance of each department.\nThe finance department of each government shall have the right to supervise the collection of budget revenue at the corresponding level by the collection departments and units relating to the budget revenue at the corresponding level, and to order correction where, in violation of laws and administrative regulations, budget revenue is over-collected, collected in advance, reduced, exempted, deferred or refunded."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter IV Budget Execution"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "The finance department of each government shall report on budget execution to the government at the corresponding level every month; the specific content, method and time limit of the report shall be prescribed by the government at the corresponding level."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter IV Budget Execution"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "The finance departments of local governments at all levels shall periodically submit to the finance department of the government at the next higher level reports on budget execution within their respective administrative regions, including ten-day, monthly and quarterly budget execution reports, statistical reports on the outstanding balance of government debt, reports on treasury funds and the relevant explanatory materials. The specific content, method and time limit of submission shall be prescribed by the finance department of the government at the next higher level."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter IV Budget Execution"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "The tax, customs and other budget revenue collection departments and units at all levels shall, in accordance with the time limits and requirements prescribed by the finance department, submit to the finance department and the competent department at the next higher level reports on the collection of the relevant budget revenue, together with explanatory materials.\nThe tax, customs and other budget revenue collection departments and units at all levels shall establish a mechanism for sharing revenue collection and management information with the relevant finance departments."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter IV Budget Execution"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "Each department shall, in accordance with the time limits and requirements prescribed by the finance department of the government at the corresponding level, submit to that finance department statements on the budget revenue and expenditure of the department and of all units subordinate to it and other statements and explanatory materials."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter IV Budget Execution"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "The excess revenue mentioned in paragraph 1 of Article 66 of the Budget Law refers to the amount by which the actual figure of general public budget revenue at the corresponding level for the year exceeds the figure of budget revenue approved by the people's congress at the corresponding level or its standing committee.\nThe shortfall mentioned in paragraph 3 of Article 66 of the Budget Law refers to the situation in which the actual figure of general public budget revenue at the corresponding level for the year is less than the figure of budget revenue approved by the people's congress at the corresponding level or its standing committee.\nThe actual figure and the budget revenue figure mentioned in the preceding two paragraphs do not include transfer revenue and government debt revenue.\nA deficit additionally listed by the government of a province, an autonomous region or a municipality directly under the Central Government in accordance with paragraph 3 of Article 66 of the Budget Law may be balanced by issuing local government general bonds within the local government debt ceiling for the region assigned by the State Council.\nWhere a shortfall occurs in the annual execution of the general public budget at any level below a municipality with districts or an autonomous prefecture, a balance between revenue and expenditure shall be achieved by transferring in funds from the budget stabilisation and adjustment fund or other budgetary funds, reducing expenditure or other means; where a balance still cannot be achieved after such measures are taken, the budget for the current year may be balanced by applying to the government at the next higher level for temporary assistance, and funds shall be arranged in the budget for the following year for repayment.\nWhere, in the annual execution of the general public budget at any level, strict economy is practised and expenditure is saved, resulting in the actual figure of budget expenditure at the corresponding level being less than the total budget expenditure, this does not constitute a circumstance of budget adjustment.\nWhere excess revenue occurs in the annual execution of the government fund budget at any level, it shall be arranged for use in the following year and shall be used with priority to repay the corresponding special debt; where a shortfall occurs, a balance between revenue and expenditure shall be achieved by reducing expenditure, unless otherwise provided by the State Council.\nWhere excess revenue occurs in the annual execution of the State-owned capital operation budget at any level, it shall be arranged for use in the following year; where a shortfall occurs, a balance between revenue and expenditure shall be achieved by reducing expenditure, unless otherwise provided by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Chapter IV Budget Execution"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "Where, after the annual budget is determined, a change in the subordinate relationship of a department or unit causes a change in the budget level or the budget relationship, the transfer of budget and assets shall be handled accordingly at the same time as the financial relationship is changed."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Chapter IV Budget Execution"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "The draft final accounts mentioned in Article 74 of the Budget Law refer to the annual execution results of budget revenue, expenditure and surplus prepared by each government, each department and each unit that have not been examined and approved through statutory procedures."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Chapter V Final Accounts"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "The Ministry of Finance shall, in the fourth quarter of each year, make arrangements for the principles, requirements, methods and submission deadlines for the preparation of draft final accounts, and issue the statement formats for the final accounts of Central departments, local final accounts and other relevant final accounts.\nThe governments of provinces, autonomous regions and municipalities directly under the Central Government shall, in accordance with the requirements of the State Council and the arrangements of the Ministry of Finance and in light of the specific circumstances of their respective regions, set out the requirements for the preparation of draft final accounts within their respective administrative regions.\nThe finance departments of local governments at or above the county level shall, in accordance with the arrangements of the Ministry of Finance and the requirements of the governments of provinces, autonomous regions and municipalities directly under the Central Government, make arrangements for the principles, requirements, methods and submission deadlines for the preparation of the draft final accounts of the departments of the government at the corresponding level and of lower-level governments, and issue the statement formats for the final accounts of those departments, the final accounts of lower-level governments and other relevant final accounts."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Chapter V Final Accounts"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "The finance department of a local government shall, in accordance with the arrangements of the finance department of the government at the next higher level, formulate specific measures for the preparation of the draft final accounts within its administrative region and of the draft final accounts of the departments at the corresponding level.\nEach department shall, in accordance with the arrangements of the finance department of the government at the corresponding level, formulate specific measures for the preparation of the draft final accounts of the units subordinate to it."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Chapter V Final Accounts"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "At the end of each budget year, the finance department of each government, each department and each unit shall verify and check the budget revenue and expenditure data and the current account items for the whole year, and shall properly reconcile the final account data.\nThe various figures in the final accounts shall be based on the verified accounting data of each government, each department and each unit, shall not be replaced by estimated data and shall not be falsified.\nThe final accounts of each department and each unit shall show carry-over and surplus funds."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Chapter V Final Accounts"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "Each unit shall, in accordance with the arrangements of the competent department, conscientiously prepare the draft final accounts of the unit and submit them within the prescribed time limit.\nEach department shall, on the basis of examining and consolidating the draft final accounts of the units subordinate to it, together with the final account revenue and expenditure data of the department itself, compile the draft final accounts of the department with detailed explanations, and after signature and seal by the head of the department, submit them to the finance department of the government at the corresponding level for examination within the prescribed time limit."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Chapter V Final Accounts"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "The budget revenue collection departments and units at all levels shall, in accordance with the requirements of the finance department, promptly prepare the annual revenue reports and the relevant materials and submit them to the finance department."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        },
+        "chapter": {
+          "en": "Chapter V Final Accounts"
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "The finance department of each government shall prepare the draft final accounts at the corresponding level on the basis of the budget at the corresponding level, the accounting data of budget accounting and other relevant materials."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        },
+        "chapter": {
+          "en": "Chapter V Final Accounts"
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "At the end of the annual budget execution, matters between governments at higher and lower levels that require settlement in accordance with the provisions shall be settled at the time of the final accounts.\nThe draft final accounts prepared by the finance department of a government at or above the county level shall be promptly submitted to the audit department of the government at the corresponding level for audit."
+        },
+        "noLabel": {
+          "en": "Article 87."
+        },
+        "chapter": {
+          "en": "Chapter V Final Accounts"
+        }
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "A local people's government at or above the county level shall, within 30 days from the date its final accounts at the corresponding level are approved, consolidate the final accounts at the corresponding level and the final accounts submitted by the government at the next lower level for the record and submit them to the government at the next higher level for the record, and shall consolidate the final accounts submitted by the government at the next lower level for the record and submit them to the standing committee of the people's congress at the corresponding level for the record.\nA township, ethnic township or town government shall, within 30 days from the date its final accounts at the corresponding level are approved, submit its final accounts at the corresponding level to the government at the next higher level for the record."
+        },
+        "noLabel": {
+          "en": "Article 88."
+        },
+        "chapter": {
+          "en": "Chapter V Final Accounts"
+        }
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "Governments at or above the county level shall accept the supervision by the people's congress at the corresponding level and at the next higher level and their standing committees over budget execution and final accounts, and township, ethnic township and town governments shall accept the supervision by the people's congress at the corresponding level and the people's congress at the next higher level and their standing committees over budget execution and final accounts; they shall report on budget execution as required by the people's congress at the corresponding level or its standing committee; and they shall conscientiously study and handle the suggestions, criticisms and opinions of the deputies to the people's congress at the corresponding level or the members of its standing committee on improving budget management, and respond promptly."
+        },
+        "noLabel": {
+          "en": "Article 89."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision"
+        }
+      },
+      {
+        "no": 90,
+        "text": {
+          "en": "Each government shall strengthen supervision over the budget execution of lower-level governments, and shall, in accordance with law, stop and correct acts of lower-level governments in budget execution that violate the Budget Law, these Regulations and State policies; and shall promptly take measures to deal with problems arising in budget execution at the corresponding level.\nLower-level governments shall accept the supervision by higher-level governments over budget execution; they shall, as required by higher-level governments, promptly provide materials and truthfully report the situation, and shall not conceal or make false reports; they shall strictly implement the relevant decisions made by higher-level governments and promptly report the results of implementation."
+        },
+        "noLabel": {
+          "en": "Article 90."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision"
+        }
+      },
+      {
+        "no": 91,
+        "text": {
+          "en": "Each department and all units subordinate to it shall accept the supervision by the finance department of the government at the corresponding level over the work relating to budget management.\nThe dispatched offices of the Ministry of Finance shall, in accordance with their duties and the authorisation of the Ministry of Finance, carry out work in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 91."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision"
+        }
+      },
+      {
+        "no": 92,
+        "text": {
+          "en": "The audit departments of each government shall, in accordance with law, conduct audit supervision over the budget execution and draft final accounts at the corresponding level, and over the budget execution and final accounts of the departments and units at the corresponding level and of lower-level governments."
+        },
+        "noLabel": {
+          "en": "Article 92."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision"
+        }
+      },
+      {
+        "no": 93,
+        "text": {
+          "en": "The freezing or use of treasury funds, or the disposal by other means of treasury funds already paid into the treasury, in violation of the provisions of the Budget Law mentioned in item 6 of Article 93 of the Budget Law refers to:\n(a) freezing or using treasury funds without the consent of the relevant government finance department;\n(b) budget revenue collection departments and units depositing the collected taxes and other budget revenue in accounts other than the State treasury in violation of the provisions;\n(c) processing the allocation and refund of funds without the consent of the relevant government finance department or an institution authorised by the finance department;\n(d) diverting treasury funds to other uses;\n(e) delaying the release or withholding treasury funds;\n(f) withholding budgetary funds allocated by the government finance department."
+        },
+        "noLabel": {
+          "en": "Article 93."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 94,
+        "text": {
+          "en": "Where a government, a relevant department or a unit commits any of the following acts, it shall be ordered to make corrections; the persons in charge who bear direct responsibility and other persons directly responsible shall be given sanctions in accordance with law:\n(a) borrowing debt in excess of the general debt ceiling or the special debt ceiling;\n(b) issuing transfer payment budgets or allocating transfer payment funds in violation of these Regulations;\n(c) opening or modifying accounts without authorisation."
+        },
+        "noLabel": {
+          "en": "Article 94."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 95,
+        "text": {
+          "en": "The comprehensive government financial report mentioned in Article 97 of the Budget Law refers to a report prepared on an accrual basis that reflects the overall financial position, the operations and the medium- and long-term fiscal sustainability of each government. The comprehensive government financial report includes financial statements such as the government balance sheet and the statement of revenue and expenses and the notes to the statements, as well as the comprehensive analyses conducted on that basis."
+        },
+        "noLabel": {
+          "en": "Article 95."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 96,
+        "text": {
+          "en": "The annual government investment plan shall be consistent with the budget at the corresponding level. Government investment decision-making, project implementation and supervision and management shall be governed by the relevant administrative regulations on government investment."
+        },
+        "noLabel": {
+          "en": "Article 96."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 97,
+        "text": {
+          "en": "These Regulations shall come into force on 1 October 2020."
+        },
+        "noLabel": {
+          "en": "Article 97."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-REG-0594'] = {
     "lawId": "CN-REG-0594",
     "sourceLang": "zh",
@@ -3597,6 +10044,1944 @@
         },
         "noLabel": {
           "en": "Article 28."
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0596'] = {
+    "lawId": "CN-REG-0596",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 84 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the Law of the People's Republic of China on Bid Invitation and Bidding (hereinafter referred to as the Bid Invitation and Bidding Law) for the purpose of standardising bid invitation and bidding activities."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Construction projects mentioned in Article 3 of the Bid Invitation and Bidding Law refer to works and the goods and services related to construction works.\nWorks mentioned in the preceding paragraph refer to construction projects, including the new construction, reconstruction and expansion of buildings and structures and the related decoration, demolition and repair; goods related to construction works mentioned therein refer to equipment, materials, etc. that form an inseparable part of the works and are necessary for the basic functions of the works; services related to construction works mentioned therein refer to services such as survey, design and supervision necessary for completing the works."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The specific scope and scale standards of construction projects for which bid invitation is required by law shall be drawn up by the development and reform department of the State Council together with the relevant departments of the State Council and published for implementation after approval by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The development and reform department of the State Council shall guide and coordinate bid invitation and bidding work nationwide and carry out supervision and inspection of bid invitation and bidding activities for major construction projects of the State. The industry and information technology, housing and urban-rural development, transport, railway, water conservancy, commerce and other departments of the State Council shall, in accordance with the prescribed division of duties, supervise the relevant bid invitation and bidding activities.\nThe development and reform departments of local people's governments at or above the county level shall guide and coordinate bid invitation and bidding work within their respective administrative areas. The relevant departments of local people's governments at or above the county level shall, in accordance with the prescribed division of duties, supervise bid invitation and bidding activities and investigate and deal with unlawful acts in bid invitation and bidding activities in accordance with law. Where a local people's government at or above the county level has other provisions on the division of supervision duties of its subordinate departments in respect of bid invitation and bidding activities, those provisions shall prevail.\nThe finance department shall, in accordance with law, supervise the implementation of government procurement policies in government procurement construction projects subject to bid invitation and bidding.\nSupervision institutions shall, in accordance with law, exercise supervision over the supervision objects relating to bid invitation and bidding activities."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Local people's governments at or above the level of a city divided into districts may, in light of actual needs, establish unified and standardised trading venues for bid invitation and bidding to provide services for bid invitation and bidding activities. Trading venues for bid invitation and bidding may not have a subordinate relationship with administrative supervision departments and may not be for profit-making purposes.\nThe State encourages the use of information networks for electronic bid invitation and bidding."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "State functionaries are prohibited from unlawfully interfering in bid invitation and bidding activities in any manner."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "For projects subject to bid invitation by law that require project examination and approval or verification in accordance with the relevant provisions of the State, the scope, manner and form of organisation of bid invitation shall be submitted to the project examination and approval or verification department for examination and approval or verification. The project examination and approval or verification department shall promptly notify the relevant administrative supervision departments of the scope, manner and form of organisation of bid invitation as determined by the examination and approval or verification."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Invitation to Bid"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "For projects subject to bid invitation by law in which State-owned funds hold a controlling or dominant position, public invitation to bid shall be adopted; however, invitation to bid may be adopted in any of the following circumstances:\n(a) the technology is complex, special requirements exist or the project is subject to natural environment constraints, and only a small number of potential bidders are available for selection;\n(b) the cost of adopting public invitation to bid accounts for an excessive proportion of the contract amount of the project.\nWhere the circumstance listed in item 2 of the preceding paragraph applies to a project provided for in Article 7 of these Regulations, it shall be determined by the project examination and approval or verification department when examining and approving or verifying the project; for other projects, the inviter shall apply to the relevant administrative supervision department for determination."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Invitation to Bid"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Except for the special circumstances in which bid invitation may be dispensed with as provided for in Article 66 of the Bid Invitation and Bidding Law, bid invitation may be dispensed with in any of the following circumstances:\n(a) irreplaceable patents or proprietary technology need to be used;\n(b) the purchaser is able to construct, produce or provide by itself in accordance with law;\n(c) the investor in a franchise project selected by means of bid invitation is able to construct, produce or provide by itself in accordance with law;\n(d) works, goods or services need to be procured from the original winning bidder, failing which construction or functional supporting requirements would be affected;\n(e) other special circumstances prescribed by the State.\nWhere an inviter resorts to fraud in order to apply the preceding paragraph, it constitutes evading bid invitation as provided for in Article 4 of the Bid Invitation and Bidding Law."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Invitation to Bid"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The ability of an inviter to prepare bidding documents and organise bid evaluation as provided for in paragraph 2 of Article 12 of the Bid Invitation and Bidding Law refers to the inviter's possession of professional personnel in technology, economics and other fields suited to the scale and complexity of the project subject to bid invitation."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Invitation to Bid"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The housing and urban-rural development, commerce, development and reform, industry and information technology and other departments of the State Council shall, in accordance with the prescribed division of duties, exercise supervision and administration over bid invitation agencies in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Invitation to Bid"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "A bid invitation agency shall have a certain number of professional personnel with the corresponding ability to prepare bidding documents and organise bid evaluation."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Invitation to Bid"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "A bid invitation agency shall carry out bid invitation agency business within the scope entrusted by the inviter, and no unit or individual may unlawfully interfere.\nA bid invitation agency engaging in bid invitation agency business shall comply with the provisions of the Bid Invitation and Bidding Law and these Regulations on inviters. A bid invitation agency may not bid or act as an agent for bidding in a project subject to bid invitation that it represents, nor may it provide consultancy to bidders in such a project."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Invitation to Bid"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "An inviter shall conclude a written entrustment contract with the bid invitation agency entrusted, and the charging standard agreed in the contract shall conform to the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Invitation to Bid"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "For projects subject to public invitation to bid, bid invitation announcements shall be published and bidding documents prepared in accordance with the provisions of the Bid Invitation and Bidding Law and these Regulations.\nWhere an inviter adopts the pre-qualification method to examine the qualifications of potential bidders, it shall publish a pre-qualification announcement and prepare pre-qualification documents.\nThe pre-qualification announcements and bid invitation announcements of projects subject to bid invitation by law shall be published in the media designated in accordance with law by the development and reform department of the State Council. The content of the pre-qualification announcement or bid invitation announcement of the same project subject to bid invitation published in different media shall be consistent. Designated media may not charge fees for publishing domestic pre-qualification announcements and bid invitation announcements of projects subject to bid invitation by law.\nThe pre-qualification documents and bidding documents of projects subject to bid invitation by law shall be prepared using the standard texts formulated by the development and reform department of the State Council together with the relevant administrative supervision departments."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Invitation to Bid"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "An inviter shall sell pre-qualification documents or bidding documents at the time and place prescribed in the pre-qualification announcement, bid invitation announcement or letter of invitation to bid. The sale period of pre-qualification documents or bidding documents shall be not less than five days.\nThe fees charged by an inviter for selling pre-qualification documents and bidding documents shall be limited to compensating the costs of printing and mailing and may not be for profit-making purposes."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Invitation to Bid"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "An inviter shall reasonably determine the time for submitting pre-qualification application documents. For projects subject to bid invitation by law, the time for submitting pre-qualification application documents shall be not less than five days from the date on which the sale of pre-qualification documents ceases."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Invitation to Bid"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Pre-qualification shall be carried out in accordance with the standards and methods stated in the pre-qualification documents.\nFor projects subject to bid invitation by law in which State-owned funds hold a controlling or dominant position, the inviter shall establish a qualification examination committee to examine the pre-qualification application documents. The qualification examination committee and its members shall comply with the provisions of the Bid Invitation and Bidding Law and these Regulations on the bid evaluation committee and its members."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Invitation to Bid"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "After pre-qualification is completed, the inviter shall promptly issue notices of pre-qualification results to the pre-qualification applicants. Applicants that fail pre-qualification do not have bidding qualification.\nWhere fewer than three applicants pass pre-qualification, bid invitation shall be conducted anew."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Invitation to Bid"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where an inviter adopts the post-qualification method to examine the qualifications of bidders, the bid evaluation committee shall, after bid opening, examine the qualifications of bidders in accordance with the standards and methods prescribed in the bidding documents."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Invitation to Bid"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "An inviter may make necessary clarifications or modifications to pre-qualification documents or bidding documents already issued. Where the content of the clarification or modification may affect the preparation of pre-qualification application documents or bid documents, the inviter shall, at least three days before the deadline for submission of pre-qualification application documents or at least 15 days before the deadline for submission of bids, notify in writing all potential bidders that have obtained the pre-qualification documents or bidding documents; where fewer than three days or 15 days remain, the inviter shall postpone the deadline for submission of pre-qualification application documents or bid documents."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Invitation to Bid"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Where a potential bidder or other interested party has objections to the pre-qualification documents, it shall raise them two days before the deadline for submission of pre-qualification application documents; where it has objections to the bidding documents, it shall raise them 10 days before the deadline for submission of bids. The inviter shall reply within three days from the date of receipt of the objections; before making a reply, it shall suspend the bid invitation and bidding activities."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter II Invitation to Bid"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where the content of the pre-qualification documents or bidding documents prepared by an inviter violates the mandatory provisions of laws and administrative regulations or violates the principles of openness, fairness, impartiality and good faith, thereby affecting the pre-qualification result or the bidding of potential bidders, the inviter of a project subject to bid invitation by law shall conduct bid invitation anew after modifying the pre-qualification documents or bidding documents."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter II Invitation to Bid"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Where an inviter divides a project subject to bid invitation into bid sections, it shall comply with the relevant provisions of the Bid Invitation and Bidding Law and may not use the division into bid sections to restrict or exclude potential bidders. An inviter of a project subject to bid invitation by law may not use the division into bid sections to evade bid invitation."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter II Invitation to Bid"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "An inviter shall state the period of bid validity in the bidding documents. The period of bid validity shall be counted from the deadline for submission of bid documents."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter II Invitation to Bid"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Where an inviter requires bidders to submit bid security in the bidding documents, the bid security may not exceed 2 per cent of the estimated price of the project subject to bid invitation. The period of validity of the bid security shall be consistent with the period of bid validity.\nFor domestic bidders of projects subject to bid invitation by law, bid security submitted in the form of cash or cheques shall be transferred from their basic accounts.\nAn inviter may not misappropriate bid security."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter II Invitation to Bid"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "An inviter may decide on its own whether to prepare a base price. There may be only one base price for a project subject to bid invitation. The base price must be kept confidential.\nAn intermediary institution entrusted with preparing a base price may not participate in bidding for the project for which it has been entrusted to prepare the base price, nor may it prepare bid documents or provide consultancy for bidders in that project.\nWhere an inviter sets a maximum bid limit, it shall clearly state the maximum bid limit or the method of calculating the maximum bid limit in the bidding documents. An inviter may not prescribe a minimum bid limit."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter II Invitation to Bid"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "An inviter may not organise site visits to the project for a single potential bidder or some of the potential bidders."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter II Invitation to Bid"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "An inviter may, in accordance with law, conduct general contracting bid invitation for all or part of the works and the goods and services related to construction works. Where works, goods or services included in the general contracting scope in the form of provisional price estimates fall within the scope of projects subject to bid invitation by law and reach the scale standards prescribed by the State, bid invitation shall be conducted in accordance with law.\nProvisional price estimates mentioned in the preceding paragraph refer to the amounts of works, goods or services temporarily estimated by the inviter in the bidding documents because the price cannot be determined at the time of general contracting bid invitation."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter II Invitation to Bid"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "For projects with complex technology or where technical specifications cannot be precisely formulated, the inviter may conduct bid invitation in two stages.\nIn the first stage, bidders submit technical proposals without quotations in accordance with the requirements of the bid invitation announcement or letter of invitation to bid, and the inviter determines the technical standards and requirements on the basis of the technical proposals submitted by the bidders and prepares the bidding documents.\nIn the second stage, the inviter provides the bidding documents to the bidders that submitted technical proposals in the first stage, and the bidders submit bid documents including the final technical scheme and bid quotation in accordance with the requirements of the bidding documents.\nWhere the inviter requires bidders to submit bid security, it shall be required in the second stage."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter II Invitation to Bid"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where an inviter terminates bid invitation, it shall promptly publish an announcement or notify in writing the invited potential bidders or those that have obtained the pre-qualification documents or bidding documents. Where pre-qualification documents or bidding documents have been sold or bid security has been collected, the inviter shall promptly refund the fees collected for the pre-qualification documents or bidding documents as well as the bid security collected and the bank deposit interest for the same period."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter II Invitation to Bid"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "An inviter may not restrict or exclude potential bidders or bidders on unreasonable conditions.\nWhere an inviter commits any of the following acts, it constitutes restricting or excluding potential bidders or bidders on unreasonable conditions:\n(a) providing different project information to potential bidders or bidders for the same project subject to bid invitation;\n(b) setting qualification, technical or commercial conditions that are not suited to the specific characteristics and actual needs of the project subject to bid invitation or are unrelated to the performance of the contract;\n(c) for projects subject to bid invitation by law, using performance or awards in a specific administrative region or a specific industry as conditions for bonus points or for winning;\n(d) applying different qualification examination or bid evaluation standards to potential bidders or bidders;\n(e) restricting or designating specific patents, trademarks, brands, places of origin or suppliers;\n(f) for projects subject to bid invitation by law, unlawfully restricting the form of ownership or form of organisation of potential bidders or bidders;\n(g) restricting or excluding potential bidders or bidders on other unreasonable conditions."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter II Invitation to Bid"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "A bidder participating in bidding for a project subject to bid invitation by law is not subject to regional or departmental restrictions, and no unit or individual may unlawfully interfere."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter III Bidding"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "A legal person, other organisation or individual that has an interest relationship with the inviter which may affect the impartiality of the bid invitation may not participate in bidding.\nDifferent units whose persons in charge are the same person or which have a controlling or management relationship may not participate in bidding for the same bid section or for the same project subject to bid invitation that is not divided into bid sections.\nWhere the preceding two paragraphs are violated, the bids concerned shall all be invalid."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter III Bidding"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "A bidder withdrawing bid documents already submitted shall notify the inviter in writing before the deadline for submission of bids. Where the inviter has collected bid security, it shall refund it within five days from the date of receipt of the bidder's written notice of withdrawal.\nWhere a bidder revokes its bid documents after the deadline for submission of bids, the inviter may not refund the bid security."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter III Bidding"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Bid documents submitted by applicants that have failed pre-qualification, as well as bid documents delivered late or not sealed in accordance with the requirements of the bidding documents, shall be rejected by the inviter.\nThe inviter shall truthfully record the time of delivery and the sealing of bid documents and keep them on file for inspection."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter III Bidding"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "An inviter shall state in the pre-qualification announcement, bid invitation announcement or letter of invitation to bid whether bidding by a consortium is accepted.\nWhere an inviter accepts bidding by a consortium and conducts pre-qualification, the consortium shall be formed before the submission of pre-qualification application documents. Where members of a consortium are added, reduced or replaced after pre-qualification, its bid shall be invalid.\nWhere members of a consortium separately bid in their own names or participate in bidding by another consortium in the same project subject to bid invitation, the bids concerned shall all be invalid."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter III Bidding"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where a bidder undergoes major changes such as merger, division or bankruptcy, it shall promptly notify the inviter in writing. Where a bidder no longer possesses the qualification conditions prescribed in the pre-qualification documents or bidding documents, or its bid affects the impartiality of the bid invitation, its bid shall be invalid."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter III Bidding"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Bidders are prohibited from colluding with each other in bidding.\nAny of the following circumstances constitutes collusion among bidders in bidding:\n(a) bidders consulting with each other on bid quotations and other substantive content of bid documents;\n(b) bidders agreeing among themselves on the winning bidder;\n(c) bidders agreeing among themselves that some bidders will give up bidding or winning;\n(d) bidders that are members of the same group, association, chamber of commerce or other organisation coordinating their bidding as required by that organisation;\n(e) other joint action taken among bidders to obtain the award or to exclude a particular bidder."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter III Bidding"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Any of the following circumstances shall be deemed collusion among bidders in bidding:\n(a) the bid documents of different bidders are prepared by the same unit or individual;\n(b) different bidders entrust the same unit or individual to handle bidding matters;\n(c) the project management members stated in the bid documents of different bidders are the same person;\n(d) the bid documents of different bidders are abnormally identical or the bid quotations show regular differences;\n(e) the bid documents of different bidders are mixed up with each other;\n(f) the bid security of different bidders is transferred from the account of the same unit or individual."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter III Bidding"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Collusion between an inviter and a bidder in bidding is prohibited.\nAny of the following circumstances constitutes collusion between an inviter and a bidder in bidding:\n(a) the inviter opens bid documents before bid opening and discloses the relevant information to other bidders;\n(b) the inviter directly or indirectly discloses to a bidder information such as the base price or the members of the bid evaluation committee;\n(c) the inviter expressly or implicitly instructs a bidder to lower or raise its bid quotation;\n(d) the inviter instructs a bidder to replace or modify its bid documents;\n(e) the inviter expressly or implicitly instructs a bidder to facilitate the winning of a particular bidder;\n(f) other collusive acts between the inviter and a bidder to seek the winning of a particular bidder."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter III Bidding"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Using qualification or qualification grade certificates obtained by assignment or leasing to bid constitutes bidding in the name of another as provided for in Article 33 of the Bid Invitation and Bidding Law.\nAny of the following circumstances of a bidder constitutes resorting to fraud by other means as provided for in Article 33 of the Bid Invitation and Bidding Law:\n(a) using forged or altered licence documents;\n(b) providing false financial status or performance;\n(c) providing false curricula vitae or employment relationship certification of the project manager or key technical personnel;\n(d) providing false credit status;\n(e) other acts of resorting to fraud."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter III Bidding"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Applicants submitting pre-qualification application documents shall comply with the provisions of the Bid Invitation and Bidding Law and these Regulations on bidders."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter III Bidding"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "An inviter shall open bids at the time and place prescribed in the bidding documents.\nWhere there are fewer than three bidders, bids may not be opened and the inviter shall conduct bid invitation anew.\nWhere a bidder has objections to the bid opening, it shall raise them at the site of bid opening, and the inviter shall reply on the spot and make a record."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter IV Opening, Evaluation and Award of Bids"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "The State applies unified professional classification standards and administration measures for bid evaluation experts. The specific standards and measures shall be formulated by the development and reform department of the State Council together with the relevant departments of the State Council.\nProvincial-level people's governments and the relevant departments of the State Council shall establish comprehensive databases of bid evaluation experts."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter IV Opening, Evaluation and Award of Bids"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Except for the special projects subject to bid invitation provided for in paragraph 3 of Article 37 of the Bid Invitation and Bidding Law, for projects subject to bid invitation by law, the expert members of the bid evaluation committee shall be determined by random selection from the list of experts in the relevant speciality in the database of bid evaluation experts. No unit or individual may designate or designate in disguised form the expert members to participate in the bid evaluation committee by express or implicit means.\nAn inviter of a project subject to bid invitation by law may not replace members of the bid evaluation committee lawfully determined except for reasons provided for in the Bid Invitation and Bidding Law and these Regulations. The replacement of expert members of the bid evaluation committee shall be carried out in accordance with the preceding paragraph.\nWhere a member of the bid evaluation committee has an interest relationship with a bidder, he or she shall withdraw on his or her own initiative.\nThe relevant administrative supervision departments shall, in accordance with the prescribed division of duties, supervise the manner of determining the members of the bid evaluation committee, the selection of bid evaluation experts and the bid evaluation activities. Staff of administrative supervision departments may not serve as members of the bid evaluation committee of projects that their own department is responsible for supervising."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter IV Opening, Evaluation and Award of Bids"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Special projects subject to bid invitation mentioned in paragraph 3 of Article 37 of the Bid Invitation and Bidding Law refer to projects with complex technology, strong professionalism or special requirements of the State in respect of which experts determined by random selection can hardly be guaranteed to be competent for bid evaluation work."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter IV Opening, Evaluation and Award of Bids"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "An inviter shall provide the bid evaluation committee with the information necessary for bid evaluation, but may not expressly or implicitly indicate its preference for or exclusion of a particular bidder.\nAn inviter shall reasonably determine the time for bid evaluation on the basis of factors such as the scale and technical complexity of the project. Where more than one third of the members of the bid evaluation committee consider the time for bid evaluation insufficient, the inviter shall extend it appropriately.\nDuring bid evaluation, where a member of the bid evaluation committee has grounds for withdrawal, leaves the post without authorisation or cannot continue bid evaluation for reasons such as health, he or she shall be replaced promptly. The evaluation conclusions made by a replaced member of the bid evaluation committee shall be invalid, and the member after replacement shall conduct the evaluation anew."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter IV Opening, Evaluation and Award of Bids"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Members of the bid evaluation committee shall, in accordance with the provisions of the Bid Invitation and Bidding Law and these Regulations and in accordance with the bid evaluation standards and methods prescribed in the bidding documents, objectively and impartially put forward evaluation opinions on bid documents. Bid evaluation standards and methods not prescribed in the bidding documents may not serve as the basis for bid evaluation.\nMembers of the bid evaluation committee may not contact bidders privately, may not accept property or other benefits given by bidders, may not inquire of the inviter about its intention in determining the winning bidder, may not accept requirements of preference for or exclusion of a particular bidder put forward expressly or implicitly by any unit or individual, and may not commit other acts of performing duties in a non-objective or non-impartial manner."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter IV Opening, Evaluation and Award of Bids"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where a base price is set for a project subject to bid invitation, the inviter shall announce it at bid opening. The base price may only serve as a reference for bid evaluation; whether a bid quotation is close to the base price may not be taken as a condition for winning, nor may a bid quotation exceeding the upward or downward floating range of the base price be taken as a condition for rejecting a bid."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter IV Opening, Evaluation and Award of Bids"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "A bid evaluation committee shall reject a bid in any of the following circumstances:\n(a) the bid documents are not sealed with the seal of the bidding unit and signed by the person in charge of the unit;\n(b) the bidding consortium has not submitted a joint bidding agreement;\n(c) the bidder does not meet the qualification conditions prescribed by the State or the bidding documents;\n(d) the same bidder submits two or more different bid documents or bid quotations, except where the bidding documents require the submission of alternative bids;\n(e) the bid quotation is below cost or above the maximum bid limit set in the bidding documents;\n(f) the bid documents fail to respond to the substantive requirements and conditions of the bidding documents;\n(g) the bidder has committed unlawful acts such as collusive bidding, resorting to fraud or offering bribes."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter IV Opening, Evaluation and Award of Bids"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where bid documents contain content with unclear meaning or obvious clerical or calculation errors and the bid evaluation committee considers it necessary for the bidder to make the necessary clarification or explanation, it shall notify the bidder in writing. The clarification or explanation of the bidder shall be in written form and may not exceed the scope of the bid documents or change the substantive content of the bid documents.\nThe bid evaluation committee may not hint at or induce a bidder to make clarifications or explanations, and may not accept clarifications or explanations offered by a bidder on its own initiative."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter IV Opening, Evaluation and Award of Bids"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "After bid evaluation is completed, the bid evaluation committee shall submit a written bid evaluation report and a list of candidates for award to the inviter. There shall be no more than three candidates for award, and their ranking shall be indicated.\nThe bid evaluation report shall be signed by all members of the bid evaluation committee. Members of the bid evaluation committee who have different opinions on the bid evaluation result shall state their different opinions and reasons in writing, and the bid evaluation report shall note such different opinions. Where a member of the bid evaluation committee refuses to sign the bid evaluation report and fails to state his or her different opinions and reasons in writing, he or she shall be deemed to have agreed to the bid evaluation result."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter IV Opening, Evaluation and Award of Bids"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "For projects subject to bid invitation by law, the inviter shall, within three days from the date of receipt of the bid evaluation report, publicise the candidates for award, and the publicity period shall be not less than three days.\nWhere a bidder or other interested party has objections to the bid evaluation result of a project subject to bid invitation by law, it shall raise them during the publicity period of the candidates for award. The inviter shall reply within three days from the date of receipt of the objections; before making a reply, it shall suspend the bid invitation and bidding activities."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter IV Opening, Evaluation and Award of Bids"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "For projects subject to bid invitation by law in which State-owned funds hold a controlling or dominant position, the inviter shall determine the candidate for award ranking first as the winning bidder. Where the candidate for award ranking first gives up winning, cannot perform the contract due to force majeure, fails to submit performance security as required by the bidding documents, or is verified to have committed unlawful acts affecting the award result and thus does not meet the conditions for winning, the inviter may determine the other candidates for award as the winning bidder in the order of the list of candidates for award proposed by the bid evaluation committee, or may conduct bid invitation anew."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter IV Opening, Evaluation and Award of Bids"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where major changes occur in the operating or financial status of a candidate for award or it has committed unlawful acts and the inviter considers that its capacity to perform the contract may be affected, the original bid evaluation committee shall, before the notice of award is issued, examine and confirm the matter in accordance with the standards and methods prescribed in the bidding documents."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter IV Opening, Evaluation and Award of Bids"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "The inviter and the winning bidder shall conclude a written contract in accordance with the provisions of the Bid Invitation and Bidding Law and these Regulations, and the main terms such as the subject matter, price, quality and time limit for performance of the contract shall be consistent with the content of the bidding documents and the bid documents of the winning bidder. The inviter and the winning bidder may not conclude another agreement departing from the substantive content of the contract.\nThe inviter shall, no later than five days after the conclusion of the written contract, refund the bid security and the bank deposit interest for the same period to the winning bidder and the unsuccessful bidders."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter IV Opening, Evaluation and Award of Bids"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where the bidding documents require the winning bidder to submit performance security, the winning bidder shall submit it in accordance with the requirements of the bidding documents. The performance security may not exceed 10 per cent of the amount of the contract awarded."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter IV Opening, Evaluation and Award of Bids"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "The winning bidder shall perform its obligations in accordance with the contract and complete the project awarded. The winning bidder may not transfer the project awarded to others, nor may it divide the project awarded into parts and transfer them separately to others.\nThe winning bidder may, in accordance with the contract or with the consent of the inviter, subcontract part of the non-principal and non-critical work of the project awarded to others. The subcontractor shall possess the corresponding qualification conditions and may not further subcontract.\nThe winning bidder shall be responsible to the inviter for the subcontracted work, and the subcontractor shall bear joint and several liability for the subcontracted work."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter IV Opening, Evaluation and Award of Bids"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Where a bidder or other interested party considers that bid invitation and bidding activities do not conform to the provisions of laws and administrative regulations, it may, within 10 days from the date on which it knows or should have known, complain to the relevant administrative supervision department. A complaint shall contain clear requests and the necessary supporting materials.\nWhere a complaint is made on matters provided for in Article 22, Article 44 or Article 54 of these Regulations, objections shall first be raised with the inviter, and the period for replying to the objections shall not be counted within the time limit provided for in the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter V Complaints and Handling"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where a complainant complains to two or more administrative supervision departments with the power to accept the complaint on the same matter, the administrative supervision department that first receives the complaint shall be responsible for handling it.\nAn administrative supervision department shall, within three working days from the date of receipt of a complaint, decide whether to accept it, and shall, within 30 working days from the date of acceptance, make a written handling decision; where inspection, testing, appraisal or expert review is required, the time required shall not be counted.\nWhere a complainant fabricates facts, forges materials or obtains supporting materials by unlawful means in making a complaint, the administrative supervision department shall reject the complaint."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter V Complaints and Handling"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "When handling a complaint, an administrative supervision department has the right to consult and copy the relevant documents and materials and investigate the relevant circumstances, and the units and persons concerned shall cooperate. Where necessary, the administrative supervision department may order the suspension of bid invitation and bidding activities.\nStaff of administrative supervision departments shall, in accordance with law, keep confidential the State secrets and trade secrets learned in the course of supervision and inspection."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter V Complaints and Handling"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Where an inviter commits any of the following acts of restricting or excluding potential bidders, the relevant administrative supervision department shall impose a penalty in accordance with Article 51 of the Bid Invitation and Bidding Law:\n(a) failing to publish the pre-qualification announcement or bid invitation announcement in the designated media as required for a project that should be subject to public invitation to bid in accordance with law;\n(b) the content of the pre-qualification announcement or bid invitation announcement of the same project subject to bid invitation published in different media being inconsistent, thereby affecting potential bidders in applying for pre-qualification or bidding.\nWhere an inviter of a project subject to bid invitation by law fails to publish the pre-qualification announcement or bid invitation announcement as required and thereby evades bid invitation, a penalty shall be imposed in accordance with Article 49 of the Bid Invitation and Bidding Law."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Where an inviter falls under any of the following circumstances, the relevant administrative supervision department shall order correction and may impose a fine of not more than 100,000 yuan:\n(a) adopting invitation to bid where public invitation to bid should be adopted in accordance with law;\n(b) the time limits for the sale, clarification and modification of bidding documents and pre-qualification documents, or the time limits determined for submitting pre-qualification application documents and bid documents, not conforming to the provisions of the Bid Invitation and Bidding Law and these Regulations;\n(c) accepting bids from units or individuals that have failed pre-qualification;\n(d) accepting bid documents that should be rejected.\nWhere an inviter commits any of the acts listed in items 1, 3 and 4 of the preceding paragraph, sanctions shall be given in accordance with law to the person directly in charge of the unit and other persons directly responsible."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Where a bid invitation agency bids, acts as an agent for bidding or provides consultancy to bidders in a project subject to bid invitation that it represents, or where an intermediary institution entrusted with preparing a base price participates in bidding for the project for which it has been entrusted to prepare the base price or prepares bid documents or provides consultancy for bidders in that project, legal liability shall be pursued in accordance with Article 50 of the Bid Invitation and Bidding Law."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Where an inviter collects bid security or performance security in excess of the proportions provided for in these Regulations or fails to refund bid security and bank deposit interest for the same period in accordance with the provisions, the relevant administrative supervision department shall order correction and may impose a fine of not more than 50,000 yuan; where losses are caused to others, liability for compensation shall be borne in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Where bidders collude with each other in bidding or collude with the inviter in bidding, or where a bidder offers bribes to the inviter or members of the bid evaluation committee to seek winning, the award shall be invalid; where a crime is constituted, criminal liability shall be pursued in accordance with law; where a crime is not constituted, a penalty shall be imposed in accordance with Article 53 of the Bid Invitation and Bidding Law. Where the bidder does not win, the amount of the fine imposed on the unit shall be calculated on the basis of the contract amount of the project subject to bid invitation at the proportion prescribed by the Bid Invitation and Bidding Law.\nAny of the following acts of a bidder constitutes serious circumstances as provided for in Article 53 of the Bid Invitation and Bidding Law, and the relevant administrative supervision department shall disqualify it from participating in bidding for projects subject to bid invitation by law for one to two years:\n(a) seeking winning by offering bribes;\n(b) colluding in bidding two or more times within three years;\n(c) the collusive bidding harming the lawful interests of the inviter, other bidders, the State, the collective or citizens, causing direct economic losses of more than 300,000 yuan;\n(d) other acts of collusive bidding under serious circumstances.\nWhere a bidder commits any of the unlawful acts listed in paragraph 2 of this Article again within three years from the date of expiry of the period for executing the penalty provided for in that paragraph, or where collusive bidding or seeking winning by offering bribes is under especially serious circumstances, the administration department for industry and commerce shall revoke its business licence.\nWhere laws and administrative regulations have other provisions on the penalty for collusive bidding quotations, those provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "Where a bidder bids in the name of another or obtains winning by resorting to fraud by other means, the award shall be invalid; where a crime is constituted, criminal liability shall be pursued in accordance with law; where a crime is not constituted, a penalty shall be imposed in accordance with Article 54 of the Bid Invitation and Bidding Law. Where a bidder of a project subject to bid invitation by law does not win, the amount of the fine imposed on the unit shall be calculated on the basis of the contract amount of the project subject to bid invitation at the proportion prescribed by the Bid Invitation and Bidding Law.\nAny of the following acts of a bidder constitutes serious circumstances as provided for in Article 54 of the Bid Invitation and Bidding Law, and the relevant administrative supervision department shall disqualify it from participating in bidding for projects subject to bid invitation by law for one to three years:\n(a) forging or altering qualification or qualification grade certificates or other licence documents to obtain winning;\n(b) bidding in the name of another two or more times within three years;\n(c) obtaining winning by resorting to fraud and causing direct economic losses of more than 300,000 yuan to the inviter;\n(d) other acts of obtaining winning by resorting to fraud under serious circumstances.\nWhere a bidder commits any of the unlawful acts listed in paragraph 2 of this Article again within three years from the date of expiry of the period for executing the penalty provided for in that paragraph, or where obtaining winning by resorting to fraud is under especially serious circumstances, the administration department for industry and commerce shall revoke its business licence."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "Whoever assigns or leases qualification or qualification grade certificates to others for bidding shall be given an administrative penalty in accordance with the provisions of laws and administrative regulations; where a crime is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "Where an inviter of a project subject to bid invitation by law fails to establish a bid evaluation committee as required, or determines or replaces members of the bid evaluation committee in violation of the provisions of the Bid Invitation and Bidding Law and these Regulations, the relevant administrative supervision department shall order correction and may impose a fine of not more than 100,000 yuan, and shall give sanctions in accordance with law to the person directly in charge of the unit and other persons directly responsible; the evaluation conclusions made by the unlawfully determined or replaced members of the bid evaluation committee shall be invalid and the evaluation shall be conducted anew in accordance with law.\nWhere State functionaries unlawfully interfere in any manner in the selection of members of the bid evaluation committee, legal liability shall be pursued in accordance with Article 80 of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "Where a member of a bid evaluation committee commits any of the following acts, the relevant administrative supervision department shall order correction; where the circumstances are serious, it shall be prohibited from participating in bid evaluation of projects subject to bid invitation by law for a certain period; where the circumstances are especially serious, it shall be disqualified from serving as a member of a bid evaluation committee:\n(a) failing to withdraw where withdrawal is required;\n(b) leaving the post without authorisation;\n(c) failing to evaluate bids in accordance with the bid evaluation standards and methods prescribed in the bidding documents;\n(d) contacting bidders privately;\n(e) inquiring of the inviter about its intention in determining the winning bidder or accepting requirements of preference for or exclusion of a particular bidder put forward expressly or implicitly by any unit or individual;\n(f) failing to put forward an opinion of rejection on a bid that should be rejected in accordance with law;\n(g) hinting at or inducing a bidder to make clarifications or explanations, or accepting clarifications or explanations offered by a bidder on its own initiative;\n(h) other acts of performing duties in a non-objective or non-impartial manner."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "Where a member of a bid evaluation committee accepts property or other benefits from a bidder, the property accepted shall be confiscated and a fine of not less than 3,000 yuan but not more than 50,000 yuan shall be imposed, and he or she shall be disqualified from serving as a member of a bid evaluation committee and may no longer participate in bid evaluation of projects subject to bid invitation by law; where a crime is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "Where an inviter of a project subject to bid invitation by law falls under any of the following circumstances, the relevant administrative supervision department shall order correction and may impose a fine of not more than 10 per mille of the amount of the project awarded; where losses are caused to others, liability for compensation shall be borne in accordance with law; and sanctions shall be given in accordance with law to the person directly in charge of the unit and other persons directly responsible:\n(a) failing to issue the notice of award without justified reasons;\n(b) failing to determine the winning bidder in accordance with the provisions;\n(c) changing the award result without justified reasons after the notice of award is issued;\n(d) failing to conclude a contract with the winning bidder without justified reasons;\n(e) putting forward additional conditions to the winning bidder when concluding the contract."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "Where the winning bidder fails to conclude a contract with the inviter without justified reasons, puts forward additional conditions to the inviter when concluding the contract, or fails to submit performance security as required by the bidding documents, its qualification for winning shall be cancelled and the bid security shall not be refunded. For the winning bidder of a project subject to bid invitation by law, the relevant administrative supervision department shall order correction and may impose a fine of not more than 10 per mille of the amount of the project awarded."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "Where the inviter and the winning bidder fail to conclude a contract in accordance with the bidding documents and the bid documents of the winning bidder, the main terms of the contract are inconsistent with the content of the bidding documents and the bid documents of the winning bidder, or the inviter and the winning bidder conclude an agreement departing from the substantive content of the contract, the relevant administrative supervision department shall order correction and may impose a fine of not less than 5 per mille but not more than 10 per mille of the amount of the project awarded."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "Where the winning bidder transfers the project awarded to others, divides the project awarded into parts and transfers them separately to others, subcontracts part of the principal or critical work of the project awarded to others in violation of the provisions of the Bid Invitation and Bidding Law and these Regulations, or the subcontractor further subcontracts, the transfer or subcontracting shall be invalid and a fine of not less than 5 per mille but not more than 10 per mille of the amount of the transferred or subcontracted project shall be imposed; where there are unlawful gains, the unlawful gains shall be confiscated concurrently; suspension of business for rectification may be ordered; where the circumstances are serious, the administration department for industry and commerce shall revoke the business licence."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "Where a bidder or other interested party fabricates facts, forges materials or obtains supporting materials by unlawful means in making a complaint and thereby causes losses to others, liability for compensation shall be borne in accordance with law.\nWhere an inviter fails to reply to objections in accordance with the provisions and continues bid invitation and bidding activities, the relevant administrative supervision department shall order correction; where it refuses to correct or cannot correct and the award result is affected, the matter shall be handled in accordance with Article 81 of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "The State establishes a credit system for bid invitation and bidding. The relevant administrative supervision departments shall, in accordance with law, publish administrative handling decisions on the unlawful acts of parties such as inviters, bid invitation agencies, bidders and members of bid evaluation committees."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "Where a project examination and approval or verification department fails to examine and approve or verify the scope, manner and form of organisation of bid invitation of a project in accordance with law, sanctions shall be given in accordance with law to the person directly in charge of the unit and other persons directly responsible.\nWhere a relevant administrative supervision department fails to perform its duties in accordance with law, fails to investigate and deal with acts violating the provisions of the Bid Invitation and Bidding Law and these Regulations in accordance with law, or fails to handle complaints in accordance with the provisions or fails to publish in accordance with law administrative handling decisions on the unlawful acts of parties to bid invitation and bidding, sanctions shall be given in accordance with law to the person directly in charge and other persons directly responsible.\nWhere staff of project examination and approval or verification departments and relevant administrative supervision departments engage in malpractice for personal gain, abuse their power or derelict their duty and thereby constitute a crime, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "Where State functionaries take advantage of their positions to unlawfully interfere in bid invitation and bidding activities in any manner, directly or indirectly, expressly or implicitly, and fall under any of the following circumstances, sanctions of a demerit or major demerit shall be given in accordance with law; where the circumstances are serious, sanctions of demotion or removal from post shall be given in accordance with law; where the circumstances are especially serious, the sanction of dismissal shall be given in accordance with law; where a crime is constituted, criminal liability shall be pursued in accordance with law:\n(a) requiring that bid invitation not be conducted for a project subject to bid invitation by law, or requiring that public invitation to bid not be conducted for a project that should be subject to public invitation to bid in accordance with law;\n(b) requiring members of the bid evaluation committee or the inviter to take the bidder designated by them as the candidate for award or the winning bidder, or otherwise unlawfully interfering in bid evaluation activities and affecting the award result;\n(c) unlawfully interfering in bid invitation and bidding activities by other means."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "Where bid invitation and bidding activities of a project subject to bid invitation by law violate the provisions of the Bid Invitation and Bidding Law and these Regulations, exert a substantive effect on the award result and cannot be corrected by remedial measures, the bid invitation, bidding and award shall be invalid, and bid invitation or bid evaluation shall be conducted anew in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "Bid invitation and bidding associations shall carry out activities in accordance with their lawfully formulated articles of association and strengthen industry self-discipline and services."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "Where the laws and administrative regulations on government procurement have other provisions on bid invitation and bidding for government procurement of goods and services, those provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "These Regulations shall come into force on 1 February 2012."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0597'] = {
+    "lawId": "CN-REG-0597",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 79 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the Government Procurement Law of the People's Republic of China (hereinafter referred to as the Government Procurement Law)."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The fiscal funds mentioned in Article 2 of the Government Procurement Law refer to funds included in budgetary management.\nBorrowed funds that use fiscal funds as the source of repayment shall be treated as fiscal funds.\nWhere a procurement project of a State organ, public institution or social organisation uses both fiscal funds and non-fiscal funds, the Government Procurement Law and these Regulations shall apply to the part procured with fiscal funds; where the fiscal funds and non-fiscal funds cannot be separated for procurement, the Government Procurement Law and these Regulations shall apply uniformly.\nServices mentioned in Article 2 of the Government Procurement Law include services needed by the government itself and public services provided by the government to the general public."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The centralised procurement catalogue includes items procured by centralised procurement agencies and items subject to departmental centralised procurement.\nItems with uniform standards for technology and services that are commonly used by purchasers shall be listed as items procured by centralised procurement agencies; items that require special requirements based on the operational needs of the department or system to which the purchaser belongs and that may be procured in a unified manner shall be listed as items subject to departmental centralised procurement."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Centralised procurement mentioned in the Government Procurement Law refers to the conduct of a purchaser in entrusting a centralised procurement agency to procure on its behalf items listed in the centralised procurement catalogue, or in conducting departmental centralised procurement; decentralised procurement mentioned therein refers to the conduct of a purchaser in procuring by itself, or in entrusting a procurement agency to procure on its behalf, items above the procurement threshold that are not listed in the centralised procurement catalogue."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The people's governments of provinces, autonomous regions and municipalities directly under the Central Government, or the institutions authorised by them, may, in light of the actual circumstances, determine the centralised procurement catalogue and procurement thresholds applicable respectively to the provincial level, the level of cities divided into districts and the county level within their respective administrative areas."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The finance department of the State Council shall, in accordance with the State's economic and social development policies and together with the relevant departments of the State Council, formulate government procurement policies and, through measures such as formulating procurement requirement standards, reserving procurement shares, granting price review preferences and giving priority to procurement, achieve the objectives of conserving energy, protecting the environment, supporting underdeveloped areas and areas inhabited by ethnic minorities, and promoting the development of small and medium-sized enterprises."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Where government procurement of construction works and goods and services related to construction works is carried out by means of invitation to bid, the Law of the People's Republic of China on Bid Invitation and Bidding and its implementing regulations shall apply; where procurement is carried out by other means, the Government Procurement Law and these Regulations shall apply.\nConstruction works mentioned in the preceding paragraph refer to construction projects, including the new construction, reconstruction and expansion of buildings and structures and the related decoration, demolition and repair; goods related to construction works mentioned therein refer to equipment, materials, etc. that form an inseparable part of the works and are necessary for the basic functions of the works; services related to construction works mentioned therein refer to services such as survey, design and supervision necessary for completing the works.\nGovernment procurement of construction works and of goods and services related to construction works shall implement government procurement policies."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Information on government procurement projects shall be published in the media designated by the finance departments of people's governments at or above the provincial level. Where the budget amount of a procurement project reaches the standard prescribed by the finance department of the State Council, information on the government procurement project shall be published in the media designated by the finance department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "In government procurement activities, where procurement personnel and the relevant personnel have any of the following interests with a supplier, they shall withdraw:\n(a) having had an employment relationship with the supplier within three years before participating in the procurement activity;\n(b) having served as a director or supervisor of the supplier within three years before participating in the procurement activity;\n(c) having been a controlling shareholder or actual controller of the supplier within three years before participating in the procurement activity;\n(d) having a husband-and-wife relationship, a direct blood relationship, a collateral blood relationship within three generations or a close affinity relationship with the legal representative or person in charge of the supplier;\n(e) having other relationships with the supplier that may affect the fair and impartial conduct of the government procurement activity.\nWhere a supplier considers that procurement personnel or the relevant personnel have an interest relationship with another supplier, it may submit a written application for withdrawal to the purchaser or the procurement agency, stating the reasons. The purchaser or the procurement agency shall promptly inquire of the person whose withdrawal is requested, and a person whose withdrawal is requested who has an interest relationship shall withdraw."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The State applies unified construction standards for government procurement electronic trading platforms and promotes the use of information networks for electronic government procurement activities."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "In government procurement activities, a purchaser shall safeguard national interests and public interests, be impartial and honest, act in good faith, implement government procurement policies, establish an internal management system for government procurement, practise strict economy and scientifically and reasonably determine procurement requirements.\nA purchaser may not demand or accept from a supplier gifts, rebates or other goods or services unrelated to the procurement."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Parties to Government Procurement"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Procurement agencies mentioned in the Government Procurement Law refer to centralised procurement agencies and procurement agencies other than centralised procurement agencies.\nA centralised procurement agency is a non-profit institutional legal person established in accordance with law by a people's government at or above the level of a city divided into districts and is the executing body that procures centralised procurement items on behalf of purchasers. A centralised procurement agency shall, in accordance with the entrustment of the purchaser, formulate the implementation plan for centralised procurement items, clarify the procurement procedures, organise government procurement activities, and may not sub-entrust centralised procurement items. Procurement agencies other than centralised procurement agencies are social intermediary organisations engaged in procurement agency business."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Parties to Government Procurement"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "A procurement agency shall establish a sound internal supervision and management system for government procurement and possess the review conditions and facilities required for carrying out government procurement business.\nA procurement agency shall raise its professional level of service in determining procurement requirements, preparing bidding documents, negotiation documents and inquiry notices, drafting contract texts and optimising procurement procedures, promptly organise the purchaser and the winning or successful supplier to conclude a government procurement contract within the prescribed time in accordance with the entrustment of the purchaser, and promptly assist the purchaser in carrying out acceptance check of the procurement project."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Parties to Government Procurement"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "A procurement agency may not obtain government procurement agency business by improper means, nor collude maliciously with a purchaser or supplier to manipulate government procurement activities.\nStaff of a procurement agency may not accept banquets, tours or entertainment arranged by a purchaser or supplier, may not accept gifts, cash, negotiable securities, etc., and may not claim reimbursement from a purchaser or supplier for expenses that should be borne personally."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Parties to Government Procurement"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "A purchaser and a procurement agency shall prepare procurement documents in accordance with government procurement policies, procurement budgets and procurement requirements.\nProcurement requirements shall conform to the requirements on technology, services and safety prescribed by laws and regulations and government procurement policies. For public service projects provided by the government to the general public, the opinions of the general public shall be solicited in determining the procurement requirements. Except where detailed specifications or specific requirements cannot be determined because of technical complexity or special nature, procurement requirements shall be complete and clear. Where necessary, the opinions of the relevant suppliers and experts shall be solicited in determining the procurement requirements."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Parties to Government Procurement"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The entrusted agency agreement provided for in Article 20 of the Government Procurement Law shall specify the scope, limits of authority and duration of the agency procurement and other specific matters.\nThe purchaser and the procurement agency shall perform their respective obligations in accordance with the entrusted agency agreement, and the procurement agency may not exceed the limits of its agency authority."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Parties to Government Procurement"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "A supplier participating in government procurement activities shall possess the conditions provided for in paragraph 1 of Article 22 of the Government Procurement Law and provide the following materials:\n(a) supporting documents such as the business licence of the legal person or other organisation, and the identity certificate of a natural person;\n(b) a financial status report and the relevant materials on payment of taxes and social insurance contributions in accordance with law;\n(c) supporting materials proving possession of the equipment and professional technical capacity necessary for performing the contract;\n(d) a written statement that there is no record of major unlawful acts in business operations within three years before participating in the government procurement activity;\n(e) supporting materials proving possession of other conditions provided for by laws and administrative regulations.\nWhere a procurement project has special requirements, the supplier shall also provide supporting materials or a statement of circumstances showing that it meets the special requirements."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Parties to Government Procurement"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Different suppliers whose persons in charge are the same person or which have a direct controlling or management relationship may not participate in government procurement activities under the same contract.\nExcept for single-source procurement projects, a supplier that has provided overall design, specification preparation, project management, supervision, testing or other services for a procurement project may not participate in other procurement activities of that procurement project."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Parties to Government Procurement"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The record of major unlawful acts mentioned in item 5 of paragraph 1 of Article 22 of the Government Procurement Law refers to administrative penalties such as criminal punishment, being ordered to suspend production or business, revocation of a licence or permit, or a relatively large fine imposed on a supplier for unlawful business operations.\nWhere a supplier has been prohibited from participating in government procurement activities for a certain period within three years before participating in a government procurement activity because of unlawful business operations, it may participate in government procurement activities upon expiry of that period."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Parties to Government Procurement"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where a purchaser or procurement agency falls under any of the following circumstances, it constitutes applying differential or discriminatory treatment to suppliers on unreasonable conditions:\n(a) providing different project information to suppliers for the same procurement project;\n(b) setting qualification, technical or commercial conditions that are not suited to the specific characteristics and actual needs of the procurement project or are unrelated to the performance of the contract;\n(c) requirements on technology, services, etc. in the procurement requirements that point to a specific supplier or specific product;\n(d) using performance or awards in a specific administrative region or a specific industry as conditions for bonus points or as conditions for winning;\n(e) applying different qualification examination or review standards to suppliers;\n(f) restricting or designating specific patents, trademarks, brands or suppliers;\n(g) unlawfully restricting the form of ownership, form of organisation or location of suppliers;\n(h) restricting or excluding potential suppliers on other unreasonable conditions."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Parties to Government Procurement"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where a purchaser or procurement agency conducts pre-qualification of suppliers, the pre-qualification announcement shall be published in the media designated by the finance department of a people's government at or above the provincial level. Where pre-qualification has been conducted, the qualification of suppliers need not be examined again at the review stage. Where the qualification of a supplier that has passed pre-qualification changes at the review stage, it shall notify the purchaser and the procurement agency.\nThe pre-qualification announcement shall include the name of the purchaser and of the procurement project, the procurement requirements, the qualification requirements for suppliers and the time and place for suppliers to submit pre-qualification application documents. The time for submitting pre-qualification application documents shall be not less than five working days from the date of publication of the announcement."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Parties to Government Procurement"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Where suppliers with the same type of qualification in a consortium undertake the same work according to the division of work in the consortium, the qualification grade shall be determined according to the supplier with the lower qualification grade.\nWhere a consortium participates in government procurement activities, no member of the consortium may separately participate, or form another consortium with other suppliers to participate, in government procurement activities under the same contract."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter II Parties to Government Procurement"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where a purchaser procures goods or services above the threshold amount for public invitation to bid and the circumstances provided for in Articles 29, 30, 31 and 32 of the Government Procurement Law are met, or there are special circumstances such as the need to implement government procurement policies, it may, with the approval of the finance department of a people's government at or above the level of a city divided into districts, adopt procurement means other than public invitation to bid in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Methods of Government Procurement"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Items listed in the centralised procurement catalogue that are suitable for centralised procurement in batches shall be procured through centralised procurement in batches, except urgent small-sum and scattered goods items and services and construction projects with special requirements."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Methods of Government Procurement"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Where government procurement of construction works is not subject to bid invitation in accordance with law, it shall be procured by means of competitive negotiation or single-source procurement as provided for in the Government Procurement Law and these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Methods of Government Procurement"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The circumstances mentioned in item 3 of Article 30 of the Government Procurement Law shall be those unforeseeable by the purchaser or not caused by delay on the part of the purchaser; the circumstances mentioned in item 4 thereof refer to the inability to calculate the total price in advance because of the procurement of art works, or because of patents or proprietary technology, or because the time and quantity of services cannot be determined in advance."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Methods of Government Procurement"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The circumstances mentioned in item 1 of Article 31 of the Government Procurement Law refer to the situation where, because the goods or services use irreplaceable patents or proprietary technology, or because a public service project has special requirements, procurement can only be made from a particular supplier."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Methods of Government Procurement"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Within one fiscal year, where a purchaser procures goods or services of the same item or category under one budget item several times by means other than public invitation to bid and the accumulated amount exceeds the threshold amount for public invitation to bid, it constitutes evading public invitation to bid by breaking the whole into parts, except where the project budget is adjusted or procurement by means other than public invitation to bid has been approved."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Methods of Government Procurement"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "A purchaser shall prepare a government procurement implementation plan on the basis of the centralised procurement catalogue, the procurement threshold and the approved departmental budget, and report it to the finance department of the people's government at the same level for the record."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Procedures for Government Procurement"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "A purchaser or procurement agency shall disclose the budget amount of the procurement project in the bidding documents, negotiation documents and inquiry notices."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Procedures for Government Procurement"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The period for providing bidding documents shall be not less than five working days from the date on which the bidding documents begin to be issued.\nA purchaser or procurement agency may make necessary clarifications or modifications to bidding documents already issued. Where the content of the clarification or modification may affect the preparation of bid documents, the purchaser or procurement agency shall, at least 15 days before the deadline for submission of bids, notify in writing all potential bidders that have obtained the bidding documents; where fewer than 15 days remain, the purchaser or procurement agency shall postpone the deadline for submission of bid documents."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Procedures for Government Procurement"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "A purchaser or procurement agency shall prepare bidding documents in accordance with the standard text for bidding documents formulated by the finance department of the State Council.\nBidding documents shall include the commercial conditions of the procurement project, the procurement requirements, the qualification conditions for bidders, the requirements on bid quotations, the bid evaluation method, the bid evaluation standards and the text of the contract to be concluded, etc."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Procedures for Government Procurement"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Where the bidding documents require bidders to submit bid security, the bid security may not exceed 2 per cent of the budget amount of the procurement project. The bid security shall be submitted in non-cash forms such as cheques, drafts, promissory notes or letters of guarantee issued by financial institutions or guarantee institutions. Where a bidder fails to submit bid security as required by the bidding documents, its bid shall be invalid.\nThe purchaser or procurement agency shall, within five working days from the date of issuance of the notice of award, refund the bid security of unsuccessful bidders, and shall, within five working days from the date of conclusion of the government procurement contract, refund the bid security of the winning bidder.\nWhere competitive negotiation or inquiry procurement requires suppliers participating in the negotiation or inquiry to submit security, the provisions of the preceding two paragraphs shall be applied by reference."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Procedures for Government Procurement"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The bid evaluation methods for government procurement by invitation to bid are divided into the lowest evaluated price method and the comprehensive scoring method.\nThe lowest evaluated price method refers to the bid evaluation method in which the supplier whose bid documents meet all the substantive requirements of the bidding documents and whose bid quotation is the lowest is the candidate for award. The comprehensive scoring method refers to the bid evaluation method in which the supplier whose bid documents meet all the substantive requirements of the bidding documents and which obtains the highest score in the evaluation according to the quantitative indicators of the evaluation factors is the candidate for award.\nFor goods and services projects with uniform standards for technology and services, the lowest evaluated price method shall be adopted.\nWhere the comprehensive scoring method is adopted, the score settings in the evaluation standards shall correspond to the quantitative indicators of the evaluation factors.\nEvaluation standards not provided for in the bidding documents may not serve as the basis for evaluation."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Procedures for Government Procurement"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Where the negotiation documents cannot set out the procurement requirements completely and clearly and the final design scheme or solution needs to be provided by suppliers, the negotiation team shall, after the negotiation is concluded and in accordance with the principle that the minority is subordinate to the majority, vote to recommend the design schemes or solutions of three or more suppliers and require them to submit final quotations within the prescribed time."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Procedures for Government Procurement"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The inquiry notice shall determine the terms of the government procurement contract on the basis of the procurement requirements. In the course of inquiry, the inquiry team may not change the terms of the government procurement contract determined in the inquiry notice."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Procedures for Government Procurement"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Equal quality and services mentioned in item 5 of Article 38 and item 4 of Article 40 of the Government Procurement Law mean that both the product quality and the services provided by the supplier can meet the substantive requirements prescribed in the procurement documents."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Procedures for Government Procurement"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where the threshold amount for public invitation to bid is reached, the circumstances provided for in item 1 of Article 31 of the Government Procurement Law are met and procurement can only be made from a sole supplier, the purchaser shall publicise the information on the procurement project and the name of the sole supplier in the media designated by the finance department of a people's government at or above the provincial level, and the publicity period shall be not less than five working days."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Procedures for Government Procurement"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Except in the circumstances prescribed by the finance department of the State Council, a purchaser or procurement agency shall randomly select review experts from the database of government procurement review experts."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter IV Procedures for Government Procurement"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Government procurement review experts shall observe the discipline of review work and may not disclose review documents, review circumstances or trade secrets learned in the course of review.\nWhere the bid evaluation committee, competitive negotiation team or inquiry team discovers in the course of review that a supplier has committed unlawful acts such as offering bribes, providing false materials or colluding, it shall promptly report to the finance department.\nWhere a government procurement review expert is subjected to unlawful interference in the course of review, he or she shall promptly report to the finance, supervision and other departments."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter IV Procedures for Government Procurement"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Members of the bid evaluation committee, competitive negotiation team or inquiry team shall, in accordance with the principles of objectivity, impartiality and prudence, conduct independent review according to the review procedures, review methods and review standards prescribed in the procurement documents. Where the content of the procurement documents violates the relevant mandatory provisions of the State, the bid evaluation committee, competitive negotiation team or inquiry team shall stop the review and explain the circumstances to the purchaser or procurement agency.\nMembers of the bid evaluation committee, competitive negotiation team or inquiry team shall sign the review report and bear legal liability for their own review opinions. Where a member has objections to the review report, he or she shall sign a dissenting opinion on the review report and state the reasons; otherwise, the member shall be deemed to have agreed to the review report."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IV Procedures for Government Procurement"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "A purchaser or procurement agency may not give tendentious or misleading explanations or statements to the review experts of the bid evaluation committee, competitive negotiation team or inquiry team."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter IV Procedures for Government Procurement"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "A procurement agency shall, within two working days from the date of conclusion of the review, deliver the review report to the purchaser. The purchaser shall, within five working days from the date of receipt of the review report, determine the winning or successful supplier in order from among the candidates for award recommended in the review report.\nThe purchaser or procurement agency shall, within two working days from the date of determination of the winning or successful supplier, issue the notice of award or of successful procurement, and announce the result of award or successful procurement in the media designated by the finance department of a people's government at or above the provincial level, with the bidding documents, competitive negotiation documents and inquiry notice announced simultaneously with the result of award or successful procurement.\nThe announcement of the result of award or successful procurement shall include the names, addresses and contact details of the purchaser and the procurement agency, the project name and project number, the name and address of the winning or successful supplier and the amount of award or successful procurement, the names, specifications and models, quantities, unit prices and service requirements of the main subject matter of the award or successful procurement, and the list of review experts."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter IV Procedures for Government Procurement"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Except in the circumstances prescribed by the finance department of the State Council, a purchaser or procurement agency may not organise re-review for any reason. Where a purchaser or procurement agency organises re-review in accordance with the provisions of the finance department of the State Council, it shall report in writing to the finance department of the people's government at the same level.\nA purchaser or procurement agency may not change the review result by testing samples, inspecting suppliers or other means."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter IV Procedures for Government Procurement"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "A purchaser or procurement agency shall organise acceptance check of the supplier's performance in accordance with the technical, service and safety standards prescribed in the government procurement contract and issue an acceptance certificate. The acceptance certificate shall include the performance of each technical, service and safety standard.\nFor public service projects provided by the government to the general public, the service recipients shall be invited to participate in the acceptance check and to give their opinions, and the acceptance result shall be announced to the public."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter IV Procedures for Government Procurement"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Procurement documents provided for in Article 42 of the Government Procurement Law may be kept in the form of electronic archives."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter IV Procedures for Government Procurement"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "The finance department of the State Council shall, together with the relevant departments of the State Council, formulate the standard text of government procurement contracts."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter V Government Procurement Contracts"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where the procurement documents require the winning or successful supplier to submit performance security, the supplier shall submit it in non-cash forms such as cheques, drafts, promissory notes or letters of guarantee issued by financial institutions or guarantee institutions. The amount of the performance security may not exceed 10 per cent of the amount of the government procurement contract."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter V Government Procurement Contracts"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where the winning or successful supplier refuses to conclude a contract with the purchaser, the purchaser may, in accordance with the order of the list of candidates for award recommended in the review report, determine the next candidate as the winning or successful supplier, or may carry out the government procurement activity anew."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter V Government Procurement Contracts"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "A purchaser shall, within two working days from the date of conclusion of the government procurement contract, announce the government procurement contract in the media designated by the finance department of a people's government at or above the provincial level, except for the content of the government procurement contract involving State secrets or trade secrets."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter V Government Procurement Contracts"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "A purchaser shall, in accordance with the provisions of the government procurement contract, promptly pay the procurement funds to the winning or successful supplier.\nThe procedures for payment of funds for government procurement projects shall be implemented in accordance with the provisions of the State on the administration of payment of fiscal funds."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter V Government Procurement Contracts"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "A purchaser or procurement agency shall, within three working days, reply to inquiries raised by suppliers in accordance with law.\nWhere an inquiry or challenge raised by a supplier exceeds the scope of authorisation entrusted by the purchaser to the procurement agency, the procurement agency shall inform the supplier to raise it with the purchaser.\nGovernment procurement review experts shall cooperate with the purchaser or procurement agency in replying to suppliers' inquiries and challenges."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VI Challenges and Complaints"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "The date on which a supplier should have known that its rights and interests were harmed as provided for in Article 52 of the Government Procurement Law refers to:\n(a) for a challenge to procurement documents that may be challenged, the date of receipt of the procurement documents or the date of expiry of the period for announcement of the procurement documents;\n(b) for a challenge to the procurement process, the date of completion of each stage of the procurement procedure;\n(c) for a challenge to the result of award or successful procurement, the date of expiry of the period for announcement of the result of award or successful procurement."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VI Challenges and Complaints"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where an inquiry or challenge matter may affect the result of award or successful procurement, the purchaser shall suspend the conclusion of the contract and, where the contract has already been concluded, shall suspend performance of the contract."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VI Challenges and Complaints"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "A supplier's challenge or complaint shall contain clear requests and the necessary supporting materials. The matters complained of by a supplier may not exceed the scope of the matters already challenged."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VI Challenges and Complaints"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "The finance department shall handle complaint matters by means of written examination and may, where necessary, conduct investigation and collect evidence or organise cross-examination.\nWith respect to investigation and evidence collection conducted by the finance department in accordance with law, the complainant and the parties concerned with the complaint matter shall truthfully report the circumstances and provide the relevant materials."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VI Challenges and Complaints"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where a complainant fabricates facts, provides false materials or obtains supporting materials by unlawful means in making a complaint, the finance department shall reject the complaint.\nWhere, after accepting a complaint, the complainant applies in writing to withdraw the complaint, the finance department shall terminate the complaint handling procedure."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VI Challenges and Complaints"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where the finance department, in handling a complaint matter, needs inspection, testing, appraisal or expert review, or needs the complainant to supplement or correct materials, the time required shall not be counted within the time limit for handling the complaint.\nThe decision made by the finance department on a complaint matter shall be announced in the media designated by the finance department of a people's government at or above the provincial level."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VI Challenges and Complaints"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "The procurement standards for government procurement projects mentioned in Article 63 of the Government Procurement Law refer to the budget standards for funds, the asset allocation standards and the technical and service standards on which project procurement is based."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Inspection"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "In addition to the assessment matters provided for in Article 66 of the Government Procurement Law, the assessment matters of the finance department with respect to centralised procurement agencies also include:\n(a) the implementation of government procurement policies;\n(b) the level of preparation of procurement documents;\n(c) the implementation of procurement means and procurement procedures;\n(d) the handling of replies to inquiries and challenges;\n(e) the establishment and implementation of internal supervision and management systems;\n(f) other matters prescribed by the finance department of a people's government at or above the provincial level.\nThe finance department shall formulate assessment plans and periodically assess centralised procurement agencies, and shall report to the people's government at the same level where the assessment results reveal important circumstances."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Inspection"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where a purchaser discovers that a procurement agency has committed an unlawful act, it shall require it to correct. Where the procurement agency refuses to correct, the purchaser shall report to the finance department of the people's government at the same level, and the finance department shall handle the matter in accordance with law.\nWhere a procurement agency discovers that the procurement requirements of the purchaser contain differential or discriminatory treatment of suppliers on unreasonable conditions or other content not conforming to the provisions of laws, regulations and government procurement policies, or discovers other unlawful acts of the purchaser, it shall advise the purchaser to correct. Where the purchaser refuses to correct, the procurement agency shall report to the finance department of the people's government at the same level as the purchaser, and the finance department shall handle the matter in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Inspection"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "The finance departments of people's governments at or above the provincial level shall exercise dynamic management over the database of government procurement review experts; the specific administrative measures shall be formulated by the finance department of the State Council.\nA purchaser or procurement agency shall record the performance of duties by review experts in government procurement activities and promptly report to the finance department."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Inspection"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "The finance departments and other relevant departments of people's governments at all levels shall strengthen the supervision and administration of suppliers, procurement agencies and review experts participating in government procurement activities, record their adverse conduct and incorporate it into the unified credit information platform."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Inspection"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Where the finance departments of people's governments at all levels conduct supervision and inspection of government procurement activities, they have the right to consult and copy the relevant documents and materials, and the units and persons concerned shall cooperate."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Inspection"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Audit institutions, supervision institutions and other relevant departments shall supervise government procurement activities in accordance with law and, where they discover unlawful acts by parties to procurement, shall promptly notify the finance department."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Inspection"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "The amount of the fine provided for in Article 71 of the Government Procurement Law shall be not more than 100,000 yuan.\nThe amount of the fine provided for in Article 72 of the Government Procurement Law shall be not less than 50,000 yuan but not more than 250,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Where a purchaser falls under any of the following circumstances, the finance department shall order correction within a time limit, give a warning, and give sanctions to the person directly in charge and other persons directly responsible in accordance with law, and circulate a notice of the matter:\n(a) failing to prepare a government procurement implementation plan as required or failing to report the government procurement implementation plan to the finance department of the people's government at the same level for the record as required;\n(b) breaking into parts a project that should be subject to public invitation to bid, or evading public invitation to bid by any other means;\n(c) failing to determine the winning or successful supplier from among the candidates for award recommended by the bid evaluation committee, competitive negotiation team or inquiry team as required;\n(d) concluding a government procurement contract not in accordance with the matters determined in the procurement documents;\n(e) in the performance of a government procurement contract, adding procurement of goods, works or services identical to the subject matter of the contract in an amount exceeding 10 per cent of the amount of the original contract;\n(f) changing, suspending or terminating a government procurement contract without authorisation;\n(g) failing to announce the government procurement contract as required;\n(h) failing to submit a copy of the government procurement contract to the finance department of the people's government at the same level and the relevant departments for the record within the prescribed time."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "Where a purchaser or procurement agency falls under any of the following circumstances, legal liability shall be pursued in accordance with Articles 71 and 78 of the Government Procurement Law:\n(a) carrying out procurement not by the means provided for in the Government Procurement Law and these Regulations;\n(b) failing to publish information on government procurement projects in the designated media in accordance with law;\n(c) failing to implement government procurement policies as required;\n(d) violating Article 15 of these Regulations, resulting in the inability to organise acceptance check of the supplier's performance or causing losses to State property;\n(e) failing to select review experts from the database of government procurement review experts in accordance with law;\n(f) unlawfully interfering in procurement review activities;\n(g) where the comprehensive scoring method is adopted, the score settings in the evaluation standards not corresponding to the quantitative indicators of the evaluation factors;\n(h) failing to handle a supplier's inquiry or challenge within the time limit;\n(i) changing the review result by testing samples, inspecting suppliers or other means;\n(j) failing to organise acceptance check of the supplier's performance as required."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "Where a centralised procurement agency falls under any of the following circumstances, the finance department shall order correction within a time limit and give a warning, and where there are unlawful gains, confiscate the unlawful gains concurrently, give sanctions to the person directly in charge and other persons directly responsible in accordance with law, and circulate a notice of the matter:\n(a) the internal supervision and management system is unsound, and posts and personnel that should be separately established and separated in accordance with law have not been separately established and separated;\n(b) entrusting centralised procurement items to another procurement agency for procurement;\n(c) engaging in for-profit activities."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "Where procurement personnel have an interest relationship with a supplier and fail to withdraw in accordance with law, the finance department shall give a warning and concurrently impose a fine of not less than 2,000 yuan but not more than 20,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "Where any of the unlawful acts provided for in Articles 71 and 72 of the Government Procurement Law affects or may affect the result of award or successful procurement, it shall be handled in accordance with the following provisions:\n(a) where the winning or successful supplier has not been determined, the current government procurement activity shall be terminated and a new government procurement activity shall be carried out.\n(b) where the winning or successful supplier has been determined but the government procurement contract has not yet been concluded, the result of award or successful procurement shall be invalid, and a winning or successful supplier shall be separately determined from among the qualified candidates for award; where there is no qualified candidate for award, a new government procurement activity shall be carried out.\n(c) where the government procurement contract has been concluded but not yet performed, the contract shall be revoked and a winning or successful supplier shall be separately determined from among the qualified candidates for award; where there is no qualified candidate for award, a new government procurement activity shall be carried out.\n(d) where the government procurement contract has already been performed and losses are caused to the purchaser or supplier, the responsible person shall bear liability for compensation.\nWhere a party to government procurement commits other acts in violation of the Government Procurement Law or these Regulations and, after correction, the result of award or successful procurement is still affected or may be affected, or the award or successful procurement is determined to be invalid in accordance with law, the matter shall be handled in accordance with the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "Where a supplier falls under any of the following circumstances, legal liability shall be pursued in accordance with paragraph 1 of Article 77 of the Government Procurement Law:\n(a) offering bribes or other improper benefits to members of the bid evaluation committee, competitive negotiation team or inquiry team;\n(b) refusing to conclude a government procurement contract with the purchaser after winning without justified reasons;\n(c) concluding a government procurement contract not in accordance with the matters determined in the procurement documents;\n(d) subcontracting the government procurement contract;\n(e) providing counterfeit or inferior products;\n(f) changing, suspending or terminating the government procurement contract without authorisation.\nWhere a supplier falls under the circumstance provided for in item 1 of the preceding paragraph, the award or successful procurement shall be invalid. Where the qualification of a supplier changes at the review stage and the supplier fails to notify the purchaser and the procurement agency in accordance with Article 21 of these Regulations, a fine of 5 per mille of the procurement amount shall be imposed, the supplier shall be included in the list of records of adverse conduct, and the award or successful procurement shall be invalid."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "Where a supplier fabricates facts, provides false materials or obtains supporting materials by unlawful means in making a complaint, the finance department shall include it in the list of records of adverse conduct and prohibit it from participating in government procurement activities for one to three years."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "Any of the following circumstances constitutes malicious collusion; legal liability shall be pursued against the supplier in accordance with paragraph 1 of Article 77 of the Government Procurement Law, and legal liability shall be pursued against the purchaser, the procurement agency and their staff in accordance with Article 72 of the Government Procurement Law:\n(a) a supplier directly or indirectly obtains information about other suppliers from the purchaser or procurement agency and modifies its bid documents or response documents;\n(b) a supplier replaces or modifies its bid documents or response documents at the instigation of the purchaser or procurement agency;\n(c) suppliers consult with each other on quotations, technical schemes and other substantive content of bid documents or response documents;\n(d) suppliers that are members of the same group, association, chamber of commerce or other organisation cooperate in participating in government procurement activities as required by that organisation;\n(e) suppliers agree in advance that a particular supplier shall win;\n(f) suppliers agree among themselves that some suppliers will give up participating in the government procurement activity or give up winning;\n(g) other collusive acts between a supplier and the purchaser or procurement agency, or among suppliers, for the purpose of seeking the award for a particular supplier or excluding other suppliers."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "Where a government procurement review expert fails to conduct independent review in accordance with the review procedures, review methods and review standards prescribed in the procurement documents, or discloses review documents or review circumstances, the finance department shall give a warning and concurrently impose a fine of not less than 2,000 yuan but not more than 20,000 yuan; where the result of award or successful procurement is affected, a fine of not less than 20,000 yuan but not more than 50,000 yuan shall be imposed, and the expert shall be prohibited from participating in government procurement review activities.\nWhere a government procurement review expert has an interest relationship with a supplier and fails to withdraw, a fine of not less than 20,000 yuan but not more than 50,000 yuan shall be imposed, and the expert shall be prohibited from participating in government procurement review activities.\nWhere a government procurement review expert accepts bribes from a purchaser, procurement agency or supplier or obtains other improper benefits and a crime is constituted, criminal liability shall be pursued in accordance with law; where a crime is not constituted, a fine of not less than 20,000 yuan but not more than 50,000 yuan shall be imposed, and the expert shall be prohibited from participating in government procurement review activities.\nWhere a government procurement review expert commits the unlawful acts mentioned above, his or her review opinions shall be invalid and he or she may not obtain review fees; where there are unlawful gains, the unlawful gains shall be confiscated; where losses are caused to others, civil liability shall be borne in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "Where a party to government procurement violates the provisions of the Government Procurement Law and these Regulations and causes losses to others, it shall bear civil liability in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "Where a finance department, in performing its duties of supervision and administration of government procurement, violates the provisions of the Government Procurement Law and these Regulations by abusing its power, derelicting its duty or engaging in malpractice for personal gain, sanctions shall be given to the person directly in charge and other persons directly responsible in accordance with law; where the person directly in charge and other persons directly responsible commit a crime, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "The people's government of a county directly administered by the province in respect of fiscal management may, as needed and with the approval of the provincial people's government, exercise the power provided for in the Government Procurement Law and these Regulations for a people's government at the level of a city divided into districts to approve a change in procurement means."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "These Regulations shall come into force on 1 March 2015."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
         }
       }
     ]
@@ -15117,6 +23502,927 @@
         },
         "chapter": {
           "en": "Chapter VII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0622'] = {
+    "lawId": "CN-REG-0622",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 77 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the Constitution and the relevant laws for the purpose of safeguarding citizens' freedom of religious belief, maintaining religious harmony and social harmony, standardising the administration of religious affairs and raising the level of rule-of-law in religious work."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Citizens enjoy freedom of religious belief.\nNo organisation or individual may compel a citizen to believe in a religion or not to believe in a religion, nor may any organisation or individual discriminate against citizens who believe in a religion (hereinafter referred to as religious believers) or citizens who do not believe in a religion (hereinafter referred to as non-believers).\nReligious believers and non-believers, and citizens who believe in different religions, shall respect each other and live together in harmony."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The administration of religious affairs adheres to the principles of protecting what is lawful, stopping what is unlawful, containing extremism, resisting infiltration and combating crime."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The State protects normal religious activities in accordance with law, actively guides religions to adapt to socialist society, and safeguards the lawful rights and interests of religious bodies, religious schools, venues for religious activities and religious believers.\nReligious bodies, religious schools, venues for religious activities and religious believers shall abide by the Constitution, laws, regulations and rules, practise the core socialist values, and safeguard national unity, ethnic solidarity, religious harmony and social stability.\nNo organisation or individual may use religion to engage in unlawful activities that endanger national security, disrupt social order, harm citizens' health, obstruct the State educational system, or otherwise harm national interests, public interests or the lawful rights and interests of citizens.\nNo organisation or individual may create contradictions or conflicts between different religions, within the same religion, or between religious believers and non-believers; nor may any organisation or individual advocate, support or fund religious extremism, or use religion to undermine ethnic solidarity, split the country or carry out terrorist activities."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "All religions adhere to the principle of independence and self-governance; religious bodies, religious schools, venues for religious activities and religious affairs are not subject to domination by foreign forces.\nReligious bodies, religious schools, venues for religious activities and religious clerics conduct external exchanges on the basis of mutual respect, equality and friendship; other organisations or individuals may not accept attached religious conditions in external economic, cultural and other cooperation and exchange activities."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "People's governments at all levels shall strengthen work on religious affairs, establish and improve working mechanisms for religious affairs, and guarantee the necessary staffing and working conditions.\nReligious affairs departments of people's governments at or above the county level shall, in accordance with law, administer religious affairs involving national interests and public interests; other relevant departments of people's governments at or above the county level shall, within the scope of their respective duties, be responsible for the relevant administrative work in accordance with law.\nTownship-level people's governments shall properly administer religious affairs within their respective administrative areas. Villagers' committees and residents' committees shall assist people's governments in administering religious affairs in accordance with law.\nPeople's governments at all levels shall listen to the opinions of religious bodies, religious schools, venues for religious activities and religious believers, coordinate the administration of religious affairs, and provide public services to religious bodies, religious schools and venues for religious activities."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The establishment, modification and deregistration of a religious body shall be registered in accordance with the relevant provisions of the State on the administration of social organisations.\nThe articles of association of a religious body shall conform to the relevant provisions of the State on the administration of social organisations.\nA religious body conducts activities in accordance with its articles of association, and such activities are protected by law."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Religious Bodies"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "A religious body shall have the following functions:\n(a) assisting people's governments in implementing laws, regulations, rules and policies and safeguarding the lawful rights and interests of religious believers;\n(b) guiding religious affairs and practice, formulating rules and regulations and supervising their implementation;\n(c) conducting research on religious culture, interpreting religious doctrines and precepts and carrying out the development of religious thought;\n(d) carrying out religious education and training, training religious clerics and recognising and administering religious clerics;\n(e) other functions provided for by laws, regulations, rules and the articles of association of the religious body."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Religious Bodies"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "National religious bodies and religious bodies of provinces, autonomous regions and municipalities directly under the Central Government may, in accordance with the needs of the religion concerned and according to the relevant provisions, select and receive religious students studying abroad; no other organisation or individual may select or receive religious students studying abroad."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Religious Bodies"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Religious schools, venues for religious activities and religious clerics shall comply with the rules and regulations formulated by religious bodies."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Religious Bodies"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Religious schools shall be established by national religious bodies or by religious bodies of provinces, autonomous regions and municipalities directly under the Central Government. No other organisation or individual may establish a religious school."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter III Religious Institutions of Learning"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "To establish a religious school, the national religious body shall submit an application to the religious affairs department of the State Council, or the religious body of a province, autonomous region or municipality directly under the Central Government shall submit an application to the religious affairs department of the people's government of the province, autonomous region or municipality directly under the Central Government in the place where the religious school to be established is located. The religious affairs department of the people's government of the province, autonomous region or municipality directly under the Central Government shall, within 30 days from the date of receipt of the application, put forward its opinions and submit them to the religious affairs department of the State Council for examination and approval.\nThe religious affairs department of the State Council shall, within 60 days from the date of receipt of the application of the national religious body or of the materials submitted by the religious affairs department of the people's government of the province, autonomous region or municipality directly under the Central Government, make a decision to approve or not to approve."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter III Religious Institutions of Learning"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "To establish a religious school, the following conditions shall be met:\n(a) having clear training objectives, a school charter and a curriculum plan;\n(b) having a student source that meets the training conditions;\n(c) having the necessary funds for running the school and a stable source of funding;\n(d) having teaching premises, facilities and equipment necessary for the teaching tasks and the scale of the school;\n(e) having full-time school leaders, qualified full-time teachers and an internal management organisation;\n(f) having a rational layout."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter III Religious Institutions of Learning"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "A religious school approved for establishment may apply for legal person registration in accordance with the relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter III Religious Institutions of Learning"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where a religious school changes its site, name, affiliation, training objectives, length of schooling, scale of operation, etc., or is merged, split or terminated, the procedures provided for in Article 12 of these Regulations shall be followed."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Religious Institutions of Learning"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Religious schools implement a special system for the recognition of teaching qualifications, the evaluation and appointment of professional titles and the conferral of student degrees; the specific measures shall be formulated separately by the religious affairs department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Religious Institutions of Learning"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Where a religious school employs foreign professionals, it shall, after obtaining the consent of the religious affairs department of the State Council, go through the relevant formalities with the foreign workers administration department of the place where it is located."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Religious Institutions of Learning"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where religious bodies and monasteries, Taoist temples, mosques and churches (hereinafter referred to as temples, monasteries and churches) carry out religious education and training for the purpose of training religious clerics with a study period of three months or more, they shall report to the religious affairs department of the local people's government at or above the level of a city divided into districts for approval."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Religious Institutions of Learning"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Venues for religious activities include temples, monasteries and churches and other fixed sites for religious activities.\nThe criteria for distinguishing temples, monasteries and churches from other fixed sites for religious activities shall be formulated by the religious affairs departments of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government and filed with the religious affairs department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter IV Sites for Religious Activities"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "To establish a venue for religious activities, the following conditions shall be met:\n(a) the purpose of establishment does not contravene the provisions of Article 4 and Article 5 of these Regulations;\n(b) local religious believers have the need to regularly carry out collective religious activities;\n(c) there are religious clerics or other persons conforming to the provisions of the religion concerned who are to preside over religious activities;\n(d) there are the necessary funds and the sources of funds are lawful;\n(e) the layout is rational, conforms to the requirements of urban and rural planning, and does not hinder the normal production and life of surrounding units and residents."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter IV Sites for Religious Activities"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "To prepare for the establishment of a venue for religious activities, the religious body shall submit an application to the religious affairs department of the county-level people's government in the place where the venue for religious activities is to be established. The religious affairs department of the county-level people's government shall, within 30 days from the date of receipt of the application, put forward its examination opinions and submit them to the religious affairs department of the people's government of the city divided into districts.\nThe religious affairs department of the people's government of the city divided into districts shall, within 30 days from the date of receipt of the materials submitted by the religious affairs department of the county-level people's government, make a decision to approve or not to approve an application for the establishment of another fixed site for religious activities; for an application for the establishment of a temple, monastery or church, it shall put forward examination opinions and submit them to the religious affairs department of the people's government of the province, autonomous region or municipality directly under the Central Government for approval.\nThe religious affairs department of the people's government of the province, autonomous region or municipality directly under the Central Government shall, within 30 days from the date of receipt of the materials submitted by the religious affairs department of the people's government of the city divided into districts, make a decision to approve or not to approve.\nOnly after the application for the establishment of a venue for religious activities is approved may the preparatory matters for the construction of the venue be handled."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter IV Sites for Religious Activities"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "After a venue for religious activities has been approved for preparation and construction has been completed, an application for registration shall be submitted to the religious affairs department of the county-level people's government in the place where it is located. The religious affairs department of the county-level people's government shall, within 30 days from the date of receipt of the application, examine the management organisation, the formulation of rules and regulations and other circumstances of the venue for religious activities, and shall register those that meet the conditions and issue a Registration Certificate for Venues for Religious Activities."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter IV Sites for Religious Activities"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where a venue for religious activities meets the conditions for a legal person, it may, with the consent of the local religious body and after examination and consent by the religious affairs department of the county-level people's government, go through legal person registration with the civil affairs department."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter IV Sites for Religious Activities"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Where a venue for religious activities terminates or changes the contents of its registration, it shall go through the corresponding deregistration or change of registration formalities with the original registration authority."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter IV Sites for Religious Activities"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "A venue for religious activities shall establish a management organisation and practise democratic management. The members of the management organisation of a venue for religious activities shall be elected through democratic consultation and reported to the registration authority of the venue for the record."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter IV Sites for Religious Activities"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "A venue for religious activities shall strengthen internal management and, in accordance with the provisions of the relevant laws, regulations and rules, establish and improve management systems for personnel, finance, assets, accounting, public security, fire protection, protection of cultural relics, health and epidemic prevention, etc., and accept the guidance, supervision and inspection of the relevant departments of the local people's government."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Sites for Religious Activities"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The religious affairs department shall supervise and inspect the compliance of venues for religious activities with laws, regulations and rules, the establishment and implementation of venue management systems, changes in registered items and religious activities and activities involving foreign parties. Venues for religious activities shall accept the supervision and inspection of the religious affairs department."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Sites for Religious Activities"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Venues for religious activities may sell religious articles, religious art works and religious publications."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Sites for Religious Activities"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Venues for religious activities shall guard against the occurrence, within the venue, of major accidents or events that violate religious taboos and thereby hurt the religious feelings of religious believers, undermine ethnic solidarity or affect social stability.\nWhen an accident or event listed in the preceding paragraph occurs, the venue for religious activities shall immediately report it to the religious affairs department of the county-level people's government in the place where it is located."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Sites for Religious Activities"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where a religious body or a temple, monastery or church intends to build a large open-air religious statue within a temple, monastery or church, the religious body of the province, autonomous region or municipality directly under the Central Government shall submit an application to the religious affairs department of the people's government of the province, autonomous region or municipality directly under the Central Government. The religious affairs department of the people's government of the province, autonomous region or municipality directly under the Central Government shall, within 30 days from the date of receipt of the application, put forward its opinions and submit them to the religious affairs department of the State Council for examination and approval.\nThe religious affairs department of the State Council shall, within 60 days from the date of receipt of the report on the construction of a large open-air religious statue, make a decision to approve or not to approve.\nOrganisations other than religious bodies, temples, monasteries and churches, and individuals, may not build large open-air religious statues.\nIt is prohibited to build large open-air religious statues outside temples, monasteries and churches."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Sites for Religious Activities"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where the relevant units and individuals establish commercial service outlets, hold exhibitions, shoot films and television programmes or carry out other activities within a venue for religious activities, they shall obtain the consent of the venue for religious activities in advance."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Sites for Religious Activities"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Local people's governments at all levels shall, in light of actual needs, incorporate the construction of venues for religious activities into the overall plan for land use and urban and rural planning.\nThe construction of venues for religious activities and large open-air religious statues shall conform to the overall plan for land use, urban and rural planning and the relevant laws and regulations on engineering construction and protection of cultural relics."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Sites for Religious Activities"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "To rebuild or newly build a structure within a venue for religious activities, the approval of the religious affairs department of the local people's government at or above the county level shall be obtained before the planning, construction and other formalities are gone through in accordance with law.\nWhere a venue for religious activities is expanded or reconstructed at a different site, the procedures provided for in Article 21 of these Regulations shall be followed."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Sites for Religious Activities"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Where a scenic area contains a venue for religious activities, the local people's government at or above the county level in the place where it is located shall coordinate and handle the interest relationship between the venue for religious activities and the scenic area management organisation as well as the landscaping, forestry, cultural relics, tourism and other sectors, safeguard the lawful rights and interests of the venue for religious activities, religious clerics and religious believers, and protect normal religious activities.\nThe planning and construction of a scenic area whose main touring content is a venue for religious activities shall be coordinated with the style and environment of the venue for religious activities."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Sites for Religious Activities"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Where religious believers have the need to carry out regular collective religious activities but do not yet meet the conditions for applying for the establishment of a venue for religious activities, representatives of the religious believers shall submit an application to the religious affairs department of the county-level people's government, and the religious affairs department of the county-level people's government may, after soliciting the opinions of the local religious body and the township-level people's government, designate a temporary activity site for them.\nUnder the guidance of the religious affairs department of the county-level people's government, the local township-level people's government shall supervise the activities at the temporary activity site. Once the conditions for establishing a venue for religious activities are met, the formalities for approval of establishment and registration of the venue for religious activities shall be handled.\nReligious activities at a temporary activity site shall conform to the relevant provisions of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Sites for Religious Activities"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "A religious cleric may engage in religious affairs and practice activities after being recognised by a religious body and filing with the religious affairs department of a people's government at or above the county level for the record.\nThe succession and reincarnation of living Buddhas in Tibetan Buddhism shall be handled in accordance with religious rituals and historical conventions under the guidance of Buddhist bodies, and shall be reported to the religious affairs department of a people's government at or above the provincial level or to a people's government at or above the provincial level for approval. Catholic bishops shall be reported by the national religious body of Catholicism to the religious affairs department of the State Council for the record.\nPersons who have not obtained or have lost the qualification of religious cleric may not engage in activities in the capacity of a religious cleric."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter V Religious Clergy"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Where a religious cleric assumes or leaves the principal clerical post of a venue for religious activities, it shall, with the consent of the religious body of the religion concerned, be reported to the religious affairs department of a people's government at or above the county level for the record."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter V Religious Clergy"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Religious clerics' presiding over religious activities, holding religious ceremonies, engaging in the collation of religious classics, conducting research on religious culture and carrying out public welfare and charitable activities are protected by law."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V Religious Clergy"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Religious clerics participate in social insurance in accordance with law and enjoy the relevant rights. Religious bodies, religious schools and venues for religious activities shall, in accordance with the provisions, handle social insurance registration for religious clerics."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V Religious Clergy"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Collective religious activities of religious believers shall generally be held within venues for religious activities, organised by the venue for religious activities, the religious body or the religious school, presided over by religious clerics or other persons conforming to the provisions of the religion concerned, and conducted in accordance with religious doctrines and precepts."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter VI Religious Activities"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Non-religious bodies, non-religious schools, non-venues for religious activities and non-designated temporary activity sites may not organise or hold religious activities, nor may they accept religious donations.\nNon-religious bodies, non-religious schools and non-venues for religious activities may not carry out religious education and training, nor organise citizens to go abroad to participate in religious training, conferences, activities, etc."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter VI Religious Activities"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where a large-scale religious activity exceeding the capacity of the venue for religious activities is held across provinces, autonomous regions or municipalities directly under the Central Government, or a large-scale religious activity is held outside a venue for religious activities, the sponsoring religious body, temple, monastery or church shall, 30 days before the proposed date of holding, submit an application to the religious affairs department of the people's government of the city divided into districts in the place where the large-scale religious activity is to be held. The religious affairs department of the people's government of the city divided into districts shall, within 15 days from the date of acceptance, after soliciting the opinions of the public security organ of the people's government at the same level, make a decision to approve or not to approve. Where a decision to approve is made, the approving authority shall file it with the religious affairs department of the provincial-level people's government for the record.\nA large-scale religious activity shall be conducted in accordance with religious rituals and in compliance with the requirements stated in the approval notice, and may not violate the relevant provisions of Article 4 and Article 5 of these Regulations. The sponsoring religious body, temple, monastery or church shall take effective measures to prevent accidents and ensure that the large-scale religious activity is conducted safely and in an orderly manner. The township-level people's government and the relevant departments of the local people's government at or above the county level in the place where the large-scale religious activity is held shall, in accordance with their respective duties, exercise the necessary administration and guidance."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VI Religious Activities"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Chinese citizens who believe in Islam and go abroad on pilgrimage shall be organised by the national religious body of Islam."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VI Religious Activities"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "It is prohibited to preach, hold religious activities, establish religious organisations or set up venues for religious activities in schools other than religious schools and in other educational institutions."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VI Religious Activities"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Religious bodies, religious schools and temples, monasteries and churches may, in accordance with the relevant provisions of the State, compile, print and distribute publications for internal religious reference. The publication of religious publications for public distribution shall be handled in accordance with the provisions of the State on publication administration.\nPublications involving religious content shall conform to the provisions of the State on publication administration and may not contain the following content:\n(a) content that undermines harmonious coexistence between religious believers and non-believers;\n(b) content that undermines harmony between different religions or harmony within a religion;\n(c) content that discriminates against or insults religious believers or non-believers;\n(d) content that advocates religious extremism;\n(e) content that contravenes the principle of independence and self-governance of religions."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VI Religious Activities"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "The entry into the country of religious publications and printed matter beyond the reasonable quantity for personal use, or the importation of religious publications and printed matter by other means, shall be handled in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VI Religious Activities"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "To engage in Internet religious information services, one shall, after examination and consent by the religious affairs department of a people's government at or above the provincial level, go through the formalities in accordance with the relevant provisions of the State on the administration of Internet information services."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VI Religious Activities"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "The content of Internet religious information services shall conform to the relevant laws, regulations, rules and the relevant provisions on the administration of religious affairs.\nThe content of Internet religious information services may not violate the provisions of paragraph 2 of Article 45 of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VI Religious Activities"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Religious bodies, religious schools and venues for religious activities shall, in accordance with law and the relevant provisions of the State, manage and use property belonging to the State or the collective that they lawfully possess; with respect to other lawful property, they enjoy ownership or other property rights in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VII Religious Property"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Land lawfully used by religious bodies, religious schools and venues for religious activities, houses, structures and facilities lawfully owned or used by them, and other lawful property and income are protected by law.\nNo organisation or individual may encroach upon, seize by force, privately divide, destroy, or unlawfully seal up, distrain, freeze, confiscate or dispose of the lawful property of religious bodies, religious schools or venues for religious activities, nor may any organisation or individual destroy cultural relics possessed or used by religious bodies, religious schools or venues for religious activities."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VII Religious Property"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Immovable property such as houses owned and land used by religious bodies, religious schools and venues for religious activities shall be registered in accordance with law with the immovable property registration agency of the local people's government at or above the county level, and an immovable property ownership certificate shall be obtained; where the ownership is changed or transferred, the change or transfer registration shall be handled in a timely manner.\nWhere the right to use land involving religious bodies, religious schools or venues for religious activities is changed or transferred, the immovable property registration agency shall solicit the opinions of the religious affairs department of the people's government at the same level."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VII Religious Property"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Religious bodies, religious schools and venues for religious activities are non-profit organisations; their property and income shall be used for activities consistent with their purposes and for public welfare and charitable undertakings, and may not be used for distribution."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VII Religious Property"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Any organisation or individual that donates funds for the construction of a venue for religious activities does not enjoy ownership or the right to use that venue for religious activities, and may not obtain economic benefits from that venue for religious activities.\nIt is prohibited to invest in or contract for the operation of venues for religious activities or large open-air religious statues, and it is prohibited to conduct commercial advertising in the name of religion."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VII Religious Property"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Houses and structures used by venues for religious activities for religious activities and the ancillary living quarters for religious clerics may not be transferred, mortgaged or used as investment in kind."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VII Religious Property"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where houses of religious bodies, religious schools or venues for religious activities are expropriated for the needs of public interest, the relevant provisions of the State on house expropriation shall be applied. Religious bodies, religious schools or venues for religious activities may choose monetary compensation, or may choose exchange of property rights of houses or reconstruction."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VII Religious Property"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Religious bodies, religious schools, venues for religious activities and religious clerics may, in accordance with law, establish public welfare and charitable undertakings.\nNo organisation or individual may use public welfare and charitable activities to preach."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VII Religious Property"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Religious bodies, religious schools and venues for religious activities may, in accordance with the relevant provisions of the State, accept donations from organisations and individuals at home and abroad for use in activities consistent with their purposes.\nReligious bodies, religious schools and venues for religious activities may not accept donations with attached conditions from overseas organisations and individuals; where the amount of a donation accepted exceeds 100,000 yuan, it shall be reported to the religious affairs department of a people's government at or above the county level for approval.\nReligious bodies, religious schools and venues for religious activities may accept donations from citizens in accordance with religious custom, but may not coerce or apportion them."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VII Religious Property"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Religious bodies, religious schools and venues for religious activities shall implement the unified financial, asset and accounting systems of the State, report their financial status, income and expenditure and the acceptance and use of donations to the religious affairs department of the local people's government at or above the county level, accept its supervision and administration, and disclose the same to religious believers in an appropriate manner. Religious affairs departments shall share the relevant administrative information with the relevant departments.\nReligious bodies, religious schools and venues for religious activities shall, in accordance with the relevant State financial and accounting systems, establish and improve accounting, financial reporting and financial disclosure systems, establish and improve financial management bodies, be staffed with the necessary financial and accounting personnel, and strengthen financial management.\nThe relevant government departments may organise financial and asset inspections and audits of religious bodies, religious schools and venues for religious activities."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VII Religious Property"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Religious bodies, religious schools and venues for religious activities shall handle tax registration in accordance with law.\nReligious bodies, religious schools, venues for religious activities and religious clerics shall file tax returns in accordance with law and enjoy tax preferences in accordance with the relevant provisions of the State.\nTax authorities shall exercise tax administration over religious bodies, religious schools, venues for religious activities and religious clerics in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VII Religious Property"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Where a religious body, religious school or venue for religious activities is deregistered or terminated, it shall conduct property liquidation, and the remaining property after liquidation shall be used for undertakings consistent with its purposes."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VII Religious Property"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where State functionaries abuse their power, derelict their duty or engage in malpractice for personal gain in the administration of religious affairs and should be given sanctions, sanctions shall be given in accordance with law; where a crime is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Where a citizen is compelled to believe in or not to believe in a religion, or the normal religious activities of a religious body, religious school or venue for religious activities are interfered with, the religious affairs department shall order correction; where there is an act violating public security administration, public security administration punishment shall be given in accordance with law.\nWhere the lawful rights and interests of religious bodies, religious schools, venues for religious activities or religious believers are infringed upon, civil liability shall be borne in accordance with law; where a crime is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Where a person advocates, supports or funds religious extremism, or uses religion to engage in unlawful activities such as endangering national security or public security, undermining ethnic solidarity, splitting the country or carrying out terrorist activities, infringing upon citizens' personal rights or democratic rights, obstructing the order of social administration, or infringing upon public or private property, and a crime is constituted, criminal liability shall be pursued in accordance with law; where a crime is not constituted, the relevant departments shall give administrative penalties in accordance with law; where losses are caused to citizens, legal persons or other organisations, civil liability shall be borne in accordance with law.\nWhere a religious body, religious school or venue for religious activities commits an act mentioned in the preceding paragraph and the circumstances are serious, the relevant departments shall take the necessary measures to rectify it; where it refuses to accept rectification, the registration authority or the authority that approved its establishment shall revoke its registration certificate or establishment permit in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Where, in the course of a large-scale religious activity, a situation endangering national security or public security or seriously disrupting social order occurs, the relevant departments shall handle and punish it in accordance with laws and regulations; where the sponsoring religious body, temple, monastery or church is responsible, the registration authority shall order it to replace its principal person in charge, and where the circumstances are serious, the registration authority shall revoke its registration certificate.\nWhere a large-scale religious activity is held without authorisation, the religious affairs department together with the relevant departments shall order the activity to be stopped and may concurrently impose a fine of not less than 100,000 yuan but not more than 300,000 yuan; where there are unlawful gains or unlawful property, the unlawful gains and unlawful property shall be confiscated. Where a large-scale religious activity is held without authorisation by a religious body or venue for religious activities, the registration authority may also order the religious body or venue for religious activities to replace the person directly in charge."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Where a religious body, religious school or venue for religious activities commits any of the following acts, the religious affairs department shall order correction; where the circumstances are relatively serious, the registration authority or the authority that approved its establishment shall order the religious body, religious school or venue for religious activities to replace the person directly in charge; where the circumstances are serious, the registration authority or the authority that approved its establishment shall order it to suspend its routine activities, reorganise its management organisation and rectify within a time limit, and where it refuses to rectify, revoke its registration certificate or establishment permit in accordance with law; where there are unlawful gains or unlawful property, the same shall be confiscated:\n(a) failing to handle change of registration or filing formalities as required;\n(b) a religious school violating the requirements on training objectives, school charter and curriculum;\n(c) a venue for religious activities violating Article 26 of these Regulations by failing to establish the relevant management systems or by having management systems that do not meet the requirements;\n(d) a venue for religious activities violating Article 54 of these Regulations by transferring, mortgaging or using as investment in kind the houses and structures used for religious activities and the ancillary living quarters for religious clerics;\n(e) failing to report in a timely manner a major accident or major event occurring within a venue for religious activities, resulting in serious consequences;\n(f) violating Article 5 of these Regulations by contravening the principle of independence and self-governance of religions;\n(g) accepting donations at home or abroad in violation of the relevant provisions of the State;\n(h) refusing to accept the supervision and administration exercised by administrative organs in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Where activities at a temporary activity site violate the relevant provisions of these Regulations, the religious affairs department shall order correction; where the circumstances are serious, it shall order the activities to be stopped and revoke the temporary activity site; where there are unlawful gains or unlawful property, the same shall be confiscated."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Where a religious body, religious school or venue for religious activities violates the State provisions on financial, accounting, asset or tax administration, the finance, tax and other departments shall impose penalties in accordance with the relevant provisions; where the circumstances are serious, upon the proposal of the finance and tax departments, the registration authority or the authority that approved its establishment shall revoke its registration certificate or establishment permit."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "Where a publication involving religious content or an Internet religious information service contains content prohibited by paragraph 2 of Article 45 of these Regulations, the relevant departments shall impose administrative penalties on the responsible units and persons in accordance with law; where a crime is constituted, criminal liability shall be pursued in accordance with law.\nWhere a person engages in Internet religious information services without authorisation or provides services beyond the approved or filed items, the relevant departments shall handle the matter in accordance with the relevant laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "Where a venue for religious activities is established without authorisation, where religious activities are still carried on after the registration of a venue for religious activities has been revoked or its registration certificate has been revoked, or where a religious school is established without authorisation, the religious affairs department together with the relevant departments shall ban it; where there are unlawful gains or unlawful property, the unlawful gains and unlawful property shall be confiscated, and where the unlawful gains cannot be determined, a fine of not more than 50,000 yuan shall be imposed; where there are unlawful houses or structures, the planning, construction and other departments shall handle them in accordance with law; where there is an act violating public security administration, public security administration punishment shall be given in accordance with law.\nWhere a non-religious body, non-religious school, non-venue for religious activities or non-designated temporary activity site organises or holds religious activities or accepts religious donations, the religious affairs department together with the public security, civil affairs, construction, education, culture, tourism, cultural relics and other relevant departments shall order the activities to be stopped; where there are unlawful gains or unlawful property, the unlawful gains and unlawful property shall be confiscated, and a fine of not less than one time but not more than three times the unlawful gains may be imposed concurrently; where the unlawful gains cannot be determined, a fine of not more than 50,000 yuan shall be imposed; where a crime is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "Where a person organises citizens to go abroad without authorisation to participate in religious training, conferences, pilgrimages or other activities, or carries out religious education and training without authorisation, the religious affairs department together with the relevant departments shall order the activities to be stopped and may concurrently impose a fine of not less than 20,000 yuan but not more than 200,000 yuan; where there are unlawful gains, the unlawful gains shall be confiscated; where a crime is constituted, criminal liability shall be pursued in accordance with law.\nWhere a person preaches, holds religious activities, establishes religious organisations or sets up venues for religious activities in schools other than religious schools or in other educational institutions, the authority that approved them or other relevant departments shall order correction within a time limit and give a warning; where there are unlawful gains, the unlawful gains shall be confiscated; where the circumstances are serious, order the enrolment of students to be stopped and revoke the school-running permit; where a crime is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "Where a person provides conditions for unlawful religious activities, the religious affairs department shall give a warning; where there are unlawful gains or unlawful property, the unlawful gains and unlawful property shall be confiscated, and where the circumstances are serious, a fine of not less than 20,000 yuan but not more than 200,000 yuan shall be imposed concurrently; where there are unlawful houses or structures, the planning, construction and other departments shall handle them in accordance with law; where there is an act violating public security administration, public security administration punishment shall be given in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "Where a large open-air religious statue is built in violation of the provisions of these Regulations, the religious affairs department together with the land, planning, construction, tourism and other departments shall order the construction to be stopped and demolition within a time limit, and where there are unlawful gains, the unlawful gains shall be confiscated; where the circumstances are serious, a fine of not less than 5 per cent but not more than 10 per cent of the cost of the statue construction project shall be imposed concurrently.\nWhere a person invests in or contracts for the operation of a venue for religious activities or a large open-air religious statue, the religious affairs department together with the industry and commerce, planning, construction and other departments shall order correction and confiscate the unlawful gains; where the circumstances are serious, the registration authority shall revoke the registration certificate of the venue for religious activities and pursue the liability of the relevant persons in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "Where a religious cleric commits any of the following acts, the religious affairs department shall give a warning and confiscate the unlawful gains and unlawful property; where the circumstances are serious, the religious affairs department shall propose to the relevant religious body, religious school or venue for religious activities that the cleric be suspended from presiding over religious affairs and practice or that his or her status as a religious cleric be cancelled, and shall pursue the liability of the person in charge of the relevant religious body, religious school or venue for religious activities; where there is an act violating public security administration, public security administration punishment shall be given in accordance with law; where a crime is constituted, criminal liability shall be pursued in accordance with law:\n(a) advocating, supporting or funding religious extremism, undermining ethnic solidarity, splitting the country or carrying out terrorist activities, or participating in related activities;\n(b) being dominated by overseas forces, accepting appointment to a clerical post by an overseas religious body or institution without authorisation, or otherwise contravening the principle of independence and self-governance of religions;\n(c) accepting donations at home or abroad in violation of the relevant provisions of the State;\n(d) organising or presiding over religious activities held outside venues for religious activities without approval;\n(e) other acts violating laws, regulations or rules."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "Where a person passes himself or herself off as a religious cleric to engage in religious activities or to obtain money or property by deception or other unlawful activities, the religious affairs department shall order the activities to be stopped; where there are unlawful gains or unlawful property, the unlawful gains and unlawful property shall be confiscated, and a fine of not more than 10,000 yuan shall be imposed concurrently; where there is an act violating public security administration, public security administration punishment shall be given in accordance with law; where a crime is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "Where a person is dissatisfied with an administrative act of the religious affairs department, he or she may apply for administrative reconsideration in accordance with law; where a person is dissatisfied with a decision on administrative reconsideration, he or she may institute administrative proceedings in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "Religious exchanges between the mainland and the Hong Kong Special Administrative Region, the Macao Special Administrative Region and the Taiwan region shall be handled in accordance with laws, administrative regulations and the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "These Regulations shall come into force on 1 February 2018."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
         }
       }
     ]

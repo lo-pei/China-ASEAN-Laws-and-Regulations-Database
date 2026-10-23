@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p17
-   法规 72 部 / 译文 2633 条
+   法规 78 部 / 译文 3156 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -2886,6 +2886,1104 @@
         },
         "chapter": {
           "en": "Chapter VII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0349'] = {
+    "lawId": "CN-REG-0349",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 93 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the Law of the People's Republic of China on the Protection of Veterans, the Military Service Law of the People's Republic of China and the Law of the People's Republic of China on the Protection of the Status, Rights and Interests of Servicemen, for the purpose of regulating the resettlement of veterans, properly resettling veterans, safeguarding the lawful rights and interests of veterans and making military service a profession respected by the whole of society."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Veterans as mentioned in these Regulations mean officers, non-commissioned officers, conscripts and other personnel who have lawfully retired from active service in the Chinese People's Liberation Army."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Veterans have made important contributions to national defence and the building of the armed forces and are an important force in socialist modernisation.\nThe State cares for and gives preferential treatment to veterans and guarantees that veterans enjoy the corresponding rights and interests in accordance with law.\nThe whole of society shall respect and give preferential treatment to veterans and support the work of veteran resettlement."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The work of veteran resettlement shall uphold the leadership of the Communist Party of China, adhere to the policy of serving economic and social development and serving national defence and the building of the armed forces, and implement the principles of proper resettlement, rational use, full utilisation of talent and ensuring that each person is properly placed.\nThe work of veteran resettlement shall be open, fair and impartial and shall be advanced through coordination between the military and the civilian sectors."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "For retired officers, the State adopts such methods as retirement, transfer to civilian work, monthly retirement pension and demobilisation for proper resettlement.\nFor retired non-commissioned officers, the State adopts such methods as monthly retirement pension, self-employment, job placement, retirement and support and care for proper resettlement.\nFor retired conscripts, the State adopts such methods as self-employment, job placement and support and care for proper resettlement.\nPriority in resettlement in accordance with law shall be given to veterans who have participated in combat, officers transferred to civilian work who served as principal officers of division, brigade, regiment or battalion level units of combat forces, veterans who are children of martyrs or model meritorious persons, and veterans who have served on active duty for a long time in arduous and remote areas or in special posts such as flight, naval vessel and nuclear-related posts."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The leading body for veterans affairs work of the Central Government shall be responsible for the top-level design, overall coordination, overall advancement, and supervision and implementation of veteran resettlement work. The leading bodies for veterans affairs work at all local levels shall be responsible for the organisation, leadership, overall planning and implementation of veteran resettlement work in their respective regions."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The competent department for veterans work of the State Council shall be responsible for veteran resettlement work nationwide. The political work department of the Central Military Commission shall be responsible for organising and guiding the retirement of servicemen throughout the armed forces. The relevant organs of the Central Government and the relevant departments of the organs of the Central Military Commission shall do a good job in veteran resettlement work within the scope of their respective duties.\nThe competent departments for veterans work of local people's governments at or above the county level shall be responsible for veteran resettlement work within their respective administrative regions. The political work departments of units at or above the regiment level of the armed forces (including departments performing political work duties, the same below) shall be responsible for the retirement of servicemen of their own units. The relevant organs of local governments at all levels shall do a good job in veteran resettlement work within the scope of their respective duties.\nThe provincial military commands (garrison commands, security commands) shall be responsible for the transfer of retired officers of the entire armed forces resettled by way of transfer to civilian work, monthly retirement pension or demobilisation in the province, autonomous region or municipality directly under the Central Government where they are located and of retired non-commissioned officers receiving a monthly retirement pension, shall cooperate with the places of resettlement in completing the resettlement work, and shall cooperate in the transfer of retired officers and non-commissioned officers and of retired non-commissioned officers and conscripts resettled by way of job placement or support and care."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The funds required for veteran resettlement shall, in accordance with the principle of dividing fiscal authority and expenditure responsibility between the central and local governments, be included in the central and local budgets and shall be adjusted in a timely manner in light of the level of economic and social development."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "State organs, mass organisations, enterprises, public institutions and social organisations shall accept and resettle veterans in accordance with law, and veterans shall accept resettlement.\nVeterans shall exemplarily abide by the Constitution, laws and regulations, keep military secrets, preserve and carry forward the glorious tradition and fine style of work of the people's army, and actively devote themselves to the cause of building a modern socialist country in all respects."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Local people's governments at or above the county level shall incorporate veteran resettlement work into their annual key work plans and into target-based management, establish and improve the responsibility system and the assessment and evaluation system for resettlement work, incorporate the completion of resettlement work into the assessment and evaluation of the departments of the people's government at the corresponding level responsible for veterans-related work and their persons in charge, and of lower-level people's governments and their persons in charge, and treat it as an important part of the evaluation of model cities (counties) of mutual support between the army and the people."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Units and individuals that have made outstanding contributions to veteran resettlement work shall be commended and rewarded in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Where officers retire from active service and meet the prescribed conditions, they may be resettled by way of retirement, transfer to civilian work or monthly retirement pension.\nWhere officers retire from active service and are in the prescribed circumstances, they shall be resettled by way of demobilisation."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Forms of Resettlement for Retired Officers"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "For retired officers, the people's government of the place of resettlement shall, in accordance with the approach of combining State guarantee with socialised services, do a good job in service and management and guarantee their benefits."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Forms of Resettlement for Retired Officers"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The people's government of the place of resettlement shall, in light of work needs, establish and adjust service and management institutions for retired officers to provide services and management to retired officers."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Forms of Resettlement for Retired Officers"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Officers transferred to civilian work shall be accepted and resettled by State organs, mass organisations, public institutions and State-owned enterprises.\nThe people's government of the place of resettlement shall, on the basis of the moral character and ability of the officers transferred to civilian work, their posts, ranks, contributions and specialities during active service, and work needs, and in light of actual circumstances, adopt in a coordinated manner such methods as assessment and selection, scoring-based post selection, examination and assessment, two-way selection, direct placement and mandatory assignment to properly arrange their posts and determine the corresponding positions and ranks."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Forms of Resettlement for Retired Officers"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The specific measures for retired officers to receive a monthly retirement pension shall be formulated by the competent department for veterans work of the State Council together with the relevant departments."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Forms of Resettlement for Retired Officers"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Demobilised officers shall enjoy demobilisation pay and other benefits in accordance with the relevant provisions formulated by the competent department for veterans work of the State Council and the political work department of the Central Military Commission."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Forms of Resettlement for Retired Officers"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where non-commissioned officers retire from active service and meet the prescribed conditions, they may be resettled by way of monthly retirement pension."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Section 1 Monthly Retirement Pension"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The specific measures for retired non-commissioned officers to receive a monthly retirement pension shall be formulated by the competent department for veterans work of the State Council together with the relevant departments."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Section 1 Monthly Retirement Pension"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Retired non-commissioned officers who do not meet the conditions for monthly retirement pension, job placement, retirement or support and care, and retired conscripts who do not meet the conditions for job placement or support and care, shall be resettled by way of self-employment.\nRetired non-commissioned officers who meet the conditions for monthly retirement pension or job placement, and retired conscripts who meet the conditions for job placement, may choose to be resettled by way of self-employment."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Section 2 Self-Employment"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "For self-employed retired non-commissioned officers and conscripts, a lump-sum resettlement payment shall be granted on the basis of their years of active service.\nThe lump-sum resettlement payment for self-employed retired non-commissioned officers and conscripts shall be specially arranged by the central finance, and the specific standards shall be determined by the competent department for veterans work of the State Council and the political work department of the Central Military Commission together with the finance department of the State Council, on the basis of factors such as the level of national economic development, the financial capacity of the State, the average wage of employed persons in urban units nationwide and the particularity of the military profession, and shall be adjusted in a timely manner."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Section 2 Self-Employment"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Where self-employed retired non-commissioned officers and conscripts have personally received medals, honorary titles or commendations and awards during active service, the lump-sum resettlement payment shall be increased according to the following percentages:\n(1) for those who have received medals or honorary titles, an increase of 25 per cent;\n(2) for those who have been awarded a first-class combat merit or have received a first-class commendation, an increase of 20 per cent;\n(3) for those who have been awarded a second-class combat merit or a first-class merit, or have received a second-class commendation and been approved to enjoy the relevant benefits, an increase of 15 per cent;\n(4) for those who have been awarded a third-class combat merit or a second-class merit, an increase of 10 per cent;\n(5) for those who have been awarded a fourth-class combat merit or a third-class merit, an increase of 5 per cent."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Section 2 Self-Employment"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "For self-employed retired non-commissioned officers and conscripts, the local people's government may, in light of local actual circumstances, grant a lump-sum financial subsidy, and the subsidy standards and the measures for granting it shall be formulated by the people's government of the province, autonomous region or municipality directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Section 2 Self-Employment"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Where junior non-commissioned officers and conscripts who have been assessed as grade 5 to grade 6 disabled owing to mental disorders retire from active service and need inpatient treatment or have no lineal relatives to care for them, the competent department for veterans work of the people's government of the place of resettlement may arrange for them to receive treatment in the relevant hospital and shall guarantee it in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Section 2 Self-Employment"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Where non-commissioned officers and conscripts retire from active service and meet any of the following conditions, the people's government of the place of resettlement shall arrange work for them:\n(1) the non-commissioned officer has served on active duty for a full 12 years;\n(2) the person has personally received a medal or an honorary title during active service;\n(3) the person has personally been awarded a third-class combat merit or a second-class merit or above during active service;\n(4) the person has personally received a first-class commendation during active service;\n(5) the person has been assessed as grade 5 to grade 8 disabled owing to combat injuries;\n(6) the person is a child of a martyr.\nA non-commissioned officer who meets the conditions for a monthly retirement pension may, if he or she voluntarily gives up resettlement by way of monthly retirement pension, choose resettlement by way of job placement.\nA non-commissioned officer of the rank of intermediate or above who has been assessed as grade 5 to grade 6 disabled owing to combat injuries may, if he or she voluntarily gives up resettlement by way of retirement, choose resettlement by way of job placement."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Section 3 Job Placement"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Retired non-commissioned officers and conscripts to be given job placement shall mainly be placed in public institutions and State-owned enterprises by the method of scoring-based post selection; where they meet the prescribed conditions, they may be recruited on the basis of merit to civil service posts in Party and government organs at the grassroots level.\nThe specific measures for the quantitative scoring of the active service performance of retired non-commissioned officers and conscripts to be given job placement shall be formulated by the competent department for veterans work of the State Council together with the political work department of the Central Military Commission."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Section 3 Job Placement"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "In accordance with work needs and the requirements for building grassroots political power, the competent civil service departments at the provincial level shall determine a certain number of recruitment plans for grassroots civil servants and, taking comprehensive account of factors such as active service performance, recruit on the basis of merit, in accordance with the provisions of Article 26 of these Regulations, retired non-commissioned officers and conscripts to be given job placement who hold a bachelor's degree or above. The posts to be recruited for may be arranged in a coordinated manner within the provincial administrative region.\nWhere retired non-commissioned officers and conscripts participating in the recruitment are children of martyrs, or have served on active duty for a full 5 years in arduous and remote areas, they shall be given priority in recruitment under equal conditions.\nIn recruiting retired non-commissioned officers and conscripts, arduous and remote areas and border ethnic areas may, in light of local realities, appropriately relax the conditions on resettlement destination, age and educational background."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Section 3 Job Placement"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "In light of the needs of resettlement work, people's governments at or above the provincial level may designate a number of special posts to accept and resettle retired non-commissioned officers and conscripts to be given job placement in accordance with provisions."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Section 3 Job Placement"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "For retired non-commissioned officers and conscripts placed in public institutions, work posts shall be reasonably arranged on the basis of their contributions during active service, specialities and expertise. Where they meet the conditions for the corresponding posts, they may be assigned to managerial posts or professional technical posts."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Section 3 Job Placement"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where State organs, mass organisations or public institutions accept and resettle retired non-commissioned officers and conscripts to be given job placement, they shall provide establishment quota guarantees in accordance with the relevant provisions of the State.\nState-owned enterprises shall, in accordance with the prescribed proportion of the number of newly recruited employees in the whole system of the enterprise, verify their annual acceptance plans for the acceptance and resettlement of retired non-commissioned officers and conscripts to be given job placement."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Section 3 Job Placement"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "For places with relatively heavy tasks in accepting and resettling retired non-commissioned officers and conscripts to be given job placement, the people's government at a higher level may make coordinated adjustments and arrangements within its administrative region.\nThe people's government of the place of resettlement shall complete the task of arranging work for retired non-commissioned officers and conscripts within 6 months of accepting them."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Section 3 Job Placement"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Where the resettlement posts for retired non-commissioned officers and conscripts to be given job placement require the conclusion of an employment contract or a labour contract, the employing unit shall, in accordance with provisions, conclude with them a medium- or long-term employment contract or labour contract of not less than 3 years. Among them, where an enterprise accepts a retired non-commissioned officer with 10 years or more of military service, it shall conclude an open-ended labour contract with him or her."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Section 3 Job Placement"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "For disabled retired non-commissioned officers and conscripts to be given job placement, the receiving unit shall arrange work within their capacity.\nRetired non-commissioned officers and conscripts disabled owing to combat or duty who are to be given job placement shall, in addition to enjoying work-related injury insurance benefits in accordance with law, also enjoy the same living welfare, medical and other benefits as persons with work-related injuries in their units."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Section 3 Job Placement"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Where retired non-commissioned officers and conscripts who meet the conditions for job placement refuse, without justified reasons, to accept the job placement arranged by the people's government of the place of resettlement, they shall be deemed to have given up the job placement benefits; where they are investigated for criminal liability in accordance with law during the period of awaiting job placement, their job placement benefits shall be cancelled."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Section 3 Job Placement"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Where non-commissioned officers and conscripts retire from active service and are in any of the following circumstances, they shall not be resettled by way of job placement:\n(1) having been expelled from the Communist Party of China;\n(2) having been subjected to criminal punishment;\n(3) other circumstances provided by laws and regulations under which resettlement by way of job placement is inappropriate, such as compulsory retirement from active service."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Section 3 Job Placement"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Where non-commissioned officers of the rank of intermediate or above retire from active service and meet any of the following conditions, they shall be resettled by way of retirement:\n(1) having reached the age of 55 at the time of retirement from active service;\n(2) having served on active duty for a full 30 years;\n(3) having been assessed as grade 1 to grade 6 disabled owing to combat or duty injuries;\n(4) suffering from a serious illness and having basically lost the capacity to work as determined by medical assessment."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Section 4 Retirement and Support"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The transfer of retired non-commissioned officers to the government for resettlement, service and management shall be carried out with reference to the relevant provisions on retired officers."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Section 4 Retirement and Support"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where junior non-commissioned officers and conscripts assessed as grade 1 to grade 4 disabled retire from active service, the State shall provide them with support and care for life.\nWhere non-commissioned officers of the rank of intermediate or above assessed as grade 1 to grade 4 disabled owing to combat or duty injuries voluntarily give up resettlement by way of retirement, they may choose support and care by the State for life.\nSupport and care by the State is divided into centralized support and care and dispersed support and care."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Section 4 Retirement and Support"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Veteran resettlement plans include national veteran resettlement plans and local veteran resettlement plans, and shall be issued by category and in batches distinguishing retired officers from retired non-commissioned officers and conscripts.\nThe national veteran resettlement plan shall be prepared and issued by the competent department for veterans work of the State Council together with the political work department of the Central Military Commission and the relevant organs of the Central Government.\nThe local veteran resettlement plans at or above the county level shall be prepared and issued by the competent department for veterans work at the corresponding level, or prepared and issued together with the relevant departments."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Section 1 Resettlement Plans"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Plans for the resettlement of sick and disabled veterans may be included in the plans provided in Article 39 of these Regulations and prepared and issued together with them, or may be prepared and issued separately.\nPlans for the resettlement of the spouses and children who are transferred and relocated together with veterans shall be issued together with the veteran resettlement plans."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Section 1 Resettlement Plans"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "The resettlement plans of the central State organs and the enterprises and public institutions under their administration for accepting veterans shall be prepared and issued in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Section 1 Resettlement Plans"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where, owing to the adjustment of the organisational system and establishment of the armed forces, servicemen retire from active service in entire units and in batches, the resettlement shall be handled through consultation by the competent department for veterans work of the State Council and the political work department of the Central Military Commission together with the relevant organs of the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Section 1 Resettlement Plans"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "The place of resettlement of veterans shall be determined in accordance with the principles of being subordinate to work needs, highlighting service contributions and being conducive to family life."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Section 2 Place of Resettlement"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "The place of resettlement of retired officers and of retired non-commissioned officers resettled by way of monthly retirement pension or retirement shall be determined in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Section 2 Place of Resettlement"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "The place of resettlement of retired conscripts and of retired non-commissioned officers resettled by way of self-employment, job placement or support and care shall be the place of household registration at the time of enlistment. However, where they were students of ordinary institutions of higher education at the time of enlistment and do not resume their studies after retiring from active service, their place of resettlement shall be the place of household registration before enrolment.\nWhere retired conscripts and retired non-commissioned officers resettled by way of self-employment, job placement or support and care are in any of the following circumstances, they may be resettled in a different place:\n(1) where the place of household registration of either parent has changed during active service, resettlement may be in the current place of household registration of either parent;\n(2) where the retired non-commissioned officer is married, resettlement may be in the place of household registration of the spouse or of either parent of the spouse;\n(3) where the spouse of the retired non-commissioned officer is a serviceman or servicewoman on active duty and meets the provisions on accompanying the armed forces, resettlement may be in the place where the spouse's unit is stationed; where both retire at the same time, resettlement may be in the place of resettlement of the spouse;\n(4) for other special circumstances, with a certificate issued by the political work department of a unit at or above the brigade level of the armed forces and the approval of the competent department for veterans work of a people's government at or above the provincial level, resettlement may be in a different place.\nWhere a retired non-commissioned officer is resettled in a medium-sized or larger city determined by the State Council in accordance with items (2) and (3) of the preceding paragraph, he or she shall have been married for a full 2 years."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Section 2 Place of Resettlement"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where, owing to major national reforms, key project construction, national defence and armed forces reform or other needs, veterans may, with the approval of the competent department for veterans work of the State Council, be resettled across provinces, autonomous regions and municipalities directly under the Central Government.\nWhere veterans meet the conditions prescribed in the special policies of the place of resettlement for attracting talent, they may, with the consent of the competent department for veterans work of the people's government at the provincial level of the place where the receiving and resettling unit is located, after consultation with the competent talent work department at the same level, and with the approval of the competent department for veterans work of the State Council and the political work department of the Central Military Commission, be resettled across provinces, autonomous regions and municipalities directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Section 2 Place of Resettlement"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "For veterans disabled owing to combat, veterans who have personally been awarded a third-class combat merit or a second-class merit or above during active service, veterans who are children of martyrs, and retired non-commissioned officers and conscripts whose parents have both died, the competent department for veterans work of a people's government at or above the provincial level may, upon their application and in accordance with the principle of being conducive to their livelihood, determine their place of resettlement."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Section 2 Place of Resettlement"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where veterans are resettled in a megacity determined by the State Council, in addition to meeting the conditions prescribed for the corresponding resettlement method, those resettled according to the place where their own units are stationed shall also have served continuously in the units stationed in that city for the prescribed number of years; those resettled by way of joining relatives shall also meet the other qualification conditions required by the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Section 2 Place of Resettlement"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where veterans have personally received medals or honorary titles during active service, or have been awarded a first-class combat merit or received a first-class commendation, they may choose their place of resettlement anywhere in the country. Among them, where such veterans choose to be resettled in a megacity determined by the State Council, they shall not be subject to the restrictions provided in Article 48 of these Regulations.\nWhere veterans have personally been awarded a second-class combat merit or a first-class merit during active service, or have received a second-class commendation and been approved to enjoy the relevant benefits, and have served on active duty for a cumulative total of 15 years in Tibet, Xinjiang, arduous and remote areas of category four or above determined by the armed forces, islands of category two or above determined by the armed forces, or special posts such as flight, naval vessel and nuclear-related posts, they may choose their place of resettlement within a provincial administrative region that meets the resettlement conditions.\nWhere veterans have served on active duty for a cumulative total of 10 years in Tibet, Xinjiang, arduous and remote areas of category four or above determined by the armed forces, islands of category two or above determined by the armed forces, or special posts such as flight, naval vessel and nuclear-related posts, they may choose their place of resettlement within a city with districts that meets the resettlement conditions."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Section 2 Place of Resettlement"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "The personnel files of retired officers resettled by way of transfer to civilian work, monthly retirement pension or demobilisation and of retired non-commissioned officers resettled by way of monthly retirement pension shall, after being transferred by the political work departments of the ministries and commissions of the organs of the Central Military Commission, the institutions directly under the Central Military Commission, the joint operations command centre of the Central Military Commission, the theatre commands, the services and arms, and the units directly under the Central Military Commission to the provincial military command (garrison command, security command) of the place of resettlement, be transferred by that provincial military command (garrison command, security command) to the competent department for veterans work of the people's government at the provincial level.\nThe personnel files of retired non-commissioned officers and conscripts to be given job placement shall be transferred by the political work departments of the ministries and commissions of the organs of the Central Military Commission, the institutions directly under the Central Military Commission, the joint operations command centre of the Central Military Commission, the theatre commands, the services and arms, and the units directly under the Central Military Commission to the competent department for veterans work of the people's government at the provincial level of the place of resettlement.\nThe personnel files of retired non-commissioned officers and conscripts resettled by way of self-employment or support and care shall be transferred by the political work departments of units at the division, brigade or regiment level of the armed forces to the competent department for veterans work of the people's government of the place of resettlement."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Section 3 Handover"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "For retired officers resettled by way of transfer to civilian work, monthly retirement pension or demobilisation, the competent department for veterans work shall issue a notice of acceptance, resettlement and reporting for duty, and the unit to which they belong shall promptly complete the relevant formalities for them and urge them to report for duty on time.\nRetired non-commissioned officers resettled by way of monthly retirement pension, job placement or support and care and retired conscripts resettled by way of job placement or support and care shall report to the competent department for veterans work of the people's government of the place of resettlement at the prescribed time; self-employed retired non-commissioned officers and conscripts shall, within 30 days from the date of approval of retirement from active service, report to the competent department for veterans work of the people's government of the place of resettlement. Where they fail, without justified reasons, to report at the prescribed time and the delay exceeds 30 days, they shall be deemed to have given up the resettlement benefits."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Section 3 Handover"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "The transfer and acceptance of retired officers and non-commissioned officers shall be organised and handled by the political work departments of units at or above the regiment level of the armed forces to which the retired officers and non-commissioned officers belong and the competent departments for veterans work of the people's governments of the places of resettlement."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Section 3 Handover"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "After veterans report for duty, the competent department for veterans work shall promptly issue a household registration introduction letter to veterans who need to complete household registration, and the public security organ shall complete the household registration on that basis.\nThe competent department for veterans work shall urge veterans to promptly complete the change of military service registration information.\nFor demobilised officers subject to organisational transfer, the political work department of a unit at or above the brigade level of the armed forces shall, together with the competent department for veterans work of the people's government of the place of resettlement and the public security organ, complete the relevant formalities such as transfer and household registration."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Section 3 Handover"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "For sick and disabled veterans who meet the conditions for transfer, the relevant units of the armed forces and the competent departments for veterans work of the people's governments of the places of resettlement shall promptly transfer and accept them and properly resettle them."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Section 3 Handover"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "For regions and units where the veteran resettlement policies are not fully implemented and work is not effectively advanced, the competent department for veterans work of a people's government at or above the provincial level shall, together with the relevant departments, conduct a regulatory interview with the principal person in charge of the people's government of that region or with the principal person in charge of that unit; for departments and units that refuse to accept and resettle veterans or fail to complete resettlement tasks, the departments of organisation, establishment, and human resources and social security may, in light of the circumstances, suspend the handling of the examination and approval matters concerning the transfer, recruitment (employment) and establishment quota of their personnel."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Section 3 Handover"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "For retired officers resettled by way of transfer to civilian work, monthly retirement pension or demobilisation, and for retired non-commissioned officers resettled by way of monthly retirement pension or job placement who meet the provisions on family members accompanying the armed forces, their spouses may be transferred and relocated together, and their minor children may be relocated together.\nWhere a retired officer resettled by way of transfer to civilian work, monthly retirement pension or demobilisation has no children living with him or her, one child who is already working and that child's spouse may be transferred together."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter V Resettlement of Family Members"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where the spouse transferred together with a veteran works in a State organ or a public institution and meets the provisions of the relevant laws and regulations, the people's government of the place of resettlement shall be responsible for arranging the spouse to the corresponding work unit. For spouses transferred and relocated together who work in other units or have no work unit, the people's government of the place of resettlement shall provide employment guidance and assist them in finding employment.\nFor spouses transferred together with veterans who are placed in enterprises or public institutions, where the post requires the conclusion of an employment contract or a labour contract, the employing unit shall conclude with them a medium- or long-term employment contract or labour contract of not less than 3 years.\nFamily members transferred and relocated together with veterans are encouraged and supported to find employment or start businesses on their own. For spouses transferred together who intend to find employment or start businesses on their own, measures such as granting a lump-sum employment subsidy may be adopted for resettlement, and employment guidance services shall be provided. The standards and measures for granting the lump-sum employment subsidy shall be formulated by the people's government of the province, autonomous region or municipality directly under the Central Government. Family members transferred and relocated together shall enjoy the relevant preferential policies on support for employment and business start-up in accordance with provisions.\nSpouses transferred together with veterans shall be accepted and resettled at the same time as the veterans, and notices to report for duty shall be issued at the same time."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter V Resettlement of Family Members"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "The formalities for the transfer and registration of household registration of family members transferred and relocated together with veterans shall be promptly completed by the public security organ of the place of resettlement on the basis of the notification of the competent department for veterans work.\nWhere children relocated together with veterans need to transfer schools or enrol, the education administrative department of the people's government of the place of resettlement shall promptly handle the matter."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter V Resettlement of Family Members"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where officers transferred to civilian work and retired non-commissioned officers to be given job placement volunteer to work in arduous and remote areas, their spouses and children transferred and relocated together may be resettled in the area that originally met the resettlement conditions."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter V Resettlement of Family Members"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "The household registration of the spouses and children relocated together with retired officers and non-commissioned officers, the transfer and continuation of their various social insurance relationships, and the transfer of schools and enrolment of their children relocated together shall be governed by the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter V Resettlement of Family Members"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Before veterans leave their units, the units to which they belong shall, on the premise of ensuring the completion of military tasks, carry out education and training as needed, introduce the situation of national reform and development, explain veteran resettlement policies, and organise education on laws and regulations and on confidentiality discipline. The competent departments for veterans work of local people's governments at or above the county level shall give support and cooperation."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VI Education and Training"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "After servicemen retire from active service, the competent departments for veterans work and other departments responsible for veteran resettlement work shall organise adaptive training for veterans according to their different resettlement methods.\nFor eligible veterans, the competent departments for veterans work of people's governments at or above the county level may organise professional training."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VI Education and Training"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "After eligible veterans are assigned to posts, the competent department for veterans work of the people's government of the place of resettlement and the receiving and resettling unit may, in light of the needs of the posts and the actual situation of the veterans, select and send them to institutions of higher education or relevant education and training institutions for special study and training. During their participation in special study and training, veterans shall enjoy the relevant benefits of their units on an equal basis."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VI Education and Training"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Veterans shall enjoy preferential education policies in accordance with law.\nWhere veterans participate in vocational skills training before reaching the statutory retirement age, they shall enjoy subsidies for vocational skills training and other corresponding support policies in accordance with provisions."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VI Education and Training"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "The planning, organisation and coordination, supervision and inspection, and subsidy disbursement of veteran education and training, as well as the guarantee of teaching staff and teaching facilities, shall be the responsibility of the competent departments for veterans work and the competent administrative departments for education and training in accordance with the division of duties."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter VI Education and Training"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "The State shall adopt an approach combining government promotion, market guidance and social support to encourage and support veterans in finding employment and starting businesses. Veterans resettled by way of monthly retirement pension, self-employment or demobilisation shall enjoy the corresponding support policies for employment and business start-up in accordance with provisions."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter VII Support for Employment and Entrepreneurship"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "People's governments at all levels shall strengthen guidance and services for the employment and business start-up of veterans. Local people's governments at or above the county level shall, every year, organise special recruitment activities for veterans to help them find employment.\nFor veterans who meet the local conditions for being recognised as persons with employment difficulties, the people's government of the place of resettlement shall include them in the scope of employment assistance. For those among them who genuinely find it difficult to find employment through the market, they shall be included in the scope of public welfare post guarantees in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter VII Support for Employment and Entrepreneurship"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "When State organs, mass organisations, public institutions and State-owned enterprises recruit or hire personnel, the conditions on age and educational background for veterans may be appropriately relaxed, and veterans shall be given priority in recruitment and hiring under equal conditions. The experience of retired officers working in units at or below the regiment level of the armed forces and equivalent levels, and the active service experience of retired non-commissioned officers and conscripts, shall be deemed grassroots work experience.\nAll localities shall establish a certain number of grassroots civil service posts to be recruited from among veterans who are graduates of institutions of higher education and have served on active duty for a full 5 years.\nWhere an employing unit recruits veterans in conformity with the provisions of the State, it shall enjoy tax incentives and other policies in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter VII Support for Employment and Entrepreneurship"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "Where self-employed retired non-commissioned officers and conscripts were personnel of State organs, mass organisations, public institutions or State-owned enterprises before enlistment, they may choose to resume their original posts and work after retiring from active service, and their wages and welfare benefits may not be lower than the average level of persons with equivalent conditions in their units."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter VII Support for Employment and Entrepreneurship"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "Rural land contracted by self-employed retired non-commissioned officers and conscripts by way of household contract before enlistment may not be lawfully recovered, nor may the transfer of land management rights be forced or obstructed, during the contract period; rural land contracted by way of non-household contract such as bidding, auction or public consultation may continue to be contracted by their family members during the contract period; where the contracted rural land is lawfully expropriated, requisitioned or occupied, they shall enjoy the same rights as other members of the rural collective economic organisation.\nWhere eligible demobilised officers and self-employed retired non-commissioned officers and conscripts return to the place of household registration at the time of enlistment for household registration and are members of a rural collective economic organisation but have not contracted rural land, they may apply to contract rural land, and the rural collective economic organisation, the villagers' committee or the villagers' group shall give priority to resolving the matter."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter VII Support for Employment and Entrepreneurship"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "Disabled veterans who have been assessed as disabled owing to combat, duty or illness during active service, and whose disability grade has been additionally assessed or re-assessed after retirement, shall, if they have the capacity to work and the intention to work, enjoy priority in the preferential employment policies for persons with disabilities prescribed by the State. The units to which veterans belong may not dismiss them or terminate their employment contracts or labour contracts on the ground of their disability."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter VII Support for Employment and Entrepreneurship"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "The political benefits of retired officers shall be implemented in accordance with the relevant provisions on retired civil servants at the corresponding levels of position in State organs of the place of resettlement. The living benefits of retired officers and non-commissioned officers shall be implemented in accordance with the items and standards unified by the armed forces."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter VIII Treatment and Safeguards"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "The benefits of officers transferred to civilian work shall be guaranteed in accordance with the relevant provisions of the State.\nThe wage benefits of retired non-commissioned officers and conscripts to be given job placement shall be determined in accordance with the relevant provisions of the State, and they shall enjoy the other relevant benefits of persons with equivalent conditions in the receiving and resettling units."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter VIII Treatment and Safeguards"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "The years of active service of veterans shall be counted as years of working service and, after retirement, shall be accumulated together with the years of working service in the units to which they belong, and they shall enjoy the corresponding benefits relating to years of working service prescribed by the State and by their units. Among them, for retired non-commissioned officers and conscripts to be given job placement, their years of active service and the period of awaiting job placement in conformity with the provisions of these Regulations shall be combined and counted as years of working service."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter VIII Treatment and Safeguards"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "During the period in which retired non-commissioned officers and conscripts to be given job placement await job placement, the people's government of the place of resettlement shall pay a monthly living subsidy in accordance with the local monthly minimum wage standard.\nThe receiving and resettling unit shall, within 30 days after the introduction letter for job placement is issued, arrange for the retired non-commissioned officers and conscripts to take up their posts. Where, for reasons not attributable to the retired non-commissioned officers or conscripts themselves, the receiving and resettling unit fails to arrange for them to take up their posts in accordance with provisions, it shall, from the month in which the introduction letter is issued, pay a monthly living allowance at a standard not lower than 80 per cent of the average wage of persons with equivalent conditions in the unit until they take up their posts."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter VIII Treatment and Safeguards"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "Other benefits such as disability pensions and nursing fees enjoyed by servicemen during active service shall, after retirement from active service and transfer to the local authorities, be implemented in accordance with the relevant local provisions. Living benefits such as nursing fees enjoyed by retired officers and non-commissioned officers shall be implemented in accordance with the relevant provisions of the armed forces."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter VIII Treatment and Safeguards"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "Where eligible veterans apply for indemnificatory housing or for the renovation of dilapidated rural housing, priority shall be given to them under equal conditions.\nWhere veterans meet the conditions for preferential treatment in resettlement housing, resettlement housing shall be provided by a combination of market purchase and centralized unified construction by the military and civilian sectors, and the people's government of the place of resettlement shall make overall plans and implement them in a scientific manner."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter VIII Treatment and Safeguards"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "The standard for the funds required by retired non-commissioned officers and conscripts under dispersed support and care to purchase (build) housing shall be determined on the basis of the average price of affordable housing and a floor area of 60 square metres in the county (city, district, banner) of the place of resettlement; in areas without affordable housing, it shall be determined on the basis of the price of ordinary commercial housing. The ownership of the housing purchased (built) shall vest in the retired non-commissioned officers and conscripts under dispersed support and care, and registration of immovable property shall be completed in accordance with law.\nWhere retired non-commissioned officers and conscripts under dispersed support and care resolve their housing themselves, the housing purchase (construction) costs shall be paid to them in accordance with the standard provided in the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Chapter VIII Treatment and Safeguards"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "When officers and non-commissioned officers retire from active service, the housing provident fund during their active service shall be paid to them in a lump sum in accordance with provisions, or may, in accordance with their wishes, be transferred and continued to the place of resettlement, and shall be deposited and used in accordance with local provisions; the payment of housing subsidies during active service shall be governed by the relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Chapter VIII Treatment and Safeguards"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "Where veterans have received meritorious honours and commendations during active service, they shall enjoy the corresponding benefits in accordance with law after retirement from active service."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Chapter VIII Treatment and Safeguards"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "When servicemen retire from active service, the armed forces shall transfer their military insurance relationships and the corresponding funds in accordance with provisions, and the social insurance agencies of the place of resettlement shall promptly complete the corresponding transfer and continuation formalities.\nVeterans shall participate in social insurance for old-age, medical care, work-related injury, unemployment and maternity in accordance with law, pay social insurance premiums and enjoy social insurance benefits.\nThe years of active service of veterans and the years of contribution to social insurance before enlistment and after retirement shall be combined and calculated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Chapter IX Social Insurance"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "During the period of awaiting job placement prescribed by the State, retired non-commissioned officers and conscripts to be given job placement shall participate in the basic old-age insurance for employees of the place of resettlement in accordance with provisions and enjoy the corresponding benefits, and the required costs shall be arranged by the finance at the corresponding level of the people's government of the place of resettlement."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Chapter IX Social Insurance"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "Veterans resettled in State organs, mass organisations, enterprises and public institutions shall participate in the basic medical insurance for employees and enjoy the corresponding benefits in accordance with law.\nDuring the period of awaiting job placement prescribed by the State, retired non-commissioned officers and conscripts to be given job placement shall participate in the basic medical insurance for employees of the place of resettlement and enjoy the corresponding benefits in accordance with law, with the portion contributed by the unit paid by the people's government of the place of resettlement and the portion contributed by the individual paid by the individual.\nRetired officers and non-commissioned officers receiving a monthly retirement pension, demobilised officers, and self-employed retired non-commissioned officers and conscripts shall participate in the basic medical insurance for employees or the basic medical insurance for urban and rural residents and enjoy the corresponding benefits in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Chapter IX Social Insurance"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "After retired officers and non-commissioned officers are transferred to the people's government for resettlement, the people's government of the place of resettlement shall include them in medical insurance and the relevant medical subsidies in accordance with the relevant provisions.\nRetired officers shall enjoy the medical benefits of retired civil servants at the corresponding levels of position in State organs of the place of resettlement, and the medical benefits of retired non-commissioned officers shall be implemented with reference to the relevant provisions on retired officers."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Chapter IX Social Insurance"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "Where veterans do not find employment in a timely manner, they may apply to the human resources and social security department of the place of household registration for unemployment insurance benefits in accordance with law, and their years of active service shall be deemed as years of insurance contributions, except for veterans resettled by way of retirement or support and care."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        },
+        "chapter": {
+          "en": "Chapter IX Social Insurance"
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "For family members transferred and relocated together with veterans who have already participated in social insurance, the transfer and continuation of their social insurance relationships and the corresponding funds shall be handled by the social insurance agencies in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        },
+        "chapter": {
+          "en": "Chapter IX Social Insurance"
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "Where the competent departments for veterans work and other departments responsible for veteran resettlement work and their staff commit any of the following acts, the competent departments at a higher level shall order them to rectify and shall impose sanctions in accordance with law on the responsible leading personnel and the persons directly responsible:\n(1) setting additional acceptance conditions or raising the resettlement threshold in violation of State policies;\n(2) failing to determine the resettlement benefits of veterans in accordance with provisions;\n(3) issuing false documents in veteran resettlement work;\n(4) misappropriating, withholding or privately dividing funds for veteran resettlement work;\n(5) taking advantage of their position to seek private benefits for themselves or others in veteran resettlement work;\n(6) other acts in violation of the laws and regulations on veteran resettlement."
+        },
+        "noLabel": {
+          "en": "Article 87."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "Where units accepting and resettling veterans and their staff commit any of the following acts, the competent department for veterans work of the local people's government shall order rectification within a time limit; where rectification is not made within the time limit, a circular of criticism shall be issued and sanctions shall be imposed in accordance with law on the responsible leading personnel and the persons directly responsible:\n(1) refusing to implement, or delaying without justified reasons, the veteran resettlement plan;\n(2) setting additional acceptance conditions or raising the resettlement threshold beyond State policies;\n(3) withholding or misappropriating the establishment quota for accepting and resettling veterans;\n(4) failing to implement the resettlement benefits of veterans in accordance with provisions;\n(5) failing to conclude employment contracts or labour contracts with veterans in accordance with law;\n(6) unlawfully terminating employment contracts or labour contracts with disabled veterans;\n(7) other acts in violation of the laws and regulations on veteran resettlement.\nOther units and individuals that interfere with veteran resettlement work or harm the lawful rights and interests of veterans shall be held liable in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 88."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "Where veterans obtain resettlement benefits by fraud or deception, the competent department for veterans work of the local people's government at or above the county level shall cancel the relevant benefits, recover the illegal gains and pursue liability in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 89."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 90,
+        "text": {
+          "en": "Where the provisions of these Regulations are violated and the act constitutes a violation of public security administration, a public security administration punishment shall be imposed in accordance with law; where a crime is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 90."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 91,
+        "text": {
+          "en": "These Regulations apply to the resettlement of officers, non-commissioned officers, conscripts and other personnel of the Chinese People's Armed Police Force who have lawfully retired from active service.\nThe provisions of these Regulations on officers apply to civilian cadres of the armed forces.\nThe resettlement of non-commissioned officers who have not undergone rank conversion after the reform of the enlisted personnel system shall be carried out with reference to the relevant provisions of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 91."
+        },
+        "chapter": {
+          "en": "Chapter XI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 92,
+        "text": {
+          "en": "Officers who leave their posts to rest and recuperate and officers of the rank of major general or above shall, after retirement, be resettled and administered in accordance with the relevant provisions of the State Council and the Central Military Commission.\nWhere cadets of military academies lawfully retire from active service, the relevant provisions of the State shall apply.\nThe benefits of veterans who have already been resettled by way of self-selected employment shall be guaranteed in accordance with the relevant provisions of the State Council and the Central Military Commission."
+        },
+        "noLabel": {
+          "en": "Article 92."
+        },
+        "chapter": {
+          "en": "Chapter XI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 93,
+        "text": {
+          "en": "These Regulations shall come into force on 1 September 2024. The Regulations on the Resettlement of Retired Soldiers shall be repealed simultaneously."
+        },
+        "noLabel": {
+          "en": "Article 93."
+        },
+        "chapter": {
+          "en": "Chapter XI Supplementary Provisions"
         }
       }
     ]
@@ -6488,6 +7586,1215 @@
     ]
   };
 
+  TR['CN-REG-0363'] = {
+    "lawId": "CN-REG-0363",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 102 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in order to strengthen the safety management of hazardous chemicals, prevent and reduce accidents involving hazardous chemicals, safeguard the safety of people's lives and property and protect the environment."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "These Regulations apply to the safety management of the production, storage, use, sale and transport of hazardous chemicals.\nThe disposal of waste hazardous chemicals shall be governed by the laws and administrative regulations on environmental protection and the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Hazardous chemicals as referred to in these Regulations mean highly toxic chemicals and other chemicals that are toxic, corrosive, explosive, flammable or combustion-supporting and that are harmful to persons, facilities or the environment.\nThe catalogue of hazardous chemicals shall be determined and published, and adjusted in due course, by the work safety supervision and administration department under the State Council in conjunction with the competent departments under the State Council for industry and information technology, public security, environmental protection, health, quality supervision, inspection and quarantine, transport, railways, civil aviation and agriculture, on the basis of the standards for the identification and classification of the hazardous characteristics of chemicals."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The safety management of hazardous chemicals shall adhere to the policy of safety first, prevention predominant and comprehensive treatment, and shall strengthen and implement the primary responsibility of enterprises.\nThe principal person in charge of a unit producing, storing, using, selling or transporting hazardous chemicals (hereinafter collectively referred to as a hazardous chemicals unit) shall be fully responsible for the safety management of hazardous chemicals of the unit.\nA hazardous chemicals unit shall meet the safety conditions provided by laws and administrative regulations and required by national standards and industry standards, establish and improve safety management rules and systems and post safety responsibility systems, and provide safety education, legal education and on-the-job technical training to its employees. Employees shall receive the education and training and may take up their posts only after passing the assessment; for posts with qualification requirements, persons who have obtained the corresponding qualifications in accordance with law shall be assigned."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "No unit or individual may produce, sell or use hazardous chemicals the production, sale or use of which is prohibited by the State.\nWhere the State has restrictive provisions on the use of hazardous chemicals, no unit or individual may use hazardous chemicals in violation of the restrictive provisions."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The relevant departments exercising safety supervision and administration over the production, storage, use, sale and transport of hazardous chemicals (hereinafter collectively referred to as the departments responsible for the supervision and administration of hazardous chemicals safety) shall perform their duties in accordance with the following provisions:\n(a) the work safety supervision and administration department shall be responsible for the comprehensive work of supervision and administration of hazardous chemicals safety, shall organise the determination, publication and adjustment of the catalogue of hazardous chemicals, shall conduct safety condition examination of new construction, reconstruction and expansion projects for the production and storage of hazardous chemicals (including the transport of hazardous chemicals by long-distance pipelines, the same below), shall issue hazardous chemicals safety production licences, hazardous chemicals safety use licences and hazardous chemicals trading licences, and shall be responsible for the registration of hazardous chemicals.\n(b) the public security organ shall be responsible for the public safety management of hazardous chemicals, shall issue highly toxic chemicals purchase licences and highly toxic chemicals road transport passes, and shall be responsible for the road traffic safety management of vehicles transporting hazardous chemicals.\n(c) the quality supervision, inspection and quarantine department shall be responsible for issuing industrial product production licences to enterprises producing hazardous chemicals and their packaging and containers (excluding fixed large storage tanks for storing hazardous chemicals, the same below), shall supervise the quality of their products in accordance with law, and shall be responsible for the inspection of imported and exported hazardous chemicals and their packaging.\n(d) the competent department of environmental protection shall be responsible for the supervision and administration of the disposal of waste hazardous chemicals, shall organise the identification of the environmental hazards of hazardous chemicals and the assessment of the degree of environmental risk, shall determine the hazardous chemicals subject to priority environmental management, and shall be responsible for the environmental management registration of hazardous chemicals and the environmental management registration of new chemical substances; it shall, in accordance with the division of duties, investigate environmental pollution accidents and ecological damage incidents relating to the relevant hazardous chemicals, and shall be responsible for emergency environmental monitoring at the scene of hazardous chemicals accidents.\n(e) the competent department of transport shall be responsible for the licensing of road transport and waterway transport of hazardous chemicals and the safety management of means of transport, shall supervise the safety of waterway transport of hazardous chemicals, and shall be responsible for determining the qualifications of drivers, crew members, loading and unloading management personnel, escort personnel, declarants and container loading site inspectors of road transport enterprises and waterway transport enterprises for hazardous chemicals. The railway supervision department shall be responsible for the safety management of railway transport of hazardous chemicals and of the means of transport. The competent department of civil aviation shall be responsible for the safety management of air transport of hazardous chemicals and of air transport enterprises and their means of transport.\n(f) the competent department of health shall be responsible for the management of toxicity identification of hazardous chemicals and for organising and coordinating medical and health rescue work for persons injured in hazardous chemicals accidents.\n(g) the administrative department for industry and commerce shall, on the basis of the licence documents of the relevant departments, issue business licences to enterprises producing, storing, selling or transporting hazardous chemicals, and shall investigate and deal with the unlawful purchase of hazardous chemicals by hazardous chemicals trading enterprises.\n(h) the postal administration department shall be responsible for investigating and dealing with the posting and delivery of hazardous chemicals in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Departments responsible for the supervision and administration of hazardous chemicals safety may, when carrying out supervisory inspection in accordance with law, take the following measures:\n(a) to enter the workplace of hazardous chemicals to carry out on-site inspection, to ascertain the circumstances from the units and persons concerned, and to consult and copy the relevant documents and materials;\n(b) where hidden accident hazards of hazardous chemicals are found, to order their immediate elimination or elimination within a time limit;\n(c) to order the immediate cessation of use of facilities, equipment, installations, apparatus and means of transport that do not conform to the provisions of laws, administrative regulations or rules or to the requirements of national standards or industry standards;\n(d) with the approval of the principal person in charge of the department, to seal up the premises where hazardous chemicals are unlawfully produced, stored, used or sold, and to seize the hazardous chemicals unlawfully produced, stored, used, sold or transported and the raw materials, equipment and means of transport used for the unlawful production, use or transport of hazardous chemicals;\n(e) where illegal acts affecting the safety of hazardous chemicals are found, to correct them on the spot or to order correction within a time limit.\nWhere departments responsible for the supervision and administration of hazardous chemicals safety carry out supervisory inspection in accordance with law, there shall be not fewer than 2 supervisory inspection personnel, who shall produce their law enforcement certificates; the units and persons concerned shall cooperate with the supervisory inspection carried out in accordance with law and shall not refuse or obstruct it."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "People's governments at or above the county level shall establish a coordination mechanism for the supervision and administration of hazardous chemicals safety, support and urge the departments responsible for the supervision and administration of hazardous chemicals safety to perform their duties in accordance with law, and coordinate and resolve major problems in the supervision and administration of hazardous chemicals safety.\nDepartments responsible for the supervision and administration of hazardous chemicals safety shall cooperate with and closely coordinate with one another and strengthen the supervision and administration of hazardous chemicals safety in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Any unit or individual shall have the right to report acts violating the provisions of these Regulations to the departments responsible for the supervision and administration of hazardous chemicals safety. Departments responsible for the supervision and administration of hazardous chemicals safety shall, upon receiving a report, promptly handle it in accordance with law; where the matter does not fall within the duties of the department, it shall promptly refer it to the relevant department for handling."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The State encourages enterprises producing hazardous chemicals and enterprises using hazardous chemicals in production to adopt advanced technology, processes, equipment and automatic control systems conducive to raising the level of safety assurance, and encourages specialised storage, unified distribution and centralised sale of hazardous chemicals."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The State applies overall planning and rational layout to the production and storage of hazardous chemicals.\nThe competent department of industry and information technology under the State Council and other relevant departments under the State Council shall, in accordance with their respective duties, be responsible for the industry planning and layout of the production and storage of hazardous chemicals.\nWhere local people's governments organise the preparation of urban and rural plans, they shall, in light of the actual circumstances of their respective regions and in accordance with the principle of ensuring safety, plan appropriate areas to be earmarked for the production and storage of hazardous chemicals."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Safety of Production and Storage"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "New construction, reconstruction and expansion projects for the production and storage of hazardous chemicals (hereinafter referred to as construction projects) shall be subject to safety condition examination by the work safety supervision and administration department.\nThe construction unit shall conduct a demonstration of the safety conditions of the construction project, entrust an institution with the qualifications prescribed by the State to carry out a safety assessment of the construction project, and report the circumstances of the demonstration of safety conditions and the safety assessment to the work safety supervision and administration department of the people's government at or above the level of a municipality with districts at the place where the construction project is located; the work safety supervision and administration department shall, within 45 days from the date of receipt of the report, make an examination decision and notify the construction unit in writing. The specific measures shall be formulated by the work safety supervision and administration department under the State Council.\nFor new construction, reconstruction and expansion port construction projects for the storage and loading and unloading of hazardous chemicals, the port administrative department shall conduct the safety condition examination in accordance with the provisions of the competent department of transport under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Safety of Production and Storage"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Units producing and storing hazardous chemicals shall set up conspicuous marks for the hazardous chemicals pipelines they lay, and shall periodically inspect and test the hazardous chemicals pipelines.\nWhere construction operations that may endanger the safety of hazardous chemicals pipelines are carried out, the construction unit shall, 7 days before commencement, notify in writing the unit to which the pipelines belong, and shall jointly formulate an emergency plan with the unit to which the pipelines belong and take the corresponding safety protection measures. The unit to which the pipelines belong shall assign dedicated personnel to the site to provide guidance on pipeline safety protection."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Safety of Production and Storage"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Before commencing production, an enterprise producing hazardous chemicals shall obtain a hazardous chemicals safety production licence in accordance with the provisions of the Regulations on Safety Production Licences.\nAn enterprise producing hazardous chemicals listed in the catalogue of industrial products for which the State applies the production licence system shall obtain an industrial product production licence in accordance with the provisions of the Regulations of the People's Republic of China on the Administration of Industrial Product Production Licences.\nThe departments responsible for issuing hazardous chemicals safety production licences and industrial product production licences shall promptly notify the competent department of industry and information technology, the competent department of environmental protection and the public security organ at the same level of the licences issued."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Safety of Production and Storage"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "An enterprise producing hazardous chemicals shall provide chemical safety data sheets consistent with the hazardous chemicals it produces, and shall affix or attach to the packaging of the hazardous chemicals (including the outer packaging) chemical safety labels consistent with the hazardous chemicals in the packaging. The content stated in the chemical safety data sheets and chemical safety labels shall meet the requirements of national standards.\nWhere an enterprise producing hazardous chemicals finds that the hazardous chemicals it produces have new hazardous characteristics, it shall immediately make a public announcement and promptly revise its chemical safety data sheets and chemical safety labels."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Safety of Production and Storage"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Enterprises producing hazardous chemicals subject to priority environmental management shall, in accordance with the provisions of the competent department of environmental protection under the State Council, report to the competent department of environmental protection the relevant information such as the release of those hazardous chemicals into the environment. The competent department of environmental protection may take the corresponding environmental risk control measures in light of the circumstances."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Safety of Production and Storage"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The packaging of hazardous chemicals shall conform to the provisions of laws, administrative regulations and rules and to the requirements of national standards and industry standards.\nThe materials of the packaging and containers of hazardous chemicals and the type, specifications, methods and unit mass (weight) of the packaging of hazardous chemicals shall be suited to the nature and use of the hazardous chemicals packaged."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Safety of Production and Storage"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Enterprises producing packaging and containers of hazardous chemicals listed in the catalogue of industrial products for which the State applies the production licence system shall obtain an industrial product production licence in accordance with the provisions of the Regulations of the People's Republic of China on the Administration of Industrial Product Production Licences; the packaging and containers of hazardous chemicals they produce may leave the factory for sale only after passing inspection by an inspection institution recognised by the quality supervision, inspection and quarantine department under the State Council.\nVessels transporting hazardous chemicals and the containers loaded thereon shall be produced in accordance with the national vessel inspection rules, and may be put into use only after passing inspection by a vessel inspection institution recognised by the maritime safety administration.\nFor packaging and containers of hazardous chemicals that are reused, the user unit shall carry out an inspection before reuse; where a hidden safety hazard is found, they shall be repaired or replaced. The user unit shall keep records of the inspection, and the retention period of the records shall not be less than 2 years."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Safety of Production and Storage"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The distance between a hazardous chemicals production installation or a hazardous chemicals storage facility whose storage quantity constitutes a major hazard installation (excluding filling stations and gas filling stations for means of transport) and the following places, facilities and areas shall conform to the relevant provisions of the State:\n(a) residential areas and places where people are concentrated, such as commercial centres and parks;\n(b) public facilities such as schools, hospitals, cinemas and theatres and stadiums (gymnasiums);\n(c) drinking water sources, water plants and water source protection areas;\n(d) stations, wharves (excluding those lawfully licensed to engage in the loading and unloading of hazardous chemicals), airports, and trunk communication lines, communication hubs, railway lines, trunk road traffic lines, trunk waterway traffic lines, subway ventilation shafts and subway station entrances and exits;\n(e) basic farmland protection areas, basic grasslands, livestock and poultry genetic resource protection areas, large-scale livestock and poultry farms (breeding zones), fishery waters, and production bases for seeds, breeding livestock and poultry and aquatic fry;\n(f) rivers, lakes, scenic and historic interest areas and nature reserves;\n(g) military restricted zones and military administrative zones;\n(h) other places, facilities and areas provided by laws and administrative regulations.\nWhere a hazardous chemicals production installation already built or a hazardous chemicals storage facility whose storage quantity constitutes a major hazard installation does not conform to the provisions of the preceding paragraph, the work safety supervision and administration department of the people's government of the municipality with districts where it is located shall, in conjunction with the relevant departments, supervise the unit to which it belongs in carrying out rectification within the prescribed time limit; where conversion of production, suspension of production, relocation or closure is required, the people's government at the corresponding level shall decide and organise the implementation.\nThe site selection of a hazardous chemicals storage facility whose storage quantity constitutes a major hazard installation shall avoid seismically active faults and areas prone to floods and geological disasters.\nMajor hazard installation as referred to in these Regulations means a unit (including premises and facilities) in which hazardous chemicals are produced, stored, used or handled and in which the quantity of hazardous chemicals is equal to or exceeds the threshold quantity."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Safety of Production and Storage"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Units producing and storing hazardous chemicals shall, in accordance with the types and hazardous characteristics of the hazardous chemicals they produce and store, install at the workplace the corresponding safety facilities and equipment for monitoring, surveillance, ventilation, sun protection, temperature regulation, fire prevention, fire extinguishing, explosion prevention, pressure relief, anti-toxicity, neutralisation, moisture prevention, lightning protection, anti-static electricity, anti-corrosion, leakage prevention and protective embankments or isolated operation, and shall carry out regular maintenance and servicing of the safety facilities and equipment in accordance with national standards, industry standards or the relevant provisions of the State, so as to ensure their normal use.\nUnits producing and storing hazardous chemicals shall set up conspicuous safety warning signs at their workplaces and on their safety facilities and equipment."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Safety of Production and Storage"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Units producing and storing hazardous chemicals shall install communication and alarm devices at their workplaces and ensure that they are in working order."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Safety of Production and Storage"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Enterprises producing and storing hazardous chemicals shall entrust an institution with the qualifications prescribed by the State to carry out a safety assessment of the enterprise's work safety conditions once every 3 years and to produce a safety assessment report. The content of the safety assessment report shall include a plan for rectifying the problems existing in the work safety conditions.\nEnterprises producing and storing hazardous chemicals shall report the safety assessment report and the implementation of the rectification plan to the work safety supervision and administration department of the county-level people's government where they are located for the record. Enterprises storing hazardous chemicals within a port area shall report the safety assessment report and the implementation of the rectification plan to the port administrative department for the record."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter II Safety of Production and Storage"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Units producing and storing highly toxic chemicals or hazardous chemicals that may be used to manufacture explosives as prescribed by the public security department under the State Council (hereinafter referred to as explosive precursor hazardous chemicals) shall truthfully record the quantity and flow of the highly toxic chemicals and explosive precursor hazardous chemicals they produce and store, and shall take the necessary safety precautions to prevent the loss or theft of highly toxic chemicals and explosive precursor hazardous chemicals; where the loss or theft of highly toxic chemicals or explosive precursor hazardous chemicals is found, they shall immediately report to the local public security organ.\nUnits producing and storing highly toxic chemicals or explosive precursor hazardous chemicals shall set up a public security body and allocate full-time public security personnel."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter II Safety of Production and Storage"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Hazardous chemicals shall be stored in dedicated warehouses, dedicated sites or dedicated storage rooms (hereinafter collectively referred to as dedicated warehouses) and shall be managed by dedicated persons; highly toxic chemicals and other hazardous chemicals whose storage quantity constitutes a major hazard installation shall be stored separately in dedicated warehouses and shall be subject to a system of dual-person receipt and dispatch and dual-person custody.\nThe manner and method of storage and the storage quantity of hazardous chemicals shall conform to national standards or the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter II Safety of Production and Storage"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Units storing hazardous chemicals shall establish a system of verification and registration for the entry into and exit from the warehouse of hazardous chemicals.\nFor highly toxic chemicals and other hazardous chemicals whose storage quantity constitutes a major hazard installation, the storage unit shall report the storage quantity, the storage location and the circumstances of the management personnel to the work safety supervision and administration department of the county-level people's government where it is located (or to the port administrative department in the case of storage within a port area) and to the public security organ for the record."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter II Safety of Production and Storage"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Dedicated warehouses for hazardous chemicals shall conform to the requirements of national standards and industry standards and shall be marked conspicuously. Dedicated warehouses storing highly toxic chemicals or explosive precursor hazardous chemicals shall be equipped with the corresponding technical protection facilities in accordance with the relevant provisions of the State.\nUnits storing hazardous chemicals shall periodically test and inspect the safety facilities and equipment of their dedicated warehouses for hazardous chemicals."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter II Safety of Production and Storage"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where a unit producing or storing hazardous chemicals converts production, suspends production, suspends business or dissolves, it shall take effective measures to promptly and properly dispose of its hazardous chemicals production installations, storage facilities and hazardous chemicals in stock, and shall not abandon hazardous chemicals; the disposal plan shall be reported to the work safety supervision and administration department, the competent department of industry and information technology, the competent department of environmental protection and the public security organ of the county-level people's government where it is located for the record. The work safety supervision and administration department shall, in conjunction with the competent department of environmental protection and the public security organ, supervise and inspect the disposal; where it finds that disposal has not been carried out in accordance with the provisions, it shall order immediate disposal."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter II Safety of Production and Storage"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Where a unit uses hazardous chemicals, its conditions of use (including processes) shall conform to the provisions of laws and administrative regulations and to the requirements of national standards and industry standards, and it shall, in accordance with the types, hazardous characteristics, quantity used and manner of use of the hazardous chemicals used, establish and improve safety management rules and systems and safe operating procedures for the use of hazardous chemicals, so as to ensure the safe use of hazardous chemicals."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Safety of Use"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Chemical enterprises that use hazardous chemicals in production and whose quantity used reaches the prescribed quantity (excluding enterprises that are hazardous chemicals production enterprises, the same below) shall obtain a hazardous chemicals safety use licence in accordance with the provisions of these Regulations.\nThe quantity standards for the use of hazardous chemicals provided in the preceding paragraph shall be determined and published by the work safety supervision and administration department under the State Council in conjunction with the public security department and the competent department of agriculture under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Safety of Use"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "A chemical enterprise applying for a hazardous chemicals safety use licence shall, apart from conforming to the provisions of Article 28 of these Regulations, also meet the following conditions:\n(a) having professional and technical personnel suited to the hazardous chemicals used;\n(b) having a safety management body and full-time safety management personnel;\n(c) having an emergency plan for hazardous chemicals accidents conforming to the provisions of the State and the necessary emergency rescue apparatus and equipment;\n(d) having carried out a safety assessment in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Safety of Use"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "A chemical enterprise applying for a hazardous chemicals safety use licence shall submit an application to the work safety supervision and administration department of the people's government at the level of a municipality with districts where it is located, together with the certification materials showing that it meets the conditions provided in Article 30 of these Regulations. The work safety supervision and administration department of the people's government at the level of a municipality with districts shall examine the application in accordance with law and, within 45 days from the date of receipt of the certification materials, make a decision to approve or not to approve. Where it approves, it shall issue a hazardous chemicals safety use licence; where it does not approve, it shall notify the applicant in writing and state the reasons.\nThe work safety supervision and administration department shall promptly notify the competent department of environmental protection and the public security organ at the same level of the hazardous chemicals safety use licences issued."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Safety of Use"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The provisions of Article 16 of these Regulations on enterprises producing hazardous chemicals subject to priority environmental management shall apply to enterprises using hazardous chemicals subject to priority environmental management in production; the provisions of Articles 20 and 21, paragraph 1 of Article 23 and Article 27 on units producing and storing hazardous chemicals shall apply to units using hazardous chemicals; the provisions of Article 22 on enterprises producing and storing hazardous chemicals shall apply to enterprises using hazardous chemicals in production."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III Safety of Use"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The State applies a licensing system to the sale of hazardous chemicals (including warehouse-based sale, the same below). Without a licence, no unit or individual may sell hazardous chemicals.\nA hazardous chemicals production enterprise lawfully established that sells, within the area of its factory, the hazardous chemicals it produces is not required to obtain a hazardous chemicals trading licence.\nA port operator that has obtained a port operation licence in accordance with the provisions of the Port Law of the People's Republic of China and engages in the warehouse-based sale of hazardous chemicals within a port area is not required to obtain a hazardous chemicals trading licence."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety of Sale"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "An enterprise engaging in the sale of hazardous chemicals shall meet the following conditions:\n(a) having business premises conforming to national standards and industry standards and, where hazardous chemicals are stored, storage facilities conforming to national standards and industry standards;\n(b) having employees who have undergone professional technical training and passed the assessment;\n(c) having sound safety management rules and systems;\n(d) having full-time safety management personnel;\n(e) having an emergency plan for hazardous chemicals accidents conforming to the provisions of the State and the necessary emergency rescue apparatus and equipment;\n(f) other conditions provided by laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety of Sale"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "An enterprise engaging in the sale of highly toxic chemicals or explosive precursor hazardous chemicals shall submit an application to the work safety supervision and administration department of the people's government at the level of a municipality with districts where it is located; an enterprise engaging in the sale of other hazardous chemicals shall submit an application to the work safety supervision and administration department of the county-level people's government where it is located (where it has storage facilities, it shall submit the application to the work safety supervision and administration department of the people's government at the level of a municipality with districts where it is located). The applicant shall submit certification materials showing that it meets the conditions provided in Article 34 of these Regulations. The work safety supervision and administration department of the people's government at the level of a municipality with districts or of the county-level people's government shall examine the application in accordance with law and carry out an on-site verification of the applicant's business premises and storage facilities, and shall, within 30 days from the date of receipt of the certification materials, make a decision to approve or not to approve. Where it approves, it shall issue a hazardous chemicals trading licence; where it does not approve, it shall notify the applicant in writing and state the reasons.\nThe work safety supervision and administration departments of the people's governments at the level of a municipality with districts and of the county-level people's governments shall promptly notify the competent department of environmental protection and the public security organ at the same level of the hazardous chemicals trading licences issued.\nAn applicant may engage in the sale of hazardous chemicals only after completing the registration formalities with the administrative department for industry and commerce on the strength of the hazardous chemicals trading licence. Where laws, administrative regulations or the provisions of the State Council require that the sale of hazardous chemicals also be licensed by other relevant departments, the applicant shall, when completing the registration formalities with the administrative department for industry and commerce, also present the corresponding licence documents."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety of Sale"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Where an enterprise selling hazardous chemicals stores hazardous chemicals, it shall comply with the provisions of Chapter II of these Regulations on the storage of hazardous chemicals. Only hazardous chemicals in small packages for civilian use may be kept in a hazardous chemicals shop."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety of Sale"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "An enterprise selling hazardous chemicals shall not purchase hazardous chemicals from an enterprise that engages in the production or sale of hazardous chemicals without a licence, and shall not sell hazardous chemicals that have no chemical safety data sheets or chemical safety labels."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety of Sale"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Enterprises that have lawfully obtained a hazardous chemicals safety production licence, a hazardous chemicals safety use licence or a hazardous chemicals trading licence may purchase highly toxic chemicals and explosive precursor hazardous chemicals on the strength of the corresponding licence documents. Enterprises producing civil explosives may purchase explosive precursor hazardous chemicals on the strength of a civil explosives production licence.\nWhere a unit other than those provided in the preceding paragraph purchases highly toxic chemicals, it shall apply to the public security organ of the county-level people's government where it is located for a highly toxic chemicals purchase licence; where it purchases explosive precursor hazardous chemicals, it shall present a statement of lawful use issued by the unit itself.\nIndividuals shall not purchase highly toxic chemicals (other than pesticides that are highly toxic chemicals) and explosive precursor hazardous chemicals."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety of Sale"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "To apply for a highly toxic chemicals purchase licence, the applicant shall submit the following materials to the public security organ of the county-level people's government where it is located:\n(a) a copy of the business licence or the legal person certificate (registration certificate);\n(b) a statement of the varieties and quantities of the highly toxic chemicals to be purchased;\n(c) a statement of the use of the highly toxic chemicals to be purchased;\n(d) proof of identity of the person handling the matter.\nThe public security organ of the county-level people's government shall, within 3 days from the date of receipt of the materials provided in the preceding paragraph, make a decision to approve or not to approve. Where it approves, it shall issue a highly toxic chemicals purchase licence; where it does not approve, it shall notify the applicant in writing and state the reasons.\nThe measures for the administration of highly toxic chemicals purchase licences shall be formulated by the public security department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety of Sale"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where an enterprise producing or selling hazardous chemicals sells highly toxic chemicals or explosive precursor hazardous chemicals, it shall verify the relevant licence documents or certification documents provided in paragraphs 1 and 2 of Article 38 of these Regulations, and shall not sell highly toxic chemicals or explosive precursor hazardous chemicals to a unit that does not have the relevant licence documents or certification documents. Where highly toxic chemicals are purchased against a highly toxic chemicals purchase licence, the sale shall be made in accordance with the varieties and quantities stated in the licence.\nIt is prohibited to sell highly toxic chemicals (other than pesticides that are highly toxic chemicals) and explosive precursor hazardous chemicals to individuals."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety of Sale"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where an enterprise producing or selling hazardous chemicals sells highly toxic chemicals or explosive precursor hazardous chemicals, it shall truthfully record the name and address of the purchasing unit, the name and identity card number of the person handling the matter, and the varieties, quantities and uses of the highly toxic chemicals or explosive precursor hazardous chemicals purchased. The retention period of the sales records and of copies of the identity documents of the persons handling the matters, copies of the relevant licence documents or the certification documents shall not be less than 1 year.\nThe selling enterprises and purchasing units of highly toxic chemicals and explosive precursor hazardous chemicals shall, within 5 days after the sale or purchase, report the varieties, quantities and flow information of the highly toxic chemicals and explosive precursor hazardous chemicals sold or purchased to the public security organ of the county-level people's government where they are located for the record, and shall enter them into the computer system."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety of Sale"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Units using highly toxic chemicals or explosive precursor hazardous chemicals shall not lend or transfer the highly toxic chemicals or explosive precursor hazardous chemicals they have purchased; where transfer is truly necessary because of conversion of production, suspension of production, relocation or closure, they shall transfer them to a unit that has the relevant licence documents or certification documents provided in paragraphs 1 and 2 of Article 38 of these Regulations, and shall promptly report the relevant circumstances to the public security organ of the county-level people's government where they are located after the transfer."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety of Sale"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Whoever engages in the road transport or waterway transport of hazardous chemicals shall, in accordance with the provisions of the laws and administrative regulations on road transport and waterway transport respectively, obtain a road transport licence for dangerous goods or a waterway transport licence for dangerous goods, and shall complete the registration formalities with the administrative department for industry and commerce.\nRoad transport enterprises and waterway transport enterprises for hazardous chemicals shall be staffed with full-time safety management personnel."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter V Safety of Transport"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Drivers, crew members, loading and unloading management personnel, escort personnel, declarants and container loading site inspectors of road transport enterprises and waterway transport enterprises for hazardous chemicals shall pass the assessment of the competent department of transport and obtain the qualification for the work. The specific measures shall be formulated by the competent department of transport under the State Council.\nThe loading and unloading of hazardous chemicals shall comply with the safety operation standards, procedures and systems and shall be carried out under the on-site direction or monitoring of loading and unloading management personnel. The container loading of hazardous chemicals transported by waterway shall be carried out under the direction or monitoring of a container loading site inspector and shall conform to the rules and requirements on stowage and segregation; after the loading is completed, the container loading site inspector shall sign a certificate of loading."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter V Safety of Transport"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where hazardous chemicals are transported, the corresponding safety protection measures shall be taken in accordance with the hazardous characteristics of the hazardous chemicals, and the necessary protective articles and emergency rescue apparatus shall be provided.\nTankers and other containers used for the transport of hazardous chemicals shall be tightly closed and able to prevent the leakage or spillage of hazardous chemicals due to changes in temperature, humidity or pressure during transport; the overflow and pressure relief devices of tankers and other containers shall be accurately set and operate flexibly.\nDrivers, crew members, loading and unloading management personnel, escort personnel, declarants and container loading site inspectors transporting hazardous chemicals shall understand the hazardous characteristics of the hazardous chemicals transported, the requirements for the use of their packaging and containers, and the emergency disposal methods in the event of a dangerous situation."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter V Safety of Transport"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where hazardous chemicals are transported by road, the consignor shall entrust an enterprise that has lawfully obtained a road transport licence for dangerous goods with the carriage."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter V Safety of Transport"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where hazardous chemicals are transported by road, the hazardous chemicals shall be loaded in accordance with the approved load mass of the transport vehicle, and overloading shall not be permitted.\nVehicles transporting hazardous chemicals shall meet the safety technical conditions required by national standards and shall undergo periodic safety technical inspection in accordance with the relevant provisions of the State.\nVehicles transporting hazardous chemicals shall display or paint warning signs meeting the requirements of national standards."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter V Safety of Transport"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where hazardous chemicals are transported by road, escort personnel shall be provided and it shall be ensured that the hazardous chemicals transported are under the monitoring of the escort personnel.\nWhere, in the course of transporting hazardous chemicals, long parking is required because of accommodation or circumstances affecting normal transport, the driver and escort personnel shall take the corresponding safety precautions; where highly toxic chemicals or explosive precursor hazardous chemicals are transported, they shall also report to the local public security organ."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter V Safety of Transport"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Without the approval of the public security organ, vehicles transporting hazardous chemicals shall not enter areas where the passage of vehicles transporting hazardous chemicals is restricted. The areas where the passage of vehicles transporting hazardous chemicals is restricted shall be delineated by the public security organ of the county-level people's government, and conspicuous signs shall be set up."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter V Safety of Transport"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where highly toxic chemicals are transported by road, the consignor shall apply to the public security organ of the county-level people's government at the place of origin or the place of destination of the transport for a highly toxic chemicals road transport pass.\nTo apply for a highly toxic chemicals road transport pass, the consignor shall submit the following materials to the public security organ of the county-level people's government:\n(a) a statement of the varieties and quantities of the highly toxic chemicals to be transported;\n(b) a statement of the place of origin, the place of destination, the transport time and the transport route;\n(c) documents proving that the carrier has obtained a road transport licence for dangerous goods and that the transport vehicle has obtained an operating certificate and that the driver and escort personnel have obtained the qualifications to take up the post;\n(d) the relevant licence documents for the purchase of highly toxic chemicals provided in paragraphs 1 and 2 of Article 38 of these Regulations, or the import and export certification documents issued by the Customs.\nThe public security organ of the county-level people's government shall, within 7 days from the date of receipt of the materials provided in the preceding paragraph, make a decision to approve or not to approve. Where it approves, it shall issue a highly toxic chemicals road transport pass; where it does not approve, it shall notify the applicant in writing and state the reasons.\nThe measures for the administration of highly toxic chemicals road transport passes shall be formulated by the public security department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter V Safety of Transport"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where highly toxic chemicals or explosive precursor hazardous chemicals are lost, stolen or robbed in the course of road transport, or where leakage, spillage or the like occurs, the driver and escort personnel shall immediately take the corresponding warning and safety measures and report to the local public security organ. Upon receiving the report, the public security organ shall, in light of the actual circumstances, immediately notify the work safety supervision and administration department, the competent department of environmental protection and the competent department of health. The relevant departments shall take the necessary emergency disposal measures."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter V Safety of Transport"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where hazardous chemicals are transported by waterway, the provisions of laws and administrative regulations and of the competent department of transport under the State Council on the safety of waterway transport of dangerous goods shall be complied with."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter V Safety of Transport"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "The maritime safety administration shall, in accordance with the types and hazardous characteristics of hazardous chemicals, determine the relevant safe transport conditions for the waterway transport of hazardous chemicals by vessel.\nWhere the relevant safe transport conditions for chemicals to be delivered for waterway transport are unclear, the owner of the goods or its agent shall entrust a relevant technical institution with an assessment, and may deliver them for waterway transport only after the relevant safe transport conditions are clarified and confirmed by the maritime safety administration."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter V Safety of Transport"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "It is prohibited to transport highly toxic chemicals and other hazardous chemicals that the State provides shall not be transported by inland waterway through enclosed inland water areas.\nIn inland water areas other than those provided in the preceding paragraph, it is prohibited to transport highly toxic chemicals and other hazardous chemicals that the State provides shall not be transported by inland waterway.\nThe scope of highly toxic chemicals and other hazardous chemicals prohibited from being transported by inland waterway shall be prescribed and published by the competent department of transport under the State Council in conjunction with the competent department of environmental protection, the competent department of industry and information technology and the work safety supervision and administration department under the State Council, on the basis of factors such as the hazardous characteristics of the hazardous chemicals, the degree of harm caused by the hazardous chemicals to persons and the water environment and the difficulty of eliminating the consequences of the harm."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter V Safety of Transport"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "The competent department of transport under the State Council shall, in accordance with the hazardous characteristics of hazardous chemicals, apply classified management to the hazardous chemicals transported by inland waterway other than those provided in Article 54 of these Regulations (hereinafter referred to as hazardous chemicals transported by inland waterway), and shall prescribe separately and supervise the implementation of the transport methods, packaging specifications and safety protection measures for each class of hazardous chemicals."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter V Safety of Transport"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Hazardous chemicals transported by inland waterway shall be carried by waterway transport enterprises that have lawfully obtained a waterway transport licence for dangerous goods, and no other unit or individual may carry them. The consignor shall entrust a waterway transport enterprise that has lawfully obtained a waterway transport licence for dangerous goods with the carriage, and shall not entrust other units or individuals with the carriage."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter V Safety of Transport"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Hazardous chemicals transported by inland waterway shall be carried by transport vessels that have lawfully obtained a certificate of fitness for the carriage of dangerous goods. Waterway transport enterprises shall, in accordance with the hazardous characteristics of the hazardous chemicals transported, formulate emergency rescue plans for hazardous chemicals accidents involving transport vessels, and shall equip the transport vessels with sufficient and effective emergency rescue apparatus and equipment.\nFor vessels transporting hazardous chemicals by inland waterway, the owner or operator shall obtain a certificate of insurance against vessel pollution damage liability or a certificate of financial guarantee. A copy of the certificate of insurance against vessel pollution damage liability or of the certificate of financial guarantee shall be kept on board the vessel."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter V Safety of Transport"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where hazardous chemicals are transported by inland waterway, the material, type and strength of the packaging of the hazardous chemicals and the packaging methods shall conform to the requirements of the specifications for the packaging of hazardous chemicals transported by waterway. Where the competent department of transport under the State Council has restrictive provisions on the quantity of hazardous chemicals transported by a single vessel, the carrier shall arrange the transport quantity in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter V Safety of Transport"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Inland waterway wharves and berths used for operations involving the transport of hazardous chemicals shall conform to the relevant safety specifications of the State and shall maintain the distance prescribed by the State from drinking water intake points. The relevant management units shall formulate emergency plans for hazardous chemicals accidents at the wharves and berths and shall equip the wharves and berths with sufficient and effective emergency rescue apparatus and equipment.\nInland waterway wharves and berths used for operations involving the transport of hazardous chemicals may be put into use only after passing acceptance by the competent department of transport in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter V Safety of Transport"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Where a vessel carrying hazardous chemicals enters or leaves an inland waterway port, it shall report in advance to the maritime safety administration the name, hazardous characteristics and packaging of the hazardous chemicals and the time of entering or leaving the port and other matters. Upon receiving the report, the maritime safety administration shall, within the time prescribed by the competent department of transport under the State Council, make a decision on whether to consent, notify the person making the report and at the same time notify the port administrative department. Vessels with a fixed vessel, fixed route and fixed type of cargo may report periodically.\nWhere the loading, unloading or transhipment of hazardous chemicals is carried out in an inland waterway port, the name, hazardous characteristics and packaging of the hazardous chemicals and the time and place of the operation and other matters shall be reported to the port administrative department. Upon receiving the report, the port administrative department shall, within the time prescribed by the competent department of transport under the State Council, make a decision on whether to consent, notify the person making the report and at the same time notify the maritime safety administration.\nWhere a vessel carrying hazardous chemicals sails in an inland waterway and passes through a vessel passing structure, it shall declare to the competent department of transport in advance and shall accept the management of the competent department of transport."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter V Safety of Transport"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where a vessel carrying hazardous chemicals sails, loads or unloads, or berths in an inland waterway, it shall display dedicated warning signs and show the dedicated signals in accordance with the provisions.\nWhere a vessel carrying hazardous chemicals sails in an inland waterway and pilotage is required in accordance with the provisions of the competent department of transport under the State Council, it shall apply for pilotage."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter V Safety of Transport"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Where a vessel carrying hazardous chemicals sails in an inland waterway, it shall comply with the provisions of laws and administrative regulations and other relevant provisions of the State on the protection of drinking water sources. Inland waterway development plans shall be coordinated with the delineation plans of drinking water source protection areas approved in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter V Safety of Transport"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Where hazardous chemicals are consigned, the consignor shall explain to the carrier the types, quantities and hazardous characteristics of the hazardous chemicals consigned and the emergency disposal measures in the event of a dangerous situation, and shall properly package the hazardous chemicals consigned in accordance with the relevant provisions of the State and set up the corresponding marks on the outer packaging.\nWhere inhibitors or stabilisers need to be added for the transport of hazardous chemicals, the consignor shall add them and inform the carrier of the relevant circumstances."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter V Safety of Transport"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "A consignor shall not include hazardous chemicals among ordinary goods consigned, and shall not consign hazardous chemicals as ordinary goods by concealment or false declaration.\nNo unit or individual may hand over hazardous chemicals for posting or include hazardous chemicals in mail or express items, and may not hand them over for posting as ordinary articles by concealment or false declaration. Postal enterprises and express delivery enterprises shall not accept hazardous chemicals for posting or delivery.\nWhere a suspected violation of the provisions of paragraphs 1 and 2 of this Article is involved, the competent department of transport and the postal administration department may open and inspect the items in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter V Safety of Transport"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "The safety management of the transport of hazardous chemicals by railway or air shall be governed by the provisions of the laws, administrative regulations and rules on railway and air transport."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter V Safety of Transport"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "The State applies a registration system for hazardous chemicals, so as to provide technical and information support for the safety management of hazardous chemicals and for the prevention of and emergency rescue in hazardous chemicals accidents."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter VI Registration of Hazardous Chemicals and Emergency Rescue in Accidents"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Enterprises producing or importing hazardous chemicals shall complete the registration of hazardous chemicals with the institution responsible for the registration of hazardous chemicals under the work safety supervision and administration department under the State Council (hereinafter referred to as the hazardous chemicals registration institution).\nThe registration of hazardous chemicals includes the following content:\n(a) classification and labelling information;\n(b) physical and chemical properties;\n(c) main uses;\n(d) hazardous characteristics;\n(e) safety requirements for storage, use and transport;\n(f) emergency disposal measures in the event of a dangerous situation.\nThe same variety of hazardous chemicals produced or imported by the same enterprise shall not be registered repeatedly. Where an enterprise producing or importing hazardous chemicals finds that the hazardous chemicals it produces or imports have new hazardous characteristics, it shall promptly complete the formalities for modifying the registration content with the hazardous chemicals registration institution.\nThe specific measures for the registration of hazardous chemicals shall be formulated by the work safety supervision and administration department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter VI Registration of Hazardous Chemicals and Emergency Rescue in Accidents"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "The hazardous chemicals registration institution shall periodically provide the departments of industry and information technology, environmental protection, public security, health, transport, railways and quality supervision, inspection and quarantine with the relevant information and materials on the registration of hazardous chemicals."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter VI Registration of Hazardous Chemicals and Emergency Rescue in Accidents"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "The work safety supervision and administration departments of local people's governments at or above the county level shall, in conjunction with the departments of industry and information technology, environmental protection, public security, health, transport, railways and quality supervision, inspection and quarantine, formulate emergency plans for hazardous chemicals accidents in light of the actual circumstances of their respective regions and submit them to the people's government at the corresponding level for approval."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter VI Registration of Hazardous Chemicals and Emergency Rescue in Accidents"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "Hazardous chemicals units shall formulate their own emergency plans for hazardous chemicals accidents, allocate emergency rescue personnel and the necessary emergency rescue apparatus and equipment, and periodically organise emergency rescue drills.\nHazardous chemicals units shall report their emergency plans for hazardous chemicals accidents to the work safety supervision and administration department of the people's government at the level of a municipality with districts where they are located for the record."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter VI Registration of Hazardous Chemicals and Emergency Rescue in Accidents"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "Where a hazardous chemicals accident occurs, the principal person in charge of the unit where the accident occurs shall immediately organise rescue in accordance with the unit's emergency plan for hazardous chemicals and report to the local work safety supervision and administration department and the competent departments of environmental protection, public security and health; where a hazardous chemicals accident occurs in the course of road transport or waterway transport, the driver, crew member or escort personnel shall also report to the competent department of transport at the place where the accident occurs."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter VI Registration of Hazardous Chemicals and Emergency Rescue in Accidents"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "Where a hazardous chemicals accident occurs, the local people's government concerned shall immediately organise the work safety supervision and administration, environmental protection, public security, health, transport and other relevant departments to organise and carry out rescue in accordance with the regional emergency plan for hazardous chemicals accidents, and shall not delay or shift responsibility.\nThe local people's government concerned and its relevant departments shall, in accordance with the following provisions, take the necessary emergency disposal measures to reduce the loss caused by the accident and prevent the spread and expansion of the accident:\n(a) immediately organise the rescue and treatment of the victims, and evacuate, remove or take other measures to protect other persons within the hazard area;\n(b) promptly bring the source of the hazard under control, and determine the properties of the hazardous chemicals and the hazard area and degree of harm of the accident;\n(c) promptly take sealing, isolation, decontamination and other measures in respect of the actual and possible harm caused by the accident to persons, animals and plants, soil, water sources and the atmosphere;\n(d) monitor and assess the environmental pollution and ecological damage caused by the hazardous chemicals accident, and take the corresponding measures for environmental pollution treatment and ecological restoration."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter VI Registration of Hazardous Chemicals and Emergency Rescue in Accidents"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "The hazardous chemicals units concerned shall provide technical guidance and the necessary assistance for emergency rescue in hazardous chemicals accidents."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter VI Registration of Hazardous Chemicals and Emergency Rescue in Accidents"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "Where a hazardous chemicals accident causes environmental pollution, the competent department of environmental protection of the people's government at or above the level of a municipality with districts shall uniformly release the relevant information."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter VI Registration of Hazardous Chemicals and Emergency Rescue in Accidents"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "Whoever produces, sells or uses hazardous chemicals the production, sale or use of which is prohibited by the State shall be ordered by the work safety supervision and administration department to stop the production, sale or use activities and shall be fined not less than 200,000 yuan but not more than 500,000 yuan; where there is illegal income, the illegal income shall be confiscated; where a crime is constituted, criminal liability shall be investigated in accordance with law.\nWhere an act provided in the preceding paragraph is committed, the work safety supervision and administration department shall also order the person to carry out harmless treatment of the hazardous chemicals produced, sold or used.\nWhoever uses hazardous chemicals in violation of the restrictive provisions of the State on the use of hazardous chemicals shall be dealt with in accordance with the provisions of paragraph 1 of this Article."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "Whoever, without safety condition examination, constructs, reconstructs or expands a construction project for the production or storage of hazardous chemicals shall be ordered by the work safety supervision and administration department to stop construction and to make corrections within a time limit; where corrections are not made within the time limit, a fine of not less than 500,000 yuan but not more than 1,000,000 yuan shall be imposed; where a crime is constituted, criminal liability shall be investigated in accordance with law.\nWhoever, without safety condition examination, constructs, reconstructs or expands a port construction project for the storage and loading and unloading of hazardous chemicals shall be punished by the port administrative department in accordance with the provisions of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "Whoever engages in the production of hazardous chemicals without having lawfully obtained a hazardous chemicals safety production licence, or engages in the production of hazardous chemicals and their packaging and containers without having lawfully obtained an industrial product production licence, shall be punished in accordance with the provisions of the Regulations on Safety Production Licences and the Regulations of the People's Republic of China on the Administration of Industrial Product Production Licences respectively.\nWhere, in violation of the provisions of these Regulations, a chemical enterprise uses hazardous chemicals in production without having obtained a hazardous chemicals safety use licence, the work safety supervision and administration department shall order it to make corrections within a time limit and impose a fine of not less than 100,000 yuan but not more than 200,000 yuan; where corrections are not made within the time limit, it shall be ordered to suspend production for rectification.\nWhere, in violation of the provisions of these Regulations, a person engages in the sale of hazardous chemicals without having obtained a hazardous chemicals trading licence, the work safety supervision and administration department shall order the cessation of the business activities, confiscate the hazardous chemicals unlawfully traded and the illegal income, and impose a fine of not less than 100,000 yuan but not more than 200,000 yuan; where a crime is constituted, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "Where any of the following circumstances exists, the work safety supervision and administration department shall order correction and may impose a fine of not more than 50,000 yuan; where correction is refused, a fine of not less than 50,000 yuan but not more than 100,000 yuan shall be imposed; where the circumstances are serious, the person shall be ordered to suspend production or business for rectification:\n(a) a unit producing or storing hazardous chemicals failing to set up conspicuous marks for the hazardous chemicals pipelines it has laid, or failing to periodically inspect or test the hazardous chemicals pipelines;\n(b) where construction operations that may endanger the safety of hazardous chemicals pipelines are carried out, the construction unit failing to notify in writing the unit to which the pipelines belong in accordance with the provisions, or failing to jointly formulate an emergency plan and take the corresponding safety protection measures with the unit to which the pipelines belong, or the unit to which the pipelines belong failing to assign dedicated personnel to the site to provide guidance on pipeline safety protection;\n(c) an enterprise producing hazardous chemicals failing to provide chemical safety data sheets, or failing to affix or attach chemical safety labels on the packaging (including the outer packaging);\n(d) the chemical safety data sheets provided by an enterprise producing hazardous chemicals being inconsistent with the hazardous chemicals it produces, or the chemical safety labels affixed or attached on the packaging (including the outer packaging) being inconsistent with the hazardous chemicals in the packaging, or the content stated in the chemical safety data sheets or chemical safety labels not meeting the requirements of national standards;\n(e) an enterprise producing hazardous chemicals failing to immediately make a public announcement upon finding that the hazardous chemicals it produces have new hazardous characteristics, or failing to promptly revise its chemical safety data sheets and chemical safety labels;\n(f) an enterprise selling hazardous chemicals selling hazardous chemicals that have no chemical safety data sheets or chemical safety labels;\n(g) the material of the packaging and containers of hazardous chemicals and the type, specifications, methods and unit mass (weight) of the packaging being incompatible with the nature and use of the hazardous chemicals packaged;\n(h) a unit producing or storing hazardous chemicals failing to set up conspicuous safety warning signs at the workplace and on the safety facilities and equipment, or failing to install communication and alarm devices at the workplace;\n(i) a dedicated warehouse for hazardous chemicals not being placed under the charge of dedicated personnel, or the system of dual-person receipt and dispatch and dual-person custody not being implemented for the highly toxic chemicals stored and other hazardous chemicals whose storage quantity constitutes a major hazard installation;\n(j) a unit storing hazardous chemicals failing to establish a system of verification and registration for the entry into and exit from the warehouse of hazardous chemicals;\n(k) a dedicated warehouse for hazardous chemicals not being marked conspicuously;\n(l) an enterprise producing or importing hazardous chemicals failing to register the hazardous chemicals, or failing to complete the formalities for modifying the registration content upon finding that the hazardous chemicals it produces or imports have new hazardous characteristics.\nWhere a port operator engaged in the warehouse-based sale of hazardous chemicals is in the circumstances provided in the preceding paragraph, the port administrative department shall punish it in accordance with the provisions of the preceding paragraph. Where a dedicated warehouse storing highly toxic chemicals or explosive precursor hazardous chemicals fails to install the corresponding technical protection facilities in accordance with the relevant provisions of the State, the public security organ shall punish it in accordance with the provisions of the preceding paragraph.\nWhere a unit producing or storing highly toxic chemicals or explosive precursor hazardous chemicals fails to set up a public security body or to allocate full-time public security personnel, it shall be punished in accordance with the provisions of the Regulations on Internal Public Security of Enterprises and Public Institutions."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "Where an enterprise producing packaging or containers of hazardous chemicals sells packaging or containers of hazardous chemicals that have not been inspected or that fail inspection, the quality supervision, inspection and quarantine department shall order it to make corrections and impose a fine of not less than 100,000 yuan but not more than 200,000 yuan, and where there is illegal income, the illegal income shall be confiscated; where correction is refused, it shall be ordered to suspend production or business for rectification; where a crime is constituted, criminal liability shall be investigated in accordance with law.\nWhoever puts into use vessels transporting hazardous chemicals and the containers loaded thereon that have not passed inspection shall be punished by the maritime safety administration in accordance with the provisions of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "Where a unit producing, storing or using hazardous chemicals is in any of the following circumstances, the work safety supervision and administration department shall order correction and impose a fine of not less than 50,000 yuan but not more than 100,000 yuan; where correction is refused, it shall order the suspension of production or business for rectification and even the revocation of the relevant licence documents by the original issuing authority, and the administrative department for industry and commerce shall order it to complete the registration of change of business scope or revoke its business licence; where the persons responsible constitute a crime, criminal liability shall be investigated in accordance with law:\n(a) failing to carry out an inspection before the reuse of reusable packaging or containers of hazardous chemicals;\n(b) failing to install the relevant safety facilities and equipment at the workplace in accordance with the types and hazardous characteristics of the hazardous chemicals produced or stored, or failing to carry out regular maintenance and servicing of the safety facilities and equipment in accordance with national standards, industry standards or the relevant provisions of the State;\n(c) failing to carry out a periodic safety assessment of its work safety conditions in accordance with the provisions of these Regulations;\n(d) failing to store hazardous chemicals in dedicated warehouses, or failing to store highly toxic chemicals and other hazardous chemicals whose storage quantity constitutes a major hazard installation separately in dedicated warehouses;\n(e) the manner, method or quantity of the storage of hazardous chemicals not conforming to national standards or the relevant provisions of the State;\n(f) a dedicated warehouse for hazardous chemicals not conforming to the requirements of national standards or industry standards;\n(g) failing to periodically test and inspect the safety facilities and equipment of dedicated warehouses for hazardous chemicals.\nWhere a port operator engaged in the warehouse-based sale of hazardous chemicals is in the circumstances provided in the preceding paragraph, the port administrative department shall punish it in accordance with the provisions of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "Where any of the following circumstances exists, the public security organ shall order correction and may impose a fine of not more than 10,000 yuan; where correction is refused, a fine of not less than 10,000 yuan but not more than 50,000 yuan shall be imposed:\n(a) a unit producing, storing or using highly toxic chemicals or explosive precursor hazardous chemicals failing to truthfully record the quantity and flow of the highly toxic chemicals or explosive precursor hazardous chemicals it produces, stores or uses;\n(b) a unit producing, storing or using highly toxic chemicals or explosive precursor hazardous chemicals failing to immediately report to the public security organ upon finding the loss or theft of highly toxic chemicals or explosive precursor hazardous chemicals;\n(c) a unit storing highly toxic chemicals failing to report the storage quantity, storage location and circumstances of the management personnel to the public security organ of the county-level people's government where it is located for the record;\n(d) an enterprise producing or selling hazardous chemicals failing to truthfully record the name and address of the purchasing unit of highly toxic chemicals or explosive precursor hazardous chemicals, the name and identity card number of the person handling the matter, and the varieties, quantities and uses of the highly toxic chemicals or explosive precursor hazardous chemicals purchased, or retaining the sales records and related materials for less than 1 year;\n(e) a selling enterprise or purchasing unit of highly toxic chemicals or explosive precursor hazardous chemicals failing to report the varieties, quantities and flow information of the highly toxic chemicals or explosive precursor hazardous chemicals sold or purchased to the public security organ of the county-level people's government where it is located for the record within the prescribed time limit;\n(f) a unit using highly toxic chemicals or explosive precursor hazardous chemicals failing to report the relevant circumstances to the public security organ of the county-level people's government where it is located where it transfers the highly toxic chemicals or explosive precursor hazardous chemicals it has purchased in accordance with the provisions of these Regulations.\nWhere an enterprise producing or storing hazardous chemicals, an enterprise using hazardous chemicals in production fails to report the safety assessment report and the implementation of the rectification plan to the work safety supervision and administration department or the port administrative department for the record in accordance with the provisions of these Regulations, or a unit storing hazardous chemicals fails to report the storage quantity, storage location and circumstances of the management personnel of its highly toxic chemicals and other hazardous chemicals whose storage quantity constitutes a major hazard installation to the work safety supervision and administration department or the port administrative department for the record, the work safety supervision and administration department or the port administrative department shall respectively punish it in accordance with the provisions of the preceding paragraph.\nWhere an enterprise producing hazardous chemicals subject to priority environmental management, or an enterprise using hazardous chemicals subject to priority environmental management in production, fails to report the relevant information to the competent department of environmental protection in accordance with the provisions, the competent department of environmental protection shall punish it in accordance with the provisions of paragraph 1 of this Article."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "Where a unit producing, storing or using hazardous chemicals converts production, suspends production, suspends business or dissolves and fails to take effective measures to promptly and properly dispose of its hazardous chemicals production installations, storage facilities and hazardous chemicals in stock, or abandons hazardous chemicals, the work safety supervision and administration department shall order correction and impose a fine of not less than 50,000 yuan but not more than 100,000 yuan; where a crime is constituted, criminal liability shall be investigated in accordance with law.\nWhere a unit producing, storing or using hazardous chemicals converts production, suspends production, suspends business or dissolves and fails to report the disposal plan for its hazardous chemicals production installations, storage facilities and hazardous chemicals in stock to the relevant departments for the record in accordance with the provisions of these Regulations, the relevant departments shall respectively order correction and may impose a fine of not more than 10,000 yuan; where correction is refused, a fine of not less than 10,000 yuan but not more than 50,000 yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "Where an enterprise selling hazardous chemicals purchases hazardous chemicals from an enterprise that unlawfully engages in the production or sale of hazardous chemicals without a licence, the administrative department for industry and commerce shall order correction and impose a fine of not less than 100,000 yuan but not more than 200,000 yuan; where correction is refused, it shall order the suspension of business for rectification and even the revocation of its hazardous chemicals trading licence by the original issuing authority, and the administrative department for industry and commerce shall order it to complete the registration of change of business scope or revoke its business licence."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "Where an enterprise producing or selling hazardous chemicals is in any of the following circumstances, the work safety supervision and administration department shall order correction, confiscate the illegal income and impose a fine of not less than 100,000 yuan but not more than 200,000 yuan; where correction is refused, it shall order the suspension of production or business for rectification and even the revocation of its hazardous chemicals safety production licence or hazardous chemicals trading licence, and the administrative department for industry and commerce shall order it to complete the registration of change of business scope or revoke its business licence:\n(a) selling highly toxic chemicals or explosive precursor hazardous chemicals to a unit that does not have the relevant licence documents or certification documents provided in paragraphs 1 and 2 of Article 38 of these Regulations;\n(b) selling highly toxic chemicals not in accordance with the varieties and quantities stated in the highly toxic chemicals purchase licence;\n(c) selling highly toxic chemicals (other than pesticides that are highly toxic chemicals) or explosive precursor hazardous chemicals to individuals.\nWhere a unit that does not have the relevant licence documents or certification documents provided in paragraphs 1 and 2 of Article 38 of these Regulations purchases highly toxic chemicals or explosive precursor hazardous chemicals, or an individual purchases highly toxic chemicals (other than pesticides that are highly toxic chemicals) or explosive precursor hazardous chemicals, the public security organ shall confiscate the highly toxic chemicals or explosive precursor hazardous chemicals purchased and may also impose a fine of not more than 5,000 yuan.\nWhere a unit using highly toxic chemicals or explosive precursor hazardous chemicals lends, or transfers to a unit that does not have the relevant licence documents provided in paragraphs 1 and 2 of Article 38 of these Regulations, the highly toxic chemicals or explosive precursor hazardous chemicals it has purchased, or transfers to an individual the highly toxic chemicals (other than pesticides that are highly toxic chemicals) or explosive precursor hazardous chemicals it has purchased, the public security organ shall order correction and impose a fine of not less than 100,000 yuan but not more than 200,000 yuan; where correction is refused, it shall order the suspension of production or business for rectification."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "Whoever engages in the road transport or waterway transport of hazardous chemicals without having lawfully obtained a road transport licence for dangerous goods or a waterway transport licence for dangerous goods shall be punished in accordance with the provisions of the laws and administrative regulations on road transport and waterway transport respectively."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "Where any of the following circumstances exists, the competent department of transport shall order correction and impose a fine of not less than 50,000 yuan but not more than 100,000 yuan; where correction is refused, it shall order the suspension of production or business for rectification; where a crime is constituted, criminal liability shall be investigated in accordance with law:\n(a) a driver, crew member, loading and unloading management person, escort person, declarant or container loading site inspector of a road transport enterprise or waterway transport enterprise for hazardous chemicals taking up the post without having obtained the work qualification;\n(b) transporting hazardous chemicals without taking the corresponding safety protection measures in accordance with the hazardous characteristics of the hazardous chemicals, or without providing the necessary protective articles and emergency rescue apparatus;\n(c) using a vessel that has not lawfully obtained a certificate of fitness for the carriage of dangerous goods to transport hazardous chemicals by inland waterway;\n(d) a carrier transporting hazardous chemicals by inland waterway transporting hazardous chemicals in violation of the restrictive provisions of the competent department of transport under the State Council on the quantity of hazardous chemicals transported by a single vessel;\n(e) inland waterway wharves or berths used for operations involving the transport of hazardous chemicals not conforming to the relevant safety specifications of the State, or not maintaining the safety distance prescribed by the State from drinking water intake points, or being put into use without passing acceptance by the competent department of transport;\n(f) a consignor failing to explain to the carrier the types, quantities and hazardous characteristics of the hazardous chemicals consigned and the emergency disposal measures in the event of a dangerous situation, or failing to properly package the hazardous chemicals consigned in accordance with the relevant provisions of the State and set up the corresponding marks on the outer packaging;\n(g) where inhibitors or stabilisers need to be added for the transport of hazardous chemicals, the consignor failing to add them or failing to inform the carrier of the relevant circumstances."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "Where any of the following circumstances exists, the competent department of transport shall order correction and impose a fine of not less than 100,000 yuan but not more than 200,000 yuan, and where there is illegal income, the illegal income shall be confiscated; where correction is refused, it shall order the suspension of production or business for rectification; where a crime is constituted, criminal liability shall be investigated in accordance with law:\n(a) entrusting an enterprise that has not lawfully obtained a road transport licence for dangerous goods or a waterway transport licence for dangerous goods with the carriage of hazardous chemicals;\n(b) transporting highly toxic chemicals and other hazardous chemicals that the State provides shall not be transported by inland waterway through enclosed inland water areas;\n(c) transporting highly toxic chemicals and other hazardous chemicals that the State provides shall not be transported by inland waterway by inland waterway;\n(d) including hazardous chemicals among ordinary goods consigned, or consigning hazardous chemicals as ordinary goods by false or concealed declaration.\nWhoever includes hazardous chemicals in mail or express items, or hands hazardous chemicals over for posting by falsely declaring them as ordinary articles, shall be given a public security administration penalty in accordance with law; where a crime is constituted, criminal liability shall be investigated in accordance with law.\nWhere a postal enterprise or express delivery enterprise accepts hazardous chemicals for posting or delivery, it shall be punished in accordance with the provisions of the Postal Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 87."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "Where any of the following circumstances exists, the public security organ shall order correction and impose a fine of not less than 50,000 yuan but not more than 100,000 yuan; where the act constitutes a violation of public security administration, a public security administration penalty shall be given in accordance with law; where a crime is constituted, criminal liability shall be investigated in accordance with law:\n(a) loading hazardous chemicals in excess of the approved load mass of the transport vehicle;\n(b) using vehicles whose safety technical conditions do not meet the requirements of national standards to transport hazardous chemicals;\n(c) a vehicle transporting hazardous chemicals entering an area where the passage of vehicles transporting hazardous chemicals is restricted without the approval of the public security organ;\n(d) transporting highly toxic chemicals by road without having obtained a highly toxic chemicals road transport pass."
+        },
+        "noLabel": {
+          "en": "Article 88."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "Where any of the following circumstances exists, the public security organ shall order correction and impose a fine of not less than 10,000 yuan but not more than 50,000 yuan; where the act constitutes a violation of public security administration, a public security administration penalty shall be given in accordance with law:\n(a) a vehicle transporting hazardous chemicals not displaying or painting warning signs, or the warning signs displayed or painted not meeting the requirements of national standards;\n(b) transporting hazardous chemicals by road without providing escort personnel;\n(c) where long parking is required in the course of transporting highly toxic chemicals or explosive precursor hazardous chemicals and the driver or escort personnel fail to report to the local public security organ;\n(d) where highly toxic chemicals or explosive precursor hazardous chemicals are lost, stolen or robbed in the course of road transport, or leakage or spillage occurs, and the driver or escort personnel fail to take the necessary warning and safety measures or fail to report to the local public security organ."
+        },
+        "noLabel": {
+          "en": "Article 89."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 90,
+        "text": {
+          "en": "With respect to a road transport enterprise for hazardous chemicals that bears full or main responsibility for a traffic accident, the public security organ shall order it to eliminate the hidden safety hazards, and vehicles transporting hazardous chemicals whose hidden safety hazards have not been eliminated shall be prohibited from driving on the road."
+        },
+        "noLabel": {
+          "en": "Article 90."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 91,
+        "text": {
+          "en": "Where any of the following circumstances exists, the competent department of transport shall order correction and may impose a fine of not more than 10,000 yuan; where correction is refused, a fine of not less than 10,000 yuan but not more than 50,000 yuan shall be imposed:\n(a) a road transport enterprise or waterway transport enterprise for hazardous chemicals failing to be staffed with full-time safety management personnel;\n(b) the management unit of inland waterway wharves or berths used for operations involving the transport of hazardous chemicals failing to formulate an emergency rescue plan for hazardous chemicals accidents at the wharves or berths, or failing to equip the wharves or berths with sufficient and effective emergency rescue apparatus and equipment."
+        },
+        "noLabel": {
+          "en": "Article 91."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 92,
+        "text": {
+          "en": "Where any of the following circumstances exists, punishment shall be imposed in accordance with the provisions of the Regulations of the People's Republic of China on the Administration of Inland Waterway Traffic Safety:\n(a) a waterway transport enterprise transporting hazardous chemicals by inland waterway failing to formulate an emergency rescue plan for hazardous chemicals accidents involving transport vessels, or failing to equip the transport vessels with sufficient and effective emergency rescue apparatus and equipment;\n(b) the owner or operator of a vessel transporting hazardous chemicals by inland waterway failing to obtain a certificate of insurance against vessel pollution damage liability or a certificate of financial guarantee;\n(c) a vessel carrying hazardous chemicals entering or leaving an inland waterway port without reporting the relevant matters to the maritime safety administration in advance and obtaining its consent;\n(d) a vessel carrying hazardous chemicals sailing, loading or unloading, or berthing in an inland waterway without displaying the dedicated warning signs, or without showing the dedicated signals in accordance with the provisions, or without applying for pilotage in accordance with the provisions.\nWhoever, without reporting to the port administrative department and obtaining its consent, carries out the loading, unloading or transhipment of hazardous chemicals in a port shall be punished in accordance with the provisions of the Port Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 92."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 93,
+        "text": {
+          "en": "Whoever forges, alters, leases, lends or transfers a hazardous chemicals safety production licence or an industrial product production licence, or uses a forged or altered hazardous chemicals safety production licence or industrial product production licence, shall be punished in accordance with the provisions of the Regulations on Safety Production Licences and the Regulations of the People's Republic of China on the Administration of Industrial Product Production Licences respectively.\nWhoever forges, alters, leases, lends or transfers any other licence provided in these Regulations, or uses any other forged or altered licence provided in these Regulations, shall be fined not less than 100,000 yuan but not more than 200,000 yuan by the authority that issued and administers the relevant licence, and where there is illegal income, the illegal income shall be confiscated; where the act constitutes a violation of public security administration, a public security administration penalty shall be given in accordance with law; where a crime is constituted, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 93."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 94,
+        "text": {
+          "en": "Where a hazardous chemicals accident occurs to a hazardous chemicals unit and its principal person in charge fails to immediately organise rescue or fails to immediately report to the relevant departments, punishment shall be imposed in accordance with the provisions of the Regulations on the Reporting, Investigation and Handling of Work Safety Accidents.\nWhere a hazardous chemicals accident occurs to a hazardous chemicals unit and causes personal injury to others or property loss, the unit shall bear the liability for compensation in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 94."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 95,
+        "text": {
+          "en": "Where a hazardous chemicals accident occurs and the local people's government concerned or its relevant departments fail to immediately organise and carry out rescue, or fail to take the necessary emergency disposal measures to reduce the loss caused by the accident and prevent the spread and expansion of the accident, the directly responsible person in charge and other persons directly responsible shall be given sanctions in accordance with law; where a crime is constituted, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 95."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 96,
+        "text": {
+          "en": "Where a staff member of a department responsible for the supervision and administration of hazardous chemicals safety abuses his or her power, derelicts his or her duty or engages in malpractice for personal gain in the work of supervision and administration of hazardous chemicals safety and a crime is constituted, criminal liability shall be investigated in accordance with law; where a crime is not yet constituted, a sanction shall be given in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 96."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 97,
+        "text": {
+          "en": "The safety management of monitored chemicals, and of medicines and pesticides that are hazardous chemicals, shall be carried out in accordance with the provisions of these Regulations; where laws or administrative regulations otherwise provide, those provisions shall apply.\nThese Regulations do not apply to the safety management of civil explosives, fireworks and firecrackers, radioactive substances, nuclear energy substances and hazardous chemicals used for national defence scientific research and production.\nWhere laws or administrative regulations otherwise provide for the safety management of fuel gas, those provisions shall apply.\nWhere a container for hazardous chemicals is special equipment, its safety management shall be carried out in accordance with the provisions of the laws and administrative regulations on the safety of special equipment."
+        },
+        "noLabel": {
+          "en": "Article 97."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 98,
+        "text": {
+          "en": "The administration of the import and export of hazardous chemicals shall be carried out in accordance with the provisions of the laws, administrative regulations and rules on foreign trade; the safety management of the storage, use, sale and transport of imported hazardous chemicals shall be carried out in accordance with the provisions of these Regulations.\nThe environmental management registration of hazardous chemicals and the environmental management registration of new chemical substances shall be carried out in accordance with the provisions of the laws, administrative regulations and rules on environmental protection. Fees shall be collected for the environmental management registration of hazardous chemicals in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 98."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 99,
+        "text": {
+          "en": "Ownerless hazardous chemicals found and picked up by the public shall be taken over by the public security organ. Where hazardous chemicals taken over by the public security organ or confiscated in accordance with law by the relevant department require harmless treatment, they shall be handed over to a specialised unit recognised by the competent department of environmental protection for treatment, or handed over to the relevant hazardous chemicals production enterprise for treatment. The costs of treatment shall be borne by the State treasury."
+        },
+        "noLabel": {
+          "en": "Article 99."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 100,
+        "text": {
+          "en": "Where the hazardous characteristics of a chemical have not yet been determined, the work safety supervision and administration department, the competent department of environmental protection and the competent department of health under the State Council shall respectively be responsible for organising the identification of the physical hazards, environmental hazards and toxicological characteristics of the chemical. Where, on the basis of the identification results, the catalogue of hazardous chemicals needs to be adjusted, the matter shall be handled in accordance with the provisions of paragraph 2 of Article 3 of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 100."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 101,
+        "text": {
+          "en": "Where a chemical enterprise that has already been using hazardous chemicals in production before the implementation of these Regulations is required to obtain a hazardous chemicals safety use licence in accordance with the provisions of these Regulations, it shall apply for and obtain a hazardous chemicals safety use licence within the time limit prescribed by the work safety supervision and administration department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 101."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 102,
+        "text": {
+          "en": "These Regulations shall come into force on 1 December 2011."
+        },
+        "noLabel": {
+          "en": "Article 102."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-REG-0364'] = {
     "lawId": "CN-REG-0364",
     "sourceLang": "zh",
@@ -7551,6 +9858,963 @@
         },
         "noLabel": {
           "en": "Article 60."
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0368'] = {
+    "lawId": "CN-REG-0368",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 80 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the Emergency Response Law of the People's Republic of China and the Law of the People's Republic of China on Protecting Against and Mitigating Earthquake Disasters for the purpose of ensuring that post-earthquake recovery and reconstruction in Wenchuan is carried out vigorously, in an orderly and effective manner, actively and steadily restoring normal living, production, study and working conditions for the people in the disaster areas, and promoting the recovery and development of the economy and society in the disaster areas."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Post-earthquake recovery and reconstruction shall adhere to the policy of putting people first, conducting scientific planning, taking all factors into overall account, implementing in stages, relying on self-reliance, with State support and social assistance."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Post-earthquake recovery and reconstruction shall follow the following principles:\n(a) combining self-reliance and production self-help in the disaster-affected areas with State support and paired assistance;\n(b) combining government leadership with social participation;\n(c) combining on-site recovery and reconstruction with new construction at other locations;\n(d) combining quality assurance with attention to efficiency;\n(e) combining a footing in the present with regard for the long term;\n(f) combining economic and social development with the protection of the ecological environment and resources."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "People's governments at all levels shall strengthen leadership, organisation and coordination of post-earthquake recovery and reconstruction work and, where necessary, establish coordinating bodies for post-earthquake recovery and reconstruction to organise and coordinate such work.\nThe relevant departments of people's governments at or above the county level shall, under the unified leadership of the people's government at the same level, act in close coordination in accordance with the division of duties and take effective measures to jointly carry out post-earthquake recovery and reconstruction work."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "People's governments at all levels in the earthquake disaster areas shall rely on self-reliance, work hard and practise strict economy, and raise funds and materials through multiple channels to carry out post-earthquake recovery and reconstruction.\nThe State provides fiscal support, tax preferences and financial assistance for post-earthquake recovery and reconstruction and actively provides support in materials, technology and human resources.\nThe State encourages citizens, legal persons and other organisations to actively participate in post-earthquake recovery and reconstruction work and supports the use of advanced technologies, equipment and materials in post-earthquake recovery and reconstruction.\nThe State accepts assistance provided by foreign governments and international organisations that meets the needs of post-earthquake recovery and reconstruction."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Units and individuals that make outstanding contributions in post-earthquake recovery and reconstruction work shall be commended and rewarded in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "In providing transitional resettlement for the affected people in the earthquake disaster areas, a combination of on-site resettlement and resettlement at other locations, centralised resettlement and dispersed resettlement, and government resettlement and self-resettlement by joining relatives and friends or by other means shall be adopted in light of the actual circumstances of the earthquake disaster areas.\nThe government shall give appropriate subsidies to affected people who resettle by joining relatives and friends or by other means on their own. The specific measures shall be formulated by the provincial-level people's government."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Interim Resettlement"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Transitional resettlement sites shall be selected in areas with convenient transport conditions that facilitate the resumption of production and life for the affected people, and shall avoid seismically active faults, areas where disasters such as floods, landslides and collapses, mudslides, ground subsidence and lightning strikes may occur, and factories and warehouses that produce or store flammable and explosive dangerous goods.\nTransitional resettlement shall use waste land and open land, avoid or minimise the occupation of farmland, and avoid damage to nature reserves, drinking water source protection areas and ecologically fragile areas."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Interim Resettlement"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "People's governments at all levels in the earthquake disaster areas shall, in light of actual conditions and according to local circumstances, arrange temporary shelters for the people in the disaster areas. Tents and tarpaulin shelters may be used as temporary shelters, and where conditions permit, simple housing and prefabricated panel houses may also be used. Where there are real difficulties in arranging temporary shelters, school playgrounds and sports venues that have passed safety appraisal may be used as temporary refuges.\nThe State encourages rural residents in the earthquake disaster areas to build temporary shelters meeting safety requirements on their own and provides subsidies. The specific measures shall be formulated by the provincial-level people's government."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Interim Resettlement"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Materials used for transitional resettlement shall be guaranteed in quality and safety. Production units shall ensure the product quality of tents and tarpaulin shelters. Construction units and production units shall use building materials of qualified quality to ensure the safety, quality and seismic performance of simple housing and prefabricated panel houses."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Interim Resettlement"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Transitional resettlement sites shall be provided with supporting infrastructure such as water, electricity and roads, and shall be equipped, in proportion, with schools, medical points, centralised water supply points, public toilets, garbage collection points, daily necessities supply points, supply points for special necessities of ethnic minorities and the necessary cultural and publicity facilities and other supporting public service facilities, so as to ensure the basic living needs of the affected people.\nThe scale of transitional resettlement sites shall be moderate, and the necessary lightning protection facilities shall be installed and the necessary fire emergency passages reserved, with corresponding fire-fighting facilities provided, so as to prevent the occurrence of fire and lightning disasters."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Interim Resettlement"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Temporary shelters shall have functions such as fire prevention, wind resistance and rain protection."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Interim Resettlement"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Prefabricated panel houses shall be used in priority for the severely affected areas and for affected people requiring resettlement at other locations, and for severely affected households whose collapsed houses are difficult to recover and rebuild in the short term, especially households of the deceased, pregnant women, infants and young children, orphans, elderly persons living alone, persons with disabilities, as well as public service facilities such as schools and medical points."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Interim Resettlement"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The distribution and use of temporary shelters, transitional resettlement funds and materials shall be open and transparent, shall be published periodically, and shall be subject to the supervision of the relevant departments and the public. The specific measures shall be formulated by the provincial-level people's government."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Interim Resettlement"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Land for transitional resettlement shall be arranged as temporary land use and may be used first, with the relevant land use formalities to be gone through in accordance with law afterwards; where it is not converted to permanent land use upon expiry, it shall be reclaimed and returned to the original land user."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Interim Resettlement"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The county-level people's government in the place where a transitional resettlement site is located shall organise the relevant departments to strengthen monitoring of secondary disasters, drinking water quality, food hygiene and epidemics, epidemiological investigation and environmental sanitation improvement. The disinfectants and cleaning agents used shall meet environmental protection requirements and avoid pollution of soil, water resources and the environment.\nThe public security organ in the place where a transitional resettlement site is located shall strengthen public security administration, promptly punish unlawful acts and maintain normal social order.\nThe affected people shall, under the organisation of the county and township (town) people's governments in the place where the transitional resettlement site is located, establish joint teams for public security and fire protection and carry out self-defence and self-rescue work such as public security and fire patrols."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Interim Resettlement"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "People's governments at all levels in the earthquake disaster areas shall organise affected people and enterprises to carry out production self-help, actively resume production and do a good job in psychological assistance to the affected people."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Interim Resettlement"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "People's governments at all levels and the agriculture administrative departments of the governments in the earthquake disaster areas shall promptly organise the repair of damaged agricultural production facilities, carry out rush planting and rush harvesting, provide technical guidance on agricultural production and ensure the supply of agricultural inputs and agricultural machinery and equipment."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Interim Resettlement"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "People's governments at all levels and the relevant government departments in the earthquake disaster areas shall give priority to organising enterprises supplying electricity, water and gas to resume production, provide support for large key enterprises to resume production and create conditions for the full resumption of production and operation in industry and the service sector."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Interim Resettlement"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The relevant departments of the State Council shall organise the investigation and assessment of earthquake disasters, so as to provide a basis for formulating post-earthquake recovery and reconstruction plans."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Investigation and Assessment"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The investigation and assessment of earthquake disasters shall include the following matters:\n(a) the degree and number of damaged urban and rural areas;\n(b) casualties, the degree and number of damaged houses, the degree and number of damaged infrastructure, public service facilities, industrial and agricultural production facilities and commercial and trade circulation facilities, and the degree and number of damaged agricultural land;\n(c) the number of people requiring resettlement, the number of injured and disabled persons requiring assistance, the number of elderly persons living alone and minors requiring help, the number of houses required, the infrastructure and public service facilities requiring recovery and reconstruction, the production facilities requiring recovery and reconstruction, and the agricultural land requiring consolidation and reclamation;\n(d) environmental pollution, ecological damage and damage to natural and historical and cultural heritage;\n(e) the carrying capacity of resources and the environment, and geological hazards, earthquake-induced secondary disasters and hidden dangers;\n(f) hydrogeology, engineering geology, environmental geology, topography and landforms, river regime and hydrological situation, and the impact on major water conservancy and hydropower projects;\n(g) public health emergencies and their hidden dangers;\n(h) other matters requiring investigation and assessment for formulating post-earthquake recovery and reconstruction plans."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Investigation and Assessment"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "People's governments at or above the county level shall, in accordance with the division of their respective duties, organise the relevant departments and experts to appraise the engineering quality and seismic performance of seriously damaged infrastructure such as water conservancy, roads and power facilities, public service facilities such as schools, and other construction projects, preserve the relevant materials and samples, and carry out investigation and assessment of the mechanisms by which seismic activity damaged the relevant construction projects, so as to provide a scientific basis for improving the seismic design codes and engineering construction standards and for adopting seismic fortification measures."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Investigation and Assessment"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The investigation and assessment of earthquake disasters shall adopt the methods of comprehensive investigation and assessment, on-the-spot investigation and assessment and integrated assessment, so as to ensure the authenticity, accuracy and timeliness of data and materials and the reliability of assessment conclusions.\nSeismological departments and earthquake monitoring networks shall collect and preserve all materials and information before, during and after earthquakes, and establish complete archives.\nThe investigation and assessment of earthquake disasters shall comply with the laws and regulations of the State and the relevant technical standards and requirements."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Investigation and Assessment"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The report on the investigation and assessment of earthquake disasters shall be submitted to the State Council in a timely manner."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Investigation and Assessment"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The development and reform department of the State Council shall, together with the relevant departments of the State Council and the provincial-level people's government of the earthquake disaster areas, jointly organise the preparation of post-earthquake recovery and reconstruction plans, to be implemented after approval by the State Council.\nPost-earthquake recovery and reconstruction plans shall include the overall plan for post-earthquake recovery and reconstruction and special plans such as the urban system plan, rural construction plan, urban and rural housing construction plan, infrastructure construction plan, public service facilities construction plan, productivity layout and industrial adjustment plan, market service system plan, disaster prevention and mitigation and ecological restoration plan, and land use plan."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter IV Plans for Restoration and Reconstruction"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The municipal and county people's governments in the earthquake disaster areas shall, under the guidance of the provincial-level people's government, organise the preparation of implementation plans for post-earthquake recovery and reconstruction within their respective administrative areas."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Plans for Restoration and Reconstruction"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "In preparing post-earthquake recovery and reconstruction plans, the Scientific Outlook on Development shall be comprehensively implemented, people orientation shall be adhered to, and priority shall be given to restoring and rebuilding the basic living conditions and public service facilities of the affected people; science and nature shall be respected, and the carrying capacity of resources and the environment shall be fully taken into account; all factors shall be taken into overall account, and the plans shall be combined with the advancement of industrialisation, urbanisation, new countryside construction, development of functional zones and optimisation and upgrading of the industrial structure, and shall adhere to the principles of unified deployment with division of responsibility, distinguishing urgency and focusing on key points, mutual linkage and coordination between higher and lower levels, and standardised and orderly advancement in accordance with law.\nIn preparing post-earthquake recovery and reconstruction plans, laws, regulations and the relevant State standards shall be complied with."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Plans for Restoration and Reconstruction"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The basic data on geology, survey, mapping, hydrology and environment obtained from the post-earthquake investigation and assessment shall serve as the basis for preparing post-earthquake recovery and reconstruction plans.\nThe competent department of seismological work shall, on the basis of research results on seismic geology and the characteristics of seismic activity and the distribution of seismic intensity, review the zoning map of ground motion parameters, so as to provide a basis for preparing post-earthquake recovery and reconstruction plans and for seismic fortification of construction projects."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Plans for Restoration and Reconstruction"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Post-earthquake recovery and reconstruction plans shall include as their main content the status of the earthquake disaster and regional analysis, the principles and objectives of recovery and reconstruction, the scope of the recovery and reconstruction areas, the spatial layout of recovery and reconstruction, the tasks, policies and measures of recovery and reconstruction, the protection of scientifically valuable earthquake sites and remains, the restoration of damaged cultural relics and buildings and structures of historical value and with ethnic minority characteristics, and the implementation steps and stages.\nPost-earthquake recovery and reconstruction plans shall focus on making arrangements for the layout of urban and rural areas, housing construction, infrastructure construction, public service facilities construction, agricultural production facilities construction, industrial production facilities construction, disaster prevention and mitigation and the ecological environment, the protection of natural resources and historical and cultural heritage, and land consolidation and reclamation."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Plans for Restoration and Reconstruction"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "The recovery and reconstruction of production and living facilities of centrally affiliated enterprises in the earthquake disaster areas shall be incorporated into post-earthquake recovery and reconstruction plans for overall arrangement."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Plans for Restoration and Reconstruction"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "In preparing post-earthquake recovery and reconstruction plans, the relevant departments and experts shall be involved, and the opinions of the affected people in the earthquake disaster areas shall be fully heard; on major matters, special demonstration by experts from the relevant fields shall be organised."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Plans for Restoration and Reconstruction"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Where urban and rural areas in the earthquake disaster areas are completely destroyed, or major safety hazards exist, or the population size exceeds the environmental carrying capacity, and new construction at other locations is required, the new site selection shall avoid seismically active faults, ecologically fragile areas and areas where disasters such as floods, landslides, collapses, mudslides and ground subsidence may occur, as well as natural foci of infectious diseases.\nThe local people's governments at or above the county level in the earthquake disaster areas shall organise the relevant departments and experts to demonstrate the new sites, hear public opinions and report to the people's government at the next higher level for approval."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Plans for Restoration and Reconstruction"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The post-earthquake recovery and reconstruction plans approved by the State Council are the basic basis for post-earthquake recovery and reconstruction and shall be published in a timely manner. All units and individuals shall comply with the post-earthquake recovery and reconstruction plans approved and published in accordance with law and submit to planning administration.\nWhere the basic data on which the post-earthquake recovery and reconstruction plans are based are modified, other objective conditions change and modification is required, or modification is required by the needs of recovery and reconstruction work, the organ that organised the preparation of the plans shall put forward modification opinions and report them to the State Council for approval."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Plans for Restoration and Reconstruction"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The provincial-level people's government of the earthquake disaster areas shall, in accordance with the post-earthquake recovery and reconstruction plans and the local level of economic and social development, organise the implementation of post-earthquake recovery and reconstruction in a planned and step-by-step manner.\nThe relevant departments of the State Council shall support, assist and guide the recovery and reconstruction work in the earthquake disaster areas.\nIn urban recovery and reconstruction, the original overall plans of the cities and towns shall be fully taken into account, attention shall be paid to reflecting the original architectural styles of ethnic minorities, the scale and standards of urban construction shall be reasonably determined, and the seismic fortification requirements shall be met."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter V Implementation of Restoration and Reconstruction"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The development and reform department is specifically responsible for the overall planning, policy recommendations, investment plans, organisation and coordination and arrangement of major construction projects for post-disaster recovery and reconstruction.\nThe finance department, together with the relevant departments, is responsible for proposing funding arrangements and policy recommendations and is specifically responsible for the allocation and management of fiscal funds for post-earthquake recovery and reconstruction.\nThe transport, water conservancy, railway, electric power, communications, radio, film and television and other departments shall, in accordance with the division of duties, specifically organise the implementation of post-disaster recovery and reconstruction of the relevant infrastructure.\nThe construction department shall specifically organise the implementation of post-disaster recovery and reconstruction of housing and municipal public facilities.\nThe civil affairs department shall specifically organise the implementation of temporary basic living security for the affected people, assistance for living difficulties, subsidies for the recovery and reconstruction of damaged rural houses, recovery and reconstruction of social welfare facilities, and resettlement, subsidies, psychological assistance and disability rehabilitation for orphans, elderly persons living alone and persons with disabilities.\nThe education, science and technology, culture, health, radio, film and television, sports, human resources and social security, commerce, industry and commerce and other departments shall, in accordance with the division of duties, specifically organise the implementation of post-disaster recovery and reconstruction of public service facilities, health and epidemic prevention and medical treatment, employment services and social security, the supply of important daily necessities and the maintenance of market order. Institutions of higher learning and science and technology research and development institutions shall strengthen special research on the relevant issues and provide scientific and technological support for post-earthquake recovery and reconstruction.\nThe agriculture, forestry, water conservancy, land and resources, commerce and industry and other departments shall, in accordance with the division of duties, specifically organise the implementation of animal epidemic monitoring, recovery and reconstruction of agricultural production facilities and restoration of agricultural production conditions, the arrangement of land for post-earthquake recovery and reconstruction, land consolidation and reclamation, prevention and control of geological hazards, and recovery and reconstruction of commercial and trade circulation and industrial production facilities.\nThe environmental protection, forestry, civil affairs, water conservancy, science and technology, work safety, seismology, meteorology, surveying and mapping and other departments shall, in accordance with the division of duties, be specifically responsible for ecological and environmental protection and disaster prevention and mitigation, technical support for work safety and recovery and reconstruction of public service facilities.\nThe People's Bank of China and the banking, securities and insurance supervision and administration institutions shall, in accordance with the division of duties, be specifically responsible for formulating and implementing financial support and service policies for post-earthquake recovery and reconstruction.\nThe public security department is specifically responsible for maintaining and stabilising social order in the earthquake disaster areas.\nThe customs and entry-exit inspection and quarantine departments shall, in accordance with the division of duties, organise in accordance with law the release, inspection and quarantine of imported materials for recovery and reconstruction and materials donated from abroad.\nThe Ministry of Foreign Affairs shall, together with the relevant departments and in accordance with the division of duties, coordinate foreign-related work in post-earthquake recovery and reconstruction."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter V Implementation of Restoration and Reconstruction"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The competent department of seismological work of the State Council shall, together with the cultural relics and other relevant departments, organise experts to conduct on-site investigation of the earthquake ruins, delineate the scope of earthquake sites and remains that are typical and representative and have scientific value and commemorative significance, and establish an earthquake site museum."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter V Implementation of Restoration and Reconstruction"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The provincial-level people's government of the earthquake disaster areas shall organise the ethnic affairs, construction, environmental protection, seismology, cultural relics and other departments and experts to formulate, on the basis of the results of the investigation and assessment of the earthquake disasters, a clearance and protection plan that clearly identifies the objects of protection, such as earthquake sites and remains, protected cultural relics units, and buildings and structures of historical value and with ethnic minority characteristics, and their regional scope, to be implemented after approval by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter V Implementation of Restoration and Reconstruction"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "The clearance and protection of earthquake disaster sites shall be carried out in accordance with the principles of unified organisation, scientific planning, comprehensive consideration and emphasis on protection, and only when it has been determined that there is no sign of human life and no major epidemic. Where signs of human life are found at an earthquake disaster site, rescue shall be carried out immediately."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V Implementation of Restoration and Reconstruction"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Earthquake sites and remains identified in the clearance and protection plan shall be protected by effective measures within the protection scope, technical and physical materials of scientific research value shall be rescued and collected, and, without affecting the overall appearance, the necessary reinforcement shall be carried out on buildings and structures in danger of collapse and the necessary clearance shall be carried out of toxic and harmful wastes and residues in the ruins.\nProtected cultural relics units shall be protected in situ. Movable cultural relics that can still be preserved and buildings and structures of historical value and with ethnic minority characteristics as well as historic buildings shall be protected by measures such as reinforcement; where they cannot be preserved but may be restored and rebuilt in the future, video and photographic materials shall be collected and collated.\nMovable cultural relics such as museum-collected cultural relics and privately collected cultural relics and the physical carriers of intangible cultural heritage shall be rescued, collated and registered in a timely manner, and the movable cultural relics and physical carriers of intangible cultural heritage cleared out shall be transported to a safe place for proper safekeeping."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V Implementation of Restoration and Reconstruction"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "The clearance of earthquake disaster sites shall be carried out by zones and by category in accordance with the clearance and protection plan. The handling of the remains of the deceased cleared out shall respect the traditional customs of local ethnic minorities; the property cleared out shall be registered in detail in respect of its type, characteristics, quantity, time and place of clearance and properly preserved. Where conditions permit, the family members of the deceased and the owners may be notified to be present.\nWaste dangerous chemicals and other wastes and residues cleared out shall be treated by category and in compliance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter V Implementation of Restoration and Reconstruction"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "People's governments at all levels in the earthquake disaster areas shall do a good job in preventing and controlling animal epidemics in the earthquake disaster areas. Animal carcasses cleared out shall be subjected to harmless treatment such as disinfection and destruction, so as to prevent the occurrence of major animal epidemics."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter V Implementation of Restoration and Reconstruction"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Waste building materials demolished or dismantled in the course of site clearance and prefabricated panel houses no longer in use after the transitional resettlement period shall be recycled where they can be recycled."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter V Implementation of Restoration and Reconstruction"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "In post-earthquake recovery and reconstruction, the construction of infrastructure and public service facilities such as transport, railways, communications, water supply, power supply, housing, schools, hospitals, social welfare, culture, radio and television, and finance shall be arranged in an overall manner.\nIn urban post-earthquake recovery and reconstruction, municipal public facilities, public service facilities and other facilities shall be arranged in an overall manner, and the scale and sequence of construction shall be reasonably determined.\nIn rural post-earthquake recovery and reconstruction, the wishes of farmers shall be respected, the role of villagers' self-governing organisations shall be brought into play, self-building by the people shall be the main approach, with government subsidies, social assistance and paired assistance, and land shall be used economically and intensively according to local circumstances and farmland shall be protected.\nThe county-level people's governments in the earthquake disaster areas shall organise the relevant departments to guide the site selection for the construction of villagers' housing and to provide a variety of design drawings for villagers' housing that suit local realities for villagers to choose from. Villagers' housing shall meet the seismic fortification requirements and reflect the original local characteristics, ethnic characteristics and traditional appearance."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter V Implementation of Restoration and Reconstruction"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "For approved post-earthquake recovery and reconstruction projects, land may be arranged for use in advance in accordance with the overall plan for land use, with construction proceeding while approval is being sought, and the land use formalities shall be gone through in accordance with the relevant provisions. For farmland, farmland roads, land for emergency rescue and disaster relief, land for transitional resettlement, and abandoned sites of towns, villages and industrial and mining enterprises damaged by the earthquake disaster, land consolidation and reclamation shall be carried out in accordance with law, and geological hazards shall be treated."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter V Implementation of Restoration and Reconstruction"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "The relevant departments of the State Council shall organise a review of the ground motion parameters, seismic fortification requirements and engineering construction standards for the earthquake disaster areas; where revision is truly necessary, revision shall be organised in a timely manner.\nThe seismic fortification requirements and the relevant engineering construction standards for the earthquake disaster areas shall be revised accordingly on the basis of the revised ground motion parameters for the earthquake disaster areas."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter V Implementation of Restoration and Reconstruction"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "For buildings, structures and facilities in the earthquake disaster areas that can still be used, appraisal of seismic performance shall be carried out in accordance with the seismic fortification requirements for the earthquake disaster areas, and measures such as reinforcement and renovation shall be taken on the basis of the appraisal results."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter V Implementation of Restoration and Reconstruction"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "The site selection for post-earthquake reconstruction projects shall conform to the post-earthquake recovery and reconstruction plans and the requirements of seismic fortification and disaster prevention and mitigation, and shall avoid seismically active faults, ecologically fragile areas, areas where major disasters may occur and natural foci of infectious diseases."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter V Implementation of Restoration and Reconstruction"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Design units shall strictly carry out seismic design in accordance with the seismic fortification requirements and the mandatory standards for engineering construction, and shall be responsible for the quality of the seismic design and the accuracy of the construction drawings issued.\nConstruction units shall carry out construction in accordance with the construction drawing design documents and the mandatory standards for engineering construction, and shall be responsible for construction quality.\nConstruction units and construction contractors shall use the materials, components and equipment specified in the construction drawing design documents and the relevant State standards.\nProject supervision units shall carry out supervision in accordance with the construction drawing design documents and the mandatory standards for engineering construction, and shall bear supervision responsibility for construction quality."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter V Implementation of Restoration and Reconstruction"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "When the completion acceptance check of post-earthquake recovery and reconstruction projects is carried out in accordance with the relevant provisions of the State, emphasis shall be placed on verifying whether the projects meet the seismic fortification requirements; where the seismic fortification requirements are not met, a completion acceptance report may not be issued."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter V Implementation of Restoration and Reconstruction"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Public service facilities with dense crowds such as schools, hospitals, sports venues, museums, cultural centres, libraries, cinemas and theatres, shopping malls and transport hubs shall be designed in accordance with seismic fortification requirements higher than those for local housing construction, so as to enhance their seismic resistance."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter V Implementation of Restoration and Reconstruction"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where post-earthquake recovery and reconstruction involves the protection of cultural relics, nature reserves, wild animals and plants and the protection of earthquake sites and remains, the provisions of the relevant laws and regulations of the State shall be applied."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter V Implementation of Restoration and Reconstruction"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "During post-earthquake recovery and reconstruction, government procurement activities for goods, works and services shall be carried out strictly in accordance with the relevant provisions of the Government Procurement Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter V Implementation of Restoration and Reconstruction"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "People's governments at or above the county level shall raise funds for post-earthquake recovery and reconstruction through government input, paired assistance, social fundraising and market operations."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VI Fund Raising and Policy Support"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "The State establishes a post-earthquake recovery and reconstruction fund on the basis of factors such as the magnitude of the earthquake and the actual situation of losses, to be used exclusively for post-earthquake recovery and reconstruction.\nThe post-earthquake recovery and reconstruction fund shall consist of budgetary funds and other fiscal funds.\nThe measures for the administration of the raising and use of the post-earthquake recovery and reconstruction fund shall be formulated by the finance department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VI Fund Raising and Policy Support"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "The State encourages citizens, legal persons and other organisations to donate funds and materials for post-earthquake recovery and reconstruction. The use of donated funds and materials shall respect the wishes of donors and shall be incorporated into post-earthquake recovery and reconstruction plans.\nWhere people's governments at or above the county level and their departments are the donees, they shall use the donated funds and materials for post-earthquake recovery and reconstruction. Where public welfare social organisations and public welfare non-profit public institutions are the donees, they shall make public the circumstances of accepting donations and the use and management of the donated property, and shall accept the supervision of the relevant government departments, donors and the public.\nWhere people's governments at or above the county level and their departments, public welfare social organisations and public welfare non-profit public institutions accept donations, they shall issue to donors receipts for donations uniformly printed by the finance departments at or above the provincial level.\nFunds, materials and personnel services for post-earthquake recovery and reconstruction provided by foreign governments and international organisations, and bilateral and multilateral post-earthquake recovery and reconstruction projects arranged and implemented, shall be handled in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VI Fund Raising and Policy Support"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "The State encourages citizens, legal persons and other organisations to invest in accordance with law in the recovery and reconstruction of infrastructure and public service facilities in the earthquake disaster areas."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VI Fund Raising and Policy Support"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "The State applies tax preferences in accordance with law for post-earthquake recovery and reconstruction. The specific measures shall be formulated by the finance department of the State Council and the tax department of the State Council.\nDuring the period of post-disaster recovery and reconstruction in the earthquake disaster areas, local people's governments at or above the county level shall implement local tax preference measures in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VI Fund Raising and Policy Support"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Administrative and institutional fees in the earthquake disaster areas may be appropriately reduced or exempted. The specific measures shall be formulated by the competent departments concerned."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VI Fund Raising and Policy Support"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "The State provides fiscal interest subsidies for housing loans and loans for the recovery and reconstruction of public service facilities, loans for the resumption of production and operation in industry and the service sector, and loans for the resumption of agricultural production in the earthquake disaster areas. The specific measures shall be formulated by the finance department of the State Council together with the other relevant departments."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VI Fund Raising and Policy Support"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "When arranging construction funds, the State shall give priority to infrastructure and public service facilities such as transport, railways, energy, agriculture, water conservancy, communications, finance, municipal public utilities, education, health, culture, radio and television, disaster prevention and mitigation and environmental protection in the earthquake disaster areas, as well as the construction of key engineering facilities relating to national security.\nWhere facilities for surveying and mapping, meteorology, seismology and hydrology are damaged by the earthquake, the people's governments of the earthquake disaster areas shall take emergency measures and organise forces to repair them so as to ensure their normal operation."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VI Fund Raising and Policy Support"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "People's governments at all levels and the relevant government departments shall strengthen vocational skills training, employment services and employment assistance for the affected people, encourage enterprises and public institutions to give priority to employing qualified affected people; and may organise affected people to participate in post-earthquake recovery and reconstruction by way of work relief."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VI Fund Raising and Policy Support"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "For students receiving compulsory education in the earthquake disaster areas whose guardians died in the earthquake disaster or lost the capacity to work or whose families have economic difficulties caused by the earthquake disaster, the State shall provide living allowances; for other students in the earthquake disaster areas whose parents died in the earthquake disaster or lost the capacity to work or whose families have economic difficulties caused by the earthquake disaster, their schools may, under equal circumstances, give priority to including them in the State financial assistance policy system for assistance."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VI Fund Raising and Policy Support"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Local people's governments at or above the county level in areas other than the earthquake disaster areas and their relevant departments shall, in accordance with the arrangements of the State and the local people's government, support the recovery and reconstruction of the earthquake disaster areas through paired assistance and other forms.\nThe State encourages enterprises and public institutions in areas other than the earthquake disaster areas to support the recovery and reconstruction of the earthquake disaster areas through assistance in construction and other forms."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VI Fund Raising and Policy Support"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "For matters requiring administrative examination and approval in post-earthquake recovery and reconstruction, the people's governments with approval authority and the relevant departments shall, in accordance with the principles of making things convenient for the people, simplifying procedures and improving efficiency, handle them promptly in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VI Fund Raising and Policy Support"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "People's governments at or above the county level shall strengthen supervision and inspection of the post-earthquake recovery and reconstruction work of people's governments at lower levels.\nThe relevant departments of people's governments at or above the county level shall strengthen supervision over the quality and safety of construction projects and product quality in post-earthquake recovery and reconstruction."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Administration"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Before determining the plans for the distribution of funds and materials and the plans for the distribution of housing for post-earthquake recovery and reconstruction, people's governments at all levels in the earthquake disaster areas shall first conduct investigation and publish the plans after democratic appraisal."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Administration"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "People's governments at all levels in the earthquake disaster areas shall periodically publish the sources, quantities, distribution and use of funds and materials for post-earthquake recovery and reconstruction, and shall accept public supervision."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Administration"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "The finance department shall strengthen supervision and administration of the allocation and use of funds for post-earthquake recovery and reconstruction.\nThe development and reform, construction, transport, water conservancy, electric power, railway, industry and information technology and other departments shall, in accordance with the division of duties, organise supervision and inspection of post-earthquake recovery and reconstruction projects. The development and reform department of the State Council shall organise inspection of major construction projects for post-earthquake recovery and reconstruction."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Administration"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "Audit institutions shall strengthen whole-process follow-up auditing of the raising, distribution, allocation, use and effects of funds and materials for post-earthquake recovery and reconstruction, periodically publish the use of funds and materials for post-earthquake recovery and reconstruction, and publish the final audit results after the audit is completed."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Administration"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "People's governments at all levels and the relevant departments and units in the earthquake disaster areas shall register construction projects and the raising, distribution, allocation and use of funds and materials for post-earthquake recovery and reconstruction, establish and improve archives, and promptly transfer the archives to the competent construction department or other relevant departments upon completion acceptance of construction projects and upon completion of post-earthquake recovery and reconstruction."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Administration"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "Supervision institutions shall strengthen supervision over State organs and organisations authorised by laws and regulations to perform the function of administering public affairs and their staff participating in post-earthquake recovery and reconstruction work."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Administration"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "All units and individuals have the right to report unlawful and disciplinary acts in post-earthquake recovery and reconstruction.\nThe people's government or the relevant department receiving a report shall immediately investigate and handle it in accordance with law and keep the informant confidential. Where the report is made under a real name, the handling result shall be fed back to the informant. For unlawful and disciplinary acts with relatively large social impact, the handling result shall be published to the public."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Administration"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "Where the local people's governments and government departments concerned misappropriate, intercept or divert funds or materials for post-earthquake recovery and reconstruction, the finance department and audit institution shall, within the scope of their respective duties, order correction, recover the misappropriated, intercepted or diverted funds or materials, confiscate the unlawful gains and give the unit a warning or circulate a notice of criticism; the organ that appoints and removes the person directly in charge and other persons directly responsible, or the supervision institution, shall, in accordance with the authority for personnel management, give sanctions of demotion, removal from post up to dismissal in accordance with law; where a crime is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "Where, in post-earthquake recovery and reconstruction, the local people's governments and relevant government departments concerned default on the payment of project funds to construction contractors, or expressly or implicitly instruct design units or construction contractors to violate the seismic fortification requirements and the mandatory standards for engineering construction and lower the quality of construction projects, causing major safety accidents and constituting a crime, criminal liability shall be pursued in accordance with law; where a crime is not constituted, the organ that appoints and removes the person directly in charge and other persons directly responsible, or the supervision institution, shall, in accordance with the authority for personnel management, give sanctions of demotion, removal from post up to dismissal in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "Where, in post-earthquake recovery and reconstruction, a construction unit, survey unit, design unit, construction contractor or project supervision unit lowers the quality of a construction project, causing a major safety accident and constituting a crime, criminal liability shall be pursued in accordance with law; where a crime is not constituted, the competent construction department of the local people's government at or above the county level or another relevant department shall impose a penalty in accordance with the relevant provisions of the Regulations on the Quality Management of Construction Projects."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "For seriously damaged infrastructure, public service facilities and other construction projects where the investigation and assessment confirm through appraisal that there are major problems in project quality and a crime is constituted, criminal liability shall be pursued in accordance with law against the persons directly responsible of the construction unit, design unit, construction contractor and project supervision unit that are responsible; where a crime is not constituted, the competent construction department of the local people's government at or above the county level or another relevant department shall impose a penalty in accordance with the relevant provisions of the Regulations on the Quality Management of Construction Projects. Where bribery or acceptance of bribes is suspected, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "Where, in post-earthquake recovery and reconstruction, public order is disrupted and the act constitutes a violation of public security administration, the public security organ shall impose a penalty in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "Where State functionaries abuse their power, derelict their duty or engage in malpractice for personal gain in post-earthquake recovery and reconstruction work, sanctions shall be given in accordance with law; where a crime is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "The application of other relevant laws and the relevant policies in post-earthquake recovery and reconstruction shall be separately formulated by the State Council in accordance with law, or prescribed by the relevant departments of the State Council and provincial-level people's governments within the scope of their respective functions and powers."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "These Regulations shall come into force on the date of promulgation."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
         }
       }
     ]
@@ -10386,6 +13650,810 @@
         },
         "noLabel": {
           "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0375'] = {
+    "lawId": "CN-REG-0375",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 67 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated for the purpose of standardising property management activities, safeguarding the lawful rights and interests of owners and property service enterprises, and improving the living and working environment of the people."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "For the purposes of these Regulations, property management means the activities in which owners and property service enterprises, in accordance with the provisions of the property service contract, carry out repair, maintenance and management of buildings and their supporting facilities, equipment and related sites, and maintain environmental sanitation and the relevant order within the property management area."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The State advocates that owners select property service enterprises through an open, fair and just market competition mechanism."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The State encourages the adoption of new technologies and new methods and relies on scientific and technological progress to improve the level of property management and service."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The competent construction department of the State Council shall be responsible for the supervision and administration of property management activities throughout the country.\nThe competent real estate departments of local people's governments at or above the county level shall be responsible for the supervision and administration of property management activities within their respective administrative regions."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The owner of a building is an owner.\nIn property management activities, owners shall enjoy the following rights:\n(a) to accept the services provided by the property service enterprise in accordance with the provisions of the property service contract;\n(b) to propose the convening of a meeting of the owners' assembly and to put forward suggestions on matters relating to property management;\n(c) to put forward suggestions on the formulation and amendment of the management covenant and the rules of procedure of the owners' assembly;\n(d) to attend meetings of the owners' assembly and exercise the right to vote;\n(e) to elect the members of the owners' committee and to enjoy the right to be elected;\n(f) to supervise the work of the owners' committee;\n(g) to supervise the performance by the property service enterprise of the property service contract;\n(h) to enjoy the right to be informed of and the right to supervise the use of the shared parts, shared facilities and equipment and related sites of the property;\n(i) to supervise the administration and use of the special maintenance fund for the shared parts, shared facilities and equipment of the property (hereinafter referred to as the special maintenance fund);\n(j) other rights provided by laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        },
+        "chapter": {
+          "en": "Chapter II Owners and the Owners’ Assembly"
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "In property management activities, owners shall perform the following obligations:\n(a) to observe the management covenant and the rules of procedure of the owners' assembly;\n(b) to observe the rules and regulations on the use of the shared parts and shared facilities and equipment of the property within the property management area and on the maintenance of public order and environmental sanitation;\n(c) to implement the decisions of the owners' assembly and the decisions made by the owners' committee as authorised by the owners' assembly;\n(d) to pay the special maintenance fund in accordance with the relevant provisions of the State;\n(e) to pay the property service fees on time;\n(f) other obligations provided by laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Owners and the Owners’ Assembly"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The owners' assembly shall be composed of all the owners within the property management area.\nThe owners' assembly shall represent and safeguard the lawful rights and interests of all owners within the property management area in property management activities."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Owners and the Owners’ Assembly"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "One owners' assembly shall be established for one property management area.\nThe division of property management areas shall take into account such factors as the shared facilities and equipment, the scale of the buildings and community development. The specific measures shall be formulated by the provinces, autonomous regions and municipalities directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Owners and the Owners’ Assembly"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Owners within the same property management area shall, under the guidance of the competent real estate department of the district or county people's government or of the sub-district office or township people's government in the place where the property is located, establish an owners' assembly and elect an owners' committee. However, where there is only one owner, or where the number of owners is small and all owners unanimously agree to decide not to establish an owners' assembly, the owners shall jointly perform the duties of the owners' assembly and the owners' committee."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Owners and the Owners’ Assembly"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The following matters shall be decided jointly by the owners:\n(a) formulating and amending the rules of procedure of the owners' assembly;\n(b) formulating and amending the management covenant;\n(c) electing the owners' committee or replacing the members of the owners' committee;\n(d) selecting and dismissing the property service enterprise;\n(e) raising and using the special maintenance fund;\n(f) rebuilding or reconstructing buildings and their ancillary facilities;\n(g) other major matters concerning the rights of co-ownership and joint management."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Owners and the Owners’ Assembly"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Meetings of the owners' assembly may take the form of collective discussion or the form of seeking opinions in writing; however, they shall be attended by owners whose exclusive parts account for more than half of the total floor area of the buildings within the property management area and by more than half of the total number of owners.\nOwners may entrust agents to attend meetings of the owners' assembly.\nDecisions of the owners' assembly on the matters specified in items (e) and (f) of Article 11 of these Regulations shall be subject to the consent of owners whose exclusive parts account for two-thirds or more of the total floor area of the buildings and of two-thirds or more of the total number of owners; decisions on the other matters specified in Article 11 of these Regulations shall be subject to the consent of owners whose exclusive parts account for more than half of the total floor area of the buildings and of more than half of the total number of owners.\nThe decisions of the owners' assembly or of the owners' committee shall be binding on the owners.\nWhere a decision made by the owners' assembly or the owners' committee infringes the lawful rights and interests of an owner, the aggrieved owner may request the people's court to revoke it."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Owners and the Owners’ Assembly"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Meetings of the owners' assembly are divided into regular meetings and interim meetings.\nRegular meetings of the owners' assembly shall be convened in accordance with the provisions of the rules of procedure of the owners' assembly. Upon the proposal of 20 per cent or more of the owners, the owners' committee shall convene an interim meeting of the owners' assembly."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Owners and the Owners’ Assembly"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "All owners shall be notified 15 days or more before a meeting of the owners' assembly is convened.\nFor meetings of the owners' assembly of a residential community, the relevant residents' committee shall be informed at the same time.\nThe owners' committee shall keep minutes of meetings of the owners' assembly."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Owners and the Owners’ Assembly"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The owners' committee shall implement the decisions of the owners' assembly and perform the following duties:\n(a) convening meetings of the owners' assembly and reporting on the implementation of property management;\n(b) concluding, on behalf of the owners, the property service contract with the property service enterprise selected by the owners' assembly;\n(c) keeping abreast of the opinions and suggestions of owners and property users and supervising and assisting the property service enterprise in performing the property service contract;\n(d) supervising the implementation of the management covenant;\n(e) other duties conferred by the owners' assembly."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Owners and the Owners’ Assembly"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The owners' committee shall, within 30 days from the date of its election, file a record with the competent real estate department of the district or county people's government and with the sub-district office or township people's government in the place where the property is located.\nThe members of the owners' committee shall be owners who are enthusiastic about public welfare undertakings, have a strong sense of responsibility and possess a certain organisational ability.\nThe chairman and vice-chairmen of the owners' committee shall be elected from among the members of the owners' committee."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Owners and the Owners’ Assembly"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The management covenant shall, in accordance with the law, stipulate matters such as the use, maintenance and management of the property, the common interests of the owners, the obligations to be performed by the owners and the liability to be borne for breach of the management covenant.\nThe management covenant shall respect social morality and may not violate laws or regulations or harm the public interest of society.\nThe management covenant shall be binding on all owners."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Owners and the Owners’ Assembly"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The rules of procedure of the owners' assembly shall stipulate matters such as the manner of deliberation, the voting procedure of the owners' assembly and the composition of the owners' committee and the term of office of its members."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Owners and the Owners’ Assembly"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The owners' assembly and the owners' committee shall perform their duties in accordance with the law, may not make decisions unrelated to property management and may not engage in activities unrelated to property management.\nWhere a decision made by the owners' assembly or the owners' committee violates laws or regulations, the competent real estate department of the district or county people's government or the sub-district office or township people's government in the place where the property is located shall order correction within a specified time limit or revoke the decision, and shall notify all owners."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Owners and the Owners’ Assembly"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The owners' assembly and the owners' committee shall cooperate with the public security organs and, in mutual collaboration with the residents' committee, jointly do the work relating to the maintenance of public order within the property management area.\nWithin the property management area, the owners' assembly and the owners' committee shall actively cooperate with the relevant residents' committee in the lawful performance of its duty of self-governance, support the residents' committee in carrying out its work and accept its guidance and supervision.\nDecisions made by the owners' assembly and the owners' committee of a residential community shall be notified to the relevant residents' committee, and their suggestions shall be carefully heeded."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Owners and the Owners’ Assembly"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where, before the owners and the owners' assembly select a property service enterprise, the construction unit selects a property service enterprise, a written prior-stage property service contract shall be concluded."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Prior-stage Property Management"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Before selling the property, the construction unit shall formulate a provisional management covenant stipulating, in accordance with the law, matters such as the use, maintenance and management of the property, the common interests of the owners, the obligations to be performed by the owners and the liability to be borne for breach of the provisional management covenant.\nThe provisional management covenant formulated by the construction unit may not infringe the lawful rights and interests of property purchasers."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Prior-stage Property Management"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Before the sale of the property, the construction unit shall clearly show the provisional management covenant to the property purchasers and explain it.\nWhen concluding the property sale contract with the construction unit, a property purchaser shall give a written undertaking to observe the provisional management covenant."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Prior-stage Property Management"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The State advocates that construction units select property service enterprises by means of bidding in accordance with the principle of separating real estate development from property management.\nConstruction units of residential property shall select property service enterprises by means of bidding; where there are fewer than three bidders or the scale of the residential development is relatively small, a property service enterprise may be selected by way of agreement with the approval of the competent real estate department of the district or county people's government in the place where the property is located."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Prior-stage Property Management"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The sale contract concluded between the construction unit and the property purchaser shall contain the content stipulated in the prior-stage property service contract."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Prior-stage Property Management"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The prior-stage property service contract may stipulate a term; however, where the term has not expired but the property service contract concluded between the owners' committee and the property service enterprise takes effect, the prior-stage property service contract shall terminate."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Prior-stage Property Management"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The construction unit may not dispose of without authorisation the ownership or right of use of the shared parts and shared facilities and equipment of the property that owners enjoy in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Prior-stage Property Management"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "When taking over the property, the property service enterprise shall inspect the shared parts and shared facilities and equipment of the property."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Prior-stage Property Management"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "When completing the formalities for the acceptance of the property taken over, the construction unit shall hand over the following materials to the property service enterprise:\n(a) completion acceptance materials such as the general completion plan, the completion drawings of individual buildings, structures and equipment and the completion drawings of supporting facilities and underground pipe network projects;\n(b) technical materials such as those on the installation, use, maintenance and servicing of facilities and equipment;\n(c) the property quality warranty documents and the property use instruction documents;\n(d) other materials necessary for property management.\nThe property service enterprise shall, upon termination of the prior-stage property service contract, hand over the above materials to the owners' committee."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Prior-stage Property Management"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "The construction unit shall, in accordance with the provisions, provide the necessary property management premises within the property management area."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Prior-stage Property Management"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The construction unit shall bear the warranty liability for the property in accordance with the warranty period and warranty scope prescribed by the State."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Prior-stage Property Management"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Enterprises engaging in property management activities shall have independent legal person status.\nThe competent construction department of the State Council shall, together with the relevant departments, establish a mechanism of joint incentives for trustworthy conduct and joint disciplinary action for dishonest conduct, and strengthen integrity management of the industry."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Property Management Services"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Property management within one property management area shall be carried out by one property service enterprise."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Property Management Services"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The owners' committee shall conclude a written property service contract with the property service enterprise selected by the owners' assembly.\nThe property service contract shall stipulate the matters of property management, the quality of services, the service fees, the rights and obligations of both parties, the administration and use of the special maintenance fund, the property management premises, the term of the contract, liability for breach of contract and other content."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Property Management Services"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Property service enterprises shall provide the corresponding services in accordance with the provisions of the property service contract.\nWhere a property service enterprise fails to perform the provisions of the property service contract, causing damage to the personal or property safety of owners, it shall bear the corresponding legal liability in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Property Management Services"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "When taking over the property, the property service enterprise shall complete the property acceptance formalities with the owners' committee.\nThe owners' committee shall hand over to the property service enterprise the materials specified in the first paragraph of Article 29 of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Property Management Services"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The ownership of the property management premises shall belong to the owners in accordance with the law. Without the consent of the owners' assembly, a property service enterprise may not change the use of the property management premises."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Property Management Services"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Upon termination of the property service contract, the property service enterprise shall return the property management premises and the materials specified in the first paragraph of Article 29 of these Regulations to the owners' committee.\nWhere, upon termination of the property service contract, the owners' assembly has selected a new property service enterprise, the property service enterprises shall properly complete the handover work between them."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Property Management Services"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "A property service enterprise may entrust specialised service businesses within the property management area to specialised service enterprises, but may not entrust all property management within the area to others in a single package."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter IV Property Management Services"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Property service charges shall follow the principles of reasonableness, openness and correspondence between fees and service levels; taking into account the nature and characteristics of different properties, they shall be stipulated in the property service contract by the owners and the property service enterprise in accordance with the measures for property service charges formulated by the competent pricing department of the State Council together with the competent construction department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter IV Property Management Services"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Owners shall pay property service fees in accordance with the provisions of the property service contract. Where an owner and a property user agree that the property user shall pay the property service fees, that agreement shall be followed, and the owner shall bear joint and several liability for payment.\nFor property that has been completed but not yet sold or not yet delivered to the property purchaser, the property service fees shall be paid by the construction unit."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IV Property Management Services"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The competent pricing departments of people's governments at or above the county level shall, together with the competent real estate departments at the same level, strengthen supervision over property service charges."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter IV Property Management Services"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "A property service enterprise may, upon the entrustment of owners, provide service items other than those stipulated in the property service contract, and the service remuneration shall be agreed upon by both parties."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter IV Property Management Services"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Within a property management area, units supplying water, electricity, gas and heating and units providing communications and cable television shall collect the relevant charges from the end users.\nWhere a property service enterprise accepts entrustment to collect the charges mentioned in the preceding paragraph on behalf of others, it may not collect handling fees or other additional charges from owners."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter IV Property Management Services"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "In respect of acts within the property management area that violate the provisions of laws and regulations on public order, environmental protection, property decoration and use, the property service enterprise shall stop them and promptly report them to the relevant administrative departments.\nUpon receiving a report from a property service enterprise, the relevant administrative department shall, in accordance with the law, stop the illegal act or deal with it in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter IV Property Management Services"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Property service enterprises shall assist in the safety precautions within the property management area. Where a safety accident occurs, the property service enterprise shall, while taking emergency measures, promptly report to the relevant administrative departments and assist in the rescue work.\nWhere a property service enterprise employs security guards, it shall comply with the relevant provisions of the State. Security guards shall perform their duties in maintaining public order within the property management area and may not infringe the lawful rights and interests of citizens."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter IV Property Management Services"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "The rights and obligations of property users in property management activities shall be agreed upon between the owners and the property users, but may not violate the relevant provisions of laws, regulations and the management covenant.\nWhere a property user violates the provisions of these Regulations and of the management covenant, the owner concerned shall bear joint and several liability."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter IV Property Management Services"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "The competent real estate departments of local people's governments at or above the county level shall promptly handle complaints made by owners, owners' committees, property users and property service enterprises in property management activities."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter IV Property Management Services"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Public buildings and shared facilities constructed within the property management area in accordance with the plan may not be changed to other uses.\nWhere an owner truly needs to change the use of public buildings and shared facilities in accordance with the law, it shall notify the property service enterprise after completing the relevant formalities in accordance with the law; where a property service enterprise truly needs to change the use of public buildings and shared facilities, it shall submit the matter to the owners' assembly for discussion and decision, and upon consent the owners shall complete the relevant formalities in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter V Use and Maintenance of Property"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Owners and property service enterprises may not occupy or excavate roads and sites within the property management area without authorisation, thereby harming the common interests of the owners.\nWhere an owner truly needs to temporarily occupy or excavate roads and sites for the repair of the property or for the public interest, the consent of the owners' committee and the property service enterprise shall be obtained; where a property service enterprise truly needs to temporarily occupy or excavate roads and sites, the consent of the owners' committee shall be obtained.\nOwners and property service enterprises shall restore the temporarily occupied or excavated roads and sites to their original state within the agreed time limit."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter V Use and Maintenance of Property"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Units supplying water, electricity, gas and heating and units providing communications and cable television shall bear, in accordance with the law, the responsibility for the repair and maintenance of the relevant pipelines, facilities and equipment within the property management area.\nWhere the units specified in the preceding paragraph need to temporarily occupy or excavate roads and sites for repair, maintenance and the like, they shall promptly restore them to their original state."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter V Use and Maintenance of Property"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where an owner needs to decorate or renovate the building, it shall notify the property service enterprise in advance.\nThe property service enterprise shall inform the owner of the prohibited conduct and the matters needing attention in the decoration and renovation of the building."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter V Use and Maintenance of Property"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Owners of residential property, of non-residential property within a residential community, or of non-residential property structurally connected to a single residential building shall pay the special maintenance fund in accordance with the relevant provisions of the State.\nThe special maintenance fund shall belong to the owners and shall be used exclusively for the repair, renewal and renovation of the shared parts and shared facilities and equipment of the property after the expiry of the property warranty period, and may not be diverted to other uses.\nThe measures for collecting, using and administering the special maintenance fund shall be formulated by the competent construction department of the State Council together with the finance department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter V Use and Maintenance of Property"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where the shared parts and shared facilities and equipment of the property are used for business operations, the relevant formalities shall be completed in accordance with the provisions after obtaining the consent of the relevant owners, the owners' assembly and the property service enterprise. The income obtained by the owners shall mainly be used to replenish the special maintenance fund and may also be used in accordance with the decision of the owners' assembly."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter V Use and Maintenance of Property"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where a hidden safety hazard exists in the property and endangers the public interest and the lawful rights and interests of others, the person responsible shall promptly carry out repair and maintenance, and the owners concerned shall cooperate.\nWhere the person responsible fails to perform the obligation of repair and maintenance, the property service enterprise may, with the consent of the owners' assembly, carry out the repair and maintenance, and the costs shall be borne by the person responsible."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter V Use and Maintenance of Property"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, the construction unit of residential property fails to select a property service enterprise by means of bidding, or selects a property service enterprise by way of agreement without approval, the competent real estate department of the local people's government at or above the county level shall order correction within a specified time limit, give a warning and may concurrently impose a fine of not more than RMB 100,000."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a construction unit disposes of without authorisation the ownership or right of use of the shared parts and shared facilities and equipment of the property that belong to the owners, the competent real estate department of the local people's government at or above the county level shall impose a fine of not less than RMB 50,000 but not more than RMB 200,000; where losses are caused to the owners, it shall bear the liability for compensation in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, the relevant materials are not handed over, the competent real estate department of the local people's government at or above the county level shall order correction within a specified time limit; where the relevant materials are still not handed over upon expiry of the time limit, the construction unit and the property service enterprise shall be circulated a notice of criticism and a fine of not less than RMB 10,000 but not more than RMB 100,000 shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a property service enterprise entrusts all property management within a property management area to others in a single package, the competent real estate department of the local people's government at or above the county level shall order correction within a specified time limit and impose a fine of not less than 30 per cent but not more than 50 per cent of the amount of the entrusted contract. The income obtained from the entrustment shall be used for the repair and maintenance of the shared parts and shared facilities and equipment of the property within the property management area, and the remainder shall be used in accordance with the decision of the owners' assembly; where losses are caused to the owners, it shall bear the liability for compensation in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, the special maintenance fund is misappropriated, the competent real estate department of the local people's government at or above the county level shall recover the misappropriated special maintenance fund, give a warning, confiscate the illegal gains and may concurrently impose a fine of not more than two times the amount misappropriated; where a crime is constituted, criminal liability of the persons directly in charge and the other persons directly responsible shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a construction unit fails to provide the necessary property management premises within the property management area as prescribed, the competent real estate department of the local people's government at or above the county level shall order correction within a specified time limit, give a warning, confiscate the illegal gains and impose a fine of not less than RMB 100,000 but not more than RMB 500,000."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a property service enterprise changes the use of the property management premises without authorisation and without the consent of the owners' assembly, the competent real estate department of the local people's government at or above the county level shall order correction within a specified time limit, give a warning and impose a fine of not less than RMB 10,000 but not more than RMB 100,000; where income is generated, the income shall be used for the repair and maintenance of the shared parts and shared facilities and equipment of the property within the property management area, and the remainder shall be used in accordance with the decision of the owners' assembly."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, any of the following acts is committed, the competent real estate department of the local people's government at or above the county level shall order correction within a specified time limit, give a warning and impose a fine in accordance with the provisions of the second paragraph of this Article; the income obtained shall be used for the repair and maintenance of the shared parts and shared facilities and equipment of the property within the property management area, and the remainder shall be used in accordance with the decision of the owners' assembly:\n(a) changing without authorisation the use of public buildings and shared facilities constructed within the property management area in accordance with the plan;\n(b) occupying or excavating without authorisation roads and sites within the property management area, thereby harming the common interests of the owners;\n(c) using without authorisation the shared parts and shared facilities and equipment of the property for business operations.\nWhere an individual commits any of the acts specified in the preceding paragraph, a fine of not less than RMB 1,000 but not more than RMB 10,000 shall be imposed; where a unit commits any of the acts specified in the preceding paragraph, a fine of not less than RMB 50,000 but not more than RMB 200,000 shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Where, in violation of the provisions of the property service contract, an owner fails to pay the property service fees within the time limit, the owners' committee shall urge it to pay within a specified time limit; where it still fails to pay upon expiry of the time limit, the property service enterprise may bring a suit before the people's court."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Where an owner, in the name of the owners' assembly or the owners' committee, engages in activities in violation of laws or regulations and a crime is constituted, criminal liability shall be investigated in accordance with the law; where a crime is not constituted, a public security penalty shall be imposed in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a member of the staff of the competent construction department of the State Council, of a competent real estate department of a local people's government at or above the county level or of another relevant administrative department takes advantage of his position to accept money or goods or other benefits from others, fails to perform his duties of supervision and administration in accordance with the law, or fails to investigate and deal with an illegal act discovered, and a crime is constituted, criminal liability shall be investigated in accordance with the law; where a crime is not constituted, an administrative sanction shall be given in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "These Regulations shall come into force on 1 September 2003."
+        },
+        "noLabel": {
+          "en": "Article 67."
         },
         "chapter": {
           "en": "Chapter VII Supplementary Provisions"
@@ -22280,6 +26348,1269 @@
     ]
   };
 
+  TR['CN-REG-0402'] = {
+    "lawId": "CN-REG-0402",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 107 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Regulation is formulated in order to ensure the safety and effectiveness of medical devices, safeguard human health and the safety of life, and promote the development of the medical device industry."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "This Regulation applies to activities of research and development, production, sale and use of medical devices and the supervision and administration thereof within the territory of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The drug supervision and administration department of the State Council shall be responsible for the supervision and administration of medical devices throughout the country.\nThe relevant departments of the State Council shall, within the scope of their respective duties, be responsible for the supervision and administration relating to medical devices."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Local people's governments at or above the county level shall strengthen leadership over the supervision and administration of medical devices within their respective administrative regions, organise and coordinate the supervision and administration of medical devices and the response to emergencies within their respective administrative regions, strengthen capacity building for the supervision and administration of medical devices, and provide safeguards for the safety of medical devices.\nThe departments of local people's governments at or above the county level responsible for drug supervision and administration shall be responsible for the supervision and administration of medical devices within their respective administrative regions. The relevant departments of local people's governments at or above the county level shall, within the scope of their respective duties, be responsible for the supervision and administration relating to medical devices."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The supervision and administration of medical devices shall follow the principles of risk management, whole-process control, scientific supervision and social co-governance."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The State shall apply classified management to medical devices according to the degree of risk.\nClass I means medical devices with a low degree of risk, whose safety and effectiveness can be ensured through routine management.\nClass II means medical devices with a moderate degree of risk, whose safety and effectiveness need to be ensured through strict control and management.\nClass III means medical devices with a relatively high degree of risk, whose safety and effectiveness need to be ensured through special measures and strict control and management.\nIn assessing the degree of risk of a medical device, factors such as the intended purpose, structural characteristics and method of use of the medical device shall be taken into account.\nThe drug supervision and administration department of the State Council shall be responsible for formulating the classification rules and classification catalogue for medical devices, and shall, in light of the production, sale and use of medical devices, promptly analyse and assess changes in the risks of medical devices and adjust the classification rules and classification catalogue. In formulating and adjusting the classification rules and classification catalogue, the opinions of medical device registrants, record-filing persons, production and sale enterprises, user units and industry organisations shall be fully solicited, and international practice in the classification of medical devices shall be taken into account. The classification rules and classification catalogue for medical devices shall be published to society."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Medical device products shall conform to the mandatory national standards for medical devices; where no mandatory national standards exist, they shall conform to the mandatory industry standards for medical devices."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The State shall formulate industrial plans and policies for medical devices, incorporate medical device innovation into the priorities of development, give priority to the review and approval of innovative medical devices, support the clinical dissemination and use of innovative medical devices, and promote high-quality development of the medical device industry. The drug supervision and administration department of the State Council shall cooperate with the relevant departments of the State Council in implementing the national industrial plans and guiding policies for medical devices."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The State shall improve the innovation system for medical devices, support basic research and applied research on medical devices, promote the dissemination and application of new medical device technologies, and provide support in respect of scientific and technological project approval, financing, credit, tender procurement and medical insurance. The State shall support enterprises in establishing or jointly establishing research and development institutions, encourage enterprises to cooperate with institutions of higher education, research institutes and medical institutions in carrying out research and innovation on medical devices, strengthen the protection of intellectual property rights in medical devices and enhance the capacity for independent innovation in medical devices."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The State shall strengthen the informatisation of the supervision and administration of medical devices, improve the level of online government services and provide convenience for administrative licensing and record-filing of medical devices."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Industry organisations for medical devices shall strengthen industry self-discipline, advance the building of a credibility system, urge enterprises to carry out production and sale activities in accordance with law, and guide enterprises to be honest and trustworthy."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Units and individuals that make outstanding contributions to the research and innovation of medical devices shall be commended and rewarded in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Class I medical devices shall be subject to product record-filing administration, and Class II and Class III medical devices shall be subject to product registration administration.\nMedical device registrants and record-filing persons shall strengthen quality management throughout the life cycle of medical devices and bear liability in accordance with law for the safety and effectiveness of medical devices in the entire process of research and development, production, sale and use."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Product Registration and Record-filing of Medical Devices"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "For the product record-filing of Class I medical devices and applications for product registration of Class II and Class III medical devices, the following materials shall be submitted:\n(a) materials on product risk analysis;\n(b) product technical requirements;\n(c) product testing reports;\n(d) clinical evaluation materials;\n(e) product instructions and specimen labels;\n(f) quality management system documents relating to product research, development and production;\n(g) other materials needed to prove the safety and effectiveness of the product.\nProduct testing reports shall conform to the requirements of the drug supervision and administration department of the State Council, and may be self-inspection reports of the medical device registration applicant or record-filing person, or testing reports issued by a qualified medical device testing institution commissioned for the purpose.\nWhere the circumstances of exemption from clinical evaluation provided in Article 24 of this Regulation apply, clinical evaluation materials may be exempted from submission.\nMedical device registration applicants and record-filing persons shall ensure that the materials submitted are lawful, authentic, accurate, complete and traceable."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Product Registration and Record-filing of Medical Devices"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "For the product record-filing of Class I medical devices, the record-filing person shall submit the record-filing materials to the department of the people's government of the city with districts where it is located that is responsible for drug supervision and administration.\nFor an overseas record-filing person exporting Class I medical devices to China, the enterprise legal person within China designated by it shall submit the record-filing materials and the certification document of the competent department of the country (region) where the record-filing person is located permitting the marketing and sale of the medical device to the drug supervision and administration department of the State Council. For an innovative medical device not yet marketed abroad, the certification document of the competent department of the country (region) where the record-filing person is located permitting the marketing and sale of the medical device may be exempted from submission.\nRecord-filing shall be completed once the record-filing person submits to the department responsible for drug supervision and administration the record-filing materials conforming to the provisions of this Regulation. The department responsible for drug supervision and administration shall, within 5 working days from the date of receipt of the record-filing materials, publish the relevant record-filing information to society through the online government service platform of the drug supervision and administration department of the State Council.\nWhere the matters stated in the record-filing materials change, modification of the record-filing shall be made with the original record-filing department."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Product Registration and Record-filing of Medical Devices"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "To apply for product registration of Class II medical devices, the registration applicant shall submit the registration application materials to the drug supervision and administration department of the people's government of the province, autonomous region or municipality directly under the Central Government where it is located. To apply for product registration of Class III medical devices, the registration applicant shall submit the registration application materials to the drug supervision and administration department of the State Council.\nFor an overseas registration applicant exporting Class II or Class III medical devices to China, the enterprise legal person within China designated by it shall submit the registration application materials and the certification document of the competent department of the country (region) where the registration applicant is located permitting the marketing and sale of the medical device to the drug supervision and administration department of the State Council. For an innovative medical device not yet marketed abroad, the certification document of the competent department of the country (region) where the registration applicant is located permitting the marketing and sale of the medical device may be exempted from submission.\nThe drug supervision and administration department of the State Council shall prescribe the procedures and requirements for the review of medical device registration and strengthen supervision and guidance over the registration review work of the drug supervision and administration departments of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Product Registration and Record-filing of Medical Devices"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The drug supervision and administration department accepting a registration application shall review the safety and effectiveness of the medical device and the quality management capability of the registration applicant to ensure the safety and effectiveness of the medical device.\nThe drug supervision and administration department accepting a registration application shall, within 3 working days from the date of acceptance of the registration application, transmit the registration application materials to the technical review institution. The technical review institution shall, after completing the technical review, submit its review opinions to the drug supervision and administration department accepting the registration application as the basis for approval.\nWhere the drug supervision and administration department accepting a registration application considers it necessary to verify the quality management system when organising the technical review of the medical device, it shall organise the verification of the quality management system."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Product Registration and Record-filing of Medical Devices"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The drug supervision and administration department accepting a registration application shall make a decision within 20 working days from the date of receipt of the review opinions. Where the conditions are met, registration shall be granted and a medical device registration certificate issued; where the conditions are not met, registration shall not be granted and the reasons shall be explained in writing.\nThe drug supervision and administration department accepting a registration application shall, within 5 working days from the date of granting registration of the medical device, publish the relevant registration information to society through the online government service platform of the drug supervision and administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Product Registration and Record-filing of Medical Devices"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "For medical devices urgently needed for the treatment of rare diseases, diseases seriously endangering life for which no effective treatment is yet available, and response to public health incidents, the drug supervision and administration department accepting the registration application may make a decision of conditional approval and state the relevant matters in the medical device registration certificate.\nWhere an especially major public health emergency or other emergency seriously threatening public health occurs, the competent health department of the State Council and the disease prevention and control department of the State Council may, in light of the need to prevent and control the event, put forward recommendations for the emergency use of medical devices, which may be used on an emergency basis within a certain scope and time limit upon approval after demonstration organised by the drug supervision and administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Product Registration and Record-filing of Medical Devices"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Medical device registrants and record-filing persons shall perform the following obligations:\n(a) establishing a quality management system suited to the product and maintaining its effective operation;\n(b) formulating post-marketing research and risk control plans and ensuring their effective implementation;\n(c) carrying out adverse event monitoring and re-evaluation in accordance with law;\n(d) establishing and implementing product traceability and recall systems;\n(e) other obligations prescribed by the drug supervision and administration department of the State Council.\nThe enterprise legal person within China designated by an overseas medical device registrant or record-filing person shall assist the registrant or record-filing person in performing the obligations provided in the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Product Registration and Record-filing of Medical Devices"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where the design, raw materials, production process, scope of application, method of use or the like of a registered Class II or Class III medical device product undergoes substantive change that may affect the safety or effectiveness of the medical device, the registrant shall apply to the original registration department for modification of registration; where other changes occur, record-filing or reporting shall be made in accordance with the provisions of the drug supervision and administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Product Registration and Record-filing of Medical Devices"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "A medical device registration certificate shall be valid for 5 years. Where renewal of registration is needed upon expiry of the period of validity, an application for renewal of registration shall be submitted to the original registration department 6 months before the expiry of the period of validity.\nExcept in the circumstances provided in paragraph 3 of this Article, the drug supervision and administration department receiving an application for renewal of registration shall make a decision to grant renewal before the expiry of the period of validity of the medical device registration certificate. Where no decision is made within the time limit, renewal shall be deemed granted.\nRenewal of registration shall not be granted under any of the following circumstances:\n(a) the application for renewal of registration is not submitted within the prescribed time limit;\n(b) the mandatory standards for medical devices have been revised and the medical device applying for renewal of registration cannot meet the new requirements;\n(c) for a conditionally approved medical device, the matters stated in the medical device registration certificate have not been completed within the prescribed time limit."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter II Product Registration and Record-filing of Medical Devices"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "For a newly developed medical device not yet included in the classification catalogue, the applicant may directly apply for product registration in accordance with the provisions of this Regulation on the registration of Class III medical device products, or may determine the product category in accordance with the classification rules and, after applying to the drug supervision and administration department of the State Council for confirmation of the category, apply for product registration or make product record-filing in accordance with the provisions of this Regulation.\nWhere an application is made directly for registration of a Class III medical device product, the drug supervision and administration department of the State Council shall determine the category according to the degree of risk and promptly include the registered medical device in the classification catalogue. Where confirmation of category is applied for, the drug supervision and administration department of the State Council shall, within 20 working days from the date of acceptance of the application, determine the category of the medical device and inform the applicant."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter II Product Registration and Record-filing of Medical Devices"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Clinical evaluation shall be carried out for the registration and record-filing of medical device products; however, clinical evaluation may be exempted under any of the following circumstances:\n(a) the mechanism of action is clear, the design is finalised, the production process is mature, the same variety of medical device already marketed has been clinically applied for many years without records of serious adverse events, and the conventional use is not changed;\n(b) the safety and effectiveness of the medical device can otherwise be proved through non-clinical evaluation.\nThe drug supervision and administration department of the State Council shall formulate guidelines for the clinical evaluation of medical devices."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter II Product Registration and Record-filing of Medical Devices"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "In carrying out clinical evaluation of medical devices, the safety and effectiveness of medical devices may be proved by conducting clinical trials, or by analysing and evaluating the clinical literature and clinical data of the same variety of medical devices, in light of the product characteristics, clinical risks and available clinical data.\nIn accordance with the provisions of the drug supervision and administration department of the State Council, where the available clinical literature and clinical data are insufficient to confirm the safety and effectiveness of a medical device during clinical evaluation, clinical trials shall be conducted."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter II Product Registration and Record-filing of Medical Devices"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "To conduct clinical trials of medical devices, the requirements of the Good Clinical Practice for Medical Devices shall be followed, the trials shall be conducted in clinical trial institutions with the corresponding conditions, and record-filing shall be made with the drug supervision and administration department of the people's government of the province, autonomous region or municipality directly under the Central Government where the sponsor of the clinical trial is located. The drug supervision and administration department accepting the record-filing of the clinical trial shall notify the drug supervision and administration department at the same level and the competent health department of the place where the clinical trial institution is located of the record-filing.\nClinical trial institutions for medical devices shall be subject to record-filing administration. The conditions to be met by clinical trial institutions for medical devices, the measures for the administration of record-filing and the Good Clinical Practice shall be formulated and published by the drug supervision and administration department of the State Council together with the competent health department of the State Council.\nThe State supports medical institutions in conducting clinical trials, incorporates the evaluation of clinical trial conditions and capacity into the grading review of medical institutions, and encourages medical institutions to conduct clinical trials of innovative medical devices."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter II Product Registration and Record-filing of Medical Devices"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where a clinical trial of a Class III medical device involves relatively high risk to the human body, it shall be subject to approval by the drug supervision and administration department of the State Council. In examining and approving a clinical trial, the drug supervision and administration department of the State Council shall comprehensively analyse the equipment, professional personnel and other conditions of the institution proposed to undertake the clinical trial of the medical device, the degree of risk of the medical device, the clinical trial implementation plan, and the report on the comparative analysis of clinical benefits and risks, and shall make a decision and notify the sponsor of the clinical trial within 60 working days from the date of acceptance of the application. Where no notification is made within the time limit, approval shall be deemed granted. Where the conduct of a clinical trial is approved, the department shall notify the drug supervision and administration department of the people's government of the province, autonomous region or municipality directly under the Central Government and the competent health department of the place where the clinical trial institution is located.\nThe catalogue of Class III medical devices whose clinical trials involve relatively high risk to the human body shall be formulated, adjusted and published by the drug supervision and administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter II Product Registration and Record-filing of Medical Devices"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "To conduct clinical trials of medical devices, ethical review shall be carried out in accordance with provisions, the subjects shall be informed in detail of the purpose and use of the trial and the risks that may arise, and the written informed consent of the subjects shall be obtained; where the subjects are persons without capacity for civil conduct or persons with limited capacity for civil conduct, the written informed consent of their guardians shall be obtained in accordance with law.\nIn conducting clinical trials, no fees relating to the clinical trial may be charged to subjects in any form."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter II Product Registration and Record-filing of Medical Devices"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "For a medical device under clinical trial for the treatment of a disease seriously endangering life for which no effective treatment is yet available, where medical observation indicates that it may benefit patients, it may, after ethical review and informed consent, be used free of charge for other patients with the same condition within the institution conducting the clinical trial of the medical device, and its safety data may be used in the application for registration of the medical device."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter II Product Registration and Record-filing of Medical Devices"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "To engage in the production of medical devices, the following conditions shall be met:\n(a) having production sites, environmental conditions, production equipment and professional and technical personnel suited to the medical devices produced;\n(b) having a body or full-time inspection personnel capable of carrying out quality inspection of the medical devices produced, as well as inspection equipment;\n(c) having management systems ensuring the quality of medical devices;\n(d) having after-sales service capacity suited to the medical devices produced;\n(e) meeting the requirements prescribed in the product research and development and production process documents."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Production of Medical Devices"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "To engage in the production of Class I medical devices, record-filing shall be made with the department of the people's government of the city with districts where the producer is located that is responsible for drug supervision and administration, and record-filing shall be completed upon submission of the relevant materials showing conformity with the conditions provided in Article 30 of this Regulation.\nWhere a medical device record-filing person produces Class I medical devices itself, it may submit the relevant materials showing conformity with the conditions provided in Article 30 of this Regulation together with the product record-filing made in accordance with Article 15 of this Regulation, and production record-filing shall thereby be completed."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Production of Medical Devices"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "To engage in the production of Class II or Class III medical devices, an application for a production licence shall be made to the drug supervision and administration department of the people's government of the province, autonomous region or municipality directly under the Central Government where the producer is located, together with the relevant materials showing conformity with the conditions provided in Article 30 of this Regulation and the registration certificate of the medical devices produced.\nThe drug supervision and administration department accepting an application for a production licence shall review the application materials, carry out verification in accordance with the requirements of the Good Manufacturing Practice for Medical Devices formulated by the drug supervision and administration department of the State Council, and make a decision within 20 working days from the date of acceptance of the application. Where the prescribed conditions are met, a licence shall be granted and a medical device production licence issued; where the prescribed conditions are not met, no licence shall be granted and the reasons shall be explained in writing.\nA medical device production licence shall be valid for 5 years. Where renewal is needed upon expiry of the period of validity, the renewal formalities shall be completed in accordance with the provisions of the laws on administrative licensing."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III Production of Medical Devices"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The Good Manufacturing Practice for Medical Devices shall clearly provide for matters affecting the safety and effectiveness of medical devices, such as the design and development of medical devices, production equipment conditions, procurement of raw materials, production process control, product release, and the organisational structure and staffing of enterprises."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter III Production of Medical Devices"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Medical device registrants and record-filing persons may produce medical devices themselves, or may entrust enterprises conforming to the provisions of this Regulation and possessing the corresponding conditions with the production of medical devices.\nWhere the production of medical devices is entrusted, the medical device registrant or record-filing person shall be responsible for the quality of the medical devices produced under entrustment, strengthen management of the production conduct of the entrusted producer and ensure that it produces in accordance with statutory requirements. The medical device registrant or record-filing person shall conclude an entrustment agreement with the entrusted producer specifying the rights, obligations and liabilities of both parties. The entrusted producer shall organise production in accordance with laws and regulations, the Good Manufacturing Practice for Medical Devices, mandatory standards, product technical requirements and the entrustment agreement, be responsible for its production conduct and accept supervision by the entrusting party.\nHigh-risk implantable medical devices may not be produced under entrustment; the specific catalogue shall be formulated, adjusted and published by the drug supervision and administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter III Production of Medical Devices"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Medical device registrants, record-filing persons and entrusted producers shall, in accordance with the Good Manufacturing Practice for Medical Devices, establish and improve a quality management system suited to the medical devices produced and ensure its effective operation; strictly organise production in accordance with the registered or recorded product technical requirements, and ensure that medical devices leaving the factory conform to the mandatory standards and the registered or recorded product technical requirements.\nMedical device registrants, record-filing persons and entrusted producers shall periodically carry out self-inspection of the operation of the quality management system and submit self-inspection reports in accordance with the provisions of the drug supervision and administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter III Production of Medical Devices"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Where the production conditions of medical devices change and no longer meet the requirements of the medical device quality management system, the medical device registrant, record-filing person or entrusted producer shall immediately take rectification measures; where the safety or effectiveness of medical devices may be affected, production activities shall immediately be stopped and a report shall be made to the original production licensing or production record-filing department."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter III Production of Medical Devices"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Medical devices shall use generic names. Generic names shall conform to the naming rules for medical devices formulated by the drug supervision and administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter III Production of Medical Devices"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "The State shall, according to the categories of medical device products, implement the unique identification system for medical devices in stages so as to achieve traceability of medical devices; the specific measures shall be formulated by the drug supervision and administration department of the State Council together with the relevant departments of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter III Production of Medical Devices"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Medical devices shall have instructions and labels. The content of the instructions and labels shall be consistent with the relevant content registered or recorded, and shall be true and accurate.\nThe instructions and labels of medical devices shall state the following matters:\n(a) the generic name, model and specifications;\n(b) the names, addresses and contact details of the medical device registrant, record-filing person and entrusted producer;\n(c) the date of production, the period of use or the expiry date;\n(d) the product performance, main structure and scope of application;\n(e) contraindications, precautions and other content requiring warning or reminder;\n(f) installation and use instructions or illustrations;\n(g) maintenance and servicing methods, and special conditions and methods for transport and storage;\n(h) other content required to be stated by the product technical requirements.\nClass II and Class III medical devices shall also state the number of the medical device registration certificate.\nMedical devices for personal use by consumers shall also have special instructions for safe use."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter III Production of Medical Devices"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "To engage in the sale of medical devices, there shall be business premises and storage conditions suited to the scale and scope of business, as well as quality management systems and quality management bodies or personnel suited to the medical devices sold."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter IV Sale and Use of Medical Devices"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "To engage in the sale of Class II medical devices, the selling enterprise shall make record-filing with the department of the people's government of the city with districts where it is located that is responsible for drug supervision and administration and submit the relevant materials showing conformity with the conditions provided in Article 40 of this Regulation.\nIn accordance with the provisions of the drug supervision and administration department of the State Council, Class II medical devices whose safety and effectiveness are not affected by the circulation process may be exempted from sale record-filing."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IV Sale and Use of Medical Devices"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "To engage in the sale of Class III medical devices, the selling enterprise shall apply to the department of the people's government of the city with districts where it is located that is responsible for drug supervision and administration for a sale licence and submit the relevant materials showing conformity with the conditions provided in Article 40 of this Regulation.\nThe department responsible for drug supervision and administration accepting an application for a sale licence shall review the application materials, organise verification when necessary, and make a decision within 20 working days from the date of acceptance of the application. Where the prescribed conditions are met, a licence shall be granted and a medical device sale licence issued; where the prescribed conditions are not met, no licence shall be granted and the reasons shall be explained in writing.\nA medical device sale licence shall be valid for 5 years. Where renewal is needed upon expiry of the period of validity, the renewal formalities shall be completed in accordance with the provisions of the laws on administrative licensing."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter IV Sale and Use of Medical Devices"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where a medical device registrant or record-filing person sells the medical devices it has registered or recorded, it need not obtain a medical device sale licence or make record-filing, but shall meet the sale conditions provided in this Regulation."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter IV Sale and Use of Medical Devices"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "To engage in the sale of medical devices, a quality management system suited to the medical devices sold shall be established and improved and its effective operation ensured, in accordance with laws and regulations and the requirements of the Good Distribution Practice for Medical Devices formulated by the drug supervision and administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter IV Sale and Use of Medical Devices"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Medical device selling enterprises and user units shall purchase medical devices from medical device registrants, record-filing persons and production and sale enterprises possessing lawful qualifications. When purchasing medical devices, they shall verify the qualifications of the supplier and the conformity certification documents of the medical devices, and establish a purchase verification record system. Enterprises engaged in the wholesale of Class II and Class III medical devices and in the retail of Class III medical devices shall also establish a sale record system.\nThe recorded matters shall include:\n(a) the name, model, specifications and quantity of the medical device;\n(b) the production batch number, period of use or expiry date, and date of sale of the medical device;\n(c) the names of the medical device registrant, record-filing person and entrusted producer;\n(d) the name, address and contact details of the supplier or purchaser;\n(e) the numbers of the relevant licence certification documents, etc.\nPurchase verification records and sale records shall be true, accurate, complete and traceable, and shall be kept for the time limit prescribed by the drug supervision and administration department of the State Council. The State encourages the use of advanced technical means for record-keeping."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter IV Sale and Use of Medical Devices"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Persons engaged in the online sale of medical devices shall be medical device registrants, record-filing persons or medical device selling enterprises. Operators engaged in the online sale of medical devices shall inform the department of the people's government of the city with districts where they are located that is responsible for drug supervision and administration of the relevant information on their online sale of medical devices, except where they sell Class I medical devices or the Class II medical devices provided in paragraph 2 of Article 41 of this Regulation.\nE-commerce platform operators providing services for online medical device transactions shall carry out real-name registration of the medical device operators on their platforms, review their sale licences, record-filing status and the registration and record-filing status of the medical device products they sell, and manage their business conduct. Where an e-commerce platform operator finds that a medical device operator on its platform has committed an act violating the provisions of this Regulation, it shall promptly stop it and immediately report to the department of the people's government of the city with districts where the medical device operator is located that is responsible for drug supervision and administration; where it finds a serious unlawful act, it shall immediately stop providing online trading platform services."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter IV Sale and Use of Medical Devices"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "The transport and storage of medical devices shall conform to the requirements indicated in the instructions and labels of the medical devices; where there are special requirements for environmental conditions such as temperature and humidity, corresponding measures shall be taken to ensure the safety and effectiveness of the medical devices."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter IV Sale and Use of Medical Devices"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Medical device user units shall have storage premises and conditions suited to the varieties and quantities of the medical devices in use. Medical device user units shall strengthen technical training for their staff members and use medical devices in accordance with the requirements of the product instructions and technical operating rules.\nWhere a medical device user unit is equipped with large medical equipment, it shall conform to the allocation plan for large medical equipment formulated by the competent health department of the State Council, be suited to its functional positioning and clinical service needs, possess the corresponding technical conditions, supporting facilities and professional and technical personnel with the corresponding qualifications and capabilities, and shall have obtained approval from the competent health department of the people's government at or above the provincial level and obtained a licence for the allocation of large medical equipment.\nThe measures for the administration of the allocation of large medical equipment shall be formulated by the competent health department of the State Council together with the relevant departments of the State Council. The catalogue of large medical equipment shall be proposed by the competent health department of the State Council after consultation with the relevant departments of the State Council and shall be implemented after approval by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter IV Sale and Use of Medical Devices"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "For reusable medical devices, medical device user units shall handle them in accordance with the provisions on disinfection and management formulated by the competent health department of the State Council.\nSingle-use medical devices may not be reused, and those used shall be destroyed and recorded in accordance with the relevant provisions of the State. The catalogue of single-use medical devices shall be formulated, adjusted and published by the drug supervision and administration department of the State Council together with the competent health department of the State Council. Inclusion in the catalogue of single-use medical devices shall be based on sufficient evidence and reasons that reuse is impossible. Medical devices whose safety and effectiveness can be ensured upon reuse shall not be included in the catalogue of single-use medical devices. For medical devices whose safety and effectiveness upon reuse can be ensured after improvements in design, production process, disinfection and sterilisation technology and the like, they shall be adjusted out of the catalogue of single-use medical devices and reuse shall be permitted."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter IV Sale and Use of Medical Devices"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "For medical devices requiring periodic inspection, testing, calibration, upkeep and maintenance, medical device user units shall carry out inspection, testing, calibration, upkeep and maintenance in accordance with the requirements of the product instructions and keep records, promptly carry out analysis and assessment, ensure that the medical devices are in good condition and safeguard the quality of use; for large medical devices with a long period of use, a use file shall be established for each unit, recording matters such as its use, maintenance, transfer and actual time of use. The retention period of records shall be not less than 5 years after the end of the prescribed period of use of the medical device."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter IV Sale and Use of Medical Devices"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Medical device user units shall properly keep the original materials of purchased Class III medical devices and ensure that the information is traceable.\nWhere large medical devices and implantable and interventional medical devices are used, information such as the name and key technical parameters of the medical devices and the necessary information closely related to the quality and safety of use shall be recorded in medical records and other relevant records."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter IV Sale and Use of Medical Devices"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where a hidden safety hazard is found in a medical device in use, the medical device user unit shall immediately stop using it and notify the medical device registrant, record-filing person or other body responsible for product quality to carry out servicing; medical devices that still fail to meet the safety standards for use after servicing may not continue to be used."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter IV Sale and Use of Medical Devices"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "For in vitro diagnostic reagents for which no product of the same variety is yet marketed domestically, medical institutions meeting the conditions may, in light of their own clinical needs, develop them on their own and use them within their own institutions under the guidance of practising physicians. The specific administrative measures shall be formulated by the drug supervision and administration department of the State Council together with the competent health department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter IV Sale and Use of Medical Devices"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "The departments responsible for drug supervision and administration and the competent health departments shall, in accordance with their respective duties, supervise and administer respectively the quality of medical devices at the stage of use and the conduct of use of medical devices."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter IV Sale and Use of Medical Devices"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Medical device selling enterprises and user units may not sell or use medical devices that have not been registered or recorded in accordance with law, that have no conformity certification documents, or that are expired, ineffective or eliminated."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter IV Sale and Use of Medical Devices"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where medical devices in use are transferred between medical device user units, the transferor shall ensure the safety and effectiveness of the medical devices transferred, and may not transfer medical devices that are expired, ineffective, eliminated or that fail inspection."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter IV Sale and Use of Medical Devices"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Imported medical devices shall be medical devices that have been registered or recorded in accordance with the provisions of Chapter II of this Regulation.\nImported medical devices shall have Chinese instructions and Chinese labels. The instructions and labels shall conform to the provisions of this Regulation and the requirements of the relevant mandatory standards, and the instructions shall state the place of origin of the medical device and the name, address and contact details of the enterprise legal person within China designated by the overseas medical device registrant or record-filing person. Medical devices without Chinese instructions or Chinese labels, or whose instructions or labels do not conform to the provisions of this Article, may not be imported.\nWhere a medical institution urgently needs to import a small quantity of Class II or Class III medical devices for clinical purposes, it may import them upon approval by the drug supervision and administration department of the State Council or by the people's government of the province, autonomous region or municipality directly under the Central Government authorised by the State Council. The imported medical devices shall be used for specific medical purposes within the designated medical institution.\nThe import of expired, ineffective, eliminated or other used medical devices is prohibited."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter IV Sale and Use of Medical Devices"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Entry-exit inspection and quarantine institutions shall carry out inspection of imported medical devices in accordance with law; those failing inspection may not be imported.\nThe drug supervision and administration department of the State Council shall promptly notify the State entry-exit inspection and quarantine department of the registration and record-filing of imported medical devices. The entry-exit inspection and quarantine institution of the place where the port of entry is located shall promptly notify the department of the people's government of the city with districts where it is located that is responsible for drug supervision and administration of the customs clearance of imported medical devices."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter IV Sale and Use of Medical Devices"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Enterprises exporting medical devices shall ensure that the medical devices they export meet the requirements of the importing country (region)."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter IV Sale and Use of Medical Devices"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "The content of medical device advertisements shall be true and lawful, shall be based on the instructions of the medical devices registered or recorded with the department responsible for drug supervision and administration, and may not contain false, exaggerated or misleading content.\nBefore a medical device advertisement is published, the content of the advertisement shall be reviewed by the advertisement review organ designated by the people's government of the province, autonomous region or municipality directly under the Central Government, and an approval number for the medical device advertisement shall be obtained; without review, it may not be published.\nWhere the drug supervision and administration department of a people's government at or above the provincial level orders the suspension of production, import, sale and use of a medical device, no advertisement relating to that medical device may be published during the period of suspension.\nThe measures for the review of medical device advertisements shall be formulated by the market supervision and administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter IV Sale and Use of Medical Devices"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "The State shall establish a monitoring system for adverse events of medical devices, and promptly collect, analyse, evaluate and control adverse events of medical devices."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter V Handling of Adverse Events and Recall of Medical Devices"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Medical device registrants and record-filing persons shall establish a monitoring system for adverse events of medical devices, be staffed with adverse event monitoring bodies and personnel suited to their products, proactively carry out adverse event monitoring of their products, and report to the technical institution for monitoring adverse events of medical devices, in accordance with the provisions of the drug supervision and administration department of the State Council, on investigation, analysis, evaluation and product risk control.\nMedical device production and sale enterprises and user units shall assist medical device registrants and record-filing persons in carrying out adverse event monitoring of the medical devices they produce, sell or use; where they discover adverse events or suspected adverse events of medical devices, they shall report to the technical institution for monitoring adverse events of medical devices in accordance with the provisions of the drug supervision and administration department of the State Council.\nOther units and individuals that discover adverse events or suspected adverse events of medical devices shall have the right to report to the department responsible for drug supervision and administration or to the technical institution for monitoring adverse events of medical devices."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter V Handling of Adverse Events and Recall of Medical Devices"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "The drug supervision and administration department of the State Council shall strengthen the development of the information network for monitoring adverse events of medical devices.\nThe technical institution for monitoring adverse events of medical devices shall strengthen the monitoring of information on adverse events of medical devices and proactively collect information on adverse events; upon discovering an adverse event or receiving a report of an adverse event, it shall promptly verify it and, when necessary, carry out investigation, analysis and assessment, report to the department responsible for drug supervision and administration and the competent health department and put forward suggestions for handling.\nThe technical institution for monitoring adverse events of medical devices shall publish its contact details to facilitate the reporting of adverse events of medical devices by medical device registrants, record-filing persons, production and sale enterprises, user units and others."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter V Handling of Adverse Events and Recall of Medical Devices"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "The departments responsible for drug supervision and administration shall, on the basis of the assessment results of adverse events of medical devices, promptly take control measures such as issuing warning information and ordering suspension of production, import, sale and use.\nThe drug supervision and administration departments of people's governments at or above the provincial level shall, together with the competent health departments at the same level and the relevant departments, organise prompt investigation and handling of adverse events of medical devices that cause sudden or clustered serious injury or death, and organise strengthened monitoring of medical devices of the same type.\nThe departments responsible for drug supervision and administration shall promptly notify the competent health departments at the same level of the circumstances of adverse event monitoring by medical device user units."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter V Handling of Adverse Events and Recall of Medical Devices"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Medical device registrants, record-filing persons, production and sale enterprises and user units shall cooperate with the investigations of adverse events of medical devices carried out by the technical institution for monitoring adverse events of medical devices, the departments responsible for drug supervision and administration and the competent health departments."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter V Handling of Adverse Events and Recall of Medical Devices"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Under any of the following circumstances, a medical device registrant or record-filing person shall proactively carry out re-evaluation of a marketed medical device:\n(a) in light of the development of scientific research, there is a change in the understanding of the safety and effectiveness of the medical device;\n(b) the results of monitoring and assessment of adverse events of medical devices indicate that the medical device may be defective;\n(c) other circumstances prescribed by the drug supervision and administration department of the State Council.\nMedical device registrants and record-filing persons shall, on the basis of the re-evaluation results, take corresponding control measures, improve the marketed medical devices and carry out modification of registration or modification of record-filing in accordance with provisions. Where the re-evaluation results indicate that a marketed medical device cannot be guaranteed to be safe and effective, the medical device registrant or record-filing person shall proactively apply for cancellation of the medical device registration certificate or cancellation of the record-filing; where the medical device registrant or record-filing person fails to apply for cancellation of the medical device registration certificate or cancellation of the record-filing, the department responsible for drug supervision and administration shall cancel the medical device registration certificate or cancel the record-filing.\nThe drug supervision and administration departments of people's governments at or above the provincial level shall, in light of the circumstances of monitoring and assessment of adverse events of medical devices, carry out re-evaluation of marketed medical devices. Where the re-evaluation results indicate that a marketed medical device cannot be guaranteed to be safe and effective, the medical device registration certificate shall be cancelled or the record-filing cancelled.\nThe departments responsible for drug supervision and administration shall promptly publish to society the circumstances of cancellation of medical device registration certificates and cancellation of record-filing. Medical devices whose registration certificates have been cancelled or whose record-filing has been cancelled may not continue to be produced, imported, sold or used."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter V Handling of Adverse Events and Recall of Medical Devices"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Where a medical device registrant or record-filing person finds that a medical device produced does not conform to the mandatory standards or the registered or recorded product technical requirements, or has other defects, it shall immediately stop production, notify the relevant selling enterprises, user units and consumers to stop selling and using it, recall the medical devices already marketed, take measures such as remediation and destruction, record the relevant circumstances, publish the relevant information, and report the circumstances of the recall and handling of the medical devices to the department responsible for drug supervision and administration and the competent health department.\nWhere an entrusted producer or selling enterprise of medical devices finds that a medical device produced or sold falls under the circumstances provided in the preceding paragraph, it shall immediately stop production or sale, notify the medical device registrant or record-filing person, and record the circumstances of the cessation of production or sale and of the notification. Where the medical device registrant or record-filing person considers that it is a medical device requiring recall in accordance with the preceding paragraph, it shall immediately recall it.\nWhere a medical device registrant, record-filing person, entrusted producer or selling enterprise fails to carry out recall or stop production or sale in accordance with the provisions of this Article, the department responsible for drug supervision and administration may order it to recall or to stop production or sale."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter V Handling of Adverse Events and Recall of Medical Devices"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "The State shall establish a system of professionalised and specialised inspectors and strengthen supervision and inspection of medical devices."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "The departments responsible for drug supervision and administration shall strengthen supervision and inspection of the research and development, production and sale of medical devices and the quality of medical devices at the stage of use, and shall carry out priority supervision and inspection of the following matters:\n(a) whether production is organised in accordance with the registered or recorded product technical requirements;\n(b) whether the quality management system maintains effective operation;\n(c) whether the production and sale conditions continuously meet the statutory requirements.\nWhen necessary, the departments responsible for drug supervision and administration may carry out extended inspection of other relevant units and individuals that provide products or services for the research and development, production, sale and use of medical devices."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "The departments responsible for drug supervision and administration shall have the following functions and powers in supervision and inspection:\n(a) to enter the site to carry out inspection and take samples;\n(b) to consult, copy, seal up or distrain the relevant contracts, bills, account books and other relevant materials;\n(c) to seal up or distrain medical devices not conforming to statutory requirements, unlawfully used spare parts and raw materials, and tools and equipment used for the unlawful production or sale of medical devices;\n(d) to seal up premises where activities of production or sale of medical devices are carried out in violation of the provisions of this Regulation.\nWhen carrying out supervision and inspection, law enforcement documents shall be presented and the commercial secrets of the unit inspected shall be kept confidential.\nThe relevant units and individuals shall cooperate with supervision and inspection, provide the relevant documents and materials, and may not conceal, refuse or obstruct."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "The competent health departments shall strengthen supervision and inspection of the conduct of medical institutions in using medical devices. When carrying out supervision and inspection, they may enter medical institutions to consult and copy the relevant files, records and other relevant materials."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "Where hidden hazards to product quality and safety exist in the course of the production or sale of medical devices and measures have not been promptly taken to eliminate them, the department responsible for drug supervision and administration may take measures such as admonishment, accountability interviews and ordering rectification within a time limit.\nFor medical devices that have caused harm to the human body or in respect of which evidence proves that they may endanger human health, the department responsible for drug supervision and administration may take urgent control measures such as ordering suspension of production, import, sale and use, and issue safety warning information."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "The departments responsible for drug supervision and administration shall strengthen sampling inspection of the medical devices produced, sold and used by medical device registrants, record-filing persons, production and sale enterprises and user units. No inspection fees or any other fees may be charged for sampling inspection, and the required expenses shall be included in the budget of the government at the corresponding level. The drug supervision and administration departments of people's governments at or above the provincial level shall promptly publish medical device quality announcements on the basis of the conclusions of sampling inspection.\nThe competent health departments shall supervise and assess the use of large medical equipment; where they find irregular use or excessive examination or excessive treatment relating to large medical equipment, they shall immediately correct it and deal with it in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "Where a department responsible for drug supervision and administration fails to promptly discover systemic risks to the safety of medical devices, or fails to promptly eliminate hidden hazards to the safety of medical devices within the area under its supervision and administration, the people's government at the corresponding level or the department responsible for drug supervision and administration of the people's government at a higher level shall conduct an accountability interview with its principal person in charge.\nWhere a local people's government fails to perform its duties for the safety of medical devices, or fails to promptly eliminate major regional hidden hazards to the safety of medical devices, the people's government at a higher level or the department responsible for drug supervision and administration of the people's government at a higher level shall conduct an accountability interview with its principal person in charge.\nThe departments and local people's governments subjected to an accountability interview shall immediately take measures to rectify the supervision and administration of medical devices."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "The accreditation of the qualifications of medical device testing institutions shall be subject to unified management in accordance with the relevant provisions of the State. Only testing institutions accredited by the certification and accreditation supervision and administration department of the State Council together with the drug supervision and administration department of the State Council may carry out testing of medical devices.\nWhere a department responsible for drug supervision and administration needs to test medical devices in law enforcement work, it shall commission a qualified medical device testing institution and pay the relevant fees.\nWhere a party has objections to a testing conclusion, it may, within 7 working days from the date of receipt of the testing conclusion, apply for re-testing to the department that carried out the sampling inspection or to the department responsible for drug supervision and administration at the next higher level, and the department accepting the re-testing application shall randomly determine a re-testing institution from the list of re-testing institutions to carry out the re-testing. The medical device testing institution undertaking the re-testing shall make a re-testing conclusion within the time prescribed by the drug supervision and administration department of the State Council. The re-testing conclusion shall be the final testing conclusion. The re-testing institution and the initial testing institution may not be the same institution; where only one qualified testing institution exists for the relevant testing items, the department or personnel undertaking the matter shall be changed for the re-testing. The list of re-testing institutions shall be published by the drug supervision and administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "For medical devices that may contain harmful substances, or in respect of which the design, raw materials or production process have been altered without authorisation and hidden safety hazards exist, and which cannot be tested according to the testing items and testing methods provided in the national or industry standards for medical devices, medical device testing institutions may use supplementary testing items and testing methods approved by the drug supervision and administration department of the State Council for testing; testing conclusions obtained using supplementary testing items and testing methods may serve as the basis for the departments responsible for drug supervision and administration to determine the quality of medical devices."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "The market supervision and administration departments shall, in accordance with the provisions of the laws and administrative regulations on advertisement management, carry out supervision and inspection of medical device advertisements and investigate and deal with unlawful acts."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "The departments responsible for drug supervision and administration shall, through the online government service platform of the drug supervision and administration department of the State Council, lawfully and promptly publish routine supervision and administration information such as medical device licensing, record-filing, sampling inspection and the investigation and handling of unlawful acts. However, the commercial secrets of the parties may not be disclosed.\nThe departments responsible for drug supervision and administration shall establish credit files for medical device registrants, record-filing persons, production and sale enterprises and user units, increase the frequency of supervision and inspection for those with adverse credit records, and strengthen penalties for dishonesty in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "The departments responsible for drug supervision and administration and other departments shall publish their contact details and accept consultations, complaints and reports. Upon receiving a consultation relating to the supervision and administration of medical devices, the departments responsible for drug supervision and administration and other departments shall promptly reply; upon receiving a complaint or report, they shall promptly verify, handle and reply. The circumstances of consultations, complaints and reports and the circumstances of the replies, verification and handling shall be recorded and preserved.\nWhere a report on the conduct of research and development, production, sale or use of medical devices is verified to be true through investigation, the departments responsible for drug supervision and administration and other departments shall reward the reporter. The relevant departments shall keep the reporter confidential."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "Where the drug supervision and administration department of the State Council formulates, adjusts or modifies the catalogues provided in this Regulation and the norms relating to the supervision and administration of medical devices, it shall publicly solicit opinions; it shall adopt forms such as hearings and demonstration meetings to listen to the opinions of experts, medical device registrants, record-filing persons, production and sale enterprises, user units, consumers, industry associations and the relevant organisations."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "Under any of the following circumstances, the department responsible for drug supervision and administration shall confiscate the illegal gains, the unlawfully produced or sold medical devices and the tools, equipment, raw materials and other articles used for unlawful production or sale; where the value of the unlawfully produced or sold medical devices is less than 10,000 yuan, a fine of not less than 50,000 yuan but not more than 150,000 yuan shall also be imposed; where the value is 10,000 yuan or more, a fine of not less than 15 times but not more than 30 times the value shall also be imposed; where the circumstances are serious, order suspension of production or business, and no application for a medical device licence filed by the responsible persons or the unit shall be accepted within 10 years, and, in respect of the legal representative, principal person in charge, persons directly in charge and other responsible persons of the unlawful unit, confiscate the income obtained from the unit during the period in which the unlawful act occurred and impose a fine of not less than 30 per cent of that income but not more than 3 times that income, and permanently prohibit them from engaging in the production or sale of medical devices:\n(a) producing or selling Class II or Class III medical devices for which no medical device registration certificate has been obtained;\n(b) engaging in the production of Class II or Class III medical devices without a licence;\n(c) engaging in the sale of Class III medical devices without a licence.\nWhere the circumstances of item (a) of the preceding paragraph are serious, the original issuing department shall revoke the medical device production licence or the medical device sale licence."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "Where a person allocates or uses large medical equipment without authorisation and without a licence, the competent health department of the people's government at or above the county level shall order cessation of use, give a warning and confiscate the illegal gains; where the illegal gains are less than 10,000 yuan, a fine of not less than 50,000 yuan but not more than 100,000 yuan shall also be imposed; where the illegal gains are 10,000 yuan or more, a fine of not less than 10 times but not more than 30 times the illegal gains shall also be imposed; where the circumstances are serious, no application for a licence for the allocation of large medical equipment filed by the responsible persons or the unit shall be accepted within 5 years, and, in respect of the legal representative, principal person in charge, persons directly in charge and other responsible persons of the unlawful unit, confiscate the income obtained from the unit during the period in which the unlawful act occurred and impose a fine of not less than 30 per cent of that income but not more than 3 times that income, and impose a sanction in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "Where false materials are provided or other deceptive means are adopted in applying for an administrative licence for medical devices, the administrative licence shall not be granted; where the administrative licence has already been obtained, the department that made the decision on the administrative licence shall revoke the administrative licence, confiscate the illegal gains and the unlawfully produced, sold or used medical devices, and no application for a medical device licence filed by the responsible persons or the unit shall be accepted within 10 years; where the value of the unlawfully produced, sold or used medical devices is less than 10,000 yuan, a fine of not less than 50,000 yuan but not more than 150,000 yuan shall also be imposed; where the value is 10,000 yuan or more, a fine of not less than 15 times but not more than 30 times the value shall also be imposed; where the circumstances are serious, order suspension of production or business, and, in respect of the legal representative, principal person in charge, persons directly in charge and other responsible persons of the unlawful unit, confiscate the income obtained from the unit during the period in which the unlawful act occurred and impose a fine of not less than 30 per cent of that income but not more than 3 times that income, and permanently prohibit them from engaging in the production or sale of medical devices.\nWhere the relevant medical device licence certificates are forged, altered, bought, sold, leased or lent, the original issuing department shall seize or revoke them and confiscate the illegal gains; where the illegal gains are less than 10,000 yuan, a fine of not less than 50,000 yuan but not more than 100,000 yuan shall also be imposed; where the illegal gains are 10,000 yuan or more, a fine of not less than 10 times but not more than 20 times the illegal gains shall also be imposed; where an act violating public security administration is constituted, the public security organ shall impose a public security administration penalty in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "Under any of the following circumstances, the department responsible for drug supervision and administration shall publish to society the name of the unit and the product, and order correction within a time limit; where correction is not made on expiry of the time limit, confiscate the illegal gains and the unlawfully produced or sold medical devices; where the value of the unlawfully produced or sold medical devices is less than 10,000 yuan, a fine of not less than 10,000 yuan but not more than 50,000 yuan shall also be imposed; where the value is 10,000 yuan or more, a fine of not less than 5 times but not more than 20 times the value shall also be imposed; where the circumstances are serious, in respect of the legal representative, principal person in charge, persons directly in charge and other responsible persons of the unlawful unit, confiscate the income obtained from the unit during the period in which the unlawful act occurred and impose a fine of not less than 30 per cent of that income but not more than 2 times that income, and prohibit them from engaging in the production or sale of medical devices within 5 years:\n(a) producing or selling Class I medical devices that have not been recorded;\n(b) engaging in the production of Class I medical devices without record-filing;\n(c) selling Class II medical devices for which record-filing is required but has not been made;\n(d) the materials already recorded do not meet the requirements."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "Where false materials are provided at the time of record-filing, the department responsible for drug supervision and administration shall publish to society the name of the record-filing unit and the product, confiscate the illegal gains and the unlawfully produced or sold medical devices; where the value of the unlawfully produced or sold medical devices is less than 10,000 yuan, a fine of not less than 20,000 yuan but not more than 50,000 yuan shall also be imposed; where the value is 10,000 yuan or more, a fine of not less than 5 times but not more than 20 times the value shall also be imposed; where the circumstances are serious, order suspension of production or business, and, in respect of the legal representative, principal person in charge, persons directly in charge and other responsible persons of the unlawful unit, confiscate the income obtained from the unit during the period in which the unlawful act occurred and impose a fine of not less than 30 per cent of that income but not more than 3 times that income, and prohibit them from engaging in the production or sale of medical devices within 10 years."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "Under any of the following circumstances, the department responsible for drug supervision and administration shall order correction and confiscate the unlawfully produced, sold or used medical devices; where the value of the unlawfully produced, sold or used medical devices is less than 10,000 yuan, a fine of not less than 20,000 yuan but not more than 50,000 yuan shall also be imposed; where the value is 10,000 yuan or more, a fine of not less than 5 times but not more than 20 times the value shall also be imposed; where the circumstances are serious, order suspension of production or business and, until the original issuing department revokes the medical device registration certificate, medical device production licence or medical device sale licence, in respect of the legal representative, principal person in charge, persons directly in charge and other responsible persons of the unlawful unit, confiscate the income obtained from the unit during the period in which the unlawful act occurred and impose a fine of not less than 30 per cent of that income but not more than 3 times that income, and prohibit them from engaging in the production or sale of medical devices within 10 years:\n(a) producing, selling or using medical devices that do not conform to the mandatory standards or do not conform to the registered or recorded product technical requirements;\n(b) failing to organise production in accordance with the registered or recorded product technical requirements, or failing to establish a quality management system and maintain its effective operation in accordance with the provisions of this Regulation, thereby affecting the safety or effectiveness of the product;\n(c) selling or using medical devices without conformity certification documents, or that are expired, ineffective or eliminated, or using medical devices not registered in accordance with law;\n(d) still refusing to recall after the department responsible for drug supervision and administration orders a recall, or still refusing to stop producing, importing or selling medical devices after the department responsible for drug supervision and administration orders cessation or suspension of production, import or sale;\n(e) entrusting an enterprise that does not meet the conditions provided in this Regulation with the production of medical devices, or failing to manage the production conduct of the entrusted producer;\n(f) importing expired, ineffective, eliminated or other used medical devices."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "Where a medical device selling enterprise or user unit has performed the obligations such as purchase verification provided in this Regulation, has sufficient evidence to prove that it did not know that the medical devices sold or used were medical devices under the circumstances provided in item (a) of paragraph 1 of Article 81, item (a) of Article 84, and items (a) and (c) of Article 86 of this Regulation, and can truthfully explain the source of its purchase, the medical devices not conforming to statutory requirements that it sold or used shall be seized, and the administrative penalty may be exempted."
+        },
+        "noLabel": {
+          "en": "Article 87."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "Under any of the following circumstances, the department responsible for drug supervision and administration shall order correction and impose a fine of not less than 10,000 yuan but not more than 50,000 yuan; where correction is refused, impose a fine of not less than 50,000 yuan but not more than 100,000 yuan; where the circumstances are serious, order suspension of production or business and, until the original issuing department revokes the medical device production licence or medical device sale licence, in respect of the legal representative, principal person in charge, persons directly in charge and other responsible persons of the unlawful unit, confiscate the income obtained from the unit during the period in which the unlawful act occurred and impose a fine of not less than 30 per cent of that income but not more than 2 times that income, and prohibit them from engaging in the production or sale of medical devices within 5 years:\n(a) where production conditions change and no longer meet the requirements of the medical device quality management system, failing to rectify, stop production or report in accordance with the provisions of this Regulation;\n(b) producing or selling medical devices whose instructions or labels do not conform to the provisions of this Regulation;\n(c) failing to transport or store medical devices in accordance with the requirements indicated in the instructions and labels of the medical devices;\n(d) transferring expired, ineffective, eliminated or inspection-failing medical devices in use."
+        },
+        "noLabel": {
+          "en": "Article 88."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "Under any of the following circumstances, the department responsible for drug supervision and administration and the competent health department shall, in accordance with their respective duties, order correction and give a warning; where correction is refused, impose a fine of not less than 10,000 yuan but not more than 100,000 yuan; where the circumstances are serious, order suspension of production or business and, until the original issuing department revokes the medical device registration certificate, medical device production licence or medical device sale licence, impose a fine of not less than 10,000 yuan but not more than 30,000 yuan on the legal representative, principal person in charge, persons directly in charge and other responsible persons of the unlawful unit:\n(a) failing to submit a self-inspection report on the quality management system as required;\n(b) purchasing medical devices from suppliers without lawful qualifications;\n(c) medical device selling enterprises or user units failing to establish and implement a purchase verification record system for medical devices in accordance with the provisions of this Regulation;\n(d) enterprises engaged in the wholesale of Class II and Class III medical devices and in the retail of Class III medical devices failing to establish and implement a sale record system in accordance with the provisions of this Regulation;\n(e) medical device registrants, record-filing persons, production and sale enterprises or user units failing to carry out adverse event monitoring of medical devices in accordance with the provisions of this Regulation, failing to report adverse events as required, or failing to cooperate with the adverse event investigations carried out by the technical institution for monitoring adverse events of medical devices, the departments responsible for drug supervision and administration or the competent health departments;\n(f) medical device registrants or record-filing persons failing to formulate post-marketing research and risk control plans and ensure their effective implementation in accordance with provisions;\n(g) medical device registrants or record-filing persons failing to establish and implement a product traceability system in accordance with provisions;\n(h) medical device registrants, record-filing persons or selling enterprises engaging in the online sale of medical devices without informing the departments responsible for drug supervision and administration in accordance with provisions;\n(i) for medical devices requiring periodic inspection, testing, calibration, upkeep and maintenance, medical device user units failing to carry out inspection, testing, calibration, upkeep and maintenance in accordance with the requirements of the product instructions and keep records, and to promptly carry out analysis and assessment, so as to ensure that the medical devices are in good condition;\n(j) medical device user units failing to properly keep the original materials of purchased Class III medical devices."
+        },
+        "noLabel": {
+          "en": "Article 89."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 90,
+        "text": {
+          "en": "Under any of the following circumstances, the competent health department of the people's government at or above the county level shall order correction and give a warning; where correction is refused, impose a fine of not less than 50,000 yuan but not more than 100,000 yuan; where the circumstances are serious, impose a fine of not less than 100,000 yuan but not more than 300,000 yuan, order suspension of the relevant medical device use activities and, until the original issuing department revokes the practice licence, order the responsible persons in accordance with law to suspend practice for not less than 6 months but not more than 1 year and, until the original issuing department revokes the practice certificates of the relevant personnel, in respect of the legal representative, principal person in charge, persons directly in charge and other responsible persons of the unlawful unit, confiscate the income obtained from the unit during the period in which the unlawful act occurred and impose a fine of not less than 30 per cent of that income but not more than 3 times that income, and impose a sanction in accordance with law:\n(a) for reusable medical devices, medical device user units failing to handle them in accordance with the provisions on disinfection and management;\n(b) medical device user units reusing single-use medical devices, or failing to destroy used single-use medical devices in accordance with provisions;\n(c) medical device user units failing to record the information of large medical devices and implantable and interventional medical devices in medical records and other relevant records in accordance with provisions;\n(d) medical device user units failing, upon discovering a hidden safety hazard in a medical device in use, to immediately stop using it and notify for servicing, or continuing to use a medical device that still fails to meet the safety standards for use after servicing;\n(e) medical device user units irregularly using large medical equipment and failing to ensure the quality and safety of medical treatment."
+        },
+        "noLabel": {
+          "en": "Article 90."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 91,
+        "text": {
+          "en": "Where medical devices are imported in violation of the laws and administrative regulations relating to the inspection of import and export commodities, the entry-exit inspection and quarantine institutions shall deal with the matter in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 91."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 92,
+        "text": {
+          "en": "Where an e-commerce platform operator providing services for online medical device transactions violates the provisions of this Regulation and fails to perform management obligations such as carrying out real-name registration of medical device operators on its platform, reviewing their licensing, registration and record-filing status, stopping and reporting unlawful acts, and ceasing to provide online trading platform services, the department responsible for drug supervision and administration shall impose a penalty in accordance with the provisions of the E-commerce Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 92."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 93,
+        "text": {
+          "en": "Where a clinical trial is carried out without record-filing of the medical device clinical trial institution, the department responsible for drug supervision and administration shall order cessation of the clinical trial and correction; where correction is refused, the clinical trial data may not be used for product registration or record-filing, a fine of not less than 50,000 yuan but not more than 100,000 yuan shall be imposed, and an announcement shall be made to society; where serious consequences are caused, the institution shall be prohibited from carrying out clinical trials of medical devices in the relevant specialty within 5 years, a fine of not less than 100,000 yuan but not more than 300,000 yuan shall also be imposed, and the competent health department shall, in respect of the legal representative, principal person in charge, persons directly in charge and other responsible persons of the unlawful unit, confiscate the income obtained from the unit during the period in which the unlawful act occurred and impose a fine of not less than 30 per cent of that income but not more than 3 times that income, and impose a sanction in accordance with law.\nWhere the sponsor of a clinical trial carries out a clinical trial without record-filing, the department responsible for drug supervision and administration shall order cessation of the clinical trial, impose a fine of not less than 50,000 yuan but not more than 100,000 yuan on the sponsor and make an announcement to society; where serious consequences are caused, a fine of not less than 100,000 yuan but not more than 300,000 yuan shall be imposed. The clinical trial data may not be used for product registration or record-filing, and no application for medical device registration filed by the responsible persons or the unit shall be accepted within 5 years.\nWhere the sponsor of a clinical trial carries out, without approval, a clinical trial of a Class III medical device involving relatively high risk to the human body, the department responsible for drug supervision and administration shall order immediate cessation of the clinical trial, impose a fine of not less than 100,000 yuan but not more than 300,000 yuan on the sponsor and make an announcement to society; where serious consequences are caused, a fine of not less than 300,000 yuan but not more than 1 million yuan shall be imposed. The clinical trial data may not be used for product registration, no application for clinical trial or registration of medical devices filed by the responsible persons or the unit shall be accepted within 10 years, and, in respect of the legal representative, principal person in charge, persons directly in charge and other responsible persons of the unlawful unit, confiscate the income obtained from the unit during the period in which the unlawful act occurred and impose a fine of not less than 30 per cent of that income but not more than 3 times that income."
+        },
+        "noLabel": {
+          "en": "Article 93."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 94,
+        "text": {
+          "en": "Where a medical device clinical trial institution carries out clinical trials of medical devices without complying with the Good Clinical Practice, the department responsible for drug supervision and administration shall order correction or immediate cessation of the clinical trial and impose a fine of not less than 50,000 yuan but not more than 100,000 yuan; where serious consequences are caused, the institution shall be prohibited from carrying out clinical trials of medical devices in the relevant specialty within 5 years, and the competent health department shall, in respect of the legal representative, principal person in charge, persons directly in charge and other responsible persons of the unlawful unit, confiscate the income obtained from the unit during the period in which the unlawful act occurred and impose a fine of not less than 30 per cent of that income but not more than 3 times that income, and impose a sanction in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 94."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 95,
+        "text": {
+          "en": "Where a medical device clinical trial institution issues a false report, the department responsible for drug supervision and administration shall impose a fine of not less than 100,000 yuan but not more than 300,000 yuan; where there are illegal gains, confiscate the illegal gains; prohibit the institution from carrying out clinical trials of medical devices in the relevant specialty within 10 years; and the competent health department shall, in respect of the legal representative, principal person in charge, persons directly in charge and other responsible persons of the unlawful unit, confiscate the income obtained from the unit during the period in which the unlawful act occurred and impose a fine of not less than 30 per cent of that income but not more than 3 times that income, and impose a sanction in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 95."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 96,
+        "text": {
+          "en": "Where a medical device testing institution issues a false testing report, the competent department that granted its qualification shall revoke its testing qualification, accept no application for qualification accreditation filed by the responsible persons or the unit within 10 years, and impose a fine of not less than 100,000 yuan but not more than 300,000 yuan; where there are illegal gains, confiscate the illegal gains; in respect of the legal representative, principal person in charge, persons directly in charge and other responsible persons of the unlawful unit, confiscate the income obtained from the unit during the period in which the unlawful act occurred and impose a fine of not less than 30 per cent of that income but not more than 3 times that income, and impose a sanction in accordance with law; where a sanction of dismissal has been imposed, the person shall be prohibited from engaging in medical device testing work within 10 years."
+        },
+        "noLabel": {
+          "en": "Article 96."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 97,
+        "text": {
+          "en": "Where the provisions of this Regulation on the administration of medical device advertisements are violated, a penalty shall be imposed in accordance with the provisions of the Advertisement Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 97."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 98,
+        "text": {
+          "en": "Where the enterprise legal person within China designated by an overseas medical device registrant or record-filing person fails to perform the relevant obligations in accordance with the provisions of this Regulation, the drug supervision and administration department of the people's government of the province, autonomous region or municipality directly under the Central Government shall order correction, give a warning and impose a fine of not less than 50,000 yuan but not more than 100,000 yuan; where the circumstances are serious, impose a fine of not less than 100,000 yuan but not more than 500,000 yuan, and prohibit its legal representative, principal person in charge, persons directly in charge and other responsible persons from engaging in the production or sale of medical devices within 5 years.\nWhere an overseas medical device registrant or record-filing person refuses to perform an administrative penalty decision made in accordance with this Regulation, the import of its medical devices shall be prohibited within 10 years."
+        },
+        "noLabel": {
+          "en": "Article 98."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 99,
+        "text": {
+          "en": "Where a unit engaged in the research and development, production or sale of medical devices, or a testing institution, uses persons prohibited from engaging in the production, sale or testing of medical devices in violation of the provisions of this Regulation, the department responsible for drug supervision and administration shall order correction and give a warning; where correction is refused, order suspension of production or business until the licence certificate is revoked."
+        },
+        "noLabel": {
+          "en": "Article 99."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 100,
+        "text": {
+          "en": "Where a medical device technical review institution or a technical institution for monitoring adverse events of medical devices fails to perform its duties in accordance with the provisions of this Regulation, resulting in major errors in review or monitoring work, the department responsible for drug supervision and administration shall order correction, circulate a notice of criticism and give a warning; where serious consequences are caused, a sanction shall be imposed in accordance with law on the legal representative, principal person in charge, persons directly in charge and other responsible persons of the unlawful unit."
+        },
+        "noLabel": {
+          "en": "Article 100."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 101,
+        "text": {
+          "en": "Where staff members of the departments responsible for drug supervision and administration or of other relevant departments violate the provisions of this Regulation by abusing their powers, derelicting their duties or engaging in malpractice for personal gain, a sanction shall be imposed in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 101."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 102,
+        "text": {
+          "en": "Where a violation of the provisions of this Regulation constitutes a crime, criminal liability shall be pursued in accordance with law; where personal, property or other damage is caused, liability for compensation shall be borne in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 102."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 103,
+        "text": {
+          "en": "The terms used in this Regulation have the following meanings:\nMedical device means instruments, equipment, appliances, in vitro diagnostic reagents and calibrators, materials and other similar or related articles used directly or indirectly on the human body, including the required computer software; its effect is obtained mainly through physical means rather than through pharmacological, immunological or metabolic means, or, although such means are involved, they play only an auxiliary role; its purposes are:\n(a) the diagnosis, prevention, monitoring, treatment or alleviation of disease;\n(b) the diagnosis, monitoring, treatment, alleviation of or functional compensation for injury;\n(c) the examination, replacement, regulation or support of physiological structures or physiological processes;\n(d) the support or maintenance of life;\n(e) the control of pregnancy;\n(f) the provision of information for medical or diagnostic purposes through the examination of samples from the human body.\nMedical device registrant or record-filing person means an enterprise or research and development institution that has obtained a medical device registration certificate or completed medical device record-filing.\nMedical device user unit means an institution that uses medical devices to provide medical and other technical services to others, including medical institutions, blood stations, single plasma collection stations and institutions fitting assistive devices for rehabilitation.\nLarge medical equipment means large medical devices that use complex technology, require large capital investment, have high operating costs and have a major impact on medical expenses, and that are included in catalogue management."
+        },
+        "noLabel": {
+          "en": "Article 103."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 104,
+        "text": {
+          "en": "Fees may be charged for the registration of medical device products. The specific fee items and standards shall be formulated respectively by the competent finance and pricing departments of the State Council in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 104."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 105,
+        "text": {
+          "en": "The measures for the administration of medical devices developed by medical and health institutions in response to public health emergencies shall be formulated by the drug supervision and administration department of the State Council together with the competent health department of the State Council.\nThe storage, allocation and supply of non-profit contraceptive medical devices shall comply with the administrative measures formulated by the competent health department of the State Council together with the drug supervision and administration department of the State Council.\nThe technical guiding principles for traditional Chinese medicine medical devices shall be formulated by the drug supervision and administration department of the State Council together with the competent department for traditional Chinese medicine of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 105."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 106,
+        "text": {
+          "en": "The supervision and administration of the use of medical devices by the military shall be carried out in accordance with this Regulation and the relevant provisions of the military."
+        },
+        "noLabel": {
+          "en": "Article 106."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 107,
+        "text": {
+          "en": "This Regulation shall come into force on 1 June 2021."
+        },
+        "noLabel": {
+          "en": "Article 107."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-REG-0403'] = {
     "lawId": "CN-REG-0403",
     "sourceLang": "zh",
@@ -28926,6 +34257,882 @@
         },
         "chapter": {
           "en": "Chapter VII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0418'] = {
+    "lawId": "CN-REG-0418",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 74 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the Military Service Law of the People's Republic of China in order to standardise and strengthen conscription work."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Conscription work shall uphold the leadership of the Communist Party of China, implement Xi Jinping's thinking on strengthening the military, implement the military strategic guideline for the new era, serve the needs of national defence, focus on preparation for and winning of wars, and conscript high-quality personnel in accordance with law, in a precise and efficient manner."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Conscription is an important task in guaranteeing the replenishment of military personnel and in building a consolidated national defence and a strong military. These Regulations apply to the conscription of citizens for active service in accordance with the needs of national defence.\nPeople's governments at all levels and military organs shall perform their duties in conscription work in accordance with law and accomplish conscription tasks.\nCitizens shall perform military service in accordance with law and voluntarily accept conscription in accordance with the provisions of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Conscription work throughout the country shall, under the leadership of the State Council and the Central Military Commission, be the responsibility of the Ministry of National Defence, and the specific work shall be undertaken by the Conscription Office of the Ministry of National Defence. The State Council and the Central Military Commission shall establish an inter-ministerial joint conference system for national conscription work to coordinate conscription work throughout the country.\nThe leading groups for conscription work at the provincial, municipal and county levels shall be responsible for coordinating conscription work within their respective administrative regions. Local people's governments at or above the county level shall organise the military service organs and the departments of publicity, education, public security, human resources and social security, transport, health and other relevant departments to form conscription offices, which shall be responsible for organising and implementing conscription work within their respective administrative regions and shall undertake the day-to-day work of the leading group for conscription work at the same level. The relevant departments shall, under the unified organisation of the conscription office of the people's government at the same level and in accordance with the division of duties, do well the work related to conscription.\nState organs, public organisations, enterprises and institutions, and the people's governments of townships, ethnic townships and towns and the sub-district offices shall, in accordance with the arrangements and requirements of the people's governments of counties, autonomous counties, cities not divided into districts and municipal districts, handle conscription work for their own units and administrative regions. In units with a people's armed forces department, conscription work shall be handled by the people's armed forces department; in units without one, a department shall be designated to handle it. The body responsible for conscription work in an ordinary institution of higher education shall assist the military service organ in handling matters related to conscription work."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The number, frequency, timing and requirements of national conscription each year shall be prescribed by the conscription order of the State Council and the Central Military Commission.\nLocal people's governments at or above the county level and the military organs at the same level shall, in accordance with the conscription order of the higher level, allocate conscription tasks in a scientific manner, issue conscription orders at their own level, and make arrangements for conscription work within their respective administrative regions.\nLocal people's governments at or above the county level and the military organs at the same level shall establish a mechanism for the overall coordination of conscription tasks, giving priority to guaranteeing the conscription of graduates of ordinary institutions of higher education and of personnel subject to special requirements as to political or physical conditions or professional skills; they may allocate conscription tasks directly to ordinary institutions of higher education within their respective administrative regions; and they may, as appropriate, adjust conscription tasks for areas that have suffered serious disasters or are in other special circumstances."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The military service organs of local people's governments at or above the county level shall, together with the relevant departments, strengthen supervision and inspection of conscription work within their respective administrative regions.\nLocal people's governments at or above the county level and the military organs at the same level shall take the state of conscription work as a component of the assessment and evaluation of the relevant units and their persons in charge."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The relevant military and civilian departments shall incorporate the development of information systems for conscription into the national e-government programme and the development of military information systems, and shall achieve information sharing and operational coordination between military service organs and the departments of publicity, development and reform, education, public security, human resources and social security, health, veterans' affairs and other military and civilian departments.\nThe departments concerned with conscription work and their staff shall keep confidential the personal information collected in accordance with law, and may not divulge it or unlawfully provide it to others."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "State organs, public organisations, enterprises and institutions shall carry out in-depth education in patriotism, revolutionary heroism, the glorious history of the military and the honour of military service, so as to enhance citizens' awareness of national defence and of performing military service in accordance with law.\nThe military service organs of local people's governments at or above the county level shall, together with the publicity departments, coordinate and organise the departments of cyberspace administration, education, culture and others to carry out publicity on conscription, and encourage citizens to respond actively to conscription."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Organisations and individuals that make outstanding contributions in conscription work shall be commended and rewarded in accordance with the relevant provisions of the State and the military."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The conscription offices of local people's governments at or above the county level shall, in a timely manner, adjust and augment their staff and carry out vocational training in conscription; and may, as needed and in accordance with the relevant provisions of the State, carry out auxiliary conscription work by such means as government purchase of services."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Preparations for Conscription"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The military service organs of the people's governments of counties, autonomous counties, cities not divided into districts and municipal districts shall, in a timely manner, issue announcements on military service registration, and organise state organs, public organisations, enterprises and institutions, the people's governments of townships, ethnic townships and towns, and the sub-district offices to conduct initial military service registration in respect of male citizens who will reach the age of 18 before 31 December of the current year in their own units and administrative regions, and to verify and update the information of male citizens of conscription age who have undergone initial military service registration.\nThe initial military service registration of a citizen shall be the responsibility of the military service organ of the people's government of the county, autonomous county, city not divided into districts or municipal district in which his household is registered; it may be carried out by means of online registration, or in person at a military service registration station (point). Where a person is unable to complete registration on his own for special reasons such as physical condition, he may entrust a relative to register on his behalf, and the people's government of the township, ethnic township or town or the sub-district office in the place of his household registration shall provide assistance."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Preparations for Conscription"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The military service organs of the people's governments of counties, autonomous counties, cities not divided into districts and municipal districts shall, in respect of male citizens who have undergone initial military service registration, determine in accordance with law whether they shall perform military service, are exempt from military service or are disqualified from military service, record this in the citizens' military service registration information, and issue military service registration certificates. The relevant departments of the people's governments of counties, autonomous counties, cities not divided into districts and municipal districts shall, in accordance with the division of duties, provide assistance to the military service organs in verifying citizens' military service registration information.\nFemale citizens may be conscripted for active service in accordance with the provisions and as required by the military."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Preparations for Conscription"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Citizens who are liable to perform military service under the provisions of law and who, upon preliminary examination, meet the following conscription conditions are citizens eligible for conscription:\n(a) upholding the Constitution of the People's Republic of China and upholding the leadership of the Communist Party of China and the socialist system;\n(b) loving national defence and the military, observing discipline and the law, and having good political quality and moral conduct;\n(c) meeting the conscription age prescribed by law;\n(d) having the physical conditions, psychological quality and educational level required for performing the duties of military posts;\n(e) other conditions prescribed by law."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Preparations for Conscription"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Where a citizen eligible for conscription is to have his conscription deferred or is not to be conscripted, the relevant provisions of law shall apply."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Preparations for Conscription"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "A citizen eligible for conscription shall respond to conscription at the place of his household registration; where his place of habitual residence is not in the same province, autonomous region or municipality directly under the Central Government as the place of his household registration and he meets the prescribed conditions, he may respond to conscription at his place of habitual residence. Where a citizen eligible for conscription is a full-time student or a graduating student of an ordinary institution of higher education, he may respond to conscription at the place of his household registration before admission or at the place where the institution is located."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Preparations for Conscription"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The departments of public security, health, education and others of people's governments at or above the county level shall, in accordance with the division of duties, conduct preliminary verification of information on the ideological and political status, health condition and educational level of citizens eligible for conscription.\nCitizens eligible for conscription shall, in accordance with the notice of the people's armed forces department of the township, ethnic township or town or the sub-district office (hereinafter collectively referred to as the primary-level people's armed forces departments) or of the body responsible for conscription work in an ordinary institution of higher education, attend a designated medical institution anywhere within the country for a preliminary medical examination on their own within the prescribed time limit; the results of the preliminary medical examination shall be mutually recognised throughout the country."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Preparations for Conscription"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The primary-level people's armed forces departments and the bodies responsible for conscription work in ordinary institutions of higher education shall select, as persons designated for conscription in the current year, citizens eligible for conscription who have passed the preliminary verification and preliminary medical examination and who have good ideological and political quality, strong physical fitness and a high educational level, and shall notify them.\nThe military service organs of the people's governments of counties, autonomous counties, cities not divided into districts and municipal districts, the primary-level people's armed forces departments and the bodies responsible for conscription work in ordinary institutions of higher education shall strengthen the management, education and observation of citizens eligible for conscription who have been designated for conscription, and shall keep themselves informed of their basic circumstances.\nA citizen eligible for conscription who has been designated for conscription shall maintain contact with the primary-level people's armed forces department or the body responsible for conscription work in the ordinary institution of higher education at his location, and shall respond to conscription on time in accordance with the notice of the military service organ of the people's government of the county, autonomous county, city not divided into districts or municipal district.\nThe state organ, public organisation, enterprise or institution in which a citizen eligible for conscription who has been designated for conscription works shall urge him to respond to conscription on time and provide him with facilities."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Preparations for Conscription"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The medical examination for conscription shall be organised in a unified manner by the conscription office of the local people's government at or above the county level in the place of conscription, and shall be specifically implemented by the health administrative department at the same level, with the assistance of the units concerned."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Physical Examination"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The conscription office of a local people's government at or above the county level shall, together with the health administrative department at the same level, designate hospitals or medical examination institutions that meet the standard conditions and management requirements to establish conscription medical examination stations. Where there is no hospital or medical examination institution within the administrative region that meets the standard conditions and management requirements, a temporary conscription medical examination station may, with the approval of the conscription office and the health administrative department of the provincial people's government, be established at a suitable site.\nThe specific measures for establishing conscription medical examination stations shall be formulated by the relevant departments of the organs of the Central Military Commission together with the relevant departments of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Physical Examination"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The primary-level people's armed forces departments shall organise citizens eligible for conscription who have been designated for conscription to attend the conscription medical examination station on time for medical examination. The number of persons sent for examination shall be determined by the conscription office of the people's government of the county, autonomous county, city not divided into districts or municipal district in accordance with the conscription tasks assigned by the higher level and the physical condition of the citizens eligible for conscription designated for conscription in the locality.\nBefore the medical examination, the conscription office of the local people's government at or above the county level shall organise on-site verification of the identity, household registration, educational level, professional skills, medical history and other relevant information of the persons to be examined."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Physical Examination"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The medical personnel responsible for the medical examination shall strictly implement the standards and procedures for the medical examination of citizens eligible for conscription and other relevant provisions, and shall guarantee the quality of the medical examination.\nWhere there are special requirements as to the physical conditions of military personnel, the conscription office of the local people's government at or above the county level shall arrange for the personnel sent by the military to receive recruits to participate in the medical examination."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Physical Examination"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The conscription office of a local people's government at or above the county level shall, as needed, organise random inspection of citizens eligible for conscription who have passed the medical examination; where the random inspection reveals a relatively high proportion of unqualified persons, a re-examination of all of them shall be conducted."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Physical Examination"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The political assessment for conscription shall be organised in a unified manner by the conscription office of the local people's government at or above the county level in the place of conscription, and shall be specifically implemented by the public security organ at the same level, with the assistance of the units concerned."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter IV Political Assessment"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The political assessment for conscription shall mainly assess the political attitude and actual conduct of citizens eligible for conscription who have been designated for conscription, as well as the circumstances of their family members."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter IV Political Assessment"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "In conducting the political assessment of citizens eligible for conscription who have been designated for conscription, the relevant departments shall, in accordance with the provisions on political assessment for conscription, verify and check the circumstances, issue assessment opinions and form assessment conclusions.\nWhere there are special requirements as to political conditions, the conscription office of the people's government of the county, autonomous county, city not divided into districts or municipal district shall also organise visits and investigations; the personnel sent by the military to receive recruits shall be arranged to participate in the visits and investigations and to sign their opinions, and where the opinions of the personnel sent by the military to receive recruits have not been signed, enlistment may not be approved."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter IV Political Assessment"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Before the examination and approval of recruits, the conscription office of a local people's government at or above the county level shall organise in a centralised manner pre-service education for persons who have passed the medical examination and the political assessment. The time, content, method and related support for pre-service education shall be prescribed by the conscription office of the provincial people's government."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter V Examination and Approval of Recruits"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The conscription office of the people's government of a county, autonomous county, city not divided into districts or municipal district shall convene a meeting to examine and approve recruits collectively, conduct classified assessment and comprehensive evaluation of the military occupational adaptability, educational level, physical and psychological quality and other aspects of persons who have passed the medical examination and the political assessment, select on the basis of merit the citizens eligible for conscription who are to be approved for active service, and allocate their places of enlistment in a reasonable manner. The specific measures for the examination and approval of recruits shall be formulated by the Conscription Office of the Ministry of National Defence."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter V Examination and Approval of Recruits"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Where the children or siblings of martyrs, of military personnel who died in the line of duty or of military personnel who died of illness, or the children of military personnel in active service, voluntarily apply for conscription and meet the conditions, they shall be given priority in approval for active service."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter V Examination and Approval of Recruits"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Where a soldier who has retired from active service voluntarily applies for conscription and meets the conditions, he may be approved for re-enlistment, and shall be given priority in being assigned to active service in the unit in which he previously served or in a post of the same type; where he meets the conditions for appointment as a sergeant, he may be directly recruited as a sergeant."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter V Examination and Approval of Recruits"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "The conscription office of the people's government of a county, autonomous county, city not divided into districts or municipal district shall, in a timely manner, make public to society the list of citizens eligible for conscription who are to be approved for active service, and the public notice period shall be not less than 5 working days. Where a citizen eligible for conscription who is to be approved for active service is reported or found to have problems and, upon investigation and verification, does not meet the conditions for active service or is in a circumstance of violating the relevant provisions on clean conscription, his qualification for enlistment shall be cancelled, and the resulting vacancy shall be filled in sequence from among the citizens eligible for conscription who are to be approved for active service."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter V Examination and Approval of Recruits"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Upon expiry of the public notice period, the conscription office of the people's government of the county, autonomous county, city not divided into districts or municipal district shall complete the enlistment formalities for the citizens eligible for conscription who have been approved for active service, issue the approval document for the enlistment of the citizen eligible for conscription, issue the enlistment notice, and notify the household registration authority at the place of their household registration. Recruits shall, from the date of approval of enlistment, enjoy the relevant treatment and guarantees for military personnel in active service in accordance with the provisions. The families of recruits shall enjoy the preferential payments for conscripts' families and other preferential guarantees prescribed by laws and regulations.\nThe conscription office of the people's government of the county, autonomous county, city not divided into districts or municipal district shall establish an enlistment file for each recruit, and shall place in the file the approval document for the enlistment of the citizen eligible for conscription, the political assessment form for the citizen eligible for conscription, the medical examination form for the citizen eligible for conscription and other materials prescribed by the Conscription Office of the Ministry of National Defence."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter V Examination and Approval of Recruits"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Local people's governments at or above the county level may, by such measures as purchasing personal accident insurance, provide corresponding protection of the rights and interests of citizens eligible for conscription."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter V Examination and Approval of Recruits"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Where a student who has been admitted to an ordinary institution of higher education or who is studying at an ordinary institution of higher education is approved for active service, his admission qualification or student status shall be retained during his active service, and he shall be permitted to enrol or resume his studies within 2 years after retiring from active service."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter V Examination and Approval of Recruits"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "During the period of conscription, where a citizen eligible for conscription is conscripted for active service and is at the same time recruited or employed by a state organ, public organisation, enterprise or institution, he shall give priority to performing the obligation of military service; the state organ, public organisation, enterprise or institution concerned shall support his response to conscription and enlistment and, where conditions permit, shall permit him to defer the commencement of his employment.\nWhere a citizen eligible for conscription who has been approved for active service is a staff member of a state organ, public organisation, enterprise or institution, the original unit shall pay him in full the wages, bonuses and various subsidies for the month in which he leaves his post."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter V Examination and Approval of Recruits"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The handover of recruits shall be carried out by such means as delivery by the military service organ, reporting by the recruits themselves, or collection or reception of recruits by personnel sent by the military.\nWhere a recruit training institution established by the military organises recruit training on a large scale in a centralised manner, the military service organ shall send personnel to deliver the recruits or the recruits shall report themselves; for military personnel subject to special requirements as to political or physical conditions or professional skills, the military shall usually send personnel to receive them; other recruits shall usually be collected by personnel sent by the military."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter VI Handover and Transportation of Recruits"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Not less than 15 days before the date of commencement of conscription, units at or above the corps level shall send liaison groups to contact the conscription office of the provincial people's government and to agree on such matters as the division of the replenishment areas, the method of handover of recruits, the supply of clothing and equipment, and the transport of recruits."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter VI Handover and Transportation of Recruits"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Where the military service organ delivers the recruits, the following work shall be done well:\n(a) the conscription office of the provincial people's government shall agree with the recruit training institution on such matters as the place of arrival of the delivered recruits, transit en route and handover, formulate a plan for delivering the recruits, and specify the tasks of delivery;\n(b) the conscription office of the people's government of the county, autonomous county, city not divided into districts or municipal district in the place of conscription shall complete the examination and sealing of the recruits' files before the recruits depart, and shall organise a collective meeting between the recruits and the delivery personnel before departure;\n(c) the recruit training institution shall establish receiving points at conveniently located stations, ports and wharves and airports near its station, be responsible for receiving the recruits and delivering them safely to the barracks, and complete the handover formalities with the delivery personnel within 24 hours after the arrival of the recruits at the barracks."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter VI Handover and Transportation of Recruits"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where the recruits report themselves, the following work shall be done well:\n(a) the conscription office of the people's government of the county, autonomous county, city not divided into districts or municipal district shall, in accordance with the plan issued by the higher level, agree with the recruit training institution on such matters as the place of reporting, the method of contact, the handover of files and the reception of personnel, and shall promptly notify the recruit training institution of the list of recruits, the number of recruits and the time of arrival;\n(b) the conscription office of the people's government of the county, autonomous county, city not divided into districts or municipal district shall inform the recruits in writing of the place and time limit for reporting, the method of contact, the safety requirements and other matters needing attention;\n(c) the recruit training institution shall establish reporting points at the stations, ports and wharves and airports at the place of reporting and organise the reception of the recruits;\n(d) the recruit training institution shall promptly notify in writing the conscription office of the people's government of the county, autonomous county, city not divided into districts or municipal district in the place of conscription of the actual time of arrival and the list of recruits;\n(e) where a recruit fails to report on time, the conscription office of the people's government of the county, autonomous county, city not divided into districts or municipal district shall ascertain the circumstances, urge him to report as soon as possible and promptly notify the recruit training institution, and where he fails to report on time without justified reasons or fails to report at all, the matter shall be dealt with in accordance with the relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter VI Handover and Transportation of Recruits"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where the military sends personnel to collect the recruits, the following work shall be done well:\n(a) the collecting personnel shall arrive in the collecting area within 7 to 10 days before the departure of the recruits, examine the recruits' files, meet the recruits collectively, and promptly consult and resolve any problems discovered. The conscription office of the people's government of the county, autonomous county, city not divided into districts or municipal district shall, promptly after the arrival of the collecting personnel, provide them with the recruits' files;\n(b) the two parties to the handover shall, 1 day before the departure of the recruits, complete the handover in a single operation at the seat of the conscription office of the people's government of the county, autonomous county, city not divided into districts or municipal district or at a conveniently located place agreed upon by both parties."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter VI Handover and Transportation of Recruits"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where the military sends personnel to receive the recruits, the following work shall be done well:\n(a) the receiving personnel shall arrive in the receiving area before the date of commencement of conscription, assist the conscription office of the people's government of the county, autonomous county, city not divided into districts or municipal district in carrying out its work, and jointly ensure the quality of the recruits;\n(b) the conscription office of the people's government of the county, autonomous county, city not divided into districts or municipal district shall brief the receiving personnel of the military on the conscription work and agree with them on matters relating to the handover of recruits;\n(c) the two parties to the handover shall complete the handover of the recruits and their files before departure."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter VI Handover and Transportation of Recruits"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where the military service organ delivers the recruits or the military sends personnel to collect or receive them, problems arising before the handover between the military service organ and the recruit training institution or the military shall be handled under the primary responsibility of the military service organ, and problems arising after the handover shall be handled under the primary responsibility of the recruit training institution or the military.\nWhere the recruits report themselves, problems arising before their arrival at the recruit training institution shall be handled under the primary responsibility of the military service organ, and problems arising after their arrival shall be handled under the primary responsibility of the recruit training institution."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter VI Handover and Transportation of Recruits"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where the military service organ delivers the recruits or the military sends personnel to collect or receive them, the two parties to the handover shall, in accordance with the roster of recruits uniformly prepared by the conscription office of the people's government of the county, autonomous county, city not divided into districts or municipal district in the place of conscription, count the personnel, verify the number of files, hand them over clearly in person, and sign the roster of recruits to confirm. Where, in the course of the handover, the two parties discover problems with the number of recruits or the number of files, they shall resolve them through consultation before completing the handover formalities; where other problems are discovered, they shall first complete the handover formalities and thereafter deal with the matter in accordance with the relevant provisions.\nWhere the recruits report themselves, their files shall be sent by the conscription office of the people's government of the county, autonomous county, city not divided into districts or municipal district in the place of conscription to the recruit training institution by confidential mail or by a messenger within 10 days after the departure of the recruits."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VI Handover and Transportation of Recruits"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "The recruit training institution shall complete the examination of the files within 5 days from the date of receipt of the recruits' files; the collecting or receiving personnel of the military shall complete the examination of the files 48 hours before the departure of the recruits. Where problems are discovered in the examination of the files, the matter shall be notified by letter or in person to the conscription office of the people's government of the county, autonomous county, city not divided into districts or municipal district in the place of conscription for handling.\nProblems in the recruits' files shall be dealt with by the conscription office of the people's government of the county, autonomous county, city not divided into districts or municipal district in the place of conscription within 25 days from the date of receipt of the official letter of the recruit training institution; where the collecting or receiving personnel of the military notify the matter in person, it shall be dealt with 24 hours before the departure of the recruits."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VI Handover and Transportation of Recruits"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "The clothing and equipment for recruits shall be allocated by the military clothing and equipment allocation unit to the locations designated by the military service organs of the people's governments of counties, autonomous counties, cities not divided into districts and municipal districts, and shall be issued to the recruits by those military service organs before the departure of the recruits."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VI Handover and Transportation of Recruits"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "The logistics support department of the Central Military Commission shall, together with the competent transport department of the State Council, organise and guide the units concerned in formulating the plan for the transport of recruits.\nWithin 5 days after the date of commencement of conscription, the conscription office of the provincial people's government shall, in accordance with the number of recruits and the places of departure and arrival by road vehicle, ship or aircraft, submit the demand for the transport of recruits within its administrative region to the military transport representative office of the Joint Logistics Support Force."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VI Handover and Transportation of Recruits"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "The Joint Logistics Support Force shall organise the military and civilian units concerned to implement the plan for the transport of recruits. The military and civilian units concerned shall strengthen coordination and cooperation in the transport of recruits, and transport enterprises shall promptly allocate transport capacity to ensure that the recruits arrive safely at the recruit training institution or the military unit in accordance with the transport plan.\nThe conscription office of the people's government of the county, autonomous county, city not divided into districts or municipal district and the collecting or receiving personnel of the military shall organise the departure of the recruits on time in accordance with the plan for the transport of recruits; before departure, they shall organise the recruits into groups and conduct safety education and inspection so as to prevent accidents.\nThe military transport representative offices and the military catering supply stations along the route shall take the initiative to resolve the problems arising in the transport of recruits. The military catering supply stations, the delivery, collecting and receiving personnel, and the recruits shall accept the guidance of the military transport representative offices."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VI Handover and Transportation of Recruits"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "When the recruits depart, the local people's government concerned shall organise a send-off; when the recruits arrive, the recruit training institution or the military unit shall organise a welcome."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VI Handover and Transportation of Recruits"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "After the recruits arrive at the recruit training institution or the military unit, the recruit training institution or the military unit shall organise quarantine and re-examination of the recruits in accordance with the provisions. Where quarantine reveals that a recruit suffers from an infectious disease, he shall be promptly isolated for treatment and necessary epidemic prevention measures shall be taken; where re-examination reveals that a recruit is suspected of a crime committed before enlistment, necessary control measures shall be taken."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VII Quarantine, Re-inspection and Return"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where quarantine and re-examination reveal that a recruit is unsuitable for active service for physical reasons, or does not meet the conditions as to political circumstances, he shall be returned. The time limit for returning shall be not more than 45 days, counted from the date of the arrival of the recruit at the recruit training institution or the military unit to the date on which the political work department of the military with the power of approval, after approving the return, sends a letter to the conscription office of the people's government of the city divided into districts or of the province in the original place of conscription.\nReturn for physical reasons shall be subject to certification by a military hospital, approval by the political work department of a unit at or above the brigade level, and notification by letter to the conscription office of the people's government of the city divided into districts in the original place of conscription.\nReturn for political reasons shall be preceded by contact and verification between the recruit training institution or the military unit and the conscription office of the provincial people's government in the original place of conscription; where it is confirmed that the recruit does not meet the conditions, the matter shall be verified by the political work department of a unit at or above the brigade level, approved by the political work department of a unit at or above the corps level, and notified by letter to the conscription office of the provincial people's government in the original place of conscription."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VII Quarantine, Re-inspection and Return"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where a recruit is injured or falls ill during the period from the date of approval of enlistment to 45 days after his arrival at the recruit training institution or the military unit, the military medical institution shall provide free treatment; where the injury or illness can be cured and does not affect active service, he shall not be returned; where it is difficult to cure or, after cure, affects active service, the unit at or above the brigade level shall, on the basis of the conclusion issued by the military hospital, notify by letter the conscription office of the people's government of the city divided into districts in the original place of conscription, and the recruit shall be returned after his condition has stabilised and he is discharged from hospital, and the time of return shall not be subject to restriction."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VII Quarantine, Re-inspection and Return"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "After a returned person returns to the original place of conscription, the people's government of that place shall, in accordance with the relevant provisions, incorporate him into the social security system and he shall enjoy the corresponding treatment.\nWhere a returned person needs to return to the locality for continuing treatment, the unit at or above the brigade level shall, on the basis of the certificate issued by the military hospital, issue him a letter for continuing treatment and provide military insurance compensation in accordance with the provisions; the people's government of the original place of conscription shall, on the basis of the letter for continuing treatment, arrange for the medical institution concerned to admit him for treatment as a matter of priority; where he has already participated in the local basic medical insurance, the medical expenses shall be paid from the medical insurance fund in accordance with the provisions; and where he meets the conditions for medical assistance, assistance shall be provided in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VII Quarantine, Re-inspection and Return"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where a recruit is to be returned, the recruit training institution or the military unit shall do well the ideological work of the returned person, and shall send personnel to escort the returned person and his file back to the conscription office of the people's government of the city divided into districts in the original place of conscription; alternatively, upon consultation and agreement with that conscription office, the conscription office may take back the returned person and his file.\nThe formalities for the handover of the returned person and his file shall be completed within 7 working days from the date of the arrival of the personnel of the recruit training institution or the military unit, or within 7 working days from the date of the arrival of the personnel of the conscription office."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VII Quarantine, Re-inspection and Return"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "The conscription office of the people's government of the city divided into districts in the original place of conscription shall promptly verify the reasons for the return and the relevant circumstances, examine the formalities for approval of the return and the relevant supporting materials, check the recruit's file, and properly keep and dispose of the recruit's file in accordance with the relevant provisions of the State and the military.\nWhere the conscription office of the people's government of the city divided into districts in the original place of conscription objects to the result of the physical re-examination of the returned person, it shall, in accordance with the provisions, apply to the designated medical appraisal institution for appraisal; the medical appraisal institution shall complete the appraisal within 5 working days and form a final appraisal conclusion. Where the appraisal confirms that the conditions for return are met, the conscription office of the people's government of the city divided into districts in the original place of conscription shall take the person back; where the conditions for return are not met, the person shall continue in active service."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VII Quarantine, Re-inspection and Return"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "In respect of a returned person, the conscription office of the people's government of the county, autonomous county, city not divided into districts or municipal district in the original place of conscription shall cancel his approval document for the enlistment of the citizen eligible for conscription and notify the household registration authority at the place of his household registration."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VII Quarantine, Re-inspection and Return"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where a returned person was originally a staff member of a state organ, public organisation, enterprise or institution, the original unit shall, in accordance with the relevant provisions, permit him to resume work and his post; where he was originally a student who had been admitted to an ordinary institution of higher education or who was studying at an ordinary institution of higher education, the original institution shall, in accordance with the relevant provisions, permit him to enrol or resume his studies."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VII Quarantine, Re-inspection and Return"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where a conscript has any of the following acts before enlistment, he shall be returned, and the time limit for return shall not be subject to the restriction of the first paragraph of Article 49 of these Regulations, and the honours, treatment, pensions and preferential care and other benefits obtained by reason of being conscripted for active service shall be cancelled or recovered by the departments concerned:\n(a) having committed a criminal act or having a criminal record before enlistment and intentionally concealing it;\n(b) suffering before enlistment from a mental illness, a disease of the nervous system, AIDS (including being a virus carrier), a malignant tumour or another serious disease affecting active service, and intentionally concealing it;\n(c) having obtained the qualification for enlistment by providing false enlistment materials or by such unlawful means as offering bribes.\nWhere a person is returned in accordance with the preceding paragraph, the political work department of a unit at or above the corps level shall notify by letter the conscription office of the provincial people's government in the original place of conscription to conduct investigation and verification; where the circumstances are true, the matter shall be reported to the unit at or above the corps level for approval, and the conscription office of the people's government of the county, autonomous county, city not divided into districts or municipal district in the original place of conscription shall be responsible for taking the person back."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VII Quarantine, Re-inspection and Return"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "The funds needed for carrying out conscription work shall be guaranteed at different levels in accordance with the subordinate relationship. The scope of expenditure of conscription expenses and the measures for their management and use shall be formulated by the relevant departments of the organs of the Central Military Commission together with the relevant departments of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VIII Funding Guarantee"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "The costs of allocating recruits' clothing and equipment to the locations designated by the military service organs of the people's governments of counties, autonomous counties, cities not divided into districts and municipal districts shall be guaranteed by the military clothing and equipment allocation unit; the transport costs for issuing recruits' clothing and equipment by those military service organs shall be included in the conscription expenses."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VIII Funding Guarantee"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "For conscripted recruits where the military service organ delivers the recruits or the recruits report themselves, the transport, food and accommodation expenses required on the way from the recruit assembly point of the county, autonomous county, city not divided into districts or municipal district to the recruit training institution shall be reimbursed by the recruit training institution in accordance with the provisions; where the military sends personnel to collect or receive the recruits, the expenses required from the date of reception by the military shall be guaranteed by the military. The transport charges arising from arrangements for military transport organised and implemented in a unified manner by the relevant military departments shall be settled and paid in accordance with the relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VIII Funding Guarantee"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "The travel expenses required by the delivery personnel on the way to the recruit training institution together with the recruits shall be reimbursed by the recruit training institution in accordance with the provisions; during the period in which the delivery personnel complete the handover of recruits at the recruit training institution, their accommodation shall be guaranteed by the recruit training institution, and their food allowances and travel expenses for the return journey shall be included in the conscription expenses."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VIII Funding Guarantee"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "The costs of returning unqualified recruits by the recruit training institution or the military unit shall, before the formalities for return are completed with the conscription office of the local people's government concerned, be borne by the recruit training institution or the military unit; after the formalities for return are completed, the travel expenses for the return of the personnel of the recruit training institution or the military unit shall be reimbursed by their own units in accordance with the provisions, and other expenses shall be borne by the conscription office of the local people's government concerned."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VIII Funding Guarantee"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "The preferential payments for the families of conscripts shall, in accordance with the relevant provisions of the State, be borne jointly by the central and local finances, shall apply a unified standard in both urban and rural areas, and shall be paid in accordance with the provisions by the people's government of the county, autonomous county, city not divided into districts or municipal district in the place where enlistment was approved.\nThe conscription offices of people's governments at or above the county level shall provide the departments of finance and of veterans' affairs at the same level with the number of persons whose enlistment was approved in the current year, for use in formulating the plan for the distribution of preferential payments for the families of conscripts."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VIII Funding Guarantee"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "After the State issues a mobilisation order or the State Council and the Central Military Commission adopt national defence mobilisation measures in accordance with law, people's governments at all levels and military organs must organise wartime conscription as required."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter IX Wartime Conscription"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "In wartime, as needed, the State Council and the Central Military Commission may, within the scope prescribed by law, adjust the conditions and methods for conscripting citizens for active service.\nIn wartime, as needed, priority may be given to conscripting veterans to replenish the units in which they previously served or posts of the same type."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter IX Wartime Conscription"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "The Conscription Office of the Ministry of National Defence shall, in accordance with the demand for the replenishment of military personnel in wartime, guide the conscription offices of local people's governments at or above the county level in organising and implementing conscription work in accordance with the conditions and methods for wartime conscription."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter IX Wartime Conscription"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "After a citizen eligible for conscription receives a notice of wartime conscription from the military service organ, he must attend the designated place on time to respond to conscription.\nState organs, public organisations, enterprises and institutions, and the people's governments of townships, ethnic townships and towns and the sub-district offices must organise the persons subject to wartime conscription in their own units and administrative regions to report at the prescribed time and place.\nUnits and individuals engaged in transport shall give priority to transporting persons subject to wartime conscription; other organisations and individuals shall provide facilities for such persons to report."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter IX Wartime Conscription"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "A citizen who is liable to perform military service and refuses or evades military service registration, or a citizen eligible for conscription who refuses or evades conscription for active service, shall be punished in accordance with law.\nWhere a recruit, for the purpose of evading military service, refuses to perform his duties or deserts the military, he shall be given sanctions or punished in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "Where a state organ, public organisation, enterprise or institution refuses to accomplish conscription tasks, obstructs citizens from performing the obligation of military service, or commits other acts impairing conscription work, penalties shall be imposed in accordance with law on the unit and on the persons responsible."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "Where state functionaries or military personnel, in conscription work, commit embezzlement or bribery, engage in malpractices for personal gain, abuse their powers, neglect their duties, or commit other acts violating the provisions on conscription work, they shall be given sanctions in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "Where a violation of the provisions of these Regulations constitutes a crime, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "The penalties prescribed in Article 67 and Article 68 of these Regulations shall, after the facts have been ascertained by the military service organ of the local people's government at or above the county level together with the relevant departments and a penalty decision has been made by the local people's government at the same level, be specifically executed by the military service organ and the departments of development and reform, public security, health, education, human resources and social security and others of the local people's government at or above the county level in accordance with the division of duties."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "These Regulations apply to the conscription of citizens for active service in the Chinese People's Armed Police Force."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter XI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "The medical examination, political assessment, completion of enlistment formalities and other work involved in recruiting officers (police officers) and sergeants (police sergeants) for active service from non-military departments shall be carried out with reference to the relevant provisions of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter XI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "These Regulations shall come into force as of 1 May 2023."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter XI Supplementary Provisions"
         }
       }
     ]

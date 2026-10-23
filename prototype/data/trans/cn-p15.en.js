@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p15
-   法规 72 部 / 译文 2533 条
+   法规 80 部 / 译文 3143 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -5219,6 +5219,858 @@
     ]
   };
 
+  TR['CN-REG-0197'] = {
+    "lawId": "CN-REG-0197",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 71 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Regulation is formulated in accordance with the Construction Law of the People's Republic of China and the Work Safety Law of the People's Republic of China in order to strengthen the supervision and administration of work safety in construction projects and to safeguard the lives and property of the people."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Those engaged in the new construction, expansion, reconstruction, demolition and other related activities of construction projects within the territory of the People's Republic of China, and those implementing supervision and administration of work safety in construction projects, must comply with this Regulation.\nConstruction projects referred to in this Regulation mean civil engineering, building works, pipeline and equipment installation works and decoration works."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The administration of work safety in construction projects shall adhere to the policy of safety first and prevention oriented."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The client, the survey unit, the design unit, the contractor, the project supervision unit and other units related to work safety in construction projects must comply with the provisions of the laws and regulations on work safety, ensure work safety in construction projects and bear work safety liability for construction projects in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The State encourages scientific and technological research on work safety in construction projects and the popularisation and application of advanced technologies, and promotes the scientific management of work safety in construction projects."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The client shall provide the contractor with data on underground pipelines for water supply, drainage, power supply, gas supply, heating, communications, radio and television and the like in the construction site and its adjacent areas, with meteorological and hydrological observation data and with the relevant data on adjacent buildings, structures and underground works, and shall ensure that the data are true, accurate and complete.\nWhere the client, for the needs of the construction project, inquires of the relevant departments or units about the data prescribed in the preceding paragraph, the departments or units concerned shall provide them promptly."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        },
+        "chapter": {
+          "en": "Chapter II Safety Responsibilities of the Client"
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The client may not impose on the survey, design, construction, project supervision and other units requirements that do not conform to the provisions of the laws, regulations and mandatory standards on work safety in construction projects, and may not compress the construction period agreed in the contract."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Safety Responsibilities of the Client"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "When preparing the project estimate, the client shall determine the expenses required for a safe working environment and safe construction measures for the construction project."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Safety Responsibilities of the Client"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The client may not expressly or implicitly require the contractor to purchase, lease or use safety protection appliances, machinery and equipment, construction machinery and accessories, and fire protection facilities and equipment that do not meet the requirements for safe construction."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Safety Responsibilities of the Client"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "When applying for a construction permit, the client shall provide materials on the safe construction measures for the construction project.\nFor a construction project for which a commencement report has been approved in accordance with law, the client shall, within 15 days from the date of approval of the commencement report, submit the measures for ensuring safe construction to the competent construction administration department of the local people's government at or above the county level at the place where the construction project is located or to another relevant department for the record."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Safety Responsibilities of the Client"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The client shall contract out demolition works to a contractor with the corresponding grade of qualification.\nThe client shall, 15 days before the commencement of demolition works, submit the following materials to the competent construction administration department of the local people's government at or above the county level at the place where the construction project is located or to another relevant department for the record:\n(a) proof of the contractor's grade of qualification;\n(b) a statement on the buildings and structures to be demolished and on the adjacent buildings that may be endangered;\n(c) the organisation plan for the demolition works;\n(d) the measures for stacking and removing waste.\nWhere blasting operations are carried out, the provisions of the State on the administration of civil explosives shall be observed."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Safety Responsibilities of the Client"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Survey units shall conduct surveying in accordance with laws, regulations and the mandatory standards for engineering construction, and the survey documents provided shall be true and accurate and shall meet the needs of work safety in construction projects.\nIn carrying out survey operations, survey units shall strictly observe the operating rules and take measures to ensure the safety of all kinds of pipelines, facilities and surrounding buildings and structures."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter III Safety Responsibilities of Survey, Design, Project Supervision and Other Units Concerned"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Design units shall carry out design in accordance with laws, regulations and the mandatory standards for engineering construction so as to prevent the occurrence of work safety accidents caused by unreasonable design.\nDesign units shall take into account the needs of safe construction operations and protection, indicate in the design documents the key parts and links involving construction safety and put forward guiding opinions on preventing work safety accidents.\nFor construction projects adopting new structures, new materials or new processes and construction projects with special structures, design units shall put forward in the design proposals for measures to safeguard the safety of construction workers and to prevent work safety accidents.\nDesign units and registered architects and other registered practitioners shall be responsible for their designs."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter III Safety Responsibilities of Survey, Design, Project Supervision and Other Units Concerned"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Project supervision units shall examine whether the safety technical measures or the special construction plans in the construction organisation design conform to the mandatory standards for engineering construction.\nWhere a project supervision unit finds in the course of supervision that hidden dangers of safety accidents exist, it shall require the contractor to rectify them; where the circumstances are serious, it shall require the contractor to suspend construction temporarily and promptly report to the client. Where the contractor refuses to rectify or to suspend construction, the project supervision unit shall promptly report to the competent department concerned.\nProject supervision units and supervision engineers shall carry out supervision in accordance with laws, regulations and the mandatory standards for engineering construction and shall bear supervision liability for work safety in construction projects."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter III Safety Responsibilities of Survey, Design, Project Supervision and Other Units Concerned"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Units providing machinery, equipment and accessories for construction projects shall, in accordance with the requirements for safe construction, provide complete and effective safety facilities and devices such as guards and limiters."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Safety Responsibilities of Survey, Design, Project Supervision and Other Units Concerned"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Machinery and equipment, construction machinery and accessories leased out shall have production (manufacturing) licences and product quality certificates.\nLeasing units shall test the safety performance of the machinery and equipment, construction machinery and accessories leased out and shall produce a certificate of passing the test when concluding a lease agreement.\nIt is prohibited to lease out machinery and equipment, construction machinery and accessories that have failed the test."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Safety Responsibilities of Survey, Design, Project Supervision and Other Units Concerned"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The installation and dismantling of construction hoisting machinery and of self-climbing erection facilities such as integrally lifted scaffolds and formwork at the construction site must be undertaken by units with the corresponding qualifications.\nIn installing and dismantling construction hoisting machinery and self-climbing erection facilities such as integrally lifted scaffolds and formwork, an installation and dismantling plan shall be prepared, safe construction measures shall be formulated and professional and technical personnel shall supervise on site.\nAfter the installation of construction hoisting machinery and self-climbing erection facilities such as integrally lifted scaffolds and formwork is completed, the installing unit shall conduct self-inspection, issue a certificate of passing self-inspection, explain safe use to the contractor and complete the acceptance formalities and sign."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Safety Responsibilities of Survey, Design, Project Supervision and Other Units Concerned"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where construction hoisting machinery and self-climbing erection facilities such as integrally lifted scaffolds and formwork reach the inspection and testing period prescribed by the State, they must be tested by an inspection and testing institution with professional qualifications. Those that fail the test may not continue to be used."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Safety Responsibilities of Survey, Design, Project Supervision and Other Units Concerned"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Inspection and testing institutions shall issue safety compliance documents for construction hoisting machinery and self-climbing erection facilities such as integrally lifted scaffolds and formwork that pass the test, and shall be responsible for the test results."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Safety Responsibilities of Survey, Design, Project Supervision and Other Units Concerned"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Contractors engaging in the new construction, expansion, reconstruction, demolition and other activities of construction projects shall possess the registered capital, professional and technical personnel, technical equipment and work safety conditions prescribed by the State, obtain qualification certificates of the corresponding grade in accordance with law and undertake projects within the scope permitted by their grade of qualification."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety Responsibilities of Contractors"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The principal person in charge of a contractor shall be fully responsible for the work safety of the unit in accordance with law. The contractor shall establish and improve the work safety responsibility system and the work safety education and training system, formulate work safety rules and operating rules, guarantee the investment of funds needed for the unit's work safety conditions, conduct regular and special safety inspections of the construction projects it has undertaken and keep records of the safety inspections.\nThe project manager of a contractor shall be a person who has obtained the corresponding practising qualification, shall be responsible for the safe construction of the construction project, shall give effect to the work safety responsibility system, work safety rules and operating rules, shall ensure the effective use of work safety expenses and shall, in light of the characteristics of the project, organise the formulation of safe construction measures, eliminate hidden dangers of safety accidents and promptly and truthfully report work safety accidents."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety Responsibilities of Contractors"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The expenses required for a safe working environment and safe construction measures included in the project estimate shall be used by the contractor for the purchase and renewal of safety protection appliances and facilities, the implementation of safe construction measures and the improvement of work safety conditions, and may not be diverted to other uses."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety Responsibilities of Contractors"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Contractors shall set up work safety management bodies and be staffed with full-time work safety management personnel.\nFull-time work safety management personnel shall be responsible for on-site supervision and inspection of work safety. Where hidden dangers of safety accidents are found, they shall promptly report to the project manager and the work safety management body; and they shall immediately stop instructions given in violation of rules and operations in violation of rules.\nThe measures for staffing full-time work safety management personnel shall be formulated by the competent construction administration department of the State Council together with the other relevant departments of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety Responsibilities of Contractors"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Where a construction project is subject to general contracting, the general contractor shall bear overall responsibility for work safety at the construction site.\nThe general contractor shall itself complete the construction of the main structure of the construction project.\nWhere the general contractor subcontracts part of the construction project to another unit in accordance with law, the subcontract shall clearly specify the respective rights and obligations in respect of work safety. The general contractor and the subcontractor shall bear joint and several liability for the work safety of the subcontracted works.\nSubcontractors shall submit to the work safety management of the general contractor; where a subcontractor fails to submit to that management and thereby causes a work safety accident, the subcontractor shall bear the principal responsibility."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety Responsibilities of Contractors"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Special operation personnel such as operators of vertical transport machinery, installers and dismantlers, blasting operators, hoisting signal operators and personnel working at heights on erected structures must, in accordance with the relevant provisions of the State, undergo specialised safety operation training and obtain special operation qualification certificates before taking up their posts."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety Responsibilities of Contractors"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Contractors shall include safety technical measures and temporary electricity plans for the construction site in the construction organisation design, prepare special construction plans for the following part and sectional works of a certain scale that involve relatively high risks, attach the safety calculation results and implement them after they are signed by the technical person in charge of the contractor and the chief supervision engineer, with full-time work safety management personnel supervising on site:\n(a) foundation pit support and dewatering works;\n(b) earthwork excavation works;\n(c) formwork works;\n(d) hoisting and lifting works;\n(e) scaffolding works;\n(f) demolition and blasting works;\n(g) other works involving relatively high risks prescribed by the competent construction administration department of the State Council or other relevant departments.\nFor the special construction plans of the works listed in the preceding paragraph that involve deep foundation pits, underground concealed excavation works or high and large formwork works, the contractor shall also organise experts to demonstrate and examine them.\nThe standards for works of a certain scale that involve relatively high risks prescribed in paragraph 1 of this Article shall be formulated by the competent construction administration department of the State Council together with the other relevant departments of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety Responsibilities of Contractors"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Before the construction of a construction project begins, the technical personnel of the contractor responsible for project management shall explain in detail to the construction teams and workers the technical requirements for safe construction, and both parties shall sign to confirm the explanation."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety Responsibilities of Contractors"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Contractors shall set up conspicuous safety warning signs at dangerous positions at the construction site, such as the entrance to the site, construction hoisting machinery, temporary electricity facilities, scaffolds, entrance and exit passages, stairways, elevator shafts, openings, bridge portals, tunnel portals, the edges of foundation pits and places where explosives and harmful or dangerous gases and liquids are stored. Safety warning signs must conform to national standards.\nContractors shall, in light of the different stages of construction and changes in the surrounding environment, seasons and climate, adopt corresponding safe construction measures at the construction site. Where construction at the site is temporarily suspended, the contractor shall ensure on-site protection, and the expenses required shall be borne by the party responsible or shall be handled in accordance with the contract."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety Responsibilities of Contractors"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Contractors shall set up offices and living areas at the construction site separately from the operation areas and keep a safe distance between them; the location of offices and living areas shall meet safety requirements. The meals, drinking water, rest areas and the like of staff and workers shall conform to health standards. Contractors may not set up collective dormitories for employees in buildings that have not yet been completed.\nTemporary buildings erected at the construction site shall meet the requirements for safe use. Prefabricated movable houses used at the construction site shall have product quality certificates."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety Responsibilities of Contractors"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Contractors shall adopt special protective measures for adjacent buildings, structures and underground pipelines that may be damaged by the construction of the construction project.\nContractors shall comply with the provisions of the laws and regulations on environmental protection and shall adopt measures at the construction site to prevent or reduce the harm and pollution caused to persons and the environment by dust, waste gas, waste water, solid waste, noise, vibration and construction lighting.\nFor construction projects in urban areas, contractors shall enclose the construction site with fencing."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety Responsibilities of Contractors"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Contractors shall establish a fire safety responsibility system at the construction site, designate the persons responsible for fire safety, formulate fire safety management systems and operating rules for the use of fire, electricity and flammable and explosive materials, provide fire access routes and fire water sources, equip fire protection facilities and fire extinguishers and set up conspicuous signs at the entrance to the construction site."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety Responsibilities of Contractors"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Contractors shall provide workers with safety protection appliances and safety protection clothing and shall inform them in writing of the operating rules for dangerous posts and the harm caused by operations in violation of rules.\nWorkers have the right to criticise, report and complain about safety problems existing in the operating conditions, operating procedures and operating methods at the construction site, and have the right to refuse instructions given in violation of rules and to refuse to carry out operations forced upon them at risk.\nIn an emergency at the construction site that endangers personal safety, workers have the right to immediately stop operations or to evacuate from the dangerous area after taking the necessary emergency measures."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety Responsibilities of Contractors"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Workers shall observe the mandatory standards, rules and regulations and operating rules for safe construction and correctly use safety protection appliances, machinery and equipment."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety Responsibilities of Contractors"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Safety protection appliances, machinery and equipment, and construction machinery and accessories purchased or leased by contractors shall have production (manufacturing) licences and product quality certificates and shall be checked and accepted before entering the construction site.\nSafety protection appliances, machinery and equipment, and construction machinery and accessories at the construction site must be managed by specially assigned persons, inspected, repaired and maintained regularly, with corresponding records and files established, and shall be scrapped promptly in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety Responsibilities of Contractors"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Before using construction hoisting machinery and self-climbing erection facilities such as integrally lifted scaffolds and formwork, contractors shall organise the units concerned to carry out acceptance, or may entrust an inspection and testing institution with the corresponding qualifications to carry out acceptance; where leased machinery and equipment and construction machinery and accessories are used, the general contractor, the subcontractor, the leasing unit and the installing unit shall carry out acceptance jointly. They may be used only after passing acceptance.\nConstruction hoisting machinery prescribed in the Regulation on the Safety Supervision of Special Equipment shall, before acceptance, pass the supervisory inspection of an inspection and testing institution with the corresponding qualifications.\nContractors shall, within 30 days from the date of passing acceptance of construction hoisting machinery and self-climbing erection facilities such as integrally lifted scaffolds and formwork, register them with the competent construction administration department or another relevant department. The registration mark shall be placed in or attached to a conspicuous position on the equipment."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety Responsibilities of Contractors"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The principal person in charge, the project manager and the full-time work safety management personnel of a contractor may take up their posts only after passing the assessment of the competent construction administration department or another relevant department.\nContractors shall provide management personnel and workers with work safety education and training at least once every year, and the education and training shall be recorded in the personal work files. Persons who fail the assessment of work safety education and training may not take up their posts."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety Responsibilities of Contractors"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Before workers move to a new post or a new construction site, they shall receive work safety education and training. Persons who have not received education and training or who have failed the assessment of education and training may not take up operations.\nWhen adopting new technologies, new processes, new equipment or new materials, contractors shall provide workers with corresponding work safety education and training."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety Responsibilities of Contractors"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Contractors shall take out accident insurance against accidental injury for persons engaged in dangerous operations at the construction site.\nThe accident insurance premium shall be paid by the contractor. Where general contracting is applied, the general contractor shall pay the accident insurance premium. The term of accident insurance shall run from the date of commencement of the construction project to the date of passing the completion acceptance."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety Responsibilities of Contractors"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The department of the State Council responsible for the supervision and administration of work safety shall, in accordance with the provisions of the Work Safety Law of the People's Republic of China, exercise comprehensive supervision and administration over work safety in construction projects throughout the country.\nThe departments of local people's governments at or above the county level responsible for the supervision and administration of work safety shall, in accordance with the provisions of the Work Safety Law of the People's Republic of China, exercise comprehensive supervision and administration over work safety in construction projects within their respective administrative areas."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "The competent construction administration department of the State Council shall exercise supervision and administration over work safety in construction projects throughout the country. The railway, transport, water resources and other relevant departments of the State Council shall, in accordance with the division of duties prescribed by the State Council, be responsible for the supervision and administration of work safety in the professional construction projects concerned.\nThe competent construction administration departments of local people's governments at or above the county level shall exercise supervision and administration over work safety in construction projects within their respective administrative areas. The transport, water resources and other relevant departments of local people's governments at or above the county level shall, within the scope of their respective duties, be responsible for the supervision and administration of work safety in professional construction projects within their respective administrative areas."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "The competent construction administration departments and other relevant departments shall copy the main contents of the materials prescribed in Articles 10 and 11 of this Regulation to the departments at the same level responsible for the supervision and administration of work safety."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "When examining and issuing construction permits, the competent construction administration departments shall examine whether the construction project has safe construction measures, and may not issue a construction permit to a construction project without safe construction measures.\nThe competent construction administration departments or other relevant departments may not charge fees when examining whether a construction project has safe construction measures."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "The departments of people's governments at or above the county level responsible for the supervision and administration of work safety in construction projects have the right to take the following measures when performing their duties of safety supervision and inspection within the scope of their respective duties:\n(a) to require the unit being inspected to provide documents and materials on work safety in construction projects;\n(b) to enter the construction site of the unit being inspected for inspection;\n(c) to correct acts in construction that violate work safety requirements;\n(d) to order immediate elimination of hidden dangers of safety accidents found in inspections; where safety cannot be guaranteed before or in the course of eliminating a major hidden danger of a safety accident, to order the evacuation of workers from the dangerous area or the temporary suspension of construction."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "The competent construction administration departments or other relevant departments may entrust construction project safety supervision agencies with the specific implementation of supervision and inspection of construction sites."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "The State applies an elimination system to processes, equipment and materials that seriously endanger construction safety. The specific catalogue shall be formulated and announced by the competent construction administration department of the State Council together with the other relevant departments of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "The competent construction administration departments and other relevant departments of people's governments at or above the county level shall promptly accept reports, complaints and accusations concerning work safety accidents and hidden dangers of safety accidents in construction projects."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "The competent construction administration departments of local people's governments at or above the county level shall, in accordance with the requirements of the people's government at the same level, formulate emergency rescue plans for extraordinarily serious work safety accidents in construction projects within their respective administrative areas."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VI Emergency Rescue and Investigation and Handling of Work Safety Accidents"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Contractors shall formulate emergency rescue plans for work safety accidents of their own units, establish emergency rescue organisations or be staffed with emergency rescue personnel, equip the necessary emergency rescue equipment and devices and organise drills on a regular basis."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VI Emergency Rescue and Investigation and Handling of Work Safety Accidents"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Contractors shall, in light of the characteristics and scope of the construction of the construction project, monitor the positions and links at the construction site where major accidents are likely to occur and formulate emergency rescue plans for work safety accidents at the construction site. Where general contracting is applied, the general contractor shall uniformly organise the preparation of the emergency rescue plan for work safety accidents of the construction project, and the general contractor and the subcontractors shall, in accordance with the emergency rescue plan, each establish emergency rescue organisations or be staffed with emergency rescue personnel, equip rescue equipment and devices and organise drills on a regular basis."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VI Emergency Rescue and Investigation and Handling of Work Safety Accidents"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where a work safety accident occurs to a contractor, it shall, in accordance with the State provisions on the reporting, investigation and handling of casualty accidents, promptly and truthfully report to the department responsible for the supervision and administration of work safety, the competent construction administration department or another relevant department; where an accident occurs to special equipment, it shall also report at the same time to the department for the safety supervision and administration of special equipment. The department receiving the report shall truthfully report upward in accordance with the relevant provisions of the State.\nFor a construction project subject to general contracting, the general contractor shall be responsible for reporting the accident upward."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VI Emergency Rescue and Investigation and Handling of Work Safety Accidents"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "After a work safety accident occurs, the contractor shall take measures to prevent the expansion of the accident and to protect the accident scene. Where articles at the scene need to be moved, marks and written records shall be made and the evidence concerned shall be kept properly."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VI Emergency Rescue and Investigation and Handling of Work Safety Accidents"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "The investigation of work safety accidents in construction projects and the punishment and handling of the units and persons responsible for the accidents shall be carried out in accordance with the provisions of the relevant laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VI Emergency Rescue and Investigation and Handling of Work Safety Accidents"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where the staff of the competent construction administration departments or other relevant administrative departments of people's governments at or above the county level violate the provisions of this Regulation and commit any of the following acts, administrative sanctions of demotion or removal from office shall be imposed; where a crime is constituted, criminal liability shall be investigated in accordance with the relevant provisions of the Criminal Law:\n(a) issuing a qualification certificate to a contractor that does not meet the work safety conditions;\n(b) issuing a construction permit to a construction project that has no safe construction measures;\n(c) failing to investigate and deal with illegal acts discovered;\n(d) other acts of failing to perform the duties of supervision and administration in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where the client, in violation of the provisions of this Regulation, fails to provide the expenses required for a safe working environment and safe construction measures for the construction project, it shall be ordered to make corrections within a time limit; where it fails to do so at the expiry of the time limit, the construction project shall be ordered to stop construction.\nWhere the client fails to submit the measures for ensuring safe construction or the relevant materials on demolition works to the relevant department for the record, it shall be ordered to make corrections within a time limit and shall be given a warning."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where the client, in violation of the provisions of this Regulation, commits any of the following acts, it shall be ordered to make corrections within a time limit and shall be fined not less than RMB 200,000 and not more than RMB 500,000; where a major safety accident is caused and a crime is constituted, criminal liability shall be investigated in accordance with the relevant provisions of the Criminal Law against the persons directly responsible; where losses are caused, liability for compensation shall be borne in accordance with law:\n(a) imposing on the survey, design, construction, project supervision and other units requirements that do not conform to the provisions of the laws, regulations and mandatory standards on work safety;\n(b) requiring the contractor to compress the construction period agreed in the contract;\n(c) contracting out demolition works to a contractor without the corresponding grade of qualification."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where, in violation of the provisions of this Regulation, a survey unit or a design unit commits any of the following acts, it shall be ordered to make corrections within a time limit and shall be fined not less than RMB 100,000 and not more than RMB 300,000; where the circumstances are serious, it shall be ordered to suspend business for rectification and have its grade of qualification lowered or even its qualification certificate revoked; where a major safety accident is caused and a crime is constituted, criminal liability shall be investigated in accordance with the relevant provisions of the Criminal Law against the persons directly responsible; where losses are caused, liability for compensation shall be borne in accordance with law:\n(a) failing to carry out surveying or design in accordance with laws, regulations and the mandatory standards for engineering construction;\n(b) for a construction project adopting new structures, new materials or new processes or a construction project with a special structure, the design unit failing to put forward in the design proposals for measures to safeguard the safety of construction workers and to prevent work safety accidents."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where, in violation of the provisions of this Regulation, a project supervision unit commits any of the following acts, it shall be ordered to make corrections within a time limit; where it fails to do so at the expiry of the time limit, it shall be ordered to suspend business for rectification and shall be fined not less than RMB 100,000 and not more than RMB 300,000; where the circumstances are serious, its grade of qualification shall be lowered or even its qualification certificate revoked; where a major safety accident is caused and a crime is constituted, criminal liability shall be investigated in accordance with the relevant provisions of the Criminal Law against the persons directly responsible; where losses are caused, liability for compensation shall be borne in accordance with law:\n(a) failing to examine the safety technical measures or the special construction plan in the construction organisation design;\n(b) failing to promptly require the contractor to rectify or to suspend construction temporarily upon discovering hidden dangers of safety accidents;\n(c) failing to promptly report to the competent department concerned when the contractor refuses to rectify or to suspend construction;\n(d) failing to carry out supervision in accordance with laws, regulations and the mandatory standards for engineering construction."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where a registered practitioner fails to implement laws, regulations and the mandatory standards for engineering construction, he shall be ordered to stop practising for not less than 3 months and not more than 1 year; where the circumstances are serious, his practising qualification certificate shall be revoked and he shall not be registered within 5 years; where a major safety accident is caused, he shall not be registered for life; where a crime is constituted, criminal liability shall be investigated in accordance with the relevant provisions of the Criminal Law."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where, in violation of the provisions of this Regulation, a unit providing machinery, equipment and accessories for a construction project fails to provide complete and effective safety facilities and devices such as guards and limiters in accordance with the requirements for safe construction, it shall be ordered to make corrections within a time limit and shall be fined not less than 1 time and not more than 3 times the contract price; where losses are caused, liability for compensation shall be borne in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Where, in violation of the provisions of this Regulation, a leasing unit leases out machinery and equipment, construction machinery and accessories that have not undergone safety performance testing or that have failed the test, it shall be ordered to suspend business for rectification and shall be fined not less than RMB 50,000 and not more than RMB 100,000; where losses are caused, liability for compensation shall be borne in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where, in violation of the provisions of this Regulation, a unit installing or dismantling construction hoisting machinery or self-climbing erection facilities such as integrally lifted scaffolds and formwork commits any of the following acts, it shall be ordered to make corrections within a time limit and shall be fined not less than RMB 50,000 and not more than RMB 100,000; where the circumstances are serious, it shall be ordered to suspend business for rectification and have its grade of qualification lowered or even its qualification certificate revoked; where losses are caused, liability for compensation shall be borne in accordance with law:\n(a) failing to prepare an installation and dismantling plan and formulate safe construction measures;\n(b) failing to have professional and technical personnel supervise on site;\n(c) failing to issue a certificate of passing self-inspection or issuing a false certificate;\n(d) failing to explain safe use to the contractor and to complete the handover formalities.\nWhere a unit installing or dismantling construction hoisting machinery or self-climbing erection facilities such as integrally lifted scaffolds and formwork commits the acts specified in items (a) and (c) of the preceding paragraph, and after the relevant department or the staff and workers of the unit point out the hidden dangers of accidents it still fails to take measures, thereby causing a major casualty accident or other serious consequences and constituting a crime, criminal liability shall be investigated in accordance with the relevant provisions of the Criminal Law against the persons directly responsible."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Where, in violation of the provisions of this Regulation, a contractor commits any of the following acts, it shall be ordered to make corrections within a time limit; where it fails to do so at the expiry of the time limit, it shall be ordered to suspend business for rectification and shall be fined in accordance with the relevant provisions of the Work Safety Law of the People's Republic of China; where a major safety accident is caused and a crime is constituted, criminal liability shall be investigated in accordance with the relevant provisions of the Criminal Law against the persons directly responsible:\n(a) failing to set up a work safety management body or to be staffed with full-time work safety management personnel, or having no full-time work safety management personnel supervising on site during the construction of part or sectional works;\n(b) the principal person in charge, the project manager, the full-time work safety management personnel, workers or special operation personnel of the contractor engaging in the relevant work without safety education and training or after failing the assessment;\n(c) failing to set up conspicuous safety warning signs at dangerous positions at the construction site, or failing to provide fire access routes and fire water sources and to equip fire protection facilities and fire extinguishers at the construction site in accordance with the relevant provisions of the State;\n(d) failing to provide workers with safety protection appliances and safety protection clothing;\n(e) failing to register construction hoisting machinery and self-climbing erection facilities such as integrally lifted scaffolds and formwork after passing acceptance in accordance with the provisions;\n(f) using processes, equipment or materials that are expressly eliminated by the State or whose use is prohibited and that endanger construction safety."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Where, in violation of the provisions of this Regulation, a contractor diverts the expenses included in the project estimate for a safe working environment for work safety and for safe construction measures to other uses, it shall be ordered to make corrections within a time limit and shall be fined not less than 20 per cent and not more than 50 per cent of the diverted expenses; where losses are caused, liability for compensation shall be borne in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Where, in violation of the provisions of this Regulation, a contractor commits any of the following acts, it shall be ordered to make corrections within a time limit; where it fails to do so at the expiry of the time limit, it shall be ordered to suspend business for rectification and shall be fined not less than RMB 50,000 and not more than RMB 100,000; where a major safety accident is caused and a crime is constituted, criminal liability shall be investigated in accordance with the relevant provisions of the Criminal Law against the persons directly responsible:\n(a) failing to explain in detail the technical requirements for safe construction before construction;\n(b) failing to adopt corresponding safe construction measures at the construction site in light of the different stages of construction and changes in the surrounding environment, seasons and climate, or failing to enclose with fencing the construction site of a construction project in an urban area;\n(c) setting up collective dormitories for employees in buildings that have not yet been completed;\n(d) temporary buildings erected at the construction site not meeting the requirements for safe use;\n(e) failing to adopt special protective measures for adjacent buildings, structures and underground pipelines that may be damaged by the construction of the construction project.\nWhere a contractor commits the acts specified in items (d) and (e) of the preceding paragraph and causes losses, it shall bear liability for compensation in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Where, in violation of the provisions of this Regulation, a contractor commits any of the following acts, it shall be ordered to make corrections within a time limit; where it fails to do so at the expiry of the time limit, it shall be ordered to suspend business for rectification and shall be fined not less than RMB 100,000 and not more than RMB 300,000; where the circumstances are serious, its grade of qualification shall be lowered or even its qualification certificate revoked; where a major safety accident is caused and a crime is constituted, criminal liability shall be investigated in accordance with the relevant provisions of the Criminal Law against the persons directly responsible; where losses are caused, liability for compensation shall be borne in accordance with law:\n(a) putting safety protection appliances, machinery and equipment, and construction machinery and accessories into use before they have been checked and accepted upon entering the construction site or where they have failed such check and acceptance;\n(b) using construction hoisting machinery and self-climbing erection facilities such as integrally lifted scaffolds and formwork that have not undergone acceptance or that have failed acceptance;\n(c) entrusting a unit without the corresponding qualifications with the installation or dismantling of construction hoisting machinery and self-climbing erection facilities such as integrally lifted scaffolds and formwork at the construction site;\n(d) failing to include safety technical measures, temporary electricity plans for the construction site or special construction plans in the construction organisation design."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Where, in violation of the provisions of this Regulation, the principal person in charge or the project manager of a contractor fails to perform his duties of work safety management, he shall be ordered to make corrections within a time limit; where he fails to do so at the expiry of the time limit, the contractor shall be ordered to suspend business for rectification; where a major safety accident, a major casualty accident or other serious consequences are caused and a crime is constituted, criminal liability shall be investigated in accordance with the relevant provisions of the Criminal Law.\nWhere workers refuse to submit to management, violate rules and regulations and operating rules and carry out operations at risk, thereby causing a major casualty accident or other serious consequences and constituting a crime, criminal liability shall be investigated in accordance with the relevant provisions of the Criminal Law.\nWhere the principal person in charge or the project manager of a contractor commits the illegal acts prescribed in the preceding paragraph and the case is not serious enough for criminal punishment, a fine of not less than RMB 20,000 and not more than RMB 200,000 shall be imposed, or a sanction of removal from office shall be imposed in accordance with the authority of management; and within 5 years from the date of completion of the execution of the criminal punishment or the date of the sanction, he may not serve as the principal person in charge or the project manager of any contractor."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Where a contractor lowers its work safety conditions after obtaining its qualification certificate, it shall be ordered to make corrections within a time limit; where after rectification it still fails to meet the work safety conditions commensurate with its grade of qualification, it shall be ordered to suspend business for rectification and have its grade of qualification lowered or even its qualification certificate revoked."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "The administrative penalties prescribed in this Regulation shall be decided by the competent construction administration departments or other relevant departments in accordance with their statutory functions and powers.\nActs in violation of the provisions on fire safety management shall be penalised by the public security fire protection organs in accordance with law.\nWhere the relevant laws or administrative regulations provide otherwise on the organ deciding administrative penalties for illegal acts relating to work safety in construction projects, those provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "This Regulation does not apply to the administration of work safety in emergency rescue and disaster relief and in low-rise residential buildings built by farmers themselves."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "The administration of work safety in military construction projects shall be carried out in accordance with the relevant provisions of the Central Military Commission."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "This Regulation shall come into force on 1 February 2004."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-REG-0198'] = {
     "lawId": "CN-REG-0198",
     "sourceLang": "zh",
@@ -6366,6 +7218,987 @@
         },
         "chapter": {
           "en": "Chapter VIII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0200'] = {
+    "lawId": "CN-REG-0200",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 82 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the Construction Law of the People's Republic of China for the purpose of strengthening the management of the quality of construction projects, ensuring the quality of construction projects and protecting the safety of people's lives and property."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "These Regulations must be complied with in carrying out activities relating to the new construction, expansion and reconstruction of construction projects and in exercising supervision and administration of the quality of construction projects within the territory of the People's Republic of China.\nConstruction projects mentioned in these Regulations refer to civil engineering works, building works, line and pipeline works and equipment installation works, and decoration works."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The construction unit, survey unit, design unit, construction contractor and project supervision unit shall be responsible for the quality of construction projects in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The competent construction administrative departments of people's governments at or above the county level and other relevant departments shall strengthen the supervision and administration of the quality of construction projects."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "In carrying out construction project activities, the basic construction procedures must be strictly implemented, and the principle of survey first, design second and construction third shall be adhered to.\nPeople's governments at or above the county level and their relevant departments may not approve construction projects beyond their authority or simplify the basic construction procedures without authorisation."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The State encourages the adoption of advanced science and technology and management methods to improve the quality of construction projects."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "A construction unit shall award the works to units with the corresponding qualification grades.\nA construction unit may not award a construction project by breaking it into parts."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Quality Responsibilities and Obligations of the Construction Unit"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "A construction unit shall, in accordance with law, conduct bidding for the survey, design, construction and supervision of a construction project and for the procurement of important equipment, materials and other items related to the construction project."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Quality Responsibilities and Obligations of the Construction Unit"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "A construction unit must provide the relevant survey, design, construction and project supervision units with the original materials relating to the construction project.\nThe original materials must be true, accurate and complete."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Quality Responsibilities and Obligations of the Construction Unit"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The unit awarding a construction project may not compel the contractor to bid at a price below cost, nor may it arbitrarily shorten a reasonable construction period.\nA construction unit may not expressly or implicitly instruct the design unit or construction contractor to violate the mandatory standards for engineering construction and lower the quality of the construction project."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Quality Responsibilities and Obligations of the Construction Unit"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The specific measures for the examination of construction drawing design documents shall be formulated by the competent construction administrative department of the State Council and the other relevant departments of the State Council.\nConstruction drawing design documents that have not been examined and approved may not be used."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Quality Responsibilities and Obligations of the Construction Unit"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "For construction projects subject to supervision, the construction unit shall entrust a project supervision unit with the corresponding qualification grade to carry out supervision, or may entrust the design unit of the project that has the corresponding qualification grade for project supervision and has no subordinate relationship or other interest relationship with the construction contractor of the project under supervision to carry out supervision.\nThe following construction projects must be subject to supervision:\n(a) key construction projects of the State;\n(b) large and medium-sized public utility projects;\n(c) residential quarters developed and constructed in tracts;\n(d) projects using loans or aid funds from foreign governments or international organisations;\n(e) other projects that must be subject to supervision as prescribed by the State."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Quality Responsibilities and Obligations of the Construction Unit"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Before commencing construction, a construction unit shall, in accordance with the relevant provisions of the State, go through the formalities for supervision of project quality, which may be handled together with the formalities for the construction permit or the commencement report."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Quality Responsibilities and Obligations of the Construction Unit"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Where building materials, building components and equipment are procured by the construction unit as agreed in the contract, the construction unit shall ensure that the building materials, building components and equipment conform to the design documents and the requirements of the contract.\nA construction unit may not expressly or implicitly instruct the construction contractor to use unqualified building materials, building components and equipment."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Quality Responsibilities and Obligations of the Construction Unit"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "For decoration works involving changes to the main structure or load-bearing structure of a building, the construction unit shall, before construction, entrust the original design unit or a design unit with the corresponding qualification grade to propose a design scheme; where there is no design scheme, construction may not be carried out.\nUsers of buildings may not alter the main structure or load-bearing structure of a building without authorisation during decoration."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Quality Responsibilities and Obligations of the Construction Unit"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "After receiving the completion report of a construction project, the construction unit shall organise the design, construction, project supervision and other relevant units to carry out completion acceptance.\nThe completion acceptance of a construction project shall meet the following conditions:\n(a) all items of the construction project design and the contract have been completed;\n(b) there are complete technical archives and construction management materials;\n(c) there are reports on the incoming inspection and testing of the main building materials, building components and equipment used in the project;\n(d) there are quality conformity documents signed respectively by the survey, design, construction and project supervision units;\n(e) there is a project warranty document signed by the construction contractor.\nA construction project may be delivered for use only after passing the acceptance check."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Quality Responsibilities and Obligations of the Construction Unit"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "A construction unit shall, in strict accordance with the State provisions on archives management, promptly collect and collate the documents and materials of each stage of the construction project, establish and improve the project archives, and promptly transfer the project archives to the competent construction administrative department or other relevant departments after the completion acceptance of the construction project."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Quality Responsibilities and Obligations of the Construction Unit"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Units engaged in the survey and design of construction projects shall obtain qualification certificates of the corresponding grade in accordance with law and undertake works within the scope permitted by their qualification grades.\nSurvey and design units are prohibited from undertaking works beyond the scope permitted by their qualification grades or in the name of other survey and design units. Survey and design units are prohibited from allowing other units or individuals to undertake works in their name.\nSurvey and design units may not subcontract the works they have undertaken or unlawfully divide them for subcontracting."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Quality Responsibilities and Obligations of Survey and Design Units"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Survey and design units must carry out survey and design in accordance with the mandatory standards for engineering construction and shall be responsible for the quality of their survey and design.\nRegistered architects, registered structural engineers and other registered practitioners shall sign the design documents and be responsible for them."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Quality Responsibilities and Obligations of Survey and Design Units"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The geological, surveying, hydrological and other survey results provided by survey units must be true and accurate."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Quality Responsibilities and Obligations of Survey and Design Units"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "A design unit shall design construction projects on the basis of the survey result documents.\nThe design documents shall meet the design depth requirements prescribed by the State and shall state the reasonable service life of the works."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Quality Responsibilities and Obligations of Survey and Design Units"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "For the building materials, building components and equipment selected in the design documents, the design unit shall state the technical indicators such as specifications, models and performance, and their quality requirements must conform to the standards prescribed by the State.\nExcept for building materials, special equipment, process production lines, etc. with special requirements, the design unit may not designate manufacturers or suppliers."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Quality Responsibilities and Obligations of Survey and Design Units"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "A design unit shall give detailed explanations to the construction contractor on the construction drawing design documents that have passed examination."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Quality Responsibilities and Obligations of Survey and Design Units"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "A design unit shall participate in the analysis of quality accidents of construction projects and shall propose the corresponding technical handling scheme for quality accidents caused by design."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Quality Responsibilities and Obligations of Survey and Design Units"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "A construction contractor shall obtain a qualification certificate of the corresponding grade in accordance with law and undertake works within the scope permitted by its qualification grade.\nConstruction contractors are prohibited from undertaking works beyond the business scope permitted by their qualification grades or in the name of other construction contractors. Construction contractors are prohibited from allowing other units or individuals to undertake works in their name.\nConstruction contractors may not subcontract works or unlawfully divide works for subcontracting."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter IV Quality Responsibilities and Obligations of the Construction Contractor"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "A construction contractor shall be responsible for the construction quality of construction projects.\nA construction contractor shall establish a quality responsibility system and designate the project manager, technical person in charge and construction management person in charge of the project.\nWhere a construction project is subject to general contracting, the general contractor shall be responsible for the quality of the entire construction project; where one or more of the survey, design, construction and equipment procurement of a construction project are subject to general contracting, the general contractor shall be responsible for the quality of the construction works it has contracted or the equipment it has procured."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Quality Responsibilities and Obligations of the Construction Contractor"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where a general contractor lawfully subcontracts a construction project to another unit, the subcontractor shall be responsible to the general contractor for the quality of the subcontracted works as agreed in the subcontract, and the general contractor and the subcontractor shall bear joint and several liability for the quality of the subcontracted works."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Quality Responsibilities and Obligations of the Construction Contractor"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "A construction contractor must carry out construction in accordance with the engineering design drawings and construction technical standards, may not modify the engineering design without authorisation and may not cut corners.\nWhere a construction contractor discovers errors in the design documents and drawings during construction, it shall promptly raise opinions and suggestions."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Quality Responsibilities and Obligations of the Construction Contractor"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "A construction contractor must, in accordance with the engineering design requirements, construction technical standards and the contract, inspect building materials, building components, equipment and commercial concrete, and the inspection shall be recorded in writing and signed by a designated person; those not inspected or failing inspection may not be used."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Quality Responsibilities and Obligations of the Construction Contractor"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "A construction contractor must establish and improve an inspection system for construction quality, strictly manage working procedures, and carry out quality inspection and recording of concealed works. Before concealed works are concealed, the construction contractor shall notify the construction unit and the construction project quality supervision institution."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Quality Responsibilities and Obligations of the Construction Contractor"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "For test blocks, test specimens and related materials involving structural safety, construction personnel shall take samples on site under the supervision of the construction unit or the project supervision unit and send them to a quality testing unit with the corresponding qualification grade for testing."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Quality Responsibilities and Obligations of the Construction Contractor"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "A construction contractor shall be responsible for repairing construction projects that have quality problems during construction or that fail completion acceptance."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Quality Responsibilities and Obligations of the Construction Contractor"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "A construction contractor shall establish and improve an education and training system and strengthen the education and training of its staff and workers; persons who have not received education and training or who have failed assessment may not take up posts."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Quality Responsibilities and Obligations of the Construction Contractor"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "A project supervision unit shall obtain a qualification certificate of the corresponding grade in accordance with law and undertake project supervision business within the scope permitted by its qualification grade.\nProject supervision units are prohibited from undertaking project supervision business beyond the scope permitted by their own qualification grades or in the name of other project supervision units. Project supervision units are prohibited from allowing other units or individuals to undertake project supervision business in their name.\nA project supervision unit may not transfer its project supervision business."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter V Quality Responsibilities and Obligations of the Project Supervision Unit"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Where a project supervision unit has a subordinate relationship or other interest relationship with the construction contractor of the project under supervision or with a supplier of building materials, building components and equipment, it may not undertake the supervision business of that construction project."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter V Quality Responsibilities and Obligations of the Project Supervision Unit"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "A project supervision unit shall, in accordance with laws, regulations and the relevant technical standards, design documents and construction project contracting contracts, exercise supervision over construction quality on behalf of the construction unit and bear supervision responsibility for construction quality."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter V Quality Responsibilities and Obligations of the Project Supervision Unit"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "A project supervision unit shall assign a chief supervision engineer and supervision engineers with the corresponding qualifications to be stationed at the construction site.\nWithout the signature of a supervision engineer, building materials, building components and equipment may not be used or installed in the works, and the construction contractor may not carry out the next working procedure. Without the signature of the chief supervision engineer, the construction unit shall not allocate project funds and shall not carry out completion acceptance."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter V Quality Responsibilities and Obligations of the Project Supervision Unit"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Supervision engineers shall, in accordance with the requirements of the project supervision specifications, exercise supervision over construction projects in the forms of standing supervision, patrol inspection and parallel inspection."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V Quality Responsibilities and Obligations of the Project Supervision Unit"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The system of quality warranty applies to construction projects.\nWhen submitting the project completion acceptance report to the construction unit, the contractor of the construction project shall issue a quality warranty document to the construction unit. The quality warranty document shall clearly specify the scope, period and responsibility of warranty of the construction project."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter VI Quality Warranty of Construction Projects"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Under normal conditions of use, the minimum warranty periods for construction projects are:\n(a) for infrastructure works and the foundation works and main structure works of building works, the reasonable service life of the works prescribed in the design documents;\n(b) for roof waterproofing works and the seepage prevention of toilets, rooms and external walls requiring waterproofing, five years;\n(c) for heating and cooling systems, two heating periods or two cooling periods;\n(d) for electrical pipelines, water supply and drainage pipelines, equipment installation and decoration works, two years.\nThe warranty periods for other items shall be agreed between the awarding party and the contractor.\nThe warranty period of a construction project shall be calculated from the date of passing completion acceptance."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter VI Quality Warranty of Construction Projects"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where quality problems occur in a construction project within the warranty scope and period, the construction contractor shall perform the warranty obligation and bear liability for compensation for the losses caused."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter VI Quality Warranty of Construction Projects"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where a construction project needs to continue to be used after exceeding its reasonable service life, the property owner shall entrust a survey and design unit with the corresponding qualification grade to carry out appraisal, take measures such as reinforcement and repair on the basis of the appraisal results, and re-define the service life."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VI Quality Warranty of Construction Projects"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "The State applies a system of supervision and administration of the quality of construction projects.\nThe competent construction administrative department of the State Council shall exercise unified supervision and administration over the quality of construction projects nationwide. The railway, transport, water conservancy and other relevant departments of the State Council shall, in accordance with the division of duties prescribed by the State Council, be responsible for the supervision and administration of the quality of the relevant specialised construction projects nationwide.\nThe competent construction administrative departments of local people's governments at or above the county level shall exercise supervision and administration over the quality of construction projects within their respective administrative areas. The transport, water conservancy and other relevant departments of local people's governments at or above the county level shall, within the scope of their respective duties, be responsible for the supervision and administration of the quality of specialised construction projects within their respective administrative areas."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Administration"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "The competent construction administrative department of the State Council and the railway, transport, water conservancy and other relevant departments of the State Council shall strengthen supervision and inspection of the implementation of laws, regulations and mandatory standards relating to the quality of construction projects."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Administration"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "The development planning department of the State Council shall, in accordance with the duties prescribed by the State Council, organise inspection commissioners to carry out supervision and inspection of major construction projects funded by the State.\nThe competent department of economy and trade of the State Council shall, in accordance with the duties prescribed by the State Council, carry out supervision and inspection of major technological transformation projects of the State."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Administration"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "The supervision and administration of the quality of construction projects may be specifically carried out by construction project quality supervision institutions entrusted by the competent construction administrative department or other relevant departments.\nInstitutions engaged in the quality supervision of building works and municipal infrastructure works must, in accordance with the relevant provisions of the State, be assessed by the competent construction administrative department of the State Council or the competent construction administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government; institutions engaged in the quality supervision of specialised construction projects must, in accordance with the relevant provisions of the State, be assessed by the relevant departments of the State Council or the relevant departments of the people's government of the province, autonomous region or municipality directly under the Central Government. Only after passing the assessment may they carry out quality supervision."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Administration"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "The competent construction administrative departments and other relevant departments of local people's governments at or above the county level shall strengthen supervision and inspection of the implementation of laws, regulations and mandatory standards relating to the quality of construction projects."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Administration"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "When performing their duties of supervision and inspection, the competent construction administrative departments and other relevant departments of people's governments at or above the county level have the right to take the following measures:\n(a) requiring the unit under inspection to provide documents and materials relating to project quality;\n(b) entering the construction site of the unit under inspection to carry out inspection;\n(c) ordering correction where problems affecting project quality are discovered."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Administration"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "A construction unit shall, within 15 days from the date of passing the completion acceptance of a construction project, submit the project completion acceptance report and the documents of approval or permission for use issued by the planning, public security fire control, environmental protection and other departments to the competent construction administrative department or other relevant departments for the record.\nWhere the competent construction administrative department or other relevant departments discover that the construction unit has committed acts violating the State provisions on the quality management of construction projects in the course of completion acceptance, it shall order the suspension of use and the re-organisation of completion acceptance."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Administration"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "The relevant units and individuals shall support and cooperate with the supervision and inspection carried out by the competent construction administrative departments and other relevant departments of people's governments at or above the county level, and may not refuse or obstruct the construction project quality supervision and inspection personnel from performing their duties in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Administration"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Departments or units such as those of water supply, power supply, gas supply and public security fire control may not expressly or implicitly instruct construction units or construction contractors to purchase building materials, building components and equipment from manufacturers and suppliers designated by them."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Administration"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where a quality accident occurs in a construction project, the unit concerned shall, within 24 hours, report to the local competent construction administrative department and other relevant departments. For major quality accidents, the competent construction administrative department and other relevant departments of the place where the accident occurs shall, in accordance with the category and grade of the accident, report to the local people's government and the competent construction administrative department at the higher level and other relevant departments.\nThe procedure for investigating especially major quality accidents shall be handled in accordance with the relevant provisions of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Administration"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "All units and individuals have the right to report, accuse and complain about quality accidents and quality defects of construction projects."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Administration"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a construction unit awards a construction project to a survey, design or construction unit without the corresponding qualification grade, or entrusts it to a project supervision unit without the corresponding qualification grade, it shall be ordered to correct and be fined not less than 500,000 yuan but not more than 1,000,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VIII Penalty Provisions"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a construction unit awards a construction project by breaking it into parts, it shall be ordered to correct and be fined not less than 0.5 per cent but not more than 1 per cent of the contract price of the works; for projects using wholly or partly State-owned funds, the implementation of the project or the allocation of funds may also be suspended."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VIII Penalty Provisions"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a construction unit commits any of the following acts, it shall be ordered to correct and be fined not less than 200,000 yuan but not more than 500,000 yuan:\n(a) compelling the contractor to bid at a price below cost;\n(b) arbitrarily shortening a reasonable construction period;\n(c) expressly or implicitly instructing the design unit or construction contractor to violate the mandatory standards for engineering construction and lower the project quality;\n(d) commencing construction without authorisation where the construction drawing design documents have not been examined or have failed examination;\n(e) failing to implement project supervision where a construction project must be subject to project supervision;\n(f) failing to go through the formalities for supervision of project quality in accordance with the State provisions;\n(g) expressly or implicitly instructing the construction contractor to use unqualified building materials, building components and equipment;\n(h) failing to submit the completion acceptance report, the relevant documents of approval or the documents of permission for use for the record in accordance with the State provisions."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VIII Penalty Provisions"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a construction unit commences construction without authorisation before obtaining a construction permit or without approval of the commencement report, it shall be ordered to stop construction, correct within a time limit and be fined not less than 1 per cent but not more than 2 per cent of the contract price of the works."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VIII Penalty Provisions"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a construction unit commits any of the following acts, it shall be ordered to correct and be fined not less than 2 per cent but not more than 4 per cent of the contract price of the works; where losses are caused, it shall bear liability for compensation in accordance with law:\n(a) delivering the works for use without authorisation without organising completion acceptance;\n(b) delivering the works for use without authorisation where the acceptance check has failed;\n(c) accepting an unqualified construction project as qualified."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VIII Penalty Provisions"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a construction unit fails to transfer the project archives to the competent construction administrative department or other relevant departments after the completion acceptance of a construction project, it shall be ordered to correct and be fined not less than 10,000 yuan but not more than 100,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VIII Penalty Provisions"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a survey, design, construction or project supervision unit undertakes works beyond its own qualification grade, it shall be ordered to stop the unlawful act, and the survey, design or project supervision unit shall be fined not less than one time but not more than two times the survey fee, design fee or supervision remuneration agreed in the contract; the construction contractor shall be fined not less than 2 per cent but not more than 4 per cent of the contract price of the works, and may be ordered to suspend business for rectification or be downgraded in qualification grade; where the circumstances are serious, its qualification certificate shall be revoked; where there are unlawful gains, they shall be confiscated.\nWhoever undertakes works without obtaining a qualification certificate shall be banned and fined in accordance with the preceding paragraph; where there are unlawful gains, they shall be confiscated.\nWhoever obtains a qualification certificate by deceitful means to undertake works shall have the qualification certificate revoked and be fined in accordance with paragraph 1 of this Article; where there are unlawful gains, they shall be confiscated."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VIII Penalty Provisions"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a survey, design, construction or project supervision unit allows another unit or individual to undertake works in its name, it shall be ordered to correct, its unlawful gains shall be confiscated, and the survey and design unit and the project supervision unit shall be fined not less than one time but not more than two times the survey fee, design fee and supervision remuneration agreed in the contract; the construction contractor shall be fined not less than 2 per cent but not more than 4 per cent of the contract price of the works; it may be ordered to suspend business for rectification or be downgraded in qualification grade; where the circumstances are serious, its qualification certificate shall be revoked."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VIII Penalty Provisions"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a contractor subcontracts the works it has contracted or unlawfully divides them for subcontracting, it shall be ordered to correct and its unlawful gains shall be confiscated; the survey and design unit shall be fined not less than 25 per cent but not more than 50 per cent of the survey fee and design fee agreed in the contract; the construction contractor shall be fined not less than 0.5 per cent but not more than 1 per cent of the contract price of the works; it may be ordered to suspend business for rectification or be downgraded in qualification grade; where the circumstances are serious, its qualification certificate shall be revoked.\nWhere a project supervision unit transfers its project supervision business, it shall be ordered to correct, its unlawful gains shall be confiscated and it shall be fined not less than 25 per cent but not more than 50 per cent of the supervision remuneration agreed in the contract; it may be ordered to suspend business for rectification or be downgraded in qualification grade; where the circumstances are serious, its qualification certificate shall be revoked."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VIII Penalty Provisions"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, any of the following acts is committed, the offender shall be ordered to correct and be fined not less than 100,000 yuan but not more than 300,000 yuan:\n(a) a survey unit failing to carry out survey in accordance with the mandatory standards for engineering construction;\n(b) a design unit failing to design the works on the basis of the survey result documents;\n(c) a design unit designating manufacturers or suppliers of building materials or building components;\n(d) a design unit failing to carry out design in accordance with the mandatory standards for engineering construction.\nWhere the acts listed in the preceding paragraph cause a project quality accident, the offender shall be ordered to suspend business for rectification and be downgraded in qualification grade; where the circumstances are serious, its qualification certificate shall be revoked; where losses are caused, it shall bear liability for compensation in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VIII Penalty Provisions"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a construction contractor cuts corners during construction, uses unqualified building materials, building components and equipment, or commits other acts of failing to carry out construction in accordance with the engineering design drawings or construction technical standards, it shall be ordered to correct and be fined not less than 2 per cent but not more than 4 per cent of the contract price of the works; where the quality of the construction project does not conform to the prescribed quality standards, it shall be responsible for redoing the work and repairing it and shall compensate for the losses thereby caused; where the circumstances are serious, it shall be ordered to suspend business for rectification, be downgraded in qualification grade or have its qualification certificate revoked."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VIII Penalty Provisions"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a construction contractor fails to inspect building materials, building components, equipment and commercial concrete, or fails to take and test samples of test blocks, test specimens and related materials involving structural safety, it shall be ordered to correct and be fined not less than 100,000 yuan but not more than 200,000 yuan; where the circumstances are serious, it shall be ordered to suspend business for rectification, be downgraded in qualification grade or have its qualification certificate revoked; where losses are caused, it shall bear liability for compensation in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter VIII Penalty Provisions"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a construction contractor fails to perform the warranty obligation or delays in performing it, it shall be ordered to correct and be fined not less than 100,000 yuan but not more than 200,000 yuan, and shall bear liability for compensation for the losses caused by quality defects during the warranty period."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter VIII Penalty Provisions"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Where a project supervision unit commits any of the following acts, it shall be ordered to correct and be fined not less than 500,000 yuan but not more than 1,000,000 yuan, and shall be downgraded in qualification grade or have its qualification certificate revoked; where there are unlawful gains, they shall be confiscated; where losses are caused, it shall bear joint and several liability for compensation:\n(a) colluding with the construction unit or construction contractor to resort to fraud and lower project quality;\n(b) signing as qualified unqualified construction projects, building materials, building components and equipment."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter VIII Penalty Provisions"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a project supervision unit undertakes the supervision business of a construction project while having a subordinate relationship or other interest relationship with the construction contractor of the project under supervision or with a supplier of building materials, building components and equipment, it shall be ordered to correct and be fined not less than 50,000 yuan but not more than 100,000 yuan, and shall be downgraded in qualification grade or have its qualification certificate revoked; where there are unlawful gains, they shall be confiscated."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter VIII Penalty Provisions"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, construction is carried out without authorisation without a design scheme for decoration works involving changes to the main structure or load-bearing structure of a building, the offender shall be ordered to correct and be fined not less than 500,000 yuan but not more than 1,000,000 yuan; where a user of a building alters the main structure or load-bearing structure of the building without authorisation during decoration, the offender shall be ordered to correct and be fined not less than 50,000 yuan but not more than 100,000 yuan.\nWhere the acts listed in the preceding paragraph cause losses, liability for compensation shall be borne in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter VIII Penalty Provisions"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "Where a major project quality accident is concealed and not reported, falsely reported or reported beyond the time limit, administrative sanctions shall be given in accordance with law to the person directly in charge and other responsible persons."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter VIII Penalty Provisions"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, departments or units such as those of water supply, power supply, gas supply and public security fire control expressly or implicitly instruct construction units or construction contractors to purchase building materials, building components and equipment from manufacturers and suppliers designated by them, they shall be ordered to correct."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter VIII Penalty Provisions"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, registered architects, registered structural engineers, supervision engineers and other registered practitioners cause a quality accident through fault, they shall be ordered to stop practice for one year; where a major quality accident is caused, their practice qualification certificate shall be revoked and they shall not be registered within five years; where the circumstances are especially egregious, they shall never be registered."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter VIII Penalty Provisions"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "Where a unit is imposed a fine in accordance with the provisions of these Regulations, a fine of not less than 5 per cent but not more than 10 per cent of the amount of the fine imposed on the unit shall be imposed on the person directly in charge of the unit and other persons directly responsible."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter VIII Penalty Provisions"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "Where a construction unit, design unit, construction contractor or project supervision unit violates the provisions of the State, lowers the quality standards of the works and causes a major safety accident and thereby constitutes a crime, criminal liability shall be pursued in accordance with law against the persons directly responsible."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter VIII Penalty Provisions"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "The administrative penalties of ordering suspension of business for rectification, downgrading of qualification grade and revocation of qualification certificate provided for in these Regulations shall be decided by the authority that issued the qualification certificate; other administrative penalties shall be decided by the competent construction administrative department or other relevant departments in accordance with their statutory functions and powers.\nWhere a qualification certificate is revoked in accordance with the provisions of these Regulations, the administration department for industry and commerce shall revoke its business licence."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter VIII Penalty Provisions"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "Where functionaries of State organs derelict their duty, abuse their power or engage in malpractice for personal gain in the supervision and administration of the quality of construction projects and thereby constitute a crime, criminal liability shall be pursued in accordance with law; where a crime is not constituted, administrative sanctions shall be given in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter VIII Penalty Provisions"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "Where staff of construction, survey, design, construction contractor or project supervision units leave the unit because of transfer, retirement or other reasons and it is subsequently discovered that they violated the State provisions on the quality management of construction projects during their work in the unit and caused a major project quality accident, legal liability shall still be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter VIII Penalty Provisions"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "Awarding a project by breaking it into parts mentioned in these Regulations refers to the conduct of a construction unit in dividing a construction project that should be completed by one contractor into several parts and awarding them to different contractors.\nUnlawful subcontracting mentioned in these Regulations refers to the following conduct:\n(a) a general contractor subcontracting a construction project to a unit that does not have the corresponding qualification conditions;\n(b) where there is no stipulation in the general contracting contract for the construction project and the construction unit has not consented, the contractor handing over part of the construction project it has contracted to another unit for completion;\n(c) a general construction contractor subcontracting the construction of the main structure of the construction project to another unit;\n(d) a subcontractor further subcontracting the construction project it has contracted.\nSubcontracting mentioned in these Regulations refers to the conduct of a contractor that, after contracting a construction project, fails to perform the responsibilities and obligations agreed in the contract and transfers the entire construction project it has contracted to another person, or divides the entire construction project it has contracted into parts and separately transfers them to other units for contracting in the name of subcontracting."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "Fines and confiscated unlawful gains provided for in these Regulations must be turned over in full to the State Treasury."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "These Regulations do not apply to construction activities of emergency rescue and disaster relief works and other temporary building works and of low-rise dwellings built by farmers themselves."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "The management of military construction projects shall be carried out in accordance with the relevant provisions of the Central Military Commission."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "These Regulations shall come into force on the date of promulgation."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
         }
       }
     ]
@@ -18641,6 +20474,840 @@
     ]
   };
 
+  TR['CN-REG-0235'] = {
+    "lawId": "CN-REG-0235",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 70 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Regulation is formulated in accordance with the Law of the People's Republic of China on the Protection of Heroes and Martyrs and other relevant laws in order to carry forward the spirit of martyrs and to provide pensions and preferential treatment to the bereaved families of martyrs."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where a citizen who died heroically in defending the motherland, in socialist construction or in promoting world peace and the progress of mankind is assessed as a martyr, he shall be commended in accordance with the provisions of this Regulation. The bereaved family of a martyr shall enjoy pensions and preferential treatment in accordance with the provisions of this Regulation."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The work of commending martyrs shall adhere to the leadership of the Communist Party of China.\nThe State commends, commemorates and protects martyrs, safeguards the dignity and honour of martyrs, protects the lawful rights and interests of the bereaved families of martyrs, publicises the deeds and spirit of martyrs, carries forward the core socialist values and creates throughout society an atmosphere of respecting martyrs, remembering martyrs, learning from martyrs, defending martyrs and caring for the bereaved families of martyrs."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The pensions and preferential treatment provided by the State to the bereaved families of martyrs shall be commensurate with the level of economic and social development and shall be gradually raised as the economy and society develop.\nFunds for the commendation of martyrs and for the pensions and preferential treatment of the bereaved families of martyrs shall be included in the budget, shall be used for the prescribed purposes and shall be subject to supervision by the finance departments and audit institutions."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The whole of society shall support the work of commending martyrs and shall provide preferential treatment and assistance to the bereaved families of martyrs.\nSocial forces are encouraged and supported to make donations for the commendation of martyrs and for the pensions and preferential treatment of the bereaved families of martyrs."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The competent department for veterans affairs of the State Council shall be responsible for the work of commending martyrs throughout the country. The competent departments for veterans affairs of local people's governments at or above the county level shall be responsible for the work of commending martyrs within their respective administrative areas."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Units and individuals that make outstanding achievements in the work of commending martyrs shall be commended and rewarded in accordance with the relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "A citizen whose death meets any of the following circumstances shall be assessed as a martyr:\n(a) dying in the course of investigating and dealing with illegal and criminal acts in accordance with law, executing national security tasks, executing counter-terrorism tasks, executing special security guard tasks, or executing emergency handling and rescue tasks for emergencies;\n(b) dying in emergency rescue and disaster relief or in other efforts to rescue or protect State property, collective property or the lives and property of citizens;\n(c) dying in the execution of diplomatic tasks or of tasks of foreign aid, maintenance of international peace or law enforcement cooperation dispatched by the State;\n(d) dying in the execution of scientific research and test tasks for weapons and equipment;\n(e) dying in other circumstances where the sacrifice is particularly outstanding and serves as an exemplary model.\nWhere military personnel, and where civilian personnel of the armed forces, reserve personnel, militia members, civilian labourers and other persons who die as a result of participating in combat, executing combat support and service support tasks, participating in military operations other than war, participating in military training or executing military duties ought to be assessed as martyrs, they shall be assessed in accordance with the relevant provisions of the Regulation on Pensions and Preferential Treatment for Military Personnel."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Assessment of Martyrs"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "To apply for the assessment of a martyr, where the circumstances fall under item (a) or item (b) of paragraph 1 of Article 8 of this Regulation, the work unit of the deceased before death, the bereaved family of the deceased, or an organisation or citizen at the place where the incident occurred shall provide materials on the circumstances of the death and the like to the competent department for veterans affairs of the county-level people's government at the place where the work unit of the deceased before death is located, at the place of household registration of the bereaved family of the deceased, or at the place where the incident occurred. The competent department for veterans affairs of the county-level people's government that receives the materials shall promptly investigate and verify them, put forward a report on the assessment of the martyr and submit it to the people's government at the same level. After examination, the people's government at the same level shall report it level by level up to the people's government of the province, autonomous region or municipality directly under the Central Government for examination and assessment. Where the person is assessed as a martyr, the people's government of the province, autonomous region or municipality directly under the Central Government shall send the assessment to the competent department for veterans affairs of the State Council for review.\nWhere the circumstances fall under item (c) or item (d) of paragraph 1 of Article 8 of this Regulation, the relevant department of the State Council shall put forward a report on the assessment of the martyr and send it to the competent department for veterans affairs of the State Council for examination and assessment.\nWhere the circumstances fall under item (e) of paragraph 1 of Article 8 of this Regulation, the work unit of the deceased before death, the bereaved family of the deceased, or an organisation or citizen at the place where the incident occurred shall provide materials on the circumstances of the death and the like to the competent department for veterans affairs of the county-level people's government at the place where the work unit of the deceased before death is located, at the place of household registration of the bereaved family of the deceased, or at the place where the incident occurred. The competent department for veterans affairs of the county-level people's government that receives the materials shall promptly investigate and verify them, put forward a report on the assessment of the martyr and submit it to the people's government at the same level. After examination, the people's government at the same level shall report it level by level up to the people's government of the province, autonomous region or municipality directly under the Central Government, which shall, after examination, send it to the competent department for veterans affairs of the State Council for examination and assessment."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Assessment of Martyrs"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Martyrs assessed by the armed forces shall be sent by the Political Work Department of the Central Military Commission to the competent department for veterans affairs of the State Council for review."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Assessment of Martyrs"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The competent department for veterans affairs of the State Council shall notify the martyr assessment organ of the result of the review. Where the review is passed, the martyr assessment organ shall send a notice of martyr assessment to the competent department for veterans affairs of the county-level people's government at the place of household registration of the bereaved family of the martyr.\nIn the case of martyrs assessed by the competent department for veterans affairs of the State Council, that department shall directly send the notice of martyr assessment to the competent department for veterans affairs of the county-level people's government at the place of household registration of the bereaved family of the martyr."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Assessment of Martyrs"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The competent department for veterans affairs of the State Council shall be responsible for submitting the list of martyrs to the Committee for Meritorious Service and Honorary Titles of the Party and the State.\nCertificates for martyrs shall be produced and issued in the name of the Office of the Committee for Meritorious Service and Honorary Titles of the Party and the State."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Assessment of Martyrs"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Local people's governments at or above the county level shall hold an award ceremony on Martyrs' Day each year to confer certificates for martyrs on the bereaved families of martyrs."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Assessment of Martyrs"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Where the organisations or individuals concerned have objections to the result of the assessment or review of a martyr, they may report the matter to the organ that made the assessment or conducted the review. The organ receiving the report shall promptly investigate and handle the matter."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Assessment of Martyrs"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The State shall establish a system of commendation grants for martyrs. The standard for the commendation grant for a martyr shall be 30 times the per capita disposable income of urban residents nationwide in the year preceding the death of the martyr. In wartime, the standard for the commendation grant for martyrs who died in combat may be appropriately raised.\nThe commendation grant for a martyr shall be paid by the competent department for veterans affairs of the county-level people's government at the place of household registration of the holder of the certificate for the martyr to the parents (or supporters), spouse and children of the martyr; where there are no parents (or supporters), spouse or children, it shall be paid to the brothers and sisters of the martyr who are under 18 years of age and to those who have reached 18 years of age but have no source of living expenses and were supported by the martyr before death."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Commendation Grants for Martyrs and Pensions and Preferential Treatment for Bereaved Families of Martyrs"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "In addition to the commendation grant for martyrs prescribed in Article 15 of this Regulation, where the bereaved family of a martyr falls within the scope of application of the Regulation on Pensions and Preferential Treatment for Military Personnel and the relevant provisions, it shall also receive a lump-sum pension in accordance with the provisions, the standard for which shall be 20 times the per capita disposable income of urban residents nationwide in the year preceding the death of the martyr plus 40 months of the basic salary of the martyr himself, to be paid by the competent department for veterans affairs of the county-level people's government; where it falls within the scope of application of the Regulation on Work-Related Injury Insurance and the relevant provisions, it shall also receive, in accordance with the provisions, a lump-sum work-related death subsidy and a special subsidy for the bereaved family of the martyr equivalent to 40 months of the basic salary of the martyr himself, of which the lump-sum work-related death subsidy shall be paid in accordance with the provisions of the Regulation on Work-Related Injury Insurance and the special subsidy for the bereaved family of the martyr shall be paid by the competent department for veterans affairs of the county-level people's government.\nWhere the bereaved family of a martyr does not fall within the scope prescribed in the preceding paragraph, the competent department for veterans affairs of the county-level people's government shall pay a lump-sum pension, the standard for which shall be 20 times the per capita disposable income of urban residents nationwide in the year preceding the death of the martyr plus 40 months of the basic salary of a second lieutenant officer of the Chinese People's Liberation Army."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Commendation Grants for Martyrs and Pensions and Preferential Treatment for Bereaved Families of Martyrs"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The bereaved family of a martyr that meets any of the following conditions shall also enjoy a regular pension:\n(a) the parents (or supporters) or spouse of the martyr have no capacity for work and no source of living expenses, or their income level is lower than the average living standard of local residents;\n(b) the children of the martyr are under 18 years of age, or have reached 18 years of age but have no source of living expenses because of disability or because they are still in school;\n(c) the brothers and sisters supported by the martyr before death are under 18 years of age, or have reached 18 years of age but have no source of living expenses because they are still in school.\nWhere the bereaved family of a martyr meets the conditions prescribed in the preceding paragraph and enjoys a regular pension, the competent department for veterans affairs of the county-level people's government at the place of household registration shall, upon application and after examination and confirmation that the conditions are met, pay the regular pension from the month of such confirmation."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Commendation Grants for Martyrs and Pensions and Preferential Treatment for Bereaved Families of Martyrs"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The standard for the regular pension shall be determined by reference to the level of per capita disposable income of residents nationwide in the preceding year. The standard for the regular pension and the measures for its adjustment shall be prescribed by the competent department for veterans affairs of the State Council together with the finance department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Commendation Grants for Martyrs and Pensions and Preferential Treatment for Bereaved Families of Martyrs"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Where the bereaved family of a martyr still has special difficulties in living after receiving the regular pension, the county-level people's government shall help solve them by paying a living allowance, granting temporary assistance in accordance with the provisions or other means."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Commendation Grants for Martyrs and Pensions and Preferential Treatment for Bereaved Families of Martyrs"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where the spouse of a martyr before death remarries but continues to support the parents (or supporters) of the martyr and continues to raise the brothers and sisters of the martyr who are under 18 years of age, or who have reached 18 years of age but have no capacity for work and no source of living expenses and were supported by the martyr before death, the competent department for veterans affairs of the county-level people's government at the place of household registration shall, upon application, grant a regular subsidy by reference to the standard for the regular pension for the bereaved family of a martyr."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Commendation Grants for Martyrs and Pensions and Preferential Treatment for Bereaved Families of Martyrs"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The State shall, in accordance with the provisions, pay a regular living allowance to children of martyrs who live in rural or urban areas, have no work unit, have reached 60 years of age and had reached 18 years of age when the State established the system of regular pensions; the allowance shall be paid by the competent department for veterans affairs of the county-level people's government at the place of household registration upon application, from the month of examination and confirmation that the conditions are met."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Commendation Grants for Martyrs and Pensions and Preferential Treatment for Bereaved Families of Martyrs"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Where the bereaved family of a martyr that enjoys a regular pension or subsidy moves its household registration, the formalities for transferring the regular pension or subsidy shall be completed at the same time. The regular pension or subsidy for the current year shall be paid by the competent department for veterans affairs of the county-level people's government at the place from which the household registration is moved out, and from January of the following year it shall be paid by the competent department for veterans affairs of the county-level people's government at the place to which the household registration is moved in."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Commendation Grants for Martyrs and Pensions and Preferential Treatment for Bereaved Families of Martyrs"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The competent departments for veterans affairs of local people's governments at or above the county level shall strengthen coordination and information sharing with the relevant departments, compare personnel information and information on the receipt of benefits, verify annually the persons entitled to regular pensions and subsidies, promptly assist the bereaved families of martyrs that meet the conditions prescribed in this Regulation in completing the formalities for receiving regular pensions and subsidies, and suspend the payment of regular pensions and subsidies to those who no longer meet the conditions.\nWhere the bereaved family of a martyr that enjoys a regular pension or subsidy dies, the regular pension or subsidy it originally enjoyed shall continue to be paid for 6 months as a funeral subsidy."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Commendation Grants for Martyrs and Pensions and Preferential Treatment for Bereaved Families of Martyrs"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The State shall establish and improve the mechanism for encouraging honour and commendation and shall commend and highlight the spirit of sacrifice and dedication of the families of martyrs. Local people's governments shall hang plaques of honour for the families of the bereaved families of martyrs, issue preferential treatment certificates to the bereaved families of martyrs and invite representatives of the bereaved families of martyrs to major celebrations and commemorative activities."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Commendation Grants for Martyrs and Pensions and Preferential Treatment for Bereaved Families of Martyrs"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The State shall establish and improve the system for caring for and assisting the bereaved families of martyrs. Local people's governments shall pay regular visits and express sympathy each year, maintain regular contact with the bereaved families of martyrs, show concern for their living conditions and provide them on a priority and preferential basis with regular physical examinations, short-term convalescence, psychological counselling, spiritual consolation, legal aid, humanistic care and other services. A system of liaison persons shall be applied to the minor children of martyrs and to the parents (or supporters) of martyrs who have no one to support them, so as to strengthen care and attention."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Commendation Grants for Martyrs and Pensions and Preferential Treatment for Bereaved Families of Martyrs"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The bereaved families of martyrs shall, in accordance with the provisions, enjoy the corresponding preferential medical treatment in medical and health institutions of the armed forces and in medical and health institutions run by the government; the specific measures shall be prescribed by the competent department for veterans affairs of the State Council and the Logistic Support Department of the Central Military Commission together with the finance, health, medical security and other departments of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Commendation Grants for Martyrs and Pensions and Preferential Treatment for Bereaved Families of Martyrs"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where the children or brothers and sisters of a martyr voluntarily apply for enlistment and meet the conditions for conscription, their enlistment for active service shall be approved on a priority basis; where they apply for civilian posts in the armed forces, they shall enjoy preferential treatment in accordance with the provisions. Where the children of a martyr meet the conditions for examination and recruitment as public servants, they shall be recruited as public servants on a priority basis under equal conditions.\nWhere the bereaved family of a martyr meets the conditions for employment, the local people's government shall give priority to providing policy support and employment services so as to help it achieve stable employment. Where the bereaved family of a martyr is already employed, the employing unit shall give priority to retaining it in the event of economic layoffs. Where the bereaved family of a martyr engages in business activities, it shall enjoy the preferential policies prescribed by the State and the local people's government."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Commendation Grants for Martyrs and Pensions and Preferential Treatment for Bereaved Families of Martyrs"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Where the children of martyrs receive pre-school education and compulsory education, preferential treatment shall be given in accordance with the relevant provisions of the State. Where the children of martyrs apply for admission to ordinary senior secondary schools or secondary vocational schools, they shall enjoy preferential treatment in admission and other respects in accordance with local policies; where they apply for admission to undergraduate or junior college programmes of institutions of higher education, preferential treatment shall be given in accordance with the relevant provisions of the State; where they apply for postgraduate programmes, they shall be admitted on a priority basis under equal conditions. Where they study in public kindergartens or public schools, they shall enjoy the subsidy policies in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Commendation Grants for Martyrs and Pensions and Preferential Treatment for Bereaved Families of Martyrs"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Where the bereaved family of a martyr that meets the local conditions for housing security rents or purchases indemnificatory housing, the relevant departments of the local people's government at or above the county level shall give priority consideration. Where the bereaved family of a martyr living in a rural area has housing difficulties, the local people's government shall help solve them."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Commendation Grants for Martyrs and Pensions and Preferential Treatment for Bereaved Families of Martyrs"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "With their preferential treatment certificates, the bereaved families of martyrs shall, when travelling on railway passenger trains, ships, long-distance passenger buses and civil aircraft operating within the country, enjoy priority services in ticket purchase, security checks, waiting for boarding and passage, and family members travelling with them may enjoy the priority services together. Local people's governments are encouraged to provide preferential services to the bereaved families of martyrs when they travel by urban buses, trolleybuses, ferries and rail transit; the specific measures shall be prescribed by the local people's government.\nWhen the bereaved families of martyrs visit and tour public cultural facilities such as libraries, museums, art galleries, science and technology museums, memorial halls and sports venues, and parks, exhibition halls, places of historic interest and scenic beauty and scenic areas, they shall enjoy priority and preferential services in accordance with the provisions; the specific measures shall be prescribed by the people's government of the province, autonomous region or municipality directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Commendation Grants for Martyrs and Pensions and Preferential Treatment for Bereaved Families of Martyrs"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where members of the bereaved families of martyrs are elderly, disabled or under 16 years of age and meet the prescribed conditions, they may, in accordance with their own wishes, receive centralised care in homes of glory or hospitals for preferential treatment.\nSocial welfare institutions of all types shall give priority to admitting the bereaved families of martyrs, and publicly run welfare institutions shall provide preferential services to them."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Commendation Grants for Martyrs and Pensions and Preferential Treatment for Bereaved Families of Martyrs"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Memorial facilities for martyrs built in accordance with the relevant provisions of the State, such as martyrs' cemeteries, memorial halls, memorial pavilions and steles, memorial towers and shrines, memorial statues, memorial squares, and columbaria for martyrs, martyrs' tombs and walls bearing the names of martyrs, shall be protected by law."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Protection and Management of Memorial Facilities for Martyrs"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Memorial facilities for martyrs shall be protected by grade and, on the basis of their commemorative significance, scale of construction and state of preservation, shall be divided into national-level memorial facilities for martyrs, provincial-level memorial facilities for martyrs, municipal-level memorial facilities for martyrs in cities with districts and county-level memorial facilities for martyrs. The specific standards for grading shall be prescribed by the competent department for veterans affairs of the State Council.\nNational-level memorial facilities for martyrs shall be announced by the competent department for veterans affairs of the State Council after they are approved by the State Council.\nLocal memorial facilities for martyrs at various levels shall be announced by the competent departments for veterans affairs of local people's governments at or above the county level after they are approved by the people's governments at the same level, and shall be filed with the competent departments for veterans affairs of the people's governments at the next higher level for the record."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Protection and Management of Memorial Facilities for Martyrs"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Local people's governments at or above the county level shall strengthen the planning, construction, repair, management and maintenance of memorial facilities for martyrs, incorporate the construction and repair of memorial facilities for martyrs into the relevant plans for national economic and social development, territorial spatial planning and other plans, designate the units protecting memorial facilities for martyrs, delimit the protection areas of memorial facilities for martyrs and set up protection signs, so as to provide good places for the burial and commemoration of martyrs.\nThe design of the protection signs for memorial facilities for martyrs shall be prescribed by the competent department for veterans affairs of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Protection and Management of Memorial Facilities for Martyrs"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The protection areas of memorial facilities for martyrs shall be delimited on the basis of the category, scale and protection grade of the memorial facilities for martyrs and the surrounding environment, and a reasonable safe distance shall be maintained outside the boundaries of the memorial facilities for martyrs so as to ensure that the surrounding environment of the memorial facilities for martyrs is solemn and respectful.\nThe protection area of national-level memorial facilities for martyrs shall be delimited by the people's government of the province, autonomous region or municipality directly under the Central Government at the place where they are located, and shall be filed by its competent department for veterans affairs with the competent department for veterans affairs of the State Council for the record.\nThe protection areas of local memorial facilities for martyrs at various levels shall be delimited by the people's government that approved their protection grade, and shall be filed by its competent department for veterans affairs with the competent department for veterans affairs of the people's government at the next higher level for the record."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Protection and Management of Memorial Facilities for Martyrs"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The relevant departments of people's governments at or above the county level shall do well the protection and management of memorial facilities for martyrs, strictly perform the approval procedures for the new construction, relocation, reconstruction and expansion of memorial facilities for martyrs and the procedures for examining the redesign of exhibitions and explanatory texts, promptly handle the registration of immovable property of memorial facilities for martyrs, practise standardised management and enhance the management efficiency of memorial facilities for martyrs.\nNo memorial facilities for martyrs may be newly built, relocated, reconstructed or expanded without approval."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Protection and Management of Memorial Facilities for Martyrs"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Memorial facilities for martyrs shall be open to the public free of charge for the public to pay respects to and mourn martyrs and to carry out commemorative and educational activities.\nThe units protecting memorial facilities for martyrs shall improve the standards for management work, maintain the order of activities commemorating martyrs and raise the level of management and services."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Protection and Management of Memorial Facilities for Martyrs"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "The units protecting memorial facilities for martyrs shall collect, sort out, preserve and display the relics of martyrs and historical materials on their deeds. Those that are cultural relics shall be protected in accordance with the provisions of the relevant laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Protection and Management of Memorial Facilities for Martyrs"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The units protecting memorial facilities for martyrs shall, in light of the development of the undertaking and actual work needs, provide research curators and commentators on heroes and martyrs, improve the professional competence of exhibition and commentary personnel, give play to the advantages of red resources and expand the functions of publicity and education."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter IV Protection and Management of Memorial Facilities for Martyrs"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "The names of memorial facilities for martyrs shall be expressed in a standardised manner strictly in accordance with the names determined when their protection grades were approved.\nWhere the name of a national-level memorial facility for martyrs really needs to be changed, the competent department for veterans affairs of the people's government of the province, autonomous region or municipality directly under the Central Government shall submit an application; the change shall be announced after approval by the competent department for veterans affairs of the State Council and shall be filed with the State Council for the record.\nWhere the name of a local memorial facility for martyrs at any level really needs to be changed, the change shall be announced after approval by the competent department for veterans affairs of the people's government of the province, autonomous region or municipality directly under the Central Government, and shall be filed with the people's government at the same level and with the competent department for veterans affairs of the State Council for the record."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter IV Protection and Management of Memorial Facilities for Martyrs"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "No organisation or individual may occupy the land and facilities within the protection areas of memorial facilities for martyrs, or destroy or defile memorial facilities for martyrs in any manner.\nOther construction projects are prohibited within the protection areas of memorial facilities for martyrs. Construction projects carried out in the vicinity of the protection areas of memorial facilities for martyrs may not destroy the historical appearance of the memorial facilities for martyrs, affect their safety or pollute their environment."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IV Protection and Management of Memorial Facilities for Martyrs"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "No organisation or individual may, within the protection areas of memorial facilities for martyrs, build memorial facilities for persons other than martyrs or place ashes or bury remains."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter IV Protection and Management of Memorial Facilities for Martyrs"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "No organisation or individual may, within the protection areas of memorial facilities for martyrs, engage in activities unrelated to the commemoration of martyrs or detrimental to the image of martyrs or to the environment and atmosphere of commemorating martyrs."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter IV Protection and Management of Memorial Facilities for Martyrs"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Martyrs shall be buried in martyrs' cemeteries. Where a martyr is not buried in a martyrs' cemetery, the competent department for veterans affairs of the local people's government at or above the county level may, with the consent of the bereaved family of the martyr, relocate the remains for burial in a martyrs' cemetery; where there is no martyrs' cemetery locally, the remains may be buried in a centralised manner. When martyrs are buried, the local people's government at or above the county level shall hold solemn, respectful, civilised and thrifty ceremonies of escort and burial.\nIn wartime, the collection and burial of the remains of martyrs who died in combat shall be the responsibility of the relevant departments of people's governments at or above the county level and the relevant departments of the armed forces, and shall be handled in accordance with the relevant provisions of the State and the armed forces."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter IV Protection and Management of Memorial Facilities for Martyrs"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "The remains and relics of martyrs shall be protected by law.\nThe relics of martyrs shall be properly protected and managed."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter V Protection of the Remains and Relics of Martyrs"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "The competent department for veterans affairs of the State Council shall, together with the relevant departments, formulate the overall work plan and the annual work plan for the search, excavation and identification of the remains of martyrs and shall organise the implementation of the search, excavation and identification of the remains of martyrs in an orderly manner, and the relevant departments of local people's governments at or above the county level shall cooperate."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter V Protection of the Remains and Relics of Martyrs"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "The competent departments for veterans affairs of people's governments at or above the county level shall be responsible for organising the search, excavation and identification of the remains of martyrs, and the organisations and individuals concerned shall support and cooperate."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter V Protection of the Remains and Relics of Martyrs"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "When any organisation or individual discovers remains suspected to be those of a martyr, it shall promptly report to the competent department for veterans affairs of the local county-level people's government. The competent departments for veterans affairs of people's governments at or above the county level shall, together with the departments for Party history, public security, archives, cultural relics, planning and other relevant departments, determine the identity of the remains by using archival and historical materials, on-site relics and technical identification and comparison. Where the remains are determined to be those of a martyr, the manner of protection shall be determined on the basis of the current condition, location and environment of the remains."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter V Protection of the Remains and Relics of Martyrs"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "The competent departments for veterans affairs of people's governments at or above the county level shall properly protect the remains of martyrs and bury or place them in accordance with the provisions; they shall register the relics of martyrs in a catalogue, keep them properly and use them effectively; and they shall manage the identification data and information of the remains of martyrs in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter V Protection of the Remains and Relics of Martyrs"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Teaching and research institutions, social organisations and other social forces with the necessary conditions are encouraged and supported to participate in an orderly manner in the search, excavation, identification and protection of the remains of martyrs."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter V Protection of the Remains and Relics of Martyrs"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Through external exchanges and cooperation, the State shall search for and locate the remains, relics and historical information of martyrs who died or went missing abroad and shall strengthen protection work."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter V Protection of the Remains and Relics of Martyrs"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "A working mechanism led by the government, coordinated by society and involving citizens shall be established, and the results of the search and identification of the remains of martyrs and technical means shall be used to confirm the identity of martyrs and to find their relatives. The specific measures shall be prescribed by the competent department for veterans affairs of the State Council together with the relevant departments."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter V Protection of the Remains and Relics of Martyrs"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Publicity and education on the deeds and spirit of martyrs shall be strengthened. People's governments at all levels shall regard the publicity and promotion of the deeds and spirit of martyrs as an important part of the development of socialist spiritual civilisation and shall strengthen education in patriotism, collectivism and socialism.\nState organs, organisations, enterprises, public institutions and other organisations shall commemorate martyrs in various forms and study and publicise the deeds and spirit of martyrs."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VI Publicity and Promotion of the Deeds and Spirit of Martyrs"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "People's governments at or above the county level shall hold commemorative activities for martyrs on Martyrs' Day and invite representatives of the bereaved families of martyrs to participate.\nOn Tomb-Sweeping Day and important commemorative days, State organs, organisations, enterprises, public institutions and other organisations shall, in light of actual circumstances, organise and carry out commemorative activities for martyrs."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VI Publicity and Promotion of the Deeds and Spirit of Martyrs"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "The administrative departments for education shall focus on young students and incorporate publicity and education on the deeds and spirit of martyrs into the national education system. Schools at all levels and of all types shall strengthen education on the deeds and spirit of martyrs and regularly organise students to visit memorial facilities for martyrs. It is advocated that ceremonies for young people joining the Young Pioneers or the Communist Youth League, education at the start of the school term, thematic team and league day activities and the like be held at memorial facilities for martyrs.\nThe departments for culture, press and publication, radio and television, film, cyberspace affairs and other departments shall encourage and support the creation, production, publicity and promotion of outstanding literary and artistic works, radio and television programmes, online audiovisual programmes and publications that take the deeds of martyrs as their subject and carry forward the spirit of martyrs.\nRadio stations, television stations, newspaper and periodical publishing units, online audiovisual platforms and other providers of internet information services shall, by broadcasting or publishing works on the subject of martyrs, releasing public service advertisements, opening special columns and other means, extensively publicise the deeds and spirit of martyrs."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VI Publicity and Promotion of the Deeds and Spirit of Martyrs"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "A system and code of etiquette for paying respects to martyrs shall be established and improved, online and green ways of paying respects shall be advocated, citizens shall be guided to carry out activities of paying respects and commemorating in a solemn and orderly manner, and social forces are encouraged to actively participate in the protection of memorial facilities for martyrs, the explanation of the deeds of martyrs, the maintenance of order at commemorative sites for martyrs and other work.\nThe competent departments for veterans affairs of people's governments at or above the county level shall provide convenience for the public in activities of paying respects and commemorating and shall do well the service and support work. The competent departments for veterans affairs of the people's governments at the places where memorial facilities for martyrs are located shall do well the reception and service work for the bereaved families of martyrs who come to pay respects. Where the competent department for veterans affairs of the people's government at the place of household registration of the bereaved family of a martyr organises the bereaved family to go to memorial facilities for martyrs to pay respects, it shall make proper arrangements and ensure safety; and it shall grant subsidies in accordance with the provisions to the bereaved families of martyrs who go to other places to pay respects on their own."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VI Publicity and Promotion of the Deeds and Spirit of Martyrs"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Local people's governments shall organise the collection, sorting and display of the relics and historical materials of martyrs, compile rolls of the names of martyrs and record the deeds of martyrs in local chronicles. The competent departments for veterans affairs of local people's governments at or above the county level shall, together with the relevant departments, do well the research on historical materials of martyrs."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VI Publicity and Promotion of the Deeds and Spirit of Martyrs"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where local people's governments at or above the county level, the relevant departments and units and their staff fall under any of the following circumstances, sanctions shall be imposed in accordance with law on the leading personnel who are responsible and the persons directly responsible:\n(a) assessing or reviewing martyrs or approving pensions and preferential treatment in violation of the provisions of this Regulation;\n(b) failing to approve or pay commendation grants for martyrs or pensions and subsidies in accordance with the prescribed standards, amounts and recipients;\n(c) failing to perform the duties of protecting and managing memorial facilities for martyrs in accordance with the provisions;\n(d) taking advantage of office to seek private gain;\n(e) abusing functions and powers, neglecting duties or engaging in malpractices for personal gain in the work of commending martyrs."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where local people's governments at or above the county level, the relevant departments and units and their staff fraudulently obtain, misappropriate or embezzle funds for the commendation of martyrs and for the pensions and preferential treatment of the bereaved families of martyrs, the competent department at the higher level shall order the return and recovery thereof and shall impose sanctions in accordance with law on the leading personnel who are responsible and the persons directly responsible."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Where a unit obliged to provide preferential treatment to the bereaved families of martyrs fails to perform that obligation, the competent department for veterans affairs of the local people's government at or above the county level shall order it to perform the obligation within a specified time limit; where it still fails to do so at the expiry of the time limit, a fine of not less than RMB 20,000 and not more than RMB 50,000 shall be imposed; and sanctions shall be imposed in accordance with law on the leading personnel who are responsible and the persons directly responsible."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Whoever falsely claims commendation grants for martyrs, pensions or subsidies, or obtains commendation grants for martyrs, pensions or subsidies by issuing false certificates or forging certificates or seals, shall have the relevant benefits cancelled and the illegal gains recovered by the competent department for veterans affairs of the local people's government at or above the county level, and shall be given sanctions in accordance with law by the unit to which he belongs or by the relevant department."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Where a member of the bereaved family of a martyr is sentenced to fixed-term imprisonment or deprived of political rights for a crime, or is wanted, the pensions and preferential treatment he enjoys shall be suspended; where he is sentenced to death or life imprisonment, his eligibility for pensions and preferential treatment shall be cancelled.\nWhere a member of the bereaved family of a martyr falls under the circumstances prescribed in the preceding paragraph, the competent department for veterans affairs of the people's government of the province, autonomous region or municipality directly under the Central Government shall suspend or cancel the pensions and preferential treatment benefits concerned in accordance with the relevant provisions of the State and report the matter to the competent department for veterans affairs of the State Council for the record."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Where any of the following acts is committed in violation of the provisions of this Regulation, the competent department for veterans affairs of the people's government at or above the county level shall order correction and restoration to the original state and appearance; where losses are caused, civil liability shall be borne in accordance with law:\n(a) newly building, relocating, reconstructing or expanding memorial facilities for martyrs without approval;\n(b) illegally occupying the land or facilities within the protection areas of memorial facilities for martyrs;\n(c) destroying or defiling memorial facilities for martyrs;\n(d) carrying out other construction projects within the protection areas of memorial facilities for martyrs;\n(e) building memorial facilities for persons other than martyrs, placing ashes or burying remains within the protection areas of memorial facilities for martyrs."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Where activities unrelated to the commemoration of martyrs or detrimental to the image of martyrs or to the environment and atmosphere of commemorating martyrs are carried out within the protection areas of memorial facilities for martyrs, the units protecting the memorial facilities for martyrs shall promptly dissuade those involved; where they refuse to listen to dissuasion, the competent department for veterans affairs of the local people's government at or above the county level shall give them criticism and education and order correction."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Whoever excavates, identifies or disposes of the remains of martyrs without authorisation, or uses the relics of martyrs to impair the dignity and lawful rights and interests of martyrs, shall be ordered by the competent department for veterans affairs of the local people's government at or above the county level to stop the relevant acts."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Where an act in violation of the provisions of this Regulation constitutes a violation of public security administration, penalties for administration of public security shall be imposed in accordance with law; where a crime is constituted, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Wartime referred to in this Regulation shall be determined in accordance with the relevant provisions of the State and the armed forces.\nWhere members of the national comprehensive fire and rescue teams die in the execution of tasks and ought to be assessed as martyrs, the relevant provisions of the State shall apply."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "Certificates for martyrs and notices of martyr assessment shall be printed by the competent department for veterans affairs of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "The protection of memorial facilities for martyrs located abroad shall be handled by the competent department for veterans affairs of the State Council together with the Ministry of Foreign Affairs and other relevant departments. Where martyrs are buried abroad, the diplomatic or consular representative office of the People's Republic of China in that country shall organise activities of paying respects in light of the actual circumstances of the receiving State."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "This Regulation shall come into force on 1 January 2025."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-REG-0236'] = {
     "lawId": "CN-REG-0236",
     "sourceLang": "zh",
@@ -18831,6 +21498,2790 @@
         },
         "noLabel": {
           "en": "Article 20."
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0237'] = {
+    "lawId": "CN-REG-0237",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 68 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated for the purpose of strengthening the administration of travel agencies, safeguarding the lawful rights and interests of tourists and travel agencies, maintaining the order of the tourism market and promoting the sound development of the tourism industry."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "These Regulations apply to the establishment and business operations of travel agencies within the territory of the People's Republic of China.\nFor the purposes of these Regulations, travel agencies mean enterprise legal persons that engage in activities such as soliciting, organising and receiving tourists, provide tourists with the relevant tourism services, and carry on domestic tourism business, inbound tourism business or outbound tourism business."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The competent tourism administrative department of the State Council shall be responsible for the supervision and administration of travel agencies throughout the country.\nThe departments responsible for tourism work of local people's governments at or above the county level shall, in accordance with their duties, be responsible for the supervision and administration of travel agencies within their respective administrative regions.\nThe industry and commerce, pricing, commerce, foreign exchange and other relevant departments of people's governments at all levels at or above the county level shall, in accordance with the division of duties, supervise and administer travel agencies in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "In business activities, travel agencies shall follow the principles of voluntariness, equality, fairness and good faith, improve the quality of services and safeguard the lawful rights and interests of tourists."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Industry organisations of travel agencies shall, in accordance with their constitutions, provide services to travel agencies, give play to the role of coordination and self-discipline, and guide travel agencies in lawful and fair competition and in operating in good faith."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "An applicant to carry on domestic tourism business and inbound tourism business shall obtain enterprise legal person status and have a registered capital of not less than RMB 300,000."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Travel Agencies"
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "An applicant to carry on domestic tourism business and inbound tourism business shall file an application with the tourism administrative department of the province, autonomous region or municipality directly under the Central Government where it is located or with the tourism administrative department of the city divided into districts entrusted by the former, and shall submit the relevant supporting documents showing that the provisions of Article 6 of these Regulations are met. The tourism administrative department accepting the application shall, within 20 working days from the date of acceptance, make a decision to grant or not to grant the licence. Where the licence is granted, it shall issue a travel agency business licence to the applicant; where the licence is not granted, it shall notify the applicant in writing and state the reasons."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Travel Agencies"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "A travel agency that has obtained a business licence for two full years and has not been subjected to an administrative penalty of a fine or more serious for infringing the lawful rights and interests of tourists may apply to carry on outbound tourism business."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Travel Agencies"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "An applicant to carry on outbound tourism business shall file an application with the competent tourism administrative department of the State Council or with the tourism administrative department of the province, autonomous region or municipality directly under the Central Government entrusted by the former, and the tourism administrative department accepting the application shall, within 20 working days from the date of acceptance, make a decision to grant or not to grant the licence. Where the licence is granted, it shall replace the travel agency business licence of the applicant; where the licence is not granted, it shall notify the applicant in writing and state the reasons."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Travel Agencies"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Where a travel agency establishes a branch, it shall complete the registration of establishment with the administrative department for industry and commerce in the place where the branch is located and, within three working days from the date of registration of establishment, file a record with the tourism administrative department in the place where the branch is located.\nThe establishment of branches by travel agencies is not subject to geographical restrictions. The business scope of a branch may not exceed the business scope of the travel agency that established it."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Travel Agencies"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Where a travel agency establishes a service outlet specialising in soliciting tourists and providing tourism consultancy (hereinafter referred to as a travel agency service outlet), it shall complete the formalities for registration of establishment with the administrative department for industry and commerce in accordance with the law and file a record with the tourism administrative department in the place where it is located.\nTravel agency service outlets shall accept the unified management of the travel agency and may not engage in activities other than soliciting tourists and consultancy."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Travel Agencies"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Where a travel agency changes its registered particulars such as its name, business premises or legal representative, or terminates its business, it shall complete the corresponding registration of change or registration of cancellation with the administrative department for industry and commerce and, within ten working days from the date of completion of the registration, file a record with the tourism administrative department that originally granted the licence and exchange or surrender its travel agency business licence."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Travel Agencies"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Within three working days from the date of obtaining the travel agency business licence, a travel agency shall open a dedicated quality guarantee fund account with a bank designated by the competent tourism administrative department of the State Council, deposit the quality guarantee fund therein, or submit to the tourism administrative department that granted the licence a bank guarantee lawfully obtained for an amount not less than the corresponding amount of the quality guarantee fund.\nA travel agency carrying on domestic tourism business and inbound tourism business shall deposit a quality guarantee fund of RMB 200,000; a travel agency carrying on outbound tourism business shall additionally deposit a quality guarantee fund of RMB 1,200,000.\nThe interest on the quality guarantee fund shall belong to the travel agency."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Travel Agencies"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "For each branch established to carry on domestic tourism business and inbound tourism business, a travel agency shall additionally deposit RMB 50,000 into its quality guarantee fund account; for each branch established to carry on outbound tourism business, it shall additionally deposit RMB 300,000 into its quality guarantee fund account."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Travel Agencies"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Under any of the following circumstances, the tourism administrative department may use the quality guarantee fund of the travel agency:\n(a) the travel agency violates the provisions of the tourism contract and infringes the lawful rights and interests of tourists, and the matter is verified by the tourism administrative department as true;\n(b) tourists suffer losses of prepaid travel expenses owing to the dissolution, bankruptcy or other reasons of the travel agency."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Travel Agencies"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where a people's court, by judgment, ruling or other effective legal document, determines that a travel agency has harmed the lawful rights and interests of tourists and the travel agency refuses or is unable to compensate, the people's court may transfer the compensation from the travel agency's quality guarantee fund account."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Travel Agencies"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Where a travel agency has not been subjected to an administrative penalty of a fine or more serious for infringing the lawful rights and interests of tourists within three years from the date of payment or making up of the quality guarantee fund, the tourism administrative department shall reduce the amount of the quality guarantee fund to be deposited by the travel agency by 50 per cent and announce the reduction to society. The travel agency may reduce its quality guarantee fund on the strength of a certificate issued by the tourism administrative department of the province, autonomous region or municipality directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Travel Agencies"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where, after the tourism administrative department has used the quality guarantee fund to compensate tourists for their losses or after the quality guarantee fund has been lawfully reduced, a travel agency is subjected to an administrative penalty of a fine or more serious for infringing the lawful rights and interests of tourists, it shall make up the quality guarantee fund within five working days from the date of receipt of the notice of the tourism administrative department to make up the quality guarantee fund."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Travel Agencies"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Where a travel agency no longer carries on tourism business, it may, on the strength of a certificate issued by the tourism administrative department, withdraw the quality guarantee fund from the bank."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Travel Agencies"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The specific measures for the administration of the deposit and use of the quality guarantee fund shall be separately formulated by the competent tourism administrative department of the State Council and the finance department of the State Council together with the relevant departments."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Travel Agencies"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The provisions of this Chapter apply to travel agencies with foreign investment; where this Chapter contains no provisions, the other relevant provisions of these Regulations shall apply."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Travel Agencies with Foreign Investment"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Where an enterprise with foreign investment applies to carry on travel agency business, it shall file an application with the tourism administrative department of the province, autonomous region or municipality directly under the Central Government where it is located and submit the relevant supporting documents showing that the conditions specified in Article 6 of these Regulations are met. The tourism administrative department of the province, autonomous region or municipality directly under the Central Government shall complete the examination within 30 working days from the date of acceptance of the application. Where the licence is granted, it shall issue a travel agency business licence; where the licence is not granted, it shall notify the applicant in writing and state the reasons.\nThe establishment of a travel agency with foreign investment shall additionally comply with the laws and regulations on foreign investment."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Travel Agencies with Foreign Investment"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "A travel agency with foreign investment may not carry on the business of outbound travel of residents of the mainland of China or the business of travel to the Hong Kong Special Administrative Region, the Macao Special Administrative Region and the Taiwan region of China, except as otherwise provided by decisions of the State Council or by the free trade agreements signed by China and the arrangements between the mainland and Hong Kong and between the mainland and Macao on establishing closer economic and trade relations."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Travel Agencies with Foreign Investment"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The tourism service information provided by a travel agency to tourists must be truthful and reliable, and no false publicity may be made."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter IV Operation of Travel Agencies"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "A travel agency carrying on outbound tourism business may not organise tourists to travel to countries and regions other than the outbound tourism destinations for Chinese citizens published by the competent tourism administrative department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter IV Operation of Travel Agencies"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Tourism activities arranged or introduced by a travel agency for tourists may not contain content in violation of the provisions of the relevant laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Operation of Travel Agencies"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "A travel agency may not solicit tourists by quoting a price lower than the cost of the tour. Without the consent of tourists, a travel agency may not provide other paid services beyond those stipulated in the tourism contract."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Operation of Travel Agencies"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Where a travel agency provides services to tourists, it shall conclude a tourism contract with the tourists stating the following particulars:\n(a) the name of the travel agency and its business scope, address, contact telephone number and the number of its travel agency business licence;\n(b) the name and contact telephone number of the person handling the matter for the travel agency;\n(c) the place and date of signing;\n(d) the place of departure, the places passed through and the destination of the tour itinerary;\n(e) the arrangements for transport, accommodation and catering services in the tour itinerary and the standards therefor;\n(f) the specific content and duration of the sightseeing items uniformly arranged by the travel agency;\n(g) the time and number of occasions for tourists' free activities;\n(h) the travel expenses payable by tourists and the manner of payment;\n(i) the number of shopping occasions arranged by the travel agency, the duration of stay and the names of the shopping venues;\n(j) the sightseeing items for which tourists need to pay separately and the prices therefor;\n(k) the conditions for rescinding or modifying the contract and the time limit for advance notice;\n(l) the mechanism for resolving disputes over breach of contract and the liability to be borne;\n(m) the supervision and complaint telephone number for tourism services;\n(n) other content agreed upon by both parties through consultation."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Operation of Travel Agencies"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "When concluding a tourism contract with tourists, a travel agency shall give a truthful, accurate and complete explanation of the specific content of the tourism contract.\nWhere the terms of the tourism contract concluded between a travel agency and tourists are unclear or a dispute arises over the understanding of standard terms, the terms shall be interpreted according to the usual understanding; where there are two or more interpretations of standard terms, the interpretation favourable to tourists shall be adopted; where standard terms are inconsistent with non-standard terms, the non-standard terms shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Operation of Travel Agencies"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where a travel agency organises residents of the mainland of China to travel abroad, it shall arrange a tour leader to accompany the tour group throughout the tour."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Operation of Travel Agencies"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Tour guides assigned by a travel agency to receive tourists shall hold the tour guide certificate prescribed by the State.\nTour leaders assigned by a travel agency that has obtained a licence to carry on outbound tourism business to organise tourists to travel abroad shall have obtained a tour guide certificate, possess the corresponding educational background, language ability and tourism work experience, and have concluded a labour contract with the travel agency that assigns them to work as tour leaders. A travel agency shall report the list of its tour leaders to the tourism administrative department of the city divided into districts where it is located for the record."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Operation of Travel Agencies"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Travel agencies employing tour guides and tour leaders shall conclude labour contracts with them in accordance with the law and pay them remuneration not less than the local minimum wage standard."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Operation of Travel Agencies"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Travel agencies and the tour guides and tour leaders assigned by them may not commit the following acts:\n(a) refusing to perform the obligations stipulated in the tourism contract;\n(b) changing the itinerary arranged in the tourism contract for reasons other than force majeure;\n(c) deceiving or coercing tourists into shopping or into participating in sightseeing items requiring separate payment."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Operation of Travel Agencies"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "A travel agency may not require tour guides or tour leaders to receive tour groups that do not pay the reception and service fees or that pay fees lower than the cost of reception and services, and may not require tour guides or tour leaders to bear the relevant expenses of receiving tour groups."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Operation of Travel Agencies"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Where a travel agency violates the provisions of the tourism contract and thereby harms the lawful rights and interests of tourists, it shall take the necessary remedial measures and promptly report to the tourism administrative department."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Operation of Travel Agencies"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Where a travel agency needs to entrust tourism business to another party, it shall entrust it to a travel agency with the corresponding qualifications, obtain the consent of the tourists, conclude an entrustment contract with the entrusted travel agency on matters relating to the reception of tourists, determine the various service arrangements and standards for receiving tourists, and stipulate the rights and obligations of both parties."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Operation of Travel Agencies"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Where a travel agency entrusts tourism business to another travel agency, it shall pay the entrusted travel agency fees not less than the cost of reception and services; the entrusted travel agency may not receive tour groups that do not pay or do not pay in full the reception and service fees.\nWhere the entrusted travel agency breaches the contract and thereby harms the lawful rights and interests of tourists, the travel agency making the entrustment shall bear the corresponding liability for compensation. After compensating, the travel agency making the entrustment may recover the amount from the entrusted travel agency.\nWhere the entrusted travel agency intentionally or through gross negligence harms the lawful rights and interests of tourists, it shall bear joint and several liability."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Operation of Travel Agencies"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Travel agencies shall take out travel agency liability insurance. The specific scheme for travel agency liability insurance shall be separately formulated by the competent tourism administrative department of the State Council together with the insurance regulatory body of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Operation of Travel Agencies"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "In respect of matters that may endanger the personal or property safety of tourists, a travel agency shall give tourists a truthful explanation and a clear warning and take the necessary measures to prevent harm from occurring.\nWhere a situation endangering the personal safety of tourists occurs, the travel agency and the tour guides and tour leaders assigned by it shall take the necessary handling measures and promptly report to the tourism administrative department; where the situation occurs abroad, they shall additionally promptly report to the embassy or consulate of the People's Republic of China in that country, the relevant institutions stationed abroad and the local police."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter IV Operation of Travel Agencies"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where a tourist stays abroad beyond the permitted period and fails to return, the tour leader assigned by the travel agency shall promptly report to the travel agency and to the embassy or consulate of the People's Republic of China in that country and the relevant institutions stationed abroad. Upon receiving the report, the travel agency shall promptly report to the tourism administrative department and the public security organ and assist in providing information on the person staying illegally.\nWhere a tourist illegally stays within the territory of China in the course of inbound tourism received by a travel agency, the travel agency shall promptly report to the tourism administrative department, the public security organ and the foreign affairs department and assist in providing information on the person staying illegally."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter IV Operation of Travel Agencies"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "The tourism, industry and commerce, pricing, commerce, foreign exchange and other relevant departments shall strengthen the supervision and administration of travel agencies in accordance with the law and promptly deal with any illegal act discovered."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Inspection"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The tourism, industry and commerce, pricing and other administrative departments shall promptly announce to society the situation of supervision and inspection. The content of the announcement includes the issuance, modification, revocation and cancellation of travel agency business licences, the illegal business operations of travel agencies, the integrity records of travel agencies and the complaint information of tourists."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Inspection"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where a travel agency harms the lawful rights and interests of tourists, the tourists may complain to the tourism administrative department, the administrative department for industry and commerce, the competent pricing department, the competent commerce department or the foreign exchange administration department, and the department receiving the complaint shall promptly investigate and handle the matter in accordance with its duties and powers and inform the tourists of the relevant circumstances of the investigation and handling."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Inspection"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Travel agencies and their branches shall accept the supervision and inspection by the tourism administrative department of their tourism contracts, service quality, tourism safety, financial account books and the like, and shall, in accordance with the relevant provisions of the State, submit to the tourism administrative department statistical materials such as business and financial information."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Inspection"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Members of the staff of the tourism, industry and commerce, pricing, commerce, foreign exchange and other relevant departments may not accept any gift from a travel agency, may not participate in shopping activities or sightseeing items for which travel agencies pay the expenses, and may not use travel agencies to seek private gains for themselves, their relatives and friends or other individuals or organisations."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Inspection"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, any of the following circumstances exists, the tourism administrative department or the administrative department for industry and commerce shall order correction and confiscate the illegal gains; where the illegal gains are RMB 100,000 or more, a fine of not less than one time but not more than five times the illegal gains shall be imposed concurrently; where the illegal gains are less than RMB 100,000 or there are no illegal gains, a fine of not less than RMB 100,000 but not more than RMB 500,000 shall be imposed concurrently:\n(a) carrying on domestic tourism business, inbound tourism business or outbound tourism business without having obtained the corresponding travel agency business licence;\n(b) a branch carrying on tourism business beyond the business scope of the travel agency that established it;\n(c) a travel agency service outlet engaging in travel agency business activities other than soliciting tourists and consultancy."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where a travel agency transfers, leases or lends its travel agency business licence, the tourism administrative department shall order suspension of business for rectification for one to three months and confiscate the illegal gains; where the circumstances are serious, it shall revoke the travel agency business licence. Where a party accepts the transfer of or borrows a travel agency business licence, the tourism administrative department shall order cessation of the illegal business, confiscate the illegal gains and impose a fine of not less than RMB 100,000 but not more than RMB 500,000."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a travel agency fails to deposit, additionally deposit or make up the quality guarantee fund in its quality guarantee fund account within the prescribed time limit, or fails to submit the corresponding bank guarantee, the tourism administrative department shall order correction; where correction is refused, it shall revoke the travel agency business licence."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a travel agency fails to take out travel agency liability insurance, the tourism administrative department shall order correction; where correction is refused, it shall revoke the travel agency business licence."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a travel agency falls under any of the following circumstances, the tourism administrative department shall order correction; where correction is refused, it shall impose a fine of not more than RMB 10,000:\n(a) changing registered particulars such as its name, business premises or legal representative, or terminating its business, without filing a record with the tourism administrative department that originally granted the licence and exchanging or surrendering its travel agency business licence within the prescribed time limit;\n(b) establishing a branch without filing a record with the tourism administrative department in the place where the branch is located within the prescribed time limit;\n(c) failing to submit statistical materials such as business and financial information to the tourism administrative department in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a travel agency with foreign investment carries on the business of outbound travel of residents of the mainland of China or the business of travel to the Hong Kong Special Administrative Region, the Macao Special Administrative Region and the Taiwan region of China, or a travel agency carrying on outbound tourism business organises tourists to travel to countries and regions other than the outbound tourism destinations for Chinese citizens published by the competent tourism administrative department of the State Council, the tourism administrative department shall order correction and confiscate the illegal gains; where the illegal gains are RMB 100,000 or more, a fine of not less than one time but not more than five times the illegal gains shall be imposed concurrently; where the illegal gains are less than RMB 100,000 or there are no illegal gains, a fine of not less than RMB 100,000 but not more than RMB 500,000 shall be imposed concurrently; where the circumstances are serious, it shall revoke the travel agency business licence."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, the tourism activities arranged or introduced by a travel agency for tourists contain content in violation of the provisions of the relevant laws and regulations, the tourism administrative department shall order correction, confiscate the illegal gains and impose a fine of not less than RMB 20,000 but not more than RMB 100,000; where the circumstances are serious, it shall revoke the travel agency business licence."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, the tourism service information provided by a travel agency to tourists contains false content or false publicity is made, the administrative department for industry and commerce shall impose a penalty in accordance with the law.\nWhere, in violation of the provisions of these Regulations, a travel agency solicits tourists by quoting a price lower than the cost of the tour, the competent pricing department shall impose a penalty in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a travel agency provides other paid services beyond those stipulated in the tourism contract without the consent of tourists, the tourism administrative department shall order correction and impose a fine of not less than RMB 10,000 but not more than RMB 50,000."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a travel agency falls under any of the following circumstances, the tourism administrative department shall order correction and impose a fine of not less than RMB 20,000 but not more than RMB 100,000; where the circumstances are serious, it shall order suspension of business for rectification for one to three months:\n(a) failing to conclude a tourism contract with tourists;\n(b) concluding a tourism contract with tourists that does not state the particulars specified in Article 28 of these Regulations;\n(c) entrusting tourism business to another travel agency without the consent of tourists;\n(d) entrusting tourism business to a travel agency without the corresponding qualifications;\n(e) failing to conclude an entrustment contract with the entrusted travel agency on matters relating to the reception of tourists."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a travel agency organises residents of the mainland of China to travel abroad without arranging a tour leader to accompany the tour group throughout the tour, the tourism administrative department shall order correction and impose a fine of not less than RMB 10,000 but not more than RMB 50,000; where correction is refused, it shall order suspension of business for rectification for one to three months."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a tour guide assigned by a travel agency does not hold the tour guide certificate prescribed by the State, or a tour leader assigned by a travel agency does not meet the prescribed conditions for tour leaders, the tourism administrative department shall order correction and impose a fine of not less than RMB 20,000 but not more than RMB 100,000 on the travel agency."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a travel agency fails to pay remuneration to the tour guides or tour leaders it employs, or the remuneration paid is lower than the local minimum wage standard, the matter shall be handled in accordance with the relevant provisions of the Labour Contract Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, any of the following circumstances exists, the tourism administrative department or the administrative department for industry and commerce shall order the travel agency to make correction and impose a fine of not less than RMB 100,000 but not more than RMB 500,000 on it, and the tourism administrative department shall order the tour guides and tour leaders to make correction and impose a fine of not less than RMB 10,000 but not more than RMB 50,000 on them; where the circumstances are serious, it shall revoke the travel agency business licence and the tour guide certificates:\n(a) refusing to perform the obligations stipulated in the tourism contract;\n(b) changing the itinerary arranged in the tourism contract for reasons other than force majeure;\n(c) deceiving or coercing tourists into shopping or into participating in sightseeing items requiring separate payment."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a travel agency requires tour guides or tour leaders to receive tour groups that do not pay the reception and service fees or that pay fees lower than the cost of reception and services, or requires tour guides or tour leaders to bear the relevant expenses of receiving tour groups, the tourism administrative department shall order correction and impose a fine of not less than RMB 20,000 but not more than RMB 100,000."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where a travel agency violates the provisions of the tourism contract, thereby harming the lawful rights and interests of tourists, and fails to take the necessary remedial measures, the tourism administrative department or the administrative department for industry and commerce shall order correction and impose a fine of not less than RMB 10,000 but not more than RMB 50,000; where the circumstances are serious, the tourism administrative department shall revoke the travel agency business licence."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, any of the following circumstances exists, the tourism administrative department shall order correction and suspension of business for rectification for one to three months; where the circumstances are serious, it shall revoke the travel agency business licence:\n(a) the travel agency fails to pay the reception and service fees to the entrusted travel agency;\n(b) the fees paid by the travel agency to the entrusted travel agency are lower than the cost of reception and services;\n(c) the entrusted travel agency receives tour groups that do not pay or do not pay in full the reception and service fees."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a travel agency and the tour guides and tour leaders assigned by it fall under any of the following circumstances, the tourism administrative department shall order correction and impose a fine of not less than RMB 20,000 but not more than RMB 100,000 on the travel agency and a fine of not less than RMB 4,000 but not more than RMB 20,000 on the tour guides and tour leaders; where the circumstances are serious, it shall order the travel agency to suspend business for rectification for one to three months, or revoke the travel agency business licence and the tour guide certificates:\n(a) failing to take the necessary handling measures and promptly report when a situation endangering the personal safety of tourists occurs;\n(b) where a tourist of an outbound tour organised by the travel agency illegally stays abroad, the travel agency failing to promptly report and assist in providing information on the person staying illegally;\n(c) where a tourist of an inbound tour received by the travel agency illegally stays within the territory, the travel agency failing to promptly report and assist in providing information on the person staying illegally."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Whoever is subjected to a criminal penalty for impairing the administration of the national (border) frontier may not engage in travel agency business operations within five years from the date of completion of the execution of the penalty; where a travel agency has its travel agency business licence revoked, its principal person in charge may not serve as the principal person in charge of any travel agency within five years from the date of revocation of the travel agency business licence."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Where a travel agency, in violation of the provisions of these Regulations, harms the lawful rights and interests of tourists, it shall bear the corresponding civil liability; where a crime is constituted, criminal liability shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, the tourism administrative department or another relevant department or any of their staff falls under any of the following circumstances, the persons directly in charge and the other persons directly responsible shall be given sanctions in accordance with the law:\n(a) failing to promptly deal with an illegal act discovered;\n(b) failing to promptly announce the situation of supervision and inspection of travel agencies;\n(c) failing to promptly handle complaints of tourists and inform the tourists of the relevant circumstances of the investigation and handling;\n(d) accepting gifts from travel agencies;\n(e) participating in shopping activities or sightseeing items for which travel agencies pay the expenses;\n(f) using travel agencies to seek private gains for themselves, their relatives and friends or other individuals or organisations."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "These Regulations shall apply by reference to travel agencies established with investment in the mainland by investors from the Hong Kong Special Administrative Region, the Macao Special Administrative Region and the Taiwan region."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "These Regulations shall come into force on 1 May 2009. The Regulations on the Administration of Travel Agencies promulgated by the State Council on 15 October 1996 shall be repealed simultaneously."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0238'] = {
+    "lawId": "CN-REG-0238",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 90 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the provisions of the Drug Administration Law and other relevant laws for the purpose of strengthening the administration of narcotic drugs and psychotropic substances, ensuring the lawful, safe and rational use of narcotic drugs and psychotropic substances, and preventing them from flowing into illegal channels."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "These Regulations apply to the cultivation of the medicinal mother plants of narcotic drugs, the experimental research, production, trading, use, storage and transportation of narcotic drugs and psychotropic substances, and the supervision and administration thereof.\nThe import and export of narcotic drugs and psychotropic substances shall be handled in accordance with the provisions of the relevant laws."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Narcotic drugs and psychotropic substances as mentioned in these Regulations mean drugs and other substances listed in the catalogue provided in paragraph 2 of this Article (hereinafter referred to as the catalogue).\nNarcotic drugs and psychotropic substances shall be listed and controlled by classification into medicinal and non-medicinal categories. The catalogue of medicinal narcotic drugs and psychotropic substances shall be formulated, adjusted and published by the drug supervision and administration department of the State Council together with the public security department and the competent health department of the State Council. Among them, medicinal psychotropic substances are divided into Class I psychotropic substances and Class II psychotropic substances. The catalogue of non-medicinal narcotic drugs and psychotropic substances shall be formulated, adjusted and published by the public security department of the State Council together with the drug supervision and administration department and the competent health department of the State Council. Where a medicinal use is discovered for a non-medicinal narcotic drug or psychotropic substance, it shall be adjusted into the catalogue of medicinal narcotic drugs and psychotropic substances and shall no longer be listed in the catalogue of non-medicinal narcotic drugs and psychotropic substances.\nThe State shall organise monitoring of the abuse of drugs and other substances, assess the abuse of drugs and other substances, and establish and improve a dynamic adjustment mechanism for the catalogue. Where drugs and other substances that are marketed but not yet listed in the catalogue, or Class II psychotropic substances, are abused and have caused or may cause serious harm to society, the drug supervision and administration department, the public security department and the competent health department of the State Council shall, in accordance with the preceding paragraph, promptly list such drugs and substances in the catalogue or adjust such Class II psychotropic substances to Class I psychotropic substances."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The State shall exercise control over the medicinal mother plants of narcotic drugs and over narcotic drugs and psychotropic substances. Unless otherwise provided in these Regulations, no unit or individual may cultivate the medicinal mother plants of narcotic drugs or carry out experimental research, production, trading, use, storage, transportation or other activities involving narcotic drugs and psychotropic substances.\nFor medicinal narcotic drugs and psychotropic substances, experimental research, production, trading, use, storage and transportation may be carried out in accordance with the provisions of these Regulations; for non-medicinal narcotic drugs and psychotropic substances, experimental research may be carried out in accordance with the provisions of these Regulations, but they may not be produced, traded, used, stored or transported.\nThe State shall establish a traceability management system for narcotic drugs and psychotropic substances. The drug supervision and administration department of the State Council shall formulate unified traceability standards and specifications for narcotic drugs and psychotropic substances, promote the mutual exchange and sharing of traceability information on narcotic drugs and psychotropic substances, and achieve traceability of narcotic drugs and psychotropic substances."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The drug supervision and administration department of the State Council shall be responsible for the supervision and administration of narcotic drugs and psychotropic substances nationwide, and shall, together with the competent agriculture department of the State Council, exercise supervision and administration over the medicinal mother plants of narcotic drugs. The public security department of the State Council shall be responsible for investigating and dealing with acts causing the medicinal mother plants of narcotic drugs, narcotic drugs and psychotropic substances to flow into illegal channels. Other relevant competent departments of the State Council shall be responsible for the administration of matters relating to narcotic drugs and psychotropic substances within the scope of their respective duties.\nThe drug supervision and administration departments of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government and the departments of the people's governments of cities with districts and of counties that bear drug supervision and administration duties (hereinafter referred to as the drug supervision and administration departments) shall be responsible for the supervision and administration of narcotic drugs and psychotropic substances within their respective administrative regions. The local public security organs at or above the county level shall be responsible for investigating and dealing with acts within their respective administrative regions that cause narcotic drugs and psychotropic substances to flow into illegal channels. Other relevant competent departments of local people's governments at or above the county level shall be responsible for the administration of matters relating to narcotic drugs and psychotropic substances within the scope of their respective duties."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Enterprises producing or trading narcotic drugs and psychotropic substances and units using them may join industry associations in accordance with law. Industry associations shall strengthen industry self-regulation."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The State shall determine the total demand on the basis of the needs of medical treatment, State stockpiling and raw materials required for enterprise production, and shall exercise total volume control over the cultivation of the medicinal mother plants of narcotic drugs and over the production of narcotic drugs and psychotropic substances.\nThe drug supervision and administration department of the State Council shall formulate annual production plans on the basis of the total demand for narcotic drugs and psychotropic substances.\nThe drug supervision and administration department and the competent agriculture department of the State Council shall, on the basis of the annual production plans for narcotic drugs, formulate annual cultivation plans for the medicinal mother plants of narcotic drugs."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Cultivation, Experimental Research and Production"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Enterprises cultivating the medicinal mother plants of narcotic drugs shall cultivate them in accordance with the annual cultivation plans.\nEnterprises cultivating the medicinal mother plants of narcotic drugs shall periodically report the cultivation situation to the drug supervision and administration department and the competent agriculture department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Cultivation, Experimental Research and Production"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Enterprises cultivating the medicinal mother plants of narcotic drugs shall be jointly determined by the drug supervision and administration department and the competent agriculture department of the State Council, and no other unit or individual may cultivate the medicinal mother plants of narcotic drugs."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Cultivation, Experimental Research and Production"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "To carry out experimental research activities on narcotic drugs and psychotropic substances, the following conditions shall be met and the approval of the drug supervision and administration department of the State Council shall be obtained:\n(1) the purpose is medical treatment, scientific research or teaching;\n(2) there are measures and management systems to ensure the safety of the narcotic drugs and psychotropic substances needed for the experiments;\n(3) the unit and its staff have not committed any act in violation of the laws and administrative regulations on drug control within 2 years."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Cultivation, Experimental Research and Production"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Where a unit conducting experimental research on narcotic drugs and psychotropic substances applies for the relevant drug approval documents, it shall do so in accordance with the provisions of the Drug Administration Law; where the research results are to be assigned, the approval of the drug supervision and administration department of the State Council shall be obtained."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Cultivation, Experimental Research and Production"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Where a drug research unit produces, in the course of experimental research on ordinary drugs, a controlled variety provided for in these Regulations, it shall immediately stop the experimental research activities and report to the drug supervision and administration department of the State Council. The drug supervision and administration department of the State Council shall, in light of the circumstances, promptly decide whether to agree to its continued experimental research."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Cultivation, Experimental Research and Production"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "In clinical trials of narcotic drugs and Class I psychotropic substances, healthy persons may not be used as subjects."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Cultivation, Experimental Research and Production"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The State shall apply a system of designated production to narcotic drugs and psychotropic substances.\nThe drug supervision and administration department of the State Council shall, on the basis of the total demand for narcotic drugs and psychotropic substances, determine the number and layout of designated production enterprises of narcotic drugs and psychotropic substances, and shall adjust and publish the number and layout in light of the annual total demand."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Cultivation, Experimental Research and Production"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Designated production enterprises of narcotic drugs and psychotropic substances shall meet the following conditions:\n(1) holding a drug production licence;\n(2) holding approval documents for experimental research on narcotic drugs and psychotropic substances;\n(3) having production facilities, storage conditions and corresponding safety management facilities for narcotic drugs and psychotropic substances that comply with provisions;\n(4) having the capability to implement enterprise safety production management through a network and to report production information to the drug supervision and administration departments;\n(5) having management systems that ensure the safe production of narcotic drugs and psychotropic substances;\n(6) having a level of management and a scale of operation commensurate with the requirements for safe production of narcotic drugs and psychotropic substances;\n(7) the personnel of the production management and quality management departments for narcotic drugs and psychotropic substances being familiar with the administration of narcotic drugs and psychotropic substances and the relevant laws and administrative regulations on drug control;\n(8) having no act of producing or selling fake or inferior drugs or violating the relevant laws and administrative regulations on drug control;\n(9) conforming to the requirements on the number and layout of designated production enterprises of narcotic drugs and psychotropic substances published by the drug supervision and administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Cultivation, Experimental Research and Production"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Enterprises engaging in the production of narcotic drugs or psychotropic substances shall obtain the approval of the drug supervision and administration department of the people's government of the province, autonomous region or municipality directly under the Central Government of the place where they are located."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Cultivation, Experimental Research and Production"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Designated production enterprises producing narcotic drugs and psychotropic substances shall obtain drug approval numbers in accordance with the provisions of the Drug Administration Law.\nThe drug supervision and administration department of the State Council shall organise experts in medicine, pharmacy, sociology, ethics and drug control to form an expert group, which shall evaluate the social harm and the possibility of abuse of narcotic drugs and psychotropic substances applying for first marketing and put forward recommendations on whether to approve them.\nNarcotic drugs and psychotropic substances without drug approval numbers may not be produced."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Cultivation, Experimental Research and Production"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where a major emergency occurs and a designated production enterprise is unable to produce normally or to guarantee the supply of narcotic drugs and psychotropic substances, the drug supervision and administration department of the State Council may decide that other drug production enterprises produce narcotic drugs and psychotropic substances.\nAfter the major emergency ends, the drug supervision and administration department of the State Council shall promptly decide that the enterprises specified in the preceding paragraph cease the production of narcotic drugs and psychotropic substances."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Cultivation, Experimental Research and Production"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Designated production enterprises shall arrange production strictly in accordance with the annual production plans for narcotic drugs and psychotropic substances and shall report the production situation to the drug supervision and administration department of the people's government of the province, autonomous region or municipality directly under the Central Government of the place where they are located in accordance with provisions."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Cultivation, Experimental Research and Production"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Designated production enterprises shall, in accordance with the provisions of these Regulations, sell narcotic drugs and psychotropic substances to enterprises qualified to trade in narcotic drugs and psychotropic substances or to other units approved in accordance with the provisions of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Cultivation, Experimental Research and Production"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The labels of narcotic drugs and psychotropic substances shall bear the marks prescribed by the drug supervision and administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Cultivation, Experimental Research and Production"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The State shall apply a system of designated trading to narcotic drugs and psychotropic substances.\nThe drug supervision and administration department of the State Council shall, on the basis of the total demand for narcotic drugs and Class I psychotropic substances, determine the layout of designated wholesale enterprises of narcotic drugs and Class I psychotropic substances, and shall adjust and publish the layout in light of the annual total demand.\nDrug trading enterprises may not trade in narcotic drug active pharmaceutical ingredients or Class I psychotropic substance active pharmaceutical ingredients. However, small-packaged forms of the above drugs for use in medical treatment, scientific research and teaching may be traded by drug wholesale enterprises prescribed by the drug supervision and administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Operation"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "In addition to meeting the conditions for establishing drug trading enterprises provided in the Drug Administration Law, designated wholesale enterprises of narcotic drugs and psychotropic substances shall also meet the following conditions:\n(1) having storage conditions for narcotic drugs and psychotropic substances that comply with the provisions of these Regulations;\n(2) having the capability to implement enterprise safety management through a network and to report trading information to the drug supervision and administration departments;\n(3) the unit and its staff having committed no act in violation of the laws and administrative regulations on drug control within 2 years;\n(4) conforming to the layout of designated wholesale enterprises published by the drug supervision and administration department of the State Council.\nDesignated wholesale enterprises of narcotic drugs and Class I psychotropic substances shall also have the capability to guarantee the supply of narcotic drugs and Class I psychotropic substances required by medical institutions within their areas of supply responsibility, and shall have management systems that ensure the safe trading of narcotic drugs and Class I psychotropic substances."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Operation"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Enterprises engaging in the wholesale of narcotic drugs and Class I psychotropic substances across provinces, autonomous regions and municipalities directly under the Central Government (hereinafter referred to as national wholesale enterprises) shall obtain the approval of the drug supervision and administration department of the State Council; enterprises engaging in the wholesale of narcotic drugs and Class I psychotropic substances within the administrative region of their own province, autonomous region or municipality directly under the Central Government (hereinafter referred to as regional wholesale enterprises) shall obtain the approval of the drug supervision and administration department of the people's government of the province, autonomous region or municipality directly under the Central Government of the place where they are located.\nEnterprises engaging exclusively in the wholesale of Class II psychotropic substances shall obtain the approval of the drug supervision and administration department of the people's government of the province, autonomous region or municipality directly under the Central Government of the place where they are located.\nNational wholesale enterprises and regional wholesale enterprises may engage in the wholesale of Class II psychotropic substances."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Operation"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "National wholesale enterprises may sell narcotic drugs and Class I psychotropic substances to regional wholesale enterprises or, upon approval, to medical institutions qualified to use narcotic drugs and Class I psychotropic substances and to other units approved in accordance with the provisions of these Regulations.\nWhere a national wholesale enterprise sells narcotic drugs and Class I psychotropic substances to a medical institution qualified to use narcotic drugs and Class I psychotropic substances, it shall obtain the approval of the drug supervision and administration department of the people's government of the province, autonomous region or municipality directly under the Central Government of the place where the medical institution is located.\nWhen approving a national wholesale enterprise, the drug supervision and administration department of the State Council shall specify the area in which it bears responsibility for drug supply."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Operation"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Regional wholesale enterprises may sell narcotic drugs and Class I psychotropic substances to medical institutions qualified to use narcotic drugs and Class I psychotropic substances within the administrative region of their own province, autonomous region or municipality directly under the Central Government; where, owing to special geographical location, they need to sell nearby to medical institutions qualified to use narcotic drugs and Class I psychotropic substances in the administrative region of another province, autonomous region or municipality directly under the Central Government, they shall obtain the approval of the drug supervision and administration department of the people's government of the province, autonomous region or municipality directly under the Central Government of the place where the enterprise is located. The drug supervision and administration department responsible for approval shall, within 5 days after approval, notify the drug supervision and administration department of the people's government of the province, autonomous region or municipality directly under the Central Government of the place where the medical institution is located.\nWhen approving a regional wholesale enterprise, the drug supervision and administration department of the people's government of the province, autonomous region or municipality directly under the Central Government shall specify the area in which it bears responsibility for drug supply.\nWhere, owing to special circumstances such as urgent medical need or transport difficulties, regional wholesale enterprises need to adjust and exchange narcotic drugs and Class I psychotropic substances among themselves, they shall, within 2 days after the adjustment, report the adjustment to the drug supervision and administration departments of the people's governments of the provinces, autonomous regions or municipalities directly under the Central Government of the places where they are located for the record respectively."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Operation"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "National wholesale enterprises shall purchase narcotic drugs and Class I psychotropic substances from designated production enterprises.\nRegional wholesale enterprises may purchase narcotic drugs and Class I psychotropic substances from national wholesale enterprises; with the approval of the drug supervision and administration department of the people's government of the province, autonomous region or municipality directly under the Central Government of the place where they are located, they may also purchase narcotic drugs and Class I psychotropic substances from designated production enterprises."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Operation"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Where national wholesale enterprises and regional wholesale enterprises sell narcotic drugs and Class I psychotropic substances to medical institutions, they shall deliver the drugs to the medical institutions. Medical institutions may not collect the goods themselves."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Operation"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Designated wholesale enterprises of Class II psychotropic substances may sell Class II psychotropic substances to medical institutions, designated wholesale enterprises, drug retail enterprises that comply with the provisions of Article 31 of these Regulations, and other units approved in accordance with the provisions of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Operation"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Narcotic drugs and Class I psychotropic substances may not be retailed.\nIt is prohibited to use cash in transactions involving narcotic drugs and psychotropic substances, except where an individual lawfully purchases narcotic drugs and psychotropic substances."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Operation"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "With the approval of the drug supervision and administration department of the city with districts of the place where it is located, a drug retail chain enterprise practising unified purchasing, unified distribution and unified management may engage in the retail of Class II psychotropic substances."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Operation"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Retail enterprises of Class II psychotropic substances shall sell Class II psychotropic substances on the prescription issued by a practising physician, in the prescribed dosage, and shall keep the prescription for 2 years for inspection; it is prohibited to sell Class II psychotropic substances in excess of the dosage or without a prescription; and Class II psychotropic substances may not be sold to minors."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III Operation"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Government-guided prices shall apply to narcotic drugs and Class I psychotropic substances. The specific measures shall be formulated by the competent medical security department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter III Operation"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Where a drug production enterprise needs to use narcotic drugs and Class I psychotropic substances as raw materials to produce ordinary drugs, it shall submit an annual demand plan to the drug supervision and administration department of the people's government of the province, autonomous region or municipality directly under the Central Government of the place where it is located; the drug supervision and administration department of the people's government of the province, autonomous region or municipality directly under the Central Government shall summarise the plan and submit it to the drug supervision and administration department of the State Council for approval, after which the enterprise shall purchase from designated production enterprises.\nWhere a drug production enterprise needs to use Class II psychotropic substances as raw materials to produce ordinary drugs, it shall report its annual demand plan to the drug supervision and administration department of the people's government of the province, autonomous region or municipality directly under the Central Government of the place where it is located and shall purchase from designated wholesale enterprises or designated production enterprises."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Use"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Where a non-drug production enterprise in the food, food additive, cosmetics or paint industry needs to use caffeine as a raw material, it shall obtain the approval of the drug supervision and administration department of the people's government of the province, autonomous region or municipality directly under the Central Government of the place where it is located and shall purchase from designated wholesale enterprises or designated production enterprises.\nWhere a scientific research or teaching unit needs to use narcotic drugs and psychotropic substances to carry out experimental or teaching activities, it shall obtain the approval of the drug supervision and administration department of the people's government of the province, autonomous region or municipality directly under the Central Government of the place where it is located and shall purchase from designated wholesale enterprises or designated production enterprises.\nWhere reference standards and reference substances of narcotic drugs and psychotropic substances are needed, approval of the drug supervision and administration department of the people's government of the province, autonomous region or municipality directly under the Central Government of the place where the applicant is located shall be obtained, and the purchase shall be made from a unit approved by the drug supervision and administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Use"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Where a medical institution needs to use narcotic drugs and Class I psychotropic substances, it shall obtain the approval of the competent health department of the people's government of the city with districts of the place where it is located and obtain a seal card for the purchase and use of narcotic drugs and Class I psychotropic substances (hereinafter referred to as the seal card). Medical institutions shall, on the strength of the seal card, purchase narcotic drugs and Class I psychotropic substances from designated wholesale enterprises within the administrative region of their own province, autonomous region or municipality directly under the Central Government.\nWhen the competent health department of the people's government of the city with districts issues a seal card to a medical institution, it shall send a copy of the particulars of the medical institution obtaining the seal card to the drug supervision and administration department of the city with districts of the place where it is located and report it to the competent health department of the people's government of the province, autonomous region or municipality directly under the Central Government for the record. The competent health department of the people's government of the province, autonomous region or municipality directly under the Central Government shall notify the designated wholesale enterprises within its administrative region of the list of medical institutions that have obtained seal cards."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Use"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "To obtain a seal card, a medical institution shall meet the following conditions:\n(1) having full-time personnel for the administration of narcotic drugs and Class I psychotropic substances;\n(2) having practising physicians qualified to prescribe narcotic drugs and Class I psychotropic substances;\n(3) having facilities and management systems that ensure the safe storage of narcotic drugs and Class I psychotropic substances."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Use"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Medical institutions shall, in accordance with the provisions of the competent health department of the State Council, provide training and assessment to their practising physicians on knowledge of the use of narcotic drugs and psychotropic substances and, for those who pass the assessment, grant the qualification to prescribe narcotic drugs and Class I psychotropic substances. A practising physician may prescribe narcotic drugs and Class I psychotropic substances in the medical institution only after obtaining the qualification to prescribe them, and may not prescribe such drugs for himself or herself.\nMedical institutions shall periodically submit to the competent health department of the people's government of the city with districts of the place where they are located the list of practising physicians qualified to prescribe narcotic drugs and Class I psychotropic substances and any changes thereto, and send a copy to the drug supervision and administration department at the same level.\nMedical personnel shall use narcotic drugs and psychotropic substances in accordance with the guiding principles for clinical application formulated by the competent health department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Use"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "A practising physician qualified to prescribe narcotic drugs and Class I psychotropic substances shall, in accordance with the guiding principles for clinical application, meet the reasonable medication needs of patients who genuinely need narcotic drugs or Class I psychotropic substances. Where a patient with cancer pain or another critically ill patient receiving treatment at a medical institution cannot obtain narcotic drugs or Class I psychotropic substances, the patient or his or her relatives may apply to a practising physician. Where a practising physician qualified to prescribe narcotic drugs and Class I psychotropic substances considers the request reasonable, he or she shall promptly provide the patient with the needed narcotic drugs or Class I psychotropic substances."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter IV Use"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "A practising physician shall use special prescriptions to prescribe narcotic drugs and psychotropic substances, and the maximum dosage of a single prescription shall comply with the provisions of the competent health department of the State Council. When prescribing narcotic drugs and psychotropic substances, a practising physician shall verify the patient's information; where the patient's information cannot be verified owing to an emergency such as the rescue of a patient, the practising physician may prescribe narcotic drugs and psychotropic substances first.\nFor prescriptions of narcotic drugs and Class I psychotropic substances, the dispenser and the verifier of the prescription shall carefully verify it, sign their names and register it; where the prescription does not comply with the provisions of these Regulations, the dispenser and the verifier shall refuse to dispense the drugs.\nThe format of the special prescriptions for narcotic drugs and psychotropic substances shall be prescribed by the competent health department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter IV Use"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Medical institutions shall register prescriptions for narcotic drugs and psychotropic substances in dedicated books and strengthen management. Prescriptions for narcotic drugs shall be kept for at least 3 years, and prescriptions for psychotropic substances for at least 2 years. Medical institutions shall, in accordance with the provisions of the competent health department of the State Council, promptly submit information on prescriptions for narcotic drugs and psychotropic substances."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IV Use"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where a medical institution urgently needs narcotic drugs and Class I psychotropic substances for rescuing a patient and cannot provide them itself, it may borrow them urgently from another medical institution or a designated wholesale enterprise; after the rescue work is completed, it shall promptly report the borrowing to the drug supervision and administration department and the competent health department of the city with districts of the place where it is located for the record."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter IV Use"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "For narcotic drugs and psychotropic substances that are needed clinically but not supplied on the market, where a medical institution holding a medical institution preparation licence and a seal card needs to prepare preparations, it shall obtain the approval of the drug supervision and administration department of the people's government of the province, autonomous region or municipality directly under the Central Government of the place where it is located. Preparations of narcotic drugs and psychotropic substances prepared by a medical institution may be used only in that medical institution and may not be sold externally."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter IV Use"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where an individual needs narcotic drugs or Class I psychotropic substances for the treatment of a disease, he or she may, on the strength of a medical diagnosis certificate issued by a medical institution and his or her identity certificate, carry narcotic drugs and Class I psychotropic substances not exceeding the maximum dosage of a single prescription; where narcotic drugs and Class I psychotropic substances are carried into or out of the country, the customs shall release them on the principle of personal use and reasonableness.\nWhere medical personnel carry a small quantity of narcotic drugs and psychotropic substances into or out of the country for medical needs, they shall hold a certificate for carrying narcotic drugs and psychotropic substances issued by the drug supervision and administration department of a people's government at or above the provincial level. The customs shall release them on the strength of the certificate for carrying narcotic drugs and psychotropic substances."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter IV Use"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Medical institutions and drug rehabilitation institutions may, for the purpose of carrying out drug rehabilitation treatment, use methadone or other narcotic drugs and psychotropic substances determined by the State for drug rehabilitation treatment. The specific administrative measures shall be formulated by the drug supervision and administration department, the public security department and the competent health department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter IV Use"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Enterprises cultivating the medicinal mother plants of narcotic drugs, designated production enterprises, national wholesale enterprises and regional wholesale enterprises, and narcotic drug storage units established by the State shall set up dedicated warehouses for storing narcotic drugs and Class I psychotropic substances. Such dedicated warehouses shall meet the following requirements:\n(1) being equipped with dedicated anti-theft doors and subject to two-person, two-lock management;\n(2) having the corresponding fire prevention facilities;\n(3) having monitoring facilities and alarm devices, and the alarm devices shall be networked with the alarm system of the public security organ.\nDrug storage points established by national wholesale enterprises with the approval of the drug supervision and administration department of the State Council shall comply with the provisions of the preceding paragraph.\nDesignated production enterprises of narcotic drugs shall store narcotic drug active pharmaceutical ingredients and preparations separately."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter V Storage"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Units using narcotic drugs and Class I psychotropic substances shall set up dedicated warehouses or dedicated cabinets for storing narcotic drugs and Class I psychotropic substances. Dedicated warehouses shall be equipped with anti-theft facilities and installed with alarm devices; dedicated cabinets shall be safes. Dedicated warehouses and dedicated cabinets shall be subject to two-person, two-lock management."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter V Storage"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Enterprises cultivating the medicinal mother plants of narcotic drugs, designated production enterprises, national wholesale enterprises and regional wholesale enterprises, narcotic drug storage units established by the State, and units using narcotic drugs and Class I psychotropic substances shall assign dedicated personnel to be responsible for management work and shall establish dedicated account books for storing narcotic drugs and Class I psychotropic substances. The warehousing of drugs shall be accepted by two persons, and the outbound delivery shall be rechecked by two persons, so that the accounts correspond to the goods. Dedicated account books shall be kept for not less than 5 years from the date of expiry of the validity period of the drugs."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter V Storage"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Enterprises trading in Class II psychotropic substances shall set up independent dedicated warehouses or dedicated cabinets in their drug warehouses for storing Class II psychotropic substances, shall establish dedicated account books and shall assign dedicated personnel for management. Dedicated account books shall be kept for not less than 5 years from the date of expiry of the validity period of the drugs."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter V Storage"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Parties consigning, carriers and parties transporting narcotic drugs and psychotropic substances themselves shall take safety and security measures to prevent narcotic drugs and psychotropic substances from being stolen, robbed or lost in the course of transportation."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VI Transport"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where narcotic drugs and Class I psychotropic substances are transported by rail, containers or railway luggage cars shall be used, and the specific measures shall be formulated by the drug supervision and administration department of the State Council together with the competent railway department of the State Council.\nWhere there is no railway and narcotic drugs and Class I psychotropic substances need to be transported by road or water, they shall be escorted by dedicated personnel."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VI Transport"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Units consigning or transporting narcotic drugs and Class I psychotropic substances themselves shall apply to the drug supervision and administration department of the city with districts of the place where they are located for a transport certificate. A transport certificate shall be valid for 1 year.\nA transport certificate shall be kept by dedicated personnel and may not be altered, assigned or lent."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VI Transport"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "When a consignor completes the formalities for the transport of narcotic drugs and Class I psychotropic substances, it shall deliver a copy of the transport certificate to the carrier. The carrier shall inspect and retain the copy of the transport certificate and check the packaging of the goods. Where there is no transport certificate or the packaging of the goods does not comply with provisions, the carrier may not accept the goods for carriage.\nA carrier shall carry a copy of the transport certificate during transportation for inspection."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VI Transport"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where narcotic drugs and psychotropic substances are mailed, the sender shall submit a certificate permitting mailing issued by the drug supervision and administration department of the city with districts of the place where the sender is located. The postal business institution shall inspect and retain the certificate permitting mailing; where there is no certificate permitting mailing, the postal business institution may not accept the mail.\nThe competent postal department of the province, autonomous region or municipality directly under the Central Government shall designate postal business institutions that meet the safety and security conditions to be responsible for accepting mail containing narcotic drugs and psychotropic substances. When accepting mail containing narcotic drugs and psychotropic substances, the postal business institution shall inspect the narcotic drugs and psychotropic substances in accordance with law.\nThe specific administrative measures for mailing narcotic drugs and psychotropic substances shall be formulated by the drug supervision and administration department of the State Council together with the competent postal department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VI Transport"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where narcotic drugs or Class I psychotropic substances are transported between designated production enterprises, national wholesale enterprises and regional wholesale enterprises, the consignor shall, before dispatch, submit the relevant information on the transport to the drug supervision and administration department of the people's government of the province, autonomous region or municipality directly under the Central Government of the place where it is located. Where the transport is across provinces, autonomous regions or municipalities directly under the Central Government, the drug supervision and administration department receiving the information shall notify the drug supervision and administration department at the same level of the place where the consignee is located; where the transport is within the administrative region of the province, autonomous region or municipality directly under the Central Government, the drug supervision and administration department receiving the information shall notify the drug supervision and administration department of the city with districts of the place where the consignee is located."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VI Transport"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where an applicant files an application for an examination and approval matter provided for in these Regulations, it shall submit the relevant materials capable of proving that it meets the conditions provided in these Regulations. The examination and approval department shall, within 40 days from the date of receiving the application, make a decision on whether to approve; where it decides to approve, it shall issue a licensing document or endorse the licensed matter on the relevant licensing document; where it decides not to approve, it shall state the reasons in writing.\nIn determining designated production enterprises and designated wholesale enterprises, the examination and approval department shall, among the enterprises that have been examined and found to meet the conditions, preliminarily determine the designated production enterprises and designated wholesale enterprises by means of fair competition in accordance with the requirements on layout, and shall publish them. Other enterprises that meet the conditions may, within 10 days from the date of publication, raise objections with the examination and approval department. The examination and approval department shall, within 20 days from the date of receiving the objections, examine the objections and make a decision on whether to make adjustments."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VII Approval Procedures, Supervision and Administration"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "The drug supervision and administration departments shall, in accordance with the prescribed duties and powers, conduct supervision and inspection over the cultivation of the medicinal mother plants of narcotic drugs and over the experimental research, production, trading, use, storage and transportation of narcotic drugs and psychotropic substances."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VII Approval Procedures, Supervision and Administration"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "The drug supervision and administration departments of people's governments at or above the provincial level shall, in light of actual circumstances, establish monitoring information networks to exercise real-time monitoring over the quantities and flow directions of the production, purchase, sale, inventory and use of narcotic drugs and psychotropic substances by designated production enterprises, designated wholesale enterprises and user units, and shall achieve information sharing with the public security organs at the same level."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VII Approval Procedures, Supervision and Administration"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Designated production enterprises, designated wholesale enterprises and user units of narcotic drugs and psychotropic substances that have not yet been connected to the monitoring information networks shall, every month, report to the drug supervision and administration department of the city with districts and the public security organ of the place where they are located, by electronic information, fax, written form or other means, the quantities and flow directions of the production, purchase, sale, inventory and use of narcotic drugs and psychotropic substances by the unit; medical institutions shall also report to the competent health department of the people's government of the city with districts of the place where they are located.\nThe drug supervision and administration department of a city with districts shall, every 3 months, report the relevant situation of narcotic drugs and psychotropic substances in its area to the drug supervision and administration department at the next higher level."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VII Approval Procedures, Supervision and Administration"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "For varieties of narcotic drugs and psychotropic substances that have been abused and caused serious harm to society, the drug supervision and administration department of the State Council shall take measures such as suspending their production, trading and use within a certain period or restricting the scope and purpose of their use. For narcotic drugs and psychotropic substances no longer used as drugs, the drug supervision and administration department of the State Council shall revoke their drug approval numbers and drug standards and make them public.\nWhere the drug supervision and administration departments and the competent health departments find, in the course of supervision and administration, hidden safety hazards in the management of narcotic drugs and psychotropic substances by production enterprises, trading enterprises or user units, they shall order them to eliminate the hazards immediately or within a time limit; where there is evidence proving that the drugs may flow into illegal channels, they shall promptly take administrative compulsory measures of sealing up or seizure, make an administrative handling decision within 7 days, and notify the public security organ at the same level.\nWhere the drug supervision and administration departments find that a medical institution holding a seal card has failed to purchase narcotic drugs and Class I psychotropic substances in accordance with provisions, they shall promptly notify the competent health department at the same level. The competent health department receiving the notification shall immediately investigate and handle the matter. Where necessary, the drug supervision and administration department may order the designated wholesale enterprise to suspend sales of narcotic drugs and Class I psychotropic substances to that medical institution."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VII Approval Procedures, Supervision and Administration"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Production enterprises, trading enterprises and user units of narcotic drugs and psychotropic substances shall register expired or damaged narcotic drugs and psychotropic substances in a book and apply to the drug supervision and administration department of the county-level place where they are located for destruction. The drug supervision and administration department shall, within 5 days from the date of receiving the application, be present to supervise the destruction. Medical institutions shall, in respect of expired or damaged narcotic drugs and psychotropic substances stored in their units, apply to the competent health department in accordance with the procedures provided in this Article, and the competent health department shall be responsible for supervising the destruction.\nNarcotic drugs and psychotropic substances lawfully confiscated shall, unless approved by the drug supervision and administration department or the public security department of the State Council for use in scientific research, be destroyed in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VII Approval Procedures, Supervision and Administration"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "The competent health departments of people's governments at or above the county level shall supervise and inspect the prescribing of narcotic drugs and psychotropic substances by practising physicians."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VII Approval Procedures, Supervision and Administration"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "The drug supervision and administration departments, the competent health departments and the public security organs shall notify each other of the lists of production enterprises, trading enterprises and user units of narcotic drugs and psychotropic substances and of other management information.\nThe drug supervision and administration departments at all levels shall notify the public security organs at the same level of matters such as approvals and revocations in the administration of the cultivation of the medicinal mother plants of narcotic drugs and of the experimental research, production, trading, use, storage and transportation of narcotic drugs and psychotropic substances.\nMatters filed for the record by trading enterprises and user units of narcotic drugs and psychotropic substances with the drug supervision and administration departments at all levels shall simultaneously be submitted to the public security organs at the same level."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VII Approval Procedures, Supervision and Administration"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Where narcotic drugs or psychotropic substances are stolen, robbed, lost or otherwise flow into illegal channels, the unit where the case occurs shall immediately take the necessary control measures and simultaneously report to the county-level public security organ and the drug supervision and administration department of the place where it is located. Where a medical institution is in any of the above circumstances, it shall also report to its competent department.\nWhere the public security organ receives a report or a tip-off, or where there is evidence proving that narcotic drugs or psychotropic substances may flow into illegal channels, it shall promptly carry out an investigation and may take the necessary control measures against the unit concerned.\nThe drug supervision and administration departments, the competent health departments and other relevant departments shall cooperate with the public security organs in their work."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VII Approval Procedures, Supervision and Administration"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Where the drug supervision and administration departments or the competent health departments violate the provisions of these Regulations and are in any of the following circumstances, the administrative organ at the next higher level or the supervisory organ shall order them to rectify; where the circumstances are serious, administrative sanctions shall be imposed in accordance with law on the persons in charge who are directly responsible and other persons directly responsible; where a crime is constituted, criminal liability shall be pursued in accordance with law:\n(1) granting administrative licensing to applicants that do not meet the conditions, or making a decision to grant administrative licensing beyond their statutory powers;\n(2) failing to be present to supervise the destruction of expired or damaged narcotic drugs and psychotropic substances;\n(3) failing to perform supervision and inspection duties in accordance with law, failing to discover violations that should have been discovered, failing to promptly investigate and deal with violations discovered, or failing to conduct supervision and inspection in accordance with the procedures provided in these Regulations;\n(4) other acts of dereliction of duty or misconduct in violation of the provisions of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Where an enterprise cultivating the medicinal mother plants of narcotic drugs violates the provisions of these Regulations and is in any of the following circumstances, the drug supervision and administration department shall order it to rectify within a time limit and give it a warning; where it fails to rectify within the time limit, a fine of not less than RMB 50,000 yuan but not more than RMB 100,000 yuan shall be imposed; where the circumstances are serious, its cultivation qualification shall be cancelled:\n(1) failing to cultivate in accordance with the annual cultivation plan for the medicinal mother plants of narcotic drugs;\n(2) failing to report the cultivation situation in accordance with provisions;\n(3) failing to store narcotic drugs in accordance with provisions."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Where a designated production enterprise violates the provisions of these Regulations and is in any of the following circumstances, the drug supervision and administration department shall order it to rectify within a time limit, give it a warning and confiscate its illegal gains and the illegally sold drugs; where it fails to rectify within the time limit, it shall be ordered to cease production and, in addition, be fined not less than RMB 50,000 yuan but not more than RMB 100,000 yuan; where the circumstances are serious, its designated production qualification shall be cancelled:\n(1) failing to arrange production in accordance with the annual production plan for narcotic drugs and psychotropic substances;\n(2) failing to report the production situation to the drug supervision and administration department in accordance with provisions;\n(3) failing to store narcotic drugs and psychotropic substances in accordance with provisions, or failing to establish and preserve dedicated account books in accordance with provisions;\n(4) failing to sell narcotic drugs and psychotropic substances in accordance with provisions;\n(5) failing to destroy narcotic drugs and psychotropic substances in accordance with provisions."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "Where a designated wholesale enterprise sells narcotic drugs and psychotropic substances in violation of the provisions of these Regulations, or trades in narcotic drug active pharmaceutical ingredients or Class I psychotropic substance active pharmaceutical ingredients in violation of the provisions of these Regulations, the drug supervision and administration department shall order it to rectify within a time limit, give it a warning and confiscate its illegal gains and the illegally sold drugs; where it fails to rectify within the time limit, it shall be ordered to suspend business and, in addition, be fined not less than 2 times but not more than 5 times the value of the illegally sold drugs; where the circumstances are serious, its designated wholesale qualification shall be cancelled."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "Where a designated wholesale enterprise violates the provisions of these Regulations and is in any of the following circumstances, the drug supervision and administration department shall order it to rectify within a time limit and give it a warning; where it fails to rectify within the time limit, it shall be ordered to suspend business and, in addition, be fined not less than RMB 20,000 yuan but not more than RMB 50,000 yuan; where the circumstances are serious, its designated wholesale qualification shall be cancelled:\n(1) failing to purchase narcotic drugs and Class I psychotropic substances in accordance with provisions;\n(2) failing to guarantee the supply of narcotic drugs and Class I psychotropic substances within its area of supply responsibility;\n(3) failing to perform the obligation to deliver goods to medical institutions;\n(4) failing to report the quantities and flow directions of the purchase, sale and inventory of narcotic drugs and psychotropic substances in accordance with provisions;\n(5) failing to store narcotic drugs and psychotropic substances in accordance with provisions, or failing to establish and preserve dedicated account books in accordance with provisions;\n(6) failing to destroy narcotic drugs and psychotropic substances in accordance with provisions;\n(7) adjusting and exchanging narcotic drugs and Class I psychotropic substances among regional wholesale enterprises in violation of the provisions of these Regulations, or failing to file a record in accordance with provisions after adjusting and exchanging narcotic drugs and Class I psychotropic substances owing to special circumstances."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "Where a retail enterprise of Class II psychotropic substances stores, sells or destroys Class II psychotropic substances in violation of the provisions of these Regulations, the drug supervision and administration department shall order it to rectify within a time limit, give it a warning and confiscate its illegal gains and the illegally sold drugs; where it fails to rectify within the time limit, it shall be ordered to suspend business and, in addition, be fined not less than RMB 5,000 yuan but not more than RMB 20,000 yuan; where the circumstances are serious, its qualification to retail Class II psychotropic substances shall be cancelled."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "Where a unit specified in Article 34 or Article 35 of these Regulations purchases narcotic drugs and psychotropic substances in violation of the provisions of these Regulations, the drug supervision and administration department shall confiscate the illegally purchased narcotic drugs and psychotropic substances, order it to rectify within a time limit and give it a warning; where it fails to rectify within the time limit, it shall be ordered to cease production or cease the relevant activities and, in addition, be fined not less than RMB 20,000 yuan but not more than RMB 50,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "Where a medical institution holding a seal card violates the provisions of these Regulations and is in any of the following circumstances, the competent health department of the people's government of the city with districts shall order it to rectify within a time limit and give it a warning; where it fails to rectify within the time limit, a fine of not less than RMB 5,000 yuan but not more than RMB 10,000 yuan shall be imposed; where the circumstances are serious, its seal card shall be revoked; and sanctions of demotion, removal from office or dismissal shall be imposed in accordance with law on the persons in charge who are directly responsible and other persons directly responsible:\n(1) failing to purchase or store narcotic drugs and Class I psychotropic substances in accordance with provisions;\n(2) failing to preserve special prescriptions for narcotic drugs and psychotropic substances in accordance with provisions, or failing to register prescriptions in dedicated books in accordance with provisions;\n(3) failing to report the quantities of the purchase, inventory and use of narcotic drugs and psychotropic substances in accordance with provisions;\n(4) failing to file a record after urgently borrowing narcotic drugs and Class I psychotropic substances;\n(5) failing to destroy narcotic drugs and psychotropic substances in accordance with provisions."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "Where a practising physician qualified to prescribe narcotic drugs and Class I psychotropic substances prescribes narcotic drugs and Class I psychotropic substances in violation of the provisions of these Regulations, or fails to use narcotic drugs and Class I psychotropic substances in accordance with the requirements of the guiding principles for clinical application, the medical institution to which he or she belongs shall cancel his or her qualification to prescribe narcotic drugs and Class I psychotropic substances; where serious consequences are caused, the original issuing authority shall revoke his or her practice certificate. Where a practising physician fails to use Class II psychotropic substances in accordance with the requirements of the guiding principles for clinical application, or fails to use special prescriptions to prescribe Class II psychotropic substances, and serious consequences are caused, the original issuing authority shall revoke his or her practice certificate.\nWhere a practising physician who has not obtained the qualification to prescribe narcotic drugs and Class I psychotropic substances prescribes narcotic drugs and Class I psychotropic substances without authorisation, the competent health department of the people's government at or above the county level shall give him or her a warning and suspend his or her practice activities; where serious consequences are caused, his or her practice certificate shall be revoked; where a crime is constituted, criminal liability shall be pursued in accordance with law.\nWhere the dispenser or verifier of a prescription fails to verify a prescription for narcotic drugs or Class I psychotropic substances in violation of the provisions of these Regulations and serious consequences are caused, the original issuing authority shall revoke his or her practice certificate."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "Where narcotic drugs or psychotropic substances are transported in violation of the provisions of these Regulations, the drug supervision and administration departments and the transport administration departments shall, in accordance with their respective duties, order rectification, give a warning and impose a fine of not less than RMB 20,000 yuan but not more than RMB 50,000 yuan.\nWhere a postal business institution accepting mail containing narcotic drugs or psychotropic substances fails to complete the mailing formalities in accordance with the provisions of these Regulations, the competent postal department shall order it to rectify and give it a warning; where mail containing narcotic drugs or psychotropic substances is lost, it shall be dealt with in accordance with the provisions of the postal laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "Where a party obtains the qualification for experimental research, production, trading or use of narcotic drugs and psychotropic substances by providing false materials, concealing the relevant circumstances or adopting other deceptive means, the original examination and approval department shall revoke the qualification it has obtained, and the party may not file any application relating to narcotic drugs and psychotropic substances within 5 years; where the circumstances are serious, a fine of not less than RMB 10,000 yuan but not more than RMB 30,000 yuan shall be imposed and, where it holds a drug production licence, a drug trading licence or a medical institution practice licence, the licensing document shall be revoked in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "Where a drug research unit produces, in the course of experimental research and development of ordinary drugs, narcotic drugs or psychotropic substances controlled as provided in these Regulations and fails to report in accordance with the provisions of these Regulations, the drug supervision and administration department shall order it to rectify, give it a warning and confiscate the illegal drugs; where it refuses to rectify, it shall be ordered to cease the experimental research and development activities."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "Where a drug clinical trial institution uses healthy persons as subjects in clinical trials of narcotic drugs or Class I psychotropic substances, the drug supervision and administration department shall order it to cease the illegal act and give it a warning; where the circumstances are serious, its qualification as a drug clinical trial institution shall be cancelled; where a crime is constituted, criminal liability shall be pursued in accordance with law. Where harm is caused to subjects, the drug clinical trial institution shall bear liability for treatment and compensation in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "Where a designated production enterprise, a designated wholesale enterprise or a retail enterprise of Class II psychotropic substances produces or sells fake or inferior narcotic drugs or psychotropic substances, the drug supervision and administration department shall cancel its designated production qualification, designated wholesale qualification or Class II psychotropic substance retail qualification and impose a penalty in accordance with the relevant provisions of the Drug Administration Law."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "Where a designated production enterprise, a designated wholesale enterprise or another unit uses cash in transactions involving narcotic drugs or psychotropic substances, the drug supervision and administration department shall order it to rectify, give it a warning, confiscate the drugs illegally traded and, in addition, impose a fine of not less than RMB 50,000 yuan but not more than RMB 100,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "Where a unit where a case of theft, robbery or loss of narcotic drugs or psychotropic substances occurs fails to take the necessary control measures or fails to report in accordance with the provisions of these Regulations, the drug supervision and administration departments and the competent health departments shall, in accordance with their respective duties, order it to rectify and give it a warning; where the circumstances are serious, a fine of not less than RMB 5,000 yuan but not more than RMB 10,000 yuan shall be imposed; where it has a competent department at a higher level, that department shall impose sanctions of demotion or removal from office in accordance with law on the persons in charge who are directly responsible and other persons directly responsible."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "Where a unit that has lawfully obtained the qualification for cultivating the medicinal mother plants of narcotic drugs or for the experimental research, production, trading, use or transportation of narcotic drugs and psychotropic substances resells, assigns, leases, lends or alters its licensing documents for narcotic drugs and psychotropic substances, the original examination and approval department shall revoke the corresponding licensing documents and confiscate the illegal gains; where the circumstances are serious, a fine of not less than 2 times but not more than 5 times the illegal gains shall be imposed; where there are no illegal gains, a fine of not less than RMB 20,000 yuan but not more than RMB 50,000 yuan shall be imposed; where a crime is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "Where the provisions of these Regulations are violated, causing narcotic drugs or psychotropic substances to flow into illegal channels and cause harm, and a crime is constituted, criminal liability shall be pursued in accordance with law; where a crime is not constituted, the public security organ at or above the county level shall impose a fine of not less than RMB 50,000 yuan but not more than RMB 100,000 yuan; where there are illegal gains, the illegal gains shall be confiscated; where the circumstances are serious, a fine of not less than 2 times but not more than 5 times the illegal gains shall be imposed; and the original issuing authority shall revoke the licensing documents for drug production, trading and use.\nWhere the drug supervision and administration departments or the competent health departments discover, in the course of supervision and administration work, the circumstances specified in the preceding paragraph, they shall immediately notify the public security organ at the same level of the place where they are located and, in accordance with the relevant provisions of the State, transfer the case and the relevant materials to the public security organ."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "Administrative penalties to be decided by the drug supervision and administration departments as provided in this Chapter shall be decided by the drug supervision and administration departments at or above the county level in accordance with the division of duties prescribed by the drug supervision and administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "Experimental research as mentioned in these Regulations means pre-clinical drug research for the purpose of medical treatment, scientific research or teaching."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "Poppy husks among medicinal narcotic drugs may be used only in the production of decoction pieces and Chinese patent medicines and in medical dispensing. The specific administrative measures shall be separately formulated by the drug supervision and administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "Where a party producing compound preparations containing narcotic drugs needs to purchase, store and use narcotic drug active pharmaceutical ingredients, it shall comply with the provisions of these Regulations on the administration of narcotic drugs."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "The specific measures for the administration of non-medicinal narcotic drugs and psychotropic substances shall be formulated by the public security department of the State Council together with the drug supervision and administration department and the competent health department of the State Council on the basis of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 87."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "The specific administrative measures for the supply and use of narcotic drugs and psychotropic substances by military medical institutions shall be formulated by the drug supervision and administration department of the State Council together with the logistics support department of the Central Military Commission on the basis of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 88."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "The specific administrative measures for the administration of narcotic drugs and psychotropic substances for animals shall be formulated by the competent veterinary department of the State Council together with the drug supervision and administration department of the State Council on the basis of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 89."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 90,
+        "text": {
+          "en": "These Regulations shall come into force on 1 November 2005. The Measures for the Administration of Narcotic Drugs promulgated by the State Council on 28 November 1987 and the Measures for the Administration of Psychotropic Substances promulgated by the State Council on 27 December 1988 shall be repealed simultaneously."
+        },
+        "noLabel": {
+          "en": "Article 90."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0239'] = {
+    "lawId": "CN-REG-0239",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 76 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated to strengthen coal mine work safety, prevent and reduce production safety accidents in coal mines, and safeguard the lives and property of the people."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "These Regulations apply to coal mine work safety within the territory of the People's Republic of China and in other sea areas under the jurisdiction of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Coal mine work safety shall uphold the leadership of the Communist Party of China.\nCoal mine work safety shall be people-centred, uphold the primacy of the people and of life, give first place to protecting the safety of people's lives, implement the concept of safe development, adhere to the policy of safety first, prevention predominating and comprehensive treatment, and prevent and defuse major safety risks at their source.\nCoal mine work safety shall be conducted on the principle that whoever administers an industry must administer safety, whoever administers business must administer safety, and whoever administers production and operation must administer safety, and in accordance with the model of State supervision, local regulation and enterprise responsibility, so as to strengthen and implement work safety responsibilities."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Coal mining enterprises shall perform their principal responsibility for work safety, strengthen work safety management, establish, improve and implement a work safety responsibility system covering all staff and work safety rules and regulations, increase investment in and support for work safety in respect of funds, materials, technology and personnel, improve work safety conditions, strengthen the standardisation and informatisation of work safety, build a dual prevention mechanism of graded control of safety risks and investigation and treatment of hidden hazards, improve the mechanism for preventing and defusing risks, raise the level of work safety, and ensure safe production.\nThe principal person in charge of a coal mining enterprise (including the actual controller, the same below) is the first person responsible for work safety in the enterprise and shall take overall responsibility for work safety in the enterprise. Other persons in charge shall be responsible for work safety within the scope of their duties."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "People's governments at or above the county level shall strengthen leadership over coal mine work safety, establish and improve working coordination mechanisms, support and urge the relevant departments to perform their duties in coal mine work safety in accordance with law, and promptly coordinate and resolve major problems in coal mine work safety."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The departments of people's governments at or above the county level that are responsible for the supervision and administration of coal mine work safety shall exercise supervision and administration over coal mine work safety, and other relevant departments shall perform the duties related to coal mine work safety in accordance with law and the division of duties."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The State operates a system of coal mine safety supervision. The national mine safety supervision institution and the mine safety supervision institutions it establishes in localities shall be responsible for coal mine safety supervision and shall, in accordance with law, supervise and inspect the supervision and administration of coal mine work safety by local people's governments.\nThe national mine safety supervision institution and the mine safety supervision institutions it establishes in localities shall perform their duties of coal mine safety supervision in accordance with law, free from interference by any unit or individual."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The State operates a system for investigating and pursuing responsibility for coal mine production safety accidents. Legal liability shall be pursued, in accordance with the provisions of these Regulations and the relevant laws and regulations, against the units and persons responsible for coal mine production safety accidents.\nThe national mine safety supervision institution and the mine safety supervision institutions it establishes in localities shall, in accordance with law, organise or participate in the investigation and handling of coal mine production safety accidents."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The departments of people's governments at or above the county level that are responsible for the supervision and administration of coal mine work safety, the national mine safety supervision institution and the mine safety supervision institutions it establishes in localities shall establish reporting systems, make public reporting hotlines, mailboxes, e-mail addresses and other online reporting platforms, accept reports concerning coal mine work safety and handle them promptly in accordance with law; where investigation and handling by other relevant departments is required, the matter shall be referred to those departments.\nAny unit or individual has the right to report hidden accident hazards or unlawful acts in work safety to the departments and institutions prescribed in the preceding paragraph. Where a report is verified to be true, a reward shall be given in accordance with laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Persons employed by coal mining enterprises have the right to obtain work safety guarantees in accordance with law and shall perform their obligations in respect of work safety in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The national mine safety supervision institution shall, in accordance with the requirements for guaranteeing coal mine work safety and under the guidance of the emergency management department of the State Council, promptly draft national standards or industry standards for coal mine work safety in accordance with law, and be responsible for proposing projects for, organising the drafting of, soliciting opinions on and conducting technical review of mandatory national standards for coal mine work safety."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The State encourages and supports scientific and technological research in coal mine work safety and the popularisation and application of advanced technologies and processes for coal mine work safety, enhances the level of intelligent mining in coal mines, advances the scientific management of coal mine work safety, and raises the level of work safety."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Coal mining enterprises shall abide by the laws and regulations on work safety and the coal mine safety code, and implement the national standards or industry standards for guaranteeing work safety."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Work Safety Responsibilities of Coal Mining Enterprises"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The construction unit of a new, reconstructed or expanded coal mine project (hereinafter collectively referred to as coal mine construction projects) shall entrust a design unit with the qualification of a construction project design enterprise to carry out the design of safety facilities.\nThe design of safety facilities shall include measures for the prevention and control of major disasters in coal mines such as water, fire, gas, rock burst, coal dust and roof, shall conform to the requirements of national standards or industry standards, and shall be submitted to the department of the people's government of the province, autonomous region or municipality directly under the Central Government responsible for the supervision and administration of coal mine work safety for examination. Where major alterations to the design of safety facilities are required, the matter shall be submitted to the original examining department for re-examination, and construction may not begin before approval is obtained, nor may modifications be made while construction is under way."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Work Safety Responsibilities of Coal Mining Enterprises"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The construction unit of a coal mine construction project shall exercise unified coordination and management over the design, construction, supervision and other units participating in the coal mine construction project, and shall bear overall responsibility for the safety management of the coal mine construction project.\nThe construction unit shall construct in accordance with the approved design of safety facilities and may not alter the content of the design without authorisation."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Work Safety Responsibilities of Coal Mining Enterprises"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Before a coal mine construction project is completed and put into production or use, the construction unit shall be responsible for organising the acceptance inspection of the safety facilities and shall be responsible for the results of the acceptance inspection; it may be put into production and use only after passing the acceptance inspection."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Work Safety Responsibilities of Coal Mining Enterprises"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "A coal mining enterprise engaging in production shall obtain a work safety licence in accordance with the provisions of the Regulations on Work Safety Licences. An enterprise that has not obtained a work safety licence may not engage in production."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Work Safety Responsibilities of Coal Mining Enterprises"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The principal person in charge of a coal mining enterprise shall have the following duties in respect of work safety in the enterprise:\n(a) establishing, improving and implementing a work safety responsibility system covering all staff, and strengthening the standardisation of work safety;\n(b) organising the formulation and implementation of work safety rules and regulations, operating procedures and operational rules;\n(c) organising the formulation and implementation of work safety education and training plans;\n(d) ensuring the effective implementation of investment in work safety;\n(e) organising the establishment and implementation of a dual prevention working mechanism of graded control of safety risks and investigation and treatment of hidden hazards, urging and inspecting work safety, and promptly eliminating hidden accident hazards;\n(f) organising the formulation and implementation of emergency rescue plans for production safety accidents;\n(g) promptly and truthfully reporting coal mine production safety accidents."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Work Safety Responsibilities of Coal Mining Enterprises"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "A coal mining enterprise shall establish a work safety management body and be staffed with full-time work safety management personnel. The work safety management body and the work safety management personnel shall have the following work safety duties:\n(a) organising or participating in the drafting of work safety rules and regulations, operating procedures, operational rules and emergency rescue plans for production safety accidents;\n(b) organising or participating in work safety education and training, and truthfully recording the circumstances of work safety education and training;\n(c) organising the publicity and education of laws and regulations on work safety;\n(d) organising the identification and assessment of safety risks, and urging the implementation of control measures for major safety risks;\n(e) stopping and correcting unlawful direction, orders to work at risk and acts violating operating procedures, and, upon discovering an emergency threatening safety, having the power to require the immediate cessation of operations in the danger area and the withdrawal of the persons working there;\n(f) inspecting the state of work safety, promptly investigating hidden accident hazards, carrying out statistical analysis of the investigation and treatment of hidden accident hazards, and putting forward proposals for improving work safety management;\n(g) organising or participating in emergency rescue drills;\n(h) urging the implementation of rectification measures for work safety.\nA coal mining enterprise shall be staffed with a principal technical person in charge and shall establish, improve and implement a technical management system."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Work Safety Responsibilities of Coal Mining Enterprises"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Persons employed by coal mining enterprises shall have the following work safety duties:\n(a) abiding by the work safety rules and regulations, operating procedures and operational rules of the coal mining enterprise, and strictly implementing post safety responsibilities;\n(b) participating in work safety education and training, mastering the work safety knowledge required for their work, improving their work safety skills, and enhancing their capacity for accident prevention and emergency handling;\n(c) promptly reporting hidden accident hazards or other unsafe factors discovered.\nIn respect of unlawful direction and orders to work at risk, persons employed by coal mining enterprises have the right to refuse and to report the matter to the department of the local people's government at or above the county level responsible for the supervision and administration of coal mine work safety and to the mine safety supervision institution at their location.\nA coal mining enterprise may not, on the ground that a person employed by it has refused unlawful direction or an order to work at risk, reduce his wages, benefits or other treatment, transfer him to another post without justified reasons, or terminate the labour contract concluded with him."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Work Safety Responsibilities of Coal Mining Enterprises"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The principal person in charge and the work safety management personnel of a coal mining enterprise shall pass the assessment of work safety knowledge and management capacity and shall continuously maintain the corresponding level and capacity.\nPersons employed by a coal mining enterprise may take up work only after passing work safety education and training. Persons engaged in special operations in a coal mining enterprise shall, in accordance with the relevant provisions of the State, undergo specialised safety technical training and pass the assessment, and shall obtain the corresponding qualifications."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Work Safety Responsibilities of Coal Mining Enterprises"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "A coal mining enterprise shall, in respect of each coal mine, be staffed with a full-time mine manager, a chief engineer, deputy mine managers in charge of safety, production and mechanical and electrical matters, and professional technical personnel.\nFor coal mines with coal (rock) and gas (carbon dioxide) outburst, high gas, rock burst, seams prone to spontaneous combustion, or complex or extremely complex hydrogeological types, corresponding specialised prevention and control bodies shall also be established and full-time deputy chief engineers shall be provided."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter II Work Safety Responsibilities of Coal Mining Enterprises"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Coal mining enterprises shall, in accordance with the relevant provisions of the State, establish and improve the system of leadership shift attendance and shall conduct strict assessment.\nThe persons in charge and the production and operation management personnel of underground coal mining enterprises shall take turns to go down the pit on shift with the workers, and shall keep registration files of pit entry."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter II Work Safety Responsibilities of Coal Mining Enterprises"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Coal mining enterprises shall provide persons employed by them with labour protection articles conforming to national standards or industry standards, and shall supervise and educate such persons to wear and use them in accordance with the rules of use.\nA system limiting the number of persons working underground shall apply to persons working underground in coal mines. Coal mining enterprises shall, in accordance with law, formulate management systems for working hours underground. Labour dispatch employment may not be used for posts underground in coal mines."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter II Work Safety Responsibilities of Coal Mining Enterprises"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The design, manufacture, installation, use, testing, repair, modification and scrapping of safety equipment used by coal mining enterprises shall conform to national standards or industry standards.\nCoal mining enterprises shall establish ledgers and traceability and management systems for safety equipment, carry out regular maintenance, servicing and periodic testing of safety equipment to ensure normal operation, and keep whole-process records of the purchase, warehousing, use, maintenance, servicing, testing, repair, modification and scrapping of safety equipment and place them on file.\nCoal mining enterprises may not use equipment or processes that should be eliminated and that endanger production safety; the specific catalogue shall be formulated and published by the national mine safety supervision institution."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter II Work Safety Responsibilities of Coal Mining Enterprises"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The main production systems of a coal mine, such as coal mining, tunnelling, mechanical and electrical, transport, ventilation, drainage and dumping, and its safety facilities such as those for gas prevention, prevention of coal (rock) and gas (carbon dioxide) outburst, prevention of rock burst, fire prevention, water prevention and control, dust prevention, prevention of heat damage, prevention of landslides, and monitoring and communication, shall conform to the management and technical requirements prescribed by the coal mine safety code and national standards or industry standards.\nCoal mining enterprises and the persons concerned may not shut down or damage monitoring, alarm, protection and life-saving equipment and facilities directly related to production safety, or tamper with, conceal or destroy the relevant data and information, and may not affect their normal use in any manner."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter II Work Safety Responsibilities of Coal Mining Enterprises"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "An underground coal mine shall have safety exits, an independent ventilation system, a safety monitoring system, a dust prevention water supply system, a fire prevention and extinguishing system, a power supply and distribution system, personnel transport devices and drawings reflecting the actual conditions of the coal mine, in conformity with the provisions of the coal mine safety code and national standards or industry standards, and shall carry out appraisal of the gas grade, rock burst, seam spontaneous combustion tendency and coal dust explosiveness in accordance with the provisions.\nAn underground coal mine shall select the corresponding permitted explosives and electric detonators for coal mines according to the gas grade of the mine, and blasting operations shall be undertaken by full-time blasters."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter II Work Safety Responsibilities of Coal Mining Enterprises"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Sufficient safety distances shall be kept between the slopes of the mining field and of the spoil dump of an open-pit coal mine and important buildings and structures.\nCoal mining enterprises shall periodically evaluate the slope stability of open-pit coal mines, and the scope of evaluation shall cover all slopes of the open-pit coal mine. Where the slope stability requirements are not met, the mining design shall be modified or safety measures shall be taken, and slope monitoring shall be strengthened at the same time."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter II Work Safety Responsibilities of Coal Mining Enterprises"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Coal mining enterprises shall, in accordance with law, formulate emergency rescue plans for production safety accidents, link them with the emergency rescue plans for production safety accidents organised and formulated by the local people's government at or above the county level at their location, and organise drills on a regular basis.\nCoal mining enterprises shall establish full-time rescue teams; where the conditions for establishing a full-time rescue team are not met, they shall establish a part-time rescue team and conclude a rescue agreement with a nearby full-time rescue team. When an accident occurs, the full-time rescue team shall arrive at the coal mine within the prescribed time to carry out rescue."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter II Work Safety Responsibilities of Coal Mining Enterprises"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Coal mining enterprises shall conduct production within the mining area determined in accordance with law, and may not mine beyond the permitted seam or boundary.\nIn mining operations, safety coal pillars may not be mined without authorisation, and dangerous methods such as water release, blasting and breakthrough of roadways that may endanger the production safety of adjacent coal mines may not be used."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter II Work Safety Responsibilities of Coal Mining Enterprises"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Coal mining enterprises may not organise production beyond capacity, beyond intensity or beyond the authorised number of personnel. Where a coal mine in normal production experiences a relatively large change in production capacity due to changes in geology, production technical conditions, coal mining methods or processes, its production capacity shall be re-verified in accordance with law.\nLocal people's governments at or above the county level and their relevant departments may not require coal mining enterprises that do not meet work safety conditions to engage in production."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter II Work Safety Responsibilities of Coal Mining Enterprises"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Coal mining enterprises shall carry out disaster control in accordance with the degree and type of coal mine disasters, prepare annual disaster prevention and handling plans, and promptly revise them in light of specific circumstances."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter II Work Safety Responsibilities of Coal Mining Enterprises"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "A special design shall be prepared for coal mining in any of the following circumstances:\n(a) where there is coal (rock) and gas (carbon dioxide) outburst;\n(b) where there is a risk of rock burst;\n(c) where coal under buildings, water bodies or railways that need protection is to be mined, or coal pillars are to be left for main roadways;\n(d) where the hydrogeological type is complex or extremely complex, or there are old goaves in the surrounding area;\n(e) where seams prone to spontaneous combustion or subject to spontaneous combustion are to be mined;\n(f) other circumstances requiring the preparation of a special design."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter II Work Safety Responsibilities of Coal Mining Enterprises"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "For operations in a coal mine such as uncovering coal in a cross-cut, water exploration and drainage, roadway breakthrough, clearing of coal bunkers, forced caving, sealing and reopening of fire areas, hot work, and other dangerous operations prescribed by the national mine safety supervision institution, special safety technical measures shall be taken and specially designated personnel shall be arranged for on-site safety management."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter II Work Safety Responsibilities of Coal Mining Enterprises"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Coal mining enterprises shall establish a system of graded control of safety risks, carry out identification and assessment of safety risks, and take the corresponding control measures according to the grade of safety risks.\nCoal mining enterprises shall establish and improve a system of investigation and treatment of hidden accident hazards, take technical and management measures, and promptly discover and eliminate hidden accident hazards. The investigation and treatment of hidden accident hazards shall be truthfully recorded and periodically reported to the persons employed. The written report on the investigation and treatment of major hidden accident hazards shall, after being signed by the person in charge of the coal mining enterprise, be submitted quarterly to the department of the local people's government at or above the county level responsible for the supervision and administration of coal mine work safety and to the mine safety supervision institution at its location.\nCoal mining enterprises shall strengthen safety management of the coal mines under them and periodically conduct safety inspections of those coal mines."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter II Work Safety Responsibilities of Coal Mining Enterprises"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Where a coal mining enterprise is in any of the following circumstances, a major hidden accident hazard exists, and it shall immediately cease production and construction in the affected area and promptly eliminate the hidden accident hazard:\n(a) organising production beyond capacity, beyond intensity or beyond the authorised number of personnel;\n(b) operating with gas exceeding the limit;\n(c) a mine with coal (rock) and gas (carbon dioxide) outburst failing to implement outburst prevention measures in accordance with the provisions;\n(d) a mine with coal (rock) and gas (carbon dioxide) outburst or a high-gas mine failing to establish a gas drainage system in accordance with the provisions, or the system failing to operate normally;\n(e) an incomplete or unreliable ventilation system;\n(f) mining beyond the permitted seam or boundary;\n(g) serious water hazards without effective measures taken;\n(h) a risk of rock burst without effective measures taken;\n(i) serious spontaneous combustion without effective measures taken;\n(j) use of equipment or processes that should be eliminated and that endanger production safety;\n(k) failure to establish a monitoring and communication system in accordance with the provisions, or the system failing to operate normally;\n(l) the slope angle of an open-pit coal mine exceeding the designed maximum value or serious deformation of the slope, without effective measures taken;\n(m) failure to adopt a dual-circuit power supply system in accordance with the provisions;\n(n) a new coal mine producing while under construction, or, during the period of reconstruction or expansion of a coal mine, production in the area under reconstruction or expansion, or production in other areas beyond the scope and scale prescribed by the design;\n(o) after the implementation of overall contracting of production and operation, engaging in production without re-obtaining or promptly modifying the work safety licence, or the contractor subcontracting again, or outsourcing underground mining faces and roadway maintenance operations;\n(p) during the period of restructuring, merger or division, failing to specify the persons responsible for work safety and the work safety management body, or, after completing restructuring, merger or division, failing to re-obtain or promptly modify the work safety licence and the like;\n(q) other major hidden accident hazards."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter II Work Safety Responsibilities of Coal Mining Enterprises"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Coal mining enterprises and the persons concerned shall cooperate with the departments of people's governments at or above the county level responsible for the supervision and administration of coal mine work safety, the national mine safety supervision institution and the mine safety supervision institutions it establishes in localities in performing their duties in accordance with law, truthfully provide the relevant information as required, and may not conceal it, refuse or obstruct.\nIn respect of hidden accident hazards investigated and dealt with by the departments of people's governments at or above the county level responsible for the supervision and administration of coal mine work safety, the national mine safety supervision institution and the mine safety supervision institutions it establishes in localities, coal mining enterprises shall immediately carry out rectification and report the results of rectification as required."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter II Work Safety Responsibilities of Coal Mining Enterprises"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Coal mining enterprises shall promptly and fully allocate funds such as work safety expenses to ensure conformity with work safety requirements. The decision-making body and the principal person in charge of a coal mining enterprise shall bear responsibility for the consequences caused by insufficient investment in funds necessary for work safety."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter II Work Safety Responsibilities of Coal Mining Enterprises"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "A system under which local Party and government leading cadres are responsible for work safety shall apply to coal mine work safety, so as to strengthen territorial management of coal mine work safety."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter III Supervision and Administration of Coal Mine Work Safety"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "The people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall, in accordance with the principle of supervision at different levels and by categories, specify the entities responsible for the supervision of work safety of coal mining enterprises.\nWhere, within their respective jurisdictions, the relevant competent departments of people's governments at or above the county level find that coal mine production is carried out without a work safety licence or the like obtained in accordance with law, they shall investigate and deal with the matter in accordance with law.\nWhere the people's government of a township finds within its jurisdiction that coal mine production is carried out without a work safety licence or the like obtained in accordance with law, it shall take effective measures to stop it and report the matter to the relevant competent department of the county people's government."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter III Supervision and Administration of Coal Mine Work Safety"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "The department of the people's government of a province, autonomous region or municipality directly under the Central Government responsible for the supervision and administration of coal mine work safety shall complete the examination of the design of safety facilities of a coal mine construction project within 30 days from the date of acceptance, sign an opinion of consent or non-consent, and reply in writing.\nThe said department shall strengthen supervision and verification of the acceptance inspection activities and results of the construction unit in respect of safety facilities."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter III Supervision and Administration of Coal Mine Work Safety"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The department of the people's government of a province, autonomous region or municipality directly under the Central Government responsible for the supervision and administration of coal mine work safety shall be responsible for the issuance and administration of work safety licences for coal mining enterprises, and shall accept the supervision of the national mine safety supervision institution and the mine safety supervision institutions it establishes in localities."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter III Supervision and Administration of Coal Mine Work Safety"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "The departments of local people's governments at or above the county level responsible for the supervision and administration of coal mine work safety shall prepare annual supervision and inspection plans for coal mine work safety and conduct supervision and inspection in accordance with the plans.\nThe annual supervision and inspection plans for coal mine work safety shall be copied to the mine safety supervision institution at the locality."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter III Supervision and Administration of Coal Mine Work Safety"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "The departments of local people's governments at or above the county level responsible for the supervision and administration of coal mine work safety shall, in accordance with law, conduct supervision and inspection of coal mining enterprises, and shall take the on-site work safety conditions of coal mines as the key content of supervision and inspection. Supervision and inspection may adopt the following measures:\n(a) entering a coal mining enterprise to conduct inspection, with emphasis on inspecting frontline production and operation sites, consulting the relevant materials, and ascertaining the circumstances from the units and persons concerned;\n(b) correcting on the spot, or requiring correction within a time limit, unlawful acts in work safety discovered in the inspection;\n(c) ordering the immediate elimination of hidden accident hazards discovered in the inspection; where safety cannot be guaranteed before or in the course of eliminating a major hidden accident hazard, ordering the withdrawal of the persons working from the danger area and ordering the temporary cessation of production or the cessation of use of the relevant facilities and equipment;\n(d) sealing up or seizing facilities, equipment and materials that are reasonably believed not to conform to the national standards or industry standards for guaranteeing work safety.\nSupervision and inspection may not affect the normal production and operation activities of coal mining enterprises."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter III Supervision and Administration of Coal Mine Work Safety"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "The departments of local people's governments at or above the county level responsible for the supervision and administration of coal mine work safety shall incorporate major hidden accident hazards into the relevant information systems, establish and improve a system of supervision and handling of the treatment of major hidden accident hazards, and urge coal mining enterprises to eliminate major hidden accident hazards."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter III Supervision and Administration of Coal Mine Work Safety"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "The departments of local people's governments at or above the county level responsible for the supervision and administration of coal mine work safety shall strengthen supervision of the technical service institutions for coal mine work safety.\nTechnical service institutions for coal mine work safety undertaking duties such as safety evaluation, certification, testing and inspection shall carry out work safety technical service activities in accordance with the provisions of the relevant laws and regulations and national standards or industry standards, shall be responsible for the reports they issue, and may not lease or lend their qualifications, affiliate themselves with others, or issue false reports."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter III Supervision and Administration of Coal Mine Work Safety"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "People's governments at or above the county level and their relevant departments shall, in accordance with laws and regulations, impose sanctions for loss of credit on coal mining enterprises, technical service institutions for coal mine work safety and the practitioners concerned that commit acts of dishonesty in work safety."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter III Supervision and Administration of Coal Mine Work Safety"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "In respect of a coal mining enterprise ordered to suspend production for rectification, the local people's government concerned shall take effective measures for supervision and inspection during the period of suspension for rectification.\nWhere a coal mining enterprise is ordered in accordance with law to suspend production for rectification on account of unlawful acts in work safety or major hidden accident hazards, it shall formulate a rectification plan and carry out rectification. Where it applies to resume production after completing rectification, the department of the local people's government at or above the county level responsible for the supervision and administration of coal mine work safety shall organise acceptance inspection, and shall complete the acceptance inspection within 20 days from the date of receipt of the application to resume production. Where the acceptance inspection is passed, production may be resumed only after the acceptance result is signed by the principal person in charge of the department, examined and consented to by the mine safety supervision institution at the locality, and approved by the principal person in charge of the people's government at the corresponding level."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter III Supervision and Administration of Coal Mine Work Safety"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "The departments of local people's governments at or above the county level responsible for the supervision and administration of coal mine work safety shall, within 5 working days, announce to society the coal mining enterprises ordered to suspend production for rectification or to be closed; where a coal mining enterprise ordered to suspend production for rectification resumes production after passing the acceptance inspection, they shall announce the fact to society within 5 working days from the date of resumption of production."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter III Supervision and Administration of Coal Mine Work Safety"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "The national mine safety supervision institution and the mine safety supervision institutions it establishes in localities shall perform their duties of coal mine safety supervision in accordance with law, strengthen supervision and inspection of the supervision and administration of coal mine work safety by local people's governments at or above the county level, promptly notify the local people's governments concerned of the circumstances of supervision and inspection, put forward supervision opinions and proposals for improving and strengthening coal mine work safety, and urge the rectification and re-examination of major hidden accident hazards.\nLocal people's governments at or above the county level shall cooperate with and accept the supervision and inspection of the national mine safety supervision institution and the mine safety supervision institutions it establishes in localities, and promptly implement the supervision opinions and proposals."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter IV Coal Mine Safety Inspection"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "A mine safety supervision institution established in a locality shall exercise supervision over coal mine work safety within its jurisdiction; in areas where accidents occur frequently, it shall exercise supervision with emphasis. The national mine safety supervision institution shall, in light of the actual circumstances, organise comprehensive or key supervision over coal mine work safety throughout the country."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter IV Coal Mine Safety Inspection"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "The national mine safety supervision institution and the mine safety supervision institutions it establishes in localities may, in supervising and inspecting the supervision and administration of coal mine work safety by local people's governments at or above the county level, adopt the following methods:\n(a) hearing the work reports of the local people's governments concerned and of their departments responsible for the supervision and administration of coal mine work safety;\n(b) consulting and copying documents, archives, work records and other materials relating to coal mine work safety;\n(c) requiring the local people's governments concerned, their departments responsible for the supervision and administration of coal mine work safety and the persons concerned to give explanations on issues relating to coal mine work safety;\n(d) other methods necessary to be adopted."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter IV Coal Mine Safety Inspection"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "In performing their duties of coal mine safety supervision, the national mine safety supervision institution and the mine safety supervision institutions it establishes in localities have the power to enter coal mine operation sites for inspection, to attend work safety meetings of coal mining enterprises, and to ascertain the circumstances from the coal mining enterprises and persons concerned.\nWhere the national mine safety supervision institution and the mine safety supervision institutions it establishes in localities discover hidden accident hazards at a coal mine site, they have the power to require their immediate or timely elimination; where they discover unlawful direction, orders to work at risk, operations in violation of rules or other unlawful acts in work safety, they have the power to correct them immediately or require the immediate cessation of operations; where they discover an emergency threatening safety, they have the power to require the immediate cessation of operations in the danger area and the withdrawal of the persons working there.\nPersonnel of mine safety supervision shall produce their law enforcement certificates when performing their duties of coal mine safety supervision."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter IV Coal Mine Safety Inspection"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where the national mine safety supervision institution or a mine safety supervision institution it establishes in a locality discovers that a coal mining enterprise has a major hidden accident hazard and orders suspension of production for rectification, it shall promptly refer the matter to the department of the local people's government at or above the county level responsible for the supervision and administration of coal mine work safety for handling and shall supervise the handling."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter IV Coal Mine Safety Inspection"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where the national mine safety supervision institution or a mine safety supervision institution it establishes in a locality discovers that a coal mining enterprise has committed an unlawful act that should be handled by another department, it shall promptly refer the matter to the relevant department for handling."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter IV Coal Mine Safety Inspection"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "The national mine safety supervision institution and the mine safety supervision institutions it establishes in localities and the relevant departments of people's governments at or above the county level shall establish mechanisms for information sharing and referral of cases, and shall strengthen coordination and cooperation."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter IV Coal Mine Safety Inspection"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "The national mine safety supervision institution and the mine safety supervision institutions it establishes in localities shall strengthen the informatisation of coal mine work safety and use information technology to raise the level of law enforcement.\nCoal mining enterprises shall, in accordance with the specifications for electronic data on work safety formulated by the national mine safety supervision institution, connect to the network and upload electronic data in real time, and shall be responsible for the authenticity, accuracy and completeness of the electronic data uploaded."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter IV Coal Mine Safety Inspection"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "The national mine safety supervision institution and the mine safety supervision institutions it establishes in localities shall, in accordance with law, supervise and inspect the implementation by coal mining enterprises of the laws and regulations on work safety, the coal mine safety code and the national standards or industry standards for guaranteeing work safety, and shall exercise the functions and powers prescribed in Article 44 of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter IV Coal Mine Safety Inspection"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "After a coal mine production safety accident occurs, the coal mining enterprise and its person in charge shall promptly take effective measures to organise rescue, and shall immediately and truthfully report the matter, in accordance with the provisions of the Regulations on the Reporting, Investigation and Handling of Production Safety Accidents, to the local emergency management department, the department responsible for the supervision and administration of coal mine work safety and the mine safety supervision institution at the locality.\nThe national mine safety supervision institution and the mine safety supervision institutions it establishes in localities shall, in light of the grade of the accident and the needs of work, dispatch working groups to rush to the accident site to guide and cooperate with the local people's government of the place where the accident occurred in carrying out emergency rescue work."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter IV Coal Mine Safety Inspection"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Coal mine production safety accidents shall be investigated and handled at different levels in accordance with the grade of the accident.\nEspecially major accidents shall be investigated and handled by the State Council or by the relevant department authorised by the State Council in accordance with the provisions of the Regulations on the Reporting, Investigation and Handling of Production Safety Accidents. Major accidents, relatively major accidents and ordinary accidents shall be investigated and handled by the national mine safety supervision institution and the mine safety supervision institutions it establishes in localities in accordance with the provisions of the Regulations on the Reporting, Investigation and Handling of Production Safety Accidents."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter IV Coal Mine Safety Inspection"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where coal mine production is carried out without authorisation and without a work safety licence or the like obtained in accordance with law, the enterprise shall be ordered to cease production immediately, and the illegal gains, the coal extracted and the mining equipment shall be confiscated; where the illegal gains are RMB 100,000 or more, a fine of not less than 2 times but not more than 5 times the illegal gains shall concurrently be imposed; where there are no illegal gains or the illegal gains are less than RMB 100,000, a fine of not less than RMB 100,000 but not more than RMB 200,000 shall concurrently be imposed.\nWhere a coal mining enterprise that has been closed resumes production without authorisation, it shall be penalised in accordance with the provisions of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Where a coal mining enterprise commits any of the following acts, it shall be penalised in accordance with the relevant provisions of the Law of the People's Republic of China on Work Safety:\n(a) failing to establish a work safety management body and be staffed with work safety management personnel in accordance with the provisions;\n(b) the principal person in charge and the work safety management personnel failing to pass the assessment in accordance with the provisions and to continuously maintain the corresponding level and capacity;\n(c) failing to conduct work safety education and training in accordance with the provisions, failing to truthfully inform the persons concerned of work safety matters in accordance with the provisions, or failing to truthfully record the circumstances of work safety education and training;\n(d) persons engaged in special operations taking up work without undergoing specialised safety operation training and obtaining the corresponding qualifications in accordance with the provisions;\n(e) carrying out dangerous operations without taking special safety technical measures and arranging specially designated personnel for on-site safety management;\n(f) failing to establish and implement a system of graded control of safety risks and a system of investigation and treatment of hidden accident hazards in accordance with the provisions, or failing to report the investigation and treatment of major hidden accident hazards in accordance with the provisions;\n(g) failing to formulate emergency rescue plans for production safety accidents in accordance with the provisions or failing to organise drills on a regular basis."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Where a coal mining enterprise commits any of the following acts, it shall be ordered to make correction within a time limit and imposed a fine of not less than RMB 100,000 but not more than RMB 200,000; where correction is not made within the time limit, it shall be ordered to suspend production for rectification and imposed a fine of not less than RMB 200,000 but not more than RMB 500,000, and a fine of not less than RMB 30,000 but not more than RMB 50,000 shall be imposed on the persons directly in charge and other persons directly responsible:\n(a) failing to formulate and implement a work safety responsibility system covering all staff and work safety rules and regulations such as leadership shift attendance in accordance with the provisions;\n(b) failing to provide the coal mine with a mine manager and other personnel and bodies in accordance with the provisions, or failing to establish a rescue team in accordance with the provisions;\n(c) the main production systems and safety facilities of the coal mine not conforming to the provisions of the coal mine safety code and national standards or industry standards;\n(d) failing to prepare a special design in accordance with the provisions;\n(e) an underground coal mine failing to carry out appraisal of the gas grade, rock burst, seam spontaneous combustion tendency and coal dust explosiveness in accordance with the provisions;\n(f) the safety distances between the slopes of the mining field and of the spoil dump of an open-pit coal mine and important buildings and structures not conforming to the provisions, or failure to maintain the slope stability of an open-pit coal mine in accordance with the provisions;\n(g) unlawful direction, orders to work at risk, or violation of operating procedures."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Where a coal mining enterprise continues production despite the existence of a major hidden accident hazard, it shall be ordered to suspend production for rectification, the content of rectification, the time and other specific requirements shall be specified, and a fine of not less than RMB 500,000 but not more than RMB 2 million shall be imposed; a fine of not less than RMB 30,000 but not more than RMB 150,000 shall be imposed on the principal person in charge of the coal mining enterprise."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Where a coal mining enterprise mines beyond the mining area determined in accordance with law, the matter shall be handled in accordance with the provisions of the relevant laws and regulations.\nWhere safety coal pillars are mined without authorisation, or mining operations are carried out by dangerous methods such as water release, blasting and breakthrough of roadways that may endanger the production safety of adjacent coal mines, the operations shall be ordered to cease immediately and the illegal gains shall be confiscated; where the illegal gains are RMB 100,000 or more, a fine of not less than 2 times but not more than 5 times the illegal gains shall concurrently be imposed; where there are no illegal gains or the illegal gains are less than RMB 100,000, a fine of not less than RMB 100,000 but not more than RMB 200,000 shall concurrently be imposed; where losses are caused, liability for compensation shall be borne in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Where a coal mining enterprise commits any of the following acts, it shall be ordered to make correction; where it refuses to make correction, a fine of not less than RMB 100,000 but not more than RMB 200,000 shall be imposed, and a fine of not less than RMB 10,000 but not more than RMB 20,000 shall be imposed on the persons directly in charge and other persons directly responsible:\n(a) concealing existing hidden accident hazards or other safety problems, in violation of the provisions of the first paragraph of Article 37 of these Regulations;\n(b) opening without authorisation or using facilities, equipment and materials that have been sealed up or seized, in violation of the provisions of the first paragraph of Article 44 of these Regulations;\n(c) other acts of refusing or obstructing supervision and inspection."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Where a coal mine production safety accident occurs, in addition to requiring the coal mining enterprise responsible to bear the corresponding liability for compensation and the like in accordance with law, a fine shall be imposed in accordance with the following provisions:\n(a) where an ordinary accident occurs, a fine of not less than RMB 500,000 but not more than RMB 1 million;\n(b) where a relatively major accident occurs, a fine of not less than RMB 1.5 million but not more than RMB 2 million;\n(c) where a major accident occurs, a fine of not less than RMB 5 million but not more than RMB 10 million;\n(d) where an especially major accident occurs, a fine of not less than RMB 10 million but not more than RMB 20 million.\nWhere a coal mine production safety accident occurs and the circumstances are especially serious and the impact especially vile, a fine of not less than 2 times but not more than 5 times the amount of the fine in the preceding paragraph may be imposed on the coal mining enterprise responsible."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "Where the decision-making body, the principal person in charge, other persons in charge or the work safety management personnel of a coal mining enterprise fail to perform their work safety management duties in accordance with law, they shall be penalised in accordance with the relevant provisions of the Law of the People's Republic of China on Work Safety and shall bear the corresponding responsibility.\nWhere the principal person in charge of a coal mining enterprise fails to perform his work safety management duties in accordance with law, resulting in a coal mine production safety accident, a fine shall be imposed in accordance with the following provisions:\n(a) where an ordinary accident occurs, a fine of 40 per cent of his annual income in the previous year;\n(b) where a relatively major accident occurs, a fine of 60 per cent of his annual income in the previous year;\n(c) where a major accident occurs, a fine of 80 per cent of his annual income in the previous year;\n(d) where an especially major accident occurs, a fine of 100 per cent of his annual income in the previous year."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "Where a coal mining enterprise or the persons concerned conceal or make false reports of an accident or the like, it or they shall be penalised in accordance with the relevant provisions of the Law of the People's Republic of China on Work Safety and the Regulations on the Reporting, Investigation and Handling of Production Safety Accidents.\nWhere the local people's government concerned, its emergency management department, its department responsible for the supervision and administration of coal mine work safety or the mine safety supervision institution established in the locality conceals or makes a false report of an accident or the like, sanctions shall be imposed in accordance with law on the leading personnel responsible and the persons directly responsible."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "Where a coal mining enterprise is in any of the following circumstances, the matter shall be submitted to the local people's government at or above the county level for closure:\n(a) engaging in production without authorisation and without a work safety licence or the like obtained in accordance with law;\n(b) being found on 2 or more occasions within 3 months to continue production despite the existence of a major hidden accident hazard;\n(c) major disasters being difficult to prevent and control effectively under existing technical conditions, as demonstrated by experts organised by the local people's government;\n(d) other circumstances prescribed by the Law of the People's Republic of China on Work Safety in which closure should be submitted for decision.\nThe local people's government concerned shall immediately organise the implementation of a decision to close. The closure of a coal mine shall meet the following requirements:\n(a) revoking or cancelling the relevant certificates and licences in accordance with the relevant provisions of laws and regulations;\n(b) ceasing the supply of civil explosives and properly disposing of them;\n(c) cutting off the power supply and dismantling the mine's production equipment and power supply and communication lines;\n(d) sealing and backfilling the mine shafts, levelling the pithead site and restoring the landform;\n(e) properly handling labour relations, paying economic compensation and work injury insurance benefits in accordance with laws and regulations, arranging occupational health examinations upon leaving the post, paying arrears of wages and paying the social insurance premiums in arrears;\n(f) setting up signboards;\n(g) submitting and handing over the relevant reports, drawings and materials;\n(h) other requirements prescribed by the relevant laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "Any of the following circumstances shall be penalised in accordance with the relevant provisions of the Law of the People's Republic of China on Work Safety:\n(a) a coal mine construction project having no design of safety facilities, or the design of safety facilities not having been submitted to and approved by the relevant department in accordance with the provisions;\n(b) the construction unit of a coal mine construction project failing to construct in accordance with the approved design of safety facilities;\n(c) before a coal mine construction project is completed and put into production or use, the safety facilities not having passed the acceptance inspection;\n(d) a coal mining enterprise violating the provisions of the first paragraph of Article 24, the first and second paragraphs of Article 25, or the second paragraph of Article 26 of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "Where a technical service institution for coal mine work safety undertaking duties such as safety evaluation, certification, testing and inspection issues untrue reports, leases or lends its qualifications, affiliates itself with others, issues false reports or the like, the institution and the persons directly in charge and other persons directly responsible shall be penalised and the corresponding responsibility shall be pursued in accordance with the relevant provisions of the Law of the People's Republic of China on Work Safety. Where its principal person in charge is responsible for a major or especially major coal mine production safety accident, he may never again engage in technical service work relating to coal mine work safety."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "The administrative penalties prescribed in these Regulations shall be decided by the departments of people's governments at or above the county level responsible for the supervision and administration of coal mine work safety, other relevant departments, and the national mine safety supervision institution and the mine safety supervision institutions it establishes in localities in accordance with the division of duties, and no more than one administrative penalty of fine may be imposed for the same unlawful act. In respect of a coal mining enterprise ordered to suspend production for rectification, its work safety licence and the like shall be temporarily withheld. Serious unlawful acts in violation of the provisions of these Regulations shall be punished severely in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "Where local people's governments at various levels, the departments of people's governments at or above the county level responsible for the supervision and administration of coal mine work safety, other relevant departments, the national mine safety supervision institution and the mine safety supervision institutions it establishes in localities are in any of the following circumstances, sanctions shall be imposed in accordance with law on the leading personnel responsible and the persons directly responsible:\n(a) the departments of people's governments at or above the county level responsible for the supervision and administration of coal mine work safety, the national mine safety supervision institution and the mine safety supervision institutions it establishes in localities failing to perform their duties in accordance with law and failing to promptly investigate and deal with major hidden accident hazards and unlawful acts in work safety within their jurisdictions; or other relevant departments of people's governments at or above the county level failing to perform the duties related to coal mine work safety in accordance with law;\n(b) the people's government of a township discovering within its jurisdiction that coal mine production is carried out without a work safety licence or the like obtained in accordance with law and failing to take effective measures to stop it or failing to report the matter to the relevant competent department of the county people's government;\n(c) in respect of a coal mining enterprise ordered to suspend production for rectification, the enterprise continuing production during the period of suspension for rectification because of inadequate supervision and inspection by the local people's government concerned;\n(d) the closure of a coal mine failing to meet the requirements prescribed in the second paragraph of Article 70 of these Regulations;\n(e) the departments of people's governments at or above the county level responsible for the supervision and administration of coal mine work safety, the national mine safety supervision institution and the mine safety supervision institutions it establishes in localities failing to promptly handle a report after receiving it;\n(f) local people's governments at or above the county level and their relevant departments requiring coal mining enterprises that do not meet work safety conditions to engage in production;\n(g) other circumstances of abuse of power, neglect of duty or malpractice for personal gain."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "Where a violation of the provisions of these Regulations constitutes a crime, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "These Regulations shall come into force as of 1 May 2024. The Regulations on Coal Mine Safety Supervision and the Special Provisions of the State Council on the Prevention of Coal Mine Production Safety Accidents shall be repealed simultaneously."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
         }
       }
     ]
@@ -22598,6 +28049,1050 @@
     ]
   };
 
+  TR['CN-REG-0248'] = {
+    "lawId": "CN-REG-0248",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 87 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the Civil Aviation Law of the People's Republic of China for the purpose of regulating the construction and management of civil airports, actively and steadily advancing the development of civil airports, ensuring the safe and orderly operation of civil airports and safeguarding the lawful rights and interests of the parties concerned."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "These Regulations apply to the planning, construction, use and management of, and related activities relating to, civil airports within the territory of the People's Republic of China.\nCivil airports are divided into transport airports and general aviation airports."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Civil airports are public infrastructure. People's governments at all levels shall take necessary measures to encourage and support the development of civil airports and improve the level of civil airport management."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The competent civil aviation department of the State Council shall exercise industry supervision and administration over civil airports nationwide in accordance with law. Regional civil aviation administration institutions shall exercise industry supervision and administration over the civil airports within their jurisdictions in accordance with law.\nThe relevant local people's governments shall exercise supervision and administration over civil airports in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The national plan for the layout of civil airports shall be formulated in accordance with the needs of national economic and social development and the requirements of national defence, shall be aligned with the comprehensive transport development plan, the overall plan for land use and urban and rural plans, and shall strictly control the scale of construction land, economise and intensify the use of land, and protect the ecological environment."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The site of a new transport airport shall meet the conditions prescribed by the competent civil aviation department of the State Council.\nThe relevant local people's government of the place where a transport airport is located shall include the airport site in the overall plan for land use and the urban and rural plans for overall arrangement and shall protect the site."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        },
+        "chapter": {
+          "en": "Chapter II Construction and Use of Civil Airports"
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The construction, reconstruction and expansion of transport airports shall be subject to the formalities for examination and approval and verification of construction projects in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Construction and Use of Civil Airports"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The master plan of a transport airport shall be prepared by the project legal person of the transport airport construction project and may be implemented only after approval by the competent civil aviation department of the State Council or a regional civil aviation administration institution (hereinafter collectively referred to as the civil aviation administration departments).\nThe master plan of a transport airport with an airfield index of 4E or above shall be approved by the competent civil aviation department of the State Council; the master plan of a transport airport with an airfield index of 4D or below shall be approved by the regional civil aviation administration institution of the place where it is located. Before approving the master plan of a transport airport, the civil aviation administration department shall seek the opinions of the relevant local people's government of the place where the transport airport is located.\nWhen preparing the master plan of a transport airport, the project legal person of the transport airport construction project shall seek the opinions of the relevant military organs."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Construction and Use of Civil Airports"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The relevant local people's government of the place where a transport airport is located shall incorporate the master plan of the transport airport into the urban and rural plans and, in accordance with the needs of the operation and development of the transport airport, exercise planning control over land use and construction in the areas surrounding the transport airport."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Construction and Use of Civil Airports"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Construction projects within a transport airport shall conform to the master plan of the transport airport. No unit or individual may construct, reconstruct or expand buildings or structures within a transport airport without authorisation."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Construction and Use of Civil Airports"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The safety facilities of a new construction, reconstruction or expansion project of a transport airport shall be designed, constructed, accepted and put into use simultaneously with the main works. Investment in safety facilities shall be included in the estimate of the construction project."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Construction and Use of Civil Airports"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Infrastructure such as water supply, power supply, gas supply, communications and roads within a transport airport shall be constructed by the project legal person of the airport construction project; infrastructure such as water supply, power supply, gas supply, communications and roads outside a transport airport shall be planned and constructed in a unified manner by the local people's government of the place where the transport airport is located."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Construction and Use of Civil Airports"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The design of specialized engineering works of a transport airport shall comply with the relevant standards of the State and shall be approved by the civil aviation administration department.\nThe design of specialized engineering works of a transport airport with an airfield index of 4E or above shall be approved by the competent civil aviation department of the State Council; the design of specialized engineering works of a transport airport with an airfield index of 4D or below shall be approved by the regional civil aviation administration institution of the place where the transport airport is located.\nSpecialized engineering works of a transport airport may be put into use only after they have been accepted as conforming by the civil aviation administration department.\nThe catalogue of specialized engineering works of transport airports shall be formulated and published by the competent civil aviation department of the State Council together with the competent construction department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Construction and Use of Civil Airports"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The planning and construction of general aviation airports shall be governed by the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Construction and Use of Civil Airports"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The safety and operation management of a transport airport shall be the responsibility of an institution with legal personality established in accordance with law or entrusted for the purpose (hereinafter referred to as the airport management organisation)."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Construction and Use of Civil Airports"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "A transport airport may be put into use only if it meets the following conditions:\n(1) it has a sound safety operation management system, organisational structure and management rules;\n(2) it has the airfield area, terminal area and working area, together with air traffic service, aeronautical information, communication, navigation and surveillance, meteorological and other related facilities, equipment and personnel, appropriate to its operating business;\n(3) the airspace to be used has been approved;\n(4) the flight procedures and operating standards comply with the provisions of the competent civil aviation department of the State Council;\n(5) it meets the civil aviation security conditions prescribed by the State;\n(6) it has an emergency response plan for handling emergencies and the corresponding facilities and equipment."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Construction and Use of Civil Airports"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Where a transport airport is to be put into use, the airport management organisation shall apply to the competent civil aviation department of the State Council and enclose the relevant materials proving conformity with the conditions provided in Article 16 of these Regulations.\nThe competent civil aviation department of the State Council shall complete the examination within 45 working days from the date of accepting the application and make a decision to grant or not to grant a licence. Where a licence is granted, a transport airport use licence shall be issued; where a licence is not granted, the applicant shall be notified in writing with reasons stated."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Construction and Use of Civil Airports"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "A general aviation airport may be put into use only if it meets the following conditions:\n(1) it has a flight site appropriate to its operating business;\n(2) it has air traffic service, communication, navigation and surveillance and other facilities and equipment that ensure flight safety;\n(3) it has sound safety management rules, meets the civil aviation security conditions prescribed by the State and has an emergency response plan for handling emergencies;\n(4) it is staffed with the necessary managerial and professional technical personnel."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Construction and Use of Civil Airports"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Where a general aviation airport is to be put into use, the operator of the general aviation airport shall apply to the regional civil aviation administration institution of the place where the general aviation airport is located and enclose the relevant materials proving conformity with the conditions provided in Article 18 of these Regulations.\nThe regional civil aviation administration institution shall complete the examination within 30 working days from the date of accepting the application and make a decision to grant or not to grant a licence. Where a licence is granted, a general aviation airport use licence shall be issued; where a licence is not granted, the applicant shall be notified in writing with reasons stated."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Construction and Use of Civil Airports"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where a transport airport is used as an international airport, port inspection agencies shall be established in accordance with the relevant provisions of the State, with the corresponding personnel, premises and facilities, and the airport shall have been accepted as conforming by the relevant departments of the State Council.\nThe opening of an international airport for use shall be announced externally by the competent civil aviation department of the State Council; information on international airports shall be provided externally in a unified manner by the competent civil aviation department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Construction and Use of Civil Airports"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "An airport management organisation shall open a transport airport for use within the scope specified in the transport airport use licence and may not close it without authorisation.\nWhere a transport airport cannot ensure the operational safety of civil aircraft for some reason and needs to be temporarily closed, the airport management organisation shall promptly notify the relevant air traffic management department and promptly make a public announcement; the air traffic management department shall issue a notice to airmen in accordance with the relevant provisions.\nWhere an airport management organisation intends to close a transport airport, it shall, 45 days in advance, report to the authority that issued the transport airport use licence and may close it only after approval, and shall make a public announcement."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Construction and Use of Civil Airports"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The naming or renaming of a transport airport shall comply with the provisions of the relevant laws and administrative regulations of the State."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter II Construction and Use of Civil Airports"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where a transport airport is abandoned or converted to other uses, the airport management organisation shall complete the formalities for reporting for approval in accordance with the relevant provisions of the State and promptly make a public announcement."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter II Construction and Use of Civil Airports"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The civil aviation administration departments and the relevant local people's governments shall strengthen leadership over the safe operation of transport airports, urge airport management organisations to perform their safety management duties in accordance with law, and coordinate and resolve problems in the safe operation of transport airports."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Safety and Operation Management of Civil Airports"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The civil aviation administration departments and the relevant local people's governments shall, in accordance with the provisions of the State, formulate emergency response plans for emergencies at transport airports."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Safety and Operation Management of Civil Airports"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "An airport management organisation shall, in accordance with the emergency response plan for emergencies at transport airports, organise drills and personnel training for emergency rescue at transport airports.\nAirport management organisations, air transport enterprises and other units stationed at the airport shall be equipped with the necessary emergency rescue equipment and materials and shall strengthen routine management of them."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Safety and Operation Management of Civil Airports"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "An airport management organisation shall, in accordance with the provisions of the relevant laws, regulations and technical standards of the State, ensure that the transport airport continuously meets the requirements for safe operation. Where a transport airport does not meet the requirements for safe operation, the airport management organisation shall promptly rectify the situation in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Safety and Operation Management of Civil Airports"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "An airport management organisation shall exercise unified coordination and management over the safe operation of the transport airport, be responsible for establishing and improving the responsibility system for safe airport operation, organise the formulation of rules and regulations for safe airport operation, ensure the effective implementation of airport safety investment, urge and inspect safe operation work, promptly eliminate hidden dangers of safety accidents, and report work safety accidents in accordance with law.\nAir transport enterprises and other units stationed at the airport shall, in accordance with their respective duties, jointly ensure the safe operation of the transport airport and bear the corresponding responsibility; where any situation affecting the safe operation of the transport airport occurs, they shall immediately report it to the airport management organisation."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Safety and Operation Management of Civil Airports"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Airport management organisations, air transport enterprises and other units stationed at the airport shall periodically provide the necessary safe operation training to their practitioners to ensure that practitioners possess the relevant knowledge and skills."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Safety and Operation Management of Civil Airports"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Special equipment for civil airports shall comply with the standards and relevant technical specifications prescribed by the State and may be used at civil airports only after they have been inspected as conforming by an institution recognised by the competent civil aviation department of the State Council.\nThe civil aviation administration departments shall strengthen supervision and inspection of special equipment for civil airports.\nThe catalogue of special equipment for civil airports shall be formulated and published by the competent civil aviation department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Safety and Operation Management of Civil Airports"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where a transport airport is open for use, construction may not be carried out in the airfield area or in the terminal area adjacent to the airfield area. Where construction is genuinely necessary, approval shall be obtained from the regional civil aviation administration institution of the place where the transport airport is located."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Safety and Operation Management of Civil Airports"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "When an emergency occurs, the relevant local people's government of the place where the transport airport is located, the civil aviation administration departments, the air traffic management department, the airport management organisation and other units shall promptly and effectively carry out emergency rescue in accordance with the requirements of the emergency response plan."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III Safety and Operation Management of Civil Airports"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "An airport management organisation shall coordinate and manage the production and operation of the transport airport in a unified manner, maintain the normal order of the transport airport, and provide fair, impartial and convenient services to air transport enterprises and other units stationed at the airport, passengers and cargo owners.\nAn airport management organisation shall conclude written agreements with air transport enterprises and other units stationed at the airport, specifying the rights and obligations of each party in production and operation, in airport management, and in the event of flight delays and other situations."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter III Safety and Operation Management of Civil Airports"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "An airport management organisation shall organise air transport enterprises and other units stationed at the airport to formulate service specifications and publish them to the public."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter III Safety and Operation Management of Civil Airports"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "An airport management organisation shall, in accordance with the standards prescribed by the State, provide facilities and equipment for waiting, catering, parking and medical first aid, and provide the corresponding services."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter III Safety and Operation Management of Civil Airports"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "An airport management organisation shall establish an information sharing mechanism with air transport enterprises, the air traffic management department and other units, provide each other with the necessary production and operation information, and promptly provide accurate information to passengers and cargo owners."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter III Safety and Operation Management of Civil Airports"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Airport management organisations, air transport enterprises and other units stationed at the airport shall take effective measures to strengthen coordination and cooperation and jointly ensure the normal operation of flights.\nWhere a flight is delayed, the airport management organisation shall promptly coordinate with the air transport enterprise and other relevant units stationed at the airport to provide good services to passengers and cargo owners and promptly notify them of the relevant information. Air transport enterprises and their agents shall provide the corresponding services to passengers and cargo owners in accordance with the relevant provisions and their service commitments."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter III Safety and Operation Management of Civil Airports"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where commercial businesses within the airport, such as retail, catering and aviation ground services, are operated by way of compensated transfer of operating rights, the airport management organisation shall, in accordance with the provisions of the competent civil aviation department of the State Council, conclude agreements with the enterprises that obtain the operating rights, specifying matters such as service standards, charging levels, safety specifications and liability.\nIn respect of businesses operated by way of compensated transfer of operating rights, the airport management organisation and its affiliated enterprises may not participate in their operation."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter III Safety and Operation Management of Civil Airports"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "An airport management organisation shall submit to the civil aviation administration department the relevant materials on the planning, construction and production operation of the transport airport and shall accept the supervision and inspection of the civil aviation administration department."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter III Safety and Operation Management of Civil Airports"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "The civil aviation administration departments and airport management organisations shall establish a complaint acceptance system and publish the complaint acceptance units and the methods for lodging complaints. In respect of complaints from passengers and cargo owners, the civil aviation administration department or the airport management organisation shall give a written reply within 10 working days from the date of acceptance."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter III Safety and Operation Management of Civil Airports"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "An enterprise engaging in aviation fuel supply business within a civil airport shall meet the following conditions:\n(1) it has obtained a refined oil trading licence and a hazardous chemicals trading licence;\n(2) it has aviation fuel supply facilities and equipment that comply with the relevant standards of the State and are appropriate to the scale of its business;\n(3) it has sound safety management rules for aviation fuel supply and a system for testing and monitoring oil products;\n(4) it has professional technical and managerial personnel sufficient to meet the needs of its business."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter III Safety and Operation Management of Civil Airports"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "An enterprise applying to engage in aviation fuel supply business within a civil airport shall apply to the regional civil aviation administration institution of the place where the civil airport is located and enclose the relevant materials proving conformity with the conditions provided in Article 41 of these Regulations.\nThe regional civil aviation administration institution shall, within 30 working days from the date of accepting the application, make a decision to grant or not to grant a licence. Where a licence is granted, a civil airport aviation fuel supply safety operation licence shall be issued; where a licence is not granted, the applicant shall be notified in writing with reasons stated."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter III Safety and Operation Management of Civil Airports"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "The aviation fuel supplied by an aviation fuel supply enterprise shall comply with aviation fuel airworthiness standards."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter III Safety and Operation Management of Civil Airports"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Aviation fuel supply facilities at a civil airport shall be provided for use by aviation fuel supply enterprises on a fair basis."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter III Safety and Operation Management of Civil Airports"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where an aviation fuel supply enterprise of a transport airport ceases its aviation fuel supply business at the transport airport, it shall, 90 days in advance, notify the regional civil aviation administration institution of the place where the transport airport is located, the airport management organisation and the relevant air transport enterprises."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter III Safety and Operation Management of Civil Airports"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "The regional civil aviation administration institution of the place where a civil airport is located and the relevant local people's government shall, in accordance with the relevant provisions of the State, delineate the civil airport clearance protection zone and publish it to the public."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety and Environmental Protection of Civil Airports"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where a local people's government at or above the county level examines and approves a construction project within a civil airport clearance protection zone, it shall seek in writing the opinions of the regional civil aviation administration institution of the place where the civil airport is located."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety and Environmental Protection of Civil Airports"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where a high-voltage transmission tower of 220,000 volts or above is erected within a civil airport clearance protection zone, obstacle lights or markings shall be installed in accordance with the relevant provisions of the competent civil aviation department of the State Council and kept in normal condition, and the relevant materials shall be provided to the regional civil aviation administration institution of the place where the civil airport is located, the air traffic management department and the airport management organisation."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety and Environmental Protection of Civil Airports"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "The following activities are prohibited within a civil airport clearance protection zone:\n(1) discharging large quantities of smoke, dust, flame, exhaust gas or other substances affecting flight safety;\n(2) constructing shooting ranges, warehouses for highly explosive materials or other buildings or facilities affecting flight safety;\n(3) installing lights, markings or objects that affect the use of visual aids at the civil airport or affect pilots' lines of sight;\n(4) planting vegetation that affects flight safety or affects the use of navigational aids at the civil airport;\n(5) releasing birds affecting flight safety, launching unmanned free balloons, captive balloons and other objects into the air;\n(6) burning crop straw, refuse and other substances that generate large quantities of smoke, or setting off fireworks and firecrackers;\n(7) within 5 metres outside the boundary fence of a civil airport, putting up buildings, planting trees, or engaging in excavation, piling up objects and other activities affecting the safety of civil airport operations;\n(8) other acts affecting the clearance protection of civil airports prescribed by the competent civil aviation department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety and Environmental Protection of Civil Airports"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Activities listed in Article 49 of these Regulations carried out outside a civil airport clearance protection zone may not affect the clearance protection of the civil airport."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety and Environmental Protection of Civil Airports"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "It is prohibited to construct anti-aircraft firing ranges and other facilities that may affect flight safety within 30 kilometres on each side of the boundaries of air routes."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety and Environmental Protection of Civil Airports"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "The civil aviation administration departments and airport management organisations shall strengthen verification of the clearance conditions of civil airports. Where circumstances affecting the clearance protection of a civil airport are discovered, they shall immediately stop them and report in writing to the local people's government at or above the county level of the place where the civil airport is located. The local people's government at or above the county level that receives the report shall promptly take effective measures to eliminate the effect on flight safety."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety and Environmental Protection of Civil Airports"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "The local radio administration institution of the place where a civil airport is located shall, together with the regional civil aviation administration institution, determine the civil airport electromagnetic environment protection zone in accordance with the relevant provisions and standards of the State on radio administration and publish it to the public.\nThe civil airport electromagnetic environment protection zone includes the electromagnetic environment protection zone for civil aviation radio stations (stations) established within the master plan area of the civil airport and the electromagnetic environment protection zone of the airfield area of the civil airport."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety and Environmental Protection of Civil Airports"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "The establishment and use of ground civil aviation radio stations shall, after examination by the civil aviation administration department, be subject to the examination and approval formalities and the obtaining of radio station licences in accordance with the relevant provisions of the State on radio administration."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety and Environmental Protection of Civil Airports"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where non-civil-aviation radio stations are established or used within a civil airport electromagnetic environment protection zone, the radio administration institution shall, after seeking the opinions of the regional civil aviation administration institution of the place where the civil airport is located, grant approval in accordance with the relevant provisions of the State on radio administration."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety and Environmental Protection of Civil Airports"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "The following activities affecting the electromagnetic environment of a civil airport are prohibited within the electromagnetic environment protection zone for civil aviation radio stations:\n(1) constructing overhead high-voltage transmission lines, overhead metal lines, railways, highways and electric power pumping and irrigation stations;\n(2) storing piled metal objects;\n(3) planting tall vegetation;\n(4) engaging in earth excavation, sand extraction, stone quarrying and other activities that alter the topography and landforms;\n(5) other acts affecting the electromagnetic environment of civil airports prescribed by the competent civil aviation department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety and Environmental Protection of Civil Airports"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Radio stations and other instruments and devices used by any unit or individual may not cause interference to the normal use of frequencies dedicated to civil aviation radio."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety and Environmental Protection of Civil Airports"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where frequencies dedicated to civil aviation radio are interfered with, the airport management organisation and the civil aviation administration department shall immediately take troubleshooting measures and eliminate the interference promptly; where the interference cannot be eliminated, they shall notify the local radio administration institution of the place where the civil airport is located. The radio administration institution that receives the notification shall take measures and investigate and deal with the matter in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety and Environmental Protection of Civil Airports"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Civil aircraft taking off from and landing at civil airports shall comply with the airworthiness standards of the State on aircraft noise and turbo-engine emissions."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety and Environmental Protection of Civil Airports"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "An airport management organisation shall, together with air transport enterprises, the air traffic management department and other relevant units, adopt technical means and management measures to control the impact of civil aircraft noise on the areas surrounding the transport airport."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety and Environmental Protection of Civil Airports"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "When formulating the overall plan for land use and the urban and rural plans for the areas surrounding a civil airport, the relevant local people's government of the place where the civil airport is located shall fully take into account the impact of civil aircraft noise on the areas surrounding the civil airport and comply with the relevant national standards on acoustic environment quality.\nAn airport management organisation shall report the circumstances of the impact of civil aircraft noise on the areas surrounding the transport airport to the competent departments of land and resources, planning and construction, and environmental protection of the relevant local people's government."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety and Environmental Protection of Civil Airports"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "The relevant local people's government of the place where a civil airport is located shall delineate areas surrounding the civil airport in which the construction of noise-sensitive buildings is restricted and shall exercise control over them. Where noise-sensitive buildings genuinely need to be constructed in such areas, the construction unit shall take measures to mitigate or avoid the noise impact on them arising from the operation of civil aircraft.\nThe relevant local people's government of the place where a civil airport is located shall, together with the regional civil aviation administration institution, coordinate the resolution of problems arising from the noise impact of civil aircraft taking off from and landing at the civil airport."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety and Environmental Protection of Civil Airports"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Where the provisions of these Regulations are violated and any of the following circumstances exists, the civil aviation administration department shall order rectification and impose a fine of not less than RMB 100,000 yuan but not more than RMB 500,000 yuan:\n(1) carrying out construction activities within a transport airport that do not conform to the master plan of the transport airport;\n(2) implementing without authorisation a design for specialized engineering works of a transport airport that has not been approved, or putting into use specialized engineering works of a transport airport that have not been accepted as conforming;\n(3) where the transport airport is open for use, carrying out construction in the airfield area or in the terminal area adjacent to the airfield area without approval."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Where the provisions of these Regulations are violated and an airport management organisation uses a transport airport outside the scope specified in the transport airport use licence, the regional civil aviation administration institution of the place where the transport airport is located shall order rectification and impose a fine of not less than RMB 200,000 yuan but not more than RMB 1,000,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Where the provisions of these Regulations are violated and an airport management organisation closes a transport airport without authorisation, the regional civil aviation administration institution of the place where the transport airport is located shall order rectification and impose a fine of not less than RMB 100,000 yuan but not more than RMB 500,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Where the provisions of these Regulations are violated and an airport management organisation, being unable to ensure the flight safety of civil aircraft for some reason and having temporarily closed the transport airport, fails to promptly notify the relevant air traffic management department and promptly make a public announcement, or fails to promptly make a public announcement after the closure of the transport airport has been approved, the regional civil aviation administration institution of the place where the transport airport is located shall order rectification and impose a fine of not less than RMB 20,000 yuan but not more than RMB 100,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Where the provisions of these Regulations are violated and an airport management organisation fails to carry out emergency rescue drills in accordance with the requirements of the emergency response plan or fails to be equipped with the necessary emergency rescue equipment and materials, the regional civil aviation administration institution shall order rectification and impose a fine of not less than RMB 10,000 yuan but not more than RMB 50,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "Where the provisions of these Regulations are violated, a transport airport, after being put into use, does not meet the requirements for safe operation, and the airport management organisation refuses to rectify, or still does not meet the requirements for safe operation after rectification, the civil aviation administration department shall make a decision to restrict its use; where the circumstances are serious, the transport airport use licence shall be revoked."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "Where an airport management organisation fails to perform its management duties in accordance with the provisions of these Regulations, causing a ground accident at a transport airport, a civil aircraft flight accident or a serious incident, the civil aviation administration department shall order rectification and impose a fine of not less than RMB 200,000 yuan but not more than RMB 1,000,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "Where the provisions of these Regulations are violated and an airport management organisation uses special equipment for civil airports within a transport airport that does not comply with the standards and relevant technical specifications prescribed by the State, the regional civil aviation administration institution of the place where the transport airport is located shall order the cessation of its use and impose a fine of not less than RMB 100,000 yuan but not more than RMB 500,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "Where the provisions of these Regulations are violated and, when an emergency occurs, an airport management organisation, the air traffic management department or another unit fails to promptly and effectively carry out emergency rescue in accordance with the requirements of the emergency response plan, the regional civil aviation administration institution shall order rectification and impose a fine of not less than RMB 100,000 yuan but not more than RMB 500,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "Where the provisions of these Regulations are violated and a party engages in aviation fuel supply business within a civil airport without having obtained a civil airport aviation fuel supply safety operation licence, the regional civil aviation administration institution of the place where the civil airport is located shall order rectification and impose a fine of not less than RMB 200,000 yuan but not more than RMB 1,000,000 yuan; where there are illegal gains, the illegal gains shall be confiscated."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "Where the provisions of these Regulations are violated and the aviation fuel supplied by an aviation fuel supply enterprise does not comply with aviation fuel airworthiness standards, the regional civil aviation administration institution of the place where the civil airport is located shall order rectification and impose a fine of not less than RMB 200,000 yuan but not more than RMB 1,000,000 yuan; where the circumstances are serious, the civil airport aviation fuel supply safety operation licence shall be revoked."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "Where the provisions of these Regulations are violated and an aviation fuel supply enterprise of a transport airport ceases its aviation fuel supply business at the transport airport without notifying the regional civil aviation administration institution, the airport management organisation and the relevant air transport enterprises 90 days in advance, the regional civil aviation administration institution of the place where the transport airport is located shall impose a fine of not less than RMB 50,000 yuan but not more than RMB 250,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "Where the provisions of these Regulations are violated and any of the following circumstances exists, the regional civil aviation administration institution shall order rectification and impose a fine of not less than RMB 20,000 yuan but not more than RMB 100,000 yuan:\n(1) an airport management organisation fails to provide facilities and equipment for waiting, catering, parking and medical first aid in accordance with the standards prescribed by the State and to provide the corresponding services;\n(2) when a flight is delayed, an airport management organisation, an air transport enterprise or another unit stationed at the airport fails to provide the corresponding services to passengers and cargo owners in accordance with the relevant provisions and service commitments."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "Where the provisions of these Regulations are violated and an airport management organisation or its affiliated enterprise participates in the operation of a business operated by way of compensated transfer of operating rights, the regional civil aviation administration institution shall order rectification and impose a fine of not less than RMB 100,000 yuan but not more than RMB 500,000 yuan; where there are illegal gains, the illegal gains shall be confiscated."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "Where the provisions of these Regulations are violated and an airport management organisation fails to submit to the civil aviation administration department the relevant materials on the planning, construction and production operation of the transport airport, the civil aviation administration department shall order rectification; where it refuses to rectify, a fine of not less than RMB 10,000 yuan but not more than RMB 50,000 yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "Where the provisions of these Regulations are violated and a high-voltage transmission tower of 220,000 volts or above is erected within a civil airport clearance protection zone without obstacle lights or markings installed in accordance with the relevant provisions of the competent civil aviation department of the State Council, the regional civil aviation administration institution of the place where the civil airport is located shall order rectification and impose a fine of not less than RMB 100,000 yuan but not more than RMB 500,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "Where the provisions of these Regulations are violated and any of the following circumstances exists, the local people's government at or above the county level of the place where the civil airport is located shall order rectification; where the circumstances are serious, a fine of not less than RMB 20,000 yuan but not more than RMB 100,000 yuan shall be imposed:\n(1) discharging large quantities of smoke, dust, flame, exhaust gas or other substances affecting flight safety;\n(2) constructing shooting ranges, warehouses for highly explosive materials or other buildings or facilities affecting flight safety;\n(3) installing lights, markings or objects that affect the use of visual aids at the civil airport or affect pilots' lines of sight;\n(4) planting vegetation that affects flight safety or affects the use of navigational aids at the civil airport;\n(5) releasing birds affecting flight safety, launching unmanned free balloons, captive balloons and other objects into the air;\n(6) burning crop straw, refuse and other substances that generate large quantities of smoke, or setting off fireworks and firecrackers;\n(7) within 5 metres outside the boundary fence of a civil airport, putting up buildings, planting trees, or engaging in excavation, piling up objects and other activities affecting the safety of civil airport operations;\n(8) other acts affecting the clearance protection of civil airports prescribed by the competent civil aviation department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "Where the provisions of these Regulations are violated and a radio station or other instrument or device used causes interference to the normal use of frequencies dedicated to civil aviation radio, the radio administration institution of the place where the civil airport is located shall order rectification; where the circumstances are serious, a fine of not less than RMB 20,000 yuan but not more than RMB 100,000 yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "Where the provisions of these Regulations are violated and any of the following activities is carried out within the electromagnetic environment protection zone for civil aviation radio stations, the local people's government at or above the county level of the place where the civil airport is located shall order rectification; where the circumstances are serious, a fine of not less than RMB 20,000 yuan but not more than RMB 100,000 yuan shall be imposed:\n(1) constructing overhead high-voltage transmission lines, overhead metal lines, railways, highways and electric power pumping and irrigation stations;\n(2) storing piled metal objects;\n(3) engaging in earth excavation, sand extraction, stone quarrying and other activities that alter the topography and landforms;\n(4) other acts affecting the protection of the electromagnetic environment of civil airports prescribed by the competent civil aviation department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "Where the provisions of these Regulations are violated and civil aircraft taking off from and landing at a civil airport do not comply with the airworthiness standards of the State on aircraft noise and turbo-engine emissions, the civil aviation administration department shall order the relevant air transport enterprise to rectify and may impose a fine of not more than RMB 100,000 yuan; where it refuses to rectify, a fine of not less than RMB 100,000 yuan but not more than RMB 500,000 yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "Where State functionaries violate the provisions of these Regulations and any of the following circumstances exists, the relevant departments shall impose sanctions in accordance with law:\n(1) failing to implement administrative licensing in accordance with provisions;\n(2) failing to perform supervision and inspection duties in accordance with law;\n(3) failing to implement administrative compulsory measures or administrative penalties in accordance with law;\n(4) other acts of abuse of power or dereliction of duty."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "Transport airport as mentioned in these Regulations means an airport that provides take-off, landing and other services for civil aircraft engaged in public air transport activities such as the transport of passengers and cargo.\nGeneral aviation airport as mentioned in these Regulations means an airport that provides take-off, landing and other services for civil aircraft engaged in industrial, agricultural, forestry, fishery and construction operation flights, and flight activities such as medical and health care, emergency rescue and disaster relief, meteorological detection, marine monitoring, scientific experiments, education and training, and culture and sports."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "A transport airport with an airfield index of 4D as mentioned in these Regulations means an airport that can provide take-off and landing for civil aircraft with a reference field length of more than 1,800 metres, a wingspan of between 36 metres and 52 metres, and a distance between the outer edges of the outer wheels of the main landing gear of between 9 metres and 14 metres.\nA transport airport with an airfield index of 4E as mentioned in these Regulations means an airport that can provide take-off and landing for civil aircraft with a reference field length of more than 1,800 metres, a wingspan of between 52 metres and 65 metres, and a distance between the outer edges of the outer wheels of the main landing gear of between 9 metres and 14 metres."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "The management of the civil part of a military-civil joint-use airport shall, in addition to complying with the relevant provisions of these Regulations, also comply with the relevant provisions of the State Council and the Central Military Commission."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "These Regulations shall come into force on 1 July 2009."
+        },
+        "noLabel": {
+          "en": "Article 87."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-REG-0249'] = {
     "lawId": "CN-REG-0249",
     "sourceLang": "zh",
@@ -26250,6 +32745,795 @@
         },
         "noLabel": {
           "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0257'] = {
+    "lawId": "CN-REG-0257",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 66 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated for the purpose of strengthening the administration of pesticides, ensuring the quality of pesticides, safeguarding the quality and safety of agricultural products and the safety of human beings and livestock, and protecting agricultural and forestry production and the ecological environment."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "For the purposes of these Regulations, pesticides mean a substance or a mixture of several substances and their preparations, chemically synthesised or derived from organisms or other natural substances, used to prevent or control diseases, insects, weeds, rodents and other harmful organisms endangering agriculture and forestry, and to purposefully regulate the growth of plants and insects.\nPesticides as mentioned in the preceding paragraph include the following categories used for different purposes and in different places:\n(a) pesticides for preventing and controlling diseases, insects (including insect pests, ticks and mites), weeds, rodents, molluscs and other harmful organisms endangering agriculture and forestry;\n(b) pesticides for preventing and controlling diseases, insects, rodents and other harmful organisms in storage and processing premises;\n(c) pesticides for regulating the growth of plants and insects;\n(d) pesticides for preserving or keeping fresh agricultural and forestry products;\n(e) pesticides for preventing and controlling mosquitoes, flies, cockroaches, rodents and other harmful organisms;\n(f) pesticides for preventing and controlling harmful organisms endangering river embankments, railways, wharves, airports, buildings and other places."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The competent agriculture department of the State Council shall be responsible for the supervision and administration of pesticides throughout the country.\nThe competent agriculture departments of local people's governments at or above the county level shall be responsible for the supervision and administration of pesticides within their respective administrative regions.\nOther relevant departments of people's governments at or above the county level shall be responsible for the relevant supervision and administration of pesticides within the scope of their respective duties."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Local people's governments at or above the county level shall strengthen organisation and leadership over the supervision and administration of pesticides, include the funds for such supervision and administration in the budget of the government at the corresponding level, and ensure the conduct of the supervision and administration of pesticides."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Pesticide manufacturers and pesticide dealers shall be responsible for the safety and effectiveness of the pesticides they manufacture and deal in, and shall conscientiously accept government regulation and public oversight.\nPesticide manufacturers and pesticide dealers shall strengthen industry self-discipline and standardise their manufacturing and dealing conduct."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The State encourages and supports the development, manufacture and use of safe, efficient and economical pesticides, promotes the specialised use of pesticides and facilitates the upgrading of the pesticide industry.\nUnits and individuals that make outstanding contributions to the development, promotion, supervision and administration of pesticides shall be commended or rewarded in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The State applies a pesticide registration system. Pesticide manufacturers and enterprises exporting pesticides to China shall apply for pesticide registration in accordance with the provisions of these Regulations, and developers of new pesticides may apply for pesticide registration in accordance with the provisions of these Regulations.\nThe institution responsible for pesticide verification under the competent agriculture department of the State Council shall be responsible for the specific work of pesticide registration. The institutions responsible for pesticide verification under the competent agriculture departments of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall assist in the specific work of pesticide registration within their respective administrative regions."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Pesticide Registration"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The competent agriculture department of the State Council shall organise the establishment of a pesticide registration review committee, which shall be responsible for pesticide registration review.\nThe pesticide registration review committee shall be composed of the following persons:\n(a) experts in pesticide product chemistry, efficacy, toxicology, residues, environment, quality standards and testing recommended by the competent agriculture, forestry, health, environmental protection, grain, industry administration, work safety supervision and administration and other relevant departments of the State Council and by the All-China Federation of Supply and Marketing Cooperatives and other units;\n(b) the relevant experts of the National Expert Committee on Food Safety Risk Assessment;\n(c) representatives of the competent agriculture, forestry, health, environmental protection, grain, industry administration, work safety supervision and administration and other relevant departments of the State Council and of the All-China Federation of Supply and Marketing Cooperatives and other units.\nThe rules for pesticide registration review shall be formulated by the competent agriculture department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Pesticide Registration"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Applicants for pesticide registration shall conduct registration tests.\nRegistration tests of pesticides shall be reported to the competent agriculture department of the people's government of the province, autonomous region or municipality directly under the Central Government where the pesticide is located for the record."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Pesticide Registration"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Registration tests shall be conducted by registration testing institutions recognised by the competent agriculture department of the State Council and in accordance with the provisions of the competent agriculture department of the State Council.\nPesticides whose composition, scope of use and methods of use are the same as those of pesticides that have obtained pesticide registration in China shall be exempt from residue and environmental tests; however, where a pesticide that has obtained pesticide registration in China is within the period of protection of registration data under Article 15 of these Regulations, the authorisation and consent of the holder of the pesticide registration certificate shall be obtained.\nRegistration testing institutions shall be responsible for the authenticity of registration test reports."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Pesticide Registration"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "After the completion of registration tests, the applicant shall file an application for pesticide registration with the competent agriculture department of the people's government of the province, autonomous region or municipality directly under the Central Government where the applicant is located, and submit the registration test report, specimen labels and the quality standards of the pesticide product and the testing methods therefor and other application materials; applicants for registration of new pesticides shall additionally provide pesticide reference standards.\nThe competent agriculture department of the people's government of the province, autonomous region or municipality directly under the Central Government shall, within 20 working days from the date of acceptance of the application, put forward its preliminary review opinions and submit them to the competent agriculture department of the State Council.\nWhere an enterprise exporting pesticides to China applies for pesticide registration, it shall file the application with the competent agriculture department of the State Council together with the materials specified in the first paragraph of this Article, the pesticide reference standards and the documents evidencing registration and use in the relevant countries (regions)."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Pesticide Registration"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "After accepting an application or receiving the application materials submitted by the competent agriculture department of the people's government of the province, autonomous region or municipality directly under the Central Government, the competent agriculture department of the State Council shall organise examination and registration review and shall, within 20 working days from the date of receipt of the review opinions, make a decision on approval; where the conditions are met, it shall issue a pesticide registration certificate; where the conditions are not met, it shall notify the applicant in writing and state the reasons."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Pesticide Registration"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "A pesticide registration certificate shall state the name, formulation, active ingredient and its content, toxicity, scope of use, methods and dosage of use, holder of the certificate, certificate number and period of validity of the pesticide and other particulars.\nA pesticide registration certificate shall be valid for five years. Where, upon expiry of the period of validity, the pesticide is to continue to be manufactured or exported to China, the holder of the pesticide registration certificate shall, 90 days before the expiry of the period of validity, apply to the competent agriculture department of the State Council for renewal.\nWhere any particular stated in a pesticide registration certificate changes, the holder of the pesticide registration certificate shall apply for modification of the certificate in accordance with the provisions of the competent agriculture department of the State Council.\nThe competent agriculture department of the State Council shall promptly announce the issuance, renewal and modification of pesticide registration certificates, as well as the relevant product quality standard numbers, residue limit provisions, testing methods, approved labels and other information."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Pesticide Registration"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Developers of new pesticides may transfer the registration data of the new pesticides for which they have obtained registration; pesticide manufacturers may transfer the registration data of pesticides for which they have obtained registration to pesticide manufacturers with the corresponding manufacturing capacity."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Pesticide Registration"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The State shall protect the undisclosed test data and other data obtained by the applicants themselves and submitted by them in respect of new compounds-containing pesticides that have obtained registration for the first time.\nWithin six years from the date of registration, where another applicant applies for pesticide registration by using the data specified in the preceding paragraph without the consent of the applicant that has obtained registration, the registration authority shall not grant registration, unless the other applicant submits data obtained by itself.\nExcept in the following circumstances, the registration authority may not disclose the data specified in the first paragraph of this Article:\n(a) where required by the public interest;\n(b) where measures have been taken to ensure that such information will not be unfairly used for commercial purposes."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Pesticide Registration"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Pesticide manufacture shall conform to the industrial policy of the State. The State encourages and supports pesticide manufacturers in adopting advanced technologies and advanced management practices to improve the safety and effectiveness of pesticides."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Pesticide Manufacture"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The State applies a pesticide manufacturing licensing system. Pesticide manufacturers shall meet the following conditions and shall, in accordance with the provisions of the competent agriculture department of the State Council, apply to the competent agriculture department of the people's government of the province, autonomous region or municipality directly under the Central Government for a pesticide manufacturing licence:\n(a) having technical personnel suited to the pesticide to be manufactured;\n(b) having factory buildings and facilities suited to the pesticide to be manufactured;\n(c) having personnel, instruments and equipment for quality management and quality inspection of the pesticide to be manufactured;\n(d) having rules and regulations ensuring the quality of the pesticide to be manufactured.\nThe competent agriculture department of the people's government of the province, autonomous region or municipality directly under the Central Government shall, within 20 working days from the date of acceptance of the application, make a decision on approval and, where necessary, conduct an on-site verification. Where the conditions are met, it shall issue a pesticide manufacturing licence; where the conditions are not met, it shall notify the applicant in writing and state the reasons.\nWhere laws and administrative regulations on work safety, environmental protection and the like contain other provisions on the production conditions of enterprises, pesticide manufacturers shall comply with those provisions as well."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Pesticide Manufacture"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "A pesticide manufacturing licence shall state the name and domicile of the pesticide manufacturer, its legal representative (person in charge), the scope of manufacture, the manufacturing address, the period of validity and other particulars.\nA pesticide manufacturing licence shall be valid for five years. Where, upon expiry of the period of validity, pesticides are to continue to be manufactured, the pesticide manufacturer shall, 90 days before the expiry of the period of validity, apply to the competent agriculture department of the people's government of the province, autonomous region or municipality directly under the Central Government for renewal.\nWhere any particular stated in a pesticide manufacturing licence changes, the pesticide manufacturer shall apply for modification of the licence in accordance with the provisions of the competent agriculture department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Pesticide Manufacture"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Where pesticides are processed or repackaged on commission, the principal shall obtain the corresponding pesticide registration certificate and the commission agent shall obtain a pesticide manufacturing licence.\nThe principal shall be responsible for the quality of the pesticides processed or repackaged on commission."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Pesticide Manufacture"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "When purchasing raw materials, a pesticide manufacturer shall verify the product quality inspection certificate and the relevant licensing documents, and may not purchase or use raw materials that are not accompanied by a product quality inspection certificate as required by law or for which the relevant licensing documents have not been obtained as required by law.\nA pesticide manufacturer shall establish a raw material purchase record system and truthfully record the name, relevant licensing document number, specifications, quantity, name of the supplier and contact details, date of purchase and other particulars of the raw materials. Raw material purchase records shall be kept for not less than two years."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Pesticide Manufacture"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "A pesticide manufacturer shall manufacture strictly in accordance with the product quality standards and ensure that the pesticide products are consistent with the registered pesticide. Pesticides may be sold ex-factory only after passing quality inspection and being accompanied by a product quality inspection certificate.\nA pesticide manufacturer shall establish an ex-factory sales record system and truthfully record the name, specifications, quantity, date of manufacture and batch number, product quality inspection information, name of the purchaser and contact details, date of sale and other particulars of the pesticides. Ex-factory sales records of pesticides shall be kept for not less than two years."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Pesticide Manufacture"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Pesticide packaging shall conform to the relevant provisions of the State and shall be printed or labelled with a label. The State encourages pesticide manufacturers to use recyclable pesticide packaging materials.\nPesticide labels shall, in accordance with the provisions of the competent agriculture department of the State Council, state in Chinese the name, formulation, active ingredient and its content, toxicity and its marking, scope of use, methods and dosage of use, technical requirements for use and precautions, date of manufacture, traceable electronic information code and other particulars of the pesticide.\nThe labels of pesticides subject to restricted use, such as pesticides of high toxicity and extreme toxicity and other pesticides with strict technical requirements for use, shall additionally be marked with the words \"restricted use\" and shall indicate the special restrictions and special requirements for use. The labels of pesticides used on edible agricultural products shall additionally indicate the safe interval."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Pesticide Manufacture"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Pesticide manufacturers may not alter without authorisation the approved content of pesticide labels, and may not state on pesticide labels any content that is false or misleading to users.\nWhere the pesticide packaging is too small for the label to state all the content, an instruction leaflet shall be attached at the same time, and the content of the leaflet shall be consistent with the approved content of the label."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Pesticide Manufacture"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The State applies a pesticide dealing licensing system, except for dealing in pesticides for hygiene use. Pesticide dealers shall meet the following conditions and shall, in accordance with the provisions of the competent agriculture department of the State Council, apply to the competent agriculture department of the local people's government at or above the county level for a pesticide dealing licence:\n(a) having dealing personnel who possess professional knowledge of pesticides and pest control, are familiar with the provisions on pesticide administration and are able to guide the safe and rational use of pesticides;\n(b) having business premises and storage premises effectively isolated from other commodities and from drinking water sources and residential areas, and equipped with protective facilities suited to the pesticides to be dealt in;\n(c) having systems for quality management, ledger recording, safety protection, emergency response, storage management and the like suited to the pesticides to be dealt in.\nDealers in pesticides subject to restricted use shall additionally be equipped with professional and technical personnel for guidance on pesticide application and pest control and shall deal in such pesticides at designated points in accordance with the provisions of the competent agriculture department of the people's government of the province, autonomous region or municipality directly under the Central Government where they are located.\nThe competent agriculture department of a local people's government at or above the county level shall, within 20 working days from the date of acceptance of the application, make a decision on approval. Where the conditions are met, it shall issue a pesticide dealing licence; where the conditions are not met, it shall notify the applicant in writing and state the reasons."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter IV Pesticide Dealing"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "A pesticide dealing licence shall state the name and domicile of the pesticide dealer, the person in charge, the scope of dealing, the period of validity and other particulars.\nA pesticide dealing licence shall be valid for five years. Where, upon expiry of the period of validity, pesticides are to continue to be dealt in, the pesticide dealer shall, 90 days before the expiry of the period of validity, apply to the licensing authority for renewal.\nWhere any particular stated in a pesticide dealing licence changes, the pesticide dealer shall apply for modification of the licence in accordance with the provisions of the competent agriculture department of the State Council.\nWhere a pesticide dealer holding a pesticide dealing licence establishes a branch organisation, it shall apply for modification of the pesticide dealing licence in accordance with the law and report the matter to the competent agriculture department of the local people's government at or above the county level in the place where the branch organisation is located for the record, and the branch organisation shall be exempt from applying for a pesticide dealing licence. The pesticide dealer shall be responsible for the dealing activities of its branch organisation."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter IV Pesticide Dealing"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "When purchasing pesticides, a pesticide dealer shall verify the product packaging, label, product quality inspection certificate and the relevant licensing documents, and may not purchase pesticides from a pesticide manufacturer that has not obtained a pesticide manufacturing licence or from another pesticide dealer that has not obtained a pesticide dealing licence.\nA pesticide dealer shall establish a purchase ledger and truthfully record the name, relevant licensing document number, specifications, quantity, name of the manufacturer and of the supplier and their contact details, date of purchase and other particulars of the pesticides. The purchase ledger shall be kept for not less than two years."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Pesticide Dealing"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "A pesticide dealer shall establish a sales ledger and truthfully record the name, specifications, quantity, manufacturer, purchaser, date of sale and other particulars of the pesticides sold. The sales ledger shall be kept for not less than two years.\nA pesticide dealer shall inquire of the purchaser about the occurrence of pests and diseases and recommend pesticides on a scientific basis and, where necessary, inspect the occurrence of pests and diseases on the spot, and shall correctly explain the scope of use, methods and dosage of use, technical requirements for use and precautions of the pesticides, and may not mislead the purchaser.\nThe provisions of the first and second paragraphs of this Article shall not apply to dealing in pesticides for hygiene use."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Pesticide Dealing"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "A pesticide dealer may not process or repackage pesticides, may not add any substance to pesticides, and may not purchase or sell pesticides whose packaging and labels do not conform to the provisions, that are not accompanied by a product quality inspection certificate, or for which the relevant licensing documents have not been obtained.\nDealers in pesticides for hygiene use shall sell such pesticides in separate counters from other commodities; dealers in other pesticides may not deal in food, edible agricultural products, feed and the like within the pesticide dealing premises."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Pesticide Dealing"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Overseas enterprises may not sell pesticides directly in China. Where an overseas enterprise sells pesticides in China, it shall establish a sales organisation in China in accordance with the law or entrust a qualified Chinese agency with the sale.\nPesticides exported to China shall be accompanied by Chinese labels and instruction leaflets, conform to the product quality standards and have passed inspection in accordance with the law by the entry-exit inspection and quarantine department. Import of pesticides for which no pesticide registration certificate has been obtained is prohibited.\nIn completing customs declaration formalities for the import and export of pesticides, the relevant supporting documents shall be produced in accordance with the provisions of the General Administration of Customs."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Pesticide Dealing"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "The competent agriculture departments of people's governments at or above the county level shall strengthen guidance on and services for the use of pesticides, establish and improve the system for the safe and rational use of pesticides, and, in accordance with the requirements of giving priority to prevention and integrated control, organise the promotion of scientific pesticide use technologies and standardise pesticide use conduct. The forestry, grain, health and other departments shall strengthen technical guidance on the safe and rational use of pesticides for forestry, grain storage and hygiene, and the competent environmental protection department shall strengthen technical guidance on environmental protection and pollution prevention during the use of pesticides."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter V Use of Pesticides"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The competent agriculture department of a county-level people's government shall organise plant protection, agricultural technology extension and other institutions to provide free technical training to pesticide users so as to improve the level of safe and rational use of pesticides.\nThe State encourages agricultural research institutions, the relevant schools, specialised farmers' cooperatives, supply and marketing cooperatives, agricultural socialised service organisations and professionals to provide technical services to pesticide users."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter V Use of Pesticides"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The State shall gradually reduce the quantity of pesticides used by promoting biological control, physical control, advanced application machinery and other measures.\nCounty-level people's governments shall formulate and organise the implementation of pesticide reduction plans for their respective administrative regions and shall give encouragement and support to pesticide users that implement pesticide reduction plans and voluntarily reduce the quantity of pesticides used.\nThe competent agriculture departments of county-level people's governments shall encourage and support the establishment of specialised pest control service organisations and shall guide, standardise and administer the preparation and application of pesticides in specialised pest control and in the use of pesticides subject to restricted use, so as to improve the level of pest control.\nThe competent agriculture departments of county-level people's governments shall guide pesticide users in the planned rotation of pesticides so as to slow down the development of resistance in diseases, insects, weeds, rodents and other harmful organisms endangering agriculture and forestry.\nTownship and town people's governments shall assist in carrying out guidance on and services for the use of pesticides."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter V Use of Pesticides"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Pesticide users shall comply with the State's system for the safe and rational use of pesticides, properly keep pesticides, and take the necessary protective measures in the course of preparing and applying pesticides so as to avoid pesticide application accidents.\nDealers in pesticides subject to restricted use shall provide guidance on pesticide application to pesticide users and shall gradually provide unified pesticide application services."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter V Use of Pesticides"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Pesticide users shall use pesticides strictly in accordance with the scope of use, methods and dosage of use, technical requirements for use and precautions stated on the pesticide labels, and may not expand the scope of use, increase the dosage or change the methods of use.\nPesticide users may not use pesticides whose use is prohibited.\nFor pesticides whose labels state a safe interval, use shall cease before the harvest of agricultural products in accordance with the requirements of the safe interval.\nPesticides of high toxicity and extreme toxicity may not be used to control sanitary pests, may not be used in the production of vegetables, melons and fruits, tea, edible fungi and Chinese medicinal herbs, and may not be used to control pests and diseases of aquatic plants."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter V Use of Pesticides"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Pesticide users shall protect the environment and protect beneficial organisms and rare species, and may not discard pesticides or pesticide packaging or wash application machinery in drinking water source protection zones or in river courses.\nThe use of pesticides within drinking water source protection zones is strictly prohibited, and the use of pesticides to poison fish, shrimps, birds, beasts and the like is strictly prohibited."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter V Use of Pesticides"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Agricultural product production enterprises, food and edible agricultural product storage enterprises, specialised pest control service organisations and specialised farmers' cooperatives engaged in agricultural product production shall establish pesticide use records and truthfully record the time, place and target of pesticide application and the name, dosage and manufacturer of the pesticides. Pesticide use records shall be kept for not less than two years.\nThe State encourages other pesticide users to establish pesticide use records."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter V Use of Pesticides"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The State encourages pesticide users to properly collect pesticide packaging and other waste; pesticide manufacturers and pesticide dealers shall recover pesticide waste to prevent environmental pollution by pesticides and the occurrence of pesticide poisoning accidents. The specific measures shall be formulated by the competent environmental protection department of the State Council together with the competent agriculture department, the finance department and other departments of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter V Use of Pesticides"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where a pesticide application accident occurs, the pesticide user, the pesticide manufacturer, the pesticide dealer and other persons concerned shall promptly report to the local competent agriculture department.\nThe competent agriculture department receiving the report shall immediately take measures to prevent the expansion of the accident and at the same time notify the relevant departments to take corresponding measures. Where a pesticide poisoning accident is caused, the competent agriculture department and the public security organ shall, in accordance with their duties and powers, organise investigation and handling, and the competent health department shall, in accordance with the relevant provisions of the State, immediately organise medical treatment of the injured persons; where an environmental pollution accident is caused, the competent environmental protection and other departments shall organise investigation and handling in accordance with the law; where an accident in the use of grain storage chemicals or a crop phytotoxicity accident is caused, the grain, agriculture and other departments shall respectively organise technical appraisal and investigation and handling."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V Use of Pesticides"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where there is an urgent need to control sudden major pests and diseases, the competent agriculture department of the State Council may decide on the temporary manufacture and use of a prescribed quantity of pesticides that have not obtained registration or whose use is prohibited or restricted and, where necessary, shall together with the competent foreign trade department of the State Council decide on the temporary restriction of export or the temporary import of a prescribed quantity and variety of pesticides.\nPesticides as mentioned in the preceding paragraph shall be used under the supervision and guidance of the competent agriculture department of the county-level people's government in the place of use."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V Use of Pesticides"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "The competent agriculture departments of people's governments at or above the county level shall regularly investigate and compile statistics on the manufacture, sale and use of pesticides and promptly notify the relevant departments of the people's government at the corresponding level.\nThe competent agriculture departments of local people's governments at or above the county level shall establish and publish integrity records of pesticide manufacture and dealing; where illegal manufacture or dealing in pesticides is found and is suspected of a crime, the matter shall be transferred to the public security organ for investigation and handling in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "In performing their duties of pesticide supervision and administration, the competent agriculture departments of people's governments at or above the county level may take the following measures in accordance with the law:\n(a) entering the premises of pesticide manufacture, dealing and use to conduct on-site inspection;\n(b) conducting sampling inspection and testing of pesticides manufactured, dealt in and used;\n(c) making inquiries of the persons concerned to ascertain the relevant circumstances;\n(d) consulting and copying contracts, receipts, account books and other relevant materials;\n(e) sealing up and seizing pesticides illegally manufactured, dealt in or used, as well as tools, equipment, raw materials and the like used for the illegal manufacture, dealing in or use of pesticides;\n(f) sealing up the premises where pesticides are illegally manufactured, dealt in or used."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The State establishes a pesticide recall system. Where a pesticide manufacturer finds that the pesticide it manufactures poses serious harm or a relatively high risk to agriculture and forestry, the safety of human beings and livestock, the quality and safety of agricultural products, the ecological environment and the like, it shall immediately stop manufacture, notify the relevant dealers and users, report to the local competent agriculture department, voluntarily recall the product, and keep records of the notification and recall.\nWhere a pesticide dealer finds that the pesticide it deals in presents the circumstances specified in the preceding paragraph, it shall immediately stop sale, notify the relevant manufacturer, supplier and purchasers, report to the local competent agriculture department, and keep records of the cessation of sale and the notification.\nWhere a pesticide user finds that the pesticide it uses presents the circumstances specified in the first paragraph of this Article, it shall immediately stop use, notify the dealer and report to the local competent agriculture department."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "The competent agriculture department of the State Council and the competent agriculture departments of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall organise the institutions responsible for pesticide verification and the plant protection institutions to monitor the safety and effectiveness of registered pesticides.\nWhere it is found that a registered pesticide poses serious harm or a relatively high risk to agriculture and forestry, the safety of human beings and livestock, the quality and safety of agricultural products, the ecological environment and the like, the competent agriculture department of the State Council shall organise the pesticide registration review committee to conduct a review and, on the basis of the review results, revoke or modify the corresponding pesticide registration certificate and, where necessary, decide to prohibit or restrict its use and announce the decision."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Any of the following circumstances shall be determined to constitute a counterfeit pesticide:\n(a) passing off a non-pesticide as a pesticide;\n(b) passing off one pesticide as another;\n(c) the categories of active ingredients contained in the pesticide being inconsistent with the active ingredients stated on the label or in the instruction leaflet.\nPesticides whose use is prohibited, pesticides manufactured or imported without having obtained a pesticide registration certificate in accordance with the law, and pesticides not accompanied by a label shall be treated as counterfeit pesticides."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Any of the following circumstances shall be determined to constitute an inferior pesticide:\n(a) failure to conform to the pesticide product quality standards;\n(b) admixture of harmful components causing phytotoxicity and the like.\nPesticides that have exceeded the quality guarantee period shall be treated as inferior pesticides."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Counterfeit pesticides, inferior pesticides and recovered pesticide waste shall be handed over to units qualified to deal in hazardous waste for centralised disposal, and the disposal costs shall be borne by the corresponding pesticide manufacturers and pesticide dealers; where the pesticide manufacturer or dealer is unclear, the disposal costs shall be defrayed from the finances of the county-level people's government in the place concerned."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Forging, altering, transferring, leasing or lending pesticide registration certificates, pesticide manufacturing licences, pesticide dealing licences and other licensing documents is prohibited."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "The competent agriculture departments of people's governments at or above the county level and their staff, and the institutions responsible for pesticide verification and their staff, may not participate in pesticide manufacture or dealing."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where the competent agriculture department of a people's government at or above the county level or any of its staff commits any of the following acts, the people's government at the corresponding level shall order correction; the leading persons responsible and the persons directly responsible shall be given sanctions in accordance with the law; and where the leading persons responsible or the persons directly responsible commit a crime, criminal liability shall be investigated in accordance with the law:\n(a) failing to perform the duties of supervision and administration, so that illegal pesticide manufacture or dealing within the administrative region causes major losses or a vile social impact;\n(b) granting a licence to an applicant that does not meet the conditions, or refusing to grant a licence to an applicant that meets the conditions;\n(c) participating in pesticide manufacture or dealing;\n(d) other acts of malpractice for selfish ends, abuse of power or dereliction of duty."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where a member of the pesticide registration review committee seeks improper benefits in pesticide registration review, the competent agriculture department of the State Council shall remove him from the committee; where he is a member of the State personnel, sanctions shall be given in accordance with the law; and where a crime is constituted, criminal liability shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where a registration testing institution issues a false registration test report, the competent agriculture department of the people's government of the province, autonomous region or municipality directly under the Central Government shall confiscate its illegal gains and impose a fine of not less than RMB 50,000 but not more than RMB 100,000; the competent agriculture department of the State Council shall remove it from the list of registration testing institutions and shall not accept its application for recognition as a registration testing institution within five years; and where a crime is constituted, criminal liability shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where pesticides are manufactured without having obtained a pesticide manufacturing licence or counterfeit pesticides are manufactured, the competent agriculture department of the local people's government at or above the county level shall order cessation of manufacture, confiscate the illegal gains, the illegally manufactured products and the tools, equipment, raw materials and the like used for illegal manufacture, and impose, where the value of the illegally manufactured products is less than RMB 10,000, a fine of not less than RMB 50,000 but not more than RMB 100,000, or, where the value is RMB 10,000 or more, a fine of not less than ten times but not more than twenty times the value; the licensing authority shall revoke the pesticide manufacturing licence and the corresponding pesticide registration certificate; and where a crime is constituted, criminal liability shall be investigated in accordance with the law.\nWhere a pesticide manufacturer holding a pesticide manufacturing licence continues to manufacture pesticides although it no longer meets the prescribed conditions, the competent agriculture department of the local people's government at or above the county level shall order rectification within a specified time limit; where rectification is refused upon expiry of the time limit or the prescribed conditions are still not met after rectification, the licensing authority shall revoke the pesticide manufacturing licence.\nWhere a pesticide manufacturer manufactures inferior pesticides, the competent agriculture department of the local people's government at or above the county level shall order cessation of manufacture, confiscate the illegal gains, the illegally manufactured products and the tools, equipment, raw materials and the like used for illegal manufacture, and impose, where the value of the illegally manufactured products is less than RMB 10,000, a fine of not less than RMB 10,000 but not more than RMB 50,000, or, where the value is RMB 10,000 or more, a fine of not less than five times but not more than ten times the value; where the circumstances are serious, the licensing authority shall revoke the pesticide manufacturing licence and the corresponding pesticide registration certificate; and where a crime is constituted, criminal liability shall be investigated in accordance with the law.\nWhere pesticides are processed or repackaged on commission by a commission agent that has not obtained a pesticide manufacturing licence, or counterfeit or inferior pesticides are processed or repackaged on commission, both the principal and the commission agent shall be punished in accordance with the provisions of the first and third paragraphs of this Article."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where a pesticide manufacturer commits any of the following acts, the competent agriculture department of the local people's government at or above the county level shall order correction, confiscate the illegal gains, the illegally manufactured products and the raw materials and the like used for illegal manufacture, and impose, where the value of the illegally manufactured products is less than RMB 10,000, a fine of not less than RMB 10,000 but not more than RMB 20,000, or, where the value is RMB 10,000 or more, a fine of not less than two times but not more than five times the value; where correction is refused or the circumstances are serious, the licensing authority shall revoke the pesticide manufacturing licence and the corresponding pesticide registration certificate:\n(a) purchasing or using raw materials that are not accompanied by a product quality inspection certificate as required by law or for which the relevant licensing documents have not been obtained as required by law;\n(b) selling ex-factory pesticides that have not passed quality inspection or are not accompanied by a product quality inspection certificate;\n(c) the packaging, labels or instruction leaflets of the pesticides manufactured not conforming to the provisions;\n(d) failing to recall pesticides that should be recalled in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where a pesticide manufacturer fails to implement the raw material purchase and ex-factory sales record systems, or fails to perform the obligation to recover pesticide waste, the competent agriculture department of the local people's government at or above the county level shall order correction and impose a fine of not less than RMB 10,000 but not more than RMB 50,000; where correction is refused or the circumstances are serious, the licensing authority shall revoke the pesticide manufacturing licence and the corresponding pesticide registration certificate."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where a pesticide dealer commits any of the following acts, the competent agriculture department of the local people's government at or above the county level shall order cessation of dealing, confiscate the illegal gains, the illegally dealt-in pesticides and the tools, equipment and the like used for illegal dealing, and impose, where the value of the illegally dealt-in pesticides is less than RMB 10,000, a fine of not less than RMB 5,000 but not more than RMB 50,000, or, where the value is RMB 10,000 or more, a fine of not less than five times but not more than ten times the value; and where a crime is constituted, criminal liability shall be investigated in accordance with the law:\n(a) dealing in pesticides without having obtained a pesticide dealing licence, in violation of the provisions of these Regulations;\n(b) dealing in counterfeit pesticides;\n(c) adding substances to pesticides.\nWhere the acts specified in items (b) and (c) of the preceding paragraph are committed and the circumstances are serious, the licensing authority shall additionally revoke the pesticide dealing licence.\nWhere a pesticide dealer holding a pesticide dealing licence continues to deal in pesticides although it no longer meets the prescribed conditions, the competent agriculture department of the local people's government at or above the county level shall order rectification within a specified time limit; where rectification is refused upon expiry of the time limit or the prescribed conditions are still not met after rectification, the licensing authority shall revoke the pesticide dealing licence."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where a pesticide dealer deals in inferior pesticides, the competent agriculture department of the local people's government at or above the county level shall order cessation of dealing, confiscate the illegal gains, the illegally dealt-in pesticides and the tools, equipment and the like used for illegal dealing, and impose, where the value of the illegally dealt-in pesticides is less than RMB 10,000, a fine of not less than RMB 2,000 but not more than RMB 20,000, or, where the value is RMB 10,000 or more, a fine of not less than two times but not more than five times the value; where the circumstances are serious, the licensing authority shall revoke the pesticide dealing licence; and where a crime is constituted, criminal liability shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where a pesticide dealer commits any of the following acts, the competent agriculture department of the local people's government at or above the county level shall order correction, confiscate the illegal gains and the illegally dealt-in pesticides, and impose a fine of not less than RMB 5,000 but not more than RMB 50,000; where correction is refused or the circumstances are serious, the licensing authority shall revoke the pesticide dealing licence:\n(a) establishing a branch organisation without modifying the pesticide dealing licence in accordance with the law or without reporting the matter to the competent agriculture department of the local people's government at or above the county level in the place where the branch organisation is located for the record;\n(b) purchasing pesticides from a pesticide manufacturer that has not obtained a pesticide manufacturing licence or from another pesticide dealer that has not obtained a pesticide dealing licence;\n(c) purchasing or selling pesticides that are not accompanied by a product quality inspection certificate or whose packaging or labels do not conform to the provisions;\n(d) failing to cease selling pesticides that should be recalled in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where a pesticide dealer commits any of the following acts, the competent agriculture department of the local people's government at or above the county level shall order correction; where correction is refused or the circumstances are serious, it shall impose a fine of not less than RMB 2,000 but not more than RMB 20,000, and the licensing authority shall revoke the pesticide dealing licence:\n(a) failing to implement the pesticide purchase and sales ledger systems;\n(b) dealing in food, edible agricultural products, feed and the like within pesticide dealing premises other than those for pesticides for hygiene use;\n(c) failing to sell pesticides for hygiene use in separate counters from other commodities;\n(d) failing to perform the obligation to recover pesticide waste."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where an overseas enterprise sells pesticides directly in China, the competent agriculture department of the local people's government at or above the county level shall order cessation of sale, confiscate the illegal gains, the illegally dealt-in pesticides and the tools, equipment and the like used for illegal dealing, and impose, where the value of the illegally dealt-in pesticides is less than RMB 50,000, a fine of not less than RMB 50,000 but not more than RMB 500,000, or, where the value is RMB 50,000 or more, a fine of not less than ten times but not more than twenty times the value, and the licensing authority shall revoke the pesticide registration certificate.\nWhere an overseas enterprise holding a pesticide registration certificate exports inferior pesticides to China under serious circumstances or exports counterfeit pesticides, the competent agriculture department of the State Council shall revoke the corresponding pesticide registration certificate."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Where a pesticide user commits any of the following acts, the competent agriculture department of the county-level people's government shall order correction and, where the pesticide user is an agricultural product production enterprise, a food or edible agricultural product storage enterprise, a specialised pest control service organisation, a specialised farmers' cooperative engaged in agricultural product production or another unit, impose a fine of not less than RMB 50,000 but not more than RMB 100,000, or, where the pesticide user is an individual, impose a fine of not more than RMB 10,000; and where a crime is constituted, criminal liability shall be investigated in accordance with the law:\n(a) using pesticides not in accordance with the scope of use, methods and dosage of use, technical requirements for use, precautions or safe interval stated on the pesticide labels;\n(b) using pesticides whose use is prohibited;\n(c) using pesticides of high toxicity and extreme toxicity to control sanitary pests, in the production of vegetables, melons and fruits, tea, edible fungi or Chinese medicinal herbs, or to control pests and diseases of aquatic plants;\n(d) using pesticides within drinking water source protection zones;\n(e) using pesticides to poison fish, shrimps, birds, beasts and the like;\n(f) discarding pesticides or pesticide packaging or washing application machinery in drinking water source protection zones or in river courses.\nWhere the act specified in item (b) of the preceding paragraph is committed, the competent agriculture department of the county-level people's government shall additionally confiscate the pesticides whose use is prohibited."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where an agricultural product production enterprise, a food or edible agricultural product storage enterprise, a specialised pest control service organisation, a specialised farmers' cooperative engaged in agricultural product production or another unit fails to implement the pesticide use record system, the competent agriculture department of the county-level people's government shall order correction; where correction is refused or the circumstances are serious, it shall impose a fine of not less than RMB 2,000 but not more than RMB 20,000."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Whoever forges, alters, transfers, leases or lends pesticide registration certificates, pesticide manufacturing licences, pesticide dealing licences or other licensing documents shall have them collected or revoked by the licensing authority, have the illegal gains confiscated and be fined not less than RMB 10,000 but not more than RMB 50,000; and where a crime is constituted, criminal liability shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Where pesticides are manufactured without having obtained a pesticide manufacturing licence, pesticides are dealt in without having obtained a pesticide dealing licence, or a pesticide registration certificate, pesticide manufacturing licence or pesticide dealing licence has been revoked, the persons directly in charge shall not engage in pesticide manufacture or dealing for ten years.\nWhere a pesticide manufacturer or pesticide dealer employs persons specified in the preceding paragraph to engage in pesticide manufacture or dealing, the licensing authority shall revoke its pesticide manufacturing licence or pesticide dealing licence.\nWhere a pesticide registration certificate has been revoked, the competent agriculture department of the State Council shall not accept an application for pesticide registration from the holder within five years."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Where pesticides manufactured or dealt in cause personal or property damage to a pesticide user, the pesticide user may claim compensation from the pesticide manufacturer or from the pesticide dealer. Where the liability lies with the pesticide manufacturer, the pesticide dealer has the right to recover the amount from the pesticide manufacturer after compensating; where the liability lies with the pesticide dealer, the pesticide manufacturer has the right to recover the amount from the pesticide dealer after compensating."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Applicants for pesticide registration shall, in accordance with the principle of voluntariness and compensation, determine the registration testing fees through consultation with the registration testing institution."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "These Regulations shall come into force on 1 June 2017."
+        },
+        "noLabel": {
+          "en": "Article 66."
         },
         "chapter": {
           "en": "Chapter VIII Supplementary Provisions"

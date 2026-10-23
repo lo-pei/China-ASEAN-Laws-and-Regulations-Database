@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p04
-   法规 64 部 / 译文 3678 条
+   法规 68 部 / 译文 4089 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -19286,6 +19286,1224 @@
     ]
   };
 
+  TR['CN-LAW-0262'] = {
+    "lawId": "CN-LAW-0262",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 103 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is enacted in order to protect and improve the environment, prevent and control water pollution, protect water ecology, safeguard the safety of drinking water, safeguard public health, advance the construction of an ecological civilisation, and promote sustainable economic and social development."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "This Law applies to the prevention and control of pollution of surface water bodies such as rivers, lakes, canals, channels and reservoirs, and of groundwater bodies, within the territory of the People's Republic of China.\nThe prevention and control of marine pollution shall be governed by the Marine Environment Protection Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The prevention and control of water pollution shall adhere to the principles of prevention predominant, combining prevention with control and comprehensive treatment, giving priority to the protection of drinking water sources, strictly controlling industrial pollution and urban domestic pollution, preventing and controlling agricultural non-point source pollution, and actively advancing the construction of ecological treatment projects, so as to prevent, control and reduce water environment pollution and ecological damage."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "People's governments at or above the county level shall incorporate work on the protection of the water environment into the national economic and social development plan.\nLocal people's governments at all levels shall be responsible for the quality of the water environment within their respective administrative regions and shall promptly take measures to prevent and control water pollution."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Provinces, municipalities, counties and townships shall establish a river chief system, under which responsibility is organised by level and by section for the protection of water resources, the management of water areas and shorelines, the prevention and control of water pollution and the treatment of the water environment of the rivers and lakes within their respective administrative regions."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The State applies a target responsibility system and an assessment and evaluation system for water environment protection, and makes the fulfilment of water environment protection targets part of the assessment and evaluation of local people's governments and their persons in charge."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The State encourages and supports scientific and technological research on the prevention and control of water pollution and the popularisation and application of advanced and applicable technologies, and strengthens publicity and education on the protection of the water environment."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The State shall, through fiscal transfer payments and other means, establish and improve a compensation mechanism for the ecological protection of the water environment in areas that are drinking water source protection areas and in the upper reaches of rivers, lakes and reservoirs."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The competent department of environmental protection of people's governments at or above the county level shall exercise unified supervision and administration over the prevention and control of water pollution.\nThe maritime safety administration of the competent department of transport shall exercise supervision and administration over the prevention and control of pollution of water areas by vessels.\nThe departments of water administration, land and resources, health, construction, agriculture and fishery of people's governments at or above the county level, and the water resource protection bodies of the basins of important rivers and lakes, shall, within the scope of their respective duties, exercise supervision and administration over the relevant prevention and control of water pollution."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The discharge of water pollutants shall not exceed the water pollutant discharge standards and the total quantity control indicators for the discharge of major water pollutants prescribed by the State or the locality."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Every unit and individual shall be obliged to protect the water environment and shall have the right to report acts polluting or damaging the water environment.\nPeople's governments at or above the county level and their competent departments shall commend and reward units and individuals that have achieved outstanding results in the prevention and control of water pollution."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The competent department of environmental protection under the State Council shall formulate the national water environment quality standards.\nThe people's governments of provinces, autonomous regions and municipalities directly under the Central Government may formulate local standards for items not provided for in the national water environment quality standards and report them to the competent department of environmental protection under the State Council for the record."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Standards and Plans for the Prevention and Control of Water Pollution"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The competent department of environmental protection under the State Council, in conjunction with the competent department of water administration under the State Council and the people's governments of the relevant provinces, autonomous regions and municipalities directly under the Central Government, may, on the basis of the use functions of the water bodies in the basins of the important rivers and lakes determined by the State and the economic and technical conditions of the regions concerned, determine the water environment quality standards applicable to the water bodies at provincial boundaries in the basins of those important rivers and lakes, and implement them after approval by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Standards and Plans for the Prevention and Control of Water Pollution"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The competent department of environmental protection under the State Council shall, on the basis of the national water environment quality standards and the national economic and technical conditions, formulate the national water pollutant discharge standards.\nThe people's governments of provinces, autonomous regions and municipalities directly under the Central Government may formulate local water pollutant discharge standards for items not provided for in the national water pollutant discharge standards, and may formulate local water pollutant discharge standards stricter than the national water pollutant discharge standards for items already provided for therein. Local water pollutant discharge standards shall be reported to the competent department of environmental protection under the State Council for the record.\nWhere pollutants are discharged into a water body for which a local water pollutant discharge standard has been formulated, the local water pollutant discharge standard shall be applied."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Standards and Plans for the Prevention and Control of Water Pollution"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The competent department of environmental protection under the State Council and the people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall, in accordance with the requirements of the prevention and control of water pollution and the national or local economic and technical conditions, revise the water environment quality standards and water pollutant discharge standards in due course."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Standards and Plans for the Prevention and Control of Water Pollution"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The prevention and control of water pollution shall be carried out under unified planning by basin or by region. The water pollution prevention and control plans for the basins of the important rivers and lakes determined by the State shall be prepared by the competent department of environmental protection under the State Council in conjunction with the departments under the State Council for comprehensive economic macro-regulation and water administration and the people's governments of the relevant provinces, autonomous regions and municipalities directly under the Central Government, and shall be submitted to the State Council for approval.\nThe water pollution prevention and control plans for the basins of rivers and lakes other than those provided in the preceding paragraph that span provinces, autonomous regions or municipalities directly under the Central Government shall, on the basis of the water pollution prevention and control plans for the basins of the important rivers and lakes determined by the State and the local actual circumstances, be prepared by the competent departments of environmental protection of the people's governments of the relevant provinces, autonomous regions and municipalities directly under the Central Government in conjunction with the departments at the corresponding level for water administration and the people's governments of the relevant municipalities and counties, be examined by the people's governments of the relevant provinces, autonomous regions and municipalities directly under the Central Government, and be submitted to the State Council for approval.\nThe water pollution prevention and control plans for the basins of rivers and lakes within a province, autonomous region or municipality directly under the Central Government that span counties shall, on the basis of the water pollution prevention and control plans for the basins of the important rivers and lakes determined by the State and the local actual circumstances, be prepared by the competent department of environmental protection of the people's government of the province, autonomous region or municipality directly under the Central Government in conjunction with the departments at the corresponding level for water administration, be submitted to the people's government of the province, autonomous region or municipality directly under the Central Government for approval, and be reported to the State Council for the record.\nThe approved water pollution prevention and control plans are the basic basis for the prevention and control of water pollution, and the revision of a plan must be approved by the authority that originally approved it.\nLocal people's governments at or above the county level shall, on the basis of the lawfully approved water pollution prevention and control plans for the basins of rivers and lakes, organise the formulation of water pollution prevention and control plans for their respective administrative regions."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Standards and Plans for the Prevention and Control of Water Pollution"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The people's governments of the relevant municipalities and counties shall, in accordance with the requirements of the water environment quality improvement targets determined in the water pollution prevention and control plans, formulate plans for achieving the targets within a time limit and take measures to achieve them on schedule.\nThe people's governments of the relevant municipalities and counties shall report the plans for achieving the targets within a time limit to the people's government at the next higher level for the record and shall make them public."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Standards and Plans for the Prevention and Control of Water Pollution"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "When the people's governments of municipalities and counties annually report to the people's congress at the corresponding level or its standing committee on the state of the environment and the fulfilment of environmental protection targets, they shall report on the implementation of the plans for achieving the water environment quality targets within a time limit and shall make it public."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Standards and Plans for the Prevention and Control of Water Pollution"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "New construction, reconstruction and expansion of construction projects and other installations on water that directly or indirectly discharge pollutants into water bodies shall be subject to environmental impact assessment in accordance with law.\nWhere a construction unit constructs, reconstructs or expands a pollutant discharge outlet in a river or lake, it shall obtain the consent of the competent department of water administration or the basin management body; where navigable or fishery waters are involved, the competent department of environmental protection shall, when examining and approving the environmental impact assessment documents, seek the opinions of the competent departments of transport and fishery.\nThe water pollution prevention and control facilities of a construction project shall be designed, constructed and put into use at the same time as the principal works. The water pollution prevention and control facilities shall conform to the requirements of the environmental impact assessment documents approved or filed for the record."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Supervision and Administration of the Prevention and Control of Water Pollution"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The State applies a total quantity control system to the discharge of major water pollutants.\nThe total quantity control indicators for the discharge of major water pollutants shall be determined by the competent department of environmental protection under the State Council, after seeking the opinions of the relevant departments under the State Council and the people's governments of the provinces, autonomous regions and municipalities directly under the Central Government, in conjunction with the department under the State Council for comprehensive economic macro-regulation, and shall be submitted to the State Council for approval and issuance for implementation.\nThe people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall, in accordance with the provisions of the State Council, reduce and control the total quantity of major water pollutants discharged within their respective administrative regions. The specific measures shall be prescribed by the competent department of environmental protection under the State Council in conjunction with the relevant departments under the State Council.\nThe people's governments of provinces, autonomous regions and municipalities directly under the Central Government may, in light of the quality of the water environment of their respective administrative regions and the needs of the prevention and control of water pollution, apply total quantity control to the discharge of water pollutants other than the major water pollutants determined by the State.\nFor regions that exceed the total quantity control indicators for the discharge of major water pollutants or fail to achieve the water environment quality improvement targets, the competent department of environmental protection of the people's government at or above the provincial level shall, in conjunction with the relevant departments, hold a regulatory interview with the principal person in charge of the people's government of that region, and shall suspend the examination and approval of the environmental impact assessment documents of construction projects that add to the total quantity of major water pollutants discharged. The circumstances of the regulatory interview shall be made public."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Supervision and Administration of the Prevention and Control of Water Pollution"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Enterprises, public institutions and other producers and operators that directly or indirectly discharge industrial wastewater, medical sewage or other wastewater or sewage that may be discharged only after obtaining a pollutant discharge licence in accordance with the provisions into water bodies shall obtain a pollutant discharge licence; the operating units of urban sewage centralised treatment facilities shall also obtain a pollutant discharge licence. A pollutant discharge licence shall specify the requirements on the types, concentrations, total quantities and destinations of the water pollutants discharged. The specific measures for pollutant discharge licensing shall be prescribed by the State Council.\nEnterprises, public institutions and other producers and operators are prohibited from discharging the wastewater and sewage provided in the preceding paragraph into water bodies without a pollutant discharge licence or in violation of the provisions of the pollutant discharge licence."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Supervision and Administration of the Prevention and Control of Water Pollution"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Enterprises, public institutions and other producers and operators that discharge pollutants into water bodies shall set up pollutant discharge outlets in accordance with laws, administrative regulations and the provisions of the competent department of environmental protection under the State Council; where pollutant discharge outlets are set up in rivers or lakes, the provisions of the competent department of water administration under the State Council shall also be observed."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Supervision and Administration of the Prevention and Control of Water Pollution"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Enterprises, public institutions and other producers and operators subject to pollutant discharge licensing management shall, in accordance with the relevant provisions of the State and the monitoring specifications, conduct self-monitoring of the water pollutants they discharge and shall keep the original monitoring records. Key pollutant discharging units shall also install automatic monitoring equipment for water pollutant discharge, connect it to the monitoring equipment of the competent department of environmental protection, and ensure the normal operation of the monitoring equipment. The specific measures shall be prescribed by the competent department of environmental protection under the State Council.\nThe list of key pollutant discharging units that shall install automatic monitoring equipment for water pollutant discharge shall be determined, in consultation with the relevant departments at the same level, by the competent department of environmental protection of the local people's government at or above the level of a municipality with districts on the basis of factors such as the environmental capacity of its administrative region, the requirements of the total quantity control indicators for the discharge of major water pollutants, and the types, quantities and concentrations of the water pollutants discharged by the pollutant discharging units."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Supervision and Administration of the Prevention and Control of Water Pollution"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Enterprises, public institutions and other producers and operators subject to pollutant discharge licensing management shall be responsible for the authenticity and accuracy of the monitoring data.\nWhere the competent department of environmental protection finds that the data transmitted by the automatic monitoring equipment for water pollutant discharge of a key pollutant discharging unit is abnormal, it shall promptly conduct an investigation."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Supervision and Administration of the Prevention and Control of Water Pollution"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The State establishes a system for monitoring water environment quality and monitoring the discharge of water pollutants. The competent department of environmental protection under the State Council shall be responsible for formulating water environment monitoring specifications, uniformly releasing information on the national water environment situation, organising a monitoring network in conjunction with the departments under the State Council for water administration and others, uniformly planning the establishment of national water environment quality monitoring stations (points), establishing a mechanism for sharing monitoring data, and strengthening the management of water environment monitoring."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Supervision and Administration of the Prevention and Control of Water Pollution"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The water resource protection bodies of the basins of the important rivers and lakes determined by the State shall be responsible for monitoring the water environment quality of the water bodies at provincial boundaries within the basins in which they are located and shall promptly report the monitoring results to the competent department of environmental protection under the State Council and the competent department of water administration under the State Council; where a leading body for basin water resource protection has been established with the approval of the State Council, the monitoring results shall be promptly reported to that leading body."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Supervision and Administration of the Prevention and Control of Water Pollution"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where the relevant departments under the State Council and local people's governments at or above the county level develop, utilise, regulate or allocate water resources, they shall take overall consideration, maintain a reasonable flow of rivers and a reasonable water level of lakes, reservoirs and groundwater bodies, safeguard the basic ecological water use and preserve the ecological functions of water bodies."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Supervision and Administration of the Prevention and Control of Water Pollution"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The competent department of environmental protection under the State Council shall, in conjunction with the departments under the State Council for water administration and others and the people's governments of the relevant provinces, autonomous regions and municipalities directly under the Central Government, establish a joint coordination mechanism for water environment protection in the basins of important rivers and lakes, under which unified planning, unified standards, unified monitoring and unified prevention and control measures shall be applied."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Supervision and Administration of the Prevention and Control of Water Pollution"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The competent department of environmental protection under the State Council and the competent departments of environmental protection of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall, in conjunction with the relevant departments at the same level and in accordance with the needs of the ecological and environmental functions of the basins, define the requirements for the ecological and environmental protection of the basins, organise monitoring and assessment of the carrying capacity of the environmental resources of the basins, and implement early warning on the carrying capacity of the environmental resources of the basins.\nLocal people's governments at or above the county level shall, in accordance with the needs of the ecological and environmental functions of the basins, organise the protection and restoration of rivers, lakes and wetlands, build, in light of local conditions, artificial wetlands, water conservation forests, vegetation buffer zones and isolation belts along rivers and lakes and other ecological and environmental treatment and protection projects, and treat black and odorous water bodies, so as to improve the carrying capacity of the environmental resources of the basins.\nThose engaged in development and construction activities shall take effective measures to preserve the ecological and environmental functions of the basins and strictly observe the ecological protection red lines."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Supervision and Administration of the Prevention and Control of Water Pollution"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "The competent department of environmental protection and the other departments exercising supervision and administration powers in accordance with the provisions of this Law shall have the power to conduct on-site inspection of pollutant discharging units within their jurisdiction, and the units inspected shall truthfully report the circumstances and provide the necessary materials. The inspecting authority shall be obliged to keep confidential the trade secrets acquired in the inspection for the units inspected."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Supervision and Administration of the Prevention and Control of Water Pollution"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Disputes over water pollution across administrative regions shall be resolved through consultation between the local people's governments concerned, or through coordination by their common people's government at a higher level."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Supervision and Administration of the Prevention and Control of Water Pollution"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The competent department of environmental protection under the State Council shall, in conjunction with the competent department of health under the State Council, publish, on the basis of the degree of harm and impact on public health and the ecological environment, a catalogue of toxic and harmful water pollutants and apply risk management thereto.\nEnterprises, public institutions and other producers and operators that discharge toxic and harmful water pollutants listed in the catalogue provided in the preceding paragraph shall monitor their discharge outlets and the surrounding environment, assess environmental risks, investigate hidden environmental safety hazards, make public information on the toxic and harmful water pollutants, and take effective measures to guard against environmental risks."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "It is prohibited to discharge oil, acid liquor, alkaline liquor or highly toxic waste liquid into water bodies.\nIt is prohibited to wash, in water bodies, vehicles and containers that have held oil or toxic pollutants."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "It is prohibited to discharge or dump radioactive solid waste or wastewater containing high-level or intermediate-level radioactive substances into water bodies.\nThe discharge of wastewater containing low-level radioactive substances into water bodies shall conform to the provisions and standards of the State on the prevention and control of radioactive pollution."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Where wastewater containing heat is discharged into a water body, measures shall be taken to ensure that the water temperature of the water body conforms to the water environment quality standards."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Sewage containing pathogens shall be disinfected and may be discharged only after it conforms to the relevant national standards."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "It is prohibited to discharge or dump industrial waste residue, urban refuse and other waste into water bodies.\nIt is prohibited to discharge or dump into water bodies, or to bury directly underground, soluble highly toxic waste residue containing mercury, cadmium, arsenic, chromium, lead, cyanide, yellow phosphorus or the like.\nSites where soluble highly toxic waste residue is stored shall be provided with measures against seepage, leakage and loss."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "It is prohibited to pile up or store solid waste and other pollutants on the beaches and banks below the highest water level line of rivers, lakes, canals, channels and reservoirs."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "It is prohibited to discharge water pollutants by evading supervision through the use of seepage wells, seepage pits, fissures or karst caves, the secret installation of concealed pipes, the tampering with or forging of monitoring data, the abnormal operation of water pollution prevention and control facilities or other such means."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Chemical production enterprises, and the operating and management units of industrial agglomeration areas, mining areas, tailings ponds, hazardous waste disposal sites and refuse landfills, shall take measures against leakage and shall build groundwater quality monitoring wells for monitoring, so as to prevent groundwater pollution.\nUnderground oil tanks at petrol stations and the like shall use double-layer tanks or adopt other effective measures such as the construction of anti-seepage ponds, and shall be subject to anti-seepage monitoring, so as to prevent groundwater pollution.\nIt is prohibited to use ditches, ponds and the like without anti-seepage measures to convey or store wastewater containing toxic pollutants, sewage containing pathogens and other waste."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where the water quality of the aquifers of multi-layer groundwater differs greatly, they shall be exploited separately; polluted phreatic water and confined water shall not be exploited in a mixed manner."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The construction of underground engineering installations or the carrying out of underground exploration, mining and other activities shall be subject to protective measures to prevent groundwater pollution.\nAbandoned mines, drilling wells, water intake wells and the like shall be sealed or backfilled."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Artificial recharge to supplement groundwater shall not deteriorate the quality of the groundwater."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "The relevant departments under the State Council and local people's governments at or above the county level shall rationally plan the industrial layout, require enterprises causing water pollution to carry out technological transformation and adopt comprehensive prevention and control measures, raise the rate of water reuse and reduce the quantity of wastewater and pollutants discharged."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Section 2 Prevention and Control of Industrial Water Pollution"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Enterprises discharging industrial wastewater shall take effective measures to collect and treat all the wastewater generated, so as to prevent pollution of the environment. Industrial wastewater containing toxic and harmful water pollutants shall be collected and treated separately and shall not be discharged after dilution.\nIndustrial agglomeration areas shall be provided with the corresponding centralised sewage treatment facilities, shall install automatic monitoring equipment, connect it to the monitoring equipment of the competent department of environmental protection, and ensure the normal operation of the monitoring equipment.\nWhere industrial wastewater is discharged into centralised sewage treatment facilities, it shall be pre-treated in accordance with the relevant provisions of the State and may be discharged only after it meets the requirements of the treatment process of the centralised treatment facilities."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Section 2 Prevention and Control of Industrial Water Pollution"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "The State applies an elimination system to backward processes and equipment that seriously pollute the water environment.\nThe department under the State Council for comprehensive economic macro-regulation shall, in conjunction with the relevant departments under the State Council, publish the catalogue of processes that seriously pollute the water environment and the use of which is prohibited within a time limit, and the catalogue of equipment that seriously pollute the water environment and the production, sale, import or use of which is prohibited within a time limit.\nProducers, sellers, importers or users shall, within the prescribed time limit, cease to produce, sell, import or use the equipment listed in the equipment catalogue provided in the preceding paragraph. Users of processes shall, within the prescribed time limit, cease to use the processes listed in the process catalogue provided in the preceding paragraph.\nEquipment eliminated in accordance with the provisions of paragraphs 2 and 3 of this Article shall not be transferred to others for use."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Section 2 Prevention and Control of Industrial Water Pollution"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "The State prohibits the new construction of small-scale production projects in paper making, leather making, printing and dyeing, dyes, coking, sulphur refining, arsenic refining, mercury refining, oil refining, electroplating, pesticides, asbestos, cement, glass, iron and steel, thermal power and other industries that do not conform to the industrial policy of the State and that seriously pollute the water environment."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Section 2 Prevention and Control of Industrial Water Pollution"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Enterprises shall adopt clean processes with high utilisation efficiency of raw materials and low discharge of pollutants, and shall strengthen management so as to reduce the generation of water pollutants."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Section 2 Prevention and Control of Industrial Water Pollution"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Urban sewage shall be treated in a centralised manner.\nLocal people's governments at or above the county level shall raise funds through fiscal budgets and other channels, make overall arrangements for the construction of urban sewage centralised treatment facilities and the supporting pipe networks, and improve the collection rate and treatment rate of urban sewage within their respective administrative regions.\nThe competent department of construction under the State Council shall, in conjunction with the departments under the State Council for comprehensive economic macro-regulation and environmental protection, organise the preparation of a national plan for the construction of urban sewage treatment facilities in accordance with urban and rural plans and water pollution prevention and control plans. Local people's governments at or above the county level shall organise the departments of construction, comprehensive economic macro-regulation, environmental protection and water administration in preparing the plan for the construction of urban sewage treatment facilities within their respective administrative regions. The competent departments of construction of local people's governments at or above the county level shall, in accordance with the plan for the construction of urban sewage treatment facilities, organise the construction of urban sewage centralised treatment facilities and the supporting pipe networks, and strengthen the supervision and administration of the operation of urban sewage centralised treatment facilities.\nThe operating units of urban sewage centralised treatment facilities shall, in accordance with the provisions of the State, provide paid sewage treatment services to polluters, collect sewage treatment fees, and ensure the normal operation of the centralised sewage treatment facilities. The sewage treatment fees collected shall be used for the construction and operation of urban sewage centralised treatment facilities and for sludge treatment and disposal, and shall not be diverted to other uses.\nThe specific measures for the collection, management and use of sewage treatment fees of urban sewage centralised treatment facilities shall be prescribed by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Section 3 Prevention and Control of Urban Water Pollution"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "The discharge of water pollutants into urban sewage centralised treatment facilities shall conform to the water pollutant discharge standards prescribed by the State or the locality.\nThe operating units of urban sewage centralised treatment facilities shall be responsible for the quality of the effluent of the facilities.\nThe competent department of environmental protection shall conduct supervisory inspection of the quality and quantity of the effluent of urban sewage centralised treatment facilities."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Section 3 Prevention and Control of Urban Water Pollution"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "The operating units of urban sewage centralised treatment facilities or the sludge treatment and disposal units shall safely treat and dispose of sludge, ensure that the sludge after treatment and disposal conforms to national standards, and keep records of the destination of the sludge and other matters."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Section 3 Prevention and Control of Urban Water Pollution"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "The State supports the construction of rural sewage and refuse treatment facilities and advances the centralised treatment of rural sewage and refuse.\nLocal people's governments at all levels shall make overall plans for the construction of rural sewage and refuse treatment facilities and ensure their normal operation."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Section 4 Prevention and Control of Water Pollution in Agriculture and Rural Areas"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "The quality standards and use standards for products such as chemical fertilisers and pesticides shall be formulated so as to meet the requirements of water environment protection."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Section 4 Prevention and Control of Water Pollution in Agriculture and Rural Areas"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "The use of pesticides shall conform to the provisions and standards of the State on the safe use of pesticides.\nThe transport and storage of pesticides and the disposal of expired or invalid pesticides shall be subject to strengthened management, so as to prevent water pollution."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Section 4 Prevention and Control of Water Pollution in Agriculture and Rural Areas"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "The competent departments of agriculture of local people's governments at or above the county level and other relevant departments shall take measures to guide agricultural producers in the scientific and rational application of chemical fertilisers and pesticides, popularise soil testing and formulated fertilisation techniques and highly efficient, low-toxicity and low-residue pesticides, and control the excessive use of chemical fertilisers and pesticides, so as to prevent water pollution."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Section 4 Prevention and Control of Water Pollution in Agriculture and Rural Areas"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "The State supports livestock and poultry farms and breeding zones in building facilities for the comprehensive utilisation or harmless treatment of livestock and poultry manure and wastewater.\nLivestock and poultry farms and breeding zones shall ensure the normal operation of their facilities for the comprehensive utilisation or harmless treatment of livestock and poultry manure and wastewater, ensure that sewage is discharged up to standard, and prevent pollution of the water environment.\nThe county-level and township-level people's governments at the places where free-range livestock and poultry breeding is concentrated shall organise the household-by-household collection and centralised treatment and utilisation of livestock and poultry manure and sewage."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Section 4 Prevention and Control of Water Pollution in Agriculture and Rural Areas"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Those engaged in aquaculture shall protect the ecological environment of water areas, scientifically determine the breeding density, rationally apply bait and use medicines, and prevent pollution of the water environment."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Section 4 Prevention and Control of Water Pollution in Agriculture and Rural Areas"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Water used for farmland irrigation shall conform to the corresponding water quality standards, so as to prevent pollution of soil, groundwater and agricultural products.\nIt is prohibited to discharge industrial wastewater or medical sewage into farmland irrigation channels. Where urban sewage and livestock and poultry breeding wastewater and agricultural product processing wastewater that have not been comprehensively utilised are discharged into farmland irrigation channels, it shall be ensured that the water quality at the nearest downstream irrigation intake point conforms to the water quality standards for farmland irrigation."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Section 4 Prevention and Control of Water Pollution in Agriculture and Rural Areas"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where vessels discharge oily sewage or domestic sewage, it shall conform to the vessel pollutant discharge standards. Vessels engaged in ocean shipping that enter inland rivers and ports shall comply with the vessel pollutant discharge standards for inland rivers.\nResidual oil and waste oil of vessels shall be recovered, and discharge into water bodies is prohibited.\nIt is prohibited to dump vessel refuse into water bodies.\nWhere vessels load and transport oil or toxic cargo, measures against overflow and leakage shall be taken to prevent the cargo from falling into the water and causing water pollution.\nVessels on international routes entering the inland rivers of the People's Republic of China that discharge ballast water shall use ballast water treatment devices or adopt other equivalent measures to carry out inactivation and other treatment of the ballast water. The discharge of vessel ballast water not conforming to the provisions is prohibited."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Section 5 Prevention and Control of Water Pollution by Vessels"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Vessels shall, in accordance with the relevant provisions of the State, be equipped with the corresponding pollution prevention equipment and apparatus and shall hold lawful and valid certificates and documents for the prevention of pollution of the water environment.\nWhere vessels carry out operations involving the discharge of pollutants, they shall strictly observe the operating procedures and shall truthfully record the operations in the corresponding record books."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Section 5 Prevention and Control of Water Pollution by Vessels"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "The people's governments of the municipalities and counties where ports, wharves, loading and unloading stations and vessel repair and building yards are located shall make overall plans for the construction of facilities for the reception, transfer, treatment and disposal of vessel pollutants and waste.\nPorts, wharves, loading and unloading stations and vessel repair and building yards shall be equipped with sufficient facilities for the reception of vessel pollutants and waste. Units engaged in the reception of vessel pollutants and waste, or in the cleaning of the cabins of vessels loaded with oil or pollution-hazardous cargo, shall have reception and treatment capacity commensurate with the scale of their operations."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Section 5 Prevention and Control of Water Pollution by Vessels"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Where vessels and the relevant operating units carry out operations with a risk of pollution, they shall, in accordance with the relevant laws, regulations and standards, take effective measures to prevent water pollution. The maritime safety administration and the competent departments of fishery shall strengthen the supervision and administration of vessels and the relevant operating activities.\nWhere vessels carry out ship-to-ship transfer operations of pollution-hazardous cargo in bulk liquid form, they shall prepare an operating plan, adopt effective safety and pollution prevention and control measures, and report to the maritime safety administration at the place of operation for approval.\nIt is prohibited to dismantle vessels by the beaching method."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Section 5 Prevention and Control of Water Pollution by Vessels"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "The State establishes a system of drinking water source protection areas. Drinking water source protection areas are divided into first-grade protection areas and second-grade protection areas; where necessary, a certain area around a drinking water source protection area may be delineated as a quasi-protection area.\nThe delineation of a drinking water source protection area shall be proposed in a delineation plan by the relevant municipal or county people's government and submitted to the people's government of the province, autonomous region or municipality directly under the Central Government for approval; the delineation of a drinking water source protection area spanning municipalities or counties shall be proposed in a delineation plan through consultation between the relevant municipal or county people's governments and submitted to the people's government of the province, autonomous region or municipality directly under the Central Government for approval; where consultation fails, the competent department of environmental protection of the people's government of the province, autonomous region or municipality directly under the Central Government shall, in conjunction with the departments at the corresponding level for water administration, land and resources, health and construction, propose a delineation plan and, after seeking the opinions of the relevant departments at the corresponding level, submit it to the people's government of the province, autonomous region or municipality directly under the Central Government for approval.\nA drinking water source protection area spanning provinces, autonomous regions or municipalities directly under the Central Government shall be delineated by the people's governments of the relevant provinces, autonomous regions or municipalities directly under the Central Government in consultation with the relevant basin management bodies; where consultation fails, the competent department of environmental protection under the State Council shall, in conjunction with the departments at the corresponding level for water administration, land and resources, health and construction, propose a delineation plan and, after seeking the opinions of the relevant departments under the State Council, submit it to the State Council for approval.\nThe State Council and the people's governments of provinces, autonomous regions and municipalities directly under the Central Government may, in accordance with the actual needs of protecting drinking water sources, adjust the scope of drinking water source protection areas so as to ensure the safety of drinking water. The local people's governments concerned shall set up clear geographical boundary markers and conspicuous warning signs at the boundaries of drinking water source protection areas."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter V Protection of Drinking Water Sources and Other Special Water Bodies"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "It is prohibited to set up pollutant discharge outlets within drinking water source protection areas."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter V Protection of Drinking Water Sources and Other Special Water Bodies"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "It is prohibited to construct, reconstruct or expand construction projects unrelated to water supply facilities and the protection of water sources within first-grade protection areas of drinking water sources; construction projects already built that are unrelated to water supply facilities and the protection of water sources shall be ordered by the people's government at or above the county level to be demolished or closed.\nIt is prohibited to engage in cage aquaculture, tourism, swimming, angling or other activities that may pollute drinking water bodies within first-grade protection areas of drinking water sources."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter V Protection of Drinking Water Sources and Other Special Water Bodies"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "It is prohibited to construct, reconstruct or expand construction projects that discharge pollutants within second-grade protection areas of drinking water sources; construction projects already built that discharge pollutants shall be ordered by the people's government at or above the county level to be demolished or closed.\nThose engaged in cage aquaculture, tourism and other activities within second-grade protection areas of drinking water sources shall take measures in accordance with the provisions to prevent pollution of drinking water bodies."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter V Protection of Drinking Water Sources and Other Special Water Bodies"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "It is prohibited to construct or expand construction projects that seriously pollute water bodies within quasi-protection areas of drinking water sources; the reconstruction of construction projects shall not increase the quantity of pollutants discharged."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter V Protection of Drinking Water Sources and Other Special Water Bodies"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "Local people's governments at or above the county level shall, in accordance with the actual needs of protecting drinking water sources, adopt engineering measures or build wetlands, water conservation forests and other ecological protection measures within quasi-protection areas, so as to prevent water pollutants from being directly discharged into drinking water bodies and ensure the safety of drinking water."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter V Protection of Drinking Water Sources and Other Special Water Bodies"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "Local people's governments at or above the county level shall organise the departments of environmental protection and others to investigate and assess the environmental conditions and pollution risks of drinking water source protection areas, the recharge areas of groundwater-type drinking water sources and the areas surrounding water supply units, to screen the possible pollution risk factors, and to take the corresponding risk prevention measures.\nWhere a drinking water source is polluted in a manner that may threaten the safety of water supply, the competent department of environmental protection shall order the enterprises, public institutions and other producers and operators concerned to take measures such as stopping the discharge of water pollutants, and shall notify the drinking water supply units and the departments of water supply, health and water administration; where administrative regions are crossed, it shall also notify the relevant local people's governments."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter V Protection of Drinking Water Sources and Other Special Water Bodies"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "The people's governments of cities supplied from a single water source shall build emergency water sources or standby water sources, and regions with the conditions may develop regional interconnected water supply.\nLocal people's governments at or above the county level shall rationally arrange and lay out rural drinking water sources, and regions with the conditions may develop large-scale centralised water supply by extending urban water supply networks or building centralised water supply projects covering several villages or townships."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter V Protection of Drinking Water Sources and Other Special Water Bodies"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "Drinking water supply units shall carry out water quality testing at water intake points and water outlet points. Where it is found that the water quality at a water intake point does not conform to the water quality standards for drinking water sources or that the water quality at a water outlet point does not conform to the sanitary standards for drinking water, the unit shall promptly take the corresponding measures and report to the competent department of water supply of the municipal or county people's government where it is located. Upon receiving the report, the competent department of water supply shall notify the departments of environmental protection, health and water administration.\nDrinking water supply units shall be responsible for the quality of the water supplied, ensure the safe and reliable operation of water supply facilities, and ensure that the quality of the water supplied conforms to the relevant national standards."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter V Protection of Drinking Water Sources and Other Special Water Bodies"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "Local people's governments at or above the county level shall organise the relevant departments to monitor and assess the safety of drinking water within their respective administrative regions, including the quality of drinking water sources, of the water supplied by water supply units and of the water from users' taps.\nThe relevant departments of local people's governments at or above the county level shall make information on the safety of drinking water public at least once every quarter."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter V Protection of Drinking Water Sources and Other Special Water Bodies"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "The State Council and the people's governments of provinces, autonomous regions and municipalities directly under the Central Government may, in accordance with the needs of water environment protection, provide that measures such as prohibiting or restricting the use of phosphorus-containing detergents, chemical fertilisers and pesticides and restricting planting and breeding shall be taken within drinking water source protection areas."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter V Protection of Drinking Water Sources and Other Special Water Bodies"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "People's governments at or above the county level may delineate protection areas for water bodies in scenic and historic interest areas, important fishery water bodies and other water bodies of special economic or cultural value, and shall take measures to ensure that the water quality in the protection areas conforms to the water environment quality standards for the prescribed uses."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter V Protection of Drinking Water Sources and Other Special Water Bodies"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "No new pollutant discharge outlets shall be constructed within the protection areas for water bodies in scenic and historic interest areas, important fishery water bodies and other water bodies of special economic or cultural value. Where new pollutant discharge outlets are constructed near a protection area, it shall be ensured that the water bodies in the protection area are not polluted."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter V Protection of Drinking Water Sources and Other Special Water Bodies"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "People's governments at all levels and their relevant departments, and enterprises and public institutions that may have water pollution accidents, shall, in accordance with the provisions of the Emergency Response Law of the People's Republic of China, make proper preparations for emergency response to sudden water pollution accidents, emergency disposal and post-event recovery and other work."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter VI Handling of Water Pollution Accidents"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "Enterprises and public institutions that may have water pollution accidents shall formulate emergency plans for water pollution accidents, make proper preparations for emergency response and conduct drills periodically.\nEnterprises and public institutions that produce or store hazardous chemicals shall take measures to prevent fire-fighting wastewater and waste liquid generated in the course of handling work safety accidents, which may seriously pollute water bodies, from being directly discharged into water bodies."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter VI Handling of Water Pollution Accidents"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "Where an accident or other sudden event occurs to an enterprise or public institution and causes or may cause a water pollution accident, the unit shall immediately activate its emergency plan, take isolation and other emergency measures to prevent water pollutants from entering water bodies, and report to the local people's government at or above the county level or the competent department of environmental protection at the place where the accident occurs. Upon receiving the report, the competent department of environmental protection shall promptly report to the people's government at the corresponding level and send a copy to the relevant departments.\nWhere a fishery pollution accident is caused, or where a fishery vessel causes a water pollution accident, the matter shall be reported to the competent department of fishery at the place where the accident occurs and the unit shall accept investigation and handling. Where other vessels cause a water pollution accident, the matter shall be reported to the maritime safety administration at the place where the accident occurs and the vessel shall accept investigation and handling; where damage is caused to fishery, the maritime safety administration shall notify the competent department of fishery to participate in the investigation and handling."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Chapter VI Handling of Water Pollution Accidents"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "The people's governments of municipalities and counties shall organise the preparation of emergency plans for sudden drinking water safety incidents.\nDrinking water supply units shall, on the basis of the local emergency plans for sudden drinking water safety incidents, formulate the corresponding emergency plans for sudden incidents, report them to the municipal or county people's government where they are located for the record, and conduct drills periodically.\nWhere a water pollution accident occurs at a drinking water source, or where other sudden events that may affect the safety of drinking water occur, the drinking water supply unit shall take emergency treatment measures, report to the municipal or county people's government where it is located, and make the matter public. The people's government concerned shall, in light of the circumstances, promptly activate the emergency plan and take effective measures to safeguard the safety of water supply."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Chapter VI Handling of Water Pollution Accidents"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "Where the competent department of environmental protection or another department exercising supervision and administration powers in accordance with the provisions of this Law fails to make an administrative licence decision or to process approval documents in accordance with law, fails to investigate and handle an illegal act upon discovery or upon receipt of a report of an illegal act, or otherwise fails to perform its duties in accordance with the provisions of this Law, the directly responsible person in charge and other persons directly responsible shall be given sanctions in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "Whoever refuses or obstructs the supervisory inspection of the competent department of environmental protection or of another department exercising supervision and administration powers in accordance with the provisions of this Law by delaying, besieging or detaining law enforcement personnel or by other means, or practises fraud when accepting supervisory inspection, shall be ordered to make corrections by the competent department of environmental protection of the people's government at or above the county level or by the other department exercising supervision and administration powers in accordance with the provisions of this Law, and shall be fined not less than 20,000 yuan but not more than 200,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, any of the following acts is committed, the competent department of environmental protection of the people's government at or above the county level shall order correction within a time limit and impose a fine of not less than 20,000 yuan but not more than 200,000 yuan; where correction is not made within the time limit, the person shall be ordered to suspend production for rectification:\n(a) failing to conduct self-monitoring of the water pollutants discharged in accordance with the provisions, or failing to keep the original monitoring records;\n(b) failing to install automatic monitoring equipment for water pollutant discharge in accordance with the provisions, failing to connect it to the monitoring equipment of the competent department of environmental protection in accordance with the provisions, or failing to ensure the normal operation of the monitoring equipment;\n(c) failing to monitor the discharge outlets and the surrounding environment for toxic and harmful water pollutants in accordance with the provisions, or failing to make public information on the toxic and harmful water pollutants."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, any of the following acts is committed, the competent department of environmental protection of the people's government at or above the county level shall order correction or order restriction of production or suspension of production for rectification, and shall impose a fine of not less than 100,000 yuan but not more than 1,000,000 yuan; where the circumstances are serious, it shall, upon the approval of the people's government with the power of approval, order the suspension of business or closure:\n(a) discharging water pollutants without having lawfully obtained a pollutant discharge licence;\n(b) discharging water pollutants in excess of the water pollutant discharge standards or in excess of the total quantity control indicators for the discharge of major water pollutants;\n(c) discharging water pollutants by evading supervision through the use of seepage wells, seepage pits, fissures or karst caves, the secret installation of concealed pipes, the tampering with or forging of monitoring data, the abnormal operation of water pollution prevention and control facilities or other such means;\n(d) failing to carry out pre-treatment in accordance with the provisions and discharging industrial wastewater that does not meet the requirements of the treatment process into centralised sewage treatment facilities."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "Whoever sets up a pollutant discharge outlet within a drinking water source protection area shall be ordered by the people's government at or above the county level to dismantle it within a time limit and shall be fined not less than 100,000 yuan but not more than 500,000 yuan; where it is not dismantled within the time limit, it shall be forcibly dismantled, the costs shall be borne by the violator, a fine of not less than 500,000 yuan but not more than 1,000,000 yuan shall be imposed, and the violator may be ordered to suspend production for rectification.\nExcept as provided in the preceding paragraph, whoever sets up a pollutant discharge outlet in violation of laws, administrative regulations and the provisions of the competent department of environmental protection under the State Council shall be ordered by the competent department of environmental protection of the people's government at or above the county level to dismantle it within a time limit and shall be fined not less than 20,000 yuan but not more than 100,000 yuan; where it is not dismantled within the time limit, it shall be forcibly dismantled, the costs shall be borne by the violator, and a fine of not less than 100,000 yuan but not more than 500,000 yuan shall be imposed; where the circumstances are serious, the violator may be ordered to suspend production for rectification.\nWhoever, without the consent of the competent department of water administration or the basin management body, constructs, reconstructs or expands a pollutant discharge outlet in a river or lake shall, in accordance with the provisions of the preceding paragraph and within the functions and powers of the competent department of water administration of the people's government at or above the county level or the basin management body, have measures taken against it and a penalty imposed by that department or body."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "Where any of the following acts is committed, the competent department of environmental protection of the local people's government at or above the county level shall order the cessation of the illegal act, order the adoption of treatment measures within a time limit to eliminate pollution and impose a fine; where treatment measures are not adopted within the time limit, the competent department of environmental protection may designate a unit with the capacity to carry out the treatment on its behalf, and the costs shall be borne by the violator:\n(a) discharging oil, acid liquor or alkaline liquor into a water body;\n(b) discharging highly toxic waste liquid into a water body, or discharging or dumping into a water body, or burying directly underground, soluble highly toxic waste residue containing mercury, cadmium, arsenic, chromium, lead, cyanide, yellow phosphorus or the like;\n(c) washing, in a water body, vehicles or containers that have held oil or toxic pollutants;\n(d) discharging or dumping industrial waste residue, urban refuse or other waste into a water body, or piling up or storing solid waste or other pollutants on the beaches or banks below the highest water level line of rivers, lakes, canals, channels or reservoirs;\n(e) discharging or dumping radioactive solid waste or wastewater containing high-level or intermediate-level radioactive substances into a water body;\n(f) discharging into a water body, in violation of the relevant provisions or standards of the State, wastewater containing low-level radioactive substances, wastewater containing heat or sewage containing pathogens;\n(g) failing to take measures against leakage or failing to build groundwater quality monitoring wells for monitoring;\n(h) using single-layer tanks for underground oil tanks at petrol stations and the like, or failing to adopt other effective measures such as the construction of anti-seepage ponds, or failing to carry out anti-seepage monitoring;\n(i) failing to take protective measures in accordance with the provisions, or using ditches, ponds and the like without anti-seepage measures to convey or store wastewater containing toxic pollutants, sewage containing pathogens or other waste.\nWhere any of the acts in items (c), (d), (f), (g) and (h) of the preceding paragraph is committed, a fine of not less than 20,000 yuan but not more than 200,000 yuan shall be imposed. Where any of the acts in items (a), (b), (e) and (i) of the preceding paragraph is committed, a fine of not less than 100,000 yuan but not more than 1,000,000 yuan shall be imposed; where the circumstances are serious, the violator shall, upon the approval of the people's government with the power of approval, be ordered to suspend business or close down."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a person produces, sells, imports or uses equipment listed in the catalogue of equipment that seriously pollute the water environment and the production, sale, import or use of which is prohibited, or uses a process listed in the catalogue of processes that seriously pollute the water environment and the use of which is prohibited, the department for comprehensive economic macro-regulation of the people's government at or above the county level shall order correction and impose a fine of not less than 50,000 yuan but not more than 200,000 yuan; where the circumstances are serious, that department shall put forward its opinion and request the people's government at the corresponding level to order the suspension of business or closure."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a production project is constructed in small-scale paper making, leather making, printing and dyeing, dyes, coking, sulphur refining, arsenic refining, mercury refining, oil refining, electroplating, pesticides, asbestos, cement, glass, iron and steel, thermal power or other industries that does not conform to the industrial policy of the State and seriously pollutes the water environment, the municipal or county people's government where it is located shall order its closure."
+        },
+        "noLabel": {
+          "en": "Article 87."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "Where the operating unit of an urban sewage centralised treatment facility or a sludge treatment and disposal unit treats and disposes of sludge in a manner not conforming to national standards, or fails to keep records of the destination of the sludge and other matters, the competent department of urban drainage shall order it to adopt treatment measures within a time limit and give a warning; where serious consequences are caused, a fine of not less than 100,000 yuan but not more than 200,000 yuan shall be imposed; where treatment measures are not adopted within the time limit, the competent department of urban drainage may designate a unit with the capacity to carry out the treatment on its behalf, and the costs shall be borne by the violator."
+        },
+        "noLabel": {
+          "en": "Article 88."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "Where a vessel is not equipped with the corresponding pollution prevention equipment and apparatus, or does not hold lawful and valid certificates and documents for the prevention of pollution of the water environment, the maritime safety administration or the competent department of fishery shall, in accordance with the division of duties, order correction within a time limit and impose a fine of not less than 2,000 yuan but not more than 20,000 yuan; where correction is not made within the time limit, the vessel shall be ordered to suspend navigation temporarily.\nWhere a vessel carries out operations involving the discharge of pollutants and fails to observe the operating procedures or fails to truthfully record the operations in the corresponding record books, the maritime safety administration or the competent department of fishery shall, in accordance with the division of duties, order correction and impose a fine of not less than 2,000 yuan but not more than 20,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 89."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 90,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, any of the following acts is committed, the maritime safety administration or the competent department of fishery shall, in accordance with the division of duties, order the cessation of the illegal act and impose a fine of not less than 10,000 yuan but not more than 100,000 yuan; where water pollution is caused, it shall order the adoption of treatment measures within a time limit to eliminate pollution and impose a fine of not less than 20,000 yuan but not more than 200,000 yuan; where treatment measures are not adopted within the time limit, the maritime safety administration or the competent department of fishery may, in accordance with the division of duties, designate a unit with the capacity to carry out the treatment on its behalf, and the costs shall be borne by the vessel:\n(a) dumping vessel refuse into a water body or discharging the residual oil or waste oil of a vessel;\n(b) carrying out ship-to-ship transfer operations of pollution-hazardous cargo in bulk liquid form without the approval of the maritime safety administration at the place of operation;\n(c) vessels and the relevant operating units carrying out operations with a risk of pollution without taking pollution prevention and control measures in accordance with the provisions;\n(d) dismantling vessels by the beaching method;\n(e) vessels on international routes entering the inland rivers of the People's Republic of China discharging vessel ballast water not conforming to the provisions."
+        },
+        "noLabel": {
+          "en": "Article 90."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 91,
+        "text": {
+          "en": "Where any of the following acts is committed, the competent department of environmental protection of the local people's government at or above the county level shall order the cessation of the illegal act and impose a fine of not less than 100,000 yuan but not more than 500,000 yuan, and shall, upon the approval of the people's government with the power of approval, order demolition or closure:\n(a) constructing, reconstructing or expanding, within a first-grade protection area of a drinking water source, a construction project unrelated to water supply facilities and the protection of water sources;\n(b) constructing, reconstructing or expanding, within a second-grade protection area of a drinking water source, a construction project that discharges pollutants;\n(c) constructing or expanding, within a quasi-protection area of a drinking water source, a construction project that seriously pollutes the water body, or reconstructing a construction project in a manner that increases the quantity of pollutants discharged.\nThose engaged in cage aquaculture, or organising tourism, angling or other activities that may pollute drinking water bodies within a first-grade protection area of a drinking water source shall be ordered by the competent department of environmental protection of the local people's government at or above the county level to stop the illegal act and shall be fined not less than 20,000 yuan but not more than 100,000 yuan. Individuals who swim, angle or engage in other activities that may pollute drinking water bodies within a first-grade protection area of a drinking water source shall be ordered by the competent department of environmental protection of the local people's government at or above the county level to stop the illegal act and may be fined not more than 500 yuan."
+        },
+        "noLabel": {
+          "en": "Article 91."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 92,
+        "text": {
+          "en": "Where the quality of the water supplied by a drinking water supply unit does not conform to the standards prescribed by the State, the competent department of water supply of the municipal or county people's government where it is located shall order correction and impose a fine of not less than 20,000 yuan but not more than 200,000 yuan; where the circumstances are serious, it may, upon the approval of the people's government with the power of approval, order the suspension of business for rectification; the directly responsible person in charge and other persons directly responsible shall be given sanctions in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 92."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 93,
+        "text": {
+          "en": "Where an enterprise or public institution commits any of the following acts, the competent department of environmental protection of the people's government at or above the county level shall order correction; where the circumstances are serious, a fine of not less than 20,000 yuan but not more than 100,000 yuan shall be imposed:\n(a) failing to formulate an emergency plan for water pollution accidents in accordance with the provisions;\n(b) after a water pollution accident occurs, failing to promptly activate the emergency plan for water pollution accidents and take the relevant emergency measures."
+        },
+        "noLabel": {
+          "en": "Article 93."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 94,
+        "text": {
+          "en": "Where an enterprise or public institution, in violation of the provisions of this Law, causes a water pollution accident, it shall, in addition to bearing the liability for compensation in accordance with law, be fined by the competent department of environmental protection of the people's government at or above the county level in accordance with the provisions of paragraph 2 of this Article, and be ordered to adopt treatment measures within a time limit to eliminate pollution; where it fails to adopt treatment measures as required or does not have the capacity to carry out treatment, the competent department of environmental protection shall designate a unit with the capacity to carry out the treatment on its behalf, and the costs shall be borne by the violator; where a major or extraordinarily serious water pollution accident is caused, it may also, upon the approval of the people's government with the power of approval, be ordered to close down; the directly responsible person in charge and other persons directly responsible may be fined not more than 50 per cent of the income obtained from the unit in the previous year; where it commits any of the acts such as unlawfully discharging water pollutants provided in Article 63 of the Environmental Protection Law of the People's Republic of China and a crime is not yet constituted, the public security organ shall impose on the directly responsible person in charge and other persons directly responsible detention of not less than 10 days but not more than 15 days; where the circumstances are relatively minor, detention of not less than 5 days but not more than 10 days.\nWhere an ordinary or relatively major water pollution accident is caused, the fine shall be calculated at 20 per cent of the direct loss caused by the water pollution accident; where a major or extraordinarily serious water pollution accident is caused, the fine shall be calculated at 30 per cent of the direct loss caused by the water pollution accident.\nWhere a fishery pollution accident is caused, or where a fishery vessel causes a water pollution accident, the competent department of fishery shall impose the penalty; where other vessels cause a water pollution accident, the maritime safety administration shall impose the penalty."
+        },
+        "noLabel": {
+          "en": "Article 94."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 95,
+        "text": {
+          "en": "Where an enterprise, public institution or other producer or operator unlawfully discharges water pollutants, is subject to a fine and is ordered to make corrections, the administrative organ that made the penalty decision in accordance with law shall organise a re-inspection; where it finds that the continued unlawful discharge of water pollutants persists or that re-inspection is refused or obstructed, it shall impose continuous daily penalties in accordance with the provisions of the Environmental Protection Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 95."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 96,
+        "text": {
+          "en": "A party suffering damage caused by water pollution shall have the right to demand that the polluter eliminate the harm and compensate the loss.\nWhere damage from water pollution is caused by force majeure, the polluter shall not bear the liability for compensation, unless otherwise provided by law.\nWhere damage from water pollution is caused by the intent of the victim, the polluter shall not bear the liability for compensation. Where damage from water pollution is caused by the gross negligence of the victim, the liability for compensation of the polluter may be reduced.\nWhere damage from water pollution is caused by a third party, the polluter shall, after bearing the liability for compensation, have the right to seek recovery from the third party."
+        },
+        "noLabel": {
+          "en": "Article 96."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 97,
+        "text": {
+          "en": "Disputes over the liability for compensation and the amount of compensation for damage caused by water pollution may, at the request of the parties, be mediated by the competent department of environmental protection, the maritime safety administration or the competent department of fishery in accordance with the division of duties; where mediation fails, the parties may institute proceedings before a people's court. The parties may also institute proceedings directly before a people's court."
+        },
+        "noLabel": {
+          "en": "Article 97."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 98,
+        "text": {
+          "en": "In an action for compensation for damage caused by water pollution, the polluter shall bear the burden of proof in respect of the grounds for exemption from liability provided by law and the absence of a causal relationship between its act and the damage."
+        },
+        "noLabel": {
+          "en": "Article 98."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 99,
+        "text": {
+          "en": "Where the number of parties suffering damage caused by water pollution is large, they may, in accordance with law, elect representatives to conduct a joint action.\nThe competent department of environmental protection and the relevant social organisations may, in accordance with law, support the parties suffering damage caused by water pollution in instituting proceedings before a people's court.\nThe State encourages legal service institutions and lawyers to provide legal aid to victims in litigation for damage caused by water pollution."
+        },
+        "noLabel": {
+          "en": "Article 99."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 100,
+        "text": {
+          "en": "In disputes over the liability for compensation and the amount of compensation for damage caused by water pollution, the parties may entrust an environmental monitoring institution with providing monitoring data. The environmental monitoring institution shall accept the entrustment and truthfully provide the relevant monitoring data."
+        },
+        "noLabel": {
+          "en": "Article 100."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 101,
+        "text": {
+          "en": "Where a violation of the provisions of this Law constitutes a crime, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 101."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 102,
+        "text": {
+          "en": "The following terms used in this Law have the meanings set out below:\n(a) water pollution means the phenomenon in which, owing to the introduction of a certain substance into a water body, the chemical, physical, biological or radioactive characteristics of the water body are altered, thereby affecting the effective use of water, endangering human health or destroying the ecological environment and causing deterioration of water quality.\n(b) water pollutants mean the substances discharged directly or indirectly into water bodies that can cause pollution of the water bodies.\n(c) toxic pollutants mean the pollutants which, after being directly or indirectly ingested by an organism, may cause disease, abnormal behaviour, genetic mutation, physiological malfunction, deformation of the organism or death of that organism or its offspring.\n(d) sludge means the semi-solid or solid matter generated in the course of sewage treatment.\n(e) fishery water bodies mean the water bodies of the designated spawning grounds, feeding grounds, wintering grounds and migratory routes of fish and prawns, and the breeding farms of fish, prawns, shellfish and algae."
+        },
+        "noLabel": {
+          "en": "Article 102."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 103,
+        "text": {
+          "en": "This Law shall come into force on 1 June 2008."
+        },
+        "noLabel": {
+          "en": "Article 103."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-LAW-0263'] = {
     "lawId": "CN-LAW-0263",
     "sourceLang": "zh",
@@ -20523,6 +21741,1197 @@
         },
         "noLabel": {
           "en": "Article 14."
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0265'] = {
+    "lawId": "CN-LAW-0265",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 101 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is enacted in order to strengthen work on the safety of special equipment, prevent accidents involving special equipment, protect the safety of persons and property, and promote economic and social development."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "This Law applies to the production (including design, manufacture, installation, alteration and repair), sale, use, inspection and testing of special equipment and to the supervision and administration of the safety of special equipment.\nSpecial equipment as referred to in this Law means boilers, pressure vessels (including gas cylinders), pressure pipelines, elevators, hoisting machinery, passenger ropeways, large-scale amusement devices and special motor vehicles in fields (plants) that present comparatively great danger to the safety of persons and property, as well as other special equipment to which this Law applies as provided by laws and administrative regulations.\nThe State applies catalogue management to special equipment. The catalogue of special equipment shall be formulated by the department under the State Council responsible for special equipment safety supervision and administration and shall be implemented after approval by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Work on the safety of special equipment shall adhere to the principles of safety first, prevention predominant, energy conservation and environmental protection, and comprehensive treatment."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The State applies classified, whole-process safety supervision and administration to the production, sale and use of special equipment."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The department under the State Council responsible for special equipment safety supervision and administration shall exercise supervision and administration over the safety of special equipment throughout the country. The departments of local people's governments at or above the county level responsible for special equipment safety supervision and administration shall exercise supervision and administration over the safety of special equipment within their respective administrative regions."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The State Council and local people's governments at all levels shall strengthen leadership over work on the safety of special equipment and urge the relevant departments to perform their supervision and administration duties in accordance with law.\nLocal people's governments at or above the county level shall establish a coordination mechanism to promptly coordinate and resolve problems existing in the supervision and administration of special equipment safety."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Units producing, selling or using special equipment shall comply with this Law and other relevant laws and regulations, establish and improve responsibility systems for the safety and energy conservation of special equipment, strengthen the management of the safety and energy conservation of special equipment, and ensure that the production, sale and use of special equipment are safe and meet energy conservation requirements."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The production, sale, use, inspection and testing of special equipment shall comply with the relevant safety technical specifications and related standards for special equipment.\nThe safety technical specifications for special equipment shall be formulated by the department under the State Council responsible for special equipment safety supervision and administration."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Trade associations of the special equipment industry shall strengthen industry self-discipline, advance the development of the industry integrity system and raise the level of special equipment safety management."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The State supports scientific and technological research relating to the safety of special equipment, encourages the popularisation and application of advanced technology and advanced management methods, and gives awards to units and individuals that make outstanding contributions."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Departments responsible for special equipment safety supervision and administration shall strengthen publicity and education on special equipment safety, popularise knowledge of special equipment safety and enhance public awareness of special equipment safety."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Any unit or individual shall have the right to report illegal acts relating to the safety of special equipment to the departments responsible for special equipment safety supervision and administration and the relevant departments, and the department receiving the report shall handle it promptly."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Units producing, selling or using special equipment and their principal persons in charge shall be responsible for the safety of the special equipment they produce, sell or use.\nUnits producing, selling or using special equipment shall, in accordance with the relevant provisions of the State, allocate special equipment safety management personnel, testing personnel and operating personnel, and shall provide them with the necessary safety education and skills training."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Special equipment safety management personnel, testing personnel and operating personnel shall obtain the corresponding qualifications in accordance with the relevant provisions of the State before engaging in the relevant work. Special equipment safety management personnel, testing personnel and operating personnel shall strictly implement the safety technical specifications and management systems to ensure the safety of special equipment."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Units producing, selling or using special equipment shall conduct their own testing and maintenance of the special equipment they produce, sell or use, and shall, in respect of special equipment subject to inspection as provided by the State, declare it in a timely manner and accept inspection."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where new materials, new technologies or new processes are adopted for special equipment and are inconsistent with the requirements of the safety technical specifications, or are not provided for in the safety technical specifications and may have a major effect on safety performance, a declaration shall be made to the department under the State Council responsible for special equipment safety supervision and administration, which shall promptly entrust a safety technology consulting institution or a relevant professional institution with a technical review; only after the review result is approved by that department may the materials, technologies or processes be put into production or use.\nThe department under the State Council responsible for special equipment safety supervision and administration shall promptly incorporate the relevant technical requirements for the new materials, new technologies and new processes permitted for use into the safety technical specifications."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The State encourages the taking out of liability insurance for special equipment safety."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The State applies a licensing system to the production of special equipment in accordance with the principle of classified supervision and administration. A unit producing special equipment shall meet the following conditions and shall obtain a licence from the department responsible for special equipment safety supervision and administration before engaging in production activities:\n(a) having professional and technical personnel suited to the production;\n(b) having equipment, facilities and a workplace suited to the production;\n(c) having sound systems for quality assurance, safety management and post responsibility."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Section 2 Production"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Units producing special equipment shall ensure that the production of special equipment meets the requirements of the safety technical specifications and related standards, and shall be responsible for the safety performance of the special equipment they produce. They shall not produce special equipment that does not meet safety performance requirements and energy efficiency indicators, or that is expressly eliminated by the State."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Section 2 Production"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The design documents for boilers, gas cylinders, oxygen chambers, passenger ropeways and large-scale amusement devices shall be appraised by an inspection institution approved by the department responsible for special equipment safety supervision and administration before they may be used for manufacture.\nWhere the safety of special equipment products or components, trial-produced new products or new components of special equipment, or new materials adopted for special equipment needs to be verified by type tests in accordance with the requirements of the safety technical specifications, the type tests shall be conducted by an inspection institution approved by the department responsible for special equipment safety supervision and administration."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Section 2 Production"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "When special equipment leaves the factory, it shall be accompanied by the design documents required by the safety technical specifications, product quality certification, installation, use and maintenance instructions, supervisory inspection certificates and other relevant technical data and documents, and a product nameplate, safety warning signs and their explanations shall be set at a conspicuous position on the special equipment."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Section 2 Production"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The installation, alteration and repair of elevators must be carried out by the elevator manufacturer or by a unit entrusted by it that has obtained the corresponding licence in accordance with this Law. Where an elevator manufacturer entrusts another unit with the installation, alteration or repair of an elevator, it shall provide safety guidance and monitoring for the installation, alteration or repair and shall carry out calibration and debugging in accordance with the requirements of the safety technical specifications. The elevator manufacturer shall be responsible for the safety performance of the elevator."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Section 2 Production"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Construction units installing, altering or repairing special equipment shall, before construction, inform in writing the department responsible for special equipment safety supervision and administration of the people's government of the municipality directly under the Central Government or of the municipality with districts of the installation, alteration or repair of special equipment to be carried out."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Section 2 Production"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "After the completion of the installation, alteration or repair of special equipment, the construction unit shall, within 30 days after acceptance, hand over the relevant technical data and documents to the user unit of the special equipment. The user unit of the special equipment shall keep them in the safety technical file of that special equipment."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Section 2 Production"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The manufacturing process of special equipment such as boilers, pressure vessels and pressure pipeline components, and the installation, alteration and major repair of boilers, pressure vessels, pressure pipelines, elevators, hoisting machinery, passenger ropeways and large-scale amusement devices shall be subject to supervisory inspection by a special equipment inspection institution in accordance with the requirements of the safety technical specifications; where no supervisory inspection has been carried out or the supervisory inspection is not up to standard, the equipment shall not leave the factory or be delivered for use."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Section 2 Production"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The State establishes a recall system for defective special equipment. Where special equipment has a common defect endangering safety arising from production, the unit producing the special equipment shall immediately stop production and voluntarily recall it.\nWhere the department under the State Council responsible for special equipment safety supervision and administration finds that special equipment is in a circumstance in which recall is required but no recall has been made, it shall order the unit producing the special equipment to recall it."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Section 2 Production"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Special equipment sold by a sales unit of special equipment shall meet the requirements of the safety technical specifications and related standards, and its design documents, product quality certification, installation, use and maintenance instructions, supervisory inspection certificates and other relevant technical data and documents shall be complete.\nSales units of special equipment shall establish a system of inspection and acceptance and sales records for special equipment.\nIt is prohibited to sell special equipment produced without a licence, special equipment that has not been inspected or that fails inspection, or special equipment that is expressly eliminated by the State or that has been scrapped."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Section 3 Sale"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Leasing units of special equipment shall not lease out special equipment produced without a licence, special equipment expressly eliminated by the State or that has been scrapped, or special equipment that has not been maintained in accordance with the requirements of the safety technical specifications and has not been inspected or fails inspection."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Section 3 Sale"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "During the lease period, the obligation of use management and maintenance of special equipment shall be borne by the leasing unit of the special equipment, unless otherwise provided by law or otherwise agreed by the parties."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Section 3 Sale"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Imported special equipment shall meet the requirements of the safety technical specifications of China and shall pass inspection; where a production licence for special equipment in China is required, the licence shall be obtained.\nThe technical data and documents accompanying imported special equipment shall conform to the provisions of Article 21 of this Law, and the installation, use and maintenance instructions, the product nameplate, and the safety warning signs and their explanations shall be in Chinese.\nThe import and export inspection of special equipment shall comply with the laws and administrative regulations on the inspection of import and export commodities."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Section 3 Sale"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "For the import of special equipment, the obligation of advance notification shall be performed with the department responsible for special equipment safety supervision and administration at the place of import."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Section 3 Sale"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "User units of special equipment shall use special equipment produced with a licence and having passed inspection.\nIt is prohibited to use special equipment that is expressly eliminated by the State or that has been scrapped."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Section 4 Use"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "User units of special equipment shall, before putting special equipment into use or within 30 days after putting it into use, go through the formalities of use registration with the department responsible for special equipment safety supervision and administration and obtain a use registration certificate. The registration mark shall be placed at a conspicuous position on the special equipment."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Section 4 Use"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "User units of special equipment shall establish safety management systems covering post responsibility, the treatment of hidden dangers and emergency rescue, formulate operating procedures and ensure the safe operation of special equipment."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Section 4 Use"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "User units of special equipment shall establish safety technical files for special equipment. A safety technical file shall include the following:\n(a) the design documents, product quality certification, installation, use and maintenance instructions, supervisory inspection certificates and other relevant technical data and documents of the special equipment;\n(b) records of periodic inspection and periodic self-inspection of the special equipment;\n(c) records of the daily use of the special equipment;\n(d) records of the maintenance of the special equipment and its auxiliary instruments and meters;\n(e) records of operational failures and accidents of the special equipment."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Section 4 Use"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Operating and user units of special equipment that provides services to the public, such as elevators, passenger ropeways and large-scale amusement devices, shall be responsible for the safety of the use of the special equipment and shall set up a special equipment safety management body or allocate full-time special equipment safety management personnel; other user units of special equipment shall, in light of the circumstances, set up a special equipment safety management body or allocate full-time or part-time special equipment safety management personnel."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Section 4 Use"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The use of special equipment shall be subject to the prescribed safe distances and safety protection measures.\nBuildings and ancillary facilities relating to the safety of special equipment shall conform to the provisions of the relevant laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Section 4 Use"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where special equipment is jointly owned, the co-owners may entrust a property service unit or another manager with the management of the special equipment, and the entrusted party shall perform the obligations of a user unit of special equipment provided in this Law and bear the corresponding responsibility. Where the co-owners have not made such an entrustment, the co-owners or the actual manager shall perform the management obligations and bear the corresponding responsibility."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Section 4 Use"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "User units of special equipment shall carry out regular maintenance and periodic self-inspection of the special equipment they use, and shall keep records.\nUser units of special equipment shall carry out periodic calibration and servicing of the safety accessories and safety protection devices of the special equipment they use, and shall keep records."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Section 4 Use"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "User units of special equipment shall, in accordance with the requirements of the safety technical specifications, submit a request for periodic inspection to a special equipment inspection institution one month before the expiry of the period of validity of the inspection certificate.\nUpon receiving a request for periodic inspection, a special equipment inspection institution shall promptly carry out a safety performance inspection in accordance with the requirements of the safety technical specifications. User units of special equipment shall place the periodic inspection mark at a conspicuous position on the special equipment.\nSpecial equipment that has not undergone periodic inspection or that fails inspection shall not continue to be used."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Section 4 Use"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Special equipment safety management personnel shall carry out regular checks on the use of special equipment and shall deal with any problem immediately upon discovery; in an emergency, they may decide to stop the use of the special equipment and promptly report to the relevant person in charge of the unit.\nWhere operating personnel of special equipment discover hidden accident hazards or other unsafe factors in the course of operation, they shall immediately report to the special equipment safety management personnel and the relevant person in charge of the unit; where the special equipment is not operating normally, the operating personnel shall, in accordance with the operating procedures, take effective measures to ensure safety."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Section 4 Use"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where special equipment malfunctions or is in an abnormal condition, the user unit of the special equipment shall carry out a comprehensive inspection of it and eliminate the hidden accident hazards before it may continue to be used."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Section 4 Use"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Before passenger ropeways and large-scale amusement devices are put into use each day, their operating and user units shall conduct a trial run and routine safety inspection, and shall inspect and confirm the safety accessories and safety protection devices.\nOperating and user units of elevators, passenger ropeways and large-scale amusement devices shall place the safety instructions for use, safety precautions and warning signs of the elevators, passenger ropeways and large-scale amusement devices at conspicuous positions that are easy for passengers to notice.\nThe public, when riding in or operating elevators, passenger ropeways and large-scale amusement devices, shall comply with the requirements of the safety instructions for use and the safety precautions and shall submit to the management and direction of the relevant staff; in the event of abnormal operation, they shall evacuate in an orderly manner in accordance with the safety guidance."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Section 4 Use"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "User units of boilers shall carry out water (medium) treatment of boilers in accordance with the requirements of the safety technical specifications and shall accept periodic inspection by a special equipment inspection institution.\nEngaging in boiler cleaning shall be carried out in accordance with the requirements of the safety technical specifications and shall be subject to supervisory inspection by a special equipment inspection institution."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Section 4 Use"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "The maintenance of elevators shall be carried out by the elevator manufacturer or by an installation, alteration or repair unit that has obtained a licence in accordance with this Law.\nElevator maintenance units shall, in the course of maintenance, strictly implement the requirements of the safety technical specifications, ensure the safety performance of the elevators they maintain, and be responsible for implementing on-site safety protection measures to ensure construction safety.\nElevator maintenance units shall be responsible for the safety performance of the elevators they maintain; upon receiving a notification of a malfunction, they shall immediately rush to the scene and take the necessary emergency rescue measures."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Section 4 Use"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "After an elevator is put into use, the elevator manufacturer shall conduct follow-up investigation and keep informed of the safe operation of the elevators it has manufactured, put forward suggestions for improvement in respect of problems existing in the maintenance and safe operation of the elevators on the part of the maintenance units or user units, and provide the necessary technical assistance; where it finds that an elevator has a serious hidden accident hazard, it shall promptly inform the elevator user unit and report to the department responsible for special equipment safety supervision and administration. The elevator manufacturer shall keep records of the circumstances investigated and ascertained."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Section 4 Use"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where special equipment is altered or repaired and the use registration needs to be modified in accordance with the provisions, the modification of registration shall be completed before the equipment may continue to be used."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Section 4 Use"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where special equipment has a serious hidden accident hazard and is not worth altering or repairing, or meets other scrapping conditions provided in the safety technical specifications, the user unit of the special equipment shall perform the obligation of scrapping in accordance with law, take the necessary measures to eliminate the use function of the special equipment, and go through the formalities of cancellation of the use registration certificate with the department responsible for special equipment safety supervision and administration with which it was originally registered.\nWhere special equipment other than that under the scrapping conditions provided in the preceding paragraph has reached its design service life and may continue to be used, it shall pass inspection or safety assessment in accordance with the requirements of the safety technical specifications and the use registration certificate shall be modified before it may continue to be used. Where continued use is permitted, measures such as strengthened inspection, testing and maintenance shall be taken to ensure safety in use."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Section 4 Use"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Units filling mobile pressure vessels and gas cylinders shall meet the following conditions and shall obtain a licence from the department responsible for special equipment safety supervision and administration before engaging in filling activities:\n(a) having management and technical personnel suited to the filling and management;\n(b) having filling equipment, testing means, sites and plants, appliances and safety facilities suited to the filling and management;\n(c) having sound filling management systems, responsibility systems and handling measures.\nFilling units shall establish a system of inspection and record-keeping before and after filling, and are prohibited from filling mobile pressure vessels and gas cylinders that do not meet the requirements of the safety technical specifications.\nGas cylinder filling units shall provide gas users with gas cylinders meeting the requirements of the safety technical specifications, give gas users guidance on the safe use of gas cylinders, go through the use registration of gas cylinders in accordance with the requirements of the safety technical specifications, and declare periodic inspection in a timely manner."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Section 4 Use"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Special equipment inspection institutions engaged in the supervisory inspection and periodic inspection provided in this Law, and special equipment testing institutions providing testing services for the production, sale and use of special equipment, shall meet the following conditions and shall be approved by the department responsible for special equipment safety supervision and administration before engaging in inspection and testing work:\n(a) having inspection and testing personnel suited to the inspection and testing work;\n(b) having inspection and testing instruments and equipment suited to the inspection and testing work;\n(c) having sound inspection and testing management systems and responsibility systems."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter III Inspection and Testing"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "The inspection and testing personnel of special equipment inspection and testing institutions shall pass an assessment and obtain the qualification of inspection and testing personnel before engaging in inspection and testing work.\nThe inspection and testing personnel of special equipment inspection and testing institutions shall not practise in two or more inspection and testing institutions at the same time; where they change the institution in which they practise, they shall go through the formalities of modification in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter III Inspection and Testing"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "The inspection and testing of special equipment shall comply with the provisions of laws and administrative regulations and shall be carried out in accordance with the requirements of the safety technical specifications.\nSpecial equipment inspection and testing institutions and their inspection and testing personnel shall, in accordance with law, provide safe, reliable, convenient and trustworthy inspection and testing services to units producing, selling or using special equipment."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter III Inspection and Testing"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Special equipment inspection and testing institutions and their inspection and testing personnel shall issue inspection and testing reports objectively, impartially and promptly, and shall be responsible for the inspection and testing results and appraisal conclusions.\nWhere, in the course of inspection and testing, special equipment inspection and testing institutions and their inspection and testing personnel find that special equipment has a serious hidden accident hazard, they shall promptly inform the unit concerned and immediately report to the department responsible for special equipment safety supervision and administration.\nDepartments responsible for special equipment safety supervision and administration shall organise supervisory spot checks on the inspection and testing results and appraisal conclusions of special equipment inspection and testing institutions, but shall prevent duplicated spot checks. The results of supervisory spot checks shall be made public."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter III Inspection and Testing"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Units producing, selling or using special equipment shall, in accordance with the requirements of the safety technical specifications, provide special equipment inspection and testing institutions and their inspection and testing personnel with the relevant information on the special equipment and the necessary conditions for inspection and testing, and shall be responsible for the authenticity of the information."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter III Inspection and Testing"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Special equipment inspection and testing institutions and their inspection and testing personnel shall be obliged to keep confidential the trade secrets learnt in the course of inspection and testing.\nSpecial equipment inspection and testing institutions and their inspection and testing personnel shall not engage in the production or sale of special equipment, and shall not recommend special equipment or supervise its manufacture or sales."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter III Inspection and Testing"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where special equipment inspection institutions and their inspection personnel deliberately create difficulties for units producing, selling or using special equipment by taking advantage of inspection work, the units producing, selling or using special equipment shall have the right to complain to the department responsible for special equipment safety supervision and administration, and the department receiving the complaint shall promptly conduct investigation and handle it."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter III Inspection and Testing"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Departments responsible for special equipment safety supervision and administration shall, in accordance with the provisions of this Law, exercise supervisory inspection over units producing, selling or using special equipment and over inspection and testing institutions.\nDepartments responsible for special equipment safety supervision and administration shall carry out key safety supervisory inspection over special equipment in places where the public congregate, such as schools, kindergartens, hospitals, stations, passenger transport wharves, shopping malls, sports venues, exhibition halls and parks."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where departments responsible for special equipment safety supervision and administration carry out the licensing work provided in this Law, they shall conduct examination in accordance with the conditions and procedures provided in this Law and other relevant laws and administrative regulations and the requirements of the safety technical specifications; where the requirements are not met, no licence shall be granted."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where departments responsible for special equipment safety supervision and administration handle the licensing provided in this Law, the procedures of acceptance, examination and licensing must be made public, and they shall, within 30 days from the date of acceptance of the application, make a decision to grant or not to grant the licence; where the licence is not granted, they shall state the reasons to the applicant in writing."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Departments responsible for special equipment safety supervision and administration shall establish complete supervision and administration files and an information enquiry system for special equipment for which use registration has been completed in accordance with law; for special equipment meeting the scrapping conditions, they shall promptly urge the user units of the special equipment to perform the obligation of scrapping in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Departments responsible for special equipment safety supervision and administration may exercise the following powers when performing their supervisory inspection duties in accordance with law:\n(a) to enter the site to carry out inspection, and to investigate and ascertain the relevant circumstances from the principal persons in charge and other relevant personnel of units producing, selling or using special equipment and of inspection and testing institutions;\n(b) on the basis of reports or evidence of suspected illegality obtained, to consult and copy the relevant contracts, invoices, account books and other relevant materials of units producing, selling or using special equipment and of inspection and testing institutions;\n(c) to seal up and seize special equipment which evidence shows does not meet the requirements of the safety technical specifications or has a serious hidden accident hazard;\n(d) to seal up and seize special equipment that has entered the market and meets the scrapping conditions or has been scrapped;\n(e) to make decisions on administrative penalties for acts violating the provisions of this Law."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Where, in the course of performing their duties in accordance with law, departments responsible for special equipment safety supervision and administration find acts violating the provisions of this Law and the requirements of the safety technical specifications, or find that special equipment has hidden accident hazards, they shall issue a special equipment safety supervision instruction in writing, ordering the unit concerned to promptly take measures to rectify or eliminate the hidden accident hazards. Where, in an emergency, a unit concerned is required to take emergency disposal measures, the special equipment safety supervision instruction shall be issued subsequently."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Where, in the course of performing their duties in accordance with law, departments responsible for special equipment safety supervision and administration find major illegal acts or serious hidden accident hazards in special equipment, they shall order the unit concerned to immediately stop the illegal acts and take measures to eliminate the hidden accident hazards, and shall promptly report to the department at the next higher level responsible for special equipment safety supervision and administration. The department receiving the report shall take the necessary measures and promptly deal with the matter.\nWhere the handling of illegal acts or serious hidden accident hazards requires the support and cooperation of the local people's government and the relevant departments, the department responsible for special equipment safety supervision and administration shall report to the local people's government and notify the other relevant departments. The local people's government and the other relevant departments shall take the necessary measures and promptly deal with the matter."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Departments of local people's governments at all levels responsible for special equipment safety supervision and administration shall not require a unit producing special equipment that has already obtained a licence elsewhere in accordance with the provisions of this Law to obtain the licence again, and shall not require repeated inspection of special equipment that has already passed inspection elsewhere in accordance with the provisions of this Law."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "The safety supervision personnel of departments responsible for special equipment safety supervision and administration shall be familiar with the relevant laws and regulations, possess the corresponding professional knowledge and work experience, and obtain the special equipment safety administrative enforcement certificate.\nSpecial equipment safety supervision personnel shall be loyal to their duties, adhere to principles and enforce the law impartially.\nWhere departments responsible for special equipment safety supervision and administration carry out safety supervisory inspection, two or more special equipment safety supervision personnel shall participate and shall present valid special equipment safety administrative enforcement certificates."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Where departments responsible for special equipment safety supervision and administration carry out supervisory inspection over units producing, selling or using special equipment and over inspection and testing institutions, they shall make records of the content of each supervisory inspection, the problems found and the handling, and shall file them after they are signed by the special equipment safety supervision personnel participating in the supervisory inspection and by the relevant person in charge of the unit inspected. Where the relevant person in charge of the unit inspected refuses to sign, the special equipment safety supervision personnel shall record the circumstances in the file."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Departments responsible for special equipment safety supervision and administration and their staff members shall not recommend special equipment or supervise its manufacture or sales; they shall be obliged to keep confidential the trade secrets learnt in the course of performing their duties."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "The department under the State Council responsible for special equipment safety supervision and administration and the departments of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government responsible for special equipment safety supervision and administration shall periodically publish to the public the overall situation of special equipment safety."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "The department under the State Council responsible for special equipment safety supervision and administration shall, in accordance with law, organise the formulation of emergency plans for major and extraordinarily serious special equipment accidents, and shall incorporate them into the national emergency plan system for emergencies after approval by the State Council.\nLocal people's governments at or above the county level and their departments responsible for special equipment safety supervision and administration shall, in accordance with law, organise the formulation of emergency plans for special equipment accidents within their respective administrative regions, and shall establish or incorporate them into the corresponding emergency disposal and rescue systems.\nUser units of special equipment shall formulate special emergency plans for special equipment accidents and conduct emergency drills periodically."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter V Emergency Rescue and Investigation and Handling of Accidents"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "After an accident involving special equipment occurs, the unit where the accident occurs shall, in accordance with the emergency plan, take measures, organise rescue, prevent the expansion of the accident, reduce casualties and property losses, protect the accident scene and the relevant evidence, and promptly report to the department responsible for special equipment safety supervision and administration and the relevant departments of the people's government at or above the county level at the place where the accident occurs.\nUpon receiving a report of an accident, the department responsible for special equipment safety supervision and administration of the people's government at or above the county level shall verify the circumstances as soon as possible, immediately report to the people's government at the corresponding level, and report level by level in accordance with the provisions. Where necessary, the department responsible for special equipment safety supervision and administration may report the accident circumstances by skipping levels. For extraordinarily serious accidents and major accidents, the department under the State Council responsible for special equipment safety supervision and administration shall immediately report to the State Council and notify the department under the State Council responsible for work safety supervision and administration and other relevant departments.\nUnits and persons related to the accident shall not delay, make false reports of or conceal the accident circumstances, and shall not conceal or destroy the relevant evidence or deliberately damage the accident scene."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter V Emergency Rescue and Investigation and Handling of Accidents"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "Upon receiving a report of an accident, the people's government at the place where the accident occurs shall, in accordance with law, activate the emergency plan, take emergency disposal measures and organise emergency rescue."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter V Emergency Rescue and Investigation and Handling of Accidents"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "Where an extraordinarily serious accident occurs to special equipment, the State Council or the relevant department authorised by the State Council shall organise an accident investigation team to conduct the investigation.\nWhere a major accident occurs, the department under the State Council responsible for special equipment safety supervision and administration shall, in conjunction with the relevant departments, organise an accident investigation team to conduct the investigation.\nWhere a relatively major accident occurs, the department of the people's government of the province, autonomous region or municipality directly under the Central Government responsible for special equipment safety supervision and administration shall, in conjunction with the relevant departments, organise an accident investigation team to conduct the investigation.\nWhere an ordinary accident occurs, the department of the people's government of the municipality with districts responsible for special equipment safety supervision and administration shall, in conjunction with the relevant departments, organise an accident investigation team to conduct the investigation.\nAn accident investigation team shall conduct the investigation in accordance with law, independently and impartially, and shall submit an accident investigation report."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter V Emergency Rescue and Investigation and Handling of Accidents"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "The department that organises the accident investigation shall submit the accident investigation report to the people's government at the corresponding level and to the department responsible for special equipment safety supervision and administration of the people's government at the next higher level for the record. The relevant departments and units shall, in accordance with the provisions of laws and administrative regulations, hold the units and persons responsible for the accident accountable.\nThe unit responsible for the accident shall, in accordance with law, implement rectification measures to prevent the occurrence of similar accidents. Where the accident has caused damage, the unit responsible for the accident shall bear the liability for compensation in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter V Emergency Rescue and Investigation and Handling of Accidents"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "Whoever, in violation of the provisions of this Law, engages in the production of special equipment without a licence shall be ordered to stop production, the illegally manufactured special equipment shall be confiscated, and a fine of not less than 100,000 yuan but not more than 500,000 yuan shall be imposed; where there is illegal income, the illegal income shall be confiscated; where installation, alteration or repair has already been carried out, the person shall be ordered to restore the original state or to have a unit holding a licence reinstall, alter or repair within a time limit."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "Whoever, in violation of the provisions of this Law, uses the design documents of special equipment for manufacture without appraisal shall be ordered to make corrections, the illegally manufactured special equipment shall be confiscated, and a fine of not less than 50,000 yuan but not more than 500,000 yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "Whoever, in violation of the provisions of this Law, fails to conduct a type test shall be ordered to make corrections within a time limit; where corrections are not made within the time limit, a fine of not less than 30,000 yuan but not more than 300,000 yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "Whoever, in violation of the provisions of this Law, fails to attach the relevant technical data and documents to special equipment leaving the factory in accordance with the requirements of the safety technical specifications shall be ordered to make corrections within a time limit; where corrections are not made within the time limit, the person shall be ordered to stop manufacture and sales and a fine of not less than 20,000 yuan but not more than 200,000 yuan shall be imposed; where there is illegal income, the illegal income shall be confiscated."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "Whoever, in violation of the provisions of this Law, being a construction unit installing, altering or repairing special equipment, commences construction without prior written notification to the department responsible for special equipment safety supervision and administration, or fails to hand over the relevant technical data and documents to the user unit of the special equipment within 30 days after acceptance, shall be ordered to make corrections within a time limit; where corrections are not made within the time limit, a fine of not less than 10,000 yuan but not more than 100,000 yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "Whoever, in violation of the provisions of this Law, carries out the manufacture, installation, alteration or major repair of special equipment or the cleaning of boilers without supervisory inspection shall be ordered to make corrections within a time limit; where corrections are not made within the time limit, a fine of not less than 50,000 yuan but not more than 200,000 yuan shall be imposed; where there is illegal income, the illegal income shall be confiscated; where the circumstances are serious, the production licence shall be revoked."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, an elevator manufacturer is in any of the following circumstances, it shall be ordered to make corrections within a time limit; where corrections are not made within the time limit, a fine of not less than 10,000 yuan but not more than 100,000 yuan shall be imposed:\n(a) failing to calibrate and debug the elevator in accordance with the requirements of the safety technical specifications;\n(b) having found a serious hidden accident hazard while conducting follow-up investigation and keeping informed of the safe operation of the elevator, failing to promptly inform the elevator user unit and report to the department responsible for special equipment safety supervision and administration."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a unit producing special equipment commits any of the following acts, it shall be ordered to make corrections within a time limit; where corrections are not made within the time limit, it shall be ordered to stop production and a fine of not less than 50,000 yuan but not more than 500,000 yuan shall be imposed; where the circumstances are serious, the production licence shall be revoked:\n(a) no longer possessing the production conditions, having a production licence that has expired, or producing beyond the scope of the licence;\n(b) knowing that the special equipment has a common defect but failing to immediately stop production and recall it.\nWhere, in violation of the provisions of this Law, a unit producing special equipment produces, sells or delivers special equipment expressly eliminated by the State, it shall be ordered to stop production and sales, the illegally produced, sold or delivered special equipment shall be confiscated, and a fine of not less than 30,000 yuan but not more than 300,000 yuan shall be imposed; where there is illegal income, the illegal income shall be confiscated.\nWhere a unit producing special equipment alters, resells, leases or lends its production licence, it shall be ordered to stop production and a fine of not less than 50,000 yuan but not more than 500,000 yuan shall be imposed; where the circumstances are serious, the production licence shall be revoked."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a unit selling special equipment commits any of the following acts, it shall be ordered to stop business, the illegally traded special equipment shall be confiscated, and a fine of not less than 30,000 yuan but not more than 300,000 yuan shall be imposed; where there is illegal income, the illegal income shall be confiscated:\n(a) selling or leasing special equipment produced without a licence, not inspected or failing inspection;\n(b) selling or leasing special equipment expressly eliminated by the State or already scrapped, or special equipment not maintained in accordance with the requirements of the safety technical specifications.\nWhere, in violation of the provisions of this Law, a sales unit of special equipment fails to establish a system of inspection and acceptance and sales records, or fails to perform the obligation of advance notification for imported special equipment, it shall be ordered to make corrections and a fine of not less than 10,000 yuan but not more than 100,000 yuan shall be imposed.\nWhere a unit producing special equipment sells or delivers special equipment that has not been inspected or fails inspection, it shall be punished in accordance with the provisions of paragraph 1 of this Article; where the circumstances are serious, the production licence shall be revoked."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a user unit of special equipment commits any of the following acts, it shall be ordered to make corrections within a time limit; where corrections are not made within the time limit, it shall be ordered to stop using the special equipment concerned and a fine of not less than 10,000 yuan but not more than 100,000 yuan shall be imposed:\n(a) using special equipment without going through use registration in accordance with the provisions;\n(b) failing to establish a safety technical file for the special equipment, or the safety technical file not meeting the prescribed requirements, or failing to set up the use registration mark and the periodic inspection mark in accordance with law;\n(c) failing to carry out regular maintenance and periodic self-inspection of the special equipment used, or failing to carry out periodic calibration and servicing of the safety accessories and safety protection devices of the special equipment used and keep records;\n(d) failing to declare and accept inspection in a timely manner in accordance with the requirements of the safety technical specifications;\n(e) failing to carry out water (medium) treatment of boilers in accordance with the requirements of the safety technical specifications;\n(f) failing to formulate a special emergency plan for special equipment accidents."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a user unit of special equipment commits any of the following acts, it shall be ordered to stop using the special equipment concerned and a fine of not less than 30,000 yuan but not more than 300,000 yuan shall be imposed:\n(a) using special equipment produced without a licence, not inspected or failing inspection, or special equipment expressly eliminated by the State or already scrapped;\n(b) continuing to use special equipment that has malfunctioned or is in an abnormal condition without carrying out a comprehensive inspection and eliminating the hidden accident hazards;\n(c) failing to perform the obligation of scrapping in accordance with law and to go through the formalities of cancellation of the use registration certificate in respect of special equipment that has a serious hidden accident hazard and is not worth altering or repairing, or meets other scrapping conditions provided in the safety technical specifications."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a unit filling mobile pressure vessels or gas cylinders commits any of the following acts, it shall be ordered to make corrections and a fine of not less than 20,000 yuan but not more than 200,000 yuan shall be imposed; where the circumstances are serious, the filling licence shall be revoked:\n(a) failing to implement the system of inspection and record-keeping before and after filling in accordance with the provisions;\n(b) filling mobile pressure vessels and gas cylinders that do not meet the requirements of the safety technical specifications.\nWhere, in violation of the provisions of this Law, a person engages in the filling of mobile pressure vessels or gas cylinders without a licence, the person shall be banned, the illegally filled gas cylinders shall be confiscated, and a fine of not less than 100,000 yuan but not more than 500,000 yuan shall be imposed; where there is illegal income, the illegal income shall be confiscated."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a unit producing, selling or using special equipment is in any of the following circumstances, it shall be ordered to make corrections within a time limit; where corrections are not made within the time limit, it shall be ordered to stop using the special equipment concerned or to suspend production or business for rectification, and a fine of not less than 10,000 yuan but not more than 50,000 yuan shall be imposed:\n(a) failing to allocate special equipment safety management personnel, testing personnel and operating personnel with the corresponding qualifications;\n(b) using persons without the corresponding qualifications to engage in the safety management, testing and operation of special equipment;\n(c) failing to provide safety education and skills training to special equipment safety management personnel, testing personnel and operating personnel."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, an operating and user unit of elevators, passenger ropeways or large-scale amusement devices is in any of the following circumstances, it shall be ordered to make corrections within a time limit; where corrections are not made within the time limit, it shall be ordered to stop using the special equipment concerned or to suspend production or business for rectification, and a fine of not less than 20,000 yuan but not more than 100,000 yuan shall be imposed:\n(a) failing to set up a special equipment safety management body or to allocate full-time special equipment safety management personnel;\n(b) failing to conduct a trial run and routine safety inspection, and to inspect and confirm the safety accessories and safety protection devices, before passenger ropeways and large-scale amusement devices are put into use each day;\n(c) failing to place the safety instructions for use, safety precautions and warning signs of elevators, passenger ropeways and large-scale amusement devices at conspicuous positions that are easy for passengers to notice."
+        },
+        "noLabel": {
+          "en": "Article 87."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "Whoever, in violation of the provisions of this Law, engages in the maintenance of elevators without a licence shall be ordered to stop the illegal act and a fine of not less than 10,000 yuan but not more than 100,000 yuan shall be imposed; where there is illegal income, the illegal income shall be confiscated.\nWhere an elevator maintenance unit fails to carry out elevator maintenance in accordance with the provisions of this Law and the requirements of the safety technical specifications, it shall be punished in accordance with the provisions of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 88."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "Where an accident involving special equipment occurs and any of the following circumstances exists, a fine of not less than 50,000 yuan but not more than 200,000 yuan shall be imposed on the unit, and a fine of not less than 10,000 yuan but not more than 50,000 yuan shall be imposed on the principal person in charge; where the principal person in charge is a State functionary, a sanction shall also be given in accordance with law:\n(a) failing to immediately organise rescue when the special equipment accident occurs, or leaving the post without authorisation or absconding during the period of accident investigation and handling;\n(b) delaying, making a false report of or concealing the special equipment accident."
+        },
+        "noLabel": {
+          "en": "Article 89."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 90,
+        "text": {
+          "en": "Where an accident occurs, in addition to requiring the unit responsible to bear the corresponding liability for compensation and other liabilities in accordance with law, a fine shall be imposed in accordance with the following provisions:\n(a) where an ordinary accident occurs, a fine of not less than 100,000 yuan but not more than 200,000 yuan;\n(b) where a relatively major accident occurs, a fine of not less than 200,000 yuan but not more than 500,000 yuan;\n(c) where a major accident occurs, a fine of not less than 500,000 yuan but not more than 2,000,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 90."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 91,
+        "text": {
+          "en": "Where the principal person in charge of the unit responsible for an accident fails to perform his or her duties in accordance with law or bears leadership responsibility, a fine shall be imposed in accordance with the following provisions; where he or she is a State functionary, a sanction shall also be given in accordance with law:\n(a) where an ordinary accident occurs, a fine of 30 per cent of the previous year's annual income;\n(b) where a relatively major accident occurs, a fine of 40 per cent of the previous year's annual income;\n(c) where a major accident occurs, a fine of 60 per cent of the previous year's annual income."
+        },
+        "noLabel": {
+          "en": "Article 91."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 92,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, special equipment safety management personnel, testing personnel or operating personnel fail to perform their post duties and violate the operating procedures and the relevant safety rules and regulations, causing an accident, the qualifications of the persons concerned shall be revoked."
+        },
+        "noLabel": {
+          "en": "Article 92."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 93,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a special equipment inspection or testing institution or its inspection or testing personnel commits any of the following acts, it or they shall be ordered to make corrections, a fine of not less than 50,000 yuan but not more than 200,000 yuan shall be imposed on the institution, and a fine of not less than 5,000 yuan but not more than 50,000 yuan shall be imposed on the directly responsible person in charge and other persons directly responsible; where the circumstances are serious, the qualification of the institution and the qualifications of the persons concerned shall be revoked:\n(a) engaging in inspection or testing without approval or beyond the scope of approval, or using persons without the corresponding qualifications;\n(b) failing to carry out inspection or testing in accordance with the requirements of the safety technical specifications;\n(c) issuing false inspection or testing results and appraisal conclusions, or inspection or testing results and appraisal conclusions that are seriously inconsistent with the facts;\n(d) having found a serious hidden accident hazard in special equipment, failing to promptly inform the unit concerned and immediately report to the department responsible for special equipment safety supervision and administration;\n(e) divulging trade secrets learnt in the course of inspection or testing;\n(f) engaging in the production or sale of special equipment;\n(g) recommending special equipment or supervising its manufacture or sales;\n(h) deliberately creating difficulties for the unit concerned by taking advantage of inspection work.\nWhere, in violation of the provisions of this Law, the inspection or testing personnel of a special equipment inspection or testing institution practise in two or more inspection or testing institutions at the same time, a fine of not less than 5,000 yuan but not more than 50,000 yuan shall be imposed; where the circumstances are serious, their qualifications shall be revoked."
+        },
+        "noLabel": {
+          "en": "Article 93."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 94,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a department responsible for special equipment safety supervision and administration or its staff members commits any of the following acts, the authority at the next higher level shall order it to make corrections; the directly responsible person in charge and other persons directly responsible shall be given sanctions in accordance with law:\n(a) granting a licence without complying with the conditions and procedures provided by laws and administrative regulations;\n(b) failing to ban, or failing to handle in accordance with law, the production, use, inspection or testing of special equipment carried out without a licence upon discovery;\n(c) failing to revoke the licence of a unit producing special equipment upon finding that it no longer meets the conditions provided in this Law, or failing to investigate and deal with illegal acts of producing, selling or using special equipment upon discovery;\n(d) failing to revoke the approval of a special equipment inspection or testing institution upon finding that it no longer meets the conditions provided in this Law, or failing to investigate and deal with its issuance of false inspection or testing results and appraisal conclusions or of inspection or testing results and appraisal conclusions seriously inconsistent with the facts;\n(e) failing to deal immediately with acts violating the provisions of this Law and the requirements of the safety technical specifications or with hidden accident hazards in special equipment upon discovery;\n(f) failing to promptly report major illegal acts or serious hidden accident hazards in special equipment to the department at the next higher level responsible for special equipment safety supervision and administration, or failing to deal immediately with them upon receiving such a report;\n(g) requiring a unit producing special equipment that has already obtained a licence elsewhere in accordance with the provisions of this Law to obtain the licence again, or requiring repeated inspection of special equipment that has already passed inspection elsewhere in accordance with the provisions of this Law;\n(h) recommending special equipment or supervising its manufacture or sales;\n(i) divulging trade secrets learnt in the course of performing duties;\n(j) failing to immediately report a special equipment accident to the people's government at the corresponding level and to report it in accordance with the provisions upon receiving a report of the accident;\n(k) delaying, omitting, making a false report of or concealing an accident;\n(l) obstructing accident rescue or accident investigation and handling;\n(m) other acts of abusing power, dereliction of duty or engaging in malpractice for personal gain."
+        },
+        "noLabel": {
+          "en": "Article 94."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 95,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a unit producing, selling or using special equipment or an inspection or testing institution refuses to accept supervisory inspection carried out by the department responsible for special equipment safety supervision and administration in accordance with law, it shall be ordered to make corrections within a time limit; where corrections are not made within the time limit, it shall be ordered to suspend production or business for rectification and a fine of not less than 20,000 yuan but not more than 200,000 yuan shall be imposed.\nWhere a unit producing, selling or using special equipment uses without authorisation, exchanges, transfers or destroys special equipment or its main components that have been sealed up or seized, it shall be ordered to make corrections and a fine of not less than 50,000 yuan but not more than 200,000 yuan shall be imposed; where the circumstances are serious, the production licence shall be revoked and the special equipment use registration certificate shall be cancelled."
+        },
+        "noLabel": {
+          "en": "Article 95."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 96,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a licence is revoked in accordance with law, the department responsible for special equipment safety supervision and administration shall not accept a new licence application from the person concerned within 3 years from the date of revocation of the licence."
+        },
+        "noLabel": {
+          "en": "Article 96."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 97,
+        "text": {
+          "en": "Whoever, in violation of the provisions of this Law, causes damage to persons or property shall bear civil liability in accordance with law.\nWhere a person shall, in violation of the provisions of this Law, bear civil liability for compensation and pay a fine or penalty, and the person's property is insufficient to pay both at the same time, the civil liability for compensation shall be borne first."
+        },
+        "noLabel": {
+          "en": "Article 97."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 98,
+        "text": {
+          "en": "Where a violation of the provisions of this Law constitutes a violation of public security administration, a public security administration penalty shall be given in accordance with law; where it constitutes a crime, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 98."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 99,
+        "text": {
+          "en": "The fees for administrative licensing and inspection of special equipment shall be charged in accordance with the provisions of laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 99."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 100,
+        "text": {
+          "en": "This Law does not apply to the supervision and administration of the safety of special equipment used in military equipment, nuclear facilities or aerospace vehicles.\nThe supervision and administration of the safety of special equipment used in railway locomotives, offshore facilities and ships and underground mines, and of the installation and use of hoisting machinery and special motor vehicles in fields (plants) used on building construction sites and municipal engineering construction sites, shall be carried out by the relevant departments in accordance with this Law and other relevant laws."
+        },
+        "noLabel": {
+          "en": "Article 100."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 101,
+        "text": {
+          "en": "This Law shall come into force on 1 January 2014."
+        },
+        "noLabel": {
+          "en": "Article 101."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
         }
       }
     ]
@@ -22773,6 +25182,1248 @@
         },
         "noLabel": {
           "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0270'] = {
+    "lawId": "CN-LAW-0270",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 106 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is enacted in accordance with the Constitution in order to prevent and reduce the occurrence of emergencies, control, mitigate and eliminate the serious social harm caused by emergencies, enhance the capacity to prevent and respond to emergencies, regulate emergency response activities, protect the safety of people's lives and property, and safeguard national security, public security, ecological and environmental security and social order."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Emergencies referred to in this Law mean natural disasters, accidental calamities, public health incidents and social safety incidents that occur suddenly, cause or may cause serious social harm and require the adoption of emergency handling measures in response.\nThis Law applies to response activities such as prevention and emergency preparedness, monitoring and early warning, emergency handling and rescue, and post-event recovery and reconstruction in respect of emergencies.\nWhere relevant laws such as the Law of the People's Republic of China on the Prevention and Control of Infectious Diseases contain provisions on response to public health emergencies, those provisions shall apply. Where such laws contain no provisions, this Law shall apply."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Sudden natural disasters, accidental calamities and public health incidents shall, in light of factors such as the degree of social harm and the scope of impact, be classified into four levels: especially major, major, relatively major and ordinary. Where laws, administrative regulations or the State Council provide otherwise, those provisions shall prevail.\nThe standards for classifying emergencies shall be formulated by the State Council or by departments designated by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Emergency response work shall adhere to the leadership of the Communist Party of China and be guided by Marxism-Leninism, Mao Zedong Thought, Deng Xiaoping Theory, the important thought of Three Represents, the Scientific Outlook on Development and Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era; a centralised, unified, efficient and authoritative leadership system for emergency response work with Chinese characteristics shall be established and improved; and the governance system of Party committee leadership, government responsibility, departmental coordination, military-civilian joint action, social collaboration, public participation, scientific and technological support and rule-of-law safeguards shall be improved."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Emergency response work shall adhere to the holistic approach to national security and coordinate development and security; adhere to the primacy of the people and the primacy of life; adhere to law-based and scientific response and respect and protect human rights; and adhere to prevention first and the combination of prevention and emergency response."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The State shall establish an effective social mobilisation mechanism, organise and mobilise enterprises, public institutions, social organisations, volunteers and other forces to participate in emergency response work in a lawful and orderly manner, enhance public awareness of public security and risk prevention among all the people, and improve society's capacity for risk avoidance and rescue."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The State shall establish and improve the system for releasing information on emergencies. The relevant people's governments and departments shall promptly publish to society information relating to emergencies and information such as decisions, orders and measures relating to emergency response.\nNo unit or individual may fabricate or deliberately disseminate false information relating to emergencies. Where the relevant people's governments and departments find false or incomplete information that affects or may affect social stability or disrupt social and economic management order, they shall promptly release accurate information to clarify the matter."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The State shall establish and improve the system for news coverage and reporting of emergencies. The relevant people's governments and departments shall provide good services and guidance to the news media and support the news media in carrying out coverage, reporting and public opinion supervision.\nNews media covering and reporting emergencies shall be timely, accurate, objective and impartial.\nNews media shall carry out public-interest publicity on laws and regulations on emergency response, knowledge of prevention and emergency response, and knowledge of self-rescue and mutual rescue."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The State shall establish a system for complaints and reports concerning emergency response work and publish unified channels for complaints and reports.\nAny unit or individual shall have the right to complain of or report to the relevant people's governments and departments acts of failing to perform or incorrectly performing duties in emergency response work.\nThe people's governments and departments receiving a complaint or report shall immediately organise investigation and handling in accordance with provisions and inform the complainant or reporter of the results of investigation and handling in an appropriate manner; where the matter complained of or reported is not within their duties, they shall promptly refer it to the relevant organ for handling.\nThe relevant people's governments and departments shall keep confidential the relevant information of complainants and reporters and protect their lawful rights and interests."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Emergency response measures shall be commensurate with the nature, degree and scope of the social harm that an emergency may cause; where multiple measures are available, the measure that best protects the rights and interests of citizens, legal persons and other organisations and that causes less harm to the rights and interests of others and less impact on the ecological environment shall be selected, and shall be promptly adjusted in light of changes in circumstances, so as to be scientific, precise and effective."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "In emergency response work, the State shall give special and priority protection to minors, elderly persons, persons with disabilities, women during pregnancy, childbirth and breastfeeding, and persons injured or ill requiring prompt medical treatment."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "People's governments at or above the county level and their departments may, for urgent needs in responding to emergencies, requisition property such as equipment, facilities, sites and means of transport of units and individuals. Requisitioned property shall be promptly returned after use or after the conclusion of emergency handling work. Where property is requisitioned, or is damaged or lost after requisition, fair and reasonable compensation shall be given."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where, due to the lawful adoption of emergency response measures, activities such as litigation, supervisory investigation, administrative reconsideration, arbitration and State compensation cannot proceed normally, the provisions on suspension of limitation periods and suspension of procedure shall apply, except as otherwise provided by law."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The Government of the People's Republic of China shall carry out cooperation and exchanges with foreign governments and relevant international organisations in respect of the prevention and emergency preparedness, monitoring and early warning, emergency handling and rescue, and post-event recovery and reconstruction of emergencies."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Units and individuals that make outstanding contributions to emergency response work shall be commended and rewarded in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The State shall establish an emergency management system featuring unified command, a combination of specialised and regular forces, rapid response and vertical and horizontal coordination, and a working system of comprehensive coordination, classified management, responsibility at different levels and territorial management as the main approach."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Management and Command System"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "County-level people's governments shall be responsible for the administration of emergency response within their respective administrative regions. After an emergency occurs, the county-level people's government of the place where it occurs shall immediately take measures to control the development of the situation, organise emergency rescue and handling work, and immediately report to the people's government at the next higher level, and may, when necessary, report by bypassing the immediate level, and shall, where conditions permit, make direct online reports or automatic rapid reports.\nWhere the county-level people's government of the place where an emergency occurs is unable to eliminate or effectively control the serious social harm caused by the emergency, it shall promptly report to the people's government at a higher level. The people's government at the higher level shall promptly take measures and exercise unified leadership over the emergency handling work.\nWhere laws or administrative regulations provide that the relevant departments of the State Council are responsible for the administration of emergency response, those provisions shall prevail; local people's governments shall actively cooperate and provide the necessary support."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Management and Command System"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where an emergency involves two or more administrative regions, the administration of emergency response shall be the responsibility of the common people's government at the next higher level of the administrative regions concerned, or the joint responsibility of the people's governments at the next higher level of each administrative region concerned. People's governments with joint responsibility shall, in accordance with the relevant provisions of the State, establish mechanisms for information sharing and coordination and cooperation. Where necessary for jointly responding to an emergency, local people's governments may establish mechanisms for coordinated response."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Management and Command System"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "People's governments at or above the county level are the administrative leading organs for the administration of emergency response.\nThe State Council shall, under the leadership of the Premier, study, decide and deploy the response to especially major emergencies; shall, in light of actual needs, establish a national emergency command structure responsible for emergency response work; and may, when necessary, dispatch working groups to guide the relevant work.\nLocal people's governments at or above the county level shall establish emergency command structures composed of the principal person in charge of the people's government at the same level, the persons in charge of the relevant departments, and the persons in charge of the national comprehensive fire and rescue teams and of the local units of the Chinese People's Liberation Army and the Chinese People's Armed Police Force, to exercise unified leadership and coordination over the relevant departments of the people's government at the same level and the people's governments at lower levels in carrying out emergency response work; and shall, in light of actual needs, establish emergency command structures for the relevant categories of emergencies to organise, coordinate and command emergency response work."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Management and Command System"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Emergency command structures may, in the course of emergency response, lawfully issue decisions, orders and measures relating to emergency response. The decisions, orders and measures issued by an emergency command structure shall have the same effect as those issued by the people's government that established it, and legal liability shall be borne by the people's government that established it."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Management and Command System"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The emergency management departments of people's governments at or above the county level and the relevant departments such as those for health, public security shall, within the scope of their respective duties, properly carry out the administration of emergency response and shall guide and assist people's governments at lower levels and their corresponding departments in properly carrying out the administration of the relevant emergencies."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Management and Command System"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Township-level people's governments and subdistrict offices shall designate dedicated working forces responsible for the relevant emergency response work.\nResidents' committees and villagers' committees shall, in accordance with law, assist people's governments and the relevant departments in emergency response work."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter II Management and Command System"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Citizens, legal persons and other organisations shall be obliged to participate in emergency response work."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter II Management and Command System"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The Chinese People's Liberation Army, the Chinese People's Armed Police Force and militia organisations shall, in accordance with the provisions of this Law and other relevant laws, administrative regulations and military regulations and the orders of the State Council and the Central Military Commission, participate in emergency rescue and handling work for emergencies."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter II Management and Command System"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Decisions, orders and measures relating to emergency response issued by people's governments at or above the county level and by the emergency command structures they establish shall be promptly submitted to the standing committee of the people's congress at the same level for the record; after the conclusion of emergency handling work, a special work report shall be made to the standing committee of the people's congress at the same level."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter II Management and Command System"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The State shall establish and improve the system of emergency response plans.\nThe State Council shall formulate the overall national emergency response plan and organise the formulation of special national emergency response plans; the relevant departments of the State Council shall, in accordance with their respective duties and the relevant emergency response plans of the State Council, formulate departmental emergency response plans for national emergencies and submit them to the State Council for the record.\nLocal people's governments at all levels and the relevant departments of local people's governments at or above the county level shall, in accordance with the relevant laws, regulations, rules, the emergency response plans of the people's governments at higher levels and their relevant departments, and the actual circumstances of their respective regions and departments, formulate corresponding emergency response plans and submit them for the record in accordance with the relevant provisions of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Prevention and Emergency Preparedness"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The emergency management departments of people's governments at or above the county level shall guide the development of the emergency response plan system, comprehensively coordinate the linkage of emergency response plans, and enhance the linkage and effectiveness of the relevant emergency response plans."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Prevention and Emergency Preparedness"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Emergency response plans shall, in accordance with the provisions of this Law and other relevant laws and regulations and in response to the nature, characteristics and possible social harm of emergencies, specify in detail matters such as the organisation, command system and duties for the administration of emergency response, the mechanisms for prevention and early warning of emergencies, handling procedures, emergency safeguard measures, and post-event recovery and reconstruction measures.\nThe organs formulating emergency response plans shall extensively solicit the opinions of the relevant departments, units, experts and all sectors of society, enhance the relevance and operability of the emergency response plans, and promptly revise the emergency response plans in light of actual needs, changes in circumstances and problems found in emergency drills.\nThe working procedures and administrative measures for the formulation, revision and recording of emergency response plans shall be prescribed by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Prevention and Emergency Preparedness"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "People's governments at or above the county level shall incorporate emergency response work into national economic and social development plans. The relevant departments of people's governments at or above the county level shall formulate plans for the development of the emergency response system."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Prevention and Emergency Preparedness"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Territorial spatial plans and other plans shall meet the needs of preventing and handling emergencies, make overall arrangements for the equipment and infrastructure necessary for emergency response work, reasonably determine sites for emergency shelter, closed isolation and emergency medical treatment, and achieve mutual conversion between ordinary use and emergency use."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Prevention and Emergency Preparedness"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The emergency management department of the State Council shall, together with the departments for health, natural resources, housing and urban-rural development and others, make overall arrangements for and guide the construction and management of emergency shelters throughout the country, and establish and improve the standards system for emergency shelters. Local people's governments at or above the county level shall be responsible for the planning, construction and management of emergency shelters within their respective administrative regions."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Prevention and Emergency Preparedness"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The State shall establish and improve a risk assessment system for emergencies, carry out comprehensive assessment of possible emergencies, adopt effective preventive measures in a targeted manner, reduce the occurrence of emergencies and minimise their impact."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III Prevention and Emergency Preparedness"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "County-level people's governments shall investigate, register and carry out risk assessment of sources of danger and danger areas within their respective administrative regions that are likely to cause natural disasters, accidental calamities and public health incidents, conduct periodic inspection and monitoring, and order the relevant units to adopt safety precautions.\nProvincial-level people's governments and the people's governments of cities with districts shall investigate, register and carry out risk assessment of sources of danger and danger areas within their respective administrative regions that are likely to cause especially major or major emergencies, organise inspection and monitoring, and order the relevant units to adopt safety precautions.\nLocal people's governments at or above the county level shall, in light of changes in circumstances, promptly adjust the registration of sources of danger and danger areas. Registered sources of danger and danger areas and their basic information shall be connected to the emergency information system in accordance with the relevant provisions of the State and promptly published to society."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter III Prevention and Emergency Preparedness"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "County-level people's governments and their relevant departments, township-level people's governments, subdistrict offices, residents' committees and villagers' committees shall promptly mediate and handle contradictions and disputes that may give rise to social safety incidents."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter III Prevention and Emergency Preparedness"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "All units shall establish and improve safety management systems, periodically carry out identification and assessment of sources of danger, and formulate safety precautions; periodically inspect the implementation of their various safety precautions and promptly eliminate hidden accident hazards; grasp and promptly handle problems existing in the unit that may give rise to social safety incidents, so as to prevent intensification of contradictions and expansion of the situation; and, in respect of emergencies that may occur in the unit and the adoption of safety precautions, promptly report to the local people's government or the relevant departments in accordance with provisions."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter III Prevention and Emergency Preparedness"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Units engaged in mining, metal smelting and construction, and units producing, selling, transporting, storing or using dangerous articles such as flammable and explosive articles, hazardous chemicals and radioactive articles, shall formulate specific emergency response plans, be equipped with the necessary emergency rescue equipment, devices and supplies, carry out hazard identification in respect of production and business premises, buildings and structures containing dangerous articles and the surrounding environment, and promptly adopt measures to control risks and eliminate hazards, so as to prevent the occurrence of emergencies."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter III Prevention and Emergency Preparedness"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Units operating or managing public means of transport, public places and other places where people congregate shall formulate specific emergency response plans, equip means of transport and the relevant places with alarm devices and the necessary emergency rescue equipment and facilities, indicate their methods of use, and conspicuously mark the passages and routes for safe evacuation, ensuring that safety passages and exits are unobstructed.\nThe relevant units shall periodically test and maintain their alarm devices and emergency rescue equipment and facilities so as to keep them in good condition and ensure normal use."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter III Prevention and Emergency Preparedness"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "People's governments at or above the county level shall establish and improve training systems for the administration of emergency response, and shall periodically train the staff members of people's governments and their relevant departments who have duties in the administration of emergency response, as well as the relevant personnel of residents' committees and villagers' committees."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter III Prevention and Emergency Preparedness"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "National comprehensive fire and rescue teams are the comprehensive standing backbone force for emergency rescue and carry out comprehensive emergency rescue tasks in accordance with the relevant provisions of the State. The relevant departments of people's governments at or above the county level may, in light of actual needs, establish specialised emergency rescue teams.\nPeople's governments at or above the county level and their relevant departments may establish emergency rescue teams composed of adult volunteers. Township-level people's governments, subdistrict offices and residents' committees and villagers' committees with the necessary conditions may establish community-level emergency rescue teams to carry out emergency rescue promptly and nearby. Units shall establish full-time or part-time emergency rescue teams composed of their own staff members.\nThe State encourages and supports social forces in establishing emergency rescue teams that provide socialised emergency rescue services. Emergency rescue teams established by social forces shall, in participating in emergency response work, submit to the unified command of the people's government that performs the duty of unified leadership or organises the handling of the emergency, and of the emergency command structure.\nPeople's governments at or above the county level shall promote joint training and joint drills between specialised emergency rescue teams and non-specialised emergency rescue teams, so as to enhance the capacity for composite and coordinated emergency response."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter III Prevention and Emergency Preparedness"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Local people's governments at all levels, the relevant departments of people's governments at or above the county level and the relevant units shall purchase personal accident insurance for the emergency rescue teams they establish and be equipped with the necessary protective gear and equipment, so as to prevent and reduce the risk of personal injury to emergency rescue personnel.\nSpecialised emergency rescue personnel shall possess the corresponding physical conditions, professional skills and psychological qualities, and shall obtain the occupational qualification for emergency rescue prescribed by the State; the specific measures shall be formulated by the emergency management department of the State Council together with the relevant departments of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter III Prevention and Emergency Preparedness"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "The Chinese People's Liberation Army, the Chinese People's Armed Police Force and militia organisations shall organise and carry out specialised training in emergency rescue in a planned manner."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter III Prevention and Emergency Preparedness"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "County-level people's governments and their relevant departments, township-level people's governments and subdistrict offices shall organise and carry out activities to disseminate emergency knowledge to the general public and the necessary emergency drills.\nResidents' committees, villagers' committees, enterprises, public institutions and social organisations shall, in accordance with the requirements of the local people's government and in light of their own actual circumstances, carry out activities to disseminate emergency knowledge to residents, villagers and employees and the necessary emergency drills."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter III Prevention and Emergency Preparedness"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Schools at all levels and of all types shall incorporate emergency education into their education and teaching plans, provide students and teaching and administrative staff with emergency knowledge education and emergency drills, cultivate safety awareness and enhance the capacity for self-rescue and mutual rescue.\nThe competent departments for education shall guide and supervise schools in carrying out emergency education, and departments such as emergency management shall provide support."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter III Prevention and Emergency Preparedness"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "People's governments at all levels shall incorporate the funds needed for emergency response work into their budgets at the corresponding level, strengthen fund management and improve the performance of fund use."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter III Prevention and Emergency Preparedness"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "In accordance with the principles of centralised management, unified allocation, service in peacetime, emergency response in disasters, combination of procurement and storage, and economy and efficiency, the State shall establish and improve the safeguard system for reserves of emergency supplies, dynamically update the catalogue of varieties of emergency supplies to be reserved, improve the system for supervision, production, procurement, storage, allocation and emergency distribution of important emergency supplies, promote the development of the safety and emergency industry and optimise the industrial layout.\nThe catalogue of varieties of State reserve supplies and the overall development plan shall be drawn up by the development and reform department of the State Council together with the relevant departments of the State Council. Departments such as emergency management of the State Council shall, in accordance with their duties, formulate plans and catalogues of varieties for the reserve of emergency supplies and organise their implementation. Plans for the reserve of emergency supplies shall be incorporated into the overall development plan for State reserves."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter III Prevention and Emergency Preparedness"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "People's governments at or above the level of cities with districts and the county-level people's governments of areas prone to and frequently affected by emergencies shall establish safeguard systems for the reserve of emergency rescue supplies, daily necessities and emergency handling equipment.\nLocal people's governments at or above the county level shall, in light of the actual circumstances of their respective regions and the needs of emergency response work, lawfully conclude agreements with enterprises that meet the conditions to ensure the production and supply of emergency rescue supplies, daily necessities and emergency handling equipment. The relevant enterprises shall, in accordance with the agreements and the requirements of the local people's governments at or above the county level, carry out the production and supply of emergency rescue supplies, daily necessities and emergency handling equipment, and ensure compliance with the State standards and requirements for product quality.\nThe State encourages citizens, legal persons and other organisations to reserve basic emergency self-rescue supplies and daily necessities. The relevant departments may publish to society guidelines and suggested lists for the reserve of the relevant supplies and articles."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter III Prevention and Emergency Preparedness"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "The State shall establish and improve the emergency transport safeguard system, make overall arrangements for means of transport and services such as railway, highway, water transport, civil aviation, postal services and express delivery, formulate emergency transport safeguard plans, and ensure the timely transport of emergency supplies, equipment and personnel.\nLocal people's governments at or above the county level and the relevant competent departments shall, in accordance with the national emergency transport safeguard plans and in light of local realities, make good emergency arrangements and ensure transport capacity, so as to ensure that transport corridors and passenger and freight hubs remain unobstructed.\nThe State shall give play to the positive role of social forces in emergency transport safeguards. Social forces participating in emergency transport safeguards for emergencies shall submit to the unified command of the emergency command structure."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter III Prevention and Emergency Preparedness"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "The State shall establish and improve the emergency energy safeguard system, enhance the capacity for energy security safeguards and ensure energy supply to areas affected by emergencies."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter III Prevention and Emergency Preparedness"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "The State shall establish and improve safeguard systems for emergency communications and emergency broadcasting, strengthen the construction of emergency communication systems and emergency broadcasting systems, and ensure the safety and unobstructed operation of communications and broadcasting in emergency response work."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter III Prevention and Emergency Preparedness"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "The State shall establish and improve the health emergency system for emergencies, organise and carry out health emergency work such as medical treatment, hygienic investigation and handling, and psychological assistance in emergencies, and effectively control and eliminate harm."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter III Prevention and Emergency Preparedness"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "People's governments at or above the county level shall strengthen the construction of the emergency medical service network, be equipped with the corresponding medical treatment supplies, facilities, equipment and personnel, and enhance the treatment capacity of medical and health institutions in responding to emergencies of all types."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter III Prevention and Emergency Preparedness"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "The State encourages citizens, legal persons and other organisations to provide material, financial and technical support and donations for emergency response work.\nUnits receiving donations shall promptly disclose the circumstances of the donations received and the use and management of the donated property, and shall accept social supervision."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter III Prevention and Emergency Preparedness"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "In emergencies, the Red Cross shall provide emergency rescue and humanitarian assistance to injured and sick persons and other victims, and shall assist people's governments in carrying out other humanitarian service activities related to its duties. The relevant people's governments shall give support and funding to the Red Cross and ensure its lawful participation in responding to emergencies.\nWhere charitable organisations carry out fundraising and relief activities when major emergencies occur, they shall do so in accordance with law under the overall coordination and orderly guidance of the relevant people's governments. The relevant people's governments shall support charitable organisations in participating in responding to emergencies and carrying out emergency charitable activities by providing the necessary demand information, government procurement of services and other means."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter III Prevention and Emergency Preparedness"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "The relevant units shall strengthen the management of emergency rescue funds and supplies and improve the efficiency of their use.\nNo unit or individual may withhold, misappropriate, privately divide or disguisedly privately divide emergency rescue funds and supplies."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter III Prevention and Emergency Preparedness"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "The State shall develop the insurance industry, establish a catastrophe risk insurance system supported by the government, participated in by social forces and operated on a market basis, and encourage units and individuals to take out insurance."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter III Prevention and Emergency Preparedness"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "The State shall strengthen research on the basic science of emergency management and on key core technologies in major industries and fields, strengthen the application of modern technical means such as the Internet, cloud computing, big data and artificial intelligence in emergency response work, encourage and support teaching and research institutions and enterprises with the necessary conditions in cultivating emergency management talent and scientific and technological talent and in researching, developing and disseminating new technologies, new materials, new equipment and new tools, so as to enhance the capacity to respond to emergencies."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter III Prevention and Emergency Preparedness"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "People's governments at or above the county level and their relevant departments shall establish and improve the system of expert consultation and demonstration for emergencies and give play to the role of professionals in emergency response work."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter III Prevention and Emergency Preparedness"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "The State shall establish and improve the monitoring system for emergencies.\nPeople's governments at or above the county level and their relevant departments shall, in light of the types and characteristics of natural disasters, accidental calamities and public health incidents, establish and improve basic information databases, improve monitoring networks, divide monitoring areas, determine monitoring points, specify monitoring items, provide the necessary equipment and facilities, and assign full-time or part-time personnel to monitor possible emergencies."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter IV Monitoring and Early Warning"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "The State Council shall establish a unified national emergency information system.\nLocal people's governments at or above the county level shall establish or designate a unified emergency information system for their respective regions to collect, store, analyse and transmit information relating to emergencies, and shall achieve interconnection with the emergency information systems of people's governments at higher levels and their relevant departments, people's governments at lower levels and their relevant departments, specialised institutions, monitoring points and key enterprises, and strengthen cross-departmental and cross-regional information sharing and intelligence cooperation."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter IV Monitoring and Early Warning"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "People's governments at or above the county level and their relevant departments and specialised institutions shall collect information on emergencies through multiple channels.\nCounty-level people's governments shall establish a system of full-time or part-time information reporters in residents' committees, villagers' committees and the relevant units.\nWhere a citizen, legal person or other organisation discovers the occurrence of an emergency, or discovers abnormal circumstances that may lead to an emergency, it shall immediately report to the local people's government, the relevant competent department or the designated specialised institution. The unit receiving the report shall immediately verify and handle it in accordance with provisions and, where the matter is not within its duties, shall immediately refer it to the relevant unit for verification and handling."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter IV Monitoring and Early Warning"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Local people's governments at all levels shall, in accordance with the relevant provisions of the State, submit information on emergencies to the people's governments at higher levels. The relevant competent departments of people's governments at or above the county level shall notify the relevant departments of the people's government at the same level of information on emergencies and report to the competent departments of the people's government at the higher level. Specialised institutions, monitoring points and information reporters shall promptly report information on emergencies to the local people's government and its relevant competent departments.\nThe relevant units and personnel submitting or reporting information on emergencies shall be timely, objective and truthful, may not delay, falsely report, conceal or omit reporting, may not instruct others to delay, falsely report or conceal reporting, and may not obstruct others from reporting."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter IV Monitoring and Early Warning"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Local people's governments at or above the county level shall promptly compile and analyse hidden hazards and monitoring information on emergencies and, when necessary, organise the relevant departments, professional and technical personnel, experts and scholars to conduct consultation, and assess the likelihood of an emergency occurring and the impact it may cause; where they consider that a major or especially major emergency may occur, they shall immediately report to the people's government at the higher level and notify the relevant departments of the people's government at the higher level, the local garrison and the people's governments of adjacent or related areas that may be harmed, and promptly adopt preventive measures."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter IV Monitoring and Early Warning"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "The State shall establish and improve the early warning system for emergencies.\nThe early warning levels for natural disasters, accidental calamities and public health incidents that can be warned of shall, in light of the degree of urgency of occurrence, the trend of development and the possible degree of harm, be classified into Level 1, Level 2, Level 3 and Level 4, marked respectively in red, orange, yellow and blue, with Level 1 being the highest level.\nThe standards for classifying early warning levels shall be formulated by the State Council or by departments designated by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter IV Monitoring and Early Warning"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Where a natural disaster, accidental calamity or public health incident that can be warned of is about to occur or the likelihood of its occurrence increases, the local people's government at or above the county level shall, in accordance with the limits of authority and procedures provided by the relevant laws and administrative regulations and by the State Council, issue an alarm of the corresponding level, decide and announce that the relevant area has entered the early warning period, and at the same time report to the people's government at the higher level, and may, when necessary, report by bypassing the immediate level; where conditions permit, it shall make direct online reports or automatic rapid reports; and at the same time it shall notify the local garrison and the people's governments of adjacent or related areas that may be harmed.\nThe issuance of an alarm shall specify the category and level of the early warning, the starting time, the scope of possible impact, the matters warned of, the measures to be taken, the issuing unit and the time of issuance."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter IV Monitoring and Early Warning"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "The State shall establish and improve platforms for releasing early warnings of emergencies and promptly and accurately release early warning information on emergencies to society in accordance with the relevant provisions.\nBroadcasting, television, newspapers and periodicals, as well as network service providers and telecommunications operators, shall, in accordance with the relevant provisions of the State, establish rapid release channels for early warning information on emergencies and promptly, accurately and free of charge broadcast or publish early warning information on emergencies.\nPublic places and other places where people congregate shall designate dedicated personnel responsible for receiving and disseminating early warning information on emergencies, maintain the relevant equipment and facilities, and ensure that early warning information on emergencies is received and disseminated promptly and accurately."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter IV Monitoring and Early Warning"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "After a Level 3 or Level 4 alarm is issued and the entry into the early warning period is announced, the local people's government at or above the county level shall, in light of the characteristics of the imminent emergency and the possible harm, take the following measures:\n(a) activate the emergency response plan;\n(b) order the relevant departments, specialised institutions, monitoring points and personnel with specific duties to promptly collect and report the relevant information, publish to society the channels for reflecting information on emergencies, and strengthen monitoring, forecasting and early warning of the occurrence and development of emergencies;\n(c) organise the relevant departments and institutions, professional and technical personnel, and relevant experts and scholars to analyse and assess information on emergencies at any time, and predict the likelihood, scope and intensity of impact of the occurrence of emergencies, as well as the level of possible emergencies;\n(d) periodically publish to society forecast information and analysis and assessment results relating to emergencies that concern the public, and manage the reporting of the relevant information;\n(e) promptly publish to society, in accordance with the relevant provisions, warnings of possible harm from emergencies, disseminate common knowledge on avoiding and mitigating harm, and publish consultation or assistance telephone numbers and other contact methods and channels."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter IV Monitoring and Early Warning"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "After a Level 1 or Level 2 alarm is issued and the entry into the early warning period is announced, the local people's government at or above the county level shall, in addition to taking the measures provided in Article 66 of this Law, also take one or more of the following measures in response to the characteristics of the imminent emergency and the possible harm:\n(a) order emergency rescue teams and personnel with specific duties to enter a state of readiness, and mobilise reserve personnel to prepare for participation in emergency rescue and handling work;\n(b) assemble the supplies, equipment and tools needed for emergency rescue, prepare emergency facilities and sites for emergency shelter, closed isolation and emergency medical treatment, and ensure that they are in good condition and ready for normal use at any time;\n(c) strengthen security protection of key units, important locations and important infrastructure and maintain public security order;\n(d) take the necessary measures to ensure the safety and normal operation of public facilities such as transport, communications, water supply, drainage, power supply, gas supply, heating, medical and health services, broadcasting and television, and meteorological services;\n(e) promptly publish to society suggestions and advice on the adoption of specific measures to avoid or mitigate harm;\n(f) transfer, evacuate or move out persons vulnerable to harm from emergencies and properly resettle them, and transfer important property;\n(g) close or restrict the use of sites vulnerable to harm from emergencies, and control or restrict activities in public places that are likely to lead to an expansion of harm;\n(h) other necessary preventive and protective measures provided by laws, regulations and rules."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter IV Monitoring and Early Warning"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "After an alarm is issued and the entry into the early warning period is announced, people's governments at or above the county level shall strengthen monitoring of the market conditions of important commodities and services and, in light of actual needs, promptly ensure supply and stabilise the market. When necessary, the State Council and the people's governments of provinces, autonomous regions and municipalities directly under the Central Government may take corresponding measures in accordance with the provisions of the Price Law of the People's Republic of China and other relevant laws."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter IV Monitoring and Early Warning"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "In respect of an imminent or already occurring social safety incident, the local people's government at or above the county level and its relevant competent departments shall report to the people's government at the higher level and its relevant competent departments in accordance with provisions, and may, when necessary, report by bypassing the immediate level, and shall, where conditions permit, make direct online reports or automatic rapid reports."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter IV Monitoring and Early Warning"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "The people's government that issued the alarm for an emergency shall, in light of the development of the situation, promptly adjust the early warning level in accordance with the relevant provisions and reissue it.\nWhere facts prove that an emergency cannot occur or that the danger has been removed, the people's government that issued the alarm shall immediately announce the lifting of the alarm, terminate the early warning period and lift the relevant measures already taken."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter IV Monitoring and Early Warning"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "The State shall establish and improve the emergency response system for emergencies.\nThe emergency response levels for emergencies shall, in light of factors such as the nature and characteristics of the emergency, the possible degree of harm and the scope of impact, be classified into Level 1, Level 2, Level 3 and Level 4, with Level 1 being the highest level.\nThe standards for classifying emergency response levels for emergencies shall be formulated by the State Council or by departments designated by the State Council. People's governments at or above the county level and their relevant departments shall determine the emergency response levels in their emergency response plans."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter V Emergency Handling and Rescue"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "After an emergency occurs, the people's government that performs the duty of unified leadership or organises the handling of the emergency shall, in response to its nature, characteristics, degree of harm and scope of impact, immediately activate the emergency response, organise the relevant departments, mobilise emergency rescue teams and social forces, take emergency handling measures in accordance with the provisions of laws, regulations, rules and emergency response plans, and report to the people's government at the higher level; when necessary, it may establish an on-site command post responsible for on-site emergency handling and rescue and exercising unified command over units and individuals entering the scene of the emergency.\nThe activation of an emergency response shall specify the matters responded to, the level, the expected duration and the emergency handling measures.\nThe people's government that performs the duty of unified leadership or organises the handling of the emergency shall establish a coordination mechanism, provide demand information, and guide volunteer service organisations, volunteers and other social forces to participate in emergency handling and rescue work promptly and in an orderly manner."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter V Emergency Handling and Rescue"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "After a natural disaster, accidental calamity or public health incident occurs, the people's government that performs the duty of unified leadership shall take one or more of the following emergency handling measures:\n(a) organise the rescue and treatment of victims, transfer, evacuate or move out and properly resettle persons under threat, and take other relief measures;\n(b) promptly control sources of danger, mark danger areas, seal off dangerous sites, delimit security zones, and implement traffic control, restriction of the movement of persons, closed management and other control measures;\n(c) promptly carry out emergency repair of damaged public facilities such as transport, communications, water supply, drainage, power supply, gas supply, heating, medical and health services, broadcasting and television, and meteorological services, provide shelters and daily necessities to persons harmed, and implement medical rescue, health and epidemic prevention and other safeguard measures;\n(d) prohibit or restrict the use of the relevant equipment and facilities, close or restrict the use of the relevant sites, suspend activities in which people congregate or production and business activities that may lead to an expansion of harm, and take other protective measures;\n(e) activate the fiscal reserve funds and reserved emergency rescue supplies established by the people's government at the corresponding level and, when necessary, allocate other urgently needed supplies, equipment, facilities and tools;\n(f) organise citizens, legal persons and other organisations to participate in emergency rescue and handling work and require persons with specific expertise to provide services;\n(g) ensure the supply of basic daily necessities such as food, drinking water, medicines and fuel;\n(h) severely punish in accordance with law acts disrupting market order such as hoarding and profiteering, driving up prices, seeking exorbitant profits, and producing and selling counterfeit or inferior goods, so as to maintain market order;\n(i) severely punish in accordance with law acts disrupting social order such as looting property and interfering with or sabotaging emergency handling work, so as to maintain public security;\n(j) carry out emergency monitoring of the ecological environment, protect environmentally sensitive targets such as centralised drinking water sources, and control and handle pollutants;\n(k) take the necessary measures to prevent secondary and derivative incidents."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter V Emergency Handling and Rescue"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "After a social safety incident occurs, the people's government organising the handling work shall immediately activate the emergency response, and shall organise the relevant departments to take, in response to the nature and characteristics of the incident and in accordance with the relevant laws, administrative regulations and other relevant provisions of the State, one or more of the following emergency handling measures:\n(a) compulsorily isolate the parties who use instruments to confront each other or who participate in a conflict by violent acts, properly resolve on-site disputes and conflicts, and control the development of the situation;\n(b) exercise control over buildings, means of transport, equipment and facilities and the supply of fuel, gas, electricity and water within a specific area;\n(c) seal off the relevant sites and roads, check the identity documents of persons at the scene, and restrict activities in the relevant public places;\n(d) strengthen guarding of core organs and units vulnerable to attack, and set up temporary security lines in the vicinity of State organs, military organs, the State news agency, radio stations, television stations, foreign embassies and consulates in China and other units;\n(e) other necessary measures provided by laws, administrative regulations and the State Council."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter V Emergency Handling and Rescue"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "Where the occurrence of an emergency seriously affects the normal operation of the national economy, the State Council or the relevant competent departments authorised by the State Council may take the necessary emergency measures such as safeguards and controls to ensure the basic living needs of the people and minimise the impact of the emergency."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter V Emergency Handling and Rescue"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "The people's government that performs the duty of unified leadership or organises the handling of an emergency and its relevant departments may, when necessary, requisition from units and individuals equipment, facilities, sites, means of transport and other supplies needed for emergency rescue, request other local people's governments and their relevant departments to provide manpower, material and financial resources or technical support, require enterprises producing and supplying daily necessities and emergency rescue supplies to organise production and ensure supply, and require organisations providing public services such as medical treatment and transport to provide the corresponding services.\nThe people's government that performs the duty of unified leadership or organises the handling of an emergency and the relevant competent departments shall organise and coordinate transport operators to give priority to transporting the supplies, equipment, tools and emergency rescue personnel needed for handling the emergency and the persons harmed by the emergency.\nThe people's government that performs the duty of unified leadership or organises the handling of an emergency and its relevant departments shall provide prompt and effective assistance to persons without capacity for civil conduct and persons with limited capacity for civil conduct affected by the emergency who are left unattended; and shall establish and improve the system of liaison and support for the families of emergency rescue personnel to help resolve practical difficulties."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter V Emergency Handling and Rescue"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "Residents' committees, villagers' committees and other organisations in the place where an emergency occurs shall, in accordance with the decisions and orders of the local people's government, carry out publicity and mobilisation, organise the masses to carry out self-rescue and mutual rescue, and assist in maintaining social order; in an emergency, they shall immediately organise the masses to carry out preliminary handling work such as self-rescue and mutual rescue."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter V Emergency Handling and Rescue"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "A unit harmed by a natural disaster or in which an accidental calamity or public health incident occurs shall immediately organise its own emergency rescue team and staff members to rescue victims, evacuate, move out and resettle persons under threat, control sources of danger, mark danger areas, seal off dangerous sites, and take other necessary measures to prevent an expansion of harm, and at the same time report to the local county-level people's government; in respect of a social safety incident caused by a problem of the unit or involving persons of the unit as the main body, the relevant unit shall report the circumstances in accordance with provisions and promptly dispatch persons in charge to the scene to carry out persuasion and guidance.\nOther units in the place where an emergency occurs shall obey the decisions and orders issued by the people's government, cooperate with the emergency handling measures taken by the people's government, do well in their own emergency rescue work, and actively organise personnel to participate in the emergency rescue and handling work of the place where they are located."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Chapter V Emergency Handling and Rescue"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "Individuals in the place where an emergency occurs shall, in accordance with law, obey the command and arrangements of the people's government, residents' committees, villagers' committees or the unit to which they belong, cooperate with the emergency handling measures taken by the people's government, actively participate in emergency rescue work and assist in maintaining social order."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Chapter V Emergency Handling and Rescue"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "The State supports urban and rural community organisations in improving emergency working mechanisms, strengthening the emergency functions of comprehensive service facilities and information platforms in urban and rural communities, strengthening data sharing with the emergency information system, and enhancing the capacity to ensure the basic livelihood of the masses and serve the masses in emergency handling."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Chapter V Emergency Handling and Rescue"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "The State shall take measures to strengthen the development of the mental health service system and the workforce, and support and guide mental health service personnel and social workers in carrying out psychological assistance work such as mental health education, psychological assessment, psychological counselling, psychological crisis intervention and diagnosis and treatment of psychological and behavioural problems for all groups of people affected by emergencies."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Chapter V Emergency Handling and Rescue"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "The remains of persons who die in emergencies shall be handled in a scientific and standardised manner in accordance with laws and the relevant provisions of the State, health and epidemic prevention shall be strengthened, and the dignity of the deceased shall be safeguarded. The personal effects of the deceased shall be properly kept."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Chapter V Emergency Handling and Rescue"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "People's governments at or above the county level and their relevant departments may, in light of the needs of emergency response work and within the scope and limits necessary for performing their statutory duties, require citizens, legal persons and other organisations to provide the information needed for emergency handling and rescue. Citizens, legal persons and other organisations shall provide it, except as otherwise provided by law. People's governments at or above the county level and their relevant departments shall strictly keep confidential the relevant information obtained and shall protect citizens' freedom and confidentiality of correspondence in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Chapter V Emergency Handling and Rescue"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "In emergency handling, where the relevant units and individuals need to obtain the personal information of others because they cooperate with emergency response work or perform the relevant obligations in accordance with the provisions of this Law, they shall obtain it in accordance with the procedures and methods provided by law and ensure information security, and may not unlawfully collect, use, process or transmit the personal information of others, or unlawfully buy, sell, provide or disclose the personal information of others."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Chapter V Emergency Handling and Rescue"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "Personal information obtained through the lawful performance of duties or obligations in emergency response work may only be used for emergency response and shall be destroyed after the conclusion of emergency response work. Where it is genuinely necessary to retain or delay destruction for use as evidence in accordance with law or for investigation and assessment, an assessment of legality, necessity and security shall be carried out in accordance with provisions, corresponding protection and handling measures shall be taken, and it shall be used strictly in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        },
+        "chapter": {
+          "en": "Chapter V Emergency Handling and Rescue"
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "After the threat and harm of an emergency are controlled or eliminated, the people's government that performs the duty of unified leadership or organises the handling of the emergency shall announce the termination of the emergency response, stop implementing the emergency handling measures taken in accordance with the provisions of this Law, and at the same time take or continue to implement the necessary measures to prevent secondary or derivative incidents of natural disasters, accidental calamities and public health incidents or the renewed occurrence of social safety incidents, and organise the affected areas to restore social order as soon as possible."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        },
+        "chapter": {
+          "en": "Chapter VI Post-event Recovery and Reconstruction"
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "After the conclusion of emergency handling work, the people's government that performs the duty of unified leadership shall immediately organise an investigation and assessment of the impact and losses caused by the emergency, formulate a recovery and reconstruction plan and report to the people's government at the higher level.\nThe people's government of the area affected by an emergency shall promptly organise and coordinate the relevant departments such as those for emergency management, health, public security, transport, railway, civil aviation, postal services, telecommunications, construction, ecological environment, water resources, energy and broadcasting and television to restore social order and repair as soon as possible the damaged public facilities such as those for transport, communications, water supply, drainage, power supply, gas supply, heating, medical and health services, water conservancy, and broadcasting and television."
+        },
+        "noLabel": {
+          "en": "Article 87."
+        },
+        "chapter": {
+          "en": "Chapter VI Post-event Recovery and Reconstruction"
+        }
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "Where the people's government of an area affected by an emergency needs the support of the people's government at the higher level for recovery and reconstruction work, it may make a request to the people's government at the higher level. The people's government at the higher level shall, in light of the losses suffered by the affected area and the actual circumstances, provide financial and material support and technical guidance, and organise and coordinate other areas and the relevant sectors to provide financial, material and manpower support."
+        },
+        "noLabel": {
+          "en": "Article 88."
+        },
+        "chapter": {
+          "en": "Chapter VI Post-event Recovery and Reconstruction"
+        }
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "The State Council shall, in light of the losses suffered by areas affected by emergencies, formulate preferential policies to support the development of the relevant industries in those areas.\nThe people's government of an area affected by an emergency shall, in light of the losses suffered by its region and the emergency handling measures taken, formulate and organise the implementation of aftercare work plans such as relief, compensation, consolation, pensions and resettlement, and properly resolve contradictions and disputes arising from the handling of the emergency."
+        },
+        "noLabel": {
+          "en": "Article 89."
+        },
+        "chapter": {
+          "en": "Chapter VI Post-event Recovery and Reconstruction"
+        }
+      },
+      {
+        "no": 90,
+        "text": {
+          "en": "During the period in which a citizen participates in emergency rescue work or assists in maintaining social order, the unit to which the citizen belongs shall ensure that his or her wages, benefits and welfare remain unchanged, and may give the corresponding subsidies in accordance with provisions."
+        },
+        "noLabel": {
+          "en": "Article 90."
+        },
+        "chapter": {
+          "en": "Chapter VI Post-event Recovery and Reconstruction"
+        }
+      },
+      {
+        "no": 91,
+        "text": {
+          "en": "People's governments at or above the county level shall, in accordance with law, implement work-related injury benefits, pensions or other safeguard policies for persons who are injured or die in emergency rescue work, and shall organise and do well in the medical treatment of persons who fall ill in emergency rescue work."
+        },
+        "noLabel": {
+          "en": "Article 91."
+        },
+        "chapter": {
+          "en": "Chapter VI Post-event Recovery and Reconstruction"
+        }
+      },
+      {
+        "no": 92,
+        "text": {
+          "en": "After the conclusion of emergency response work, the people's government that performs the duty of unified leadership shall promptly ascertain the course and causes of the emergency, summarise the experience and lessons of emergency handling work, formulate improvement measures and submit a report to the people's government at the higher level."
+        },
+        "noLabel": {
+          "en": "Article 92."
+        },
+        "chapter": {
+          "en": "Chapter VI Post-event Recovery and Reconstruction"
+        }
+      },
+      {
+        "no": 93,
+        "text": {
+          "en": "The raising, management, distribution, allocation and use of the relevant funds and supplies in emergency response work shall be subject to audit supervision by audit institutions in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 93."
+        },
+        "chapter": {
+          "en": "Chapter VI Post-event Recovery and Reconstruction"
+        }
+      },
+      {
+        "no": 94,
+        "text": {
+          "en": "The competent department for archives of the State shall establish and improve working mechanisms for the collection, arrangement, protection and use of archives relating to emergency response work. Materials formed in emergency response work shall be placed on file in accordance with the provisions of the State and transferred to the relevant archives repositories."
+        },
+        "noLabel": {
+          "en": "Article 94."
+        },
+        "chapter": {
+          "en": "Chapter VI Post-event Recovery and Reconstruction"
+        }
+      },
+      {
+        "no": 95,
+        "text": {
+          "en": "Where local people's governments at all levels or the relevant departments of people's governments at or above the county level violate the provisions of this Law and fail to perform or incorrectly perform their statutory duties, the administrative organ at the higher level shall order correction; under any of the following circumstances, the relevant organ shall, taking comprehensive account of factors such as the causes and consequences of the emergency, the circumstances of the response and handling, and the fault of the person committing the act, impose sanctions in accordance with law on the leading personnel and the persons directly responsible:\n(a) failing to take preventive measures in accordance with provisions, resulting in the occurrence of an emergency, or failing to take the necessary precautions, resulting in secondary or derivative incidents;\n(b) delaying, falsely reporting, concealing or omitting to report, or instructing others to delay, falsely report or conceal the reporting of, information on the emergency, or obstructing others from reporting, or notifying, submitting or publishing false information, thereby causing consequences;\n(c) failing to promptly issue an alarm for the emergency or take measures during the early warning period in accordance with provisions, resulting in damage;\n(d) failing to promptly take measures to handle the emergency in accordance with provisions or handling it improperly, thereby causing consequences;\n(e) taking response measures in violation of the provisions of law, infringing upon citizens' rights and interests in life and health;\n(f) failing to obey the unified leadership, command and coordination of the people's government at the higher level in emergency handling work;\n(g) failing to promptly organise and carry out aftercare work such as production self-rescue and recovery and reconstruction;\n(h) withholding, misappropriating, privately dividing or disguisedly privately dividing emergency rescue funds and supplies;\n(i) failing to promptly return requisitioned property of units and individuals, or failing to give compensation in accordance with provisions to units and individuals whose property has been requisitioned."
+        },
+        "noLabel": {
+          "en": "Article 95."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 96,
+        "text": {
+          "en": "Where a relevant unit falls under any of the following circumstances, the relevant department of the people's government of the place where it is located that performs the duty of unified leadership shall order it to suspend production or business, temporarily withhold or revoke its licence certificate, and concurrently impose a fine of not less than 50,000 yuan but not more than 200,000 yuan; where the circumstances are especially serious, concurrently impose a fine of not less than 200,000 yuan but not more than 1 million yuan:\n(a) failing to take preventive measures in accordance with provisions, resulting in the occurrence of a relatively major or higher level emergency;\n(b) failing to promptly eliminate discovered hidden hazards that may lead to an emergency, resulting in the occurrence of a relatively major or higher level emergency;\n(c) failing to do well in the reserve of emergency supplies and the daily maintenance and testing of emergency equipment and facilities, resulting in the occurrence of a relatively major or higher level emergency or an expansion of the harm of an emergency;\n(d) failing, after an emergency occurs, to promptly organise and carry out emergency rescue work, thereby causing serious consequences.\nWhere other laws provide penalties for the acts referred to in the preceding paragraph, the heavier provisions shall apply."
+        },
+        "noLabel": {
+          "en": "Article 96."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 97,
+        "text": {
+          "en": "Where a person violates the provisions of this Law by fabricating and disseminating false information relating to an emergency, or by disseminating false information relating to an emergency while knowing it to be false, the person shall be ordered to correct and given a warning; where serious consequences are caused, the person's business activities shall be suspended or its licence certificate revoked in accordance with law; where the person directly responsible is a public official, a sanction shall also be imposed in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 97."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 98,
+        "text": {
+          "en": "Where a unit or individual violates the provisions of this Law by failing to obey the decisions and orders lawfully issued by the local people's government and its relevant departments, or by failing to cooperate with the measures lawfully taken by them, the unit or individual shall be ordered to correct; where serious consequences are caused, an administrative penalty shall be imposed in accordance with law; where the person directly responsible is a public official, a sanction shall also be imposed in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 98."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 99,
+        "text": {
+          "en": "Where a unit or individual violates the provisions of Article 84 or Article 85 of this Law on the protection of personal information, the competent department shall impose a penalty in accordance with the provisions of the relevant laws."
+        },
+        "noLabel": {
+          "en": "Article 99."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 100,
+        "text": {
+          "en": "Where a unit or individual violates the provisions of this Law, resulting in the occurrence of an emergency or an expansion of harm, and causing personal, property or other damage, it shall bear civil liability in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 100."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 101,
+        "text": {
+          "en": "Where measures are taken to avoid danger in order to protect the person or property of oneself or another person from an occurring danger, the matter shall be handled in accordance with the provisions of the Civil Code of the People's Republic of China, the Criminal Law of the People's Republic of China and other laws on necessity."
+        },
+        "noLabel": {
+          "en": "Article 101."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 102,
+        "text": {
+          "en": "Where a violation of the provisions of this Law constitutes an act violating public security administration, a public security administration penalty shall be imposed in accordance with law; where a crime is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 102."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 103,
+        "text": {
+          "en": "Where an especially major emergency occurs that poses a major threat to the safety of people's lives and property, national security, public security, ecological and environmental security or social order, and the emergency handling measures provided by this Law and other relevant laws, regulations and rules cannot eliminate or effectively control or mitigate its serious social harm, and a state of emergency needs to be entered, the decision shall be made by the Standing Committee of the National People's Congress or the State Council in accordance with the limits of authority and procedures provided by the Constitution and other relevant laws.\nExtraordinary measures taken during a state of emergency shall be implemented in accordance with the provisions of the relevant laws or shall be separately prescribed by the Standing Committee of the National People's Congress."
+        },
+        "noLabel": {
+          "en": "Article 103."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 104,
+        "text": {
+          "en": "Where an emergency occurs outside the territory of the People's Republic of China and causes or may cause personal injury or death or property loss to citizens, legal persons and other organisations of the People's Republic of China, the foreign affairs department of the State Council shall, together with the other relevant departments of the State Council and the relevant local people's governments, do well in the response work in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 104."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 105,
+        "text": {
+          "en": "Foreigners and stateless persons within the territory of the People's Republic of China shall comply with this Law, obey the decisions and orders lawfully issued by the local people's government and its relevant departments, and cooperate with the measures lawfully taken by them."
+        },
+        "noLabel": {
+          "en": "Article 105."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 106,
+        "text": {
+          "en": "This Law shall come into force on 1 November 2024."
+        },
+        "noLabel": {
+          "en": "Article 106."
         },
         "chapter": {
           "en": "Chapter VIII Supplementary Provisions"
@@ -27456,6 +31107,1167 @@
         },
         "chapter": {
           "en": "Chapter VII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0280'] = {
+    "lawId": "CN-LAW-0280",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 101 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is enacted in accordance with the Constitution in order to strengthen the protection of cultural relics, carry forward the fine historical and cultural heritage of the Chinese nation, promote scientific research, conduct education in patriotism and revolutionary tradition, enhance historical awareness, strengthen cultural confidence, and build socialist spiritual and material civilisation."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Cultural relics are protected by the State. Cultural relics as referred to in this Law mean the following physical remains created by humankind or connected with human activity that possess historical, artistic and scientific value:\n(a) ancient cultural sites, ancient tombs, ancient buildings, cave temples, and ancient stone carvings and ancient murals;\n(b) important modern and contemporary historical sites, physical objects and representative buildings that are connected with major historical events, revolutionary movements or famous persons, or that are of important commemorative or educational significance or have the value of historical materials;\n(c) precious works of art and arts and crafts of various historical periods;\n(d) important documentary materials, manuscripts, books and other materials of various historical periods;\n(e) representative physical objects reflecting the social systems, social production and social life of various historical periods and of all ethnic groups.\nThe subjects, standards and procedures for the identification of cultural relics shall be prescribed and published by the State Council.\nAncient vertebrate fossils and ancient human fossils of scientific value shall be protected by the State in the same way as cultural relics."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Cultural relics are divided into immovable cultural relics and movable cultural relics.\nImmovable cultural relics such as ancient cultural sites, ancient tombs, ancient buildings, cave temples, ancient stone carvings, ancient murals, important modern and contemporary historical sites and representative buildings are divided into cultural relics protection units and immovable cultural relics that have not been verified and published as cultural relics protection units (hereinafter referred to as unclassified immovable cultural relics); cultural relics protection units are divided into major cultural relics protection units protected at the national level, cultural relics protection units protected at the provincial level, and cultural relics protection units protected at the level of a municipality with districts or at the county level.\nMovable cultural relics such as important physical objects, works of art, arts and crafts, documentary materials, manuscripts, books and materials, and representative physical objects of various historical periods are divided into precious cultural relics and ordinary cultural relics; precious cultural relics are divided into Grade 1 cultural relics, Grade 2 cultural relics and Grade 3 cultural relics."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Work on cultural relics shall uphold the leadership of the Communist Party of China, take the core socialist values as the guide, and implement the policy of protection as the main task, rescue as the first priority, rational utilisation and strengthened management."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "All cultural relics remaining underground, in inland waters and in the territorial sea within the territory of the People's Republic of China, and cultural relics of Chinese origin and cultural relics of unknown origin remaining in other sea areas under the jurisdiction of China, belong to the State.\nAncient cultural sites, ancient tombs and cave temples belong to the State. Immovable cultural relics such as commemorative buildings, ancient buildings, ancient stone carvings, ancient murals and representative modern and contemporary buildings designated by the State for protection belong to the State, unless otherwise provided by the State.\nThe ownership of State-owned immovable cultural relics shall not be changed by a change in the ownership or the right to use the land to which they are attached."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The following movable cultural relics belong to the State:\n(a) cultural relics unearthed or recovered from underground, inland waters and the territorial sea within the territory of China and from other sea areas under the jurisdiction of China, unless otherwise provided by the State;\n(b) cultural relics collected and kept by State-owned cultural relics collection entities and by other State organs, the armed forces, State-owned enterprises and public institutions;\n(c) cultural relics solicited or purchased by the State or confiscated in accordance with law;\n(d) cultural relics donated to the State by citizens or organisations;\n(e) other cultural relics that belong to the State as provided by law.\nThe ownership of State-owned movable cultural relics shall not be changed by the termination or change of the entity that collects or keeps them."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The ownership of State-owned cultural relics is protected by law and shall not be infringed.\nThe ownership of commemorative buildings, ancient buildings, inherited cultural relics and other cultural relics lawfully acquired that belong to collectives or private persons is protected by law. Owners of cultural relics must comply with the provisions of the State laws and regulations on the protection of cultural relics."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "All State organs, organisations and individuals have the obligation to protect cultural relics in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The cultural relics administrative department under the State Council shall be in charge of the protection of cultural relics throughout the country.\nLocal people's governments at all levels shall be responsible for the protection of cultural relics within their respective administrative regions. The cultural relics administrative departments of local people's governments at or above the county level shall exercise supervision and administration over the protection of cultural relics within their respective administrative regions.\nThe relevant departments of people's governments at or above the county level shall, within the scope of their respective duties, be responsible for the protection of cultural relics relating to their functions."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The State develops undertakings for the protection of cultural relics and implements the work requirements of protection first, strengthened management, exploration of value, effective utilisation and bringing cultural relics to life."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Cultural relics are non-renewable cultural resources. People's governments at all levels shall attach importance to the protection of cultural relics, correctly handle the relationship between economic construction, social development and the protection of cultural relics, and ensure the safety of cultural relics.\nCapital construction and tourism development must give first place to the protection of cultural relics, strictly implement the provisions on the protection and safety management of cultural relics, and prevent destructive construction and excessive commercialisation."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "With respect to cultural relics relating to major events, important meetings and important persons in the various historical periods of the Communist Party of China and to the great founding spirit of the Party, people's governments at all levels shall take measures to strengthen protection."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "People's governments at or above the county level shall incorporate undertakings for the protection of cultural relics into the national economic and social development plan at the corresponding level and include the required funds in the budget at the corresponding level, so as to ensure that the development of undertakings for the protection of cultural relics is commensurate with the level of national economic and social development.\nThe institutional revenue of State-owned museums, memorial halls, cultural relics protection units and the like shall be incorporated into budget management and used for undertakings for the protection of cultural relics; no unit or individual may misappropriate or divert it.\nThe State encourages the establishment of social funds for the protection of cultural relics through donations and other means, to be used exclusively for the protection of cultural relics; no unit or individual may misappropriate or divert them."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "People's governments at or above the county level and their cultural relics administrative departments shall strengthen general surveys and special investigations of cultural relics and obtain a comprehensive understanding of cultural relics resources and their protection.\nThe cultural relics administrative departments of people's governments at or above the county level shall strengthen the dynamic management of State-owned cultural relics resources and assets, and shall, in accordance with the relevant provisions of the State, promptly submit reports on the management of State-owned cultural relics resources and assets."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The State supports and regulates the exploration and interpretation of the value of cultural relics, promotes research on the origin and development of Chinese civilisation, carries forward the fine traditional Chinese culture, promotes revolutionary culture, develops advanced socialist culture, forges a strong sense of community for the Chinese nation and enhances the influence of Chinese culture."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The State strengthens publicity and education on the protection of cultural relics, innovates dissemination methods, enhances the awareness of the whole people concerning the protection of cultural relics and creates a social atmosphere in which the fine historical and cultural heritage of the Chinese nation is consciously carried forward.\nThe news media shall carry out publicity and reporting on the laws and regulations on the protection of cultural relics and on knowledge of the protection of cultural relics, and shall, in accordance with law, exercise public opinion supervision over acts endangering the safety of cultural relics and destroying cultural relics.\nMuseums, memorial halls, cultural relics repositories, archaeological site parks and other relevant units shall, in connection with the content of visits and tours, carry out targeted publicity and education activities on the protection of cultural relics."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The State encourages scientific research on the protection of cultural relics, popularises advanced and applicable technologies for the protection of cultural relics and raises the scientific and technological level of cultural relics protection.\nThe State strengthens the development of informatisation for the protection of cultural relics, encourages digital work on the protection of cultural relics, and advances the digital collection, display and utilisation of cultural relics resources.\nThe State intensifies efforts to train professional personnel for the protection of cultural relics such as archaeology, restoration and repair, and improves the mechanisms for training, employing, evaluating and incentivising such personnel."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The State encourages research on the utilisation of cultural relics and, on the premise of ensuring the safety of cultural relics, adheres to giving priority to social benefits, effectively utilises cultural relics resources and provides diversified and multi-level cultural products and services."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The State improves the mechanism for social participation, arouses the enthusiasm of social forces for participation in the protection of cultural heritage, and encourages and guides social forces to invest in the protection of cultural heritage."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The State supports international exchange and cooperation in the protection of cultural relics, including archaeology, restoration, repair, exhibition, scientific research, law enforcement and the administration of justice, and promotes exchanges and mutual learning among human civilisations."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The cultural relics administrative departments or the relevant departments of people's governments at or above the county level shall make public information such as the channels for complaints and reports, and shall promptly accept and handle complaints and reports relating to the protection of cultural relics."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Units or individuals with any of the following achievements shall be commended and rewarded in accordance with the relevant provisions of the State:\n(a) conscientiously implementing the laws and regulations on the protection of cultural relics and achieving outstanding results in protecting cultural relics;\n(b) resolutely struggling against illegal and criminal acts in order to protect cultural relics;\n(c) donating important cultural relics in their collection to the State or making donations to undertakings for the protection of cultural relics;\n(d) reporting or handing over cultural relics promptly upon discovery, so that the cultural relics are protected;\n(e) making major contributions in archaeological excavation, in the exploration and interpretation of the value of cultural relics and in other work;\n(f) making important inventions or creations or other important contributions in the science and technology of cultural relics protection;\n(g) rendering meritorious service in rescuing cultural relics when they are in danger of being destroyed;\n(h) engaging in work on cultural relics for a long time and achieving outstanding results;\n(i) organising or participating in volunteer services for the protection of cultural relics and achieving outstanding results;\n(j) making major contributions in international exchange and cooperation for the protection of cultural relics."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Immovable cultural relics discovered in general surveys, special investigations or other related work shall promptly be verified and published as cultural relics protection units or registered and published as unclassified immovable cultural relics. Citizens and organisations may put forward proposals for the verification and publication of cultural relics protection units or for the registration and publication of unclassified immovable cultural relics.\nThe cultural relics administrative department under the State Council shall, from among the cultural relics protection units at the provincial level and at the level of a municipality with districts or at the county level, select those of major historical, artistic and scientific value and determine them as major cultural relics protection units protected at the national level, or determine them directly as such, and submit them to the State Council for verification and publication.\nCultural relics protection units at the provincial level shall be verified and published by the people's governments of provinces, autonomous regions and municipalities directly under the Central Government and reported to the State Council for the record.\nCultural relics protection units at the level of a municipality with districts and at the county level shall be verified and published respectively by the people's governments of municipalities with districts or autonomous prefectures and by the county-level people's governments, and reported to the people's governments of provinces, autonomous regions and municipalities directly under the Central Government for the record.\nUnclassified immovable cultural relics shall be registered by the cultural relics administrative department of the county-level people's government, reported to the people's government at the corresponding level and to the cultural relics administrative department of the people's government at the next higher level for the record, and made public."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter II Immovable Cultural Relics"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "In the course of the redevelopment of old urban areas and the development of land in tracts, people's governments at or above the county level shall organise in advance investigations of the immovable cultural relics in the areas concerned, promptly carry out verification, registration and publication, and take protection measures in accordance with law. Without such investigation, no unit may commence construction, so as to prevent destructive construction."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter II Immovable Cultural Relics"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Cities that have a particularly rich collection of cultural relics and are of major historical value or of commemorative significance for the revolution shall be verified and published by the State Council as famous historical and cultural cities.\nTowns, streets and villages that have a particularly rich collection of cultural relics and are of major historical value or of commemorative significance for the revolution shall be verified and published by the people's governments of provinces, autonomous regions and municipalities directly under the Central Government as historical and cultural blocks, towns or villages, and reported to the State Council for the record.\nThe local people's governments at or above the county level of the places where famous historical and cultural cities and historical and cultural blocks, towns and villages are located shall organise the preparation of special protection plans for famous historical and cultural cities and for historical and cultural blocks, towns and villages, and incorporate them into the relevant plans.\nThe measures for the protection of famous historical and cultural cities and of historical and cultural blocks, towns and villages shall be formulated by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter II Immovable Cultural Relics"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The necessary scope of protection of cultural relics protection units at all levels shall be delineated and published respectively by the people's governments of provinces, autonomous regions and municipalities directly under the Central Government and by the people's governments of municipalities with districts and of counties; sign descriptions shall be made, records and files shall be established, and, in light of the different circumstances, a specialised body or a dedicated person shall be assigned for their management. The scope of protection and the records and files of major cultural relics protection units protected at the national level shall be reported by the cultural relics administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government to the cultural relics administrative department under the State Council for the record.\nFor unclassified immovable cultural relics, the cultural relics administrative department of the county-level people's government shall make sign descriptions, establish records and files and designate the person responsible for management.\nThe cultural relics administrative departments of local people's governments at or above the county level shall, in accordance with the differing needs of the protection of different cultural relics, formulate specific protection measures for cultural relics protection units and unclassified immovable cultural relics, report them to the people's government at the corresponding level, and announce them for implementation.\nThe cultural relics administrative departments shall guide and encourage grassroots self-governing organisations of the masses, volunteers and others to participate in the protection of immovable cultural relics."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter II Immovable Cultural Relics"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where people's governments at all levels formulate the relevant plans, the relevant departments shall, in accordance with the needs of the protection of cultural relics, consult in advance with the cultural relics administrative departments to determine the protection measures for immovable cultural relics within their respective administrative regions, and incorporate them into the plans.\nThe cultural relics administrative departments of local people's governments at or above the county level shall, in accordance with the needs of the protection of cultural relics, organise the preparation of protection plans for the immovable cultural relics within their respective administrative regions, which shall be published and implemented after approval by the people's government at the corresponding level and reported to the cultural relics administrative department of the people's government at the next higher level for the record; the protection plans for major cultural relics protection units protected at the national level shall be published and implemented after approval by the people's government of the province, autonomous region or municipality directly under the Central Government and reported to the cultural relics administrative department under the State Council for the record."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter II Immovable Cultural Relics"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Within the scope of protection of a cultural relics protection unit, no construction project other than a cultural relics protection project and no operations such as blasting, drilling or excavation may be carried out; where such a project or operation is necessary for special reasons, the safety of the cultural relics protection unit must be ensured.\nWhere, for special reasons, it is necessary to carry out a construction project or operation provided in the preceding paragraph within the scope of protection of a cultural relics protection unit at the provincial level or at the level of a municipality with districts or at the county level, approval must be obtained from the people's government that verified and published that cultural relics protection unit, and the consent of the cultural relics administrative department of the people's government at the next higher level shall be obtained before approval; where a construction project or operation provided in the preceding paragraph is to be carried out within the scope of protection of a major cultural relics protection unit protected at the national level, approval must be obtained from the people's government of the province, autonomous region or municipality directly under the Central Government, and the consent of the cultural relics administrative department under the State Council shall be obtained before approval."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter II Immovable Cultural Relics"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "In accordance with the actual needs of protecting cultural relics, a certain construction control zone may, with the approval of the people's government of the province, autonomous region or municipality directly under the Central Government, be delineated around a cultural relics protection unit and published.\nConstruction projects carried out within the construction control zone of a cultural relics protection unit shall not destroy the historical style and features of the cultural relics protection unit; the project design plan shall, in accordance with the level of the cultural relics protection unit and the degree of impact of the construction project on the historical style and features of the cultural relics protection unit, be submitted to the cultural relics administrative department prescribed by the State for consent and then lawfully obtain planning permission for the construction project."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter II Immovable Cultural Relics"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Within the scope of protection and the construction control zone of a cultural relics protection unit, no facility that pollutes the cultural relics protection unit or its environment shall be built, and no activity that may affect the safety of the cultural relics protection unit or its environment shall be carried out. Existing facilities that pollute the cultural relics protection unit or its environment shall be dealt with in accordance with the provisions of the laws and regulations on the ecological environment."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter II Immovable Cultural Relics"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Construction projects shall, as far as possible, be located so as to avoid immovable cultural relics; where they cannot be avoided for special reasons, protection at the original site shall be carried out as far as possible.\nWhere protection at the original site is carried out, the construction unit shall determine the measures for protection at the original site in advance and submit them for approval to the corresponding cultural relics administrative department according to the level of the cultural relics protection unit; the measures for protection at the original site of unclassified immovable cultural relics shall be submitted to the cultural relics administrative department of the county-level people's government for approval; without approval, construction shall not commence.\nWhere protection at the original site cannot be carried out and a cultural relics protection unit at the provincial level or at the level of a municipality with districts or at the county level needs to be relocated elsewhere for protection or demolished, it shall be reported to the people's government of the province, autonomous region or municipality directly under the Central Government for approval; where a cultural relics protection unit at the provincial level is to be relocated or demolished, the consent of the cultural relics administrative department under the State Council must be obtained before approval. Major cultural relics protection units protected at the national level shall not be demolished; where relocation is necessary, the people's government of the province, autonomous region or municipality directly under the Central Government must report to the State Council for approval. Where unclassified immovable cultural relics need to be relocated elsewhere for protection or demolished, it shall be reported to the cultural relics administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government for approval.\nWhere State-owned immovable cultural relics are demolished in accordance with the provisions of the preceding paragraph, the demolition shall be carried out under the supervision of the cultural relics administrative department, and murals, sculptures, building components and the like of collection value shall be collected by a cultural relics collection entity designated by the cultural relics administrative department.\nThe costs of protection at the original site, relocation and demolition provided in this Article shall be included by the construction unit in the construction project budget."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter II Immovable Cultural Relics"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "State-owned immovable cultural relics shall be repaired and maintained by the user; non-State-owned immovable cultural relics shall be repaired and maintained by the owner or user, and the people's government at or above the county level may provide subsidies.\nWhere immovable cultural relics are in danger of being destroyed and the owner or user is not able to carry out repairs, the people's government at or above the county level shall provide assistance; where the owner or user is able to carry out repairs but refuses to perform the obligation of repair in accordance with law, the people's government at or above the county level may carry out rescue repairs, and the costs shall be borne by the owner or user.\nThe repair of a cultural relics protection unit shall, according to the level of the cultural relics protection unit, be reported to the corresponding cultural relics administrative department for approval; the repair of unclassified immovable cultural relics shall be reported to the cultural relics administrative department of the county-level people's government for approval.\nThe repair, relocation and reconstruction of cultural relics protection units shall be undertaken by units that have obtained qualification certificates for cultural relics protection projects.\nThe repair, maintenance and relocation of immovable cultural relics must observe the principles of not altering the original state of the cultural relics and of minimum intervention, so as to ensure the authenticity and integrity of the cultural relics.\nThe cultural relics administrative departments of people's governments at or above the county level shall strengthen supervision and inspection of the protection of immovable cultural relics, promptly identify problems and hidden dangers, guard against safety risks, and urge and guide the owners or users of immovable cultural relics to perform their protection duties."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter II Immovable Cultural Relics"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Where immovable cultural relics have been completely destroyed, the protection of the site shall be strictly implemented, and reconstruction at the original site shall not be permitted. Where reconstruction at the original site is necessary for special reasons such as the protection of cultural relics, the cultural relics administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government shall report to that people's government for approval; where a major cultural relics protection unit protected at the national level needs to be reconstructed at the original site, the people's government of the province, autonomous region or municipality directly under the Central Government shall, after obtaining the consent of the cultural relics administrative department under the State Council, report to the State Council for approval."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter II Immovable Cultural Relics"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Where commemorative buildings or ancient buildings among State-owned cultural relics protection units are converted to other uses, apart from being used to establish museums or cultural relics repositories or being opened as sites for visits and tours, the following shall apply: for cultural relics protection units at the level of a municipality with districts or at the county level, the cultural relics administrative department of the people's government that verified and published the cultural relics protection unit shall, after obtaining the consent of the cultural relics administrative department of the people's government at the next higher level, report to the people's government that verified and published the cultural relics protection unit for approval; for cultural relics protection units at the provincial level, the cultural relics administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government that verified and published the cultural relics protection unit shall, after examination and consent, report to that people's government for approval; for major cultural relics protection units protected at the national level, the people's government of the province, autonomous region or municipality directly under the Central Government shall report to the State Council for approval. Where State-owned unclassified immovable cultural relics are converted to other uses, it shall be reported to the cultural relics administrative department of the county-level people's government."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter II Immovable Cultural Relics"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "State-owned immovable cultural relics shall not be transferred or mortgaged, unless otherwise provided by the State, in which case those provisions shall be followed. State-owned immovable cultural relics used to establish museums or cultural relics repositories or opened as sites for visits and tours shall not be converted into enterprise assets for operation, and their management bodies shall not be transferred to enterprise management.\nWhere development and construction activities such as tourism are carried out on the basis of historical and cultural blocks, towns and villages, the relevant protection plans and protection measures shall be strictly implemented, large-scale relocation shall be controlled, excessive development shall be prevented, and overall protection and living transmission shall be strengthened."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter II Immovable Cultural Relics"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Non-State-owned immovable cultural relics shall not be transferred or mortgaged to foreigners, foreign organisations or international organisations.\nWhere non-State-owned immovable cultural relics are transferred, mortgaged or their use is changed, it shall be reported to the corresponding cultural relics administrative department for the record."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter II Immovable Cultural Relics"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "People's governments at or above the county level and their relevant departments shall take measures to promote, in light of local conditions, the effective utilisation of immovable cultural relics on the premise of ensuring the safety of cultural relics.\nCultural relics protection units shall be opened to the public as far as possible. Where a cultural relics protection unit is opened to the public, the opening hours and the carrying capacity for visitors shall be reasonably determined and made public, and the necessary convenience shall be actively provided for visitors.\nUnits such as museums, memorial halls, cultural relics repositories and archaeological site parks established for the protection of immovable cultural relics shall strengthen the exploration and interpretation of the value of immovable cultural relics and carry out targeted publicity and guided tours."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter II Immovable Cultural Relics"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "The use of immovable cultural relics must observe the principles of not altering the original state of the cultural relics and of minimum intervention, and the user shall be responsible for the safety of the cultural relics themselves and their ancillary cultural relics, and shall not destroy, rebuild, add to or demolish immovable cultural relics.\nWith respect to buildings and structures that endanger the safety of immovable cultural relics or destroy the historical style and features of immovable cultural relics, the local people's government shall promptly investigate and deal with them; where necessary, such buildings and structures shall be demolished or relocated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter II Immovable Cultural Relics"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The owners or users of immovable cultural relics shall strengthen fire safety management relating to the use of fire, electricity and gas, adopt targeted fire safety measures in accordance with the characteristics of the immovable cultural relics, improve the capacity for fire prevention and emergency disposal, and ensure the safety of the cultural relics."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter II Immovable Cultural Relics"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "The people's governments of provinces, autonomous regions and municipalities directly under the Central Government may designate areas in which underground or underwater cultural relics are comparatively concentrated in their distribution and require overall protection as areas where underground cultural relics are buried or areas where underwater cultural relics are protected, formulate specific protection measures and announce them for implementation.\nWhere the areas where underground cultural relics are buried or the areas where underwater cultural relics are protected involve two or more provinces, autonomous regions or municipalities directly under the Central Government, or involve other sea areas under the jurisdiction of China outside the territorial sea of China, they shall be delineated by the cultural relics administrative department under the State Council, which shall formulate specific protection measures and submit them to the State Council for verification and publication."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter II Immovable Cultural Relics"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "All archaeological excavation work must go through the formalities of request and approval; units engaging in archaeological excavation shall obtain qualification certificates for archaeological excavation issued by the cultural relics administrative department under the State Council.\nNo unit or individual may excavate underground or underwater cultural relics without authorisation."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter III Archaeological Excavation"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where a unit engaging in archaeological excavation carries out archaeological excavation for the purpose of scientific research, it shall put forward an excavation plan and submit it to the cultural relics administrative department under the State Council for approval; the archaeological excavation plan for a major cultural relics protection unit protected at the national level shall, after examination by the cultural relics administrative department under the State Council, be submitted to the State Council for approval. Before granting approval or conducting examination, the cultural relics administrative department under the State Council shall seek the opinions of social science research institutions and other scientific research institutions and the relevant experts."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter III Archaeological Excavation"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "In areas where underground cultural relics may exist, before the people's government at or above the county level transfers or allocates land, the cultural relics administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government shall organise units engaging in archaeological excavation to carry out archaeological investigation and exploration. Areas where underground cultural relics may exist shall be promptly delineated and dynamically adjusted by the cultural relics administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government.\nWhere a large-scale capital construction project is carried out, or a construction project is carried out within the scope of protection or the construction control zone of a cultural relics protection unit, and no archaeological investigation and exploration has been carried out in accordance with the provisions of the preceding paragraph, the construction unit shall, in advance, request the cultural relics administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government to organise units engaging in archaeological excavation to carry out archaeological investigation and exploration at the places within the project area where cultural relics may be buried.\nWhere cultural relics are discovered in archaeological investigation and exploration, the cultural relics administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government shall, in accordance with the requirements of the protection of cultural relics, determine protection measures in consultation with the construction unit; where an important discovery is made, the cultural relics administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government shall promptly report to the cultural relics administrative department under the State Council for handling. Where work is consequently stopped or the construction period is extended, causing losses to the construction unit, the cultural relics administrative department of the local people's government at or above the county level shall, in conjunction with the relevant departments, after hearing the opinions of the construction unit, put forward opinions on handling and submit them to the people's government at the corresponding level for approval."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter III Archaeological Excavation"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where archaeological excavation work needs to be carried out in coordination, the cultural relics administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government shall, on the basis of the exploration work, put forward an excavation plan and submit it to the cultural relics administrative department under the State Council for approval. Before granting approval, the cultural relics administrative department under the State Council shall seek the opinions of social science research institutions and other scientific research institutions and the relevant experts.\nWhere rescue excavation of ancient cultural sites or ancient tombs is urgently needed because the construction period is genuinely tight or there is a danger of natural destruction, the cultural relics administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government shall organise the excavation and, at the same time, complete the approval formalities retroactively."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter III Archaeological Excavation"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "The costs of archaeological investigation, exploration and excavation required for capital construction and production construction shall be included by the construction unit in the construction project budget.\nPeople's governments at or above the county level may, through appropriate means, provide support for archaeological investigation, exploration and excavation work."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter III Archaeological Excavation"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where, in activities such as construction projects and agricultural production, any unit or individual discovers cultural relics or suspected cultural relics, it shall protect the scene and immediately report to the local cultural relics administrative department; the cultural relics administrative department shall, within 24 hours after receiving the report, rush to the scene and, within 7 days, put forward opinions on handling. The cultural relics administrative department shall take measures to protect the scene and, where necessary, may notify the public security organ or the maritime law enforcement organ to provide assistance; where important cultural relics are discovered, it shall immediately report to the cultural relics administrative department under the State Council, which shall put forward opinions on handling within 15 days after receiving the report.\nCultural relics discovered in accordance with the provisions of the preceding paragraph belong to the State, and no unit or individual may plunder them in a rush, divide them privately or conceal them."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter III Archaeological Excavation"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Without the special permission of the State Council upon the report of the cultural relics administrative department under the State Council, no foreigner, foreign organisation or international organisation may carry out archaeological investigation, exploration or excavation within the territory of China."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter III Archaeological Excavation"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "The results of archaeological investigation, exploration and excavation shall be truthfully reported to the cultural relics administrative department under the State Council and to the cultural relics administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government.\nCultural relics from archaeological excavation shall be registered and catalogued and properly kept, and shall, in accordance with the relevant provisions of the State, promptly be handed over to a State-owned museum, library or other unit collecting cultural relics designated by the cultural relics administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government or by the cultural relics administrative department under the State Council. With the approval of the cultural relics administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government, units engaging in archaeological excavation may retain a small quantity of unearthed or recovered cultural relics as scientific research specimens.\nNo unit or individual may misappropriate cultural relics from archaeological excavation or the materials of archaeological excavation."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter III Archaeological Excavation"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "In accordance with the needs of ensuring the safety of cultural relics, conducting scientific research and giving full play to the role of cultural relics, the cultural relics administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government may, with the approval of the people's government at the corresponding level, allocate unearthed and recovered cultural relics within its administrative region; the cultural relics administrative department under the State Council may, with the approval of the State Council, allocate important unearthed and recovered cultural relics throughout the country."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter III Archaeological Excavation"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "The State encourages and supports cultural relics collection entities in collecting and protecting movable cultural relics and in carrying out activities such as cultural relics exhibitions and displays, publicity and education and scientific research.\nThe relevant departments shall treat State-owned cultural relics collection entities and non-State-owned cultural relics collection entities equally in respect of establishment conditions, social service requirements, fiscal and tax support policies and other aspects."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter IV Cultural Relics in Collections"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Museums, libraries and other cultural relics collection entities must, in respect of the cultural relics in their collections (hereinafter referred to as cultural relics in collections), classify the cultural relics by grade in accordance with the relevant State standards for grading cultural relics, set up files, establish strict management systems, and report to the competent cultural relics administrative department for the record.\nThe cultural relics administrative departments of local people's governments at or above the county level shall establish files on cultural relics in collections within their respective administrative regions; the cultural relics administrative department under the State Council shall establish national files on Grade 1 cultural relics in collections and files on the cultural relics in the collections of the State-owned cultural relics collection entities under its charge."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter IV Cultural Relics in Collections"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Cultural relics collection entities may acquire cultural relics by the following means:\n(a) purchase;\n(b) acceptance of donations;\n(c) exchange in accordance with law;\n(d) other means provided by laws and administrative regulations.\nState-owned cultural relics collection entities may also acquire cultural relics through designation of collection by the cultural relics administrative department or through allocation.\nCultural relics collection entities shall, in accordance with law, perform the duty of reasonable care, and shall ascertain and identify the lawfulness of the source of the cultural relics to be solicited or purchased."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter IV Cultural Relics in Collections"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Cultural relics collection entities shall, in accordance with the needs of protecting the cultural relics in their collections and the relevant provisions of the State, establish and improve management systems and report them to the competent cultural relics administrative department for the record. Without approval, no unit or individual may take out cultural relics in collections.\nThe legal representative or principal person in charge of a cultural relics collection entity shall be responsible for the safety of the cultural relics in the collection. When the legal representative or principal person in charge of a cultural relics collection entity leaves office, the formalities for handing over the cultural relics in the collection shall be completed in accordance with the files on the cultural relics in the collection."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter IV Cultural Relics in Collections"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "The cultural relics administrative department under the State Council may allocate State-owned cultural relics in collections throughout the country. The cultural relics administrative departments of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government may allocate cultural relics in the collections of the State-owned cultural relics collection entities under their charge within their respective administrative regions; the allocation of Grade 1 State-owned cultural relics in collections shall be reported to the cultural relics administrative department under the State Council for the record.\nState-owned cultural relics collection entities may apply for the allocation of State-owned cultural relics in collections."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter IV Cultural Relics in Collections"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Cultural relics collection entities shall improve service conditions, raise service levels, give full play to the role of the cultural relics in their collections, and, through activities such as holding exhibitions, scientific research and cultural creativity, strengthen publicity and education on the fine historical culture and revolutionary tradition of the Chinese nation; and shall, through lending, exchange, online exhibitions and other means, improve the efficiency of the utilisation of the cultural relics in their collections.\nCultural relics collection entities shall provide support and assistance to schools and scientific research institutions in carrying out activities such as education, teaching and scientific research.\nMuseums shall, in accordance with the relevant provisions of the State, be open to the public, reasonably determine the opening hours and the number of visitors and make them public, and provide scientific, accurate and vivid written explanations and guided tour services in various forms."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter IV Cultural Relics in Collections"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where State-owned cultural relics collection entities need to borrow cultural relics in collections from one another for holding exhibitions, scientific research and the like, they shall report to the competent cultural relics administrative department for the record; where Grade 1 cultural relics in collections are borrowed, they shall at the same time report to the cultural relics administrative department under the State Council for the record.\nWhere non-State-owned cultural relics collection entities and other units need to borrow State-owned cultural relics in collections for holding exhibitions, they shall report to the competent cultural relics administrative department for approval; where Grade 1 State-owned cultural relics in collections are borrowed, the approval of the cultural relics administrative department under the State Council shall be obtained.\nWhere cultural relics are borrowed between cultural relics collection entities, a loan agreement shall be concluded, and the term agreed in the agreement shall not exceed 3 years."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter IV Cultural Relics in Collections"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "State-owned cultural relics collection entities that have established files on and management systems for the cultural relics in their collections in accordance with the provisions of this Law may exchange cultural relics in collections among themselves; the exchange of cultural relics in collections shall be subject to approval by the cultural relics administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government and shall be reported to the cultural relics administrative department under the State Council for the record."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter IV Cultural Relics in Collections"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "State-owned cultural relics collection entities that have not established files on and management systems for the cultural relics in their collections in accordance with the provisions of this Law shall not lend or exchange the cultural relics in their collections in accordance with the provisions of Articles 55 to 57 of this Law."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter IV Cultural Relics in Collections"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where cultural relics in collections are allocated, exchanged or borrowed in accordance with law, the cultural relics collection entity acquiring the cultural relics may give reasonable compensation to the cultural relics collection entity providing the cultural relics.\nThe compensation obtained by a cultural relics collection entity from the allocation, exchange or lending of cultural relics must be used to improve the conditions for collecting cultural relics and to acquire new cultural relics, and shall not be diverted to other uses; no unit or individual may misappropriate it.\nCultural relics allocated, exchanged or borrowed must be strictly kept and shall not be lost or destroyed."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter IV Cultural Relics in Collections"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "State-owned cultural relics collection entities are prohibited from giving, leasing, selling or mortgaging or pledging cultural relics in collections to other units or individuals."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter IV Cultural Relics in Collections"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "The measures for the deaccession of cultural relics that are no longer collected by State-owned cultural relics collection entities shall be formulated and published by the cultural relics administrative department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter IV Cultural Relics in Collections"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "The restoration of cultural relics in collections shall not alter the original state of the cultural relics in collections; the reproduction, photographing and rubbing of cultural relics in collections shall not cause damage to the cultural relics in collections. The restoration, reproduction and rubbing of Grade 2 and Grade 3 cultural relics in collections shall be reported to the cultural relics administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government for approval; the restoration, reproduction and rubbing of Grade 1 cultural relics in collections shall be reported to the cultural relics administrative department under the State Council for approval.\nThe provisions of the preceding paragraph shall apply to the restoration, reproduction, photographing and rubbing of individual items of immovable cultural relics."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter IV Cultural Relics in Collections"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Museums, libraries and other units collecting cultural relics shall, in accordance with the relevant provisions of the State, be equipped with facilities against fire, theft and natural damage, and shall take corresponding measures to ensure the safety of the cultural relics collected."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter IV Cultural Relics in Collections"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Where a Grade 1 cultural relic in a collection is destroyed, it shall be reported to the cultural relics administrative department under the State Council for verification and handling. Where other cultural relics in collections are destroyed, it shall be reported to the cultural relics administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government for verification and handling; the cultural relics administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government shall report the result of verification and handling to the cultural relics administrative department under the State Council for the record.\nWhere cultural relics in collections are stolen, robbed or lost, the cultural relics collection entity shall immediately report the case to the public security organ and at the same time report to the competent cultural relics administrative department."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter IV Cultural Relics in Collections"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Staff members of cultural relics administrative departments and of State-owned cultural relics collection entities shall not borrow State-owned cultural relics and shall not unlawfully misappropriate State-owned cultural relics."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter IV Cultural Relics in Collections"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "The State encourages citizens and organisations to collect cultural relics lawfully, and strengthens guidance, management and services for private collecting activities."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter V Cultural Relics in Private Collections"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Citizens and organisations other than cultural relics collection entities may collect cultural relics acquired by the following means:\n(a) inheritance in accordance with law or acceptance of gifts;\n(b) purchase from cultural relics sales units;\n(c) purchase through auction enterprises dealing in cultural relics auctions (hereinafter referred to as cultural relics auction enterprises);\n(d) mutual exchange or lawful transfer among citizens of cultural relics lawfully owned by them as individuals;\n(e) other lawful means provided by the State.\nCultural relics provided in the preceding paragraph that are collected by citizens and organisations other than cultural relics collection entities may circulate in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter V Cultural Relics in Private Collections"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "It is prohibited to buy or sell the following cultural relics:\n(a) State-owned cultural relics, except those permitted by the State;\n(b) murals, sculptures, building components and the like among State-owned immovable cultural relics, except murals, sculptures, building components and the like among State-owned immovable cultural relics lawfully demolished that do not fall within the scope of those that shall be collected by cultural relics collection entities as provided in paragraph 4 of Article 31 of this Law;\n(c) precious cultural relics in non-State-owned collections;\n(d) stolen cultural relics, and other cultural relics whose source does not conform to the provisions of Article 67 of this Law, that are notified or announced by the relevant departments of the State Council;\n(e) lost cultural relics that are notified or announced by foreign governments or the relevant international organisations in accordance with the relevant international conventions."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter V Cultural Relics in Private Collections"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "The State encourages citizens and organisations other than cultural relics collection entities to donate the cultural relics in their collections to cultural relics collection entities or to lend them to cultural relics collection entities for exhibition and research.\nCultural relics collection entities shall respect and comply with the wishes of donors and properly collect, keep and display the donated cultural relics.\nCultural relics prohibited by the State from being taken out of the country shall not be transferred, leased, mortgaged or pledged to overseas organisations or individuals."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter V Cultural Relics in Private Collections"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "Cultural relics sales units shall obtain a cultural relics sales licence issued by the cultural relics administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government.\nCultural relics sales units shall not engage in the business of cultural relics auctions and shall not establish cultural relics auction enterprises."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter V Cultural Relics in Private Collections"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "Where an auction enterprise lawfully established engages in cultural relics auctions, it shall obtain a cultural relics auction licence issued by the cultural relics administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government.\nCultural relics auction enterprises shall not engage in the business of cultural relics sales and shall not establish cultural relics sales units."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter V Cultural Relics in Private Collections"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "Staff members of cultural relics administrative departments shall not establish or participate in establishing cultural relics sales units or cultural relics auction enterprises.\nCultural relics collection entities and their staff members shall not establish or participate in establishing cultural relics sales units or cultural relics auction enterprises.\nThe establishment of foreign-invested cultural relics sales units or cultural relics auction enterprises is prohibited.\nApart from cultural relics sales units and cultural relics auction enterprises, no other unit or individual may engage in the commercial operation of cultural relics."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter V Cultural Relics in Private Collections"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "Cultural relics sales units shall not sell, and cultural relics auction enterprises shall not auction, the cultural relics provided in Article 68 of this Law.\nCultural relics to be auctioned by cultural relics auction enterprises shall, before the auction, be examined by the cultural relics administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government in accordance with the provisions of the preceding paragraph, and shall be reported to the cultural relics administrative department under the State Council for the record.\nWhere cultural relics sales units sell cultural relics and cultural relics auction enterprises auction cultural relics, they shall truthfully state the relevant information on the cultural relics and shall not engage in false publicity."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter V Cultural Relics in Private Collections"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "The cultural relics administrative departments of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall establish a system for the management of information and credit relating to the purchase, sale and auction of cultural relics, and promote integrity in the field of cultural relics circulation. Where cultural relics sales units purchase and sell cultural relics and cultural relics auction enterprises auction cultural relics, they shall keep records in accordance with the relevant provisions of the State and, within 30 days after the sale or auction of the cultural relics, report them to the cultural relics administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government for the record.\nWhere, at the time of an auction of cultural relics, the consignor or the buyer requests that its identity be kept confidential, the cultural relics administrative department shall keep it confidential, unless otherwise provided by laws or administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter V Cultural Relics in Private Collections"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "Where the cultural relics administrative department examines cultural relics to be auctioned, it may designate a State-owned cultural relics collection entity to purchase the precious cultural relics among them with priority. The purchase price shall be determined through negotiation between the representative of the State-owned cultural relics collection entity and the consignor of the cultural relics."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter V Cultural Relics in Private Collections"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "Banks, smelters, paper mills and units recovering scrap materials shall, together with the local cultural relics administrative department, be responsible for sorting out cultural relics mixed in with gold and silver ware and scrap materials. Apart from historical coins necessary for the research of banks, which may be retained by the People's Bank of China, the sorted cultural relics shall be handed over to the local cultural relics administrative department. Reasonable compensation shall be given for the cultural relics handed over after sorting."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter V Cultural Relics in Private Collections"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "State-owned cultural relics, precious cultural relics among non-State-owned cultural relics and other cultural relics prohibited by the State from being taken out of the country shall not be taken out of the country, except where they are taken out of the country for exhibition in accordance with the provisions of this Law or, for special needs, with the approval of the State Council.\nThe specific scope of cultural relics prohibited by the State from being taken out of the country shall be prescribed and published by the cultural relics administrative department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter VI Exit and Entry of Cultural Relics"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "Cultural relics to be taken out of the country shall be examined by the cultural relics import and export examination institution designated by the cultural relics administrative department under the State Council. For cultural relics permitted to be taken out of the country after examination, the cultural relics administrative department under the State Council shall issue a cultural relics export permit, and they shall be taken out of the country through a port designated by the cultural relics administrative department under the State Council.\nWhere any unit or individual transports, posts or carries cultural relics out of the country, it shall declare them to the Customs; the Customs shall release them against the cultural relics export permit."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Chapter VI Exit and Entry of Cultural Relics"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "The taking of cultural relics out of the country for exhibition shall be reported to the cultural relics administrative department under the State Council for approval; where the number of Grade 1 cultural relics exceeds the number prescribed by the State Council, it shall be reported to the State Council for approval.\nUnique items and fragile items among Grade 1 cultural relics are prohibited from being taken out of the country for exhibition.\nWhere cultural relics are taken out of the country for exhibition, their export shall be examined and registered by the cultural relics import and export examination institution. The Customs shall release them against the approval document of the cultural relics administrative department under the State Council or of the State Council. Where cultural relics taken out of the country for exhibition are re-imported, they shall be examined and inspected by the cultural relics import and export examination institution that originally examined and registered them."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Chapter VI Exit and Entry of Cultural Relics"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "Where cultural relics are temporarily imported, they shall be declared to the Customs and reported to the cultural relics import and export examination institution for examination and registration. Where the cultural relics import and export examination institution finds that temporarily imported cultural relics are cultural relics provided in Article 68 of this Law, it shall report to the cultural relics administrative department under the State Council and notify the Customs.\nWhere temporarily imported cultural relics are re-exported, they must be examined and inspected by the cultural relics import and export examination institution that originally examined and registered them; where examination and inspection show that they are correct, the cultural relics administrative department under the State Council shall issue a cultural relics export permit, and the Customs shall release them against the cultural relics export permit."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Chapter VI Exit and Entry of Cultural Relics"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "The State strengthens international cooperation in the field of the recovery and restitution of cultural relics. The cultural relics administrative department under the State Council shall, in accordance with law and in conjunction with the relevant departments, carry out the recovery of cultural relics lost abroad through theft, illegal export or other means; with respect to foreign cultural relics that have illegally entered the territory of China, it shall carry out restitution cooperation with the relevant countries on the basis of the relevant treaties, agreements, arrangements or the principle of reciprocity.\nThe State reserves the right to recover cultural relics lost abroad through theft, illegal export or other means, and that right shall not be subject to any limitation period."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Chapter VI Exit and Entry of Cultural Relics"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, local people's governments at all levels, the relevant departments of people's governments at or above the county level and their staff members, or other persons performing public duties in accordance with law abuse their power, derelict their duty or engage in malpractice for personal gain, the leading personnel responsible and the persons directly responsible shall be given sanctions in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "Where any of the following acts is committed, the cultural relics administrative department of the people's government at or above the county level shall order correction and give a warning; where damage to cultural relics or other serious consequences is caused, a fine of not less than 500,000 yuan but not more than 5,000,000 yuan shall be imposed on the unit and a fine of not less than 50,000 yuan but not more than 500,000 yuan shall be imposed on the individual, the unit shall be ordered to bear the costs of repairing and restoring the cultural relics concerned, and the original issuing authority shall lower its qualification grade; where the circumstances are serious, a fine of not less than 5,000,000 yuan but not more than 10,000,000 yuan may be imposed on the unit, and the original issuing authority shall revoke its qualification certificate:\n(a) carrying out, without authorisation, a construction project other than a cultural relics protection project or operations such as blasting, drilling or excavation within the scope of protection of a cultural relics protection unit;\n(b) carrying out a construction project within the construction control zone of a cultural relics protection unit without authorisation, where the project design plan has not been consented to by the cultural relics administrative department;\n(c) commencing construction without authorisation where no measures for protection at the original site of immovable cultural relics have been formulated, or where the measures for protection at the original site of immovable cultural relics have not been approved by the cultural relics administrative department;\n(d) relocating or demolishing immovable cultural relics without authorisation;\n(e) repairing immovable cultural relics without authorisation in a manner that manifestly alters the original state of the cultural relics;\n(f) reconstructing at the original site, without authorisation, immovable cultural relics that have been completely destroyed;\n(g) engaging in the repair, relocation or reconstruction of cultural relics without authorisation, without having obtained a qualification certificate for cultural relics protection projects;\n(h) carrying out a large-scale capital construction project, or a construction project within the scope of protection or the construction control zone of a cultural relics protection unit, without carrying out archaeological investigation and exploration in accordance with law.\nWhoever destroys a sign for the protection of immovable cultural relics established in accordance with the provisions of this Law shall be given a warning by the cultural relics administrative department of the people's government at or above the county level, and may also be fined not more than 500 yuan."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "Where a facility that pollutes a cultural relics protection unit or its environment is built within the scope of protection or the construction control zone of a cultural relics protection unit, the competent department of ecology and environment shall impose a penalty in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, any of the following acts is committed, the cultural relics administrative department of the people's government at or above the county level shall order correction, give a warning or circulate a criticism, and confiscate the illegal income; where the illegal income is 5,000 yuan or more, a fine of not less than two times but not more than ten times the illegal income shall also be imposed; where there is no illegal income or the illegal income is less than 5,000 yuan, a fine of not less than 10,000 yuan but not more than 50,000 yuan shall also be imposed:\n(a) transferring or mortgaging State-owned immovable cultural relics;\n(b) converting State-owned immovable cultural relics used to establish museums or cultural relics repositories or opened as sites for visits and tours into enterprise assets for operation, or transferring their management bodies to enterprise management;\n(c) transferring or mortgaging non-State-owned immovable cultural relics to foreigners, foreign organisations or international organisations;\n(d) changing, without authorisation, the use of commemorative buildings or ancient buildings among State-owned cultural relics protection units."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "Where the layout, environment, historical style and features and the like of a famous historical and cultural city are seriously damaged, the State Council shall revoke its title of famous historical and cultural city; where the layout, environment, historical style and features and the like of a historical and cultural block, town or village are seriously damaged, the people's government of the province, autonomous region or municipality directly under the Central Government shall revoke its title of historical and cultural block, town or village; the leading personnel responsible and the persons directly responsible shall be given sanctions in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "Where any of the following acts is committed, the cultural relics administrative department of the people's government at or above the county level shall order correction, give a warning or circulate a criticism, and confiscate the illegal income; where the illegal income is 5,000 yuan or more, a fine of not less than two times but not more than ten times the illegal income shall also be imposed; where there is no illegal income or the illegal income is less than 5,000 yuan, a fine of not more than 50,000 yuan may also be imposed:\n(a) a cultural relics collection entity failing to be equipped with facilities against fire, theft and natural damage in accordance with the relevant provisions of the State;\n(b) the legal representative or principal person in charge of a cultural relics collection entity failing to hand over the cultural relics in the collection in accordance with the files on the cultural relics in the collection when leaving office, or the cultural relics in the collection handed over being inconsistent with the files on the cultural relics in the collection;\n(c) a State-owned cultural relics collection entity giving, leasing, selling or mortgaging or pledging cultural relics in collections to other units or individuals;\n(d) lending or exchanging cultural relics in collections in violation of the provisions of this Law;\n(e) misappropriating or embezzling the compensation obtained from the allocation, exchange or lending of cultural relics in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 87."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "Whoever buys or sells cultural relics prohibited by the State from being bought or sold, or transfers, leases, mortgages or pledges cultural relics prohibited by the State from being taken out of the country to overseas organisations or individuals, shall be ordered by the cultural relics administrative department of the people's government at or above the county level to make corrections, and the illegal income and the illegally operated cultural relics shall be confiscated; where the illegal business volume is 5,000 yuan or more, a fine of not less than two times but not more than ten times the illegal business volume shall also be imposed; where there is no illegal business volume or the illegal business volume is less than 5,000 yuan, a fine of not less than 10,000 yuan but not more than 50,000 yuan shall also be imposed.\nWhere a cultural relics sales unit or a cultural relics auction enterprise commits an illegal act provided in the preceding paragraph, the cultural relics administrative department of the people's government at or above the county level shall confiscate the illegal income and the illegally operated cultural relics; where the illegal business volume is 30,000 yuan or more, a fine of not less than two times but not more than ten times the illegal business volume shall also be imposed; where there is no illegal business volume or the illegal business volume is less than 30,000 yuan, a fine of not less than 50,000 yuan but not more than 250,000 yuan shall also be imposed; where the circumstances are serious, the original issuing authority shall revoke the licence."
+        },
+        "noLabel": {
+          "en": "Article 88."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "Whoever engages in the commercial operation of cultural relics without a licence shall be ordered by the cultural relics administrative department of the people's government at or above the county level to make corrections, given a warning or circulated a criticism, and the illegal income and the illegally operated cultural relics shall be confiscated; where the illegal business volume is 30,000 yuan or more, a fine of not less than two times but not more than ten times the illegal business volume shall also be imposed; where there is no illegal business volume or the illegal business volume is less than 30,000 yuan, a fine of not less than 50,000 yuan but not more than 250,000 yuan shall also be imposed."
+        },
+        "noLabel": {
+          "en": "Article 89."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 90,
+        "text": {
+          "en": "Where any of the following circumstances exists, the cultural relics administrative department of the people's government at or above the county level shall order correction, give a warning or circulate a criticism, and confiscate the illegal income and the illegally operated cultural relics; where the illegal business volume is 30,000 yuan or more, a fine of not less than two times but not more than ten times the illegal business volume shall also be imposed; where there is no illegal business volume or the illegal business volume is less than 30,000 yuan, a fine of not less than 50,000 yuan but not more than 250,000 yuan shall also be imposed; where the circumstances are serious, the original issuing authority shall revoke the licence:\n(a) a cultural relics sales unit engaging in the business of cultural relics auctions;\n(b) a cultural relics auction enterprise engaging in the business of cultural relics sales;\n(c) cultural relics auctioned by a cultural relics auction enterprise without examination;\n(d) a cultural relics collection entity engaging in the commercial operation of cultural relics;\n(e) a cultural relics sales unit or a cultural relics auction enterprise knowingly selling or auctioning counterfeits, or engaging in false publicity."
+        },
+        "noLabel": {
+          "en": "Article 90."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 91,
+        "text": {
+          "en": "Where any of the following acts is committed, the cultural relics administrative department of the people's government at or above the county level shall, in conjunction with the public security organ and the maritime law enforcement organ, recover the cultural relics and give a warning; where the circumstances are serious, a fine of not less than 100,000 yuan but not more than 3,000,000 yuan shall be imposed on the unit and a fine of not less than 5,000 yuan but not more than 50,000 yuan shall be imposed on the individual:\n(a) concealing a discovered cultural relic without reporting it, or refusing to hand it over;\n(b) failing to hand over sorted cultural relics in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 91."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 92,
+        "text": {
+          "en": "Where cultural relics are imported or exported without declaration in accordance with the provisions of this Law, the Customs or the maritime law enforcement organ shall impose a penalty in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 92."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 93,
+        "text": {
+          "en": "Where any of the following acts is committed, the cultural relics administrative department of the people's government at or above the county level shall order correction; where the circumstances are serious, a fine of not less than 100,000 yuan but not more than 3,000,000 yuan shall be imposed on the unit and its business activities shall be restricted or the original issuing authority shall revoke its licence, and a fine of not less than 5,000 yuan but not more than 50,000 yuan shall be imposed on the individual:\n(a) changing the use of State-owned unclassified immovable cultural relics without reporting it in accordance with the provisions of this Law;\n(b) transferring or mortgaging non-State-owned immovable cultural relics or changing their use without filing it for the record in accordance with the provisions of this Law;\n(c) the user of State-owned immovable cultural relics being able to carry out repairs but refusing to perform the obligation of repair in accordance with law;\n(d) a unit engaging in archaeological excavation carrying out archaeological excavation without authorisation, or failing to truthfully report the results of archaeological investigation, exploration and excavation, or failing to hand over cultural relics from archaeological excavation in accordance with the provisions;\n(e) a cultural relics collection entity failing to establish files on and management systems for the cultural relics in its collection in accordance with the relevant provisions of the State, or failing to file such files and management systems for the record;\n(f) taking out cultural relics in collections without approval;\n(g) restoring, reproducing or rubbing cultural relics without approval;\n(h) failing to report the destruction of cultural relics in collections to the cultural relics administrative department for verification and handling, or, where cultural relics in collections are stolen, robbed or lost, the cultural relics collection entity failing to promptly report to the public security organ or the cultural relics administrative department;\n(i) a cultural relics sales unit selling cultural relics or a cultural relics auction enterprise auctioning cultural relics without keeping records in accordance with the relevant provisions of the State, or failing to report the records kept to the cultural relics administrative department for the record."
+        },
+        "noLabel": {
+          "en": "Article 93."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 94,
+        "text": {
+          "en": "Where a staff member of a cultural relics administrative department, a cultural relics collection entity, a cultural relics sales unit or a cultural relics auction enterprise commits any of the following acts, a sanction shall be given in accordance with law; where the circumstances are serious, the person shall be dismissed from public office in accordance with law or his or her professional qualification certificate shall be revoked:\n(a) a staff member of a cultural relics administrative department or of a State-owned cultural relics collection entity borrowing or unlawfully misappropriating State-owned cultural relics;\n(b) a staff member of a cultural relics administrative department or of a cultural relics collection entity establishing or participating in establishing a cultural relics sales unit or a cultural relics auction enterprise;\n(c) causing the destruction or loss of cultural relics protection units or precious cultural relics through negligence;\n(d) embezzling or misappropriating funds for the protection of cultural relics.\nA person dismissed from public office or whose professional qualification certificate has been revoked under the preceding paragraph shall not, within 10 years from the date of dismissal from public office or revocation of the professional qualification certificate, serve as cultural relics management personnel or engage in the business of cultural relics."
+        },
+        "noLabel": {
+          "en": "Article 94."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 95,
+        "text": {
+          "en": "Where a unit, in violation of the provisions of this Law, is subject to an administrative penalty and the circumstances are serious, a fine of not less than 5,000 yuan but not more than 50,000 yuan shall be imposed on the directly responsible person in charge and other persons directly responsible of the unit."
+        },
+        "noLabel": {
+          "en": "Article 95."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 96,
+        "text": {
+          "en": "Whoever, in violation of the provisions of this Law, infringes the civil rights and interests of others shall bear civil liability in accordance with law; where the act constitutes a violation of public security administration, the public security organ shall impose a public security administration penalty in accordance with law; where the act constitutes a crime, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 96."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 97,
+        "text": {
+          "en": "Where the cultural relics administrative department of a people's government at or above the county level carries out supervisory inspection in accordance with law, it may take the following measures:\n(a) to enter the site to carry out inspection;\n(b) to consult and copy the relevant documents and materials, to question the relevant personnel, and to seal up documents and materials that may be transferred, destroyed or tampered with;\n(c) to seal up and seize the premises, facilities or property suspected of being involved in illegal activities;\n(d) to order the actor to stop the act of infringing cultural relics."
+        },
+        "noLabel": {
+          "en": "Article 97."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 98,
+        "text": {
+          "en": "Cultural relics confiscated in accordance with law by supervisory commissions, people's courts, people's procuratorates, public security organs, the Customs, market supervision and administration departments and maritime law enforcement organs shall be registered and catalogued and properly kept, and shall, after the conclusion of the case, be handed over without compensation to the cultural relics administrative department, which shall designate a State-owned cultural relics collection entity to collect them."
+        },
+        "noLabel": {
+          "en": "Article 98."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 99,
+        "text": {
+          "en": "Where serious damage to cultural relics, or a risk of serious damage thereto, is caused by a violation of the provisions of this Law, thereby infringing the public interest, the people's procuratorate may institute public interest litigation in accordance with the provisions of the relevant procedural laws."
+        },
+        "noLabel": {
+          "en": "Article 99."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 100,
+        "text": {
+          "en": "Where this Law does not provide for the conditions, time limits and other matters of administrative licensing relating to the protection of cultural relics, the provisions of the Administrative Licensing Law of the People's Republic of China and the relevant laws and administrative regulations shall apply."
+        },
+        "noLabel": {
+          "en": "Article 100."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 101,
+        "text": {
+          "en": "This Law shall come into force on 1 March 2025."
+        },
+        "noLabel": {
+          "en": "Article 101."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
         }
       }
     ]

@@ -168,14 +168,16 @@
           "CN-LAW-0141",
           "CN-LAW-0142",
           "CN-LAW-0143",
+          "CN-LAW-0144",
           "CN-LAW-0145",
           "CN-LAW-0146",
           "CN-LAW-0148",
           "CN-LAW-0152",
           "CN-LAW-0153",
+          "CN-LAW-0154",
           "CN-LAW-0155"
         ],
-        "articles": 3950,
+        "articles": 4161,
         "engine": "llm",
         "model": "deepseek-v4.1-flash",
         "reviewed": "machine"
@@ -194,6 +196,7 @@
           "CN-LAW-0161",
           "CN-LAW-0162",
           "CN-LAW-0164",
+          "CN-LAW-0165",
           "CN-LAW-0166",
           "CN-LAW-0167",
           "CN-LAW-0168",
@@ -221,11 +224,13 @@
           "CN-LAW-0192",
           "CN-LAW-0193",
           "CN-LAW-0194",
+          "CN-LAW-0195",
           "CN-LAW-0196",
           "CN-LAW-0198",
           "CN-LAW-0199",
           "CN-LAW-0200",
           "CN-LAW-0201",
+          "CN-LAW-0202",
           "CN-LAW-0203",
           "CN-LAW-0204",
           "CN-LAW-0205",
@@ -245,12 +250,13 @@
           "CN-LAW-0222",
           "CN-LAW-0223",
           "CN-LAW-0224",
+          "CN-LAW-0225",
           "CN-LAW-0227",
           "CN-LAW-0229",
           "CN-LAW-0230",
           "CN-LAW-0231"
         ],
-        "articles": 3838,
+        "articles": 4277,
         "engine": "llm",
         "model": "deepseek-v4.1-flash",
         "reviewed": "machine"
@@ -289,11 +295,14 @@
           "CN-LAW-0258",
           "CN-LAW-0260",
           "CN-LAW-0261",
+          "CN-LAW-0262",
           "CN-LAW-0263",
           "CN-LAW-0264",
+          "CN-LAW-0265",
           "CN-LAW-0267",
           "CN-LAW-0268",
           "CN-LAW-0269",
+          "CN-LAW-0270",
           "CN-LAW-0271",
           "CN-LAW-0272",
           "CN-LAW-0273",
@@ -301,6 +310,7 @@
           "CN-LAW-0275",
           "CN-LAW-0276",
           "CN-LAW-0277",
+          "CN-LAW-0280",
           "CN-LAW-0281",
           "CN-LAW-0282",
           "CN-LAW-0283",
@@ -326,7 +336,7 @@
           "CN-LAW-0304",
           "CN-LAW-0305"
         ],
-        "articles": 3678,
+        "articles": 4089,
         "engine": "llm",
         "model": "deepseek-v4.1-flash",
         "reviewed": "machine"
@@ -365,6 +375,7 @@
           "CN-LAW-0307",
           "CN-LAW-0308",
           "CN-LAW-0309",
+          "CN-LAW-0310",
           "CN-LAW-0311",
           "CN-LAW-0312",
           "CN-LAW-0313",
@@ -385,6 +396,7 @@
           "CN-LAW-0329",
           "CN-LAW-0330",
           "CN-LAW-0331",
+          "CN-LAW-0332",
           "CN-LAW-0333",
           "CN-LAW-0334",
           "CN-LAW-0335",
@@ -407,7 +419,7 @@
           "CN-LAW-0354",
           "CN-SUP-0001"
         ],
-        "articles": 3925,
+        "articles": 4129,
         "engine": "llm",
         "model": "deepseek-v4.1-flash",
         "reviewed": "machine"
@@ -1227,10 +1239,11 @@
           "CN-REG-0178",
           "CN-REG-0179",
           "CN-REG-0180",
+          "CN-REG-0181",
           "CN-REG-0182",
           "CN-REG-0183"
         ],
-        "articles": 1822,
+        "articles": 1902,
         "engine": "llm",
         "model": "deepseek-v4.1-flash",
         "reviewed": "machine"
@@ -1254,8 +1267,10 @@
           "CN-REG-0194",
           "CN-REG-0195",
           "CN-REG-0196",
+          "CN-REG-0197",
           "CN-REG-0198",
           "CN-REG-0199",
+          "CN-REG-0200",
           "CN-REG-0201",
           "CN-REG-0202",
           "CN-REG-0203",
@@ -1290,7 +1305,11 @@
           "CN-REG-0232",
           "CN-REG-0233",
           "CN-REG-0234",
+          "CN-REG-0235",
           "CN-REG-0236",
+          "CN-REG-0237",
+          "CN-REG-0238",
+          "CN-REG-0239",
           "CN-REG-0240",
           "CN-REG-0241",
           "CN-REG-0242",
@@ -1299,6 +1318,7 @@
           "CN-REG-0245",
           "CN-REG-0246",
           "CN-REG-0247",
+          "CN-REG-0248",
           "CN-REG-0249",
           "CN-REG-0250",
           "CN-REG-0251",
@@ -1307,6 +1327,7 @@
           "CN-REG-0254",
           "CN-REG-0255",
           "CN-REG-0256",
+          "CN-REG-0257",
           "CN-REG-0258",
           "CN-REG-0259",
           "CN-REG-0260",
@@ -1314,7 +1335,7 @@
           "CN-REG-0262",
           "CN-REG-0263"
         ],
-        "articles": 2533,
+        "articles": 3143,
         "engine": "llm",
         "model": "deepseek-v4.1-flash",
         "reviewed": "machine"
@@ -1331,6 +1352,7 @@
           "CN-REG-0267",
           "CN-REG-0268",
           "CN-REG-0269",
+          "CN-REG-0270",
           "CN-REG-0271",
           "CN-REG-0272",
           "CN-REG-0273",
@@ -1367,9 +1389,11 @@
           "CN-REG-0304",
           "CN-REG-0305",
           "CN-REG-0306",
+          "CN-REG-0307",
           "CN-REG-0308",
           "CN-REG-0309",
           "CN-REG-0310",
+          "CN-REG-0311",
           "CN-REG-0312",
           "CN-REG-0313",
           "CN-REG-0314",
@@ -1384,21 +1408,26 @@
           "CN-REG-0323",
           "CN-REG-0324",
           "CN-REG-0325",
+          "CN-REG-0326",
           "CN-REG-0327",
           "CN-REG-0328",
           "CN-REG-0329",
           "CN-REG-0330",
+          "CN-REG-0331",
           "CN-REG-0332",
           "CN-REG-0333",
           "CN-REG-0334",
           "CN-REG-0335",
           "CN-REG-0336",
+          "CN-REG-0337",
           "CN-REG-0338",
           "CN-REG-0339",
           "CN-REG-0340",
+          "CN-REG-0341",
+          "CN-REG-0342",
           "CN-REG-0343"
         ],
-        "articles": 2527,
+        "articles": 3176,
         "engine": "llm",
         "model": "deepseek-v4.1-flash",
         "reviewed": "machine"
@@ -1414,6 +1443,7 @@
           "CN-REG-0346",
           "CN-REG-0347",
           "CN-REG-0348",
+          "CN-REG-0349",
           "CN-REG-0350",
           "CN-REG-0351",
           "CN-REG-0352",
@@ -1427,16 +1457,19 @@
           "CN-REG-0360",
           "CN-REG-0361",
           "CN-REG-0362",
+          "CN-REG-0363",
           "CN-REG-0364",
           "CN-REG-0365",
           "CN-REG-0366",
           "CN-REG-0367",
+          "CN-REG-0368",
           "CN-REG-0369",
           "CN-REG-0370",
           "CN-REG-0371",
           "CN-REG-0372",
           "CN-REG-0373",
           "CN-REG-0374",
+          "CN-REG-0375",
           "CN-REG-0376",
           "CN-REG-0377",
           "CN-REG-0378",
@@ -1463,6 +1496,7 @@
           "CN-REG-0399",
           "CN-REG-0400",
           "CN-REG-0401",
+          "CN-REG-0402",
           "CN-REG-0403",
           "CN-REG-0404",
           "CN-REG-0405",
@@ -1478,11 +1512,12 @@
           "CN-REG-0415",
           "CN-REG-0416",
           "CN-REG-0417",
+          "CN-REG-0418",
           "CN-REG-0419",
           "CN-REG-0420",
           "CN-REG-0421"
         ],
-        "articles": 2633,
+        "articles": 3156,
         "engine": "llm",
         "model": "deepseek-v4.1-flash",
         "reviewed": "machine"
@@ -1494,6 +1529,7 @@
         "targetLang": "en",
         "laws": [
           "CN-REG-0422",
+          "CN-REG-0423",
           "CN-REG-0424",
           "CN-REG-0425",
           "CN-REG-0426",
@@ -1514,10 +1550,12 @@
           "CN-REG-0441",
           "CN-REG-0442",
           "CN-REG-0443",
+          "CN-REG-0444",
           "CN-REG-0445",
           "CN-REG-0446",
           "CN-REG-0447",
           "CN-REG-0448",
+          "CN-REG-0449",
           "CN-REG-0450",
           "CN-REG-0451",
           "CN-REG-0452",
@@ -1526,13 +1564,18 @@
           "CN-REG-0455",
           "CN-REG-0456",
           "CN-REG-0457",
+          "CN-REG-0458",
           "CN-REG-0459",
           "CN-REG-0460",
           "CN-REG-0461",
+          "CN-REG-0462",
           "CN-REG-0463",
           "CN-REG-0464",
+          "CN-REG-0465",
           "CN-REG-0466",
           "CN-REG-0467",
+          "CN-REG-0469",
+          "CN-REG-0470",
           "CN-REG-0471",
           "CN-REG-0472",
           "CN-REG-0473",
@@ -1549,6 +1592,7 @@
           "CN-REG-0484",
           "CN-REG-0485",
           "CN-REG-0486",
+          "CN-REG-0487",
           "CN-REG-0488",
           "CN-REG-0489",
           "CN-REG-0490",
@@ -1563,7 +1607,7 @@
           "CN-REG-0500",
           "CN-REG-0501"
         ],
-        "articles": 2114,
+        "articles": 2804,
         "engine": "llm",
         "model": "deepseek-v4.1-flash",
         "reviewed": "machine"
@@ -1574,6 +1618,7 @@
         "sourceLang": "zh",
         "targetLang": "en",
         "laws": [
+          "CN-REG-0502",
           "CN-REG-0503",
           "CN-REG-0504",
           "CN-REG-0505",
@@ -1586,6 +1631,7 @@
           "CN-REG-0512",
           "CN-REG-0513",
           "CN-REG-0514",
+          "CN-REG-0515",
           "CN-REG-0516",
           "CN-REG-0517",
           "CN-REG-0518",
@@ -1594,6 +1640,7 @@
           "CN-REG-0521",
           "CN-REG-0522",
           "CN-REG-0523",
+          "CN-REG-0524",
           "CN-REG-0525",
           "CN-REG-0526",
           "CN-REG-0527",
@@ -1601,44 +1648,54 @@
           "CN-REG-0529",
           "CN-REG-0530",
           "CN-REG-0531",
+          "CN-REG-0532",
           "CN-REG-0533",
+          "CN-REG-0534",
           "CN-REG-0535",
           "CN-REG-0536",
           "CN-REG-0537",
           "CN-REG-0538",
           "CN-REG-0539",
           "CN-REG-0540",
+          "CN-REG-0541",
           "CN-REG-0542",
           "CN-REG-0543",
           "CN-REG-0544",
           "CN-REG-0545",
           "CN-REG-0546",
           "CN-REG-0547",
+          "CN-REG-0548",
           "CN-REG-0550",
           "CN-REG-0551",
           "CN-REG-0552",
           "CN-REG-0553",
+          "CN-REG-0554",
           "CN-REG-0555",
+          "CN-REG-0556",
           "CN-REG-0557",
           "CN-REG-0558",
+          "CN-REG-0559",
           "CN-REG-0560",
           "CN-REG-0561",
           "CN-REG-0562",
           "CN-REG-0564",
           "CN-REG-0565",
           "CN-REG-0566",
+          "CN-REG-0567",
           "CN-REG-0568",
           "CN-REG-0569",
           "CN-REG-0570",
           "CN-REG-0571",
           "CN-REG-0572",
           "CN-REG-0573",
+          "CN-REG-0574",
           "CN-REG-0575",
+          "CN-REG-0576",
           "CN-REG-0577",
           "CN-REG-0578",
           "CN-REG-0579"
         ],
-        "articles": 2147,
+        "articles": 3153,
         "engine": "llm",
         "model": "deepseek-v4.1-flash",
         "reviewed": "machine"
@@ -1651,13 +1708,22 @@
         "laws": [
           "CN-REG-0580",
           "CN-REG-0581",
+          "CN-REG-0582",
+          "CN-REG-0583",
           "CN-REG-0584",
+          "CN-REG-0585",
+          "CN-REG-0586",
+          "CN-REG-0587",
           "CN-REG-0588",
+          "CN-REG-0589",
           "CN-REG-0590",
           "CN-REG-0591",
           "CN-REG-0592",
+          "CN-REG-0593",
           "CN-REG-0594",
           "CN-REG-0595",
+          "CN-REG-0596",
+          "CN-REG-0597",
           "CN-REG-0598",
           "CN-REG-0599",
           "CN-REG-0600",
@@ -1681,9 +1747,10 @@
           "CN-REG-0619",
           "CN-REG-0620",
           "CN-REG-0621",
+          "CN-REG-0622",
           "CN-REG-0623"
         ],
-        "articles": 1328,
+        "articles": 2108,
         "engine": "llm",
         "model": "deepseek-v4.1-flash",
         "reviewed": "machine"
@@ -6122,6 +6189,207 @@
       },
       "CN-REG-0601": {
         "en": "cn-p20.en"
+      },
+      "CN-REG-0237": {
+        "en": "cn-p15.en"
+      },
+      "CN-REG-0257": {
+        "en": "cn-p15.en"
+      },
+      "CN-REG-0307": {
+        "en": "cn-p16.en"
+      },
+      "CN-REG-0375": {
+        "en": "cn-p17.en"
+      },
+      "CN-REG-0465": {
+        "en": "cn-p18.en"
+      },
+      "CN-REG-0502": {
+        "en": "cn-p19.en"
+      },
+      "CN-REG-0524": {
+        "en": "cn-p19.en"
+      },
+      "CN-REG-0532": {
+        "en": "cn-p19.en"
+      },
+      "CN-REG-0541": {
+        "en": "cn-p19.en"
+      },
+      "CN-REG-0567": {
+        "en": "cn-p19.en"
+      },
+      "CN-REG-0582": {
+        "en": "cn-p20.en"
+      },
+      "CN-REG-0585": {
+        "en": "cn-p20.en"
+      },
+      "CN-REG-0589": {
+        "en": "cn-p20.en"
+      },
+      "CN-REG-0197": {
+        "en": "cn-p15.en"
+      },
+      "CN-REG-0235": {
+        "en": "cn-p15.en"
+      },
+      "CN-REG-0311": {
+        "en": "cn-p16.en"
+      },
+      "CN-REG-0326": {
+        "en": "cn-p16.en"
+      },
+      "CN-REG-0337": {
+        "en": "cn-p16.en"
+      },
+      "CN-REG-0458": {
+        "en": "cn-p18.en"
+      },
+      "CN-REG-0487": {
+        "en": "cn-p18.en"
+      },
+      "CN-REG-0239": {
+        "en": "cn-p15.en"
+      },
+      "CN-REG-0331": {
+        "en": "cn-p16.en"
+      },
+      "CN-REG-0418": {
+        "en": "cn-p17.en"
+      },
+      "CN-REG-0444": {
+        "en": "cn-p18.en"
+      },
+      "CN-REG-0449": {
+        "en": "cn-p18.en"
+      },
+      "CN-REG-0462": {
+        "en": "cn-p18.en"
+      },
+      "CN-REG-0515": {
+        "en": "cn-p19.en"
+      },
+      "CN-REG-0574": {
+        "en": "cn-p19.en"
+      },
+      "CN-REG-0554": {
+        "en": "cn-p19.en"
+      },
+      "CN-REG-0583": {
+        "en": "cn-p20.en"
+      },
+      "CN-REG-0181": {
+        "en": "cn-p14.en"
+      },
+      "CN-REG-0200": {
+        "en": "cn-p15.en"
+      },
+      "CN-REG-0368": {
+        "en": "cn-p17.en"
+      },
+      "CN-REG-0469": {
+        "en": "cn-p18.en"
+      },
+      "CN-REG-0470": {
+        "en": "cn-p18.en"
+      },
+      "CN-REG-0534": {
+        "en": "cn-p19.en"
+      },
+      "CN-REG-0586": {
+        "en": "cn-p20.en"
+      },
+      "CN-REG-0597": {
+        "en": "cn-p20.en"
+      },
+      "CN-REG-0622": {
+        "en": "cn-p20.en"
+      },
+      "CN-REG-0238": {
+        "en": "cn-p15.en"
+      },
+      "CN-REG-0248": {
+        "en": "cn-p15.en"
+      },
+      "CN-REG-0270": {
+        "en": "cn-p16.en"
+      },
+      "CN-REG-0349": {
+        "en": "cn-p17.en"
+      },
+      "CN-REG-0559": {
+        "en": "cn-p19.en"
+      },
+      "CN-REG-0576": {
+        "en": "cn-p19.en"
+      },
+      "CN-REG-0587": {
+        "en": "cn-p20.en"
+      },
+      "CN-REG-0596": {
+        "en": "cn-p20.en"
+      },
+      "CN-REG-0423": {
+        "en": "cn-p18.en"
+      },
+      "CN-REG-0548": {
+        "en": "cn-p19.en"
+      },
+      "CN-LAW-0332": {
+        "en": "cn-p05.en"
+      },
+      "CN-LAW-0144": {
+        "en": "cn-p02.en"
+      },
+      "CN-LAW-0262": {
+        "en": "cn-p04.en"
+      },
+      "CN-LAW-0265": {
+        "en": "cn-p04.en"
+      },
+      "CN-LAW-0280": {
+        "en": "cn-p04.en"
+      },
+      "CN-REG-0363": {
+        "en": "cn-p17.en"
+      },
+      "CN-REG-0556": {
+        "en": "cn-p19.en"
+      },
+      "CN-REG-0593": {
+        "en": "cn-p20.en"
+      },
+      "CN-LAW-0310": {
+        "en": "cn-p05.en"
+      },
+      "CN-LAW-0154": {
+        "en": "cn-p02.en"
+      },
+      "CN-LAW-0165": {
+        "en": "cn-p03.en"
+      },
+      "CN-LAW-0195": {
+        "en": "cn-p03.en"
+      },
+      "CN-LAW-0270": {
+        "en": "cn-p04.en"
+      },
+      "CN-REG-0341": {
+        "en": "cn-p16.en"
+      },
+      "CN-REG-0342": {
+        "en": "cn-p16.en"
+      },
+      "CN-REG-0402": {
+        "en": "cn-p17.en"
+      },
+      "CN-LAW-0202": {
+        "en": "cn-p03.en"
+      },
+      "CN-LAW-0225": {
+        "en": "cn-p03.en"
       }
     }
   };

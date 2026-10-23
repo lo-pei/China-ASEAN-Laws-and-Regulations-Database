@@ -1,12 +1,825 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p19
-   法规 63 部 / 译文 2147 条
+   法规 76 部 / 译文 3153 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
   'use strict';
   var TR = root.CALR_TRANS = root.CALR_TRANS || {};
+
+  TR['CN-REG-0502'] = {
+    "lawId": "CN-REG-0502",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 68 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Rules for Implementation are formulated in accordance with the Customs Law of the People's Republic of China (hereinafter referred to as the Customs Law) and other relevant laws for the purpose of standardising customs administrative penalties, safeguarding the lawful exercise by the customs of its functions and powers and protecting the lawful rights and interests of citizens, legal persons and other organisations."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "These Rules for Implementation apply to the handling of acts of smuggling and acts in violation of the provisions on customs supervision for which criminal liability is not pursued in accordance with the law, and of acts for which administrative penalties are to be imposed by the customs as provided by laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Customs administrative penalties shall be under the jurisdiction of the customs that discovers the illegal act and may also be under the jurisdiction of the customs in the place where the illegal act occurs.\nIn a case over which two or more customs offices have jurisdiction, the case shall be under the jurisdiction of the customs that first discovers the illegal act.\nIn a case in which jurisdiction is unclear, the customs offices concerned shall determine jurisdiction through consultation and, where consultation fails, shall report to their common superior customs for designation of jurisdiction.\nIn major or complex cases, jurisdiction may be designated by the General Administration of Customs."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Where the customs discovers an illegal act that should, in accordance with the law, be dealt with by another administrative organ, it shall transfer the matter to the administrative organ concerned; where the illegal act is suspected of a crime, it shall transfer the matter to the public security organ for the investigation of smuggling crimes of the customs or to the local public security organ for handling in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Where an administrative penalty such as a warning or a fine is imposed in accordance with these Rules for Implementation but the inward and outward goods, articles and means of transport are not confiscated, the obligation of the party concerned to pay duties, submit import and export licences and complete the relevant customs formalities in accordance with the law shall not be exempted."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Whoever resists or obstructs the public security organ for the investigation of smuggling crimes of the customs in the lawful performance of its duties shall be punished by that public security organ, established at the directly subordinate customs or the subordinate customs, in accordance with the relevant provisions on public security penalties.\nWhoever resists or obstructs other members of the staff of the customs in the lawful performance of their duties shall be reported to the local public security organ for handling in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Any of the following circumstances in which a party, in violation of the Customs Law and other relevant laws and administrative regulations, evades customs supervision, evades the payment of duties payable or evades the State's prohibitive or restrictive administration of entry and exit constitutes an act of smuggling:\n(a) without the approval of the State Council or of an organ authorised by the State Council, transporting or carrying into or out of the territory goods or articles that the State prohibits or restricts from entering or leaving the territory, or goods or articles for which duties are payable in accordance with the law, from or to a place where no customs office has been established;\n(b) passing through a place where a customs office has been established and, by concealment, disguise, false declaration, fraudulent declaration or other means, evading customs supervision in transporting, carrying or posting into or out of the territory goods or articles that the State prohibits or restricts from entering or leaving the territory, or goods or articles for which duties are payable in accordance with the law;\n(c) using forged or altered manuals, documents, seals, account books or electronic data, or by other means, evading customs supervision in selling within the territory without authorisation goods and articles under customs supervision or means of transport from outside the territory that have entered the territory;\n(d) using forged or altered manuals, documents, seals, account books or electronic data, or making fraudulent declaration of the unit consumption of finished products in processing trade and the like, thereby causing goods and articles under customs supervision to escape supervision;\n(e) by concealment, disguise, false declaration, fraudulent declaration or other means, evading customs supervision in moving without authorisation goods and articles under customs supervision out of customs special supervision areas such as bonded zones and export processing zones;\n(f) other acts that evade customs supervision and constitute smuggling."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Acts of Smuggling and Penalties Therefor"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Any of the following acts shall be dealt with as an act of smuggling:\n(a) directly purchasing from a smuggler, with knowledge that the goods or articles were imported by way of smuggling, such goods or articles;\n(b) in inland seas, territorial seas, boundary rivers and boundary lakes, transporting, purchasing or selling goods or articles that the State prohibits or restricts from entering or leaving the territory, or transporting, purchasing or selling goods for which duties are payable in accordance with the law, by vessels and the persons carried thereon, without lawful proof."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Acts of Smuggling and Penalties Therefor"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Where any of the acts listed in Article 7 or Article 8 of these Rules for Implementation is committed, the penalty shall be imposed in accordance with the following provisions:\n(a) where goods whose import and export is prohibited by the State are smuggled, the smuggled goods and the illegal gains shall be confiscated, and a fine of not more than RMB 1,000,000 may be imposed concurrently; where articles whose entry and exit are prohibited by the State are smuggled, the smuggled articles and the illegal gains shall be confiscated, and a fine of not more than RMB 100,000 may be imposed concurrently;\n(b) where a licence should have been submitted but was not submitted and no duties were evaded, and goods or articles whose entry and exit is restricted by the State are smuggled, the smuggled goods or articles and the illegal gains shall be confiscated, and a fine of not more than the equivalent value of the smuggled goods or articles may be imposed concurrently;\n(c) where duties payable are evaded but the administration of licences is not evaded, and goods or articles for which duties are payable in accordance with the law are smuggled, the smuggled goods or articles and the illegal gains shall be confiscated, and a fine of not more than three times the duties evaded may be imposed concurrently.\nMeans of transport used specially for smuggling, goods and articles used to cover up smuggling, and means of transport used for smuggling or goods and articles used to cover up smuggling on three or more occasions within two years shall be confiscated. Specially made devices, compartments and secret recesses used to conceal smuggled goods and articles shall be confiscated or ordered to be dismantled. Where specially made devices, compartments or secret recesses are used to commit smuggling, a heavier penalty shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Acts of Smuggling and Penalties Therefor"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Whoever conspires with a smuggler to provide the smuggler with loans, funds, accounts, invoices, certificates or customs documents, or conspires with a smuggler to provide the smuggler with facilities for the collection, dispatch, transport, keeping or posting of smuggled goods and articles or other conveniences, shall be dealt with as a joint party to the smuggling, the illegal gains shall be confiscated, and the penalty shall be imposed in accordance with the provisions of Article 9 of these Rules for Implementation."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Acts of Smuggling and Penalties Therefor"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Where an enterprise permitted by the customs to engage in the transport, storage, processing, assembly, consignment sale or display of goods under customs supervision commits the crime of smuggling or commits acts of smuggling two or more times within one year, the customs may revoke its registration; where a customs declaration enterprise or a customs declarant falls under the above circumstances, it shall be prohibited from engaging in customs declaration activities."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Acts of Smuggling and Penalties Therefor"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "An act in violation of the Customs Law and other relevant laws, administrative regulations and rules that does not constitute an act of smuggling is an act in violation of the provisions on customs supervision."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter III Acts in Violation of the Provisions on Customs Supervision and Penalties Therefor"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Whoever, in violation of the State's provisions on import and export administration, imports or exports goods whose import or export is prohibited by the State shall be ordered to ship them back, and a fine of not more than RMB 1,000,000 shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter III Acts in Violation of the Provisions on Customs Supervision and Penalties Therefor"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Where, in violation of the State's provisions on import and export administration, goods whose import and export is restricted by the State are imported or exported and the consignee or consignor of the imported or exported goods cannot submit the licence when declaring to the customs, the imported or exported goods shall not be released and a fine of not more than 30 per cent of the value of the goods shall be imposed.\nWhere, in violation of the State's provisions on import and export administration, goods subject to automatic import and export licensing administration are imported or exported and the consignee or consignor of the imported or exported goods cannot submit the automatic licence certificate when declaring to the customs, the imported or exported goods shall not be released."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter III Acts in Violation of the Provisions on Customs Supervision and Penalties Therefor"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where the description, tariff heading, quantity, specifications, price, mode of trade, place of origin, place of consignment, place of arrival, final destination or other particulars required to be declared of imported or exported goods are not declared or are declared untruthfully, a penalty shall be imposed respectively in accordance with the following provisions, and where there are illegal gains, the illegal gains shall be confiscated:\n(a) affecting the accuracy of customs statistics: a warning shall be given or a fine of not less than RMB 1,000 but not more than RMB 10,000 shall be imposed;\n(b) affecting the order of customs supervision: a warning shall be given or a fine of not less than RMB 1,000 but not more than RMB 30,000 shall be imposed;\n(c) affecting the State's administration of licences: a fine of not less than 5 per cent but not more than 30 per cent of the value of the goods shall be imposed;\n(d) affecting the collection of State duties: a fine of not less than 30 per cent but not more than two times the duties underpaid shall be imposed;\n(e) affecting the State's administration of foreign exchange and export tax refunds: a fine of not less than 10 per cent but not more than 50 per cent of the declared price shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Acts in Violation of the Provisions on Customs Supervision and Penalties Therefor"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where the consignee or consignor of imported or exported goods fails to provide the customs declaration enterprise with the true circumstances of the matters entrusted for declaration as prescribed, thereby giving rise to the circumstances specified in Article 15 of these Rules for Implementation, the principal shall be penalised in accordance with the provisions of Article 15 of these Rules for Implementation."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Acts in Violation of the Provisions on Customs Supervision and Penalties Therefor"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Where a customs declaration enterprise or a customs declarant fails to reasonably examine the authenticity of the circumstances provided by the principal, or through negligence in work gives rise to the circumstances specified in Article 15 of these Rules for Implementation, the customs declaration enterprise may be fined not more than 10 per cent of the value of the goods and be suspended from engaging in customs declaration activities for not more than six months; where the circumstances are serious, it shall be prohibited from engaging in customs declaration activities."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Acts in Violation of the Provisions on Customs Supervision and Penalties Therefor"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Any of the following acts shall be subject to a fine of not less than 5 per cent but not more than 30 per cent of the value of the goods, and where there are illegal gains, the illegal gains shall be confiscated:\n(a) without the permission of the customs, opening, collecting, delivering, dispatching, exchanging, refitting, mortgaging, pledging, retaining, transferring or re-marking goods under customs supervision without authorisation, or otherwise disposing of them;\n(b) without the permission of the customs, storing goods under customs supervision outside the customs supervision area;\n(c) engaging in the transport, storage, processing, assembly, consignment sale or display of goods under customs supervision, where the goods are lost, short in quantity or falsely recorded and no justified reasons can be provided;\n(d) engaging in the transport, storage, processing, assembly, consignment sale or display of bonded goods without completing the formalities for receipt and storage, delivery, transfer, write-off and the like as prescribed, or suspending, extending, modifying or transferring the contract concerned without completing the formalities with the customs as prescribed;\n(e) failing to truthfully declare to the customs the unit consumption of finished products in processing trade;\n(f) failing to transport goods in transit, transhipment or through carriage out of the territory within the prescribed time limit, and leaving them within the territory without authorisation;\n(g) failing to re-ship temporarily imported or exported goods out of or into the territory within the prescribed time limit, and leaving them within or outside the territory without authorisation;\n(h) other acts in violation of the provisions on customs supervision that render the customs unable to exercise supervision over imported or exported goods or that interrupt such supervision.\nWhere the goods involved in the acts specified in the preceding paragraph are goods whose import or export is restricted by the State and for which a licence is required, and the party concerned cannot submit the licence within the prescribed time limit, a separate fine of not more than 30 per cent of the value of the goods shall be imposed; where duties are underpaid, a separate fine of not more than one time the duties underpaid may be imposed."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Acts in Violation of the Provisions on Customs Supervision and Penalties Therefor"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Any of the following acts shall be subject to a warning, a fine of not more than 20 per cent of the value of the articles may be imposed, and where there are illegal gains, the illegal gains shall be confiscated:\n(a) without the permission of the customs, opening, delivering, posting, transferring or otherwise disposing of inward or outward articles not yet released by the customs without authorisation;\n(b) where an individual transports, carries or posts into or out of the territory personal-use articles in excess of a reasonable quantity without declaring them to the customs;\n(c) where an individual transports, carries or posts into or out of the territory articles whose entry and exit is restricted by the State in excess of the prescribed quantity but still for personal use, without declaring them to the customs but without evading customs supervision by concealment, disguise or other means;\n(d) where an individual transports, carries or posts articles into or out of the territory and declares them untruthfully;\n(e) where articles registered with the customs and permitted to be temporarily imported or exported free of duty are not carried back out of or into the territory as prescribed;\n(f) where, without the approval of the customs, a person in transit leaves the articles he carries within the territory."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Acts in Violation of the Provisions on Customs Supervision and Penalties Therefor"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where articles whose entry and exit is prohibited by the State are transported, carried or posted into or out of the territory without being declared to the customs but without evading customs supervision by concealment, disguise or other means, they shall be confiscated, or ordered to be returned, or destroyed or subjected to technical treatment under customs supervision."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Acts in Violation of the Provisions on Customs Supervision and Penalties Therefor"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Any of the following acts shall be subject to a warning, a fine of not more than RMB 100,000 may be imposed, and where there are illegal gains, the illegal gains shall be confiscated:\n(a) means of transport entering or leaving the territory not through a place where a customs office has been established;\n(b) inward or outward means of transport staying in the customs supervision area leaving without the consent of the customs;\n(c) an inward or outward means of transport travelling from one place where a customs office has been established to another place where a customs office has been established changing course midway for outside the territory or for a place within the territory where no customs office has been established, before completing the customs formalities and without the approval of the customs;\n(d) an inward or outward means of transport arriving at or departing from a place where a customs office has been established without declaring to the customs as prescribed, without producing the relevant documents for verification, or producing untrue documents for verification."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Acts in Violation of the Provisions on Customs Supervision and Penalties Therefor"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Any of the following acts shall be subject to a warning, a fine of not more than RMB 50,000 may be imposed, and where there are illegal gains, the illegal gains shall be confiscated:\n(a) without the consent of the customs, an inward or outward means of transport loading or unloading inward or outward goods or articles, or embarking or disembarking inward or outward passengers, without authorisation;\n(b) without the consent of the customs, an inward or outward means of transport concurrently carrying domestic passenger or goods transport without authorisation, or being used for purposes other than inward and outward transport;\n(c) an inward or outward means of transport being converted to domestic transport without authorisation without completing the customs formalities as prescribed;\n(d) failing to transmit electronic data such as the manifest to the customs within the prescribed time limit, transmitting inaccurate electronic data, or failing to preserve the relevant electronic data within the prescribed time limit, thereby affecting customs supervision;\n(e) an inward means of transport, after entry and before declaration to the customs, or an outward means of transport, after completion of customs formalities and before exit, failing to travel along the route designated by the competent transport department or by the customs;\n(f) vessels and motor vehicles carrying goods under customs supervision failing to travel along the route designated by the customs;\n(g) inward and outward vessels and aircraft forced by force majeure to anchor or land at a place where no customs office has been established, or to jettison or unload goods or articles within the territory, failing to report to the nearby customs without justified reasons;\n(h) failing, without special reasons, to notify the customs in advance of the time of arrival and the place of stay of inward and outward vessels, trains and aircraft, or of the changed time and place;\n(i) failing to accept the inspection and examination by the customs of inward and outward means of transport, goods and articles as prescribed."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Acts in Violation of the Provisions on Customs Supervision and Penalties Therefor"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Any of the following acts shall be subject to a warning, and a fine of not more than RMB 30,000 may be imposed:\n(a) opening or damaging customs seals without authorisation;\n(b) losing the supervision documents, manuals and other vouchers made and issued by the customs, thereby hindering customs supervision;\n(c) other acts in violation of the provisions on customs supervision that render the customs unable to exercise supervision over inward and outward means of transport or articles or that interrupt such supervision."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Acts in Violation of the Provisions on Customs Supervision and Penalties Therefor"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Whoever forges, alters or trades in customs documents shall be fined not less than RMB 50,000 but not more than RMB 500,000, and where there are illegal gains, the illegal gains shall be confiscated; where a crime is constituted, criminal liability shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Acts in Violation of the Provisions on Customs Supervision and Penalties Therefor"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Whoever imports or exports goods infringing intellectual property rights protected by the laws and administrative regulations of the People's Republic of China shall have the infringing goods confiscated and be fined not more than 30 per cent of the value of the goods; where a crime is constituted, criminal liability shall be investigated in accordance with the law.\nWhere the status of intellectual property rights needs to be declared to the customs and the consignee or consignor of the imported or exported goods or its agent fails to truthfully declare the relevant status of intellectual property rights to the customs as prescribed, or fails to submit the supporting documents for the lawful use of the relevant intellectual property rights, a fine of not more than RMB 50,000 may be imposed."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Acts in Violation of the Provisions on Customs Supervision and Penalties Therefor"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Where an enterprise permitted by the customs to engage in the transport, storage, processing, assembly, consignment sale or display of goods under customs supervision falls under any of the following circumstances, it shall be ordered to make correction and given a warning, and may be suspended from engaging in the relevant business for not more than six months:\n(a) defaulting on duties or failing to perform the obligation to pay duties;\n(b) damaging or losing goods under customs supervision without being able to provide justified reasons;\n(c) other illegal acts for which suspension from engaging in the relevant business is required."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Acts in Violation of the Provisions on Customs Supervision and Penalties Therefor"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where an enterprise permitted by the customs to engage in the transport, storage, processing, assembly, consignment sale or display of goods under customs supervision falls under any of the following circumstances, the customs may revoke its registration:\n(a) where, after being suspended by the customs from engaging in the relevant business, the circumstances specified in Article 26 of these Rules for Implementation occur again within one year after resumption of the relevant business;\n(b) other illegal acts for which revocation of its registration is required."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Acts in Violation of the Provisions on Customs Supervision and Penalties Therefor"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Where a customs declaration enterprise or a customs declarant unlawfully declares customs matters on behalf of another, it shall be ordered to make correction and be fined not more than RMB 50,000; where the circumstances are serious, it shall be prohibited from engaging in customs declaration activities."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Acts in Violation of the Provisions on Customs Supervision and Penalties Therefor"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Where the consignee or consignor of imported or exported goods, a customs declaration enterprise or a customs declarant offers bribes to members of the staff of the customs, the customs shall prohibit it from engaging in customs declaration activities and impose a fine of not more than RMB 100,000; where a crime is constituted, criminal liability shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Acts in Violation of the Provisions on Customs Supervision and Penalties Therefor"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Whoever engages in customs declaration activities without filing a record with the customs shall be ordered to make correction, have the illegal gains confiscated and may concurrently be fined not more than RMB 100,000."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Acts in Violation of the Provisions on Customs Supervision and Penalties Therefor"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Whoever obtains customs registration by providing false materials through deception shall have its registration revoked and be fined not more than RMB 300,000."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Acts in Violation of the Provisions on Customs Supervision and Penalties Therefor"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Where a legal person or other organisation commits an act in violation of the Customs Law, in addition to penalising the legal person or organisation, a warning shall be given to its persons in charge and the persons directly responsible, a fine of not more than RMB 50,000 may be imposed on them, and where there are illegal gains, the illegal gains shall be confiscated."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III Acts in Violation of the Provisions on Customs Supervision and Penalties Therefor"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Where the customs discovers that a citizen, legal person or other organisation has committed an act for which an administrative penalty is to be imposed by the customs in accordance with the law, it shall file the case for investigation."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Investigation of Acts in Violation of the Customs Law"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "After filing a case, the customs shall investigate and collect evidence in a comprehensive, objective, impartial and timely manner.\nThe customs shall investigate and collect evidence in accordance with the requirements of laws, administrative regulations and other relevant provisions.\nWhen the customs investigates and collects evidence, there shall be not less than two members of the staff of the customs, who shall produce their certificates to the person under investigation.\nWhere the evidence investigated and collected involves State secrets, trade secrets or personal privacy, the customs shall keep it confidential."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Investigation of Acts in Violation of the Customs Law"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Where the customs inspects the person of a suspected smuggler in accordance with the law, the inspection shall be carried out in a concealed place or out of the sight of persons not conducting the inspection, by two or more members of the staff of the customs of the same sex as the person inspected.\nA suspected smuggler shall accept the inspection and may not obstruct it."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Investigation of Acts in Violation of the Customs Law"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Where the customs inspects means of transport and premises and examines goods and articles in accordance with the law, it shall prepare records of inspection and examination."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Investigation of Acts in Violation of the Customs Law"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Where the customs detains a suspected smuggler in accordance with the law, it shall make and issue a decision on the detention of the suspected smuggler. The period of detention of a suspected smuggler shall not exceed 24 hours and may, under special circumstances, be extended to 48 hours.\nThe customs shall examine the detained person within the statutory period of detention. Where the suspicion of a crime is eliminated or the statutory period of detention expires, the detention shall be lifted immediately and a decision on lifting the detention shall be made and issued."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Investigation of Acts in Violation of the Customs Law"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "The customs may detain the following goods, articles, means of transport and the relevant account books, vouchers and other materials in accordance with the law:\n(a) goods, articles and means of transport suspected of smuggling;\n(b) goods, articles and means of transport in violation of the Customs Law or other relevant laws and administrative regulations;\n(c) account books, vouchers and other materials connected with goods, articles and means of transport in violation of the Customs Law or other relevant laws and administrative regulations;\n(d) other goods, articles, means of transport and the relevant account books, vouchers and other materials that may be detained as provided by laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Investigation of Acts in Violation of the Customs Law"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where goods, articles or means of transport suspected of being in violation of the law cannot be detained or are inconvenient to detain, the party concerned or the person in charge of the means of transport shall provide the customs with a guarantee of equivalent value; where no guarantee of equivalent value is provided, the customs may detain other property of the party concerned of equivalent value."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter IV Investigation of Acts in Violation of the Customs Law"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "The period of detention by the customs of goods, articles, means of transport and account books, vouchers and other materials shall not exceed one year. Where extension is needed for the investigation of the case, it may be extended upon approval by the director of the directly subordinate customs or of the subordinate customs authorised by him, and the extension shall not exceed one year. However, the period of reconsideration or litigation shall not be counted."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter IV Investigation of Acts in Violation of the Customs Law"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Under any of the following circumstances, the customs shall promptly lift the detention:\n(a) the suspicion of a violation of the law is eliminated;\n(b) the period of detention or the extended period expires;\n(c) the decision on customs administrative penalty has been performed;\n(d) other circumstances in which detention should be lifted as provided by laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IV Investigation of Acts in Violation of the Customs Law"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where the customs detains goods, articles, means of transport, other property and account books, vouchers and other materials in accordance with the law, it shall make and issue a customs detention receipt, which shall be signed or sealed by the members of the staff of the customs, the party concerned or its agent, the custodian and the witness, and to which customs seals may be affixed. Where customs seals are affixed, the party concerned or its agent and the custodian shall keep them properly.\nWhere the customs lifts the detention of goods, articles, means of transport, other property and account books, vouchers and other materials, or returns a guarantee of equivalent value, it shall make and issue a notice of lifting customs detention or a notice of lifting customs guarantee, which shall be signed or sealed by the members of the staff of the customs, the party concerned or its agent, the custodian and the witness."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter IV Investigation of Acts in Violation of the Customs Law"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where the customs interrogates a suspect of a violation of the law or questions a witness, the interrogation or questioning shall be conducted separately, and the suspect or witness shall be informed of his rights and of the legal liability to be borne for giving false testimony. A suspect of a violation of the law or a witness must truthfully state the facts and provide evidence.\nWhere the customs interrogates a suspect of a violation of the law or questions a witness, it shall prepare a transcript and submit it to the person on the spot for identification; where there is no objection, he shall immediately sign to confirm it; where there is an objection, it shall be corrected and then signed to confirm.\nIt is strictly prohibited to collect evidence by extorting confessions by torture or by illegal means such as threat, inducement or deception.\nIn interrogating a suspect of a violation of the law, the customs may go to the unit or residence of the suspect, or may require him to come to the customs or to a place designated by the customs."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter IV Investigation of Acts in Violation of the Customs Law"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "The material evidence and documentary evidence collected by the customs shall be the original articles and original documents. Where there are genuine difficulties in collecting the original articles and original documents, they may be photographed or copied, and the relevant units or individuals may be designated or entrusted to keep the original articles and original documents properly.\nIn collecting material evidence and documentary evidence, the customs shall prepare a list stating the date of collection, which shall be signed or sealed by the relevant units or individuals after confirmation.\nIn collecting electronic data or audio-visual materials such as sound recordings and video recordings, the customs shall collect the original carrier. Where there are genuine difficulties in collecting the original carrier, copies may be collected with a statement of the method of production, the time of production and the producer, and the copies shall be signed or sealed by the relevant units or individuals after confirmation."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter IV Investigation of Acts in Violation of the Customs Law"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where the investigation of a case so requires, the customs may take samples of the relevant goods and articles for laboratory testing and appraisal.\nWhen the customs takes samples, the party concerned or its agent shall be present; where the party concerned or its agent is not present, the customs shall invite a witness to be present. The customs shall seal the samples taken, and they shall be signed or sealed by the members of the staff of the customs and the party concerned or its agent and the witness after confirmation.\nLaboratory testing and appraisal shall be carried out by the customs laboratory and appraisal institution or by another institution recognised by the State upon entrustment.\nAfter carrying out laboratory testing or appraisal, the laboratory technician or appraiser shall issue a laboratory test report or appraisal conclusion and sign or seal it."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter IV Investigation of Acts in Violation of the Customs Law"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "In accordance with the relevant provisions of the Customs Law, the customs may inquire about the deposits and remittances of the units and persons suspected in a case with financial institutions and postal enterprises.\nIn inquiring about the deposits and remittances of the units and persons suspected in a case with financial institutions and postal enterprises, the customs shall produce a notice of customs assistance in inquiry."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter IV Investigation of Acts in Violation of the Customs Law"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Goods, articles and means of transport detained by the customs in accordance with the law may not be disposed of before a people's court judgment or a decision on customs administrative penalty is made. However, dangerous goods, or live, perishable, easily rotten, easily deteriorated or easily spoilt goods and articles unsuitable for long-term preservation, as well as goods, articles and means of transport for which the owner applies for prior sale, may, upon approval by the director of the directly subordinate customs or of the subordinate customs authorised by him, be sold in accordance with the law in advance, and the proceeds of the sale shall be kept by the customs, which shall notify the owner."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter IV Investigation of Acts in Violation of the Customs Law"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "The party concerned has the right, in accordance with the provisions of the Customs Law, to request the withdrawal of members of the staff of the customs."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter IV Investigation of Acts in Violation of the Customs Law"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Before the customs makes a decision on an administrative penalty such as suspension from engaging in the relevant business, revocation of customs registration, prohibition from engaging in customs declaration activities, a fine of RMB 10,000 or more on a citizen, a fine of RMB 100,000 or more on a legal person or other organisation, or confiscation of the relevant goods, articles or smuggling means of transport, it shall inform the party concerned of the right to request a hearing; where the party concerned requests a hearing, the customs shall organise a hearing.\nThe measures for hearings on customs administrative penalties shall be formulated by the General Administration of Customs."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter V Decision on and Execution of Customs Administrative Penalties"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Upon conclusion of the investigation of a case, the director of the customs shall examine the results of the investigation and make a decision in accordance with the law according to the different circumstances.\nWhere a relatively heavy administrative penalty is to be imposed for complex circumstances or a major illegal act, the decision shall be made through collective discussion by the case trial committee of the customs."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter V Decision on and Execution of Customs Administrative Penalties"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where the same party has committed both an act of smuggling and an act in violation of the provisions on customs supervision and there is a causal relationship between the two, a heavier penalty shall be imposed in accordance with the provisions of these Rules for Implementation on acts of smuggling, and no separate penalty shall be imposed for the act in violation of the provisions on customs supervision.\nWhere the same party has committed two or more acts in violation of the provisions on customs supervision in respect of the same batch of goods or articles and there is a causal relationship between them, a penalty shall be imposed in accordance with the range of penalties respectively provided in these Rules for Implementation, choosing the heavier one."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter V Decision on and Execution of Customs Administrative Penalties"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where two or more parties jointly commit an illegal act, penalties shall be imposed on them separately in the light of the circumstances and their respective liability."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter V Decision on and Execution of Customs Administrative Penalties"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Under any of the following circumstances, a heavier penalty shall be imposed:\n(a) where a party commits an act of smuggling again within two years after being sentenced to a criminal penalty for smuggling or after being given a customs administrative penalty therefor;\n(b) where a party commits the same act in violation of the provisions on customs supervision again within one year after being given a customs administrative penalty for violating the provisions on customs supervision;\n(c) other circumstances in which a heavier penalty should be imposed in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter V Decision on and Execution of Customs Administrative Penalties"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where the customs imposes an administrative penalty in accordance with the law on a party for an act in violation of the Customs Law, it shall prepare a written decision on administrative penalty.\nFor two or more acts in violation of the Customs Law committed by the same party, one written decision on administrative penalty may be made and issued.\nFor acts in violation of the Customs Law committed separately by two or more parties, written decisions on administrative penalty shall be made and issued separately.\nFor acts in violation of the Customs Law jointly committed by two or more parties, one written decision on administrative penalty shall be made and issued, with penalties imposed separately on each party in the light of the circumstances, except where the matter needs to be handled in a separate case."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter V Decision on and Execution of Customs Administrative Penalties"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "A written decision on administrative penalty shall be served on the party concerned in accordance with the relevant provisions of the law.\nWhere service is made by public announcement in accordance with the law, the customs shall post the original of the written decision on administrative penalty on the customs notice board and publish the announcement in a newspaper."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter V Decision on and Execution of Customs Administrative Penalties"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where the customs makes a decision on administrative penalty to confiscate goods, articles or smuggling means of transport and the goods, articles or smuggling means of transport cannot be confiscated or are inconvenient to confiscate, the customs shall recover the equivalent value of the said goods, articles or smuggling means of transport."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter V Decision on and Execution of Customs Administrative Penalties"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where, after a legal person or other organisation has committed an act in violation of the Customs Law, there is a merger, division or other asset restructuring, the customs shall take the original legal person or organisation as the party concerned.\nWhere a fine is imposed on the original legal person or organisation, the illegal gains are confiscated, or the equivalent value of the goods, articles or smuggling means of transport is recovered in accordance with the law, the legal person or organisation succeeding to its rights and obligations shall be the person subject to enforcement."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter V Decision on and Execution of Customs Administrative Penalties"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Fines, illegal gains and the equivalent value of goods, articles and smuggling means of transport recovered in accordance with the law shall be paid in full within the time limit specified in the decision on customs administrative penalty.\nWhere a party performs the decision on administrative penalty on time and completes the customs formalities, the customs shall promptly release its guarantee."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter V Decision on and Execution of Customs Administrative Penalties"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "A party penalised by the customs, or its legal representative or principal person in charge, shall pay in full the fine, illegal gains and the equivalent value of the goods, articles and smuggling means of transport recovered in accordance with the law before leaving the country. Where the above sums have not been paid in full before leaving the country, a guarantee equivalent to the above sums shall be provided to the customs. Where no guarantee is provided and the party is a natural person, the customs may notify the exit administration authority to prevent him from leaving the country; where the party is a legal person or other organisation, the customs may notify the exit administration authority to prevent its legal representative or principal person in charge from leaving the country."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter V Decision on and Execution of Customs Administrative Penalties"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Where a party fails to perform a decision on administrative penalty within the time limit, the customs may take the following measures:\n(a) where the fine is not paid when due, an additional fine of three per cent of the amount of the fine shall be imposed for each day of delay;\n(b) in accordance with the provisions of the Customs Law, selling the detained goods, articles and means of transport and applying the proceeds to offset the payment, or applying the guarantee provided by the party to offset the payment;\n(c) applying to the people's court for compulsory enforcement."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter V Decision on and Execution of Customs Administrative Penalties"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where a party is in genuine economic difficulty and applies for deferral or payment of the fine in instalments, the customs may, upon approval, allow the fine to be paid later or in instalments.\nWhere a party applies for deferral or payment of the fine in instalments, it shall submit the application in writing, and the customs shall, within ten working days after receipt of the application, make a decision and notify the applicant. Where the customs agrees to deferral or payment in instalments, it shall promptly notify the institution collecting the fine."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter V Decision on and Execution of Customs Administrative Penalties"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Under any of the following circumstances, the relevant goods, articles, illegal gains, means of transport and specially made devices shall be collected by the customs:\n(a) where a party that is not subject to an administrative penalty in accordance with the provisions of Article 30 or Article 31 of the Law of the People's Republic of China on Administrative Penalties carries goods or articles whose entry and exit is prohibited by the State into or out of the territory, or posts them into or out of the territory;\n(b) where articles whose entry and exit is prohibited or restricted by the State are posted into or out of the territory in scattered mailings, or articles whose entry and exit is prohibited by the State are carried into or out of the territory in tiny quantities, and an administrative penalty may be waived in accordance with the law;\n(c) where goods, articles, illegal gains, smuggling means of transport and specially made devices that should be confiscated in accordance with the law are involved, and before the customs makes a decision on administrative penalty, the natural person who is the party concerned dies or the legal person or other organisation that is the party concerned terminates, and there is no successor to its rights and obligations;\n(d) where the facts of the smuggling violation are basically clear but the party concerned cannot be ascertained, and three months have elapsed from the date of the customs announcement;\n(e) other circumstances in which collection should be made for violation of laws or administrative regulations.\nWhere the customs collects the goods, articles, illegal gains, means of transport and specially made devices specified in the preceding paragraph, it shall make and issue a list, which shall be signed or sealed by the person from whom they are collected or his agent and the witness. Where the person from whom they are collected cannot be ascertained and there is no witness, an announcement shall be made."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter V Decision on and Execution of Customs Administrative Penalties"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Smuggled goods, articles, illegal gains, smuggling means of transport and specially made devices that are confiscated by judgment of a people's court, or goods, articles, illegal gains, smuggling means of transport and specially made devices that the customs decides to confiscate or collect, shall be handled uniformly by the customs in accordance with the law, and the proceeds and the fines collected by the customs shall all be turned over to the Central Treasury."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter V Decision on and Execution of Customs Administrative Penalties"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "The following terms used in these Rules for Implementation have the following meanings:\n\"A place where a customs office has been established\" means a checkpoint set up by the customs in a customs supervision area such as a port, railway station, airport, national boundary passage or international mail exchange office (exchange station), a checkpoint set up by the customs in a customs special supervision area such as a bonded zone or an export processing zone, and an intermediate supervision station set up by the customs at sea.\n\"Licence\" means the certificate or document for permission to import or export that the party concerned should apply for in advance in accordance with the relevant provisions of the State and that is issued by the relevant competent department of the State.\n\"Lawful proof\" means the commercial documents, transport documents and other relevant certificates and documents that vessels and the persons carried thereon must hold in accordance with the relevant provisions of the State or in accordance with international transport practice to prove that the goods and articles carried, transported, purchased or sold are genuine, lawful and valid.\n\"Articles\" means the luggage and articles of individuals carried or transported into or out of the territory, and articles posted into or out of the territory, including currency, gold and silver and the like. Where they exceed a reasonable quantity for personal use, they shall be treated as goods.\n\"Personal use\" means use by the passenger or consignee himself, or gifts to relatives and friends, rather than for sale or lease.\n\"Reasonable quantity\" means the normal quantity determined by the customs on the basis of the circumstances of the passenger or consignee, the purpose of travel and the duration of stay.\n\"Value of goods\" means the sum of the duty-paid value of the imported or exported goods, the customs duty and the taxes collected by the customs on behalf of others at the import stage.\n\"Value of articles\" means the sum of the duty-paid value of the inward or outward articles and the import duty.\n\"Duties payable\" means the sum of the import and export duties and the taxes collected by the customs on behalf of others at the import stage that are payable on imported or exported goods and articles.\n\"Means of transport used specially for smuggling\" means means of transport manufactured, refitted or purchased specially for smuggling.\nThe terms \"not less than\", \"not more than\", \"within\" and \"upon expiry\" all include the figure itself."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "These Rules for Implementation apply where the customs imposes administrative penalties on foreigners, stateless persons, foreign enterprises or other organisations."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "The catalogue of goods whose import and export is prohibited or restricted by the State shall be handled by the competent foreign trade department of the State Council in accordance with the provisions of the Foreign Trade Law of the People's Republic of China; the catalogue of articles whose entry and exit is prohibited or restricted by the State shall be published by the General Administration of Customs."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Where administrative penalties are imposed in accordance with customs rules, the procedures prescribed in these Rules for Implementation shall be observed."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "These Rules for Implementation shall come into force on 1 November 2004. The Detailed Rules for the Implementation of Administrative Penalties under the Customs Law of the People's Republic of China, approved and amended by the State Council on 17 February 1993 and promulgated by the General Administration of Customs on 1 April 1993, shall be repealed simultaneously."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      }
+    ]
+  };
 
   TR['CN-REG-0503'] = {
     "lawId": "CN-REG-0503",
@@ -3686,6 +4499,924 @@
     ]
   };
 
+  TR['CN-REG-0515'] = {
+    "lawId": "CN-REG-0515",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 77 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the relevant provisions of the Foreign Trade Law of the People's Republic of China (hereinafter referred to as the Foreign Trade Law) in order to standardise the administration of the import and export of goods, maintain the order of the import and export of goods, and promote the sound development of foreign trade."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "These Regulations shall be observed in engaging in trade activities of importing goods into the customs territory of the People's Republic of China or exporting goods outside the customs territory of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The State applies a unified system of administration to the import and export of goods."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The State permits the free import and export of goods and safeguards, in accordance with law, fair and orderly trade in the import and export of goods.\nExcept where laws and administrative regulations expressly prohibit or restrict import or export, no unit or individual may establish or maintain measures prohibiting or restricting the import or export of goods."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "In trade in the import and export of goods, the People's Republic of China shall, in accordance with the international treaties and agreements it has concluded or acceded to, accord most-favoured-nation treatment and national treatment to the other contracting parties and participating parties, or shall, in accordance with the principles of mutual benefit and reciprocity, accord most-favoured-nation treatment and national treatment to the other party."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Where any country or region adopts discriminatory prohibitions, restrictions or other similar measures against the People's Republic of China in trade in the import and export of goods, the People's Republic of China may, in light of the actual circumstances, take corresponding measures against that country or region."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The competent department for foreign trade and economic cooperation of the State Council (hereinafter referred to as the competent foreign trade department of the State Council) shall, in accordance with the provisions of the Foreign Trade Law and these Regulations, be in charge of the work of trade in the import and export of goods throughout the country.\nThe relevant departments of the State Council shall, in accordance with the duties prescribed by the State Council and the provisions of these Regulations, be responsible for the relevant work of administering trade in the import and export of goods."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Goods falling under any of the circumstances prescribed in Article 16 of the Foreign Trade Law shall be prohibited from import. Where other laws and administrative regulations provide for a prohibition on import, such provisions shall prevail.\nThe catalogue of goods prohibited from import shall be formulated, adjusted and published by the competent foreign trade department of the State Council together with the relevant departments of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Section 1 Goods Prohibited from Import"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Goods that are prohibited from import may not be imported."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Section 1 Goods Prohibited from Import"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Goods falling under any of the circumstances prescribed in items (a), (d), (e), (f) and (g) of Article 15 of the Foreign Trade Law shall be restricted from import. Where other laws and administrative regulations provide for a restriction on import, such provisions shall prevail.\nThe catalogue of goods restricted from import shall be formulated, adjusted and published by the competent foreign trade department of the State Council together with the relevant departments of the State Council.\nThe catalogue of goods restricted from import shall be published at least 21 days before it takes effect; in urgent circumstances, it shall be published no later than the date on which it takes effect."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Section 2 Goods Restricted from Import"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Quota administration shall apply to restricted import goods for which the State prescribes quantitative restrictions; licence administration shall apply to other restricted import goods.\nImported goods subject to tariff quota administration shall be dealt with in accordance with the provisions of Section 4 of this Chapter."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Section 2 Goods Restricted from Import"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Restricted import goods subject to quota administration shall be administered by the competent foreign trade department of the State Council and the relevant economic administration departments of the State Council (hereinafter collectively referred to as the import quota administration departments) in accordance with the division of duties prescribed by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Section 2 Goods Restricted from Import"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "In respect of restricted import goods subject to quota administration, the import quota administration departments shall publish the total volume of import quotas for the following year before 31 July of each year.\nQuota applicants shall, from 1 August to 31 August of each year, apply to the import quota administration departments for import quotas for the following year.\nThe import quota administration departments shall, before 31 October of each year, allocate the quotas for the following year to the quota applicants.\nThe import quota administration departments may, as needed, adjust the total annual quota volume and shall publish the adjustment 21 days before it takes effect."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Section 2 Goods Restricted from Import"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Quotas may be allocated by way of uniform handling of all applications."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Section 2 Goods Restricted from Import"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where quotas are allocated by way of uniform handling of all applications, the import quota administration departments shall, within 60 days from the date of expiry of the prescribed application period, make a decision on whether to grant quotas."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Section 2 Goods Restricted from Import"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "When allocating quotas, the import quota administration departments shall take the following factors into consideration:\n(a) the applicant's actual import performance;\n(b) whether quotas previously allocated have been fully used;\n(c) the applicant's production capacity, scale of business and sales situation;\n(d) the applications of new import operators;\n(e) the quantities of quotas applied for;\n(f) other factors that need to be taken into consideration."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Section 2 Goods Restricted from Import"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "An import operator shall, on the strength of the quota certificate issued by the import quota administration department, apply to the competent foreign trade department of the State Council for an import quota licence. The competent foreign trade department of the State Council shall issue the import quota licence within 3 working days from the date of receipt of the application.\nAn import operator shall, on the strength of the import quota licence issued by the competent foreign trade department of the State Council, undergo the customs declaration and release formalities with the customs."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Section 2 Goods Restricted from Import"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where a quota holder has not used up the annual quota held by it, it shall return the unused quota to the import quota administration department before 1 September of the current year; where it fails to return the quota on time and fails to use it up before the end of the current year, the import quota administration department may deduct the corresponding quota from its quota for the following year."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Section 2 Goods Restricted from Import"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "For restricted import goods subject to licence administration, the import operator shall file an application with the competent foreign trade department of the State Council or the relevant departments of the State Council (hereinafter collectively referred to as the import licensing departments). The import licensing departments shall, within 30 days from the date of receipt of the application, decide whether to grant a licence.\nAn import operator shall, on the strength of the import licence issued by the import licensing department, undergo the customs declaration and release formalities with the customs.\nThe import licences mentioned in the preceding paragraph include the various certificates and documents of a licensing nature for import prescribed by laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Section 2 Goods Restricted from Import"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The import quota administration departments and the import licensing departments shall, in accordance with the provisions of these Regulations, formulate specific measures of administration, and shall clearly prescribe and publish, before implementation, such matters as the qualifications of applicants, the departments accepting applications, and the principles and procedures of examination.\nThe department accepting applications shall generally be a single department.\nThe documents required by the import quota administration departments and the import licensing departments to be submitted by applicants shall be limited to those documents and materials necessary for guaranteeing the implementation of administration, and applications may not be refused solely on account of minor, non-substantive errors."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Section 2 Goods Restricted from Import"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The import of goods that are freely importable shall not be restricted."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Section 3 Goods Freely Imported"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "On the basis of the need to monitor the import of goods, the competent foreign trade department of the State Council and the relevant economic administration departments of the State Council may, in accordance with the division of duties prescribed by the State Council, apply automatic import licensing administration to some freely importable goods.\nThe catalogue of goods subject to automatic import licensing administration shall be published at least 21 days before it takes effect."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Section 3 Goods Freely Imported"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The import of goods subject to automatic import licensing administration shall in all cases be licensed."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Section 3 Goods Freely Imported"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "For the import of goods subject to automatic import licensing administration, the import operator shall, before undergoing the customs declaration formalities, submit an application for automatic import licence to the competent foreign trade department of the State Council or the relevant economic administration department of the State Council.\nThe competent foreign trade department of the State Council or the relevant economic administration department of the State Council shall, immediately after receipt of the application, issue the automatic import licence certificate; in special circumstances, this shall not exceed 10 days at the longest.\nAn import operator shall, on the strength of the automatic import licence certificate issued by the competent foreign trade department of the State Council or the relevant economic administration department of the State Council, undergo the customs declaration and release formalities with the customs."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Section 3 Goods Freely Imported"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The catalogue of imported goods subject to tariff quota administration shall be formulated, adjusted and published by the competent foreign trade department of the State Council together with the relevant economic administration departments of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Section 4 Goods under Tariff Quota Administration"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Goods imported within the tariff quota shall be subject to customs duty at the in-quota rate; goods imported outside the tariff quota shall be subject to customs duty at the out-of-quota rate."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Section 4 Goods under Tariff Quota Administration"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The import quota administration departments shall publish the total volume of tariff quotas for the following year between 15 September and 14 October of each year.\nQuota applicants shall, between 15 October and 30 October of each year, apply to the import quota administration departments for tariff quotas."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Section 4 Goods under Tariff Quota Administration"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Tariff quotas may be allocated by way of uniform handling of all applications."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Section 4 Goods under Tariff Quota Administration"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Where tariff quotas are allocated by way of uniform handling of all applications, the import quota administration departments shall, before 31 December of each year, make a decision on whether to grant quotas."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Section 4 Goods under Tariff Quota Administration"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "An import operator shall, on the strength of the tariff quota certificate issued by the import quota administration department, undergo the customs declaration and release formalities for goods within the tariff quota with the customs.\nThe relevant economic administration departments of the State Council shall promptly report to the competent foreign trade department of the State Council for the record the total annual tariff quota volume, the allocation plan and the actual issuance of tariff quota certificates."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Section 4 Goods under Tariff Quota Administration"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where a tariff quota holder has not used up the annual quota held by it, it shall return the unused quota to the import quota administration department before 15 September of the current year; where it fails to return the quota on time and fails to use it up before the end of the current year, the import quota administration department may deduct the corresponding quota from its quota for the following year."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Section 4 Goods under Tariff Quota Administration"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The import quota administration departments shall, in accordance with the provisions of these Regulations, formulate specific measures of administration for tariff quotas, and shall clearly prescribe and publish, before implementation, such matters as the qualifications of applicants, the departments accepting applications, and the principles and procedures of examination.\nThe department accepting applications shall generally be a single department.\nThe documents required by the import quota administration departments to be submitted by tariff quota applicants shall be limited to those documents and materials necessary for guaranteeing the implementation of tariff quota administration, and tariff quota applications may not be refused solely on account of minor, non-substantive errors."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Section 4 Goods under Tariff Quota Administration"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Goods falling under any of the circumstances prescribed in Article 16 of the Foreign Trade Law shall be prohibited from export. Where other laws and administrative regulations provide for a prohibition on export, such provisions shall prevail.\nThe catalogue of goods prohibited from export shall be formulated, adjusted and published by the competent foreign trade department of the State Council together with the relevant departments of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Section 1 Goods Prohibited from Export"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Goods that are prohibited from export may not be exported."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Section 1 Goods Prohibited from Export"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Goods falling under any of the circumstances prescribed in items (a), (b), (c) and (g) of Article 15 of the Foreign Trade Law shall be restricted from export. Where other laws and administrative regulations provide for a restriction on export, such provisions shall prevail.\nThe catalogue of goods restricted from export shall be formulated, adjusted and published by the competent foreign trade department of the State Council together with the relevant departments of the State Council.\nThe catalogue of goods restricted from export shall be published at least 21 days before it takes effect; in urgent circumstances, it shall be published no later than the date on which it takes effect."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Section 2 Goods Restricted from Export"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Quota administration shall apply to restricted export goods for which the State prescribes quantitative restrictions; licence administration shall apply to other restricted export goods."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Section 2 Goods Restricted from Export"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Restricted export goods subject to quota administration shall be administered by the competent foreign trade department of the State Council and the relevant economic administration departments of the State Council (hereinafter collectively referred to as the export quota administration departments) in accordance with the division of duties prescribed by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Section 2 Goods Restricted from Export"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "In respect of restricted export goods subject to quota administration, the export quota administration departments shall publish the total volume of export quotas for the following year before 31 October of each year.\nQuota applicants shall, from 1 November to 15 November of each year, apply to the export quota administration departments for export quotas for the following year.\nThe export quota administration departments shall, before 15 December of each year, allocate the quotas for the following year to the quota applicants."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Section 2 Goods Restricted from Export"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Quotas may be allocated by way of direct allocation, or by such means as bidding."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Section 2 Goods Restricted from Export"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "The export quota administration departments shall, within 30 days from the date of receipt of the application and no later than 15 December of the current year, make a decision on whether to grant quotas."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Section 2 Goods Restricted from Export"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "An export operator shall, on the strength of the quota certificate issued by the export quota administration department, apply to the competent foreign trade department of the State Council for an export quota licence. The competent foreign trade department of the State Council shall issue the export quota licence within 3 working days from the date of receipt of the application.\nAn export operator shall, on the strength of the export quota licence issued by the competent foreign trade department of the State Council, undergo the customs declaration and release formalities with the customs."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Section 2 Goods Restricted from Export"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where a quota holder has not used up the annual quota held by it, it shall return the unused quota to the export quota administration department before 31 October of the current year; where it fails to return the quota on time and fails to use it up before the end of the current year, the export quota administration department may deduct the corresponding quota from its quota for the following year."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Section 2 Goods Restricted from Export"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "For restricted export goods subject to licence administration, the export operator shall file an application with the competent foreign trade department of the State Council or the relevant departments of the State Council (hereinafter collectively referred to as the export licensing departments), and the export licensing departments shall, within 30 days from the date of receipt of the application, decide whether to grant a licence.\nAn export operator shall, on the strength of the export licence issued by the export licensing department, undergo the customs declaration and release formalities with the customs.\nThe export licences mentioned in the preceding paragraph include the various certificates and documents of a licensing nature for export prescribed by laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Section 2 Goods Restricted from Export"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "The export quota administration departments and the export licensing departments shall, in accordance with the provisions of these Regulations, formulate specific measures of administration, and shall clearly prescribe and publish, before implementation, such matters as the qualifications of applicants, the departments accepting applications, and the principles and procedures of examination.\nThe department accepting applications shall generally be a single department.\nThe documents required by the export quota administration departments and the export licensing departments to be submitted by applicants shall be limited to those documents and materials necessary for guaranteeing the implementation of administration, and applications may not be refused solely on account of minor, non-substantive errors."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Section 2 Goods Restricted from Export"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "The State may apply State trading administration to the import and export of some goods.\nThe catalogue of import and export goods subject to State trading administration shall be formulated, adjusted and published by the competent foreign trade department of the State Council together with the relevant economic administration departments of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter IV State Trading and Designated Trading"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "The competent foreign trade department of the State Council and the relevant economic administration departments of the State Council shall, in accordance with the division of duties prescribed by the State Council, determine and publish the list of State trading enterprises."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter IV State Trading and Designated Trading"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "For goods subject to State trading administration, the State permits non-State trading enterprises to engage in the import and export of part of the quantity."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter IV State Trading and Designated Trading"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "State trading enterprises shall, every half year, provide the competent foreign trade department of the State Council with the relevant information such as the purchase prices and sale prices of the goods subject to State trading administration."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter IV State Trading and Designated Trading"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "The competent foreign trade department of the State Council may, on the basis of the need to maintain the order of import and export operations, apply designated trading administration to some goods for a certain period.\nThe catalogue of import and export goods subject to designated trading administration shall be formulated, adjusted and published by the competent foreign trade department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter IV State Trading and Designated Trading"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "The specific standards and procedures for determining designated trading enterprises shall be formulated by the competent foreign trade department of the State Council and published before implementation.\nThe list of designated trading enterprises shall be published by the competent foreign trade department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter IV State Trading and Designated Trading"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Except in the circumstances prescribed in Article 47 of these Regulations, enterprises or other organisations not included in the list of State trading enterprises or the list of designated trading enterprises may not engage in the import and export trade in goods subject to State trading administration or designated trading administration."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter IV State Trading and Designated Trading"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "State trading enterprises and designated trading enterprises shall engage in business activities on the basis of normal commercial conditions, and may not select suppliers on the basis of non-commercial factors or refuse the entrustment of other enterprises or organisations on the basis of non-commercial factors."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter IV State Trading and Designated Trading"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "The competent foreign trade department of the State Council shall be responsible for monitoring and assessing the situation of the import and export of goods, and shall periodically report to the State Council on the situation of the import and export of goods and put forward proposals."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter V Import and Export Monitoring and Interim Measures"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "In order to maintain equilibrium in the balance of payments, including when the balance of payments is in serious imbalance or is threatened with serious imbalance, or in order to maintain a level of foreign exchange reserves suited to the implementation of the plan for economic development, the State may take interim restrictive measures in respect of the value or quantity of imported goods."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter V Import and Export Monitoring and Interim Measures"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "In order to establish or speed up the establishment of a specific domestic industry, the State may, where this cannot be achieved by the existing measures, take interim measures of restricting or prohibiting import."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter V Import and Export Monitoring and Interim Measures"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "In order to implement one or more of the following measures, the State may, where necessary, take interim measures of restricting the import of agricultural and aquatic products in any form:\n(a) taking restrictive measures in respect of the domestic production or sale of like products or directly competitive products;\n(b) eliminating domestic surplus like products or directly competitive products by means of subsidising consumption;\n(c) taking measures to limit production in respect of animal products formed wholly or mainly from the imported agricultural or aquatic products."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter V Import and Export Monitoring and Interim Measures"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where any of the following circumstances applies, the competent foreign trade department of the State Council may take interim measures of restriction or prohibition in respect of the export of specific goods:\n(a) where the occurrence of serious natural disasters or other abnormal circumstances requires restriction or prohibition of export;\n(b) where the order of export operations is seriously disordered and restriction of export is required;\n(c) where restriction or prohibition of export is required in accordance with the provisions of Article 15 and Article 16 of the Foreign Trade Law."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter V Import and Export Monitoring and Interim Measures"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where interim measures of restriction or prohibition are taken in respect of imported or exported goods, the competent foreign trade department of the State Council shall make a public announcement before implementation."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter V Import and Export Monitoring and Interim Measures"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "The State shall adopt such measures as export credit insurance, export credit, export tax rebates and the establishment of a foreign trade development fund to promote the development of foreign trade."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VI Foreign Trade Promotion"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "The State shall adopt effective measures to promote technological innovation and technological progress in enterprises and enhance their international competitiveness."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VI Foreign Trade Promotion"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "The State shall help enterprises to open up international markets by providing information and consultancy services."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VI Foreign Trade Promotion"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Operators of the import and export of goods may, in accordance with law, establish and join chambers of commerce for import and export, and shall practise self-discipline and coordination within the industry."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VI Foreign Trade Promotion"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "The State encourages enterprises to actively respond to discriminatory anti-dumping, countervailing and safeguard measures and other restrictive measures of foreign countries, and to safeguard the legitimate trade rights of enterprises."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VI Foreign Trade Promotion"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Where goods that are prohibited from import or export are imported or exported, or goods that are restricted from import or export are imported or exported without approval or licence, criminal liability shall be pursued in accordance with law in accordance with the provisions of the Criminal Law on the crime of smuggling; where the case is not serious enough for criminal punishment, a penalty shall be imposed in accordance with the relevant provisions of the Customs Law."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Where goods that are restricted from import or export are imported or exported without authorisation beyond the scope of the approval or licence, criminal liability shall be pursued in accordance with law in accordance with the provisions of the Criminal Law on the crime of smuggling or the crime of illegal business operations; where the case is not serious enough for criminal punishment, a penalty shall be imposed in accordance with the relevant provisions of the Customs Law."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Where certificates of quota for the import or export of goods, approval documents, licences or automatic import licence certificates are forged, altered, bought or sold, criminal liability shall be pursued in accordance with law in accordance with the provisions of the Criminal Law on the crime of illegal business operations or the crime of forging, altering, buying or selling official documents, certificates or seals of State organs; where the case is not serious enough for criminal punishment, a penalty shall be imposed in accordance with the relevant provisions of the Customs Law."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Where an import or export operator obtains quotas for the import or export of goods, approval documents, licences or automatic import licence certificates by deception or other improper means, the quotas for the import or export of goods, approval documents, licences or automatic import licence certificates shall be revoked and taken back in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "Where, in violation of the provisions of Article 51 of these Regulations, an enterprise engages in the import and export trade in goods subject to State trading administration or designated trading administration without authorisation, thereby disrupting the market order, and the circumstances are serious, criminal liability shall be pursued in accordance with law in accordance with the provisions of the Criminal Law on the crime of illegal business operations; where the case is not serious enough for criminal punishment, the market supervision and administration department shall impose an administrative penalty in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "Where a State trading enterprise or designated trading enterprise violates the provisions of Article 48 or Article 52 of these Regulations, the competent foreign trade department of the State Council shall give it a warning; where the circumstances are serious, it may suspend or even cancel its qualification as a State trading enterprise or designated trading enterprise."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "Where a staff member engaged in the administration of the import and export of goods abuses his powers, neglects his duties, or takes advantage of his position to accept or extort property from others in the performance of his duties of administering the import and export of goods, criminal liability shall be pursued in accordance with law in accordance with the provisions of the Criminal Law on the crime of abuse of power, the crime of neglect of duty, the crime of acceptance of bribes or other crimes; where the case is not serious enough for criminal punishment, an administrative sanction shall be imposed in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "Where a party is dissatisfied with a decision of an administrative organ to issue quotas, tariff quotas, licences or automatic licence certificates as prescribed in these Regulations, with a decision determining the qualification of a State trading enterprise or designated trading enterprise, or with a decision on an administrative penalty, it may apply for administrative reconsideration in accordance with law or institute proceedings in a people's court in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "The provisions of these Regulations do not preclude measures taken in respect of imported or exported goods in accordance with laws and administrative regulations in respect of customs duties, inspection and quarantine, safety, environmental protection and protection of intellectual property rights."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "The export of export-controlled goods such as nuclear goods, nuclear dual-use goods, controlled chemicals and military goods shall be handled in accordance with the provisions of the relevant administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "Where anti-dumping measures, countervailing measures or safeguard measures need to be taken in respect of imported goods, they shall be implemented in accordance with the provisions of the Foreign Trade Law and the relevant laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "Where laws and administrative regulations provide otherwise for the administration of the import and export of goods in special economic zones such as bonded areas and export processing zones, such provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "The competent foreign trade department of the State Council shall be responsible for the bilateral or multilateral consultations and negotiations relating to trade in the import and export of goods and for matters relating to the settlement of trade disputes."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "These Regulations shall come into force as of 1 January 2002. The Interim Regulations of the People's Republic of China on the Licensing System for Import Goods promulgated by the State Council on 10 January 1984, the Interim Measures for the Administration of Export Commodities approved by the State Council on 21 December 1992 and promulgated by the Ministry of Foreign Economic Relations and Trade on 29 December 1992, the Interim Measures for the Administration of the Import of Mechanical and Electrical Products approved by the State Council on 22 September 1993 and promulgated by the State Economic and Trade Commission and the Ministry of Foreign Trade and Economic Cooperation on 7 October 1993, the Interim Measures for the Administration of Import Quotas for General Commodities approved by the State Council on 22 December 1993 and promulgated by the State Planning Commission and the Ministry of Foreign Trade and Economic Cooperation on 29 December 1993, and the Interim Measures for the Administration of the Business of Import Commodities approved by the State Council on 13 June 1994 and promulgated by the Ministry of Foreign Trade and Economic Cooperation and the State Planning Commission on 19 July 1994 shall be repealed simultaneously."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-REG-0516'] = {
     "lawId": "CN-REG-0516",
     "sourceLang": "zh",
@@ -7100,6 +8831,813 @@
     ]
   };
 
+  TR['CN-REG-0524'] = {
+    "lawId": "CN-REG-0524",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 68 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the provisions of the Law of the People's Republic of China on the Quarantine of Animals and Plants Entering and Leaving the Territory (hereinafter referred to as the Law on the Quarantine of Animals and Plants Entering and Leaving the Territory)."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The following shall be subject to quarantine in accordance with the Law on the Quarantine of Animals and Plants Entering and Leaving the Territory and these Regulations:\n(a) animals, animal products and other quarantine objects entering, leaving or in transit through the territory;\n(b) containers, packaging and padding materials used for loading animals, animal products and other quarantine objects;\n(c) means of transport coming from animal and plant epidemic areas;\n(d) old and used vessels dismantled after entry;\n(e) other goods and articles that should be subject to the quarantine of animals and plants entering and leaving the territory as provided by the relevant laws, administrative regulations and international treaties or as agreed in trade contracts."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The competent agriculture department of the State Council shall be in charge of the quarantine of animals and plants entering and leaving the territory throughout the country.\nThe Animal and Plant Quarantine Bureau of the People's Republic of China (hereinafter referred to as the National Animal and Plant Quarantine Bureau) shall administer the quarantine of animals and plants entering and leaving the territory throughout the country in a unified manner, collect information on major animal and plant epidemics at home and abroad, and be responsible for international cooperation and exchange in the quarantine of animals and plants entering and leaving the territory.\nThe port animal and plant quarantine organs established by the National Animal and Plant Quarantine Bureau at ports open to the outside world and at places where the business of quarantining animals and plants entering and leaving the territory is concentrated shall carry out the quarantine of animals and plants entering and leaving the territory in accordance with the Law on the Quarantine of Animals and Plants Entering and Leaving the Territory and these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Where a major animal or plant epidemic occurs outside the territory and may spread into China, the following emergency preventive measures shall be taken in the light of the circumstances:\n(a) the State Council may take control measures in respect of the relevant frontier areas and, where necessary, order that means of transport coming from animal and plant epidemic areas be prohibited from entering the territory or that the relevant ports be closed;\n(b) the competent agriculture department of the State Council may publish a list of animals, animal products and other quarantine objects whose entry from countries and regions where animal and plant epidemics are prevalent is prohibited;\n(c) the port animal and plant quarantine organs concerned may take emergency quarantine treatment measures in respect of the objects entering the territory listed in Article 2 of these Regulations that may be contaminated by diseases and pests;\n(d) the local people's governments of areas threatened by animal and plant epidemics may immediately organise the relevant departments to formulate and implement contingency plans and at the same time report to the people's governments at higher levels and to the National Animal and Plant Quarantine Bureau.\nThe postal and transport departments shall give priority to the transmission of reports on major animal and plant epidemics and of materials submitted for examination."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Where animals, animal products and other quarantine objects for official or personal use of foreign institutions and personnel enjoying diplomatic and consular privileges and immunities enter the territory, quarantine shall be carried out in accordance with the Law on the Quarantine of Animals and Plants Entering and Leaving the Territory and these Regulations; when the port animal and plant quarantine organs conduct inspection, they shall comply with the provisions of the relevant laws."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The customs shall, in accordance with the law, cooperate with the port animal and plant quarantine organs in exercising supervision over animals, animal products and other quarantine objects entering and leaving the territory. The specific measures shall be formulated by the competent agriculture department of the State Council together with the General Administration of Customs."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The lists of animal and plant epidemic areas and of countries and regions where animal and plant epidemics are prevalent referred to in the Law on the Quarantine of Animals and Plants Entering and Leaving the Territory shall be determined and published by the competent agriculture department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Units and individuals that have achieved notable results in implementing the Law on the Quarantine of Animals and Plants Entering and Leaving the Territory and these Regulations shall be rewarded."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The quarantine approval for the import of animals and animal products and of the articles whose entry is prohibited as listed in the first paragraph of Article 5 of the Law on the Quarantine of Animals and Plants Entering and Leaving the Territory shall be the responsibility of the National Animal and Plant Quarantine Bureau or of the port animal and plant quarantine organs authorised by it.\nThe quarantine approval for the import of plant seeds, seedlings and other propagating materials shall be the responsibility of the organs prescribed by the Regulations on Plant Quarantine."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Quarantine Approval"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The formalities for quarantine approval for entry may be completed only where the following conditions are met:\n(a) there is no major animal or plant epidemic in the exporting country or region;\n(b) the provisions of the relevant Chinese laws, regulations and rules on animal and plant quarantine are met;\n(c) the relevant bilateral quarantine agreements concluded between China and the exporting country or region (including quarantine protocols, memoranda and the like, the same below) are met."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Quarantine Approval"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The formalities for quarantine approval shall be completed before the trade contract or agreement is concluded."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Quarantine Approval"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Where plant seeds, seedlings and other propagating materials are carried or posted into the territory, an application must be filed in advance and the formalities for quarantine approval completed; where, under special circumstances, this cannot be done in advance, the person carrying or posting them shall complete the formalities for quarantine approval at the port on a supplementary basis, and the materials may enter the territory only after the approving organ has consented and quarantine has been passed."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Quarantine Approval"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where the transport of animals in transit through the territory is requested, the owner of the goods or his agent must, in advance, file a written application with the National Animal and Plant Quarantine Bureau, submit the epidemic certificate issued by the animal and plant quarantine organ of the government of the exporting country or region, the document issued by the animal and plant quarantine organ of the government of the importing country or region permitting the entry of the animals, and state the proposed route of transit; the National Animal and Plant Quarantine Bureau shall, after examination and consent, issue an Animal Transit Permit."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Quarantine Approval"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Where, for special needs such as scientific research, the articles whose entry is prohibited as listed in the first paragraph of Article 5 of the Law on the Quarantine of Animals and Plants Entering and Leaving the Territory are introduced, the owner of the goods, the owner of the articles or his agent must, when completing the formalities for special quarantine approval of prohibited articles, submit a written application stating their quantity, use, manner of introduction and epidemic prevention measures after entry, and attach the opinions signed by the relevant port animal and plant quarantine organ."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Quarantine Approval"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "After the formalities for quarantine approval for entry have been completed, the owner of the goods, the owner of the articles or his agent shall apply anew for the formalities for quarantine approval under any of the following circumstances:\n(a) the variety or quantity of the objects entering the territory is changed;\n(b) the exporting country or region is changed;\n(c) the port of entry is changed;\n(d) the period of validity of the quarantine approval has expired."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Quarantine Approval"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The Chinese statutory quarantine requirements referred to in Article 11 of the Law on the Quarantine of Animals and Plants Entering and Leaving the Territory mean the animal and plant quarantine requirements prescribed by Chinese laws, administrative regulations and the competent agriculture department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Quarantine on Entry"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The State applies a system of registration to foreign units producing, processing and storing animal and plant products exported to China. The specific measures shall be formulated by the competent agriculture department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Quarantine on Entry"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where animals, animal products and other quarantine objects are imported, the owner of the goods or his agent shall apply for quarantine inspection to the port animal and plant quarantine organ at the port of entry before or at the time of entry. Where quarantine is to be carried out after transfer out of the customs supervision area, the owner of the goods or his agent shall notify the port animal and plant quarantine organ concerned when the goods arrive at the designated place. Where the goods are in customs transit, the owner of the goods or his agent shall declare to the port animal and plant quarantine organ at the port of entry at the time of entry and, upon arrival at the place of destination, apply for quarantine inspection to the port animal and plant quarantine organ at the place of destination.\nWhere breeding livestock and poultry and their semen or embryos are imported, application for quarantine inspection shall be made 30 days before entry; where other animals are imported, application shall be made 15 days before entry; where plant seeds, seedlings and other propagating materials are imported, application shall be made seven days before entry.\nWhere packaging and padding materials of animal or plant origin enter the territory, the owner of the goods or his agent shall promptly declare them to the port animal and plant quarantine organ; the animal and plant quarantine organ may, in the light of the specific circumstances, carry out quarantine of the declared materials.\nPackaging and padding materials of animal or plant origin referred to in the preceding paragraph mean animal products and plants and plant products used directly as packaging or padding materials."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Quarantine on Entry"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "When applying for quarantine inspection to a port animal and plant quarantine organ, a quarantine application form shall be filled in and the quarantine certificate issued by the animal and plant quarantine organ of the government of the exporting country or region, the certificate of origin and the trade contract, letter of credit, invoice and other documents shall be submitted; where the formalities for quarantine approval should be completed in accordance with the law, the quarantine approval form shall additionally be submitted. Where there is no valid quarantine certificate issued by the animal and plant quarantine organ of the government of the exporting country or region, or the formalities for quarantine approval have not been completed in accordance with the law, the port animal and plant quarantine organ may, in the light of the specific circumstances, return the goods or destroy them."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Quarantine on Entry"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "When imported animals, animal products and other quarantine objects arrive at the port, quarantine officers may carry out quarantine on board the means of transport and at the site of the goods, verify whether the goods correspond to the certificates and take samples as prescribed. The carrier, the owner of the goods or his agent shall provide the quarantine officers with the loading list and the relevant materials."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Quarantine on Entry"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "When a means of transport carrying animals arrives at the port, persons embarking or disembarking or approaching the animals shall accept the epidemic prevention disinfection carried out by the port animal and plant quarantine organ and comply with the other on-site preventive measures taken by it."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Quarantine on Entry"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Quarantine officers shall carry out on-site quarantine in accordance with the following provisions:\n(a) Animals: check for clinical symptoms of disease. Where animals suspected of being infected with an infectious disease or already dead are found, ascertain the situation with the cooperation of the owner of the goods or the escort and deal with them immediately. The padding materials, leftover feed and excrement of animals shall be subjected to disinfestation treatment by the owner of the goods or his agent under the supervision of quarantine officers.\n(b) Animal products: check for putrefaction and deterioration and whether the containers and packaging are intact. Where the requirements are met, unloading from the means of transport shall be permitted. Where broken packages or cracked containers are found, the owner of the goods or his agent shall be responsible for making them intact before they may be unloaded from the means of transport. As the circumstances require, disinfection shall be carried out on the relevant parts of the means of transport and on the containers, outer packaging and padding materials of the animal products loaded, and on contaminated sites. Where laboratory quarantine is required, samples shall be taken as prescribed. Animal products susceptible to the breeding of plant pests or concealing weed seeds shall also be subject to plant quarantine.\n(c) Plants and plant products: check the goods and packaging for diseases and pests and take samples as prescribed. Where diseases or pests are found and there is a possibility of spread, the necessary epidemic prevention measures shall be taken promptly in respect of the batch of goods, the means of transport and the loading and unloading site. Plant products coming from animal infectious disease epidemic areas or susceptible to carrying pathogens of animal infectious diseases and parasitic diseases and used as animal feed shall also be subject to animal quarantine.\n(d) Packaging and padding materials of animal or plant origin: check whether they carry diseases or pests, conceal weed seeds or are contaminated with soil, and take samples as prescribed.\n(e) Other quarantine objects: check whether the packaging is intact and whether they are contaminated by diseases or pests. Where damage or contamination by diseases or pests is found, disinfestation treatment shall be carried out."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Quarantine on Entry"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Bulk animal and plant products shipped by vessel or train shall be inspected in layers on the spot; where, owing to the storage conditions at the port or station, on-the-spot inspection is not possible, the goods may, with the consent of the port animal and plant quarantine organ, be unloaded and removed concurrently and transported to a designated place for storage. Where an epidemic is found in the course of quarantine during unloading, unloading shall immediately stop, and the owner of the goods or his agent shall, in accordance with the requirements of the port animal and plant quarantine organ, carry out disinfestation treatment of the goods already unloaded and not yet unloaded and take measures to prevent the spread of the epidemic; the loading and unloading tools and sites contaminated by diseases and pests shall also be subjected to disinfestation treatment."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Quarantine on Entry"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Where breeding large and medium-sized domestic animals are imported, they shall be quarantined for 45 days in an animal isolation and quarantine facility established by the National Animal and Plant Quarantine Bureau; where other animals are imported, they shall be quarantined for 30 days in an animal isolation and quarantine facility designated by the port animal and plant quarantine organ. The measures for the administration of animal isolation and quarantine facilities shall be formulated by the competent agriculture department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Quarantine on Entry"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Where the same batch of imported animal and plant products is unloaded at different ports, the port animal and plant quarantine organ shall quarantine only the goods unloaded at its own port, and the port animal and plant quarantine organ of the port where unloading was carried out earlier shall promptly notify the port animal and plant quarantine organs of the other ports of unloading of the quarantine and treatment; where a certificate is required for external purposes, the port animal and plant quarantine organ of the port where unloading was completed last shall consolidate the information and issue a single quarantine certificate.\nWhere an epidemic is found in the course of quarantine at a port of unloading and fumigation or disinfection on board the vessel is necessary, the port animal and plant quarantine organ of that port shall issue the quarantine certificate in a unified manner and promptly notify the port animal and plant quarantine organs of the other ports of unloading."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Quarantine on Entry"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Imported animals, animal products and other quarantine objects shall be quarantined in accordance with Chinese national standards, industry standards and the relevant provisions of the National Animal and Plant Quarantine Bureau."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Quarantine on Entry"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where imported animals, animal products and other quarantine objects pass quarantine, the port animal and plant quarantine organ shall affix its seal on the customs declaration form or issue a Quarantine Release Notice; where quarantine after transfer out of the customs supervision area of the port of entry is required, the port animal and plant quarantine organ at the port of entry shall issue a Quarantine Transfer Notice. The owner of the goods or his agent shall, on the strength of the seal affixed by the port animal and plant quarantine organ on the customs declaration form or of the Quarantine Release Notice or Quarantine Transfer Notice issued, complete the formalities for customs declaration and transport. The customs shall, on the strength of the seal affixed by the port animal and plant quarantine organ on the customs declaration form or of the Quarantine Release Notice or Quarantine Transfer Notice issued, release imported animals, animal products and other quarantine objects. The transport and postal departments shall transport and deliver them on the strength of the documents, and no other domestic quarantine organ shall quarantine them again during transport and delivery."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Quarantine on Entry"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Where imported animals, animal products and other quarantine objects fail quarantine, the port animal and plant quarantine organ shall issue a Quarantine Treatment Notice, notifying the owner of the goods or his agent to carry out disinfestation treatment at the port under the supervision and technical guidance of the port animal and plant quarantine organ; where a claim is to be made against a foreign party, the port animal and plant quarantine organ shall issue a quarantine certificate."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Quarantine on Entry"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The National Animal and Plant Quarantine Bureau may, in accordance with quarantine needs and with the consent of the relevant organs of the government of the country or region exporting the animals, animal products and other quarantine objects, send quarantine officers to carry out pre-quarantine inspection, supervision of loading or investigation of epidemics in the place of origin."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Quarantine on Entry"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Animals, animal products and other quarantine objects that enter the territory illegally and are seized by the customs, frontier defence and other departments shall be handed over to the nearest port animal and plant quarantine organ for quarantine."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Quarantine on Entry"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where the owner of goods or his agent completes in accordance with the law the formalities for applying for quarantine inspection of animals, animal products and other quarantine objects for exit, he shall provide the trade contract or agreement."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Quarantine on Exit"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Where the importing country requires that the units producing, processing and storing the animals, animal products and other quarantine objects exported to it from China be registered, the port animal and plant quarantine organ may implement registration and report the matter to the National Animal and Plant Quarantine Bureau for the record."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Quarantine on Exit"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Where animals for export require isolation and quarantine before exit, quarantine shall be carried out in an isolation facility designated by the port animal and plant quarantine organ. Plants, animal and plant products and other quarantine objects for export shall be quarantined in warehouses or goods yards; where necessary, quarantine may also be carried out in the course of production and processing.\nPlants, animal and plant products and other quarantine objects awaiting quarantine for export shall be complete in quantity, intact in packaging, neatly stacked and clearly marked with shipping marks."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Quarantine on Exit"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The basis for the quarantine of exported animals, animal products and other quarantine objects is:\n(a) the relevant animal and plant quarantine provisions of the importing country or region and of China;\n(b) bilateral quarantine agreements;\n(c) the quarantine requirements stipulated in the trade contract."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Quarantine on Exit"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Where animals, animal products and other quarantine objects have passed quarantine by the port animal and plant quarantine organ at the place of departure and arrive at the port of exit, they shall be handled in accordance with the following provisions:\n(a) animals shall undergo clinical quarantine or re-inspection by the port animal and plant quarantine organ at the port of exit;\n(b) where plants, animal and plant products and other quarantine objects leave the territory from the place of departure on the original means of transport, the port animal and plant quarantine organ at the port of exit shall verify the documents and release them; where the means of transport is changed for exit, the documents shall be exchanged and they shall be released;\n(c) where plants, animal and plant products and other quarantine objects are consolidated after arrival at the port of exit, or where the quarantine requirements differ because the importing country or region is changed, or where the prescribed period of validity of quarantine has expired, a new application for quarantine inspection shall be made."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Quarantine on Exit"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Where exported animals, animal products and other quarantine objects have passed quarantine by the port animal and plant quarantine organ at the place of departure, the transport and postal departments shall, when transporting them to the port of exit, transport and deliver them on the strength of the quarantine documents issued by the port animal and plant quarantine organ at the place of departure, and no other domestic quarantine organ shall quarantine them again."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Quarantine on Exit"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Where animals, animal products and other quarantine objects are transported in transit through the territory (including transhipment, the same below), the carrier or the escort shall, on the strength of the waybill and the certificate issued by the animal and plant quarantine organ of the government of the exporting country or region, apply for quarantine inspection to the port animal and plant quarantine organ at the port of entry; where animals are transported in transit, the Animal Transit Permit issued by the National Animal and Plant Quarantine Bureau shall additionally be submitted at the same time."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter V Quarantine of Transit"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "When animals in transit arrive at the port of entry, the port animal and plant quarantine organ at the port of entry shall disinfect the exterior of the means of transport and containers and carry out clinical quarantine of the animals, and where quarantine is passed, transit shall be permitted. The port animal and plant quarantine organ at the port of entry may send quarantine officers to supervise the transport to the port of exit, and the port animal and plant quarantine organ at the port of exit shall not quarantine them again."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V Quarantine of Transit"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The means of transport and the packaging and containers loaded with plants, animal and plant products and other quarantine objects in transit must be intact. Where inspection by the port animal and plant quarantine organ reveals that the means of transport, packaging or containers may cause leakage in transit, the carrier or the escort shall take sealing measures in accordance with the requirements of the port animal and plant quarantine organ; where sealing measures cannot be taken, transit shall not be permitted."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V Quarantine of Transit"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where plant seeds, seedlings and other propagating materials are carried or posted into the territory without the formalities for quarantine approval having been completed in accordance with the law, the port animal and plant quarantine organ shall return them or destroy them. Where postal items are returned, the port animal and plant quarantine organ shall endorse the reasons for return on the postal item and the dispatch note; where postal items are destroyed, the port animal and plant quarantine organ shall issue a notice to the sender."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter VI Quarantine of Carried and Posted Articles"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where animals, animal products and other quarantine objects are carried into the territory, they must be declared to the customs at the time of entry and be subject to quarantine by the port animal and plant quarantine organ. The customs shall promptly hand over the declared or seized animals, animal products and other quarantine objects to the port animal and plant quarantine organ for quarantine. Those that have not been quarantined may not be carried into the territory."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter VI Quarantine of Carried and Posted Articles"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Port animal and plant quarantine organs may carry out inspection at passenger passages, baggage claim areas and other sites at ports, airports and railway stations and, in respect of persons who may be carrying animals, animal products and other quarantine objects without declaring them, may make inquiries and conduct random inspection of their belongings and, where necessary, open their bags (cases) for inspection.\nAnimal and plant quarantine counters and signs shall be set up at the sites of inward and outward passenger inspection."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VI Quarantine of Carried and Posted Articles"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where animals are carried into the territory, the quarantine certificate issued by the animal and plant quarantine organ of the government of the country or region exporting the animals must be held, and they shall be released after passing quarantine; where pets such as dogs and cats are carried into the territory, a vaccination certificate must additionally be held. Where there is no quarantine certificate or vaccination certificate, the port animal and plant quarantine organ shall return them within a specified time limit or confiscate and destroy them. Where they are to be returned within a specified time limit, the person carrying them must, within the prescribed time, on the strength of the detention voucher issued by the port animal and plant quarantine organ, collect them and carry them out of the territory; where they are not collected upon expiry of the time limit, they shall be deemed to have been abandoned.\nWhere plants, animal and plant products and other quarantine objects are carried into the territory and pass on-site quarantine, they shall be released on the spot; where laboratory quarantine or isolation quarantine is required, the port animal and plant quarantine organ shall issue a detention voucher. Where the detained items pass quarantine, the person carrying them shall collect them from the port animal and plant quarantine organ on the strength of the detention voucher; where they are not collected upon expiry of the time limit, they shall be deemed to have been abandoned.\nCarrying or posting into the territory animals, animal products and other quarantine objects listed in the catalogue specified in Article 29 of the Law on the Quarantine of Animals and Plants Entering and Leaving the Territory is prohibited."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VI Quarantine of Carried and Posted Articles"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Animals, animal products and other quarantine objects posted into the territory shall be quarantined by the port animal and plant quarantine organ at the international mail exchange office (including international mail express companies and other units operating international mail, hereinafter referred to as the post office). The post office shall provide the necessary working conditions.\nWhere on-site quarantine is passed, the port animal and plant quarantine organ shall affix the quarantine release stamp and hand the items to the post office for delivery. Where laboratory quarantine or isolation quarantine is required, the port animal and plant quarantine organ shall complete the handover formalities with the post office; where quarantine is passed, it shall affix the quarantine release stamp and hand the items to the post office for delivery."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VI Quarantine of Carried and Posted Articles"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where animals, animal products and other quarantine objects carried or posted into the territory fail quarantine and there is no effective method for disinfestation treatment, they shall be returned or destroyed, and a Quarantine Treatment Notice shall be issued and given to the person carrying them or the sender."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VI Quarantine of Carried and Posted Articles"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Port animal and plant quarantine organs may board vessels, aircraft and trains coming from animal and plant epidemic areas to carry out on-site quarantine. The person in charge of the means of transport concerned shall accept the inquiries of quarantine officers and sign the record of inquiry, provide the running log and information on the goods loaded, and open the cabins for quarantine.\nPort animal and plant quarantine organs shall carry out quarantine in respect of areas or parts of the means of transport mentioned in the preceding paragraph where diseases and pests may be concealed, such as dining cars, catering compartments, kitchens, storerooms and food holds where animal and plant products are stored and used, the places where swill and animal and plant waste are stored, and the bodies of containers; where necessary, epidemic prevention disinfection shall be carried out."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VII Quarantine of Means of Transport"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where vessels, aircraft and trains coming from animal and plant epidemic areas are found upon quarantine to carry diseases and pests listed in the catalogue specified in Article 18 of the Law on the Quarantine of Animals and Plants Entering and Leaving the Territory, fumigation, disinfection or other disinfestation treatment must be carried out. Where animals, animal products and other quarantine objects whose entry is prohibited are found, they must be sealed for custody or destroyed; where they are sealed for custody, they may not be unsealed or used during their stay or operation within the territory without the permission of the port animal and plant quarantine organ. The swill and animal and plant waste on the means of transport and the places and containers where they are stored shall be subjected to disinfestation treatment under the supervision of the port animal and plant quarantine organ."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VII Quarantine of Means of Transport"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Inward vehicles coming from animal and plant epidemic areas shall be subjected to epidemic prevention disinfection by the port animal and plant quarantine organ. Where diseases or pests are found upon quarantine in vehicles loaded with imported animals, animal products and other quarantine objects, disinfestation treatment shall be carried out on the vehicles together with the goods. Empty return vehicles that have carried animals supplied to the Hong Kong Special Administrative Region and the Macao Special Administrative Region shall be subjected to epidemic prevention disinfection of the whole vehicle."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VII Quarantine of Means of Transport"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Old and used vessels dismantled after entry shall be quarantined by the port animal and plant quarantine organ. Where diseases or pests are found, disinfestation treatment shall be carried out under the supervision of the port animal and plant quarantine organ. Where animals, animal products and other quarantine objects whose entry is prohibited are found, they shall be destroyed under the supervision of the port animal and plant quarantine organ."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VII Quarantine of Means of Transport"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where inward means of transport coming from animal and plant epidemic areas have passed quarantine or disinfection treatment and the person in charge of the means of transport or his agent requests a certificate, the port animal and plant quarantine organ shall issue a Means of Transport Quarantine Certificate or a Means of Transport Disinfection Certificate."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VII Quarantine of Means of Transport"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "During the stay of inward or transit means of transport within the territory, transport staff and other persons may not take the animals, animal products and other quarantine objects loaded off the means of transport; where they need to be taken off, application for quarantine inspection shall be made to the port animal and plant quarantine organ."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VII Quarantine of Means of Transport"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Means of transport loaded with animals for exit shall be disinfected under the supervision of the port animal and plant quarantine organ before loading.\nMeans of transport loaded with plants, animal and plant products and other quarantine objects for exit shall conform to the State's provisions on animal and plant epidemic prevention and quarantine. Where dangerous diseases or pests are found, or ordinary diseases or pests are found in excess of the prescribed standards, loading may proceed only after disinfestation treatment."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VII Quarantine of Means of Transport"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "The National Animal and Plant Quarantine Bureau and the port animal and plant quarantine organs shall apply a system of quarantine supervision to the production, processing and storage of animals, animal products and other quarantine objects entering and leaving the territory. The specific measures shall be formulated by the competent agriculture department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VIII Quarantine Supervision"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where animals and plant seeds, seedlings and other propagating materials entering or leaving the territory require isolated rearing or isolated cultivation, they shall be subject to the quarantine supervision of the port animal and plant quarantine organ during the period of isolation."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VIII Quarantine Supervision"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Units and personnel engaging in the business of fumigation and disinfection treatment for the quarantine of animals and plants entering and leaving the territory must pass the assessment of the port animal and plant quarantine organ.\nPort animal and plant quarantine organs shall supervise and guide fumigation and disinfection work and be responsible for issuing fumigation and disinfection certificates."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VIII Quarantine Supervision"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Port animal and plant quarantine organs may, as needed, carry out animal and plant epidemic monitoring at airports, ports, railway stations, warehouses, processing plants, farms and other places where animals, animal products and other quarantine objects entering and leaving the territory are produced, processed or stored, and the units concerned shall cooperate.\nWithout the permission of the port animal and plant quarantine organ, the devices for monitoring animal and plant epidemics may not be moved or damaged."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VIII Quarantine Supervision"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Port animal and plant quarantine organs may, as needed, affix animal and plant quarantine seals or marks to the means of transport and loading containers carrying animals, animal products and other quarantine objects entering or leaving the territory; without the permission of the port animal and plant quarantine organ, the quarantine seals or marks may not be opened or damaged.\nAnimal and plant quarantine seals and marks shall be made and issued in a unified manner by the National Animal and Plant Quarantine Bureau."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VIII Quarantine Supervision"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where animals, animal products and other quarantine objects entering the territory, and loading containers and packaging loaded with animals, animal products and other quarantine objects, are transported to bonded zones (including bonded factories and bonded warehouses), quarantine shall be carried out in accordance with the law at the port of entry; the port animal and plant quarantine organ may, in the light of the specific circumstances, exercise quarantine supervision; where they are processed and then shipped out of the territory, the provisions of the Law on the Quarantine of Animals and Plants Entering and Leaving the Territory and of these Regulations on quarantine for exit shall apply."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VIII Quarantine Supervision"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where any of the following illegal acts is committed, the port animal and plant quarantine organ shall impose a fine of not more than RMB 5,000:\n(a) failing to apply for quarantine inspection, failing to complete the formalities for quarantine approval in accordance with the law, or failing to act in accordance with the provisions of the quarantine approval;\n(b) the animals, animal products and other quarantine objects declared for quarantine inspection not being consistent with the actual goods.\nWhere the act listed in item (b) of the preceding paragraph has been committed and a quarantine document has already been obtained, the document shall be revoked."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Where any of the following illegal acts is committed, the port animal and plant quarantine organ shall impose a fine of not less than RMB 3,000 but not more than RMB 30,000:\n(a) unloading or transporting without authorisation inward or transit animals, animal products and other quarantine objects from the means of transport without the permission of the port animal and plant quarantine organ;\n(b) transferring or disposing of without authorisation animals or plants under isolation quarantine in an isolation facility designated by the port animal and plant quarantine organ;\n(c) opening without authorisation the packaging of transit animals, animal products and other quarantine objects, or opening or damaging without authorisation animal and plant quarantine seals or marks;\n(d) abandoning without authorisation the carcasses, excrement, padding materials or other waste of transit animals, or failing to treat the swill and animal and plant waste on means of transport as prescribed."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where the units registered in accordance with the provisions of Article 17 or Article 32 of these Regulations for the production, processing and storage of animals, animal products and other quarantine objects have the above-mentioned articles entering or leaving the territory fail quarantine, in addition to returning, destroying or subjecting them to disinfestation treatment in accordance with the relevant provisions of these Regulations, the port animal and plant quarantine organ shall, where the circumstances are serious, cancel their registration."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Where any of the following illegal acts is committed, criminal liability shall be investigated in accordance with the law; where a crime is not constituted or the circumstances of the crime are so obviously minor that no criminal punishment is required in accordance with the law, the port animal and plant quarantine organ shall impose a fine of not less than RMB 20,000 but not more than RMB 50,000:\n(a) causing a major animal or plant epidemic;\n(b) forging or altering animal and plant quarantine documents, seals, marks or seals for custody."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Where units and personnel engaging in the business of fumigation and disinfection treatment for the quarantine of animals and plants entering and leaving the territory fail to carry out fumigation and disinfection treatment as prescribed, the port animal and plant quarantine organ may, in the light of the circumstances, cancel their qualification for fumigation and disinfection."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "The following terms used in the Law on the Quarantine of Animals and Plants Entering and Leaving the Territory and in these Regulations have the following meanings:\n(a) \"plant seeds, seedlings and other propagating materials\" means whole plants or parts of cultivated or wild plants capable of propagation, such as plants, nursery stock (including test-tube plantlets), fruits, seeds, rootstocks, scions, cuttings, leaves, buds, root tubers, stem tubers, bulbs, corms, pollen and cell culture materials;\n(b) \"loading containers\" means containers that can be used repeatedly, are susceptible to contamination by diseases and pests and are used for loading goods entering and leaving the territory, such as cages, boxes, barrels and baskets;\n(c) \"other harmful organisms\" means, apart from animal infectious diseases, parasitic diseases and dangerous plant diseases, pests and weeds, the various biological organisms and pathogenic microorganisms harmful to animals and plants, as well as molluscs, rodents, mites and myriapods, and the intermediate hosts and vectors of dangerous diseases and pests;\n(d) \"quarantine certificate\" means a document with legal effect issued by an animal and plant quarantine organ concerning the state of health or hygiene of animals, animal products and other quarantine objects, such as the Animal Quarantine Certificate, the Plant Quarantine Certificate, the Animal Health Certificate, the Veterinary Health Certificate and the Fumigation/Disinfection Certificate."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter X Supplementary Provisions"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "The costs required for, or losses incurred by, the quarantine of animals, animal products and other quarantine objects entering or leaving the territory or the fumigation, disinfection, return or destruction carried out as prescribed shall be borne by the owner of the goods, the owner of the articles or his agent."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter X Supplementary Provisions"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Where a port animal and plant quarantine organ needs to take samples in carrying out quarantine in accordance with the law, it shall issue a sampling voucher; samples remaining after examination shall be collected by the owner of the goods, the owner of the articles or his agent within the prescribed time limit; where they are not collected upon expiry of the time limit, the port animal and plant quarantine organ shall deal with them as prescribed."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter X Supplementary Provisions"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "The quarantine organ for animal products for trade exported from the territory shall be prescribed by the State Council in the light of the circumstances."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter X Supplementary Provisions"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "These Regulations shall come into force on 1 January 1997."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter X Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-REG-0525'] = {
     "lawId": "CN-REG-0525",
     "sourceLang": "zh",
@@ -10052,6 +12590,765 @@
     ]
   };
 
+  TR['CN-REG-0532'] = {
+    "lawId": "CN-REG-0532",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 65 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the Water Law of the People's Republic of China for the purpose of preventing and mitigating drought disasters and the losses caused thereby, ensuring water for domestic use, coordinating water use for production and for the eco-environment, and promoting comprehensive, coordinated and sustainable economic and social development."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Activities of preventing and mitigating drought disasters within the territory of the People's Republic of China shall comply with these Regulations.\nFor the purposes of these Regulations, a drought disaster means an event in which a shortage of water caused by a decrease in precipitation or an inadequate supply of water from water projects causes harm to domestic life, production and the eco-environment."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Drought relief work shall adhere to the principles of putting people first, giving priority to prevention, combining prevention with resistance, adapting measures to local conditions, making overall plans with all factors taken into consideration, and subordinating local interests to overall interests."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "People's governments at or above the county level shall incorporate drought relief work into the national economic and social development plan at the corresponding level, include the funds needed in the financial budget at the corresponding level, and ensure the normal conduct of drought relief work."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Drought relief work shall be subject to the administrative chief responsibility system of people's governments at all levels, with unified command, departmental coordination and assignment of responsibilities at different levels."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The State Flood Control and Drought Relief Headquarters shall be responsible for organising and leading drought relief work throughout the country.\nThe competent water administrative department of the State Council shall be responsible for guiding, supervising and administering drought relief work throughout the country and shall undertake the specific work of the State Flood Control and Drought Relief Headquarters. Other member units of the State Flood Control and Drought Relief Headquarters shall, in accordance with their respective duties, be responsible for the relevant drought relief work."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The flood control and drought relief command organisations for important rivers and lakes designated by the State shall be composed of the people's governments of the relevant provinces, autonomous regions and municipalities directly under the Central Government and the river basin management authorities of such rivers and lakes, and shall be responsible for coordinating drought relief work within their respective jurisdictions; the river basin management authorities shall undertake the specific work of the river basin flood control and drought relief command organisations."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The flood control and drought relief command organisations of local people's governments at or above the county level shall, under the leadership of the flood control and drought relief command organisations at the next higher level and of the people's government at the corresponding level, be responsible for organising and commanding drought relief work within their respective administrative regions.\nThe competent water administrative departments of local people's governments at or above the county level shall be responsible for guiding, supervising and administering drought relief work within their respective administrative regions and shall undertake the specific work of the flood control and drought relief command organisations of the people's government at the corresponding level. Other member units of the flood control and drought relief command organisations of local people's governments at or above the county level shall, in accordance with their respective duties, be responsible for the relevant drought relief work."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "People's governments at or above the county level shall strengthen the construction of water conservancy infrastructure, improve the drought relief engineering system and enhance the capacity for drought relief and disaster reduction."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "People's governments at all levels and the relevant departments shall carry out publicity and education activities on drought relief, enhance the awareness of the whole society of drought relief and disaster reduction, and encourage and support scientific and technological research on drought relief as well as the promotion and application of its results."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "All units and individuals shall have the obligation to protect drought relief facilities and to participate in drought relief in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Units and individuals that make outstanding contributions to drought relief work shall be commended and rewarded in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The competent water administrative department of a local people's government at or above the county level shall, together with the relevant departments at the same level, formulate a drought relief plan for its administrative region, implement it after it is approved by the people's government at the corresponding level, and send a copy to the competent water administrative department of the people's government at the next higher level."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Drought Prevention"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "In formulating a drought relief plan, full consideration shall be given to the level of national economic and social development of the administrative region, the comprehensive development and utilisation of water resources, the patterns and characteristics of drought, the available quantity of water resources and the capacity for drought relief, and the demand for water for domestic use of urban and rural residents and for industrial and agricultural production and for the eco-environment.\nA drought relief plan shall be linked with plans such as those for the development and utilisation of water resources.\nA drought relief plan at a lower level shall be coordinated with the drought relief plan at the next higher level."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Drought Prevention"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "A drought relief plan shall mainly include the development of the drought relief organisational system, the construction of emergency water sources for drought relief, the construction of emergency drought relief facilities, the stockpiling of drought relief materials, the development of drought relief service organisations, the development of a drought monitoring network, and safeguard measures."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Drought Prevention"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "People's governments at or above the county level shall strengthen the construction of farmland water conservancy infrastructure and rural drinking water projects, organise the construction of emergency drought relief projects and their supporting facilities and water-saving renovation, and enhance the capacity for drought relief water supply and the efficiency of water resources utilisation.\nThe competent water administrative departments of people's governments at or above the county level shall organise the management and maintenance of farmland water conservancy infrastructure and rural drinking water projects to ensure their normal operation.\nLocal people's governments and the relevant collective economic organisations in arid and water-deficient areas shall, in the light of local conditions, build small, medium-sized and micro projects for storing, diverting and lifting water and projects for collecting, storing and utilising rainwater."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Drought Prevention"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The State encourages and supports the research, development and use of drought relief and water-saving machinery and equipment, promotes water-saving technologies for farmland, and supports the construction of drought relief facilities in dry farming areas and the development of water-saving dry farming.\nThe State encourages, guides and supports social organisations and individuals in building and operating drought relief facilities and protects their lawful rights and interests."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Drought Prevention"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Local people's governments at or above the county level shall make proper provision for the reserve of emergency water sources for the domestic water supply of urban and rural residents during periods of drought."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Drought Prevention"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "People's governments at or above the county level in areas where drought disasters occur frequently shall, in accordance with the needs of drought relief work, stockpile the necessary drought relief materials and strengthen routine management thereof."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Drought Prevention"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "People's governments at or above the county level shall, in accordance with the carrying capacity of water resources and the water environment, adjust and optimise the economic structure and industrial layout and rationally allocate water resources."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Drought Prevention"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "People's governments at all levels shall carry out publicity and education on water conservation, implement water conservation measures, promote new water-saving technologies and processes, and build a water-saving society."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Drought Prevention"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The competent water administrative departments of people's governments at or above the county level shall properly allocate, dispatch and protect water resources and organise the construction of emergency water source projects for drought relief and rainwater collection facilities.\nThe competent water administrative departments and other relevant departments of people's governments at or above the county level shall promptly provide the flood control and drought relief command organisations of the people's governments with information on water conditions, rainfall conditions and soil moisture conditions."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter II Drought Prevention"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The competent meteorological agencies at all levels shall strengthen scientific and technological research on meteorology, improve the level of meteorological monitoring and forecasting, and promptly provide the flood control and drought relief command organisations of the people's governments with information on meteorological drought and other meteorological information related to drought relief."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter II Drought Prevention"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The competent agriculture departments of people's governments at or above the county level shall properly stockpile and manage agricultural drought relief materials, guide the adjustment of the agricultural planting structure in arid areas, breed, promote and apply drought-tolerant varieties, and promptly provide the flood control and drought relief command organisations of the people's governments with information on agricultural drought."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter II Drought Prevention"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The water supply administration departments shall organise the relevant units to strengthen the construction and maintenance of water supply networks, enhance the water supply capacity, ensure water for the domestic use of residents, and promptly provide the flood control and drought relief command organisations of the people's governments with information on water supply and water use."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter II Drought Prevention"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "People's governments at or above the county level shall organise the relevant departments to make full use of existing resources to build and improve a drought monitoring network and strengthen the monitoring of drought disasters.\nThe flood control and drought relief command organisations of people's governments at or above the county level shall organise the improvement of drought relief information systems, achieve information sharing among member units, and provide a basis for drought relief command decisions."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter II Drought Prevention"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The State Flood Control and Drought Relief Headquarters shall organise its member units to formulate the national flood control and drought relief contingency plan, which shall be implemented after approval by the State Council.\nThe flood control and drought relief command organisations of local people's governments at or above the county level shall organise their member units to formulate drought relief contingency plans, which shall be implemented after examination and consent by the flood control and drought relief command organisations of the people's governments at the next higher level and approval by the people's governments at the corresponding levels.\nThe relevant departments and units must implement the approved drought relief contingency plans. Any modification of a drought relief contingency plan shall be submitted to the original approving authority for approval in accordance with the original approval procedure."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter II Drought Prevention"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "A drought relief contingency plan shall include the implementing agencies of the plan and the duties of the relevant departments, early warning of drought disasters, classification of drought grades and emergency measures to be taken according to different grades, and the plan for water quantity dispatch and safeguard measures under emergency drought conditions.\nDrought disasters shall be classified, on the basis of the area and degree of drought affecting cultivated land and crops in a region and the number of people experiencing difficulty in obtaining drinking water due to drought, into four grades: mild drought, moderate drought, severe drought and extraordinarily severe drought."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter II Drought Prevention"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "County-level people's governments and township people's governments shall, in accordance with the needs of drought relief work, strengthen the development of drought relief service organisations. Local people's governments at all levels at or above the county level shall strengthen support for drought relief service organisations.\nThe State encourages social organisations and individuals to establish drought relief service organisations."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter II Drought Prevention"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "People's governments at all levels shall strengthen supervision and inspection over the implementation of the drought relief responsibility system, the formulation of drought relief contingency plans, the construction and maintenance of drought relief facilities and the stockpiling of drought relief materials, and shall promptly deal with any problems found or instruct the relevant departments and units to deal with them within a specified time limit."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter II Drought Prevention"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The management units of water projects shall conduct regular inspection and maintenance of the drought relief facilities within the scope of their management and protection."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter II Drought Prevention"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Illegal diversion of water, interception of water, and encroachment upon, destruction of or pollution of water sources shall be prohibited.\nDestroying, encroaching upon or damaging drought relief facilities shall be prohibited."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter II Drought Prevention"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Where a drought disaster occurs, the flood control and drought relief command organisation of the people's government at or above the county level shall, in accordance with the powers prescribed in the drought relief contingency plan, activate the drought relief contingency plan and organise drought relief and disaster reduction work."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter III Drought Relief and Disaster Reduction"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Where mild or moderate drought occurs, the flood control and drought relief command organisation of a local people's government at or above the county level shall, in accordance with the provisions of the drought relief contingency plan, take the following measures:\n(a) putting emergency standby water sources into use, or sinking emergency wells and digging springs;\n(b) setting up temporary pumping stations, excavating water conveyance channels, or temporarily intercepting water in rivers, ditches and canals;\n(c) using unconventional water sources such as reclaimed water, brackish water and seawater, and organising the artificial enhancement of rainfall;\n(d) organising the delivery of water to areas where people and livestock have difficulty in obtaining drinking water.\nWhere the measures specified in the preceding paragraph involve other administrative regions, approval shall be obtained from the flood control and drought relief command organisation of the people's government at the next higher level common to them or from the river basin flood control and drought relief command organisation; where other relevant departments are involved, those departments shall be notified in advance. After the drought is relieved, the temporary water intake and water interception facilities shall be dismantled in a timely manner and the relevant departments shall be notified in a timely manner."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter III Drought Relief and Disaster Reduction"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Where severe or extraordinarily severe drought occurs, the State Flood Control and Drought Relief Headquarters shall activate the national flood control and drought relief contingency plan, and the member units of the Headquarters shall, in accordance with the division of work under the flood control and drought relief contingency plan, perform the relevant work.\nThe local people's governments at or above the county level in the places where severe or extraordinarily severe drought occurs may, in addition to the measures specified in Article 34 of these Regulations taken by the flood control and drought relief command organisations, take the following measures:\n(a) reducing water supply quotas;\n(b) restricting or suspending water use by highly water-consuming industries;\n(c) restricting or suspending the discharge of industrial sewage;\n(d) narrowing the scope of agricultural water supply or reducing the quantity of agricultural water supply;\n(e) supplying water for the domestic use of urban residents within limited hours or in limited quantities."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter III Drought Relief and Disaster Reduction"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Where a drought disaster occurs, local people's governments at or above the county level shall allocate water sources in accordance with the principles of unified dispatch, guaranteeing key needs and giving consideration to general needs, give priority to ensuring water for the domestic use of urban and rural residents, and rationally arrange water for production and for the eco-environment."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter III Drought Relief and Disaster Reduction"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Where a drought disaster occurs, the flood control and drought relief command organisation of a people's government at or above the county level or the river basin flood control and drought relief command organisation may, in accordance with the approved drought relief contingency plan, formulate an implementation plan for emergency water quantity dispatch and uniformly dispatch the water stored in reservoirs, hydropower stations, sluices and dams, lakes and other facilities within its jurisdiction. The relevant local people's governments, units and individuals must obey the unified dispatch and command and strictly execute the dispatch instructions."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter III Drought Relief and Disaster Reduction"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where a drought disaster occurs, the flood control and drought relief command organisation of a local people's government at or above the county level shall promptly organise drought relief service organisations to solve the difficulty of rural people and livestock in obtaining drinking water and to provide services such as technical advice on drought relief."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter III Drought Relief and Disaster Reduction"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where a drought disaster occurs, the competent meteorological agencies at all levels shall properly carry out meteorological drought monitoring and forecasting and, when appropriate, conduct operations for the artificial enhancement of rainfall."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter III Drought Relief and Disaster Reduction"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where a drought disaster occurs, the competent health departments of people's governments at or above the county level shall properly carry out disease prevention and control, medical rescue, and health supervision and law enforcement in the areas affected by the drought disaster, supervise and test the sanitary conditions of drinking water sources, ensure the safety and hygiene of drinking water, and prevent the occurrence of major epidemics of infectious diseases caused by the drought disaster."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter III Drought Relief and Disaster Reduction"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where a drought disaster occurs, the civil affairs departments of people's governments at or above the county level shall properly carry out relief work for the drought disaster and make appropriate arrangements for the basic livelihood of the people in the affected areas."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter III Drought Relief and Disaster Reduction"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The township people's governments, sub-district offices, villagers' committees and residents' committees in areas affected by drought disasters shall organise forces to disseminate knowledge of water conservation and drought relief to villagers and residents and assist in the implementation of drought relief measures."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter III Drought Relief and Disaster Reduction"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where a drought disaster occurs, water supply enterprises and institutions shall strengthen the management and maintenance of water supply, water sources and drought relief facilities, put emergency standby water sources into use as required, and ensure the safety of urban and rural water supply."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter III Drought Relief and Disaster Reduction"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Units and individuals in areas affected by drought disasters shall conscientiously conserve water, obey the decisions issued by the local people's governments, cooperate in implementing the drought relief measures taken by the people's governments, and actively participate in drought relief and disaster reduction activities."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter III Drought Relief and Disaster Reduction"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where extraordinarily severe drought occurs, seriously endangering the safety of water for the domestic use and production of urban and rural residents and possibly affecting social stability, the flood control and drought relief command organisation of the people's government of the relevant province, autonomous region or municipality directly under the Central Government may, upon approval by the people's government at the corresponding level, declare the relevant administrative regions within its jurisdiction to enter an emergency drought relief period and shall promptly report to the State Flood Control and Drought Relief Headquarters.\nAfter the situation of extraordinarily severe drought has been alleviated, the flood control and drought relief command organisation of the people's government of the relevant province, autonomous region or municipality directly under the Central Government shall declare the end of the emergency drought relief period and promptly report to the State Flood Control and Drought Relief Headquarters."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter III Drought Relief and Disaster Reduction"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "During an emergency drought relief period, the flood control and drought relief command organisation of the relevant local people's government shall organise and mobilise all relevant units and individuals within its administrative region to engage in drought relief work. All units and individuals must obey the command and undertake the drought relief tasks assigned by the flood control and drought relief command organisation of the people's government."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter III Drought Relief and Disaster Reduction"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "During an emergency drought relief period, the flood control and drought relief command organisation of the relevant local people's government shall, in accordance with the needs of drought relief work, have the power to requisition materials, equipment and means of transport within its jurisdiction."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter III Drought Relief and Disaster Reduction"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "The flood control and drought relief command organisations of local people's governments at or above the county level shall organise the relevant departments to promptly verify and compile statistics on information such as the drought situation, drought disasters and drought relief within their jurisdiction in accordance with the requirements of the drought disaster statistical statements, and report such information to the flood control and drought relief command organisations of the people's governments at the next higher level and to the people's governments at the corresponding levels."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter III Drought Relief and Disaster Reduction"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "The State establishes a unified system for the release of drought relief information. Information on the drought situation shall be examined and released in a unified manner by the flood control and drought relief command organisations of people's governments at or above the county level; information on drought disasters shall be examined and released by the competent water administrative departments of people's governments at or above the county level together with the civil affairs departments at the same level; information on agricultural disaster situations shall be released by the competent agriculture departments of people's governments at or above the county level; and meteorological information related to drought relief shall be released by the competent meteorological agencies.\nThe press, radio, television, the Internet and other media shall promptly publish and broadcast drought relief information and indicate the name of the releasing agency and the time of release."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter III Drought Relief and Disaster Reduction"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "People's governments at all levels shall establish and improve a funding mechanism suited to the level of economic and social development and to the requirements of drought relief and disaster reduction, arrange the necessary funds in the financial budget at the corresponding level, and ensure input for drought relief and disaster reduction."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter III Drought Relief and Disaster Reduction"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Water-related disputes arising from drought relief shall be handled in accordance with the relevant provisions of the Water Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter III Drought Relief and Disaster Reduction"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "After the drought situation has been alleviated, people's governments at all levels and the relevant competent departments shall help the affected people resume production and carry out self-help after the disaster."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter IV Post-disaster Recovery"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "After the drought situation has been alleviated, the competent water administrative departments of people's governments at or above the county level shall inspect and assess water conservancy projects and promptly organise the repair of water conservancy projects damaged by drought disasters; the relevant competent departments of people's governments at or above the county level shall give priority to including water conservancy projects damaged by drought disasters in the annual repair and construction plan."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter IV Post-disaster Recovery"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "After the drought situation has been alleviated, the flood control and drought relief command organisation of the relevant local people's government shall promptly return the materials, equipment and means of transport requisitioned during the emergency drought relief period and grant compensation in accordance with the relevant provisions of the law."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter IV Post-disaster Recovery"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "After the drought situation has been alleviated, the flood control and drought relief command organisation of a people's government at or above the county level shall promptly organise the relevant departments to analyse and assess the impact and losses of the drought disaster and the results of drought relief work; the relevant departments and units shall cooperate and take the initiative to report the relevant situation to the flood control and drought relief command organisation of the people's government at the corresponding level, and shall not make false reports or conceal the truth.\nThe flood control and drought relief command organisation of a people's government at or above the county level may also entrust an entity with the professional qualification for disaster assessment to conduct the analysis and assessment."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter IV Post-disaster Recovery"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Drought relief funds and materials must be used for the designated purposes only, and no unit or individual may withhold, misappropriate, divert or privately distribute them.\nThe finance and audit departments at all levels shall strengthen supervision, inspection and auditing of the management of drought relief funds and materials."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter IV Post-disaster Recovery"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "The State encourages the gradual establishment and implementation of a drought insurance system in drought-prone areas."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter IV Post-disaster Recovery"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where any of the following acts is committed in violation of the provisions of these Regulations, the unit to which the person belongs or the competent authority at the next higher level or the supervisory authority shall order correction; the persons directly in charge and the other persons directly responsible shall be given sanctions in accordance with the law; and where a crime is constituted, criminal liability shall be investigated in accordance with the law:\n(a) refusing to undertake drought relief and disaster relief tasks;\n(b) releasing drought relief information to the public without authorisation;\n(c) making false reports or concealing the truth about the drought situation or the disaster situation;\n(d) refusing to implement the drought relief contingency plan, the plan for water quantity dispatch under emergency drought conditions, or the implementation plan for emergency water quantity dispatch;\n(e) refusing to dismantle the temporary water intake and water interception facilities after the drought situation has been alleviated;\n(f) other acts of abuse of power, malpractice for selfish ends or dereliction of duty."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Whoever withholds, misappropriates, diverts or privately distributes drought relief funds shall be punished in accordance with the provisions of laws and administrative regulations on the punishment and sanction of financial violations; and where a crime is constituted, criminal liability shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, the management units of reservoirs, hydropower stations, river sluices and dams and other projects or the operators of other projects and facilities refuse to obey unified dispatch and command, the competent water administrative department of the people's government at or above the county level or the river basin management authority shall order correction and give a warning; and where correction is refused, the matter shall be enforced, and a fine of not less than RMB 10,000 but not more than RMB 50,000 shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, water sources or drought relief facilities are encroached upon or destroyed, the competent water administrative department of the people's government at or above the county level or the river basin management authority shall order the cessation of the illegal act, take remedial measures, and impose a fine of not less than RMB 10,000 but not more than RMB 50,000; where damage is caused, civil liability shall be borne in accordance with the law; where the act constitutes a violation of public security administration, punishment shall be imposed in accordance with the provisions of the Law of the People's Republic of China on Penalties for Administration of Public Security; and where a crime is constituted, criminal liability shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, water is seized, illegally diverted or intercepted, or drought relief materials are plundered, the competent water administrative department of the people's government at or above the county level or the river basin management authority shall order the cessation of the illegal act and give a warning; where the act constitutes a violation of public security administration, punishment shall be imposed in accordance with the provisions of the Law of the People's Republic of China on Penalties for Administration of Public Security; and where a crime is constituted, criminal liability shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, the staff of a flood control and drought relief command organisation, a competent water administrative department or a river basin management authority are obstructed or threatened in the lawful performance of their duties, the competent water administrative department of the people's government at or above the county level or the river basin management authority shall order correction and give a warning; where the act constitutes a violation of public security administration, punishment shall be imposed in accordance with the provisions of the Law of the People's Republic of China on Penalties for Administration of Public Security; and where a crime is constituted, criminal liability shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "The participation of the Chinese People's Liberation Army and the Chinese People's Armed Police Force in drought relief and disaster relief shall be governed by the relevant provisions of the Regulations on the Participation of the Armed Forces in Emergency Rescue and Disaster Relief."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "These Regulations shall come into force on the date of promulgation."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-REG-0533'] = {
     "lawId": "CN-REG-0533",
     "sourceLang": "zh",
@@ -10260,6 +13557,948 @@
         },
         "noLabel": {
           "en": "Article 22."
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0534'] = {
+    "lawId": "CN-REG-0534",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 79 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the Mineral Resources Law of the People's Republic of China (hereinafter referred to as the Mineral Resources Law)."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The State promotes the rational development and utilisation of mineral resources, strengthens the protection of mineral resources and the ecological environment, advances the high-quality development of the mining industry and safeguards the security of mineral resources."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The determination and adjustment of the catalogue of mineral resources shall be proposed by the natural resources department of the State Council together with the development and reform department of the State Council, and shall be published after approval by the State Council.\nThe catalogue of mineral resources includes the mineral species and the classification of mineral resources."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The State increases investment in basic geological survey work, strengthens the building of the basic geological survey workforce, encourages social forces to participate in basic geological survey in an orderly manner in accordance with law, and improves the quality and efficiency of basic geological survey work."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The State improves policies and measures on fiscal affairs, finance, land, ecological environment, industry and import and export, improves the system for overall coordination and linkage across the entire chain of exploration, production, supply, storage and sale of strategic mineral resources, increases support for the exploration, extraction, processing, trade and storage of strategic mineral resources, promotes the optimisation and upgrading of the strategic mineral resources industry and raises the level of safeguard for mineral resources security.\nThe determination and adjustment of the catalogue of strategic mineral resources shall be studied and proposed by the natural resources department of the State Council together with the relevant departments of the State Council and implemented after approval by the State Council. In determining and adjusting the catalogue of strategic mineral resources, the following factors shall be considered in an overall manner and the mineral resources concerned shall be assessed:\n(a) the degree of importance to national economic and social development and national security;\n(b) the domestic resource endowment, the degree of scarcity and the degree of dependence on foreign sources;\n(c) the resilience and security level of the relevant industrial and supply chains;\n(d) other factors requiring consideration.\nFor specific strategic mineral resources determined by the State Council, protective extraction measures such as planning control, aggregate volume regulation and restriction of the extracting entities shall be applied in accordance with laws, administrative regulations and the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Mineral resources-related plans formulated and approved in accordance with Article 9 of the Mineral Resources Law shall be published in accordance with law. Activities such as geological survey, exploration, extraction and protection of mineral resources and ecological restoration of mining areas shall conform to mineral resources-related plans.\nThe natural resources departments of people's governments at or above the county level may, in light of actual needs and together with the relevant departments, formulate relevant plans for the exploration, extraction, protection and ecological restoration of mineral resources in specific fields, specific areas or of specific mineral species, and the relevant information shall be incorporated into the information system for supervision of the implementation of territorial spatial planning."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The State adheres to the principle of equality, mutual benefit and win-win cooperation, and actively promotes international cooperation in investment, trade and technology in the field of mineral resources through multiple channels and means, so as to maintain the security and stability of industrial and supply chains.\nIn carrying out the development and utilisation of overseas mineral resources, national interests and public interests shall be safeguarded, the laws and regulations of China and the relevant laws of the country or region concerned shall be observed, contracts shall be honoured, local customs and cultural traditions shall be respected, attention shall be paid to ecological and environmental protection and work safety, security risk prevention shall be strengthened, and the relevant formalities shall be gone through in accordance with the provisions, with management and supervision by the relevant departments of China and Chinese diplomatic missions abroad accepted in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Mineral rights shall be granted through competitive means such as invitation to bid, auction and listing; for strategic mineral resources with a high degree of scarcity and a resource reserve scale above medium size, or for exploration blocks with special requirements on exploration and extraction technology or ecological and environmental protection, exploration rights shall be granted by way of invitation to bid in priority.\nMineral rights may be granted by agreement in any of the following circumstances:\n(a) the mineral resources concerned need to be explored and extracted by a specific entity in accordance with laws, administrative regulations or the provisions of the State Council;\n(b) in order to safeguard mine work safety or to reasonably set mineral rights, it is necessary to continue extracting mineral resources in the deep part or the upper part of the registered extraction area, or to further extract scattered and dispersed mineral resources in its surroundings;\n(c) the same mineral rights holder explores and extracts mineral resources in a gap area between its registered adjacent exploration or extraction areas where mineral rights cannot be separately established;\n(d) other circumstances provided for by laws, administrative regulations or the State Council.\nIn order to safeguard national mineral resources security, where strategic mineral resources need to be extracted urgently, the natural resources department of a people's government at or above the provincial level may, with the consent of the State Council, directly grant the mining right."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Mining Rights"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The natural resources departments of people's governments at or above the county level shall organise the grant of mineral rights within the limits of their authority as prescribed.\nThe following mineral resources shall have their mineral rights granted by the natural resources department of the State Council or by the natural resources department of the people's government of the province, autonomous region or municipality directly under the Central Government as authorised by it:\n(a) strategic mineral resources;\n(b) mineral resources spanning provinces, autonomous regions or municipalities directly under the Central Government;\n(c) mineral resources in the territorial sea and other sea areas under the jurisdiction of China.\nThe authority to grant mineral rights for mineral resources other than those specified in the preceding paragraph shall be prescribed by the people's governments of provinces, autonomous regions and municipalities directly under the Central Government.\nThe grant of exploration rights and mining rights for the same mineral species shall be administered at the same level. Where the grant of mineral rights involves multiple mineral species, the authority to grant shall be determined according to the principal mineral species; where the principal mineral species is difficult to determine, it shall be determined according to the mineral species with the highest granting authority."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Mining Rights"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The natural resources departments of people's governments at or above the county level shall, on the basis of mineral resources-related plans and the situation of supply and demand of mineral resources, strengthen the overall arrangement of the grant of mineral rights and arrange the grant in a timely manner for those meeting the conditions for grant.\nBefore the grant of mineral rights, the natural resources department granting the mineral rights (hereinafter referred to as the mineral rights granting department) shall conduct verification to ensure that the exploration or extraction area to be granted conforms to the control requirements of territorial spatial planning.\nThe grant of exploration rights shall take blocks divided by latitude and longitude as the basic unit.\nUnless the circumstances conform to the provisions, the scope of a newly established mining right may not overlap with the vertical projection scope of an established mining right, and no more than two mining rights may be established for the same ore body that can be developed in a concentrated manner."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Mining Rights"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Units and individuals that provide the natural resources departments of people's governments at or above the county level with sources of blocks where exploration rights may be established shall be given appropriate awards or compensation in accordance with the relevant provisions of the State; where they participate in the competitive grant of the exploration right for such block, they shall obtain the exploration right in priority under equal conditions."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Mining Rights"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Where mineral rights are granted through competitive means, the mineral rights granting department shall, in advance, announce on its portal website, public resources trading platform, etc. the basic information of the mineral rights to be granted, the manner of grant, the competition rules, the collection of security deposits, risk warnings, the technical capacity of the grantee and other conditions as well as its rights and obligations. The announcement period shall be not less than 30 working days.\nThe natural resources department of the State Council, the local people's governments at or above the county level and their natural resources departments shall create and maintain a fair and orderly market competition environment and ensure that all types of entities participate equally in the competitive grant of mineral rights in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Mining Rights"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where mineral rights are granted, the mineral rights granting department shall conclude a mineral rights grant contract in written form with the grantee determined in accordance with law.\nAfter the mineral rights grant contract is concluded, where the mineral rights do not conform to the control requirements of territorial spatial planning and exploration or extraction cannot be carried out because of an error in the verification by the mineral rights granting department, the grantee has the right to rescind the contract. After the contract is rescinded, the mineral rights granting department shall return the mineral rights grant proceeds; where property losses are caused to the grantee, compensation shall be made in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Mining Rights"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The grantee of mineral rights shall, in accordance with the relevant provisions of the State and the stipulations of the grant contract, pay the mineral rights grant proceeds, the mineral rights occupation fee and other relevant fees in full and on time. The specific measures for collecting the relevant fees for mineral rights shall be formulated by the finance department of the State Council together with the natural resources department of the State Council and the tax department of the State Council, and shall be implemented after approval by the State Council.\nThe mineral rights grant proceeds may be reduced or exempted in any of the following circumstances:\n(a) exploring or extracting low-grade mineral resources that are difficult to dress and smelt;\n(b) achieving notable results in the comprehensive development and utilisation of mineral resources;\n(c) organising and implementing emergency extraction of mineral resources in accordance with law;\n(d) other circumstances provided for by the State Council.\nWhere the mineral rights grant proceeds are not paid in full and on time, liquidated damages shall be paid in accordance with the relevant provisions of the State and the stipulations of the grant contract."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Mining Rights"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The term of an exploration right shall be five years, and may be renewed upon expiry, with no more than three renewals, each for a term of five years. For petroleum, natural gas and other strategic mineral resources determined by the natural resources department of the State Council, the number of renewals may be increased in light of the actual circumstances with the consent of the natural resources department of the State Council.\nThe term of a mining right shall be determined in light of the mineral resources reserves and the scale of mine construction, and shall not exceed 30 years. The specific measures for determining the term of a mining right shall be formulated by the natural resources department of the State Council. Where, upon expiry of the term of a mining right, there are still mineral resources available for extraction within the registered extraction area, the term may be renewed.\nBefore the expiry of the term of mineral rights, the original mineral rights granting department may, in accordance with law, recover the mineral rights where it is necessary for public interests such as safeguarding national mineral resources security; where mineral rights are recovered, fair and reasonable compensation shall be given in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Mining Rights"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "To apply for renewal of mineral rights, the mineral rights holder shall, within the period from six months to three months before the expiry of the term of the mineral rights, submit an application to the original mineral rights granting department. The original mineral rights granting department shall make a decision on whether to permit renewal before the expiry of the term of the mineral rights."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Mining Rights"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "When handling the renewal of an exploration right, the area of the exploration region shall be reduced in the proportion prescribed by the natural resources department of the State Council. However, exploration regions where mineral resources have already been proven or which conform to the circumstances prescribed by the natural resources department of the State Council shall not be counted in the base for calculating the area to be reduced.\nWhere part of an exploration region for which an exploration right has been established cannot continue to be explored because of public interests such as ecological and environmental protection or infrastructure construction, or because of force majeure such as natural disasters, the area to be reduced may be offset against the area required to be reduced upon the strength of the relevant supporting documents in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Mining Rights"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where an exploration rights holder applies, in accordance with Article 25 of the Mineral Resources Law, to convert its exploration right into a mining right, it shall, within the term of the exploration right, submit an application to the original mineral rights granting department together with the mineral resources reserve report (hereinafter referred to as the reserve report) and other materials. The original mineral rights granting department shall conclude a mining right grant contract with the exploration rights holder and establish the mining right, except in any of the following circumstances:\n(a) the proven mineral resources need to be extracted by a specific entity other than the exploration rights holder in accordance with the relevant provisions of the State;\n(b) the proven mineral resources do not reach the reserve scale or production capacity requirements prescribed by the relevant industrial policies;\n(c) the proven mineral resources cannot be converted into a mining right because of public interests, or no longer meet the extraction conditions because of special circumstances such as force majeure;\n(d) other circumstances provided for by laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Mining Rights"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Mineral rights may be transferred in accordance with law. However, mineral rights may not be transferred in any of the following circumstances:\n(a) the mineral rights were acquired by way of agreement grant and have been held for less than five years;\n(b) the mineral rights have been sealed up in accordance with law;\n(c) the ownership of the mineral rights is unclear or is in dispute;\n(d) the mineral rights grant contract stipulates that the mineral rights may not be transferred;\n(e) other circumstances in which transfer is prohibited by the provisions of the State.\nA mining right directly granted by the natural resources department of a people's government at or above the provincial level in accordance with paragraph 3 of Article 8 of these Regulations may not be transferred without the consent of the natural resources department that originally granted the mining right.\nWhere the actual controller changes as a result of an equity transfer or otherwise, the mineral rights holder shall report to the original mineral rights granting department."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Mining Rights"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where mineral rights are transferred, the grantee shall possess the conditions such as the technical capacity of the grantee required at the time of the grant of the mineral rights."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Mining Rights"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where mineral rights are transferred, the transferor and the grantee shall conclude a mineral rights transfer contract in written form specifying the rights and obligations of both parties. The mineral rights transfer contract shall clearly stipulate the matters concerning the performance of the obligation of ecological restoration of the mining area.\nThe term after the transfer of mineral rights shall be the remaining term of the mineral rights."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Mining Rights"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The establishment, modification, transfer, mortgage and extinguishment of mineral rights shall be registered in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter II Mining Rights"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The exploration of mineral resources with State investment as mentioned in item 1 of Article 28 of the Mineral Resources Law refers to the exploration of mineral resources carried out with funds from the central or local treasury for the purpose of safeguarding national mineral resources security. Where mineral resources are explored with State investment, geological exploration work shall be carried out upon the strength of the project assignment document without the need to obtain an exploration right.\nA mining rights holder that needs to conduct exploration for extraction activities within the registered extraction area, or conducts exploration in the deep part or the upper part of the registered extraction area, does not need to obtain an exploration right."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter II Mining Rights"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Where the construction unit of a construction project, within the approved operation area and construction period, excavates sand, stone or clay that can only be used as ordinary building materials for construction needs, it does not need to obtain a mining right. The disposal of the excavated sand, stone and clay shall comply with the relevant provisions of the province, autonomous region or municipality directly under the Central Government where they are located, and may not be disposed of at will (except where used by the construction project itself).\nThe approved operation area mentioned in the preceding paragraph does not include the temporary land use area for the construction of the construction project."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter II Mining Rights"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The natural resources department of the State Council together with the relevant departments of the State Council shall establish and improve the system of technical standards and specifications for basic geological survey.\nUnits engaged in basic geological survey work shall strictly implement the relevant technical standards and specifications and be responsible for the quality of the survey results. The natural resources departments of people's governments at or above the county level shall strengthen supervision over the quality of basic geological survey results.\nNo unit or individual may obstruct or hinder basic geological survey work carried out in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Survey and Extraction of Mineral Resources"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The natural resources departments of people's governments at or above the provincial level shall strengthen the administration of the release of basic geological survey results and release information on basic geological survey results in a unified manner within the limits of their authority as prescribed; before release, a confidentiality review shall be conducted in accordance with law, and result data involving State secrets, work secrets or trade secrets may not be released."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Survey and Extraction of Mineral Resources"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The natural resources departments of people's governments at or above the provincial level shall provide construction units with inquiry services on the distribution of mineral resources and the establishment of mineral rights within the land area occupied by construction projects.\nWhere a construction project really needs to cover mineral resources for which mineral rights have been established and thereby directly affects the normal exploration or extraction activities of the mineral rights holder, the construction unit shall consult the mineral rights holder before covering and give the mineral rights holder fair and reasonable compensation in accordance with law. Where change of registration or deregistration of mineral rights is required in accordance with law because the mineral resources are covered, the mineral rights holder shall handle it in accordance with law.\nWhere a construction project really needs to cover strategic mineral resources, it shall be approved by the natural resources department of the State Council or by the natural resources department of the people's government of the province, autonomous region or municipality directly under the Central Government as authorised by it. Where a construction project within the urban development boundary determined by a territorial spatial plan approved in accordance with law really needs to cover strategic mineral resources, the relevant examination and approval shall be simplified in light of the actual circumstances.\nWhere, upon scientific assessment, a construction project covers mineral resources but does not directly affect normal exploration or extraction activities, it may be treated as not covering mineral resources."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Survey and Extraction of Mineral Resources"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Before carrying out exploration or extraction operations for mineral resources, the mineral rights holder shall separately prepare an exploration plan and an extraction plan, submit them to the original mineral rights granting department for approval and obtain an exploration licence and a mining licence; where the corresponding licence has not been obtained, exploration or extraction operations may not be carried out.\nIn preparing an exploration plan, the exploration region shall be clearly defined, exploration working methods shall be reasonably selected, and arrangements shall be made for the clean-up and restoration after the exploration activities are completed, on the basis of the mineral species and scope of exploration, the relevant standards and technical specifications for exploration and the requirements of exploration work such as green exploration.\nIn preparing an extraction plan, the extraction mode, extraction sequence and extraction method shall be reasonably selected, and arrangements shall be made for space use and the safeguard measures for comprehensive extraction and comprehensive utilisation of resources, on the basis of the mineral species and scope of extraction, the occurrence of resources, the technical specifications for extraction and the requirements of extraction work such as rational development and utilisation of mineral resources and green mine construction.\nWhere mineral resources are extracted in a comprehensive manner, the mineral species to be extracted shall be reasonably determined and registered in light of the actual extraction situation, on the basis of the reserve report and the extraction plan."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Survey and Extraction of Mineral Resources"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "To apply for an exploration licence or a mining licence, an application form, the mineral rights certificate and the corresponding exploration plan or extraction plan and other materials shall be submitted to the original mineral rights granting department. The original mineral rights granting department shall, within 15 working days from the date of acceptance of the application, make a decision on whether to approve. Where approval is granted, the exploration licence or mining licence shall be issued; where approval is not granted, the applicant shall be notified in writing with reasons stated.\nAfter accepting the application, the original mineral rights granting department may organise experts to review the exploration plan or extraction plan and issue review opinions within 10 working days. The time required for the review shall not be counted within the time limit for licence examination, and the costs may not be borne by the mineral rights holder.\nThe date of expiry of an exploration licence or mining licence shall be the same as the date of expiry of the exploration right or mining right.\nAfter issuing a mining licence, the original mineral rights granting department shall promptly notify the relevant local people's government of the extraction area to organise and implement the boundary survey of the mining right."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Survey and Extraction of Mineral Resources"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "A mineral rights holder may apply for an exploration licence or mining licence concurrently when handling the registration of mineral rights.\nWhere mineral rights are transferred, the grantee shall reapply for an exploration licence or mining licence."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Survey and Extraction of Mineral Resources"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The specific measures for the administration of exploration licences and mining licences shall be formulated by the natural resources department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Survey and Extraction of Mineral Resources"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "A mineral rights holder shall carry out exploration or extraction operations in accordance with the approved exploration plan or extraction plan.\nWhere the main working methods of exploration change, the exploration rights holder shall adjust the exploration plan and submit it to the original mineral rights granting department for approval.\nWhere the extraction mode undergoes a major change or the principal mineral species to be extracted changes, the mining rights holder shall adjust the extraction plan, submit it to the original mineral rights granting department for approval and have a new mining licence issued."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III Survey and Extraction of Mineral Resources"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Before carrying out exploration or extraction operations for mineral resources, a mineral rights holder shall, in accordance with law, go through the relevant formalities for construction project approval (filing), land and sea use, ecological environment and work safety; where military land is involved, approval shall also be obtained by a unit at or above the regiment level of the armed forces in accordance with the relevant provisions of the Central Military Commission.\nWhere a mining rights holder prepares a feasibility study report for a mine development project, a preliminary mine design (oil and gas field development plan), etc., the same shall be linked with the extraction plan."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter III Survey and Extraction of Mineral Resources"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Within protected natural areas, activities such as basic geological survey conforming to control requirements, prospective survey of strategic mineral resources and exploration and extraction of strategic mineral resources within the prescribed scope may be carried out in accordance with law; the specific administrative measures shall be formulated by the natural resources department of the State Council and the forestry and grassland department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter III Survey and Extraction of Mineral Resources"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The mining land mentioned in paragraph 1 of Article 34 of the Mineral Resources Law includes land for exploration of mineral resources and land for extraction of mineral resources.\nLand for exploration of mineral resources includes land used for exploration operations and land used for building or constructing living quarters, work sheds, transport access roads, etc. to meet the needs of exploration operations.\nLand for extraction of mineral resources includes land used for mining operations such as excavating mineral resources, and land used for stacking extracted ore, waste rock and waste residue, and for building industrial plants, shaft and roadway engineering, tailings ponds, supporting ore-dressing plants, living service facilities and transport facilities, etc. to meet the needs of mining operations.\nPeople's governments at or above the county level shall safeguard the reasonable demand for land for exploration and extraction of mineral resources in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter III Survey and Extraction of Mineral Resources"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "A mineral rights holder may use State-owned land in accordance with law by way of allocation, grant, lease or capital contribution at a valuated price, and may also acquire the right to use collective operating construction land in accordance with law by way of grant, lease, etc.\nWhere State-owned land and collective operating construction land are used for extracting mineral resources, they may be granted by agreement."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter III Survey and Extraction of Mineral Resources"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "For exploration of mineral resources, land may be used temporarily in accordance with the provisions of the laws and administrative regulations on land administration.\nWhere open-pit extraction of strategic mineral resources occupies land and, upon scientific demonstration, the conditions for extraction and simultaneous reclamation are met, the mineral rights holder may, after reporting to the natural resources department of a people's government at or above the provincial level for approval, use the land temporarily; where forest land or grassland is involved, the natural resources department concerned shall solicit the opinions of the forestry and grassland department at the same level. Temporary land use shall be approved by zones and by stages, with each stage in principle not exceeding five years. Where a mineral rights holder fails to perform the obligation of ecological restoration of the mining area such as land reclamation in accordance with the provisions, the natural resources department concerned may not approve new temporary land use for it."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter III Survey and Extraction of Mineral Resources"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where, in the course of exploring petroleum, natural gas and other mineral resources, mineral resources such as petroleum and natural gas available for extraction are discovered, the exploration rights holder may, after completing the oil (gas) testing operation and submitting a plan for integrating exploration and extraction to the original mineral rights granting department, carry out extraction, and shall go through the filing formalities with the relevant energy department in accordance with the provisions.\nWhere an exploration rights holder extracts petroleum, natural gas and other mineral resources in accordance with the preceding paragraph, it shall, within the time limit prescribed by the natural resources department of the State Council, apply to the original mineral rights granting department for converting its exploration right into a mining right, handle the registration of the mining right in accordance with law and obtain a mining licence."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter III Survey and Extraction of Mineral Resources"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The natural resources department of the State Council together with the relevant departments of the State Council shall improve the policies, standards and specifications for green mines, improve the list of green mines and implement dynamic management. Mineral rights holders shall strengthen the planning, construction, operation and management of green mines and promote the green development of mining enterprises."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter III Survey and Extraction of Mineral Resources"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "The natural resources department of the State Council together with the relevant departments of the State Council shall organise the formulation of national standards for the mining recovery rate, ore-dressing recovery rate and comprehensive utilisation rate of mineral resources.\nMining rights holders shall take effective measures in technology, equipment, management and other respects to ensure that the mining recovery rate, ore-dressing recovery rate and comprehensive utilisation rate of mineral resources meet the requirements of the relevant national standards.\nThe State formulates and improves the relevant incentive policies and measures to promote the improvement of the mining recovery rate, ore-dressing recovery rate and comprehensive utilisation rate of mineral resources."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter III Survey and Extraction of Mineral Resources"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "The natural resources departments of people's governments at or above the county level shall, together with the relevant departments, strengthen the promotion and application of advanced and applicable technologies, processes and equipment for the comprehensive extraction and comprehensive utilisation of mineral resources, encourage and guide mining rights holders to upgrade technologies and processes and renew equipment, and advance the industrialised development of the comprehensive utilisation of mineral resources."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter III Survey and Extraction of Mineral Resources"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The State establishes a mineral resources reserve management system and strengthens the investigation, verification, statistics and assessment of mineral resources reserves and their changes, so as to provide a basis for formulating mineral resources-related plans, promoting the rational development and utilisation of mineral resources and strengthening the protection of mineral resources.\nThe State periodically organises assessments of the potential of mineral resources and investigations of the status of development and utilisation, and strengthens the assessment and management of mineral resources reserves, the value of mineral rights and the related rights and interests."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter III Survey and Extraction of Mineral Resources"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where a mineral rights holder, through exploration work, has proven mineral resources available for extraction, or discovers a major change in mineral resources reserves during extraction, it shall prepare a reserve report and submit it to the original mineral rights granting department. The reserve report shall include the spatial distribution, types, quantity and quality of the mineral resources and the demonstration of industrial indicators of the deposit, and shall explain the technical performance of ore processing and smelting, the technical conditions for extraction and the economic significance of development.\nThe original mineral rights granting department shall examine the reserve report submitted by the mineral rights holder and may, as required by the examination work, organise the relevant units to conduct a technical assessment of the reserve report. A reserve report that has been examined may serve as a basis for the statistics and supervision and administration of mineral resources reserves.\nA mineral rights holder shall be responsible for the authenticity of the reserve report it submits and may not resort to fraud."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter III Survey and Extraction of Mineral Resources"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "A mining rights holder shall carry out monitoring of mineral resources reserves in accordance with the provisions, establish and improve the ledger of mineral resources reserves, and periodically report the changes in mineral resources reserves and the development and utilisation situation to the original mineral rights granting department."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter III Survey and Extraction of Mineral Resources"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where a mine is closed, the mining rights holder shall, in accordance with the relevant provisions of the State, submit the geological report on closure to the natural resources department of the local people's government at or above the county level and submit the relevant geological data."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter III Survey and Extraction of Mineral Resources"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "The natural resources departments of local people's governments at or above the county level shall, together with the relevant departments, investigate and assess the ecological damage such as damage to the geological environment, land destruction and vegetation degradation caused by the extraction of mineral resources within their respective administrative areas, and identify the key areas, objectives and tasks of ecological restoration of mining areas."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter IV Ecological Restoration of Mining Areas"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "The mining rights holder is the party responsible for the ecological restoration of the mining area. The mining rights holder shall implement the ecological restoration of the mining area in coordination with pollution prevention and control.\nWhere a mining right is transferred, unless otherwise provided by the State or otherwise agreed in the mineral rights grant or transfer contract, the grantee shall perform the obligation of ecological restoration of the mining area. Where the transferor resorts to fraud in respect of the ecological restoration of the mining area in the course of transferring the mining right, its ecological restoration obligation shall not be exempted by the transfer of the mining right."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter IV Ecological Restoration of Mining Areas"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "For abandoned mining areas left over from history, the natural resources department of the local people's government at or above the county level shall confirm the party responsible for the ecological restoration of the mining area; where the responsible party no longer exists or cannot be confirmed, the local people's government at or above the county level shall organise the ecological restoration of the mining area and carry out pollution control in coordination.\nThe natural resources department of the State Council and other relevant departments may formulate special policies to support local people's governments in carrying out ecological restoration of abandoned mining areas left over from history. Local people's governments at or above the county level may, in accordance with law, broaden the funding channels for ecological restoration of mining areas through various means."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter IV Ecological Restoration of Mining Areas"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "The State improves policies and measures, encourages social capital to participate in the ecological restoration of mining areas in accordance with law, and safeguards the lawful rights and interests of the social capital participating in the ecological restoration of mining areas.\nThe State gives full play to the role of market mechanisms in the ecological restoration of mining areas and advances the market-oriented development of ecological restoration of mining areas."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter IV Ecological Restoration of Mining Areas"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Before extracting mineral resources, the mining rights holder shall, in accordance with laws, regulations and the provisions of the natural resources department of the State Council as well as the mineral rights grant contract, prepare an ecological restoration plan for the mining area and submit it together with the extraction plan to the original mineral rights granting department for approval. The ecological restoration plan for the mining area shall specify the objectives and tasks, engineering layout, technical measures, schedule, budget estimate and safeguard measures of the ecological restoration; where a tailings pond is involved, special measures for the restoration of the tailings pond shall also be specified.\nIn preparing the ecological restoration plan for the mining area, opinions shall be solicited through publicity within the relevant scope involved in the mining area in accordance with paragraph 2 of Article 46 of the Mineral Resources Law, and the opinions of the relevant units and individuals shall be heard specially. The mining rights holder shall, when submitting the ecological restoration plan for the mining area for approval, explain the circumstances of soliciting opinions through publicity and specially hearing opinions.\nWhere a mining rights holder adjusts the ecological restoration plan for the mining area, it shall report it to the original mineral rights granting department for the record in accordance with the provisions of the natural resources department of the State Council; where the extraction plan is adjusted in accordance with paragraph 3 of Article 32 of these Regulations, the ecological restoration plan for the mining area shall be prepared anew and submitted together with the extraction plan to the original mineral rights granting department for approval.\nWhere an ecological restoration plan for the mining area has been prepared in accordance with the provisions, a land reclamation plan need not be prepared."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter IV Ecological Restoration of Mining Areas"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where the ecological restoration of a mining area can be carried out simultaneously with extraction, or by zones and by stages, the mining rights holder shall, on the basis of the mine extraction design and process flow, extraction progress, the scope and type of mining land, work safety conditions and the circumstances of land destruction and ecological damage, reasonably divide restoration units and arrange the restoration schedule and carry out ecological restoration in a timely manner; where restoration simultaneously with extraction or by zones and by stages is not possible, the ecological restoration shall be completed before mine closure or within two years after mine closure, provided that the time limit for ecological restoration of mining areas extracting radioactive mineral resources may be determined in light of actual needs."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter IV Ecological Restoration of Mining Areas"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "After completing ecological restoration in accordance with the ecological restoration plan for the mining area, the mining rights holder shall promptly apply for acceptance check to the natural resources department of the local people's government at or above the county level where the mining area is located; where the ecological restoration is completed by zones and by stages, application for acceptance check shall be made by zones and by stages.\nThe natural resources departments of local people's governments at or above the county level shall, together with the ecological environment department and other relevant departments, organise the acceptance check of the ecological restoration of the mining area. Where the acceptance check is passed, a written confirmation of passing the acceptance check shall be issued to the mining rights holder; where the acceptance check is not passed, written rectification opinions shall be issued to the mining rights holder, and the mining rights holder shall apply for acceptance check anew after completing rectification."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter IV Ecological Restoration of Mining Areas"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "The costs of ecological restoration of the mining area shall be appropriated annually by the mining rights holder; unless otherwise provided by law, the costs of ecological restoration of the mining area may not be sealed up, frozen or transferred."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter IV Ecological Restoration of Mining Areas"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "In accordance with the principles of government leadership, joint social contribution, diversified complementarity and efficient coordination, the State builds a strategic mineral resources reserve system combining product reserves, production capacity reserves and origin reserves, scientifically and reasonably determines the reserve structure, scale and layout and adjusts them dynamically, and gives play to the functions of reserves such as strategic safeguard, macro-control and response to urgent needs.\nThe State improves the supervision system for strategic mineral resources reserves, accelerates the construction of reserve facilities, raises the level of professionalism of reserve operating entities, strengthens the informatisation of reserves and continuously enhances the overall effectiveness of strategic mineral resources reserves. People's governments at or above the county level shall, as needed, incorporate strategic mineral resources reserves into the relevant plans for national economic and social development and territorial spatial planning, and give support in arranging major project construction."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter V Mineral Resource Reserves and Emergency Response"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "The development and reform department of the State Council shall coordinate the work of national mineral product reserves, periodically draft reserve plans and aggregate volume plans and dynamically adjust the variety and scale of reserves; the food and strategic reserves department of the State Council shall organise the implementation of the purchase, storage, rotation and routine management of central government mineral product reserves; the energy department of the State Council shall, in accordance with its duties, be responsible for the relevant work of energy reserves. Local people's governments at or above the county level shall carry out mineral product reserves in accordance with the relevant provisions of the State and in light of local realities.\nThe enterprises concerned shall do a good job in mineral product reserves in accordance with the relevant provisions of the State. The State improves policies and measures to support enterprises in carrying out mineral product reserves.\nThe department administering reserves of strategic mineral resource products and the reserve-holding units shall strengthen the management of strategic mineral product assets and report the management of mineral product reserves in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter V Mineral Resource Reserves and Emergency Response"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "The specific measures for production capacity reserves of energy strategic mineral resources shall be formulated by the energy department of the State Council together with the relevant departments of the State Council; the specific measures for production capacity reserves of other strategic mineral resources shall be formulated by the industry and information technology department of the State Council together with the relevant departments of the State Council.\nMining rights holders extracting strategic mineral resources shall, in accordance with the relevant provisions of the State and in light of the mine production capacity, external transport conditions and work safety situation, prepare a production capacity reserve construction plan, implement the responsibility for production capacity reserves, rationally plan production capacity and ensure the need to increase production in emergencies."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter V Mineral Resource Reserves and Emergency Response"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Origin reserves of strategic mineral resources shall follow the principles of scientific assessment, rational layout, hierarchical management and dynamic adjustment, and shall, in conjunction with the relevant plans for the development and utilisation of national mineral resources and for security safeguards, take into overall account factors such as resource endowment, technical conditions for development and utilisation, domestic and international supply and demand, and ecological location, reasonably determine the scale and layout of reserves, carry out the necessary supplementary exploration of reserve sites, enhance the capacity for emergency extraction and organically link up with product reserves and production capacity reserves so as to form a tiered supply capacity.\nThe natural resources department of the State Council shall take the lead in organising the work of national origin reserves of strategic mineral resources, study and propose opinions on the mineral species, scale and layout of origin reserves, organise stock-taking surveys, assessment and demonstration and reserve exploration for origin reserves, designate strategic mineral resources reserve sites, and strengthen the monitoring and protection supervision of origin reserves. The natural resources departments of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall assist in the relevant work of origin reserves and organise protection supervision in accordance with their territorial management duties. Enterprises are encouraged to actively participate in the work of origin reserves.\nThe term of origin reserves of strategic mineral resources shall be linked with mineral resources-related plans and shall in principle be not less than five years. Upon expiry of the reserve term, the natural resources department of the State Council shall, together with the relevant departments of the State Council, organise assessment and demonstration to determine whether to extend the reserve term and shall carry out adjustment and drawdown of origin reserves as needed.\nStrategic mineral resources included in origin reserves may not be extracted or covered without the approval of the natural resources department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter V Mineral Resource Reserves and Emergency Response"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "The development and reform, industry and information technology, natural resources, food and strategic reserves, mine safety inspection and other relevant departments of the State Council shall establish and improve a working system for forecasting and early warning of mineral resources supply security, strengthen the sharing and application of data and information related to mineral resources supply security, carry out comprehensive monitoring, analysis and assessment of changes in mineral product supply and demand, price fluctuations and security risk situations, and conduct forecasting and early warning in a timely manner."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter V Mineral Resource Reserves and Emergency Response"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "The other necessary measures mentioned in item 6 of paragraph 1 of Article 55 of the Mineral Resources Law include, but are not limited to, directly organising the extraction, processing, transport and supply of mineral resources, requisitioning the relevant mineral products, mineral product reserve facilities and means of transport, and organising the supply of mineral resources or mineral products in accordance with the order of supply safeguards."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter V Mineral Resource Reserves and Emergency Response"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "The natural resources departments and other relevant departments of people's governments at or above the county level shall, in accordance with the division of duties, strengthen the supervision and inspection of activities such as exploration and extraction of mineral resources and ecological restoration of mining areas, and investigate and deal with unlawful acts in a timely manner in accordance with law.\nThe natural resources departments and other relevant departments of people's governments at or above the county level shall strengthen coordination and cooperation in supervision and inspection, conduct joint inspections where joint inspection is possible, and encourage supervision and inspection through off-site inspection and the use of non-contact technical means."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "The natural resources departments and other relevant departments and their staff shall, in accordance with law, be under an obligation of confidentiality with respect to State secrets, work secrets, trade secrets, personal privacy and personal information learned in the course of supervision and administration.\nThe trade secrets mentioned in the preceding paragraph include, but are not limited to, mineral resources reserves and the exploration results, major discoveries and core technical solutions of mineral rights holders. Trade secrets may not be disclosed to third parties, except as otherwise provided by law or with the written consent of the mineral rights holder."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "In accordance with the principles of being scientific and reasonable, reflecting differences and being simple and practicable, the natural resources department of the State Council shall establish an indicator system for assessing the level of development and utilisation of mineral resources and strengthen guidance on the application of the assessment indicators.\nThe natural resources departments of people's governments at or above the county level shall, on the basis of the indicators for assessing the level of development and utilisation of mineral resources, strengthen the compilation and analysis of the exploration and extraction of mineral resources within their respective administrative areas and conduct periodic assessments, and propose improvement measures for the economical and intensive development and utilisation of mineral resources. Mining rights holders and the mining enterprises concerned shall cooperate with the assessment work of the natural resources departments and implement the relevant improvement measures."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "The natural resources department of the State Council shall promote the improvement of the informatisation level of mineral resources supervision and administration, carry out supervision and services through the national mineral resources supervision and administration information system, and strengthen information sharing with the relevant departments of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "The natural resources department of the State Council shall, on the basis of the scale, technical capacity, personnel and equipment and credit status of units engaged in the exploration of mineral resources, implement filing and tiered and classified supervision over them, guide the development of the mineral resources exploration market on a larger scale and raise its level of professionalism."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Where a dispute arises between mineral rights holders over an exploration or extraction area, the parties shall resolve it through consultation. Where the parties fail to reach an agreement through consultation, it shall be handled by the local people's government at or above the county level where the mineral resources are located on the basis of the exploration or extraction areas verified in accordance with law; a dispute over an exploration or extraction area spanning administrative regions shall be handled by the common people's government at the next higher level."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "The national natural resources inspection institution shall, as authorised by the State Council, inspect the development, utilisation and supervision and administration of mineral resources by the people's governments of provinces, autonomous regions and municipalities directly under the Central Government.\nWhen conducting inspection, the national natural resources inspection institution has the right to learn from the units and individuals related to the inspection matters about the circumstances relevant to the inspection matters, and the units and individuals concerned shall support and assist the work of the inspection institution."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Whoever obstructs or hinders basic geological survey work carried out in accordance with law shall be ordered to correct by the natural resources department of a people's government at or above the county level and be given a warning or criticised in a circular; where correction is refused, a fine of not less than 20,000 yuan but not more than 100,000 yuan shall be imposed on the unit, and a fine of not less than 10,000 yuan but not more than 50,000 yuan shall be imposed on the individual."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "Where a mineral rights holder fails to periodically report the changes in mineral resources reserves and the development and utilisation situation, or fails to submit the geological report on closure after mine closure, the natural resources department of a people's government at or above the county level shall order correction and impose a fine of not less than 20,000 yuan but not more than 100,000 yuan; where the circumstances are serious, a fine of not less than 100,000 yuan but not more than 500,000 yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "Where the mineral resources involved in the unlawful acts provided for in Articles 63, 64, 66, 67 and 68 of the Mineral Resources Law are strategic mineral resources, a heavier punishment shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "Where a mineral rights holder fails to pay the mineral rights occupation fee in accordance with the provisions, the collecting authority may order payment within a time limit; where payment is not made within the time limit, a fine of not more than three times the mineral rights occupation fee payable may be imposed."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "Where the construction unit of a construction project disposes of sand, stone or clay excavated for construction needs at its own discretion, the natural resources department of a people's government at or above the county level shall order correction and impose a fine of not less than three times but not more than five times the market value of the mineral products disposed of at its own discretion; where the market value of the mineral products disposed of at its own discretion is less than 100,000 yuan, a fine of not less than 100,000 yuan but not more than 300,000 yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "Whoever extracts strategic mineral resources included in origin reserves without approval shall be given a heavier punishment in accordance with Article 64 of the Mineral Resources Law."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "Whoever, in violation of the provisions of these Regulations, causes personal or property damage to others or damage to the ecological environment shall bear civil liability in accordance with law; where the act constitutes a violation of public security administration, public security administration punishment shall be given in accordance with law; where a crime is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "Foreign investment in the exploration and extraction of mineral resources shall conform to the provisions of the negative list for foreign investment access.\nWhere foreign investment in the exploration and extraction of mineral resources affects or may affect national security, a security review shall be conducted in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "The import and export of mineral resources and the related goods, technologies and services shall comply with the provisions of the laws and administrative regulations on foreign trade and import and export administration; where they are items subject to export control, the provisions of the laws and administrative regulations on export control shall also be complied with."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "Where any country, region or international organisation adopts, or assists or supports the adoption of, discriminatory prohibitions, restrictions or other similar measures that endanger the security of the mineral resources and related industrial and supply chains of the People's Republic of China, the relevant departments of the State Council may take the necessary countermeasures in light of the actual circumstances."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "Where the State has other provisions on the exploration, extraction and protection of radioactive mineral resources such as uranium (thorium) ores, those provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "Exploration licences and mining licences lawfully issued before 1 July 2025 shall remain valid within their terms of validity."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "These Regulations shall come into force on 15 June 2026. The Interim Measures for the Supervision and Administration of Mineral Resources, the Provisions on the Administration of the Collection of Mineral Resources Compensation Fees, the Rules for the Implementation of the Mineral Resources Law of the People's Republic of China, the Measures for the Administration of Registration of Mineral Resources Exploration Blocks, the Measures for the Administration of Registration of Mineral Resources Extraction and the Measures for the Administration of the Transfer of Exploration Rights and Mining Rights shall be repealed simultaneously."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
         }
       }
     ]
@@ -13370,6 +17609,825 @@
     ]
   };
 
+  TR['CN-REG-0541'] = {
+    "lawId": "CN-REG-0541",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 68 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the Law of the People's Republic of China on the Promotion of Privately-run Schools (hereinafter referred to as the Law on the Promotion of Privately-run Schools)."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Social organisations or individuals other than State organs may, using non-fiscal funds, establish privately-run schools at various levels and of various types; however, they may not establish privately-run schools providing education of a special nature such as military, police or political education.\nFiscal funds referred to in the Law on the Promotion of Privately-run Schools and these Regulations mean fiscal appropriations and fiscal funds lawfully obtained and required to be turned over to the State Treasury or to special fiscal accounts."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "People's governments at all levels shall, in accordance with the law, support and standardise the establishment of privately-run education by non-governmental forces, safeguard the lawful running of schools and independent management of privately-run schools, and encourage and guide privately-run schools to improve quality and develop distinctive features so as to meet diverse educational needs.\nSocial organisations or individuals that perform outstandingly in establishing privately-run schools or make outstanding contributions to the development of privately-run education shall be rewarded and commended in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Privately-run schools shall uphold the leadership of the Communist Party of China, adhere to the socialist direction in running schools, uphold the public-interest nature of education, strengthen education of students in the core socialist values and implement the fundamental task of fostering virtue through education.\nThe primary-level organisations of the Communist Party of China in privately-run schools shall implement the Party's lines, principles and policies, participate in the major decisions of the schools and exercise supervision in accordance with laws, administrative regulations and the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Social organisations or individuals other than State organs may establish privately-run schools alone or jointly. Where a privately-run school is established jointly, a joint school-running agreement shall be concluded, specifying the manner of cooperation, the rights and obligations of each party and the manner of dispute resolution.\nThe State encourages the establishment of privately-run schools in accordance with the law by way of donation, the establishment of foundations or other means. Where a privately-run school is established by way of donation and there is no founder, the rights and responsibilities of the founder in the course of running the school shall be performed by the initiator.\nForeign-invested enterprises established within the territory of China and social organisations whose actual controller is a foreign party may not establish, participate in establishing or actually control privately-run schools providing compulsory education; where other types of privately-run schools are established, the provisions of the State on foreign investment shall be met."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Privately-run Schools"
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Social organisations or individuals establishing privately-run schools shall have a good credit status. A privately-run school may be established with capital contributions in currency or with non-monetary property that can be valued in currency and lawfully transferred, such as physical objects, the right to use construction land and intellectual property rights, except property that may not be contributed as capital as provided by laws or administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Privately-run Schools"
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Public schools providing compulsory education may not establish or participate in establishing privately-run schools, and may not be converted into privately-run schools. Other public schools may not establish or participate in establishing for-profit privately-run schools. However, public schools providing vocational education may attract capital, technology, management and other factors from enterprises to establish or participate in establishing for-profit privately-run schools providing vocational education.\nWhere a public school establishes or participates in establishing a privately-run school, it may not use fiscal funds, may not affect the teaching activities of the public school, may not participate in running the school merely by way of brand licensing, and shall obtain the approval of its competent department. Where a public school establishes or participates in establishing a non-profit privately-run school, it may not obtain, or obtain in disguised form, school-running returns by way of management fees or other means.\nA privately-run school established or participated in by a public school shall have independent legal person status, have a campus, basic educational and teaching facilities and an independent full-time teaching staff separate from those of the public school, conduct independent accounting in accordance with the unified accounting system of the State, enrol students independently and issue academic certificates independently.\nA public school establishing or participating in establishing a privately-run school shall enjoy the rights and interests of a founder in accordance with the law and perform its obligations in the administration of State-owned assets in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Privately-run Schools"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Local people's governments may not use State-owned enterprises or public educational resources to establish or participate in establishing privately-run schools providing compulsory education.\nWhere State-owned assets are used to participate in establishing a privately-run school, an intermediary agency with appraisal qualifications shall be engaged to conduct an appraisal in accordance with the law on the basis of the State's provisions on the supervision and administration of State-owned assets, the amount of capital contribution shall be reasonably determined on the basis of the appraisal results, and the matter shall be reported to the institution responsible for supervising the State-owned assets for the record."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Privately-run Schools"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The State encourages enterprises to establish or participate in establishing privately-run schools providing vocational education in accordance with the law by way of sole proprietorship, joint venture, cooperation and other means."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Privately-run Schools"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Those establishing privately-run schools shall perform their capital contribution obligations on time and in full. During the existence of a privately-run school, the founder may not withdraw its capital contribution or misappropriate school-running funds.\nA founder may lawfully raise funds to establish a for-profit privately-run school, and the funds raised shall mainly be used for running the school and may not be diverted to other uses without authorisation, and the obligation of information disclosure shall be performed as prescribed. Privately-run schools and their founders may not collect from students or their parents, or collect in disguised form, fees connected with admission under the name of sponsorship fees or the like."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Privately-run Schools"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The founder shall formulate the school charter in accordance with the law and be responsible for nominating the members of the first council, board of directors or other form of decision-making body of the privately-run school.\nThe founder may, in accordance with the procedures and requirements prescribed by laws, regulations and the school charter, participate in, or appoint representatives to participate in, the council, board of directors or other form of decision-making body, and exercise the corresponding decision-making and management powers in accordance with the authority prescribed by the school charter."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Privately-run Schools"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Where the founder of a privately-run school is changed, a change agreement shall be concluded, which may not involve the legal person property of the school, may not affect the development of the school and may not harm the rights and interests of teachers and students; where the founder of an existing privately-run school is changed, the change proceeds may be agreed with the successor founder on the basis of the lawful rights and interests enjoyed by the former in accordance with the law.\nWhere the founder of a privately-run school no longer meets the statutory conditions, it shall, within six months, apply to the approving authority for a change; where no change is made upon expiry of the time limit, the approving authority shall order a change.\nWhere the founder is a legal person, its controlling shareholder and actual controller shall meet the conditions for establishing privately-run schools prescribed by laws and administrative regulations; where the controlling shareholder or actual controller is changed, the matter shall be reported to the competent department for the record and made public.\nWhere a change of founder meets the statutory conditions, the approving authority shall handle it within the prescribed time limit."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Privately-run Schools"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where a party establishes or actually controls several privately-run schools at the same time, the founder or actual controller shall have the funds, personnel, organisational structure and other conditions and capabilities commensurate with the school-running activities it carries out, and shall bear the responsibilities of management and supervision in respect of the privately-run schools it establishes.\nWhere a founder or actual controller that establishes or actually controls several privately-run schools at the same time provides services such as teaching materials, curricula and technical support to, and organises educational and teaching activities for, the privately-run schools it establishes or actually controls, it shall comply with the relevant provisions of the State and establish the corresponding quality standards and safeguard mechanisms.\nWhere a party establishes or actually controls several privately-run schools at the same time, it shall ensure that the privately-run schools it establishes or actually controls carry out school-running activities independently in accordance with the law and that all assets during their existence are managed and used by the schools in accordance with the law; it may not change the nature of the non-profit privately-run schools it establishes or actually controls, or obtain school-running returns directly or indirectly; and it may not abuse a dominant market position to eliminate or restrict competition.\nNo social organisation or individual may control privately-run schools providing compulsory education or non-profit privately-run schools providing pre-school education by way of merger and acquisition, control by agreement or other means."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Privately-run Schools"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Institutions conducting examinations recognised by the State, such as educational examinations, vocational qualification examinations and vocational skill level examinations, shall, in establishing or participating in establishing privately-run schools related to the examinations they conduct, comply with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Privately-run Schools"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The authority to approve the establishment of privately-run schools shall be governed by the provisions of the relevant laws and regulations.\nLocal people's governments and their relevant departments shall perform their duties of providing compulsory education in accordance with the law. The establishment of privately-run schools providing compulsory education shall conform to the local plan for the development of compulsory education."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Privately-run Schools"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The State encourages privately-run schools to use Internet technology to carry out educational activities online.\nCarrying out educational activities online using Internet technology shall comply with the provisions of the laws and administrative regulations on Internet administration. Privately-run schools carrying out educational activities online using Internet technology shall obtain the corresponding school-running licence.\nWhere a privately-run school uses Internet technology to carry out educational activities online, it shall establish and implement Internet security management systems and security protection technical measures in accordance with the law and, upon discovering information whose publication or transmission is prohibited by laws or administrative regulations, shall immediately stop transmitting it, take measures such as deletion to prevent the information from spreading, keep the relevant records and report to the relevant competent department.\nWhere foreign nationals use Internet technology to carry out educational activities online, they shall comply with the provisions of the relevant laws and administrative regulations on education and on the administration of foreigners working in China."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Privately-run Schools"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Where the founder of a privately-run school completes the preparations for establishment within three years from the date of obtaining the approval document for preparations, it may apply for formal establishment.\nA privately-run school may not enrol students during the period of preparation for establishment."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Privately-run Schools"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where an application is made for the formal establishment of a privately-run school providing academic education, the approving authority shall, after accepting the application, organise an expert committee for deliberation, and the expert committee shall put forward advisory opinions."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Privately-run Schools"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The charter of a privately-run school shall prescribe the following main matters:\n(a) the name, domicile, school-running address and legal person attributes of the school;\n(b) the rights and obligations of the founder, and the measures for change of founder and transfer of rights and interests;\n(c) the purpose of running the school and its development orientation, level, type, scale and form;\n(d) the initial funds and registered capital of the school and the source and nature of its assets;\n(e) the method of formation, composition, term of office and rules of procedure of the council, board of directors or other form of decision-making body and of the supervisory body;\n(f) the procedure for the person in charge of the school's Party organisation or its representative to join the school's decision-making body and supervisory body;\n(g) the legal representative of the school;\n(h) the grounds for the school's own termination and the measures and procedure for disposing of the remaining assets;\n(i) the procedure for amending the charter.\nA privately-run school shall make its charter public and, before amending the charter, shall announce the amendment in advance and seek the opinions of interested parties. After the amendment is completed, it shall be reported to the competent department for the record or for approval."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Privately-run Schools"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "A privately-run school may use only one name.\nThe name of a privately-run school shall comply with the provisions of the relevant laws and administrative regulations, may not harm the public interest of society, and may not contain words likely to give rise to ambiguity or the name of another legal person likely to mislead the public. A for-profit privately-run school may use the abbreviated name of the legal person approved by the approving authority on the school plaque, transcripts, graduation certificates, certificates of completion, degree certificates and the related certificates, enrolment advertisements and prospectuses."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Privately-run Schools"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The initial funds and registered capital of a privately-run school shall be commensurate with the type, level and scale of the school. At the time of formal establishment of a privately-run school, the initial funds and registered capital shall be paid in full."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Privately-run Schools"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "For a privately-run school approved for formal establishment, the approving authority shall issue a school-running licence and announce it to society.\nThe term of the school-running licence shall be commensurate with the level and type of the privately-run school. Where a privately-run school has no illegal or non-compliant conduct during the term of the licence, the licence may be automatically extended upon expiry and a new licence may be exchanged.\nThe measures for the administration of the school-running licences of privately-run schools shall be formulated respectively by the education administrative department and the human resources and social security administrative department of the State Council in accordance with the division of duties."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Privately-run Schools"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where a privately-run school adds a campus, it shall apply to the approving authority for a change of address; where it establishes a branch school, it shall separately apply to the approving authority in the place where the branch school is located for a school-running licence and report the matter to the original approving authority for the record."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Privately-run Schools"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Where a privately-run school applies for legal person registration in accordance with the provisions of the relevant laws and administrative regulations, the registration authority shall handle it in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Privately-run Schools"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The person in charge of the council, board of directors or other form of decision-making body of a privately-run school shall have the nationality of the People's Republic of China, enjoy political rights and full capacity for civil conduct, be domiciled within the territory of China, have good conduct and have no record of intentional crime or of improper practice in the field of education.\nThe legal representative of a privately-run school shall be the person in charge of the school's decision-making body or the principal."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Organisation and Activities of Privately-run Schools"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The council, board of directors or other form of decision-making body of a privately-run school shall be composed jointly of the founder or its representatives, the principal, the person in charge of the Party organisation, representatives of the teaching and administrative staff and others. Privately-run schools are encouraged to include representatives of the public in their council, board of directors or other form of decision-making body and to establish the office of independent council member or independent director as needed. The members of the council, board of directors or other form of decision-making body of a privately-run school providing compulsory education shall have the nationality of the People's Republic of China, and representatives appointed by the approving authority shall be included.\nThe council, board of directors or other form of decision-making body of a privately-run school shall meet at least twice a year. Upon the proposal of one-third or more of its members, an interim meeting of the council, board of directors or other form of decision-making body may be convened. Decisions on the following major matters shall be adopted only with the consent of two-thirds or more of its members:\n(a) change of the founder;\n(b) appointment and dismissal of the principal;\n(c) amendment of the school charter;\n(d) formulation of development plans;\n(e) examination of budgets and final accounts;\n(f) decision on the division, merger or termination of the school;\n(g) other major matters prescribed by the school charter."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Organisation and Activities of Privately-run Schools"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "A privately-run school shall establish a supervisory body. The supervisory body shall include representatives of the primary-level Party organisation, and representatives of the teaching and administrative staff shall account for not less than one-third of its members. A privately-run school with fewer than 20 teaching and administrative staff may have only one or two supervisors.\nThe supervisory body shall, in accordance with the relevant provisions of the State and the school charter, supervise the school-running conduct of the school. The person in charge of the supervisory body or a supervisor shall attend the meetings of the school's decision-making body as a non-voting participant.\nThe members of the council, board of directors or other form of decision-making body and their close relatives may not concurrently serve as, or be appointed, members of the supervisory body or supervisors."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Organisation and Activities of Privately-run Schools"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The principal of a privately-run school shall independently exercise the powers of educational, teaching and administrative management in accordance with the law.\nThe plan for the establishment of the internal organs of a privately-run school shall be proposed by the principal and submitted to the council, board of directors or other form of decision-making body for approval."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Organisation and Activities of Privately-run Schools"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Privately-run schools shall, in accordance with laws, administrative regulations and the relevant provisions of the State, independently carry out educational and teaching activities; where teaching materials from outside the territory are used, the relevant provisions of the State shall be complied with.\nPrivately-run schools providing higher education and secondary vocational and technical academic education may, in accordance with their school-running purpose and training objectives, independently establish specialities, offer courses and select teaching materials.\nPrivately-run schools providing ordinary senior secondary education or compulsory education may, on the basis of the national curriculum standards, independently offer distinctive courses and carry out innovation in education and teaching, and the courses independently offered shall be reported to the competent education administrative department for the record. Privately-run schools providing compulsory education may not use teaching materials from outside the territory.\nPrivately-run schools providing pre-school education shall, in carrying out care and educational activities, follow the laws of children's physical and mental development and establish and develop courses taking games and activities as the main form.\nPrivately-run schools providing vocational qualification training and vocational skill training focusing on vocational skills may carry out training activities in accordance with the national vocational standards and the relevant vocational training requirements corresponding to the training speciality (occupation, type of work), and may not instigate or organise trainees to evade supervision and obtain vocational qualification certificates, performance certificates and the like by improper means."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Organisation and Activities of Privately-run Schools"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Privately-run schools shall, in accordance with the commitments in their enrolment prospectuses or enrolment advertisements, offer the corresponding courses and carry out educational and teaching activities so as to ensure the quality of education and teaching.\nPrivately-run schools shall provide school buildings and educational and teaching facilities and equipment that meet the standards."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Organisation and Activities of Privately-run Schools"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Privately-run schools providing pre-school education and academic education shall enjoy the same right of enrolment as public schools of the same level and type, and may, within the school-running scale approved by the approving authority, independently determine the standards and methods of enrolment and enrol students in the same period as public schools.\nPrivately-run schools providing compulsory education shall enrol students within the area under the jurisdiction of the approving authority and be incorporated into the unified administration of the place where the approving authority is located. Privately-run schools providing ordinary senior secondary education shall mainly enrol students within the city divided into districts where the school is located, and may enrol students across areas where they comply with the relevant provisions of the education administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government. Enrolment of students receiving higher academic education shall comply with the relevant provisions of the State.\nThe education administrative departments and the human resources and social security administrative departments of local people's governments at or above the county level shall provide equal treatment for privately-run schools from other places enrolling students locally, and may not set up obstacles to cross-area enrolment or practise regional blockade.\nIn enrolling students, privately-run schools shall comply with the enrolment rules, maintain enrolment order and admit students openly, fairly and impartially. Privately-run schools providing compulsory education may not organise, or organise in disguised form, admission tests on subject knowledge, and may not enrol students in advance.\nThe enrolment of students from outside the territory by privately-run schools shall be governed by the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Organisation and Activities of Privately-run Schools"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Where a privately-run school providing higher academic education meets the conditions for conferring degrees, it may, in accordance with the provisions of the relevant laws and administrative regulations and after examination and approval, obtain the corresponding qualification to confer degrees."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III Organisation and Activities of Privately-run Schools"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Teachers or teaching personnel engaged by privately-run schools shall possess the corresponding teacher qualifications or other corresponding professional qualifications or credentials.\nPrivately-run schools shall have a certain number of full-time teachers; among them, privately-run schools providing pre-school education and academic education shall be staffed with full-time teachers in accordance with the relevant provisions of the State.\nPrivately-run schools are encouraged to innovate in the methods of teacher engagement and to use information technology and other means to improve teaching efficiency and standards."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Teachers and Recipients of Education"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Privately-run schools shall independently recruit teachers and other staff and shall conclude labour or employment contracts with the persons recruited in accordance with the law, specifying the rights and obligations of both parties.\nWhere a privately-run school engages full-time teachers, the contract shall, in addition to the mandatory clauses agreed in accordance with the law, stipulate matters such as the teaching post and the requirements of its duties, the methods for assessing professional ethics and performance, welfare benefits, and training and continuing education.\nTeachers of public schools may not take part-time work in privately-run schools without the consent of the school where they work.\nThe engagement of foreign nationals by privately-run schools shall be governed by the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Teachers and Recipients of Education"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Privately-run schools shall establish a teacher training system and provide the conditions for the teachers they engage to receive the corresponding ideological and political training and professional training."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Teachers and Recipients of Education"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Privately-run schools shall, in accordance with the law, safeguard the remuneration of teaching and administrative staff and, according to the type of legal person registered for the school, pay wages on time and in full and pay social insurance premiums and housing provident funds in full. The State encourages privately-run schools to establish supplementary old-age insurance such as occupational annuities or enterprise annuities for teaching and administrative staff in accordance with the relevant provisions.\nPrivately-run schools providing pre-school education and academic education shall set aside a certain proportion of their tuition income to establish a special fund or foundation, managed by the school, for the occupational incentives of teaching and administrative staff or for increasing their remuneration protection."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Teachers and Recipients of Education"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The education administrative departments shall, together with the relevant departments, establish a system of recording labour and employment contracts of full-time teachers of privately-run kindergartens and primary and secondary schools, establish unified files recording teachers' length of teaching service and length of working service, and, in respect of training, assessment, evaluation and appointment of professional and technical posts, commendation and reward, and protection of rights, carry out overall planning and unified administration, treating such teachers equally with teachers engaged by public kindergartens and primary and secondary schools.\nPrivately-run vocational schools and institutions of higher learning shall, in accordance with the relevant provisions of the State, independently carry out the evaluation and appointment of teachers' professional and technical posts.\nThe education administrative departments shall, together with the relevant departments, improve the management systems, ensure the reasonable flow of teachers between public schools and privately-run schools, and guide and supervise privately-run schools in establishing and improving the system of conferences of teaching and administrative staff representatives."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Teachers and Recipients of Education"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Privately-run schools providing academic education shall establish student status and teaching management systems in accordance with the law and report them to the competent department for the record."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Teachers and Recipients of Education"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where privately-run schools and their teachers, staff and students apply for scientific research projects, topics and the like established by the government, they shall enjoy the same rights as public schools of the same level and type and their teachers, staff and students. The relevant project management departments shall, as prescribed, allocate funds for scientific research projects and topics on time and in full.\nPeople's governments at all levels shall ensure that students of privately-run schools enjoy the same rights as students of public schools of the same level and type in respect of progression to higher levels of education, employment, social preferential treatment, participation in the selection of advanced individuals and access to State support such as student loans, scholarships and grants.\nPrivately-run schools providing academic education shall establish systems of student financial assistance and awards and shall, at a standard not lower than that of local public schools of the same level and type, set aside the corresponding funds from tuition income for assisting and rewarding students."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter IV Teachers and Recipients of Education"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where the education administrative departments, the human resources and social security administrative departments and other relevant departments organise the relevant awards and selection of the best, literary, artistic and sports activities and the tendering of topics and projects, they shall provide equal opportunities for privately-run schools and their teachers, staff and students."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter IV Teachers and Recipients of Education"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Privately-run schools shall conduct accounting and prepare financial and accounting reports in accordance with the Accounting Law of the People's Republic of China and the unified accounting system of the State."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter V Assets and Financial Management of Privately-run Schools"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Privately-run schools shall establish a system of accounting for the cost of running the school and, on the basis of factors such as the cost of running the school and market demand, following the principles of fairness, lawfulness and good faith and taking into account economic and social benefits, reasonably determine the items and standards of charges. For non-profit privately-run schools in which public schools participate in running the school, which use State-owned assets or which receive per-student funding subsidies from the government, the people's government of the province, autonomous region or municipality directly under the Central Government may set a maximum price for their charges."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter V Assets and Financial Management of Privately-run Schools"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "The supervision and administration of State-owned assets among the assets of privately-run schools shall be governed by the relevant provisions of the State.\nThe use and management of donated property lawfully accepted by privately-run schools shall be governed by the relevant laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter V Assets and Financial Management of Privately-run Schools"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "The funds received and the flow of funds for activities carried out by non-profit privately-run schools shall use the account recorded with the relevant competent department. The relevant competent department shall supervise that account.\nAll income of a for-profit privately-run school shall be included in the bank settlement account opened by the school, and the distribution of school-running surplus shall be carried out after the annual financial settlement."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter V Assets and Financial Management of Privately-run Schools"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Privately-run schools providing compulsory education may not conduct transactions with related parties. Where other privately-run schools conduct transactions with related parties, they shall follow the principles of openness, fairness and impartiality, set prices reasonably and make decisions in a standardised manner, and may not harm the interests of the State, the interests of the school or the rights and interests of teachers and students.\nPrivately-run schools shall establish a system for disclosing information on transactions with related parties. The education, human resources and social security, finance and other relevant departments shall strengthen supervision over agreements concluded between non-profit privately-run schools and related parties and shall examine related-party transactions annually.\nRelated parties referred to in the preceding paragraph mean the founder, actual controller, principal, council members, directors, supervisors and person in charge of finance of a privately-run school, as well as organisations or individuals that have a relationship of mutual control and influence with the above organisations or individuals and whose relationship may lead to the transfer of the interests of the privately-run school."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter V Assets and Financial Management of Privately-run Schools"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "At the end of each accounting year, a privately-run school shall engage an accounting firm to audit its annual financial report. A non-profit privately-run school shall set aside a development fund at a rate of not less than 10 per cent of the audited increase in unrestricted net assets for the year, and a for-profit privately-run school shall set aside a development fund at a rate of not less than 10 per cent of its audited net income for the year, to be used for the development of the school."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter V Assets and Financial Management of Privately-run Schools"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Local people's governments at or above the county level shall establish a joint conference system for privately-run education work. The education, human resources and social security, civil affairs, market regulation and other departments shall, in accordance with their duties and together with the relevant departments, establish systems of annual inspection and annual reporting for privately-run schools and improve the routine supervision mechanism.\nThe education administrative departments, the human resources and social security administrative departments and the relevant departments shall establish credit files for privately-run schools and a system of practice credit for founders and principals, record the circumstances of law enforcement supervision over privately-run schools and the results of penalties and handling, which shall be signed by the law enforcement and supervision personnel and placed on file, and make public the results of law enforcement supervision in accordance with laws and regulations. The relevant credit files and credit records shall be incorporated into the national credit information sharing platform and the national enterprise credit information publicity system in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VI Administration and Supervision"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Approving authorities shall promptly make public approval information such as the circumstances of the founders of privately-run schools and the conditions for running the schools.\nThe education administrative departments and the human resources and social security administrative departments shall, in accordance with the division of duties, regularly organise, or entrust a third-party institution to conduct, evaluation of the school-running standards and education quality of privately-run schools, and the evaluation results shall be made public."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VI Administration and Supervision"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "The education administrative departments and the relevant departments shall formulate a list of information to be disclosed by privately-run schools providing pre-school education and academic education and supervise privately-run schools in periodically disclosing to society the relevant information on the conditions for running the school and the quality of education.\nFor-profit privately-run schools shall disclose the relevant information through the national credit information sharing platform and the national enterprise credit information publicity system.\nThe relevant departments shall support and encourage privately-run schools to establish industry organisations in accordance with the law, to study and formulate the corresponding quality standards, establish a certification system and formulate and promote model texts of contracts reflecting the patterns and distinctive requirements of the industry."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VI Administration and Supervision"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where a privately-run school terminates, it shall return its school-running licence, complete deregistration with the registration authority and announce the matter to society.\nWhere a privately-run school requests termination on its own, it shall publish an announcement of the proposed termination six months in advance and formulate a termination plan in accordance with the law and its charter.\nWhere a privately-run school has no actual enrolment or school-running activities, its school-running licence shall automatically lapse upon expiry and the approving authority shall announce the lapse. The privately-run school shall, after organising liquidation on its own, complete deregistration with the registration authority.\nFor a privately-run school terminated because it is unable to continue running the school due to insolvency, an application shall be made to the people's court for bankruptcy liquidation."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VI Administration and Supervision"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "The educational inspection agency of the State Council and the agencies responsible for educational inspection of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall inspect and supervise the implementation by local people's governments at or above the county level and their relevant departments of their statutory duties of supporting and standardising the development of privately-run education.\nThe agencies responsible for educational inspection of people's governments at or above the county level shall, in accordance with the law, inspect and supervise privately-run schools and publish the inspection results, and shall establish a system of responsible inspectors for privately-run primary and secondary schools and kindergartens."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VI Administration and Supervision"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "People's governments at all levels and the relevant departments shall, in accordance with the law, improve the supporting policies for privately-run schools, giving priority to supporting privately-run schools with high quality in running schools, distinctive features and notable social benefits.\nLocal people's governments at or above the county level may, with reference to the relevant funding standards such as per-student funding and the supporting policies for public schools of the same level and type, give appropriate subsidies to non-profit privately-run schools.\nWhere local people's governments lease or transfer idle State-owned assets, priority shall be given to supporting non-profit privately-run schools."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VII Support and Reward"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Privately-run schools may, in accordance with the law, name the school buildings or other educational and teaching facilities or living facilities after the name of the donor. Where a donor has made a special contribution to the development of a privately-run school, the school may, with the approval of the education administrative department of the State Council in the case of a privately-run school providing higher academic education and in accordance with the conditions prescribed by the State, or with the approval of the education administrative department or the human resources and social security administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government in the case of other privately-run schools and in accordance with the conditions prescribed by the State, use the name of the donor as the name of the school."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VII Support and Reward"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Privately-run schools shall enjoy the preferential tax policies prescribed by the State; among them, non-profit privately-run schools shall enjoy the same preferential tax policies as public schools."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VII Support and Reward"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "When formulating plans for the comprehensive use of idle school campuses, local people's governments shall take into account the local demand for the development of privately-run education.\nWhere non-profit privately-run schools are newly built or expanded, local people's governments shall, in accordance with the same principles as for public schools, grant preferential land use by way of allocation and other means.\nWhere privately-run schools providing pre-school education and academic education use land, the local people's government may lawfully supply the land by way of agreement, bidding or auction, or by way of long-term lease, lease followed by transfer, or a combination of lease and transfer, and the land grant price and rent may be paid in instalments within the prescribed time limit as agreed in the contract."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VII Support and Reward"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where privately-run schools established in the western region, remote areas and areas inhabited by ethnic minorities apply for loans for their own development, they shall enjoy the relevant preferential credit policies of the State."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VII Support and Reward"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Local people's governments at or above the county level may, in the light of the specific circumstances of their administrative regions, establish special funds for the development of privately-run education, to be used for supporting privately-run schools in improving the quality of education and the standard of running schools, and for rewarding founders and the like.\nThe State encourages non-governmental forces to establish foundations or special funds for the development of privately-run education in accordance with the law, to be used for supporting the development of privately-run education."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VII Support and Reward"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "County-level people's governments may, in accordance with the needs of their administrative regions for the provision of pre-school education, compulsory education or other public education services, conclude agreements with privately-run schools and, by way of purchasing services and other means, entrust them with the corresponding educational tasks.\nWhere a privately-run school is entrusted with the task of providing inclusive pre-school education, compulsory education or other public education, the corresponding education funds shall be allocated in accordance with the local entrustment agreements for the relevant stage of education."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VII Support and Reward"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Local people's governments at or above the county level may, by way of government subsidies, subsidies in lieu of awards and other means, encourage and support non-profit privately-run schools in safeguarding the remuneration of teachers."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VII Support and Reward"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "The State encourages and supports insurance institutions in developing insurance products suited to privately-run schools and in exploring the establishment of mechanisms such as mutual insurance within the industry, so as to provide risk protection for privately-run schools in respect of the handling of major accidents, arrangements following termination and the protection of the rights and interests of teaching and administrative staff.\nFinancial institutions may, on the premise of controllable risks, develop financial products suited to the characteristics of privately-run schools. Privately-run schools may raise financing on the basis of future operating income, intellectual property rights and the like."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VII Support and Reward"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "In addition to the measures of support and reward provided by the Law on the Promotion of Privately-run Schools and these Regulations, the people's governments of provinces, autonomous regions and municipalities directly under the Central Government may, in the light of the actual situation, formulate measures of support and reward for promoting the development of privately-run education in their respective regions.\nWhen implementing the reform of classified administration of existing privately-run schools, people's governments at all levels and the relevant departments shall give full consideration to the relevant historical and actual circumstances, safeguard the lawful rights and interests of students, teaching and administrative staff and founders, and ensure the smooth and orderly progress of the reform of classified administration of privately-run schools."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VII Support and Reward"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Where the founder or actual controller of a privately-run school or a member of its decision-making body or supervisory body falls under any of the following circumstances, the education administrative department, the human resources and social security administrative department or another relevant department of the people's government at or above the county level shall, in accordance with the division of duties, order correction within a specified time limit and, where there are illegal gains, refund the fees collected and then confiscate the illegal gains; where the circumstances are serious, the person may not become anew a founder or actual controller of, or a member of the decision-making body or supervisory body of, a privately-run school within one to five years; where the circumstances are especially serious and the social impact is vile, the person may never become anew a founder or actual controller of, or a member of the decision-making body or supervisory body of, a privately-run school; where the act constitutes a violation of public security administration, the public security organ shall impose a public security penalty in accordance with the law; and where a crime is constituted, criminal liability shall be investigated in accordance with the law:\n(a) using the running of the school to raise funds illegally, or collecting fees connected with admission;\n(b) failing to perform the capital contribution obligation on time and in full, or withdrawing the capital contribution or misappropriating school-running funds;\n(c) encroaching upon the legal person property of the school or unlawfully obtaining benefits from the school;\n(d) conducting related-party transactions with a privately-run school providing compulsory education, or conducting related-party transactions with another privately-run school that harm the interests of the State, the interests of the school or the rights and interests of teachers and students;\n(e) forging, altering, trading in, leasing or lending the school-running licence;\n(f) disrupting the order of running the school or unlawfully interfering with the decision-making or management of the school;\n(g) changing without authorisation the name, level or type of the school or its founder;\n(h) other acts endangering the stability and safety of the school, infringing the rights of the school as a legal person, or harming the rights and interests of teaching and administrative staff or students."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Where a privately-run school falls under any of the following circumstances, a penalty shall be imposed in accordance with the provisions of Article 62 of the Law on the Promotion of Privately-run Schools:\n(a) deviating from the State's educational principles, departing from the socialist direction in running the school, or failing to ensure that the school's Party organisation performs its duties;\n(b) carrying out educational and teaching activities in violation of laws, administrative regulations or the relevant provisions of the State;\n(c) the council, board of directors or other form of decision-making body failing to perform its duties in accordance with the law;\n(d) the teaching conditions being clearly unable to meet the teaching requirements and the quality of education and teaching being low, without timely measures being taken;\n(e) major safety hazards existing in the school buildings or other educational and teaching facilities and equipment, without timely measures being taken;\n(f) infringing the lawful rights and interests of students and producing a vile social impact;\n(g) engaging or dismissing teachers in violation of the provisions of the State, or failing to safeguard the remuneration of teaching and administrative staff in accordance with the law;\n(h) enrolling students in violation of the provisions, or practising fraud in the course of enrolment;\n(i) exceeding the scope of the school-running licence, or changing the school-running address or establishing a branch school without authorisation;\n(j) failing to perform in accordance with the law the obligation to disclose information such as the materials relating to the conditions for running the school and the quality of education and the financial situation, or the materials disclosed being untrue;\n(k) failing to conduct accounting or prepare financial and accounting reports in accordance with the unified accounting system of the State, with financial and asset management in disorder, or increasing the items of charges or raising the standards of charges in violation of laws and regulations;\n(l) other acts of mismanagement seriously affecting education and teaching.\nWhere laws or administrative regulations contain other provisions on the penalties for the circumstances specified in the preceding paragraph, those provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Where a privately-run school falls under any of the circumstances of violation specified in Article 62 of the Law on the Promotion of Privately-run Schools or Article 63 of these Regulations, the education administrative department, the human resources and social security administrative department or another relevant department of the people's government at or above the county level shall, in accordance with the division of duties, give a warning to the person in charge of the school's decision-making body, the principal and the persons directly responsible; where the circumstances are serious, they may not become anew a person in charge of the decision-making body or a principal of a privately-run school within one to five years; where the circumstances are especially serious and the social impact is vile, they may never become anew a person in charge of the decision-making body or a principal of a privately-run school.\nWhere a founder or actual controller that establishes or actually controls several privately-run schools at the same time, in violation of the provisions of these Regulations, fails to supervise the privately-run schools it establishes or actually controls and produces a vile impact, the education administrative department, the human resources and social security administrative department or another relevant department of the people's government at or above the county level shall, in accordance with the division of duties, order rectification within a specified time limit; where rectification is refused or the same problem occurs again after rectification, the party may not establish new privately-run schools within one to five years and, where the circumstances are serious, may not establish new privately-run schools within ten years."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Whoever, in violation of the provisions of these Regulations, establishes or participates in establishing a privately-run school, or enrols students during the period of preparation for establishment of a privately-run school, shall be penalised in accordance with the provisions of Article 64 of the Law on the Promotion of Privately-run Schools."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "For the purposes of these Regulations, existing privately-run schools mean privately-run schools established before the publication of the Decision of the Standing Committee of the National People's Congress on Amending the Law of the People's Republic of China on the Promotion of Privately-run Schools on 7 November 2016."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "The measures of support and reward provided in these Regulations apply to Chinese-foreign cooperatively-run schools."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "These Regulations shall come into force on 1 September 2021."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-REG-0542'] = {
     "lawId": "CN-REG-0542",
     "sourceLang": "zh",
@@ -15422,6 +20480,1146 @@
     ]
   };
 
+  TR['CN-REG-0548'] = {
+    "lawId": "CN-REG-0548",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 95 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated for the purpose of strengthening the administration of inland waterway traffic safety, maintaining inland waterway traffic order and safeguarding the lives and property of the people."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Navigation, berthing and operations in the navigable waters of inland waterways of the People's Republic of China and activities relating to inland waterway traffic safety shall comply with these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The administration of inland waterway traffic safety shall follow the principles of safety first, prevention predominant, convenience for the people and administration in accordance with law, and shall ensure that inland waterway traffic is safe, orderly and unimpeded."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The competent transport department of the State Council shall be in charge of the administration of inland waterway traffic safety nationwide. The State maritime safety administration shall, under the leadership of the competent transport department of the State Council, be responsible for the supervision and administration of inland waterway traffic safety nationwide.\nThe maritime safety administrations established by the competent transport department of the State Council in waters under central management and the maritime safety administrations established by the people's governments of provinces, autonomous regions and municipalities directly under the Central Government in other waters outside waters under central management (hereinafter collectively referred to as the maritime safety administrations) shall, in accordance with their respective duties and powers, exercise supervision and administration over water traffic safety in the navigable inland waters under their jurisdiction."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Local people's governments at or above the county level shall strengthen the administration of inland waterway traffic safety within their respective administrative regions and establish and improve the responsibility system for inland waterway traffic safety administration.\nTownship (town) people's governments shall perform the following duties in respect of the administration of inland waterway traffic safety within their respective administrative regions:\n(1) establishing and improving the vessel safety responsibility system for administrative villages and vessel owners;\n(2) implementing the safety management responsibility system for vessels, crew members and passenger quotas at ferry crossings;\n(3) providing dedicated personnel for the administration of vessel water traffic safety;\n(4) urging vessel owners, operators and crew members to comply with the laws, regulations and rules on inland waterway traffic safety."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "A vessel may navigate only if it meets the following conditions:\n(1) it has been surveyed in accordance with law by a vessel survey institution recognised by the maritime safety administration and holds a valid vessel survey certificate;\n(2) it has been registered in accordance with law with the maritime safety administration and holds a vessel registration certificate;\n(3) it is manned with crew members conforming to the provisions of the competent transport department of the State Council;\n(4) it is equipped with the necessary navigation materials."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        },
+        "chapter": {
+          "en": "Chapter II Vessels, Floating Facilities and Crew Members"
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "A floating facility may engage in the relevant activities only if it meets the following conditions:\n(1) it has been surveyed in accordance with law by a vessel survey institution recognised by the maritime safety administration and holds a valid survey certificate;\n(2) it has been registered in accordance with law with the maritime safety administration and holds a registration certificate;\n(3) it is manned with crew members who have mastered water traffic safety skills and conform to the provisions of the competent transport department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Vessels, Floating Facilities and Crew Members"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Vessels and floating facilities shall be maintained in a condition suitable for safe navigation, berthing or the relevant activities.\nThe stowage and securing of vessels and floating facilities shall comply with the national safety technical specifications."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Vessels, Floating Facilities and Crew Members"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Crew members shall have received professional training in water traffic safety, and in the case of crew members of passenger vessels and vessels carrying dangerous goods, shall also have received the corresponding special training, and shall have passed the examination of the maritime safety administration and obtained the corresponding certificate of competency or other certificate of competency before they may serve as crew members. Crew members who have not obtained a certificate of competency or other certificate of competency are strictly prohibited from taking up posts.\nCrew members shall observe professional ethics, improve their professional competence and strictly perform their duties in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Vessels, Floating Facilities and Crew Members"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The owner or operator of a vessel or floating facility shall strengthen the safety management of the vessel or floating facility, establish and improve the corresponding traffic safety management systems and be responsible for the traffic safety of the vessel or floating facility; may not employ persons without a certificate of competency or other certificate of competency as crew members; and may not instruct or compel crew members to operate in violation of regulations."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Vessels, Floating Facilities and Crew Members"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The owner or operator of a vessel or floating facility shall, on the basis of the technical performance of the vessel or floating facility, the condition of the crew, the waters and the hydrological and meteorological conditions, reasonably dispatch the vessel or use the floating facility."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Vessels, Floating Facilities and Crew Members"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "For vessels that must, in accordance with the provisions of the State, obtain insurance documents or financial guarantees for liability for vessel pollution damage and liability for wreck salvage, the owner or operator must obtain the corresponding insurance documents or financial guarantee certificates and carry copies on board."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Vessels, Floating Facilities and Crew Members"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "It is prohibited to forge, alter, buy or sell, lease or fraudulently use vessel survey certificates, vessel registration certificates, crew certificates of competency or other certificates of competency."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Vessels, Floating Facilities and Crew Members"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Vessels navigating in inland waterways shall fly the national flag and mark the vessel name, port of registry and load lines.\nVessels and floating facilities that should be scrapped in accordance with the provisions of the State may not navigate or operate."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter III Navigation, Berthing and Operations"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Vessels navigating in inland waterways shall maintain a lookout, keep careful observation and navigate at a safe speed. The safe speed of a vessel shall be determined on the basis of major factors such as visibility, traffic density, vessel manoeuvrability, wind, waves, currents, conditions of the route and the surrounding environment. Vessels using radar shall also take into account the characteristics, efficiency and limitations of the radar equipment.\nIn areas where speed is restricted and during periods of high water in flood season, vessels shall navigate at the speed prescribed by the maritime safety administration."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Navigation, Berthing and Operations"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "When navigating in inland waterways, an upbound vessel shall navigate along the slack water or along one side of the route, and a downbound vessel shall navigate along the main current or in the middle of the route; in tidal reaches, lakes, reservoirs and areas of steady flow, vessels shall navigate as far as possible along the route on their own starboard side."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Navigation, Berthing and Operations"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "When navigating in inland waterways, vessels shall be navigated with caution to ensure safety; where the movements of an approaching vessel are unclear, sound signals are inconsistent or a situation of imminent danger arises, the vessel shall reduce speed, stop or go astern to prevent collision.\nWhen vessels meet, each party shall take care to give way. A vessel that is required by the navigation rules to give way must actively give way to the vessel to which way is given; the vessel to which way is given shall pay attention to the movements of the vessel giving way and take timely measures to assist in giving way.\nWhen vessels give way, once the intention of giving way has been agreed among the parties, no party may unilaterally change the giving-way action.\nThe specific rules for navigation, giving way and signal display shall be formulated by the competent transport department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Navigation, Berthing and Operations"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "When a vessel enters or leaves an inland waterway port, it shall report to the maritime safety administration the voyage plan of the vessel, its seaworthiness, its manning and its cargo and passengers."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Navigation, Berthing and Operations"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The following vessels shall apply to a pilotage institution for pilotage when navigating in inland waterways:\n(1) vessels of foreign nationality;\n(2) seagoing motor vessels of 1,000 gross tonnage or more, except where the master has navigated a seagoing motor vessel of the same type in the same navigable inland waters within 2 months of the previous voyage;\n(3) vessels whose navigation conditions are restricted;\n(4) passenger vessels and vessels carrying dangerous goods for which pilotage is required as prescribed by the competent transport department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Navigation, Berthing and Operations"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Vessels entering or leaving a port and passing through traffic control zones, areas of dense traffic or areas with restricted navigation conditions shall comply with the relevant navigation provisions issued by the maritime safety administration.\nNo vessel may enter or cross a prohibited navigation zone published by the maritime safety administration without authorisation."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Navigation, Berthing and Operations"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Vessels engaged in the transport of goods or passengers must meet the safety technical requirements on hull strength, stability, draught, fire protection and life saving and the conditions for carrying goods or passengers prescribed by the competent transport department of the State Council.\nNo vessel may carry goods or passengers in excess of its capacity."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Navigation, Berthing and Operations"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Where a vessel carries or tows over-weight, over-length, over-height, over-width or semi-submersible objects in navigable inland waters, it must, 24 hours before loading or towing, report to the maritime safety administration for verification of the proposed route and time, and shall take the necessary safety measures to ensure the safety of the carriage or towing. Where escort is required, the vessel shall apply to the maritime safety administration for escort."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Navigation, Berthing and Operations"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "In any of the following circumstances, the maritime safety administration may, in light of the circumstances, take temporary measures to restrict and guide traffic, such as time-limited navigation, one-way navigation and closure of navigation, and shall make a public announcement:\n(1) severe weather;\n(2) large-scale water construction operations;\n(3) water traffic accidents affecting navigation;\n(4) large-scale mass activities or sports competitions on water;\n(5) other circumstances with a relatively large impact on navigation safety."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Navigation, Berthing and Operations"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Vessels shall berth at wharves, berths or lawfully published anchorages, berthing areas and operation areas; where, in an emergency, berthing in other waters is required, the vessel shall report to the maritime safety administration.\nWhen berthing, a vessel shall display signals in accordance with provisions and may not obstruct or endanger the safety of navigation, berthing or operations of other vessels.\nWhen berthing, a vessel shall keep sufficient crew members on watch to ensure the safety of the vessel."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Navigation, Berthing and Operations"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Where the following operations or activities that may affect navigation safety are carried out in navigable inland waters or on the shoreline, approval shall be obtained from the maritime safety administration before the operations or activities are carried out:\n(1) exploration, excavation and blasting;\n(2) construction, installation, maintenance and removal of structures or facilities on or under water;\n(3) erection of bridges and cableways;\n(4) laying, repairing and removing cables or pipelines on or under water;\n(5) installation of mooring buoys, floating pontoons, mooring posts and other facilities;\n(6) waterway construction and dredging of waterways and the waters in front of wharves;\n(7) holding large-scale mass activities and sports competitions.\nWhere a feasibility study is required for the operations or activities listed in the preceding paragraph, the opinions of the maritime safety administration shall be sought during the feasibility study; where examination and approval by other relevant departments is required in accordance with the provisions of laws and administrative regulations, the relevant examination and approval formalities shall also be completed in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Navigation, Berthing and Operations"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Where the maritime safety administration examines and approves the operations or activities provided in Article 25 of these Regulations, it shall, within 30 days from the date of receiving the application, make a decision to approve or not to approve and notify the applicant in writing.\nWhere, in an emergency, a waterway needs to be repaired or a waterway or the waters in front of a wharf needs to be dredged, the operator may commence construction while applying."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Navigation, Berthing and Operations"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "No aquaculture, planting of vegetation or aquatic organisms, or installation of permanent fixed facilities may be carried out within a waterway.\nWhere the delineation of a waterway involves an aquaculture area, the competent waterway department shall seek the opinions of the competent fishery administrative department; where the establishment of an aquaculture area involves a waterway, the competent fishery administrative department shall seek the opinions of the competent waterway department and the maritime safety administration."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Navigation, Berthing and Operations"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Where the following operations that may affect navigation safety are carried out in navigable inland waters, they shall be filed with the maritime safety administration before the operations are carried out:\n(1) meteorological observation, surveying and geological investigation;\n(2) routine maintenance of waterways;\n(3) large-scale clearing of refuse from the water surface;\n(4) other acts that may affect traffic safety in navigable inland waters."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Navigation, Berthing and Operations"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "When carrying out the operations or activities provided in Articles 25 and 28 of these Regulations, marks shall be set up and signals displayed in the operation or activity area, and corresponding safety measures shall be taken in accordance with the provisions of the maritime safety administration to ensure navigation safety.\nAfter the operations or activities in the preceding paragraph are completed, no object obstructing navigation may be left behind."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Navigation, Berthing and Operations"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Wharves and berths engaged in the loading and unloading of dangerous goods must meet the requirements of the relevant national safety specifications and shall seek the opinions of the maritime safety administration, and may be put into use only after passing acceptance.\nIt is prohibited to transport in inland waterways dangerous goods whose transport is prohibited by laws, administrative regulations and the provisions of the competent transport department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision of Dangerous Goods"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Vessels carrying dangerous goods must hold a certificate of fitness for the carriage of dangerous goods issued after survey in accordance with law by a vessel survey institution recognised by the maritime safety administration, and shall carry out stowage and transport in accordance with the provisions of the State on the transport of dangerous goods and the safety technical specifications."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision of Dangerous Goods"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Where a vessel loads or unloads or tranships dangerous goods, or carries dangerous goods into or out of a port, it shall report in advance to the maritime safety administration and the port administration the name, characteristics and packaging of the dangerous goods, the time and place of loading, unloading or transhipment and the time of entering or leaving the port, and may carry out the loading, unloading or transhipment operations or enter or leave the port only after their consent; however, vessels with a fixed vessel, fixed route and fixed cargo may report periodically."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision of Dangerous Goods"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Vessels carrying dangerous goods shall display signals in accordance with provisions when navigating, loading, unloading or berthing; other vessels shall give way."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision of Dangerous Goods"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Wharves and berths engaged in the loading and unloading of dangerous goods and vessels carrying dangerous goods must prepare emergency response plans for dangerous goods accidents and be equipped with the corresponding emergency rescue equipment and materials."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision of Dangerous Goods"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The establishment or cancellation of a ferry crossing shall be subject to examination and approval by the county-level people's government of the place where the ferry crossing is located; before examination and approval, the county-level people's government shall seek the opinions of the local maritime safety administration."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter V Ferry Crossing Administration"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "A ferry crossing shall be established only if it meets the following conditions:\n(1) the site is selected at a place with gentle currents, sufficient water depth, stable banks, a wide field of vision and suitability for vessel berthing, and is far from places where dangerous goods are produced or stored;\n(2) it has safety facilities for loading and unloading goods and for passengers to embark and disembark;\n(3) it is equipped with the necessary life-saving equipment and dedicated management personnel."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter V Ferry Crossing Administration"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The operator of a ferry crossing shall set up conspicuous signs at the ferry crossing, maintain ferry service order and ensure ferry service safety.\nThe county-level people's government of the place where the ferry crossing is located shall establish and improve the responsibility system for ferry crossing safety management and designate the relevant department to be responsible for supervision and inspection of the safety of the ferry crossing and ferry services."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter V Ferry Crossing Administration"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Ferry crossing staff shall have received training and passed the examination and shall obtain a qualification certificate issued by the department designated by the county-level people's government of the place where the ferry crossing is located.\nFerry vessels shall hold valid vessel survey certificates and vessel registration certificates."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V Ferry Crossing Administration"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Passenger-carrying ferry vessels shall bear identification marks conforming to the provisions of the State and shall mark the passenger quota and safety precautions in a conspicuous position.\nFerry vessels shall operate along the route verified by the county-level people's government of the place where the ferry crossing is located and may not carry excess loads; when operating, they shall take care to give way to passing vessels and may not race for the channel or forcibly cross.\nIn the event of floods or severe weather such as strong winds, heavy fog or heavy snow, the ferry crossing shall suspend ferry services."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V Ferry Crossing Administration"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "The planning, construction, installation and maintenance of waterways, navigation marks and other marks in navigable inland waters shall comply with the navigation safety requirements prescribed by the State."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter VI Navigation Support"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where changes occur in an inland waterway, changes occur in water depth or width, or navigation marks are displaced, damaged or lost, affecting navigation safety, the competent waterway and navigation mark departments must promptly take measures to keep the waterway and navigation marks in normal condition."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter VI Navigation Support"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "For sunken, drifting or stranded objects in navigable inland waters that may affect navigation safety, their owners and operators must set up marks in accordance with the relevant provisions of the State, report to the maritime safety administration and salvage and remove them within the time limit set by the maritime safety administration; where there is no owner or operator, the maritime safety administration shall salvage and remove them or take other corresponding measures to ensure navigation safety."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VI Navigation Support"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where bamboo, timber and other objects are towed or floated in navigable inland waters, consent shall be obtained from the maritime safety administration 24 hours before the towing or floating, and the objects shall be towed or floated at the verified time and along the verified route, with the necessary safety measures taken to ensure safety."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VI Navigation Support"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Any unit or individual that discovers any of the following situations shall promptly report it to the maritime safety administration:\n(1) changes in a waterway or changes in the depth or width of a waterway;\n(2) objects obstructing navigation safety;\n(3) displacement, damage or loss of navigation marks;\n(4) other situations obstructing navigation safety.\nAfter receiving a report, the maritime safety administration shall, in light of the circumstances, issue a notice to mariners or a navigational warning and notify the competent waterway and navigation mark departments."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VI Navigation Support"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where the maritime safety administration delineates or adjusts prohibited navigation zones, traffic control zones, anchorages outside port areas, berthing areas and safe operation areas, and where a notice to mariners or navigational warning needs to be issued in respect of the operations or activities provided in Articles 25 and 28 of these Regulations, it shall issue them in a timely manner."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VI Navigation Support"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where a vessel or floating facility is in distress, it shall take all effective measures to save itself.\nWhere a collision or other accident occurs to vessels or floating facilities, either party shall, without endangering its own safety, actively rescue the other party in distress and may not flee.\nWhere a vessel or floating facility is in distress, it must promptly report the time, place, condition and cause of the distress and the rescue requirements to the maritime safety administration of the place of distress and to the owner and operator of the vessel or floating facility."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VII Rescue"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where crew members, staff on floating facilities or other persons discover that another vessel or floating facility is in distress or receive a distress signal, they must do their utmost to rescue the persons in distress and promptly report the relevant circumstances to the maritime safety administration of the place of distress."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VII Rescue"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "After receiving a distress signal or report from a vessel or floating facility, the maritime safety administration must immediately organise forces to rescue the persons in distress and simultaneously report to the local people's government at or above the county level of the place of distress and to the maritime safety administration at a higher level.\nAfter receiving the report of the maritime safety administration, the local people's government at or above the county level of the place of distress shall lead and coordinate the rescue work and mobilise all parties to participate actively in the rescue."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VII Rescue"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "When a vessel or floating facility is in distress, the relevant departments and personnel must actively assist the maritime safety administration in the rescue work.\nVessels and personnel at and near the scene of distress must obey the unified dispatch and command of the maritime safety administration."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VII Rescue"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where a traffic accident occurs to a vessel or floating facility, its owner or operator must immediately report it to the maritime safety administration of the place where the traffic accident occurred and shall protect the scene."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VIII Accident Investigation and Handling"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "After receiving a report of an inland waterway traffic accident, the maritime safety administration must immediately send personnel to the scene to conduct investigation and collect evidence.\nThe maritime safety administration shall conduct the investigation and evidence collection of an inland waterway traffic accident in a comprehensive, objective and impartial manner."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VIII Accident Investigation and Handling"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "The relevant persons who are subject to investigation and evidence collection by the maritime safety administration shall truthfully provide the relevant circumstances and evidence, and may not make false reports or conceal or destroy evidence."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VIII Accident Investigation and Handling"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "The maritime safety administration shall, within 30 days after the completion of the investigation and evidence collection of an inland waterway traffic accident, make an investigation conclusion on the basis of the investigated facts and evidence and inform the parties to the inland waterway traffic accident in writing."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VIII Accident Investigation and Handling"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "In the course of investigating and handling an inland waterway traffic accident, the maritime safety administration shall take effective measures to keep the route clear and prevent other accidents."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VIII Accident Investigation and Handling"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Local people's governments shall, in accordance with the relevant provisions of the State, actively carry out the follow-up work of inland waterway traffic accidents."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VIII Accident Investigation and Handling"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "The reporting, investigation and handling of extraordinarily serious inland waterway traffic accidents shall be carried out in accordance with the relevant provisions of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VIII Accident Investigation and Handling"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "In lakes and reservoirs with heavy tourist and transport traffic, in seasons with severe weather, and during peak traffic periods such as statutory or traditional festivals, major assemblies, fairs, busy farming seasons and school holidays, local people's governments at or above the county level shall strengthen the organisation and coordination of maintaining inland waterway traffic safety."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter IX Supervision and Inspection"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "The maritime safety administrations must establish and improve the supervision and inspection system for inland waterway traffic safety and organise its implementation."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter IX Supervision and Inspection"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "The maritime safety administrations must perform their duties in accordance with law and strengthen supervision and inspection of vessels, floating facilities, crew members and the navigation safety environment. Where hidden dangers to inland waterway traffic safety are discovered, they shall order the units and individuals concerned to eliminate them immediately or within a time limit; where the units and individuals concerned fail to eliminate them immediately or fail to eliminate them within the time limit, the maritime safety administration must take compulsory measures such as ordering temporary suspension of navigation or operations and prohibiting entry into or departure from port."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter IX Supervision and Inspection"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "For inland waterway areas with dense traffic, waters where accidents occur frequently and ports where cargo loading and unloading and passenger embarkation and disembarkation are relatively concentrated, and for passenger ferries, roll-on/roll-off passenger vessels, high-speed passenger vessels, tourist vessels and vessels carrying dangerous goods, the maritime safety administrations must strengthen safety patrols."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter IX Supervision and Inspection"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "When the maritime safety administration conducts supervision and inspection in accordance with these Regulations, it may, in light of the circumstances, take measures to ensure navigation safety against vessels violating the relevant provisions of these Regulations, such as ordering temporary suspension of navigation, proceeding to a designated place, prohibiting entry into or departure from port, compulsory unloading, removal of power units and temporary seizure of vessels."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter IX Supervision and Inspection"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Where the staff of the maritime safety administration conduct supervision and inspection of inland waterway traffic safety in respect of vessels and floating facilities in navigable inland waters in accordance with law, no unit or individual may refuse or obstruct them.\nThe units or individuals concerned shall accept the safety supervision and inspection conducted by the maritime safety administration in accordance with law and shall provide convenience for it.\nWhen the staff of the maritime safety administration conduct supervision and inspection in accordance with these Regulations, they shall produce their law enforcement certificates and identify themselves."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter IX Supervision and Inspection"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, vessels or floating facilities that should be scrapped navigate or operate in inland waterways, the maritime safety administration shall order suspension of navigation or operations and confiscate the vessels or floating facilities."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a vessel or floating facility without a valid survey certificate or registration certificate, or a vessel without the necessary navigation materials, navigates or operates without authorisation, the maritime safety administration shall order suspension of navigation or operations; where the vessel or floating facility refuses to stop, it shall be temporarily seized; where the circumstances are serious, it shall be confiscated."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a vessel navigates without authorisation without being manned with crew members in accordance with the provisions of the competent transport department of the State Council, or a floating facility operates without authorisation without being manned with crew members who have mastered water traffic safety skills in accordance with the provisions of the competent transport department of the State Council, the maritime safety administration shall order rectification within a time limit and impose a fine of not less than RMB 10,000 yuan but not more than RMB 100,000 yuan on the owner or operator of the vessel or floating facility; where rectification is not made within the time limit, it shall order suspension of navigation or operations."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a person who has not passed the examination and obtained a certificate of competency or other certificate of competency engages in vessel navigation without authorisation, the maritime safety administration shall order him or her to leave the post immediately, impose a fine of not less than RMB 2,000 yuan but not more than RMB 20,000 yuan on the person directly responsible and impose a fine of not less than RMB 10,000 yuan but not more than RMB 100,000 yuan on the employing unit."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, the owner or operator of a vessel that must obtain insurance documents or financial guarantees for liability for vessel pollution damage and liability for wreck salvage in accordance with the provisions of the State fails to obtain such insurance documents or financial guarantee certificates, the maritime safety administration shall order rectification within a time limit; where rectification is not made within the time limit, it shall order suspension of navigation and impose a fine of not less than RMB 10,000 yuan but not more than RMB 100,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a vessel navigating in inland waterways is in any of the following circumstances, the maritime safety administration shall order rectification and impose a fine of not less than RMB 5,000 yuan but not more than RMB 50,000 yuan; where the circumstances are serious, it shall prohibit the vessel from entering or leaving port or order suspension of navigation, and may impose on the crew member responsible the penalty of suspending his or her certificate of competency or other certificate of competency for 3 to 6 months:\n(1) failing to fly the national flag or mark the vessel name, port of registry and load lines as required;\n(2) failing to report to the maritime safety administration the voyage plan, seaworthiness, manning and cargo and passengers of the vessel as required;\n(3) failing to apply for pilotage as required;\n(4) entering or leaving an inland waterway port without authorisation, or forcibly passing through a traffic control zone, an area of dense traffic, an area with restricted navigation conditions or a prohibited navigation zone;\n(5) carrying or towing over-weight, over-length, over-height, over-width or semi-submersible objects without applying for approval or without navigating along the verified route and at the verified time."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a vessel fails to berth at a wharf, berth or lawfully published anchorage, berthing area or operation area, the maritime safety administration shall order rectification; where it refuses to rectify, the vessel shall be forcibly towed away, and the costs incurred by the towing shall be borne by the owner or operator of the vessel."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, the relevant operations or activities are carried out in navigable inland waters or on the shoreline without approval or filing, or without setting up marks or displaying signals, the maritime safety administration shall order rectification and impose a fine of not less than RMB 5,000 yuan but not more than RMB 50,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a party engages in operations involving dangerous goods and is in any of the following circumstances, the maritime safety administration shall order suspension of the operations or navigation and impose a fine of not less than RMB 20,000 yuan but not more than RMB 100,000 yuan on the responsible persons in charge or other persons directly responsible; where the person is a crew member, it shall in addition impose the penalty of suspending his or her certificate of competency or other certificate of competency for 6 months or more, up to revocation of the certificate of competency or other certificate of competency:\n(1) a vessel engaged in the transport of dangerous goods fails to prepare an emergency response plan for dangerous goods accidents or fails to be equipped with the corresponding emergency rescue equipment and materials;\n(2) a vessel loads or unloads or tranships dangerous goods, or carries dangerous goods into or out of a port, without the consent of the maritime safety administration or the port administration.\nWhere a party carries dangerous goods without authorisation without holding a certificate of fitness for the carriage of dangerous goods, or fails to carry out stowage and transport in accordance with the safety technical specifications, it shall be punished in accordance with the provisions of the Regulations on the Safety Administration of Hazardous Chemicals."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a ferry crossing is established or cancelled without approval, the department designated by the county-level people's government of the place where the ferry crossing is located shall order rectification within a time limit; where rectification is not made within the time limit, it shall be forcibly demolished or restored, and the costs incurred by the forcible demolition or restoration shall be borne by the person who established or cancelled it respectively."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a ferry vessel fails to mark its identification mark, passenger quota or safety precautions, the department designated by the county-level people's government of the place where the ferry crossing is located shall order rectification and impose a fine of not less than RMB 2,000 yuan but not more than RMB 10,000 yuan; where rectification is not made within the time limit, it shall order suspension of navigation."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, aquaculture, planting of vegetation or aquatic organisms, or installation of permanent fixed facilities is carried out within a waterway in navigable inland waters, the maritime safety administration shall order rectification within a time limit; where rectification is not made within the time limit, it shall be forcibly cleared, and the costs incurred by the clearing shall be borne by the owner or operator."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, the owner or operator of sunken, drifting or stranded objects in navigable inland waters fails to set up marks in accordance with the relevant provisions of the State or fails to salvage and remove them within the prescribed time limit, the maritime safety administration shall order rectification within a time limit; where rectification is not made within the time limit, the maritime safety administration shall forcibly set up marks or organise the salvage and removal; where salvage and removal need to be organised immediately, the maritime safety administration shall promptly organise it. The costs incurred by the maritime safety administration in setting up marks or carrying out salvage and removal shall be borne by the owner or operator of the sunken, drifting or stranded objects."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a vessel or floating facility in distress fails to perform the reporting obligation or fails to actively carry out rescue, the maritime safety administration shall give a warning and may impose on the crew member responsible the penalty of suspending his or her certificate of competency or other certificate of competency for 3 to 6 months, up to revocation of the certificate of competency or other certificate of competency."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a vessel or floating facility has an inland waterway traffic accident, it shall, in addition to bearing the corresponding legal liability in accordance with law, be subject to the penalty imposed by the maritime safety administration on the basis of the investigation conclusion of suspending the certificate of competency or other certificate of competency of the crew member responsible for 6 months or more, up to revocation of the certificate of competency or other certificate of competency."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, vessels or crew members at or near the scene of distress fail to obey the unified dispatch and command of the maritime safety administration, the maritime safety administration shall give a warning and may impose on the crew member responsible the penalty of suspending his or her certificate of competency or other certificate of competency for 3 to 6 months, up to revocation of the certificate of competency or other certificate of competency."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a party forges, alters, buys or sells, lends or fraudulently uses vessel survey certificates, vessel registration certificates, crew certificates of competency or other certificates of competency, the maritime safety administration shall confiscate the relevant certificates or documents; where there are illegal gains, it shall confiscate the illegal gains and impose a fine of not less than 2 times but not more than 5 times the illegal gains; where there are no illegal gains or the illegal gains are less than RMB 20,000 yuan, it shall impose a fine of not less than RMB 10,000 yuan but not more than RMB 50,000 yuan; where the criminal law is violated, criminal liability shall be pursued in accordance with law under the provisions of the Criminal Law on the crime of forging, altering or buying or selling official documents or certificates of State organs or other crimes."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, the owner or operator of a vessel or floating facility instructs or compels a crew member to operate in violation of regulations, the maritime safety administration shall give a warning, impose a fine of not less than RMB 10,000 yuan but not more than RMB 50,000 yuan and may order suspension of navigation or operations; where a major casualty accident or serious consequences are caused, criminal liability shall be pursued in accordance with law under the provisions of the Criminal Law on the crime of major liability accident or other crimes."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a vessel navigating, berthing or operating in inland waterways fails to comply with the rules on navigation, giving way and signal display, the maritime safety administration shall order rectification and impose a fine of not less than RMB 1,000 yuan but not more than RMB 10,000 yuan; where the circumstances are serious, it shall impose on the crew member responsible the penalty of suspending his or her certificate of competency or other certificate of competency for 3 to 6 months, up to revocation of the certificate of competency or other certificate of competency; where a major inland waterway traffic accident is caused, criminal liability shall be pursued in accordance with law under the provisions of the Criminal Law on the crime of causing a traffic accident or other crimes."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a vessel engages in the transport of goods or passengers without meeting the safety technical conditions, or carries goods or passengers in excess of its capacity, the maritime safety administration shall order rectification, impose a fine of not less than RMB 20,000 yuan but not more than RMB 100,000 yuan, may impose on the crew member responsible the penalty of suspending his or her certificate of competency or other certificate of competency for 6 months or more, up to revocation of the certificate of competency or other certificate of competency, and shall forcibly unload the vessel overloaded with cargo, and the unloading costs, storage costs, passenger resettlement costs and vessel supervision costs incurred by the unloading shall be borne by the owner or operator of the vessel; where a major casualty accident occurs or other serious consequences are caused, criminal liability shall be pursued in accordance with law under the provisions of the Criminal Law on the crime of major labour safety accident or other crimes."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a vessel or floating facility flees after an inland waterway traffic accident, the maritime safety administration shall impose on the crew member responsible the penalty of revoking his or her certificate of competency or other certificate of competency; after the certificate or document is revoked, the person may not engage in the profession again within 5 years; where the criminal law is violated, criminal liability shall be pursued in accordance with law under the provisions of the Criminal Law on the crime of causing a traffic accident or other crimes."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a party obstructs or hinders the investigation and evidence collection of an inland waterway traffic accident, or makes a false report or conceals or destroys evidence, the maritime safety administration shall give a warning and impose a fine of not less than RMB 1,000 yuan but not more than RMB 10,000 yuan on the person directly responsible; where the person is a crew member, it shall in addition impose the penalty of suspending his or her certificate of competency or other certificate of competency for 12 months or more, up to revocation of the certificate of competency or other certificate of competency; where violence or threats are used to obstruct the investigation and evidence collection of an inland waterway traffic accident, criminal liability shall be pursued in accordance with law under the provisions of the Criminal Law on the crime of obstructing official duties."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, the maritime safety administration conducts examination and approval or licensing not on the basis of the statutory safety conditions, administrative sanctions of demotion or removal from office shall be imposed, according to the different circumstances, on the responsible persons in charge and other persons directly responsible; where a major inland waterway traffic accident is caused or heavy losses are caused to public property and to the interests of the State and the people, criminal liability shall be pursued in accordance with law under the provisions of the Criminal Law on the crime of abuse of power, the crime of dereliction of duty or other crimes."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, the maritime safety administration fails to carry out supervision and inspection of the safety matters it has examined and approved or licensed, administrative sanctions of recording a major demerit, demotion or removal from office shall be imposed, according to the different circumstances, on the responsible persons in charge and other persons directly responsible; where a major inland waterway traffic accident is caused or heavy losses are caused to public property and to the interests of the State and the people, criminal liability shall be pursued in accordance with law under the provisions of the Criminal Law on the crime of abuse of power, the crime of dereliction of duty or other crimes."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, the maritime safety administration discovers that a vessel or floating facility no longer meets the conditions for safe navigation, berthing or operations but fails to promptly revoke the approval or licence and deal with the matter, administrative sanctions of recording a major demerit, demotion or removal from office shall be imposed, according to the different circumstances, on the responsible persons in charge and other persons directly responsible; where a major inland waterway traffic accident is caused or heavy losses are caused to public property and to the interests of the State and the people, criminal liability shall be pursued in accordance with law under the provisions of the Criminal Law on the crime of abuse of power, the crime of dereliction of duty or other crimes."
+        },
+        "noLabel": {
+          "en": "Article 87."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, the maritime safety administration fails to carry out supervision and inspection of vessels engaged in the transport of passengers or dangerous goods without examination and approval or licensing, or fails to promptly deal with hidden dangers to inland waterway traffic safety in accordance with law when discovered, or fails to impose penalties on illegal acts in accordance with law, administrative sanctions of demotion or removal from office shall be imposed, according to the different circumstances, on the responsible persons in charge and other persons directly responsible; where a major inland waterway traffic accident is caused or heavy losses are caused to public property and to the interests of the State and the people, criminal liability shall be pursued in accordance with law under the provisions of the Criminal Law on the crime of abuse of power, the crime of dereliction of duty or other crimes."
+        },
+        "noLabel": {
+          "en": "Article 88."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, the department designated by the county-level people's government of the place where a ferry crossing is located is in any of the following circumstances, administrative sanctions of demotion or removal from office shall be imposed, according to the different circumstances, on the responsible persons in charge and other persons directly responsible; where a major inland waterway traffic accident is caused or heavy losses are caused to public property and to the interests of the State and the people, criminal liability shall be pursued in accordance with law under the provisions of the Criminal Law on the crime of abuse of power, the crime of dereliction of duty or other crimes:\n(1) failing to carry out supervision and inspection in accordance with law in respect of a ferry crossing approved by the county-level people's government;\n(2) failing to investigate and deal with a ferry crossing established without authorisation and without the approval of the county-level people's government;\n(3) failing to promptly correct and deal with in accordance with law such acts as overloading of ferry vessels, mixed carriage of persons and large livestock, mixed carriage of persons and dangerous goods such as explosives, compressed and liquefied gases, flammable liquids, flammable solids, spontaneously combustible articles and articles which are dangerous when wet, oxidising substances and organic peroxides, toxic substances and corrosive substances, and other acts endangering safety."
+        },
+        "noLabel": {
+          "en": "Article 89."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 90,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a party violates the Law of the People's Republic of China on Penalties for Administration of Public Security and the act constitutes a violation of public security administration, the public security organ shall impose a public security administration punishment."
+        },
+        "noLabel": {
+          "en": "Article 90."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 91,
+        "text": {
+          "en": "The following terms used in these Regulations have the following meanings:\n(1) Navigable inland waters means rivers, lakes, reservoirs, canals and other waters recognised by the maritime safety administration as navigable by vessels.\n(2) Vessel means various displacement or non-displacement ships, boats, rafts, surface-effect craft, submersibles, mobile platforms and other mobile devices on water.\n(3) Floating facility means a structure or device that is secured by non-rigid fixing methods such as cables or anchor chains and that floats or is submerged in water.\n(4) Traffic accident means an event occurring to a vessel or floating facility in navigable inland waters, such as collision, contact, stranding on rocks, damage by waves, grounding, fire, explosion or sinking, that causes personal injury or death and property loss."
+        },
+        "noLabel": {
+          "en": "Article 91."
+        },
+        "chapter": {
+          "en": "Chapter XI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 92,
+        "text": {
+          "en": "Military vessels navigating in navigable inland waters shall comply with the rules on inland waterway navigation, giving way and signal display. The administrative measures for the survey and registration of military vessels and for the examination and certification of their crew members shall be implemented in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 92."
+        },
+        "chapter": {
+          "en": "Chapter XI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 93,
+        "text": {
+          "en": "The registration of fishing vessels and their reporting when entering or leaving fishing ports, the examination and certification of crew members of fishing vessels, the investigation and handling of traffic accidents between fishing vessels, and the administrative measures for the traffic safety of fishing vessels in fishing port waters shall be separately prescribed by the competent fishery administrative department of the State Council on the basis of these Regulations.\nThe survey of fishing vessels and the related supervision and administration shall be carried out by the competent transport department of the State Council in accordance with the administrative regulations on the survey of fishing vessels."
+        },
+        "noLabel": {
+          "en": "Article 93."
+        },
+        "chapter": {
+          "en": "Chapter XI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 94,
+        "text": {
+          "en": "The specific measures for the administration of water traffic safety in urban garden waters shall be formulated by the people's governments of provinces, autonomous regions and municipalities directly under the Central Government; however, the survey and registration of vessels and the administration of crew members shall be carried out in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 94."
+        },
+        "chapter": {
+          "en": "Chapter XI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 95,
+        "text": {
+          "en": "These Regulations shall come into force on 1 August 2002. The Regulations of the People's Republic of China on the Administration of Inland Waterway Traffic Safety promulgated by the State Council on 16 December 1986 shall be repealed simultaneously."
+        },
+        "noLabel": {
+          "en": "Article 95."
+        },
+        "chapter": {
+          "en": "Chapter XI Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-REG-0550'] = {
     "lawId": "CN-REG-0550",
     "sourceLang": "zh",
@@ -16910,6 +23108,921 @@
     ]
   };
 
+  TR['CN-REG-0554'] = {
+    "lawId": "CN-REG-0554",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 77 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated to standardise certification and accreditation activities, improve the quality of products and services and the level of management, and promote economic and social development."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Certification as mentioned in these Regulations refers to the conformity assessment activity in which a certification body certifies that products, services or management systems conform to the relevant technical specifications, the mandatory requirements of the relevant technical specifications, or standards.\nAccreditation as mentioned in these Regulations refers to the conformity assessment activity in which an accreditation body recognises the competence and professional qualifications of certification bodies, inspection bodies and laboratories and of the persons engaged in evaluation, audit and other certification activities."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "These Regulations shall be observed in carrying out certification and accreditation activities within the territory of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The State applies a unified system of supervision and administration of certification and accreditation.\nThe State applies to certification and accreditation work a working mechanism of joint implementation by all the parties concerned under the unified administration, supervision and comprehensive coordination of the certification and accreditation supervision and administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The certification and accreditation supervision and administration department of the State Council shall, in accordance with law, strengthen supervision and administration of the activities of certification training bodies and certification consultancy bodies."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Certification and accreditation activities shall follow the principles of objectivity and independence, openness and fairness, and honesty and credibility."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The State encourages international mutual recognition of certification and accreditation on the basis of equality and mutual benefit. Activities of international mutual recognition of certification and accreditation may not harm national security or the public interest of society."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Bodies and their personnel engaged in certification and accreditation activities shall be obliged to keep confidential the State secrets and trade secrets of which they become aware."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "To obtain the qualification of a certification body, approval by the certification and accreditation supervision and administration department of the State Council shall be obtained, and certification activities shall be carried out within the approved scope.\nWithout approval, no unit or individual may engage in certification activities."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Certification Bodies"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "To obtain the qualification of a certification body, the following conditions shall be met:\n(a) having obtained legal person status;\n(b) having fixed premises and the necessary facilities;\n(c) having management systems conforming to the requirements of certification and accreditation;\n(d) having registered capital of not less than RMB 3 million;\n(e) having 10 or more full-time certification personnel in the corresponding field.\nA certification body engaged in product certification activities shall also possess the testing, inspection and other technical capacity appropriate to carrying out the certification of the relevant products."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Certification Bodies"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The procedures for the application for and approval of the qualification of a certification body are as follows:\n(a) an applicant for the qualification of a certification body shall file a written application with the certification and accreditation supervision and administration department of the State Council and submit supporting documents proving conformity with the conditions prescribed in Article 10 of these Regulations;\n(b) the certification and accreditation supervision and administration department of the State Council shall, within 45 days from the date of acceptance of the application for the qualification of a certification body, make a decision on whether to approve. Where the duties of the relevant departments of the State Council are involved, the opinions of those departments shall be solicited. Where it decides to approve, it shall issue an approval document to the applicant; where it decides not to approve, it shall notify the applicant in writing and state the reasons.\nThe certification and accreditation supervision and administration department of the State Council shall publish the list of enterprises that have obtained the qualification of a certification body in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Certification Bodies"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Where an overseas certification body establishes a representative office within the territory of the People's Republic of China, it shall, after completing the registration formalities with the market supervision and administration department in accordance with law, engage only in promotional activities related to the scope of business of the body to which it belongs, and may not engage in certification activities.\nThe registration of a representative office established within the territory of the People's Republic of China by an overseas certification body shall be handled in accordance with the relevant laws and administrative regulations on foreign investment and the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Certification Bodies"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "A certification body may not have an interest relationship with an administrative organ.\nA certification body may not accept any funding that may affect the objectivity and fairness of certification activities, and may not engage in product development, marketing or other activities that may affect the objectivity and fairness of certification activities.\nA certification body may not have an interest relationship with a certification client in respect of assets or management."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Certification Bodies"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Certification personnel engaged in certification activities shall practise in one certification body and may not practise simultaneously in two or more certification bodies."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Certification Bodies"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Inspection bodies and laboratories that issue to society data and results having a certifying effect shall possess the basic conditions and capacity prescribed by the relevant laws and administrative regulations and may engage in the corresponding activities only after being recognised in accordance with law; the results of recognition shall be published by the certification and accreditation supervision and administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Certification Bodies"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "In accordance with the needs of economic and social development, the State promotes certification of products, services and management systems."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Certification"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Certification bodies shall carry out certification activities in accordance with the basic certification standards and certification rules. The basic certification standards and certification rules shall be formulated by the certification and accreditation supervision and administration department of the State Council; where the duties of the relevant departments of the State Council are involved, the certification and accreditation supervision and administration department of the State Council shall formulate them together with those departments.\nWhere the field is a new field of certification and the departments prescribed in the preceding paragraph have not yet formulated certification rules, a certification body may formulate certification rules on its own and report them to the certification and accreditation supervision and administration department of the State Council for the record."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Certification"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Any legal person, organisation or individual may voluntarily entrust a certification body established in accordance with law to carry out certification of products, services or management systems."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Certification"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "A certification body may not, on the ground that the client has not participated in certification consultancy or certification training, refuse to provide certification services within the scope of business of the certification body, and may not put forward to the client requirements or restrictive conditions unrelated to certification activities."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Certification"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "A certification body shall make public information such as the basic certification standards, certification rules and fee standards."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Certification"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Certification bodies and the inspection bodies and laboratories related to certification engaged in certification and in inspection and testing activities related to certification shall complete the procedures prescribed by the basic certification standards and certification rules, ensure that certification, inspection and testing are complete, objective and true, and may not add, reduce or omit procedures.\nCertification bodies and the inspection bodies and laboratories related to certification shall make complete records of the certification, inspection and testing processes and keep them on file."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Certification"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Certification bodies and their certification personnel shall promptly make certification conclusions and shall ensure that the conclusions are objective and true. The certification conclusion shall, after being signed by the certification personnel, be signed by the person in charge of the certification body.\nCertification bodies and their certification personnel shall be responsible for the certification results."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Certification"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where the certification conclusion is that the products, services or management systems conform to the certification requirements, the certification body shall promptly issue a certification certificate to the client."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Certification"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "A party that has obtained a certification certificate shall use the certification certificate and certification mark within the scope of certification, and may not use product or service certification certificates, certification marks and the relevant wording and symbols to mislead the public into believing that its management system has been certified, nor use management system certification certificates, certification marks and the relevant wording and symbols to mislead the public into believing that its products or services have been certified."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Certification"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "A certification body may formulate certification marks on its own. The design, wording and name of a certification mark formulated by a certification body on its own may not violate the provisions of laws and administrative regulations, may not be identical or similar to the certification marks promoted by the State, may not impede social administration, and may not impair social morality and customs."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Certification"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "A certification body shall carry out effective follow-up investigation of the products, services and management systems it has certified; where the certified products, services or management systems cannot continuously conform to the certification requirements, the certification body shall suspend their use of the certification certificate up to cancellation and shall publish the fact."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Certification"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "In order to protect national security, prevent fraud, protect human health or safety, protect the life or health of animals and plants, and protect the environment, where the State prescribes that the relevant products must be certified, they may leave the factory, be sold, imported or used in other business activities only after they have been certified and marked with the certification mark."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Certification"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "In respect of products that must be certified, the State applies a unified product catalogue, unified mandatory requirements of technical specifications, standards and conformity assessment procedures, a unified mark and unified fee standards.\nThe unified product catalogue (hereinafter referred to as the catalogue) shall be formulated and adjusted by the certification and accreditation supervision and administration department of the State Council together with the relevant departments of the State Council, published by the certification and accreditation supervision and administration department of the State Council, and implemented jointly with the parties concerned."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Certification"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Products listed in the catalogue must be certified by certification bodies designated by the certification and accreditation supervision and administration department of the State Council.\nThe certification marks for products listed in the catalogue shall be prescribed in a unified manner by the certification and accreditation supervision and administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Certification"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where products listed in the catalogue are within the catalogue of commodities for import and export inspection, the inspection formalities shall be simplified during the inspection of import and export commodities."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Certification"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The certification bodies and the laboratories related to certification designated by the certification and accreditation supervision and administration department of the State Council to engage in certification activities for products listed in the catalogue (hereinafter referred to as the designated certification bodies and laboratories) shall be bodies that have long engaged in the relevant business, have no adverse record, and have obtained accreditation in accordance with the provisions of these Regulations and possess the capacity to engage in the relevant certification activities. When designating certification bodies to engage in certification activities for products listed in the catalogue, the certification and accreditation supervision and administration department of the State Council shall ensure that at least two bodies meeting the conditions prescribed in these Regulations are designated in the field of each product listed in the catalogue.\nWhen designating the certification bodies and laboratories prescribed in the preceding paragraph, the certification and accreditation supervision and administration department of the State Council shall publish the relevant information in advance and organise experts recognised in the relevant fields to form an expert review committee to review the certification bodies and laboratories that meet the requirements prescribed in the preceding paragraph; after the review and after soliciting the opinions of the relevant departments of the State Council, it shall make a decision within the published time in accordance with the principles of rational use of resources, fair competition, and convenience and effectiveness."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Certification"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The certification and accreditation supervision and administration department of the State Council shall publish the list of designated certification bodies and laboratories and the scope of the designated business.\nCertification bodies and laboratories that have not been designated may not engage in the certification of products listed in the catalogue or in inspection and testing activities related to certification."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III Certification"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The producer, seller or importer of a product listed in the catalogue may entrust a designated certification body on its own to carry out certification."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter III Certification"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Designated certification bodies and laboratories shall, within the designated scope of business, provide clients with convenient and timely certification, inspection and testing services, may not delay, may not discriminate against or place difficulties in the way of clients, and may not seek improper benefits.\nA designated certification body may not transfer its designated certification business to another body."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter III Certification"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Where designated certification bodies and laboratories carry out activities of international mutual recognition, they shall do so within the framework of the international mutual recognition agreements signed with foreign parties by the certification and accreditation supervision and administration department of the State Council or by the authorised relevant departments of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter III Certification"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The accreditation body determined by the certification and accreditation supervision and administration department of the State Council (hereinafter referred to as the accreditation body) shall carry out accreditation activities independently.\nOther than the accreditation body determined by the certification and accreditation supervision and administration department of the State Council, no other unit may directly or in disguised form engage in accreditation activities. Where another unit directly or in disguised form engages in accreditation activities, its accreditation results shall be void."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Accreditation"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Certification bodies, inspection bodies and laboratories may obtain accreditation from the accreditation body so as to ensure that their certification, inspection and testing capacity continuously and steadily conforms to the accreditation conditions."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Accreditation"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Persons engaged in evaluation, audit and other certification activities may engage in the corresponding certification activities only after being registered by the accreditation body."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Accreditation"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The accreditation body shall have a quality system appropriate to its scope of accreditation and shall establish an internal audit system to ensure the effective implementation of the quality system."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter IV Accreditation"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "The accreditation body may, in light of the needs of accreditation, engage personnel to engage in accreditation evaluation activities. Persons engaged in accreditation evaluation activities shall be experts recognised in the relevant fields, be familiar with the relevant laws and administrative regulations and the accreditation rules and procedures, and possess the good character, professional knowledge and professional capacity required for evaluation."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter IV Accreditation"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where the accreditation body entrusts another person to complete specific evaluation work relating to accreditation, the accreditation body shall be responsible for the evaluation conclusions."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IV Accreditation"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The accreditation body shall make public information such as the accreditation conditions, accreditation procedures and fee standards.\nWhen accepting an application for accreditation, the accreditation body may not put forward to the applicant requirements or restrictive conditions unrelated to accreditation activities."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter IV Accreditation"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "The accreditation body shall, within the published time and in accordance with national standards and the provisions of the certification and accreditation supervision and administration department of the State Council, complete the evaluation of certification bodies, inspection bodies and laboratories, make a decision on whether to grant accreditation, and make complete records of the accreditation process and keep them on file. The accreditation body shall ensure the objectivity, fairness, completeness and validity of accreditation and shall be responsible for the accreditation conclusions.\nThe accreditation body shall issue accreditation certificates to the certification bodies, inspection bodies and laboratories that have obtained accreditation and shall publish the list of certification bodies, inspection bodies and laboratories that have obtained accreditation."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter IV Accreditation"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "The accreditation body shall, in accordance with national standards and the provisions of the certification and accreditation supervision and administration department of the State Council, assess the persons engaged in evaluation, audit and other certification activities, and shall register those who pass the assessment."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter IV Accreditation"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "The accreditation certificate shall include the scope of accreditation, the accreditation standards, the accreditation field and the period of validity."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter IV Accreditation"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "A body that has obtained accreditation shall use the accreditation certificate and accreditation mark within the scope of accreditation obtained. Where a body that has obtained accreditation improperly uses the accreditation certificate and accreditation mark, the accreditation body shall suspend its use up to cancellation of the accreditation certificate and shall publish the fact."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter IV Accreditation"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "The accreditation body shall exercise effective follow-up supervision over the bodies and personnel that have obtained accreditation and shall periodically carry out re-evaluation of the bodies that have obtained accreditation so as to verify whether they continuously conform to the accreditation conditions. Where a body or person that has obtained accreditation no longer conforms to the accreditation conditions, the accreditation body shall cancel the accreditation certificate and shall publish the fact.\nWhere there are changes in the circumstances relevant to the accreditation conditions of a body that has obtained accreditation, such as its practitioners, principal person in charge, facilities and certification rules formulated on its own, it shall promptly inform the accreditation body."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter IV Accreditation"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "The accreditation body may not accept any funding that may affect the objectivity and fairness of accreditation activities."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter IV Accreditation"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where a domestic certification body, inspection body or laboratory obtains accreditation from an overseas accreditation body, it shall report the matter to the certification and accreditation supervision and administration department of the State Council for the record."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter IV Accreditation"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "The certification and accreditation supervision and administration department of the State Council may supervise compliance with these Regulations by such means as organising peer review, soliciting opinions from certified enterprises, carrying out random inspection of certification activities and certification results, and requiring certification bodies and the inspection bodies and laboratories related to certification to report on their business activities. Where it discovers acts violating these Regulations, it shall promptly investigate and deal with them, and where the duties of the relevant departments of the State Council are involved, it shall promptly notify those departments."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "The certification and accreditation supervision and administration department of the State Council shall focus its supervision on the designated certification bodies and laboratories and carry out periodic or unscheduled inspections of their certification, inspection and testing activities. Designated certification bodies and laboratories shall periodically submit reports to the certification and accreditation supervision and administration department of the State Council and shall be responsible for the truthfulness of the reports; the reports shall explain the circumstances of their certification, inspection and testing activities for products listed in the catalogue."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "The accreditation body shall periodically submit reports to the certification and accreditation supervision and administration department of the State Council and shall be responsible for the truthfulness of the reports; the reports shall explain the circumstances of the accreditation body's implementation of the accreditation system, its accreditation activities and the work of its practitioners.\nThe certification and accreditation supervision and administration department of the State Council shall evaluate the reports of the accreditation body and exercise supervision over the accreditation body by such means as consulting the archives and materials of accreditation activities and ascertaining the circumstances from the persons concerned."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "The certification and accreditation supervision and administration department of the State Council may, in light of the needs of the supervision and administration of certification and accreditation, question the principal persons in charge of accreditation bodies, certification bodies, inspection bodies and laboratories on the relevant matters, investigate and ascertain the circumstances and give admonitions, and the persons concerned shall actively cooperate."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "The market supervision and administration departments of local people's governments at or above the county level shall, within the scope of authorisation of the certification and accreditation supervision and administration department of the State Council, exercise supervision and administration over certification activities in accordance with the provisions of these Regulations.\nThe market supervision and administration departments of local people's governments at or above the county level authorised by the certification and accreditation supervision and administration department of the State Council are hereinafter referred to as the local certification supervision and administration departments."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Any unit or individual has the right to report acts violating the law on certification and accreditation to the certification and accreditation supervision and administration department of the State Council and to the local certification supervision and administration departments. The certification and accreditation supervision and administration department of the State Council and the local certification supervision and administration departments shall promptly investigate and handle the matter and shall keep the identity of the reporter confidential."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where certification activities are carried out without approval, the activities shall be banned and a fine of not less than RMB 100,000 but not more than RMB 500,000 shall be imposed; where there are illegal gains, the illegal gains shall be confiscated."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where an overseas certification body establishes a representative office within the territory of the People's Republic of China without registration, the office shall be banned and a fine of not less than RMB 50,000 but not more than RMB 200,000 shall be imposed.\nWhere a registered representative office of an overseas certification body engages in certification activities within the territory of the People's Republic of China, it shall be ordered to make correction and a fine of not less than RMB 100,000 but not more than RMB 500,000 shall be imposed; where there are illegal gains, the illegal gains shall be confiscated; where the circumstances are serious, the approval document shall be revoked and the fact published."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where a certification body accepts funding that may affect the objectivity and fairness of certification activities, or engages in product development, marketing or other activities that may affect the objectivity and fairness of certification activities, or has an interest relationship with a certification client in respect of assets or management, it shall be ordered to suspend business for rectification; where the circumstances are serious, the approval document shall be revoked and the fact published; where there are illegal gains, the illegal gains shall be confiscated; where a crime is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where a certification body is in any of the following circumstances, it shall be ordered to make correction and a fine of not less than RMB 50,000 but not more than RMB 200,000 shall be imposed; where there are illegal gains, the illegal gains shall be confiscated; where the circumstances are serious, it shall be ordered to suspend business for rectification up to revocation of the approval document and the fact shall be published:\n(a) engaging in certification activities beyond the approved scope;\n(b) adding, reducing or omitting procedures prescribed by the basic certification standards and certification rules;\n(c) failing to carry out effective follow-up investigation of the products, services or management systems it has certified, or, upon discovering that the certified products, services or management systems cannot continuously conform to the certification requirements, failing to promptly suspend their use of the certificate or cancel the certification certificate and publish the fact;\n(d) employing persons not registered by the accreditation body to engage in certification activities.\nWhere the inspection bodies and laboratories related to certification add, reduce or omit procedures prescribed by the basic certification standards and certification rules, they shall be penalised in accordance with the provisions of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Where a certification body is in any of the following circumstances, it shall be ordered to make correction within a time limit; where correction is not made within the time limit, a fine of not less than RMB 20,000 but not more than RMB 100,000 shall be imposed:\n(a) on the ground that the client has not participated in certification consultancy or certification training, refusing to provide certification services within the scope of business of the certification body, or putting forward to the client requirements or restrictive conditions unrelated to certification activities;\n(b) the design, wording or name of a certification mark formulated on its own being identical or similar to the certification marks promoted by the State, or impeding social administration, or impairing social morality and customs;\n(c) failing to make public information such as the basic certification standards, certification rules and fee standards;\n(d) failing to make complete records of the certification process and keep them on file;\n(e) failing to promptly issue a certification certificate to the client whose products, services or management systems it has certified.\nWhere the inspection bodies and laboratories related to certification fail to make complete records of the inspection and testing processes related to certification and keep them on file, they shall be penalised in accordance with the provisions of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where a certification body issues a false certification conclusion, or the certification conclusion issued is seriously inconsistent with the facts, the approval document shall be revoked and the fact published; the professional qualifications of the persons directly in charge and the certification personnel bearing direct responsibility shall be revoked; where a crime is constituted, criminal liability shall be pursued in accordance with law; where damage is caused, the certification body shall bear the corresponding liability for compensation.\nWhere a designated certification body commits the unlawful acts prescribed in the preceding paragraph, its designation shall be revoked at the same time."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Where certification personnel engaged in certification activities do not practise in a certification body or practise simultaneously in two or more certification bodies, they shall be ordered to make correction and shall be punished by suspension of practice for not less than 6 months but not more than 2 years; where they still fail to make correction, their professional qualifications shall be revoked."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Where a certification body or a laboratory related to certification engages without designation in the certification of products listed in the catalogue or in inspection and testing activities related to certification, it shall be ordered to make correction and a fine of not less than RMB 100,000 but not more than RMB 500,000 shall be imposed; where there are illegal gains, the illegal gains shall be confiscated.\nWhere a certification body engages without designation in the certification of products listed in the catalogue, its approval document shall be revoked and the fact published."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Where a designated certification body or laboratory engages beyond the designated scope of business in the certification of products listed in the catalogue or in inspection and testing activities related to certification, it shall be ordered to make correction and a fine of not less than RMB 100,000 but not more than RMB 500,000 shall be imposed; where there are illegal gains, the illegal gains shall be confiscated; where the circumstances are serious, the designation shall be revoked up to revocation of the approval document and the fact shall be published.\nWhere a designated certification body transfers its designated certification business, it shall be penalised in accordance with the provisions of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Where a certification body, inspection body or laboratory obtains accreditation from an overseas accreditation body without reporting the matter to the certification and accreditation supervision and administration department of the State Council for the record, it shall be given a warning and the fact shall be published."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Where a product listed in the catalogue leaves the factory, is sold, imported or used in other business activities without certification, the party shall be ordered to make correction within a time limit and a fine of not less than RMB 50,000 but not more than RMB 200,000 shall be imposed; where the value of the uncertified unlawful products is less than RMB 10,000, a fine of not more than 2 times the value of the goods shall be imposed; where there are illegal gains, the illegal gains shall be confiscated."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Where the accreditation body is in any of the following circumstances, it shall be ordered to make correction; where the circumstances are serious, the principal person in charge and the persons responsible shall be removed from office or dismissed:\n(a) granting accreditation to bodies and personnel that do not meet the accreditation conditions;\n(b) upon discovering that a body or person that has obtained accreditation does not meet the accreditation conditions, failing to promptly cancel the accreditation certificate and publish the fact;\n(c) accepting funding that may affect the objectivity and fairness of accreditation activities.\nThe principal person in charge and the persons responsible of the accreditation body who are removed from office or dismissed may not engage in accreditation activities within 5 years from the date of removal or dismissal."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "Where the accreditation body is in any of the following circumstances, it shall be ordered to make correction, and the principal person in charge and the persons responsible shall be given a warning:\n(a) when accepting an application for accreditation, putting forward to the applicant requirements or restrictive conditions unrelated to accreditation activities;\n(b) failing to complete accreditation activities within the published time, or failing to make public information such as the accreditation conditions, accreditation procedures and fee standards;\n(c) upon discovering that a body that has obtained accreditation improperly uses the accreditation certificate and accreditation mark, failing to promptly suspend its use or cancel the accreditation certificate and publish the fact;\n(d) failing to make complete records of the accreditation process and keep them on file."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "Where the certification and accreditation supervision and administration department of the State Council or the local certification supervision and administration departments and their staff members abuse their powers, engage in malpractices for personal gain or neglect their duties, and commit any of the following acts, administrative sanctions of demotion or removal from office shall be imposed in accordance with law on the persons directly in charge and other persons directly responsible; where a crime is constituted, criminal liability shall be pursued in accordance with law:\n(a) granting approval and designation without complying with the conditions and procedures prescribed in these Regulations;\n(b) upon discovering that a certification body no longer meets the conditions for approval or designation prescribed in these Regulations, failing to revoke the approval document or the designation;\n(c) upon discovering that a designated laboratory no longer meets the conditions for designation prescribed in these Regulations, failing to revoke the designation;\n(d) upon discovering that a certification body or an inspection body or laboratory related to certification has issued false certification or inspection or testing conclusions, or that the certification or inspection or testing conclusions issued are seriously inconsistent with the facts, failing to investigate and deal with the matter;\n(e) upon discovering other unlawful acts relating to certification and accreditation prescribed in these Regulations, failing to investigate and deal with them."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "Where certification marks or certification certificates are forged, fraudulently used, bought or sold, the matter shall be investigated and dealt with in accordance with the provisions of the Law of the People's Republic of China on Product Quality and other laws."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "The administrative penalties prescribed in these Regulations shall be imposed by the certification and accreditation supervision and administration department of the State Council or by the local certification supervision and administration departments it authorises in accordance with their respective duties. Where laws and other administrative regulations provide otherwise, such provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "Within 5 years from the date on which the professional qualifications of certification personnel are revoked, the accreditation body shall no longer accept their applications for registration."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "Where a certification body fails to carry out effective follow-up investigation of the products it has certified, or, upon discovering that the certified products cannot continuously conform to the certification requirements, fails to promptly suspend or cancel the certification certificate and require the cessation of use of the certification mark, thereby causing losses to consumers, it shall bear joint and several liability with the producer and the seller."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "These Regulations do not apply to the certification of the quality management practices of drug producing and trading enterprises, the certification of the quality conformity of laboratory animals, the certification of military products, or the accreditation of laboratories and their personnel engaged in the calibration and testing of military products.\nWhere a certification body approved in accordance with these Regulations engages in the certification of the management systems of units producing or trading in minerals, hazardous chemicals or fireworks and firecrackers, the matter shall be organised by the work safety supervision and administration department of the State Council in light of the special requirements of work safety; a certification body engaged in comprehensive assessment of work safety in units producing or trading in minerals, hazardous chemicals or fireworks and firecrackers may obtain accreditation from the accreditation body only upon the recommendation of the work safety supervision and administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "The fees for certification and accreditation shall conform to the provisions of the State's relevant price laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "The measures for the administration of certification training bodies and certification consultancy bodies shall be formulated by the certification and accreditation supervision and administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "These Regulations shall come into force as of 1 November 2003. The Regulations of the People's Republic of China on the Administration of Product Quality Certification promulgated by the State Council on 7 May 1991 shall be repealed simultaneously."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-REG-0555'] = {
     "lawId": "CN-REG-0555",
     "sourceLang": "zh",
@@ -17466,6 +24579,1161 @@
         },
         "chapter": {
           "en": "Chapter VII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0556'] = {
+    "lawId": "CN-REG-0556",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 98 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the Trademark Law of the People's Republic of China (hereinafter referred to as the Trademark Law)."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The provisions of these Regulations concerning trademarks for goods shall apply to service marks."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Where the holder of a trademark requests protection of a well-known trademark in accordance with Article 13 of the Trademark Law, it shall submit evidentiary materials showing that its trademark is a well-known trademark. The Trademark Office and the Trademark Review and Adjudication Board shall, in accordance with Article 14 of the Trademark Law, determine whether the trademark is well-known on the basis of the need to examine and handle the case and the evidentiary materials submitted by the parties."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "A geographical indication as provided in Article 16 of the Trademark Law may, in accordance with the Trademark Law and these Regulations, be applied for registration as a certification mark or a collective mark.\nWhere a geographical indication is registered as a certification mark, a natural person, legal person or other organisation whose goods meet the conditions for use of that geographical indication may request to use the certification mark, and the organisation controlling the certification mark shall permit such use. Where a geographical indication is registered as a collective mark, a natural person, legal person or other organisation whose goods meet the conditions for use of that geographical indication may request to join the association, society or other organisation in whose name the geographical indication is registered as a collective mark, and that association, society or other organisation shall admit it as a member in accordance with its articles of association; where it does not request to join that association, society or other organisation, it may also use the geographical indication legitimately, and that association, society or other organisation shall have no right to prohibit such use."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Where a party entrusts a trademark agency with an application for trademark registration or with other trademark matters, it shall submit a power of attorney. The power of attorney shall state the content and scope of the agency; where the principal is a foreigner or a foreign enterprise, the power of attorney shall also state the nationality of the principal.\nThe notarisation and authentication of the power of attorney of a foreigner or a foreign enterprise and of the certification documents relating thereto shall be handled in accordance with the principle of reciprocity.\nWhere an applicant for trademark registration or an assignee of a trademark is a foreigner or a foreign enterprise, it shall designate in the application a recipient within the territory of China to be responsible for receiving the legal documents of the Trademark Office and the Trademark Review and Adjudication Board in subsequent trademark business. Legal documents of the Trademark Office and the Trademark Review and Adjudication Board in subsequent trademark business shall be served on the recipient within the territory of China.\nThe foreigners or foreign enterprises mentioned in Article 18 of the Trademark Law refer to foreigners or foreign enterprises that have no habitual residence or business office in China."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "An application for trademark registration or for other trademark matters shall be made in Chinese.\nWhere the various certificates, certification documents and evidentiary materials submitted in accordance with the Trademark Law and these Regulations are in a foreign language, a Chinese translation shall be attached; where no translation is attached, the certificate, certification document or evidentiary material shall be deemed not to have been submitted."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Where a staff member of the Trademark Office or the Trademark Review and Adjudication Board is in any of the following circumstances, that staff member shall withdraw, and the party or an interested party may request that staff member to withdraw:\n(a) being a close relative of the party or of the party's agent;\n(b) having another relationship with the party or the party's agent that may affect impartiality;\n(c) having an interest in the application for trademark registration or in other trademark matters."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Where documents relating to a trademark registration application and other documents are submitted by means of data messages as provided in Article 22 of the Trademark Law, they shall be submitted through the Internet in accordance with the provisions of the Trademark Office or the Trademark Review and Adjudication Board."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Except in the circumstances provided in Article 18 of these Regulations, the date on which a party submits documents or materials to the Trademark Office or the Trademark Review and Adjudication Board shall, where they are delivered directly, be the date of delivery; where they are sent by post, be the date of the postmark of despatch; where the postmark is illegible or there is no postmark, be the date on which the Trademark Office or the Trademark Review and Adjudication Board actually receives them, unless the party can produce evidence of the actual date of the postmark. Where they are delivered through an express delivery enterprise other than a postal enterprise, the date shall be the date on which the express delivery enterprise accepts them for despatch; where the date of acceptance for despatch is unclear, the date shall be the date on which the Trademark Office or the Trademark Review and Adjudication Board actually receives them, unless the party can produce evidence of the actual date of acceptance for despatch. Where they are submitted by means of data messages, the date shall be the date on which they enter the electronic system of the Trademark Office or the Trademark Review and Adjudication Board.\nWhere a party sends documents by post to the Trademark Office or the Trademark Review and Adjudication Board, it shall use registered mail.\nWhere a party submits documents to the Trademark Office or the Trademark Review and Adjudication Board in writing, the archived records of the Trademark Office or the Trademark Review and Adjudication Board shall prevail; where they are submitted by means of data messages, the database records of the Trademark Office or the Trademark Review and Adjudication Board shall prevail, unless the party has evidence proving that the archived records or database records of the Trademark Office or the Trademark Review and Adjudication Board are erroneous."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The various documents of the Trademark Office or the Trademark Review and Adjudication Board may be served on a party by post, direct delivery, data message or other means; where they are served on a party by means of data messages, the consent of the party shall be obtained. Where a party has entrusted a trademark agency, service of documents on the trademark agency shall be deemed service on the party.\nThe date of service of the various documents by the Trademark Office or the Trademark Review and Adjudication Board on a party shall, where they are sent by post, be the date of the postmark on receipt by the party; where the postmark is illegible or there is no postmark, service shall be deemed effected on the party upon the expiry of 15 days from the date of despatch of the documents, unless the party can prove the actual date of receipt; where they are delivered directly, be the date of delivery; where they are served by means of data messages, service shall be deemed effected on the party upon the expiry of 15 days from the date of despatch of the documents, unless the party can prove the date on which the documents entered its electronic system. Where the documents cannot be served by the above means, they may be served by announcement, and the documents shall be deemed served on the party upon the expiry of 30 days from the date of publication of the announcement."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The following periods are not counted in the time limits for trademark examination and adjudication:\n(a) the period for service of the documents of the Trademark Office or the Trademark Review and Adjudication Board by announcement;\n(b) the period in which a party needs to supplement evidence or rectify documents, and the period in which a new reply is required because of a change of party;\n(c) the period required for the submission of evidence of use and for negotiation or drawing lots where applications are filed on the same day;\n(d) the period in which it is necessary to await the determination of the right of priority;\n(e) the period, in the course of examination or adjudication, in which the result of the adjudication of a case concerning an earlier right is awaited at the request of the applicant in the case."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Except in the circumstances provided in paragraph 2 of this Article, the day on which the various time limits provided in the Trademark Law and these Regulations begin shall not be counted within the time limit. Where a time limit is calculated in years or months, the corresponding day of the last month of the time limit shall be the date of expiry of the time limit; where there is no corresponding day in that month, the last day of that month shall be the date of expiry of the time limit; where the date of expiry of the time limit falls on a public holiday, the first working day after the holiday shall be the date of expiry of the time limit.\nThe term of validity of a registered trademark provided in Articles 39 and 40 of the Trademark Law shall be counted from the statutory date, and the day preceding the corresponding day of the last month of the time limit shall be the date of expiry of the time limit; where there is no corresponding day in that month, the last day of that month shall be the date of expiry of the time limit."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "An application for trademark registration shall be filed in accordance with the published classification of goods and services. For each application for trademark registration, one copy of the Application for Trademark Registration and one copy of the representation of the trademark shall be submitted to the Trademark Office; where trademark registration is applied for in respect of a combination of colours or a coloured representation, a coloured representation shall be submitted together with one black-and-white copy; where no colour is specified, a black-and-white representation shall be submitted.\nThe representation of the trademark shall be clear and easy to paste, shall be printed on smooth and durable paper or replaced by a photograph, and its length and width shall not exceed 10 centimetres and shall not be less than 5 centimetres.\nWhere trademark registration is applied for in respect of a three-dimensional sign, a declaration shall be made in the application, the manner of use of the trademark shall be stated, and a representation capable of determining the three-dimensional shape shall be submitted; the representation of the trademark submitted shall contain at least three views.\nWhere trademark registration is applied for in respect of a combination of colours, a declaration shall be made in the application and the manner of use of the trademark shall be stated.\nWhere trademark registration is applied for in respect of a sound sign, a declaration shall be made in the application, a sound sample meeting the requirements shall be submitted, the sound trademark applied for registration shall be described, and the manner of use of the trademark shall be stated. A sound trademark shall be described by describing the sound used as a trademark in staff notation or numbered musical notation together with a written explanation; where it cannot be described in staff notation or numbered musical notation, it shall be described in words; the description of the trademark shall be consistent with the sound sample.\nWhere registration of a collective mark or a certification mark is applied for, a declaration shall be made in the application, and documents proving the qualification of the applicant and the rules for use and management shall be submitted.\nWhere a trademark is in a foreign language or contains a foreign language, its meaning shall be stated."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Application for Trademark Registration"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "An applicant for trademark registration shall submit documents proving its identity. The name of the applicant for trademark registration shall be consistent with the certification documents submitted.\nThe provision of the preceding paragraph on the submission by an applicant of documents proving its identity shall apply to the other trademark matters, such as modification, assignment, renewal, opposition and cancellation, filed with the Trademark Office."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Application for Trademark Registration"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The name of goods or service items shall be filled in according to the class number and name in the classification of goods and services; where the name of goods or service items is not included in the classification of goods and services, a description of the goods or services shall be attached.\nWhere documents relating to an application for trademark registration and other documents are filed on paper, they shall be typed or printed.\nThe provision of paragraph 2 of this Article shall apply to the handling of other trademark matters."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Application for Trademark Registration"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where a trademark is jointly applied for registration or other matters concerning a jointly owned trademark are handled jointly, one representative shall be designated in the application; where no representative is designated, the first person listed in order in the application shall be the representative.\nDocuments of the Trademark Office and the Trademark Review and Adjudication Board shall be served on the representative."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Application for Trademark Registration"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Where an applicant changes its name, address, agent or the recipient of documents, or deletes the designated goods, it shall go through the modification formalities with the Trademark Office.\nWhere an applicant assigns its application for trademark registration, it shall go through the assignment formalities with the Trademark Office."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Application for Trademark Registration"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The date of filing of an application for trademark registration shall be the date on which the Trademark Office receives the application documents.\nWhere the formalities of an application for trademark registration are complete, the application documents are filled in in accordance with the provisions and the fee is paid, the Trademark Office shall accept it and notify the applicant in writing; where the formalities are incomplete, the application documents are not filled in in accordance with the provisions or the fee is not paid, the Trademark Office shall not accept it, and shall notify the applicant in writing and state the reasons. Where the formalities are basically complete or the application documents basically conform to the provisions but rectification is required, the Trademark Office shall notify the applicant to make rectification, and shall require it to rectify in accordance with the designated content and return the documents to the Trademark Office within 30 days from the date of receipt of the notification. Where rectification is made and the documents are returned to the Trademark Office within the prescribed time limit, the date of filing shall be retained; where rectification is not made within the time limit or is not made as required, the Trademark Office shall not accept the application and shall notify the applicant in writing.\nThe provision of paragraph 2 of this Article on the conditions for acceptance shall apply to the handling of other trademark matters."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Application for Trademark Registration"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Where two or more applicants apply for registration of the same or similar trademarks on the same kind of goods or similar goods on the same day respectively, each applicant shall, within 30 days from the date of receipt of the notification of the Trademark Office, submit evidence of its prior use of the trademark before the filing of its application for registration. Where the trademark was used on the same day or was not used by any of them, the applicants may, within 30 days from the date of receipt of the notification of the Trademark Office, negotiate among themselves and submit the written agreement to the Trademark Office; where they are unwilling to negotiate or negotiation fails, the Trademark Office shall notify the applicants to determine one applicant by drawing lots and reject the registration applications of the others. Where an applicant, having been notified by the Trademark Office, does not participate in the drawing of lots, it shall be deemed to have withdrawn its application, and the Trademark Office shall notify in writing the applicant that did not participate in the drawing of lots."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Application for Trademark Registration"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where priority is claimed in accordance with Article 25 of the Trademark Law, the copy of the documents of the first application for trademark registration submitted by the applicant shall be certified by the competent trademark authority that accepted the application, and shall state the date of filing and the application number."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Application for Trademark Registration"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The Trademark Office shall examine the trademark registration applications it has accepted in accordance with the Trademark Law and the relevant provisions of these Regulations, and shall, where the application for registration of a trademark conforms to the provisions or conforms to the provisions for use on part of the designated goods, grant preliminary approval and publish it; where the application does not conform to the provisions, or does not conform to the provisions for use on part of the designated goods, it shall reject it or reject it for use on part of the designated goods, and shall notify the applicant in writing and state the reasons."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Examination of Applications for Trademark Registration"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Where the Trademark Office rejects an application for trademark registration in respect of part of the designated goods, the applicant may divide the preliminarily approved part of the application into a separate application, and the divided application shall retain the date of filing of the original application.\nWhere division is required, the applicant shall, within 15 days from the date of receipt of the Notification of Partial Rejection of Trademark Registration Application of the Trademark Office, file a divisional application with the Trademark Office.\nAfter receiving a divisional application, the Trademark Office shall divide the original application into two, generate a new application number for the divided preliminarily approved application, and publish it."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Examination of Applications for Trademark Registration"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where, in accordance with Article 29 of the Trademark Law, the Trademark Office considers that an explanation or amendment of the content of an application for trademark registration is required, the applicant shall make the explanation or amendment within 15 days from the date of receipt of the notification of the Trademark Office."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Examination of Applications for Trademark Registration"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Where an opposition is raised against a trademark preliminarily approved and published by the Trademark Office, the opponent shall submit to the Trademark Office the following materials for trademark opposition in duplicate, marked as original and copy:\n(a) a request for trademark opposition;\n(b) proof of identity of the opponent;\n(c) where the opposition is raised on the ground that Articles 13(2) and 13(3), 15, 16(1), 30, 31 and 32 of the Trademark Law have been violated, proof that the opponent is the prior right holder or an interested party.\nThe request for trademark opposition shall contain clear requests and grounds of fact, and the relevant evidentiary materials shall be attached."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Examination of Applications for Trademark Registration"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "After receiving a request for trademark opposition, the Trademark Office shall, upon examination, accept it where it meets the conditions for acceptance and issue a notice of acceptance to the applicant."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Examination of Applications for Trademark Registration"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Where a request for trademark opposition is in any of the following circumstances, the Trademark Office shall not accept it, and shall notify the applicant in writing and state the reasons:\n(a) it is filed outside the statutory time limit;\n(b) the qualification of the applicant or the grounds for opposition do not conform to the provisions of Article 33 of the Trademark Law;\n(c) there are no clear grounds for opposition, facts and legal basis;\n(d) the same opponent files another request for opposition against the same trademark on the same grounds, facts and legal basis."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Examination of Applications for Trademark Registration"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The Trademark Office shall promptly send a copy of the materials for trademark opposition to the opposed party, and shall require it to reply within 30 days from the date of receipt of the copy of the materials for trademark opposition. Where the opposed party does not reply, the Trademark Office's decision shall not be affected.\nWhere a party needs to supplement the relevant evidentiary materials after filing the request for opposition or the reply, it shall declare so in the request for trademark opposition or the reply, and shall submit them within 3 months from the date of submission of the request for trademark opposition or the reply; where they are not submitted within the time limit, the party shall be deemed to have abandoned the supplementation of the relevant evidentiary materials. However, where evidence produced after the expiry of the time limit, or evidence that the party was unable to submit before the expiry for other legitimate reasons, is submitted after the expiry, the Trademark Office may admit it after serving it on the other party and conducting cross-examination."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Examination of Applications for Trademark Registration"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The decisions of refusal of registration mentioned in paragraph 3 of Article 35 and paragraph 1 of Article 36 of the Trademark Law include decisions of refusal of registration in respect of part of the designated goods.\nWhere the opposed trademark has already been published in the registration announcement before the Trademark Office makes a decision to permit registration or a decision to refuse registration, that registration announcement shall be revoked. Where registration is permitted after examination shows that the opposition does not stand, a new announcement shall be made after the decision to permit registration takes effect."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Examination of Applications for Trademark Registration"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Where an applicant for trademark registration or a trademark registrant files a request for correction in accordance with Article 38 of the Trademark Law, it shall submit a request for correction to the Trademark Office. Where the conditions for correction are met, the Trademark Office shall correct the relevant content after approval; where the conditions for correction are not met, the Trademark Office shall not approve it, and shall notify the applicant in writing and state the reasons.\nWhere a trademark for which a preliminary approval announcement or a registration announcement has been published is corrected, a correction announcement shall be published."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Examination of Applications for Trademark Registration"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where the name, address or other registered matters of a trademark registrant are changed, a request for modification shall be submitted to the Trademark Office. Where the name of the trademark registrant is changed, documents certifying the change issued by the relevant registration authority shall also be submitted. Where the Trademark Office approves, it shall issue the corresponding certificate to the trademark registrant and publish it; where it does not approve, it shall notify the applicant in writing and state the reasons.\nWhere the name or address of a trademark registrant is changed, the trademark registrant shall modify all its registered trademarks together; where they are not modified together, the Trademark Office shall notify it to make corrections within a time limit; where corrections are not made within the time limit, the application for modification shall be deemed abandoned, and the Trademark Office shall notify the applicant in writing."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Modification, Assignment and Renewal of Registered Trademarks"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where a registered trademark is assigned, the assignor and the assignee shall submit a request for assignment of the registered trademark to the Trademark Office. The formalities for the application for assignment of a registered trademark shall be handled jointly by the assignor and the assignee. Where the Trademark Office approves the application for assignment of the registered trademark, it shall issue the corresponding certificate to the assignee and publish it.\nWhere a registered trademark is assigned and the trademark registrant has not assigned together the identical or similar trademarks it has registered on the same kind of goods or similar goods, the Trademark Office shall notify it to make corrections within a time limit; where corrections are not made within the time limit, the application for assignment of that registered trademark shall be deemed abandoned, and the Trademark Office shall notify the applicant in writing."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Modification, Assignment and Renewal of Registered Trademarks"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Where the exclusive right to use a registered trademark is transferred by inheritance or on other grounds other than assignment, the party receiving the exclusive right to use the registered trademark shall, on the strength of the relevant certification documents or legal instruments, go through the formalities for the transfer of the exclusive right to use the registered trademark with the Trademark Office.\nWhere the exclusive right to use a registered trademark is transferred, the identical or similar trademarks registered by the owner of the exclusive right to use the registered trademark on the same kind of goods or similar goods shall be transferred together; where they are not transferred together, the Trademark Office shall notify it to make corrections within a time limit; where corrections are not made within the time limit, the application for the transfer of that registered trademark shall be deemed abandoned, and the Trademark Office shall notify the applicant in writing.\nWhere an application for the transfer of a trademark is approved, it shall be published. The party receiving the transfer of the exclusive right to use the registered trademark shall enjoy the exclusive right to use the trademark from the date of the announcement."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Modification, Assignment and Renewal of Registered Trademarks"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Where a registered trademark requires renewal of registration, a request for renewal of trademark registration shall be submitted to the Trademark Office. Where the Trademark Office approves the application for renewal of trademark registration, it shall issue the corresponding certificate and publish it."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Modification, Assignment and Renewal of Registered Trademarks"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The international registration of trademarks provided in Article 21 of the Trademark Law refers to the Madrid international registration of trademarks effected in accordance with the Madrid Agreement Concerning the International Registration of Marks (hereinafter referred to as the Madrid Agreement), the Protocol Relating to the Madrid Agreement Concerning the International Registration of Marks (hereinafter referred to as the Madrid Protocol) and the Common Regulations under the Madrid Agreement Concerning the International Registration of Marks and the Protocol Relating to that Agreement.\nAn application for international registration of a trademark under the Madrid system includes an application for international registration of a trademark with China as the country of origin, an application for territorial extension designating China and other related applications."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter V International Registration of Trademarks"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "An applicant applying for international registration of a trademark with China as the country of origin shall have a real and effective business office in China, or have a domicile in China, or possess Chinese nationality."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter V International Registration of Trademarks"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Where the trademark of an applicant meeting the provisions of Article 35 of these Regulations has already been registered with the Trademark Office, the applicant may apply for international registration of that trademark in accordance with the Madrid Agreement.\nWhere the trademark of an applicant meeting the provisions of Article 35 of these Regulations has already been registered with the Trademark Office, or an application for trademark registration has been filed with the Trademark Office and accepted, the applicant may apply for international registration of that trademark in accordance with the Madrid Protocol."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter V International Registration of Trademarks"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "An application for international registration of a trademark with China as the country of origin shall be filed with the International Bureau of the World Intellectual Property Organization (hereinafter referred to as the International Bureau) through the Trademark Office.\nWhere China is the country of origin, subsequent designation, abandonment and cancellation in respect of an international registration of a trademark under the Madrid Agreement shall be applied for with the International Bureau through the Trademark Office; assignment, limitation, modification and renewal in respect of an international registration of a trademark under the Madrid Agreement may be applied for with the International Bureau through the Trademark Office or directly with the International Bureau.\nWhere China is the country of origin, subsequent designation, assignment, limitation, abandonment, cancellation, modification and renewal in respect of an international registration of a trademark under the Madrid Protocol may be applied for with the International Bureau through the Trademark Office or directly with the International Bureau."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter V International Registration of Trademarks"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where an application for international registration of a trademark and other related applications are filed with the International Bureau through the Trademark Office, an application form and the relevant materials meeting the requirements of the International Bureau and the Trademark Office shall be submitted."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V International Registration of Trademarks"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The goods or services designated in an application for international registration of a trademark shall not exceed the scope of the goods or services of the basic application or basic registration in China."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V International Registration of Trademarks"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where the formalities of an application for international registration of a trademark are incomplete or the application form is not filled in in accordance with the provisions, the Trademark Office shall not accept it, and the date of filing shall not be retained.\nWhere the formalities are basically complete or the application form basically conforms to the provisions but rectification is required, the applicant shall make rectification within 30 days from the date of receipt of the notification of rectification; where rectification is not made within the time limit, the Trademark Office shall not accept the application and shall notify the applicant in writing."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter V International Registration of Trademarks"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where an application for international registration of a trademark and other related applications are filed with the International Bureau through the Trademark Office, the fees shall be paid in accordance with the provisions.\nThe applicant shall pay the fees to the Trademark Office within 15 days from the date of receipt of the payment notice of the Trademark Office. Where the fees are not paid within the time limit, the Trademark Office shall not accept the application and shall notify the applicant in writing."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter V International Registration of Trademarks"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Within the time limit for refusal provided in the Madrid Agreement or the Madrid Protocol (hereinafter referred to as the time limit for refusal), the Trademark Office shall examine an application for territorial extension designating China in accordance with the Trademark Law and the relevant provisions of these Regulations, make a decision and notify the International Bureau. Where the Trademark Office does not issue a notification of refusal or partial refusal within the time limit for refusal, the application for territorial extension shall be deemed approved."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter V International Registration of Trademarks"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where an applicant for territorial extension designating China requests protection of a three-dimensional sign, a combination of colours or a sound sign as a trademark, or requests protection of a collective mark or a certification mark, it shall, within 3 months from the date of registration of the trademark in the International Register of the International Bureau, submit the relevant materials provided in Article 13 of these Regulations to the Trademark Office through a trademark agency established in accordance with law. Where the relevant materials are not submitted within the above time limit, the Trademark Office shall reject the application for territorial extension."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter V International Registration of Trademarks"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where the World Intellectual Property Organization publishes matters relating to the international registration of trademarks, the Trademark Office shall not publish them separately."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter V International Registration of Trademarks"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "In respect of an application for territorial extension designating China, an opponent meeting the conditions provided in Article 33 of the Trademark Law may file a request for opposition with the Trademark Office within 3 months from the first day of the month following the month in which the International Trademark Gazette of the World Intellectual Property Organization is published.\nThe Trademark Office shall notify the International Bureau of the relevant circumstances of the request for opposition in the form of a decision of refusal within the time limit for refusal.\nThe opposed party may reply within 30 days from the date of receipt of the notification of refusal forwarded by the International Bureau, and the reply and the relevant evidentiary materials shall be submitted to the Trademark Office through a trademark agency established in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter V International Registration of Trademarks"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "The term of validity of an international registration of a trademark that enjoys protection in China shall be counted from the date of international registration or the date of subsequent designation. Before the expiry of the term of validity, the registrant may apply to the International Bureau for renewal; where no renewal is applied for within the term of validity, a grace period of 6 months may be granted. The Trademark Office shall, after receiving the notification of renewal from the International Bureau, examine it in accordance with law. Where the International Bureau notifies that the registration has not been renewed, the international registration of the trademark shall be cancelled."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter V International Registration of Trademarks"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where an application for territorial extension designating China is assigned, the assignee shall have a real and effective business office in the territory of a Contracting Party, or have a domicile in the territory of a Contracting Party, or be a national of a Contracting Party.\nWhere the assignor has not assigned together the identical or similar trademarks it owns on the same or similar goods or services, the Trademark Office shall notify the registrant to make corrections within 3 months from the date of despatch of the notification; where corrections are not made within the time limit, or where the assignment is likely to cause confusion or has other adverse effects, the Trademark Office shall decide that the assignment is invalid in China and make a declaration to the International Bureau."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter V International Registration of Trademarks"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where limitation is made in respect of an application for territorial extension designating China and the goods or services after limitation do not meet the requirements of China concerning the classification of goods or services or exceed the scope of the originally designated goods or services, the Trademark Office shall decide that the limitation is invalid in China and make a declaration to the International Bureau."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter V International Registration of Trademarks"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "An application for cancellation of an international registration of a trademark in accordance with paragraph 2 of Article 49 of the Trademark Law shall be filed with the Trademark Office upon the expiry of 3 years from the date of expiry of the time limit for refusal of the application for international registration of that trademark; where, at the expiry of the time limit for refusal, the case is still in the procedure of review of refusal or in a procedure relating to opposition, the application shall be filed with the Trademark Office upon the expiry of 3 years from the date on which the decision to permit registration made by the Trademark Office or the Trademark Review and Adjudication Board takes effect.\nAn application for a declaration of invalidity of an international registration of a trademark in accordance with paragraph 1 of Article 44 of the Trademark Law shall be filed with the Trademark Review and Adjudication Board after the expiry of the time limit for refusal of the application for international registration of that trademark; where, at the expiry of the time limit for refusal, the case is still in the procedure of review of refusal or in a procedure relating to opposition, the application shall be filed with the Trademark Review and Adjudication Board after the decision to permit registration made by the Trademark Office or the Trademark Review and Adjudication Board takes effect.\nAn application for a declaration of invalidity of an international registration of a trademark in accordance with paragraph 1 of Article 45 of the Trademark Law shall be filed with the Trademark Review and Adjudication Board within 5 years from the date of expiry of the time limit for refusal of the application for international registration of that trademark; where, at the expiry of the time limit for refusal, the case is still in the procedure of review of refusal or in a procedure relating to opposition, the application shall be filed with the Trademark Review and Adjudication Board within 5 years from the date on which the decision to permit registration made by the Trademark Office or the Trademark Review and Adjudication Board takes effect. In the case of registration obtained in bad faith, the owner of a well-known trademark shall not be subject to the 5-year limitation."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter V International Registration of Trademarks"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "The provisions of the following articles of the Trademark Law and these Regulations do not apply to the handling of matters relating to the international registration of trademarks:\n(a) the provisions of Articles 28 and 35(1) of the Trademark Law on the time limits for examination and adjudication;\n(b) Articles 22 and 30(2) of these Regulations;\n(c) the provisions of Article 42 of the Trademark Law and Article 31 of these Regulations on the assignment of trademarks being applied for and the formalities being handled jointly by the assignor and the assignee."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter V International Registration of Trademarks"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Trademark adjudication refers to the adjudication by the Trademark Review and Adjudication Board, in accordance with Articles 34, 35, 44, 45 and 54 of the Trademark Law, of the trademark dispute matters concerned. Where a party files a request for trademark adjudication with the Trademark Review and Adjudication Board, it shall have clear requests, facts, reasons and legal basis, and shall provide the corresponding evidence.\nThe Trademark Review and Adjudication Board shall conduct the adjudication in accordance with law and on the basis of the facts."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VI Trademark Adjudication"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "In adjudicating a review case against a decision of the Trademark Office rejecting an application for trademark registration, the Trademark Review and Adjudication Board shall conduct the adjudication in respect of the decision of refusal of the Trademark Office and the facts, reasons, requests stated by the applicant in applying for review and the state of facts at the time of adjudication.\nWhere, in adjudicating a review case against a decision of the Trademark Office rejecting an application for trademark registration, the Trademark Review and Adjudication Board finds that the trademark applied for registration is in a circumstance in violation of Articles 10, 11, 12 and 16(1) of the Trademark Law and the Trademark Office has not made a decision of refusal on the basis of the above articles, it may make a review decision rejecting the application on the basis of the above articles. The Trademark Review and Adjudication Board shall hear the opinions of the applicant before making a review decision."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VI Trademark Adjudication"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "In adjudicating a review case against a decision of the Trademark Office refusing registration, the Trademark Review and Adjudication Board shall conduct the adjudication in respect of the decision of refusal of registration of the Trademark Office and the facts, reasons and requests stated by the applicant in applying for review as well as the opinions put forward by the original opponent.\nIn adjudicating a review case against a decision of the Trademark Office refusing registration, the Trademark Review and Adjudication Board shall notify the original opponent to participate and put forward opinions. Where the opinions of the original opponent have a substantive effect on the outcome of the adjudication of the case, they may serve as the basis for the adjudication; where the original opponent does not participate or does not put forward opinions, the adjudication of the case shall not be affected."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VI Trademark Adjudication"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "In adjudicating a case in which a declaration of invalidity of a registered trademark is requested in accordance with Articles 44 and 45 of the Trademark Law, the Trademark Review and Adjudication Board shall conduct the adjudication in respect of the facts, reasons and requests stated in the application and in the reply of the parties."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VI Trademark Adjudication"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "In adjudicating a review case against a decision of the Trademark Office made in accordance with paragraph 1 of Article 44 of the Trademark Law declaring a registered trademark invalid, the Trademark Review and Adjudication Board shall conduct the adjudication in respect of the decision of the Trademark Office and the facts, reasons and requests stated by the applicant in applying for review."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VI Trademark Adjudication"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "In adjudicating a review case against a decision of the Trademark Office made in accordance with Article 49 of the Trademark Law cancelling or maintaining a registered trademark, the Trademark Review and Adjudication Board shall conduct the adjudication in respect of the decision of the Trademark Office to cancel or maintain the registered trademark and the facts, reasons and requests on which the party based its application for review."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VI Trademark Adjudication"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "To apply for trademark adjudication, a request shall be submitted to the Trademark Review and Adjudication Board, together with a corresponding number of copies according to the number of opposing parties; where review is applied for on the basis of a decision of the Trademark Office, a copy of the decision of the Trademark Office shall also be attached.\nAfter receiving the request, the Trademark Review and Adjudication Board shall, upon examination, accept it where it meets the conditions for acceptance; where it does not meet the conditions for acceptance, it shall not accept it and shall notify the applicant in writing and state the reasons; where rectification is required, it shall notify the applicant to make rectification within 30 days from the date of receipt of the notification. Where the requirements are still not met after rectification, the Trademark Review and Adjudication Board shall not accept it and shall notify the applicant in writing and state the reasons; where rectification is not made within the time limit, the application shall be deemed withdrawn, and the Trademark Review and Adjudication Board shall notify the applicant in writing.\nWhere, after accepting a request for trademark adjudication, the Trademark Review and Adjudication Board finds that it does not meet the conditions for acceptance, it shall reject it and notify the applicant in writing and state the reasons."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VI Trademark Adjudication"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "After accepting a request for trademark adjudication, the Trademark Review and Adjudication Board shall promptly send a copy of the request to the opposing party, and shall require it to reply within 30 days from the date of receipt of the copy of the request; where no reply is made within the time limit, the adjudication by the Trademark Review and Adjudication Board shall not be affected."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VI Trademark Adjudication"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where a party needs to supplement the relevant evidentiary materials after filing the request for adjudication or the reply, it shall declare so in the request or the reply and shall submit them within 3 months from the date of submission of the request or the reply; where they are not submitted within the time limit, the party shall be deemed to have abandoned the supplementation of the relevant evidentiary materials. However, where evidence produced after the expiry of the time limit, or evidence that the party was unable to submit before the expiry for other legitimate reasons, is submitted after the expiry, the Trademark Review and Adjudication Board may admit it after serving it on the other party and conducting cross-examination."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VI Trademark Adjudication"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "The Trademark Review and Adjudication Board may, at the request of a party or as actually required, decide to hold an oral hearing on the request for adjudication.\nWhere the Trademark Review and Adjudication Board decides to hold an oral hearing on the request for adjudication, it shall notify the parties in writing 15 days before the oral hearing, informing them of the date, place and adjudicators of the oral hearing. The parties shall reply within the time limit designated in the notification.\nWhere the applicant neither replies nor participates in the oral hearing, its request for adjudication shall be deemed withdrawn, and the Trademark Review and Adjudication Board shall notify the applicant in writing; where the respondent neither replies nor participates in the oral hearing, the Trademark Review and Adjudication Board may conduct the adjudication by default."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VI Trademark Adjudication"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Before the Trademark Review and Adjudication Board makes a decision or ruling, the applicant may request the Trademark Review and Adjudication Board in writing to withdraw its request and shall state the reasons; where the Trademark Review and Adjudication Board considers that withdrawal is permissible, the adjudication procedure shall terminate."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VI Trademark Adjudication"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Where an applicant withdraws its request for trademark adjudication, it may not file another request for adjudication on the same facts and grounds. Where the Trademark Review and Adjudication Board has made a ruling or decision on a request for trademark adjudication, no person may file another request for adjudication on the same facts and grounds. The foregoing is subject to the exception of a request to the Trademark Review and Adjudication Board for a declaration of invalidity of a registered trademark filed after registration has been permitted through the review procedure for refusal of registration."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VI Trademark Adjudication"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Where a registered trademark is used, the words registered trademark or a registered mark may be indicated on the goods, the packaging of the goods, the directions for use or other attachments.\nRegistered marks include the mark consisting of the Chinese character for registration in a circle and the symbol ®. Where a registered mark is used, it shall be indicated in the upper right or lower right corner of the trademark."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VII Administration of the Use of Trademarks"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Where a Trademark Registration Certificate is lost or damaged, a request for the reissue of the Trademark Registration Certificate shall be submitted to the Trademark Office. Where the Trademark Registration Certificate is lost, a statement of loss shall be published in the Trademark Gazette. A damaged Trademark Registration Certificate shall be returned to the Trademark Office when the application for reissue is submitted.\nWhere a trademark registrant requires the Trademark Office to reissue a certificate of modification, assignment or renewal of a trademark, or to issue a certificate of trademark registration, or where an applicant for a trademark requires the Trademark Office to issue a document certifying the right of priority, it shall submit the corresponding request to the Trademark Office. Where the requirements are met, the Trademark Office shall issue the corresponding certificate; where they are not met, the Trademark Office shall not process it, and shall notify the applicant and state the reasons.\nWhoever forges or alters a Trademark Registration Certificate or other trademark certification documents shall be investigated for criminal liability in accordance with law under the provisions of the Criminal Law on the crime of forging or altering certificates of State organs or other crimes."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VII Administration of the Use of Trademarks"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Where a registered trademark is in the circumstance provided in Article 49 of the Trademark Law in which it has become the generic name of the goods for which it is approved for use, any unit or individual may apply to the Trademark Office for cancellation of the registered trademark, and shall attach evidentiary materials when submitting the application. After accepting the application, the Trademark Office shall notify the trademark registrant and require it to reply within 2 months from the date of receipt of the notification; where no reply is made within the time limit, the decision of the Trademark Office shall not be affected."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter VII Administration of the Use of Trademarks"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Where a registered trademark is in the circumstance provided in Article 49 of the Trademark Law of not being used for 3 consecutive years without legitimate reasons, any unit or individual may apply to the Trademark Office for cancellation of the registered trademark, and shall explain the relevant circumstances when submitting the application. After accepting the application, the Trademark Office shall notify the trademark registrant and require it to submit, within 2 months from the date of receipt of the notification, evidentiary materials of the use of the trademark before the request for cancellation was filed or an explanation of the legitimate reasons for non-use; where, at the expiry of the time limit, no evidentiary materials of use are provided, or the evidentiary materials are invalid and there are no legitimate reasons, the Trademark Office shall cancel its registered trademark.\nThe evidentiary materials of use mentioned in the preceding paragraph include evidentiary materials of the use of the registered trademark by the trademark registrant and evidentiary materials of the use of the registered trademark by others with the licence of the trademark registrant.\nAn application for cancellation of a registered trademark on the ground of non-use for 3 consecutive years without legitimate reasons shall be filed upon the expiry of 3 years from the date of the registration announcement of that registered trademark."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter VII Administration of the Use of Trademarks"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "The following circumstances constitute legitimate reasons provided in Article 49 of the Trademark Law:\n(a) force majeure;\n(b) policy restrictions of the government;\n(c) bankruptcy liquidation;\n(d) other legitimate grounds not attributable to the trademark registrant."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter VII Administration of the Use of Trademarks"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "Where the Trademark Office or the Trademark Review and Adjudication Board cancels a registered trademark or declares a registered trademark invalid and the grounds for cancellation or invalidation relate only to part of the designated goods, the registration of the trademark in respect of the use on that part of the designated goods shall be cancelled or declared invalid."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter VII Administration of the Use of Trademarks"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "Where a person licenses another to use its registered trademark, the licensor shall, within the term of validity of the licence contract, file it with the Trademark Office for the record and submit the materials for the record. The materials for the record shall state the licensor and licensee of the registered trademark, the term of the licence, the scope of goods or services for which the use is licensed and other matters."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter VII Administration of the Use of Trademarks"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "Where the exclusive right to use a registered trademark is pledged, the pledgor and the pledgee shall conclude a written contract of pledge, and shall jointly file an application for registration of the pledge with the Trademark Office, and the Trademark Office shall publish it."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter VII Administration of the Use of Trademarks"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "Whoever violates paragraph 2 of Article 43 of the Trademark Law shall be ordered by the administrative department for industry and commerce to make corrections within a time limit; where corrections are not made within the time limit, it shall be ordered to stop sales; where it refuses to stop sales, it shall be fined not more than 100,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter VII Administration of the Use of Trademarks"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "Where the holder of a trademark requests protection of a well-known trademark in accordance with Article 13 of the Trademark Law, it may make the request to the administrative department for industry and commerce. Where the trademark has been determined to be a well-known trademark by the Trademark Office in accordance with Article 14 of the Trademark Law, the administrative department for industry and commerce shall order the cessation of the act of using the trademark in violation of Article 13 of the Trademark Law, and shall confiscate and destroy the unlawfully used trademark signs; where the trademark signs are difficult to separate from the goods, they shall be confiscated and destroyed together with the goods."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter VII Administration of the Use of Trademarks"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "Where a trademark registrant applies to cancel its registered trademark or to cancel the registration of its trademark in respect of part of the designated goods, it shall submit a request for cancellation of trademark to the Trademark Office and return the original Trademark Registration Certificate.\nWhere the cancellation applied for by a trademark registrant for its registered trademark or for the registration of its trademark in respect of part of the designated goods is approved by the Trademark Office, the exclusive right to use the registered trademark, or the effect of that exclusive right in respect of that part of the designated goods, shall terminate from the date on which the Trademark Office receives its request for cancellation."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter VII Administration of the Use of Trademarks"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "Where a registered trademark is cancelled or is revoked in accordance with Article 73 of these Regulations, the original Trademark Registration Certificate shall become void and shall be published; where the registration of the trademark in respect of part of the designated goods is cancelled, or the trademark registrant applies to cancel the registration of its trademark in respect of part of the designated goods, a new Trademark Registration Certificate shall be issued and published."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter VII Administration of the Use of Trademarks"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "Providing warehousing, transport, mailing, printing, concealment, business premises, online goods trading platforms or the like for the infringement of another person's exclusive right to use a trademark constitutes the provision of convenience conditions provided in item 6 of Article 57 of the Trademark Law."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter VIII Protection of the Exclusive Right to Use Registered Trademarks"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "Using a sign identical or similar to another person's registered trademark as the name or the decoration of goods on the same kind of goods or similar goods in a manner misleading to the public constitutes the infringement of the exclusive right to use a registered trademark provided in item 2 of Article 57 of the Trademark Law."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter VIII Protection of the Exclusive Right to Use Registered Trademarks"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "Any person may complain of or report an act infringing the exclusive right to use a registered trademark to the administrative department for industry and commerce."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter VIII Protection of the Exclusive Right to Use Registered Trademarks"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "In calculating the illegal business volume provided in Article 60 of the Trademark Law, the following factors may be taken into consideration:\n(a) the selling price of the infringing goods;\n(b) the marked price of the infringing goods not yet sold;\n(c) the average price at which the infringing goods have been actually sold as ascertained;\n(d) the median market price of the goods infringed;\n(e) the business revenue generated by the infringer as a result of the infringement;\n(f) other factors by which the value of the infringing goods can be reasonably calculated."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Chapter VIII Protection of the Exclusive Right to Use Registered Trademarks"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "The following circumstances constitute the circumstances provided in Article 60 of the Trademark Law in which it can be proved that the goods were lawfully obtained by the person concerned:\n(a) there is a supply list and a payment receipt lawfully signed and sealed by the supplying unit and they have been verified as true or are acknowledged by the supplying unit;\n(b) there is a purchase contract concluded between the supplier and the buyer and it has been verified that the contract has been genuinely performed;\n(c) there is a lawful purchase invoice and the particulars recorded in the invoice correspond to the goods involved in the case;\n(d) other circumstances in which it can be proved that the goods involved in the case were lawfully obtained."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Chapter VIII Protection of the Exclusive Right to Use Registered Trademarks"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "Where a person sells goods which it does not know infringe the exclusive right to use a registered trademark and can prove that it lawfully obtained the goods and can identify the provider, the administrative department for industry and commerce shall order it to stop sales, and shall notify the administrative department for industry and commerce at the place where the provider of the infringing goods is located of the circumstances of the case."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Chapter VIII Protection of the Exclusive Right to Use Registered Trademarks"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "Where the ownership of the registered trademark involved in a case is under examination by the Trademark Office or the Trademark Review and Adjudication Board or is the subject of litigation before a people's court, and the outcome of the case may affect the characterisation of the case, this constitutes the existence of a dispute over the ownership of the trademark provided in paragraph 3 of Article 62 of the Trademark Law."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Chapter VIII Protection of the Exclusive Right to Use Registered Trademarks"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "In the course of investigating and dealing with a case of trademark infringement, the administrative department for industry and commerce may require the right holder to identify whether the goods involved in the case are products produced by the right holder or produced with its licence."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Chapter VIII Protection of the Exclusive Right to Use Registered Trademarks"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "Trademark agency as referred to in the Trademark Law means accepting the entrustment of a principal and, in the name of the principal, handling applications for trademark registration, trademark adjudication or other trademark matters."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Chapter IX Trademark Agency"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "Trademark agencies as referred to in the Trademark Law include service institutions registered with the administrative department for industry and commerce that engage in trademark agency business and law firms that engage in trademark agency business.\nWhere a trademark agency engages in the agency business of trademark matters under the charge of the Trademark Office and the Trademark Review and Adjudication Board, it shall file with the Trademark Office in accordance with the following provisions:\n(a) to present for verification the registration certificate documents of the administrative department for industry and commerce or the document of the judicial administrative department approving the establishment of the law firm, and to retain a copy thereof;\n(b) to submit the basic information of the trademark agency such as its name, domicile, person in charge and contact details;\n(c) to submit the list and contact details of the persons engaged in trademark agency.\nThe administrative department for industry and commerce shall establish a credit file for trademark agencies. Where a trademark agency violates the Trademark Law or these Regulations, the Trademark Office or the Trademark Review and Adjudication Board shall circulate a public notice thereof and record it in its credit file."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Chapter IX Trademark Agency"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "Persons engaged in trademark agency as referred to in the Trademark Law mean the staff members who engage in trademark agency business in a trademark agency.\nPersons engaged in trademark agency may not accept an entrustment on their own behalf in their individual capacity."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        },
+        "chapter": {
+          "en": "Chapter IX Trademark Agency"
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "The relevant application documents submitted by a trademark agency to the Trademark Office or the Trademark Review and Adjudication Board shall bear the official seal of the agency and be signed by the relevant person engaged in trademark agency."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        },
+        "chapter": {
+          "en": "Chapter IX Trademark Agency"
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "Where a trademark agency applies for registration of, or accepts the assignment of, a trademark other than the trademarks it handles as an agent, the Trademark Office shall not accept the application."
+        },
+        "noLabel": {
+          "en": "Article 87."
+        },
+        "chapter": {
+          "en": "Chapter IX Trademark Agency"
+        }
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "The following acts constitute the acts of disrupting the order of the trademark agency market by other improper means provided in item 2 of paragraph 1 of Article 68 of the Trademark Law:\n(a) soliciting business by fraud, false publicity, misleading statements or commercial bribery or other means;\n(b) concealing facts, providing false evidence, or threatening or inducing others to conceal facts or provide false evidence;\n(c) accepting the entrustment of both parties with a conflict of interest in the same trademark case."
+        },
+        "noLabel": {
+          "en": "Article 88."
+        },
+        "chapter": {
+          "en": "Chapter IX Trademark Agency"
+        }
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "Where a trademark agency commits an act provided in Article 68 of the Trademark Law, the administrative department for industry and commerce at or above the county level at the place where the actor is located or where the illegal act occurs shall investigate and deal with it and notify the Trademark Office of the handling."
+        },
+        "noLabel": {
+          "en": "Article 89."
+        },
+        "chapter": {
+          "en": "Chapter IX Trademark Agency"
+        }
+      },
+      {
+        "no": 90,
+        "text": {
+          "en": "Where the Trademark Office or the Trademark Review and Adjudication Board, in accordance with Article 68 of the Trademark Law, ceases to accept the trademark agency business handled by a trademark agency, it may decide to cease accepting the trademark agency business of that agency for a period of 6 months or more up to permanent cessation. Upon the expiry of the period during which the acceptance of trademark agency business is suspended, the Trademark Office and the Trademark Review and Adjudication Board shall resume acceptance.\nThe decisions of the Trademark Office and the Trademark Review and Adjudication Board to suspend or resume the acceptance of trademark agency shall be published on their websites."
+        },
+        "noLabel": {
+          "en": "Article 90."
+        },
+        "chapter": {
+          "en": "Chapter IX Trademark Agency"
+        }
+      },
+      {
+        "no": 91,
+        "text": {
+          "en": "The administrative department for industry and commerce shall strengthen the supervision and guidance of organisations in the trademark agency sector."
+        },
+        "noLabel": {
+          "en": "Article 91."
+        },
+        "chapter": {
+          "en": "Chapter IX Trademark Agency"
+        }
+      },
+      {
+        "no": 92,
+        "text": {
+          "en": "A service mark that has been used continuously up to 1 July 1993 and is identical or similar to a service mark already registered by another person in respect of the same or similar services may continue to be used; however, where its use has been discontinued for more than 3 years after 1 July 1993, it may not continue to be used.\nA trademark that has been used continuously up to the date on which the Trademark Office first accepts the newly released items of goods or services and is identical or similar to a trademark already registered by another person in respect of the same or similar goods or services among the newly released items of goods or services may continue to be used; however, where its use has been discontinued for more than 3 years after the date of first acceptance, it may not continue to be used."
+        },
+        "noLabel": {
+          "en": "Article 92."
+        },
+        "chapter": {
+          "en": "Chapter X Supplementary Provisions"
+        }
+      },
+      {
+        "no": 93,
+        "text": {
+          "en": "The classification of goods and services for trademark registration shall be formulated and published by the Trademark Office.\nThe formats of documents for applying for trademark registration or handling other trademark matters shall be formulated and published by the Trademark Office and the Trademark Review and Adjudication Board.\nThe adjudication rules of the Trademark Review and Adjudication Board shall be formulated and published by the administrative department for industry and commerce under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 93."
+        },
+        "chapter": {
+          "en": "Chapter X Supplementary Provisions"
+        }
+      },
+      {
+        "no": 94,
+        "text": {
+          "en": "The Trademark Office shall keep a Trademark Register recording registered trademarks and the relevant registered matters."
+        },
+        "noLabel": {
+          "en": "Article 94."
+        },
+        "chapter": {
+          "en": "Chapter X Supplementary Provisions"
+        }
+      },
+      {
+        "no": 95,
+        "text": {
+          "en": "The Trademark Registration Certificate and the related certificates are the vouchers by which the right holder enjoys the exclusive right to use a registered trademark. The registered matters recorded in the Trademark Registration Certificate shall be consistent with the Trademark Register; where they are inconsistent, the Trademark Register shall prevail, unless there is evidence proving that the Trademark Register is indeed erroneous."
+        },
+        "noLabel": {
+          "en": "Article 95."
+        },
+        "chapter": {
+          "en": "Chapter X Supplementary Provisions"
+        }
+      },
+      {
+        "no": 96,
+        "text": {
+          "en": "The Trademark Office shall issue the Trademark Gazette, in which trademark registrations and other relevant matters shall be published.\nThe Trademark Gazette shall be issued in paper or electronic form.\nExcept for service announcements, the content of an announcement shall, from the date of its publication, be deemed to be known or ought to be known by the general public."
+        },
+        "noLabel": {
+          "en": "Article 96."
+        },
+        "chapter": {
+          "en": "Chapter X Supplementary Provisions"
+        }
+      },
+      {
+        "no": 97,
+        "text": {
+          "en": "Fees shall be paid for applying for trademark registration or handling other trademark matters. The items and standards of the fees shall be formulated separately by the finance department under the State Council and the competent pricing department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 97."
+        },
+        "chapter": {
+          "en": "Chapter X Supplementary Provisions"
+        }
+      },
+      {
+        "no": 98,
+        "text": {
+          "en": "These Regulations shall come into force on 1 May 2014."
+        },
+        "noLabel": {
+          "en": "Article 98."
+        },
+        "chapter": {
+          "en": "Chapter X Supplementary Provisions"
         }
       }
     ]
@@ -18309,6 +26577,1038 @@
         },
         "chapter": {
           "en": "Chapter VII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0559'] = {
+    "lawId": "CN-REG-0559",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 86 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the Food Safety Law of the People's Republic of China (hereinafter referred to as the Food Safety Law)."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Food producers and traders shall conduct production and trading activities in accordance with laws, regulations and food safety standards, establish and improve food safety management systems, take effective measures to prevent and control food safety risks, and ensure food safety."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The Food Safety Commission of the State Council is responsible for analysing the food safety situation, studying, arranging and providing overall guidance for food safety work, proposing major policies and measures for food safety supervision and administration, and urging the implementation of food safety supervision and administration responsibilities. Food safety commissions of local people's governments at or above the county level shall carry out work in accordance with the duties prescribed by the people's government at the corresponding level."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "People's governments at or above the county level shall establish a unified and authoritative food safety supervision and administration system and strengthen capacity building for food safety supervision and administration.\nThe food safety supervision and administration departments and other relevant departments of people's governments at or above the county level shall perform their duties in accordance with law, strengthen coordination and cooperation, and do a good job in food safety supervision and administration.\nTownship people's governments and sub-district offices shall support and assist the food safety supervision and administration departments of county-level people's governments and their local offices in carrying out food safety supervision and administration in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The State shall incorporate food safety knowledge into the content of education for the quality of the people, popularise basic scientific knowledge and legal knowledge on food safety, and raise the food safety awareness of the whole of society."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The health administrative departments of people's governments at or above the county level shall, together with the food safety supervision and administration departments and other departments at the same level, establish a consultation mechanism for food safety risk monitoring, collect and analyse risk monitoring data, assess food safety risks and produce food safety risk monitoring analysis reports, which shall be submitted to the people's government at the corresponding level; the health administrative departments of local people's governments at or above the county level shall also submit the food safety risk monitoring analysis reports simultaneously to the health administrative department of the people's government at the next higher level. The specific measures for consultation on food safety risk monitoring shall be formulated by the health administrative department of the State Council together with the food safety supervision and administration department and other departments of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        },
+        "chapter": {
+          "en": "Chapter II Monitoring and Assessment of Food Safety Risks"
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Where the results of food safety risk monitoring indicate the existence of food safety hazards and the food safety supervision and administration departments and other departments, after further investigation, confirm that it is necessary to notify the relevant food producers and traders, they shall promptly give such notification.\nFood producers and traders that receive the notification shall immediately conduct a self-inspection and, upon finding that the food does not comply with food safety standards or upon evidence proving that it may endanger human health, shall cease production and trading, implement food recall and report the relevant circumstances in accordance with the provisions of Article 63 of the Food Safety Law."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Monitoring and Assessment of Food Safety Risks"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Where the health administrative department, the food safety supervision and administration department and other departments of the State Council find it necessary to conduct safety assessments of pesticides, fertilizers, veterinary drugs, feed and feed additives, they shall put forward safety assessment proposals to the agriculture administrative department of the State Council. The agriculture administrative department of the State Council shall promptly organise the assessment and notify the relevant departments of the State Council of the assessment results."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Monitoring and Assessment of Food Safety Risks"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The food safety supervision and administration department and other relevant departments of the State Council shall establish a food safety risk information exchange mechanism and specify the content, procedures and requirements of food safety risk information exchange."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Monitoring and Assessment of Food Safety Risks"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The health administrative department of the State Council shall, together with the food safety supervision and administration department, the agriculture administrative department and other departments of the State Council, formulate plans for national food safety standards and annual implementation plans therefor. The health administrative department of the State Council shall publish the drafts of the plans for national food safety standards and their annual implementation plans on its website to solicit public comments."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter III Food Safety Standards"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The health administrative departments of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall, in accordance with the provisions of Article 29 of the Food Safety Law, formulate local food safety standards and shall solicit public comments. The health administrative departments of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall, within 30 working days from the date of publication of local food safety standards, submit the local standards to the health administrative department of the State Council for the record. Where the health administrative department of the State Council finds that a local food safety standard on record violates laws, regulations or national food safety standards, it shall promptly correct it.\nWhere a local food safety standard is repealed in accordance with law, the health administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government shall promptly publish the repeal on its website."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter III Food Safety Standards"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Special foods such as health food, formula food for special medical purposes and infant formula food are not local specialty foods, and no local food safety standards may be formulated for them."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter III Food Safety Standards"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "After a food safety standard is published, food producers and traders may implement it before the implementation date specified in the food safety standard and shall publicise the fact of early implementation."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter III Food Safety Standards"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Food production enterprises may not formulate enterprise standards lower than the requirements of national or local food safety standards. Where a food production enterprise formulates an enterprise standard with food safety indicators stricter than those of national or local food safety standards, the standard shall be submitted to the health administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government for the record.\nWhere a food production enterprise formulates an enterprise standard, it shall make the standard public for free public inspection."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter III Food Safety Standards"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "A food production and trading licence shall be valid for 5 years.\nWhere the production and trading conditions of a food producer or trader change and no longer meet the requirements for food production and trading, the food producer or trader shall immediately take rectification measures; where the licensing procedures need to be completed afresh, they shall be completed in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter IV Food Production and Operation"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The health administrative department of the State Council shall promptly publish the catalogues of new food raw materials, new varieties of food additives and new varieties of food-related products, together with the national food safety standards applicable to them.\nThe health administrative department of the State Council shall, together with the food safety supervision and administration department of the State Council, promptly update the catalogue of substances that are traditionally both food and Chinese medicinal materials."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter IV Food Production and Operation"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The food safety supervision and administration department of the State Council shall, together with the agriculture administrative department and other relevant departments of the State Council, specify the basic requirements for whole-process food safety traceability and guide food producers and traders in establishing and improving food safety traceability systems through information technology.\nThe food safety supervision and administration departments and other departments shall take the development of traceability systems for infant formula food and other foods intended for specific populations, and for other foods with relatively high food safety risks or large sales volumes, as a focus of supervision and inspection."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter IV Food Production and Operation"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Food producers and traders shall establish food safety traceability systems, truthfully record and preserve information such as incoming inspection, ex-factory inspection and food sales in accordance with the provisions of the Food Safety Law, and ensure that food is traceable."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter IV Food Production and Operation"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The principal persons in charge of food production and trading enterprises shall take overall responsibility for the food safety work of their enterprises, establish and implement the food safety responsibility system of their enterprises, and strengthen the management of suppliers, incoming inspection and ex-factory inspection, control of the production and trading process, and food safety self-inspection. The food safety management personnel of food production and trading enterprises shall assist the principal persons in charge of the enterprises in food safety management."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter IV Food Production and Operation"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Food production and trading enterprises shall strengthen the training and assessment of food safety management personnel. Food safety management personnel shall master the food safety laws, regulations, standards and professional knowledge appropriate to their posts and possess food safety management capabilities. The food safety supervision and administration departments shall conduct random supervisory spot checks and assessments of the food safety management personnel of enterprises. The assessment guidelines shall be formulated and published by the food safety supervision and administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter IV Food Production and Operation"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where a producer or trader of food or food additives commissions the production of food or food additives, it shall commission a producer that has obtained a food production licence or a food additive production licence, shall supervise the production activities of that producer and shall be responsible for the safety of the food or food additives produced under commission. The commissioned party shall produce in accordance with laws, regulations, food safety standards and the contract, shall be responsible for its production activities and shall accept the supervision of the commissioning party."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter IV Food Production and Operation"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Food producers and traders may not store, in food production or processing premises, any substance included in the catalogue formulated in accordance with Article 63 of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter IV Food Production and Operation"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Irradiation processing of food shall comply with national food safety standards, and irradiated food shall be inspected and labelled in accordance with the requirements of national food safety standards."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter IV Food Production and Operation"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Where food with special requirements for temperature, humidity and the like is stored or transported, equipment and facilities such as heat preservation, refrigeration or freezing facilities shall be available and shall be kept in effective operation."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter IV Food Production and Operation"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Where a food producer or trader commissions the storage or transportation of food, it shall review the food safety assurance capability of the commissioned party and supervise the commissioned party in storing or transporting the food in accordance with the requirements for ensuring food safety. The commissioned party shall ensure that the food storage and transportation conditions meet food safety requirements and shall strengthen management of the food storage and transportation process.\nA party that accepts the commission of a food producer or trader to store or transport food shall truthfully record the name, address, contact details and other particulars of the commissioning party and the consignee. Records shall be kept for not less than 2 years after the completion of storage or transportation.\nWhere a person other than a food producer or trader engages in the business of storing food with special requirements for temperature, humidity and the like, it shall, within 30 working days from the date of obtaining its business licence, file a record with the food safety supervision and administration department of the county-level people's government of the place where it is located."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter IV Food Production and Operation"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Where a catering service provider commissions a centralized tableware and drinking utensil disinfection service unit to provide cleaning and disinfection services, it shall inspect and retain a copy of the business licence of the centralized disinfection service unit and the disinfection conformity certificate. The retention period shall be not less than 6 months after the expiry of the service life of the disinfected tableware and drinking utensils."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Food Production and Operation"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "A centralized tableware and drinking utensil disinfection service unit shall establish an ex-factory inspection record system and truthfully record the quantity, disinfection date and batch number, service life, ex-factory date of the tableware and drinking utensils, and the name, address, contact details and other particulars of the commissioning party. Ex-factory inspection records shall be kept for not less than 6 months after the expiry of the service life of the disinfected tableware and drinking utensils. Disinfected tableware and drinking utensils shall be marked on their independent packaging with the name, address, contact details, disinfection date and batch number of the unit and the service life."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Food Production and Operation"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Canteens of units that provide collective catering, such as schools, childcare institutions, elderly care institutions and construction sites, shall implement systems for raw material control, cleaning and disinfection of tableware and drinking utensils, and food sample retention, and shall conduct periodic food safety self-inspection of the canteens in accordance with the provisions of Article 47 of the Food Safety Law.\nA party that contracts to operate the canteen of a unit providing collective catering shall obtain a food trading licence in accordance with law and shall be responsible for the food safety of the canteen. The unit providing collective catering shall urge the contractor to implement the food safety management systems and shall bear management responsibility."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Food Production and Operation"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Food producers and traders shall conspicuously label spoiled food, food beyond its shelf life and recycled food, or store such food separately in premises with clear signs, and shall promptly take measures such as harmless treatment or destruction and truthfully record them.\nRecycled food as referred to in the Food Safety Law means food that has already been sold and has been recalled or returned because of violation of laws, regulations or food safety standards, or because it is beyond its shelf life or for other reasons, excluding food that may continue to be sold in accordance with the provisions of paragraph 3 of Article 63 of the Food Safety Law."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Food Production and Operation"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Local people's governments at or above the county level shall, as needed, build the necessary facilities for the harmless treatment and destruction of food. Food producers and traders may, in accordance with provisions, use facilities built by the government to subject food to harmless treatment or destruction."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Food Production and Operation"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The sponsors of centralized food trading markets and the organisers of food trade fairs shall report to the food safety supervision and administration department of the county-level people's government of the place where they are located before the market opens or the trade fair is held."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Food Production and Operation"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Providers of third-party online food trading platforms shall properly preserve the registration information and transaction information of food traders on their platforms. Where the food safety supervision and administration departments of people's governments at or above the county level genuinely need to know the relevant information for food safety supervision and inspection, investigation and handling of food safety cases, or handling of food safety accidents, they may, with the approval of their persons in charge, require the providers of third-party online food trading platforms to provide it, and such providers shall provide it as required. The food safety supervision and administration departments of people's governments at or above the county level and their staff shall, in accordance with law, be under an obligation to keep confidential the information provided by providers of third-party online food trading platforms."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Food Production and Operation"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Genetically modified food shall be conspicuously labelled, and the labelling measures shall be formulated by the food safety supervision and administration department of the State Council together with the agriculture administrative department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Food Production and Operation"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "It is prohibited to conduct false publicity about food by any means, including conferences, lectures and health consultations. Where the food safety supervision and administration departments discover acts of false publicity, they shall promptly deal with them in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Food Production and Operation"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Where the production process of health food involves pre-treatment procedures such as extraction and purification of raw materials, the production enterprise shall possess the corresponding capability for the pre-treatment of raw materials."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Food Production and Operation"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Production enterprises of formula food for special medical purposes shall carry out batch-by-batch inspection of ex-factory products according to the inspection items specified in national food safety standards.\nAmong formula food for special medical purposes, specific full-nutrition formula food shall be sold to consumers through medical institutions or drug retail enterprises. Where medical institutions or drug retail enterprises sell specific full-nutrition formula food, they need not obtain a food trading licence, but shall comply with the provisions of the Food Safety Law and these Regulations on food sales."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Food Production and Operation"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Advertisements for specific full-nutrition formula food among formula food for special medical purposes shall be administered as advertisements for prescription drugs, and advertisements for other categories of formula food for special medical purposes shall be administered as advertisements for non-prescription drugs."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Food Production and Operation"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Food other than health food may not claim to have health functions.\nInfant formula food to which optional added substances specified in national food safety standards are added may not be named after those optional added substances."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Food Production and Operation"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The content of the labels and instructions of special food shall be consistent with the registered or filed labels and instructions. When selling special food, a seller shall check whether the content of the food labels and instructions is consistent with the registered or filed labels and instructions, and may not sell any whose content is inconsistent. The food safety supervision and administration departments of people's governments at or above the provincial level shall publish on their websites the labels and instructions of registered or filed special food.\nSpecial food may not be sold mixed together with ordinary food or drugs."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter IV Food Production and Operation"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Sampling inspection of food shall be carried out according to the inspection items and inspection methods determined by food safety standards, the product technical requirements of registered or filed special food and the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter V Food Inspection"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "For food that may be adulterated or counterfeit, where it cannot be inspected according to the inspection items and inspection methods specified in existing food safety standards and the inspection items and inspection methods formulated in accordance with Article 111 of the Food Safety Law and Article 63 of these Regulations, the food safety supervision and administration department of the State Council may formulate supplementary inspection items and inspection methods for use in sampling inspection of food, investigation and handling of food safety cases, and handling of food safety accidents."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter V Food Inspection"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where an application for re-inspection is made in accordance with the provisions of Article 88 of the Food Safety Law, the applicant shall pay the re-inspection fee to the re-inspection institution in advance. Where the re-inspection conclusion shows that the food is not up to standard, the re-inspection fee shall be borne by the re-inspection applicant; where the re-inspection conclusion shows that the food is up to standard, the re-inspection fee shall be borne by the food safety supervision and administration department that conducted the sampling inspection.\nA re-inspection institution may not refuse to undertake a re-inspection task without justified reasons."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter V Food Inspection"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "No unit or individual may publish food inspection information issued by food inspection institutions that have not obtained qualification accreditation in accordance with law, or use such inspection information to grade food or food producers and traders so as to deceive or mislead consumers."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter V Food Inspection"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where an importer imports food or food additives, it shall, in accordance with provisions, submit them for inspection to the entry-exit inspection and quarantine institution, truthfully declare the relevant information on the products, and attach the conformity certification materials required by laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VI Food Import and Export"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "After imported food arrives at a port, it shall be stored at a place designated or recognised by the entry-exit inspection and quarantine institution; where it needs to be moved, necessary safety protection measures shall be taken in accordance with the requirements of the entry-exit inspection and quarantine institution. Imported food in bulk in loose form shall be inspected at the port of unloading."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VI Food Import and Export"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "The entry-exit inspection and quarantine department of the State may, in light of risk management needs, require that certain foods be imported through designated ports."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VI Food Import and Export"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "The health administrative department of the State Council shall, in accordance with the provisions of Article 93 of the Food Safety Law, examine the standards of the relevant country (region) or international standards submitted by overseas exporters, overseas production enterprises or the importers commissioned by them, and where it considers that the food safety requirements are met, decide to apply them provisionally and publish them; before the provisional standards are published, food for which no national food safety standard exists may not be imported.\nFood already covered by the general standards among national food safety standards is not food for which no national food safety standard exists as referred to in Article 93 of the Food Safety Law."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VI Food Import and Export"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Importers shall establish a system for reviewing overseas exporters and overseas production enterprises, focusing on reviewing the formulation and implementation of food safety risk control measures by overseas exporters and overseas production enterprises, and whether the food exported to China complies with the provisions of the Food Safety Law, these Regulations and other relevant laws and administrative regulations and the requirements of national food safety standards."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VI Food Import and Export"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where an importer recalls imported food in accordance with the provisions of paragraph 3 of Article 94 of the Food Safety Law, it shall report the recall and handling of the food to the food safety supervision and administration department of the county-level people's government of the place where it is located and to the entry-exit inspection and quarantine institution of the place where it is located."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VI Food Import and Export"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where the entry-exit inspection and quarantine department of the State finds that a registered overseas food production enterprise no longer meets the registration requirements, it shall order the enterprise to rectify within a specified period, and during the rectification period the import of food produced by that enterprise shall be suspended; where the enterprise still fails to meet the registration requirements after rectification, the entry-exit inspection and quarantine department of the State shall revoke the registration of the overseas food production enterprise and make a public announcement."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VI Food Import and Export"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "For overseas production enterprises certified under China's Good Manufacturing Practice and hazard analysis and critical control point systems, the certification institution shall conduct follow-up investigations in accordance with law. For enterprises that no longer meet the certification requirements, the certification institution shall revoke the certification in accordance with law and announce it to the public."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VI Food Import and Export"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where a food safety incident occurring overseas may affect the territory of China, or where serious food safety problems are found in imported food, food additives or food-related products, the entry-exit inspection and quarantine department of the State shall promptly issue a risk warning and may take the following control measures against the food, food additives or food-related products concerned:\n(1) returning or destroying them;\n(2) restricting their import under conditions;\n(3) suspending or prohibiting their import."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VI Food Import and Export"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Production enterprises of exported food and food additives shall ensure that their exported food and food additives comply with the standards or contractual requirements of the importing country (region); where international treaties or agreements concluded or acceded to by China so require, they shall also comply with the requirements of those treaties or agreements."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VI Food Import and Export"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Food safety accidents shall be subject to tiered management in accordance with the national emergency response plan for food safety accidents. The food safety supervision and administration departments of people's governments at or above the county level shall, together with the relevant departments at the same level, be responsible for the investigation and handling of food safety accidents.\nPeople's governments at or above the county level shall, in light of actual circumstances, promptly revise and improve their emergency response plans for food safety accidents."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VII Handling of Food Safety Accidents"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "People's governments at or above the county level shall improve emergency management mechanisms for food safety accidents, upgrade emergency equipment, make good preparations in emergency supplies and build emergency response teams, and strengthen emergency training and drills."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VII Handling of Food Safety Accidents"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "A unit where a food safety accident occurs shall immediately take control measures such as sealing up the food, raw materials, tools, equipment and facilities that caused or may have caused the food safety accident."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VII Handling of Food Safety Accidents"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "After receiving a report of a food safety accident, the food safety supervision and administration department of a people's government at or above the county level shall immediately, together with the health administrative department, the agriculture administrative department and other departments at the same level, conduct investigation and handling in accordance with the provisions of Article 105 of the Food Safety Law. The food safety supervision and administration department shall protect the food, raw materials, tools, equipment and facilities sealed up by the unit where the accident occurred, and shall directly seal up, or order the unit where the accident occurred immediately to seal up, anything that needs to be sealed up but has not yet been sealed up, and shall notify the disease prevention and control institution to carry out an epidemiological investigation of the factors related to the accident.\nThe disease prevention and control institution shall, after the investigation is completed, submit the epidemiological investigation report simultaneously to the food safety supervision and administration department and the health administrative department at the same level.\nNo unit or individual may refuse or obstruct a disease prevention and control institution in carrying out an epidemiological investigation. The relevant departments shall assist the disease prevention and control institution in carrying out the epidemiological investigation."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VII Handling of Food Safety Accidents"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "The food safety supervision and administration department of the State Council shall, together with the health administrative department, the agriculture administrative department and other departments of the State Council, periodically analyse the situation of food safety accidents nationwide, improve food safety supervision and administration measures, and prevent and reduce the occurrence of accidents."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VII Handling of Food Safety Accidents"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "The food safety supervision and administration departments of people's governments at or above the level of a city with districts may, in light of the needs of supervision and administration work, conduct random supervisory inspections of food producers and traders that are under the routine supervision and administration of the food safety supervision and administration departments of lower-level people's governments, and may also organise the food safety supervision and administration departments of lower-level people's governments to conduct supervisory inspections of food producers and traders across administrative regions.\nWhere the food safety supervision and administration department of a people's government at or above the level of a city with districts considers it necessary, it may directly investigate and handle food safety violation cases under the jurisdiction of the food safety supervision and administration department of a lower-level people's government, or may designate another lower-level food safety supervision and administration department to investigate and handle them."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supervision and Administration"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "The State shall establish a food safety inspector system, strengthen the building of a professional inspector workforce by relying on existing resources, strengthen assessment and training, and raise the professional level of inspectors."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supervision and Administration"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where the food safety supervision and administration department of a people's government at or above the county level takes sealing up or seizure measures in accordance with the provisions of Article 110 of the Food Safety Law, the period of sealing up or seizure may not exceed 30 days; where the circumstances are complicated, the period may be extended with the approval of the person in charge of the food safety supervision and administration department that took the sealing up or seizure measures, and the extension may not exceed 45 days."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supervision and Administration"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Where a third-party online food trading platform has repeatedly allowed food traders on the platform to operate illegally, or the illegal operations of food traders on the platform have caused serious consequences, the food safety supervision and administration department of a people's government at or above the county level may conduct a regulatory interview with the legal representative or principal person in charge of the provider of the third-party online food trading platform."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supervision and Administration"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "The food safety supervision and administration department of the State Council shall, together with the health administrative department and other departments of the State Council, formulate and publish, on the basis of information on food-borne diseases, food safety risk monitoring information and supervision and administration information, a catalogue of non-food chemical substances and other substances that may endanger human health that are found to have been added or that may be added to food, together with testing methods."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supervision and Administration"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "The health administrative departments of local people's governments at or above the county level shall supervise and inspect centralized tableware and drinking utensil disinfection service units and, upon finding that they fail to meet the requirements of laws, regulations, relevant national standards and relevant hygiene specifications, shall promptly investigate and handle the matter. The results of supervision and inspection shall be published to the public."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supervision and Administration"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "The State operates a reward system for reporting food safety violations, under which rewards shall be given to informants for reports verified to be true. Where an informant reports major food safety violations or criminal acts of the enterprise for which the informant works, the reward shall be increased. The relevant departments shall keep informants' information confidential and protect the lawful rights and interests of informants. The measures for rewarding reports of food safety violations shall be formulated by the food safety supervision and administration department of the State Council together with the finance department and other relevant departments of the State Council.\nFunds for rewarding reports of food safety violations shall be included in the budgets of people's governments at all levels."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supervision and Administration"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "The food safety supervision and administration department of the State Council shall, together with the relevant departments of the State Council, establish a mechanism of joint incentives for keeping faith and joint disciplinary action for breach of faith, establish, on the basis of the credit files of food producers and traders, a blacklist system for producers and traders with serious violations, link food safety credit status with market access, financing, credit and credit reporting, and promptly publish the information to the public."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supervision and Administration"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Any of the following circumstances constitutes serious circumstances as provided in Articles 123 to 126 and Article 132 of the Food Safety Law and Articles 72 and 73 of these Regulations:\n(1) the value of the products involved in the illegal act is RMB 20,000 yuan or more, or the illegal act has continued for 3 months or more;\n(2) food-borne diseases have been caused and deaths have occurred, or food-borne diseases have been caused in 30 or more persons without any death;\n(3) deliberately providing false information or concealing the true situation;\n(4) refusing or evading supervision and inspection;\n(5) committing a food safety violation of the same nature within 1 year after being subject to an administrative penalty for violating food safety laws or regulations, or committing a food safety violation after being subject to a criminal penalty for violating food safety laws or regulations;\n(6) other circumstances of a serious nature.\nWhere a fine is imposed for an illegal act of a serious nature, it shall be imposed severely and strictly in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "In any of the following circumstances, a penalty shall be imposed in accordance with the provisions of paragraph 1 of Article 125 of the Food Safety Law and Article 75 of these Regulations:\n(1) storing, in food production or processing premises, any substance included in the catalogue formulated in accordance with Article 63 of these Regulations;\n(2) the labels or instructions of food other than the health food produced or traded claim to have health functions;\n(3) naming infant formula food after an optional added substance specified in national food safety standards;\n(4) the content of the labels or instructions of the special food produced or traded is inconsistent with the registered or filed labels or instructions."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "In any of the following circumstances, a penalty shall be imposed in accordance with the provisions of paragraph 1 of Article 126 of the Food Safety Law and Article 75 of these Regulations:\n(1) accepting the commission of a food producer or trader to store or transport food without recording and preserving the information in accordance with provisions;\n(2) a catering service provider failing to inspect and retain a copy of the business licence of the centralized tableware and drinking utensil disinfection service unit and the disinfection conformity certificate;\n(3) a food producer or trader failing to label or store spoiled food, food beyond its shelf life or recycled food in accordance with provisions, or failing to promptly take measures such as harmless treatment or destruction of such food and truthfully record them;\n(4) a unit or individual other than a medical institution or drug retail enterprise selling specific full-nutrition formula food among formula food for special medical purposes to consumers;\n(5) selling special food mixed together with ordinary food or drugs."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "Apart from the circumstances provided in paragraph 1 of Article 125 and Article 126 of the Food Safety Law, where the production and trading activities of a food producer or trader do not comply with the provisions of items (5) and (7) to (10) of paragraph 1 of Article 33 of the Food Safety Law, or do not comply with the national food safety standards on the requirements for the food production and trading process, a penalty shall be imposed in accordance with the provisions of paragraph 1 of Article 126 of the Food Safety Law and Article 75 of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "Where a centralized tableware and drinking utensil disinfection service unit fails to establish and observe an ex-factory inspection record system in accordance with provisions, the health administrative department of the people's government at or above the county level shall impose a penalty in accordance with the provisions of paragraph 1 of Article 126 of the Food Safety Law and Article 75 of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "Where a person other than a food producer or trader that engages in the business of storing food with special requirements for temperature, humidity and the like, or the sponsor of a centralized food trading market, or the organiser of a food trade fair, fails to file a record or report in accordance with provisions, the food safety supervision and administration department of the people's government at or above the county level shall order it to rectify and give it a warning; where it refuses to rectify, a fine of not less than RMB 10,000 yuan but not more than RMB 50,000 yuan shall be imposed; where the circumstances are serious, it shall be ordered to suspend production and business and, in addition, be fined not less than RMB 50,000 yuan but not more than RMB 200,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "Where food is subject to false publicity by means of conferences, lectures, health consultations or the like, the food safety supervision and administration department of the people's government at or above the county level shall order the elimination of the adverse effects and, where there are illegal gains, confiscate them; where the circumstances are serious, a penalty shall be imposed in accordance with the provisions of paragraph 5 of Article 140 of the Food Safety Law; where the violation is committed by a unit, a penalty shall in addition be imposed, in accordance with the provisions of Article 75 of these Regulations, on the legal representative, the principal person in charge, the persons in charge who are directly responsible and other persons directly responsible of the unit."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "Where the food produced or traded by a food producer or trader complies with food safety standards but does not comply with the food safety indicators specified in the enterprise standard marked on the food, the food safety supervision and administration department of the people's government at or above the county level shall give a warning and order the food trader to cease trading in the food and order the food production enterprise to rectify; where the trader refuses to cease trading or the enterprise refuses to rectify, the food that does not comply with the food safety indicators specified in the enterprise standard shall be confiscated and, where the value of the goods is less than RMB 10,000 yuan, a fine of not less than RMB 10,000 yuan but not more than RMB 50,000 yuan shall in addition be imposed, and where the value of the goods is RMB 10,000 yuan or more, a fine of not less than 5 times but not more than 10 times the value of the goods shall in addition be imposed."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "Where a food production or trading enterprise or other unit is in any of the circumstances of violation provided in the Food Safety Law, in addition to the penalty imposed in accordance with the provisions of the Food Safety Law, a fine of not less than 1 time but not more than 10 times the income obtained from the unit by the legal representative, the principal person in charge, the persons in charge who are directly responsible and other persons directly responsible of the unit in the preceding year shall be imposed in any of the following circumstances:\n(1) deliberately committing the illegal act;\n(2) the illegal act being of a flagrant nature;\n(3) the illegal act causing serious consequences.\nWhere the circumstances provided in paragraph 2 of Article 125 of the Food Safety Law apply, the provisions of the preceding paragraph shall not apply."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "Where a food producer or trader ceases production and trading, implements food recall or takes other effective measures to mitigate or eliminate food safety risks in accordance with the provisions of paragraphs 1 and 2 of Article 63 of the Food Safety Law and no harmful consequences are caused, it may be given a lighter penalty or a mitigated penalty."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "Where the food safety supervision and administration department and other departments of a local people's government at or above the county level find any of the violations provided in Article 123 of the Food Safety Law and the circumstances are serious so that administrative detention may be necessary, they shall promptly transfer the case and the relevant materials to the public security organ at the same level. Where the public security organ considers that supplementary materials are needed, the food safety supervision and administration department and other departments shall promptly provide them. Where the public security organ, after examination, considers that the conditions for administrative detention are not met, it shall promptly return the case and the relevant materials to the food safety supervision and administration department and other departments that transferred them."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "Where, in respect of a food safety violation discovered, the public security organ, after examination, finds that there is no criminal fact, or after filing and investigating the case considers that criminal liability need not be pursued, but administrative detention should be imposed in accordance with law, it shall promptly make a penalty decision on administrative detention; where administrative detention need not be imposed but other administrative liability should be pursued in accordance with law, it shall promptly transfer the case and the relevant materials to the food safety supervision and administration department and other departments at the same level."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "Where a re-inspection institution refuses to undertake a re-inspection task without justified reasons, the food safety supervision and administration department of the people's government at or above the county level shall give it a warning; where it refuses to undertake a re-inspection task twice within 1 year without justified reasons, the relevant department of the State Council shall revoke its qualification as a re-inspection institution and announce it to the public."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "Where a party publishes food inspection information issued by a food inspection institution that has not obtained qualification accreditation in accordance with law, or uses such inspection information to grade food or food producers and traders so as to deceive or mislead consumers, the food safety supervision and administration department of the people's government at or above the county level shall order it to rectify and, where there are illegal gains, confiscate them and, in addition, impose a fine of not less than RMB 100,000 yuan but not more than RMB 500,000 yuan; where it refuses to rectify, a fine of not less than RMB 500,000 yuan but not more than RMB 1,000,000 yuan shall be imposed; where the act constitutes a violation of public security administration, the public security organ shall impose a public security administration punishment in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "Where the food safety supervision and administration department imposes a fine of RMB 300,000 yuan or more on a violating unit or individual in accordance with the Food Safety Law and these Regulations, the decision shall be made by the food safety supervision and administration department of a people's government at or above the level of a city with districts. The specific authority for imposing fines shall be prescribed by the food safety supervision and administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "Where a party obstructs the staff of the food safety supervision and administration department and other departments in performing their official duties in accordance with law and the act constitutes a violation of public security administration, the public security organ shall impose a public security administration punishment in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "Where the food safety supervision and administration department and other departments of a people's government at or above the county level find that a unit or individual, in violation of the provisions of paragraph 1 of Article 120 of the Food Safety Law, fabricates or disseminates false food safety information and is suspected of committing a violation of public security administration, they shall notify the public security organ at the same level of the relevant circumstances."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "Where the food safety supervision and administration department of a people's government at or above the county level or its staff provides to others, in violation of law, the information provided by a provider of a third-party online food trading platform, a sanction shall be imposed in accordance with the provisions of Article 145 of the Food Safety Law."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "Where the provisions of these Regulations are violated and a crime is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "These Regulations shall come into force on 1 December 2019."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        },
+        "chapter": {
+          "en": "Chapter X Supplementary Provisions"
         }
       }
     ]
@@ -20801,6 +30101,822 @@
     ]
   };
 
+  TR['CN-REG-0567'] = {
+    "lawId": "CN-REG-0567",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 67 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the Land Administration Law of the People's Republic of China (hereinafter referred to as the Land Administration Law)."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The State shall establish a territorial spatial planning system.\nLand development, protection and construction activities shall adhere to the principle of planning first. Territorial spatial plans approved in accordance with the law are the basic basis for all types of development, protection and construction activities.\nWhere a territorial spatial plan has already been formulated, the overall plan for land utilisation and the urban and rural plans shall no longer be formulated. Before a territorial spatial plan is formulated, the overall plan for land utilisation and the urban and rural plans approved in accordance with the law shall continue to be implemented."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        },
+        "chapter": {
+          "en": "Chapter II Territorial Spatial Planning"
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Territorial spatial plans shall refine and implement the requirements for the development and protection of territorial space set out in the national development plan, make overall arrangements for functional spaces such as agricultural, ecological and urban spaces, and delineate and implement permanent basic farmland, ecological protection red lines and urban development boundaries.\nTerritorial spatial plans shall include the pattern of development and protection of territorial space and the layout, structure and use control requirements of planned land, specify requirements such as the quantity of cultivated land to be retained, the scale of construction land and the scope of land where reclamation is prohibited, make overall arrangements for the layout of land for infrastructure and public facilities, make comprehensive use of above-ground and underground space, rationally determine and strictly control the scale of new construction land, improve the level of economical and intensive land use and ensure the sustainable use of land."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        },
+        "chapter": {
+          "en": "Chapter II Territorial Spatial Planning"
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Land surveys shall include the following:\n(a) land ownership and changes therein;\n(b) the current situation of land use and changes therein;\n(c) land conditions.\nThe results of the national land survey shall be published to society after approval by the State Council. The results of local land surveys shall, after examination by the people's government at the corresponding level, be published to society after approval by the people's government at the next higher level. Only after the results of the national land survey are published may local people's governments at or above the county level publish the results of land surveys of their respective administrative regions level by level from the top down.\nThe results of land surveys are an important basis for the formulation of territorial spatial plans and for the administration, protection and utilisation of natural resources.\nThe technical regulations for land surveys shall be formulated by the competent natural resources department of the State Council together with the relevant departments."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        },
+        "chapter": {
+          "en": "Chapter II Territorial Spatial Planning"
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The competent natural resources department of the State Council shall, together with the relevant departments, formulate the standards for the grading of land.\nThe competent natural resources departments of people's governments at or above the county level shall, together with the relevant departments and in accordance with the standards for the grading of land, assess the grades of land. The results of local land grading shall, after examination by the people's government at the corresponding level, be published to society after approval by the competent natural resources department of the people's government at the next higher level.\nIn accordance with the state of national economic and social development, land grades shall be reassessed every five years."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        },
+        "chapter": {
+          "en": "Chapter II Territorial Spatial Planning"
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The competent natural resources departments of people's governments at or above the county level shall strengthen the development of information systems, establish a unified basic information platform for territorial space, implement information-based management of the entire process of land administration, conduct dynamic monitoring of land use, establish mechanisms for sharing land administration information with the development and reform, housing and urban-rural development and other relevant departments, and make land administration information public in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        },
+        "chapter": {
+          "en": "Chapter II Territorial Spatial Planning"
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The competent natural resources departments of people's governments at or above the county level shall strengthen cadastral administration and establish and improve cadastral databases."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Territorial Spatial Planning"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The State applies a system of compensation for the occupation of cultivated land. Where cultivated land is occupied upon approval in accordance with the law within the scope of construction land for cities, villages, market towns determined by the territorial spatial plan, and where cultivated land is occupied upon approval in accordance with the law by construction projects such as energy, transport, water conservancy, mining and military facilities outside the scope of construction land for cities, villages and market towns determined by the territorial spatial plan, the county-level people's government, the rural collective economic organisation and the construction unit shall respectively be responsible for reclaiming cultivated land of a quantity and quality equivalent to the cultivated land occupied; where the conditions for reclamation are absent or the reclaimed cultivated land does not meet the requirements, a cultivated land reclamation fee shall be paid in accordance with the provisions of the province, autonomous region or municipality directly under the Central Government, and shall be used exclusively for reclaiming new cultivated land.\nThe people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall organise the competent natural resources departments and the competent agriculture and rural affairs departments to carry out acceptance inspection of reclaimed cultivated land so as to ensure that the reclaimed cultivated land is allocated to specific plots. Cultivated land designated as permanent basic farmland shall additionally be included in the national permanent basic farmland database for strict administration. The situation of supplementary cultivated land for occupied cultivated land shall be published to society in accordance with the relevant provisions of the State.\nWhere individual provinces or municipalities directly under the Central Government need to reclaim cultivated land in another place, the provisions of Article 32 of the Land Administration Law shall apply."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter III Cultivated Land Protection"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "No unit or individual may engage in land development activities within the scope in which reclamation is prohibited as determined by the territorial spatial plan.\nWhere, in accordance with the territorial spatial plan, State-owned barren hills, wasteland and barren beaches with undetermined land use rights are developed for crop farming, forestry, animal husbandry or fishery production, an application shall be filed with the competent natural resources department of the local people's government at or above the county level in the place where the land is located and, in accordance with the limit of authority prescribed by the province, autonomous region or municipality directly under the Central Government, approval shall be granted by the people's government at or above the county level."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter III Cultivated Land Protection"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "County-level people's governments shall, in accordance with the requirements of the territorial spatial plan for the overall arrangement of functional spaces such as agricultural, ecological and urban spaces, formulate land consolidation plans to promote the protection of cultivated land and the economical and intensive use of land.\nCounty and township (town) people's governments shall organise rural collective economic organisations to implement land consolidation plans and to improve and transform scattered and abandoned land in a planned manner. Newly added cultivated land from land consolidation may be used to supplement the cultivated land occupied for construction.\nSocial entities are encouraged to participate in land consolidation in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter III Cultivated Land Protection"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Local people's governments at or above the county level shall take measures to prevent and control soil erosion and pollution of cultivated land, improve medium- and low-yield fields in a planned manner, build high-standard farmland, improve the quality of cultivated land, protect high-quality cultivated land such as black soil, and make reasonable arrangements in accordance with the law for the use of the topsoil of cultivated land occupied for construction.\nWhere permanent basic farmland is occupied for non-agricultural construction in accordance with the law, the construction unit shall, in accordance with the provisions of the province, autonomous region or municipality directly under the Central Government, use the topsoil of the occupied cultivated land for soil improvement of newly reclaimed cultivated land, poor-quality land or other cultivated land.\nLocal people's governments at or above the county level shall strengthen guidance on and administration of the adjustment of the agricultural structure and prevent damage to the cultivated layer of cultivated land; where land for facility agriculture is no longer used, they shall promptly organise the restoration of the conditions for cultivation."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter III Cultivated Land Protection"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The State applies special protection to cultivated land, strictly observes the red line for cultivated land protection, strictly controls the conversion of cultivated land into forest land, grassland, garden land and other agricultural land, and establishes a compensation system for cultivated land protection, the specific measures and the implementation steps for compensation for cultivated land protection being prescribed by the competent natural resources department of the State Council together with the relevant departments.\nNon-agricultural construction must use land economically; where wasteland can be used, cultivated land may not be occupied; where poor-quality land can be used, good land may not be occupied. It is prohibited to occupy cultivated land to build kilns or graves or to build houses, dig sand, quarry stone, mine or take soil on cultivated land without authorisation. It is prohibited to occupy permanent basic farmland for the development of forestry and fruit growing or for digging ponds for fish farming.\nCultivated land shall be given priority for the production of grain and agricultural products such as cotton, oil, sugar and vegetables. Where, in accordance with the relevant provisions of the State, cultivated land needs to be converted into forest land, grassland, garden land or other agricultural land, cultivated land that is difficult to use stably over the long term shall be used first."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter III Cultivated Land Protection"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall bear overall responsibility for the protection of cultivated land within their respective administrative regions, and their principal persons in charge shall be the first persons responsible for the protection of cultivated land within their respective administrative regions.\nThe people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall break down and assign the quantities of cultivated land to be retained and the tasks for the protection of permanent basic farmland determined by the State, and shall allocate them to specific plots.\nThe State Council shall assess the implementation of the targets of responsibility for cultivated land protection by the people's governments of provinces, autonomous regions and municipalities directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter III Cultivated Land Protection"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Where a construction project needs to use land, it shall conform to the requirements of the territorial spatial plan, the annual plan for land use, use control, resource conservation and eco-environmental protection, strictly implement the standards for construction land, give priority to the use of existing construction land and improve the efficiency of construction land use.\nThose engaging in land development and utilisation activities shall take effective measures to prevent and reduce soil pollution and ensure that construction land meets the requirements for the quality of the soil environment."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "People's governments at all levels shall, on the basis of the national economic and social development plan and annual plans, the territorial spatial plan, the national industrial policy and the actual situation of urban and rural construction and land use, strengthen the administration of land use plans, exercise control over the total amount of construction land, promote the development and utilisation of existing construction land in urban and rural areas, guide the redevelopment of inefficient land in cities and towns, implement the control system of standards for construction land, carry out evaluations of economical and intensive land use, and promote and apply land-saving technologies and land-saving models."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The competent natural resources departments of local people's governments at or above the county level shall publish on government websites the total annual supply of construction land, its structure, timing, plots and uses as determined by the people's government at the corresponding level, for public inspection."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Construction units using State-owned land shall acquire it by way of paid use, except where laws or administrative regulations provide that it may be acquired by way of allocation.\nThe ways of paid use of State-owned land include:\n(a) the grant of State-owned land use rights;\n(b) the lease of State-owned land;\n(c) capital contribution or share subscription with State-owned land use rights valued as equity."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The grant of State-owned land use rights, the lease of State-owned land and the like shall be traded through open trading platforms in accordance with the relevant provisions of the State and shall be incorporated into the unified system of public resource trading platforms. Unless it may be done by way of agreement in accordance with the law, competitive methods such as bidding, auction and listing shall be adopted to determine the land user."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The paid use fee for land for newly increased construction land provided in Article 55 of the Land Administration Law means the average net land revenue that the State should obtain from newly increased construction land."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where land needs to be temporarily used for construction project implementation or geological exploration, cultivated land shall as far as possible not be occupied or shall be occupied as little as possible.\nTemporary use of land shall be approved by the competent natural resources department of the people's government at or above the county level, and the term shall generally not exceed two years; for temporary use of land for infrastructure construction such as energy, transport and water conservancy with a relatively long construction cycle, the term shall not exceed four years, unless otherwise provided by laws or administrative regulations.\nThe land user shall complete land reclamation within one year from the date of expiry of the temporary use of land so as to bring the land to a usable state, and where cultivated land is occupied, the conditions for cultivation shall be restored."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where land is urgently needed for emergency rescue and disaster relief, epidemic prevention and control and the like, the land may be used first. Where the land is for temporary use, it shall be restored to its original state after use and returned to the original land user for use, and no further formalities for approval of land use need be completed; where it is for permanent construction land, the construction unit shall, no later than six months after the conclusion of the emergency response work, apply for supplementary completion of the formalities for approval of construction land."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Unused land with important ecological functions shall be designated as ecological protection red lines in accordance with the law and subject to strict protection.\nWhere a construction project occupies unused land determined by the territorial spatial plan, the matter shall be handled in accordance with the provisions of the province, autonomous region or municipality directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where, within the scope of construction land for cities, villages and market towns determined by the territorial spatial plan, agricultural land is converted to construction land for the implementation of that plan, the city or county people's government shall organise the natural resources and other departments to draw up a plan for the conversion of agricultural land and submit it in batches to the people's government with the power of approval for approval.\nThe plan for the conversion of agricultural land shall focus on explaining the arrangement of construction projects, conformity with the territorial spatial plan and the annual plan for land use, and the situation of supplementary cultivated land.\nAfter the plan for the conversion of agricultural land is approved, the city or county people's government shall organise its implementation."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Section 2 Conversion of Agricultural Land"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Where a construction project truly needs to occupy agricultural land outside the scope of construction land for cities, villages and market towns determined by the territorial spatial plan, and the occupation involves permanent basic farmland, the matter shall be approved by the State Council; where it does not involve permanent basic farmland, it shall be approved by the State Council or by the people's government of the province, autonomous region or municipality directly under the Central Government authorised by the State Council. The matter shall be handled specifically in accordance with the following provisions:\n(a) before the approval or verification of the construction project, or before and after its recording, the competent natural resources department shall examine the matters relating to the land used for the construction project and put forward pre-examination opinions on the land used for the construction project. Where the construction project needs to apply for the issuance of a site selection opinion, the pre-examination of the land used for the construction project and the site selection opinion shall be handled together, and the pre-examination opinion on the land used for the construction project and the site selection opinion shall be issued;\n(b) the construction unit shall, on the strength of the documents of approval, verification or recording of the construction project, file an application for construction land with the city or county people's government. The city or county people's government shall organise the natural resources and other departments to draw up a plan for the conversion of agricultural land and submit it to the people's government with the power of approval for approval; where approval should be granted by the State Council in accordance with the law, the plan shall be submitted by the people's government of the province, autonomous region or municipality directly under the Central Government after examination. The plan for the conversion of agricultural land shall focus on explaining conformity with the territorial spatial plan and the annual plan for land use and the situation of supplementary cultivated land, and where the occupation of permanent basic farmland is involved, it shall additionally explain the necessity and reasonableness of occupying permanent basic farmland and the feasibility of designating replacement farmland;\n(c) after the plan for the conversion of agricultural land is approved, the city or county people's government shall organise its implementation."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Section 2 Conversion of Agricultural Land"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Where a construction project needs to use land, the construction unit shall in principle file a single application and complete the formalities for approval of construction land; for projects that truly need to be constructed in phases, the construction unit may, on the basis of the scheme determined in the feasibility study report, apply for construction land in phases and complete the formalities for approval of construction land in phases. Where the scope of land use truly needs to be adjusted in the course of construction, the formalities for approval of construction land shall be completed in accordance with the law.\nWhere the conversion of agricultural land involves the expropriation of land, the formalities for the expropriation of land shall additionally be completed in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Section 2 Conversion of Agricultural Land"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Where land needs to be expropriated and the local people's government at or above the county level considers that the conditions specified in Article 45 of the Land Administration Law are met, it shall issue a pre-announcement of land expropriation and carry out a survey of the current situation of the land to be expropriated and an assessment of the risks to social stability.\nThe pre-announcement of land expropriation shall include the scope of expropriation, the purpose of expropriation, the arrangements for carrying out the survey of the current situation of the land and other content. The pre-announcement of land expropriation shall be made in a manner conducive to public awareness, within the township (town), village and villagers' group where the land to be expropriated is located, and the period of the pre-announcement shall be not less than ten working days. From the date of issuance of the pre-announcement of land expropriation, no unit or individual may rush to plant or rush to build within the scope to be expropriated; where rush planting or rush building is carried out in violation of the provisions, no compensation shall be given for the portion rush-planted or rush-built.\nThe survey of the current situation of the land shall ascertain the location, ownership, land category and area of the land, as well as the ownership, type and quantity of rural villagers' residences, other attachments on the ground and young crops and the like.\nThe assessment of the risks to social stability shall comprehensively assess the situation of risks to social stability in respect of the land expropriation, determine the risk points and put forward risk prevention measures and contingency plans. The assessment of the risks to social stability shall be participated in by the rural collective economic organisation whose land is expropriated and its members, the villagers' committee and other interested parties, and the assessment results are an important basis for applying for the expropriation of land."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Section 3 Land Expropriation"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Local people's governments at or above the county level shall, on the basis of the results of the assessment of the risks to social stability and in conjunction with the survey of the current situation of the land, organise the natural resources, finance, agriculture and rural affairs, human resources and social security and other relevant departments to draw up a compensation and resettlement plan for land expropriation.\nThe compensation and resettlement plan for land expropriation shall include the scope of expropriation, the current situation of the land, the purpose of expropriation, the methods and standards of compensation, the persons to be resettled, the methods of resettlement, social security and other content."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Section 3 Land Expropriation"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "After the compensation and resettlement plan for land expropriation is drawn up, the local people's government at or above the county level shall make it public within the township (town), village and villagers' group where the land to be expropriated is located, for a period of not less than 30 days.\nThe announcement of compensation and resettlement for land expropriation shall at the same time state the manner and time limit for completing compensation registration, the channels for feedback of objections and other content.\nWhere the majority of the members of the rural collective economic organisation whose land is expropriated consider that the draft compensation and resettlement plan for land expropriation does not conform to the provisions of laws and regulations, the local people's government at or above the county level shall organise a hearing."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Section 3 Land Expropriation"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "After the local people's government at or above the county level determines the compensation and resettlement plan for land expropriation in accordance with the provisions of laws and regulations and the circumstances of the hearing and the like, it shall organise the relevant departments to conclude a compensation and resettlement agreement for land expropriation with the owners and users of the land to be expropriated. The model text of the compensation and resettlement agreement for land expropriation shall be formulated by the people's government of the province, autonomous region or municipality directly under the Central Government.\nFor individual cases in which it is truly difficult to conclude a compensation and resettlement agreement for land expropriation, the local people's government at or above the county level shall truthfully explain the situation when applying for the expropriation of land."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Section 3 Land Expropriation"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Only after the local people's government at or above the county level has completed the preparatory work for land expropriation prescribed by these Regulations may it file an application for the expropriation of land and submit it, in accordance with the provisions of Article 46 of the Land Administration Law, to the people's government with the power of approval for approval.\nThe people's government with the power of approval shall examine the necessity and reasonableness of the expropriation of land, whether the circumstances specified in Article 45 of the Land Administration Law of truly needing to expropriate land for the public interest are met, and whether the statutory procedure is complied with."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Section 3 Land Expropriation"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "After an application for the expropriation of land is approved in accordance with the law, the local people's government at or above the county level shall, within 15 working days from the date of receipt of the document of approval, issue an announcement of land expropriation within the township (town), village and villagers' group where the land to be expropriated is located, publish specific work arrangements such as the scope and time of expropriation, make a decision on compensation and resettlement for land expropriation for individual cases in which no compensation and resettlement agreement has been reached, and organise its implementation in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Section 3 Land Expropriation"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Provinces, autonomous regions and municipalities directly under the Central Government shall formulate and publish comprehensive land prices by area, determine the standards for land compensation fees and resettlement subsidies for the expropriation of agricultural land, and formulate measures for the distribution of land compensation fees and resettlement subsidies.\nCompensation fees for attachments on the ground, young crops and the like shall belong to their owners.\nSocial security funds shall mainly be used for subsidies for social insurance contributions such as old-age insurance for eligible farmers whose land is expropriated, and shall be separately listed in accordance with the provisions of the province, autonomous region or municipality directly under the Central Government.\nLocal people's governments at or above the county level applying for the expropriation of land shall promptly make available the land compensation fees, resettlement subsidies, compensation fees for rural villagers' residences and other attachments on the ground and young crops, social security funds and the like, and shall ensure that they are in place in full and used for the designated purposes only. Where the relevant fees are not in place in full, the expropriation of land shall not be approved."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Section 3 Land Expropriation"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The layout of rural residential areas and the scale of construction land shall be rationally planned in accordance with the principles of economical and intensive use and adaptation to local conditions. Local people's governments at or above the county level shall, in accordance with the provisions of the State, allocate quotas for construction land and reasonably ensure the demand for rural residential land of rural villagers within their respective administrative regions.\nThe territorial spatial plans and village plans of townships (towns), counties and cities shall take overall account of the production and living needs of rural villagers, give prominence to the orientation of economical and intensive land use and scientifically delineate the scope of rural residential land."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Section 4 Administration of Rural Residential Land"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Where a rural villager applies for rural residential land, the application shall be filed, on a household basis, with the rural collective economic organisation; where no rural collective economic organisation has been established, the application shall be filed with the villagers' group or villagers' committee where the applicant is located. After the application for rural residential land has been collectively discussed and adopted in accordance with the law by the rural villagers and made public within the collective, it shall be submitted to the township (town) people's government for examination and approval.\nWhere agricultural land is involved, the formalities for approval of the conversion of agricultural land shall be completed in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Section 4 Administration of Rural Residential Land"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The State permits rural villagers who have settled in cities to voluntarily withdraw from their rural residential land in accordance with the law and for compensation. Township (town) people's governments and rural collective economic organisations, villagers' committees and the like shall give priority to using the withdrawn rural residential land to ensure the demand for rural residential land of the members of that rural collective economic organisation."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Section 4 Administration of Rural Residential Land"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Rural residential land lawfully acquired and the rural villagers' residences and their ancillary facilities on such land are protected by law.\nIt is prohibited to compel the transfer of rural residential land against the will of rural villagers, to unlawfully recover rural residential land lawfully acquired by rural villagers, to make withdrawal from rural residential land a condition for rural villagers to settle in cities, and to force rural villagers to relocate and withdraw from their rural residential land."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Section 4 Administration of Rural Residential Land"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Territorial spatial plans shall make overall and reasonable arrangements for the layout and use of collective operating construction land, control the scale of collective operating construction land in accordance with the law, and promote the economical and intensive use of collective operating construction land.\nKey rural industries and projects are encouraged to use collective operating construction land."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Section 5 Administration of Collective Operating Construction Land"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "For collective operating construction land that is determined by the territorial spatial plan for operating uses such as industry and commerce and for which registration of land ownership has been completed in accordance with the law, the owner of the land may, by way of grant, lease or other means, deliver it to a unit or individual for paid use within a certain number of years."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Section 5 Administration of Collective Operating Construction Land"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where the owner of land intends to grant or lease collective operating construction land, the competent natural resources department of the city or county people's government shall, on the basis of the territorial spatial plan, put forward the planning conditions for the collective operating construction land to be granted or leased, specifying the boundaries, area, use and intensity of development and construction of the land.\nThe competent natural resources department of the city or county people's government shall, together with the relevant departments, put forward the requirements for industry access and eco-environmental protection."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Section 5 Administration of Collective Operating Construction Land"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "The owner of land shall, on the basis of the planning conditions and the requirements for industry access and eco-environmental protection and the like, draw up a plan for the grant, lease or other disposal of the collective operating construction land and, in accordance with the provisions of Article 63 of the Land Administration Law, have a written opinion formed by the collective economic organisation and, not less than ten working days before the grant or lease, report it to the city or county people's government. Where the city or county people's government considers that the plan does not conform to the planning conditions or the requirements for industry access and eco-environmental protection and the like, it shall, within five working days after receiving the plan, put forward opinions for modification. The owner of the land shall make modification in accordance with the opinions of the city or county people's government.\nThe plan for the grant, lease or other disposal of collective operating construction land shall state the boundaries, area, use, planning conditions, requirements for industry access and eco-environmental protection, term of use, manner of transaction, market entry price, arrangements for the distribution of collective income and other content of the parcel of land."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Section 5 Administration of Collective Operating Construction Land"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "The owner of land shall, on the basis of the plan for the grant, lease or other disposal of the collective operating construction land, determine the land user by way of bidding, auction, listing or agreement, and both parties shall conclude a written contract stating the boundaries, area, use, planning conditions, term of use, payment of the transaction price, time of land delivery and time limits for commencement and completion of construction, requirements for industry access and eco-environmental protection, stipulating the conditions for early recovery, the manner of compensation, the renewal of the land use right upon expiry and the manner of dealing with buildings, structures and other attachments on the ground, as well as liability for breach of contract and the methods for resolving disputes, and shall report it to the competent natural resources department of the city or county people's government for the record. Where the planning conditions and the requirements for industry access and eco-environmental protection are not incorporated into the contract in accordance with the law, the contract shall be void; where losses are caused, civil liability shall be borne in accordance with the law. The model text of the contract shall be formulated by the competent natural resources department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Section 5 Administration of Collective Operating Construction Land"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Users of collective operating construction land shall promptly pay the price of the collective operating construction land as agreed, pay the relevant taxes and fees in accordance with the law, and apply in accordance with the law for registration of real property in respect of the right to use the collective operating construction land and the ownership of the buildings, structures and ancillary facilities built on the collective operating construction land through lawful use."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Section 5 Administration of Collective Operating Construction Land"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where the right to use collective operating construction land acquired by way of grant or other means is transferred, exchanged, used as capital contribution, donated or mortgaged in accordance with the law, both parties shall conclude a written contract and notify the owner of the land in writing.\nThe lease of collective operating construction land and the grant of the right to use collective construction land and the maximum term thereof, as well as its transfer, exchange, use as capital contribution, donation and mortgage, shall be governed by reference to the provisions on State-owned construction land of the same use, unless otherwise provided by laws or administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Section 5 Administration of Collective Operating Construction Land"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "The national natural resources inspection agency shall, as authorised, inspect the following situations of land use and land administration of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government and of the people's governments of the cities determined by the State Council:\n(a) the situation of cultivated land protection;\n(b) the situation of economical and intensive land use;\n(c) the formulation and implementation of territorial spatial plans;\n(d) the implementation of major decisions of the State on land administration;\n(e) compliance with laws and administrative regulations on land administration;\n(f) other situations of land use and land administration."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Inspection"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "In conducting inspection, the national natural resources inspection agency has the power to make inquiries of the relevant units and individuals about the circumstances relating to the matters under inspection; the relevant units and individuals shall support and assist the inspection agency in its work, truthfully report the circumstances and provide the relevant materials."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Inspection"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where a local people's government under inspection violates laws or administrative regulations on land administration, or fails to effectively implement the major decisions of the State on land administration, the national natural resources inspection agency may issue a written inspection opinion to the local people's government under inspection, and the local people's government shall conscientiously organise rectification and promptly report the rectification; the national natural resources inspection agency may hold regulatory talks with the relevant persons in charge of the local people's government under inspection and may, in accordance with the law, put forward to the supervisory organ, the appointment and removal organ and other relevant organs suggestions for pursuing the liability of the persons responsible."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Inspection"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Supervisory and inspection personnel for land administration shall undergo training and pass the assessment and obtain the administrative law enforcement certificate before they may engage in supervisory and inspection work for land administration."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Inspection"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "In carrying out supervision and inspection in accordance with the division of duties, the competent natural resources departments and the competent agriculture and rural affairs departments may take the following measures:\n(a) making inquiries of the units or individuals involved in the case of the violation;\n(b) entering the site of a unit or individual under inspection that is suspected of land-related violations to take photographs or make video recordings;\n(c) ordering the parties to stop ongoing land-related violations;\n(d) suspending, during the investigation, the handling of land approval, registration and other formalities related to the case of the violation in respect of the unit or individual suspected of land-related violations;\n(e) sealing up documents and materials that may be transferred, destroyed, concealed or falsified, and ordering the unit or individual suspected of land-related violations not to sell or transfer property related to the case during the investigation;\n(f) other supervisory and inspection measures provided in Article 68 of the Land Administration Law."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Inspection"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where sanctions are given in accordance with the provisions of Article 73 of the Land Administration Law, they shall be given, in accordance with the limit of administrative authority, by the competent natural resources department of the people's government at the next higher level that ordered the decision on administrative penalty or directly imposed the administrative penalty, or by another appointment and removal organ or unit."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Inspection"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "The competent natural resources departments of people's governments at or above the county level shall, together with the relevant departments, establish mechanisms such as credit-based supervision and dynamic inspection, strengthen supervision over the supply and trading of construction land and over its development and utilisation after supply, impose punishment in accordance with the law for major acts of dishonesty in the construction land market, and make the relevant information public in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Inspection"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where, in violation of the provisions of Article 37 of the Land Administration Law, permanent basic farmland is unlawfully occupied for the development of forestry and fruit growing or for digging ponds for fish farming, the competent natural resources department of the people's government at or above the county level shall order correction within a specified time limit; where correction is not made upon expiry of the time limit, a fine of not less than two times but not more than five times the cultivated land reclamation fee shall be imposed according to the area occupied; where the conditions for cultivation are damaged, a penalty shall be imposed in accordance with the provisions of Article 75 of the Land Administration Law."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where, in violation of the provisions of Article 57 of the Land Administration Law, permanent structures are built on temporarily used land, the competent natural resources department of the people's government at or above the county level shall order demolition within a specified time limit and impose a fine of not less than five times but not more than ten times the land reclamation fee according to the area occupied; where demolition is not carried out upon expiry of the time limit, the organ that made the administrative decision shall, in accordance with the law, apply to the people's court for compulsory enforcement."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where, in violation of the provisions of Article 65 of the Land Administration Law, buildings or structures are rebuilt or expanded, the competent natural resources department of the people's government at or above the county level shall order demolition within a specified time limit; where demolition is not carried out upon expiry of the time limit, the organ that made the administrative decision shall, in accordance with the law, apply to the people's court for compulsory enforcement."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where a fine is imposed in accordance with the provisions of Article 74 of the Land Administration Law, the amount of the fine shall be not less than 10 per cent but not more than 50 per cent of the illegal gains."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where a fine is imposed in accordance with the provisions of Article 75 of the Land Administration Law, the amount of the fine shall be not less than five times but not more than ten times the cultivated land reclamation fee; where high-quality cultivated land such as black soil is damaged, a heavier penalty shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where a fine is imposed in accordance with the provisions of Article 76 of the Land Administration Law, the amount of the fine shall be not less than two times but not more than five times the land reclamation fee.\nWhere, in violation of the provisions of these Regulations, reclamation is not completed or the conditions for cultivation are not restored within one year from the date of expiry of the temporary use of land, the competent natural resources department of the people's government at or above the county level shall order correction within a specified time limit, impose a penalty in accordance with the provisions of Article 76 of the Land Administration Law, and shall, together with the competent agriculture and rural affairs department, complete the reclamation or restore the conditions for cultivation on behalf of the party concerned."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where a fine is imposed in accordance with the provisions of Article 77 of the Land Administration Law, the amount of the fine shall be not less than RMB 100 but not more than RMB 1,000 per square metre of unlawfully occupied land.\nWhere, in violation of the provisions of these Regulations, land development activities are carried out within the scope in which reclamation is prohibited as determined by the territorial spatial plan, the competent natural resources department of the people's government at or above the county level shall order correction within a specified time limit and impose a penalty in accordance with the provisions of Article 77 of the Land Administration Law."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where, in accordance with the provisions of Article 74 or Article 77 of the Land Administration Law, the competent natural resources department of the people's government at or above the county level confiscates buildings and other facilities newly built on unlawfully transferred or unlawfully occupied land, it shall, within 90 days, hand them over to the people's government at the corresponding level or to a department designated by it for administration and disposal in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where a fine is imposed in accordance with the provisions of Article 81 of the Land Administration Law, the amount of the fine shall be not less than RMB 100 but not more than RMB 500 per square metre of unlawfully occupied land."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Where a fine is imposed in accordance with the provisions of Article 82 of the Land Administration Law, the amount of the fine shall be not less than 10 per cent but not more than 30 per cent of the illegal gains."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Whoever obstructs members of the staff of the competent natural resources department or of the competent agriculture and rural affairs department in the lawful performance of their duties, thereby constituting a violation of public security administration, shall be given a public security penalty in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Whoever, in violation of the provisions of laws and regulations on land administration, obstructs the expropriation of land for State construction shall be ordered by the local people's government at or above the county level to surrender the land; where the land is refused to be surrendered, an application shall be made to the people's court for compulsory enforcement in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, the rights and interests in rural residential land lawfully acquired by rural villagers are infringed, correction shall be ordered within a specified time limit, the unit responsible shall be circulated a notice of criticism and given a warning; where losses are caused, the liability for compensation shall be borne in accordance with the law; and the persons directly in charge and the other persons directly responsible shall be given sanctions in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Whoever embezzles, encroaches upon, misappropriates, privately distributes, withholds or delays payment of compensation and resettlement fees for land expropriation and other relevant fees shall be ordered to make correction, the sums concerned shall be recovered, the illegal gains shall be returned within a specified time limit, the unit responsible shall be circulated a notice of criticism and given a warning; where losses are caused, the liability for compensation shall be borne in accordance with the law; and the persons directly in charge and the other persons directly responsible shall be given sanctions in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Where members of the staff of people's governments at all levels, of competent natural resources departments or of competent agriculture and rural affairs departments neglect their duties, abuse their power or practise favouritism and irregularities, sanctions shall be given in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Where a violation of the provisions of these Regulations constitutes a crime, criminal liability shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "These Regulations shall come into force on 1 September 2021."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-REG-0568'] = {
     "lawId": "CN-REG-0568",
     "sourceLang": "zh",
@@ -22976,6 +33092,879 @@
     ]
   };
 
+  TR['CN-REG-0574'] = {
+    "lawId": "CN-REG-0574",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 73 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated to meet the needs of opening up and economic development, to strengthen and improve the supervision and administration of foreign-funded banks, and to promote the sound operation of the banking industry."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Foreign-funded banks as mentioned in these Regulations refer to the following institutions established within the territory of the People's Republic of China with approval in accordance with the relevant laws and regulations of the People's Republic of China:\n(a) a wholly foreign-funded bank established with sole capital contribution from one foreign bank or with joint capital contribution from one foreign bank together with other foreign financial institutions;\n(b) a Sino-foreign equity joint bank established with joint capital contribution by a foreign financial institution and a Chinese company or enterprise;\n(c) a branch of a foreign bank;\n(d) a representative office of a foreign bank.\nThe institutions listed in items (a) to (c) of the preceding paragraph are collectively referred to as operating institutions of foreign-funded banks."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Foreign financial institutions as mentioned in these Regulations refer to financial institutions registered outside the territory of the People's Republic of China and approved or licensed by the financial regulatory authority of the country or region in which they are located.\nForeign banks as mentioned in these Regulations refer to commercial banks registered outside the territory of the People's Republic of China and approved or licensed by the financial regulatory authority of the country or region in which they are located."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Foreign-funded banks must abide by the laws and regulations of the People's Republic of China and may not harm the national interests or the public interests of the People's Republic of China.\nThe lawful activities and the lawful rights and interests of foreign-funded banks are protected by the laws of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The banking regulatory authority of the State Council and its dispatched offices (hereinafter collectively referred to as the banking regulatory authorities) are responsible for supervising and administering foreign-funded banks and their activities. Where laws and administrative regulations provide that other supervisory and administrative departments or institutions shall supervise and administer foreign-funded banks and their activities, such provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The banking regulatory authority of the State Council shall, in accordance with the national strategy for regional economic development and the relevant policies, formulate measures for encouragement and guidance, and implement them after approval by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The establishment of a foreign-funded bank and its branches shall be subject to examination and approval by the banking regulatory authority."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment and Registration"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The minimum amount of registered capital of a wholly foreign-funded bank or a Sino-foreign equity joint bank is RMB 1 billion or an equivalent amount in freely convertible currency. The registered capital shall be paid-up capital.\nA branch established within the territory of the People's Republic of China by a wholly foreign-funded bank or a Sino-foreign equity joint bank shall be allocated operating funds in RMB or in freely convertible currency by its head office free of charge. The total operating funds allocated by a wholly foreign-funded bank or a Sino-foreign equity joint bank to its branches may not exceed 60 per cent of the total capital of its head office.\nA branch of a foreign bank shall be allocated operating funds of not less than RMB 200 million or an equivalent amount in freely convertible currency by its head office free of charge.\nThe banking regulatory authority of the State Council may, in light of the scope of business of the operating institutions of foreign-funded banks and the needs of prudential supervision, raise the minimum amount of registered capital or operating funds and prescribe the RMB share thereof."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment and Registration"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The shareholders of a proposed wholly foreign-funded bank or Sino-foreign equity joint bank, or the foreign bank proposing to establish a branch or representative office, shall meet the following conditions:\n(a) having sustained profitability, a good reputation and no record of major violations of laws and regulations;\n(b) the shareholders of the proposed wholly foreign-funded bank, the foreign shareholders of the proposed Sino-foreign equity joint bank, or the foreign bank proposing to establish a branch or representative office having experience in international financial activities;\n(c) having an effective anti-money-laundering system;\n(d) the shareholders of the proposed wholly foreign-funded bank, the foreign shareholders of the proposed Sino-foreign equity joint bank, or the foreign bank proposing to establish a branch or representative office being under effective supervision by the financial regulatory authority of the country or region in which they are located, and their applications having been consented to by that authority;\n(e) other prudential conditions prescribed by the banking regulatory authority of the State Council.\nThe country or region in which the shareholders of the proposed wholly foreign-funded bank, the foreign shareholders of the proposed Sino-foreign equity joint bank, or the foreign bank proposing to establish a branch or representative office are located shall have a sound financial supervision and administration system, and its financial regulatory authority shall have established a sound cooperative mechanism for supervision and administration with the banking regulatory authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment and Registration"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The shareholders of a proposed wholly foreign-funded bank shall be financial institutions and, in addition to meeting the conditions prescribed in Article 9 of these Regulations, the sole shareholder or the controlling shareholder shall also meet the following conditions:\n(a) being a commercial bank;\n(b) its capital adequacy ratio complying with the provisions of the financial regulatory authority of the country or region in which it is located and of the banking regulatory authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment and Registration"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "In addition to meeting the conditions prescribed in Article 9 of these Regulations, the foreign shareholder of a proposed Sino-foreign equity joint bank shall be a financial institution, and the sole or principal foreign shareholder shall also meet the following conditions:\n(a) being a commercial bank;\n(b) its capital adequacy ratio complying with the provisions of the financial regulatory authority of the country or region in which it is located and of the banking regulatory authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment and Registration"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "In addition to meeting the conditions prescribed in Article 9 of these Regulations, the capital adequacy ratio of a foreign bank proposing to establish a branch shall also comply with the provisions of the financial regulatory authority of the country or region in which it is located and of the banking regulatory authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment and Registration"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where a foreign bank establishes operating institutions within the territory of the People's Republic of China, it may not establish additional representative offices apart from those already established, except in regions that conform to the national strategy for regional economic development and the relevant policies.\nWhere a representative office is approved to be converted into an operating institution, the formalities for the deregistration of the original representative office shall be completed in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment and Registration"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "To establish an operating institution of a foreign-funded bank, an application for preparation shall first be filed, and the following application materials shall be submitted to the banking regulatory authority of the place in which the proposed institution is to be located:\n(a) a written application, stating the name and location of the proposed institution, the registered capital or operating funds, and the types of business applied for;\n(b) a feasibility study report;\n(c) the draft articles of association of the proposed wholly foreign-funded bank or Sino-foreign equity joint bank;\n(d) the operating contract signed by all shareholders of the proposed wholly foreign-funded bank or Sino-foreign equity joint bank;\n(e) the articles of association of the shareholders of the proposed wholly foreign-funded bank or Sino-foreign equity joint bank, or of the foreign bank proposing to establish a branch;\n(f) the organisational chart, the list of major shareholders, and the list of overseas branches and affiliated enterprises of the shareholders of the proposed wholly foreign-funded bank or Sino-foreign equity joint bank, or of the foreign bank proposing to establish a branch and of the group to which it belongs;\n(g) the annual reports for the most recent 3 years of the shareholders of the proposed wholly foreign-funded bank or Sino-foreign equity joint bank, or of the foreign bank proposing to establish a branch;\n(h) the anti-money-laundering system of the shareholders of the proposed wholly foreign-funded bank or Sino-foreign equity joint bank, or of the foreign bank proposing to establish a branch;\n(i) copies of the business licence or of the document permitting the conduct of financial business issued by the financial regulatory authority of the country or region in which the shareholders of the proposed wholly foreign-funded bank, the foreign shareholders of the proposed Sino-foreign equity joint bank, or the foreign bank proposing to establish a branch are located, together with its written opinions on the application;\n(j) other materials prescribed by the banking regulatory authority of the State Council.\nThe banking regulatory authority of the place in which the proposed institution is to be located shall promptly submit the application materials, together with its examination opinions, to the banking regulatory authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment and Registration"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The banking regulatory authority of the State Council shall, within 6 months from the date of receipt of the complete application materials for the establishment of an operating institution of a foreign-funded bank, make a decision to approve or not to approve the preparation and notify the applicant in writing. Where it decides not to approve, it shall state the reasons.\nUnder special circumstances, where the banking regulatory authority of the State Council is unable to complete the examination and make a decision to approve or not to approve the preparation within the time limit prescribed in the preceding paragraph, it may appropriately extend the examination period and notify the applicant in writing, but the extension may not exceed 3 months.\nThe applicant shall, on the strength of the document approving the preparation, obtain the application form for opening from the banking regulatory authority of the place in which the proposed institution is to be located."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment and Registration"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The applicant shall complete the preparation work within 6 months from the date of approval of the preparation. Where the preparation work is not completed within the prescribed time limit, the applicant shall state the reasons and may, with the approval of the banking regulatory authority of the place in which the proposed institution is to be located, extend the period by 3 months. Where the preparation work is still not completed within the extended period, the decision approving the preparation made by the banking regulatory authority of the State Council shall automatically become void."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment and Registration"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Where the preparation work is completed and passes acceptance inspection, the applicant shall submit the completed application form for opening, together with the following materials, to the banking regulatory authority of the place in which the proposed institution is to be located:\n(a) the list and curricula vitae of the principal persons in charge of the proposed institution;\n(b) the letter of authorisation in respect of the persons proposed to be appointed as the principal persons in charge of the institution;\n(c) the capital verification certificate issued by a statutory capital verification institution;\n(d) materials on security measures and on other business-related facilities;\n(e) the guarantee letter of the foreign bank establishing a branch undertaking responsibility for the taxes and debts of that branch;\n(f) other materials prescribed by the banking regulatory authority of the State Council.\nThe banking regulatory authority of the place in which the proposed institution is to be located shall promptly submit the application materials, together with its examination opinions, to the banking regulatory authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment and Registration"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The banking regulatory authority of the State Council shall, within 2 months from the date of receipt of the complete application materials for opening, make a decision to approve or not to approve the opening and notify the applicant in writing. Where it decides to approve, it shall issue a financial licence; where it decides not to approve, it shall state the reasons."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment and Registration"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "An operating institution of a foreign-funded bank established with approval shall, on the strength of the financial licence, undergo registration with the market supervision and administration department and obtain a business licence."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment and Registration"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "To establish a representative office of a foreign bank, the following application materials shall be submitted to the banking regulatory authority of the place in which the proposed representative office is to be located:\n(a) a written application, stating the name and location of the proposed representative office;\n(b) a feasibility study report;\n(c) the articles of association of the applicant;\n(d) the organisational chart, the list of major shareholders, and the list of overseas branches and affiliated enterprises of the applicant and of the group to which it belongs;\n(e) the annual reports of the applicant for the most recent 3 years;\n(f) the anti-money-laundering system of the applicant;\n(g) copies of the identity document and the academic qualification certificate of the person proposed to be appointed as the chief representative of the representative office, his or her curriculum vitae, and a statement as to whether the proposed appointee has any adverse record;\n(h) the letter of authorisation in respect of the person proposed to be appointed as the chief representative of the representative office;\n(i) copies of the business licence or of the document permitting the conduct of financial business issued by the financial regulatory authority of the country or region in which the applicant is located, together with its written opinions on the application;\n(j) other materials prescribed by the banking regulatory authority of the State Council.\nThe banking regulatory authority of the place in which the proposed representative office is to be located shall promptly submit the application materials, together with its examination opinions, to the banking regulatory authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment and Registration"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The banking regulatory authority of the State Council shall, within 6 months from the date of receipt of the complete application materials for the establishment of a representative office of a foreign bank, make a decision to approve or not to approve the establishment and notify the applicant in writing. Where it decides not to approve, it shall state the reasons."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment and Registration"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "A representative office of a foreign bank established with approval shall, on the strength of the approving document, undergo registration with the market supervision and administration department and obtain the registration certificate for a permanent representative office of a foreign enterprise."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment and Registration"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The materials listed in Article 14, Article 17 and Article 20 of these Regulations, other than annual reports, shall be accompanied by a Chinese translation where they are written in a foreign language."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment and Registration"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "In accordance with the principles of lawfulness, prudence and continuity of operation, a foreign bank may, with the approval of the banking regulatory authority of the State Council, convert its branch established within the territory of the People's Republic of China into a wholly foreign-funded bank with its sole capital contribution. The applicant shall file an application for the establishment of a wholly foreign-funded bank in accordance with the approval conditions, procedures and application materials prescribed by the banking regulatory authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment and Registration"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "A foreign bank may simultaneously establish a wholly foreign-funded bank and a foreign bank branch within the territory of the People's Republic of China, or simultaneously establish a Sino-foreign equity joint bank and a foreign bank branch."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment and Registration"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The qualifications of the directors, senior managers and chief representatives of foreign-funded banks for holding office shall conform to the conditions prescribed by the banking regulatory authority of the State Council and shall be subject to verification by the banking regulatory authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment and Registration"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where a foreign-funded bank is in any of the following circumstances, it shall obtain the approval of the banking regulatory authority of the State Council, submit application materials as required, and undergo the relevant registration with the market supervision and administration department in accordance with law:\n(a) changing its registered capital or operating funds;\n(b) changing the name of the institution, its business premises or its office premises;\n(c) adjusting its scope of business;\n(d) changing its shareholders or adjusting the shareholding ratios of its shareholders;\n(e) amending its articles of association;\n(f) other circumstances prescribed by the banking regulatory authority of the State Council.\nWhere a foreign-funded bank replaces its directors, senior managers or chief representative, it shall report to the banking regulatory authority of the State Council for verification of their qualifications for holding office."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment and Registration"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Where a wholly foreign-funded bank or a Sino-foreign equity joint bank changes its shareholders, the shareholders after the change shall conform to the conditions on shareholders prescribed in Article 9, Article 10 or Article 11 of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment and Registration"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "A wholly foreign-funded bank or a Sino-foreign equity joint bank may, in accordance with the scope of business approved by the banking regulatory authority of the State Council, engage in some or all of the following foreign exchange business and RMB business:\n(a) accepting public deposits;\n(b) granting short-term, medium-term and long-term loans;\n(c) accepting and discounting bills;\n(d) acting as agent for the issue, payment and underwriting of government bonds;\n(e) buying and selling government bonds and financial bonds, and buying and selling other foreign-currency marketable securities other than shares;\n(f) providing letter of credit services and guarantees;\n(g) handling domestic and foreign settlement;\n(h) buying and selling foreign exchange and acting as agent for such buying and selling;\n(i) acting as agent for the collection and payment of funds and acting as agent for insurance business;\n(j) engaging in interbank lending;\n(k) engaging in bank card business;\n(l) providing safe deposit box services;\n(m) providing credit investigation and consultancy services;\n(n) other business approved by the banking regulatory authority of the State Council.\nA wholly foreign-funded bank or a Sino-foreign equity joint bank may, with the approval of the People's Bank of China, engage in the business of settlement of foreign exchange and sale of foreign exchange."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Scope of Business"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "The branches of a wholly foreign-funded bank or a Sino-foreign equity joint bank shall conduct business within the scope of authorisation of the head office, and their civil liability shall be borne by the head office."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Scope of Business"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "A branch of a foreign bank may, in accordance with the scope of business approved by the banking regulatory authority of the State Council, engage in some or all of the following foreign exchange business and RMB business with customers other than citizens within the territory of China:\n(a) accepting public deposits;\n(b) granting short-term, medium-term and long-term loans;\n(c) accepting and discounting bills;\n(d) acting as agent for the issue, payment and underwriting of government bonds;\n(e) buying and selling government bonds and financial bonds, and buying and selling other foreign-currency marketable securities other than shares;\n(f) providing letter of credit services and guarantees;\n(g) handling domestic and foreign settlement;\n(h) buying and selling foreign exchange and acting as agent for such buying and selling;\n(i) acting as agent for the collection and payment of funds and acting as agent for insurance business;\n(j) engaging in interbank lending;\n(k) providing safe deposit box services;\n(l) providing credit investigation and consultancy services;\n(m) other business approved by the banking regulatory authority of the State Council.\nA branch of a foreign bank may accept time deposits of not less than RMB 500,000 per deposit from citizens within the territory of China.\nA branch of a foreign bank may, with the approval of the People's Bank of China, engage in the business of settlement of foreign exchange and sale of foreign exchange."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Scope of Business"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The civil liability of a branch of a foreign bank and of its sub-branches shall be borne by its head office."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III Scope of Business"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "A representative office of a foreign bank may engage in non-operating activities such as liaison, market investigation and consultancy related to the business of the foreign bank it represents.\nThe civil liability arising from the acts of a representative office of a foreign bank shall be borne by the foreign bank it represents."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter III Scope of Business"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Where an operating institution of a foreign-funded bank engages in RMB business within the scope of business prescribed in Article 29 or Article 31 of these Regulations, it shall meet the prudential requirements prescribed by the banking regulatory authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter III Scope of Business"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "An operating institution of a foreign-funded bank shall, in accordance with the relevant provisions, formulate its own business rules, establish and improve its risk management and internal control systems, and comply with them."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "An operating institution of a foreign-funded bank shall abide by the unified accounting system of the State and the provisions of the banking regulatory authority of the State Council on information disclosure."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Where an operating institution of a foreign-funded bank borrows foreign debt, it shall do so in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "An operating institution of a foreign-funded bank shall determine the interest rates on deposits and loans and the rates of various service charges in accordance with the relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "An operating institution of a foreign-funded bank engaging in deposit business shall deposit reserve funds in accordance with the provisions of the People's Bank of China."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "A wholly foreign-funded bank or a Sino-foreign equity joint bank shall abide by the provisions of the Law of the People's Republic of China on Commercial Banks on the administration of asset-liability ratios. Where a wholly foreign-funded bank converted from a branch of a foreign bank with the sole capital contribution of its head office, or a wholly foreign-funded bank or Sino-foreign equity joint bank established before the entry into force of these Regulations, fails to meet the prescribed asset-liability ratios, it shall meet the prescribed requirements within the time limit prescribed by the banking regulatory authority of the State Council.\nThe banking regulatory authority of the State Council may require a wholly foreign-funded bank or a Sino-foreign equity joint bank with relatively high risks and relatively weak risk management capacity to raise its capital adequacy ratio."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "An operating institution of a foreign-funded bank shall set aside provisions for doubtful accounts in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "A wholly foreign-funded bank or a Sino-foreign equity joint bank shall abide by the provisions of the banking regulatory authority of the State Council on corporate governance."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "A wholly foreign-funded bank or a Sino-foreign equity joint bank shall abide by the provisions of the banking regulatory authority of the State Council on related-party transactions."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "A branch of a foreign bank shall hold interest-earning assets of a certain proportion in accordance with the provisions of the banking regulatory authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "The ratio of the RMB share of the sum of the operating funds and provisions of a branch of a foreign bank to its RMB risk assets may not be less than 8 per cent.\nA branch of a foreign bank whose capital adequacy ratio continuously complies with the provisions of the financial regulatory authority of the country or region in which it is located and of the banking regulatory authority of the State Council shall not be subject to the restriction of the preceding paragraph.\nThe banking regulatory authority of the State Council may require a branch of a foreign bank with relatively high risks and relatively weak risk management capacity to raise the ratio prescribed in the first paragraph of this Article."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "A branch of a foreign bank shall ensure the liquidity of its assets. The ratio of the balance of its liquid assets to the balance of its liquid liabilities may not be less than 25 per cent."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "The balance of the domestic assets in both RMB and foreign currency of a branch of a foreign bank may not be less than the balance of its domestic liabilities in both RMB and foreign currency."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where a foreign bank establishes 2 or more branches within the territory of the People's Republic of China, it shall authorise 1 of them to exercise unified management over the other branches.\nThe banking regulatory authority of the State Council shall exercise consolidated supervision over the branches established by a foreign bank within the territory of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "An operating institution of a foreign-funded bank shall, in accordance with the relevant provisions of the banking regulatory authority of the State Council, report to the banking regulatory authority of the place in which it is located on cross-border large-value capital flows and asset transfers."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "The banking regulatory authority of the State Council may, in light of the risk profile of an operating institution of a foreign-funded bank, take special supervisory measures such as ordering the suspension of part of its business or ordering the replacement of its senior managers in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "An operating institution of a foreign-funded bank shall engage an accounting firm established in accordance with law within the territory of the People's Republic of China to audit its financial and accounting reports, and shall report to the banking regulatory authority of the place in which it is located. Where it dismisses the accounting firm, it shall state the reasons."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "An operating institution of a foreign-funded bank shall, in accordance with the provisions, submit financial and accounting reports, statements and relevant materials to the banking regulatory authority.\nA representative office of a foreign bank shall, in accordance with the provisions, submit materials to the banking regulatory authority."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "A foreign-funded bank shall accept the supervision and inspection conducted by the banking regulatory authority in accordance with law, and may not refuse or obstruct such supervision and inspection."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "A wholly foreign-funded bank or a Sino-foreign equity joint bank shall put in place an independent internal control system, risk management system, financial and accounting system, and computer information management system."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "The chairman of the board of directors and the senior managers of a wholly foreign-funded bank or a Sino-foreign equity joint bank established within the territory of the People's Republic of China by a foreign bank, and the senior managers of a branch of a foreign bank, may not hold posts concurrently in one another's institutions."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Transactions between a wholly foreign-funded bank or a Sino-foreign equity joint bank established within the territory of the People's Republic of China by a foreign bank and a branch of that foreign bank must conform to commercial principles, and the terms of the transactions may not be more favourable than those of transactions with non-related parties. A foreign bank shall provide full guarantee for capital transactions between the wholly foreign-funded bank it establishes within the territory of the People's Republic of China and its branches."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "A representative office of a foreign bank and its staff may not engage in operating activities in any form."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where an operating institution of a foreign-funded bank voluntarily terminates its business activities, it shall, 30 days before the termination of its business activities, file a written application with the banking regulatory authority of the State Council, and shall, upon examination and approval, be dissolved or closed and undergo liquidation."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter V Termination and Liquidation"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where an operating institution of a foreign-funded bank has already encountered or may encounter a credit crisis that seriously affects the lawful rights and interests of depositors and other customers, the banking regulatory authority of the State Council may, in accordance with law, take over the operating institution of the foreign-funded bank or promote the reorganisation of the institution."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter V Termination and Liquidation"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Where an operating institution of a foreign-funded bank terminates as a result of dissolution, closure, revocation in accordance with law or declaration of bankruptcy, the specific matters of its liquidation shall be handled in accordance with the provisions of the relevant laws and regulations of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter V Termination and Liquidation"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Upon completion of the liquidation of an operating institution of a foreign-funded bank, it shall, within the statutory time limit, undergo deregistration with the original registration authority."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter V Termination and Liquidation"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Where a representative office of a foreign bank voluntarily terminates its activities, it shall be closed with the approval of the banking regulatory authority of the State Council, and shall, within the statutory time limit, undergo deregistration with the original registration authority."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter V Termination and Liquidation"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Where a foreign-funded bank is established without examination and approval by the banking regulatory authority of the State Council, or the business activities of a banking financial institution are unlawfully engaged in, the banking regulatory authority of the State Council shall ban it, and within 5 years from the date of the ban the banking regulatory authority of the State Council shall not accept any application of that party for the establishment of a foreign-funded bank; where a crime is constituted, criminal liability shall be pursued in accordance with law; where a crime is not constituted, the banking regulatory authority of the State Council shall confiscate the illegal gains and, where the illegal gains are RMB 500,000 or more, concurrently impose a fine of not less than 1 time but not more than 5 times the illegal gains; where there are no illegal gains or the illegal gains are less than RMB 500,000, impose a fine of not less than RMB 500,000 but not more than RMB 2 million."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Where an operating institution of a foreign-funded bank is in any of the following circumstances, the banking regulatory authority of the State Council shall order it to make correction and confiscate the illegal gains and, where the illegal gains are RMB 500,000 or more, concurrently impose a fine of not less than 1 time but not more than 5 times the illegal gains; where there are no illegal gains or the illegal gains are less than RMB 500,000, impose a fine of not less than RMB 500,000 but not more than RMB 2 million; where the circumstances are especially serious or correction is not made within the time limit, it may order suspension of business for rectification or revoke its financial licence; where a crime is constituted, criminal liability shall be pursued in accordance with law:\n(a) establishing a branch without approval;\n(b) changing or terminating without approval;\n(c) engaging in business activities not approved in violation of the provisions;\n(d) raising or lowering deposit interest rates or loan interest rates in violation of the provisions."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Where a foreign-funded bank is in any of the following circumstances, the banking regulatory authority of the State Council shall order it to make correction and impose a fine of not less than RMB 200,000 but not more than RMB 500,000; where the circumstances are especially serious or correction is not made within the time limit, it may order suspension of business for rectification, revoke its financial licence or close its representative office; where a crime is constituted, criminal liability shall be pursued in accordance with law:\n(a) failing to make information disclosure in accordance with the relevant provisions;\n(b) refusing or obstructing the supervision and inspection conducted by the banking regulatory authority in accordance with law;\n(c) providing false financial and accounting reports, statements or relevant materials, or concealing important facts therein;\n(d) concealing or destroying documents, certificates, account books, electronic data or other materials required for supervision and inspection;\n(e) appointing directors, senior managers or chief representatives without verification of their qualifications for holding office;\n(f) refusing to implement the special supervisory measures prescribed in Article 50 of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Where an operating institution of a foreign-funded bank violates the relevant provisions of these Regulations by failing to submit financial and accounting reports, statements or relevant materials within the time limit, or by failing to formulate the relevant business rules or establish and improve the relevant management systems in accordance with the provisions, the banking regulatory authority of the State Council shall order it to make correction within a time limit; where correction is not made within the time limit, a fine of not less than RMB 100,000 but not more than RMB 300,000 shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Where an operating institution of a foreign-funded bank engages in business in violation of the relevant provisions of Chapter IV of these Regulations or seriously violates other prudential operating rules, the banking regulatory authority of the State Council shall order it to make correction and impose a fine of not less than RMB 200,000 but not more than RMB 500,000; where the circumstances are especially serious or correction is not made within the time limit, it may order suspension of business for rectification or revoke its financial licence."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "Where an operating institution of a foreign-funded bank violates the provisions of these Regulations, the banking regulatory authority of the State Council may, in addition to imposing penalties in accordance with Article 63 to Article 67 of these Regulations, take the following measures as appropriate to the different circumstances:\n(a) ordering the operating institution of the foreign-funded bank to replace the directors, senior managers and other persons directly responsible;\n(b) where the acts of the operating institution of the foreign-funded bank do not yet constitute a crime, giving a warning to the directors, senior managers and other persons directly responsible and concurrently imposing a fine of not less than RMB 50,000 but not more than RMB 500,000;\n(c) disqualifying the directors and senior managers directly responsible from holding office within the territory of the People's Republic of China for a specified period or for life, and prohibiting the directors, senior managers and other persons directly responsible from engaging in banking work within the territory of the People's Republic of China for a specified period or for life."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "Where a representative office of a foreign bank violates the provisions of these Regulations by engaging in operating activities, the banking regulatory authority of the State Council shall order it to make correction, give a warning and confiscate the illegal gains and, where the illegal gains are RMB 500,000 or more, concurrently impose a fine of not less than 1 time but not more than 5 times the illegal gains; where there are no illegal gains or the illegal gains are less than RMB 500,000, impose a fine of not less than RMB 500,000 but not more than RMB 2 million; where the circumstances are serious, the banking regulatory authority of the State Council shall close it; where a crime is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "Where a representative office of a foreign bank is in any of the following circumstances, the banking regulatory authority of the State Council shall order it to make correction, give a warning and concurrently impose a fine of not less than RMB 100,000 but not more than RMB 300,000; where the circumstances are serious, it shall disqualify the chief representative from holding office within the territory of the People's Republic of China for a specified period or require the foreign bank it represents to replace the chief representative; where the circumstances are especially serious, the banking regulatory authority of the State Council shall close it:\n(a) changing its office premises without approval;\n(b) failing to submit materials to the banking regulatory authority of the State Council in accordance with the provisions;\n(c) violating these Regulations or other provisions of the banking regulatory authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "Where a foreign-funded bank violates other laws and regulations of the People's Republic of China, the competent authorities concerned shall deal with the matter in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "Banking institutions established in the mainland by financial institutions of the Hong Kong Special Administrative Region, the Macao Special Administrative Region and the Taiwan region of China shall be governed by these Regulations mutatis mutandis. Where the State Council provides otherwise, such provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "These Regulations shall come into force as of 11 December 2006. The Regulations of the People's Republic of China on the Administration of Foreign-funded Financial Institutions promulgated by the State Council on 20 December 2001 shall be repealed simultaneously."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-REG-0575'] = {
     "lawId": "CN-REG-0575",
     "sourceLang": "zh",
@@ -23736,6 +34725,1020 @@
         },
         "chapter": {
           "en": "Chapter VIII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0576'] = {
+    "lawId": "CN-REG-0576",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 85 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated for the purpose of strengthening radio administration, maintaining the order of radio waves in the air, effectively developing and utilising the radio frequency spectrum resources and ensuring the normal conduct of various radio services."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "These Regulations shall be observed in using radio frequencies, establishing and using radio stations, researching, developing, producing, importing, selling and repairing radio transmitting equipment, and using non-radio equipment radiating radio waves within the territory of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The radio frequency spectrum resources belong to the State. The State applies the principles of unified planning, rational development and paid use to the radio frequency spectrum resources."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Radio administration shall be carried out under the unified leadership of the State Council and the Central Military Commission, with administration by division of labour and responsibility at different levels, and shall implement the policy of scientific management, protecting resources, ensuring security and promoting development."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The State encourages and supports scientific and technological research on radio frequency spectrum resources and the promotion and application of advanced technologies, so as to improve the efficiency of utilisation of radio frequency spectrum resources."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "No unit or individual may use radio frequencies without authorisation, cause harmful interference to radio services carried out in accordance with law, or use radio stations to engage in criminal activities."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Where necessary for safeguarding national security, guaranteeing major national tasks or handling major emergencies, the State may impose radio control."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The national radio administration institution is responsible for radio administration nationwide and shall, in accordance with its duties, draft the guidelines and policies for radio administration, administer radio frequencies and radio stations in a unified manner, be responsible for radio monitoring, investigation and handling of interference and foreign-related radio administration, and coordinate and handle matters relating to radio administration."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Administrative Bodies and Their Duties"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The electromagnetic spectrum administration institution of the Chinese People's Liberation Army is responsible for radio administration of the military system and shall participate in drafting the State's guidelines and policies on radio administration."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Administrative Bodies and Their Duties"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The radio administration institutions of provinces, autonomous regions and municipalities directly under the Central Government shall, under the leadership of the national radio administration institution and the people's governments of the provinces, autonomous regions or municipalities directly under the Central Government, be responsible for radio administration within their respective administrative areas other than the military system, grant radio frequency use licences in accordance with the examination and approval authority, examine the construction layout and station sites of radio stations, issue radio station licences and radio station identification codes (including call signs, the same below), be responsible for radio monitoring and investigation and handling of interference within their respective administrative areas, and coordinate and handle matters relating to radio administration within their respective administrative areas.\nThe radio administration institutions of provinces and autonomous regions may, as required by work, establish dispatched agencies within their respective administrative areas. Dispatched agencies shall perform their duties within the scope of authorisation of the radio administration institutions of the provinces or autonomous regions."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Administrative Bodies and Their Duties"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The military and civilian sides shall establish a coordination mechanism for radio administration, jointly allocate radio frequencies and consult on and handle matters relating to radio administration involving both the military system and the non-military system. Major issues in radio administration shall be reported to the State Council and the Central Military Commission for decision."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Administrative Bodies and Their Duties"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The radio administration institutions of the relevant departments of the State Council shall, under the operational guidance of the national radio administration institution, be responsible for radio administration of their respective systems (industries), implement the State's guidelines, policies, laws, administrative regulations and rules on radio administration, and, in accordance with the provisions of these Regulations and the departmental functions and powers prescribed by the State Council, administer the special aeronautical and maritime radio frequencies allocated by the national radio administration institution for use by their respective systems (industries), plan the construction layout and station sites of radio stations of their respective systems (industries), and issue licences for standard radio stations and radio station identification codes."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Administrative Bodies and Their Duties"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The national radio administration institution is responsible for formulating the provisions on the allocation of radio frequencies and publishing them to the public.\nIn formulating the provisions on the allocation of radio frequencies, the opinions of the relevant departments of the State Council and the relevant units of the armed forces shall be solicited, and full account shall be taken of national security and the needs of economic and social and scientific and technological development as well as the effective utilisation of spectrum resources."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter III Frequency Administration"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "A licence shall be obtained to use radio frequencies, except for the following frequencies:\n(a) frequencies used by amateur radio stations, public walkie-talkies and standard radio stations;\n(b) international safety and distress systems and international fixed frequencies used for aeronautical and maritime mobile services and radio navigation services;\n(c) frequencies used by micro-power short-range radio transmitting equipment prescribed by the national radio administration institution."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter III Frequency Administration"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "To obtain a radio frequency use licence, the following conditions shall be met:\n(a) the radio frequency applied for conforms to the provisions on the allocation and use of radio frequencies and has a clear and specific purpose;\n(b) the technical scheme for using the radio frequency is feasible;\n(c) there are the corresponding professional technical personnel;\n(d) no harmful interference will be caused to other radio frequencies used in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Frequency Administration"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The radio administration institution shall complete the examination within 20 working days from the date of acceptance of the application for a radio frequency use licence and, in accordance with the conditions provided for in Article 15 of these Regulations and taking comprehensive account of national security needs and the available frequencies, make a decision to grant or not to grant the licence. Where the licence is granted, a radio frequency use licence shall be issued; where the licence is not granted, the applicant shall be notified in writing with reasons stated.\nThe radio frequency use licence shall state the purpose, scope of use, frequency utilisation rate requirements and term of use of the radio frequency."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Frequency Administration"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The use licence for commercial radio frequencies such as frequencies used by terrestrial public mobile communications may be granted by way of invitation to bid or auction in accordance with the provisions of the relevant laws and administrative regulations.\nAfter determining the winning bidder or buyer by way of invitation to bid or auction, the radio administration institution shall make a decision to grant the licence and issue a radio frequency use licence to the winning bidder or buyer in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Frequency Administration"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Radio frequency use licences shall be granted by the national radio administration institution. Radio frequency use licences within the scope determined by the national radio administration institution shall be granted by the radio administration institutions of provinces, autonomous regions and municipalities directly under the Central Government.\nThe special maritime radio frequencies allocated by the national radio administration institution to the transport, fishery and ocean systems (industries) for use shall be licensed by the radio administration institutions of the provinces, autonomous regions or municipalities directly under the Central Government where they are located together with the relevant competent departments respectively; the special aeronautical radio frequencies allocated by the national radio administration institution to the civil aviation system for use shall be licensed by the competent civil aviation department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Frequency Administration"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The term of a radio frequency use licence may not exceed 10 years.\nWhere continued use is required upon expiry of the term of radio frequency use, an application for extension shall be submitted 30 working days before the expiry to the radio administration institution that made the licensing decision. The radio administration institution accepting the application shall examine it in accordance with Articles 15 and 16 of these Regulations and make a decision.\nWhere it is intended to terminate the use of a radio frequency before expiry of the term of radio frequency use, deregistration formalities shall be promptly completed with the radio administration institution that made the licensing decision."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Frequency Administration"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where the right to use a radio frequency is transferred, the transferee shall meet the conditions provided for in Article 15 of these Regulations and submit the transfer agreement of both parties, and the transfer shall be submitted to the radio administration institution for approval in accordance with the procedure provided for in Article 16 of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Frequency Administration"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Radio frequency occupation fees shall be paid for the use of radio frequencies in accordance with the relevant provisions of the State.\nThe items and standards of radio frequency occupation fees shall be formulated by the finance department and the pricing department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Frequency Administration"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Satellite radio frequencies planned by the International Telecommunication Union for use by China in accordance with international rules shall be allocated in a unified manner by the national radio administration institution to the user units.\nTo apply for the use of satellite radio frequencies not planned by the International Telecommunication Union, an application shall be submitted in a unified manner through the national radio administration institution. The national radio administration institution shall promptly organise the relevant units to carry out the necessary domestic coordination and, in accordance with international rules, carry out international notification, coordination and registration."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Frequency Administration"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where the establishment of a satellite communication network requires the use of satellite radio frequencies, in addition to meeting the conditions provided for in Article 15 of these Regulations, information on the space radio stations to be used, satellite orbital positions and satellite coverage shall also be provided, as well as supporting materials proving that domestic coordination has been completed and the necessary international coordination has been carried out."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Frequency Administration"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "To use satellite radio frequencies of other countries or regions to carry out business, the provisions of China on the administration of satellite radio frequencies shall be complied with, and coordination with the satellite radio frequencies notified by China shall be completed."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Frequency Administration"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "In constructing a satellite project, a feasibility demonstration of the satellite radio frequencies to be used shall be carried out at the project planning stage; for the construction of a satellite project that must be approved by the State Council and the Central Military Commission, the satellite radio frequencies to be used shall be determined through consultation with the national radio administration institution at the project planning stage."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Frequency Administration"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Except in the case of force majeure, where a radio frequency is not used for more than two years after the radio frequency use licence is obtained, or where the utilisation rate fails to meet the requirements prescribed in the licence, the radio administration institution that made the licensing decision has the power to revoke the radio frequency use licence and recover the radio frequency."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Frequency Administration"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "To establish or use a radio station, an application shall be submitted to the radio administration institution for a radio station licence, except for the establishment or use of the following radio stations:\n(a) terrestrial public mobile communication terminals;\n(b) radio stations for reception only;\n(c) micro-power short-range radio stations prescribed by the national radio administration institution."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Administration of Radio Stations"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Except for amateur radio stations provided for in Article 29 of these Regulations, the establishment and use of radio stations shall meet the following conditions:\n(a) there is an available radio frequency;\n(b) the radio transmitting equipment used has obtained a type approval certificate for radio transmitting equipment in accordance with law and conforms to the product quality requirements prescribed by the State;\n(c) there are personnel familiar with radio administration provisions and possessing the relevant operational skills;\n(d) there is a clear and specific purpose and the technical scheme is feasible;\n(e) there is an electromagnetic environment capable of ensuring the normal use of the radio station, and the radio station to be established will not cause harmful interference to other radio stations used in accordance with law.\nTo apply for the establishment and use of a space radio station, in addition to meeting the conditions provided for in the preceding paragraph, there shall also be available satellite radio frequency and satellite orbital resources."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Administration of Radio Stations"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "To apply for the establishment and use of an amateur radio station, the applicant shall be familiar with radio administration provisions and possess the corresponding operational and technical ability, and the radio transmitting equipment used shall conform to national standards and the relevant provisions of the State on radio administration."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Administration of Radio Stations"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "The establishment and use of radio stations with fixed station sites shall be licensed by the radio administration institution of the province, autonomous region or municipality directly under the Central Government where the radio station is located. The establishment and use of radio stations without fixed station sites shall be licensed by the radio administration institution of the province, autonomous region or municipality directly under the Central Government where the applicant is domiciled.\nThe establishment and use of space radio stations, satellite tracking, telemetry and command (navigation) stations, satellite gateway stations, satellite international private line earth stations, short-wave radio stations of 15 watts or more and other important radio stations involving national sovereignty or security shall be licensed by the national radio administration institution."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Administration of Radio Stations"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The radio administration institution shall complete the examination within 30 working days from the date of acceptance of the application and, in accordance with the conditions provided for in Articles 28 and 29 of these Regulations, make a decision to grant or not to grant the licence. Where the licence is granted, a radio station licence shall be issued and, where a radio station identification code is required, the radio station identification code shall be issued at the same time; where the licence is not granted, the applicant shall be notified in writing with reasons stated.\nWhere a radio station needs to change or add a radio station identification code, the code shall be issued by the radio administration institution."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Administration of Radio Stations"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The radio station licence shall state the station site, frequency used, transmitting power, period of validity and requirements for use of the radio station.\nThe format of radio station licences shall be uniformly prescribed by the national radio administration institution."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Administration of Radio Stations"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Where the radio frequency used by a radio station requires a radio frequency use licence, the period of validity of its radio station licence may not exceed the term prescribed in the radio frequency use licence; where a radio frequency use licence is not required in accordance with Article 14 of these Regulations, the period of validity of its radio station licence may not exceed five years.\nWhere continued use of a radio station is required upon expiry of the period of validity of the radio station licence, an application shall be submitted 30 working days before the expiry to the radio administration institution that made the licensing decision for replacement of the radio station licence. The radio administration institution accepting the application shall make a decision in accordance with Article 31 of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Administration of Radio Stations"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The national radio administration institution shall apply to the International Telecommunication Union in a unified manner for radio station identification code series and shall compile and allocate radio station identification codes."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Administration of Radio Stations"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The site selection for the construction of radio stations with fixed station sites shall conform to the requirements of urban and rural planning and avoid buildings, facilities, etc. that affect the performance of their functions. Where a local people's government formulates or modifies urban and rural plans and arranges construction projects that may affect the performance of the functions of large radio stations, it shall take into account the needs of their functioning and solicit the opinions of the local radio administration institution and the electromagnetic spectrum administration institution of the armed forces.\nFor the establishment of large radio stations and terrestrial public mobile communication base stations, the layout plan of their station sites shall conform to the requirements of resource sharing and electromagnetic environmental protection."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Administration of Radio Stations"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The establishment and use of standard radio stations on ships, aircraft and railway locomotives (including multiple-unit trains, the same below) shall conform to the relevant provisions of the State, and radio station licences shall be issued by the radio administration institutions of the relevant departments of the State Council; where a radio station identification code is required, the code shall be issued at the same time. The relevant departments of the State Council shall periodically notify the national radio administration institution of the issuance of licences for standard radio stations and radio station identification codes.\nThe measures for the administration of the establishment and use of non-standard radio stations on ships, aircraft and railway locomotives shall be formulated by the national radio administration institution together with the relevant departments of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Administration of Radio Stations"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "In the event of an emergency endangering national security, public security or the safety of life and property, or for the special needs of guaranteeing major social activities, a radio station may be temporarily established and used without approval, provided that the radio administration institution of the place where the radio station is located shall be reported to in a timely manner and the station shall be closed promptly after the emergency is eliminated or the major social activity ends."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Administration of Radio Stations"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "A radio station shall be established and used in accordance with the licensed matters and conditions prescribed in the radio station licence; where the licensed matters are changed, change formalities shall be completed with the radio administration institution that made the licensing decision.\nWhere a radio station ceases to be used, deregistration formalities shall be promptly completed with the radio administration institution that made the licensing decision, the radio station licence shall be returned, and the radio station and its antennas and other ancillary equipment shall be dismantled."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Administration of Radio Stations"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Units or individuals using radio stations shall carry out periodic maintenance of the radio stations to ensure that their performance indicators conform to national standards and the relevant provisions of the State on radio administration, and shall avoid causing harmful interference to other radio stations established and used in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter IV Administration of Radio Stations"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Units or individuals using radio stations shall comply with the State provisions on environmental protection and take the necessary measures to prevent electromagnetic radiation generated by radio wave transmission from polluting the environment."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter IV Administration of Radio Stations"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Units or individuals using radio stations may not intentionally receive or transmit radio signals outside the licensed matters of the radio station licence, nor may they disseminate, disclose or make use of information received unintentionally.\nAmateur radio stations may only be used for mutual communication, technical research and self-training and for receiving and transmitting signals within the dedicated frequency bands of the amateur service or satellite amateur service, except for participation in emergency handling of major natural disasters and other emergencies."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IV Administration of Radio Stations"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The radio frequencies used in researching and developing radio transmitting equipment shall conform to the State provisions on the allocation of radio frequencies."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Radio Transmitting Equipment"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Radio transmitting equipment produced or imported for sale or use in China shall conform to the laws and regulations on product quality, national standards and the relevant provisions of the State on radio administration."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Radio Transmitting Equipment"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Except for micro-power short-range radio transmitting equipment, an application shall be submitted to the national radio administration institution for type approval for other radio transmitting equipment produced or imported for sale or use in China. The catalogue of radio transmitting equipment subject to type approval shall be published by the national radio administration institution.\nRadio transmitting equipment subject to type approval that is produced or imported shall, in addition to conforming to the provisions of Article 43 of these Regulations, conform to the technical indicators approved in the type approval certificate for radio transmitting equipment, and the type approval code shall be marked on the equipment."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Radio Transmitting Equipment"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "To obtain type approval for radio transmitting equipment, the following conditions shall be met:\n(a) the applicant has the corresponding production capacity, technical strength and quality assurance system;\n(b) the technical indicators of the radio transmitting equipment such as operating frequency and power conform to national standards and the relevant provisions of the State on radio administration."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Radio Transmitting Equipment"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "The national radio administration institution shall, in accordance with law, examine whether the radio transmitting equipment applying for type approval meets the conditions provided for in Article 45 of these Regulations and shall, within 30 working days from the date of acceptance of the application, make a decision to approve or not to approve. Where approval is granted, a type approval certificate for radio transmitting equipment shall be issued; where approval is not granted, the applicant shall be notified in writing with reasons stated.\nThe national radio administration institution shall periodically publish to the public the circumstances of type approval of radio transmitting equipment."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Radio Transmitting Equipment"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "To import radio transmitting equipment subject to type approval in accordance with Article 44 of these Regulations, the consignee of the imported goods, the person carrying radio transmitting equipment into the territory and the recipient of posted radio transmitting equipment shall take the initiative to declare to the customs and go through the customs clearance formalities on the strength of the type approval certificate for radio transmitting equipment.\nWhere radio transmitting equipment subject to type approval in accordance with Article 44 of these Regulations but without type approval needs to be temporarily brought into the territory for activities such as sports competitions and scientific experiments, approval by the radio administration institution shall be obtained and the customs clearance formalities shall be gone through on the strength of the approval document."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Radio Transmitting Equipment"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "To sell radio transmitting equipment subject to type approval in accordance with Article 44 of these Regulations, filing of the sale shall be made with the radio administration institution of the province, autonomous region or municipality directly under the Central Government. Radio transmitting equipment not marked with the type approval code in accordance with the provisions of these Regulations may not be sold."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Radio Transmitting Equipment"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "In repairing radio transmitting equipment, the technical indicators approved in the type approval certificate for radio transmitting equipment may not be altered."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Radio Transmitting Equipment"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "In researching, developing, producing, selling and repairing high-power radio transmitting equipment, measures shall be taken to effectively suppress radio wave transmission and no harmful interference may be caused to radio stations established and used in accordance with law. To carry out actual transmission tests, an application shall be submitted to the radio administration institution of the province, autonomous region or municipality directly under the Central Government for the formalities of temporary establishment and use of a radio station in accordance with Article 30 of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Radio Transmitting Equipment"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Foreign-related matters of radio frequency coordination, as well as harmful interference between stations within China and stations abroad, shall be coordinated and handled by the national radio administration institution together with the relevant units and the relevant international organisations, countries or regions.\nWhere materials relating to radio administration need to be provided to the International Telecommunication Union or other countries or regions, the national radio administration institution shall handle the matter in a unified manner."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VI Foreign-Related Radio Administration"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "The establishment and use of radio stations in border areas shall comply with the radio frequency coordination agreements concluded between China and the relevant countries or regions."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VI Foreign-Related Radio Administration"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where foreign leaders visiting China, foreign embassies and consulates in China and representative offices in China of international organisations enjoying diplomatic privileges and immunities need to establish and use radio stations, approval by the national radio administration institution shall be obtained through diplomatic channels.\nWhere, other than by diplomatic bag, foreign leaders visiting China, foreign embassies and consulates in China and representative offices in China of international organisations enjoying diplomatic privileges and immunities carry, post or otherwise transport into the territory radio transmitting equipment subject to type approval in accordance with Article 44 of these Regulations but without type approval, approval by the national radio administration institution shall be obtained through diplomatic channels before the customs clearance formalities are gone through.\nWhere other overseas organisations or individuals establish and use radio stations within the territory of China, they shall, in accordance with the relevant provisions of China, report through the relevant competent business departments to the radio administration institution for approval; where they carry, post or otherwise transport into the territory radio transmitting equipment subject to type approval in accordance with Article 44 of these Regulations but without type approval, they shall, in accordance with the relevant provisions of China and after reporting through the relevant competent business departments to the radio administration institution for approval, go through the entry formalities for radio transmitting equipment with the customs, except where approval is not required as prescribed by the national radio administration institution."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VI Foreign-Related Radio Administration"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Radio stations installed on foreign ships (including offshore platforms), aircraft, railway locomotives, vehicles, etc. and used within the territory of China shall comply with the laws and regulations of China and the international treaties concluded or acceded to by China."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VI Foreign-Related Radio Administration"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Overseas organisations or individuals may not carry out radio wave parameter testing or radio monitoring within the territory of China.\nNo unit or individual may provide overseas organisations or individuals with domestic radio wave parameter data involving national security."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VI Foreign-Related Radio Administration"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Radio administration institutions shall periodically inspect and test the use of radio frequencies and radio stations in use, so as to ensure the normal use of radio stations and maintain the normal order of radio waves."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VII Radio Monitoring and Maintenance of Radio Wave Order"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "The national radio monitoring centre and the radio monitoring stations of provinces, autonomous regions and municipalities directly under the Central Government, as radio administration technical institutions, shall, under the leadership of the national radio administration institution and the radio administration institutions of provinces, autonomous regions and municipalities directly under the Central Government respectively, monitor radio signals and locate sources of radio interference and radio stations established and used without a licence."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VII Radio Monitoring and Maintenance of Radio Wave Order"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "The radio monitoring stations of the relevant departments of the State Council are responsible for monitoring radio signals of their respective systems (industries)."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VII Radio Monitoring and Maintenance of Radio Wave Order"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "The radio wave radiation generated by industrial, scientific and medical equipment, electrified transport systems, high-voltage power lines and other electrical installations shall conform to national standards and the relevant provisions of the State on radio administration.\nIn formulating national standards and technical specifications for non-radio equipment radiating radio waves, the opinions of the national radio administration institution shall be solicited."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VII Radio Monitoring and Maintenance of Radio Wave Order"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Where non-radio equipment radiating radio waves causes harmful interference to radio stations established and used in accordance with law, the owner or user of the equipment shall take measures to eliminate it."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VII Radio Monitoring and Maintenance of Radio Wave Order"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where engineering facilities generating radio wave radiation determined by the radio administration institution may cause harmful interference to radio stations established and used in accordance with law, their site selection shall be determined through consultation between the competent department of urban and rural planning of the local people's government and the radio administration institution of the province, autonomous region or municipality directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VII Radio Monitoring and Maintenance of Radio Wave Order"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "For the construction of projects requiring special protection of the electromagnetic environment, such as radio astronomy observatories, meteorological radar stations, satellite tracking, telemetry and command (navigation) stations and airports, the project construction unit shall, before determining the project site, carry out electromagnetic compatibility analysis and demonstration of the site and solicit the opinions of the radio administration institution; where electromagnetic compatibility analysis and demonstration have not been carried out, or the opinions of the radio administration institution have not been solicited or adopted, the unit may not request the radio administration institution to eliminate harmful interference."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VII Radio Monitoring and Maintenance of Radio Wave Order"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "In the areas surrounding existing radio astronomy observatories, meteorological radar stations, satellite tracking, telemetry and command (navigation) stations and airports, no tall buildings or facilities blocking the transmission of radio signals may be newly built, and no facilities or equipment interfering with their normal use may be established or used. The radio administration institution shall, together with the competent department of urban and rural planning and other relevant departments, formulate specific protection measures and publish them to the public."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VII Radio Monitoring and Maintenance of Radio Wave Order"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "The State gives special protection to radio frequencies involving personal safety, such as radio navigation, distress and rescue and safety communications dedicated to ships, spacecraft, aircraft and railway locomotives. Where any radio transmitting equipment or non-radio equipment radiating radio waves causes harmful interference to them, the harmful interference shall be eliminated immediately."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VII Radio Monitoring and Maintenance of Radio Wave Order"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Where radio stations established and used in accordance with law suffer harmful interference, a complaint may be made to the radio administration institution. The radio administration institution accepting the complaint shall handle it promptly and inform the complainant of the handling.\nIn handling mutual harmful interference between radio frequencies, the principles shall be followed that out-of-band use gives way to in-band use, secondary services give way to primary services, later use gives way to earlier use, and unplanned use gives way to planned use."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter VII Radio Monitoring and Maintenance of Radio Wave Order"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "The radio administration institution may require the radio station causing harmful interference to take measures such as repairing radio transmitting equipment, calibrating the transmitting frequency or reducing power to eliminate the harmful interference; where the harmful interference cannot be eliminated, it may order the radio station causing the harmful interference to suspend transmission."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter VII Radio Monitoring and Maintenance of Radio Wave Order"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "For illegal radio transmitting activities, the radio administration institution may temporarily seize the radio transmitting equipment or seal up the radio station and, where necessary, may take technical blocking measures; where the radio administration institution discovers suspected criminal activities in radio monitoring or inspection work, it shall promptly notify the public security organ and cooperate in the investigation and handling."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter VII Radio Monitoring and Maintenance of Radio Wave Order"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "The radio administration institutions of provinces, autonomous regions and municipalities directly under the Central Government shall strengthen supervision and inspection of the production and sale of radio transmitting equipment and investigate and deal with unlawful acts in accordance with law. The product quality supervision departments and the administration departments for industry and commerce of local people's governments at or above the county level shall cooperate in supervision and inspection and promptly notify the radio administration institutions of unlawful production and sale of radio transmitting equipment discovered in the course of product quality supervision and market supervision and law enforcement."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter VII Radio Monitoring and Maintenance of Radio Wave Order"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "Staff of radio administration institutions and radio monitoring centres (stations) shall keep confidential the communication secrets and radio signals learned in the course of performing their duties."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter VII Radio Monitoring and Maintenance of Radio Wave Order"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "Whoever, in violation of the provisions of these Regulations, uses radio frequencies without authorisation or establishes or uses a radio station without authorisation shall be ordered to correct by the radio administration institution, have the equipment used in the unlawful activity and the unlawful gains confiscated, and may concurrently be fined not more than 50,000 yuan; where correction is refused, a fine of not less than 50,000 yuan but not more than 200,000 yuan shall be imposed concurrently; where a radio station is established or used without authorisation to engage in fraud or other unlawful activities and a crime is not constituted, a fine of not less than 200,000 yuan but not more than 500,000 yuan shall be imposed concurrently."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "Whoever, in violation of the provisions of these Regulations, transfers a radio frequency without authorisation shall be ordered to correct by the radio administration institution and have the unlawful gains confiscated; where correction is refused, a fine of not less than one time but not more than three times the unlawful gains shall be imposed concurrently; where there are no unlawful gains or the unlawful gains are less than 100,000 yuan, a fine of not less than 10,000 yuan but not more than 100,000 yuan shall be imposed; where serious consequences are caused, the radio frequency use licence shall be revoked."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "Whoever, in violation of the provisions of these Regulations, commits any of the following acts shall be ordered to correct by the radio administration institution, have the unlawful gains confiscated and may concurrently be fined not more than 30,000 yuan; where serious consequences are caused, the radio station licence shall be revoked and a fine of not less than 30,000 yuan but not more than 100,000 yuan shall be imposed concurrently:\n(a) establishing or using a radio station not in accordance with the licensed matters and requirements prescribed in the radio station licence;\n(b) intentionally receiving or transmitting radio signals outside the licensed matters of the radio station licence, or disseminating, disclosing or making use of information received unintentionally;\n(c) compiling or using radio station identification codes without authorisation."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "Whoever, in violation of the provisions of these Regulations, uses radio transmitting equipment or non-radio equipment radiating radio waves to interfere with the normal conduct of radio services shall be ordered to correct by the radio administration institution; where correction is refused, the equipment causing harmful interference shall be confiscated and a fine of not less than 50,000 yuan but not more than 200,000 yuan shall be imposed, and the radio station licence shall be revoked; where harmful interference is caused to radio frequencies involving personal safety such as radio navigation, distress and rescue and safety communications dedicated to ships, spacecraft, aircraft and railway locomotives, a fine of not less than 200,000 yuan but not more than 500,000 yuan shall be imposed concurrently."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "Whoever fails to pay radio frequency occupation fees in accordance with the relevant provisions of the State shall be ordered by the radio administration institution to pay within a time limit; where payment is not made within the time limit, a late fee of 0.05 per cent per day shall be charged from the date of default."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "Whoever, in violation of the provisions of these Regulations, commits any of the following acts shall be ordered to correct by the radio administration institution; where correction is refused, the equipment used in the unlawful activity shall be confiscated and a fine of not less than 30,000 yuan but not more than 100,000 yuan shall be imposed concurrently; where serious consequences are caused, a fine of not less than 100,000 yuan but not more than 300,000 yuan shall be imposed concurrently:\n(a) researching, developing, producing, selling or repairing high-power radio transmitting equipment without taking effective measures to suppress radio wave transmission;\n(b) overseas organisations or individuals carrying out radio wave parameter testing or radio monitoring within the territory of China;\n(c) providing overseas organisations or individuals with domestic radio wave parameter data involving national security."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "Whoever, in violation of the provisions of these Regulations, produces or imports radio transmitting equipment for sale or use in China without obtaining type approval shall be ordered to correct by the radio administration institution and be fined not less than 50,000 yuan but not more than 200,000 yuan; where correction is refused, the radio transmitting equipment without type approval shall be confiscated and a fine of not less than 200,000 yuan but not more than 1,000,000 yuan shall be imposed concurrently."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "Whoever sells radio transmitting equipment subject to type approval in accordance with Article 44 of these Regulations without making filing of the sale with the radio administration institution shall be ordered to correct by the radio administration institution; where correction is refused, a fine of not less than 10,000 yuan but not more than 30,000 yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "Whoever sells radio transmitting equipment subject to type approval in accordance with Article 44 of these Regulations but without type approval shall be ordered to correct by the radio administration institution, have the unlawfully sold radio transmitting equipment and the unlawful gains confiscated, and may concurrently be fined not more than 10 per cent of the value of the unlawfully sold equipment; where correction is refused, a fine of not less than 10 per cent but not more than 30 per cent of the value of the unlawfully sold equipment shall be imposed concurrently."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "Whoever, in repairing radio transmitting equipment, alters the technical indicators approved in the type approval certificate for radio transmitting equipment shall be ordered to correct by the radio administration institution; where correction is refused, a fine of not less than 10,000 yuan but not more than 30,000 yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "Where the production or sale of radio transmitting equipment violates the laws and regulations on product quality management, the product quality supervision department shall impose a penalty in accordance with law.\nWhere the import of radio transmitting equipment, or the carrying, posting or other transport of radio transmitting equipment into the territory violates the laws and regulations on customs supervision, the customs shall impose a penalty in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "Whoever, in violation of the provisions of these Regulations, commits an act constituting a violation of public security administration shall be given public security administration punishment in accordance with law; where a crime is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "Where a radio administration institution or its staff fails to perform its duties in accordance with the provisions of these Regulations, sanctions shall be given in accordance with law to the responsible leading personnel and other persons directly responsible."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "Where the implementation of a licence provided for in these Regulations requires the completion of the relevant domestic or international coordination or the performance of procedures prescribed by international rules, the time for carrying out the coordination and performing the procedures shall not be counted within the time limit for licence examination."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "Radio administration of the military system shall be carried out in accordance with the relevant provisions of the armed forces.\nWhere laws and administrative regulations have other provisions on radio administration involving radio and television, those provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "These Regulations shall come into force on 1 December 2016."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
         }
       }
     ]
