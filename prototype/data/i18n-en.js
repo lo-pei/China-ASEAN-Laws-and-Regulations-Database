@@ -826,6 +826,9 @@
   "今天": "Today",
   "昨天": "Yesterday",
   "前 7 天": "Previous 7 days",
-  "更早": "Earlier"
+  "更早": "Earlier",
+  "引用": "Citation",
+  "复制本条引用": "Copy citation for this article",
+  "已复制：": "Copied: "
 };
 })(typeof window !== 'undefined' ? window : globalThis);

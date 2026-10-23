@@ -304,7 +304,15 @@
                 '<button class="btn btn--outline btn--sm" id="export-terms2">' + CALR.ui.icon('list') + ' ' + esc(t('导出术语对照表（CSV）')) + '</button>' +
                 '<button class="btn btn--outline btn--sm" id="copy-cite2">' + CALR.ui.icon('copy') + ' ' + esc(t('复制本法规引用格式')) + '</button>' +
               '</div>' +
-              '<div class="citation-box" style="margin-top:10px" id="cite-text">' + esc(citationText(law)) + '</div>' +
+              /* 引注格式选择：四种规范/常用格式 */
+              '<div class="row" style="margin-top:12px;gap:6px;flex-wrap:wrap" id="cite-forms">' +
+                CITE_FORMS.map(function (f2) {
+                  return '<button class="btn btn--ghost btn--sm' + (f2.id === 'gbt' ? ' is-active' : '') +
+                    '" data-cite-form="' + f2.id + '" title="' + esc(f2.hint) + '">' + esc(f2.label) + '</button>';
+                }).join('') +
+              '</div>' +
+              '<div class="citation-box" style="margin-top:8px" id="cite-text">' + esc(citeOf(law, 'gbt')) + '</div>' +
+              '<p class="mini muted" style="margin:6px 0 0" id="cite-hint">' + esc(CITE_FORMS[0].hint) + '</p>' +
               '</div></div>' +
           '</aside>' +
         '</div>' +
@@ -329,6 +337,41 @@
       U().on(U().$('#theme-toggle', main), 'click', function () { CALR.app.toggleTheme(); });
       U().on(U().$('#export-pdf', main), 'click', function () { window.print(); });
       U().on(U().$('#export-pdf2', main), 'click', function () { window.print(); });
+      var curForm = 'gbt';
+
+      /* 条文级引用：复制「法规 + 第 X 条」粒度的引注 */
+      U().$$('[data-article-cite]', main).forEach(function (b) {
+        U().on(b, 'click', function (ev) {
+          ev.preventDefault();
+          var aid = b.getAttribute('data-article-cite');
+          var art = S().resolveArticle(aid);
+          if (!art) { U().toast(t('复制失败，请手动选择文本复制'), 'warn'); return; }
+          var txt = citeOf(law, curForm || 'gbt', {
+            no: art.no,
+            noLabel: tr(art.noLabel) || ('第' + art.no + '条'),
+            heading: tr(art.heading)
+          });
+          var ok = U().copy ? U().copy(txt) : false;
+          if (!ok) {
+            try { navigator.clipboard.writeText(txt); ok = true; } catch (e2) { ok = false; }
+          }
+          U().toast(ok ? (t('已复制：') + txt) : t('复制失败，请手动选择文本复制'), ok ? 'ok' : 'warn');
+        });
+      });
+
+      /* 引注格式切换 */
+      var citeBox = U().$('#cite-text', main);
+      var citeHint = U().$('#cite-hint', main);
+      U().$$('[data-cite-form]', main).forEach(function (b) {
+        U().on(b, 'click', function () {
+          curForm = b.getAttribute('data-cite-form');
+          U().$$('[data-cite-form]', main).forEach(function (x) { x.classList.remove('is-active'); });
+          b.classList.add('is-active');
+          if (citeBox) citeBox.textContent = citeOf(law, curForm);
+          var hit = CITE_FORMS.filter(function (f2) { return f2.id === curForm; })[0];
+          if (citeHint && hit) citeHint.textContent = hit.hint;
+        });
+      });
       U().on(U().$('#copy-cite', main), 'click', doCopy);
       U().on(U().$('#copy-cite2', main), 'click', doCopy);
       U().on(U().$('#export-terms', main), 'click', exportTerms);
@@ -655,6 +698,9 @@
           (a.partIndex && a.partIndex > 1 ? ' <span class="article__dup">' + esc(t('第{n}套编号').replace('{n}', a.partIndex)) + '</span>' : '') +
         '</span>' +
         '<span class="article__heading">' + esc(tr(a.heading)) + '</span>' +
+        /* 条文级引注：复制「第 X 条」粒度的规范引用（写文书、做批注时最常用） */
+        '<button class="article__cite" type="button" data-article-cite="' + esc(a.id) + '" title="' +
+          esc(t('复制本条引用')) + '">' + esc(t('引用')) + '</button>' +
         '<button class="article__toggle" type="button" data-article-toggle="' + esc(a.id) + '">' + esc(t('收起')) + '</button>' +
       '</div>';
 
@@ -773,15 +819,117 @@
     return esc(CALR.ui.orgLabel((law.source && law.source.name) || ft.sourceName) || '—');
   }
 
-  function citationText(law) {
+  /* ==================== 规范引注格式 ====================
+     原来只有一句自然语言（且会重复国名：「中国《中华人民共和国民法典》」），
+     不符合任何学术规范。这里提供四种常用格式，并支持条级（第 X 条）引用。 */
+
+  var CITE_FORMS = [
+    { id: 'gbt',    label: 'GB/T 7714-2015', hint: '中文学术标准（法学论文、裁判文书）' },
+    { id: 'blue',   label: 'Bluebook',       hint: '英美法系（涉外业务、国际仲裁）' },
+    { id: 'short',  label: '简化式',          hint: '日常执业书写' },
+    { id: 'full',   label: '完整式',          hint: '含来源链接与访问日期，便于核验' }
+  ];
+
+  /** 去掉标题里的书名号与重复国名前缀，避免「中国《中华人民共和国民法典》」 */
+  function bareTitle(law) {
     var T = law.title || {};
     var name = tr(T);
-    if (name === null || name === undefined || name === '') name = law.id;   /* 兜底：标题全空时用法规 id */
-    name = String(name);
-    var alt = (T.en && T.en !== name) ? ' / ' + T.en : '';
-    return S().countryName(law.country) + '《' + name.replace(/^.*?《|》$/g, '') + '》' + alt +
-      (law.docNumber ? '（' + law.docNumber + '）' : '') +
-      '，' + U().fmtDate(law.promulgatedDate) + '公布，' + U().fmtDate(law.effectiveDate) + '施行。' +
-      '来源：中国—东盟法律法规数据库（CALR）· ' + (law.source ? law.source.name : '官方法律信息门户');
+    if (name === null || name === undefined || name === '') name = law.id;
+    name = String(name).replace(/^[\s《]+|[\s》]+$/g, '');
+    /* 标题本身已含国名时不再前置 */
+    return name;
+  }
+
+  /** 带国名的书名号标题：标题本身已含国名时不重复前置，避免「中国《中华人民共和国民法典》」 */
+  function titled(law, name) {
+    var cn = S().countryName(law.country);
+    if (/^(中华人民共和国|中国)/.test(name) || name.indexOf(cn) === 0) {
+      return '《' + name + '》';
+    }
+    return cn + '《' + name + '》';
+  }
+
+  function podDate(d) {
+    if (!d) return '';
+    var m = String(d).match(/^(\d{4})[-年/]?(\d{2})?[-月/]?(\d{2})?/);
+    if (!m) return String(d);
+    return m[1] + (m[2] ? '-' + m[2] : '') + (m[3] ? '-' + m[3] : '');
+  }
+
+  function cnDate(d) {
+    if (!d) return '';
+    var m = String(d).match(/^(\d{4})[-年/]?(\d{2})?[-月/]?(\d{2})?/);
+    if (!m) return String(d);
+    var out = m[1] + '年';
+    if (m[2]) out += parseInt(m[2], 10) + '月';
+    if (m[3]) out += parseInt(m[3], 10) + '日';
+    return out;
+  }
+
+  function accessDate() {
+    var d = new Date();
+    return d.getFullYear() + '-' + String(d.getMonth() + 1).padStart(2, '0') +
+      '-' + String(d.getDate()).padStart(2, '0');
+  }
+
+  /**
+   * 生成引注文本
+   * @param {object} law 法规对象
+   * @param {string} form gbt | blue | short | full
+   * @param {object} opt  { no: 条号, noLabel: '第三十二条', heading: '立法目的' }
+   */
+  function citeOf(law, form, opt) {
+    form = form || 'gbt';
+    opt = opt || {};
+    var name = bareTitle(law);
+    var cn = S().countryName(law.country);
+    var T = law.title || {};
+    var en = (T.en && T.en !== name) ? String(T.en) : '';
+    var org = tr(law.issuingBody) || cn + '立法机关';
+    var promul = podDate(law.promulgatedDate);
+    var effect = podDate(law.effectiveDate);
+    var docNo = law.docNumber ? String(law.docNumber) : '';
+    var art = opt.noLabel ? String(opt.noLabel) : (opt.no ? ('第' + opt.no + '条') : '');
+    var url = 'https://calr.example.org/#/law/' + law.id;
+
+    if (form === 'gbt') {
+      /* GB/T 7714-2015：主要责任者. 题名[文献类型标志]. 出版地: 出版者, 出版年: 引文页码.
+         法规按「[Z] 其他」处理（法学界通行做法） */
+      var g = org + '. ' + name + '[Z]';
+      if (promul) g += '. ' + promul;
+      if (art) g += ': ' + art;
+      return g + '.';
+    }
+
+    if (form === 'blue') {
+      /* Bluebook 21st ed. 外国法/法规：Title (Year), art. N. */
+      var b = en || name;
+      var yr = promul ? promul.slice(0, 4) : (effect ? effect.slice(0, 4) : '');
+      var bb = b + (yr ? ' (' + yr + ')' : '');
+      if (art) bb += ', ' + (opt.no ? 'art. ' + opt.no : 'art. ' + art);
+      return bb + '.';
+    }
+
+    if (form === 'short') {
+      /* 简化式：国名 + 书名号标题 + 条 + 文号（标题已含国名时不重复） */
+      var sh = titled(law, name);
+      if (docNo) sh += '（' + docNo + '）';
+      if (art) sh += art;
+      return sh + '。';
+    }
+
+    /* 完整式：含公布/施行、来源与访问日期 */
+    var f = titled(law, name) + (en ? '（' + en + '）' : '');
+    if (docNo) f += '，' + docNo;
+    if (promul) f += '，' + cnDate(promul) + '公布';
+    if (effect) f += '，' + cnDate(effect) + '施行';
+    if (art) f += '，' + art;
+    f += '。来源：中国—东盟法律法规数据库（CALR），' + url + '，访问日期 ' + accessDate() + '。';
+    return f;
+  }
+
+  /** 兼容旧调用点：默认给 GB/T 7714 */
+  function citationText(law) {
+    return citeOf(law, 'gbt');
   }
 })(typeof window !== 'undefined' ? window : globalThis);

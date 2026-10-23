@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p04
-   法规 68 部 / 译文 4089 条
+   法规 69 部 / 译文 4211 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -22932,6 +22932,1440 @@
         },
         "chapter": {
           "en": "Chapter VII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0266'] = {
+    "lawId": "CN-LAW-0266",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 122 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is enacted in accordance with the Constitution in order to promote sports undertakings, carry forward the Chinese sporting spirit, foster Chinese sports culture, develop sports, and strengthen the people's physical fitness."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Work on sports shall uphold the leadership of the Communist Party of China, adhere to a people-centred approach, take nationwide fitness as the foundation, combine popularisation with improvement, promote the balanced and full development of sports undertakings, and advance the building of a sporting power and a healthy China."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "People's governments at or above the county level shall incorporate sports undertakings into national economic and social development plans."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The sports administrative department of the State Council shall be in charge of sports work throughout the country. Other relevant departments of the State Council shall administer the relevant sports work within the scope of their respective duties.\nThe sports administrative departments of local people's governments at or above the county level shall be in charge of sports work within their respective administrative areas. Other relevant departments of local people's governments at or above the county level shall administer the relevant sports work within the scope of their respective duties."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The State safeguards, in accordance with law, the right of citizens to participate in sports activities on an equal footing, and gives special protection to the right of minors, women, the elderly and persons with disabilities to participate in sports activities."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The State expands the supply of public-interest and basic public sports services, promotes the equalisation of basic public sports services, and progressively improves a basic public sports service system that covers all citizens, delivers widespread benefits and integrates urban and rural areas."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The State adopts measures such as financial support and assistance in building sports facilities to support the development of sports undertakings in old revolutionary base areas, areas with large ethnic minority populations, border areas and economically underdeveloped areas."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The State encourages and supports the discovery, collation, protection, popularisation and innovation of fine traditional ethnic, folk and customary sports, and holds traditional sports games of ethnic minorities on a regular basis."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The conduct of and participation in sports activities shall follow the principles of lawfulness and compliance, honesty and trustworthiness, respect for science, adaptation to local conditions, diligence and thrift, and safeguarding of safety."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The State gives priority to the development of youth and school sports, adheres to the integration of sports and education, the coordination of academic study and physical exercise, and equal attention to physique and personality, and promotes the all-round development of young people."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The State supports the development of the sports industry, improves the sports industry system, regulates the order of the sports market, encourages the expansion of the supply of the sports market, broadens investment and financing channels for the sports industry, and promotes sports consumption."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The State supports scientific research and technological innovation in sports, cultivates sports science and technology personnel, promotes the popularisation and application of sports scientific and technological achievements, and raises the level of sports science and technology."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The State commends and rewards, in accordance with the relevant provisions, organisations and individuals that have made outstanding contributions to the development of sports undertakings."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The State encourages the conduct of foreign sports exchanges, carries forward the Olympic spirit, and supports participation in international sports.\nForeign sports exchanges shall adhere to the principles of independence and self-reliance, equality and mutual benefit, and mutual respect, safeguard national sovereignty, security, development interests and dignity, and comply with the international treaties to which the People's Republic of China is a party or which it has concluded."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The week in which 8 August, National Fitness Day, falls each year shall be Sports Publicity Week."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The State implements the national fitness strategy, builds a public service system for nationwide fitness, encourages and supports citizens in participating in fitness activities, and promotes the deep integration of nationwide fitness and public health."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Nationwide Fitness"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The State advocates that citizens establish and practise the concept of scientific fitness, take the initiative to learn fitness knowledge and actively participate in fitness activities."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Nationwide Fitness"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The State implements the national fitness plan, formulates and implements physical exercise standards, conducts periodic monitoring of citizens' physical fitness and surveys of the status of nationwide fitness activities, and carries out guidance on scientific fitness.\nThe State establishes a coordination mechanism for nationwide fitness work.\nPeople's governments at or above the county level shall periodically organise the relevant departments to assess the implementation of the national fitness plan and make the assessment public."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Nationwide Fitness"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The State applies a system of social sports instructors. Social sports instructors shall give guidance on nationwide fitness activities.\nThe measures for the administration of social sports instructors shall be prescribed by the sports administrative department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Nationwide Fitness"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Local people's governments at all levels and the relevant departments shall provide the necessary conditions for nationwide fitness activities, and support and safeguard the conduct of such activities."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Nationwide Fitness"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "State organs, enterprises and public institutions, and mass organisations such as trade unions, Communist Youth League organisations, women's federations and federations of persons with disabilities shall, in light of their respective characteristics, organise daily physical exercise, sports meetings at various levels and of various types, and other nationwide fitness activities."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Nationwide Fitness"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Residents' committees, villagers' committees and other community organisations shall, in light of the actual circumstances, organise nationwide fitness activities."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter II Nationwide Fitness"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The whole of society shall care for and support the participation of minors, women, the elderly and persons with disabilities in nationwide fitness activities. People's governments at all levels shall take measures to facilitate and safeguard the safe participation of minors, women, the elderly and persons with disabilities in nationwide fitness activities."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter II Nationwide Fitness"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The State implements a promotion plan for youth and school sports activities, improves the systems for youth and school sports work, fosters and enhances young people's awareness of sports and fitness, promotes the conduct and popularisation of youth and school sports activities, and promotes the physical and mental health and physical fitness of young people."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Youth and School Sports"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The education administrative departments and schools shall incorporate sports into the comprehensive quality assessment of students, take meeting the requirements of the national student physical health standards as an important element of teaching assessment, cultivate students' habits of physical exercise, and enhance students' sporting literacy.\nThe sports administrative departments shall provide guidance and assistance to schools in imparting sports knowledge and skills, organising sports training, holding sports events and administering sports venues and facilities, and shall cooperate with the education administrative departments in developing school sports teams and high-level sports teams."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Youth and School Sports"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Schools must, in accordance with the relevant provisions of the State, offer the full set of physical education courses in full, and ensure that physical education class hours are not occupied.\nSchools shall, during physical education classes, organise students with special physical conditions such as illness or disability to participate in sports activities suited to their characteristics."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Youth and School Sports"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Schools shall incorporate extracurricular sports activities conducted within school into teaching plans, link them with the content of physical education classes, and ensure that students participate in at least one hour of physical exercise each day while at school.\nSchools are encouraged to form sports teams, clubs and other sports training organisations, carry out various forms of after-school sports training, and, where conditions permit, form high-level sports teams to cultivate reserve talents for competitive sports."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Youth and School Sports"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The State holds national student (youth) games on a regular basis. Local people's governments at all levels shall, in light of the actual circumstances, regularly organise student (youth) games in their respective regions.\nSchools shall hold a school-wide sports meeting at least once each academic year.\nPublic sports venues and facilities are encouraged to be open to schools free of charge, so as to provide service guarantees for schools holding sports meetings.\nSchools are encouraged to carry out various forms of student sports exchange activities."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Youth and School Sports"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The State incorporates the sports subject into the scope of the academic proficiency examinations for junior secondary and senior secondary education, and establishes an assessment mechanism suited to the characteristics of the subject.\nIn the assessment of the sports subject for students with special physical conditions such as illness or disability, full account shall be taken of their physical condition."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Youth and School Sports"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Schools shall establish a system of physical health examinations for students. The education, sports and health administrative departments shall strengthen monitoring and assessment of students' physical fitness."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Youth and School Sports"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Schools shall, in accordance with the relevant provisions of the State, be staffed with a sufficient number of qualified physical education teachers and shall ensure that physical education teachers enjoy the same treatment as teachers of other subjects.\nSchools may establish posts of sports coaches.\nSchools shall give priority to employing outstanding retired athletes who meet the relevant conditions to engage in school physical education teaching and training activities."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Youth and School Sports"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Schools shall provide sports venues, facilities and equipment in accordance with the relevant standards of the State, and shall conduct regular inspection and maintenance and renew them in due course.\nSchool sports venues must meet the needs of sports activities, and may not be occupied at will or used for other purposes."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III Youth and School Sports"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The State establishes and improves an insurance mechanism for accidental injuries in student sports activities.\nThe education administrative departments and schools shall ensure the safety management of school sports activities and the prevention and control of sports injury risks."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter III Youth and School Sports"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Kindergartens shall provide pre-school children with suitable indoor and outdoor activity areas and sports facilities and equipment, and carry out sports activities suited to the characteristics of pre-school children."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter III Youth and School Sports"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Education inspection agencies at all levels shall conduct inspection of school sports and publish inspection reports to the public."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter III Youth and School Sports"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The education administrative departments, sports administrative departments and schools shall organise and guide young people in participating in sports activities, prevent and control adverse health conditions among young people such as myopia and obesity, and families shall cooperate."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter III Youth and School Sports"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The sports administrative departments shall, jointly with the relevant departments, guide and regulate enterprises and public institutions, social organisations, sports professionals and others in providing sports training and other services to young people."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter III Youth and School Sports"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Sports schools at all levels and of all types shall implement compulsory education for school-age students in accordance with law, and shall carry out amateur sports training in accordance with the teaching and training syllabus formulated by the sports administrative department of the State Council.\nThe education administrative departments shall incorporate the cultural education of sports schools into their scope of administration.\nPeople's governments at all levels shall support sports schools in terms of venues, facilities, funds and personnel."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter III Youth and School Sports"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The State promotes the development of competitive sports, and encourages athletes to improve their competitive levels, achieve outstanding results in sports events, and win honour for the country and the people."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter IV Competitive Sports"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "The State promotes and regulates the market-oriented and professional development of professional sports, and enhances the capacity of professional sports events and the level of competition."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter IV Competitive Sports"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "The State strengthens the development of sports schools and schools with traditional sports features, and encourages and supports the conduct of amateur sports training so as to cultivate outstanding reserve talents for competitive sports."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IV Competitive Sports"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The State strengthens the training and administration of athletes, and provides athletes with education in patriotism, collectivism and socialism, as well as education in ethics, discipline and the rule of law.\nAthletes shall actively participate in training and competition, work in unity and cooperation, be willing to make sacrifices, strive tenaciously, and continuously improve their competitive levels."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter IV Competitive Sports"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "The State strengthens scientific and technological research, development and application in sports training, applies scientific and civilised training to athletes, and safeguards the physical and mental health of athletes."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter IV Competitive Sports"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "The State safeguards, in accordance with law, the right of athletes to receive cultural education.\nThe sports administrative departments and education administrative departments shall ensure that athletes at the stage of compulsory education complete compulsory education."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter IV Competitive Sports"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "The State safeguards, in accordance with law, the right of athletes to choose registration and transfer.\nAthletes may register with single-sport associations and transfer in accordance with the relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter IV Competitive Sports"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "The State gives preferential treatment to outstanding athletes in respect of employment and further education."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter IV Competitive Sports"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "People's governments at all levels shall strengthen vocational skills training and social security for retired athletes, and provide guidance and services for their employment and business start-ups."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter IV Competitive Sports"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "The State applies systems of sports proficiency grades, professional titles and grades for coaches, and technical grades for referees."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter IV Competitive Sports"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Athletes and sports teams representing the State and localities in major international and domestic sports events shall be selected and formed in accordance with the principles of openness, fairness and selection of the best.\nThe measures for the selection of athletes and the formation of sports teams shall be prescribed by the sports administrative department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter IV Competitive Sports"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "The State applies tiered and classified management to sports events, and the specific measures shall be prescribed by the sports administrative department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter IV Competitive Sports"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Sports events shall follow the principle of fair competition.\nOrganisers of sports events and athletes, coaches and referees shall observe sports ethics and the rules of sports events, and may not practise fraud or engage in malpractices for personal gain.\nNo organisation or individual may use sports events to engage in gambling activities."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter IV Competitive Sports"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "The names, emblems, flags, mascots and other symbols of sports events held within the territory of China shall be protected in accordance with the relevant provisions of the State.\nWithout the permission of the organiser of the sports event and other relevant rights holders, images, audio and video and other information from the venue of the sports event may not be collected or disseminated for profit-making purposes."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter IV Competitive Sports"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "The State advocates healthy, civilised and fair competition in sports, and prohibits the use of doping in sports.\nNo organisation or individual may organise, compel, deceive, instigate or induce participants in sports to use doping in sports, or provide or provide in disguised form doping to participants in sports."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter V Anti-Doping"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "The State establishes and improves the anti-doping system.\nThe sports administrative departments of people's governments at or above the county level shall, jointly with the departments of health, education, public security, industry and information technology, commerce, drug regulation, transport, customs, agriculture and market regulation, implement comprehensive treatment of doping problems."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter V Anti-Doping"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "The sports administrative department of the State Council shall be responsible for formulating anti-doping rules."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter V Anti-Doping"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "The sports administrative department of the State Council shall, jointly with the departments of drug regulation, health, commerce, customs and other departments of the State Council, formulate and publish the doping catalogue and adjust it dynamically."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter V Anti-Doping"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "The State establishes an anti-doping agency. The anti-doping agency and its inspectors shall conduct inspections in accordance with statutory procedures, and the relevant units and persons shall cooperate, and no unit or individual may interfere.\nThe anti-doping agency shall make anti-doping information public in accordance with law and accept public supervision."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter V Anti-Doping"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "The sports administrative departments of people's governments at or above the county level shall organise publicity and education on anti-doping, and raise the anti-doping awareness of participants in sports activities and the public."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter V Anti-Doping"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "The State encourages scientific and technological research on anti-doping, and the popularisation of advanced anti-doping technologies, equipment and methods."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter V Anti-Doping"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "The State carries out international cooperation against doping and performs its international anti-doping obligations in accordance with the relevant international treaties to which it is a party or which it has concluded."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter V Anti-Doping"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "The State encourages and supports sports organisations in carrying out sports activities in accordance with laws, regulations and their constitutions, and in promoting the development of sports undertakings.\nThe State encourages sports organisations to actively participate in international sports exchanges and cooperation and in the formulation of the rules of international sports."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VI Sports Organisations"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "The All-China Sports Federation and the local sports federations at all levels are mass sports organisations that unite sports organisations of all types, sports workers and sports enthusiasts, and shall play their role in the development of sports undertakings."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VI Sports Organisations"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "The Chinese Olympic Committee is a sports organisation whose main task is to develop sports and promote the Olympic movement, and it represents China in international Olympic affairs."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VI Sports Organisations"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Sports science societies are academic social sports organisations of sports science and technology workers, and shall play their role in the development of sports science and technology."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VI Sports Organisations"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "National single-sport associations are social sports organisations registered in accordance with law; they represent China in the corresponding international single-sport organisations, join the All-China Sports Federation in accordance with their constitutions, and send representatives to serve as members of the Chinese Olympic Committee.\nNational single-sport associations shall be responsible for the popularisation and improvement of the corresponding sports, formulate technical specifications, competition rules and group standards for the corresponding sports, and regulate sports events."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter VI Sports Organisations"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Single-sport associations shall safeguard the lawful rights and interests of their members in accordance with law, and actively report members' opinions and suggestions to the relevant units."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter VI Sports Organisations"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Single-sport associations shall accept the guidance and supervision of the sports administrative departments, improve their internal governance mechanisms, formulate industry rules, and strengthen industry self-discipline."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter VI Sports Organisations"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "The State encourages the development of youth sports clubs, community fitness organisations and other autonomous sports organisations of all types."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter VI Sports Organisations"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "The State formulates plans for the development of the sports industry, expands the scale of the sports industry, enhances its vitality, promotes its high-quality development, and meets the diverse sports needs of the people.\nPeople's governments at or above the county level shall establish a multi-departmental government coordination mechanism for work on the development of the sports industry."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter VII Sports Industry"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "The State supports and regulates the development of sports manufacturing, sports services and other sports industries, and promotes the integrated development of sports with health, culture, tourism, elderly care and science and technology."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter VII Sports Industry"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "The State supports innovative development of the sports goods manufacturing industry, encourages enterprises to increase investment in research and development, adopt new technologies, new processes and new materials, and promotes the transformation and upgrading of the industry.\nThe State fosters service sectors such as fitness and leisure, competition and performance, venue services, sports brokerage and sports training, and improves the level and quality of sports services.\nSports industries that meet the conditions shall enjoy preferential policies on finance, taxation and land in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter VII Sports Industry"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "The State improves the system for the development of professional sports, broadens the channels for its development, supports the professional development of athletes and coaches, and raises the maturity and standardisation of professional sports.\nProfessional sports clubs shall improve their internal governance mechanisms, perfect their corporate governance structures, and give full play to their role as market entities."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter VII Sports Industry"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "The State establishes and improves a mechanism for coordinated interaction of regional sports industries, promotes the exchange and sharing of sports industry resources between regions, and advances the coordinated development of regional sports.\nThe State supports localities in leveraging their resource advantages to develop sports industries with regional and ethnic characteristics."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter VII Sports Industry"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "The State encourages social capital to invest in the sports industry, build sports facilities, develop sports products and provide sports services."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter VII Sports Industry"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "The State encourages higher education institutions with the conditions to offer programmes related to the sports industry, carry out school-enterprise cooperation, strengthen vocational education and training, cultivate professional personnel for the sports industry, and form a talent pool that effectively supports the development of the sports industry."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter VII Sports Industry"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "The State improves the statistical system for the sports industry, carries out statistical monitoring of the sports industry, and periodically publishes sports industry data."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter VII Sports Industry"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "People's governments at or above the county level shall include funds for sports undertakings in their budgets at the corresponding level and establish an input mechanism commensurate with national economic and social development."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supporting Conditions"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "The State encourages social forces to develop sports undertakings, encourages donations and sponsorship for sports undertakings, and safeguards the lawful rights and interests of the participating entities.\nThose who support the development of sports undertakings by donating property and other means shall enjoy preferential policies such as tax concessions in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supporting Conditions"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "The relevant departments of the State shall strengthen the administration of sports funds, and no unit or individual may misappropriate, divert, withhold, deduct or privately divide sports funds."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supporting Conditions"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "The State supports the provision of public sports services through government procurement of services, so as to improve the level of public sports services."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supporting Conditions"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "Local people's governments at or above the county level shall, in accordance with the relevant provisions of the State and in light of the level of economic and social development, population structure, environmental conditions and the needs of sports development in their respective administrative areas, make overall arrangements and optimise the allocation of sports venues and facilities at all levels and of all types, giving priority to safeguarding the construction and allocation of sports venues and facilities for nationwide fitness."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supporting Conditions"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "Local people's governments at or above the county level shall incorporate the construction of public sports venues and facilities within their respective administrative areas into national economic and social development plans and territorial spatial plans, and may not alter them without statutory procedures.\nIn the planning and design and the completion acceptance of public sports venues and facilities, the opinions of the sports administrative department of the people's government at the corresponding level shall be solicited.\nThe design and construction of public sports venues and facilities shall meet the national requirements for the development of a barrier-free environment, and effectively meet the barrier-free needs of specific groups such as the elderly and persons with disabilities."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supporting Conditions"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "In building new residential communities and reconstructing or expanding existing ones, supporting sports venues and facilities for residents' daily fitness shall be planned, designed and constructed simultaneously in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supporting Conditions"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "The management units of public sports venues and facilities shall make public the measures for opening them to the public, and shall grant preferential treatment to minors, the elderly, persons with disabilities and others.\nSports venues and facilities opened free of charge or at low cost shall receive subsidies in accordance with the relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supporting Conditions"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "The State advances the construction of sports parks, encourages localities to develop distinctive sports parks in light of local conditions, and promotes the free opening of sports parks, so as to meet citizens' needs for sports and fitness."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supporting Conditions"
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "The State encourages the full and rational use of idle resources such as old factory buildings, warehouses and old commercial facilities to build sports venues and facilities for citizens' daily fitness, and encourages and supports the opening of the sports venues and facilities of State organs, schools, enterprises and public institutions to the public."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supporting Conditions"
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "No unit or individual may encroach on public sports venues and facilities or the construction land therefor, dismantle public sports venues and facilities without authorisation, or change their functions or uses without authorisation or obstruct their normal use.\nWhere public sports venues and facilities are to be temporarily occupied for special needs for more than 10 days, the consent of the sports administrative department of the people's government at the corresponding level shall be obtained; where the occupation is for more than three months, approval shall be reported to the sports administrative department of the people's government at the next higher level.\nWhere the demolition of public sports venues and facilities or the change of their functions or uses is approved, alternative sites shall first be selected for reconstruction in accordance with the provisions of the relevant laws and administrative regulations of the State."
+        },
+        "noLabel": {
+          "en": "Article 87."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supporting Conditions"
+        }
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "Local people's governments at or above the county level shall establish a mechanism for the maintenance and administration of public venues and facilities for nationwide fitness, and clarify the responsibilities for administration and maintenance."
+        },
+        "noLabel": {
+          "en": "Article 88."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supporting Conditions"
+        }
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "The State develops professional sports education, encourages higher education institutions with the conditions to cultivate coaches, referees, physical education teachers and other professionals of all types in sports, and encourages social forces to carry out professional sports education in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 89."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supporting Conditions"
+        }
+      },
+      {
+        "no": 90,
+        "text": {
+          "en": "The State encourages the establishment and improvement of systems of insurance against disability of athletes, insurance against accidental injuries in sports, and premises liability insurance.\nOrganisers of major sports events shall conclude insurance against accidental injuries in sports with participants through consultation.\nOrganisers of high-risk sports events shall take out insurance against accidental injuries in sports.\nOperators of high-risk sports shall take out insurance against accidental injuries in sports and premises liability insurance."
+        },
+        "noLabel": {
+          "en": "Article 90."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supporting Conditions"
+        }
+      },
+      {
+        "no": 91,
+        "text": {
+          "en": "The State establishes a sports arbitration system to resolve sports disputes promptly and fairly and to protect the lawful rights and interests of the parties.\nSports arbitration shall be conducted independently in accordance with law, free from interference by administrative organs, social organisations and individuals."
+        },
+        "noLabel": {
+          "en": "Article 91."
+        },
+        "chapter": {
+          "en": "Chapter IX Sports Arbitration"
+        }
+      },
+      {
+        "no": 92,
+        "text": {
+          "en": "Parties may, on the basis of arbitration agreements, the constitutions of sports organisations and the rules of sports events, apply for sports arbitration in respect of the following disputes:\n(a) disputes arising from dissatisfaction with decisions such as disqualification from competition, annulment of competition results and suspension imposed by social sports organisations, athlete management units or organisers of sports events in accordance with doping control or other management provisions;\n(b) disputes arising from the registration and transfer of athletes;\n(c) other disputes arising in competitive sports activities.\nArbitrable disputes prescribed by the Arbitration Law of the People's Republic of China and labour disputes prescribed by the Law of the People's Republic of China on Mediation and Arbitration of Labour Disputes do not fall within the scope of sports arbitration."
+        },
+        "noLabel": {
+          "en": "Article 92."
+        },
+        "chapter": {
+          "en": "Chapter IX Sports Arbitration"
+        }
+      },
+      {
+        "no": 93,
+        "text": {
+          "en": "The sports administrative department of the State Council shall, in accordance with this Law, organise the establishment of a sports arbitration commission and formulate sports arbitration rules.\nThe sports arbitration commission shall be composed of representatives of sports administrative departments, representatives of social sports organisations, representatives of athletes, representatives of coaches, representatives of referees and experts in sports and law, and the number of its members shall be an odd number.\nThe sports arbitration commission shall maintain a roster of arbitrators. The specific qualifications of arbitrators shall be prescribed by the sports arbitration rules."
+        },
+        "noLabel": {
+          "en": "Article 93."
+        },
+        "chapter": {
+          "en": "Chapter IX Sports Arbitration"
+        }
+      },
+      {
+        "no": 94,
+        "text": {
+          "en": "The sports arbitration commission shall resolve sports disputes through arbitral tribunals. The number of members of an arbitral tribunal shall be an odd number, and the specific method of composition shall be prescribed by the sports arbitration rules."
+        },
+        "noLabel": {
+          "en": "Article 94."
+        },
+        "chapter": {
+          "en": "Chapter IX Sports Arbitration"
+        }
+      },
+      {
+        "no": 95,
+        "text": {
+          "en": "Sports organisations are encouraged to establish internal dispute resolution mechanisms to resolve disputes fairly, impartially and efficiently.\nWhere a sports organisation has no internal dispute resolution mechanism or its internal dispute resolution mechanism fails to handle a dispute promptly, the party may apply for sports arbitration."
+        },
+        "noLabel": {
+          "en": "Article 95."
+        },
+        "chapter": {
+          "en": "Chapter IX Sports Arbitration"
+        }
+      },
+      {
+        "no": 96,
+        "text": {
+          "en": "Where a party is dissatisfied with a decision of a social sports organisation, athlete management unit or organiser of a sports event or with the outcome of internal dispute resolution, the party shall apply for sports arbitration within 21 days from the date of receipt of the decision or the dispute resolution outcome."
+        },
+        "noLabel": {
+          "en": "Article 96."
+        },
+        "chapter": {
+          "en": "Chapter IX Sports Arbitration"
+        }
+      },
+      {
+        "no": 97,
+        "text": {
+          "en": "A sports arbitral award shall take legal effect from the date on which it is made.\nAfter an award is made, if a party applies again for sports arbitration or brings a lawsuit before a people's court in respect of the same dispute, the sports arbitration commission or the people's court shall not accept the case."
+        },
+        "noLabel": {
+          "en": "Article 97."
+        },
+        "chapter": {
+          "en": "Chapter IX Sports Arbitration"
+        }
+      },
+      {
+        "no": 98,
+        "text": {
+          "en": "Where any of the following circumstances exists, a party may, within 30 days from the date of receipt of the arbitral award, apply to the intermediate people's court of the place where the sports arbitration commission is located for setting aside the award:\n(a) there is a genuine error in the application of laws or regulations;\n(b) the matter decided falls outside the scope of matters acceptable for sports arbitration;\n(c) the composition of the arbitral tribunal or the arbitral procedure violated the relevant provisions to an extent sufficient to affect a fair award;\n(d) the evidence on which the award is based was forged;\n(e) the opposing party concealed evidence sufficient to affect a fair award;\n(f) the arbitrator, in arbitrating the case, solicited or accepted bribes, engaged in malpractices for personal gain, or perverted the law in making the award.\nWhere, after forming a collegial panel and verifying the matter, the people's court finds that the award falls under any of the circumstances specified in the preceding paragraph, or determines that the award violates the public interests of society, it shall rule to set aside the award.\nWhere, after accepting an application to set aside an award, the people's court considers that the arbitral tribunal may arbitrate the case anew, it shall notify the arbitral tribunal to arbitrate anew within a certain period and rule to suspend the setting-aside proceedings. Where the arbitral tribunal refuses to arbitrate anew, the people's court shall rule to resume the setting-aside proceedings."
+        },
+        "noLabel": {
+          "en": "Article 98."
+        },
+        "chapter": {
+          "en": "Chapter IX Sports Arbitration"
+        }
+      },
+      {
+        "no": 99,
+        "text": {
+          "en": "The parties shall perform sports arbitral awards. Where one party fails to perform, the other party may apply to a people's court for enforcement in accordance with the relevant provisions of the Civil Procedure Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 99."
+        },
+        "chapter": {
+          "en": "Chapter IX Sports Arbitration"
+        }
+      },
+      {
+        "no": 100,
+        "text": {
+          "en": "Disputes over sports events that require immediate handling shall be governed by the special procedures of sports arbitration.\nThe special procedures shall be prescribed by the sports arbitration rules."
+        },
+        "noLabel": {
+          "en": "Article 100."
+        },
+        "chapter": {
+          "en": "Chapter IX Sports Arbitration"
+        }
+      },
+      {
+        "no": 101,
+        "text": {
+          "en": "The sports administrative departments and the relevant departments of people's governments at or above the county level shall actively perform their duties of supervision and inspection and promptly handle any act found to be in violation of the provisions of this Law. Matters that do not fall within the competence of the department concerned shall be promptly notified in writing and referred to the relevant departments for investigation and handling."
+        },
+        "noLabel": {
+          "en": "Article 101."
+        },
+        "chapter": {
+          "en": "Chapter X Supervision and Administration"
+        }
+      },
+      {
+        "no": 102,
+        "text": {
+          "en": "The sports administrative departments of people's governments at or above the county level shall supervise sports events in accordance with law, conduct on-site inspection of the venues of the events, consult and copy the relevant contracts, invoices and account books, and examine materials such as the organisation plans and safety contingency plans of the events.\nThe departments of public security, market regulation, emergency management and other departments of people's governments at or above the county level shall supervise and administer sports events in accordance with their respective duties.\nOrganisers of sports events shall perform their obligation of safety guarantee, provide safety conditions that meet the requirements, formulate risk prevention and emergency handling plans and other guarantee measures, and safeguard the safety of sports events.\nWhere a sports event cannot be held because of emergencies such as extreme weather, natural disasters or public health incidents, the organiser shall promptly suspend it; where it is not suspended, the people's government at or above the county level shall order its suspension."
+        },
+        "noLabel": {
+          "en": "Article 102."
+        },
+        "chapter": {
+          "en": "Chapter X Supervision and Administration"
+        }
+      },
+      {
+        "no": 103,
+        "text": {
+          "en": "The departments of market regulation, sports administration and other departments of people's governments at or above the county level shall supervise and administer the sports market in accordance with their respective duties."
+        },
+        "noLabel": {
+          "en": "Article 103."
+        },
+        "chapter": {
+          "en": "Chapter X Supervision and Administration"
+        }
+      },
+      {
+        "no": 104,
+        "text": {
+          "en": "The State establishes a system for the administration of sports disciplines, and new sports disciplines shall be recognised by the sports administrative department of the State Council.\nThe catalogue of sports disciplines shall be published once every four years."
+        },
+        "noLabel": {
+          "en": "Article 104."
+        },
+        "chapter": {
+          "en": "Chapter X Supervision and Administration"
+        }
+      },
+      {
+        "no": 105,
+        "text": {
+          "en": "To operate a high-risk sport, the following conditions shall be met and an application shall be filed with the sports administrative department of the local people's government at or above the county level:\n(a) the relevant sports facilities meet national standards;\n(b) there are the prescribed number of social sports instructors and rescue personnel holding the corresponding national vocational qualification certificates or vocational skill level certificates;\n(c) there are the corresponding systems and measures for safety guarantee and emergency rescue.\nThe sports administrative department of the local people's government at or above the county level shall conduct on-site verification within 30 days from the date of receipt of the application and make a decision to approve or not to approve. Where approval is granted, a licence shall be issued; where approval is not granted, the applicant shall be notified in writing and the reasons explained.\nThe sports administrative department of the State Council shall, jointly with the relevant departments, formulate and adjust the catalogue of high-risk sports and publish it."
+        },
+        "noLabel": {
+          "en": "Article 105."
+        },
+        "chapter": {
+          "en": "Chapter X Supervision and Administration"
+        }
+      },
+      {
+        "no": 106,
+        "text": {
+          "en": "To hold a high-risk sports event, the following conditions shall be met and an application shall be filed with the sports administrative department of the local people's government at or above the county level:\n(a) professional and technical personnel with the corresponding qualifications or competence are provided;\n(b) venues, equipment and facilities meeting the relevant standards and requirements are provided;\n(c) the relevant guarantee measures for communications, safety, transport, health, food and emergency rescue are formulated.\nThe sports administrative department of the local people's government at or above the county level shall conduct on-site verification within 30 days from the date of receipt of the application and make a decision to approve or not to approve.\nThe sports administrative department of the State Council shall, jointly with the relevant departments, formulate and adjust the catalogue of high-risk sports events and publish it."
+        },
+        "noLabel": {
+          "en": "Article 106."
+        },
+        "chapter": {
+          "en": "Chapter X Supervision and Administration"
+        }
+      },
+      {
+        "no": 107,
+        "text": {
+          "en": "Local people's governments at or above the county level shall establish a mechanism for sports law enforcement and provide the necessary guarantees for sports law enforcement. The circumstances of sports law enforcement shall be made public and subject to public supervision."
+        },
+        "noLabel": {
+          "en": "Article 107."
+        },
+        "chapter": {
+          "en": "Chapter X Supervision and Administration"
+        }
+      },
+      {
+        "no": 108,
+        "text": {
+          "en": "Local people's governments at or above the county level shall report at least once to the people's congress at the corresponding level or its standing committee during each term of office on work concerning nationwide fitness and youth and school sports."
+        },
+        "noLabel": {
+          "en": "Article 108."
+        },
+        "chapter": {
+          "en": "Chapter X Supervision and Administration"
+        }
+      },
+      {
+        "no": 109,
+        "text": {
+          "en": "Where a State organ or its staff violates the provisions of this Law and commits any of the following acts, the unit to which it belongs, the competent department or the authority at a higher level shall order correction; sanctions shall be imposed in accordance with law on the leading personnel and directly responsible persons bearing responsibility:\n(a) failing to investigate and deal with illegal acts in accordance with law;\n(b) misappropriating, diverting, withholding, deducting or privately dividing sports funds;\n(c) in organising sports events, engaging in acts such as violating sports ethics and the rules of sports events, practising fraud or engaging in malpractices for personal gain;\n(d) other acts of failing to perform duties in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 109."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 110,
+        "text": {
+          "en": "Where a sports organisation violates the provisions of this Law, the relevant departments shall order correction, issue a warning, and impose sanctions in accordance with law on the leading personnel and directly responsible persons bearing responsibility; it may order the suspension of activities within a time limit, and may order the replacement of the directly responsible person in charge; where the circumstances are serious, its registration shall be revoked."
+        },
+        "noLabel": {
+          "en": "Article 110."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 111,
+        "text": {
+          "en": "Where a school violates the relevant provisions of this Law, the relevant competent department shall order correction; sanctions shall be imposed in accordance with law on the leading personnel and directly responsible persons bearing responsibility."
+        },
+        "noLabel": {
+          "en": "Article 111."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 112,
+        "text": {
+          "en": "Where an athlete, coach or referee violates the provisions of this Law by committing acts such as violating sports ethics and the rules of sports events, practising fraud or engaging in malpractices for personal gain, the sports organisation shall deal with the matter in accordance with the relevant provisions; where the circumstances are serious and the social impact is adverse, the sports administrative department of the people's government at or above the county level shall place the person on the list of persons restricted or prohibited from participating in competitive sports activities; where illegal gains exist, they shall be confiscated and a fine of not less than 10,000 yuan but not more than 100,000 yuan shall also be imposed.\nWhere sports events are used to engage in gambling activities, the public security organ shall investigate and deal with the matter in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 112."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 113,
+        "text": {
+          "en": "Where an organiser of sports events commits any of the following acts, the sports administrative department of the local people's government at or above the county level shall order correction and impose a fine of not less than 50,000 yuan but not more than 500,000 yuan; where illegal gains exist, they shall be confiscated; where the circumstances are serious, a penalty prohibiting the organisation of sports events for not less than one year but not more than three years shall be imposed:\n(a) holding a high-risk sports event without permission;\n(b) failing to suspend a sports event promptly when it cannot be held because of an emergency;\n(c) safety conditions not meeting the requirements;\n(d) committing acts such as violating sports ethics and the rules of sports events, practising fraud or engaging in malpractices for personal gain;\n(e) failing to adopt risk prevention and emergency handling plans and other guarantee measures as required."
+        },
+        "noLabel": {
+          "en": "Article 113."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 114,
+        "text": {
+          "en": "Where an act in violation of the provisions of this Law involves encroaching on or damaging public sports venues and facilities, the sports administrative department of the local people's government at or above the county level shall, jointly with the relevant departments, stop the act, order correction, and may impose a fine of not more than five times the actual loss."
+        },
+        "noLabel": {
+          "en": "Article 114."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 115,
+        "text": {
+          "en": "Where an act in violation of the provisions of this Law involves temporarily occupying public sports venues and facilities without approval, the sports administrative department of the local people's government at or above the county level shall, jointly with the relevant departments, order correction within a time limit; where correction is not made within the time limit, a fine of not less than 100,000 yuan but not more than 500,000 yuan shall be imposed on the management unit of the public sports venues and facilities; where illegal gains exist, they shall be confiscated."
+        },
+        "noLabel": {
+          "en": "Article 115."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 116,
+        "text": {
+          "en": "Where a high-risk sport is operated without a licence, the sports administrative department of the local people's government at or above the county level shall, jointly with the relevant departments, order closure within a time limit; where closure is not effected within the time limit, a fine of not less than 100,000 yuan but not more than 500,000 yuan shall be imposed; where illegal gains exist, they shall be confiscated.\nWhere a high-risk sport is operated in violation of the law, the sports administrative department of the local people's government at or above the county level shall order correction; where correction is not made within the time limit, a fine of not less than 50,000 yuan but not more than 500,000 yuan shall be imposed; where illegal gains exist, they shall be confiscated; where serious consequences are caused, the competent department shall order closure, revoke the licence and certificates, and the operator may not engage in the business of that sport again within five years."
+        },
+        "noLabel": {
+          "en": "Article 116."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 117,
+        "text": {
+          "en": "Where an athlete uses doping in violation of the rules, the relevant social sports organisation, athlete management unit or organiser of the sports event shall make a decision such as disqualification from competition, annulment of competition results or suspension."
+        },
+        "noLabel": {
+          "en": "Article 117."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 118,
+        "text": {
+          "en": "Where an act involves organising, compelling, deceiving, instigating or inducing an athlete to use doping in sports, the sports administrative department of the State Council or the sports administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government shall confiscate the doping illegally held; the directly responsible person in charge and other directly responsible persons may not engage in sports administration work or athlete support work for four years; where the circumstances are serious, they may not engage in such work for the rest of their lives.\nWhere an act involves providing or providing in disguised form doping to an athlete, the sports administrative department of the State Council or the sports administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government shall confiscate the doping illegally held and impose a fine of not less than 50,000 yuan but not more than 500,000 yuan; where illegal gains exist, they shall be confiscated; and a penalty prohibiting engagement in sports administration work and athlete support work for a certain number of years up to life shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 118."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 119,
+        "text": {
+          "en": "Where an act in violation of the provisions of this Law causes property loss or other damage, civil liability shall be borne in accordance with law; where the act constitutes a violation of public security administration, the public security organ shall impose public security administration punishment in accordance with law; where the act constitutes a crime, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 119."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 120,
+        "text": {
+          "en": "Where any State, region or organisation harms the sovereignty, security, development interests or dignity of the People's Republic of China in international sports, the People's Republic of China may take corresponding measures in light of the actual circumstances."
+        },
+        "noLabel": {
+          "en": "Article 120."
+        },
+        "chapter": {
+          "en": "Chapter XII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 121,
+        "text": {
+          "en": "The specific measures for the Chinese People's Liberation Army and the Chinese People's Armed Police Force to carry out sports activities shall be formulated by the Central Military Commission in accordance with this Law."
+        },
+        "noLabel": {
+          "en": "Article 121."
+        },
+        "chapter": {
+          "en": "Chapter XII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 122,
+        "text": {
+          "en": "This Law shall come into force on 1 January 2023."
+        },
+        "noLabel": {
+          "en": "Article 122."
+        },
+        "chapter": {
+          "en": "Chapter XII Supplementary Provisions"
         }
       }
     ]

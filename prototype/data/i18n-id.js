@@ -826,6 +826,9 @@
   "今天": "Hari ini",
   "昨天": "Kemarin",
   "前 7 天": "7 hari lalu",
-  "更早": "Lebih lama"
+  "更早": "Lebih lama",
+  "引用": "Kutipan",
+  "复制本条引用": "Salin kutipan pasal ini",
+  "已复制：": "Disalin: "
 };
 })(typeof window !== 'undefined' ? window : globalThis);

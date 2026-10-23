@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p05
-   法规 71 部 / 译文 4129 条
+   法规 72 部 / 译文 4248 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -40368,6 +40368,1422 @@
         },
         "chapter": {
           "en": "Chapter VIII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0343'] = {
+    "lawId": "CN-LAW-0343",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 119 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "For the purposes of maintaining the order of public security, safeguarding public safety, protecting the lawful rights and interests of citizens, legal persons and other organisations, and regulating and safeguarding the performance by public security organs and their people's police of their duties of public security administration in accordance with law, this Law is enacted."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Acts that disturb public order, impair public safety, infringe upon personal rights or property rights or obstruct social administration and are socially harmful shall, where they constitute a crime under the provisions of the Criminal Law of the People's Republic of China, be subject to criminal liability in accordance with law; where they are not serious enough for criminal punishment, the public security organ shall impose a public security administration punishment in accordance with this Law."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The procedures for public security administration punishment shall be governed by the provisions of this Law; where this Law contains no provisions, the relevant provisions of the Law of the People's Republic of China on Administrative Penalties shall apply."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Acts violating public security administration that occur within the territory of the People's Republic of China shall be governed by this Law, unless the law provides otherwise.\nActs violating public security administration that occur on vessels and aircraft of the People's Republic of China shall be governed by this Law, unless the law provides otherwise."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Public security administration punishment must be based on facts and shall be commensurate with the nature, circumstances and degree of social harm of the act violating public security administration.\nThe imposition of public security administration punishment shall be open and impartial, respect and safeguard human rights and protect the personal dignity of citizens.\nIn handling public security cases, the principle of combining education with punishment shall be adhered to."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "People's governments at all levels shall strengthen the comprehensive governance of public security, take effective measures to resolve social conflicts, enhance social harmony and maintain social stability."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The public security department of the State Council shall be responsible for public security administration throughout the country. The public security organs of local people's governments at or above the county level shall be responsible for public security administration within their respective administrative areas.\nJurisdiction over public security cases shall be prescribed by the public security department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Where an act violating public security administration causes damage to another person, the person committing the act or the guardian of that person shall bear civil liability in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "In respect of acts violating public security administration such as brawling or damaging another person's property arising from a civil dispute, where the circumstances are relatively minor, the public security organ may handle the matter through mediation. Where an agreement is reached between the parties through mediation by the public security organ, no punishment shall be imposed. Where mediation fails to produce an agreement or an agreement is not performed after being reached, the public security organ shall, in accordance with the provisions of this Law, impose punishment on the person who committed the act violating public security administration, and shall inform the parties that they may bring a civil action before a people's court in accordance with law in respect of the civil dispute."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Public security administration punishment shall be divided into the following types:\n(1) warning;\n(2) fine;\n(3) administrative detention;\n(4) revocation of a licence issued by the public security organ.\nIn respect of a foreigner who violates public security administration, an order to leave the country within a time limit or deportation may be additionally applied."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Types of Penalties and Their Application"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Narcotic drugs, obscene articles and other prohibited articles, gambling instruments and gambling funds, instruments for ingesting or injecting narcotic drugs, and tools owned by the person himself and used directly in committing the act violating public security administration that are seized in handling public security cases shall be confiscated and disposed of in accordance with provisions.\nProperty obtained from violating public security administration shall be recovered and returned to the victim; where there is no victim, it shall be registered and listed, publicly auctioned or disposed of in accordance with the relevant provisions of the State, and the proceeds shall be turned over to the State treasury."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Types of Penalties and Their Application"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Where a person who has reached the age of 14 but not the age of 18 violates public security administration, the punishment shall be given a lighter or mitigated form; where a person under the age of 14 violates public security administration, no punishment shall be imposed, but the guardian of that person shall be ordered to exercise strict discipline."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Types of Penalties and Their Application"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where a mentally ill person violates public security administration at a time when he is unable to recognise or control his own conduct, no punishment shall be imposed, but the guardian of that person shall be ordered to keep him under strict supervision and provide treatment. Where an intermittently mentally ill person violates public security administration at a time when he is of sound mind, punishment shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Types of Penalties and Their Application"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Where a blind person, or a person who is both deaf and mute, violates public security administration, a lighter or mitigated punishment may be given, or no punishment may be imposed."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Types of Penalties and Their Application"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where an intoxicated person violates public security administration, punishment shall be imposed.\nWhere an intoxicated person is, in a state of intoxication, dangerous to himself or a threat to the personal safety, property or public safety of others, protective measures shall be taken to restrain him until he becomes sober."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Types of Penalties and Their Application"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where a person commits two or more acts violating public security administration, decisions shall be made separately and the punishments executed concurrently. Where administrative detention punishments are executed concurrently, the longest period shall not exceed 20 days."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Types of Penalties and Their Application"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Where persons jointly violate public security administration, punishments shall be imposed separately according to the role played by each person in the act violating public security administration.\nA person who instigates, coerces or inveigles another person into violating public security administration shall be punished in accordance with the act he instigated, coerced or inveigled."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Types of Penalties and Their Application"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where a unit violates public security administration, the directly responsible persons in charge and other directly responsible persons shall be punished in accordance with the provisions of this Law. Where other laws or administrative regulations provide that a unit shall be punished for the same act, those provisions shall apply."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Types of Penalties and Their Application"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Where an act violating public security administration falls under any of the following circumstances, the punishment shall be mitigated or no punishment shall be imposed:\n(1) the circumstances are especially minor;\n(2) the person has voluntarily eliminated or reduced the harmful consequences and obtained the forgiveness of the victim;\n(3) the act was committed under coercion or inveiglement by another person;\n(4) the person has voluntarily surrendered to the public security organ and truthfully stated his own unlawful act;\n(5) the person has performed meritorious service."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Types of Penalties and Their Application"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where an act violating public security administration falls under any of the following circumstances, a heavier punishment shall be imposed:\n(1) relatively serious consequences have been caused;\n(2) the person has instigated, coerced or inveigled another person into violating public security administration;\n(3) the person has retaliated against a person who reported, complained, informed or testified;\n(4) the person has been subjected to public security administration punishment within the previous six months."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Types of Penalties and Their Application"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where a person who has committed an act violating public security administration falls under any of the following circumstances and, in accordance with this Law, should be given administrative detention, the administrative detention punishment shall not be executed:\n(1) the person has reached the age of 14 but not the age of 16;\n(2) the person has reached the age of 16 but not the age of 18 and is a first-time offender of public security administration;\n(3) the person is 70 years of age or older;\n(4) the person is pregnant or is breastfeeding her own infant under one year of age."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Types of Penalties and Their Application"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Where an act violating public security administration is not discovered by the public security organ within six months, no punishment shall be imposed.\nThe period provided in the preceding paragraph shall be calculated from the date on which the act violating public security administration is committed; where the act violating public security administration is of a continuing or continuous nature, the period shall be calculated from the date on which the act ends."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter II Types of Penalties and Their Application"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where any of the following acts is committed, a warning shall be given or a fine of not more than 200 yuan shall be imposed; where the circumstances are relatively serious, detention of not less than five days but not more than ten days shall be imposed, and a fine of not more than 500 yuan may be imposed concurrently:\n(1) disturbing the order of a State organ, people's organisation, enterprise or public institution so that work, production, business, medical treatment, teaching or scientific research cannot be carried on normally, without causing serious losses;\n(2) disturbing the order of a railway station, port, wharf, airport, shopping mall, park, exhibition hall or other public place;\n(3) disturbing the order on a bus, trolleybus, train, vessel, aircraft or other means of public transport;\n(4) unlawfully intercepting, forcibly boarding or stealing a ride on a motor vehicle, vessel, aircraft or other means of transport, thereby affecting the normal operation of the means of transport;\n(5) disrupting the order of an election conducted in accordance with law.\nWhere the act in the preceding paragraph is committed by gathering a crowd, the ringleaders shall be given detention of not less than ten days but not more than 15 days, and a fine of not more than 1,000 yuan may be imposed concurrently."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Section 1 Acts Disturbing Public Order and Penalties"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Where any of the following acts is committed, disturbing the order of a large-scale mass activity such as a cultural or sports event, a warning shall be given or a fine of not more than 200 yuan shall be imposed; where the circumstances are serious, detention of not less than five days but not more than ten days shall be imposed, and a fine of not more than 500 yuan may be imposed concurrently:\n(1) forcibly entering the venue;\n(2) setting off fireworks and firecrackers or other articles in the venue in violation of provisions;\n(3) displaying insulting slogans, banners or other articles;\n(4) besieging referees, athletes or other staff members;\n(5) throwing sundry articles into the venue and refusing to stop when dissuaded;\n(6) other acts disturbing the order of a large-scale mass activity.\nWhere a person is given the punishment of detention for disturbing the order of a sports competition, he may at the same time be ordered not to enter a sports venue to watch competitions of the same kind for 12 months; where he enters a sports venue in violation of the order, he shall be forcibly removed from the scene."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Section 1 Acts Disturbing Public Order and Penalties"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Where any of the following acts is committed, detention of not less than five days but not more than ten days shall be imposed, and a fine of not more than 500 yuan may be imposed concurrently; where the circumstances are relatively minor, detention of not more than five days or a fine of not more than 500 yuan shall be imposed:\n(1) spreading rumours, falsely reporting a dangerous situation, epidemic situation or police situation, or by other means intentionally disturbing public order;\n(2) placing false dangerous substances such as explosive, toxic, radioactive or corrosive substances or pathogens of infectious diseases in order to disturb public order;\n(3) threatening to commit arson, explosion or the placing of dangerous substances in order to disturb public order."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Section 1 Acts Disturbing Public Order and Penalties"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Where any of the following acts is committed, detention of not less than five days but not more than ten days shall be imposed, and a fine of not more than 500 yuan may be imposed concurrently; where the circumstances are relatively serious, detention of not less than ten days but not more than 15 days shall be imposed, and a fine of not more than 1,000 yuan may be imposed concurrently:\n(1) brawling in a gang;\n(2) chasing or intercepting another person;\n(3) forcibly taking or demanding property, or damaging or occupying public or private property at will;\n(4) other acts of creating disturbances and picking quarrels."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Section 1 Acts Disturbing Public Order and Penalties"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where any of the following acts is committed, detention of not less than ten days but not more than 15 days shall be imposed, and a fine of not more than 1,000 yuan may be imposed concurrently; where the circumstances are relatively minor, detention of not less than five days but not more than ten days shall be imposed, and a fine of not more than 500 yuan may be imposed concurrently:\n(1) organising, instigating, coercing, inveigling or inciting another person to engage in activities of a cult or superstitious sect, or using cult, superstitious sect or superstitious activities to disturb social order and harm the health of others;\n(2) falsely using the name of religion or qigong to carry out activities disturbing social order and harming the health of others."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Section 1 Acts Disturbing Public Order and Penalties"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Where a person, in violation of State provisions, intentionally interferes with the normal operation of radio services, or causes harmful interference to a normally operating radio station, and refuses to take effective measures to eliminate it after being instructed by the competent department concerned, detention of not less than five days but not more than ten days shall be imposed; where the circumstances are serious, detention of not less than ten days but not more than 15 days shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Section 1 Acts Disturbing Public Order and Penalties"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Where any of the following acts is committed, detention of not more than five days shall be imposed; where the circumstances are relatively serious, detention of not less than five days but not more than ten days shall be imposed:\n(1) intruding into a computer information system in violation of State provisions and causing harm;\n(2) deleting, modifying, adding to or interfering with the functions of a computer information system in violation of State provisions, so that the computer information system cannot operate normally;\n(3) deleting, modifying or adding to the data and application programmes stored, processed or transmitted in a computer information system in violation of State provisions;\n(4) intentionally creating or spreading destructive programmes such as computer viruses, thereby affecting the normal operation of a computer information system."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Section 1 Acts Disturbing Public Order and Penalties"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where a person, in violation of State provisions, manufactures, buys or sells, stores, transports, mails, carries, uses, provides or disposes of dangerous substances such as explosive, toxic, radioactive or corrosive substances or pathogens of infectious diseases, detention of not less than ten days but not more than 15 days shall be imposed; where the circumstances are relatively minor, detention of not less than five days but not more than ten days shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Section 2 Acts Impairing Public Security and Penalties"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where dangerous substances such as explosive, toxic, radioactive or corrosive substances or pathogens of infectious diseases are stolen, robbed or lost and the matter is not reported in accordance with provisions, detention of not more than five days shall be imposed; where the matter is intentionally concealed and not reported, detention of not less than five days but not more than ten days shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Section 2 Acts Impairing Public Security and Penalties"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Where a person unlawfully carries firearms, ammunition, or controlled instruments such as crossbows and daggers prescribed by the State, detention of not more than five days shall be imposed, and a fine of not more than 500 yuan may be imposed concurrently; where the circumstances are relatively minor, a warning or a fine of not more than 200 yuan shall be imposed.\nWhere a person unlawfully carries firearms, ammunition, or controlled instruments such as crossbows and daggers prescribed by the State into a public place or onto a means of public transport, detention of not less than five days but not more than ten days shall be imposed, and a fine of not more than 500 yuan may be imposed concurrently."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Section 2 Acts Impairing Public Security and Penalties"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Where any of the following acts is committed, detention of not less than ten days but not more than 15 days shall be imposed:\n(1) stealing or damaging facilities for oil and gas pipelines, power and telecommunications, radio and television, water conservancy and flood control projects, or public facilities for hydrological monitoring, surveying, meteorological observation, environmental monitoring, geological monitoring, seismic monitoring and the like;\n(2) moving or damaging boundary tablets, boundary markers and other border signs and border facilities of the national border, or signs and facilities marking the territorial land or territorial sea;\n(3) unlawfully carrying out activities affecting the course of the national boundary (border) line, or constructing facilities obstructing the administration of the national boundary (border)."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Section 2 Acts Impairing Public Security and Penalties"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Where a person steals, damages or moves without authorisation aviation facilities in use, or forcibly enters the cockpit of an aircraft, detention of not less than ten days but not more than 15 days shall be imposed.\nWhere a person uses on an aircraft in use instruments or tools that may affect the normal functioning of the navigation system and refuses to stop when dissuaded, detention of not more than five days or a fine of not more than 500 yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Section 2 Acts Impairing Public Security and Penalties"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Where any of the following acts is committed, detention of not less than five days but not more than ten days shall be imposed, and a fine of not more than 500 yuan may be imposed concurrently; where the circumstances are relatively minor, detention of not more than five days or a fine of not more than 500 yuan shall be imposed:\n(1) stealing, damaging or moving without authorisation railway facilities, equipment, parts of locomotives and rolling stock, or safety signs;\n(2) placing obstacles on a railway line, or intentionally throwing objects at a train;\n(3) digging pits or quarrying stone or sand on a railway line, bridge or culvert;\n(4) privately establishing a level crossing or a grade crossing on a railway line."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Section 2 Acts Impairing Public Security and Penalties"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Where a person enters a railway protective fence without authorisation, or walks, sits or lies on a railway line when a train is approaching, or forcibly crosses a railway, thereby affecting traffic safety, a warning or a fine of not more than 200 yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Section 2 Acts Impairing Public Security and Penalties"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Where any of the following acts is committed, detention of not more than five days or a fine of not more than 500 yuan shall be imposed; where the circumstances are serious, detention of not less than five days but not more than ten days shall be imposed, and a fine of not more than 500 yuan may be imposed concurrently:\n(1) installing or using an electric fence without approval, or installing or using an electric fence not conforming to safety provisions;\n(2) carrying out construction at a place where vehicles and pedestrians pass without providing covers, protective enclosures and warning signs for ditches, wells, pits and holes, or intentionally damaging or moving covers, protective enclosures and warning signs;\n(3) stealing or damaging public facilities such as road manhole covers and lighting."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Section 2 Acts Impairing Public Security and Penalties"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where the holding of a large-scale mass activity such as a cultural or sports event, in violation of the relevant provisions, involves a risk of a safety accident, the activity shall be ordered to stop and the participants shall be immediately evacuated; the organiser shall be given detention of not less than five days but not more than ten days and a fine of not less than 200 yuan but not more than 500 yuan; where the circumstances are relatively minor, detention of not more than five days or a fine of not more than 500 yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Section 2 Acts Impairing Public Security and Penalties"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where the persons in charge of the operation and management of hotels, restaurants, cinemas and theatres, places of entertainment, sports grounds, exhibition halls or other places for public activities violate safety provisions, so that the place involves a risk of a safety accident, and refuse to correct the matter after being ordered by the public security organ to do so, detention of not more than five days shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Section 2 Acts Impairing Public Security and Penalties"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where any of the following acts is committed, detention of not less than ten days but not more than 15 days shall be imposed, and a fine of not less than 500 yuan but not more than 1,000 yuan shall be imposed concurrently; where the circumstances are relatively minor, detention of not less than five days but not more than ten days shall be imposed, and a fine of not less than 200 yuan but not more than 500 yuan shall be imposed concurrently:\n(1) organising, coercing or inveigling a person under the age of 16 or a disabled person to give terrifying or cruel performances;\n(2) compelling another person to work by violence, threat or other means;\n(3) unlawfully restricting another person's personal freedom, unlawfully intruding into another person's residence, or unlawfully searching another person's body."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Section 3 Acts Infringing upon Rights of the Person and of Property and Penalties"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where a person coerces, inveigles or uses another person to beg, detention of not less than ten days but not more than 15 days shall be imposed, and a fine of not more than 1,000 yuan may be imposed concurrently.\nWhere a person begs by repeatedly pestering others, forcibly demanding alms or other means of annoying others, detention of not more than five days or a warning shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Section 3 Acts Infringing upon Rights of the Person and of Property and Penalties"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where any of the following acts is committed, detention of not more than five days or a fine of not more than 500 yuan shall be imposed; where the circumstances are relatively serious, detention of not less than five days but not more than ten days shall be imposed, and a fine of not more than 500 yuan may be imposed concurrently:\n(1) writing a letter of intimidation or by other means threatening the personal safety of another person;\n(2) openly insulting another person or fabricating facts to slander another person;\n(3) fabricating facts to make a false accusation against another person in an attempt to have criminal proceedings instituted against that person or to have public security administration punishment imposed on that person;\n(4) threatening, insulting, beating or retaliating against a witness or a close relative of a witness;\n(5) repeatedly sending obscene, insulting, intimidating or other information, thereby interfering with the normal life of another person;\n(6) peeping, secretly photographing, eavesdropping or disseminating the privacy of another person."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Section 3 Acts Infringing upon Rights of the Person and of Property and Penalties"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where a person beats another person or intentionally injures another person's body, detention of not less than five days but not more than ten days shall be imposed, and a fine of not less than 200 yuan but not more than 500 yuan shall be imposed concurrently; where the circumstances are relatively minor, detention of not more than five days or a fine of not more than 500 yuan shall be imposed.\nWhere any of the following circumstances exists, detention of not less than ten days but not more than 15 days shall be imposed, and a fine of not less than 500 yuan but not more than 1,000 yuan shall be imposed concurrently:\n(1) beating or injuring another person in a gang;\n(2) beating or injuring a disabled person, a pregnant woman, a person under the age of 14 or a person of 60 years of age or older;\n(3) repeatedly beating or injuring another person, or beating or injuring several persons on one occasion."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Section 3 Acts Infringing upon Rights of the Person and of Property and Penalties"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where a person commits an indecent act against another person, or intentionally exposes his body in a public place with odious circumstances, detention of not less than five days but not more than ten days shall be imposed; where a person commits an indecent act against a person with intellectual disability or mental illness or a person under the age of 14, or where there are other serious circumstances, detention of not less than ten days but not more than 15 days shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Section 3 Acts Infringing upon Rights of the Person and of Property and Penalties"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where any of the following acts is committed, detention of not more than five days or a warning shall be imposed:\n(1) maltreating a family member, where the maltreated person requests handling;\n(2) abandoning a person being supported who has no capacity for independent living."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Section 3 Acts Infringing upon Rights of the Person and of Property and Penalties"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where a person forces a purchase or sale of goods, forces another person to provide services or forces another person to accept services, detention of not less than five days but not more than ten days shall be imposed, and a fine of not less than 200 yuan but not more than 500 yuan shall be imposed concurrently; where the circumstances are relatively minor, detention of not more than five days or a fine of not more than 500 yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Section 3 Acts Infringing upon Rights of the Person and of Property and Penalties"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where a person incites ethnic hatred or ethnic discrimination, or publishes content of ethnic discrimination or insult in publications or computer information networks, detention of not less than ten days but not more than 15 days shall be imposed, and a fine of not more than 1,000 yuan may be imposed concurrently."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Section 3 Acts Infringing upon Rights of the Person and of Property and Penalties"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where a person falsely claims, conceals, destroys or discards, privately opens or unlawfully inspects another person's mail, detention of not more than five days or a fine of not more than 500 yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Section 3 Acts Infringing upon Rights of the Person and of Property and Penalties"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where a person steals, swindles, plunders, seizes, extorts, or intentionally damages public or private property, detention of not less than five days but not more than ten days shall be imposed, and a fine of not more than 500 yuan may be imposed concurrently; where the circumstances are relatively serious, detention of not less than ten days but not more than 15 days shall be imposed, and a fine of not more than 1,000 yuan may be imposed concurrently."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Section 3 Acts Infringing upon Rights of the Person and of Property and Penalties"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where any of the following acts is committed, a warning or a fine of not more than 200 yuan shall be imposed; where the circumstances are serious, detention of not less than five days but not more than ten days shall be imposed, and a fine of not more than 500 yuan may be imposed concurrently:\n(1) refusing to implement decisions or orders lawfully issued by a people's government under a state of emergency;\n(2) obstructing State organ staff members in performing their duties in accordance with law;\n(3) obstructing the passage of vehicles such as fire engines, ambulances, engineering rescue vehicles and police vehicles carrying out emergency tasks;\n(4) forcibly breaking through the cordon or cordoned area set up by a public security organ.\nWhere a person obstructs the people's police in performing their duties in accordance with law, a heavier punishment shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Section 4 Acts Impeding Social Administration and Penalties"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where a person poses as a State organ staff member or under another false identity practises deception to seek gain, detention of not less than five days but not more than ten days shall be imposed, and a fine of not more than 500 yuan may be imposed concurrently; where the circumstances are relatively minor, detention of not more than five days or a fine of not more than 500 yuan shall be imposed.\nWhere a person poses as a member of the military or the police and practises deception to seek gain, a heavier punishment shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Section 4 Acts Impeding Social Administration and Penalties"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where any of the following acts is committed, detention of not less than ten days but not more than 15 days shall be imposed, and a fine of not more than 1,000 yuan may be imposed concurrently; where the circumstances are relatively minor, detention of not less than five days but not more than ten days shall be imposed, and a fine of not more than 500 yuan may be imposed concurrently:\n(1) forging, altering, buying or selling official documents, certificates, certification documents or seals of a State organ, people's organisation, enterprise, public institution or other organisation;\n(2) buying, selling or using forged or altered official documents, certificates or certification documents of a State organ, people's organisation, enterprise, public institution or other organisation;\n(3) forging, altering or reselling train tickets, boat tickets, air tickets, tickets for cultural performances, admission tickets for sports competitions or other valuable tickets or vouchers;\n(4) forging or altering vessel registration plates, buying, selling or using forged or altered vessel registration plates, or altering the engine number of a vessel."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Section 4 Acts Impeding Social Administration and Penalties"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where a vessel enters or berths at waters or islands that the State prohibits or restricts entry to without authorisation, the person in charge of the vessel and the persons responsible concerned shall be fined not less than 500 yuan but not more than 1,000 yuan; where the circumstances are serious, detention of not more than five days shall be imposed, and a fine of not less than 500 yuan but not more than 1,000 yuan shall be imposed concurrently."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Section 4 Acts Impeding Social Administration and Penalties"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where any of the following acts is committed, detention of not less than ten days but not more than 15 days shall be imposed, and a fine of not less than 500 yuan but not more than 1,000 yuan shall be imposed concurrently; where the circumstances are relatively minor, detention of not more than five days or a fine of not more than 500 yuan shall be imposed:\n(1) in violation of State provisions and without registration, conducting activities in the name of a social organisation and continuing to conduct such activities after being banned;\n(2) a social organisation whose registration has been revoked in accordance with law continuing to conduct activities in the name of a social organisation;\n(3) without permission, operating without authorisation a trade that requires permission from the public security organ in accordance with State provisions.\nWhere the act in item (3) of the preceding paragraph is committed, the operation shall be banned.\nWhere an operator that has obtained permission from the public security organ violates the relevant State administration provisions and the circumstances are serious, the public security organ may revoke the licence."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Section 4 Acts Impeding Social Administration and Penalties"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where a person incites or plans an unlawful assembly, procession or demonstration and refuses to stop when dissuaded, detention of not less than ten days but not more than 15 days shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Section 4 Acts Impeding Social Administration and Penalties"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where a staff member of the hotel industry fails to register, in accordance with provisions, the name, type and number of the identity certificate of a guest staying at the hotel, or, knowing that a guest staying at the hotel is bringing dangerous substances into the hotel, fails to stop it, a fine of not less than 200 yuan but not more than 500 yuan shall be imposed.\nWhere a staff member of the hotel industry, knowing that a guest staying at the hotel is a criminal suspect or a person wanted by a public security organ, fails to report to the public security organ, a fine of not less than 200 yuan but not more than 500 yuan shall be imposed; where the circumstances are serious, detention of not more than five days shall be imposed, and a fine of not more than 500 yuan may be imposed concurrently."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Section 4 Acts Impeding Social Administration and Penalties"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where a house lessor leases a house to a person without an identity certificate for residence, or fails to register, in accordance with provisions, the name, type and number of the identity certificate of the lessee, a fine of not less than 200 yuan but not more than 500 yuan shall be imposed.\nWhere a house lessor, knowing that the lessee uses the leased house for criminal activities, fails to report to the public security organ, a fine of not less than 200 yuan but not more than 500 yuan shall be imposed; where the circumstances are serious, detention of not more than five days shall be imposed, and a fine of not more than 500 yuan may be imposed concurrently."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Section 4 Acts Impeding Social Administration and Penalties"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where a person, in violation of the legal provisions on the prevention and control of pollution from noise in social life, creates noise interfering with the normal life of another person, a warning shall be imposed; where the person fails to correct the matter after the warning, a fine of not less than 200 yuan but not more than 500 yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Section 4 Acts Impeding Social Administration and Penalties"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where any of the following acts is committed, a fine of not less than 500 yuan but not more than 1,000 yuan shall be imposed; where the circumstances are serious, detention of not less than five days but not more than ten days shall be imposed, and a fine of not less than 500 yuan but not more than 1,000 yuan shall be imposed concurrently:\n(1) a staff member of the pawnbroking industry accepting pawned articles without examining the relevant certificates, without completing the registration formalities, or, knowing that they are criminal suspects or stolen goods, failing to report to the public security organ;\n(2) in violation of State provisions, purchasing waste and used special-purpose equipment of railways, oilfields, power supply, telecommunications, mines, water conservancy, surveying and urban public facilities;\n(3) purchasing stolen goods or articles suspected of being stolen goods that the public security organ has circulated for search;\n(4) purchasing other articles whose purchase is prohibited by the State."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Section 4 Acts Impeding Social Administration and Penalties"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Where any of the following acts is committed, detention of not less than five days but not more than ten days shall be imposed, and a fine of not less than 200 yuan but not more than 500 yuan shall be imposed concurrently:\n(1) concealing, transferring, selling off or damaging property seized, sealed up or frozen by an administrative law enforcement organ in accordance with law;\n(2) forging, concealing or destroying evidence, or providing false testimony or falsely reporting the circumstances of a case, thereby affecting the handling of the case by an administrative law enforcement organ in accordance with law;\n(3) knowingly harbouring, transferring or selling on behalf of another person stolen goods;\n(4) a criminal who is subject to public surveillance, deprivation of political rights, probation or temporary execution of sentence outside prison in accordance with law, or a person against whom criminal compulsory measures have been taken in accordance with law, committing an act in violation of laws, administrative regulations or the provisions on supervision and administration of the relevant department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Section 4 Acts Impeding Social Administration and Penalties"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where a person assists in organising or transporting another person to illegally cross the national boundary (border), detention of not less than ten days but not more than 15 days shall be imposed, and a fine of not less than 1,000 yuan but not more than 5,000 yuan shall be imposed concurrently."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Section 4 Acts Impeding Social Administration and Penalties"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Where a person provides conditions for a person illegally crossing the national boundary (border), detention of not less than five days but not more than ten days shall be imposed, and a fine of not less than 500 yuan but not more than 2,000 yuan shall be imposed concurrently.\nWhere a person illegally crosses the national boundary (border), detention of not more than five days or a fine of not more than 500 yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Section 4 Acts Impeding Social Administration and Penalties"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Where any of the following acts is committed, a warning or a fine of not more than 200 yuan shall be imposed; where the circumstances are relatively serious, detention of not less than five days but not more than ten days shall be imposed, and a fine of not less than 200 yuan but not more than 500 yuan shall be imposed concurrently:\n(1) scratching, defacing or by other means intentionally damaging cultural relics or scenic spots and historical sites protected by the State;\n(2) in violation of State provisions, carrying out blasting, excavation or other activities near a site protected as a cultural relic, thereby endangering the safety of the cultural relic."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Section 4 Acts Impeding Social Administration and Penalties"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Where any of the following acts is committed, a fine of not less than 500 yuan but not more than 1,000 yuan shall be imposed; where the circumstances are serious, detention of not less than ten days but not more than 15 days shall be imposed, and a fine of not less than 500 yuan but not more than 1,000 yuan shall be imposed concurrently:\n(1) secretly driving another person's motor vehicle;\n(2) driving without obtaining a driving licence, or secretly driving another person's aircraft or motor vessel."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Section 4 Acts Impeding Social Administration and Penalties"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Where any of the following acts is committed, detention of not less than five days but not more than ten days shall be imposed; where the circumstances are serious, detention of not less than ten days but not more than 15 days shall be imposed, and a fine of not more than 1,000 yuan may be imposed concurrently:\n(1) intentionally destroying or defiling another person's grave, or destroying or discarding another person's remains or ashes;\n(2) placing a corpse in a public place, or affecting the normal life or work order of others by placing a corpse and refusing to stop when dissuaded."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Section 4 Acts Impeding Social Administration and Penalties"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Where a person engages in prostitution or visits a prostitute, detention of not less than ten days but not more than 15 days shall be imposed, and a fine of not more than 5,000 yuan may be imposed concurrently; where the circumstances are relatively minor, detention of not more than five days or a fine of not more than 500 yuan shall be imposed.\nWhere a person solicits clients in a public place for prostitution, detention of not more than five days or a fine of not more than 500 yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Section 4 Acts Impeding Social Administration and Penalties"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Where a person lures, shelters or introduces another person into prostitution, detention of not less than ten days but not more than 15 days shall be imposed, and a fine of not more than 5,000 yuan may be imposed concurrently; where the circumstances are relatively minor, detention of not more than five days or a fine of not more than 500 yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Section 4 Acts Impeding Social Administration and Penalties"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "Where a person produces, transports, reproduces, sells or rents obscene publications, pictures, films, audio-visual products or other obscene articles, or disseminates obscene information through computer information networks, telephones or other communication tools, detention of not less than ten days but not more than 15 days shall be imposed, and a fine of not more than 3,000 yuan may be imposed concurrently; where the circumstances are relatively minor, detention of not more than five days or a fine of not more than 500 yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Section 4 Acts Impeding Social Administration and Penalties"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "Where any of the following acts is committed, detention of not less than ten days but not more than 15 days shall be imposed, and a fine of not less than 500 yuan but not more than 1,000 yuan shall be imposed concurrently:\n(1) organising the showing of obscene audio-visual materials;\n(2) organising or giving obscene performances;\n(3) participating in group licentious activities.\nWhere a person, knowing that another person is engaged in the activities in the preceding paragraph, provides conditions for that person, the person shall be punished in accordance with the provisions of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Section 4 Acts Impeding Social Administration and Penalties"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "Where a person, for the purpose of profit, provides conditions for gambling, or participates in gambling with relatively large gambling funds, detention of not more than five days or a fine of not more than 500 yuan shall be imposed; where the circumstances are serious, detention of not less than ten days but not more than 15 days shall be imposed, and a fine of not less than 500 yuan but not more than 3,000 yuan shall be imposed concurrently."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Section 4 Acts Impeding Social Administration and Penalties"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "Where any of the following acts is committed, detention of not less than ten days but not more than 15 days shall be imposed, and a fine of not more than 3,000 yuan may be imposed concurrently; where the circumstances are relatively minor, detention of not more than five days or a fine of not more than 500 yuan shall be imposed:\n(1) unlawfully cultivating fewer than 500 poppy plants or a small quantity of other mother plants of narcotic drugs;\n(2) unlawfully buying, selling, transporting, carrying or possessing a small quantity of seeds or seedlings of mother plants of narcotic drugs such as poppies that have not been rendered inactive;\n(3) unlawfully transporting, buying, selling, storing or using a small quantity of poppy husks.\nWhere a person commits the act in item (1) of the preceding paragraph and voluntarily eradicates the plants before they mature, no punishment shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Section 4 Acts Impeding Social Administration and Penalties"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "Where any of the following acts is committed, detention of not less than ten days but not more than 15 days shall be imposed, and a fine of not more than 2,000 yuan may be imposed concurrently; where the circumstances are relatively minor, detention of not more than five days or a fine of not more than 500 yuan shall be imposed:\n(1) unlawfully possessing fewer than 200 grammes of opium, fewer than ten grammes of heroin or methamphetamine, or a small quantity of other narcotic drugs;\n(2) providing narcotic drugs to another person;\n(3) ingesting or injecting narcotic drugs;\n(4) coercing or deceiving medical personnel into prescribing narcotic drugs or psychotropic drugs."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Section 4 Acts Impeding Social Administration and Penalties"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "Where a person instigates, lures or deceives another person into ingesting or injecting narcotic drugs, detention of not less than ten days but not more than 15 days shall be imposed, and a fine of not less than 500 yuan but not more than 2,000 yuan shall be imposed concurrently."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Section 4 Acts Impeding Social Administration and Penalties"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "Where a staff member of a unit in the hotel industry, catering service industry, cultural and entertainment industry, taxi industry or the like tips off a person who has violated the law or committed a crime while the public security organ is investigating and dealing with drug abuse, gambling, prostitution or visiting prostitutes, detention of not less than ten days but not more than 15 days shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Section 4 Acts Impeding Social Administration and Penalties"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "Where a person keeps an animal that interferes with the normal life of another person, a warning shall be imposed; where the person fails to correct the matter after the warning, or allows the animal to intimidate another person, a fine of not less than 200 yuan but not more than 500 yuan shall be imposed.\nWhere a person incites an animal to injure another person, punishment shall be imposed in accordance with the provisions of paragraph 1 of Article 43 of this Law."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Section 4 Acts Impeding Social Administration and Penalties"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "Where a person commits the acts in Articles 67, 68 and 70 of this Law and refuses to mend his ways despite repeated education, compulsory educational measures may be taken in accordance with State provisions."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Section 4 Acts Impeding Social Administration and Penalties"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "In respect of a public security case arising from a report, complaint or information, or from the voluntary surrender of a person who has violated public security administration, or transferred by another administrative competent department or judicial organ, the public security organ shall promptly accept the case and register it."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Section 1 Investigation"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "After accepting a report, complaint, information or surrender, where the public security organ considers that the act is one violating public security administration, it shall immediately conduct an investigation; where it considers that the act is not one violating public security administration, it shall inform the person who reported, complained, informed or surrendered and explain the reasons."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Section 1 Investigation"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "The investigation of public security cases by public security organs and their people's police shall be conducted in accordance with law. It is strictly prohibited to extort confessions by torture or to collect evidence by unlawful means such as threat, enticement or deception.\nEvidence collected by unlawful means shall not serve as the basis for punishment."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Section 1 Investigation"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "When handling public security cases, public security organs and their people's police shall keep confidential the State secrets, commercial secrets or personal privacy involved."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Section 1 Investigation"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "Where, in the course of handling a public security case, a people's policeman falls under any of the following circumstances, he shall recuse himself; the person who committed the act violating public security administration, the victim or the legal representative thereof shall also have the right to request his recusal:\n(1) he is a party to the case or a close relative of a party;\n(2) he or a close relative of his has an interest in the case;\n(3) he has other relationships with a party to the case that may affect the impartial handling of the case.\nThe recusal of a people's policeman shall be decided by the public security organ to which he belongs; the recusal of the person in charge of a public security organ shall be decided by the public security organ at the next higher level."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Section 1 Investigation"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "Where a person who has violated public security administration needs to be summoned for investigation, a summons shall be served on the strength of a summons notice with the approval of the person in charge of the case-handling department of the public security organ. In respect of a person who has violated public security administration discovered at the scene, a people's policeman may, after producing his work certificate, summon the person orally, but this shall be noted in the record of inquiry.\nThe public security organ shall inform the person summoned of the reasons for and basis of the summons. Where a person refuses to accept the summons without justified reason or evades the summons, compulsory summons may be used."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Section 1 Investigation"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "In respect of a person who has violated public security administration, the public security organ shall, after summoning him, promptly inquire and verify the matter, and the time for inquiry and verification shall not exceed eight hours; where the case is complicated and administrative detention may be applied in accordance with the provisions of this Law, the time for inquiry and verification shall not exceed 24 hours.\nThe public security organ shall promptly notify the family members of the person summoned of the reasons for and place of the summons."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Section 1 Investigation"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "The record of inquiry shall be handed to the person questioned for verification; where the person has no reading ability, it shall be read out to him. Where there are omissions or errors in the record, the person questioned may request additions or corrections. After the person questioned confirms that the record is correct, he shall sign or seal it, and the people's policeman conducting the inquiry shall also sign the record.\nWhere the person questioned requests to provide written materials himself on the matters inquired into, this shall be permitted; where necessary, the people's policeman may also require the person questioned to write them himself.\nWhere a person under the age of 16 who has violated public security administration is questioned, his parents or other guardians shall be notified to be present."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Section 1 Investigation"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "When a people's policeman questions the victim or another witness, he may do so at the unit or residence of that person; where necessary, he may also notify that person to come to the public security organ to give testimony.\nWhen questioning the victim or another witness outside the public security organ, a people's policeman shall produce his work certificate.\nThe provisions of Article 84 of this Law shall also apply to the questioning of the victim or another witness."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        },
+        "chapter": {
+          "en": "Section 1 Investigation"
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "When questioning a deaf or mute person who has violated public security administration, the victim or another witness, a person who understands sign language shall be present to provide assistance, and this shall be noted in the record.\nWhen questioning a person who has violated public security administration, the victim or another witness who does not understand the spoken or written language commonly used in the locality, an interpreter shall be provided, and this shall be noted in the record."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        },
+        "chapter": {
+          "en": "Section 1 Investigation"
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "A public security organ may inspect the premises, articles and persons related to an act violating public security administration. During inspection, there shall be not fewer than two people's policemen, and they shall produce their work certificates and the inspection certification document issued by the public security organ of a people's government at or above the county level. Where inspection is really necessary to be carried out immediately, a people's policeman may, after producing his work certificate, conduct an on-the-spot inspection, but inspection of a citizen's residence shall require the production of the inspection certification document issued by the public security organ of a people's government at or above the county level.\nInspection of the body of a woman shall be carried out by female staff members."
+        },
+        "noLabel": {
+          "en": "Article 87."
+        },
+        "chapter": {
+          "en": "Section 1 Investigation"
+        }
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "A record of inspection shall be made of the inspection, and it shall be signed or sealed by the inspector, the person inspected and a witness; where the person inspected refuses to sign, the people's policeman shall note this in the record."
+        },
+        "noLabel": {
+          "en": "Article 88."
+        },
+        "chapter": {
+          "en": "Section 1 Investigation"
+        }
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "When handling a public security case, a public security organ may seize articles related to the case that need to be used as evidence; property lawfully possessed by the victim or a third party acting in good faith shall not be seized but shall be registered. Articles unrelated to the case shall not be seized.\nSeized articles shall be checked and counted clearly together with the witnesses present and the holder of the seized articles, and a list in duplicate shall be made on the spot, signed or sealed by the investigators, the witnesses and the holder, with one copy given to the holder and the other placed on file for reference.\nSeized articles shall be properly kept and shall not be used for other purposes; articles unsuitable for long-term preservation shall be disposed of in accordance with the relevant provisions. Articles ascertained to be unrelated to the case shall be returned promptly; articles verified to be the lawful property of others shall be registered and immediately returned; where after six months no one claims rights over the property or the owner cannot be ascertained, it shall be publicly auctioned or disposed of in accordance with the relevant provisions of the State, and the proceeds shall be turned over to the State treasury."
+        },
+        "noLabel": {
+          "en": "Article 89."
+        },
+        "chapter": {
+          "en": "Section 1 Investigation"
+        }
+      },
+      {
+        "no": 90,
+        "text": {
+          "en": "Where, in order to ascertain the circumstances of a case, it is necessary to resolve a specialised issue in dispute in the case, persons with specialised knowledge shall be designated or engaged to conduct an appraisal; after appraisal, the appraiser shall write an appraisal opinion and sign it."
+        },
+        "noLabel": {
+          "en": "Article 90."
+        },
+        "chapter": {
+          "en": "Section 1 Investigation"
+        }
+      },
+      {
+        "no": 91,
+        "text": {
+          "en": "Public security administration punishment shall be decided by the public security organ of a people's government at or above the county level; among such punishments, a warning and a fine of not more than 500 yuan may be decided by a public security police station."
+        },
+        "noLabel": {
+          "en": "Article 91."
+        },
+        "chapter": {
+          "en": "Section 2 Decision"
+        }
+      },
+      {
+        "no": 92,
+        "text": {
+          "en": "In respect of a person in respect of whom a decision to impose administrative detention has been made, the time during which compulsory measures restricting personal freedom were taken before the punishment shall be deducted. One day of restriction of personal freedom shall be deducted as one day of administrative detention."
+        },
+        "noLabel": {
+          "en": "Article 92."
+        },
+        "chapter": {
+          "en": "Section 2 Decision"
+        }
+      },
+      {
+        "no": 93,
+        "text": {
+          "en": "Where, in investigating and dealing with a public security case, there is no personal statement but other evidence can prove the facts of the case, the public security organ may make a decision on public security administration punishment. However, where there is only a personal statement and no other evidence to prove it, no decision on public security administration punishment may be made."
+        },
+        "noLabel": {
+          "en": "Article 93."
+        },
+        "chapter": {
+          "en": "Section 2 Decision"
+        }
+      },
+      {
+        "no": 94,
+        "text": {
+          "en": "Before making a decision on public security administration punishment, the public security organ shall inform the person who committed the act violating public security administration of the facts, reasons and basis for the punishment and of the rights he enjoys in accordance with law.\nThe person who committed the act violating public security administration shall have the right to make statements and defend himself. The public security organ must fully listen to the views of that person and shall review the facts, reasons and evidence put forward by that person; where the facts, reasons or evidence put forward by that person are tenable, the public security organ shall adopt them.\nThe public security organ shall not aggravate the punishment because of the statements or defence of the person who committed the act violating public security administration."
+        },
+        "noLabel": {
+          "en": "Article 94."
+        },
+        "chapter": {
+          "en": "Section 2 Decision"
+        }
+      },
+      {
+        "no": 95,
+        "text": {
+          "en": "After the investigation of a public security case is concluded, the public security organ shall, according to the different circumstances, handle the case as follows:\n(1) where there really is an unlawful act for which public security administration punishment should be imposed in accordance with law, make a punishment decision according to the seriousness of the circumstances and the specific situation;\n(2) where no punishment should be imposed in accordance with law, or where the facts of the unlawful act cannot be established, make a decision not to impose punishment;\n(3) where the unlawful act is suspected of constituting a crime, transfer the case to the competent authority for pursuit of criminal liability in accordance with law;\n(4) where it is discovered that the person who committed the act violating public security administration has committed other unlawful acts, notify the relevant administrative competent department for handling at the same time as making the punishment decision in respect of the act violating public security administration."
+        },
+        "noLabel": {
+          "en": "Article 95."
+        },
+        "chapter": {
+          "en": "Section 2 Decision"
+        }
+      },
+      {
+        "no": 96,
+        "text": {
+          "en": "Where a public security organ makes a decision on public security administration punishment, it shall produce a written decision on public security administration punishment. The written decision shall state the following:\n(1) the name, sex, age, name and number of the identity certificate and address of the person punished;\n(2) the facts of the unlawful act and the evidence;\n(3) the type of punishment and its basis;\n(4) the manner and time limit for executing the punishment;\n(5) the channels and time limits for applying for administrative reconsideration or bringing an administrative action where the person is dissatisfied with the punishment decision;\n(6) the name of the public security organ making the punishment decision and the date of the decision.\nThe written decision shall bear the seal of the public security organ that made the punishment decision."
+        },
+        "noLabel": {
+          "en": "Article 96."
+        },
+        "chapter": {
+          "en": "Section 2 Decision"
+        }
+      },
+      {
+        "no": 97,
+        "text": {
+          "en": "The public security organ shall announce the written decision on public security administration punishment to the person punished and deliver it to that person on the spot; where it is impossible to announce it to the person punished on the spot, it shall be served on that person within two days. Where the decision is to impose administrative detention, the family members of the person punished shall be notified in a timely manner.\nWhere there is a victim, the public security organ shall send a copy of the written decision to the victim."
+        },
+        "noLabel": {
+          "en": "Article 97."
+        },
+        "chapter": {
+          "en": "Section 2 Decision"
+        }
+      },
+      {
+        "no": 98,
+        "text": {
+          "en": "Before making a decision on public security administration punishment involving revocation of a licence or a fine of 2,000 yuan or more, the public security organ shall inform the person who committed the act violating public security administration of his right to request a hearing; where that person requests a hearing, the public security organ shall promptly hold a hearing in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 98."
+        },
+        "chapter": {
+          "en": "Section 2 Decision"
+        }
+      },
+      {
+        "no": 99,
+        "text": {
+          "en": "The time limit for the public security organ to handle a public security case shall not exceed 30 days from the date of acceptance; where the case is major and complicated, the time limit may be extended by 30 days with the approval of the public security organ at the next higher level.\nThe period for appraisal conducted in order to ascertain the circumstances of a case shall not be counted in the time limit for handling the public security case."
+        },
+        "noLabel": {
+          "en": "Article 99."
+        },
+        "chapter": {
+          "en": "Section 2 Decision"
+        }
+      },
+      {
+        "no": 100,
+        "text": {
+          "en": "Where the facts of an act violating public security administration are clear, the evidence is conclusive and the punishment is a warning or a fine of not more than 200 yuan, a decision on public security administration punishment may be made on the spot."
+        },
+        "noLabel": {
+          "en": "Article 100."
+        },
+        "chapter": {
+          "en": "Section 2 Decision"
+        }
+      },
+      {
+        "no": 101,
+        "text": {
+          "en": "Where a decision on public security administration punishment is made on the spot, the people's policeman shall produce his work certificate to the person who committed the act violating public security administration and fill in a written punishment decision. The written punishment decision shall be delivered to the person punished on the spot; where there is a victim, a copy of the written decision shall also be sent to the victim.\nThe written punishment decision provided in the preceding paragraph shall state the name of the person punished, the unlawful act, the basis of the punishment, the amount of the fine, the time and place and the name of the public security organ, and shall be signed or sealed by the people's policeman handling the matter.\nWhere a decision on public security administration punishment is made on the spot, the people's policeman handling the matter shall report it to the public security organ to which he belongs for the record within 24 hours."
+        },
+        "noLabel": {
+          "en": "Article 101."
+        },
+        "chapter": {
+          "en": "Section 2 Decision"
+        }
+      },
+      {
+        "no": 102,
+        "text": {
+          "en": "Where a person punished is dissatisfied with a decision on public security administration punishment, he may apply for administrative reconsideration or bring an administrative action in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 102."
+        },
+        "chapter": {
+          "en": "Section 2 Decision"
+        }
+      },
+      {
+        "no": 103,
+        "text": {
+          "en": "A person in respect of whom a decision to impose administrative detention has been made shall be delivered by the public security organ that made the decision to a detention house for execution."
+        },
+        "noLabel": {
+          "en": "Article 103."
+        },
+        "chapter": {
+          "en": "Section 3 Execution"
+        }
+      },
+      {
+        "no": 104,
+        "text": {
+          "en": "A person subjected to a fine punishment shall, within 15 days from the date of receipt of the written punishment decision, pay the fine at a designated bank. However, under any of the following circumstances, the people's policeman may collect the fine on the spot:\n(1) the fine is 50 yuan or less and the person punished has no objection to the fine;\n(2) in remote areas, on water or in areas with inconvenient transport, where, after the public security organ and its people's policemen have made a fine decision in accordance with the provisions of this Law, the person punished genuinely has difficulty in paying the fine at a designated bank and so requests;\n(3) the person punished has no fixed residence locally and it would be difficult to enforce the decision later if the fine is not collected on the spot."
+        },
+        "noLabel": {
+          "en": "Article 104."
+        },
+        "chapter": {
+          "en": "Section 3 Execution"
+        }
+      },
+      {
+        "no": 105,
+        "text": {
+          "en": "Fines collected on the spot by people's policemen shall be handed over to the public security organ to which they belong within two days from the date of collection; fines collected on the spot on water or on passenger trains shall be handed over to the public security organ to which they belong within two days from the date of arrival at shore or at the station; the public security organ shall pay the fines to a designated bank within two days from the date of receipt of the fines."
+        },
+        "noLabel": {
+          "en": "Article 105."
+        },
+        "chapter": {
+          "en": "Section 3 Execution"
+        }
+      },
+      {
+        "no": 106,
+        "text": {
+          "en": "Where a people's policeman collects a fine on the spot, he shall issue to the person punished a receipt for the fine uniformly produced and issued by the finance department of the people's government of the province, autonomous region or municipality directly under the Central Government; where no uniformly produced and issued receipt for the fine is issued, the person punished shall have the right to refuse to pay the fine."
+        },
+        "noLabel": {
+          "en": "Article 106."
+        },
+        "chapter": {
+          "en": "Section 3 Execution"
+        }
+      },
+      {
+        "no": 107,
+        "text": {
+          "en": "Where a person punished is dissatisfied with a decision on administrative detention punishment and applies for administrative reconsideration or brings an administrative action, he may apply to the public security organ for suspension of the execution of the administrative detention. Where the public security organ considers that suspension of the execution of the administrative detention would not involve danger to society, and the person punished or a close relative of his provides a guarantor meeting the conditions provided in Article 108 of this Law, or pays a security deposit at the rate of 200 yuan for each day of administrative detention, the punishment decision of administrative detention shall be suspended from execution."
+        },
+        "noLabel": {
+          "en": "Article 107."
+        },
+        "chapter": {
+          "en": "Section 3 Execution"
+        }
+      },
+      {
+        "no": 108,
+        "text": {
+          "en": "A guarantor shall meet the following conditions:\n(1) not being implicated in the case;\n(2) enjoying political rights and not having personal freedom restricted;\n(3) having a permanent residence registration and a fixed residence locally;\n(4) being capable of performing the guarantee obligation."
+        },
+        "noLabel": {
+          "en": "Article 108."
+        },
+        "chapter": {
+          "en": "Section 3 Execution"
+        }
+      },
+      {
+        "no": 109,
+        "text": {
+          "en": "A guarantor shall ensure that the person guaranteed does not evade the execution of the administrative detention punishment.\nWhere a guarantor fails to perform the guarantee obligation, so that the person guaranteed evades the execution of the administrative detention punishment, the public security organ shall impose on the guarantor a fine of not more than 3,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 109."
+        },
+        "chapter": {
+          "en": "Section 3 Execution"
+        }
+      },
+      {
+        "no": 110,
+        "text": {
+          "en": "Where a person in respect of whom a decision to impose administrative detention has been made pays a security deposit and the administrative detention is suspended, and then evades the execution of the administrative detention punishment, the security deposit shall be confiscated and turned over to the State treasury, and the decision on administrative detention already made shall still be executed."
+        },
+        "noLabel": {
+          "en": "Article 110."
+        },
+        "chapter": {
+          "en": "Section 3 Execution"
+        }
+      },
+      {
+        "no": 111,
+        "text": {
+          "en": "Where the punishment decision of administrative detention is revoked, or where execution of the administrative detention punishment begins, the security deposit collected by the public security organ shall be promptly returned to the person who paid it."
+        },
+        "noLabel": {
+          "en": "Article 111."
+        },
+        "chapter": {
+          "en": "Section 3 Execution"
+        }
+      },
+      {
+        "no": 112,
+        "text": {
+          "en": "Public security organs and their people's police shall handle public security cases in accordance with law, impartially, strictly and efficiently, enforce the law in a civilised manner and shall not engage in malpractices for personal gain."
+        },
+        "noLabel": {
+          "en": "Article 112."
+        },
+        "chapter": {
+          "en": "Chapter V Law Enforcement Supervision"
+        }
+      },
+      {
+        "no": 113,
+        "text": {
+          "en": "When public security organs and their people's police handle public security cases, it is prohibited to beat, scold, maltreat or insult persons who have violated public security administration."
+        },
+        "noLabel": {
+          "en": "Article 113."
+        },
+        "chapter": {
+          "en": "Chapter V Law Enforcement Supervision"
+        }
+      },
+      {
+        "no": 114,
+        "text": {
+          "en": "When public security organs and their people's police handle public security cases, they shall consciously accept the supervision of society and citizens.\nWhere public security organs and their people's police fail to enforce the law strictly or commit acts in violation of law or discipline in handling public security cases, any unit or individual shall have the right to report or complain to the public security organ, the people's procuratorate or the administrative supervisory organ; the organ receiving the report or complaint shall handle it promptly in accordance with its duties."
+        },
+        "noLabel": {
+          "en": "Article 114."
+        },
+        "chapter": {
+          "en": "Chapter V Law Enforcement Supervision"
+        }
+      },
+      {
+        "no": 115,
+        "text": {
+          "en": "Where a public security organ imposes a fine punishment in accordance with law, it shall, in accordance with the provisions of the relevant laws and administrative regulations, separate the decision on the fine from the collection of the fine; all fines collected shall be turned over to the State treasury."
+        },
+        "noLabel": {
+          "en": "Article 115."
+        },
+        "chapter": {
+          "en": "Chapter V Law Enforcement Supervision"
+        }
+      },
+      {
+        "no": 116,
+        "text": {
+          "en": "Where a people's policeman, in handling a public security case, commits any of the following acts, administrative sanctions shall be given in accordance with law; where a crime is constituted, criminal liability shall be pursued in accordance with law:\n(1) extorting confessions by torture, or subjecting another person to corporal punishment, maltreatment or insult;\n(2) restricting personal freedom beyond the time limit for inquiry and verification;\n(3) failing to implement the system of separating the decision on a fine from the collection of the fine, or failing to turn over confiscated property or fines to the State treasury in accordance with provisions or to dispose of them in accordance with law;\n(4) privately distributing, misappropriating, embezzling or intentionally damaging confiscated or seized property;\n(5) using property in violation of provisions or failing to return property to the victim in a timely manner;\n(6) failing to return a security deposit in a timely manner in violation of provisions;\n(7) taking advantage of position to accept property from others or seek other benefits;\n(8) collecting a fine on the spot without issuing a receipt for the fine or failing to truthfully fill in the amount of the fine;\n(9) failing to dispatch police promptly after receiving an alarm requesting that an act violating public security administration be stopped;\n(10) tipping off a person who has violated the law or committed a crime when investigating and dealing with activities violating public security administration;\n(11) other circumstances of engaging in malpractices for personal gain, abusing power or failing to perform statutory duties in accordance with law.\nWhere a public security organ handling a public security case commits any of the acts listed in the preceding paragraph, corresponding administrative sanctions shall be given to the directly responsible persons in charge and other directly responsible persons."
+        },
+        "noLabel": {
+          "en": "Article 116."
+        },
+        "chapter": {
+          "en": "Chapter V Law Enforcement Supervision"
+        }
+      },
+      {
+        "no": 117,
+        "text": {
+          "en": "Where public security organs and their people's police unlawfully exercise their functions and powers and infringe upon the lawful rights and interests of citizens, legal persons and other organisations, they shall apologise; where damage is caused, they shall bear liability for compensation in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 117."
+        },
+        "chapter": {
+          "en": "Chapter V Law Enforcement Supervision"
+        }
+      },
+      {
+        "no": 118,
+        "text": {
+          "en": "The terms \"not less than\", \"not more than\" and \"within\" as used in this Law include the figure itself."
+        },
+        "noLabel": {
+          "en": "Article 118."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 119,
+        "text": {
+          "en": "This Law shall come into force on 1 March 2006. The Regulations of the People's Republic of China on Public Security Administration Punishments promulgated on 5 September 1986 and revised and promulgated on 12 May 1994 shall be repealed simultaneously."
+        },
+        "noLabel": {
+          "en": "Article 119."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
         }
       }
     ]

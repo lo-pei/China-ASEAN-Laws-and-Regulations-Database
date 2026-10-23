@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p02
-   法规 70 部 / 译文 4274 条
+   法规 73 部 / 译文 4646 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -27230,6 +27230,1497 @@
     ]
   };
 
+  TR['CN-LAW-0119'] = {
+    "lawId": "CN-LAW-0119",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 126 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is enacted in order to protect and improve the ecological environment, prevent and control pollution of the environment by solid waste, safeguard public health, maintain ecological security, advance ecological civilisation, promote sustainable economic and social development."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "This Law applies to the prevention and control of pollution of the environment by solid waste.\nThis Law does not apply to the prevention and control of pollution of the marine environment by solid waste or to the prevention and control of pollution of the environment by radioactive solid waste."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The State promotes a green development model and advances cleaner production and the development of a circular economy.\nThe State advocates a simple, moderate, green and low-carbon lifestyle, and guides the public in actively participating in the prevention and control of pollution of the environment by solid waste."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The prevention and control of pollution of the environment by solid waste shall adhere to the principles of reduction, resource utilisation and harmlessness.\nEvery unit and individual shall take measures to reduce the quantity of solid waste generated, promote the comprehensive utilisation of solid waste, and reduce the hazardous nature of solid waste."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The prevention and control of pollution of the environment by solid waste shall adhere to the principle of liability of the polluter.\nUnits and individuals that generate, collect, store, transport, utilise or dispose of solid waste shall take measures to prevent or reduce pollution of the environment by solid waste, and shall bear liability in accordance with law for the environmental pollution caused."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The State implements a system of household waste sorting.\nHousehold waste sorting shall adhere to the principles of government promotion, participation of all citizens, coordination of urban and rural areas, adaptation to local conditions, and simplicity and practicality."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Local people's governments at all levels shall be responsible for the prevention and control of pollution of the environment by solid waste within their respective administrative areas.\nThe State applies a target responsibility system and an assessment and evaluation system for the prevention and control of pollution of the environment by solid waste, and incorporates the achievement of the relevant targets into the content of assessment and evaluation."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "People's governments at all levels shall strengthen leadership over the prevention and control of pollution of the environment by solid waste, and organise, coordinate and urge the relevant departments to perform their duties of supervision and administration of such prevention and control in accordance with law.\nProvinces, autonomous regions and municipalities directly under the Central Government may, through consultation, establish joint prevention and control mechanisms for pollution of the environment by solid waste across administrative areas, and make overall plans for the formulation of plans, the construction of facilities and the transfer of solid waste."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The competent department of ecology and environment of the State Council shall exercise unified supervision and administration over the prevention and control of pollution of the environment by solid waste throughout the country. The competent departments of development and reform, industry and information technology, natural resources, housing and urban-rural development, transport, agriculture and rural affairs, commerce, health and customs of the State Council shall, within the scope of their respective duties, be responsible for the supervision and administration of the prevention and control of pollution of the environment by solid waste.\nThe competent departments of ecology and environment of local people's governments shall exercise unified supervision and administration over the prevention and control of pollution of the environment by solid waste within their respective administrative areas. The competent departments of development and reform, industry and information technology, natural resources, housing and urban-rural development, transport, agriculture and rural affairs, commerce and health of local people's governments shall, within the scope of their respective duties, be responsible for the supervision and administration of the prevention and control of pollution of the environment by solid waste."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The State encourages and supports scientific research, technological development, popularisation of advanced technology and popularisation of science in the prevention and control of pollution of the environment by solid waste, and strengthens scientific and technological support for such prevention and control."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "State organs, social groups, enterprises and public institutions, grassroots mass self-governing organisations and the news media shall strengthen publicity, education and popularisation of science on the prevention and control of pollution of the environment by solid waste, and enhance public awareness of such prevention and control.\nSchools shall carry out popularisation and education on household waste sorting and on knowledge of the prevention and control of pollution of the environment by other solid waste."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "People's governments at all levels shall, in accordance with the relevant provisions of the State, commend and reward units and individuals that make notable achievements in the prevention and control of pollution of the environment by solid waste and in the related comprehensive utilisation activities."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "People's governments at or above the county level shall incorporate the prevention and control of pollution of the environment by solid waste into national economic and social development plans and ecological and environmental protection plans, and take effective measures to reduce the quantity of solid waste generated, promote the comprehensive utilisation of solid waste, reduce its hazardous nature, and minimise the amount of solid waste landfilled."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Supervision and Administration"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The competent department of ecology and environment of the State Council shall, jointly with the relevant departments of the State Council and in light of the national environmental quality standards and the economic and technical conditions of the State, formulate standards and procedures for identifying solid waste and national technical standards for the prevention and control of pollution of the environment by solid waste."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Supervision and Administration"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The competent department of standardisation of the State Council shall, jointly with the competent departments of development and reform, industry and information technology, ecology and environment and agriculture and rural affairs of the State Council, formulate standards for the comprehensive utilisation of solid waste.\nThe comprehensive utilisation of solid waste shall comply with the laws and regulations on ecology and environment and meet the technical standards for the prevention and control of pollution of the environment by solid waste. The use of products of comprehensive utilisation of solid waste shall conform to the uses and standards prescribed by the State."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Supervision and Administration"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The competent department of ecology and environment of the State Council shall, jointly with the relevant departments of the State Council, establish a national information platform for the prevention and control of pollution of the environment by hazardous waste and other solid waste, and advance whole-process monitoring and information-based traceability of the collection, transfer and disposal of solid waste."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Supervision and Administration"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Projects that generate, store, utilise or dispose of solid waste shall undergo environmental impact assessment in accordance with law and comply with the provisions of the State on the environmental protection administration of construction projects."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Supervision and Administration"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where the environmental impact assessment document of a construction project determines that supporting facilities for the prevention and control of pollution of the environment by solid waste are required, such facilities shall be designed, constructed and put into use at the same time as the main works. The preliminary design of the construction project shall, in accordance with the requirements of environmental protection design specifications, incorporate the content of prevention and control of pollution of the environment by solid waste into the environmental impact assessment document, and implement the measures for preventing and controlling pollution of the environment by solid waste and ecological damage and the investment estimate for the facilities for such prevention and control.\nThe construction unit shall, in accordance with the provisions of the relevant laws and regulations, conduct acceptance inspection of the supporting facilities for the prevention and control of pollution of the environment by solid waste, prepare an acceptance report and make it public."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Supervision and Administration"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Units and other producers and operators that collect, store, transport, utilise or dispose of solid waste shall strengthen the administration and maintenance of the relevant facilities, equipment and sites, and ensure their normal operation and use."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Supervision and Administration"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Units and other producers and operators that generate, collect, store, transport, utilise or dispose of solid waste shall adopt measures against scattering, loss and leakage or other measures to prevent pollution of the environment, and may not dump, pile, discard or spill solid waste without authorisation.\nNo unit or individual may dump, pile or store solid waste in rivers, lakes, canals, ditches, reservoirs and the beaches and banks below their maximum water levels, or at other locations prescribed by laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Supervision and Administration"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Within ecological conservation red line areas, areas of concentrated permanent capital farmland and other areas requiring special protection, it is prohibited to build facilities and sites for the centralised storage, utilisation and disposal of industrial solid waste or hazardous waste, or landfills for household waste."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Supervision and Administration"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "To transfer solid waste out of the administrative area of a province, autonomous region or municipality directly under the Central Government for storage or disposal, an application shall be submitted to the competent department of ecology and environment of the people's government of the province, autonomous region or municipality directly under the Central Government of the place from which the solid waste is to be removed. That department shall, after promptly consulting and obtaining the consent of the competent department of ecology and environment of the people's government of the receiving province, autonomous region or municipality directly under the Central Government, approve the transfer of the solid waste out of the administrative area within the prescribed time limit. Without approval, the solid waste may not be transferred.\nTo transfer solid waste out of the administrative area of a province, autonomous region or municipality directly under the Central Government for utilisation, the matter shall be filed with the competent department of ecology and environment of the people's government of the place from which the solid waste is to be removed. That department shall notify the competent department of ecology and environment of the people's government of the receiving province, autonomous region or municipality directly under the Central Government of the filing information."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter II Supervision and Administration"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "It is prohibited to import solid waste originating outside the territory of the People's Republic of China for dumping, piling or disposal."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter II Supervision and Administration"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The State shall progressively achieve zero import of solid waste, and the competent department of ecology and environment of the State Council shall, jointly with the competent departments of commerce, development and reform and customs of the State Council, organise the implementation."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter II Supervision and Administration"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Where customs discovers that imported goods are suspected of being solid waste, it may entrust a professional institution to carry out identification of their attributes and administer the matter in accordance with law on the basis of the identification conclusions."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter II Supervision and Administration"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The competent departments of ecology and environment and their environmental law enforcement agencies and other departments responsible for the supervision and administration of the prevention and control of pollution of the environment by solid waste have the right, within the scope of their respective duties, to conduct on-site inspection of units and other producers and operators engaged in activities such as the generation, collection, storage, transport, utilisation and disposal of solid waste. The inspected party shall truthfully report the circumstances and provide the necessary data.\nOn-site inspection may be carried out by on-site monitoring, sample collection, and consultation or copying of data related to the prevention and control of pollution of the environment by solid waste. Inspectors conducting on-site inspection shall produce their certificates. Trade secrets learned in the course of on-site inspection shall be kept confidential."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter II Supervision and Administration"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where any of the following circumstances exists, the competent department of ecology and environment and other departments responsible for the supervision and administration of the prevention and control of pollution of the environment by solid waste may seal up or detain solid waste that is illegally collected, stored, transported, utilised or disposed of, as well as the facilities, equipment, sites, tools and articles involved:\n(a) evidence may be lost, concealed or illegally transferred;\n(b) serious environmental pollution is or may be caused."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter II Supervision and Administration"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The competent department of ecology and environment shall, jointly with the relevant departments, establish a credit record system for units and other producers and operators that generate, collect, store, transport, utilise or dispose of solid waste, and incorporate the relevant credit records into the national credit information sharing platform."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter II Supervision and Administration"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The competent departments of ecology and environment of people's governments at the level of city divided into districts shall, jointly with the competent departments of housing and urban-rural development, agriculture and rural affairs and health, periodically publish to the public information on the types, quantities generated, disposal capacity and status of utilisation and disposal of solid waste.\nUnits that generate, collect, store, transport, utilise or dispose of solid waste shall, in accordance with law, promptly disclose information on the prevention and control of pollution of the environment by solid waste, and voluntarily accept public supervision.\nUnits that utilise or dispose of solid waste shall, in accordance with law, open their facilities and sites to the public, so as to raise public awareness of environmental protection and the degree of participation."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter II Supervision and Administration"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "People's governments at or above the county level shall incorporate the prevention and control of pollution of the environment by industrial solid waste, household waste, hazardous waste and other solid waste into the annual report on the state of the environment and the achievement of environmental protection targets, and report to the people's congress at the corresponding level or its standing committee."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter II Supervision and Administration"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Every unit and individual has the right to report units and individuals that cause pollution of the environment by solid waste.\nThe competent departments of ecology and environment and other departments responsible for the supervision and administration of the prevention and control of pollution of the environment by solid waste shall make public the channels for reporting such pollution, so as to facilitate public reporting.\nThe department receiving a report shall handle it promptly and keep the relevant information of the reporter confidential; where a report is made under the reporter's real name and is verified as true, a reward shall be given.\nWhere a reporter reports the unit for which he works, that unit may not retaliate against the reporter by terminating or altering the labour contract or by other means."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter II Supervision and Administration"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The competent department of ecology and environment of the State Council shall, jointly with the competent departments of development and reform and of industry and information technology of the State Council, define the degree of hazard and impact of industrial solid waste on public health and the ecological environment, formulate technical policies for preventing and controlling pollution of the environment by industrial solid waste, and organise the popularisation of advanced production processes and equipment for preventing and controlling such pollution."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III Industrial Solid Waste"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The competent department of industry and information technology of the State Council shall, jointly with the relevant departments of the State Council, organise research, development and popularisation of production processes and equipment that reduce the quantity of industrial solid waste generated and reduce its hazardous nature, and publish the catalogue of backward production processes and equipment that generate industrial solid waste seriously polluting the environment and are to be eliminated within a time limit.\nProducers, sellers, importers and users shall, within the time limit prescribed by the competent department of industry and information technology of the State Council jointly with the relevant departments of the State Council, cease respectively to produce, sell, import or use the equipment listed in the catalogue specified in the preceding paragraph. Users of production processes shall, within the time limit prescribed by the competent department of industry and information technology of the State Council jointly with the relevant departments of the State Council, cease to use the processes listed in the catalogue specified in the preceding paragraph.\nEquipment eliminated and listed in the catalogue for elimination within a time limit may not be transferred to others for use."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter III Industrial Solid Waste"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The competent department of industry and information technology of the State Council shall, jointly with the competent departments of development and reform and of ecology and environment of the State Council, periodically publish a guidance catalogue of technologies, processes, equipment and products for the comprehensive utilisation of industrial solid waste, organise assessments of the comprehensive resource utilisation of industrial solid waste, and promote such comprehensive utilisation."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter III Industrial Solid Waste"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Local people's governments at or above the county level shall formulate work plans for the prevention and control of pollution of the environment by industrial solid waste, organise the construction of facilities for the centralised disposal of industrial solid waste, and advance work on the prevention and control of pollution of the environment by industrial solid waste."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter III Industrial Solid Waste"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Units that generate industrial solid waste shall establish and improve a responsibility system for the prevention and control of environmental pollution throughout the whole process of generation, collection, storage, transport, utilisation and disposal of industrial solid waste, establish ledgers for the administration of industrial solid waste, truthfully record information such as the types, quantities, destinations, storage, utilisation and disposal of the industrial solid waste generated, achieve traceability and queryability of industrial solid waste, and adopt measures to prevent and control pollution of the environment by industrial solid waste.\nIt is prohibited to deposit industrial solid waste in household waste collection facilities."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter III Industrial Solid Waste"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Where a unit that generates industrial solid waste entrusts another party with the transport, utilisation or disposal of industrial solid waste, it shall verify the entrusted party's qualifications as a subject and technical capability, conclude a written contract in accordance with law, and stipulate the requirements for pollution prevention and control in the contract.\nThe entrusted party transporting, utilising or disposing of industrial solid waste shall, in accordance with the provisions of the relevant laws and regulations and the contract, perform the requirements for pollution prevention and control, and shall inform the unit that generated the industrial solid waste of the transport, utilisation and disposal.\nWhere a unit that generates industrial solid waste violates the provisions of the first paragraph of this Article, in addition to being punished in accordance with the provisions of the relevant laws and regulations, it shall bear joint and several liability with the entrusted party that causes environmental pollution or ecological damage."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter III Industrial Solid Waste"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Units that generate industrial solid waste shall implement cleaner production audits in accordance with law, rationally select and use raw materials, energy and other resources, adopt advanced production processes and equipment, reduce the quantity of industrial solid waste generated, and reduce its hazardous nature."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter III Industrial Solid Waste"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Units that generate industrial solid waste shall obtain a pollutant discharge permit. The specific measures and implementation steps for pollutant discharge permits shall be prescribed by the State Council.\nUnits that generate industrial solid waste shall provide the competent department of ecology and environment of the place where they are located with the relevant data on the types, quantities, destinations, storage, utilisation and disposal of industrial solid waste, as well as the specific measures for reducing the generation of industrial solid waste and promoting comprehensive utilisation, and shall comply with the relevant provisions of the pollutant discharge permit management system."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter III Industrial Solid Waste"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Units that generate industrial solid waste shall, in light of economic and technical conditions, utilise the industrial solid waste; where it is not utilised for the time being or cannot be utilised, they shall, in accordance with the provisions of the competent departments of ecology and environment of the State Council and other competent departments, build storage facilities and sites for safe and classified storage, or adopt harmless disposal measures. The storage of industrial solid waste shall be subject to protective measures meeting the national environmental protection standards.\nThe construction of facilities and sites for the storage and disposal of industrial solid waste shall meet the national environmental protection standards."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter III Industrial Solid Waste"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where a unit that generates industrial solid waste terminates, it shall, before termination, adopt pollution prevention and control measures for the facilities and sites for the storage and disposal of industrial solid waste, and make proper arrangements for the disposal of untreated industrial solid waste, so as to prevent pollution of the environment.\nWhere a unit that generates industrial solid waste undergoes change, the unit after the change shall, in accordance with the provisions of the State on environmental protection, safely dispose of the untreated industrial solid waste and the facilities and sites for its storage and disposal, or take effective measures to ensure the safe operation of such facilities and sites. Where the parties have otherwise agreed before the change on responsibility for pollution prevention and control of the industrial solid waste and the facilities and sites for its storage and disposal, that agreement shall prevail; however, the parties' obligation of pollution prevention and control may not be exempted.\nThe costs of safely disposing of the untreated industrial solid waste, and the facilities and sites for its storage and disposal, of a unit that terminated before 1 April 2005 shall be borne by the relevant people's government; however, where the land use right enjoyed by that unit is transferred in accordance with law, the costs of disposal shall be borne by the transferee of the land use right. Where the parties have otherwise agreed, that agreement shall prevail; however, the parties' obligation of pollution prevention and control may not be exempted."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter III Industrial Solid Waste"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Mining enterprises shall adopt scientific mining methods and ore-dressing processes to reduce the quantity of mining solid waste generated and stored, such as tailings, coal gangue and waste rock.\nThe State encourages the adoption of advanced processes for the comprehensive utilisation of mining solid waste such as tailings, coal gangue and waste rock.\nAfter facilities for the storage of mining solid waste such as tailings, coal gangue and waste rock cease to be used, the mining enterprise shall close the site in accordance with the relevant provisions of the State on environmental protection, so as to prevent environmental pollution and ecological damage."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter III Industrial Solid Waste"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Local people's governments at or above the county level shall accelerate the establishment of household waste management systems for sorted deposit, sorted collection, sorted transport and sorted treatment, so as to achieve effective coverage of the household waste sorting system.\nLocal people's governments at or above the county level shall establish coordination mechanisms for household waste sorting and strengthen and coordinate capacity building for household waste sorting administration.\nPeople's governments at all levels and their relevant departments shall organise publicity on household waste sorting, educate and guide the public to develop the habit of household waste sorting, and urge and guide work on household waste sorting."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter IV Household Waste"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Local people's governments at or above the county level shall systematically improve the fuel mix, develop clean energy, and reduce the quantity of solid waste generated such as fuel residues.\nThe relevant departments of local people's governments at or above the county level shall strengthen the administration of the production and circulation of products, avoid excessive packaging, organise the marketing of pre-cleaned vegetables, and reduce the quantity of household waste generated."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter IV Household Waste"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "People's governments at or above the county level shall make overall arrangements for the construction of facilities for the collection, transport and treatment of urban and rural household waste, determine the sites of the facilities, raise the level of comprehensive utilisation and harmless disposal of household waste, promote the industrialised development of household waste collection and treatment, and progressively establish and improve a social service system for the prevention and control of pollution of the environment by household waste.\nThe relevant departments of local people's governments at or above the county level shall make overall plans and reasonable arrangements for outlets for recovery, sorting and baling, so as to promote the recovery and utilisation of household waste."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter IV Household Waste"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Local people's governments at all levels shall strengthen the prevention and control of pollution of the environment by rural household waste, and protect and improve the rural living environment.\nThe State encourages the reduction of rural household waste at source. In areas between urban and rural areas, densely populated rural areas and other places where conditions permit, an integrated urban-rural household waste management system shall be established; other rural areas shall actively explore household waste management models and, in light of local conditions, utilise or properly treat household waste nearby and on the spot."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter IV Household Waste"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "The competent departments of environmental sanitation of people's governments at or above the level of city divided into districts shall formulate norms for the construction and operation of facilities and sites for the sweeping, collection, storage, transport and treatment of household waste, publish guidance catalogues for household waste sorting, and strengthen supervision and administration."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter IV Household Waste"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "The competent departments of environmental sanitation and other competent departments of local people's governments at or above the county level shall organise the sweeping, collection, transport and treatment of urban and rural household waste, and may select qualified units by tender and other means to engage in the sweeping, collection, transport and treatment of household waste."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter IV Household Waste"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Units, households and individuals that generate household waste shall, in accordance with law, perform the obligations of reducing household waste at source and depositing it in sorted categories, and bear the responsibility of the generator of household waste.\nEvery unit and individual shall, in accordance with law, deposit household waste in sorted categories at designated locations. It is prohibited to dump, scatter, pile or incinerate household waste at will.\nState organs and public institutions shall play an exemplary and leading role in household waste sorting.\nHousehold waste already deposited in sorted categories shall be collected, transported and treated in sorted categories in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter IV Household Waste"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "The sweeping, collection, transport and treatment of urban and rural household waste shall comply with the provisions of the State on environmental protection and environmental sanitation administration, so as to prevent pollution of the environment.\nHazardous waste sorted out of household waste and collected in a centralised manner that is hazardous waste shall be administered as hazardous waste."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter IV Household Waste"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Operating units engaged in public transport shall promptly sweep and collect the household waste generated in the course of transport."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter IV Household Waste"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Farmers' markets, wholesale markets for agricultural products and the like shall strengthen environmental sanitation administration, keep the environment clean and hygienic, and promptly sweep, collect in sorted categories and properly treat the refuse generated."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter IV Household Waste"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Units engaged in the development of new urban areas, the reconstruction of old areas, the development and construction of residential communities and the construction of villages and towns, as well as the operating and management units of public facilities and sites such as airports, wharves, stations, parks, shopping malls and sports venues, shall, in accordance with the provisions of the State on environmental sanitation, construct supporting household waste collection facilities.\nLocal people's governments at or above the county level shall coordinate the effective connection between public transfer and treatment facilities for household waste and the collection facilities specified in the preceding paragraph, and strengthen the integration of the sorted collection and transport system for household waste and the renewable resource recovery system in terms of planning, construction and operation."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter IV Household Waste"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Materials recovered from household waste shall be used for the purposes and in accordance with the standards prescribed by the State, and may not be used to produce products that may endanger human health."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter IV Household Waste"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "The construction of household waste treatment facilities and sites shall meet the environmental protection and environmental sanitation standards prescribed by the competent department of ecology and environment of the State Council and the competent department of housing and urban-rural development of the State Council.\nNeighbouring areas are encouraged to make overall arrangements for the construction of household waste treatment facilities, so as to promote the joint construction and sharing of such facilities across administrative areas.\nIt is prohibited to close down, leave idle or dismantle household waste treatment facilities and sites without authorisation; where it is genuinely necessary to close them down, leave them idle or dismantle them, approval shall be obtained after the competent department of environmental sanitation of the city or county people's government of the place where they are located consults and obtains the consent of the competent department of ecology and environment of the same place, and measures to prevent pollution of the environment shall be taken."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter IV Household Waste"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Household waste treatment units shall, in accordance with the relevant provisions of the State, install and use monitoring equipment, monitor pollutant discharge in real time, and disclose pollutant discharge data in real time. The monitoring equipment shall be connected to the monitoring equipment of the competent department of ecology and environment of the place where the unit is located."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter IV Household Waste"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "The competent departments of environmental sanitation of local people's governments at or above the county level shall be responsible for organising the resource utilisation and harmless treatment of kitchen waste.\nUnits and other producers and operators that generate or collect kitchen waste shall deliver the kitchen waste to units with the corresponding qualifications and conditions for harmless treatment.\nIt is prohibited for livestock and poultry farms and breeding communities to feed livestock and poultry with kitchen waste that has not undergone harmless treatment."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter IV Household Waste"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Local people's governments at or above the county level shall, in accordance with the polluter-pays principle, establish a system of charges for household waste treatment.\nIn setting the standards for household waste treatment charges, local people's governments at or above the county level shall, in light of local conditions and the status of household waste sorting, reflect differentiated management such as charging by category and charging by measurement, and fully solicit public opinion. The standards for household waste treatment charges shall be published to the public.\nHousehold waste treatment charges shall be used exclusively for the collection, transport and treatment of household waste and may not be diverted to other uses."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter IV Household Waste"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Provinces, autonomous regions, municipalities directly under the Central Government, cities divided into districts and autonomous prefectures may, in light of the actual circumstances, formulate specific local measures for the administration of household waste."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter IV Household Waste"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Local people's governments at or above the county level shall strengthen the prevention and control of pollution of the environment by construction waste, and establish a system for the sorted treatment of construction waste.\nLocal people's governments at or above the county level shall formulate work plans for the prevention and control of pollution of the environment by construction waste, including reduction at source, sorted treatment, and the layout and construction of disposal facilities and sites."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter V Construction Waste, Agricultural Solid Waste and the Like"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "The State encourages the adoption of advanced technologies, processes, equipment and management measures, advances the reduction of construction waste at source, and establishes a system for the recovery and utilisation of construction waste.\nLocal people's governments at or above the county level shall promote the application of products of comprehensive utilisation of construction waste."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter V Construction Waste, Agricultural Solid Waste and the Like"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "The competent departments of environmental sanitation of local people's governments at or above the county level shall be responsible for the prevention and control of pollution of the environment by construction waste, establish a whole-process management system for construction waste, regulate the generation, collection, storage, transport, utilisation and disposal of construction waste, advance comprehensive utilisation, strengthen the construction of facilities and sites for the disposal of construction waste, ensure disposal safety, and prevent pollution of the environment."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter V Construction Waste, Agricultural Solid Waste and the Like"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Construction units shall prepare construction waste treatment plans, adopt pollution prevention and control measures, and file them with the competent department of environmental sanitation of the local people's government at or above the county level.\nConstruction units shall promptly clear and transport construction waste and other solid waste generated in the course of construction, and shall utilise or dispose of it in accordance with the provisions of the competent department of environmental sanitation.\nConstruction units may not dump, scatter or pile construction waste generated in the course of construction without authorisation."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter V Construction Waste, Agricultural Solid Waste and the Like"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "The competent departments of agriculture and rural affairs of people's governments at or above the county level shall be responsible for guiding the development of a system for the recovery and utilisation of agricultural solid waste, encourage and guide the relevant units and other producers and operators to collect, store, transport, utilise and dispose of agricultural solid waste in accordance with law, and strengthen supervision and administration so as to prevent pollution of the environment."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter V Construction Waste, Agricultural Solid Waste and the Like"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Units and other producers and operators that generate agricultural solid waste such as crop straw, waste agricultural plastic film and waste pesticide packaging shall adopt measures for recovery and utilisation and other measures to prevent pollution of the environment.\nThose engaged in large-scale livestock and poultry breeding shall promptly collect, store, utilise or dispose of solid waste such as livestock and poultry manure generated in the course of breeding, so as to avoid environmental pollution.\nIt is prohibited to burn crop straw in the open air in areas with concentrated populations, around airports, near trunk lines of transport and in other areas designated by the local people's government.\nThe State encourages research, development, production, sale and use of agricultural plastic film that is degradable in the environment and harmless."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter V Construction Waste, Agricultural Solid Waste and the Like"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "The State establishes an extended producer responsibility system for products such as electrical and electronic products, lead-acid batteries and power batteries for vehicles.\nProducers of products such as electrical and electronic products, lead-acid batteries and power batteries for vehicles shall, in accordance with the provisions and by self-building or entrustment, establish a recovery system for waste products commensurate with the sales volume of their products, make it public, and achieve effective recovery and utilisation.\nThe State encourages producers to carry out ecological design and promote resource recovery and utilisation."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter V Construction Waste, Agricultural Solid Waste and the Like"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "The State applies a system of multi-channel recovery and centralised treatment to waste electrical and electronic products and the like.\nIt is prohibited to deliver waste motor vehicles and vessels and the like to enterprises or individuals not meeting the prescribed conditions for recovery or dismantling.\nThe dismantling, utilisation and disposal of waste electrical and electronic products, waste motor vehicles and vessels and the like shall comply with the provisions of the relevant laws and regulations, and measures to prevent pollution of the environment shall be adopted."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter V Construction Waste, Agricultural Solid Waste and the Like"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "The design and manufacture of products and packaging shall comply with the provisions of the State on cleaner production. The competent department of standardisation of the State Council shall, in light of the economic and technical conditions of the State, the status of the prevention and control of pollution of the environment by solid waste and the technical requirements of products, organise the formulation of the relevant standards, so as to prevent environmental pollution caused by excessive packaging.\nProducers and operators shall comply with the mandatory standards restricting excessive packaging of goods, and avoid excessive packaging. The market regulation departments and the relevant departments of local people's governments at or above the county level shall, in accordance with their respective duties, strengthen supervision and administration of excessive packaging.\nEnterprises producing, selling or importing products and packaging listed in the catalogue of compulsory recovery in accordance with law shall recover such products and packaging in accordance with the relevant provisions of the State.\nIndustries such as e-commerce, express delivery and food delivery shall give priority to the use of reusable and readily recyclable packaging, optimise the packaging of articles, reduce the use of packaging, and actively recover and utilise packaging. The competent departments of commerce and postal services of local people's governments at or above the county level shall strengthen supervision and administration.\nThe State encourages and guides consumers to use green packaging and reduced packaging."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter V Construction Waste, Agricultural Solid Waste and the Like"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "The State prohibits and restricts, in accordance with law, the production, sale and use of non-degradable plastic bags and other disposable plastic products.\nThe entities establishing places of commodity retail, e-commerce platform enterprises, express delivery enterprises and food delivery enterprises shall, in accordance with the relevant provisions of the State, report to the competent departments of commerce and postal services on the use and recovery of plastic bags and other disposable plastic products.\nThe State encourages and guides the reduction of the use of plastic bags and other disposable plastic products and active recovery thereof, and the popularisation and application of recyclable, readily recoverable and degradable alternatives."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter V Construction Waste, Agricultural Solid Waste and the Like"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "Industries such as tourism and accommodation shall, in accordance with the relevant provisions of the State, implement the practice of not proactively providing disposable articles.\nThe office premises of State organs, enterprises and public institutions shall use products, equipment and facilities conducive to environmental protection, and reduce the use of disposable office supplies."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter V Construction Waste, Agricultural Solid Waste and the Like"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "Maintenance and operation units of urban sewage treatment facilities or sludge treatment units shall safely treat sludge, ensure that the treated sludge meets the relevant standards of the State, track and record the destination, use and quantity of the sludge, and report to the competent department of urban drainage and the competent department of ecology and environment.\nThe competent departments of urban drainage of people's governments at or above the county level shall incorporate sludge treatment facilities into urban drainage and sewage treatment plans, promote the simultaneous construction of sludge treatment facilities and sewage treatment facilities, encourage coordinated treatment, and ensure that the standards for levying sewage treatment fees and the scope of compensation cover the cost of sludge treatment and the normal operating cost of sewage treatment facilities."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter V Construction Waste, Agricultural Solid Waste and the Like"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "It is prohibited to dump, pile, discard or spill without authorisation the sludge generated by urban sewage treatment facilities and the treated sludge.\nSludge whose content of heavy metals or other toxic and harmful substances exceeds the standards is prohibited from entering agricultural land.\nThose engaged in the dredging of water bodies shall, in accordance with the relevant provisions of the State, treat the sediment generated in the course of dredging, so as to prevent pollution of the environment."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter V Construction Waste, Agricultural Solid Waste and the Like"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "Laboratories at all levels and of all types and the units that establish them shall strengthen the administration of solid waste generated by laboratories, and collect, store, transport, utilise and dispose of laboratory solid waste in accordance with law. Where laboratory solid waste is hazardous waste, it shall be administered as hazardous waste."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter V Construction Waste, Agricultural Solid Waste and the Like"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "This Chapter applies to the prevention and control of pollution of the environment by hazardous waste; where this Chapter is silent, the other relevant provisions of this Law shall apply."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter VI Hazardous Waste"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "The competent department of ecology and environment of the State Council shall, jointly with the relevant departments of the State Council, formulate the national catalogue of hazardous waste, prescribing uniform identification standards, identification methods, identification marks and management requirements for identification units. The national catalogue of hazardous waste shall be adjusted dynamically.\nThe competent department of ecology and environment of the State Council shall, in light of the hazard characteristics and quantities generated of hazardous waste, scientifically assess their environmental risks, apply tiered and classified management, establish an information-based supervision system, and administer and share hazardous waste transfer data and information through information-based means."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter VI Hazardous Waste"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "The people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall organise the relevant departments to prepare construction plans for facilities and sites for the centralised disposal of hazardous waste, scientifically assess the demand for hazardous waste disposal, rationally lay out such facilities and sites, and ensure that hazardous waste within their respective administrative areas is properly disposed of.\nIn preparing construction plans for facilities and sites for the centralised disposal of hazardous waste, the opinions of the relevant industry associations, enterprises and public institutions, experts and the public shall be solicited.\nNeighbouring provinces, autonomous regions and municipalities directly under the Central Government may carry out regional cooperation in the coordinated construction of regional facilities and sites for the centralised disposal of hazardous waste."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter VI Hazardous Waste"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "Hazardous waste identification marks shall be set up in accordance with the provisions on containers and packaging of hazardous waste and on facilities and sites for the collection, storage, transport, utilisation and disposal of hazardous waste."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter VI Hazardous Waste"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "Units that generate hazardous waste shall, in accordance with the relevant provisions of the State, formulate hazardous waste management plans; establish hazardous waste management ledgers, truthfully record the relevant information, and declare to the competent department of ecology and environment of the place where they are located, through the national hazardous waste information management system, the relevant data on the types, quantities generated, destinations, storage and disposal of hazardous waste.\nThe hazardous waste management plans referred to in the preceding paragraph shall include measures to reduce the quantity of hazardous waste generated and its hazardous nature, as well as measures for the storage, utilisation and disposal of hazardous waste. The hazardous waste management plans shall be filed with the competent department of ecology and environment of the place where the unit generating hazardous waste is located.\nWhere a unit that generates hazardous waste has obtained a pollutant discharge permit, it shall comply with the provisions of the pollutant discharge permit management system."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Chapter VI Hazardous Waste"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "Units that generate hazardous waste shall, in accordance with the relevant provisions of the State and the requirements of environmental protection standards, store, utilise and dispose of hazardous waste, and may not dump or pile it without authorisation."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Chapter VI Hazardous Waste"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "Units engaged in business activities of collecting, storing, utilising or disposing of hazardous waste shall apply for and obtain a licence in accordance with the relevant provisions of the State. The specific measures for the administration of licences shall be prescribed by the State Council.\nIt is prohibited to engage in business activities of collecting, storing, utilising or disposing of hazardous waste without a licence or not in accordance with the provisions of the licence.\nIt is prohibited to provide or entrust hazardous waste to units without a licence or to other producers and operators for activities of collection, storage, utilisation or disposal."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Chapter VI Hazardous Waste"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "Hazardous waste shall be collected and stored by category in accordance with its characteristics. It is prohibited to mix, collect, store, transport or dispose of hazardous waste of incompatible properties that has not undergone safety treatment.\nThe storage of hazardous waste shall be subject to protective measures meeting the national environmental protection standards. It is prohibited to store hazardous waste mixed with non-hazardous waste.\nUnits engaged in business activities of collecting, storing, utilising or disposing of hazardous waste may not store hazardous waste for more than one year; where an extension is genuinely necessary, approval shall be obtained from the competent department of ecology and environment that issued the licence, unless otherwise provided by laws or administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Chapter VI Hazardous Waste"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "In transferring hazardous waste, electronic or paper transfer manifests for hazardous waste shall be completed and operated in accordance with the relevant provisions of the State.\nTo transfer hazardous waste across provinces, autonomous regions or municipalities directly under the Central Government, an application shall be submitted to the competent department of ecology and environment of the people's government of the province, autonomous region or municipality directly under the Central Government of the place from which the hazardous waste is to be removed. That department shall, after promptly consulting and obtaining the consent of the competent department of ecology and environment of the people's government of the receiving province, autonomous region or municipality directly under the Central Government, approve the transfer of the hazardous waste within the prescribed time limit, and notify the competent departments of ecology and environment and of transport of the relevant provinces, autonomous regions and municipalities directly under the Central Government of the approval information. Without approval, the hazardous waste may not be transferred.\nThe administration of hazardous waste transfer shall be subject to whole-process control and improved efficiency, and the specific measures shall be formulated by the competent department of ecology and environment of the State Council jointly with the competent department of transport and the public security department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Chapter VI Hazardous Waste"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "In transporting hazardous waste, measures to prevent pollution of the environment shall be adopted, and the provisions of the State on the administration of the transport of dangerous goods shall be complied with.\nIt is prohibited to carry hazardous waste on the same means of transport as passengers."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Chapter VI Hazardous Waste"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "Where the sites, facilities, equipment, containers, packaging and other articles used for the collection, storage, transport, utilisation or disposal of hazardous waste are converted to other uses, they may be used only after undergoing pollution elimination treatment in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Chapter VI Hazardous Waste"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "Units that generate, collect, store, transport, utilise or dispose of hazardous waste shall, in accordance with law, formulate preventive measures and contingency plans against accidents, and file them with the competent department of ecology and environment of the place where they are located and other departments responsible for the supervision and administration of the prevention and control of pollution of the environment by solid waste; those departments shall conduct inspection."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        },
+        "chapter": {
+          "en": "Chapter VI Hazardous Waste"
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "Where an accident or other sudden event causes serious pollution of the environment by hazardous waste, the unit concerned shall immediately take effective measures to eliminate or mitigate the pollution harm to the environment, promptly notify the units and residents that may be harmed by the pollution, and report to the competent department of ecology and environment of the place where it is located and the relevant departments, and accept investigation and handling."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        },
+        "chapter": {
+          "en": "Chapter VI Hazardous Waste"
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "Where serious pollution of the environment by hazardous waste occurs or there is evidence proving that it may occur, threatening the safety of residents' lives and property, the competent department of ecology and environment or other departments responsible for the supervision and administration of the prevention and control of pollution of the environment by solid waste shall immediately report to the people's government at the corresponding level and the relevant departments of the people's government at the next higher level, and the people's government shall take effective measures to prevent or mitigate the harm. The relevant people's government may, as required, order the suspension of operations causing or likely to cause an environmental pollution accident."
+        },
+        "noLabel": {
+          "en": "Article 87."
+        },
+        "chapter": {
+          "en": "Chapter VI Hazardous Waste"
+        }
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "Before key facilities and sites for the centralised disposal of hazardous waste are decommissioned, the operating unit shall, in accordance with the relevant provisions of the State, adopt pollution prevention and control measures for the facilities and sites. The costs of decommissioning shall be accrued in advance, included in the investment estimate or production costs, and used exclusively for the decommissioning of key facilities and sites for the centralised disposal of hazardous waste. The specific measures for accrual and administration shall be prescribed by the finance department and the pricing department of the State Council jointly with the competent department of ecology and environment of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 88."
+        },
+        "chapter": {
+          "en": "Chapter VI Hazardous Waste"
+        }
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "It is prohibited to transfer hazardous waste in transit through the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 89."
+        },
+        "chapter": {
+          "en": "Chapter VI Hazardous Waste"
+        }
+      },
+      {
+        "no": 90,
+        "text": {
+          "en": "Medical waste shall be administered in accordance with the national catalogue of hazardous waste. Local people's governments at or above the county level shall strengthen capacity building for the centralised disposal of medical waste.\nThe competent departments of health and of ecology and environment of people's governments at or above the county level shall, within the scope of their respective duties, strengthen supervision and administration of the collection, storage, transport and disposal of medical waste, so as to prevent harm to public health and pollution of the environment.\nMedical and health institutions shall, in accordance with law, collect medical waste generated by them in sorted categories and deliver it to units for the centralised disposal of medical waste. Units for the centralised disposal of medical waste shall promptly collect, transport and dispose of medical waste.\nMedical and health institutions and units for the centralised disposal of medical waste shall take effective measures to prevent the loss, leakage, seepage and spread of medical waste."
+        },
+        "noLabel": {
+          "en": "Article 90."
+        },
+        "chapter": {
+          "en": "Chapter VI Hazardous Waste"
+        }
+      },
+      {
+        "no": 91,
+        "text": {
+          "en": "When an emergency such as a major epidemic of an infectious disease occurs, people's governments at or above the county level shall make overall arrangements and coordinate work on the collection, storage, transport and disposal of medical waste and other hazardous waste, and ensure the necessary vehicles, sites, disposal facilities and protective materials. The competent departments of health, ecology and environment, environmental sanitation and transport shall cooperate and perform their duties of emergency handling in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 91."
+        },
+        "chapter": {
+          "en": "Chapter VI Hazardous Waste"
+        }
+      },
+      {
+        "no": 92,
+        "text": {
+          "en": "The relevant departments of the State Council and the local people's governments at or above the county level and their relevant departments shall, in preparing territorial spatial plans and the relevant special plans, make overall arrangements for the need to construct facilities for the transfer and centralised disposal of household waste, construction waste, hazardous waste and other solid waste, and ensure land for such transfer and centralised disposal facilities."
+        },
+        "noLabel": {
+          "en": "Article 92."
+        },
+        "chapter": {
+          "en": "Chapter VII Safeguards"
+        }
+      },
+      {
+        "no": 93,
+        "text": {
+          "en": "The State adopts economic and technical policies and measures conducive to the prevention and control of pollution of the environment by solid waste, encourages and supports the relevant parties to adopt measures conducive to such prevention and control, strengthens training and guidance for personnel engaged in such prevention and control, and promotes the professional and large-scale development of the industry for such prevention and control."
+        },
+        "noLabel": {
+          "en": "Article 93."
+        },
+        "chapter": {
+          "en": "Chapter VII Safeguards"
+        }
+      },
+      {
+        "no": 94,
+        "text": {
+          "en": "The State encourages and supports scientific research institutions, units generating solid waste, units utilising solid waste and units disposing of solid waste in conducting joint research to develop new technologies for the comprehensive utilisation and centralised disposal of solid waste, and promotes technological progress in the prevention and control of pollution of the environment by solid waste."
+        },
+        "noLabel": {
+          "en": "Article 94."
+        },
+        "chapter": {
+          "en": "Chapter VII Safeguards"
+        }
+      },
+      {
+        "no": 95,
+        "text": {
+          "en": "People's governments at all levels shall strengthen the prevention and control of pollution of the environment by solid waste, and, in accordance with the principle of division of powers, allocate the necessary funds for the following matters:\n(a) scientific research and technological development for the prevention and control of pollution of the environment by solid waste;\n(b) household waste sorting;\n(c) the construction of facilities for the centralised disposal of solid waste;\n(d) emergency handling of medical waste and other hazardous waste generated by emergencies such as major epidemics of infectious diseases;\n(e) other matters relating to the prevention and control of pollution of the environment by solid waste.\nPerformance management and audit supervision of the use of funds shall be strengthened to ensure the effectiveness of their use."
+        },
+        "noLabel": {
+          "en": "Article 95."
+        },
+        "chapter": {
+          "en": "Chapter VII Safeguards"
+        }
+      },
+      {
+        "no": 96,
+        "text": {
+          "en": "The State encourages and supports the participation of social forces in the prevention and control of pollution of the environment by solid waste, and gives policy support in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 96."
+        },
+        "chapter": {
+          "en": "Chapter VII Safeguards"
+        }
+      },
+      {
+        "no": 97,
+        "text": {
+          "en": "The State develops green finance, and encourages financial institutions to increase credit support for projects for the prevention and control of pollution of the environment by solid waste."
+        },
+        "noLabel": {
+          "en": "Article 97."
+        },
+        "chapter": {
+          "en": "Chapter VII Safeguards"
+        }
+      },
+      {
+        "no": 98,
+        "text": {
+          "en": "Those engaged in the comprehensive utilisation of solid waste and other work for the prevention and control of pollution of the environment by solid waste shall enjoy tax preferences in accordance with the provisions of laws and administrative regulations.\nThe State encourages and advocates that all sectors of society donate property for the prevention and control of pollution of the environment by solid waste, and grants tax preferences in accordance with the provisions of laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 98."
+        },
+        "chapter": {
+          "en": "Chapter VII Safeguards"
+        }
+      },
+      {
+        "no": 99,
+        "text": {
+          "en": "Units that collect, store, transport, utilise or dispose of hazardous waste shall, in accordance with the relevant provisions of the State, take out environmental pollution liability insurance."
+        },
+        "noLabel": {
+          "en": "Article 99."
+        },
+        "chapter": {
+          "en": "Chapter VII Safeguards"
+        }
+      },
+      {
+        "no": 100,
+        "text": {
+          "en": "The State encourages units and individuals to purchase and use comprehensively utilised products and reusable products.\nPeople's governments at or above the county level and their relevant departments shall, in the course of government procurement, give priority to purchasing comprehensively utilised products and reusable products."
+        },
+        "noLabel": {
+          "en": "Article 100."
+        },
+        "chapter": {
+          "en": "Chapter VII Safeguards"
+        }
+      },
+      {
+        "no": 101,
+        "text": {
+          "en": "Where the competent department of ecology and environment or other departments responsible for the supervision and administration of the prevention and control of pollution of the environment by solid waste violate the provisions of this Law and commit any of the following acts, the people's government at the corresponding level or the relevant department of the people's government at a higher level shall order correction, and sanctions shall be imposed in accordance with law on the directly responsible person in charge and other directly responsible persons:\n(a) failing to grant an administrative licence or to process approval documents in accordance with law;\n(b) shielding illegal acts;\n(c) failing to seal up or detain in accordance with law;\n(d) failing to investigate and deal with an illegal act upon discovery thereof or upon receipt of a report of the illegal act;\n(e) committing other illegal acts such as abuse of power, dereliction of duty or malpractice for personal gain.\nWhere an administrative penalty decision ought to be made in accordance with the provisions of this Law but is not made, the competent department at a higher level may directly make the administrative penalty decision."
+        },
+        "noLabel": {
+          "en": "Article 101."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 102,
+        "text": {
+          "en": "Where an act in violation of the provisions of this Law falls under any of the following circumstances, the competent department of ecology and environment shall order correction, impose a fine, and confiscate the illegal gains; where the circumstances are serious, it may, upon approval by the people's government with approval authority, order suspension of business or closure:\n(a) a unit that generates, collects, stores, transports, utilises or disposes of solid waste failing to promptly disclose information on the prevention and control of pollution of the environment by solid waste in accordance with law;\n(b) a household waste treatment unit failing to install and use monitoring equipment, monitor pollutant discharge in real time and disclose pollutant discharge data in accordance with the relevant provisions of the State;\n(c) transferring to others for use equipment eliminated and listed in the catalogue for elimination within a time limit;\n(d) building, within ecological conservation red line areas, areas of concentrated permanent capital farmland and other areas requiring special protection, facilities and sites for the centralised storage, utilisation and disposal of industrial solid waste or hazardous waste, or landfills for household waste;\n(e) transferring solid waste out of the administrative area of a province, autonomous region or municipality directly under the Central Government for storage or disposal without approval;\n(f) transferring solid waste out of the administrative area of a province, autonomous region or municipality directly under the Central Government for utilisation without filing;\n(g) dumping, piling, discarding or spilling industrial solid waste without authorisation, or failing to adopt the corresponding preventive measures, resulting in scattering, loss, leakage or other environmental pollution by industrial solid waste;\n(h) a unit that generates industrial solid waste failing to establish solid waste management ledgers and truthfully record them;\n(i) a unit that generates industrial solid waste entrusting others with the transport, utilisation or disposal of industrial solid waste in violation of the provisions of this Law;\n(j) storing industrial solid waste without adopting protective measures meeting the national environmental protection standards;\n(k) a unit or other producer or operator violating other requirements of solid waste administration, polluting the environment or damaging ecology.\nWhere an act specified in item (a) or (h) of the preceding paragraph is committed, a fine of not less than 50,000 yuan but not more than 200,000 yuan shall be imposed; where an act specified in item (b), (c), (d), (e), (f), (i), (j) or (k) of the preceding paragraph is committed, a fine of not less than 100,000 yuan but not more than 1,000,000 yuan shall be imposed; where an act specified in item (g) of the preceding paragraph is committed, a fine of not less than one time but not more than three times the disposal costs required shall be imposed, and where the disposal costs required are less than 100,000 yuan, they shall be calculated as 100,000 yuan. Where the laws or administrative regulations provide otherwise for the punishment of an act specified in item (k) of the preceding paragraph, those provisions shall apply."
+        },
+        "noLabel": {
+          "en": "Article 102."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 103,
+        "text": {
+          "en": "Where an act in violation of the provisions of this Law involves refusing or obstructing supervision and inspection by delaying, encircling or detaining law enforcement personnel or by other means, or practising fraud when accepting supervision and inspection, the competent department of ecology and environment or other departments responsible for the supervision and administration of the prevention and control of pollution of the environment by solid waste shall order correction and impose a fine of not less than 50,000 yuan but not more than 200,000 yuan, and impose a fine of not less than 20,000 yuan but not more than 100,000 yuan on the directly responsible person in charge and other directly responsible persons."
+        },
+        "noLabel": {
+          "en": "Article 103."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 104,
+        "text": {
+          "en": "Where an act in violation of the provisions of this Law involves generating industrial solid waste without obtaining a pollutant discharge permit in accordance with law, the competent department of ecology and environment shall order correction or restrict production or suspend production for rectification, and impose a fine of not less than 100,000 yuan but not more than 1,000,000 yuan; where the circumstances are serious, it shall, upon approval by the people's government with approval authority, order suspension of business or closure."
+        },
+        "noLabel": {
+          "en": "Article 104."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 105,
+        "text": {
+          "en": "Where an act in violation of the provisions of this Law involves a producer or operator failing to comply with the mandatory standards restricting excessive packaging of goods, the market regulation department or the relevant department of the local people's government at or above the county level shall order correction; where correction is refused, a fine of not less than 2,000 yuan but not more than 20,000 yuan shall be imposed; where the circumstances are serious, a fine of not less than 20,000 yuan but not more than 100,000 yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 105."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 106,
+        "text": {
+          "en": "Where an act in violation of the provisions of this Law involves failing to comply with the provisions of the State on the prohibition and restriction of the use of non-degradable plastic bags and other disposable plastic products, or failing to report the use of plastic bags and other disposable plastic products in accordance with the relevant provisions of the State, the competent departments of commerce and postal services of the local people's government at or above the county level shall order correction and impose a fine of not less than 10,000 yuan but not more than 100,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 106."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 107,
+        "text": {
+          "en": "Where an act in violation of the provisions of this Law involves engaging in large-scale livestock and poultry breeding without promptly collecting, storing, utilising or disposing of solid waste such as livestock and poultry manure generated in the course of breeding, the competent department of ecology and environment shall order correction and may impose a fine of not more than 100,000 yuan; where the circumstances are serious, it shall, upon approval by the people's government with approval authority, order suspension of business or closure."
+        },
+        "noLabel": {
+          "en": "Article 107."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 108,
+        "text": {
+          "en": "Where an act in violation of the provisions of this Law involves a maintenance and operation unit of urban sewage treatment facilities or a sludge treatment unit failing to track and record the destination, use and quantity of sludge, or the treated sludge not meeting the relevant standards of the State, the competent department of urban drainage shall order correction and issue a warning; where serious consequences are caused, a fine of not less than 100,000 yuan but not more than 200,000 yuan shall be imposed; where correction is refused, the competent department of urban drainage may designate a unit with the capacity for treatment to carry out treatment in substitution, and the costs required shall be borne by the offender.\nWhere an act in violation of the provisions of this Law involves dumping, piling, discarding or spilling without authorisation the sludge generated by urban sewage treatment facilities and the treated sludge, the competent department of urban drainage shall order correction and impose a fine of not less than 200,000 yuan but not more than 2,000,000 yuan, and impose a fine of not less than 20,000 yuan but not more than 100,000 yuan on the directly responsible person in charge and other directly responsible persons; where serious consequences are caused, a fine of not less than 2,000,000 yuan but not more than 5,000,000 yuan shall be imposed, and a fine of not less than 50,000 yuan but not more than 500,000 yuan shall be imposed on the directly responsible person in charge and other directly responsible persons; where correction is refused, the competent department of urban drainage may designate a unit with the capacity for treatment to carry out treatment in substitution, and the costs required shall be borne by the offender."
+        },
+        "noLabel": {
+          "en": "Article 108."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 109,
+        "text": {
+          "en": "Where an act in violation of the provisions of this Law involves producing, selling, importing or using eliminated equipment or adopting eliminated production processes, the department designated by the local people's government at or above the county level shall order correction, impose a fine of not less than 100,000 yuan but not more than 1,000,000 yuan, and confiscate the illegal gains; where the circumstances are serious, the department designated by the local people's government at or above the county level shall put forward an opinion and, upon approval by the people's government with approval authority, order suspension of business or closure."
+        },
+        "noLabel": {
+          "en": "Article 109."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 110,
+        "text": {
+          "en": "Where, after facilities for the storage of mining solid waste such as tailings, coal gangue and waste rock cease to be used, the site is not closed in accordance with the relevant provisions of the State on environmental protection, the competent department of ecology and environment shall order correction and impose a fine of not less than 200,000 yuan but not more than 1,000,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 110."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 111,
+        "text": {
+          "en": "Where an act in violation of the provisions of this Law falls under any of the following circumstances, the competent department of environmental sanitation of the local people's government at or above the county level shall order correction, impose a fine, and confiscate the illegal gains:\n(a) dumping, scattering, piling or incinerating household waste at will;\n(b) closing down, leaving idle or dismantling household waste treatment facilities or sites without authorisation;\n(c) a construction unit failing to prepare and file a construction waste treatment plan, or failing to promptly clear and transport solid waste generated in the course of construction;\n(d) a construction unit dumping, scattering or piling construction waste generated in the course of construction without authorisation, or failing to utilise or dispose of solid waste generated in the course of construction in accordance with the provisions;\n(e) a unit or other producer or operator that generates or collects kitchen waste failing to deliver the kitchen waste to units with the corresponding qualifications and conditions for harmless treatment;\n(f) a livestock and poultry farm or breeding community feeding livestock and poultry with kitchen waste that has not undergone harmless treatment;\n(g) discarding or spilling household waste along the way in the course of transport.\nWhere a unit commits an act specified in item (a) or (g) of the preceding paragraph, a fine of not less than 50,000 yuan but not more than 500,000 yuan shall be imposed; where a unit commits an act specified in item (b), (c), (d), (e) or (f) of the preceding paragraph, a fine of not less than 100,000 yuan but not more than 1,000,000 yuan shall be imposed; where an individual commits an act specified in item (a), (e) or (g) of the preceding paragraph, a fine of not less than 100 yuan but not more than 500 yuan shall be imposed.\nWhere an act in violation of the provisions of this Law involves failing to deposit household waste in sorted categories at designated locations, the competent department of environmental sanitation of the local people's government at or above the county level shall order correction; where the circumstances are serious, a fine of not less than 50,000 yuan but not more than 500,000 yuan shall be imposed on units, and a fine shall be imposed on individuals in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 111."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 112,
+        "text": {
+          "en": "Where an act in violation of the provisions of this Law falls under any of the following circumstances, the competent department of ecology and environment shall order correction, impose a fine, and confiscate the illegal gains; where the circumstances are serious, it may, upon approval by the people's government with approval authority, order suspension of business or closure:\n(a) failing to set up hazardous waste identification marks in accordance with the provisions;\n(b) failing to formulate a hazardous waste management plan or declare the relevant data on hazardous waste in accordance with the relevant provisions of the State;\n(c) dumping or piling hazardous waste without authorisation;\n(d) providing or entrusting hazardous waste to units without a licence or to other producers and operators for business activities;\n(e) failing to complete and operate hazardous waste transfer manifests in accordance with the relevant provisions of the State, or transferring hazardous waste without authorisation and without approval;\n(f) failing to store, utilise or dispose of hazardous waste in accordance with the national environmental protection standards, or storing hazardous waste mixed with non-hazardous waste;\n(g) mixing, collecting, storing, transporting or disposing of hazardous waste of incompatible properties without safety treatment;\n(h) carrying hazardous waste on the same means of transport as passengers;\n(i) converting to other uses, without pollution elimination treatment, the sites, facilities, equipment, containers, packaging and other articles used for the collection, storage, transport or disposal of hazardous waste;\n(j) failing to adopt the corresponding preventive measures, resulting in scattering, loss, leakage or other environmental pollution by hazardous waste;\n(k) discarding or spilling hazardous waste along the way in the course of transport;\n(l) failing to formulate preventive measures and contingency plans against accidents involving hazardous waste;\n(m) failing to establish hazardous waste management ledgers and truthfully record them in accordance with the relevant provisions of the State.\nWhere an act specified in item (a), (b), (e), (f), (g), (h), (i), (l) or (m) of the preceding paragraph is committed, a fine of not less than 100,000 yuan but not more than 1,000,000 yuan shall be imposed; where an act specified in item (c), (d), (j) or (k) of the preceding paragraph is committed, a fine of not less than three times but not more than five times the disposal costs required shall be imposed, and where the disposal costs required are less than 200,000 yuan, they shall be calculated as 200,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 112."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 113,
+        "text": {
+          "en": "Where an act in violation of the provisions of this Law involves a generator of hazardous waste failing to dispose of the hazardous waste it generated in accordance with the provisions and refusing to correct after being ordered to do so, the competent department of ecology and environment shall organise disposal in substitution, and the disposal costs shall be borne by the generator; where the generator refuses to bear the costs of disposal in substitution, a fine of not less than one time but not more than three times the costs of disposal in substitution shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 113."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 114,
+        "text": {
+          "en": "Where a party engages in business activities of collecting, storing, utilising or disposing of hazardous waste without a licence, the competent department of ecology and environment shall order correction and impose a fine of not less than 1,000,000 yuan but not more than 5,000,000 yuan, and, upon approval by the people's government with approval authority, order suspension of business or closure; a fine of not less than 100,000 yuan but not more than 1,000,000 yuan shall be imposed on the legal representative, the principal person in charge, the directly responsible person in charge and other responsible persons.\nWhere a party engages in business activities of collecting, storing, utilising or disposing of hazardous waste not in accordance with the provisions of the licence, the competent department of ecology and environment shall order correction, restrict production or suspend production for rectification, and impose a fine of not less than 500,000 yuan but not more than 2,000,000 yuan; a fine of not less than 50,000 yuan but not more than 500,000 yuan shall be imposed on the legal representative, the principal person in charge, the directly responsible person in charge and other responsible persons; where the circumstances are serious, it shall, upon approval by the people's government with approval authority, order suspension of business or closure, and the licensing authority may also revoke the licence."
+        },
+        "noLabel": {
+          "en": "Article 114."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 115,
+        "text": {
+          "en": "Where an act in violation of the provisions of this Law involves importing solid waste originating outside the territory of the People's Republic of China into the territory, customs shall order the return of the solid waste and impose a fine of not less than 500,000 yuan but not more than 5,000,000 yuan.\nThe carrier shall bear joint and several liability with the importer for the return and disposal of the solid waste specified in the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 115."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 116,
+        "text": {
+          "en": "Where an act in violation of the provisions of this Law involves transferring hazardous waste in transit through the People's Republic of China, customs shall order the return of the hazardous waste and impose a fine of not less than 500,000 yuan but not more than 5,000,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 116."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 117,
+        "text": {
+          "en": "For solid waste that has been illegally imported into the territory, the competent department of ecology and environment of the people's government at or above the provincial level shall put forward handling opinions to customs in accordance with law, and customs shall make a penalty decision in accordance with the provisions of Article 115 of this Law; where environmental pollution has already been caused, the competent department of ecology and environment of the people's government at or above the provincial level shall order the importer to eliminate the pollution."
+        },
+        "noLabel": {
+          "en": "Article 117."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 118,
+        "text": {
+          "en": "Where an act in violation of the provisions of this Law causes an accident of pollution of the environment by solid waste, in addition to bearing compensation liability in accordance with law, the competent department of ecology and environment shall impose a fine in accordance with the provisions of the second paragraph of this Article and order the adoption of treatment measures within a time limit; where an accident of serious or extraordinarily serious pollution of the environment by solid waste is caused, it may also, upon approval by the people's government with approval authority, order closure.\nWhere an accident of ordinary or relatively serious pollution of the environment by solid waste is caused, the fine shall be calculated at not less than one time but not more than three times the direct economic loss caused by the accident; where an accident of serious or extraordinarily serious pollution of the environment by solid waste is caused, the fine shall be calculated at not less than three times but not more than five times the direct economic loss caused by the accident, and a fine of not more than 50 per cent of the income obtained from the unit in the previous year shall be imposed on the legal representative, the principal person in charge, the directly responsible person in charge and other responsible persons."
+        },
+        "noLabel": {
+          "en": "Article 118."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 119,
+        "text": {
+          "en": "Where a unit or other producer or operator, in violation of the provisions of this Law, discharges solid waste, is imposed a fine and is ordered to correct, the administrative organ that made the penalty decision in accordance with law shall organise a follow-up inspection, and where it finds that the offender continues to commit the illegal act, it shall impose a continuous daily penalty in accordance with the provisions of the Environmental Protection Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 119."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 120,
+        "text": {
+          "en": "Where an act in violation of the provisions of this Law falls under any of the following circumstances and does not yet constitute a crime, the public security organ shall impose detention of not less than 10 days but not more than 15 days on the legal representative, the principal person in charge, the directly responsible person in charge and other responsible persons; where the circumstances are relatively minor, detention of not less than five days but not more than 10 days shall be imposed:\n(a) dumping, piling, discarding or spilling solid waste without authorisation, causing serious consequences;\n(b) building, within ecological conservation red line areas, areas of concentrated permanent capital farmland and other areas requiring special protection, facilities and sites for the centralised storage, utilisation and disposal of industrial solid waste or hazardous waste, or landfills for household waste;\n(c) providing or entrusting hazardous waste to units without a licence or to other producers and operators for piling, utilisation or disposal;\n(d) engaging in business activities of collecting, storing, utilising or disposing of hazardous waste without a licence or not in accordance with the provisions of the licence;\n(e) transferring hazardous waste without authorisation and without approval;\n(f) failing to adopt preventive measures, resulting in scattering, loss, leakage or other serious consequences of hazardous waste."
+        },
+        "noLabel": {
+          "en": "Article 120."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 121,
+        "text": {
+          "en": "Where solid waste pollutes the environment or damages ecology, harming the interests of the State or the public interests of society, the relevant organs and organisations may bring a lawsuit before a people's court in accordance with the provisions of the Environmental Protection Law of the People's Republic of China, the Civil Procedure Law of the People's Republic of China, the Administrative Procedure Law of the People's Republic of China and other laws."
+        },
+        "noLabel": {
+          "en": "Article 121."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 122,
+        "text": {
+          "en": "Where pollution of the environment by solid waste or damage to ecology causes major loss to the State, the local people's government at or above the level of city divided into districts or the department or agency designated by it shall organise consultations with the units and other producers and operators that caused the environmental pollution and ecological damage, requiring them to bear liability for compensation; where the consultations fail to reach agreement, it may bring a lawsuit before a people's court.\nFor solid waste seized in the course of law enforcement for which the responsible person cannot be determined or which cannot be returned, the local people's government at or above the county level of the place where it is located shall organise its handling."
+        },
+        "noLabel": {
+          "en": "Article 122."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 123,
+        "text": {
+          "en": "Where an act in violation of the provisions of this Law constitutes a violation of public security administration, the public security organ shall impose public security administration punishment in accordance with law; where a crime is constituted, criminal liability shall be pursued in accordance with law; where personal injury or property damage is caused, civil liability shall be borne in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 123."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 124,
+        "text": {
+          "en": "For the purposes of this Law, the following terms have the meanings given below:\n(a) Solid waste means articles and substances in solid, semi-solid or gaseous form held in containers that are generated in production, daily life and other activities and have lost their original value of use or, although they have not lost their value of use, are discarded or abandoned, as well as articles and substances that laws and administrative regulations require to be administered as solid waste. Excluded are those which, after harmless processing and treatment, meet the mandatory national product quality standards, will not endanger public health or ecological security, or are determined not to be solid waste in accordance with the solid waste identification standards and procedures.\n(b) Industrial solid waste means solid waste generated in industrial production activities.\n(c) Household waste means solid waste generated in daily life or in activities providing services for daily life, as well as solid waste that laws and administrative regulations deem to be household waste.\n(d) Construction waste means waste soil, waste material and other solid waste generated by construction units and construction contractors in building new structures, reconstructing or expanding existing ones and demolishing buildings, structures and pipe networks of all types, as well as in residents' decoration of houses.\n(e) Agricultural solid waste means solid waste generated in agricultural production activities.\n(f) Hazardous waste means solid waste listed in the national catalogue of hazardous waste or identified as having hazardous characteristics in accordance with the hazardous waste identification standards and methods prescribed by the State.\n(g) Storage means the activity of temporarily placing solid waste in a specific facility or site.\n(h) Utilisation means the activity of extracting substances from solid waste as raw materials or fuel.\n(i) Disposal means the activity of incinerating solid waste or using other methods that alter the physical, chemical or biological characteristics of solid waste so as to reduce the quantity of solid waste already generated, reduce its volume, and reduce or eliminate its hazardous components, or the activity of finally placing solid waste in a landfill meeting the requirements of the provisions on environmental protection."
+        },
+        "noLabel": {
+          "en": "Article 124."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 125,
+        "text": {
+          "en": "The prevention and control of pollution of the environment by liquid waste shall be governed by this Law; however, the prevention and control of pollution of the environment by wastewater discharged into water bodies shall be governed by the relevant laws and not by this Law."
+        },
+        "noLabel": {
+          "en": "Article 125."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 126,
+        "text": {
+          "en": "This Law shall come into force on 1 September 2020."
+        },
+        "noLabel": {
+          "en": "Article 126."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-LAW-0120'] = {
     "lawId": "CN-LAW-0120",
     "sourceLang": "zh",
@@ -46395,6 +47886,2931 @@
         },
         "chapter": {
           "en": "Chapter XVI Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0149'] = {
+    "lawId": "CN-LAW-0149",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 122 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is enacted in order to strengthen maritime traffic management, maintain maritime traffic order, safeguard the safety of life and property, and safeguard the rights and interests of the State."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "This Law applies to navigation, berthing, operations and other activities related to maritime traffic safety conducted in the sea areas under the jurisdiction of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The State safeguards, in accordance with law, the use of the sea for traffic purposes.\nWork on maritime traffic safety adheres to the principles of safety first, prevention oriented, facilitation of passage and administration in accordance with law, so as to ensure that maritime traffic is safe, orderly and unimpeded."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The competent department of transport of the State Council shall be in charge of maritime traffic safety throughout the country.\nThe National Maritime Safety Administration shall be uniformly responsible for the supervision and administration of maritime traffic safety, and other maritime safety administrations at various levels shall, in accordance with their duties, be specifically responsible for the supervision and administration of maritime traffic safety within their respective areas of jurisdiction."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "People's governments at all levels and the relevant departments shall support work on maritime traffic safety, strengthen publicity and education on maritime traffic safety, and raise public awareness of maritime traffic safety throughout society."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The State safeguards, in accordance with law, the occupational safety and occupational health of seafarers and protects the lawful rights and interests of seafarers."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Units and individuals engaged in the navigation, berthing and operation of vessels and offshore installations, and in other activities related to maritime traffic, shall comply with the laws, administrative regulations and rules, as well as the mandatory standards and technical specifications, governing maritime traffic safety; they shall, in accordance with law, enjoy the right to obtain navigational guarantee and maritime rescue, and bear the obligation to maintain maritime traffic safety and protect the marine ecological environment."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The State encourages and supports the application of advanced science and technology in work on maritime traffic safety, promotes the modernisation of maritime traffic safety, and raises the level of science and technology in maritime traffic safety."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Vessels of Chinese nationality, offshore installations established in the sea areas under the jurisdiction of the People's Republic of China, shipping containers, and important marine equipment, components and materials affecting maritime traffic safety as determined by the National Maritime Safety Administration, shall meet the requirements of the relevant laws, administrative regulations and rules as well as mandatory standards and technical specifications, and shall pass inspection by a vessel inspection agency and obtain the corresponding certificates and documents. The list of certificates and documents shall be drawn up and published by the National Maritime Safety Administration.\nThe establishment of a vessel inspection agency shall be subject to permission by the National Maritime Safety Administration. The conditions for the establishment of vessel inspection agencies, the procedures therefor and their administration shall be governed by the provisions of the laws and administrative regulations on vessel inspection.\nUnits holding the relevant certificates and documents shall use vessels, offshore installations, shipping containers and important marine equipment, components and materials for the purposes specified, and shall conduct periodic safety and technical inspection in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Vessels, Offshore Installations and Seafarers"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Only after a vessel has applied to the maritime safety administration for registration of Chinese nationality and obtained a certificate of nationality in accordance with the provisions of the laws and administrative regulations on vessel registration may it fly the national flag of the People's Republic of China in navigation, berthing and operations.\nWhere a vessel of Chinese nationality is lost or scrapped, the shipowner shall, within the time limit prescribed by the competent department of transport of the State Council, apply for cancellation of the registration of nationality; where the shipowner fails to apply for cancellation of the registration of nationality within that time limit, the maritime safety administration may publish a notice on the proposed compulsory cancellation of the registration of nationality of the vessel. Where the shipowner raises no objection within 60 days from the date of publication of the notice, the maritime safety administration may cancel the registration of nationality of the vessel."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Vessels, Offshore Installations and Seafarers"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The owner, operator or manager of a vessel of Chinese nationality shall establish and operate a safety management system for safe operation and for the prevention of pollution from vessels.\nWhere the management system specified in the preceding paragraph passes the audit of the maritime safety administration, the Administration shall issue a document of compliance and the corresponding safety management certificate for the vessel."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Vessels, Offshore Installations and Seafarers"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The owner, operator or manager of a vessel of Chinese nationality engaged in international voyages shall, in accordance with the provisions of the competent department of transport of the State Council, establish a ship security system, formulate a ship security plan, equip the vessel with ship security equipment in accordance with the ship security plan, and conduct drills on a regular basis."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Vessels, Offshore Installations and Seafarers"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Seafarers of Chinese nationality and the working personnel on offshore installations shall receive professional education and training in maritime traffic safety and in the corresponding posts.\nSeafarers of Chinese nationality shall, in accordance with the provisions of the laws and administrative regulations on the administration of seafarers, apply to the maritime safety administration for a certificate of competency and obtain a health certificate.\nWhere seafarers of foreign nationality work on board vessels of Chinese nationality, the provisions of the laws and administrative regulations on the administration of seafarers shall apply.\nSeafarers working on board a vessel shall fall within the scope of the vessel, navigation area and position stated in their certificates of competency."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Vessels, Offshore Installations and Seafarers"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The owner, operator or manager of a vessel of Chinese nationality shall, for its vessel engaged in international voyages, apply to the maritime safety administration for a maritime labour certificate. A vessel applying for a maritime labour certificate shall meet the following conditions:\n(a) the owner, operator or manager has recruited seafarers in accordance with law, concluded labour contracts or employment agreements with them, and provided the vessel with seafarers meeting the requirements;\n(b) the owner, operator or manager has ensured that the working environment, occupational health protection and safety protection, working and rest hours, remuneration, living conditions, medical conditions and social insurance of seafarers on board the vessel comply with the relevant provisions of the State;\n(c) the owner, operator or manager has established a seafarer complaint and handling mechanism meeting the requirements;\n(d) the owner, operator or manager has provided corresponding financial security or taken out corresponding insurance in respect of the costs of repatriation of seafarers and the costs payable in accordance with law for injury, illness or death occurring during employment on board.\nThe maritime safety administration shall, in consultation with the administrative department of human resources and social security, examine, in accordance with their respective duties, whether the applicant and its vessel meet the conditions specified in the preceding paragraph. Where the conditions are met upon examination, the maritime safety administration shall issue the maritime labour certificate within 10 working days from the date of acceptance of the application; where the conditions are not met, the maritime safety administration shall inform the applicant and explain the reasons.\nThe specific measures for the issuance, supervision and inspection of maritime labour certificates shall be drawn up and published by the competent department of transport of the State Council jointly with the administrative department of human resources and social security of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Vessels, Offshore Installations and Seafarers"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The maritime safety administration shall, in accordance with the provisions of the laws and administrative regulations on the administration of seafarers, administer the training of seafarers for sea-going vessels conducted by units."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Vessels, Offshore Installations and Seafarers"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The competent department of transport of the State Council, other relevant departments and the relevant local people's governments at or above the county level shall establish and improve a mechanism for early warning of and emergency response to emergencies involving seafarers abroad, and shall formulate contingency plans for emergencies involving seafarers abroad.\nThe emergency response to emergencies involving seafarers abroad shall be the responsibility of the people's government of the province, autonomous region or municipality directly under the Central Government where the unit that dispatched the seafarers is located, with the cooperation of the people's government of the province, autonomous region or municipality directly under the Central Government where the seafarers are domiciled.\nEmbassies and consulates of the People's Republic of China in foreign countries and the relevant maritime safety administrations shall assist in handling emergencies involving seafarers abroad."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Vessels, Offshore Installations and Seafarers"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The scope of vessels to which Articles 9 to 12 and Article 14 of this Chapter apply shall be specifically prescribed by the relevant laws and administrative regulations, or shall be drawn up by the competent department of transport of the State Council and published after approval by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Vessels, Offshore Installations and Seafarers"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The competent department of transport of the State Council shall make overall plans for and administer maritime traffic resources, and promote the rational development and effective use of maritime traffic resources.\nPlans for maritime traffic resources shall conform to territorial spatial planning."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Maritime Traffic Conditions and Navigation Guarantee"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The maritime safety administration shall, on the basis of the natural conditions of the sea areas, the state of maritime traffic and the needs of maritime traffic safety management, designate, adjust and promptly publish maritime traffic functional areas such as ships' routeing systems, ship reporting systems, traffic control zones, prohibited navigation zones, safe operation zones and anchorages outside the port.\nWhere the maritime safety administration designates or adjusts ships' routeing systems, anchorages outside the port, or safe operation zones that affect other marine functional areas or sea use activities, it shall solicit the opinions of the relevant departments in charge of fisheries and fishery administration, ecology and environment, and natural resources. Where a prohibited navigation zone is to be designated or adjusted for military needs, the decision shall be made by the military organ responsible for designating and adjusting the prohibited navigation zone, and the maritime safety administration shall publish it."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Maritime Traffic Conditions and Navigation Guarantee"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where the construction of marine engineering or coastal engineering affects maritime traffic safety, facilities and equipment for preventing collisions between vessels shall be provided as the circumstances require, and dedicated navigational marks shall be established."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Maritime Traffic Conditions and Navigation Guarantee"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The State shall establish and improve maritime traffic support service systems such as vessel positioning, navigation, timing, communications and remote monitoring, so as to provide information services for vessels and offshore installations."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Maritime Traffic Conditions and Navigation Guarantee"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "No unit or individual may damage a maritime traffic support service system or impair its working efficiency. Where the construction of buildings or structures, or the use of facilities and equipment, may affect the normal use of a maritime traffic support service system, the construction unit, owner or user shall consult with the unit administering the relevant maritime traffic support service system and make appropriate arrangements."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Maritime Traffic Conditions and Navigation Guarantee"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The competent department of transport of the State Council shall take the necessary measures to ensure the rational layout and effective coverage of radiocommunication facilities for maritime traffic safety, plan the construction layout and station sites of maritime radio stations of its own system (industry), and issue ship station licences and station identification codes for vessels.\nThe competent department of transport of the State Council shall organise the construction of the maritime radio monitoring system of its own system (industry) and monitor radio signals, and shall, jointly with the national radio administration, maintain order in maritime radio waves."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Maritime Traffic Conditions and Navigation Guarantee"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Where a vessel navigating in the sea areas under the jurisdiction of the People's Republic of China needs to use a shore-based radio station for transit in its communications, the transit shall be effected through a coast radio station or a satellite gateway station within the territory established in accordance with law.\nSeafarers undertaking radiocommunication duties and the staff of shore-based radio stations shall comply with the rules of maritime radiocommunication, maintain watchkeeping and unimpeded access on the maritime traffic safety communication channels, and may not use maritime traffic safety communication frequencies to exchange content unrelated to maritime traffic safety.\nNo unit or individual may, in violation of the relevant provisions of the State, use a radio station identification code in a manner that affects identification in maritime search and rescue."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Maritime Traffic Conditions and Navigation Guarantee"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The relevant units of astronomy, meteorology and oceanography shall promptly forecast, broadcast and provide information on nautical astronomy, universal time, marine meteorology, waves, currents, tides, ice conditions and the like."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Maritime Traffic Conditions and Navigation Guarantee"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The competent department of transport of the State Council shall make a unified layout for, construct and administer public navigational marks. Where the construction unit, owner or operator of marine engineering or coastal engineering needs to establish or remove dedicated navigational marks, to change the position of dedicated navigational marks, or to change the light or power of navigational marks, it shall report to the maritime safety administration and obtain its consent. Where temporary navigational marks are to be established, the sites for establishing navigational marks determined by the maritime safety administration shall be complied with.\nThe competent departments of natural resources shall, in accordance with law, ensure the land, sea areas and islands used for navigational mark facilities and devices, and shall, in accordance with law, handle the relevant formalities for them.\nThe construction, maintenance and upkeep of navigational marks shall meet the requirements of the relevant mandatory standards and technical specifications. The navigational mark maintenance unit and the owner of a dedicated navigational mark shall patrol, maintain and service the navigational mark, and ensure that it is in good and serviceable condition. Where a navigational mark is displaced, damaged or lost, the navigational mark maintenance unit or the owner of the dedicated navigational mark shall promptly restore it."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Maritime Traffic Conditions and Navigation Guarantee"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where any unit or individual discovers any of the following circumstances, it or he shall immediately report to the maritime safety administration; where the matter falls within the duties of the waterway administration or concerns a dedicated navigational mark, the maritime safety administration shall promptly notify the waterway administration or the owner of the dedicated navigational mark:\n(a) navigational aids or navigation facilities are displaced, damaged or lost;\n(b) there are sunken objects, floating objects, stranded objects or other obstructions to navigation that impede maritime traffic safety;\n(c) other abnormal circumstances that impede maritime traffic safety."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Maritime Traffic Conditions and Navigation Guarantee"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The maritime safety administration shall, based on the needs of maritime traffic safety management, issue navigational warnings for situations that are urgent and dangerous, and issue navigational notices for other situations affecting maritime traffic safety.\nThe maritime safety administration shall notify the naval hydrographic department of navigational warnings and navigational notices and of the designation and adjustment of ships' routeing systems, and shall promptly provide the relevant materials."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Maritime Traffic Conditions and Navigation Guarantee"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The maritime safety administration shall promptly broadcast maritime traffic safety information to vessels and offshore installations.\nWhere vessels or offshore installations navigate, berth or operate in routeing systems, traffic control zones or areas with dense traffic, the maritime safety administration shall, upon their request, provide the corresponding safety information services."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Maritime Traffic Conditions and Navigation Guarantee"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where any of the following vessels navigates, berths or shifts berth within a pilotage area designated by the competent department of transport of the State Council, it shall apply to a pilotage agency for pilotage:\n(a) vessels of foreign nationality, except those which the competent department of transport of the State Council has prescribed, after approval by the State Council, as being exemptible;\n(b) nuclear-powered vessels, vessels carrying radioactive substances, and very large crude carriers;\n(c) bulk liquefied gas carriers and bulk dangerous chemical carriers that may endanger port safety;\n(d) vessels whose length, breadth and height approach the navigational limits of the corresponding waterway.\nThe specific standards for the vessels specified in items (c) and (d) of the preceding paragraph shall be drawn up and published by the relevant maritime safety administration in light of the actual conditions of the port.\nWhere a vessel voluntarily applies for pilotage, the pilotage agency shall provide pilotage services."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Maritime Traffic Conditions and Navigation Guarantee"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "A pilotage agency shall promptly assign pilots with the corresponding competence and experience to provide pilotage services for vessels.\nA pilot shall, as assigned by the pilotage agency, board and leave the vessel being piloted in the prescribed waters, and shall carry out the pilotage task safely and prudently. The vessel being piloted shall be equipped with boarding and landing arrangements that meet the requirements, and shall ensure the safety of the pilot while boarding and leaving the vessel and during pilotage on board.\nThe pilotage of a vessel by a pilot does not relieve the master of the responsibility for commanding and managing the vessel."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Maritime Traffic Conditions and Navigation Guarantee"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The competent department of transport of the State Council shall, in light of the security threats faced by vessels, offshore installations and ports, determine and promptly publish security levels. Vessels, offshore installations and ports shall adopt the corresponding security measures according to the security level."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III Maritime Traffic Conditions and Navigation Guarantee"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Vessels navigating, berthing and operating shall hold valid certificates of vessel nationality and other statutory certificates and documents, carry nautical charts and publications published in accordance with the relevant provisions, fly the flags of the relevant States, regions or organisations, and mark the ship's name, ship identification number, port of registry and load line marks.\nVessels shall meet the minimum safe manning requirements and carry seafarers holding valid and valid certificates.\nOffshore installations berthing and operating shall hold statutory certificates and documents, and shall be manned, in accordance with the provisions, with personnel skilled in collision avoidance, signals, communications, firefighting and life-saving."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Navigation, Berthing and Operations"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The master shall inspect the vessel before departure and, at the time of departure, confirm that the seafarers are competent, the vessel is seaworthy and the cargo is suitable for carriage, and shall ascertain information on weather and sea conditions as well as navigational notices, navigational warnings and other warning information issued by the maritime safety administration, implement the corresponding emergency measures, and may not set sail in disregard of risk.\nThe owner, operator or manager of a vessel may not instruct or compel seafarers to operate or work in a risky manner in violation of regulations."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Navigation, Berthing and Operations"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Vessels shall navigate, berth and operate within the navigation areas stated in their vessel inspection certificates.\nWhen navigating, berthing and operating, vessels shall comply with the relevant navigation rules, display signals and fly marks in accordance with the relevant provisions, and maintain sufficient under-keel clearance."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Navigation, Berthing and Operations"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "During navigation, vessels shall, in accordance with the relevant provisions, turn on devices related to navigation safety, security and pollution prevention, such as automatic identification, voyage data recording, long-range identification and tracking, and communications, and shall keep displaying and recording continuously.\nNo unit or individual may unseal, dismantle, initialise or reconfigure a voyage data recording device or read the information recorded therein, unless otherwise provided by laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Navigation, Berthing and Operations"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Vessels shall keep navigation records such as deck logs, engine logs and radio logs, comprehensively, truthfully and promptly record, in accordance with the relevant provisions, vessel operations involving maritime traffic safety and important events in the navigation, berthing and operation of the vessel, and properly keep the relevant record books."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Navigation, Berthing and Operations"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "The master shall be responsible for the management and command of the vessel. In safeguarding safety of life at sea, ship security and prevention of pollution from vessels, the master has the right to make decisions independently.\nThe master shall take the necessary measures to protect the safety of the vessel, the persons on board, the vessel's navigation documents, the cargo and other property. Orders given by the master within the scope of his functions and powers shall be carried out by seafarers, passengers and other persons on board."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Navigation, Berthing and Operations"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "In order to safeguard the safety of the vessel and the persons on board, the master has the right, within the scope of his duties, to impose solitary confinement or other necessary restrictive measures on persons suspected of carrying out illegal or criminal activities on board, and to prevent them from concealing, destroying or forging evidence.\nWhere the master takes the measures specified in the preceding paragraph, he shall prepare a report on the case, signed by himself and by two or more persons on board. After a vessel of Chinese nationality arrives at a port of China, the persons concerned shall be promptly transferred to the relevant competent department."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter IV Navigation, Berthing and Operations"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where it is discovered that a person on board suffers from or is suspected of suffering from an infectious disease that seriously threatens the health of others, the master shall immediately activate the corresponding contingency plan, take the necessary isolation measures against the person concerned within the scope of his duties, and promptly report to the relevant competent department."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter IV Navigation, Berthing and Operations"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where the master dies during navigation or is unable to perform his duties for any reason, the officer with the highest rank among the deck officers shall act as master; before the vessel sails from the next port, its owner, operator or manager shall appoint a new master to take over."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IV Navigation, Berthing and Operations"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Seafarers shall, in accordance with the rules and regulations on navigation and watchkeeping and the operating procedures, as well as the master's instructions, operate and manage the vessel, maintain a safe watch, and may not leave their posts without authorisation. Before and during the performance of watchkeeping duties on board, seafarers may not consume food, medicines or other substances that may affect safe watchkeeping."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter IV Navigation, Berthing and Operations"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "When entering or leaving a port or an anchorage, or when passing through bridge waters, straits, narrow channels, important fishery waters, areas with dense traffic, ships' routeing systems or traffic control zones, vessels shall strengthen lookout, maintain a safe speed, and comply with the special navigation rules for the said areas.\nThe important fishery waters referred to in the preceding paragraph shall be designated and published by the competent department of fisheries and fishery administration of the State Council after soliciting the opinions of the competent department of transport of the State Council.\nA vessel crossing a waterway may not impede the normal navigation of vessels in the waterway, and may not cut across the bows of other vessels. Vessels exceeding the navigable dimensions of a bridge are prohibited from entering the bridge waters."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter IV Navigation, Berthing and Operations"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Vessels may not enter or cross prohibited navigation zones in violation of the provisions.\nWhen entering or leaving a ship reporting system, vessels shall report their positions and movement information to the maritime safety administration.\nWithin safe operation zones and anchorages outside the port, aquaculture, planting, fishing and other operations or activities affecting maritime traffic safety are prohibited."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter IV Navigation, Berthing and Operations"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where a vessel carries or tows a vessel, offshore installation or other object that is over-length, over-height, over-width or semi-submersible, it shall adopt special safety guarantee measures such as strengthening the towing points and providing escort, report the navigation plan to the maritime safety administration before departure, and display signals and fly marks in accordance with the relevant provisions; where a large offshore installation such as a mobile platform or floating dock is towed, a towing inspection certificate issued by a vessel inspection agency shall also be submitted for examination in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter IV Navigation, Berthing and Operations"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Vessels engaged in international voyages shall, when entering or leaving a port, apply to the maritime safety administration for permission in accordance with law and accept the supervision and inspection of the maritime safety administration and other port inspection agencies. The maritime safety administration shall, within five working days from the date of acceptance of the application, make a decision to grant or deny permission.\nVessels of foreign nationality temporarily entering waters not open to the outside world shall obtain permission in accordance with the provisions of the State Council on the entry and departure of vessels at ports.\nVessels engaged in domestic voyages shall, when entering or leaving a port or an off-port loading and unloading point, report to the maritime safety administration on the voyage plan, seaworthiness, manning, and carriage of passengers and cargo."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter IV Navigation, Berthing and Operations"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Vessels shall berth at wharves, berths, loading and unloading points, anchorages and safe operation zones that meet safety conditions. The berthing of a vessel may not endanger the safety of other vessels or offshore installations.\nVessels entering or leaving a port or an off-port loading and unloading point shall meet the berthing conditions and the requirements on navigation conditions such as tide, weather and sea state.\nWhere an over-length, over-height or over-width vessel, or a vessel with restricted manoeuvrability, enters or leaves a port or an off-port loading and unloading point in a manner that may affect maritime traffic safety, the maritime safety administration shall verify the safety conditions for the vessel's entry into and departure from the port, and may require the vessel to adopt the corresponding safety measures such as additional tugs and entering the port on the tide."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter IV Navigation, Berthing and Operations"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Construction operations conducted in the sea areas under the jurisdiction of the People's Republic of China shall be subject to permission by the maritime safety administration, and the corresponding safe operation zone shall be verified and determined. To obtain permission for offshore construction operations, the following conditions shall be met:\n(a) the units, personnel, vessels and installations engaged in the construction operations meet the requirements for safe navigation, berthing and operations;\n(b) there is a construction operation plan;\n(c) there are guarantee measures, contingency plans and responsibility systems meeting the requirements of maritime traffic safety and prevention of pollution of the marine environment from vessels.\nVessels engaged in construction operations shall operate within the verified and determined safe operation zone and implement maritime traffic safety management measures. Other unrelated vessels and offshore installations may not enter the safe operation zone.\nOperations such as excavation and blasting conducted in port waters that may endanger port safety shall be governed by the legal provisions on port administration."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter IV Navigation, Berthing and Operations"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Activities on or under water such as sports, entertainment, drills, trial voyages and scientific observation shall comply with the provisions on maritime traffic safety management; where such activities may affect maritime traffic safety, the sea area involved shall be reported to the maritime safety administration ten working days in advance."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter IV Navigation, Berthing and Operations"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "After offshore construction operations or activities on or under water are completed, the relevant units and individuals shall promptly eliminate the hidden dangers that may impede maritime traffic safety."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter IV Navigation, Berthing and Operations"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "The owner, operator or manager of an obstruction to navigation shall, in accordance with the requirements of the relevant mandatory standards and technical specifications, promptly establish warning marks, report to the maritime safety administration the name, shape, dimensions, position and depth of the obstruction, and salvage and remove it within the time limit set by the maritime safety administration. Where the owner of the obstruction abandons ownership, his obligation to salvage and remove it is not thereby exempted.\nWhere the owner, operator or manager of an obstruction to navigation cannot be ascertained, the maritime safety administration shall organise the establishment of marks, salvage or the adoption of the corresponding measures, and the expenses incurred shall be included in the departmental budget."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter IV Navigation, Berthing and Operations"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where any of the following circumstances exists and has a relatively significant impact on maritime traffic safety, the maritime safety administration shall, in light of the specific circumstances, adopt the corresponding traffic control measures such as suspension of navigation, speed limits or designation of traffic control zones, and announce them to the public:\n(a) severe weather or sea conditions;\n(b) occurrence of a maritime peril or maritime traffic accident affecting navigation;\n(c) military training, exercises or other related activities;\n(d) conduct of large-scale activities on or under water;\n(e) traffic density in a specific sea area approaching saturation;\n(f) other circumstances having a relatively significant impact on maritime traffic safety."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter IV Navigation, Berthing and Operations"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "In order to maintain maritime traffic safety and protect the marine environment, the competent department of transport of the State Council may, jointly with the relevant competent departments, take the necessary measures to prevent and stop the non-innocent passage of vessels of foreign nationality through the territorial sea."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter IV Navigation, Berthing and Operations"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "The following vessels of foreign nationality shall report to the maritime safety administration when entering or leaving the territorial sea of the People's Republic of China:\n(a) submersibles;\n(b) nuclear-powered vessels;\n(c) vessels carrying radioactive substances or other toxic or hazardous substances;\n(d) other vessels which, as prescribed by laws, administrative regulations or the State Council, may endanger the maritime traffic safety of the People's Republic of China.\nThe vessels specified in the preceding paragraph shall, when passing through the territorial sea of the People's Republic of China, hold the relevant certificates, adopt special precautionary measures conforming to the provisions of the laws, administrative regulations and rules of the People's Republic of China, and accept the instructions and supervision of the maritime safety administration."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter IV Navigation, Berthing and Operations"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Apart from obtaining permission to enter a port in accordance with the provisions of this Law, vessels of foreign nationality may not enter the internal waters of the People's Republic of China; however, they may enter where, owing to an emergency such as critical illness of persons, breakdown of machinery, distress or sheltering from weather, permission has not yet been obtained.\nWhere a vessel of foreign nationality enters the internal waters of the People's Republic of China owing to an emergency specified in the preceding paragraph, it shall, at the same time as entering, make an emergency report to the maritime safety administration and accept the instructions and supervision of the Administration. The maritime safety administration shall promptly notify the coast guard agency of the sea area under its jurisdiction, the nearest exit-entry border inspection authority and the local public security organ, customs and other competent departments."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter IV Navigation, Berthing and Operations"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where vessels of the Chinese People's Liberation Army on military missions and public service vessels performing official duties encounter an emergency, they may, on the premise of ensuring maritime traffic safety, be exempt from the restrictions of the relevant rules on navigation, berthing and operations."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter IV Navigation, Berthing and Operations"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Except for rescue operations or rescue of life, passenger vessels shall carry passengers in accordance with the passenger capacity verified in the vessel inspection certificate, and cargo vessels carrying cargo shall comply with the load line and the types of cargo verified in the vessel inspection certificate, and may not carry passengers."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter V Safety of Maritime Passenger and Cargo Transport"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Passenger vessels carrying passengers may not at the same time carry dangerous goods.\nPassengers may not carry with them or include in their luggage dangerous articles prescribed by laws, administrative regulations or the competent department of transport of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter V Safety of Maritime Passenger and Cargo Transport"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Passenger vessels shall prominently display safety instructions to passengers, set up safety signs and warnings, and explain to passengers the use of life-saving appliances and the emergency measures to be taken in an emergency. Passengers shall comply with the requirements for safe travel by vessel."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter V Safety of Maritime Passenger and Cargo Transport"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "The local people's government at or above the county level in the place where an offshore ferry crossing is located shall establish and improve a responsibility system for the safety management of the ferry crossing, formulate administrative measures for the safety of the offshore ferry crossing, supervise and guide the ferry operator in implementing its principal responsibility for safety, maintain ferry order and ensure ferry safety.\nThe ferry routes of an offshore ferry crossing shall be designated by the competent department of transport of the local people's government at or above the county level in the place where the ferry crossing is located, jointly with the maritime safety administration. Ferries shall operate safely along the designated routes.\nIn the event of severe weather or sea conditions, the local people's government at or above the county level or the department designated by it shall publish a notice suspending ferry services."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter V Safety of Maritime Passenger and Cargo Transport"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Vessels carrying cargo shall load, stow, segregate, secure and manage the cargo safely in accordance with the requirements of the relevant laws, administrative regulations and rules as well as mandatory standards and technical specifications."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter V Safety of Maritime Passenger and Cargo Transport"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Vessels carrying dangerous goods shall hold a valid certificate of fitness for the carriage of dangerous goods, and shall, in light of the characteristics of the dangerous goods and the requirements of emergency measures, prepare a contingency plan for emergency response to dangerous goods and be equipped with the corresponding firefighting and emergency equipment and materials."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter V Safety of Maritime Passenger and Cargo Transport"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "A shipper consigning dangerous goods shall notify the carrier of their proper shipping name, dangerous nature and the protective measures to be taken, and shall pack them properly and affix conspicuous dangerous goods marks and labels in accordance with the requirements of the relevant laws, administrative regulations and rules as well as mandatory standards and technical specifications.\nA shipper may not include dangerous goods in ordinary goods consigned, or consign dangerous goods falsely declared as ordinary goods.\nWhere the goods consigned by a shipper are goods that are not listed in the International Maritime Dangerous Goods Code or the national list of dangerous goods but have dangerous characteristics, the shipper shall also submit documents issued by the relevant professional institutions indicating the dangerous characteristics of the goods and the protective measures to be taken.\nThe criteria for determining the dangerous characteristics of goods shall be drawn up and published by the National Maritime Safety Administration."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter V Safety of Maritime Passenger and Cargo Transport"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Vessels carrying dangerous goods entering or leaving a port shall meet the following conditions, obtain permission from the maritime safety administration, and report to the Administration the time of entry and departure and of stay:\n(a) the dangerous goods carried meet the requirements for safe carriage by sea;\n(b) the loading of the vessel complies with the requirements of the certificates and documents held;\n(c) the port, wharf or berth at which the vessel intends to berth or to carry out loading and unloading of dangerous goods has the qualification for dangerous goods operations prescribed by the relevant laws and administrative regulations.\nThe maritime safety administration shall, within 24 hours from the time of receipt of the application, make a decision to grant or deny permission.\nVessels with a fixed vessel, a fixed route and fixed types of cargo may apply for permission to enter and leave the port multiple times within a certain period, which shall not exceed 30 days. The maritime safety administration shall, within five working days from the date of receipt of the application, make a decision to grant or deny permission.\nWhere the maritime safety administration grants permission, it shall notify the port administrative department."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter V Safety of Maritime Passenger and Cargo Transport"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Where vessels or offshore installations engage in the transport, loading and unloading, or transhipment of dangerous goods, they shall prepare an operation plan, comply with the relevant mandatory standards and safe operating procedures, and take the necessary preventive measures to prevent safety accidents.\nWhere bulk liquid dangerous goods are transhipped outside port waters, the following conditions shall also be met, and permission shall be obtained from the maritime safety administration with the safe operation zone verified and determined:\n(a) the vessels or offshore installations intending to carry out the transhipment operations meet the requirements of maritime traffic safety and prevention of pollution of the marine environment from vessels;\n(b) the goods to be transhipped meet the requirements for safe transhipment;\n(c) the personnel participating in the transhipment operations have the transhipment capability prescribed by laws and administrative regulations;\n(d) the waters in which the operations are to be carried out, their seabed and the surrounding environment are suitable for transhipment operations;\n(e) the transhipment operations pose no threat to marine resources or to nearby military targets or important civilian targets;\n(f) there is a transhipment operation plan, safety guarantee measures and contingency plan meeting the safety requirements.\nFor vessels operating on a single voyage, the maritime safety administration shall, within 24 hours from the time of receipt of the application, make a decision to grant or deny permission; for vessels operating on multiple voyages in specific waters, the maritime safety administration shall, within five working days from the date of receipt of the application, make a decision to grant or deny permission."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter V Safety of Maritime Passenger and Cargo Transport"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Persons in distress at sea enjoy, in accordance with law, the right to rescue of life. Rescue of life takes precedence over rescue of the environment and property."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter VI Maritime Search and Rescue"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Work on maritime search and rescue adheres to the principles of government leadership, unified command, local predominance, combination of professional and mass efforts, and speed by proximity."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter VI Maritime Search and Rescue"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "The State establishes a maritime search and rescue coordination mechanism to make overall plans for national maritime search and rescue emergency response, to study and resolve major issues in maritime search and rescue, and to organise and coordinate major maritime search and rescue emergency operations. The coordination mechanism shall be composed of the relevant departments and units of the State Council and the relevant military organs.\nThe China Maritime Search and Rescue Centre and the maritime search and rescue centres or designated agencies established by the relevant local people's governments (hereinafter collectively referred to as maritime search and rescue centres) shall be responsible for the organisation, coordination and command of maritime search and rescue."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter VI Maritime Search and Rescue"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "Coastal local people's governments at or above the county level shall allocate the necessary maritime search and rescue funds to ensure the normal conduct of search and rescue work."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter VI Maritime Search and Rescue"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "The member units of a maritime search and rescue centre shall, under the unified organisation, coordination and command of the centre, and in accordance with their respective duties, undertake emergency search and rescue, rescue and relief, support and guarantee, and follow-up handling."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter VI Maritime Search and Rescue"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "The State establishes professional maritime search and rescue teams and strengthens the development of maritime search and rescue capabilities. Professional maritime search and rescue teams shall be equipped with professional search and rescue equipment, establish systems for regular drills and daily training, and improve their search and rescue standards.\nThe State encourages social forces to establish maritime search and rescue teams and to participate in maritime search and rescue operations."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter VI Maritime Search and Rescue"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "Where vessels, offshore installations, aircraft and persons are in distress at sea, they shall immediately report to the maritime search and rescue centre, and may not conceal or falsely report a maritime peril.\nWhere vessels, offshore installations, aircraft or persons transmit a distress alert signal by mistake, they shall, apart from immediately reporting to the maritime search and rescue centre, take the necessary measures to eliminate the effects.\nAny other unit or individual that discovers or learns of a maritime peril shall immediately report it to the maritime search and rescue centre."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter VI Maritime Search and Rescue"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "Vessels and offshore installations involved in a collision accident shall exchange their names, nationalities and ports of registry, do their utmost to rescue the persons of the other party without seriously endangering their own safety, and may not leave the waters of the scene of the accident without authorisation or abscond."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter VI Maritime Search and Rescue"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "Vessels and offshore installations in distress and their owners, operators or managers shall take effective measures to prevent and reduce loss of life and property and pollution of the marine environment.\nWhere a vessel is in distress, passengers shall obey the command of the master and cooperate in taking the relevant emergency measures. Passengers have the right to be informed of the necessary information on the peril.\nWhere the master decides to abandon ship, he shall organise the passengers and seafarers to leave the vessel in order, and shall do his utmost to salvage the statutory navigation documents. The master shall be the last to leave the vessel."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter VI Maritime Search and Rescue"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "Where vessels, offshore installations or aircraft receive a distress signal or discover that persons are in danger of losing their lives, they shall do their utmost to rescue the persons in distress without seriously endangering their own safety."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter VI Maritime Search and Rescue"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "Upon receiving a report of a peril, the maritime search and rescue centre shall immediately verify it, promptly organise, coordinate and command the relevant government departments, professional search and rescue teams, relevant social units and other forces to participate in the search and rescue, and designate an on-scene commander. The vessels, offshore installations, aircraft and persons participating in the search and rescue shall obey the on-scene commander and promptly report search and rescue developments and results.\nDecisions to suspend, resume or terminate search and rescue operations shall be made by the maritime search and rescue centre. Without the consent of the maritime search and rescue centre, the vessels, offshore installations, aircraft and persons participating in the search and rescue may not withdraw from the operations without authorisation.\nWhere the military participates in maritime search and rescue, the provisions of the relevant laws and administrative regulations shall apply."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter VI Maritime Search and Rescue"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "Vessels, offshore installations, aircraft or persons in distress shall obey the instructions of the maritime search and rescue centre and of the on-scene commander, and shall promptly accept rescue.\nWhere vessels, offshore installations or aircraft in distress do not cooperate with rescue, the on-scene commander may, in light of the critical circumstances of the peril, take the corresponding rescue measures."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter VI Maritime Search and Rescue"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "After a maritime accident or peril occurs, the relevant local people's government shall promptly organise medical institutions to provide emergency medical rescue to persons in distress, provide the necessary livelihood support to rescued persons, and organise the relevant parties to take follow-up measures."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Chapter VI Maritime Search and Rescue"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "Search and rescue carried out in sea areas where the People's Republic of China bears a search and rescue obligation under international treaties to which it is a party or which it has concluded shall be governed by the provisions of this Chapter.\nWhere a vessel of Chinese nationality is in distress in the sea areas under the jurisdiction of the People's Republic of China or in other sea areas outside the maritime search and rescue responsibility areas, the China Maritime Search and Rescue Centre shall, upon receipt of the information, carry out international cooperation in accordance with the provisions of international treaties to which the People's Republic of China is a party or which it has concluded."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Chapter VI Maritime Search and Rescue"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "Where a vessel or offshore installation is involved in a maritime traffic accident, it shall promptly report to the maritime safety administration and accept investigation."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Chapter VII Investigation and Handling of Maritime Traffic Accidents"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "Maritime traffic accidents are classified, according to the consequences of the damage caused, into extraordinarily serious accidents, serious accidents, relatively serious accidents and ordinary accidents. The standards for classifying accident grades in terms of casualties shall be determined in accordance with the provisions of the laws and administrative regulations on work safety; the standards for classifying accident grades in terms of direct economic loss shall be determined by the competent department of transport of the State Council jointly with the relevant departments of the State Council in light of the special circumstances of maritime traffic accidents, and shall be published and implemented after approval by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Chapter VII Investigation and Handling of Maritime Traffic Accidents"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "Extraordinarily serious maritime traffic accidents shall be investigated by an accident investigation team organised by the State Council or by a department authorised by the State Council, and the maritime safety administration shall participate in or assist in the investigation.\nOther maritime traffic accidents shall be investigated by an accident investigation team organised by the maritime safety administration, with the cooperation of the relevant departments. Where the State Council deems it necessary, it may directly organise, or authorise the relevant department to organise, an accident investigation team to conduct the investigation.\nWhere the maritime safety administration conducts an accident investigation and the accident involves the performance of military transport missions, it shall conduct the investigation jointly with the relevant military organ; where the accident involves fishing vessels, the competent department of fisheries and fishery administration and the coast guard agency shall participate in the investigation."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Chapter VII Investigation and Handling of Maritime Traffic Accidents"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "The investigation of maritime traffic accidents shall be comprehensive, objective, fair and prompt, and shall ascertain the facts and causes of the accident and determine responsibility for the accident in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Chapter VII Investigation and Handling of Maritime Traffic Accidents"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "The maritime safety administration may, as required by accident investigation and handling, unseal or dismantle the voyage data recording device of the vessel involved or read the information recorded therein, require the vessel to proceed to a designated place or prohibit it from leaving port, and detain the certificates, documents, articles and materials of the vessel or offshore installation and keep them properly. The persons concerned shall cooperate in the accident investigation."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Chapter VII Investigation and Handling of Maritime Traffic Accidents"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "The maritime traffic accident investigation team shall submit a maritime traffic accident investigation report within 90 days from the date of the accident; under special circumstances, with the approval of the person in charge of the department responsible for organising the accident investigation team, the time limit for submitting the accident investigation report may be appropriately extended, but the extension may not exceed 90 days at most. The time required for technical appraisal of the accident shall not be counted in the time limit for accident investigation.\nThe maritime safety administration shall, within 15 working days from the date of receipt of the maritime traffic accident investigation report, make a determination of responsibility for the accident, which shall serve as evidence in handling the maritime traffic accident.\nWhere the accident causes relatively small loss, the facts are clear and responsibility is clear, the simplified investigation procedure may apply in accordance with the provisions of the competent department of transport of the State Council.\nThe maritime traffic accident investigation report and the determination of responsibility for the accident shall be made public in accordance with the provisions of the relevant laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        },
+        "chapter": {
+          "en": "Chapter VII Investigation and Handling of Maritime Traffic Accidents"
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "Where a vessel of Chinese nationality is involved in a maritime traffic accident outside the sea areas under the jurisdiction of the People's Republic of China, it shall promptly report the circumstances of the accident to the maritime safety administration and accept investigation.\nWhere a vessel of foreign nationality is involved in an accident outside the sea areas under the jurisdiction of the People's Republic of China which causes serious injury or death to Chinese citizens, the maritime safety administration shall participate in the investigation in accordance with the provisions of international treaties to which the People's Republic of China is a party or which it has concluded."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        },
+        "chapter": {
+          "en": "Chapter VII Investigation and Handling of Maritime Traffic Accidents"
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "Where a vessel or offshore installation encounters severe weather or sea conditions or an unexpected accident at sea, causing or likely to cause damage, and it is necessary to state and record the specific circumstances such as the time, the sea area and the response measures taken, it may apply to the maritime safety administration for endorsement of a maritime declaration. The maritime safety administration shall provide endorsement services in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 87."
+        },
+        "chapter": {
+          "en": "Chapter VII Investigation and Handling of Maritime Traffic Accidents"
+        }
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "The maritime safety administration shall, in accordance with law, conduct supervision and inspection of navigation, berthing, operations and other activities related to maritime traffic safety conducted in the sea areas under the jurisdiction of the People's Republic of China.\nThe maritime safety administration shall, in accordance with the laws and administrative regulations of the People's Republic of China and the international treaties to which the People's Republic of China is a party or which it has concluded, conduct port State and coastal State supervision and inspection of vessels of foreign nationality.\nWhen performing official duties, the staff of the maritime safety administration shall wear uniforms as prescribed, wear insignia of rank, produce their law enforcement certificates, and consciously accept supervision.\nWhere the maritime safety administration performs its duties of supervision and inspection in accordance with law, the relevant units and individuals shall cooperate and may not refuse or obstruct the supervision and inspection conducted in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 88."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supervision and Administration"
+        }
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "In conducting supervision and inspection, the maritime safety administration may adopt methods such as boarding inspection, examination of certificates, on-site inspection, questioning of the persons concerned, and electronic monitoring.\nWhere a vessel carrying dangerous goods is suspected of concealing or falsely declaring dangerous goods, the maritime safety administration may conduct inspection by opening containers for examination. The maritime safety administration shall notify the relevant departments of the container examination. Port operators and the relevant units and individuals shall provide assistance."
+        },
+        "noLabel": {
+          "en": "Article 89."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supervision and Administration"
+        }
+      },
+      {
+        "no": 90,
+        "text": {
+          "en": "When conducting supervision and inspection of vessels and offshore installations, the maritime safety administration shall avoid or reduce the impact on their normal operations.\nUnless otherwise provided by laws or administrative regulations, or unless failure to conduct supervision and inspection immediately may cause serious consequences, vessels under navigation may not be intercepted for inspection."
+        },
+        "noLabel": {
+          "en": "Article 90."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supervision and Administration"
+        }
+      },
+      {
+        "no": 91,
+        "text": {
+          "en": "Where a vessel or offshore installation poses a threat to port safety, the maritime safety administration shall order it to correct the situation immediately or within a time limit, to restrict its operations, to proceed to a designated place, to be prohibited from entering the port, or to be expelled from the port.\nWhere a vessel or offshore installation is unseaworthy or unfit for towing, where the seafarers or the relevant personnel on the offshore installation do not hold valid statutory certificates or documents, or where there are other hidden dangers seriously endangering maritime traffic safety or polluting the marine environment, the maritime safety administration shall, in light of the circumstances, prohibit the vessel or offshore installation concerned from entering or leaving the port, temporarily detain the relevant certificates and documents, or order it to suspend navigation, change course, proceed to a designated place or stop operations. Where a vessel is overloaded, the maritime safety administration may, in accordance with law, compulsorily reduce its load. The expenses incurred by the compulsory reduction of load shall be borne by the owner, operator or manager of the vessel in violation of the law.\nWhere a vessel or offshore installation is involved in a maritime traffic accident or pollution accident and has not settled the taxes, fees and late payment surcharges prescribed by the State, has not provided security, or has not performed other statutory obligations, the maritime safety administration shall order it to correct the situation and may prohibit it from leaving port."
+        },
+        "noLabel": {
+          "en": "Article 91."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supervision and Administration"
+        }
+      },
+      {
+        "no": 92,
+        "text": {
+          "en": "Where a vessel of foreign nationality may threaten the security of the internal waters or territorial sea of the People's Republic of China, the maritime safety administration has the right to order it to leave.\nWhere a vessel of foreign nationality violates the laws or administrative regulations of the People's Republic of China on maritime traffic safety or on prevention of pollution from vessels, the maritime safety administration may exercise the right of hot pursuit in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 92."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supervision and Administration"
+        }
+      },
+      {
+        "no": 93,
+        "text": {
+          "en": "Any unit or individual has the right to report to the maritime safety administration acts impeding maritime traffic safety. Upon receipt of a report, the maritime safety administration shall promptly verify and handle it."
+        },
+        "noLabel": {
+          "en": "Article 93."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supervision and Administration"
+        }
+      },
+      {
+        "no": 94,
+        "text": {
+          "en": "Where, in the course of supervision and inspection, the maritime safety administration discovers that a vessel or offshore installation has violated other laws or administrative regulations, it shall promptly notify or refer the matter to the relevant competent department for handling in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 94."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supervision and Administration"
+        }
+      },
+      {
+        "no": 95,
+        "text": {
+          "en": "Where a vessel or offshore installation does not hold valid certificates or documents, the maritime safety administration shall order it to correct the situation and impose a fine of not less than 30,000 yuan but not more than 300,000 yuan on the owner, operator or manager of the vessel or offshore installation in violation of the law, and a fine of not less than 3,000 yuan but not more than 30,000 yuan on the master and the persons responsible; where the circumstances are serious, the certificates of competency of the master and the responsible seafarers shall be temporarily detained for not less than 18 months but not more than 30 months, up to revocation of the certificates of competency; forged or altered certificates and documents held by the vessel shall be confiscated; and vessels with serious hidden safety dangers may be confiscated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 95."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 96,
+        "text": {
+          "en": "Where a vessel or offshore installation falls under any of the following circumstances, the maritime safety administration shall order it to correct the situation and impose a fine of not less than 20,000 yuan but not more than 200,000 yuan on the owner, operator or manager of the vessel or offshore installation in violation of the law, and a fine of not less than 2,000 yuan but not more than 20,000 yuan on the master and the persons responsible; where the circumstances are serious, the relevant certificates and documents of the owner, operator or manager of the vessel in violation of the law shall be revoked, and the certificates of competency of the master and the responsible seafarers shall be temporarily detained for not less than 12 months but not more than 24 months, up to revocation of the certificates of competency:\n(a) the actual condition of the vessel or offshore installation does not conform to the certificates and documents held;\n(b) the vessel does not fly the national flag in accordance with law, or flies the flag of another State, region or organisation in violation of the law;\n(c) the vessel does not mark the ship's name, ship identification number, port of registry and load line marks as prescribed;\n(d) the manning of the vessel or offshore installation does not meet the minimum safe manning requirements."
+        },
+        "noLabel": {
+          "en": "Article 96."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 97,
+        "text": {
+          "en": "Where a person works on board a vessel without holding a certificate of competency or a seafarer's health certificate, or the certificate of competency or health certificate held does not meet the requirements, the maritime safety administration shall impose a fine of not less than 10,000 yuan but not more than 100,000 yuan on the owner, operator or manager of the vessel, and a fine of not less than 3,000 yuan but not more than 30,000 yuan on the responsible seafarer; where the circumstances are serious, a fine of not less than 30,000 yuan but not more than 300,000 yuan shall be imposed on the owner, operator or manager of the vessel, and the certificate of competency of the responsible seafarer shall be temporarily detained for not less than six months but not more than 12 months, up to revocation of the certificate of competency."
+        },
+        "noLabel": {
+          "en": "Article 97."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 98,
+        "text": {
+          "en": "Where the relevant certificates or documents are obtained for a vessel of Chinese nationality by deceptive, bribery or other improper means, the maritime safety administration shall revoke the relevant permission, confiscate the relevant certificates and documents, and impose a fine of not less than 40,000 yuan but not more than 400,000 yuan on the owner, operator or manager of the vessel.\nWhere a certificate of competency is obtained by deceptive, bribery or other improper means, the maritime safety administration shall revoke the relevant permission, confiscate the certificate of competency, and impose a fine of not less than 5,000 yuan but not more than 50,000 yuan on the person responsible."
+        },
+        "noLabel": {
+          "en": "Article 98."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 99,
+        "text": {
+          "en": "Where a seafarer fails to maintain a safe watch, consumes food, medicines or other substances that may affect safe watchkeeping in violation of the provisions, or commits other acts in violation of the rules on watchkeeping by seafarers at sea, the maritime safety administration shall impose a fine of not less than 1,000 yuan but not more than 10,000 yuan on the master and the responsible seafarer, or temporarily detain their certificates of competency for not less than three months but not more than 12 months; where the circumstances are serious, the certificates of competency of the master and the responsible seafarer shall be revoked."
+        },
+        "noLabel": {
+          "en": "Article 99."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 100,
+        "text": {
+          "en": "Where any of the following circumstances exists, the maritime safety administration shall order correction; where the circumstances are serious, a fine of not less than 30,000 yuan but not more than 100,000 yuan shall be imposed:\n(a) in the construction of marine engineering or coastal engineering, the corresponding facilities and equipment for preventing collisions between vessels are not provided and dedicated navigational marks are not established as prescribed;\n(b) a maritime traffic support service system is damaged or its working efficiency is impaired;\n(c) dedicated navigational marks are established or removed, the position of dedicated navigational marks is changed, or other conditions such as the light or power of navigational marks are changed, without the consent of the maritime safety administration, or temporary navigational marks are established at sites not conforming to those determined by the maritime safety administration;\n(d) aquaculture, planting, fishing or other operations or activities affecting maritime traffic safety are conducted within safe operation zones or anchorages outside the port."
+        },
+        "noLabel": {
+          "en": "Article 100."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 101,
+        "text": {
+          "en": "Where any of the following circumstances exists, the maritime safety administration shall order correction and impose a fine of not more than 30,000 yuan on the persons responsible; where the circumstances are serious, a fine of not less than 30,000 yuan but not more than 100,000 yuan shall be imposed, and the certificates of competency of the responsible seafarers shall be temporarily detained for not less than one month but not more than three months:\n(a) seafarers undertaking radiocommunication duties or the staff of shore-based radio stations fail to maintain watchkeeping and unimpeded access on the maritime traffic safety communication channels, or use maritime traffic safety communication frequencies to exchange content unrelated to maritime traffic safety;\n(b) a radio station identification code is used in violation of the relevant provisions of the State, affecting identification in maritime search and rescue;\n(c) other acts in violation of the rules of maritime radiocommunication."
+        },
+        "noLabel": {
+          "en": "Article 101."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 102,
+        "text": {
+          "en": "Where a vessel fails to apply for pilotage in accordance with the provisions of this Law, the maritime safety administration shall impose a fine of not less than 50,000 yuan but not more than 500,000 yuan on the owner, operator or manager of the vessel in violation of the law, and a fine of not less than 1,000 yuan but not more than 10,000 yuan on the master; where the circumstances are serious, the relevant vessel certificates shall be temporarily detained for not less than three months but not more than 12 months, and the certificate of competency of the master shall be temporarily detained for not less than one month but not more than three months.\nWhere a pilotage agency is negligent in assigning a pilot, causing loss to a vessel, the maritime safety administration shall impose a fine of not less than 30,000 yuan but not more than 300,000 yuan on the pilotage agency.\nWhere pilotage services are provided without authorisation and without assignment by a pilotage agency, the maritime safety administration shall impose a fine of not less than 3,000 yuan but not more than 30,000 yuan on the person piloting the vessel."
+        },
+        "noLabel": {
+          "en": "Article 102."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 103,
+        "text": {
+          "en": "Where a vessel navigating, berthing or operating at sea falls under any of the following circumstances, the maritime safety administration shall order it to correct the situation and impose a fine of not less than 20,000 yuan but not more than 200,000 yuan on the owner, operator or manager of the vessel in violation of the law, a fine of not less than 2,000 yuan but not more than 20,000 yuan on the master and the responsible seafarers, and temporarily detain their certificates of competency for not less than three months but not more than 12 months; where the circumstances are serious, the certificates of competency of the master and the responsible seafarers shall be revoked:\n(a) when entering or leaving a port or an anchorage, or when passing through bridge waters, straits, narrow channels, important fishery waters, areas with dense traffic, ships' routeing systems or traffic control zones, the vessel fails to strengthen lookout, maintain a safe speed and comply with the special navigation rules for the said areas;\n(b) the vessel fails to display signals, fly marks or maintain sufficient under-keel clearance in accordance with the relevant provisions;\n(c) the vessel sets sail in disregard of risk without meeting the conditions for safe departure, operates or works in a risky manner in violation of regulations, or fails to navigate, berth or operate within the navigation area stated in the vessel inspection certificate;\n(d) the vessel fails to turn on the devices related to navigation safety, security and pollution prevention, such as automatic identification, voyage data recording, long-range identification and tracking, and communications, and to keep displaying and recording continuously, in accordance with the relevant provisions;\n(e) the voyage data recording device is unsealed, dismantled, initialised or reconfigured, or the information recorded therein is read, without authorisation;\n(f) the vessel crosses a waterway in a manner that impedes the normal navigation of vessels in the waterway, cuts across the bows of other vessels, or enters the bridge waters exceeding the navigable dimensions of the bridge;\n(g) the vessel enters or crosses a prohibited navigation zone in violation of the provisions;\n(h) where a vessel carries or tows a vessel, offshore installation or other object that is over-length, over-height, over-width or semi-submersible, it fails to adopt special safety guarantee measures, fails to report the navigation plan to the maritime safety administration before departure, fails to display signals or fly marks as prescribed, or fails to submit for examination in accordance with law the towing inspection certificate issued by a vessel inspection agency when towing a large offshore installation such as a mobile platform or floating dock;\n(i) the vessel berths at a wharf, berth, loading and unloading point, anchorage or safe operation zone that does not meet safety conditions, or its berthing endangers the safety of other vessels or offshore installations;\n(j) the vessel carries passengers or cargo in violation of the provisions in excess of the passenger capacity, load line or types of cargo verified in the inspection certificate, or a passenger vessel carries passengers and at the same time carries dangerous goods;\n(k) a passenger vessel fails to display safety instructions to passengers or to set up safety signs and warnings;\n(l) the cargo is not loaded, stowed, segregated, secured and managed safely in accordance with the requirements of the relevant laws, administrative regulations and rules as well as mandatory standards and technical specifications;\n(m) other acts in violation of the rules on maritime navigation, berthing and operations."
+        },
+        "noLabel": {
+          "en": "Article 103."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 104,
+        "text": {
+          "en": "Where a vessel engaged in international voyages enters or leaves a port without permission, the maritime safety administration shall impose a fine of not less than 3,000 yuan but not more than 30,000 yuan on the owner, operator or manager of the vessel in violation of the law, and a fine of not less than 2,000 yuan but not more than 20,000 yuan on the master, the responsible seafarers or other responsible persons; where the circumstances are serious, the certificates of competency of the master and the responsible seafarers shall be revoked.\nWhere a vessel engaged in domestic voyages enters or leaves a port or an off-port loading and unloading point without reporting to the maritime safety administration in accordance with law, the maritime safety administration shall impose a fine of not less than 3,000 yuan but not more than 30,000 yuan on the owner, operator or manager of the vessel in violation of the law, and a fine of not less than 500 yuan but not more than 5,000 yuan on the master, the responsible seafarers or other responsible persons."
+        },
+        "noLabel": {
+          "en": "Article 104."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 105,
+        "text": {
+          "en": "Where a vessel or offshore installation engages in offshore construction operations without permission, or carries out operations not in accordance with the permission requirements or beyond the verified and determined safe operation zone, the maritime safety administration shall order it to correct the situation and impose a fine of not less than 30,000 yuan but not more than 300,000 yuan on the owner, operator or manager of the vessel or offshore installation in violation of the law, a fine of not less than 3,000 yuan but not more than 30,000 yuan on the master and the responsible seafarers, or temporarily detain their certificates of competency for not less than six months but not more than 12 months; where the circumstances are serious, the certificates of competency of the master and the responsible seafarers shall be revoked.\nWhere a party engages in activities on or under water that may affect maritime traffic safety without reporting to the maritime safety administration in advance as prescribed, the maritime safety administration shall impose a fine of not less than 10,000 yuan but not more than 30,000 yuan on the owner, operator or manager of the vessel or offshore installation in violation of the law, and a fine of not less than 2,000 yuan but not more than 20,000 yuan on the master and the responsible seafarers."
+        },
+        "noLabel": {
+          "en": "Article 105."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 106,
+        "text": {
+          "en": "Where the owner, operator or manager of an obstruction to navigation falls under any of the following circumstances, the maritime safety administration shall order correction and impose a fine of not less than 20,000 yuan but not more than 200,000 yuan; where correction is not made within the time limit, the maritime safety administration has the right to implement substituted performance in accordance with law, and the expenses of substituted performance shall be borne by the owner, operator or manager of the obstruction to navigation:\n(a) failing to promptly establish warning marks in accordance with the requirements of the relevant mandatory standards and technical specifications;\n(b) failing to report to the maritime safety administration the name, shape, dimensions, position and depth of the obstruction to navigation;\n(c) failing to salvage and remove the obstruction to navigation within the time limit set by the maritime safety administration."
+        },
+        "noLabel": {
+          "en": "Article 106."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 107,
+        "text": {
+          "en": "Where a vessel of foreign nationality enters or leaves the internal waters or territorial sea of the People's Republic of China in violation of the provisions of this Law, the maritime safety administration shall impose a fine of not less than 50,000 yuan but not more than 500,000 yuan on the owner, operator or manager of the vessel in violation of the law, and a fine of not less than 10,000 yuan but not more than 30,000 yuan on the master."
+        },
+        "noLabel": {
+          "en": "Article 107."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 108,
+        "text": {
+          "en": "Where a vessel carrying dangerous goods falls under any of the following circumstances, the maritime safety administration shall order correction and impose a fine of not less than 50,000 yuan but not more than 500,000 yuan on the owner, operator or manager of the vessel in violation of the law, and a fine of not less than 5,000 yuan but not more than 50,000 yuan on the master, the responsible seafarers or other responsible persons; where the circumstances are serious, it shall order the suspension of operations or navigation and temporarily detain the certificates of competency of the master and the responsible seafarers for not less than six months but not more than 12 months, up to revocation of the certificates of competency:\n(a) entering or leaving a port, or engaging in the transhipment of bulk liquid dangerous goods, without permission;\n(b) failing to prepare the corresponding contingency plan or to be equipped with the corresponding firefighting and emergency equipment and materials as prescribed;\n(c) engaging in the loading, unloading or transhipment of dangerous goods in violation of the requirements of the relevant mandatory standards and safe operating procedures."
+        },
+        "noLabel": {
+          "en": "Article 108."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 109,
+        "text": {
+          "en": "Where a shipper consigning dangerous goods falls under any of the following circumstances, the maritime safety administration shall order correction and impose a fine of not less than 50,000 yuan but not more than 300,000 yuan:\n(a) failing to notify the carrier of the proper shipping name, dangerous nature and the protective measures to be taken of the dangerous goods consigned;\n(b) failing to pack the dangerous goods properly or to affix conspicuous dangerous goods marks and labels in accordance with the requirements of the relevant laws, administrative regulations and rules as well as mandatory standards and technical specifications;\n(c) including dangerous goods in ordinary goods consigned or consigning dangerous goods falsely declared as ordinary goods;\n(d) failing to submit in accordance with law the documents issued by the relevant professional institutions indicating the dangerous characteristics of the goods and the protective measures to be taken."
+        },
+        "noLabel": {
+          "en": "Article 109."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 110,
+        "text": {
+          "en": "Where a vessel or offshore installation fails to perform the reporting obligation after being in distress or being involved in a maritime traffic accident, or conceals or falsely reports the circumstances, the maritime safety administration shall impose a fine of not less than 3,000 yuan but not more than 30,000 yuan on the owner, operator or manager of the vessel or offshore installation in violation of the law, a fine of not less than 2,000 yuan but not more than 20,000 yuan on the master and the responsible seafarers, and temporarily detain their certificates of competency for not less than six months but not more than 24 months; where the circumstances are serious, a fine of not less than 10,000 yuan but not more than 100,000 yuan shall be imposed on the owner, operator or manager of the vessel or offshore installation, and the certificates of competency of the master and the responsible seafarers shall be revoked."
+        },
+        "noLabel": {
+          "en": "Article 110."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 111,
+        "text": {
+          "en": "Where a vessel absconds after being involved in a maritime traffic accident, the maritime safety administration shall impose a fine of not less than 100,000 yuan but not more than 500,000 yuan on the owner, operator or manager of the vessel in violation of the law, and a fine of not less than 5,000 yuan but not more than 50,000 yuan on the master and the responsible seafarers and revoke their certificates of competency, and the persons punished may not reapply for the rest of their lives."
+        },
+        "noLabel": {
+          "en": "Article 111."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 112,
+        "text": {
+          "en": "Where a vessel or offshore installation fails to perform the obligation of rescue at sea in accordance with law, or fails to obey the command of the maritime search and rescue centre, the maritime safety administration shall impose a fine of not less than 30,000 yuan but not more than 300,000 yuan on the owner, operator or manager of the vessel or offshore installation, and temporarily detain the certificates of competency of the master and the responsible seafarers for not less than six months but not more than 12 months, up to revocation of the certificates of competency."
+        },
+        "noLabel": {
+          "en": "Article 112."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 113,
+        "text": {
+          "en": "Where a relevant unit or individual refuses or obstructs the supervision and inspection of the maritime safety administration, or practises fraud when accepting supervision and inspection, the maritime safety administration shall impose a fine of not less than 2,000 yuan but not more than 20,000 yuan, and temporarily detain the certificates of competency of the master and the responsible seafarers for not less than six months but not more than 24 months, up to revocation of the certificates of competency."
+        },
+        "noLabel": {
+          "en": "Article 113."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 114,
+        "text": {
+          "en": "Where the staff of the competent department of transport, the maritime safety administration or other relevant departments violate the provisions of this Law by abusing their powers, derelicting their duties or engaging in malpractices for personal gain, they shall be given sanctions in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 114."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 115,
+        "text": {
+          "en": "Where a civil dispute arises from a maritime traffic accident, the parties may, in accordance with law, apply for arbitration or bring a lawsuit before a people's court."
+        },
+        "noLabel": {
+          "en": "Article 115."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 116,
+        "text": {
+          "en": "Where an act in violation of the provisions of this Law constitutes a violation of public security administration, public security administration punishment shall be imposed in accordance with law; where personal injury or property damage is caused, civil liability shall be borne in accordance with law; where a crime is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 116."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 117,
+        "text": {
+          "en": "For the purposes of this Law, the following terms have the meanings given below:\nVessel means any type of displacement or non-displacement ship, boat, raft, surface craft, submersible, mobile platform and other mobile device.\nOffshore installation means any type of fixed or floating structure, device or fixed platform on or under water, but does not include port facilities such as wharves and breakwaters.\nInternal waters means the sea areas extending from the landward side of the baseline of the territorial sea of the People's Republic of China to the coastline.\nConstruction operations means exploration, excavation, blasting, the construction, repair and demolition of structures or installations on or under water, waterway construction and dredging (excluding maintenance dredging of waterways), and the salvage of sunken vessels and objects.\nMaritime traffic accident means an accident occurring in the course of the navigation, berthing or operation of a vessel or offshore installation which causes casualties or property loss due to collision, stranding, striking a rock, contact, fire, wind disaster, wave damage, sinking or other causes.\nMaritime peril means any situation that poses a threat to safety of life at sea or to the water environment and requires immediate measures to avoid, control, mitigate and eliminate it.\nDangerous goods means goods listed in the International Maritime Dangerous Goods Code and the national list of dangerous goods which are flammable, explosive, toxic, corrosive, radioactive or pollution-hazardous and which may cause personal injury, property loss or environmental pollution during carriage by vessel and therefore require special protective measures.\nOffshore ferry crossing means transport infrastructure dedicated to the ferrying of persons, luggage and vehicles by ferry between offshore islands, between offshore islands and the mainland, and between mainlands facing each other across the sea."
+        },
+        "noLabel": {
+          "en": "Article 117."
+        },
+        "chapter": {
+          "en": "Chapter X Supplementary Provisions"
+        }
+      },
+      {
+        "no": 118,
+        "text": {
+          "en": "The specific measures for the inspection of public service vessels and for their manning shall be formulated separately by the competent department of transport of the State Council jointly with the relevant competent departments.\nThe measures for the registration and inspection of sports vessels shall be formulated separately by the competent department of sports of the State Council. The supervision and administration of maritime traffic safety of sports vessels during training and competition shall be the responsibility of the competent department of sports.\nThe supervision and administration of fishery seafarers, fishery radio and fishery navigational marks, the registration and administration of fishing vessels, the administration of maritime traffic safety in fishing port waters, and the investigation and handling of traffic accidents between fishing vessels (including fishing vessels of foreign nationality) shall be the responsibility of the competent departments of fisheries and fishery administration of the people's governments at or above the county level. Where laws, administrative regulations or the State Council provide otherwise for the investigation and handling of traffic accidents between fishing vessels, those provisions shall prevail.\nApart from the provisions of the preceding paragraph, the administration of maritime traffic safety of fishing vessels shall be the responsibility of the maritime safety administration. The inspection of fishing vessels and the supervision and administration thereof shall be carried out by the maritime safety administration in accordance with the provisions of the relevant laws and administrative regulations.\nThe inspection of offshore oil and natural gas production installations such as floating oil storage units shall be governed by the provisions of the relevant laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 118."
+        },
+        "chapter": {
+          "en": "Chapter X Supplementary Provisions"
+        }
+      },
+      {
+        "no": 119,
+        "text": {
+          "en": "The administration of maritime traffic safety within maritime military control zones and within military vessels and offshore installations, the establishment and administration of military navigational marks, and the administration of operations or activities on or under water for military purposes shall be governed by measures separately formulated by the Central Military Commission.\nWhere the designation or adjustment of maritime traffic functional areas or of specific waters within the territorial sea, the designation of ferry routes of offshore ferry crossings, or the permission for offshore construction operations may affect the combat readiness, training, duty performance or other actions of military vessels, the maritime safety administration shall solicit the opinions of the relevant military organs in advance.\nWhere there are special needs for the performance of military transport missions, the relevant military organs shall promptly notify the maritime safety administration of the relevant information. The maritime safety administration shall provide the necessary facilitation.\nWhere the administration of maritime traffic safety involves national defence traffic or the protection of military installations, the provisions of the relevant laws shall apply."
+        },
+        "noLabel": {
+          "en": "Article 119."
+        },
+        "chapter": {
+          "en": "Chapter X Supplementary Provisions"
+        }
+      },
+      {
+        "no": 120,
+        "text": {
+          "en": "Where public service vessels of foreign nationality navigating, berthing or operating in the territorial sea of the People's Republic of China violate the laws or administrative regulations of the People's Republic of China, the matter shall be handled in accordance with the provisions of the relevant laws and administrative regulations.\nThe administration of military vessels of foreign nationality in the sea areas under the jurisdiction of the People's Republic of China shall be governed by the provisions of the relevant laws."
+        },
+        "noLabel": {
+          "en": "Article 120."
+        },
+        "chapter": {
+          "en": "Chapter X Supplementary Provisions"
+        }
+      },
+      {
+        "no": 121,
+        "text": {
+          "en": "Where an international treaty to which the People's Republic of China is a party or which it has concluded provides otherwise than this Law, the provisions of the international treaty shall apply, except for the clauses on which the People's Republic of China has made reservations."
+        },
+        "noLabel": {
+          "en": "Article 121."
+        },
+        "chapter": {
+          "en": "Chapter X Supplementary Provisions"
+        }
+      },
+      {
+        "no": 122,
+        "text": {
+          "en": "This Law shall come into force on 1 September 2021."
+        },
+        "noLabel": {
+          "en": "Article 122."
+        },
+        "chapter": {
+          "en": "Chapter X Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0151'] = {
+    "lawId": "CN-LAW-0151",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 124 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is enacted in accordance with the Constitution in order to protect and improve the marine environment, protect marine resources, prevent and control pollution damage, safeguard ecological security and public health, safeguard the maritime rights and interests of the State, build a maritime power, advance ecological civilisation, promote sustainable economic and social development, and achieve harmonious coexistence between humanity and nature."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "This Law applies to the sea areas under the jurisdiction of the People's Republic of China.\nAny unit or individual engaged in navigation, exploration, development, production, tourism, scientific research and other activities in the sea areas under the jurisdiction of the People's Republic of China, or engaged in activities in the coastal land areas that affect the marine environment, shall comply with this Law.\nWhere pollution of the marine environment or ecological damage is caused to the sea areas under the jurisdiction of the People's Republic of China from outside those sea areas, the relevant provisions of this Law shall apply."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Marine environmental protection shall adhere to the principles of protection first, prevention oriented, source control, coordinated land and sea governance, comprehensive treatment, public participation, and liability for damage."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The competent department of ecology and environment of the State Council shall be responsible for the supervision and administration of the marine environment throughout the country, and for the environmental protection work of preventing and controlling pollution damage to the marine environment from land-based pollutants, coastal engineering and marine engineering construction projects (hereinafter referred to as construction projects), and the dumping of waste at sea, and shall guide, coordinate and supervise marine ecological protection and restoration throughout the country.\nThe competent department of natural resources of the State Council shall be responsible for the supervision and administration of marine protection, development and utilisation, and for the restoration of marine ecology, sea areas and coastlines, and islands throughout the country.\nThe competent department of transport of the State Council shall be responsible for the supervision and administration of pollution of the marine environment by non-military vessels within the waters of the port areas under its jurisdiction and by non-fishery, non-military vessels outside the waters of the port areas, and shall organise, coordinate and command emergency response to major oil spills at sea. The maritime safety administrations shall be specifically responsible for the supervision and administration of pollution of the marine environment by the relevant vessels in the said waters, and for the investigation and handling of pollution accidents; they shall board, inspect and handle pollution accidents caused by vessels of foreign nationality navigating, berthing and operating in the sea areas under the jurisdiction of the People's Republic of China. Where a vessel pollution accident causes damage to fisheries, the competent department of fisheries shall be included in the investigation and handling.\nThe competent department of fisheries of the State Council shall be responsible for the supervision and administration of pollution of the marine environment by non-military vessels within fishing port waters and by fishing vessels outside fishing port waters, shall be responsible for protecting the ecological environment of fishery waters, and shall investigate and handle fishery pollution accidents other than those specified in the preceding paragraph.\nThe departments of development and reform, water administration, housing and urban-rural development, and forestry and grassland of the State Council shall, within the scope of their respective duties, be responsible for marine environmental protection work in the relevant industries and fields.\nThe coast guard agencies shall, within the scope of their duties, conduct supervision and inspection of marine engineering construction projects, pollution damage to the marine environment from the dumping of waste at sea, and the protection and utilisation of activities on the seaward side of the coastlines of protected natural areas, investigate and deal with illegal acts, and participate in the emergency handling and investigation and handling of marine environmental pollution accidents in accordance with the prescribed authority.\nThe ecological and environmental protection department of the military shall be responsible for the supervision and administration of pollution of the marine environment by military vessels and for the investigation and handling of pollution accidents."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Coastal local people's governments at or above the county level shall be responsible for the quality of the marine environment in the sea areas under their administration.\nThe State applies a target responsibility system and an assessment and evaluation system for marine environmental protection, and incorporates the achievement of marine environmental protection targets into the content of assessment and evaluation."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Coastal local people's governments at or above the county level may establish regional cooperation mechanisms for marine environmental protection and organise and coordinate environmental protection work in the sea areas under their administration.\nCross-regional marine environmental protection work shall be resolved through consultation by the relevant coastal local people's governments, or through coordination by the people's government at a higher level.\nMajor cross-departmental marine environmental protection work shall be coordinated by the competent department of ecology and environment of the State Council; where coordination fails to resolve the matter, the State Council shall make a decision."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The State Council and coastal local people's governments at or above the county level shall incorporate marine environmental protection work into national economic and social development plans, and shall, in accordance with the principle of dividing powers and expenditure responsibilities, include the funds required for marine environmental protection work in the budgets of the governments at the corresponding level."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "People's governments at all levels and their relevant departments shall strengthen publicity, education and popularisation of knowledge on marine environmental protection, enhance public awareness of marine environmental protection, and guide the public in participating in marine environmental protection work in accordance with law; they shall encourage grassroots mass self-governing organisations, social organisations and volunteers to carry out publicity activities on laws, regulations and knowledge relating to marine environmental protection; and they shall make information related to the marine environment public in accordance with law and in accordance with the division of duties.\nThe news media shall carry out publicity and reporting on marine environmental protection in various forms, and shall exercise public opinion supervision over illegal acts."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Every unit and individual has the obligation to protect the marine environment, and has the right to supervise and report units and individuals that pollute the marine environment or damage marine ecology, as well as illegal acts of marine environmental supervision and administration personnel.\nAny unit or individual engaged in activities affecting the marine environment shall adopt effective measures to prevent and mitigate pollution of the marine environment and ecological damage. Polluters shall make pollutant discharge information public in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The State encourages and supports scientific and technological research, development and application in marine environmental protection, promotes the informatisation of marine environmental protection, strengthens the cultivation of professional and technical personnel in marine environmental protection, and raises the level of science and technology in marine environmental protection.\nThe State encourages and supports international exchange and cooperation in marine environmental protection."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Units and individuals that make notable achievements in marine environmental protection work shall be commended and rewarded in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The State implements a marine environment supervision and administration system featuring coordinated land and sea governance and regional linkage, and strengthens the linkage and coordination of planning, standards, monitoring and other supervision and administration systems.\nPeople's governments at all levels and their relevant departments shall strengthen capacity building for marine environment supervision and administration, and raise the level of science and technology and informatisation in marine environment supervision and administration."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Marine Environment Supervision and Administration"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The State gives priority to designating sea areas of extremely important ecological function and of extremely high ecological sensitivity and fragility as ecological conservation red lines, and applies strict protection.\nThe development and utilisation of marine resources or the conduct of construction activities affecting the marine environment shall be scientifically and rationally laid out in accordance with territorial spatial plans, strictly comply with the requirements of territorial space use control, strictly observe the ecological conservation red lines, and may not cause damage to the marine ecological environment. Coastal local people's governments at all levels shall, in accordance with territorial spatial plans, protect and scientifically and rationally use sea areas. The people's governments of coastal provinces, autonomous regions and municipalities directly under the Central Government shall strengthen supervision and administration of human activities within the ecological conservation red lines and periodically assess protection results.\nThe relevant departments of the State Council and the coastal local people's governments at or above the level of city divided into districts and their relevant departments shall, in accordance with law, conduct environmental impact assessment, including assessment of marine environmental protection, for the territorial spatial plans and related plans that they organise the preparation of."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Marine Environment Supervision and Administration"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The competent department of ecology and environment of the State Council shall, jointly with the relevant departments and agencies and the people's governments of coastal provinces, autonomous regions and municipalities directly under the Central Government, formulate a national plan for marine ecological and environmental protection, and implement it after approval by the State Council. The national plan shall be consistent with the national territorial spatial plan.\nCoastal local people's governments at all levels shall, in accordance with the national plan for marine ecological and environmental protection, organise the implementation of marine environmental protection work in the sea areas under their administration."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Marine Environment Supervision and Administration"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The people's governments of coastal provinces, autonomous regions and municipalities directly under the Central Government shall, in light of the ecological environment and resource utilisation conditions of the sea areas under their administration, incorporate those sea areas into differentiated control plans for the ecological environment and lists of ecological and environmental permits, and implement them after filing with the competent department of ecology and environment of the State Council. The differentiated control plans and permit lists shall be consistent with territorial spatial plans."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Marine Environment Supervision and Administration"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The competent department of ecology and environment of the State Council shall, in light of the status of the marine environment and the economic and technical conditions of the State, formulate national marine environment quality standards.\nThe people's governments of coastal provinces, autonomous regions and municipalities directly under the Central Government may, for items not prescribed in the national marine environment quality standards, formulate local marine environment quality standards; and for items already prescribed in the national standards, may formulate local marine environment quality standards stricter than the national standards. Local marine environment quality standards shall be filed with the competent department of ecology and environment of the State Council.\nThe State encourages research on marine environmental benchmarks."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Marine Environment Supervision and Administration"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "In formulating marine environment quality standards, the opinions of the relevant departments, industry associations, enterprises and public institutions, experts and the public shall be solicited, so as to improve the scientific nature of the standards.\nMarine environment quality standards shall be periodically assessed and revised in due course in light of the assessment results."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Marine Environment Supervision and Administration"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "In formulating national and relevant local water pollutant discharge standards, marine environment quality standards shall be taken as one of the important bases.\nFor sea areas where marine environmental protection targets have not been met, the competent departments of ecology and environment of people's governments at or above the provincial level shall suspend the examination and approval of environmental impact reports (forms) for construction projects that increase the total discharge of the corresponding types of pollutants, and shall, jointly with the relevant departments, hold a supervisory meeting with the principal persons in charge of the people's government of that area and its relevant departments, requiring them to take effective measures for prompt rectification; the circumstances of the supervisory meeting and of the rectification shall be made public."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Marine Environment Supervision and Administration"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The State strengthens control of marine environment quality, advances comprehensive treatment of sea areas, strictly administers sea area pollutant discharge permits, and improves the marine environment quality of key sea areas.\nCoastal engineering and marine engineering units that need to discharge industrial wastewater or medical sewage directly into the sea, operating units of centralised urban sewage treatment facilities, and other enterprises and public institutions and producers and operators shall obtain pollutant discharge permits in accordance with law. The administration of pollutant discharge permits shall be carried out in accordance with the relevant provisions of the State Council.\nEnterprises and public institutions and other producers and operators subject to pollutant discharge permit management shall comply with the requirements of the permit regarding the types, concentrations, quantities and methods of discharge of pollutants, the destinations of discharge, and self-monitoring.\nIt is prohibited to discharge pollutants into the sea by installing concealed pipes without authorisation, by tampering with or forging monitoring data, or by operating pollution prevention facilities abnormally or by other means of evading supervision."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Marine Environment Supervision and Administration"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The competent department of ecology and environment of the State Council shall, in light of the status of the marine environment and the requirements for quality improvement, and jointly with the departments of development and reform, natural resources, housing and urban-rural development, transport, water administration and fisheries of the State Council and the coast guard agencies, designate the key sea areas for national environmental treatment and their control areas, formulate comprehensive treatment action plans, and implement them after approval by the State Council.\nThe coastal local people's governments at or above the level of city divided into districts shall, in accordance with the comprehensive treatment action plans, formulate implementation plans for the sea areas under their administration, adopt special control measures in light of local conditions, carry out comprehensive treatment, and coordinate the treatment of key sea areas with the building of beautiful bays."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Marine Environment Supervision and Administration"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Enterprises and public institutions and other producers and operators that discharge taxable pollutants directly into the sea shall pay environmental protection tax in accordance with the provisions of law.\nThose who dump waste into the sea shall pay dumping fees in accordance with the relevant provisions of the State. The specific measures shall be formulated by the development and reform department of the State Council and the competent department of finance of the State Council jointly with the competent department of ecology and environment of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Marine Environment Supervision and Administration"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The State strengthens research on and development of science and technology for preventing and controlling pollution damage to the marine environment, and applies an elimination system to backward production processes and backward equipment that seriously pollute the marine environment.\nEnterprises and public institutions and other producers and operators shall give priority to the use of clean and low-carbon energy and adopt clean production processes with high resource utilisation efficiency and low pollutant discharge, so as to prevent pollution of the marine environment."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter II Marine Environment Supervision and Administration"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The competent department of ecology and environment of the State Council shall be responsible for marine ecological and environmental monitoring, formulate norms and standards for such monitoring and supervise their implementation, organise the implementation of monitoring of marine ecological and environmental quality, uniformly publish the national bulletin on the status of the marine ecological environment, and periodically organise surveys and assessments of the status of marine ecological and environmental quality.\nThe competent department of natural resources of the State Council shall organise marine resource surveys and marine ecological early warning monitoring, and publish marine ecological early warning monitoring alerts and bulletins.\nOther departments and agencies exercising the power of marine environment supervision and administration in accordance with the provisions of this Law shall carry out monitoring and surveillance in accordance with the division of duties."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter II Marine Environment Supervision and Administration"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The relevant departments of the State Council and the coast guard agencies shall provide the competent department of ecology and environment of the State Council with the data necessary for the preparation of the national bulletin on the status of the marine ecological environment, including data on monitoring, surveys and surveillance of river estuaries entering the sea and of the marine environment.\nThe competent departments of ecology and environment shall provide the relevant departments and the coast guard agencies with data related to marine environment supervision and administration."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter II Marine Environment Supervision and Administration"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The competent department of ecology and environment of the State Council shall, jointly with the relevant departments and agencies, provide services for the supervision and administration of marine environmental protection and for information sharing through an intelligent comprehensive information system.\nThe relevant departments of the State Council, the coast guard agencies and the coastal local people's governments at or above the county level and their relevant departments shall, in accordance with the provisions, advance comprehensive monitoring, coordinated monitoring and routine monitoring, strengthen the sharing of marine environment management information such as monitoring data and law enforcement information, and improve the comprehensive level of marine environmental protection administration."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter II Marine Environment Supervision and Administration"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The State strengthens monitoring of the marine radiation environment, and the competent department of ecology and environment of the State Council shall be responsible for formulating a plan for emergency monitoring of the marine radiation environment and organising its implementation."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter II Marine Environment Supervision and Administration"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where an accident or other sudden event causes or may cause pollution of the marine environment or ecological damage, the unit or individual concerned shall immediately take effective measures to eliminate or mitigate the harm, promptly notify those who may be harmed, and report to the departments and agencies exercising the power of marine environment supervision and administration in accordance with the provisions of this Law, and accept investigation and handling.\nWhere the ecological environment of the nearshore sea areas within their respective administrative areas is seriously damaged, the coastal local people's governments at or above the county level shall take effective measures to eliminate or mitigate the harm."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter II Marine Environment Supervision and Administration"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "In light of the need to prevent pollution of the marine environment, the State formulates a national contingency plan for major marine pollution incidents, establishes and improves emergency mechanisms for oil spills at sea and the like, and ensures the necessary funds for response work.\nThe State establishes an inter-ministerial joint conference system for emergency response to major oil spills at sea. The competent department of transport of the State Council shall take the lead in organising the preparation of a national contingency plan for emergency response to major oil spills at sea and organise its implementation.\nThe competent department of ecology and environment of the State Council shall be responsible for formulating a national contingency plan for oil spill pollution incidents in offshore oil exploration and development and organising its implementation.\nThe National Maritime Safety Administration shall be responsible for formulating a national contingency plan for major oil spill pollution incidents involving vessels, and file it with the competent department of ecology and environment of the State Council and the emergency management department of the State Council.\nCoastal local people's governments at or above the county level and their relevant departments shall formulate the relevant contingency plans, promptly activate them when a sudden marine environmental incident occurs, and take effective measures to eliminate or mitigate the harm.\nUnits where sudden marine environmental incidents may occur shall, in accordance with the relevant provisions, formulate their own contingency plans, be equipped with emergency equipment and materials, and organise emergency drills on a regular basis; the contingency plans shall be filed with the departments and agencies exercising the power of marine environment supervision and administration in accordance with the provisions of this Law."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter II Marine Environment Supervision and Administration"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The departments and agencies exercising the power of marine environment supervision and administration in accordance with the provisions of this Law have the right to conduct on-site inspection of units and individuals engaged in activities affecting the marine environment; where they discover in the course of patrol and surveillance any act in violation of the provisions of this Law, they shall stop it and investigate and collect evidence, and where necessary have the right to take effective measures to prevent the situation from escalating and report it to the relevant departments or agencies for handling.\nThe inspected party shall truthfully report the circumstances and provide the necessary data. The inspectors shall, in accordance with law, keep confidential the trade secrets, personal privacy and personal information of the inspected party.\nThe departments and agencies exercising the power of marine environment supervision and administration in accordance with the provisions of this Law may conduct joint law enforcement at sea."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter II Marine Environment Supervision and Administration"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where serious pollution of the marine environment or ecological damage is caused or may be caused, or where the relevant evidence may be lost or concealed, the departments and agencies exercising the power of marine environment supervision and administration in accordance with the provisions of this Law may seal up or detain the relevant vessels, installations, equipment and articles."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter II Marine Environment Supervision and Administration"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where pollution of the marine environment or ecological damage is caused or may be caused to the sea areas under the jurisdiction of the People's Republic of China from outside those sea areas, the relevant departments and agencies have the right to take the necessary measures."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter II Marine Environment Supervision and Administration"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The competent department of ecology and environment of the State Council shall, jointly with the relevant departments and agencies, establish a system for recording and applying credit evaluations of enterprises and public institutions and other producers and operators that discharge pollutants into the sea, engage in the dumping of waste at sea, or engage in marine ecological and environmental treatment and services, and incorporate the relevant credit records into the national public credit information sharing platform."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter II Marine Environment Supervision and Administration"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The State strengthens marine ecological protection and improves the quality, diversity, stability and sustainability of marine ecosystems.\nThe State Council and coastal local people's governments at all levels shall take effective measures to protect, as a priority, marine ecosystems that are typical and representative, such as mangroves, coral reefs, seaweed beds, seagrass beds, coastal wetlands, islands, bays, river estuaries entering the sea and important fishery waters, as well as the areas of natural concentrated distribution of rare and endangered marine organisms, the areas where marine organisms of important economic value live, and marine natural relics and natural landscapes of major scientific and cultural value."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter III Marine Ecological Protection"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The State Council and the people's governments of coastal provinces, autonomous regions and municipalities directly under the Central Government and their relevant departments shall, in light of the need to protect the sea, designate in accordance with law areas such as important marine ecosystems, areas of natural concentrated distribution of rare and endangered marine organisms, and areas of concentrated distribution of marine natural relics and natural landscapes as national parks, nature reserves, natural parks or other protected natural areas."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter III Marine Ecological Protection"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The State establishes and improves the compensation system for marine ecological protection.\nThe State Council and the people's governments of coastal provinces, autonomous regions and municipalities directly under the Central Government shall support the carrying out of compensation for marine ecological protection through transfer payments, industrial support and other means.\nCoastal local people's governments at all levels shall secure funds for compensation for marine ecological protection and ensure that they are used for that purpose."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter III Marine Ecological Protection"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The State strengthens the conservation of marine biodiversity, improves the systems for survey, monitoring, assessment and conservation of marine biodiversity, maintains and restores important marine ecological corridors, and prevents damage to marine biodiversity.\nIn developing and utilising marine and coastal zone resources, effective protection shall be given to important marine ecosystems, biological species and biological genetic resources, so as to maintain marine biodiversity.\nThe introduction of marine animal and plant species shall be scientifically demonstrated, so as to avoid harm to marine ecosystems."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter III Marine Ecological Protection"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The State encourages the scientific carrying out of stock enhancement and release of aquatic organisms, supports scientific planning, and the adoption, in light of local conditions, of measures such as placing artificial fish reefs and planting seaweed beds, seagrass beds and corals, so as to restore marine biodiversity and restore and improve marine ecology."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter III Marine Ecological Protection"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "In developing the resources of islands and the sea areas around them, strict ecological protection measures shall be adopted, and damage may not be caused to the topography, beaches, vegetation of the islands and the ecological environment of the sea areas around them."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter III Marine Ecological Protection"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The State strictly protects natural coastlines and establishes and improves a system of control over natural coastlines. The people's governments of coastal provinces, autonomous regions and municipalities directly under the Central Government shall be responsible for designating and publishing the scope of coastlines under strict protection.\nCoastal local people's governments at all levels shall strengthen the classified protection and utilisation of coastlines, protect and restore natural coastlines, promote the ecologicalisation of artificial coastlines, maintain the stability and balance of coastlines and beaches, and designate coastal building setback lines in a scientific and rational manner in light of local conditions.\nIt is prohibited to occupy or damage natural coastlines in violation of the law."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter III Marine Ecological Protection"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where the competent department of water administration of the State Council determines the control indicators for the ecological flow of important rivers entering the sea, it shall solicit and consider the opinions of the departments of ecology and environment and of natural resources of the State Council. In determining the control indicators for ecological flow, scientific demonstration shall be conducted, with comprehensive consideration of factors such as water resources conditions, climate conditions, ecological and environmental protection requirements, and water use for domestic and production purposes.\nThe local people's governments at or above the county level of the places where river estuaries enter the sea and their relevant departments shall, in accordance with the requirements of coordinated river-sea action, formulate and implement plans for ecological restoration of the estuaries and other protection measures, strengthen comprehensive monitoring of water, sediment, salinity, tidal flats, biological populations and estuary morphology, take effective measures to prevent seawater intrusion and backflow, and maintain the sound ecological functions of the estuaries."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter III Marine Ecological Protection"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Coastal local people's governments at all levels shall, in light of the characteristics of the local natural environment, build coastal protection facilities, coastal shelterbelts, and coastal urban gardens and green spaces, and carry out comprehensive treatment of areas subject to coastal erosion and seawater intrusion.\nIt is prohibited to destroy coastal protection facilities, coastal shelterbelts, and coastal urban gardens and green spaces."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter III Marine Ecological Protection"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Marine ecosystems of important ecological, economic and social value that have been damaged shall be restored. Marine ecological restoration shall focus on improving habitats, restoring biodiversity and the basic functions of ecosystems, be based mainly on natural restoration with artificial restoration as a supplement, and give priority to restoring typical and representative marine ecosystems.\nThe competent department of natural resources of the State Council shall be responsible for making overall plans for marine ecological restoration, taking the lead in organising the preparation of marine ecological restoration plans and implementing the relevant major marine ecological restoration projects. In preparing marine ecological restoration plans, scientific demonstration and assessment shall be conducted.\nThe departments of natural resources and of ecology and environment of the State Council shall, in accordance with the division of duties, carry out supervision and assessment of restoration results."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter III Marine Ecological Protection"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "The competent department of natural resources of the State Council shall be responsible for carrying out nationwide prevention of marine ecological disasters, risk assessment, and investigation and treatment of hidden dangers.\nCoastal local people's governments at or above the county level shall be responsible for responding to marine ecological disasters in the sea areas under their administration, adopt the necessary measures for disaster prevention, handling and post-disaster recovery, and prevent and mitigate the impact of disasters.\nEnterprises and public institutions and other producers and operators shall adopt the necessary response measures to prevent the expansion of marine ecological disasters."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter III Marine Ecological Protection"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "The State encourages the development of ecological fisheries, the popularisation of various ecological fishery production modes, the improvement of the state of marine ecology, and the protection of the marine environment.\nCoastal local people's governments at or above the county level shall, in light of local conditions, prepare and implement plans for aquaculture waters and tidal flats, determine the waters and tidal flats that may be used for aquaculture, scientifically designate prohibited aquaculture zones, restricted aquaculture zones and aquaculture zones for mariculture, and establish a mechanism for the clearance and withdrawal of mariculture in prohibited aquaculture zones."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter III Marine Ecological Protection"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Those engaged in mariculture shall protect the marine environment, scientifically determine the scale and density of aquaculture, apply bait and fertiliser rationally, use medicines correctly, and promptly and properly collect and treat solid waste, so as to prevent damage to the marine ecological environment.\nIt is prohibited to newly establish or expand the scale of bait-fed and fertiliser-fed mariculture in nearshore sea areas where the concentrations of nitrogen and phosphorus seriously exceed the standards.\nThe discharge of pollutants such as aquaculture tailwater into the sea shall meet pollutant discharge standards. The people's governments of coastal provinces, autonomous regions and municipalities directly under the Central Government shall formulate relevant local standards for the discharge of mariculture pollutants and strengthen supervision and administration of the prevention and control of pollution from aquaculture tailwater.\nPollutant discharging units engaged in industrialised aquaculture and in centralised contiguous aquaculture with unified discharge outlets shall, in accordance with the relevant provisions, conduct self-monitoring of aquaculture tailwater."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter III Marine Ecological Protection"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "The discharge of land-based pollutants into sea areas shall strictly comply with the standards prescribed by the State or localities and the relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter IV Prevention and Control of Pollution by Land-Based Pollutants"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "The choice of the location of a pollutant discharge outlet into the sea shall comply with the requirements of territorial space use control, and shall, on the basis of seawater dynamic conditions and the relevant provisions, be filed with the competent department of ecology and environment of the people's government at or above the level of city divided into districts after scientific demonstration. The responsible entity of the discharge outlet shall strengthen monitoring of the outlet and carry out surveillance and automatic monitoring in accordance with the provisions.\nThe competent departments of ecology and environment shall, within 15 working days after completion of the filing, notify the departments of natural resources and fisheries, the maritime safety administrations, the coast guard agencies and the ecological and environmental protection department of the military of the establishment of the discharge outlet into the sea.\nCoastal local people's governments at or above the county level shall, in light of the categories of discharge outlets and the responsible entities, organise the relevant departments to carry out investigation, rectification and routine supervision and administration of all types of discharge outlets into the sea within their respective administrative areas, and establish and improve a whole-chain treatment system covering nearshore waters, discharge outlets into the sea, discharge pipelines and pollution sources.\nThe competent department of ecology and environment of the State Council shall be responsible for formulating specific measures for the establishment and administration of discharge outlets into the sea, formulating technical specifications for such outlets, organising the development of a unified information platform for such outlets, and strengthening dynamic updating, information sharing and disclosure."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter IV Prevention and Control of Pollution by Land-Based Pollutants"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "It is prohibited to newly establish industrial discharge outlets or urban sewage treatment plant discharge outlets in protected natural areas, important fishery waters, bathing beaches, ecological conservation red line areas and other areas requiring special protection, unless otherwise provided by laws or administrative regulations.\nIn areas where conditions permit, discharge outlets shall be installed in deep water and discharge shall be carried out offshore."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter IV Prevention and Control of Pollution by Land-Based Pollutants"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where pollutants are discharged into the sea through open ditches (channels), water environment quality management shall be applied to the open ditches (channels) in accordance with the relevant provisions and standards of the State and localities."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter IV Prevention and Control of Pollution by Land-Based Pollutants"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "The relevant departments of the State Council and the local people's governments at or above the county level and their relevant departments shall, in accordance with the provisions of the relevant laws and administrative regulations on water pollution prevention and control, strengthen the administration of rivers entering the sea, coordinate the advancement of pollution prevention and control in rivers entering the sea, and ensure that the water quality of river estuaries entering the sea meets the relevant requirements for the environmental quality of such estuaries.\nThe people's governments of the provinces, autonomous regions and municipalities directly under the Central Government in the basins of rivers entering the sea shall, in accordance with the relevant provisions of the State, strengthen control of discharges of total nitrogen and total phosphorus into the sea, formulate control plans and organise their implementation."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter IV Prevention and Control of Pollution by Land-Based Pollutants"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "It is prohibited to discharge oils, acid liquids, alkaline liquids and highly toxic waste liquids into sea areas.\nIt is prohibited to discharge radioactive wastewater that pollutes the marine environment or damages marine ecology into sea areas.\nThe discharge into sea areas of wastewater containing non-readily degradable organic matter and heavy metals shall be strictly controlled."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter IV Prevention and Control of Pollution by Land-Based Pollutants"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Medical sewage, domestic sewage and industrial wastewater containing pathogens shall be treated and meet the relevant national and local discharge standards before being discharged into sea areas."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter IV Prevention and Control of Pollution by Land-Based Pollutants"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "The discharge into bays, semi-enclosed seas and other sea areas with poor self-purification capacity of industrial wastewater and domestic sewage containing organic matter and nutrients shall be strictly controlled."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter IV Prevention and Control of Pollution by Land-Based Pollutants"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "In discharging thermal wastewater into sea areas, effective measures shall be taken to ensure that the water temperature of adjacent protected natural areas and fishery waters meets the national and local marine environment quality standards, and to avoid harm to rare and endangered marine organisms and marine fishery resources from thermal pollution."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter IV Prevention and Control of Pollution by Land-Based Pollutants"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Coastal local people's governments at all levels shall strengthen the prevention and control of agricultural non-point source pollution. The application of chemical pesticides on coastal farmland and forest farms shall comply with the provisions and standards of the State on the safe use of pesticides. Coastal farmland and forest farms shall rationally use chemical fertilisers and plant growth regulators."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter IV Prevention and Control of Pollution by Land-Based Pollutants"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "The abandonment, piling and treatment of tailings, mineral slag, coal ash slag, refuse and other solid waste in coastal land areas shall be governed by the relevant provisions of the Law of the People's Republic of China on the Prevention and Control of Environmental Pollution by Solid Waste, and effective measures shall be taken to prevent solid waste from entering the sea.\nIt is prohibited to abandon, pile or treat solid waste on beaches, unless otherwise provided by laws or administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter IV Prevention and Control of Pollution by Land-Based Pollutants"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Coastal local people's governments at or above the county level shall be responsible for the prevention and control of marine litter pollution in the sea areas under their administration, establish systems for monitoring and clearing marine litter, make overall plans for and construct land-based facilities for receiving, transferring and treating marine litter, clarify the marine litter control areas of the relevant departments, townships, sub-districts, enterprises and public institutions, establish and implement a system for monitoring, intercepting, collecting, salvaging, transporting and treating marine litter, and take effective measures to encourage and support public participation in the said activities. The departments of ecology and environment, housing and urban-rural development and development and reform of the State Council shall, in accordance with the division of duties, strengthen supervision, guidance and support for the prevention and control of marine litter pollution."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter IV Prevention and Control of Pollution by Land-Based Pollutants"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "It is prohibited to transfer hazardous waste in transit through the internal waters or territorial sea of the People's Republic of China.\nThe transfer of hazardous waste through other sea areas under the jurisdiction of the People's Republic of China shall be subject to prior written consent of the competent department of ecology and environment of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter IV Prevention and Control of Pollution by Land-Based Pollutants"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Coastal local people's governments at or above the county level shall build and improve drainage networks, build urban sewage treatment plants and other sewage treatment facilities as required to improve the quality of the marine environment, and strengthen urban and rural sewage treatment.\nThe construction of marine sewage disposal projects shall comply with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter IV Prevention and Control of Pollution by Land-Based Pollutants"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "The State takes the necessary measures to prevent, reduce and control pollution damage to the marine environment originating from or transmitted through the atmosphere."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter IV Prevention and Control of Pollution by Land-Based Pollutants"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "In building new construction projects and reconstructing or expanding existing ones, the provisions of the State on the environmental protection administration of construction projects shall be complied with, and the funds required for pollution prevention and control and ecological protection shall be included in the investment plans of the projects.\nIt is prohibited to unlawfully build construction projects that pollute the environment or damage ecology, or to engage in other activities, in protected natural areas designated in accordance with law, important fishery waters and other areas requiring special protection."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter V Prevention and Control of Pollution by Construction Projects"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Construction projects shall undergo environmental impact assessment in accordance with the provisions of the State on the environmental impact assessment of construction projects. Construction projects that have not undergone and passed environmental impact assessment in accordance with law may not commence construction.\nEnvironmental protection facilities shall be designed, constructed and put into operation and use at the same time as the main works. Environmental protection facilities shall meet the requirements of the approved environmental impact report (form). The construction unit shall, in accordance with the provisions of the relevant laws and regulations, conduct acceptance inspection of the environmental protection facilities, prepare an acceptance report and make it public. Where environmental protection facilities have not undergone acceptance inspection or have failed acceptance inspection, the construction project may not be put into production or use."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter V Prevention and Control of Pollution by Construction Projects"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "It is prohibited to newly establish in coastal land areas production projects that do not conform to the national industrial policy and that seriously pollute the marine environment, such as chemical pulp and paper making, chemicals, printing and dyeing, leather making, electroplating, brewing, oil refining, and shipbreaking by beaching."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter V Prevention and Control of Pollution by Construction Projects"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "In building new construction projects and reconstructing or expanding existing ones, effective measures shall be taken to protect wild fauna and flora under special protection of the State and localities and their living environment, protect marine fishery resources, and avoid or mitigate the impact on marine organisms.\nIt is prohibited to extract sea sand within the scope of coastlines under strict protection. In developing and utilising sea sand resources in other areas in accordance with law, strict measures shall be taken to protect the marine environment. Those transporting sea sand resources shall hold certificates of lawful origin; sea sand extractors shall provide certificates of lawful origin for vessels transporting sea sand.\nIn extracting seabed mineral resources by drilling wells from the shore, effective measures shall be taken to prevent pollution of the marine environment."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter V Prevention and Control of Pollution by Construction Projects"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Construction projects may not use materials containing radioactive substances exceeding the standards or materials from which toxic or harmful substances readily leach; they may not cause erosion, silting or damage to the base points of the territorial sea and the environment around them, and may not endanger the stability of the base points of the territorial sea."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter V Prevention and Control of Pollution by Construction Projects"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Where blasting operations are required for a construction project, effective measures shall be taken to protect the marine environment.\nIn offshore oil exploration and development and in oil transport, effective measures shall be taken to avoid the occurrence of oil spill accidents."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter V Prevention and Control of Pollution by Construction Projects"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Construction projects may not unlawfully discharge pollutants, waste and other harmful substances into the sea.\nOily wastewater and oily mixtures from offshore oil and gas equipment such as offshore oil and gas drilling platforms (vessels), production and living platforms and floating production storage and offloading units shall be treated to meet the standards before discharge; residual oil and waste oil shall be recovered and may not be discharged into the sea.\nOil-based mud and other toxic composite mud used in drilling may not be discharged into the sea. The discharge of water-based mud, non-toxic composite mud and drill cuttings shall comply with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter V Prevention and Control of Pollution by Construction Projects"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "Offshore oil and gas equipment such as offshore oil and gas drilling platforms (vessels), production and living platforms and floating production storage and offloading units and the relevant offshore installations may not dispose of oil-bearing industrial solid waste in sea areas. The disposal of other solid waste may not cause pollution of the marine environment."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter V Prevention and Control of Pollution by Construction Projects"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "In offshore well testing, it shall be ensured that oil and gas are fully burned, and oil and oily mixtures may not be discharged into the sea."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter V Prevention and Control of Pollution by Construction Projects"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "In exploring and developing offshore oil and gas resources, a contingency plan for oil and gas pollution shall be prepared in accordance with the relevant provisions and filed with the regional office of the competent department of ecology and environment of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter V Prevention and Control of Pollution by Construction Projects"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "No individual and no unit without approval may dump any waste into the sea areas under the jurisdiction of the People's Republic of China.\nWhere waste is to be dumped, the unit generating the waste shall submit a written application to the regional office of the competent department of ecology and environment of the State Council, together with an inspection report on the characteristics and composition of the waste, and may dump only after obtaining a dumping permit.\nThe State encourages the comprehensive utilisation of dredged material and other waste, so as to avoid or reduce dumping at sea.\nIt is prohibited to dump waste originating outside the territory of the People's Republic of China in the sea areas under the jurisdiction of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter VI Prevention and Control of Pollution by Dumping of Waste"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "The competent department of ecology and environment of the State Council shall, in light of the toxicity, toxic substance content and degree of impact on the marine environment of waste, formulate procedures and standards for the assessment of waste dumped at sea.\nThe catalogue of waste that may be dumped at sea shall be formulated by the competent department of ecology and environment of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter VI Prevention and Control of Pollution by Dumping of Waste"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "The competent department of ecology and environment of the State Council shall, jointly with the competent department of natural resources of the State Council, prepare a national plan for marine dumping areas, and, after soliciting the opinions of the departments of transport and fisheries of the State Council and the coast guard agencies, submit it to the State Council for approval.\nThe competent department of ecology and environment of the State Council shall, in accordance with the national plan for marine dumping areas and the principles of science, reasonableness, economy and safety, promptly select and designate marine dumping areas, solicit the opinions of the departments of transport and fisheries of the State Council and the coast guard agencies, and announce them to the public."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter VI Prevention and Control of Pollution by Dumping of Waste"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "The competent department of ecology and environment of the State Council shall organise assessments of the use of marine dumping areas, and shall, in light of the assessment results, adjust, suspend the use of or close the marine dumping areas.\nThe adjustment, suspension of use and closure of marine dumping areas shall be notified to the relevant departments of the State Council and the coast guard agencies and published to the public."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter VI Prevention and Control of Pollution by Dumping of Waste"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "Units permitted to dump and actually dumping waste shall dump in the designated areas in accordance with the time limit and conditions stated in the permit. Vessels and other carriers used for dumping operations shall be installed with and use marine dumping online monitoring equipment meeting the requirements, and shall be connected to the supervision system of the competent department of ecology and environment of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter VI Prevention and Control of Pollution by Dumping of Waste"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "Units permitted to dump and actually dumping waste shall report the dumping circumstances to the regional office of the competent department of ecology and environment of the State Council that issued the permit, in accordance with the provisions. Vessels dumping waste shall report to the maritime safety administration and the coast guard agency of the port of departure."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter VI Prevention and Control of Pollution by Dumping of Waste"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "It is prohibited to incinerate waste at sea.\nIt is prohibited to dispose of radioactive waste or other radioactive substances that pollute the marine environment or damage marine ecology at sea."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter VI Prevention and Control of Pollution by Dumping of Waste"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "Where a unit permitted to dump waste entrusts another unit with the marine dumping of waste, it shall verify the entrusted unit's qualifications as a subject, technical capability and credit standing, conclude a written contract in accordance with law, stipulate the requirements for pollution prevention and control and ecological protection in the contract, and supervise the implementation.\nThe entrusted unit carrying out the marine dumping of waste shall, in accordance with the provisions of the relevant laws and regulations and the contract, perform the requirements for pollution prevention and control and ecological protection.\nWhere a unit permitted to dump waste violates the provisions of the first paragraph of this Article, in addition to being punished in accordance with the provisions of the relevant laws and regulations, it shall bear joint and several liability with the entrusted unit that causes environmental pollution or ecological damage."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Chapter VI Prevention and Control of Pollution by Dumping of Waste"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "In the sea areas under the jurisdiction of the People's Republic of China, no vessel or related operation may unlawfully discharge into the sea pollutants such as vessel garbage, domestic sewage, oily wastewater, wastewater containing toxic and harmful substances and exhaust gas, waste, ballast water and sediments, and other harmful substances.\nVessels shall, in accordance with the relevant provisions of the State, take effective measures to treat and dispose of ballast water and sediments, and strictly prevent the introduction of harmful alien organisms.\nThose engaged in the reception of vessel pollutants and waste and in tank cleaning and tank washing operations of vessels shall have the corresponding reception and treatment capacity."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Chapter VII Prevention and Control of Pollution by Vessels and Related Operations"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "Vessels shall be equipped with the corresponding anti-pollution equipment and materials.\nThe structure of vessels and the anti-pollution equipment and materials provided shall comply with the relevant provisions of the State on the prevention and control of pollution of the marine environment by vessels, and shall have passed inspection.\nVessels shall obtain and hold the certificates and documents for the prevention and control of pollution of the marine environment, and shall, when carrying out the discharge and operation of vessel pollutants, ballast water and sediments, monitor, surveil, truthfully record and keep records in accordance with the relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Chapter VII Prevention and Control of Pollution by Vessels and Related Operations"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "Vessels shall comply with the provisions of the laws and regulations on maritime traffic safety, so as to prevent pollution of the marine environment caused by maritime casualties such as collision, striking a rock, stranding, fire or explosion."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Chapter VII Prevention and Control of Pollution by Vessels and Related Operations"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "The State improves and implements the civil liability compensation system for oil pollution damage from vessels; in accordance with the principle that shipowners and cargo owners share the risk of liability for compensation for oil pollution damage from vessels, the State improves and implements the systems of vessel oil pollution insurance and oil pollution damage compensation funds, and the specific measures shall be prescribed by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Chapter VII Prevention and Control of Pollution by Vessels and Related Operations"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "For vessels carrying cargo with pollution hazard entering or leaving a port, the carrier, the cargo owner or the agent shall declare to the maritime safety administration in advance. They may enter or leave the port or carry out loading and unloading operations only after approval."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Chapter VII Prevention and Control of Pollution by Vessels and Related Operations"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "Where cargo with pollution hazard is delivered for carriage by vessel, the shipper shall truthfully inform the carrier of the proper shipping name, the pollution hazard and the protective measures to be taken. The documents, packaging, marks and quantity limits of cargo with pollution hazard shall comply with the relevant provisions applicable to the cargo delivered.\nWhere cargo of unknown pollution hazard is to be carried by vessel, an assessment shall be conducted in advance in accordance with the relevant provisions.\nIn the operations of loading and unloading oils and toxic and harmful cargo, both the vessel and the shore shall comply with the safe anti-pollution operating procedures."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Chapter VII Prevention and Control of Pollution by Vessels and Related Operations"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "The local people's governments at or above the county level of the places where ports, wharves, loading and unloading points and vessel repair, building and dismantling units are located shall make overall plans for the construction of facilities for the reception, transfer, treatment and disposal of vessel pollutants and the like, and establish a corresponding multi-departmental joint supervision system for reception, transfer, treatment and disposal.\nCoastal local people's governments at or above the county level shall be responsible for the supervision and administration of pollution prevention and control in fishing ports and fishing vessel berthing points and the surrounding areas in the sea areas under their administration, standardise the recovery and disposal of domestic and production sewage and fishery litter, and advance the construction of pollution prevention and control equipment and environmental clean-up and rectification.\nPorts, wharves, loading and unloading points and vessel repair, building and dismantling units shall, in accordance with the relevant provisions, be equipped with sufficient reception facilities for the treatment of vessel pollutants and waste, and shall keep such facilities in good condition and in effective operation.\nPorts, wharves and loading and unloading points handling oils and other cargo with pollution hazard, and the vessels concerned, shall prepare pollution contingency plans and be equipped with the corresponding pollution emergency equipment and materials."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        },
+        "chapter": {
+          "en": "Chapter VII Prevention and Control of Pollution by Vessels and Related Operations"
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "The National Maritime Safety Administration shall organise the formulation of a catalogue of harmful materials whose installation and use in vessels of Chinese nationality are prohibited or restricted.\nVessel repair and building units, or vessel owners, operators or managers, shall keep an inventory of harmful materials on board, continuously update it during the construction, operation and maintenance of the vessel, and provide it to the unit engaged in vessel dismantling before the vessel is dismantled."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        },
+        "chapter": {
+          "en": "Chapter VII Prevention and Control of Pollution by Vessels and Related Operations"
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "Units engaged in vessel dismantling shall adopt effective pollution prevention and control measures, reduce vessel pollutants to a minimum before dismantling, and safely and environmentally soundly dispose of vessel pollutants, waste and other harmful substances generated by dismantling. Dismantled vessel parts may not enter water bodies.\nIt is prohibited to carry out vessel dismantling by beaching."
+        },
+        "noLabel": {
+          "en": "Article 87."
+        },
+        "chapter": {
+          "en": "Chapter VII Prevention and Control of Pollution by Vessels and Related Operations"
+        }
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "The State advocates green, low-carbon and intelligent shipping, encourages vessels to use new energy or clean energy, eliminates old vessels with high energy consumption and high emissions, and reduces emissions of greenhouse gases and atmospheric pollutants. Coastal local people's governments at or above the county level shall formulate plans for the construction and renovation of shore power at ports and vessel power receiving facilities, and organise their implementation. The power supply capacity of port shore power facilities shall be commensurate with the electricity demand of vessels berthing at the port.\nVessels shall, in accordance with the relevant provisions of the State, take effective measures to improve their energy efficiency. Vessels with the conditions for using shore power shall, in accordance with the relevant provisions of the State, use shore power when berthing at a port, except those using clean energy. Port operators and shore power supply enterprises with shore power supply capacity shall, in accordance with the relevant provisions of the State, provide shore power to vessels with the conditions for using shore power.\nThe State Council and coastal local people's governments at or above the county level shall, in accordance with the provisions, support the renovation and use of port shore power facilities and vessel power receiving facilities and the construction of vessels powered by clean energy or new energy."
+        },
+        "noLabel": {
+          "en": "Article 88."
+        },
+        "chapter": {
+          "en": "Chapter VII Prevention and Control of Pollution by Vessels and Related Operations"
+        }
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "Vessels and related operations shall comply with the relevant laws, regulations and standards, and take effective measures to prevent pollution of the marine environment. The maritime safety administrations and others shall strengthen supervision and administration of vessels and related operations.\nWhere a vessel carries out transhipment operations of bulk liquid cargo with pollution hazard, it shall prepare an operation plan, adopt effective safety and pollution prevention and control measures, and report for approval in advance in accordance with the relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 89."
+        },
+        "chapter": {
+          "en": "Chapter VII Prevention and Control of Pollution by Vessels and Related Operations"
+        }
+      },
+      {
+        "no": 90,
+        "text": {
+          "en": "Where a vessel is involved in a maritime casualty causing or likely to cause major pollution damage to the marine environment, the National Maritime Safety Administration has the right to compel the adoption of measures to avoid or reduce pollution damage.\nFor vessels and offshore installations which, as a result of a maritime casualty on the high seas, cause or threaten major pollution damage to the sea areas under the jurisdiction of the People's Republic of China, the National Maritime Safety Administration has the right to take the necessary measures proportionate to the actual or threatened damage."
+        },
+        "noLabel": {
+          "en": "Article 90."
+        },
+        "chapter": {
+          "en": "Chapter VII Prevention and Control of Pollution by Vessels and Related Operations"
+        }
+      },
+      {
+        "no": 91,
+        "text": {
+          "en": "All vessels have the obligation to monitor pollution at sea, and shall, upon discovery of a marine pollution incident or an act in violation of the provisions of this Law, immediately report to the nearest department or agency exercising the power of marine environment supervision and administration in accordance with the provisions of this Law.\nCivil aircraft that discover pollution discharge or pollution incidents at sea shall promptly report to the nearest civil aviation air traffic control unit. The unit receiving the report shall immediately notify the department or agency exercising the power of marine environment supervision and administration in accordance with the provisions of this Law."
+        },
+        "noLabel": {
+          "en": "Article 91."
+        },
+        "chapter": {
+          "en": "Chapter VII Prevention and Control of Pollution by Vessels and Related Operations"
+        }
+      },
+      {
+        "no": 92,
+        "text": {
+          "en": "The competent department of transport of the State Council may designate vessel pollutant discharge control areas. Vessels entering a control area shall meet the relevant control requirements for vessel pollutant discharge."
+        },
+        "noLabel": {
+          "en": "Article 92."
+        },
+        "chapter": {
+          "en": "Chapter VII Prevention and Control of Pollution by Vessels and Related Operations"
+        }
+      },
+      {
+        "no": 93,
+        "text": {
+          "en": "Where an act in violation of the provisions of this Law falls under any of the following circumstances, the department or agency exercising the power of marine environment supervision and administration in accordance with the provisions of this Law shall order correction or order measures such as restricting production or suspending production for rectification, and impose a fine; where the circumstances are serious, it shall, upon approval by the people's government with approval authority, order suspension of business or closure:\n(a) discharging into sea areas pollutants or other substances prohibited from discharge by this Law;\n(b) discharging pollutants without obtaining a pollutant discharge permit in accordance with law;\n(c) discharging pollutants in excess of standards or total control indicators;\n(d) unlawfully discharging pollutants into the sea by installing concealed pipes without authorisation, tampering with or forging monitoring data, or operating pollution prevention facilities abnormally or by other means of evading supervision;\n(e) violating the provisions of this Law on the discharge and management of vessel ballast water and sediments;\n(f) otherwise failing to discharge pollutants or waste into the sea in accordance with the provisions of this Law.\nWhere an act specified in item (a) or (b) of the preceding paragraph is committed, a fine of not less than 200,000 yuan but not more than 1,000,000 yuan shall be imposed; where an act specified in item (c) is committed, a fine of not less than 100,000 yuan but not more than 1,000,000 yuan shall be imposed; where an act specified in item (d) is committed, a fine of not less than 100,000 yuan but not more than 1,000,000 yuan shall be imposed, and where the circumstances are serious, the pollutant discharge permit shall be revoked; where an act specified in item (e) or (f) is committed, a fine of not less than 10,000 yuan but not more than 200,000 yuan shall be imposed. Where an individual abandons, piles or treats domestic refuse on a beach without authorisation, a fine of not less than 100 yuan but not more than 1,000 yuan shall be imposed for each occurrence."
+        },
+        "noLabel": {
+          "en": "Article 93."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 94,
+        "text": {
+          "en": "Where an act in violation of the provisions of this Law falls under any of the following circumstances, the department or agency exercising the power of marine environment supervision and administration in accordance with the provisions of this Law shall order correction and impose a fine:\n(a) failing to make pollutant discharge information public in accordance with law, or practising fraud;\n(b) failing to notify or report as prescribed when an accident or other sudden event causes or may cause pollution of the marine environment or ecological damage;\n(c) failing to formulate and file a contingency plan in accordance with the relevant provisions, or failing to be equipped with emergency equipment and materials in accordance with the relevant provisions;\n(d) failing to immediately take effective measures, or absconding, when an accident or other sudden event causes or may cause pollution of the marine environment or ecological damage;\n(e) failing to take the necessary response measures, resulting in the expansion of harm from a marine ecological disaster.\nWhere an act specified in item (a) of the preceding paragraph is committed, a fine of not less than 20,000 yuan but not more than 200,000 yuan shall be imposed, and where correction is refused, an order to restrict production or suspend production for rectification shall be made; where an act specified in item (b) is committed, a fine of not less than 50,000 yuan but not more than 500,000 yuan shall be imposed on the unit and a fine of not less than 10,000 yuan but not more than 100,000 yuan on the directly responsible person in charge and other directly responsible persons, and the relevant qualification permits may be temporarily detained or revoked; where an act specified in item (c) is committed, a fine of not less than 20,000 yuan but not more than 200,000 yuan shall be imposed; where an act specified in item (d) or (e) is committed, a fine of not less than 200,000 yuan but not more than 2,000,000 yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 94."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 95,
+        "text": {
+          "en": "Where an act in violation of the provisions of this Law involves refusing or obstructing investigation and on-site inspection, or practising fraud when inspected, the department or agency exercising the power of marine environment supervision and administration in accordance with the provisions of this Law shall order correction and impose a fine of not less than 50,000 yuan but not more than 200,000 yuan, and impose a fine of not less than 20,000 yuan but not more than 100,000 yuan on the directly responsible person in charge and other directly responsible persons."
+        },
+        "noLabel": {
+          "en": "Article 95."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 96,
+        "text": {
+          "en": "Where an act in violation of the provisions of this Law causes damage to marine ecosystems such as coral reefs or to protected natural areas, the department or agency exercising the power of marine environment supervision and administration in accordance with the provisions of this Law shall order correction and the adoption of remedial measures, and impose a fine of not less than 1,000 yuan but not more than 10,000 yuan per square metre."
+        },
+        "noLabel": {
+          "en": "Article 96."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 97,
+        "text": {
+          "en": "Where an act in violation of the provisions of this Law falls under any of the following circumstances, the department or agency exercising the power of marine environment supervision and administration in accordance with the provisions of this Law shall order correction and impose a fine:\n(a) occupying or damaging natural coastlines;\n(b) extracting sea sand within the scope of coastlines under strict protection;\n(c) violating other provisions of this Law on sea sand and mineral resources.\nWhere an act specified in item (a) of the preceding paragraph is committed, a fine of not less than 500 yuan but not more than 10,000 yuan per metre shall be imposed; where an act specified in item (b) is committed, a fine of not less than two times but not more than 20 times the value of the goods shall be imposed, and where the value of the goods is less than 100,000 yuan, a fine of not less than 200,000 yuan but not more than 2,000,000 yuan shall be imposed; where an act specified in item (c) is committed, a fine of not less than 50,000 yuan but not more than 500,000 yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 97."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 98,
+        "text": {
+          "en": "Where an act in violation of the provisions of this Law involves any of the following in the conduct of mariculture, the department or agency exercising the power of marine environment supervision and administration in accordance with the provisions of this Law shall order correction and impose a fine of not less than 20,000 yuan but not more than 200,000 yuan; where the circumstances are serious, it shall, upon approval by the people's government with approval authority, order suspension of business or closure:\n(a) violating the provisions on prohibited aquaculture zones and restricted aquaculture zones;\n(b) violating the provisions on the scale and density of aquaculture;\n(c) violating the provisions on the use of bait, fertiliser and medicines;\n(d) failing to conduct self-monitoring of aquaculture tailwater in accordance with the relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 98."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 99,
+        "text": {
+          "en": "Where an act in violation of the provisions of this Law involves establishing a discharge outlet into the sea, the competent department of ecology and environment shall order closure or demolition and impose a fine of not less than 20,000 yuan but not more than 100,000 yuan; where closure or demolition is refused, compulsory closure or demolition shall be carried out at the expense of the offender and a fine of not less than 100,000 yuan but not more than 500,000 yuan shall be imposed; where the circumstances are serious, an order to suspend production for rectification may be made.\nWhere an act in violation of the provisions of this Law involves establishing a discharge outlet into the sea without filing, the competent department of ecology and environment shall order correction and impose a fine of not less than 20,000 yuan but not more than 100,000 yuan.\nWhere an act in violation of the provisions of this Law involves the responsible entity of a discharge outlet into the sea failing to carry out surveillance and automatic monitoring in accordance with the provisions, the competent department of ecology and environment shall order correction and impose a fine of not less than 20,000 yuan but not more than 100,000 yuan; where correction is refused, an order to suspend production for rectification may be made.\nWhere the departments of natural resources and fisheries, the maritime safety administrations, the coast guard agencies and the ecological and environmental protection department of the military discover any of the illegal acts specified in the preceding three paragraphs, they shall notify the competent department of ecology and environment."
+        },
+        "noLabel": {
+          "en": "Article 99."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 100,
+        "text": {
+          "en": "Where an act in violation of the provisions of this Law involves transferring hazardous waste through sea areas under the jurisdiction of the People's Republic of China, the National Maritime Safety Administration shall order the vessel illegally transporting the hazardous waste to withdraw from the sea areas under the jurisdiction of the People's Republic of China, and impose a fine of not less than 500,000 yuan but not more than 5,000,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 100."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 101,
+        "text": {
+          "en": "Where an act in violation of the provisions of this Law involves a construction unit failing to implement the relevant requirements of the investment plan of the construction project, the competent department of ecology and environment shall order correction and impose a fine of not less than 50,000 yuan but not more than 200,000 yuan; where correction is refused, a fine of not less than 200,000 yuan but not more than 1,000,000 yuan shall be imposed.\nWhere an act in violation of the provisions of this Law involves a construction unit commencing construction without submitting an environmental impact report (form) for approval or for re-examination in accordance with law, the competent department of ecology and environment or the coast guard agency shall order it to stop construction, and impose a fine of not less than one per cent but not more than five per cent of the total investment of the construction project in light of the circumstances of the violation and the consequences of the harm, and may order restoration to the original state; sanctions shall be imposed in accordance with law on the directly responsible person in charge of the construction unit and other directly responsible persons. Where a construction unit fails to file an environmental impact registration form in accordance with law, the competent department of ecology and environment shall order it to file and impose a fine of not more than 50,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 101."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 102,
+        "text": {
+          "en": "Where an act in violation of the provisions of this Law involves building in protected natural areas designated in accordance with law, important fishery waters and other areas requiring special protection a construction project that pollutes the environment or damages ecology, or engaging in other activities there, or newly establishing in coastal land areas a production project that does not conform to the national industrial policy, the people's government at or above the county level shall order closure in accordance with its administrative authority.\nWhere an act involves carrying out production and construction activities in violation of the list of ecological and environmental permits, the department or agency exercising the power of marine environment supervision and administration in accordance with the provisions of this Law shall order the cessation of the illegal act, order demolition within a time limit and restoration to the original state at the expense of the offender, and impose a fine of not less than 500,000 yuan but not more than 5,000,000 yuan, and impose a fine of not less than 50,000 yuan but not more than 100,000 yuan on the directly responsible person in charge and other directly responsible persons; where the circumstances are serious, it shall, upon approval by the people's government with approval authority, order closure."
+        },
+        "noLabel": {
+          "en": "Article 102."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 103,
+        "text": {
+          "en": "Where an act in violation of the provisions of this Law involves environmental protection facilities not being designed, constructed and put into operation and use at the same time as the main works, or the construction project being put into production or use when the environmental protection facilities are not completed, do not meet the prescribed requirements, have not undergone acceptance inspection or have failed acceptance inspection, the competent department of ecology and environment or the coast guard agency shall order correction and impose a fine of not less than 200,000 yuan but not more than 1,000,000 yuan; where correction is refused, a fine of not less than 1,000,000 yuan but not more than 2,000,000 yuan shall be imposed; a fine of not less than 50,000 yuan but not more than 200,000 yuan shall be imposed on the directly responsible person in charge and other responsible persons; where major environmental pollution or ecological damage is caused, it shall order the suspension of production or use, or, upon approval by the people's government with approval authority, order closure."
+        },
+        "noLabel": {
+          "en": "Article 103."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 104,
+        "text": {
+          "en": "Where an act in violation of the provisions of this Law involves any of the following in a construction project, the department or agency exercising the power of marine environment supervision and administration in accordance with the provisions of this Law shall order the cessation of the illegal act and the elimination of the harm, and impose a fine of not less than 200,000 yuan but not more than 1,000,000 yuan; where the circumstances are serious, it shall, upon approval by the people's government with approval authority, order suspension of business or closure:\n(a) using materials containing radioactive substances exceeding the standards or materials from which toxic or harmful substances readily leach;\n(b) causing erosion, silting or damage to the base points of the territorial sea and the environment around them, or endangering the stability of the base points of the territorial sea."
+        },
+        "noLabel": {
+          "en": "Article 104."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 105,
+        "text": {
+          "en": "Where an act in violation of the provisions of this Law involves carrying out offshore oil and gas exploration and development activities that cause pollution of the marine environment, the coast guard agency shall order correction, issue a warning, and impose a fine of not less than 200,000 yuan but not more than 1,000,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 105."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 106,
+        "text": {
+          "en": "Where an act in violation of the provisions of this Law falls under any of the following circumstances, the competent department of ecology and environment of the State Council and its regional offices, the maritime safety administration or the coast guard agency shall order correction and impose a fine, and where necessary may detain the vessel; where the circumstances are serious, it shall, upon approval by the people's government with approval authority, order suspension of business or closure:\n(a) a vessel dumping waste leaving port without reporting;\n(b) dumping waste into the sea without obtaining a dumping permit;\n(c) incinerating waste at sea or disposing of radioactive waste or other radioactive substances at sea.\nWhere an act specified in item (a) of the preceding paragraph is committed, a fine of not less than 3,000 yuan but not more than 30,000 yuan shall be imposed on the owner, operator or manager of the vessel in violation of the law, and a fine of not less than 500 yuan but not more than 5,000 yuan on the master, the responsible seafarers or other responsible persons; where an act specified in item (b) is committed, a fine of not less than 200,000 yuan but not more than 2,000,000 yuan shall be imposed; where an act specified in item (c) is committed, a fine of not less than 500,000 yuan but not more than 5,000,000 yuan shall be imposed. Where an act specified in item (b) or (c) is committed and an administrative penalty has been imposed three or more times within two years, the offender may not engage in the marine dumping of waste for three years."
+        },
+        "noLabel": {
+          "en": "Article 106."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 107,
+        "text": {
+          "en": "Where an act in violation of the provisions of this Law falls under any of the following circumstances, the competent department of ecology and environment of the State Council and its regional offices, the maritime safety administration or the coast guard agency shall order correction, impose a fine, temporarily detain or revoke the dumping permit, and where necessary may detain the vessel; where the circumstances are serious, it shall, upon approval by the people's government with approval authority, order suspension of business or closure:\n(a) failing to report the dumping circumstances in accordance with the provisions of the State;\n(b) failing to install and use marine dumping online monitoring equipment in accordance with the provisions of the State;\n(c) a unit permitted to dump waste failing to entrust the marine dumping of waste in accordance with the provisions of this Law, or failing to supervise the implementation in accordance with the provisions of this Law;\n(d) dumping waste not in accordance with the provisions of the dumping permit.\nWhere an act specified in item (a) of the preceding paragraph is committed, a fine of not less than 5,000 yuan but not more than 20,000 yuan shall be imposed for each occurrence; where an act specified in item (b) is committed, a fine of not less than 20,000 yuan but not more than 200,000 yuan shall be imposed; where an act specified in item (c) is committed, a fine of not less than 30,000 yuan but not more than 300,000 yuan shall be imposed; where an act specified in item (d) is committed, a fine of not less than 200,000 yuan but not more than 1,000,000 yuan shall be imposed, and where the dumping permit is revoked, the offender may not engage in the marine dumping of waste for three years.\nWhere a dumping permit is obtained by improper means such as providing false application materials, deception or bribery, the competent department of ecology and environment of the State Council and its regional offices shall revoke the dumping permit in accordance with law and impose a fine of not less than 200,000 yuan but not more than 500,000 yuan; the offender may not apply for a dumping permit again within three years."
+        },
+        "noLabel": {
+          "en": "Article 107."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 108,
+        "text": {
+          "en": "Where an act in violation of the provisions of this Law involves transporting waste originating outside the territory of the People's Republic of China into the sea areas under the jurisdiction of the People's Republic of China for dumping, the coast guard agency shall order correction and, in light of the consequences of the harm caused or likely to be caused, impose a fine of not less than 500,000 yuan but not more than 5,000,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 108."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 109,
+        "text": {
+          "en": "Where an act in violation of the provisions of this Law falls under any of the following circumstances, the department or agency exercising the power of marine environment supervision and administration in accordance with the provisions of this Law shall order correction and impose a fine:\n(a) a port, wharf, loading and unloading point or vessel repair, building or dismantling unit failing to provide or effectively operate reception facilities for vessel pollutants and waste in accordance with the provisions, or the structure of a vessel or the anti-pollution equipment and materials provided not conforming to the national anti-pollution provisions or not having passed inspection;\n(b) engaging in the reception of vessel pollutants and waste or in tank cleaning and tank washing operations of vessels without the corresponding reception and treatment capacity;\n(c) engaging in vessel dismantling, conversion of old vessels, salvage and other operations on or under water in a manner causing pollution damage to the marine environment;\n(d) carrying out vessel dismantling by beaching.\nWhere an act specified in item (a) or (b) of the preceding paragraph is committed, a fine of not less than 20,000 yuan but not more than 300,000 yuan shall be imposed; where an act specified in item (c) is committed, a fine of not less than 50,000 yuan but not more than 200,000 yuan shall be imposed; where an act specified in item (d) is committed, a fine of not less than 100,000 yuan but not more than 1,000,000 yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 109."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 110,
+        "text": {
+          "en": "Where an act in violation of the provisions of this Law falls under any of the following circumstances, the department or agency exercising the power of marine environment supervision and administration in accordance with the provisions of this Law shall order correction and impose a fine:\n(a) failing to keep an inventory of harmful materials on board, failing to continuously update the inventory during the construction, operation and maintenance of the vessel, or failing to provide the inventory to the unit engaged in vessel dismantling before dismantling;\n(b) a vessel not holding anti-pollution certificates or documents, or failing to monitor, surveil, truthfully record and keep records of the discharge and operation of vessel pollutants, ballast water and sediments in accordance with the provisions;\n(c) a vessel failing to achieve the relevant prescribed level in taking measures to improve energy efficiency;\n(d) a vessel entering a control area not meeting the relevant control requirements for vessel pollutant discharge;\n(e) a port operator or shore power supply enterprise with shore power supply capacity failing to provide shore power to vessels with the conditions for using shore power in accordance with the provisions of the State;\n(f) a vessel with the conditions for using shore power failing to use shore power in accordance with the provisions of the State when berthing at a port.\nWhere an act specified in item (a) of the preceding paragraph is committed, a fine of not more than 20,000 yuan shall be imposed; where an act specified in item (b) is committed, a fine of not more than 100,000 yuan shall be imposed; where an act specified in item (c) is committed, a fine of not less than 10,000 yuan but not more than 100,000 yuan shall be imposed; where an act specified in item (d) is committed, a fine of not less than 30,000 yuan but not more than 300,000 yuan shall be imposed; where an act specified in item (e) or (f) is committed, a fine of not less than 10,000 yuan but not more than 100,000 yuan shall be imposed, and where the circumstances are serious, a fine of not less than 100,000 yuan but not more than 500,000 yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 110."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 111,
+        "text": {
+          "en": "Where an act in violation of the provisions of this Law falls under any of the following circumstances, the department or agency exercising the power of marine environment supervision and administration in accordance with the provisions of this Law shall order correction and impose a fine:\n(a) refusing to report or falsely reporting the declaration particulars of cargo with pollution hazard carried by vessel;\n(b) a shipper failing to truthfully inform the carrier of the proper shipping name, the pollution hazard and the protective measures to be taken of cargo with pollution hazard consigned;\n(c) the documents, packaging, marks and quantity limits of cargo with pollution hazard delivered by a shipper to the carrier not conforming to the relevant provisions applicable to the cargo delivered;\n(d) a shipper including cargo with pollution hazard in ordinary goods consigned or falsely declaring cargo with pollution hazard as ordinary goods;\n(e) where cargo of unknown pollution hazard is to be carried by vessel, failing to conduct an assessment in advance in accordance with the relevant provisions.\nWhere an act specified in item (a) of the preceding paragraph is committed, a fine of not more than 50,000 yuan shall be imposed; where an act specified in item (b) is committed, a fine of not less than 50,000 yuan but not more than 100,000 yuan shall be imposed; where an act specified in item (c) or (e) is committed, a fine of not less than 20,000 yuan but not more than 100,000 yuan shall be imposed; where an act specified in item (d) is committed, a fine of not less than 100,000 yuan but not more than 200,000 yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 111."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 112,
+        "text": {
+          "en": "Where an act in violation of the provisions of this Law falls under any of the following circumstances, the department or agency exercising the power of marine environment supervision and administration in accordance with the provisions of this Law shall order correction and impose a fine of not less than 10,000 yuan but not more than 50,000 yuan:\n(a) a vessel carrying cargo with pollution hazard entering or leaving a port or carrying out loading and unloading operations without permission;\n(b) in the operations of loading and unloading oils and toxic and harmful cargo, the vessel and the shore failing to comply with the safe anti-pollution operating procedures;\n(c) a vessel carrying out transhipment operations of bulk liquid cargo with pollution hazard without preparing an operation plan or without reporting for approval in accordance with the relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 112."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 113,
+        "text": {
+          "en": "Where an enterprise or public institution or other producer or operator, in violation of the provisions of this Law, discharges, dumps or disposes of pollutants, waste or other substances into sea areas, is imposed a fine and is ordered to correct, the department or agency that made the penalty decision in accordance with law shall organise a follow-up inspection, and where it finds that the offender continues to commit the illegal act or refuses or obstructs the follow-up inspection, it shall impose a continuous daily penalty in accordance with the provisions of the Environmental Protection Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 113."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 114,
+        "text": {
+          "en": "Where pollution of the marine environment or damage to marine ecology causes damage to others, civil liability shall be borne in accordance with the provisions of the Civil Code of the People's Republic of China and other laws.\nWhere pollution of the marine environment or damage to marine ecology causes major loss to the State, the department exercising the power of marine environment supervision and administration in accordance with the provisions of this Law shall, on behalf of the State, claim compensation for damage from the responsible party.\nWhere the department specified in the preceding paragraph does not bring a lawsuit, a people's procuratorate may bring a lawsuit before a people's court. Where the department specified in the preceding paragraph brings a lawsuit, a people's procuratorate may support the prosecution."
+        },
+        "noLabel": {
+          "en": "Article 114."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 115,
+        "text": {
+          "en": "Where a unit, in violation of the provisions of this Law, causes an accident of pollution of the marine environment or ecological damage, in addition to bearing compensation liability in accordance with law, the department or agency exercising the power of marine environment supervision and administration in accordance with the provisions of this Law shall impose a fine on it; a fine of not more than 50 per cent of the income obtained from the unit in the previous year may be imposed on the directly responsible person in charge and other directly responsible persons; where the directly responsible person in charge and other directly responsible persons are public officials, sanctions shall be imposed in accordance with law.\nWhere an accident of ordinary or relatively serious pollution of the marine environment or ecological damage is caused, the fine shall be calculated at 20 per cent of the direct loss; where an accident of serious or extraordinarily serious pollution of the marine environment or ecological damage is caused, the fine shall be calculated at 30 per cent of the direct loss."
+        },
+        "noLabel": {
+          "en": "Article 115."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 116,
+        "text": {
+          "en": "Where pollution damage to the marine environment cannot be avoided despite the prompt adoption of reasonable measures and the circumstances are entirely attributable to any of the following, the party responsible for the pollution damage shall be exempt from liability:\n(a) war;\n(b) irresistible natural disasters;\n(c) negligence or other fault of the competent department responsible for lighthouses or other navigational aids in the performance of its duties."
+        },
+        "noLabel": {
+          "en": "Article 116."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 117,
+        "text": {
+          "en": "Where dumping fees are not paid in accordance with the provisions of this Law, the competent department of ecology and environment of the State Council and its regional offices shall order payment within a time limit; where payment is still refused after the time limit, a fine of not less than one time but not more than three times the amount of dumping fees payable shall be imposed, and it may, upon approval by the people's government with approval authority, order suspension of business or closure."
+        },
+        "noLabel": {
+          "en": "Article 117."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 118,
+        "text": {
+          "en": "Where marine environment supervision and administration personnel abuse their powers, derelict their duties or engage in malpractices for personal gain, causing pollution damage to the marine environment or ecological damage, sanctions shall be imposed in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 118."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 119,
+        "text": {
+          "en": "Where an act in violation of the provisions of this Law constitutes a violation of public security administration, public security administration punishment shall be imposed in accordance with law; where a crime is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 119."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 120,
+        "text": {
+          "en": "For the purposes of this Law, the following terms have the meanings given below:\n(a) Pollution damage to the marine environment means the introduction, directly or indirectly, of substances or energy into the marine environment resulting in harmful effects such as damage to marine living resources, hazard to human health, hindrance to fisheries and other lawful activities at sea, impairment of the quality of sea water and reduction of environmental quality.\n(b) Internal waters means all sea areas on the landward side of the baseline of the territorial sea of China.\n(c) Coastal land areas means the belt of areas connected to the coast, or which discharge pollutants and carry out related activities directly or indirectly into the sea through pipelines, ditches or facilities.\n(d) Coastal wetlands means waters with a depth not exceeding six metres at low tide and the moist zone along their shores, including permanent waters with a depth not exceeding six metres, intertidal zones (or flood zones) and coastal lowlands, excluding artificial waters and tidal flats used for aquaculture.\n(e) Land-based pollution source (abbreviated as land source) means sites, facilities and the like that discharge pollutants from land into sea areas and cause or may cause pollution of the marine environment.\n(f) Land-based pollutants means pollutants discharged by land-based pollution sources.\n(g) Dumping means the act of disposing of waste and other harmful substances into the sea by vessel, aircraft, platform or other carrier, including the act of abandoning vessels, aircraft, platforms and their auxiliary facilities and other floating devices.\n(h) Coastline means the line marking the boundary between land and sea at the mean high water level of spring tides over many years, as determined by the results of coastline re-surveys organised by the State.\n(i) River estuary entering the sea means the section where the end of a river joins the receiving water body (the sea).\n(j) Marine ecological disaster means the explosive proliferation or high concentration of one or more marine organisms caused by changes in the natural environment or by human factors, which damages the structure and functions of marine ecosystems.\n(k) Fishery waters means the spawning grounds, feeding grounds, wintering grounds and migration channels of fish, shrimp, crabs and shellfish, and the aquaculture grounds of fish, shrimp, crabs, shellfish, algae and other aquatic animals and plants.\n(l) Discharge means the act of discharging pollutants into the sea, including pumping out, spilling, leaking, jetting and pouring out.\n(m) Oils means oils of any type and their refined products.\n(n) Discharge outlet into the sea means the outfall that discharges sewage directly or through pipelines, ditches, channels and other discharge channels into marine environmental water bodies, including industrial discharge outlets, urban sewage treatment plant discharge outlets, agricultural outfalls and other outfalls.\n(o) Oily mixture means any mixture containing oil.\n(p) Incineration at sea means the act of deliberately burning waste or other substances on an offshore incineration facility for the purpose of thermal destruction, excluding acts incidental to the normal operation of vessels, platforms or other man-made structures."
+        },
+        "noLabel": {
+          "en": "Article 120."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 121,
+        "text": {
+          "en": "The division of specific functions and powers among the relevant departments involved in marine environment supervision and administration, where not prescribed in this Law, shall be prescribed by the State Council.\nThe functions and duties of the departments of coastal local people's governments at or above the county level that exercise the power of marine environment supervision and administration shall be determined by the people's governments of provinces, autonomous regions and municipalities directly under the Central Government in accordance with this Law and the relevant provisions of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 121."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 122,
+        "text": {
+          "en": "The measures for the administration of environmental protection for military vessels and for military use of the sea shall be formulated by the State Council and the Central Military Commission in accordance with this Law."
+        },
+        "noLabel": {
+          "en": "Article 122."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 123,
+        "text": {
+          "en": "Where an international treaty relating to marine environmental protection to which the People's Republic of China is a party or which it has concluded provides otherwise than this Law, the provisions of the international treaty shall apply, except for the clauses on which the People's Republic of China has made reservations."
+        },
+        "noLabel": {
+          "en": "Article 123."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 124,
+        "text": {
+          "en": "This Law shall come into force on 1 January 2024."
+        },
+        "noLabel": {
+          "en": "Article 124."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
         }
       }
     ]

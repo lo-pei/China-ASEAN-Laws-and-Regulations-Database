@@ -826,6 +826,9 @@
   "今天": "Hôm nay",
   "昨天": "Hôm qua",
   "前 7 天": "7 ngày trước",
-  "更早": "Trước đó"
+  "更早": "Trước đó",
+  "引用": "Trích dẫn",
+  "复制本条引用": "Sao chép trích dẫn điều này",
+  "已复制：": "Đã sao chép: "
 };
 })(typeof window !== 'undefined' ? window : globalThis);

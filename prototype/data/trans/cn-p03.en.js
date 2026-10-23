@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p03
-   法规 69 部 / 译文 4509 条
+   法规 72 部 / 译文 4872 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -2790,6 +2790,1428 @@
         },
         "chapter": {
           "en": "Chapter V Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0163'] = {
+    "lawId": "CN-LAW-0163",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 122 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is enacted in order to strengthen ecological and environmental protection in the Yellow River Basin, safeguard the peace and safety of the Yellow River, promote the economical and intensive use of water resources, advance high-quality development, protect, transmit and carry forward Yellow River culture, and achieve harmonious coexistence between humanity and nature and the sustainable development of the Chinese nation."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "This Law applies to all types of activities for ecological protection and high-quality development in the Yellow River Basin; where this Law is silent, the provisions of other relevant laws shall apply.\nFor the purposes of this Law, the Yellow River Basin means the relevant county-level administrative areas of Qinghai Province, Sichuan Province, Gansu Province, the Ningxia Hui Autonomous Region, the Inner Mongolia Autonomous Region, Shanxi Province, Shaanxi Province, Henan Province and Shandong Province that are covered by the catchment areas of the main stream, tributaries and lakes of the Yellow River."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Ecological protection and high-quality development in the Yellow River Basin shall uphold the leadership of the Communist Party of China, implement the requirement that protection is the priority and governance is essential, strengthen pollution prevention and control, and follow the principles of ecological priority and green development, acting within water availability and giving priority to water conservation, adapting measures to local conditions and applying differentiated policies, and planning as a whole and advancing in a coordinated manner."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The State establishes a coordination mechanism for ecological protection and high-quality development in the Yellow River Basin (hereinafter referred to as the Yellow River Basin coordination mechanism), which shall provide overall guidance for and coordinate work on ecological protection and high-quality development in the Yellow River Basin, deliberate on major policies, major plans and major projects for the Basin, coordinate major cross-regional and cross-departmental matters, and urge and inspect the implementation of the relevant important work.\nProvinces and autonomous regions in the Yellow River Basin may, as required, establish provincial-level coordination mechanisms to organise, coordinate and advance ecological protection and high-quality development in the Yellow River Basin within their respective administrative areas."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The relevant departments of the State Council shall, in accordance with the division of duties, be responsible for work related to ecological protection and high-quality development in the Yellow River Basin.\nThe Yellow River Conservancy Commission of the competent department of water administration of the State Council (hereinafter referred to as the Yellow River Basin management agency) and its subordinate management agencies shall, in accordance with law, exercise the duties of basin water administration supervision and management, and provide support and guarantee for the relevant work of the Yellow River Basin coordination mechanism.\nThe Yellow River Basin ecological and environmental supervision and administration agency of the competent department of ecology and environment of the State Council (hereinafter referred to as the Yellow River Basin ecological and environmental supervision and administration agency) shall, in accordance with law, carry out the relevant work of basin ecological and environmental supervision and administration."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Local people's governments at or above the county level in the Yellow River Basin shall be responsible for work on ecological protection and high-quality development in the Yellow River Basin within their respective administrative areas.\nThe relevant departments of local people's governments at or above the county level in the Yellow River Basin shall, in accordance with the division of duties, be responsible for the relevant work on ecological protection and high-quality development in the Yellow River Basin within their respective administrative areas.\nThe relevant localities in the Yellow River Basin shall, as required, strengthen cooperation in the formulation of local regulations and local government rules, the preparation of plans, and supervision and law enforcement, so as to jointly advance ecological protection and high-quality development in the Yellow River Basin.\nThe Yellow River Basin establishes a system of joint conferences of provincial river and lake chiefs. River and lake chiefs at all levels shall be responsible for the relevant work of administering and protecting rivers and lakes."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The competent departments of water administration, ecology and environment, natural resources, housing and urban-rural development, agriculture and rural affairs, development and reform, emergency management, forestry and grassland, culture and tourism, and standardisation of the State Council shall, in accordance with the division of duties, establish and improve the standards systems for the economical and intensive use of water resources, water and sediment regulation, flood and drought control, soil and water conservation, hydrology, water environment quality and pollutant discharge, ecological protection and restoration, survey, monitoring and assessment of natural resources, biodiversity conservation, and cultural heritage protection in the Yellow River Basin."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The State applies a system of rigid constraints on water resources in the Yellow River Basin, adheres to determining the scale of cities, land, population and production on the basis of water availability, improves the pattern of territorial spatial development and protection, promotes the scientific and rational distribution of population and cities, and builds a modern industrial system compatible with the carrying capacity of water resources.\nLocal people's governments at or above the county level in the Yellow River Basin shall, in accordance with the relevant provisions of the State, organise the implementation of the system of rigid constraints on water resources within their respective administrative areas."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "In the Yellow River Basin, the State strengthens measures for water saving and efficiency improvement in agriculture, water saving and emission reduction in industry, and water saving and loss reduction in urban areas, encourages and promotes the use of advanced water-saving technologies, accelerates the formation of water-saving modes of production and life, effectively achieves the economical and intensive use of water resources, and advances the development of a water-saving society."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The State makes overall plans for the development of the flood control system of the main stream and tributaries of the Yellow River, strengthens coordination of flood control systems within and between basins, advances the linkage of flood and drought control and ice-flood prevention in the upper, middle and lower reaches of the Yellow River, builds a scientific and efficient comprehensive flood control and disaster reduction system, and organises assessments in due course, so as to effectively enhance the capacity of the Yellow River Basin to prevent and control floods and other disasters."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The competent department of natural resources of the State Council shall, jointly with the relevant departments of the State Council, organise periodic surveys of the status of natural resources such as land, minerals, water flows, forests, grasslands and wetlands in the Yellow River Basin, establish a basic resource database, carry out assessments of the carrying capacity of resources and the environment, and publish the status of natural resources in the Yellow River Basin to the public.\nThe competent department of wildlife protection of the State Council shall organise periodic general surveys of the status of wildlife and their habitats in the Yellow River Basin, or organise special surveys as required, establish archives of wildlife resources, and publish the status of wildlife resources in the Yellow River Basin to the public.\nThe competent department of ecology and environment of the State Council shall organise periodic assessments of the ecological status of the Yellow River Basin, and publish the ecological status of the Yellow River Basin to the public.\nThe competent department of forestry and grassland of the State Council shall, jointly with the relevant departments of the State Council, organise surveys and monitoring of land desertification and sandification in the Yellow River Basin, and periodically publish the survey and monitoring results to the public.\nThe competent department of water administration of the State Council shall organise surveys and monitoring of soil erosion in the Yellow River Basin, and periodically publish the survey and monitoring results to the public."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The Yellow River Basin coordination mechanism shall coordinate the relevant departments of the State Council and the provincial people's governments in the Yellow River Basin, and, on the basis of the monitoring stations and monitoring programmes already established, improve the monitoring network systems for ecology and environment, natural resources, hydrology, sediment, desertification and sandification, soil and water conservation, natural disasters and meteorology in the Yellow River Basin.\nThe relevant departments of the State Council and the local people's governments at or above the county level in the Yellow River Basin and their relevant departments shall, in accordance with the division of duties, improve and perfect the mechanisms for reporting and early warning of ecological and environmental risks."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The State strengthens the development of systems for the prevention of and emergency preparedness for natural disasters, monitoring and early warning, emergency handling and rescue, and post-event recovery and reconstruction in the Yellow River Basin, safeguards the safety of the relevant works and facilities, and controls, mitigates and eliminates the harm caused by natural disasters.\nThe competent department of ecology and environment of the State Council shall, jointly with the relevant departments of the State Council and the provincial people's governments in the Yellow River Basin, establish and improve a working mechanism for emergency response to sudden ecological and environmental incidents in the Yellow River Basin, link it with the national emergency response system for sudden incidents, and strengthen the management of responses to sudden ecological and environmental incidents in the Yellow River Basin.\nWhere severe drought occurs, where the flow at a provincial boundary cross-section or an important control cross-section falls to the warning flow, where a reservoir malfunctions, or where a major water pollution accident occurs, and a water supply crisis or the drying up of the Yellow River may result, the Yellow River Basin management agency shall organise the implementation of emergency regulation."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The Yellow River Basin coordination mechanism shall establish an expert advisory committee for ecological protection and high-quality development in the Yellow River Basin to provide professional advice on major policies, major plans, major projects and major scientific and technological issues concerning the Yellow River Basin.\nThe relevant departments of the State Council and the provincial people's governments in the Yellow River Basin and their relevant departments shall, in accordance with the division of duties, organise third-party assessment, analysis and demonstration of the impact on the ecosystems of the Yellow River Basin of construction projects, important infrastructure and industrial layout plans in the Basin."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The Yellow River Basin coordination mechanism shall coordinate the relevant departments of the State Council and the provincial people's governments in the Yellow River Basin, establish and improve an information-sharing system for the Yellow River Basin, organise the establishment of a smart Yellow River information-sharing platform, and raise the level of scientific management. The relevant departments of the State Council and the provincial people's governments in the Yellow River Basin and their relevant departments shall, in accordance with the relevant provisions of the State, share information on ecology and environment, natural resources, soil and water conservation, flood control safety, and administration and law enforcement in the Yellow River Basin."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The State encourages and supports research on major scientific and technological issues in the Yellow River Basin, including ecological protection and restoration, the economical and intensive use of water resources, water and sediment movement and regulation, sand prevention and control, comprehensive utilisation of sediment, river dynamics and riverbed evolution, soil and water conservation, hydrology, climate and pollution prevention and control, strengthens collaborative innovation, promotes research on key technologies, popularises and applies advanced and appropriate technologies, and enhances the supporting capacity of scientific and technological innovation."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The State strengthens the protection, transmission and carrying forward of Yellow River culture, systematically protects Yellow River cultural heritage, studies the development of Yellow River culture, expounds the spiritual content and contemporary value of Yellow River culture, and forges a strong sense of community for the Chinese nation."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The relevant departments of the State Council and the local people's governments at or above the county level in the Yellow River Basin and their relevant departments shall strengthen publicity and education on ecological protection and high-quality development in the Yellow River Basin.\nThe news media shall carry out publicity and reporting on ecological protection and high-quality development in the Yellow River Basin in various forms, and shall, in accordance with law, exercise public opinion supervision over illegal acts."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The State encourages and supports units and individuals in participating in activities related to ecological protection and high-quality development in the Yellow River Basin.\nUnits and individuals that make outstanding contributions to work on ecological protection and high-quality development in the Yellow River Basin shall be commended and rewarded in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The State establishes a planning system for the Yellow River Basin that is led by national development plans, based on spatial plans, and supported by special plans and regional plans, so that planning plays a guiding, directing and constraining role in advancing ecological protection and high-quality development in the Yellow River Basin."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Planning and Control"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The State Council and the local people's governments at or above the county level in the Yellow River Basin shall incorporate work on ecological protection and high-quality development in the Yellow River Basin into national economic and social development plans.\nThe development and reform department of the State Council shall, jointly with the relevant departments of the State Council, formulate a plan for ecological protection and high-quality development in the Yellow River Basin, and implement it after approval by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Planning and Control"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The competent department of natural resources of the State Council shall, jointly with the relevant departments of the State Council, organise the preparation of a territorial spatial plan for the Yellow River Basin, scientifically and orderly arrange the functional spaces for agriculture, ecology and urban development in the Basin, designate permanent capital farmland, ecological conservation red lines and urban development boundaries, optimise the structure and layout of territorial space, and guide the tasks of territorial space utilisation in the Yellow River Basin, and implement the plan after approval by the State Council. Special plans involving territorial space utilisation in the Yellow River Basin shall be consistent with the territorial spatial plan for the Yellow River Basin.\nLocal people's governments at or above the county level in the Yellow River Basin shall organise the preparation of territorial spatial plans for their respective administrative areas, and implement them after approval through the prescribed procedures."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter II Planning and Control"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The competent department of water administration of the State Council shall, jointly with the relevant departments of the State Council and the provincial people's governments in the Yellow River Basin, and in accordance with the principles of unified planning, unified management and unified regulation, formulate in accordance with law the comprehensive plan, water resources plan and flood control plan for the Yellow River Basin, and make arrangements for the conservation, protection, development and utilisation of water resources and the prevention and control of water hazards.\nPlans for ecological and environmental protection in the Yellow River Basin shall be formulated in accordance with the provisions of the relevant laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter II Planning and Control"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The preparation of national economic and social development plans and overall territorial spatial plans, and the formulation of major industrial policies, shall be compatible with the water resources conditions and flood control requirements of the Yellow River Basin, and shall be scientifically demonstrated.\nWhere the special plans for industry, agriculture, animal husbandry, forestry and grassland, energy, transport, tourism and natural resources development in the Yellow River Basin, and plans for development zones and new areas, involve the development and utilisation of water resources, an assessment of water resources for the plan shall be conducted. Where no such assessment has been conducted, or where the assessment shows that the mandatory constraint control indicators for water resources are not met, the plan approving authority may not approve the plan."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter II Planning and Control"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The State strictly applies use control to the territorial space of the Yellow River Basin. The competent departments of natural resources of local people's governments at or above the county level in the Yellow River Basin shall, on the basis of territorial spatial plans, apply zoned and classified use control to the territorial space of the Yellow River Basin within their respective administrative areas.\nDevelopment and utilisation activities in the territorial space of the Yellow River Basin shall comply with the requirements of territorial space use control, and planning permission shall be obtained in accordance with law.\nIt is prohibited to occupy permanent capital farmland in violation of the relevant provisions of the State and without approval by the State Council. It is prohibited to occupy cultivated land without authorisation for non-agricultural construction, and the conversion of cultivated land into forest land, grassland, garden land and other agricultural land shall be strictly controlled.\nLocal people's governments at or above the county level in the Yellow River Basin shall strictly control the creation of new artificial water landscapes in the form of artificial lakes and artificial wetlands in the Yellow River Basin, and the Yellow River Basin coordination mechanism shall organise the relevant departments to strengthen supervision and administration."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter II Planning and Control"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The provincial people's governments in the Yellow River Basin shall, in light of the ecological environment and resource utilisation conditions of their respective administrative areas, and in accordance with the requirements of the ecological conservation red lines, the environmental quality baseline and the upper limit of resource utilisation, formulate differentiated control plans for the ecological environment and lists of ecological and environmental permits, and implement them after filing with the competent department of ecology and environment of the State Council. The differentiated control plans and permit lists shall be consistent with territorial spatial plans.\nIt is prohibited to build new or expand chemical industrial parks and chemical projects within the controlled shoreline areas of the main stream and tributaries of the Yellow River. It is prohibited to build new, reconstruct or expand tailings ponds within the controlled shoreline areas of the main stream and important tributaries of the Yellow River; except where reconstruction is for the purpose of raising safety levels and the level of ecological and environmental protection.\nThe catalogue of main streams and tributaries and the scope of shoreline control shall be determined and published by the competent departments of water administration, natural resources and ecology and environment of the State Council, in accordance with the division of duties and jointly with the provincial people's governments in the Yellow River Basin."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter II Planning and Control"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Hydropower development in the Yellow River Basin shall be scientifically demonstrated and shall conform to national development plans, the comprehensive basin plan and the requirements of ecological protection. For small hydropower projects already built in the Yellow River Basin that do not meet the requirements of ecological protection, the local people's governments at or above the county level shall organise differentiated rectification or take measures for their gradual withdrawal."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter II Planning and Control"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The Yellow River Basin management agency shall, taking into account the objectives of flood control and sediment reduction, urban and rural water supply, ecological protection, irrigation water use and hydropower generation, establish a comprehensive regulation system for water resources, water and sediment, and flood and ice-flood control, implement unified regulation of the controlling water projects on the main stream and tributaries of the Yellow River, safeguard basin water security, and bring into play the comprehensive benefits of water resources."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter II Planning and Control"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The State strengthens ecological protection and restoration in the Yellow River Basin, adheres to the integrated protection and restoration of mountains, rivers, forests, farmland, lakes, grasslands and sand, and applies systematic governance based mainly on natural restoration combined with artificial restoration.\nThe competent department of natural resources of the State Council shall, jointly with the relevant departments of the State Council, prepare a plan for territorial spatial ecological restoration of the Yellow River Basin, organise the implementation of major ecological restoration projects, and advance ecological protection and restoration in the Yellow River Basin in a coordinated manner."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Ecological Protection and Restoration"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "The State strengthens protection of the water conservation areas of the Yellow River, and increases protection of snow-capped mountains and glaciers, plateau permafrost, alpine meadows, grasslands, wetlands, deserts and spring areas in the source areas of the main stream and tributaries of the Yellow River and in the water conservation areas.\nIt is prohibited to engage in mining, sand extraction, fishing and hunting and other activities within the management scope of the river channels and lakes of the Yueguzonglie Qu, Gyaring Lake, Ngoring Lake, the Madoi river and lake group and other areas in the upper reaches of the Yellow River, so as to maintain the natural state of the river channels and lakes."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Ecological Protection and Restoration"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The State Council and the provincial people's governments in the Yellow River Basin shall, in accordance with law, designate public welfare forests in important ecological function areas and ecologically fragile areas and exercise strict management and protection; where supplementary irrigation is needed, irrigation water shall be reasonably arranged within the carrying capacity of water resources.\nThe competent department of forestry and grassland of the State Council shall, jointly with the relevant departments of the State Council and the provincial people's governments in the Yellow River Basin, strengthen guidance on the protection and restoration of natural forests, wetlands and grasslands in important ecological function areas of the Yellow River Basin and on the control of desertified and sandified land.\nLocal people's governments at or above the county level in the Yellow River Basin shall adopt measures such as the development of shelter forests, grazing bans and enclosure for regeneration, border windbreak and sand-fixation projects, closure and protection of sandified land, and rodent control, so as to strengthen the protection and restoration of natural forests, wetlands and grasslands in important ecological function areas of the Yellow River Basin, carry out large-scale sand prevention and control, scientifically control desertified and sandified land, and implement ecological restoration projects in key areas such as the Hetao Plain, the area of shrinking and degrading lakes on the Inner Mongolia Plateau, the sandified area of the Loess Plateau and the Fen-Wei Plain."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Ecological Protection and Restoration"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The State strengthens prevention and control of soil erosion in the key prevention areas and control areas of the Yellow River Basin such as Ziwuling-Liupanshan, the northern foot of the Qinling Mountains, the Helan Mountains, Baiyu Mountain and Longzhong, and in the source areas of important tributaries such as the Weihe River, Taohe River, Fenhe River and Yiluo River. Soil and water loss prevention and control shall, in light of the actual conditions, scientifically adopt biological and engineering measures.\nIt is prohibited to reclaim and cultivate crops on steep slopes of 25 degrees or more. The provincial people's governments in the Yellow River Basin may, in light of the actual conditions of their respective administrative areas, prescribe a prohibited reclamation gradient of less than 25 degrees. The scope of steep slope land on which reclamation is prohibited shall be designated and published by the county-level people's government of the place where it is located."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III Ecological Protection and Restoration"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The competent department of water administration of the State Council shall, jointly with the relevant departments of the State Council, strengthen the protection and control of ecologically fragile areas in the Yellow River Basin such as the Pisha sandstone area, the areas with abundant and coarse sediment, the areas where water and wind erosion alternate, and the areas where deserts enter the river, carry out assessments of soil erosion and soil and water loss, and implement key prevention and control projects.\nLocal people's governments at or above the county level in the Yellow River Basin shall organise the advancement of key soil and water conservation projects such as comprehensive small watershed management, comprehensive improvement of sloping farmland, treatment and protection of the tablelands of the Loess Plateau, and the development of suitable vegetation, adopt protective measures for tablelands, gully heads, gully slopes and gully channels, strengthen the control of areas with abundant and coarse sediment, and carry out the development of ecologically clean watersheds.\nThe State supports the carrying out of whole-gully management in the upper and middle reaches of the Yellow River Basin. Whole-gully management shall adhere to planning first, systematic restoration, integrated protection, adaptation to local conditions, comprehensive management and integrated advancement."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter III Ecological Protection and Restoration"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The competent department of water administration of the State Council shall, jointly with the relevant departments of the State Council, formulate standards or technical specifications for the construction, maintenance and servicing of check dams, and improve the systems for their construction, administration and safe operation.\nLocal people's governments at or above the county level in the Yellow River Basin shall, in light of local conditions, organise the construction of check dams, accelerate the elimination of hazards and reinforcement of dangerous check dams and the upgrading and reconstruction of old check dams, build safety monitoring and early warning facilities, incorporate flood control for check dam projects into the local flood control responsibility system, implement management and protection responsibilities, raise the level of maintenance, and reduce silting of downstream river channels.\nIt is prohibited to damage check dams or to occupy them without authorisation."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter III Ecological Protection and Restoration"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "It is prohibited to carry out production and construction activities that may cause soil and water loss in areas of the Yellow River Basin with severe soil and water loss and fragile ecology. Where construction is genuinely necessary for national development strategies and the national economy and people's livelihood, scientific demonstration shall be conducted and approval formalities shall be completed in accordance with law.\nProduction and construction units shall, in accordance with law, prepare and strictly implement approved soil and water conservation plans.\nWhere production and construction activities cause soil and water loss, treatment shall be carried out in accordance with the relevant national standards for soil and water loss prevention and control."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter III Ecological Protection and Restoration"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The competent department of water administration of the State Council shall, jointly with the relevant departments of the State Council and the people's government of Shandong Province, prepare and implement a plan for the regulation of the Yellow River estuary, rationally lay out the routes by which the Yellow River enters the sea, strengthen estuary regulation, safeguard the unimpeded flow of the river channel to the sea and the safety of flood and ice-flood control at the estuary, implement ecological water replenishment of the Qingshui Gou and Diaokou River, and maintain the ecological functions of the estuary.\nThe competent departments of natural resources and of forestry and grassland of the State Council shall, jointly with the relevant departments of the State Council and the people's government of Shandong Province, organise the ecological protection and restoration of the wetlands of the Yellow River Delta, orderly advance the return of fish ponds to river channels, of reclaimed farmland to wetlands and of reclaimed fields to beaches, strengthen the prevention and control of invasive alien species, and reduce the impact of oil and gas extraction, enclosed aquaculture, port shipping and other activities on the estuary ecosystem.\nIt is prohibited to encroach on the Diaokou River and other alternative routes by which the Yellow River enters the sea."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter III Ecological Protection and Restoration"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Where the competent department of water administration of the State Council determines the control indicators for the ecological flow of the control cross-sections of the main stream and important tributaries of the Yellow River and for the ecological water levels of important lakes, it shall solicit and consider the opinions of the competent departments of ecology and environment and of natural resources of the State Council. Where the competent departments of water administration of the provincial people's governments in the Yellow River Basin determine the control indicators for the ecological flow of other rivers and the ecological water levels of other lakes, they shall solicit and consider the opinions of the competent departments of ecology and environment and of natural resources of the people's governments at the same level, and file them with the Yellow River Basin management agency and the Yellow River Basin ecological and environmental supervision and administration agency. The determination of control indicators for ecological flow and ecological water levels shall be scientifically demonstrated, with comprehensive consideration of factors such as water resources conditions, climate conditions, ecological and environmental protection requirements, and water use for domestic and production purposes.\nThe Yellow River Basin management agency and the competent departments of water administration of the provincial people's governments in the Yellow River Basin shall, in accordance with the division of duties, organise the preparation and implementation of implementation plans for safeguarding ecological flow and ecological water levels.\nWater projects on the main stream and important tributaries of the Yellow River shall incorporate the regulation of water for ecological purposes into their routine operating regulations."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter III Ecological Protection and Restoration"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "The State makes overall plans for the development of the system of protected natural areas in the Yellow River Basin. The State Council and the provincial people's governments in the Yellow River Basin shall, in accordance with law, establish national parks, nature reserves, natural parks and other protected natural areas in areas such as the complete distribution areas of important typical ecosystems and ecologically sensitive areas in the Yellow River Basin, as well as the areas of natural concentrated distribution and important habitats of rare and endangered wild fauna and flora, and the distribution areas of important natural relics.\nWhere the development and administration of protected natural areas involve the management scope of river channels and lakes, the needs of river channel and lake protection shall be taken into overall account, flood control requirements shall be met, and the conduct of flood control project construction and management activities shall be ensured."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter III Ecological Protection and Restoration"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The competent departments of forestry and grassland and of agriculture and rural affairs of the State Council shall, jointly with the relevant departments of the State Council and the provincial people's governments in the Yellow River Basin, and in accordance with the division of duties, carry out protection and restoration of wild fauna and flora whose numbers have sharply declined or which are extremely endangered in the Yellow River Basin, as well as of severely damaged habitats, areas of natural concentrated distribution and fragmented typical ecosystems, build ex situ conservation facilities, establish gene banks of genetic resources of wild fauna and flora, and conduct rescue restoration.\nThe competent department of ecology and environment of the State Council and the local people's governments at or above the county level in the Yellow River Basin shall organise the administration of biodiversity conservation in the Yellow River Basin, and periodically assess the threatened status of organisms and the effectiveness of biodiversity restoration."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter III Ecological Protection and Restoration"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "The competent department of agriculture and rural affairs of the State Council shall, jointly with the relevant departments of the State Council and the provincial people's governments in the Yellow River Basin, establish an index assessment system for the integrity of aquatic organisms in the Yellow River Basin, organise assessments of the integrity of aquatic organisms in the Basin, and use the assessment results as an important basis for assessing the overall status of the ecosystems of the Yellow River Basin. The index of aquatic organism integrity of the Yellow River Basin shall be consistent with the water environment quality standards for the Basin."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter III Ecological Protection and Restoration"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "The State protects the aquatic germplasm resources and rare and endangered species of the Yellow River Basin, and supports the development of aquatic germplasm resource conservation areas and artificial breeding bases for wildlife under special protection of the State.\nIt is prohibited to breed or release alien species and the germplasm resources of other non-native species in the open waters of the Yellow River Basin."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter III Ecological Protection and Restoration"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The State strengthens the ecological protection and restoration of important habitats of aquatic organisms in the Yellow River Basin such as spawning grounds, feeding grounds, wintering grounds and migration channels. Water-related projects that obstruct the migration of fish and other aquatic organisms shall, in light of the actual circumstances, adopt various measures such as the construction of fish passage facilities, river-lake connectivity, stock enhancement and release, and artificial breeding, so as to meet the ecological needs of aquatic organisms.\nThe State applies a system of closed fishing periods in key waters of the Yellow River Basin. During the closed fishing period, it is prohibited to engage in commercial fishing of natural fishery resources in the key waters of the Yellow River Basin, and the specific measures shall be formulated by the competent department of agriculture and rural affairs of the State Council. Local people's governments at or above the county level in the Yellow River Basin shall, in accordance with the relevant provisions of the State, ensure the livelihood of fishermen during the closed fishing period.\nFishing practices that damage fishery resources and the aquatic ecology, such as electrofishing, poisoning and blasting, are prohibited."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter III Ecological Protection and Restoration"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "The competent department of water administration of the State Council shall, jointly with the competent department of natural resources of the State Council, organise the designation and publication of the areas of groundwater over-abstraction in the Yellow River Basin.\nThe competent departments of water administration of the provincial people's governments in the Yellow River Basin shall, jointly with the relevant departments of the people's governments at the same level, prepare comprehensive treatment plans for groundwater over-abstraction in their respective administrative areas, and submit them, after approval by the provincial people's governments, to the competent department of water administration of the State Council for the record."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter III Ecological Protection and Restoration"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Local people's governments at or above the county level in the Yellow River Basin shall organise the ecological restoration of degraded agricultural land and carry out comprehensive farmland improvement.\nLand damaged by production and construction activities in the Yellow River Basin shall be reclaimed by the production and construction operator. Land for which the person obliged to reclaim the land cannot be ascertained for historical reasons, and land damaged by natural disasters, shall be reclaimed under the organisation of the local people's governments at or above the county level in the Yellow River Basin.\nLocal people's governments at or above the county level in the Yellow River Basin shall strengthen supervision and administration of mines, urge mining right holders to perform their responsibilities for mine pollution prevention and control and ecological restoration, and, in light of local conditions, adopt measures such as eliminating hidden geological disaster dangers, land reclamation, restoration of vegetation and pollution prevention and control, and organise the ecological restoration of mines left over from history."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter III Ecological Protection and Restoration"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "The utilisation of water resources in the Yellow River Basin shall adhere to water conservation first, overall consideration, intensive use and meticulous calculation, give priority to meeting the domestic water use of urban and rural residents, safeguard basic ecological water use, and make overall arrangements for production water use."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter IV Economical and Intensive Use of Water Resources"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "The State applies unified allocation of the Yellow River's water volume. In formulating and adjusting the Yellow River water volume allocation scheme, full consideration shall be given to the water resources conditions, ecological and environmental status, regional water use status and water conservation levels of the Yellow River Basin and the utilisation of floodwater as a resource, overall arrangements shall be made for local water and diverted water and for conventional and unconventional water, the total available water resources and the volume of water to be delivered to the sea for sediment transport shall be scientifically determined, and the total volume of surface water abstraction and use in each region shall be allocated.\nThe Yellow River Basin management agency shall, in consultation with the provincial people's governments in the Yellow River Basin, formulate and adjust the Yellow River water volume allocation scheme and the water volume allocation schemes for inter-provincial tributaries. The Yellow River water volume allocation scheme shall be submitted to the State Council for approval after examination by the development and reform department and the competent department of water administration of the State Council. The water volume allocation schemes for inter-provincial tributaries shall be submitted to the department authorised by the State Council for approval.\nThe competent departments of water administration of the provincial people's governments in the Yellow River Basin shall, on the basis of the Yellow River water volume allocation scheme and the water volume allocation schemes for inter-provincial tributaries, formulate and adjust the water volume allocation schemes for their respective administrative areas, and submit them, after approval by the provincial people's governments, to the Yellow River Basin management agency for the record."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter IV Economical and Intensive Use of Water Resources"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "The State applies unified regulation of water resources in the Yellow River Basin, following the principles of total volume control, cross-section flow control, tiered administration and tiered responsibility, and making dynamic adjustments in light of changes in water conditions.\nThe competent department of water administration of the State Council shall, in accordance with law, organise the implementation, supervision and administration of unified regulation of water resources in the Yellow River Basin."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter IV Economical and Intensive Use of Water Resources"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "The competent department of water administration of the State Council shall, jointly with the competent department of natural resources of the State Council, formulate the control indicators for the total volume of groundwater abstraction in the provincial-level administrative areas of the Yellow River Basin.\nThe competent departments of water administration of the provincial people's governments in the Yellow River Basin shall, jointly with the relevant departments of the people's governments at the same level, and on the basis of the control indicators for the total volume of groundwater abstraction in their respective administrative areas, formulate the control indicators for the total volume of groundwater abstraction and the groundwater level control indicators for the administrative areas of cities divided into districts and of counties, and submit them, after approval by the provincial people's governments, to the competent department of water administration of the State Council or the Yellow River Basin management agency for the record."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter IV Economical and Intensive Use of Water Resources"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "The total volume of surface water abstraction and use in the administrative areas at or above the county level in the Yellow River Basin may not exceed the control indicators determined in the water volume allocation scheme, and shall meet the control indicator requirements for ecological flow and ecological water levels; the total volume of groundwater abstraction may not exceed the control indicators for the total volume of groundwater abstraction in the administrative area, and shall meet the requirements of the groundwater level control indicators.\nLocal people's governments at or above the county level in the Yellow River Basin shall, on the basis of the control indicators for the total volume of water abstraction and use in their respective administrative areas, and taking into overall account the water demand for economic and social development, water conservation standards and industrial policies, formulate the control indicators for water use in agriculture, industry, domestic use and off-channel ecological use in their respective administrative areas."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter IV Economical and Intensive Use of Water Resources"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Abstraction and use of water resources in the Yellow River Basin shall be subject to a water abstraction permit obtained in accordance with law.\nApplications for water abstraction from the main stream of the Yellow River, and for abstraction above the quota in designated reaches of important inter-provincial tributaries, shall be examined and approved by the Yellow River Basin management agency, which shall, in the course of examination and approval, consider the opinions of the competent departments of water administration of the provincial people's governments of the places where the abstraction intakes are located; other applications for water abstraction shall be examined and approved by the competent departments of water administration of the local people's governments at or above the county level in the Yellow River Basin. The designated reaches and quota standards shall be determined and published by the competent department of water administration of the State Council and adjusted in due course."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter IV Economical and Intensive Use of Water Resources"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "The State applies differentiated management of water resources in the Yellow River Basin. The competent department of water administration of the State Council shall, jointly with the competent department of natural resources of the State Council, organise periodic water resources assessments and investigations and assessments of carrying capacity in the Yellow River Basin. The assessment results shall serve as the basis for designating areas with water resources overload, areas with critical overload and areas without overload.\nLocal people's governments at or above the county level in areas with water resources overload shall formulate treatment plans for water resources overload, adopt measures such as industrial structure adjustment and strengthened water conservation, and implement comprehensive treatment. Local people's governments at or above the county level in areas with critical water resources overload shall adopt restrictive measures to prevent water resources overload.\nApart from water for domestic use and other water safeguarding people's livelihood, new water abstraction permits may not be granted in areas with water resources overload in the Yellow River Basin; the granting of new water abstraction permits shall be strictly restricted in areas with critical water resources overload."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter IV Economical and Intensive Use of Water Resources"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "The State applies a system of mandatory water use quotas in the Yellow River Basin. The competent departments of water administration and of standardisation of the State Council shall, jointly with the development and reform department of the State Council, organise the formulation of mandatory water use quotas for water-intensive industry and services in the Yellow River Basin. In formulating mandatory water use quotas, the opinions of the relevant departments of the State Council, the provincial people's governments in the Yellow River Basin, enterprises and public institutions and the public shall be solicited, and the relevant provisions of the Standardisation Law of the People's Republic of China shall be complied with.\nThe provincial people's governments in the Yellow River Basin may, in accordance with the requirements of in-depth water conservation and water control, formulate local water use quotas stricter than the national water use quotas; where no national water use quota is prescribed, they may formulate supplementary local water use quotas.\nWater-using units in the Yellow River Basin and in the relevant county-level administrative areas of the other Yellow River water supply areas of the provinces and autonomous regions through which the Yellow River flows shall strictly implement the mandatory water use quotas; where the mandatory water use quota is exceeded, water-saving technical transformation shall be implemented within a time limit."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter IV Economical and Intensive Use of Water Resources"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where the competent departments of water administration of local people's governments at or above the county level in the Yellow River Basin and in the relevant county-level administrative areas of the other Yellow River water supply areas of the provinces and autonomous regions through which the Yellow River flows, and the Yellow River Basin management agency verify the volume of water abstraction of water-abstracting units, the volume shall meet the requirements of the water use quotas.\nUnits whose volume of water abstraction reaches or exceeds the abstraction scale in the Yellow River Basin and in the relevant county-level administrative areas of the other Yellow River water supply areas of the provinces and autonomous regions through which the Yellow River flows shall install qualified online metering facilities, ensure their normal operation, and transmit the metering data to the competent department of water administration or the Yellow River Basin management agency with administrative authority. The standards for the abstraction scale shall be formulated by the competent department of water administration of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter IV Economical and Intensive Use of Water Resources"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "The State applies a system of a negative list for access of water-intensive industries and a catalogue of water-intensive industries to be eliminated in the Yellow River Basin. Applications for water abstraction for construction projects listed in the negative list for access of water-intensive industries and in the catalogue of water-intensive industries to be eliminated shall not be approved. The negative list and the catalogue shall be formulated and published by the development and reform department of the State Council jointly with the competent department of water administration of the State Council.\nThe expansion of water supply from the Yellow River Basin to areas outside the Basin shall be strictly restricted, and any increase in water diverted from the Yellow River for irrigation shall be strictly restricted. Where new water use is genuinely necessary for the implementation of major national strategies, a water resources assessment shall be strictly conducted and a water abstraction permit approved by the Yellow River Basin management agency shall be obtained."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter IV Economical and Intensive Use of Water Resources"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Local people's governments at or above the county level in the Yellow River Basin shall organise the development of efficient water-saving agriculture, strengthen the construction of agricultural water-saving facilities and agricultural water metering facilities, select and promote low-water-consumption and highly drought-tolerant crops, and reduce agricultural water consumption. It is prohibited to abstract deep groundwater for agricultural irrigation.\nIndustrial enterprises in the Yellow River Basin shall give priority to the use of water-saving processes, technologies and equipment encouraged by the State. The catalogue of industrial water-saving processes, technologies and equipment encouraged by the State shall be formulated and published by the competent department of industry and information technology of the State Council jointly with the relevant departments of the State Council.\nLocal people's governments at or above the county level in the Yellow River Basin shall organise the popularisation and application of advanced and appropriate water-saving processes, technologies, equipment, products and materials, advance the resource utilisation of industrial wastewater, support enterprises in water metering and water-saving technical transformation, support enterprises in industrial parks in developing cascade water use systems and circulating water use systems, and promote water conservation in water-intensive industries such as energy, chemicals and building materials. Water-intensive industrial enterprises shall implement water metering and water-saving technical transformation.\nLocal people's governments at or above the county level in the Yellow River Basin shall organise the reconstruction of old urban and rural water supply facilities and pipe networks, popularise water-saving appliances, carry out water-saving technical transformation of public institutions, control water use in water-intensive services, and improve centralised rural water supply and water-saving supporting facilities.\nLocal people's governments at or above the county level in the Yellow River Basin and their relevant departments shall strengthen publicity, education and popularisation of science on water conservation, raise public awareness of water conservation, and foster a sound atmosphere for water conservation."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter IV Economical and Intensive Use of Water Resources"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "The State establishes a water pricing system in the Yellow River Basin that promotes water conservation. Tiered water pricing shall apply to domestic water use of urban residents and, where conditions permit, of rural residents; high cumulative surcharges shall apply to the water price for water-intensive industry and services; progressive surcharges for excess over quotas shall apply to the water price for non-domestic use; and the comprehensive reform of agricultural water pricing shall be advanced.\nIn the Yellow River Basin, the State applies water efficiency labelling management to water-using products with large water-saving potential and wide use, phases out water-using products of lower water efficiency grades within a time limit, and fosters water-saving markets such as contracted water conservation."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter IV Economical and Intensive Use of Water Resources"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "The competent department of water administration of the State Council shall, jointly with the relevant departments of the State Council, formulate the catalogue of important drinking water source areas in the Yellow River Basin. The competent departments of water administration of the provincial people's governments in the Yellow River Basin shall, jointly with the relevant departments of the people's governments at the same level, formulate the catalogues of other drinking water source areas in their respective administrative areas.\nThe provincial people's governments in the Yellow River Basin shall organise the designation of drinking water source protection areas, strengthen the protection of drinking water sources and safeguard drinking water safety. Local people's governments at or above the county level in the Yellow River Basin and their relevant departments shall rationally lay out drinking water intake points and strengthen the development of emergency and reserve drinking water sources."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter IV Economical and Intensive Use of Water Resources"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "The State, taking comprehensive account of the water resources conditions, economic and social development needs and ecological and environmental protection requirements of the Yellow River Basin, and coordinating the water supply security and ecological security of the areas from which water is diverted and the areas to which it is diverted, shall scientifically demonstrate, plan and construct inter-basin water diversion projects and major water source projects, accelerate the building of the national water network, optimise the allocation of water resources, and enhance the carrying capacity of water resources.\nLocal people's governments at or above the county level in the Yellow River Basin shall organise the implementation of regional water resources allocation projects and raise the level of urban and rural water supply security."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter IV Economical and Intensive Use of Water Resources"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Local people's governments at or above the county level in the Yellow River Basin shall advance the resource utilisation of sewage, and the State shall support the construction of the relevant facilities.\nLocal people's governments at or above the county level in the Yellow River Basin shall incorporate unconventional water such as reclaimed water, rainwater, brackish water and mine water into the unified allocation of water resources and raise the proportion of unconventional water use. For water used in landscape greening, industrial production and building construction, priority shall be given to the use of reclaimed water that meets the requirements."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter IV Economical and Intensive Use of Water Resources"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "The State, in accordance with the comprehensive plan and the flood control plan for the Yellow River Basin, shall organise the development of engineering systems for water and sediment regulation and flood control and disaster reduction in the Basin, improve the mechanisms for water and sediment regulation and for flood and ice-flood control regulation, strengthen hydrological and meteorological monitoring, forecasting and early warning, water and sediment observation and river regime surveys, carry out dredging of key reservoirs and river reaches and sediment release onto floodplains, enhance the capacity of river channels to convey floods and sediment, shape the main channel, maintain the stability of the river regime, and safeguard flood control safety."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter V Water and Sediment Regulation and Flood Control Safety"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "The State improves the water and sediment regulation system centred on major water projects such as key reservoirs, and adopts measures such as joint regulation of water and sediment and comprehensive treatment and utilisation of sediment to enhance the capacity to retain and transport sediment. The catalogue of projects included in the water and sediment regulation system shall be formulated by the competent department of water administration of the State Council.\nThe relevant departments of the State Council and the provincial people's governments in the Yellow River Basin shall strengthen the development and administration of flood control engineering systems such as controlling water projects on the main stream and tributaries of the Yellow River, standardised embankments, and works to control and guide the direction of river flows, and shall carry out the elimination of hazards and reinforcement of dangerous reservoirs and the prevention and control of flash flood and debris flow disasters.\nThe Yellow River Basin management agency and its subordinate management agencies and the local people's governments at or above the county level in the Yellow River Basin shall strengthen the operation, management and maintenance of flood control works and ensure their safe and stable operation."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter V Water and Sediment Regulation and Flood Control Safety"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "The State applies a system of unified water and sediment regulation in the Yellow River Basin. The Yellow River Basin management agency shall organise the implementation of unified regulation of the reservoir groups on the main stream and tributaries of the Yellow River, prepare water and sediment regulation plans, determine the operating indicators, operating modes and the start and end times of regulation for key reservoirs, and issue regulation instructions. Water and sediment regulation shall adopt measures to minimise the impact on aquatic organisms and their habitats.\nLocal people's governments at or above the county level in the Yellow River Basin, and the competent departments and management units of reservoirs, shall execute the regulation instructions of the Yellow River Basin management agency."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter V Water and Sediment Regulation and Flood Control Safety"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "The competent department of water administration of the State Council shall organise the preparation of a scheme for defending against floods of the Yellow River, which shall be submitted to the State Council for approval after examination by the national flood and drought control command.\nThe Yellow River Basin management agency shall, jointly with the provincial people's governments in the Yellow River Basin, and on the basis of the approved scheme for defending against floods of the Yellow River, prepare flood regulation schemes for the main stream, important tributaries and important water projects of the Yellow River, submit them to the competent department of water administration of the State Council for approval and copy them to the national flood and drought control command and the emergency management department of the State Council, and organise their implementation in accordance with the division of duties.\nLocal people's governments at or above the county level in the Yellow River Basin shall organise the preparation and implementation of flood regulation schemes for other tributaries and water projects of the Yellow River, and file them with the flood and drought control command of the people's government at the next higher level and the relevant competent departments."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter V Water and Sediment Regulation and Flood Control Safety"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "The Yellow River Basin management agency shall formulate an annual ice-flood regulation scheme, file it with the competent department of water administration of the State Council, and organise its implementation in accordance with the division of duties.\nLocal people's governments at or above the county level in the Yellow River Basin that have ice-flood prevention tasks shall incorporate ice-flood prevention into the flood control plans of their respective administrative areas."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter V Water and Sediment Regulation and Flood Control Safety"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "The Yellow River flood and drought control command shall be responsible for commanding flood and drought control in the Yellow River Basin, and its administrative office shall be established within the Yellow River Basin management agency and shall undertake the day-to-day work of the command."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter V Water and Sediment Regulation and Flood Control Safety"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "The Yellow River Basin management agency shall, jointly with the provincial people's governments in the Yellow River Basin, and on the basis of the flood control plan for the Yellow River Basin, formulate a catalogue of floodplains of the Yellow River and submit it to the competent department of water administration of the State Council for approval. The provincial people's governments in the Yellow River Basin shall make orderly arrangements for the relocation and reconstruction of residents in the floodplains, strictly control the in-migration of permanent residents to the floodplains, and implement comprehensive improvement and treatment projects in the floodplains.\nLand use, infrastructure construction and ecological protection and restoration in the floodplains of the Yellow River shall meet the needs of flood conveyance in the river channels and give play to the flood detention and sediment settling functions of the floodplains.\nWithin the floodplains of the Yellow River, no urban construction land may be newly planned and no new villages or towns may be established, and the scope of those already planned and established may not be expanded; no new permanent capital farmland may be designated, and permanent capital farmland already designated which affects flood control safety shall be gradually withdrawn; no new wasteland may be reclaimed and no new production dikes may be built, production dikes already built which affect flood control safety shall be promptly demolished, and other production dikes shall be gradually demolished.\nWhere losses are caused by inundation resulting from natural flood conveyance and flood storage and detention in the floodplains of the Yellow River, compensation shall be given in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter V Water and Sediment Regulation and Flood Control Safety"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "The State strengthens the administration and protection of river channels and lakes in the Yellow River Basin. It is prohibited to build structures or installations obstructing flood conveyance within the management scope of river channels and lakes, or to engage in activities affecting the stability of the river regime, endangering the safety of river banks and embankments, or otherwise obstructing flood conveyance in river channels. It is prohibited to unlawfully use or occupy the waters and shorelines of river channels and lakes. The management scope of river channels and lakes shall be scientifically designated and published in accordance with law by the Yellow River Basin management agency and the relevant local people's governments at or above the county level.\nThe construction of engineering facilities across, through or along a river or through an embankment shall meet flood control standards and other requirements, and may not threaten embankment safety, affect the stability of the river regime, alter the use of waters and floodplains without authorisation, reduce the capacity for flood conveyance and regulation and storage, or reduce the area of waters; where a reduction in the capacity for flood conveyance and regulation and storage or in the area of waters genuinely cannot be avoided, equivalent replacement works shall be built at the same time or other functional remedial measures shall be taken."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter V Water and Sediment Regulation and Flood Control Safety"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "River channel regulation in the Yellow River Basin shall, in light of local conditions, adopt measures such as clearing obstructions from river channels, dredging, bank slope improvement, embankment reinforcement, water conservation and soil and water conservation, and river and lake management and protection, strengthen the regulation of perched rivers and wandering channels, and enhance the capacity of river channels, lakes and reservoirs to defend against floods.\nThe State supports the relevant local people's governments in the Yellow River Basin in building, on the premise of stabilising the river regime, standardising flow routes and safeguarding flood conveyance capacity, green ecological corridors integrating flood control, ecological protection and other functions through coordinated shoreline protection and restoration and the return of reclaimed farmland to wetlands."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter V Water and Sediment Regulation and Flood Control Safety"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "The State applies a system of planning and permitting for sand extraction from river channels in the Yellow River Basin. Sand extraction from river channels in the Yellow River Basin shall be subject to a sand extraction permit obtained in accordance with law.\nThe Yellow River Basin management agency and the local people's governments at or above the county level in the Yellow River Basin shall, in accordance with law, designate sand extraction prohibition areas and prescribe prohibition periods, and publish them to the public. It is prohibited to engage in sand extraction from river channels in the prohibition areas and during the prohibition periods in the Yellow River Basin."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter V Water and Sediment Regulation and Flood Control Safety"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "The relevant departments of the State Council shall, jointly with the provincial people's governments in the Yellow River Basin, strengthen the administration of the reservoir areas of key reservoirs on the main stream and tributaries such as Longyangxia, Liujiaxia, Sanmenxia, Xiaolangdi, Guxian, Luhun and Hekoucun, scientifically regulate reservoir water levels, and strengthen soil and water conservation, ecological protection and geological disaster prevention and control in the reservoir areas.\nAquaculture in the reservoir areas of the Sanmenxia, Xiaolangdi, Guxian, Luhun and Hekoucun reservoirs shall meet the requirements of water and sediment regulation and flood control, and it is prohibited to use cages, enclosure nets or cross-river seine nets for aquaculture."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter V Water and Sediment Regulation and Flood Control Safety"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "The urban people's governments in the Yellow River Basin shall make overall arrangements for urban flood control and drainage, strengthen the construction and administration of urban flood control and drainage facilities, improve the mechanisms for monitoring and early warning of urban flood and waterlogging disasters, improve the urban disaster prevention and reduction system, and enhance the capacity to defend against and respond to urban flood and waterlogging disasters.\nThe urban people's governments in the Yellow River Basin and their relevant departments shall strengthen publicity, education and social mobilisation on flood and waterlogging disaster prevention, organise emergency drills on a regular basis, and enhance public awareness of prevention."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter V Water and Sediment Regulation and Flood Control Safety"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "The State strengthens the comprehensive, systematic and source treatment of agricultural non-point source pollution, industrial pollution, and urban and rural domestic pollution in the Yellow River Basin, and advances the comprehensive improvement of the environment of key rivers and lakes."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter VI Pollution Prevention and Control"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "The competent department of ecology and environment of the State Council shall formulate water environment quality standards for the Yellow River Basin; it may make supplementary provisions for items not prescribed in the national water environment quality standards, and may make stricter provisions for items already prescribed in the national standards. In formulating water environment quality standards for the Yellow River Basin, the opinions of the relevant departments of the State Council and the relevant provincial people's governments shall be solicited.\nThe provincial people's governments in the Yellow River Basin may formulate local water environment quality standards stricter than the water environment quality standards for the Yellow River Basin, and file them with the competent department of ecology and environment of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter VI Pollution Prevention and Control"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "For distinctive industries and unique pollutants for which there are no national water pollutant discharge standards, and for specific water pollution sources or water pollutants for which the State has explicit requirements, the provincial people's governments in the Yellow River Basin shall formulate supplementary local water pollutant discharge standards and file them with the competent department of ecology and environment of the State Council.\nWhere any of the following circumstances exists, the provincial people's governments in the Yellow River Basin shall formulate local water pollutant discharge standards stricter than the national water pollutant discharge standards and file them with the competent department of ecology and environment of the State Council:\n(a) industries are concentrated and water environment problems are prominent;\n(b) the existing water pollutant discharge standards cannot meet the water environment quality requirements of the Yellow River Basin;\n(c) the water environment situation of the basin or region is complex and a uniform water pollutant discharge standard cannot be applied."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter VI Pollution Prevention and Control"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "The competent department of ecology and environment of the State Council shall, in accordance with the targets for improving water environment quality and the requirements for water pollution prevention and control, determine the control indicators for the total discharge of key water pollutants in each provincial-level administrative area of the Yellow River Basin. For water function areas in the Yellow River Basin where water environment quality does not meet the standards, the competent departments of ecology and environment of the provincial people's governments shall implement stricter measures for reducing the total discharge of water pollutants and achieve compliance of water environment quality within a time limit. Enterprises and public institutions discharging water pollutants shall, as required, adopt measures to control the total discharge of water pollutants.\nLocal people's governments at or above the county level in the Yellow River Basin shall strengthen and coordinate the construction of environmental infrastructure such as the collection, treatment and disposal of sewage and solid waste, ensure the normal operation of the facilities, advance in light of local conditions the renovation of rural toilets, the treatment of domestic waste and the treatment of sewage, and eliminate black and odorous water bodies."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter VI Pollution Prevention and Control"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "The establishment of new, modification of or expansion of pollutant discharge outlets in river channels and lakes in the Yellow River Basin shall be reported to the competent department of ecology and environment with jurisdiction or to the Yellow River Basin ecological and environmental supervision and administration agency for approval. Where the establishment, modification or expansion of a discharge outlet may affect flood control, water supply, embankment safety or the stability of the river regime, the opinions of the competent department of water administration of the local people's government at or above the county level or of the Yellow River Basin management agency shall be solicited in the course of examination and approval.\nIn water function areas of the Yellow River Basin where water environment quality does not meet the standards, the establishment of new, modification of or expansion of pollutant discharge outlets shall be strictly controlled, except for discharge outlets of important livelihood projects such as centralised urban and rural sewage treatment facilities.\nLocal people's governments at or above the county level in the Yellow River Basin shall organise investigations and rectification of the pollutant discharge outlets in the river channels and lakes within their respective administrative areas, clarify the entities responsible, and apply classified management."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter VI Pollution Prevention and Control"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "Local people's governments at or above the county level in the Yellow River Basin shall organise investigations and assessments of the hidden risks to the groundwater environment of key groundwater pollution sources such as landfill sites, petrol stations, oil storage depots, mines, tailings ponds, hazardous waste disposal sites, chemical industrial parks and chemical projects along river channels and lakes, and of the surrounding groundwater environment, and shall adopt risk prevention and rectification measures.\nThe competent departments of ecology and environment of the local people's governments at or above the level of city divided into districts in the Yellow River Basin shall, in consultation with the relevant departments of the people's governments at the same level, formulate and publish the catalogue of key pollutant discharging units for groundwater pollution prevention and control. Key pollutant discharging units for groundwater pollution prevention and control shall, in accordance with law, install automatic monitoring equipment for water pollutant discharge, connect it to the monitoring equipment of the competent department of ecology and environment, and ensure the normal operation of the monitoring equipment."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter VI Pollution Prevention and Control"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "The competent departments of ecology and environment of the provincial people's governments in the Yellow River Basin shall, jointly with the competent departments of water administration and of natural resources of the people's governments at the same level, and in light of the needs of groundwater pollution prevention and control in their respective administrative areas, designate key areas for groundwater pollution prevention and control and clarify the management requirements for environmental access, hidden danger investigation and risk control.\nLocal people's governments at or above the county level in the Yellow River Basin shall strengthen supervision and administration of groundwater pollution prevention and control in oil and gas extraction areas and other areas. Where unconventional natural gas such as coalbed methane and tight gas is developed in the Yellow River Basin, the fracturing fluid and produced water generated shall be treated and disposed of, and may not pollute the soil or groundwater."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Chapter VI Pollution Prevention and Control"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "Local people's governments at or above the county level in the Yellow River Basin shall strengthen the protection of the soil ecological environment in the Yellow River Basin, prevent new soil pollution, and advance, in light of local conditions and by category, the risk control and restoration of soil pollution.\nLocal people's governments at or above the county level in the Yellow River Basin shall strengthen the prevention and control of solid waste pollution of the environment in the Yellow River Basin, and organise joint prevention and control against the illegal transfer and dumping of solid waste."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Chapter VI Pollution Prevention and Control"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "The competent department of ecology and environment of the State Council shall organise periodic investigations and monitoring of toxic and harmful chemical substances in the atmosphere, water bodies, soil and organisms in the Yellow River Basin, and shall, jointly with the competent departments of health of the State Council and other relevant departments, carry out environmental risk assessment and control of toxic and harmful chemical substances in the Yellow River Basin.\nThe competent departments of ecology and environment of the State Council and other relevant departments and the local people's governments at or above the county level in the Yellow River Basin and their relevant departments shall strengthen the control and treatment of emerging pollutants such as persistent organic pollutants."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Chapter VI Pollution Prevention and Control"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "Local people's governments at or above the county level in the Yellow River Basin and their relevant departments shall strengthen control of the total use of agricultural inputs such as pesticides and chemical fertilisers, provide guidance on their use and technical services, promote advanced and appropriate technologies such as green prevention and control of pests and diseases, implement the recycling of return flows from irrigated farmland, and strengthen monitoring and early warning of agricultural pollution sources.\nAgricultural producers and operators in the Yellow River Basin shall scientifically and rationally use agricultural inputs such as pesticides, chemical fertilisers and veterinary medicines, scientifically treat and dispose of agricultural waste such as packaging waste of agricultural inputs and agricultural plastic film, comprehensively utilise crop straw, and strengthen the prevention and control of pollution from livestock, poultry and aquaculture."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Chapter VI Pollution Prevention and Control"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "Promoting high-quality development in the Yellow River Basin shall adhere to the new development philosophy, accelerate the green transformation of development modes, and optimise and adjust the regional economy and the distribution of productive forces on the premise of ecological protection."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Chapter VII Promoting High-Quality Development"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "The relevant departments of the State Council and the local people's governments at or above the county level in the Yellow River Basin and their relevant departments shall coordinate the implementation of the strategy for ecological protection and high-quality development in the Yellow River Basin with the rural revitalisation strategy, the new urbanisation strategy and regional coordinated development strategies such as the rise of Central China and the large-scale development of the western region, make overall arrangements for urban and rural infrastructure construction and industrial development, improve urban and rural living environments, improve the basic public service system, and promote integrated urban-rural development."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Chapter VII Promoting High-Quality Development"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "The relevant departments of the State Council and the local people's governments at or above the county level in the Yellow River Basin shall strengthen the binding constraints of the ecological environment and of water resources and the control of urban development boundaries, strictly control the establishment of new development zones of all types in the upper and middle reaches of the Yellow River Basin, advance the development of water-saving cities and sponge cities, and enhance the comprehensive carrying capacity and public service capacity of cities."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Chapter VII Promoting High-Quality Development"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "The relevant departments of the State Council and the local people's governments at or above the county level in the Yellow River Basin shall scientifically plan the layout of villages, coordinate ecological protection with rural development, strengthen rural infrastructure construction, advance the integrated development of rural industries, encourage the use of green and low-carbon energy, accelerate the modernisation of rural housing and village construction, shape a rural landscape, and build ecologically sound and liveable beautiful villages."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        },
+        "chapter": {
+          "en": "Chapter VII Promoting High-Quality Development"
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "The industrial structure and layout in the Yellow River Basin shall be compatible with the carrying capacity of the ecosystems and resources and environment of the Basin. The location in the Yellow River Basin of projects that are water-intensive, highly polluting or energy-intensive shall be strictly restricted.\nIndustries in the Yellow River Basin such as coal, thermal power, iron and steel, coking, chemicals and non-ferrous metals shall carry out cleaner production and implement mandatory cleaner production audits in accordance with law.\nLocal people's governments at or above the county level in the Yellow River Basin shall take measures to promote the cleaner transformation of enterprises, organise the popularisation and application of advanced and appropriate technologies and equipment for industrial energy conservation and comprehensive resource utilisation, and improve the green manufacturing system."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        },
+        "chapter": {
+          "en": "Chapter VII Promoting High-Quality Development"
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "The State encourages the development of new infrastructure in the Yellow River Basin and the improvement of infrastructure networks for transport, water conservancy, energy, and disaster prevention and reduction.\nLocal people's governments at or above the county level in the Yellow River Basin shall promote high-quality development of manufacturing and the transformation of resource-based industries, develop modern industries with distinctive advantages and clean low-carbon energy in light of local conditions, promote the optimisation and adjustment of the industrial structure, energy structure and transport structure, and advance work on peaking carbon emissions and achieving carbon neutrality."
+        },
+        "noLabel": {
+          "en": "Article 87."
+        },
+        "chapter": {
+          "en": "Chapter VII Promoting High-Quality Development"
+        }
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "The State encourages and supports the development in the Yellow River Basin of high-standard farmland, modern animal husbandry production bases and germplasm resource and seed production bases, the conduct of research, development and application of saline-alkali land agricultural technology in light of local conditions, support for local varieties in applying for geographical indication product protection, and the development of modern agricultural services.\nThe relevant departments of the State Council and the local people's governments at or above the county level in the Yellow River Basin shall organise the adjustment of the agricultural industrial structure, optimise the layout of agricultural industries, develop agricultural industries with regional advantages, and serve the national food security strategy."
+        },
+        "noLabel": {
+          "en": "Article 88."
+        },
+        "chapter": {
+          "en": "Chapter VII Promoting High-Quality Development"
+        }
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "The relevant departments of the State Council and the local people's governments at or above the county level in the Yellow River Basin shall encourage and support scientific and technological innovation in the Yellow River Basin, guide social funds to participate in the development and popularisation and application of scientific and technological achievements, and enhance the scientific and technological innovation capacity of the Yellow River Basin.\nThe State supports the establishment of funds for the transformation of scientific and technological achievements in the Yellow River Basin with social funds, improves the scientific and technological investment and financing system, and comprehensively uses government procurement, technical standards and incentive mechanisms to promote the transformation of scientific and technological achievements."
+        },
+        "noLabel": {
+          "en": "Article 89."
+        },
+        "chapter": {
+          "en": "Chapter VII Promoting High-Quality Development"
+        }
+      },
+      {
+        "no": 90,
+        "text": {
+          "en": "Local people's governments at or above the county level in the Yellow River Basin and their relevant departments shall take effective measures to raise urban and rural residents' understanding of the ecological environment and resource endowment of their respective administrative areas, and support and guide residents in developing green and low-carbon lifestyles."
+        },
+        "noLabel": {
+          "en": "Article 90."
+        },
+        "chapter": {
+          "en": "Chapter VII Promoting High-Quality Development"
+        }
+      },
+      {
+        "no": 91,
+        "text": {
+          "en": "The competent department of culture and tourism of the State Council shall, jointly with the relevant departments of the State Council, prepare and implement a plan for the protection, transmission and carrying forward of Yellow River culture, strengthen overall coordination, and advance the development of the Yellow River culture system.\nLocal people's governments at or above the county level in the Yellow River Basin and their competent departments of culture and tourism and other relevant departments shall strengthen the protection, transmission and carrying forward of Yellow River culture, provide high-quality public cultural services, and enrich the intellectual and cultural life of urban and rural residents."
+        },
+        "noLabel": {
+          "en": "Article 91."
+        },
+        "chapter": {
+          "en": "Chapter VIII Protection, Transmission and Carrying Forward of Yellow River Culture"
+        }
+      },
+      {
+        "no": 92,
+        "text": {
+          "en": "The competent department of culture and tourism of the State Council shall, jointly with the relevant departments of the State Council and the provincial people's governments in the Yellow River Basin, organise research on Yellow River culture and the history of river governance, and promote the creative transformation and innovative development of Yellow River culture."
+        },
+        "noLabel": {
+          "en": "Article 92."
+        },
+        "chapter": {
+          "en": "Chapter VIII Protection, Transmission and Carrying Forward of Yellow River Culture"
+        }
+      },
+      {
+        "no": 93,
+        "text": {
+          "en": "The competent department of culture and tourism of the State Council shall, jointly with the relevant departments of the State Council, organise and guide surveys and identification of Yellow River cultural resources, keep records and establish archives for important cultural heritage such as cultural relics and historic sites, intangible cultural heritage, and ancient books and documents, establish a basic database of Yellow River cultural resources, and promote the integrated utilisation of Yellow River cultural resources and the open sharing of public data."
+        },
+        "noLabel": {
+          "en": "Article 93."
+        },
+        "chapter": {
+          "en": "Chapter VIII Protection, Transmission and Carrying Forward of Yellow River Culture"
+        }
+      },
+      {
+        "no": 94,
+        "text": {
+          "en": "The State strengthens the protection of famous historical and cultural cities, towns and villages, historical and cultural blocks, cultural relics, historic buildings, traditional villages, villages with distinctive features of ethnic minorities, and water heritage such as ancient river channels, ancient dikes and ancient irrigation works, as well as agricultural heritage and toponymic cultural heritage in the Yellow River Basin. The competent departments of housing and urban-rural development, culture and tourism and cultural relics of the State Council and the relevant departments of the local people's governments at or above the county level in the Yellow River Basin shall, in accordance with the division of duties and the principles of tiered protection and implementation by category, strengthen supervision and administration.\nThe State strengthens the protection of intangible cultural heritage in the Yellow River Basin. The competent departments of culture and tourism of the State Council and other relevant departments and the relevant departments of the local people's governments at or above the county level in the Yellow River Basin shall improve the system of representative items of intangible cultural heritage in the Basin, advance the development of transmission and experience facilities, and strengthen the protection and transmission of representative items."
+        },
+        "noLabel": {
+          "en": "Article 94."
+        },
+        "chapter": {
+          "en": "Chapter VIII Protection, Transmission and Carrying Forward of Yellow River Culture"
+        }
+      },
+      {
+        "no": 95,
+        "text": {
+          "en": "The State strengthens the protection of cultural relics and relics of revolutionary commemorative significance in the Yellow River Basin, builds bases for education in revolutionary traditions and patriotism, and transmits and carries forward the red culture of the Yellow River."
+        },
+        "noLabel": {
+          "en": "Article 95."
+        },
+        "chapter": {
+          "en": "Chapter VIII Protection, Transmission and Carrying Forward of Yellow River Culture"
+        }
+      },
+      {
+        "no": 96,
+        "text": {
+          "en": "The State builds the Yellow River National Cultural Park, makes coordinated use of resources such as cultural heritage sites, museums, memorial halls, exhibition halls, education bases and water projects, and comprehensively uses information technology to systematically display Yellow River culture.\nThe development and reform department and the competent department of culture and tourism of the State Council shall organise the construction of the Yellow River National Cultural Park."
+        },
+        "noLabel": {
+          "en": "Article 96."
+        },
+        "chapter": {
+          "en": "Chapter VIII Protection, Transmission and Carrying Forward of Yellow River Culture"
+        }
+      },
+      {
+        "no": 97,
+        "text": {
+          "en": "The State adopts measures such as government procurement of services to support units and individuals in participating in the provision of public cultural services that reflect the distinctive features of the Yellow River Basin, embody the spirit of Yellow River culture and are suitable for popularisation.\nLocal people's governments at or above the county level in the Yellow River Basin and their relevant departments shall organise the integration of Yellow River culture into urban and rural construction, water conservancy projects and other infrastructure construction."
+        },
+        "noLabel": {
+          "en": "Article 97."
+        },
+        "chapter": {
+          "en": "Chapter VIII Protection, Transmission and Carrying Forward of Yellow River Culture"
+        }
+      },
+      {
+        "no": 98,
+        "text": {
+          "en": "Local people's governments at or above the county level in the Yellow River Basin shall, focusing on the protection, transmission and carrying forward of Yellow River culture, promote the development of cultural industries and the deep integration of cultural industries with agriculture, water conservancy, manufacturing, transport and services.\nThe competent department of culture and tourism of the State Council shall, jointly with the relevant departments of the State Council, make coordinated use of resources such as Yellow River culture, basin water landscapes and water projects to build a Yellow River cultural tourism belt. The competent departments of culture and tourism of the local people's governments at or above the county level in the Yellow River Basin shall, in light of local conditions, promote the development of tourism in their respective administrative areas and display and carry forward Yellow River culture.\nTourism activities in the Yellow River Basin shall meet the requirements of Yellow River flood control and of river channel and lake administration, and shall avoid damaging the ecological environment and cultural heritage."
+        },
+        "noLabel": {
+          "en": "Article 98."
+        },
+        "chapter": {
+          "en": "Chapter VIII Protection, Transmission and Carrying Forward of Yellow River Culture"
+        }
+      },
+      {
+        "no": 99,
+        "text": {
+          "en": "The State encourages the creation of literary and artistic works on Yellow River themes. Local people's governments at or above the county level in the Yellow River Basin shall strengthen support for and protection of the creation of literary and artistic works on Yellow River themes.\nThe State strengthens publicity of Yellow River culture, promotes the international dissemination of Yellow River culture, encourages and supports the holding of Yellow River cultural exchange and cooperation activities, and enhances the influence of Yellow River culture."
+        },
+        "noLabel": {
+          "en": "Article 99."
+        },
+        "chapter": {
+          "en": "Chapter VIII Protection, Transmission and Carrying Forward of Yellow River Culture"
+        }
+      },
+      {
+        "no": 100,
+        "text": {
+          "en": "The State Council and the local people's governments at or above the county level in the Yellow River Basin shall increase financial input in ecological protection and high-quality development in the Yellow River Basin.\nThe State Council and the provincial people's governments in the Yellow River Basin shall, in accordance with the principle of dividing fiscal powers and expenditure responsibilities between the central and local governments, allocate funds for ecological protection and high-quality development in the Yellow River Basin.\nThe State supports the establishment of a fund for ecological protection and high-quality development in the Yellow River Basin, to be used exclusively for the ecological protection and restoration of the Basin, the economical and intensive use of resources and energy, the cultivation of strategic emerging industries, and the protection, transmission and carrying forward of Yellow River culture."
+        },
+        "noLabel": {
+          "en": "Article 100."
+        },
+        "chapter": {
+          "en": "Chapter IX Support and Supervision"
+        }
+      },
+      {
+        "no": 101,
+        "text": {
+          "en": "The State applies tax policies conducive to water conservation, energy conservation, ecological and environmental protection and comprehensive resource utilisation, and encourages the development of financial products such as green credit, green bonds and green insurance, so as to provide support for ecological protection and high-quality development in the Yellow River Basin.\nThe State establishes in the Yellow River Basin a pricing mechanism conducive to the economical and intensive use of resource products such as water, electricity and gas, and applies restrictive pricing policies to projects of a restricted category in resource-intensive industries."
+        },
+        "noLabel": {
+          "en": "Article 101."
+        },
+        "chapter": {
+          "en": "Chapter IX Support and Supervision"
+        }
+      },
+      {
+        "no": 102,
+        "text": {
+          "en": "The State establishes and improves the compensation system for ecological protection in the Yellow River Basin.\nThe State increases fiscal transfer payments to compensate important ecological function areas in the Yellow River Basin. The specific measures shall be formulated by the finance department of the State Council jointly with the relevant departments of the State Council.\nThe State strengthens overall guidance for and coordination of compensation for ecological protection between administrative areas in the Yellow River Basin, and guides and supports local people's governments in the upper and lower reaches, on the left and right banks, and along the main stream and tributaries of the Yellow River Basin in carrying out horizontal compensation for ecological protection through consultation or in accordance with market rules and in various forms such as financial compensation and industrial support.\nThe State encourages social funds to establish market-operated funds for compensation for ecological protection in the Yellow River Basin. The State supports the carrying out of market-based trading of water use rights in the Yellow River Basin."
+        },
+        "noLabel": {
+          "en": "Article 102."
+        },
+        "chapter": {
+          "en": "Chapter IX Support and Supervision"
+        }
+      },
+      {
+        "no": 103,
+        "text": {
+          "en": "The State applies a responsibility system and an assessment and evaluation system for ecological protection and high-quality development in the Yellow River Basin. People's governments at higher levels shall assess the completion by people's governments at lower levels of the objectives of ecological protection and high-quality development, including the implementation of the mandatory binding control indicators for water resources and soil and water conservation."
+        },
+        "noLabel": {
+          "en": "Article 103."
+        },
+        "chapter": {
+          "en": "Chapter IX Support and Supervision"
+        }
+      },
+      {
+        "no": 104,
+        "text": {
+          "en": "The relevant departments of the State Council, the relevant departments of the local people's governments at or above the county level in the Yellow River Basin, the Yellow River Basin management agency and its subordinate management agencies, and the Yellow River Basin ecological and environmental supervision and administration agency shall, in accordance with the division of duties, conduct supervision and inspection of production and living, development and construction and other activities of all types in the Yellow River Basin, investigate and deal with illegal acts in accordance with law, make public information related to Yellow River protection, improve procedures for public participation, and facilitate the participation of units and individuals in and their supervision of Yellow River protection.\nUnits and individuals have the right to obtain information related to Yellow River protection in accordance with law, and to report and complain about illegal acts."
+        },
+        "noLabel": {
+          "en": "Article 104."
+        },
+        "chapter": {
+          "en": "Chapter IX Support and Supervision"
+        }
+      },
+      {
+        "no": 105,
+        "text": {
+          "en": "The relevant departments of the State Council, the local people's governments at or above the county level in the Yellow River Basin and their relevant departments, the Yellow River Basin management agency and its subordinate management agencies, and the Yellow River Basin ecological and environmental supervision and administration agency shall strengthen capacity building for the supervision and administration of Yellow River protection, raise the level of science and technology and informatisation, establish a law enforcement coordination mechanism, and carry out joint law enforcement in accordance with law with respect to cross-administrative-area and ecologically sensitive areas and major illegal cases.\nThe State strengthens the development of judicial safeguards in the Yellow River Basin, organises judicial cooperation in the Basin, advances coordination between administrative law enforcement agencies and judicial organs, and encourages the relevant units to provide legal services for ecological and environmental protection in the Yellow River Basin."
+        },
+        "noLabel": {
+          "en": "Article 105."
+        },
+        "chapter": {
+          "en": "Chapter IX Support and Supervision"
+        }
+      },
+      {
+        "no": 106,
+        "text": {
+          "en": "Where Yellow River protection is inadequate, problems are prominent and the public reaction is concentrated in a region, the relevant departments of the State Council and the provincial people's governments in the Yellow River Basin may hold a supervisory meeting with the principal persons in charge of the local people's government at or above the county level of that region and its relevant departments, requiring them to take measures for prompt rectification. The circumstances of the supervisory meeting and of the rectification shall be published to the public."
+        },
+        "noLabel": {
+          "en": "Article 106."
+        },
+        "chapter": {
+          "en": "Chapter IX Support and Supervision"
+        }
+      },
+      {
+        "no": 107,
+        "text": {
+          "en": "The State Council shall periodically report to the Standing Committee of the National People's Congress on work on ecological protection and high-quality development in the Yellow River Basin.\nLocal people's governments at or above the county level in the Yellow River Basin shall periodically report to the people's congress at the same level or its standing committee on the work of the people's government at the same level on ecological protection and high-quality development in the Yellow River Basin."
+        },
+        "noLabel": {
+          "en": "Article 107."
+        },
+        "chapter": {
+          "en": "Chapter IX Support and Supervision"
+        }
+      },
+      {
+        "no": 108,
+        "text": {
+          "en": "Where the relevant departments of the State Council, the local people's governments at or above the county level in the Yellow River Basin and their relevant departments, the Yellow River Basin management agency and its subordinate management agencies, or the Yellow River Basin ecological and environmental supervision and administration agency violate the provisions of this Law and commit any of the following acts, a warning, recording of a demerit, recording of a major demerit or demotion shall be imposed in accordance with law on the directly responsible person in charge and other directly responsible persons; where serious consequences are caused, removal from office or dismissal shall be imposed, and the principal person in charge shall resign to accept responsibility:\n(a) granting an administrative licence where the conditions for such licence are not met;\n(b) failing to make a decision to order suspension of business or closure where such a decision ought to be made in accordance with law;\n(c) failing to investigate and deal with an illegal act upon discovery thereof or upon receipt of a report;\n(d) committing other acts of dereliction of duty, abuse of power or malpractice for personal gain."
+        },
+        "noLabel": {
+          "en": "Article 108."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 109,
+        "text": {
+          "en": "Where an act in violation of the provisions of this Law falls under any of the following circumstances, the competent departments of ecology and environment, natural resources and other relevant departments of the local people's government shall, in accordance with the division of duties, order the cessation of the illegal act, order the demolition within a time limit or restoration to the original state, impose a fine of not less than 500,000 yuan but not more than 5,000,000 yuan, and impose a fine of not less than 50,000 yuan but not more than 100,000 yuan on the directly responsible person in charge and other directly responsible persons; where demolition is not carried out or the original state is not restored within the time limit, compulsory demolition or substituted restoration shall be carried out at the expense of the offender; where the circumstances are serious, the offender shall be ordered to close down upon approval by the people's government with approval authority:\n(a) building new or expanding chemical industrial parks or chemical projects within the controlled shoreline areas of the main stream and tributaries of the Yellow River;\n(b) building new, reconstructing or expanding tailings ponds within the controlled shoreline areas of the main stream or important tributaries of the Yellow River;\n(c) carrying out production and construction activities in violation of the provisions of the list of ecological and environmental permits."
+        },
+        "noLabel": {
+          "en": "Article 109."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 110,
+        "text": {
+          "en": "Where an act in violation of the provisions of this Law involves reclaiming and cultivating crops on steep slope land at or above the prohibited reclamation gradient in the Yellow River Basin, the competent department of water administration of the local people's government at or above the county level or the Yellow River Basin management agency and its subordinate management agencies shall order the cessation of the illegal act and take remedial measures such as returning the land to forest or grassland and restoring vegetation; according to the area reclaimed, a fine of not more than 100 yuan per square metre may be imposed on units and a fine of not more than 20 yuan per square metre on individuals.\nWhere an act in violation of the provisions of this Law involves damaging or occupying check dams without authorisation in the Yellow River Basin, the competent department of water administration of the local people's government at or above the county level or the Yellow River Basin management agency and its subordinate management agencies shall order the cessation of the illegal act, order treatment within a time limit or the adoption of remedial measures, and impose a fine of not less than 100,000 yuan but not more than 1,000,000 yuan; where treatment is not carried out or remedial measures are not taken within the time limit, substituted treatment or remedial measures shall be carried out at the expense of the offender.\nWhere an act in violation of the provisions of this Law involves carrying out production and construction activities in the Yellow River Basin that cause soil and water loss without treatment, or treatment not conforming to the relevant standards prescribed by the State, the competent department of water administration of the local people's government at or above the county level or the Yellow River Basin management agency and its subordinate management agencies shall order treatment within a time limit, impose a fine of not less than 20,000 yuan but not more than 200,000 yuan on units, and may impose a fine of not more than 20,000 yuan on individuals; where treatment is not carried out within the time limit, substituted treatment shall be carried out at the expense of the offender."
+        },
+        "noLabel": {
+          "en": "Article 110."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 111,
+        "text": {
+          "en": "Where an act in violation of the provisions of this Law involves a water project on the main stream or an important tributary of the Yellow River failing to incorporate the regulation of water for ecological purposes into its routine operating regulations, the relevant competent departments shall, in accordance with the division of duties, order correction, issue a warning, and impose a fine of not less than 10,000 yuan but not more than 100,000 yuan; where the circumstances are serious, a fine of not less than 100,000 yuan but not more than 500,000 yuan shall also be imposed."
+        },
+        "noLabel": {
+          "en": "Article 111."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 112,
+        "text": {
+          "en": "Where an act in violation of the provisions of this Law involves engaging in commercial fishing of natural fishery resources in key waters of the Yellow River Basin during the closed fishing period, the competent department of agriculture and rural affairs of the local people's government at or above the county level shall confiscate the catch, the illegal gains and the fishing vessels, fishing gear and other tools used in the illegal activity, and impose a fine of not less than 10,000 yuan but not more than 50,000 yuan; where fishing is carried out by electrofishing, poisoning, blasting or other means, or other serious circumstances exist, a fine of not less than 50,000 yuan but not more than 500,000 yuan shall also be imposed.\nWhere an act in violation of the provisions of this Law involves breeding or releasing alien species or the germplasm resources of other non-native species in the open waters of the Yellow River Basin, the competent department of agriculture and rural affairs of the local people's government at or above the county level shall order recapture within a time limit and impose a fine of not more than 100,000 yuan; where serious consequences are caused, a fine of not less than 100,000 yuan but not more than 1,000,000 yuan shall be imposed; where recapture is not carried out within the time limit, substituted recapture or measures to reduce adverse effects shall be carried out at the expense of the offender.\nWhere an act in violation of the provisions of this Law involves aquaculture by means of cages, enclosure nets or cross-river seine nets in the reservoir areas of the Sanmenxia, Xiaolangdi, Guxian, Luhun or Hekoucun reservoirs in a manner obstructing water and sediment regulation and flood control, the competent department of agriculture and rural affairs of the local people's government at or above the county level shall order the cessation of the illegal act, order the removal of the cages, enclosure nets or seine nets, and impose a fine of not more than 100,000 yuan; where serious consequences are caused, a fine of not less than 100,000 yuan but not more than 1,000,000 yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 112."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 113,
+        "text": {
+          "en": "Where an act in violation of the provisions of this Law involves abstracting water without approval, or abstracting water not in accordance with the conditions prescribed in the approved water abstraction permit, the competent department of water administration of the local people's government at or above the county level or the Yellow River Basin management agency and its subordinate management agencies shall order the cessation of the illegal act, order the adoption of remedial measures within a time limit, and impose a fine of not less than 50,000 yuan but not more than 500,000 yuan; where the circumstances are serious, the water abstraction permit shall be revoked."
+        },
+        "noLabel": {
+          "en": "Article 113."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 114,
+        "text": {
+          "en": "Where an act in violation of the provisions of this Law involves a water-using unit in the Yellow River Basin or in the relevant county-level administrative areas of the other Yellow River water supply areas of the provinces and autonomous regions through which the Yellow River flows using water in excess of the mandatory water use quota and failing to implement water-saving technical transformation within the prescribed time limit, the competent department of water administration of the local people's government at or above the county level or the Yellow River Basin management agency and its subordinate management agencies shall order rectification within a time limit and may impose a fine of not more than 100,000 yuan; where the circumstances are serious, a fine of not less than 100,000 yuan but not more than 500,000 yuan shall be imposed and the water abstraction permit shall be revoked."
+        },
+        "noLabel": {
+          "en": "Article 114."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 115,
+        "text": {
+          "en": "Where an act in violation of the provisions of this Law involves a unit in the Yellow River Basin or in the relevant county-level administrative areas of the other Yellow River water supply areas of the provinces and autonomous regions through which the Yellow River flows whose volume of water abstraction reaches or exceeds the abstraction scale failing to install online metering facilities, the competent department of water administration of the local people's government at or above the county level or the Yellow River Basin management agency and its subordinate management agencies shall order installation within a time limit, levy the relevant charges on the volume of water abstraction calculated on the basis of the maximum daily abstraction capacity, and impose a fine of not less than 20,000 yuan but not more than 100,000 yuan; where the circumstances are serious, a fine of not less than 100,000 yuan but not more than 500,000 yuan shall be imposed and the water abstraction permit shall be revoked.\nWhere an act in violation of the provisions of this Law involves online metering facilities that are substandard or not operating normally, the competent department of water administration of the local people's government at or above the county level or the Yellow River Basin management agency and its subordinate management agencies shall order replacement or repair within a time limit; where replacement or repair is not carried out within the time limit, the relevant charges shall be levied on the volume of water abstraction calculated on the basis of the maximum daily abstraction capacity, and a fine of not more than 50,000 yuan shall be imposed; where the circumstances are serious, the water abstraction permit shall be revoked."
+        },
+        "noLabel": {
+          "en": "Article 115."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 116,
+        "text": {
+          "en": "Where an act in violation of the provisions of this Law involves the abstraction of deep groundwater for agricultural irrigation in the Yellow River Basin, the competent department of water administration of the local people's government at or above the county level or the Yellow River Basin management agency and its subordinate management agencies shall order rectification within a time limit and may impose a fine of not more than 100,000 yuan; where the circumstances are serious, a fine of not less than 100,000 yuan but not more than 500,000 yuan shall be imposed and the water abstraction permit shall be revoked."
+        },
+        "noLabel": {
+          "en": "Article 116."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 117,
+        "text": {
+          "en": "Where an act in violation of the provisions of this Law involves a reservoir management unit in the Yellow River Basin failing to execute the water and sediment regulation instructions of the Yellow River Basin management agency, the Yellow River Basin management agency and its subordinate management agencies shall order correction, issue a warning, and impose a fine of not less than 20,000 yuan but not more than 100,000 yuan; where the circumstances are serious, a fine of not less than 100,000 yuan but not more than 500,000 yuan shall also be imposed; and sanctions shall be imposed in accordance with law on the directly responsible person in charge and other directly responsible persons."
+        },
+        "noLabel": {
+          "en": "Article 117."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 118,
+        "text": {
+          "en": "Where an act in violation of the provisions of this Law falls under any of the following circumstances, the competent department of water administration of the local people's government at or above the county level or the Yellow River Basin management agency and its subordinate management agencies shall order the cessation of the illegal act, order the demolition of the illegal buildings or structures within a time limit or restoration to the original state, and impose a fine of not less than 50,000 yuan but not more than 500,000 yuan; where demolition is not carried out or the original state is not restored within the time limit, compulsory demolition or substituted restoration shall be carried out at the expense of the offender:\n(a) building structures or installations obstructing flood conveyance within the management scope of river channels and lakes, or engaging in activities affecting the stability of the river regime, endangering the safety of river banks and embankments, or otherwise obstructing flood conveyance in river channels;\n(b) unlawfully using or occupying the waters and shorelines of river channels and lakes in the Yellow River Basin;\n(c) constructing engineering facilities across, through or along a river or through an embankment in a manner that reduces the capacity for flood conveyance and regulation and storage or reduces the area of waters, without building equivalent replacement works or taking other functional remedial measures;\n(d) encroaching on the alternative routes by which the Yellow River enters the sea."
+        },
+        "noLabel": {
+          "en": "Article 118."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 119,
+        "text": {
+          "en": "Where an act in violation of the provisions of this Law involves destroying natural resources and ecology, polluting the environment, obstructing flood control safety or damaging cultural heritage in the Yellow River Basin and causing damage to others, the infringer shall bear tort liability in accordance with law.\nWhere an act in violation of the provisions of this Law causes damage to the ecological environment of the Yellow River Basin, the organs prescribed by the State or the organisations prescribed by law have the right to request the infringer to bear responsibility for restoration, compensation for losses and the relevant expenses."
+        },
+        "noLabel": {
+          "en": "Article 119."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 120,
+        "text": {
+          "en": "Where an act in violation of the provisions of this Law constitutes a crime, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 120."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 121,
+        "text": {
+          "en": "For the purposes of this Law, the following terms have the meanings given below:\n(a) the main stream of the Yellow River means the main river section of the Yellow River from its source to its estuary, flowing through Qinghai Province, Sichuan Province, Gansu Province, the Ningxia Hui Autonomous Region, the Inner Mongolia Autonomous Region, Shanxi Province, Shaanxi Province, Henan Province and Shandong Province (including the route by which it enters the sea);\n(b) tributaries of the Yellow River mean rivers that flow directly or indirectly into the main stream of the Yellow River, and tributaries may be divided into first-order tributaries, second-order tributaries and so on;\n(c) important tributaries of the Yellow River mean first-order tributaries such as the Huangshui River, Taohe River, Zuli River, Qingshui River, Dahei River, Huangfu River, Kuye River, Wuding River, Fenhe River, Weihe River, Yiluo River, Qinhe River and Dawen River;\n(d) floodplains of the Yellow River mean the beach land within the management scope of the river channels of the Yellow River Basin which has the functions of flood conveyance, flood detention and sediment settling and on which, for historical reasons, residents live and cultivate crops."
+        },
+        "noLabel": {
+          "en": "Article 121."
+        },
+        "chapter": {
+          "en": "Chapter XI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 122,
+        "text": {
+          "en": "This Law shall come into force on 1 April 2023."
+        },
+        "noLabel": {
+          "en": "Article 122."
+        },
+        "chapter": {
+          "en": "Chapter XI Supplementary Provisions"
         }
       }
     ]
@@ -9399,6 +10821,1443 @@
         },
         "chapter": {
           "en": "Chapter VII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0173'] = {
+    "lawId": "CN-LAW-0173",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 121 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "For the purposes of standardising and safeguarding the correct execution of criminal punishments by prisons, punishing and reforming offenders in accordance with law, preventing and reducing crime, and promoting the building of a Peaceful China and a China under the rule of law at a higher level, this Law is enacted in accordance with the Constitution."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "A prison is a State organ for the execution of criminal punishments.\nOffenders sentenced to death with a two-year suspension of execution, life imprisonment or fixed-term imprisonment in accordance with the provisions of the Criminal Law of the People's Republic of China and the Criminal Procedure Law of the People's Republic of China shall serve their sentences in prisons."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Prison work shall adhere to the leadership of the Communist Party of China, adhere to the holistic approach to national security, and establish a just, law-based, civilised, clean and efficient system for the execution of criminal punishments by prisons."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Prison work shall adhere to combining punishment with reformation and combining education with labour, take the reformation of persons as its purpose, adhere to administration in accordance with law, respect and safeguard human rights, reform offenders into law-abiding citizens and promote their reintegration into society."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The judicial administration department of the State Council shall be in charge of prison work throughout the country.\nThe judicial administration departments of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall be in charge of prison work within their respective jurisdictions. Prison administration organs shall be administered by the judicial administration departments of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government and shall be responsible for the specific administration of prisons within their respective jurisdictions."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "People's procuratorates shall exercise supervision in accordance with law over the activities of prisons in executing criminal punishments."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The State shall safeguard the construction and operation of prisons, and prison funds shall be included in budgets in accordance with provisions.\nThe State shall provide the facilities and funds necessary for the labour of offenders and provide conditions for activities to reform offenders."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Prisons shall make prison affairs public and shall, in accordance with law, promptly and accurately make public the legal basis, procedures and results of the execution of criminal punishments, and shall take the initiative to accept supervision. Information involving State secrets or personal privacy, and information whose disclosure may endanger national security, social stability or prison order, shall not be made public."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The State shall encourage and support theoretical research and personnel training in the field of prisons and the execution of criminal punishments, so as to provide theoretical support and personnel safeguards for the high-quality development of prison work.\nThe State shall encourage and support international exchange in the fields of crime prevention and the execution of criminal punishments, so as to enhance mutual judicial trust and cooperation."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Units and individuals that have made outstanding contributions to prison work shall be commended and awarded in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The establishment, abolition and relocation of prisons shall be approved by the judicial administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Section 1 Establishment and Support of Prisons"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The construction of prisons shall, in accordance with the needs of the work of reforming offenders and in accordance with the relevant provisions of the State, adhere to overall planning and rational layout, and achieve complete functions and an appropriate scale.\nPrisons for male offenders, prisons for female offenders and juvenile correctional institutions shall be established according to the sex and age of offenders. Prisons and prison districts of different security levels shall be established according to the type of crime, the term of sentence and the degree of personal dangerousness of offenders. Prison districts of different functional types shall be established according to the state of health and the reform needs of offenders."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Section 1 Establishment and Support of Prisons"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The land, mineral resources and other natural resources lawfully used by a prison and the property of a prison shall be protected by law, and no organisation or individual may encroach upon or damage them."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Section 1 Establishment and Support of Prisons"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Prisons shall strengthen informatisation and apply modern science and technology to improve the level of prison administration and the quality of work in reforming offenders."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Section 1 Establishment and Support of Prisons"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The perimeter armed guard of a prison shall be the responsibility of the people's armed police force, and the specific scope of tasks shall be carried out in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Section 2 Security and Guard of Prisons"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Prisons shall, according to the needs of custody, establish guard facilities. A guard isolation zone shall be established around a prison, and no person may enter it without permission."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Section 2 Security and Guard of Prisons"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "State organs, social organisations, enterprises, public institutions and grassroots organisations around a prison shall assist the prison in its security guard work.\nWithout approval, no photography, video recording, sound recording, surveying or other activities may be carried out in respect of prison guard facilities, premises for reforming offenders and the like; and no flight activities of unmanned aerial vehicles or the like may be carried out in violation of provisions in the controlled airspace above a prison and a certain surrounding area."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Section 2 Security and Guard of Prisons"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Prison security shall be incorporated into the security work system of the local people's government. Prisons, the people's armed police force, public security organs, and the units concerned for health, disease prevention and control and emergency management shall, in counter-terrorism and riot prevention, the escort of offenders, disease prevention and control, and disaster prevention, mitigation and relief, divide responsibilities and handle matters in coordination."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Section 2 Security and Guard of Prisons"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "A prison shall have one warden and one political commissar, and several deputy wardens, and shall, according to actual needs, establish the necessary working bodies and be staffed with other prison administrators.\nThe administrators of a prison shall be people's police. Prison people's police are an important component of the people's police.\nThe State shall reasonably determine the number of prison people's police according to the needs of administering prisons, executing criminal punishments and reforming offenders."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Section 3 Prison People's Police"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Prison people's police shall be loyal to the Party, serve the people, enforce the law impartially and observe strict discipline, and shall strictly comply with the Constitution and laws.\nThe activities of prison people's police in administering prisons, executing criminal punishments and reforming offenders in accordance with law shall be protected by law."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Section 3 Prison People's Police"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The State shall advance the building of a high-quality contingent of prison people's police. Prison people's police shall be trained in a planned manner. The departments concerned shall strengthen the administration, supervision, training and occupational safeguards of prison people's police."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Section 3 Prison People's Police"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Prison people's police shall perform the following duties in accordance with law:\n(1) taking offenders into custody and releasing them;\n(2) maintaining order and security of custody;\n(3) keeping offenders under custody and providing education and reform, and administering the daily life and hygiene of offenders;\n(4) assessing, rewarding and punishing offenders in respect of their performance in reform;\n(5) putting forward proposals for handling temporary execution of sentence outside prison, commutation and parole;\n(6) handling appeals, complaints and reports of offenders;\n(7) preventing, stopping and investigating criminal activities of offenders within the prison;\n(8) escorting offenders;\n(9) other duties provided by law."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Section 3 Prison People's Police"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Prison people's police shall not commit any of the following acts:\n(1) releasing an offender privately or causing an offender to escape through dereliction of duty;\n(2) extorting confessions by torture, or subjecting an offender to corporal punishment or maltreatment;\n(3) beating an offender, or instigating or conniving at others to beat an offender;\n(4) insulting the personal dignity of an offender;\n(5) using an offender to seek private gain;\n(6) demanding, accepting or misappropriating property of an offender or of the relatives or friends of an offender;\n(7) conveying letters, information or articles to or for an offender in violation of provisions;\n(8) handling the assessment, reward or punishment of an offender in violation of provisions;\n(9) handling the change of the place of execution of an offender's criminal punishment in violation of provisions;\n(10) putting forward proposals for handling temporary execution of sentence outside prison, commutation or parole in violation of provisions;\n(11) using police instruments and weapons in violation of provisions;\n(12) transferring to another person the authority to keep an offender under custody in violation of provisions;\n(13) divulging State secrets, commercial secrets, personal privacy and personal information learned in work;\n(14) other acts in violation of provisions."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Section 3 Prison People's Police"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The judicial administration departments shall establish a police supervision system to supervise the compliance of prison people's police with laws and regulations and with discipline.\nWhere prison people's police cause damage to the lawful rights and interests of a citizen or organisation in the course of performing their duties, the prison shall give compensation or reimbursement in accordance with the provisions of the Law of the People's Republic of China on State Compensation and other relevant laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Section 3 Prison People's Police"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Prisons and the organs at higher levels shall uphold the performance of duties by prison people's police in accordance with law.\nThe occupational dignity and personal safety of prison people's police shall be protected by law. No unit or individual may retaliate against prison people's police or their close relatives. Acts of retaliation and framing, insult and slander, violent infringement, threat and intimidation, and creating disturbances and harassment committed against prison people's police or their close relatives shall be punished in accordance with law.\nWhere prison people's police suffer damage to their reputation as a result of false reports, false accusations or insults and slander arising from the lawful performance of their duties, the prison and the organ at a higher level shall, together with the departments concerned, promptly clarify the facts, eliminate the adverse effects and pursue in accordance with law the liability of the units and individuals concerned."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Section 3 Prison People's Police"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Prisons shall safeguard the rights enjoyed by offenders in accordance with law during the term of sentence from infringement.\nThe personal dignity of an offender shall not be infringed upon, and the offender's personal safety, lawful property and the rights to defence, appeal, complaint and report, as well as other rights not deprived or restricted in accordance with law, shall not be infringed upon."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Section 4 Rights and Obligations of Offenders Serving Sentences in Prisons"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Prisons shall safeguard the life and health of offenders in accordance with law and shall, where an offender is found to be ill, provide treatment in accordance with provisions."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Section 4 Rights and Obligations of Offenders Serving Sentences in Prisons"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Offenders must strictly comply with laws, regulations and prison rules and discipline, submit to administration and accept education.\nAn offender with the capacity to work shall participate in labour."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Section 4 Rights and Obligations of Offenders Serving Sentences in Prisons"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "After an offender is taken into custody, the prison shall inform the offender of the rights he enjoys in accordance with law and the obligations he must perform."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Section 4 Rights and Obligations of Offenders Serving Sentences in Prisons"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where an offender applies for legal aid in accordance with law, the prison shall, in accordance with provisions, promptly forward the application to a legal aid institution."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Section 4 Rights and Obligations of Offenders Serving Sentences in Prisons"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Prisons shall execute criminal punishments against offenders on the basis of effective judgments, rulings and decisions of people's courts.\nA people's court shall, within ten days after a judgment or ruling takes effect, serve on the public security organ a copy of the indictment of the people's procuratorate or a copy of the bill of complaint in a case of private prosecution, the written judgment, the written ruling, the notice of execution and the case closing registration form; where the effective judgment or ruling contains a property-related disposition, materials on the actual execution of the property-related disposition shall be served together. The public security organ shall, within one month from the date of receipt of the above materials, deliver the offender to a prison for execution of the criminal punishment. In respect of an offender who was not in custody when delivered for execution, the public security organ shall, in accordance with law, first take the offender into custody or pursue and apprehend the offender.\nWhere an offender has less than three months of sentence remaining before being delivered for execution of the criminal punishment, the detention house shall execute the sentence on its behalf."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Section 1 Admission to Prison"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "When an offender is delivered for execution of a criminal punishment, the public security organ shall serve the following legal documents on the prison at the same time:\n(1) a copy of the indictment of the people's procuratorate or a copy of the bill of complaint in a case of private prosecution;\n(2) the written judgment, written ruling, notice of execution and case closing registration form of the people's court.\nWhere the probation of an offender is revoked, parole is revoked or a decision is made to take the offender back into custody for execution, the public security organ shall also serve on the prison the written ruling of the people's court revoking probation, the written ruling revoking parole and the decision to take the offender back into custody for execution.\nWhere a prison has not received the above documents, it shall not take the offender into custody; where the above documents are incomplete or contain errors in the record, the people's court that made the effective judgment or ruling shall promptly complete or correct them; where the offender delivered does not conform to the legal documents or the record of the criminal punishment is erroneous and this may lead to erroneous custody, the offender shall not be taken into custody. Where a prison does not take an offender into custody, it shall issue a written explanation and send a copy to the people's procuratorate; where the people's procuratorate considers the reasons untenable and issues a written opinion to the prison, the prison shall take the offender into custody.\nWhere an offender is delivered for execution of a criminal punishment and the provisions of paragraphs 1 and 2 are complied with, or where the people's court that made the effective judgment or ruling promptly completes the relevant documents or makes corrections, the offender shall be taken into custody."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Section 1 Admission to Prison"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "When taking an offender into custody, a prison shall strictly inspect the person of the offender and the articles carried by the offender. Prohibited articles shall be confiscated in accordance with law; other articles shall, with the consent of the offender, be handed over to the offender's close relatives or guardian, and where the offender does not consent to the handover or the handover is impossible, the prison shall keep them on the offender's behalf.\nFemale offenders shall be inspected by female people's police."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Section 1 Admission to Prison"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "After an offender is taken into custody, the prison shall give the offender a physical examination and, where disability or serious illness is found, shall inquire into the circumstances and make a record. Where examination shows circumstances warranting temporary execution of sentence outside prison, the prison may put forward a written proposal and report it to the prison administration organ of the province, autonomous region or municipality directly under the Central Government for approval."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Section 1 Admission to Prison"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Prisons shall establish files for offenders and do well in the collection, archiving and safe custody of the relevant materials.\nWhere an offender was held in a detention house before being taken into custody, the public security organ shall, when delivering the offender, deliver to the prison the relevant materials such as the record of the offender's performance and health file in the detention house; for an offender who was not held in custody before delivery, the relevant materials such as the health examination record shall be delivered to the prison."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Section 1 Admission to Prison"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Where an offender should, in accordance with law, be delivered to a prison for execution of a criminal punishment by a State security organ, the State security organ shall deliver the offender to the prison in accordance with the provisions of Articles 31, 32 and 35 of this Law concerning public security organs."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Section 1 Admission to Prison"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "After an offender is taken into custody, the prison shall notify the family members or guardian of the offender. Where the offender has no family members or guardian, or where the family members or guardian cannot be notified, the prison shall notify the residents' committee or villagers' committee at the place of the offender's household registration or residence. The notice shall be sent within five working days from the date of taking the offender into custody."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Section 1 Admission to Prison"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "An offender shall not bring children to serve the sentence in prison."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Section 1 Admission to Prison"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where an offender refuses to accept an effective judgment or ruling and files an appeal, the people's procuratorate or people's court shall, after receiving the appeal materials, handle the matter within the prescribed time limit and inform the prison and the offender in writing of the result of the handling in accordance with provisions."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Section 2 Handling of Offenders' Appeals, Complaints and Reports"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where a complaint or report filed by an offender is handled by the prison, it shall be concluded within three months; where it is forwarded to a supervisory organ, people's procuratorate or public security organ for handling, the supervisory organ, people's procuratorate or public security organ shall, after receiving the materials forwarded by the prison, handle the matter within the prescribed time limit and inform the prison in writing of the result of the handling in accordance with provisions.\nWhere an offender files a complaint or report in his real name, the handling organ shall also inform the offender in writing of the result of the handling in accordance with provisions."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Section 2 Handling of Offenders' Appeals, Complaints and Reports"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where, after receiving appeal, complaint or report materials from an offender, a prison needs to forward them to another organ for handling, it shall forward them within five working days and shall not withhold them.\nAfter forwarding appeal, complaint or report materials, the prison shall inform the offender within five working days. Where an extension is needed under special circumstances, the extension shall not exceed five working days."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Section 2 Handling of Offenders' Appeals, Complaints and Reports"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where, in the course of executing a criminal punishment, a prison considers that a judgment, ruling or decision may be erroneous, it shall request the people's procuratorate or the people's court that made the effective judgment or ruling to handle the matter, and the people's procuratorate or the people's court that made the effective judgment or ruling shall, within three months from the date of receipt of the prison's written request for handling, notify the prison of the result of the handling. Where the case is complicated or the circumstances are special and an extension is needed, the extension shall not exceed three months."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Section 2 Handling of Offenders' Appeals, Complaints and Reports"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Prisons, people's courts and people's procuratorates shall not use the lawful filing of an appeal, complaint or report by an offender as a basis for determining that the offender does not submit to discipline or shows no sign of repentance."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Section 2 Handling of Offenders' Appeals, Complaints and Reports"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "In respect of an offender sentenced to life imprisonment or fixed-term imprisonment who is serving the sentence in prison and meets the conditions for temporary execution of sentence outside prison provided by the Criminal Procedure Law of the People's Republic of China, temporary execution of sentence outside prison may be applied.\nAn offender, or a relative or guardian of the offender, may submit a written application to the prison for temporary execution of sentence outside prison. Where, on the basis of the written application or the actual circumstances, the prison considers that the offender needs temporary execution of sentence outside prison, it shall arrange for a diagnosis of illness, a pregnancy examination or an assessment of inability to take care of himself."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Section 3 Temporary Execution of Sentence Outside Prison"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "For temporary execution of sentence outside prison, the prison shall put forward a written proposal, report it to the prison administration organ of the province, autonomous region or municipality directly under the Central Government for approval, and send a copy to the people's procuratorate. The people's procuratorate may put forward a written opinion to the prison administration organ.\nA proposal for temporary execution of sentence outside prison shall be reviewed by the review committee for temporary execution of sentence outside prison of the prison. Where, after review, it is agreed to submit a request for temporary execution of sentence outside prison for the offender, the matter shall be made public within the prison. The publicity period shall be three working days. During the publicity period, where an offender raises an objection to the content made public, the review committee for temporary execution of sentence outside prison of the prison shall conduct a re-examination. Where no objection is raised to the publicity or the objection is found untenable upon re-examination, the proposal for temporary execution of sentence outside prison shall be put forward after collective discussion and decision by the responsible persons of the prison. Where the illness is serious and temporary execution of sentence outside prison is immediately necessary, publicity may be dispensed with, but an announcement shall be made within the prison within three working days after the temporary execution of sentence outside prison.\nA proposal for temporary execution of sentence outside prison shall be examined by the review committee for temporary execution of sentence outside prison of the prison administration organ of the province, autonomous region or municipality directly under the Central Government and, where the matter is difficult, complicated or major, shall be decided through collective discussion by the responsible persons of the prison administration organ."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Section 3 Temporary Execution of Sentence Outside Prison"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where the prison administration organ of a province, autonomous region or municipality directly under the Central Government approves temporary execution of sentence outside prison, it shall serve the written decision on temporary execution of sentence outside prison on the prison and the community correction institution at the place of execution, and send a copy to the people's procuratorate at the same level, the people's court that made the effective judgment or ruling and the public security organ at the place of community correction execution.\nWhere a people's procuratorate considers that the application of temporary execution of sentence outside prison to an offender is inappropriate, it shall, within one month from the date of receipt of the written decision on temporary execution of sentence outside prison, submit its written opinion to the prison administration organ that approved the temporary execution of sentence outside prison, and that organ shall, upon receipt of the written opinion of the people's procuratorate, immediately re-examine the decision and make a handling decision within one month."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Section 3 Temporary Execution of Sentence Outside Prison"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "An offender under temporary execution of sentence outside prison shall be subject to community correction in accordance with law, and the community correction institution shall be responsible for execution. The prison that originally held the offender shall, within ten days from the date of receipt of the written decision on temporary execution of sentence outside prison, transfer the offender to the community correction institution, notify it of the offender's reform situation and promptly notify the people's procuratorate of the transfer."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Section 3 Temporary Execution of Sentence Outside Prison"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where an offender under temporary execution of sentence outside prison falls under the circumstances provided by the Criminal Procedure Law of the People's Republic of China under which the offender should be taken back into custody, the community correction institution shall put forward a proposal for execution by taking the offender back into custody to the prison administration organ at the place of execution or the organ that originally approved the temporary execution of sentence outside prison, and the prison administration organ shall make a decision in accordance with law; where the term of sentence expires, the prison that originally held the offender or that received the offender's file shall complete the formalities for release upon completion of sentence in accordance with law.\nWhere an offender dies during temporary execution of sentence outside prison, the community correction institution shall promptly notify the prison administration organ that originally approved the temporary execution of sentence outside prison.\nThe written proposal for execution by taking the offender back into custody, the written decision on execution by taking the offender back into custody, the certificate of release upon completion of sentence and the certification materials of death shall be copied to the people's procuratorate at the same time."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Section 3 Temporary Execution of Sentence Outside Prison"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where an offender sentenced to life imprisonment or fixed-term imprisonment genuinely shows repentance or performs meritorious service during the term of sentence and meets the conditions for commutation provided by law, the sentence may be commuted on the basis of the results of the prison's assessment; where any of the following major meritorious services is performed, the sentence shall be commuted:\n(1) preventing another person from committing a major criminal act;\n(2) reporting a major criminal act inside or outside the prison that is verified to be true;\n(3) making inventions or creations or achieving major technological innovations;\n(4) sacrificing oneself to save another person in daily production or life;\n(5) making outstanding performance in resisting natural disasters or eliminating major accidents;\n(6) making other major contributions to the State and society."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Section 4 Commutation and Parole"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "A proposal by a prison for commutation or parole shall be reviewed by the review committee for commutation and parole of the prison. Where, after review, it is agreed to submit a request for commutation or parole for the offender, the matter shall be made public within the prison. The publicity period shall be five working days. During the publicity period, where an offender raises an objection to the content made public, the review committee for commutation and parole of the prison shall conduct a re-examination. Where no objection is raised to the publicity or the objection is found untenable upon re-examination, the proposal for commutation or parole shall be put forward after collective discussion and decision by the responsible persons of the prison.\nWhere, in accordance with the provisions of Articles 51, 52 and 53 of this Law, a matter needs to be reported to the prison administration organ of the province, autonomous region or municipality directly under the Central Government for examination and consent, it shall be examined by the review committee for commutation and parole of the prison administration organ and, where the matter is difficult, complicated or major, shall be decided through collective discussion by the responsible persons of the prison administration organ."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Section 4 Commutation and Parole"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "A proposal for commutation of a fixed-term imprisonment shall be submitted by the prison to the intermediate people's court at the place where the prison is located for a ruling; where life imprisonment is commuted to fixed-term imprisonment, the prison shall put forward a proposal for commutation and, after reporting it to the prison administration organ of the province, autonomous region or municipality directly under the Central Government for examination and consent, submit it to the higher people's court for a ruling. A copy of the written proposal for commutation shall be sent to the people's procuratorate. The people's procuratorate may put forward a written opinion to the people's court.\nThe people's court shall make a ruling within one month from the date of receipt of the written proposal for commutation; where the case is complicated or the circumstances are special, the period may be extended by one month. A copy of the written ruling shall be sent to the people's procuratorate at the same level."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Section 4 Commutation and Parole"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where an offender sentenced to death with a two-year suspension of execution meets the conditions provided by law for commutation to life imprisonment or fixed-term imprisonment during the period of suspension of execution of the death sentence, the prison where the offender is held shall, upon expiry of the period of suspension of execution of the death sentence, promptly put forward a proposal for commutation and, after reporting it to the prison administration organ of the province, autonomous region or municipality directly under the Central Government for examination and consent, submit it to the higher people's court for a ruling."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Section 4 Commutation and Parole"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where an offender sentenced to fixed-term imprisonment or whose sentence has been commuted to fixed-term imprisonment meets the conditions for parole provided by law, the prison shall submit the matter to the intermediate people's court at the place where the prison is located for a ruling; where an offender sentenced to life imprisonment or whose sentence has been commuted to life imprisonment meets the conditions for parole provided by law, the prison shall put forward a proposal for parole and, after reporting it to the prison administration organ of the province, autonomous region or municipality directly under the Central Government for examination and consent, submit it to the higher people's court for a ruling. A copy of the written proposal for parole shall be sent to the people's procuratorate. The people's procuratorate may put forward a written opinion to the people's court.\nThe people's court shall make a ruling within one month from the date of receipt of the written proposal for parole; where the case is complicated or the circumstances are special, the period may be extended by one month. A copy of the written ruling shall be sent to the people's procuratorate at the same level."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Section 4 Commutation and Parole"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where a people's court rules to grant parole, the prison shall grant parole on schedule and issue a certificate of parole.\nAn offender granted parole shall be subject to community correction in accordance with law, and the community correction institution shall be responsible for execution. Where an offender granted parole, during the probation period of parole, commits an act in violation of laws, administrative regulations or the provisions on supervision and administration of parole of the relevant department of the State Council, which does not yet constitute a new crime, the community correction institution shall put forward a proposal to the people's court to revoke parole, and the people's court shall make a ruling within one month from the date of receipt of the written proposal to revoke parole. Where the people's court rules to revoke parole, the public security organ shall deliver the offender to the prison for custody."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Section 4 Commutation and Parole"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "When a people's court tries a case of commutation or parole, it shall make a ruling on whether to grant commutation or parole. Where it adjusts the extent of commutation requested by the prison or does not grant commutation or parole, it shall state the reasons in the written ruling."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Section 4 Commutation and Parole"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "An offender who does not meet the conditions for commutation or parole provided by law shall not be granted commutation or parole.\nWhere, before a people's court makes a ruling on commutation or parole, the prison finds that the proposal for commutation or parole is erroneous, it shall submit a written application for withdrawal and, upon permission by the people's court, withdraw the proposal for commutation or parole and promptly notify the people's procuratorate.\nWhere a people's court finds that an effective ruling on commutation or parole is genuinely erroneous, it shall retry the case and make a ruling.\nWhere a people's procuratorate considers that a ruling of a people's court on commutation or parole is inappropriate, it shall, within the period provided by the Criminal Procedure Law of the People's Republic of China, put forward a written opinion on correction to the people's court. In respect of a case in which a people's procuratorate has put forward a written opinion on correction, the people's court shall retry the case and make a ruling.\nWhere, in the course of executing a criminal punishment, a prison considers that an effective ruling on commutation or parole is erroneous, it shall refer the matter to the people's procuratorate or people's court for handling."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Section 4 Commutation and Parole"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Prisons, people's courts and people's procuratorates shall handle cases of commutation and parole of offenders in a timely, impartial manner in accordance with law, and give full play to the role of commutation and parole in the execution of criminal punishments."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Section 4 Commutation and Parole"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Before the term of sentence of an offender expires or before the offender is granted parole, the prison shall provide the offender with pre-release education for a certain period of time, so as to consolidate the results of education and reform, improve the offender's ability to adapt to social life as soon as possible after release and promote the offender's smooth return to society."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Section 5 Release, Placement and Assistance"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "After the term of sentence of an offender expires or the offender is pardoned, the prison shall release the offender on schedule, issue a certificate of release and complete the handover of the person with the county-level placement and assistance institution at the place of the offender's household registration or residence.\nWhere an offender is sentenced to deprivation of political rights, the prison shall, before the offender is released, notify the public security organ at the place of the offender's household registration or residence, and the public security organ shall execute the sentence.\nAfter an offender is released, the public security organ shall complete the household registration on the strength of the certificate of release."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Section 5 Release, Placement and Assistance"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "In respect of persons released upon completion of sentence, the people's government at the place of household registration or residence shall organise education and guidance, encourage and support them in starting businesses on their own and seeking employment on their own, guide them to participate in social insurance, and promote their reintegration into society.\nWhere a person released upon completion of sentence has difficulty in living and meets the prescribed conditions, the people's government at the place of household registration or residence shall assist in arranging the person's livelihood and provide relief and assistance in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Section 5 Release, Placement and Assistance"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "The State shall encourage, guide and support social forces in participating in the placement and assistance work for persons released upon completion of sentence."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Section 5 Release, Placement and Assistance"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Persons released upon completion of sentence shall, in accordance with law, enjoy rights equal to those of other citizens and shall not be subjected to discrimination in employment, education, access to social security or other respects."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Section 5 Release, Placement and Assistance"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Prisons shall keep male and female offenders, and adult and juvenile offenders, separate in custody and administration.\nPrisons shall, according to the type of crime, type of punishment, age, term of sentence, degree of personal dangerousness, performance in reform, state of health and reform needs of offenders, keep offenders separately in custody, administer them by category and treat them at different grades, and shall promptly make adjustments according to changes in the performance in reform and other circumstances of offenders.\nThe prison administration organ of a province, autonomous region or municipality directly under the Central Government shall, according to reform needs, determine or adjust the prison in which an offender is held."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Section 1 Separate Confinement and Separate Management"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "In the administration of juvenile offenders, female offenders, elderly offenders, sick offenders and disabled offenders, their physiological and psychological characteristics shall be accommodated.\nFemale offenders shall be directly administered by female people's police."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Section 1 Separate Confinement and Separate Management"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Prison people's police may use restraining police instruments under any of the following circumstances:\n(1) when carrying out escort tasks such as medical treatment outside prison, permitted leave from prison or transfer to another prison;\n(2) where there are signs that an offender may commit acts such as riot and prison breach, creating disturbances in the prison, assault, escape, self-injury, self-mutilation or suicide, or where it is necessary to prevent the offender from continuing to commit such acts;\n(3) where an offender seriously violates administration provisions and disturbs the order of custody, and preventive measures need to be taken.\nWhere an offender commits acts disturbing normal order of custody, such as using violence, creating disturbances in the prison, damaging custody and reform equipment and facilities, leaving the prescribed area without authorisation, or resisting or obstructing prison people's police in performing their duties in accordance with law, and a warning proves ineffective, repelling and subduing police instruments may be used in accordance with provisions."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Section 2 Use of Police Instruments and Weapons"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Where prison people's police and persons on duty of the people's armed police force encounter an emergency in which an offender riots, escapes, resists arrest, commits assault, seizes weapons or commits other violent acts, and a warning proves ineffective and the act cannot be stopped without the use of weapons, weapons may be used in accordance with the relevant provisions of the State.\nPersons using weapons shall promptly report the circumstances in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Section 2 Use of Police Instruments and Weapons"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "The use of police instruments and weapons by prison people's police shall be limited to stopping offenders from committing the acts in Articles 65 and 66 of this Law; where the circumstances listed in Articles 65 and 66 of this Law disappear, or where it is found that the offender is no longer suitable to be continuously restrained or controlled, the use shall be stopped immediately. Where an offender suffers physical injury, prompt medical treatment shall be given.\nPrison people's police using police instruments or weapons shall make sound and video recordings in accordance with provisions."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Section 2 Use of Police Instruments and Weapons"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "Prisons shall safeguard the right of correspondence of offenders in accordance with law.\nAn offender may correspond with others during the term of sentence, but incoming and outgoing letters shall undergo security inspection. Letters suspected of endangering national security or involving criminal activities shall be withheld and handled in accordance with law.\nLetters written by an offender to the organ at a higher level above the prison and to State organs for supervision, judicial affairs and the like shall not be inspected."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Section 3 Correspondence and Meetings"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "During the term of sentence in prison, an offender may, in accordance with provisions, have telephone calls with and meet his family members and guardian; where telephone calls with or meetings with other persons are conducive to the reform of the offender, such calls and meetings may also be held with the approval of the prison.\nPrisons shall reasonably arrange the number and duration of telephone calls and meetings of offenders according to their reform needs and treatment grades. Prisons may also, in accordance with provisions, arrange additional video meetings for offenders."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Section 3 Correspondence and Meetings"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "During the term of sentence in prison, an offender may meet lawyers entrusted by the offender himself, by his legal representative or close relatives, or designated by a legal aid institution. Meetings between an offender and defence lawyers shall not be monitored.\nWhere a lawyer in another case needs to investigate and collect evidence from an offender, the lawyer may meet the offender."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Section 3 Correspondence and Meetings"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "Where an act in violation of provisions occurs in the course of a telephone call or meeting, the prison people's police shall immediately stop it and give a warning; where the person refuses to stop when dissuaded or the circumstances are serious, the prison people's police shall terminate the call or meeting."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Section 3 Correspondence and Meetings"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "Prisons shall establish medical institutions and living and hygiene facilities and establish systems for the living and hygiene of offenders."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Section 4 Living Conditions and Health"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "The living standard of offenders shall be calculated on the basis of physical quantities and shall be prescribed by the State."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Section 4 Living Conditions and Health"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "Clothing, bedding and the necessary articles for daily use of offenders shall be uniformly supplied by the prison."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Section 4 Living Conditions and Health"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "Articles and money received by an offender shall be subject to the approval and inspection of the prison."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Section 4 Living Conditions and Health"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "Special living habits of offenders related to particular customs shall be accommodated according to the actual circumstances."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Section 4 Living Conditions and Health"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "The cells in which offenders live shall meet the requirements of being solid, ventilated, light-transmitting, clean, warm and heat-proof."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Section 4 Living Conditions and Health"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "Where weather conditions permit, prisons shall ensure that offenders have an appropriate period of outdoor activity each day."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Section 4 Living Conditions and Health"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "The State shall safeguard the basic medical care of offenders. The catalogue of medicines, the catalogue of medical service items and the catalogue of medical consumables for the basic medical care of offenders shall be implemented by reference to the relevant provisions on local basic medical insurance.\nDisease prevention and control in prisons and the medical and health work for offenders shall be incorporated into the plans of the areas where the prisons are located."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Section 4 Living Conditions and Health"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "Where, during the term of sentence in prison, an offender has a matter concerning the continuation of social insurance participation before entering prison or after release upon completion of sentence, it shall be handled in accordance with the relevant provisions of the State, and the prison and the departments concerned shall provide assistance. The specific measures shall be formulated by the judicial administration department of the State Council in conjunction with the departments of human resources and social security, medical security and others."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Section 4 Living Conditions and Health"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "Where an offender dies during the term of sentence in prison, the prison shall immediately notify the close relatives or guardian of the offender and shall immediately notify the people's procuratorate.\nUpon receiving the notification, the people's procuratorate shall immediately be present and supervise the prison's investigation of the cause of death. Where the people's procuratorate has no doubt about the prison's investigation result, it shall notify the prison; where it has doubt about the investigation result, it may entrust a judicial appraisal institution with an appraisal of the cause of death. Where the close relatives or guardian of the offender have doubt about the prison's investigation result, they may raise it with the people's procuratorate, and the people's procuratorate shall handle the matter in accordance with law.\nWhere an offender dies an abnormal death, the people's procuratorate shall immediately conduct an examination and entrust a judicial appraisal institution with an appraisal of the cause of death.\nAfter the cause of death of an offender is determined, the prison shall dispose of the corpse and personal effects of the offender in accordance with the relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Section 4 Living Conditions and Health"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "Prisons shall, in accordance with the relevant provisions, establish a system of routine assessment of offenders, and the assessment results shall serve as the basis for rewarding and punishing offenders.\nWhere an offender objects to the assessment result, the offender may raise the objection with the prison, and the prison shall handle it promptly.\nThe assessment of offenders by prisons shall be subject to the supervision of the people's procuratorate in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Section 5 Rewards and Punishments"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "Where an offender falls under any of the following circumstances, the prison may give commendation, material reward or record of meritorious service:\n(1) complying with prison rules and discipline, studying hard, working actively and showing repentance and acceptance of the law;\n(2) reporting, exposing or stopping unlawful or criminal activities inside or outside the prison, or providing clues for solving a case, which are verified to be true;\n(3) assisting a supervisory organ or judicial organ in apprehending a person under investigation or a criminal suspect;\n(4) overfulfilling labour tasks;\n(5) economising on raw materials or taking good care of public property with achievements;\n(6) carrying out technological innovation or imparting labour skills with certain results;\n(7) making a certain contribution to preventing or eliminating disasters or accidents;\n(8) making other contributions to the State and society."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Section 5 Rewards and Punishments"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "Where an offender commits any of the following acts of disrupting the order of custody, the prison may give a warning, record a demerit or impose solitary confinement:\n(1) gathering a crowd to create disturbances in the prison and disturbing normal order of custody;\n(2) threatening, insulting, assaulting or beating prison people's police or other persons;\n(3) bullying other offenders;\n(4) stealing, gambling, engaging in brawls or picking quarrels and creating disturbances;\n(5) having the capacity to work but refusing to participate in labour or passively slowing down work, and failing to correct after education;\n(6) intentionally violating operating procedures in labour, or intentionally damaging labour tools and other means of labour;\n(7) resisting reform by means of self-injury, self-mutilation, suicide or hunger strike;\n(8) intentionally damaging prison equipment and facilities;\n(9) conveying, using, privately hiding or making prohibited articles;\n(10) crossing the guard line or leaving the prescribed area without authorisation;\n(11) organising other offenders to disrupt the order of custody;\n(12) other acts disrupting the order of custody.\nThe term of solitary confinement imposed on an offender shall be not more than 15 days.\nWhere an act listed in this Article constitutes a crime, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Section 5 Rewards and Punishments"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "Where an offender sentenced to fixed-term imprisonment or whose sentence has been commuted to fixed-term imprisonment has served more than one half of the fixed-term imprisonment, has consistently performed well during the term of sentence and would not be a danger of reoffending if released from prison, the prison may permit the offender to leave prison to visit family, upon the offender's written undertaking and a guarantee by a relative.\nPrisons shall reasonably set the number and duration of leaves of absence to visit family according to circumstances. Where a prison permits an offender to leave prison to visit family, it shall promptly notify the public security organ at the place of the family visit of the relevant circumstances, and the offender shall promptly report to the public security organ at the place of the family visit and voluntarily accept its supervision."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        },
+        "chapter": {
+          "en": "Section 6 Leave from Prison to Visit Family and Leave by Special Permission"
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "Where the spouse, a direct relative or the guardian of an offender sentenced to fixed-term imprisonment or whose sentence has been commuted to fixed-term imprisonment is critically ill or has died, or where a major change occurs in the family and the offender genuinely needs to leave prison to handle the matter, the prison may, upon the offender's written application, specially permit the offender to leave prison to visit or handle the matter according to circumstances, escorted by prison people's police."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        },
+        "chapter": {
+          "en": "Section 6 Leave from Prison to Visit Family and Leave by Special Permission"
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "Where a supervisory organ, people's court, people's procuratorate, public security organ or State security organ needs to take an offender back for investigation, detection, prosecution or trial because of case handling, the approval of the prison administration organ of the province, autonomous region or municipality directly under the Central Government shall be obtained."
+        },
+        "noLabel": {
+          "en": "Article 87."
+        },
+        "chapter": {
+          "en": "Section 6 Leave from Prison to Visit Family and Leave by Special Permission"
+        }
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "Where an offender intentionally commits a crime during the term of sentence, a heavier punishment shall be given in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 88."
+        },
+        "chapter": {
+          "en": "Section 7 Handling of Offences Committed by Offenders During Sentence"
+        }
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "In respect of a case in which an offender is suspected of committing a crime within the prison, the prison shall open a case and conduct investigation. After the investigation is concluded, where the facts of the crime are clear and the evidence is reliable and sufficient, a written opinion on prosecution shall be issued and transferred to the people's procuratorate together with the case file and evidentiary materials."
+        },
+        "noLabel": {
+          "en": "Article 89."
+        },
+        "chapter": {
+          "en": "Section 7 Handling of Offences Committed by Offenders During Sentence"
+        }
+      },
+      {
+        "no": 90,
+        "text": {
+          "en": "Where a prison discovers that an offender in custody has escaped, it shall immediately apprehend the offender; where immediate apprehension is impossible, it shall immediately notify the public security organ, which shall be responsible for pursuit and apprehension, and the prison shall cooperate closely."
+        },
+        "noLabel": {
+          "en": "Article 90."
+        },
+        "chapter": {
+          "en": "Section 7 Handling of Offences Committed by Offenders During Sentence"
+        }
+      },
+      {
+        "no": 91,
+        "text": {
+          "en": "Where, in handling a case in which an offender is suspected of committing a crime within the prison, the prison needs relevant criminal technical support or needs to take investigative measures or criminal compulsory measures outside the prison, the public security organ and other units concerned shall provide assistance in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 91."
+        },
+        "chapter": {
+          "en": "Section 7 Handling of Offences Committed by Offenders During Sentence"
+        }
+      },
+      {
+        "no": 92,
+        "text": {
+          "en": "Prisons shall innovate the methods of education and reform and continuously advance the scientisation, professionalisation and socialisation of education and reform work.\nPrisons shall, through education and reform of offenders, help offenders rebuild a healthy personality, become self-reliant and self-strengthening, mend their ways and turn over a new leaf, and cultivate in offenders an awareness of law-abidingness and the ability to reintegrate into society."
+        },
+        "noLabel": {
+          "en": "Article 92."
+        },
+        "chapter": {
+          "en": "Chapter V Education and Reform of Offenders"
+        }
+      },
+      {
+        "no": 93,
+        "text": {
+          "en": "In educating and reforming offenders, the principles of teaching according to the individual, education by category and convincing people by reasoning shall be applied, and the methods of combining collective education with individual education and combining in-prison education with social education shall be adopted.\nPrisons shall, according to the type of crime, cause of crime, type of punishment, term of sentence and degree of personal dangerousness of offenders and in light of their age, state of health, psychological characteristics and performance of repentance, formulate targeted reform plans, regularly assess the results of reform and make corresponding adjustments according to the assessment and reform needs."
+        },
+        "noLabel": {
+          "en": "Article 93."
+        },
+        "chapter": {
+          "en": "Chapter V Education and Reform of Offenders"
+        }
+      },
+      {
+        "no": 94,
+        "text": {
+          "en": "Prisons shall provide offenders with education on norms of conduct and urge them to comply with routine administration systems and develop good habits of conduct."
+        },
+        "noLabel": {
+          "en": "Article 94."
+        },
+        "chapter": {
+          "en": "Chapter V Education and Reform of Offenders"
+        }
+      },
+      {
+        "no": 95,
+        "text": {
+          "en": "Prisons shall provide offenders with ideological education in the rule of law, morality, the current situation, policies and prospects, education in patriotism and collectivism and education in China's fine traditional culture, and guide offenders to establish the core socialist values, strengthen their awareness of the rule of law, discipline and morality, repent and accept the law, and consciously accept reform."
+        },
+        "noLabel": {
+          "en": "Article 95."
+        },
+        "chapter": {
+          "en": "Chapter V Education and Reform of Offenders"
+        }
+      },
+      {
+        "no": 96,
+        "text": {
+          "en": "Prisons shall provide offenders with mental health education and, as needed, provide psychological counselling, crisis intervention and psychological correction."
+        },
+        "noLabel": {
+          "en": "Article 96."
+        },
+        "chapter": {
+          "en": "Chapter V Education and Reform of Offenders"
+        }
+      },
+      {
+        "no": 97,
+        "text": {
+          "en": "Prisons shall, according to different circumstances, provide offenders with literacy education and compulsory education, and where the academic requirements are met, the school shall issue the corresponding academic certificate. Offenders shall be encouraged to participate in vocational education and continuing academic education, and where they pass the examination, the departments and units concerned shall issue the corresponding certificates.\nThe literacy education and compulsory education of offenders shall be incorporated into the education plans of the areas where the prisons are located."
+        },
+        "noLabel": {
+          "en": "Article 97."
+        },
+        "chapter": {
+          "en": "Chapter V Education and Reform of Offenders"
+        }
+      },
+      {
+        "no": 98,
+        "text": {
+          "en": "Prisons shall, according to economic and social development and the employment needs of offenders after release, organise offenders to participate in vocational skills training and, where they pass the assessment, the departments and units concerned shall issue the corresponding certificates.\nVocational skills training for offenders shall be incorporated into local plans."
+        },
+        "noLabel": {
+          "en": "Article 98."
+        },
+        "chapter": {
+          "en": "Chapter V Education and Reform of Offenders"
+        }
+      },
+      {
+        "no": 99,
+        "text": {
+          "en": "Prisons shall establish classrooms, libraries and reading rooms and other necessary educational facilities and activity venues, and be equipped with the necessary books, newspapers and periodicals and radio and television receiving equipment.\nPrisons shall be equipped with the necessary sports and cultural and recreational facilities and organise offenders to carry out appropriate sports activities and cultural and recreational activities."
+        },
+        "noLabel": {
+          "en": "Article 99."
+        },
+        "chapter": {
+          "en": "Chapter V Education and Reform of Offenders"
+        }
+      },
+      {
+        "no": 100,
+        "text": {
+          "en": "Prisons shall strengthen contact and cooperation with the relevant State organs, social organisations, the armed forces, enterprises, public institutions and people from all sectors of society, so as to create conditions and provide assistance for educating and reforming offenders and promoting the reintegration of persons released upon completion of sentence into society.\nThe relevant State organs, social organisations, the armed forces, enterprises, public institutions, people from all sectors of society and the relatives of offenders shall assist prisons in the work of educating and reforming offenders.\nThe State shall encourage and support social workers, volunteers and other social forces in participating in social assistance and education for offenders and shall provide policy support in accordance with law.\nPrisons may, according to the needs of educating and reforming offenders, organise persons with professional knowledge or practical experience in law, education, psychology, social work and the like to carry out work related to education and reform."
+        },
+        "noLabel": {
+          "en": "Article 100."
+        },
+        "chapter": {
+          "en": "Chapter V Education and Reform of Offenders"
+        }
+      },
+      {
+        "no": 101,
+        "text": {
+          "en": "Prisons shall, using their own facilities and conditions, cooperate with the relevant quarters in carrying out publicity on the rule of law and education on crime prevention, and provide support and convenience for institutions of higher education, research institutions and the like in carrying out theoretical research and personnel training on prisons and the execution of criminal punishments."
+        },
+        "noLabel": {
+          "en": "Article 101."
+        },
+        "chapter": {
+          "en": "Chapter V Education and Reform of Offenders"
+        }
+      },
+      {
+        "no": 102,
+        "text": {
+          "en": "Prisons shall, according to the individual circumstances of offenders such as their labour capacity and physical health and according to education and reform needs, reasonably determine labour items and tasks, so that offenders correct bad habits, develop the habit of labour, learn labour skills and have conditions created for employment after release."
+        },
+        "noLabel": {
+          "en": "Article 102."
+        },
+        "chapter": {
+          "en": "Chapter V Education and Reform of Offenders"
+        }
+      },
+      {
+        "no": 103,
+        "text": {
+          "en": "The working hours of offenders in prisons shall be implemented by reference to the relevant State provisions on working hours.\nOffenders shall have the right to rest on statutory holidays and rest days, and their rest time shall be safeguarded; where it is occupied under special circumstances, compensatory rest shall be arranged."
+        },
+        "noLabel": {
+          "en": "Article 103."
+        },
+        "chapter": {
+          "en": "Chapter V Education and Reform of Offenders"
+        }
+      },
+      {
+        "no": 104,
+        "text": {
+          "en": "Prisons shall, in accordance with the relevant provisions, give remuneration to offenders who participate in labour and shall implement the relevant State provisions on labour protection."
+        },
+        "noLabel": {
+          "en": "Article 104."
+        },
+        "chapter": {
+          "en": "Chapter V Education and Reform of Offenders"
+        }
+      },
+      {
+        "no": 105,
+        "text": {
+          "en": "Where an offender is injured, disabled or dies in labour, the prison shall handle the matter in accordance with the relevant provisions, and the specific provisions shall be formulated by the judicial administration department of the State Council in conjunction with the departments of finance and human resources and social security."
+        },
+        "noLabel": {
+          "en": "Article 105."
+        },
+        "chapter": {
+          "en": "Chapter V Education and Reform of Offenders"
+        }
+      },
+      {
+        "no": 106,
+        "text": {
+          "en": "Juvenile offenders shall serve their sentences in juvenile correctional institutions."
+        },
+        "noLabel": {
+          "en": "Article 106."
+        },
+        "chapter": {
+          "en": "Chapter VI Special Provisions on Juvenile Offenders"
+        }
+      },
+      {
+        "no": 107,
+        "text": {
+          "en": "Where a juvenile offender reaches the age of 18 and the remaining term of sentence does not exceed two years, the offender may still be kept in the juvenile correctional institution to serve the remaining term."
+        },
+        "noLabel": {
+          "en": "Article 107."
+        },
+        "chapter": {
+          "en": "Chapter VI Special Provisions on Juvenile Offenders"
+        }
+      },
+      {
+        "no": 108,
+        "text": {
+          "en": "Juvenile correctional institutions shall safeguard the lawful rights and interests of juvenile offenders in accordance with law, respect their personal dignity and create a reform environment conducive to their physical and mental health and positive progress."
+        },
+        "noLabel": {
+          "en": "Article 108."
+        },
+        "chapter": {
+          "en": "Chapter VI Special Provisions on Juvenile Offenders"
+        }
+      },
+      {
+        "no": 109,
+        "text": {
+          "en": "Juvenile correctional institutions shall be staffed with people's police who have professional backgrounds in law, education, psychology and other relevant fields, have received specialised training and are familiar with the physical and mental characteristics of minors."
+        },
+        "noLabel": {
+          "en": "Article 109."
+        },
+        "chapter": {
+          "en": "Chapter VI Special Provisions on Juvenile Offenders"
+        }
+      },
+      {
+        "no": 110,
+        "text": {
+          "en": "In executing criminal punishments against juvenile offenders, the policy of education, persuasion and redemption shall be implemented, with education and reform as the main approach. The labour of juvenile offenders shall conform to the characteristics of minors and shall be mainly for learning culture and labour skills."
+        },
+        "noLabel": {
+          "en": "Article 110."
+        },
+        "chapter": {
+          "en": "Chapter VI Special Provisions on Juvenile Offenders"
+        }
+      },
+      {
+        "no": 111,
+        "text": {
+          "en": "The conditions for correspondence, meetings, leave of absence to visit family and special leave from prison of juvenile offenders may be appropriately relaxed by reference to those for adult offenders."
+        },
+        "noLabel": {
+          "en": "Article 111."
+        },
+        "chapter": {
+          "en": "Chapter VI Special Provisions on Juvenile Offenders"
+        }
+      },
+      {
+        "no": 112,
+        "text": {
+          "en": "Juvenile correctional institutions shall establish psychological correction bodies, conduct psychological testing of juvenile offenders and, according to their psychological characteristics, regularly carry out psychological counselling, psychological consultation and other activities, so as to promote their sound physical and mental development."
+        },
+        "noLabel": {
+          "en": "Article 112."
+        },
+        "chapter": {
+          "en": "Chapter VI Special Provisions on Juvenile Offenders"
+        }
+      },
+      {
+        "no": 113,
+        "text": {
+          "en": "Juvenile correctional institutions shall cooperate with schools and other educational institutions in providing the necessary conditions for juvenile offenders to receive compulsory education and other education.\nWhen a juvenile offender is released upon completion of sentence, the juvenile correctional institution shall assist the education administrative department at the place of the offender's household registration or residence in completing the handover of education files, student status and the like."
+        },
+        "noLabel": {
+          "en": "Article 113."
+        },
+        "chapter": {
+          "en": "Chapter VI Special Provisions on Juvenile Offenders"
+        }
+      },
+      {
+        "no": 114,
+        "text": {
+          "en": "Juvenile correctional institutions shall strengthen contact with the guardians and family members of juvenile offenders and with other persons conducive to the education and reform of juvenile offenders, and guide them to cooperate in the work of educating and reforming juvenile offenders.\nJuvenile correctional institutions shall strengthen mutual contact with minors' protection organisations, educational institutions, the Communist Youth League, women's federations, trade unions and other units concerned, and jointly do well in the work of educating and reforming juvenile offenders."
+        },
+        "noLabel": {
+          "en": "Article 114."
+        },
+        "chapter": {
+          "en": "Chapter VI Special Provisions on Juvenile Offenders"
+        }
+      },
+      {
+        "no": 115,
+        "text": {
+          "en": "Prisons shall, in accordance with the relevant legal provisions, seal the criminal records and related case information of juvenile offenders that meet the sealing conditions, and shall not provide the criminal records and related case information of juvenile offenders to any unit or individual, except where a judicial organ needs them for case handling or a unit concerned makes an inquiry in accordance with State provisions."
+        },
+        "noLabel": {
+          "en": "Article 115."
+        },
+        "chapter": {
+          "en": "Chapter VI Special Provisions on Juvenile Offenders"
+        }
+      },
+      {
+        "no": 116,
+        "text": {
+          "en": "The relevant provisions of this Law shall apply to the administration and education and reform of juvenile offenders in respect of matters not provided in this Chapter."
+        },
+        "noLabel": {
+          "en": "Article 116."
+        },
+        "chapter": {
+          "en": "Chapter VI Special Provisions on Juvenile Offenders"
+        }
+      },
+      {
+        "no": 117,
+        "text": {
+          "en": "Where prison people's police commit any of the acts listed in Article 23 of this Law, sanctions shall be given in accordance with law; where a crime is constituted, criminal liability shall be pursued in accordance with law.\nWhere staff members of other State organs fail to perform the relevant duties or obligations in accordance with the provisions of this Law, legal liability shall be pursued in accordance with law.\nIn pursuing liability in accordance with the preceding two paragraphs, comprehensive consideration shall be given to factors such as the facts and nature of the act, the harmful consequences and the subjective fault of the person committing the act, and the matter shall be handled in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 117."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 118,
+        "text": {
+          "en": "Where a unit or individual commits any of the following acts and the act constitutes a violation of public security administration, the public security organ shall impose a public security administration punishment in accordance with law; where a crime is constituted, criminal liability shall be pursued in accordance with law:\n(1) disturbing the order of custody;\n(2) gathering a crowd to besiege or storm a prison;\n(3) obstructing prison people's police in performing their duties in accordance with law;\n(4) colluding with an offender to destroy or forge evidence, thereby affecting the lawful execution of criminal punishments by the prison;\n(5) stealing, seizing, plundering or misappropriating, or intentionally damaging, property, facilities, land and other resources of a prison;\n(6) violating the provisions of paragraph 2 of Article 17 of this Law;\n(7) other acts seriously affecting prison order."
+        },
+        "noLabel": {
+          "en": "Article 118."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 119,
+        "text": {
+          "en": "Prisons shall safeguard the lawful rights and interests of foreign offenders and ensure that they are treated fairly and impartially in activities for the execution of criminal punishments.\nMatters relating to visits to foreign offenders shall be handled in accordance with the relevant provisions of the State.\nThe transfer of offenders shall be handled in accordance with the provisions of the Law of the People's Republic of China on International Mutual Legal Assistance in Criminal Matters and other laws."
+        },
+        "noLabel": {
+          "en": "Article 119."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 120,
+        "text": {
+          "en": "The terms \"not less than\", \"not more than\" and \"within\" as used in this Law include the figure itself."
+        },
+        "noLabel": {
+          "en": "Article 120."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 121,
+        "text": {
+          "en": "This Law shall come into force on 1 November 2026."
+        },
+        "noLabel": {
+          "en": "Article 121."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
         }
       }
     ]
@@ -27324,6 +30183,1434 @@
         },
         "chapter": {
           "en": "Chapter IX Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0197'] = {
+    "lawId": "CN-LAW-0197",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 120 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "For the purposes of standardising legislative activities, improving the State legislative system, raising the quality of legislation, perfecting the socialist legal system with Chinese characteristics, giving play to the guiding and driving role of legislation, safeguarding and developing socialist democracy, comprehensively advancing the rule of law in all respects and building a socialist country under the rule of law, this Law is enacted in accordance with the Constitution."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The enactment, amendment and repeal of laws, administrative regulations, local regulations, autonomous regulations and separate regulations shall be governed by this Law.\nThe enactment, amendment and repeal of rules of departments of the State Council and rules of local governments shall be carried out in accordance with the relevant provisions of this Law."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Legislation shall adhere to the leadership of the Communist Party of China and be guided by Marxism-Leninism, Mao Zedong Thought, Deng Xiaoping Theory, the important thought of Three Represents, the Scientific Outlook on Development and Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era, advance the building of the system of socialist rule of law with Chinese characteristics and ensure the comprehensive building of a modern socialist country on the track of the rule of law."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Legislation shall adhere to taking economic construction as the central task, adhere to reform and opening up, implement the new development philosophy, and ensure the comprehensive advancement of the great rejuvenation of the Chinese nation through a Chinese path to modernisation."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Legislation shall conform to the provisions, principles and spirit of the Constitution, follow statutory authority and procedures, proceed from the overall interests of the State, and safeguard the unity, dignity and authority of the socialist legal system."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Legislation shall adhere to and develop whole-process people's democracy, respect and safeguard human rights, and safeguard and promote social fairness and justice.\nLegislation shall reflect the will of the people, carry forward socialist democracy, adhere to openness in legislation, and ensure that the people participate in legislative activities through multiple channels."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Legislation shall proceed from reality, meet the requirements of economic and social development and the comprehensive deepening of reform, and scientifically and reasonably prescribe the rights and obligations of citizens, legal persons and other organisations and the powers and responsibilities of State organs.\nLegal norms shall be clear, specific, well-targeted and enforceable."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Legislation shall advocate and carry forward the core socialist values, adhere to combining the rule of law with the rule of virtue, forge a strong sense of community for the Chinese nation, and promote the building of socialist spiritual civilisation."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Legislation shall meet the needs of reform and adhere to the unity of advancing reform under the rule of law and improving the rule of law through reform, guide, drive, standardise and safeguard the reforms concerned, and give play to the important role of the rule of law in the modernisation of the State governance system and governance capacity."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The National People's Congress and the Standing Committee of the National People's Congress shall exercise the State legislative power in accordance with the provisions of the Constitution.\nThe National People's Congress shall enact and amend basic laws on criminal matters, civil matters, State organs and other matters.\nThe Standing Committee of the National People's Congress shall enact and amend laws other than those that should be enacted by the National People's Congress; when the National People's Congress is not in session, it may make partial supplements and amendments to laws enacted by the National People's Congress, provided that they do not contravene the basic principles of the laws concerned.\nThe National People's Congress may authorise the Standing Committee of the National People's Congress to enact the relevant laws."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Section 1 Scope of Legislative Power"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Only laws may be made on the following matters:\n(1) matters concerning State sovereignty;\n(2) the creation, organisation and functions and powers of people's congresses at all levels, people's governments, supervisory commissions, people's courts and people's procuratorates;\n(3) the system of regional ethnic autonomy, the system of special administrative regions and the system of grassroots mass self-governance;\n(4) crimes and criminal punishments;\n(5) deprivation of citizens' political rights, and compulsory measures and punishments restricting personal freedom;\n(6) the basic tax system such as the establishment of tax categories, the determination of tax rates and the administration of tax collection;\n(7) expropriation and requisition of non-State-owned property;\n(8) the basic civil system;\n(9) the basic economic system and the basic systems of finance, customs, banking and foreign trade;\n(10) the litigation system and the basic arbitration system;\n(11) other matters on which laws must be enacted by the National People's Congress and its Standing Committee."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Section 1 Scope of Legislative Power"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Where no law has yet been enacted on a matter provided in Article 11 of this Law, the National People's Congress and its Standing Committee shall have the power to make a decision authorising the State Council to, according to actual needs, first enact administrative regulations on some of such matters, except matters concerning crimes and criminal punishments, deprivation of citizens' political rights and compulsory measures and punishments restricting personal freedom, and the judicial system."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Section 1 Scope of Legislative Power"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "An authorisation decision shall clearly specify the purpose, matters, scope and time limit of the authorisation and the principles that the authorised organ shall follow in implementing the authorisation decision.\nThe time limit of an authorisation shall not exceed five years, unless the authorisation decision provides otherwise.\nThe authorised organ shall, not less than six months before the expiry of the authorisation time limit, report to the authorising organ on the implementation of the authorisation decision and put forward its opinion on whether a relevant law needs to be enacted; where continued authorisation is needed, it may put forward the relevant opinion, which shall be decided by the National People's Congress and its Standing Committee."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Section 1 Scope of Legislative Power"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Where a matter of authorised legislation has been tested in practice and the conditions for enacting a law are ripe, the National People's Congress and its Standing Committee shall promptly enact a law. After the law is enacted, the authorisation for the corresponding legislative matter shall terminate."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Section 1 Scope of Legislative Power"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The authorised organ shall exercise the delegated power strictly in accordance with the authorisation decision.\nThe authorised organ shall not delegate the delegated power to any other organ."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Section 1 Scope of Legislative Power"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The National People's Congress and its Standing Committee may, according to the needs of reform and development, decide to authorise, in respect of specific matters and within a prescribed time limit and scope, the provisional adjustment or provisional suspension of the application of some provisions of a law.\nWhere the provisional adjustment or provisional suspension of the application of some provisions of a law on a matter has proved feasible in practice, the National People's Congress and its Standing Committee shall promptly amend the law concerned; where the conditions for amending the law are not yet ripe, the time limit of the authorisation may be extended, or the application of the provisions of the law concerned may be resumed."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Section 1 Scope of Legislative Power"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The Presidium of the National People's Congress may submit a bill to the National People's Congress, which shall be deliberated at a session of the National People's Congress.\nThe Standing Committee of the National People's Congress, the State Council, the Central Military Commission, the National Commission of Supervision, the Supreme People's Court, the Supreme People's Procuratorate and the special committees of the National People's Congress may submit bills to the National People's Congress, and the Presidium shall decide whether to place them on the agenda of the session."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Section 2 Legislative Procedure of the National People's Congress"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "A delegation or a joint group of 30 or more deputies may submit a bill to the National People's Congress; the Presidium shall decide whether to place it on the agenda of the session, or shall first refer it to the relevant special committee for deliberation and for an opinion on whether it should be placed on the agenda before deciding whether to place it on the agenda.\nWhen a special committee deliberates, it may invite the sponsor of the bill to attend the meeting as a non-voting participant and express opinions."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Section 2 Legislative Procedure of the National People's Congress"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Where a bill submitted to the National People's Congress is submitted to the Standing Committee first when the National People's Congress is not in session, and the Standing Committee decides, after deliberation in accordance with the relevant procedures provided in Section 3 of Chapter II of this Law, to submit it to the National People's Congress for deliberation, the Standing Committee shall give an explanation to the plenary session of the Congress, or the sponsor shall give an explanation to the plenary session of the Congress.\nWhen the Standing Committee deliberates on a bill in accordance with the preceding paragraph, it shall seek the opinions of deputies to the National People's Congress through various forms and give feedback on the relevant circumstances; special committees and the working bodies of the Standing Committee may invite the relevant deputies to the National People's Congress to participate in legislative research."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Section 2 Legislative Procedure of the National People's Congress"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where the Standing Committee decides to submit a bill to a session of the National People's Congress for deliberation, it shall distribute the draft law to the deputies one month before the session is held and may organise the deputies in a timely manner to study and discuss it and to seek their opinions."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Section 2 Legislative Procedure of the National People's Congress"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where a bill is placed on the agenda of a session of the National People's Congress, after the plenary session of the Congress has heard the explanation of the sponsor, the bill shall be deliberated by the various delegations.\nWhen delegations deliberate on a bill, the sponsor shall send personnel to listen to opinions and answer inquiries.\nWhen delegations deliberate on a bill, the relevant organs and organisations shall, at the request of the delegations, send personnel to brief them on the circumstances."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Section 2 Legislative Procedure of the National People's Congress"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Where a bill is placed on the agenda of a session of the National People's Congress, the relevant special committee shall deliberate on it, put forward its deliberation opinion to the Presidium and have it printed and distributed to the session."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Section 2 Legislative Procedure of the National People's Congress"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where a bill is placed on the agenda of a session of the National People's Congress, the Constitution and Law Committee shall, on the basis of the deliberation opinions of the various delegations and the relevant special committees, conduct a unified deliberation of the bill, put forward a report on the deliberation results and a revised draft of the law to the Presidium, and shall explain in the report on the deliberation results any issue of constitutionality involved and important differing opinions; after the report is deliberated and adopted at a meeting of the Presidium, it shall be printed and distributed to the session."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Section 2 Legislative Procedure of the National People's Congress"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Where a bill is placed on the agenda of a session of the National People's Congress, the chairpersons of the Presidium may, when necessary, convene a meeting of the heads of the various delegations to hear their deliberation opinions on major issues in the bill and to discuss them, and shall report the circumstances and opinions of the discussion to the Presidium.\nThe chairpersons of the Presidium may also, in respect of major specialised issues in a bill, convene the relevant deputies elected by the delegations for discussion and report the circumstances and opinions of the discussion to the Presidium."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Section 2 Legislative Procedure of the National People's Congress"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Where a bill placed on the agenda of a session of the National People's Congress is requested to be withdrawn by the sponsor before it is put to a vote, the sponsor shall state the reasons, and the deliberation of the bill shall terminate upon the consent of the Presidium and a report to the Congress."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Section 2 Legislative Procedure of the National People's Congress"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Where major issues in a bill under deliberation need further study, upon the proposal of the Presidium and the decision of the plenary session of the Congress, the Standing Committee may be authorised to deliberate further on the basis of the deputies' opinions and make a decision, and to report the decision to the next session of the National People's Congress; or the Standing Committee may be authorised to deliberate further on the basis of the deputies' opinions, put forward a revised scheme and submit it to the next session of the National People's Congress for deliberation and decision."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Section 2 Legislative Procedure of the National People's Congress"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "After the revised draft of a law has been deliberated by the various delegations, the Constitution and Law Committee shall revise it on the basis of the deliberation opinions of the delegations and put forward the draft law for voting, which the Presidium shall submit to the plenary session of the Congress for voting, and which shall be adopted by more than half of all the deputies."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Section 2 Legislative Procedure of the National People's Congress"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "A law adopted by the National People's Congress shall be promulgated by the President of the State by signing a presidential order."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Section 2 Legislative Procedure of the National People's Congress"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The Council of Chairpersons may submit a bill to the Standing Committee, which shall be deliberated at a meeting of the Standing Committee.\nThe State Council, the Central Military Commission, the National Commission of Supervision, the Supreme People's Court, the Supreme People's Procuratorate and the special committees of the National People's Congress may submit bills to the Standing Committee, and the Council of Chairpersons shall decide whether to place them on the agenda of a meeting of the Standing Committee, or shall first refer them to the relevant special committee for deliberation and a report before deciding whether to place them on the agenda. Where the Council of Chairpersons considers that a bill involves major issues requiring further study, it may suggest that the sponsor revise and improve the bill before submitting it again to the Standing Committee."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Section 3 Legislative Procedure of the Standing Committee of the National People's Congress"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "A joint group of ten or more members of the Standing Committee may submit a bill to the Standing Committee; the Council of Chairpersons shall decide whether to place it on the agenda of a meeting of the Standing Committee, or shall first refer it to the relevant special committee for deliberation and for an opinion on whether it should be placed on the agenda before deciding whether to place it on the agenda. Where a bill is not placed on the agenda of a meeting of the Standing Committee, a report shall be made to the meeting of the Standing Committee or an explanation given to the sponsor.\nWhen a special committee deliberates, it may invite the sponsor of the bill to attend the meeting as a non-voting participant and express opinions."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Section 3 Legislative Procedure of the Standing Committee of the National People's Congress"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where a bill is placed on the agenda of a meeting of the Standing Committee, the draft law shall, except under special circumstances, be distributed to the members of the Standing Committee seven days before the meeting is held.\nWhen a meeting of the Standing Committee deliberates on a bill, the relevant deputies to the National People's Congress shall be invited to attend the meeting as non-voting participants."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Section 3 Legislative Procedure of the Standing Committee of the National People's Congress"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "A bill placed on the agenda of a meeting of the Standing Committee shall generally be put to a vote only after it has been deliberated at three meetings of the Standing Committee.\nWhen a meeting of the Standing Committee deliberates on a bill for the first time, it shall hear the explanation of the sponsor at the plenary session and conduct preliminary deliberation at group meetings.\nWhen a meeting of the Standing Committee deliberates on a bill for the second time, it shall hear at the plenary session the report of the Constitution and Law Committee on the revisions to the draft law and the main issues, and conduct further deliberation at group meetings.\nWhen a meeting of the Standing Committee deliberates on a bill for the third time, it shall hear at the plenary session the report of the Constitution and Law Committee on the deliberation results of the draft law, and deliberate on the revised draft of the law at group meetings.\nWhen the Standing Committee deliberates on a bill, it may, as needed, convene a joint group meeting or a plenary session to discuss the main issues in the draft law."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Section 3 Legislative Procedure of the Standing Committee of the National People's Congress"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Where opinions on a bill placed on the agenda of a meeting of the Standing Committee are relatively unanimous, the bill may be put to a vote after deliberation at two meetings of the Standing Committee; where a bill involves relatively simple adjustments or partial amendments and opinions are relatively unanimous, or where there are urgent circumstances, the bill may also be put to a vote after deliberation at one meeting of the Standing Committee."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Section 3 Legislative Procedure of the Standing Committee of the National People's Congress"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "When a group meeting of the Standing Committee deliberates on a bill, the sponsor shall send personnel to listen to opinions and answer inquiries.\nWhen a group meeting of the Standing Committee deliberates on a bill, the relevant organs and organisations shall, at the request of the group, send personnel to brief them on the circumstances."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Section 3 Legislative Procedure of the Standing Committee of the National People's Congress"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Where a bill is placed on the agenda of a meeting of the Standing Committee, the relevant special committee shall deliberate on it, put forward its deliberation opinion and have it printed and distributed to the meeting of the Standing Committee.\nWhen the relevant special committee deliberates on a bill, it may invite members of other special committees to attend the meeting as non-voting participants and express opinions."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Section 3 Legislative Procedure of the Standing Committee of the National People's Congress"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Where a bill is placed on the agenda of a meeting of the Standing Committee, the Constitution and Law Committee shall, on the basis of the deliberation opinions of the members of the Standing Committee and the relevant special committees and the opinions put forward by various quarters, conduct a unified deliberation of the bill, put forward a report on the revisions or a report on the deliberation results and a revised draft of the law, and shall explain in the report on the revisions or the report on the deliberation results any issue of constitutionality involved and important differing opinions. Where the deliberation opinion of a relevant special committee is not adopted, feedback shall be given to that special committee.\nWhen the Constitution and Law Committee deliberates on a bill, it shall invite members of the relevant special committee to attend the meeting as non-voting participants and express opinions."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Section 3 Legislative Procedure of the Standing Committee of the National People's Congress"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "When a special committee deliberates on a bill, it shall hold a plenary meeting for deliberation and may, as needed, require the relevant organs and organisations to send the responsible persons concerned to brief them on the circumstances."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Section 3 Legislative Procedure of the Standing Committee of the National People's Congress"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where special committees disagree on important issues in a draft law, they shall report to the Council of Chairpersons."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Section 3 Legislative Procedure of the Standing Committee of the National People's Congress"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where a bill is placed on the agenda of a meeting of the Standing Committee, the Constitution and Law Committee, the relevant special committees and the working bodies of the Standing Committee shall listen to opinions from various quarters. Opinions may be heard in various forms such as symposiums, demonstration meetings and hearings.\nWhere the issues in a bill are highly specialised and require a feasibility assessment, a demonstration meeting shall be convened to hear the opinions of the relevant experts, departments and deputies to the National People's Congress and other quarters. The circumstances of the demonstration shall be reported to the Standing Committee.\nWhere there are major differences of opinion on the issues in a bill or where major adjustments to interest relationships are involved and a hearing is required, a hearing shall be convened to hear the opinions of the representatives of grassroots units and groups, departments, people's organisations, experts, deputies to the National People's Congress and the relevant quarters of society. The circumstances of the hearing shall be reported to the Standing Committee.\nThe working bodies of the Standing Committee shall send the draft law to the deputies to the National People's Congress in the relevant fields, the standing committees of local people's congresses and the relevant departments, organisations and experts to seek their opinions."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Section 3 Legislative Procedure of the Standing Committee of the National People's Congress"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "A bill placed on the agenda of a meeting of the Standing Committee shall, after the meeting of the Standing Committee, be made public together with the draft law and the explanations of its drafting and revision in order to seek opinions, unless the Council of Chairpersons decides not to make it public. The period for making it public to seek opinions shall generally be not less than 30 days. The circumstances of seeking opinions shall be reported to society."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Section 3 Legislative Procedure of the Standing Committee of the National People's Congress"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where a bill is placed on the agenda of a meeting of the Standing Committee, the working bodies of the Standing Committee shall collect and collate the opinions expressed in group deliberations, the opinions put forward by various quarters and other relevant materials, distribute them to the Constitution and Law Committee and the relevant special committees, and print and distribute them to the meeting of the Standing Committee as needed."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Section 3 Legislative Procedure of the Standing Committee of the National People's Congress"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "In respect of a bill to be submitted to a meeting of the Standing Committee for deliberation and adoption, before the Constitution and Law Committee puts forward its report on the deliberation results, the working bodies of the Standing Committee may assess the feasibility of the main institutional norms in the draft law, the timing of the introduction of the law, the social effects of its implementation and the problems that may arise. The Constitution and Law Committee shall explain the circumstances of the assessment in its report on the deliberation results."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Section 3 Legislative Procedure of the Standing Committee of the National People's Congress"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where a bill placed on the agenda of a meeting of the Standing Committee is requested to be withdrawn by the sponsor before it is put to a vote, the sponsor shall state the reasons, and the deliberation of the bill shall terminate upon the consent of the Council of Chairpersons and a report to the Standing Committee."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Section 3 Legislative Procedure of the Standing Committee of the National People's Congress"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "After the revised draft of a law has been deliberated at a meeting of the Standing Committee, the Constitution and Law Committee shall revise it on the basis of the deliberation opinions of the members of the Standing Committee and put forward the draft law for voting, which the Council of Chairpersons shall submit to the plenary session of the Standing Committee for voting, and which shall be adopted by more than half of all the members of the Standing Committee.\nBefore the draft law for voting is submitted to a meeting of the Standing Committee for voting, the Council of Chairpersons may, on the basis of the deliberations at the meeting of the Standing Committee, decide to submit individual important articles on which there are relatively large differences of opinion to the meeting of the Standing Committee for separate voting.\nAfter the articles put to separate voting have been voted on at the meeting of the Standing Committee, the Council of Chairpersons may, on the basis of the separate voting, decide to submit the draft law for voting, or may decide not to put it to a vote for the time being and refer it to the Constitution and Law Committee and the relevant special committee for further deliberation."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Section 3 Legislative Procedure of the Standing Committee of the National People's Congress"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where a bill placed on the agenda of a meeting of the Standing Committee for deliberation is shelved for two years because of relatively large differences of opinion among various quarters on major issues such as the necessity and feasibility of enacting the law, or where, because it is not put to a vote for the time being, it has not been placed on the agenda of a meeting of the Standing Committee for deliberation again for two years, the Council of Chairpersons may decide to terminate the deliberation and report to the Standing Committee; where necessary, the Council of Chairpersons may also decide to postpone the deliberation."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Section 3 Legislative Procedure of the Standing Committee of the National People's Congress"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where a bill is submitted jointly to amend individual articles of several laws involving matters of the same kind, the Council of Chairpersons may decide that it be voted on as a whole or voted on separately."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Section 3 Legislative Procedure of the Standing Committee of the National People's Congress"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "A law adopted by the Standing Committee shall be promulgated by the President of the State by signing a presidential order."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Section 3 Legislative Procedure of the Standing Committee of the National People's Congress"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "The power of legal interpretation shall be vested in the Standing Committee of the National People's Congress.\nThe Standing Committee of the National People's Congress shall interpret a law under any of the following circumstances:\n(1) where the provisions of the law need further clarification of their specific meaning;\n(2) where new circumstances arise after the law is enacted and the legal basis for application needs to be clarified."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Section 4 Interpretation of Laws"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "The State Council, the Central Military Commission, the National Commission of Supervision, the Supreme People's Court, the Supreme People's Procuratorate and the special committees of the National People's Congress may request the Standing Committee of the National People's Congress to interpret a law or submit a relevant bill.\nThe standing committees of the people's congresses of provinces, autonomous regions and municipalities directly under the Central Government may request the Standing Committee of the National People's Congress to interpret a law."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Section 4 Interpretation of Laws"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "The working bodies of the Standing Committee shall study and draft the draft legal interpretation, and the Council of Chairpersons shall decide whether to place it on the agenda of a meeting of the Standing Committee."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Section 4 Interpretation of Laws"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "The draft legal interpretation shall be deliberated at a meeting of the Standing Committee, and the Constitution and Law Committee shall, on the basis of the deliberation opinions of the members of the Standing Committee, deliberate on and revise it and put forward the draft legal interpretation for voting."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Section 4 Interpretation of Laws"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "The draft legal interpretation for voting shall be adopted by more than half of all the members of the Standing Committee and shall be promulgated by the Standing Committee by public announcement."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Section 4 Interpretation of Laws"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "A legal interpretation by the Standing Committee of the National People's Congress shall have the same effect as a law."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Section 4 Interpretation of Laws"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "The National People's Congress and its Standing Committee shall strengthen the organisation and coordination of legislative work and give play to the leading role in legislative work."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Section 5 Other Provisions"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "The National People's Congress and its Standing Committee shall adhere to scientific legislation, democratic legislation and legislation in accordance with law and, through various forms such as enacting, amending and repealing laws, interpreting laws and codifying codes, enhance the systematicness, comprehensiveness, coordination and timeliness of legislation."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Section 5 Other Provisions"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "The Standing Committee of the National People's Congress shall strengthen the overall arrangement of legislative work through legislative plans, annual legislative programmes and special legislative programmes. In preparing legislative plans and legislative programmes, it shall earnestly study the bills and suggestions of deputies, extensively solicit opinions, conduct scientific demonstration and assessment, and determine legislative items in accordance with the needs of economic and social development and the building of democracy and the rule of law and in accordance with the requirement to strengthen legislation in key areas, emerging areas and foreign-related areas. Legislative plans and legislative programmes shall be adopted by the Council of Chairpersons and made public to society.\nThe working bodies of the Standing Committee of the National People's Congress shall be responsible for preparing legislative plans and drafting legislative programmes and shall, in accordance with the requirements of the Standing Committee of the National People's Congress, urge the implementation of legislative plans and programmes."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Section 5 Other Provisions"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "The relevant special committees of the National People's Congress and the working bodies of the Standing Committee shall participate at an early stage in the drafting of draft laws by the relevant quarters; important draft laws of a comprehensive, overall and fundamental nature may be drafted under the organisation of the relevant special committee or the working bodies of the Standing Committee.\nFor draft laws of a highly specialised nature, experts in the relevant fields may be engaged to participate in drafting, or the drafting may be entrusted to the relevant experts, teaching and research institutions or social organisations."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Section 5 Other Provisions"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "When submitting a bill, the text of the draft law and its explanation shall be submitted at the same time, together with the necessary reference materials. Where a law is to be amended, a comparative text before and after the amendment shall also be submitted. The explanation of the draft law shall include the necessity, feasibility and main content of enacting or amending the law, the relevant opinions on issues of constitutionality and the circumstances of coordinating and handling major differences of opinion during drafting."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Section 5 Other Provisions"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where a bill is submitted to the National People's Congress or its Standing Committee, the sponsor shall have the right to withdraw it before it is placed on the agenda of a session."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Section 5 Other Provisions"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Where a bill submitted to the plenary session of the National People's Congress or its Standing Committee for voting is not adopted, the sponsor may, if it considers it necessary to enact the law, submit it again in accordance with the procedures provided by law, and the Presidium or the Council of Chairpersons shall decide whether to place it on the agenda of the session; among such bills, one that has not been adopted by the National People's Congress shall be submitted to the National People's Congress for deliberation and decision."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Section 5 Other Provisions"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "A law shall clearly prescribe its date of implementation."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Section 5 Other Provisions"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "A presidential order signing and promulgating a law shall state the organ that enacted the law and the dates of its adoption and implementation.\nAfter a law is signed and promulgated, the text of the law and the explanation of the draft law, the report on the deliberation results and the like shall promptly be published in the Gazette of the Standing Committee of the National People's Congress, on the website of the National People's Congress and in newspapers distributed nationwide.\nThe text of a law published in the Gazette of the Standing Committee shall be the standard text."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Section 5 Other Provisions"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "The procedures for amending and repealing laws shall be governed by the relevant provisions of this Chapter.\nWhere a law is amended, the new text of the law shall be promulgated.\nWhere a law is repealed, it shall be promulgated by the President of the State by signing a presidential order, unless the repeal is provided by another law."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Section 5 Other Provisions"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Where a draft law is inconsistent with the relevant provisions of other laws, the sponsor shall explain this and put forward its opinion on how to handle the matter, and shall, where necessary, at the same time submit a bill to amend or repeal the relevant provisions of other laws.\nWhere the Constitution and Law Committee or the relevant special committee, when deliberating on a bill, considers it necessary to amend or repeal the relevant provisions of other laws, it shall put forward its opinion on how to handle the matter."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Section 5 Other Provisions"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "A law may, according to the needs of its content, be divided into parts, chapters, sections, articles, paragraphs, items and sub-items.\nThe serial numbers of parts, chapters, sections and articles shall be expressed in Chinese numerals in sequence, paragraphs shall not be numbered, the serial numbers of items shall be expressed in Chinese numerals in brackets in sequence, and the serial numbers of sub-items shall be expressed in Arabic numerals in sequence.\nThe heading note of the title of a law shall state the enacting organ and the date of adoption. A law that has been amended shall state in sequence the amending organ and the date of amendment.\nThe working bodies of the Standing Committee of the National People's Congress shall formulate norms for legislative technique."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Section 5 Other Provisions"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Where a law explicitly requires the relevant State organ to make supporting specific provisions on a specialised matter, the relevant State organ shall make such provisions within one year from the date of implementation of the law, unless the law provides otherwise as to the time limit for making the supporting specific provisions. Where the relevant State organ fails to make the supporting specific provisions within the time limit, it shall explain the circumstances to the Standing Committee of the National People's Congress."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Section 5 Other Provisions"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "The relevant special committees of the National People's Congress and the working bodies of the Standing Committee may organise post-legislative assessment of the relevant laws or the relevant provisions of laws. The circumstances of the assessment shall be reported to the Standing Committee."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Section 5 Other Provisions"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "The relevant provisions of this Law shall apply to decisions made by the National People's Congress and its Standing Committee on matters concerning law."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Section 5 Other Provisions"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "The working bodies of the Standing Committee of the National People's Congress may study and reply to inquiries concerning law on specific issues and report the matter to the Standing Committee for the record."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Section 5 Other Provisions"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "The working bodies of the Standing Committee of the National People's Congress shall, according to actual needs, establish grassroots legislative contact points to listen in depth to the opinions of the grassroots masses and the relevant quarters on draft laws and legislative work."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Section 5 Other Provisions"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "The working bodies of the Standing Committee of the National People's Congress shall strengthen publicity of legislation and release legislative information, brief on the circumstances and respond to concerns through various forms."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Section 5 Other Provisions"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "The State Council shall enact administrative regulations in accordance with the Constitution and laws.\nAdministrative regulations may provide for the following matters:\n(1) matters on which administrative regulations need to be enacted in order to implement the provisions of a law;\n(2) matters within the administrative functions and powers of the State Council as provided in Article 89 of the Constitution.\nWhere the State Council first enacts administrative regulations, in accordance with an authorisation decision of the National People's Congress or its Standing Committee, on a matter on which a law should be enacted by the National People's Congress or its Standing Committee, and after such regulations have been tested in practice the conditions for enacting a law are ripe, the State Council shall promptly request the National People's Congress or its Standing Committee to enact a law."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter III Administrative Regulations"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "The legislative affairs institution of the State Council shall, in accordance with the overall work deployment of the State, draft the annual legislative programme of the State Council and submit it to the State Council for approval. The items of laws in the annual legislative programme of the State Council shall be linked with the legislative plans and legislative programmes of the Standing Committee of the National People's Congress. The legislative affairs institution of the State Council shall promptly follow up and understand the implementation of the legislative programme by the various departments of the State Council, and strengthen organisation, coordination, supervision and guidance.\nWhere a relevant department of the State Council considers it necessary to enact administrative regulations, it shall report to the State Council and request that the item be placed on the programme."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter III Administrative Regulations"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "Administrative regulations shall be drafted under the specific responsibility of the relevant department of the State Council or the legislative affairs institution of the State Council, and draft laws and administrative regulations on important administrative matters shall be drafted under the organisation of the legislative affairs institution of the State Council. In the course of drafting administrative regulations, the opinions of the relevant organs, organisations, deputies to people's congresses and the public shall be extensively heard. Opinions may be heard in various forms such as symposiums, demonstration meetings and hearings.\nDraft administrative regulations shall be made public to society to seek opinions, unless the State Council decides not to make them public."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter III Administrative Regulations"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "After the drafting of administrative regulations is completed, the drafting unit shall send the draft and its explanation, the differing opinions of various quarters on the main issues in the draft and other relevant materials to the legislative affairs institution of the State Council for examination.\nThe legislative affairs institution of the State Council shall submit an examination report and a revised draft to the State Council, and the examination report shall explain the main issues in the draft."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter III Administrative Regulations"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "The procedure for deciding on administrative regulations shall be carried out in accordance with the relevant provisions of the Organic Law of the State Council of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter III Administrative Regulations"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "Administrative regulations shall be promulgated by the Premier by signing an order of the State Council.\nAdministrative regulations concerning national defence construction may be promulgated by the Premier of the State Council and the Chairman of the Central Military Commission jointly signing an order of the State Council and the Central Military Commission."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter III Administrative Regulations"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "After administrative regulations are signed and promulgated, they shall promptly be published in the Gazette of the State Council, on the website of the legislative information of the Chinese Government and in newspapers distributed nationwide.\nThe text of administrative regulations published in the Gazette of the State Council shall be the standard text."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Chapter III Administrative Regulations"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "The State Council may, according to the needs of reform and development, decide to make provisional adjustments to or provisionally suspend the application of some provisions of administrative regulations in respect of specific matters in fields such as administrative management within a prescribed time limit and scope."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Chapter III Administrative Regulations"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "The people's congresses and their standing committees of provinces, autonomous regions and municipalities directly under the Central Government may, in accordance with the specific circumstances and actual needs of their respective administrative areas and on the premise of not contravening the Constitution, laws and administrative regulations, enact local regulations."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Section 1 Local Regulations, Autonomous Regulations and Separate Regulations"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "The people's congresses and their standing committees of cities divided into districts may, in accordance with the specific circumstances and actual needs of the cities and on the premise of not contravening the Constitution, laws and administrative regulations and the local regulations of the province or autonomous region, enact local regulations on matters such as urban and rural construction and management, ecological progress, protection of historical and cultural heritage and grassroots governance, unless the law otherwise provides as to the matters on which cities divided into districts may enact local regulations. Local regulations of a city divided into districts shall be submitted to the standing committee of the people's congress of the province or autonomous region for approval before implementation. The standing committee of the people's congress of the province or autonomous region shall examine the legality of the local regulations submitted for approval and shall, where it considers that they do not contravene the Constitution, laws, administrative regulations or the local regulations of the province or autonomous region, approve them within four months.\nWhere the standing committee of the people's congress of a province or autonomous region, when examining local regulations of a city divided into districts submitted for approval, finds that they contravene the rules of the people's government of the province or autonomous region, it shall make a decision on how to handle the matter.\nExcept for the city where the people's government of the province or autonomous region is located, cities where special economic zones are located and larger cities already approved by the State Council, the specific steps and timing for other cities divided into districts to begin enacting local regulations shall be determined by the standing committee of the people's congress of the province or autonomous region after comprehensive consideration of factors such as the population, geographical area, economic and social development, legislative needs and legislative capacity of the cities divided into districts under the province or autonomous region, and shall be reported to the Standing Committee of the National People's Congress and the State Council for the record.\nThe people's congresses and their standing committees of autonomous prefectures may exercise the function and power of cities divided into districts to enact local regulations in accordance with the provisions of paragraph 1 of this Article. The specific steps and timing for an autonomous prefecture to begin enacting local regulations shall be determined in accordance with the provisions of the preceding paragraph.\nLocal regulations already enacted by the city where the people's government of the province or autonomous region is located, cities where special economic zones are located and larger cities already approved by the State Council that relate to matters beyond the scope provided in paragraph 1 of this Article shall continue to be effective."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Section 1 Local Regulations, Autonomous Regulations and Separate Regulations"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "Local regulations may provide for the following matters:\n(1) matters on which specific provisions need to be made in accordance with the actual circumstances of the administrative area concerned in order to implement the provisions of laws and administrative regulations;\n(2) matters of a local nature on which local regulations need to be enacted.\nExcept for the matters provided in Article 11 of this Law, where the State has not yet enacted a law or administrative regulation on other matters, the province, autonomous region, municipality directly under the Central Government, city divided into districts or autonomous prefecture may, in accordance with local specific circumstances and actual needs, enact local regulations first. After the law or administrative regulation enacted by the State takes effect, provisions of local regulations that contravene the law or administrative regulation shall be invalid, and the enacting organ shall promptly amend or repeal them.\nWhere a city divided into districts or an autonomous prefecture enacts local regulations in accordance with paragraphs 1 and 2 of this Article, it shall be limited to the matters provided in paragraph 1 of Article 81 of this Law.\nIn enacting local regulations, no repetitive provisions shall generally be made in respect of content already clearly provided in higher-level law."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Section 1 Local Regulations, Autonomous Regulations and Separate Regulations"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "The people's congresses and their standing committees of provinces, autonomous regions, municipalities directly under the Central Government, cities divided into districts and autonomous prefectures may, in accordance with the needs of coordinated regional development, jointly enact local regulations for implementation within their respective administrative areas or the relevant regions.\nProvinces, autonomous regions, municipalities directly under the Central Government, cities divided into districts and autonomous prefectures may establish working mechanisms for coordinated regional legislation."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Section 1 Local Regulations, Autonomous Regulations and Separate Regulations"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "The people's congresses and their standing committees of the provinces and cities where special economic zones are located shall, in accordance with the authorisation decisions of the National People's Congress, enact regulations for implementation within the special economic zones.\nThe Shanghai Municipal People's Congress and its Standing Committee shall, in accordance with the authorisation decision of the Standing Committee of the National People's Congress, enact regulations for the Pudong New Area for implementation within the Pudong New Area.\nThe Hainan Provincial People's Congress and its Standing Committee shall, in accordance with legal provisions, enact regulations for the Hainan Free Trade Port for implementation within the Hainan Free Trade Port."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Section 1 Local Regulations, Autonomous Regulations and Separate Regulations"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "The people's congresses of ethnic autonomous areas shall have the power to enact autonomous regulations and separate regulations in accordance with the political, economic and cultural characteristics of the ethnic groups in the areas concerned. Autonomous regulations and separate regulations of autonomous regions shall take effect after approval by the Standing Committee of the National People's Congress. Autonomous regulations and separate regulations of autonomous prefectures and autonomous counties shall take effect after approval by the standing committees of the people's congresses of the provinces, autonomous regions or municipalities directly under the Central Government.\nAutonomous regulations and separate regulations may, in accordance with the characteristics of the ethnic groups in the areas concerned, make adaptive provisions with respect to the provisions of laws and administrative regulations, provided that they do not contravene the basic principles of the laws or administrative regulations and do not make adaptive provisions with respect to the provisions of the Constitution and the Law on Regional Ethnic Autonomy or the provisions specially made for ethnic autonomous areas by other relevant laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        },
+        "chapter": {
+          "en": "Section 1 Local Regulations, Autonomous Regulations and Separate Regulations"
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "Local regulations providing for especially major matters of the administrative area concerned shall be adopted by the people's congress."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        },
+        "chapter": {
+          "en": "Section 1 Local Regulations, Autonomous Regulations and Separate Regulations"
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "The procedures for submitting, deliberating and voting on bills for local regulations and bills for autonomous regulations and separate regulations shall be prescribed by the people's congress at the corresponding level in accordance with the Organic Law of the Local People's Congresses and Local People's Governments of the People's Republic of China and by reference to the provisions of Sections 2, 3 and 5 of Chapter II of this Law.\nThe report on the deliberation results and the revised draft of the draft local regulation shall be put forward by the body responsible for unified deliberation."
+        },
+        "noLabel": {
+          "en": "Article 87."
+        },
+        "chapter": {
+          "en": "Section 1 Local Regulations, Autonomous Regulations and Separate Regulations"
+        }
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "Local regulations enacted by the people's congresses of provinces, autonomous regions and municipalities directly under the Central Government shall be promulgated by public announcement of the Presidium of the congress.\nLocal regulations enacted by the standing committees of the people's congresses of provinces, autonomous regions and municipalities directly under the Central Government shall be promulgated by public announcement of the standing committee.\nLocal regulations enacted by the people's congresses and their standing committees of cities divided into districts and autonomous prefectures shall, after approval, be promulgated by public announcement of the standing committee of the people's congress of the city divided into districts or autonomous prefecture.\nAutonomous regulations and separate regulations shall, after approval, be promulgated by public announcement of the standing committees of the people's congresses of the autonomous regions, autonomous prefectures and autonomous counties respectively."
+        },
+        "noLabel": {
+          "en": "Article 88."
+        },
+        "chapter": {
+          "en": "Section 1 Local Regulations, Autonomous Regulations and Separate Regulations"
+        }
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "After local regulations, autonomous regulations and separate regulations are promulgated, their texts and the explanations of the drafts, the reports on the deliberation results and the like shall promptly be published in the gazette of the standing committee of the people's congress at the corresponding level, on the website of the National People's Congress, on the website of the local people's congress and in newspapers distributed within the administrative area concerned.\nThe texts of local regulations, autonomous regulations and separate regulations published in the gazette of the standing committee shall be the standard texts."
+        },
+        "noLabel": {
+          "en": "Article 89."
+        },
+        "chapter": {
+          "en": "Section 1 Local Regulations, Autonomous Regulations and Separate Regulations"
+        }
+      },
+      {
+        "no": 90,
+        "text": {
+          "en": "The standing committees of the people's congresses of provinces, autonomous regions, municipalities directly under the Central Government, cities divided into districts and autonomous prefectures shall, according to actual needs, establish grassroots legislative contact points to listen in depth to the opinions of the grassroots masses and the relevant quarters on drafts of local regulations, autonomous regulations and separate regulations."
+        },
+        "noLabel": {
+          "en": "Article 90."
+        },
+        "chapter": {
+          "en": "Section 1 Local Regulations, Autonomous Regulations and Separate Regulations"
+        }
+      },
+      {
+        "no": 91,
+        "text": {
+          "en": "The various ministries and commissions of the State Council, the People's Bank of China, the National Audit Office and the institutions directly under the State Council with administrative functions and the institutions provided by law may, in accordance with laws and the administrative regulations, decisions and orders of the State Council and within the limits of the functions and powers of their respective departments, enact rules.\nMatters provided for by departmental rules shall be matters for implementing laws or the administrative regulations, decisions and orders of the State Council. Without a basis in a law or in the administrative regulations, decisions or orders of the State Council, departmental rules shall not set norms that reduce the rights of citizens, legal persons and other organisations or increase their obligations, and shall not increase the powers of the department or reduce its statutory duties."
+        },
+        "noLabel": {
+          "en": "Article 91."
+        },
+        "chapter": {
+          "en": "Section 2 Rules"
+        }
+      },
+      {
+        "no": 92,
+        "text": {
+          "en": "Matters involving the functions and powers of two or more departments of the State Council shall be submitted to the State Council for enactment of administrative regulations or shall be subject to the joint enactment of rules by the relevant departments of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 92."
+        },
+        "chapter": {
+          "en": "Section 2 Rules"
+        }
+      },
+      {
+        "no": 93,
+        "text": {
+          "en": "The people's governments of provinces, autonomous regions, municipalities directly under the Central Government, cities divided into districts and autonomous prefectures may enact rules in accordance with laws, administrative regulations and the local regulations of the province, autonomous region or municipality directly under the Central Government.\nLocal government rules may provide for the following matters:\n(1) matters on which rules need to be enacted in order to implement the provisions of laws, administrative regulations and local regulations;\n(2) specific administrative matters of the administrative area concerned.\nWhere the people's government of a city divided into districts or an autonomous prefecture enacts local government rules in accordance with paragraphs 1 and 2 of this Article, it shall be limited to matters such as urban and rural construction and management, ecological progress, protection of historical and cultural heritage and grassroots governance. Local government rules already enacted that relate to matters beyond the above scope shall continue to be effective.\nExcept for the city where the people's government of the province or autonomous region is located, cities where special economic zones are located and larger cities already approved by the State Council, the timing for other cities divided into districts and autonomous prefectures to begin enacting rules shall be synchronised with the timing determined by the standing committee of the people's congress of the province or autonomous region for the city or autonomous prefecture to begin enacting local regulations.\nWhere local regulations should be enacted but the conditions are not yet ripe, local government rules may be enacted first because of urgent needs of administrative management. Where, after the rules have been implemented for two years, it is necessary to continue implementing the administrative measures provided in the rules, a request shall be submitted to the people's congress at the corresponding level or its standing committee to enact local regulations.\nWithout a basis in laws, administrative regulations or local regulations, local government rules shall not set norms that reduce the rights of citizens, legal persons and other organisations or increase their obligations."
+        },
+        "noLabel": {
+          "en": "Article 93."
+        },
+        "chapter": {
+          "en": "Section 2 Rules"
+        }
+      },
+      {
+        "no": 94,
+        "text": {
+          "en": "The procedures for enacting rules of departments of the State Council and rules of local governments shall be prescribed by the State Council by reference to the provisions of Chapter III of this Law."
+        },
+        "noLabel": {
+          "en": "Article 94."
+        },
+        "chapter": {
+          "en": "Section 2 Rules"
+        }
+      },
+      {
+        "no": 95,
+        "text": {
+          "en": "Departmental rules shall be decided by a meeting of the ministry or a meeting of the commission.\nLocal government rules shall be decided by an executive meeting or a plenary meeting of the government."
+        },
+        "noLabel": {
+          "en": "Article 95."
+        },
+        "chapter": {
+          "en": "Section 2 Rules"
+        }
+      },
+      {
+        "no": 96,
+        "text": {
+          "en": "Departmental rules shall be promulgated by an order signed by the head of the department.\nLocal government rules shall be promulgated by an order signed by the Governor of the province, Chairman of the autonomous region, Mayor of the municipality or Governor of the autonomous prefecture."
+        },
+        "noLabel": {
+          "en": "Article 96."
+        },
+        "chapter": {
+          "en": "Section 2 Rules"
+        }
+      },
+      {
+        "no": 97,
+        "text": {
+          "en": "After departmental rules are signed and promulgated, they shall promptly be published in the Gazette of the State Council or the gazette of the department, on the website of the legislative information of the Chinese Government and in newspapers distributed nationwide.\nAfter local government rules are signed and promulgated, they shall promptly be published in the gazette of the people's government at the corresponding level, on the website of the legislative information of the Chinese Government and in newspapers distributed within the administrative area concerned.\nThe texts of rules published in the Gazette of the State Council or the gazette of a department and in the gazette of a local people's government shall be the standard texts."
+        },
+        "noLabel": {
+          "en": "Article 97."
+        },
+        "chapter": {
+          "en": "Section 2 Rules"
+        }
+      },
+      {
+        "no": 98,
+        "text": {
+          "en": "The Constitution shall have the highest legal effect, and no law, administrative regulation, local regulation, autonomous regulation, separate regulation or rule may contravene the Constitution."
+        },
+        "noLabel": {
+          "en": "Article 98."
+        },
+        "chapter": {
+          "en": "Chapter V Application and Review of Filing"
+        }
+      },
+      {
+        "no": 99,
+        "text": {
+          "en": "The effect of laws shall be superior to that of administrative regulations, local regulations and rules.\nThe effect of administrative regulations shall be superior to that of local regulations and rules."
+        },
+        "noLabel": {
+          "en": "Article 99."
+        },
+        "chapter": {
+          "en": "Chapter V Application and Review of Filing"
+        }
+      },
+      {
+        "no": 100,
+        "text": {
+          "en": "The effect of local regulations shall be superior to that of the rules of local governments at the corresponding level and at lower levels.\nThe effect of rules enacted by the people's government of a province or autonomous region shall be superior to that of rules enacted by the people's governments of cities divided into districts or autonomous prefectures within the administrative area concerned."
+        },
+        "noLabel": {
+          "en": "Article 100."
+        },
+        "chapter": {
+          "en": "Chapter V Application and Review of Filing"
+        }
+      },
+      {
+        "no": 101,
+        "text": {
+          "en": "Where autonomous regulations and separate regulations make adaptive provisions with respect to laws, administrative regulations and local regulations in accordance with law, the provisions of the autonomous regulations and separate regulations shall apply in the autonomous area concerned.\nWhere regulations of special economic zones make adaptive provisions with respect to laws, administrative regulations and local regulations in accordance with authorisation, the provisions of the regulations of the special economic zone shall apply in the special economic zone concerned."
+        },
+        "noLabel": {
+          "en": "Article 101."
+        },
+        "chapter": {
+          "en": "Chapter V Application and Review of Filing"
+        }
+      },
+      {
+        "no": 102,
+        "text": {
+          "en": "Departmental rules and departmental rules and local government rules shall have equal effect and shall be implemented within the limits of their respective functions and powers."
+        },
+        "noLabel": {
+          "en": "Article 102."
+        },
+        "chapter": {
+          "en": "Chapter V Application and Review of Filing"
+        }
+      },
+      {
+        "no": 103,
+        "text": {
+          "en": "Where, among laws, administrative regulations, local regulations, autonomous regulations, separate regulations and rules enacted by the same organ, special provisions are inconsistent with general provisions, the special provisions shall apply; where new provisions are inconsistent with old provisions, the new provisions shall apply."
+        },
+        "noLabel": {
+          "en": "Article 103."
+        },
+        "chapter": {
+          "en": "Chapter V Application and Review of Filing"
+        }
+      },
+      {
+        "no": 104,
+        "text": {
+          "en": "Laws, administrative regulations, local regulations, autonomous regulations, separate regulations and rules shall not have retroactive effect, except for special provisions made in order to better protect the rights and interests of citizens, legal persons and other organisations."
+        },
+        "noLabel": {
+          "en": "Article 104."
+        },
+        "chapter": {
+          "en": "Chapter V Application and Review of Filing"
+        }
+      },
+      {
+        "no": 105,
+        "text": {
+          "en": "Where a new general provision of a law is inconsistent with an old special provision of a law on the same matter and it cannot be determined which shall apply, the Standing Committee of the National People's Congress shall make a ruling.\nWhere a new general provision of an administrative regulation is inconsistent with an old special provision of an administrative regulation on the same matter and it cannot be determined which shall apply, the State Council shall make a ruling."
+        },
+        "noLabel": {
+          "en": "Article 105."
+        },
+        "chapter": {
+          "en": "Chapter V Application and Review of Filing"
+        }
+      },
+      {
+        "no": 106,
+        "text": {
+          "en": "Where local regulations and rules are inconsistent, the relevant organ shall make a ruling in accordance with the following limits of authority:\n(1) where a new general provision and an old special provision enacted by the same organ are inconsistent, the enacting organ shall make a ruling;\n(2) where the provisions of a local regulation and a departmental rule on the same matter are inconsistent and it cannot be determined which shall apply, the State Council shall put forward an opinion; where the State Council considers that the local regulation should apply, it shall decide that the provisions of the local regulation shall apply in that locality; where it considers that the departmental rule should apply, it shall request the Standing Committee of the National People's Congress to make a ruling;\n(3) where the provisions of departmental rules or of a departmental rule and a local government rule on the same matter are inconsistent, the State Council shall make a ruling.\nWhere regulations enacted in accordance with authorisation are inconsistent with the provisions of a law and it cannot be determined which shall apply, the Standing Committee of the National People's Congress shall make a ruling."
+        },
+        "noLabel": {
+          "en": "Article 106."
+        },
+        "chapter": {
+          "en": "Chapter V Application and Review of Filing"
+        }
+      },
+      {
+        "no": 107,
+        "text": {
+          "en": "Where a law, administrative regulation, local regulation, autonomous regulation, separate regulation or rule falls under any of the following circumstances, the relevant organ shall modify or annul it in accordance with the limits of authority provided in Article 108 of this Law:\n(1) it exceeds its authority;\n(2) a lower-level law contravenes the provisions of a higher-level law;\n(3) the provisions of rules on the same matter are inconsistent and, upon ruling, the provisions of one party should be modified or annulled;\n(4) the provisions of a rule are considered inappropriate and should be modified or annulled;\n(5) it contravenes statutory procedures."
+        },
+        "noLabel": {
+          "en": "Article 107."
+        },
+        "chapter": {
+          "en": "Chapter V Application and Review of Filing"
+        }
+      },
+      {
+        "no": 108,
+        "text": {
+          "en": "The limits of authority for modifying or annulling laws, administrative regulations, local regulations, autonomous regulations, separate regulations and rules shall be:\n(1) the National People's Congress shall have the power to modify or annul inappropriate laws enacted by its Standing Committee and to annul autonomous regulations and separate regulations approved by the Standing Committee of the National People's Congress that contravene the Constitution and the provisions of paragraph 2 of Article 85 of this Law;\n(2) the Standing Committee of the National People's Congress shall have the power to annul administrative regulations that contravene the Constitution and laws, to annul local regulations that contravene the Constitution, laws and administrative regulations, and to annul autonomous regulations and separate regulations approved by the standing committees of the people's congresses of provinces, autonomous regions and municipalities directly under the Central Government that contravene the Constitution and the provisions of paragraph 2 of Article 85 of this Law;\n(3) the State Council shall have the power to modify or annul inappropriate departmental rules and local government rules;\n(4) the people's congresses of provinces, autonomous regions and municipalities directly under the Central Government shall have the power to modify or annul inappropriate local regulations enacted and approved by their standing committees;\n(5) the standing committees of local people's congresses shall have the power to annul inappropriate rules enacted by the people's government at the corresponding level;\n(6) the people's governments of provinces and autonomous regions shall have the power to modify or annul inappropriate rules enacted by the people's government at the next lower level;\n(7) the authorising organ shall have the power to annul regulations enacted by the authorised organ that exceed the scope of authorisation or contravene the purpose of authorisation and may, where necessary, revoke the authorisation."
+        },
+        "noLabel": {
+          "en": "Article 108."
+        },
+        "chapter": {
+          "en": "Chapter V Application and Review of Filing"
+        }
+      },
+      {
+        "no": 109,
+        "text": {
+          "en": "Administrative regulations, local regulations, autonomous regulations, separate regulations and rules shall, within 30 days after promulgation, be reported to the relevant organ for the record in accordance with the following provisions:\n(1) administrative regulations shall be reported to the Standing Committee of the National People's Congress for the record;\n(2) local regulations enacted by the people's congresses and their standing committees of provinces, autonomous regions and municipalities directly under the Central Government shall be reported to the Standing Committee of the National People's Congress and the State Council for the record; local regulations enacted by the people's congresses and their standing committees of cities divided into districts and autonomous prefectures shall be reported by the standing committees of the people's congresses of the provinces or autonomous regions to the Standing Committee of the National People's Congress and the State Council for the record;\n(3) autonomous regulations and separate regulations enacted by the people's congresses of autonomous prefectures and autonomous counties shall be reported by the standing committees of the people's congresses of the provinces, autonomous regions or municipalities directly under the Central Government to the Standing Committee of the National People's Congress and the State Council for the record; when autonomous regulations and separate regulations are submitted for the record, the circumstances of the adaptive provisions made with respect to laws, administrative regulations and local regulations shall be explained;\n(4) departmental rules and local government rules shall be reported to the State Council for the record; local government rules shall at the same time be reported to the standing committee of the people's congress at the corresponding level for the record; rules enacted by the people's governments of cities divided into districts and autonomous prefectures shall at the same time be reported to the standing committee of the people's congress and the people's government of the province or autonomous region for the record;\n(5) regulations enacted in accordance with authorisation shall be reported for the record to the organ prescribed in the authorisation decision; when regulations of special economic zones, regulations for the Pudong New Area and regulations for the Hainan Free Trade Port are submitted for the record, the circumstances of the adaptive provisions shall be explained."
+        },
+        "noLabel": {
+          "en": "Article 109."
+        },
+        "chapter": {
+          "en": "Chapter V Application and Review of Filing"
+        }
+      },
+      {
+        "no": 110,
+        "text": {
+          "en": "Where the State Council, the Central Military Commission, the National Commission of Supervision, the Supreme People's Court, the Supreme People's Procuratorate and the standing committees of the people's congresses of the provinces, autonomous regions and municipalities directly under the Central Government consider that an administrative regulation, local regulation, autonomous regulation or separate regulation contravenes the Constitution or a law, or involves an issue of constitutionality or legality, they may submit to the Standing Committee of the National People's Congress in writing a request for review, and the relevant special committees of the National People's Congress and the working bodies of the Standing Committee shall conduct the review and put forward opinions.\nWhere State organs other than those provided in the preceding paragraph, social organisations, enterprises, public institutions and citizens consider that an administrative regulation, local regulation, autonomous regulation or separate regulation contravenes the Constitution or a law, they may submit to the Standing Committee of the National People's Congress in writing a suggestion for review, and the working bodies of the Standing Committee shall conduct the review and, where necessary, refer the matter to the relevant special committee for review and opinion."
+        },
+        "noLabel": {
+          "en": "Article 110."
+        },
+        "chapter": {
+          "en": "Chapter V Application and Review of Filing"
+        }
+      },
+      {
+        "no": 111,
+        "text": {
+          "en": "The special committees of the National People's Congress and the working bodies of the Standing Committee may conduct proactive review of administrative regulations, local regulations, autonomous regulations and separate regulations reported for the record and may, as needed, conduct special review.\nThe working body for review of filing of the State Council may conduct proactive review of local regulations, autonomous regulations and separate regulations reported for the record and of departmental rules and rules enacted by the people's governments of provinces, autonomous regions and municipalities directly under the Central Government, and may, as needed, conduct special review."
+        },
+        "noLabel": {
+          "en": "Article 111."
+        },
+        "chapter": {
+          "en": "Chapter V Application and Review of Filing"
+        }
+      },
+      {
+        "no": 112,
+        "text": {
+          "en": "Where, in the course of review, a special committee of the National People's Congress or a working body of the Standing Committee considers that an administrative regulation, local regulation, autonomous regulation or separate regulation contravenes the Constitution or a law, or involves an issue of constitutionality or legality, it may put forward a written review opinion to the enacting organ; alternatively, the Constitution and Law Committee may, together with the relevant special committee and the working bodies of the Standing Committee, convene a joint review meeting, require the enacting organ to attend the meeting and explain the circumstances, and then put forward a written review opinion to the enacting organ. The enacting organ shall, within two months, study the matter and put forward its opinion on whether to amend or repeal the regulation, and give feedback to the Constitution and Law Committee of the National People's Congress, the relevant special committee or the working bodies of the Standing Committee.\nWhere, in accordance with the preceding paragraph, the Constitution and Law Committee of the National People's Congress, the relevant special committee or the working bodies of the Standing Committee put forward a review opinion to the enacting organ and the enacting organ amends or repeals the administrative regulation, local regulation, autonomous regulation or separate regulation in accordance with the opinion put forward, the review shall terminate.\nWhere, upon review, the Constitution and Law Committee of the National People's Congress, the relevant special committee or the working bodies of the Standing Committee consider that an administrative regulation, local regulation, autonomous regulation or separate regulation contravenes the Constitution or a law, or involves an issue of constitutionality or legality and needs to be amended or repealed, but the enacting organ refuses to amend or repeal it, they shall put forward to the Council of Chairpersons a bill or suggestion for annulment, and the Council of Chairpersons shall decide whether to submit it to a meeting of the Standing Committee for deliberation and decision."
+        },
+        "noLabel": {
+          "en": "Article 112."
+        },
+        "chapter": {
+          "en": "Chapter V Application and Review of Filing"
+        }
+      },
+      {
+        "no": 113,
+        "text": {
+          "en": "The relevant special committees of the National People's Congress and the working bodies of the Standing Committee shall, in accordance with the requirements of provisions, give feedback on the circumstances of the review to the State organs, social organisations, enterprises, public institutions and citizens that submitted the suggestion for review, and may make it public to society."
+        },
+        "noLabel": {
+          "en": "Article 113."
+        },
+        "chapter": {
+          "en": "Chapter V Application and Review of Filing"
+        }
+      },
+      {
+        "no": 114,
+        "text": {
+          "en": "The review procedures of other organs that accept filings for the record in respect of local regulations, autonomous regulations, separate regulations and rules reported for the record shall, in accordance with the principle of safeguarding the unity of the legal system, be prescribed by the organ that accepts the filing."
+        },
+        "noLabel": {
+          "en": "Article 114."
+        },
+        "chapter": {
+          "en": "Chapter V Application and Review of Filing"
+        }
+      },
+      {
+        "no": 115,
+        "text": {
+          "en": "Organs for review of filing shall establish and improve mechanisms for linkage and coordination in the review of filings, and shall promptly refer to the relevant organ for handling requests or suggestions for review that should be handled by another organ."
+        },
+        "noLabel": {
+          "en": "Article 115."
+        },
+        "chapter": {
+          "en": "Chapter V Application and Review of Filing"
+        }
+      },
+      {
+        "no": 116,
+        "text": {
+          "en": "In respect of laws, administrative regulations, local regulations, autonomous regulations, separate regulations, rules and other normative documents, the enacting organ shall carry out sorting out in accordance with the principle of safeguarding the unity of the legal system and the needs of reform and development."
+        },
+        "noLabel": {
+          "en": "Article 116."
+        },
+        "chapter": {
+          "en": "Chapter V Application and Review of Filing"
+        }
+      },
+      {
+        "no": 117,
+        "text": {
+          "en": "The Central Military Commission shall enact military regulations in accordance with the Constitution and laws.\nThe various theatre commands and the various services and arms of the Chinese People's Liberation Army and the Chinese People's Armed Police Force may, in accordance with laws and the military regulations, decisions and orders of the Central Military Commission and within the limits of their authority, enact military rules.\nMilitary regulations and military rules shall be implemented within the armed forces.\nThe measures for the enactment, amendment and repeal of military regulations and military rules shall be prescribed by the Central Military Commission in accordance with the principles provided in this Law."
+        },
+        "noLabel": {
+          "en": "Article 117."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 118,
+        "text": {
+          "en": "The National Commission of Supervision shall, in accordance with the Constitution and laws and the relevant decisions of the Standing Committee of the National People's Congress, enact supervisory regulations and report them to the Standing Committee of the National People's Congress for the record."
+        },
+        "noLabel": {
+          "en": "Article 118."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 119,
+        "text": {
+          "en": "Interpretations made by the Supreme People's Court and the Supreme People's Procuratorate concerning the specific application of law in adjudication and procuratorial work shall mainly be directed at specific legal provisions and shall conform to the purpose, principles and original intent of legislation. Where the circumstances provided in paragraph 2 of Article 48 of this Law occur, a request for legal interpretation shall be submitted to the Standing Committee of the National People's Congress, or a bill to enact or amend the relevant law shall be submitted.\nInterpretations made by the Supreme People's Court and the Supreme People's Procuratorate concerning the specific application of law in adjudication and procuratorial work shall be reported to the Standing Committee of the National People's Congress for the record within 30 days from the date of promulgation.\nAdjudicative organs and procuratorial organs other than the Supreme People's Court and the Supreme People's Procuratorate shall not make interpretations concerning the specific application of law."
+        },
+        "noLabel": {
+          "en": "Article 119."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 120,
+        "text": {
+          "en": "This Law shall come into force on 1 July 2000."
+        },
+        "noLabel": {
+          "en": "Article 120."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
         }
       }
     ]
