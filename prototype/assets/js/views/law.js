@@ -78,11 +78,31 @@
     main.innerHTML = '<div class="container page">' + C().emptyState(CALR.ui.icon('print'), t('未找到该法规'), '', '<p><a class="btn" href="#/search">' + esc(t('返回检索')) + '</a></p>') + '</div>';
         return;
       }
-      /* 目录已收录但条文尚未载入：先载入所属分卷，再重新渲染 */
-      if (law.coverage === 'catalog' && CALR.fulltext) {
+      /* 条文尚未完整载入：先载入所属分卷/接口，再重新渲染。
+         注意守卫是 coverage !== 'full'，不是 === 'catalog' ——
+         有一批法规在 dataset-core 里的 coverage 是 'excerpt'（只有几条摘录），
+         完整条文在 data/fulltext/*.js 里，以前靠启动时的 loadAll() 合并，
+         loadAll 移除后必须在这里按需加载，否则永远只显示那几条摘录。 */
+      if (law.coverage !== 'full' && CALR.fulltext) {
         var pack = CALR.fulltext.packFor ? CALR.fulltext.packFor(id) : null;
-        /* 来源中未提供条文正文：如实说明，不报「加载失败」 */
-        if (!pack) {
+        if (pack) {
+          main.innerHTML = '<div class="container page">' +
+            C().breadcrumb([{ text: t('首页'), href: '#/' }, { text: esc(tr(law.title)) }]) +
+            '<div class="card card--pad" style="margin-top:16px">' + C().skeletonList(4) +
+            '<p class="mini muted center">' + esc(t('正在载入该法规的官方全文…')) + '</p></div></div>';
+          CALR.fulltext.ensureLaw(id).then(function (ok) {
+            S().init();
+            if (ok) { CALR.app.refresh(); }
+            else {
+              var dir = pack.kind === 'intl' ? 'prototype/data/intl/' : 'prototype/data/cn/';
+              main.innerHTML = '<div class="container page">' + C().emptyState(CALR.ui.icon('alert'), t('全文暂未载入'),
+                t('该法规的全文分卷未能加载，请检查 ' + dir + ' 目录是否完整。')) + '</div>';
+            }
+          });
+          return;
+        }
+        /* 没有分卷：若已有摘录条文，继续按正常路径渲染；一条都没有才提示仅收录条目 */
+        if (!(law.articles && law.articles.length)) {
           main.innerHTML = '<div class="container page">' +
             C().breadcrumb([{ text: t('首页'), href: '#/' }, { text: esc(tr(law.title)) }]) +
             '<div style="margin-top:16px">' +
@@ -95,20 +115,6 @@
             '</div></div>';
           return;
         }
-        main.innerHTML = '<div class="container page">' +
-          C().breadcrumb([{ text: t('首页'), href: '#/' }, { text: esc(tr(law.title)) }]) +
-          '<div class="card card--pad" style="margin-top:16px">' + C().skeletonList(4) +
-          '<p class="mini muted center">' + esc(t('正在载入该法规的官方全文…')) + '</p></div></div>';
-        CALR.fulltext.ensureLaw(id).then(function (ok) {
-          S().init();
-          if (ok) { CALR.app.refresh(); }
-          else {
-            var dir = pack.kind === 'intl' ? 'prototype/data/intl/' : 'prototype/data/cn/';
-            main.innerHTML = '<div class="container page">' + C().emptyState(CALR.ui.icon('alert'), t('全文暂未载入'),
-              t('该法规的全文分卷未能加载，请检查 ' + dir + ' 目录是否完整。')) + '</div>';
-          }
-        });
-        return;
       }
       var country = S().country(law.country);
       /* 有条文即渲染正文（官方全文与平台整理稿均可阅读） */
