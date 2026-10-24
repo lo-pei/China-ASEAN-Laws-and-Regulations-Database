@@ -269,7 +269,7 @@
               '<div id="adv-panel" class="card card--pad" hidden style="margin-bottom:14px">' +
                 advPanel(type, query) +
               '</div>' +
-              '<div id="result-list">' + renderResults(type, res) + '</div>' +
+              '<div id="result-list">' + renderResults(type, res, q) + '</div>' +
             pager(page, totalPages, size) +
           '</div>' +
         '</div>' +
@@ -568,7 +568,7 @@
     }).join('') + '</div>';
   }
 
-  function renderResults(type, res) {
+  function renderResults(type, res, q) {
     if (!res.items.length) {
       return C().emptyState(CALR.ui.icon('search'), t('未找到相关内容'),
         t('建议调整关键词或放宽筛选条件；也可查阅') + ' <a href="#/sources">' + esc(t('数据来源')) + '</a> ' + esc(t('页面列出的各国官方法律数据库。')));
@@ -580,7 +580,7 @@
       /* 检索结果页只呈现法规主体信息，不显示标签行与命中说明 */
       /* 把检索词一并带进详情页，用于正文自动高亮 */
       return C().lawItem(it.law, { plain: true, terms: res.terms, snippet: it.snippet,
-                                   hitArticle: it.hitArticle, q: res.query || q });
+                                   hitArticle: it.hitArticle, q: q || (res && res.query) });
     }).join('');
   }
 
