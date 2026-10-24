@@ -1,0 +1,47 @@
+﻿name: data-checks
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: JS 语法检查（全量）
+        run: |
+          fail=0
+          while IFS= read -r f; do
+            node --check "$f" || { echo "::error file=$f::语法错误"; fail=1; }
+          done < <(find prototype tools -name '*.js' -type f)
+          exit $fail
+
+      - name: 数据与引用完整性
+        run: node tools/verify.js
+
+      - name: 逐文件统计一致性
+        run: node tools/verify-data.js
+
+      - name: 数据自足性（A1–A11）
+        run: node --max-old-space-size=8192 tools/verify-data-home.js
+
+      - name: 分卷与权威存储逐条比对
+        run: node tools/verify-fulltext.js
+
+      - name: 译文层结构
+        run: node tools/test-trans-layer.js
+
+      - name: 界面多语言键完整性
+        run: node tools/check-i18n.js
+
+      - name: 项目红线禁用表述
+        run: node tools/scan-forbidden2.js
