@@ -12,6 +12,7 @@
 <link rel="stylesheet" href="assets/css/components.css">
 <link rel="stylesheet" href="assets/css/views.css">
 <link rel="stylesheet" href="assets/css/home-v2.css">
+  <link rel="stylesheet" href="./assets/css/mobile.css">
 </head>
 <body>
 <a class="skip-link" href="#main">跳到主内容</a>
@@ -41,9 +42,10 @@
 <!-- 全量法规目录（中国 1500+ 部：仅元数据，条文按分卷按需加载） -->
 <script src="data/cn-catalog.js"></script>
 <!-- 东盟法律目录层与全文分卷索引（来源：资源爬取，条文按分卷按需加载） -->
-  <!-- 数据源决定：file:// 打开时加载完整 catalog（离线兜底）；
+  <!-- 数据源决定：file:// 打开时加载完整 catalog 与预计算 IDF（离线兜底）；
        http(s) 打开说明后端在托管静态站，改用 /api/bootstrap（2.7 KB）+
-       /api/laws/compact 后台补齐，首屏不必解析 15.9 MB 的 intl-catalog.js。 -->
+       /api/laws/compact 后台补齐，首屏不必解析 15.9 MB 的 intl-catalog.js
+       与 3.7 MB 的 bm25-idf.js。API 模式下若后端不可用，前端会自动现算 IDF 兜底。 -->
   <script>
   (function () {
     var proto = location.protocol, host = location.host;
@@ -51,8 +53,10 @@
     window.__CALR_API_MODE = isHttp ? (proto + '//' + host) : null;
     if (!isHttp) {
       document.write('<script src="data/intl-catalog.js"><\/script>');
+      document.write('<script src="data/bm25-idf.js"><\/script>');
     } else if (window.console) {
-      console.info('[CALR] API 模式：跳过 intl-catalog.js（15.9 MB），改用 /api/bootstrap + /api/laws/compact');
+      console.info('[CALR] API 模式：跳过 intl-catalog.js（15.9 MB）与 bm25-idf.js（3.7 MB），' +
+                   '改用 /api/bootstrap + /api/laws/compact');
     }
   })();
   </script>
@@ -75,7 +79,6 @@
 <script src="assets/js/core/store.js"></script>
   <script src="assets/js/core/api.js"></script>
 <script src="assets/js/core/fulltext.js"></script>
-<script src="data/bm25-idf.js"></script>
   <script src="data/terms-bridge.js"></script>
   <script src="assets/js/core/search.js"></script>
 <script src="assets/js/core/compare.js"></script>

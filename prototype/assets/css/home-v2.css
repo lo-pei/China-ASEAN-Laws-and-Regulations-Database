@@ -228,3 +228,58 @@ html[data-theme="dark"] .map-country--ref { fill: #232E3E; }
   .entry-row { grid-template-columns: minmax(0, 1fr); }
   .home-sec__more { position: static; display: inline-block; margin-top: 10px; }
 }
+
+/* ---------- 首屏数据规模条（D） ----------
+   把「18,785 部法规 / 338,996 条条文 / 12 个法域」这几个最硬的数字摆到首屏。
+   数值由 home.js 从 store 统计动态渲染，不写死。 */
+.hero-stats {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0;
+  margin: 26px 0 0;
+  padding: 0;
+  list-style: none;
+  border-top: 1px solid var(--border);
+}
+.hero-stats__item {
+  flex: 1 1 0;
+  min-width: 120px;
+  padding: 16px 20px 4px 0;
+  border-right: 1px solid var(--border);
+  margin-right: 20px;
+}
+.hero-stats__item:last-child { border-right: 0; margin-right: 0; }
+.hero-stats__n {
+  margin: 0;
+  font-family: var(--font-mono, ui-monospace, monospace);
+  font-size: 26px;
+  font-weight: 600;
+  letter-spacing: -.5px;
+  color: var(--calr-blue-600);
+  line-height: 1.15;
+}
+.hero-stats__l {
+  margin: 4px 0 0;
+  font-size: 12.5px;
+  color: var(--text-secondary);
+  letter-spacing: .3px;
+}
+
+@media (max-width: 767px) {
+  .hero-stats { margin-top: 20px; }
+  .hero-stats__item {
+    flex: 1 1 45%;
+    min-width: 0;
+    padding: 12px 12px 4px 0;
+    margin-right: 12px;
+  }
+  .hero-stats__item:nth-child(2n) { border-right: 0; margin-right: 0; }
+  .hero-stats__item:nth-child(n+3) { border-top: 1px solid var(--border); }
+  .hero-stats__n { font-size: 21px; }
+}
+
+/* ---------- 国别卡片底部对齐 ----------
+   各卡片的说明文字长短不一，「官方来源」换行行数不同，导致卡片高度参差。
+   让来源行始终贴底，卡片高度就齐了。 */
+.sys-card__body { display: flex; flex-direction: column; flex: 1 1 auto; }
+.sys-card__src { margin-top: auto; padding-top: 10px; }

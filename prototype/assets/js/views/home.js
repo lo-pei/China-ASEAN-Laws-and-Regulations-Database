@@ -65,8 +65,28 @@
             '</form>' +
             '<p class="hero-lite__note">' + esc(t('支持按法规名称、文号或关键词检索，覆盖中国与东盟十国共十二个法域的官方法规文本；结果可按国家、主题、法律层级与时效性进一步筛选。')) + '</p>' +
           '</div>' +
+          heroStatsHtml() +
         '</div>' +
       '</section>';
+  }
+
+  /** 数据规模：把最硬的四个数字摆在首屏。数值全部来自 store 统计，不写死。 */
+  function heroStatsHtml() {
+    var st = S().stats() || {};
+    var items = [
+      { n: st.laws, label: t('部法规') },
+      { n: st.articlesTotal || st.articles, label: t('条条文') },
+      { n: st.countries, label: t('个法域') },
+      /* 注意：st.languages 是「数据语种」（10 种原文语言），不是界面语言。
+         界面语言数应取 i18n 支持的语种数，两者不要混用。 */
+      { n: (CALR.i18n.langs && CALR.i18n.langs().length) || 6, label: t('种界面语言') }
+    ];
+    return '<dl class="hero-stats">' + items.map(function (it) {
+      return '<div class="hero-stats__item">' +
+        '<dd class="hero-stats__n">' + esc(formatNum(it.n)) + '</dd>' +
+        '<dt class="hero-stats__l">' + esc(it.label) + '</dt>' +
+      '</div>';
+    }).join('') + '</dl>';
   }
 
   /* ---------------- ② 法律体系介绍区 ---------------- */

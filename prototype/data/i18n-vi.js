@@ -829,6 +829,8 @@
   "更早": "Trước đó",
   "引用": "Trích dẫn",
   "复制本条引用": "Sao chép trích dẫn điều này",
-  "已复制：": "Đã sao chép: "
+  "已复制：": "Đã sao chép: ",
+  "条条文": "điều",
+  "种界面语言": "ngôn ngữ giao diện"
 };
 })(typeof window !== 'undefined' ? window : globalThis);

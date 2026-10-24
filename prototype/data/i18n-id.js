@@ -829,6 +829,8 @@
   "更早": "Lebih lama",
   "引用": "Kutipan",
   "复制本条引用": "Salin kutipan pasal ini",
-  "已复制：": "Disalin: "
+  "已复制：": "Disalin: ",
+  "条条文": "pasal",
+  "种界面语言": "bahasa antarmuka"
 };
 })(typeof window !== 'undefined' ? window : globalThis);

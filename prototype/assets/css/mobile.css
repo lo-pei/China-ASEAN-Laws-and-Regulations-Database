@@ -1,0 +1,92 @@
+/* ==========================================================================
+   移动端适配（B）—— 2026-10-24
+   体检发现的问题与根因：
+     ① 首页搜索框被裁切：.hero-lite__row 是 grid-template-columns: minmax(0,720px) minmax(0,1fr)
+        两列固定，390px 屏幕根本放不下 720px 的第一列，右侧说明文字也被挤出视口
+     ② 详情页元数据 4 列溢出：.meta-grid 固定 repeat(4, …)，最右两列被裁切
+     ③ 国别卡片图过高：.sys-card__ph 用 aspect-ratio: 3/4，单列 390px 宽时图高 520px
+     ④ 详情页英文副标题被截断：.law-title-alt 不换行
+   断点沿用项目既有约定：767px（手机）、1023px（平板竖屏）
+   ========================================================================== */
+
+/* ---------- ≤767px：手机 ---------- */
+@media (max-width: 767px) {
+  /* ① 首页 hero：两列改单列堆叠，说明文字从左侧竖线改为上边框 */
+  .hero-lite__row {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 20px;
+    margin-top: 26px;
+  }
+  .hero-lite__search { max-width: none; }
+  .hero-lite__note {
+    border-left: 0;
+    padding-left: 0;
+    border-top: 2px solid var(--border);
+    padding-top: 14px;
+    font-size: 12.5px;
+    line-height: 1.8;
+  }
+  .searchbox--xl { height: 48px; }
+
+  /* ② 元数据：4 列 → 2 列 */
+  .meta-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .meta-grid__cell { padding: 9px 11px; }
+  .meta-grid__value { font-size: 12.5px; }
+
+  /* ③ 国别卡片：单列时图片不要过高，改成 16:9 */
+  .sys-card__ph { aspect-ratio: 16 / 9; }
+  .sys-card__body { padding: 14px 14px 16px; }
+
+  /* ④ 中英标题副行允许换行 */
+  .law-title-alt {
+    flex-wrap: wrap;
+    row-gap: 2px;
+    font-size: 12.5px;
+    line-height: 1.5;
+  }
+  .law-title-alt span + span::before { content: ""; }
+
+  /* 阅读工具栏：字号组与模式组在窄屏各占一行 */
+  .reader-toolbar { gap: 6px; padding: 8px 10px; }
+  .reader-toolbar__group { gap: 4px; }
+  .reader-toolbar__sep { display: none; }
+
+  /* 表格类内容在窄屏允许横向滚动（而不是撑破页面） */
+  .table-scroll, .meta-table { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+
+  /* 条文正文：窄屏两端对齐会拉出过大字距，改回左对齐更好读 */
+  .article__p { text-align: left; text-justify: auto; }
+
+
+  /* ⑤ 跨语言比对：三个法域选择器原本固定 3 列，390px 下每个只剩 80px，
+        下拉框被压成「请选…」。窄屏改为单列堆叠。 */
+  .compare-picker { grid-template-columns: minmax(0, 1fr); gap: 10px; }
+
+  /* ⑥ 比对结果表格：窄屏允许横向滚动，不要撑破页面 */
+  .table { display: block; overflow-x: auto; -webkit-overflow-scrolling: touch; }
+
+  /* 目录侧栏在窄屏变为普通区块，取消吸顶 */
+  .sticky-col { position: static; }
+}
+
+/* ---------- 768–1023px：平板竖屏 ---------- */
+@media (min-width: 768px) and (max-width: 1023px) {
+  .hero-lite__row { grid-template-columns: minmax(0, 1fr); gap: 24px; }
+  .hero-lite__note {
+    border-left: 0;
+    padding-left: 0;
+    border-top: 2px solid var(--border);
+    padding-top: 12px;
+  }
+  .meta-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .sys-card__ph { aspect-ratio: 4 / 3; }
+}
+
+/* ---------- 触屏：去掉 hover 依赖的交互 ----------
+   条文「收起/展开」按钮原本只在 hover 时可见，触屏没有 hover 会点不到 */
+@media (hover: none) {
+  .article__toggle { opacity: 1; }
+}
+
+/* ---------- 兜底：任何情况下都不应出现横向滚动条 ---------- */
+html, body { overflow-x: hidden; max-width: 100%; }

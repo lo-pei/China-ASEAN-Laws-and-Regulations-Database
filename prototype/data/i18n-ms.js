@@ -829,6 +829,8 @@
   "更早": "Lebih awal",
   "引用": "Petikan",
   "复制本条引用": "Salin petikan peruntukan ini",
-  "已复制：": "Disalin: "
+  "已复制：": "Disalin: ",
+  "条条文": "seksyen",
+  "种界面语言": "bahasa antara muka"
 };
 })(typeof window !== 'undefined' ? window : globalThis);

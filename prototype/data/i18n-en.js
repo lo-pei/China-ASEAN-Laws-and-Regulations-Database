@@ -829,6 +829,8 @@
   "更早": "Earlier",
   "引用": "Citation",
   "复制本条引用": "Copy citation for this article",
-  "已复制：": "Copied: "
+  "已复制：": "Copied: ",
+  "条条文": "articles",
+  "种界面语言": "UI languages"
 };
 })(typeof window !== 'undefined' ? window : globalThis);
