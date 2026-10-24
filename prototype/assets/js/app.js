@@ -316,6 +316,30 @@
       var skip = root.document && root.document.querySelector('.skip-link');
       if (skip) skip.textContent = t('跳到主内容');
       var st = S().init();
+
+      /* API 模式（后端托管静态站时）：首屏先用已有数据渲染，
+         随后异步请求 /api/bootstrap 拿真实统计与筛选维度，再静默刷新；
+         同时在后台分页拉 /api/laws/compact 补齐全量法规。
+         全程不阻塞首屏 —— 这就是跳过 15.9 MB intl-catalog.js 的关键。 */
+      if (root.__CALR_API_MODE && CALR.api && CALR.api.enabled && CALR.api.enabled()) {
+        CALR.api.bootstrap().then(function (bs) {
+          if (!bs || !bs.stats) return;
+          S().seedFromApi(bs);
+          S().init();
+          dispatch(CALR.router.current(), { silent: true });
+          /* 后台补齐：每页 2000 条，10 页约 10.7 MB JSON（gzip 1.33 MB） */
+          (function loadPage(page) {
+            CALR.api.lawsCompact({ size: 2000, page: page }).then(function (r) {
+              var added = S().addCompactLaws(r.items || []);
+              if (added) dispatch(CALR.router.current(), { silent: true });
+              if (page < (r.pages || 1)) loadPage(page + 1);
+            }).catch(function () {});
+          })(1);
+        }).catch(function (e) {
+          if (root.console) console.warn('[CALR] bootstrap 失败，使用已加载数据：' + (e && e.message));
+        });
+      }
+
       renderHeader();
       renderFooter();
       CALR.app.initBackToTop();

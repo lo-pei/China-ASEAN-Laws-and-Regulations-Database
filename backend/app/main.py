@@ -21,6 +21,7 @@ CALR 后端 · FastAPI 应用（Phase A）
 """
 from __future__ import annotations
 
+import json
 import os
 import sys
 from typing import Any, Dict, List, Optional
@@ -82,6 +83,98 @@ def health() -> Dict[str, Any]:
 @app.get("/api/stats", summary="数据规模统计")
 def stats() -> Dict[str, Any]:
     return db.stats()
+
+
+@app.get("/api/bootstrap", summary="首屏元数据（统计/国别/层级/主题/示例问题）")
+def bootstrap() -> Dict[str, Any]:
+    """一次返回首屏所需的全部元数据。
+
+    前端在 API 模式下不再下载 15.9 MB 的 intl-catalog.js，改为请求这个接口，
+    拿到渲染首页、筛选面板、下拉选项所需的全部内容。
+    """
+    st = db.stats()
+    levels = [{"id": r["level"], "count": r["n"]} for r in db.rows(
+        "SELECT level, COUNT(*) n FROM laws GROUP BY level ORDER BY n DESC")]
+    statuses = [{"id": r["status"], "count": r["n"]} for r in db.rows(
+        "SELECT status, COUNT(*) n FROM laws GROUP BY status ORDER BY n DESC")]
+    # topics 存在 laws.topics 的 JSON 数组里，用 Python 侧聚合（SQLite 没有 json_each 的稳定支持）
+    topic_count: Dict[str, int] = {}
+    for r in db.rows("SELECT topics FROM laws WHERE topics IS NOT NULL"):
+        try:
+            arr = json.loads(r["topics"])
+        except Exception:
+            continue
+        if isinstance(arr, list):
+            for t in arr:
+                if isinstance(t, str) and t:
+                    topic_count[t] = topic_count.get(t, 0) + 1
+    topics = [{"id": k, "count": v}
+              for k, v in sorted(topic_count.items(), key=lambda x: -x[1])]
+    # 语言分布（法规级 language 字段）
+    lang_count: Dict[str, int] = {}
+    for r in db.rows("SELECT language FROM laws WHERE language IS NOT NULL"):
+        try:
+            arr = json.loads(r["language"]) if isinstance(r["language"], str) else r["language"]
+        except Exception:
+            arr = [r["language"]]
+        if isinstance(arr, str):
+            arr = [arr]
+        for x in (arr or []):
+            if isinstance(x, str) and x:
+                lang_count[x] = lang_count.get(x, 0) + 1
+    return {
+        "ok": True,
+        "version": APP_VERSION,
+        "stats": st,
+        "countries": [{"code": k, "count": v} for k, v in st["countries"].items()],
+        "levels": levels,
+        "statuses": statuses,
+        "topics": topics,
+        "languages": [{"id": k, "count": v}
+                      for k, v in sorted(lang_count.items(), key=lambda x: -x[1])],
+        "source": "api",
+    }
+
+
+@app.get("/api/laws/compact", summary="轻量法规列表（供前端后台补齐全量法规）")
+def laws_compact(page: int = Query(1, ge=1),
+                 size: int = Query(2000, ge=1, le=5000),
+                 country: Optional[str] = None) -> Dict[str, Any]:
+    """只返回列表页/统计/比对挑选所需的字段，比完整 law_dict 小很多。"""
+    where, params = [], []
+    if country:
+        where.append("country=?")
+        params.append(country.upper())
+    w = ("WHERE " + " AND ".join(where)) if where else ""
+    total = db.one("SELECT COUNT(*) FROM laws " + w, params, 0)
+    rs = db.rows(
+        "SELECT id,country,country_name,title_zh,title_en,title_orig,level,status,"
+        "topics,promulgated,effective,article_count,coverage,pack "
+        "FROM laws " + w + " ORDER BY id LIMIT ? OFFSET ?",
+        params + [size, (page - 1) * size])
+    items = []
+    for r in rs:
+        try:
+            topics = json.loads(r["topics"]) if r["topics"] else []
+        except Exception:
+            topics = []
+        items.append({
+            "id": r["id"],
+            "country": r["country"],
+            "countryName": r["country_name"],
+            "title": {"zh": r["title_zh"], "en": r["title_en"], "orig": r["title_orig"]},
+            "level": r["level"],
+            "status": r["status"],
+            "topics": topics,
+            "promulgatedDate": r["promulgated"],
+            "effectiveDate": r["effective"],
+            "articleCount": r["article_count"],
+            "coverage": r["coverage"],
+            "pack": r["pack"],
+        })
+    return {"total": total, "page": page, "size": size,
+            "pages": (total + size - 1) // size if total else 0,
+            "items": items}
 
 
 @app.get("/api/countries", summary="法域列表")

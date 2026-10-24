@@ -41,7 +41,21 @@
 <!-- 全量法规目录（中国 1500+ 部：仅元数据，条文按分卷按需加载） -->
 <script src="data/cn-catalog.js"></script>
 <!-- 东盟法律目录层与全文分卷索引（来源：资源爬取，条文按分卷按需加载） -->
-<script src="data/intl-catalog.js"></script>
+  <!-- 数据源决定：file:// 打开时加载完整 catalog（离线兜底）；
+       http(s) 打开说明后端在托管静态站，改用 /api/bootstrap（2.7 KB）+
+       /api/laws/compact 后台补齐，首屏不必解析 15.9 MB 的 intl-catalog.js。 -->
+  <script>
+  (function () {
+    var proto = location.protocol, host = location.host;
+    var isHttp = (proto === 'http:' || proto === 'https:') && !!host;
+    window.__CALR_API_MODE = isHttp ? (proto + '//' + host) : null;
+    if (!isHttp) {
+      document.write('<script src="data/intl-catalog.js"><\/script>');
+    } else if (window.console) {
+      console.info('[CALR] API 模式：跳过 intl-catalog.js（15.9 MB），改用 /api/bootstrap + /api/laws/compact');
+    }
+  })();
+  </script>
 <!-- 东盟成员国国界（Natural Earth 公有领域数据，供首页地图使用） -->
 <script src="data/asean-map.js"></script>
 <script src="data/intl/manifest.js"></script>

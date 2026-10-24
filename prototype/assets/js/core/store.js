@@ -48,7 +48,9 @@
       levels: core.levels || flat.levels || [],
       statuses: core.statuses || flat.statuses || [],
       countries: core.countries || flat.countries || [],
-      laws: core.laws || flat.laws || [],
+      /* API 模式下 intl-catalog.js 不再加载，法规由 /api/laws/compact 后台补齐，
+         暂存在 root.CALR_API_LAWS 里，这里合并进来，build() 会一并建索引。 */
+      laws: (core.laws || flat.laws || []).concat(root.CALR_API_LAWS || []),
       terms: extra.terms || flat.terms || [],
       treaties: extra.treaties || flat.treaties || [],
       cases: extra.cases || flat.cases || [],
@@ -307,8 +309,86 @@
       return null;
     },
 
-    /** 统计（用于首页与文档口径） */
+    /** 用 /api/bootstrap 的结果初始化统计与筛选维度（API 模式首屏调用） */
+    seedFromApi: function (bs) {
+      if (!bs) return false;
+      root.CALR_API_STATS = bs.stats || null;
+      root.CALR_API_COUNTRIES = bs.countries || [];
+      root.CALR_API_TOPICS = bs.topics || [];
+      root.CALR_API_LEVELS = bs.levels || [];
+      root.CALR_API_STATUSES = bs.statuses || [];
+      root.CALR_API_LANGS = bs.languages || [];
+      return true;
+    },
+
+    /** 把某一部法的完整条文写进 store（详情页 API 兜底用），并重建索引 */
+    addFullArticles: function (lawId, articles) {
+      if (!lawId || !articles || !articles.length) return 0;
+      var arr = root.CALR_API_FULL = root.CALR_API_FULL || {};
+      arr[lawId] = articles;
+      /* build() 会在 fullTextMap 之后处理；这里直接把条文挂到法规对象上再重建 */
+      var laws = state.laws || [];
+      for (var i = 0; i < laws.length; i++) {
+        if (laws[i].id === lawId) { laws[i].articles = articles; laws[i].coverage = 'full'; break; }
+      }
+      build();
+      return articles.length;
+    },
+
+    /** 把 /api/laws/compact 的轻量法规并入 store，并重建索引 */
+    addCompactLaws: function (items) {
+      if (!items || !items.length) return 0;
+      var arr = root.CALR_API_LAWS = root.CALR_API_LAWS || [];
+      var have = {};
+      /* 必须把 store 里已有的法规也登记进去：dataset-core / cn-catalog 里已经有 1,600 多部，
+         只对 CALR_API_LAWS 内部去重会让这些法规重复计入，国别卡片数字会偏大
+         （实测中国 1,594 而真实 1,586）。 */
+      var cur = state.laws || [];
+      for (var i = 0; i < cur.length; i++) if (cur[i] && cur[i].id) have[cur[i].id] = 1;
+      for (var i2 = 0; i2 < arr.length; i2++) have[arr[i2].id] = 1;
+      var added = 0;
+      for (var j = 0; j < items.length; j++) {
+        var it = items[j];
+        if (!it || !it.id || have[it.id]) continue;
+        /* 补上 build() 需要的字段（compact 接口已给大部分，这里补齐默认值） */
+        it.articles = it.articles || [];
+        it.languages = it.languages || [];
+        it.summary = it.summary || { zh: '' };
+        it.source = it.source || null;
+        arr.push(it);
+        have[it.id] = 1;
+        added++;
+      }
+      if (added) build();
+      return added;
+    },
+
+    /** 统计（用于首页与文档口径）
+        API 模式下只加载了少量法规也能拿到真实总数 —— 直接采用 /api/bootstrap 给的统计，
+        否则按 state.laws 算出来的数字会明显偏小（例如只载入 dataset-core 的几百部）。 */
     stats: function () {
+      var api = root.CALR_API_STATS;
+      if (api && api.laws) {
+        var bc = {};
+        (root.CALR_API_COUNTRIES || []).forEach(function (c) { bc[c.code] = c.count; });
+        return {
+          countries: (root.CALR_API_COUNTRIES || []).length || api.countries || 0,
+          laws: api.laws,
+          articles: api.articles,
+          articlesTotal: api.articles,
+          terms: api.terms || state.terms.length,
+          treaties: state.treaties.length,
+          cases: state.cases.length,
+          revisions: state.revisions.length,
+          languages: (root.CALR_API_LANGS || []).length || api.languages || 7,
+          topicCount: (root.CALR_API_TOPICS || []).length || state.topics.length,
+          lawsByCountry: bc,
+          fullTextLaws: api.laws,
+          fullTextArticles: api.articles,
+          catalogLaws: 0,
+          fromApi: true
+        };
+      }
       var byCountry = {};
       state.countries.forEach(function (c) { byCountry[c.code] = idx.lawsByCountry[c.code].length; });
       var full = state.laws.filter(function (l) { return l.coverage === 'full'; });

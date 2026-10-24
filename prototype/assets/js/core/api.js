@@ -111,6 +111,10 @@
 
     /* ---- 数据源切换说明：以下方法返回 Promise；调用方需自行降级 ---- */
     stats: function () { return get('/api/stats'); },
+    /* 首屏元数据（统计/国别/层级/主题/语言）：约 2.7 KB，替代 15.9 MB 的 intl-catalog.js */
+    bootstrap: function () { return get('/api/bootstrap'); },
+    /* 轻量法规列表：只含列表页需要的字段，供后台补齐全量法规 */
+    lawsCompact: function (opt) { return get('/api/laws/compact', opt); },
     countries: function () { return get('/api/countries'); },
     laws: function (opt) { return get('/api/laws', opt); },
     law: function (id) { return get('/api/laws/' + encodeURIComponent(id)); },

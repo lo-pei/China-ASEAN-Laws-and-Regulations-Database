@@ -20,7 +20,26 @@
       var id = params[0];
       var law = S().law(id);
       if (!law) {
-        main.innerHTML = '<div class="container page">' + C().emptyState(CALR.ui.icon('print'), t('未找到该法规'), '', '<p><a class="btn" href="#/search">' + esc(t('返回检索')) + '</a></p>') + '</div>';
+        /* API 模式兜底：store 里没有（compact 后台补齐尚未完成，或直接访问详情页链接），
+       就先向后端要这一部，拿到后写入 store 再重渲染。 */
+    if (root.__CALR_API_MODE && CALR.api && CALR.api.enabled && CALR.api.enabled() &&
+        CALR.api.law && !main.__calrLawFetching) {
+      main.__calrLawFetching = true;
+      CALR.api.law(id).then(function (full) {
+        if (full && full.id) {
+          if (CALR.store.addCompactLaws) CALR.store.addCompactLaws([full]);
+          if (CALR.store.addFullArticles) CALR.store.addFullArticles(full.id, full.articles || []);
+        }
+        main.__calrLawFetching = false;
+        views.law.render(main, params, query);
+      }).catch(function () {
+        main.__calrLawFetching = false;
+        views.law.render(main, params, query);
+      });
+      return;
+    }
+
+    main.innerHTML = '<div class="container page">' + C().emptyState(CALR.ui.icon('print'), t('未找到该法规'), '', '<p><a class="btn" href="#/search">' + esc(t('返回检索')) + '</a></p>') + '</div>';
         return;
       }
       /* 目录已收录但条文尚未载入：先载入所属分卷，再重新渲染 */
