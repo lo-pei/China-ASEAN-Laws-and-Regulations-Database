@@ -946,6 +946,178 @@ var NON_LEGAL = [
    * 异步问答：补充载入候选法规的条文后，再用 ask() 的同一套逻辑生成回答。
    * 与 ask() 返回同构；区别只是引用的条文更可能是真正的实体条文。
    */
+
+  /* ==================== 后端条文级向量召回 ====================
+     后端 /api/qa 用 bge-m3 条文级向量（334,779 条 × 1024 维）直接召回具体条文，
+     比本地的「法规级 BM25 + 分卷懒加载」更准（实测能精确到第 X 条，
+     且支持中文提问命中泰文/英文条文）。
+     这里是适配层：把后端 citations 转成 buildRefs() 的同一结构，
+     使 extractPoints() / answerHtml() / 引用卡片无需任何改动。 */
+
+  var API_COUNTRY_NAMES = {
+    CN: '中国', VN: '越南', TH: '泰国', MY: '马来西亚', SG: '新加坡',
+    ID: '印度尼西亚', PH: '菲律宾', BN: '文莱', KH: '柬埔寨',
+    LA: '老挝', MM: '缅甸', TL: '东帝汶'
+  };
+
+  function apiCountryName(code) {
+    try {
+      var n = S().countryName(code);
+      if (n && n !== code) return n;
+    } catch (e) {}
+    return API_COUNTRY_NAMES[code] || code || '';
+  }
+
+  /** 标题兜底：后端返回的标题可能就是法规 id（该法规本身无标题），
+      此时回查前端 store 拿可读标题，避免依据卡片显示「TH-H1139」。 */
+  function readableTitle(c) {
+    var T = c.lawTitle || {};
+    var t = T.zh || T.en || T.orig || '';
+    if (t && t !== c.lawId) return t;
+    try {
+      var lg = S().law(c.lawId);
+      if (lg) {
+        var v = U().tr(lg.title);
+        if (v && v !== c.lawId) return v;
+      }
+    } catch (e) {}
+    return t || c.lawId || '';
+  }
+
+  /** 跨重复记录去重：语料里同一部法常有多个 id（TH-H1139 与「个人数据保护法EN」等价），
+      标题可能不同、正文语种也可能不同，用「归一化标题 + 条号」作键收敛。 */
+  function apiDedupeKey(c, title) {
+    var t = String(title || '').toLowerCase()
+      .replace(/[\s《》()（）\-—_]/g, '')
+      .replace(/(19|20)\d{2}$/, '')
+      .replace(/(en|zh|ms|id|th|vi|my)$/, '');
+    return t + '#' + c.no;
+  }
+
+  /** 把后端 citation 转成本地 citations / basis 的结构 */
+  function adaptApiCitations(apiCites) {
+    var citations = [], basis = [], seen = {};
+    (apiCites || []).forEach(function (c) {
+      var title = readableTitle(c);
+      var tx = c.text || {};
+      var lang = tx.zh ? 'zh' : (tx.en ? 'en' : (Object.keys(tx)[0] || 'zh'));
+      var full = U().plain(tx[lang] || '');
+      if (!full) return;
+      /* 元数据头（「本法称为…」之类）不作引用，与本地 buildRefs 的规则一致 */
+      if (isMetaHeader(full)) return;
+      var noLabel = c.noLabel || ('第 ' + c.no + ' 条');
+      var cname = apiCountryName(c.country);
+      var dk = apiDedupeKey(c, title);
+      if (seen[dk]) return;
+      seen[dk] = 1;
+      citations.push({
+        articleId: c.lawId + '-A' + c.no,
+        lawId: c.lawId,
+        country: c.country,
+        countryName: cname,
+        lawTitle: title,
+        noLabel: noLabel,
+        heading: c.heading || '',
+        excerpt: U().truncate(full, 160),
+        fullText: full,
+        zhHints: zhHintsOf(full, lang),
+        score: c.score
+      });
+      basis.push({
+        countryName: cname,
+        lawTitle: title,
+        noLabel: noLabel,
+        heading: c.heading || '',
+        excerpt: U().truncate(full, 180),
+        articleId: c.lawId + '-A' + c.no,
+        lawId: c.lawId
+      });
+    });
+    return { citations: citations, basis: basis };
+  }
+
+  /** 由后端结果组装成 ask() 的返回结构 */
+  function buildApiAnswer(question, apiRes) {
+    var adapted = adaptApiCitations(apiRes && apiRes.citations);
+    var cites = adapted.citations;
+    if (!cites.length) return null;
+
+    var countries = [];
+    cites.forEach(function (c) {
+      if (c.country && countries.indexOf(c.country) < 0) countries.push(c.country);
+    });
+    var solo = countries.length === 1 ? countries[0] : null;
+    var points = extractPoints(cites, MAX_POINTS);
+    var topics = [];
+    cites.forEach(function (c) {
+      var lg = null;
+      try { lg = S().law(c.lawId); } catch (e) { lg = null; }
+      (lg && lg.topics ? lg.topics : []).forEach(function (t) {
+        if (topics.indexOf(t) < 0) topics.push(t);
+      });
+    });
+
+    /* 用实际可用于展示的条数（后端可能返回 6 条，其中 2 条是元数据头被跳过） */
+    var overview = '依据库内条文，就「' + question + '」整理了 ' + cites.length +
+      ' 条直接相关的依据' +
+      (countries.length ? '，涉及 ' + countries.map(apiCountryName).join('、') : '') + '。';
+    var basis = cites.map(function (c) {
+      return c.countryName + '《' + String(c.lawTitle).replace(/^.*?《|》$/g, '') + '》' + c.noLabel;
+    });
+
+    return {
+      inScope: true,
+      question: question,
+      countries: countries,
+      country: solo,
+      answer: {
+        overview: overview,
+        basis: basis,
+        points: points,
+        analysis: '',
+        background: topics.length ? topics.map(function (t) { return '涉及主题：' + S().topicName(t); }).join('；') : '',
+        risk: riskText(topics)
+      },
+      citations: cites,
+      disclaimer: DISCLAIMER,
+      related: [],
+      retrieval: {
+        count: cites.length,
+        taken: cites.length,
+        topScore: null,
+        countryFilter: countries,
+        matchedCurated: null,
+        source: 'article-vector'
+      }
+    };
+  }
+
+  /**
+   * 走后端条文级向量召回；失败返回 null，由 askAsync 回落本地路径。
+   */
+  function askViaApi(question, opts) {
+    opts = opts || {};
+    if (!CALR.api || !CALR.api.enabled || !CALR.api.enabled()) return Promise.resolve(null);
+    if (!CALR.api.qa) return Promise.resolve(null);
+    /* 非法律问题与未收录法域仍走本地：本地有专门的婉拒文案与相似问题推荐 */
+    if (isNonLegal(question)) return Promise.resolve(null);
+    if (outOfJurisdiction(question, detectCountries(question))) return Promise.resolve(null);
+
+    return CALR.api.qa({
+      question: question,
+      topk: opts.topk || 6,
+      country: opts.country || null
+    }).then(function (r) {
+      var res = buildApiAnswer(question, r);
+      return (res && res.citations.length) ? res : null;
+    }).catch(function (e) {
+      if (typeof window !== 'undefined' && window.console) {
+        window.console.warn('[CALR] 后端问答不可用，回落本地检索：' + (e && e.message));
+      }
+      return null;
+    });
+  }
+
   function askAsync(question, opts) {
     opts = opts || {};
     var qq = String(question || '').trim();
@@ -956,19 +1128,27 @@ var NON_LEGAL = [
     if (!CALR.fulltext || !CALR.fulltext.ensureLaws) return Promise.resolve(ask(question, opts));
 
     var searchQ = String(opts.searchQuery || '').trim() || qq;
-    return retrieveWithPacks(qq, { searchQuery: searchQ, packBudget: opts.packBudget })
-      .then(function () {
-        var res = ask(question, opts);
-        /* Day4 / B1：配置了 API Key 时，用模型筛掉"词面命中但语义无关"的引用 */
-        if (opts.rerank === false) return res;
-        return applyRerank(qq, res);
-      })
-      .catch(function () { return ask(question, opts); });
+
+    /* ① 优先后端条文级向量召回（精确到第 X 条，支持跨语言） */
+    return askViaApi(qq, opts).then(function (apiRes) {
+      if (apiRes) return apiRes;
+
+      /* ② 回落本地：分卷懒加载 + 法规级检索，行为与接入前完全一致 */
+      return retrieveWithPacks(qq, { searchQuery: searchQ, packBudget: opts.packBudget })
+        .then(function () {
+          var res = ask(question, opts);
+          /* Day4 / B1：配置了 API Key 时，用模型筛掉"词面命中但语义无关"的引用 */
+          if (opts.rerank === false) return res;
+          return applyRerank(qq, res);
+        })
+        .catch(function () { return ask(question, opts); });
+    });
   }
 
   CALR.qa = {
     ask: ask,
     askAsync: askAsync,
+    askViaApi: askViaApi,
     retrieveWithPacks: retrieveWithPacks,
     zhHintsOf: zhHintsOf,
     isMetaHeader: isMetaHeader,
