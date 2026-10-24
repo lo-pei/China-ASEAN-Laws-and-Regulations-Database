@@ -1,9 +1,9 @@
 {
  "formatVersion": "calr-title-zh-v1",
- "updatedAt": "2026-10-24T11:59:43",
+ "updatedAt": "2026-10-24T13:24:36",
  "note": "法规标题中文译名的权威导出与交付物归档。译名正文以 prototype/data/laws/<id>.json 的 title.zh 为唯一真源，本目录为其汇总导出与过程存档。",
  "lawCount": 18854,
- "translatedCount": 18154,
+ "translatedCount": 18725,
  "coverage": {
   "PH": {
    "total": 10619,
@@ -165,6 +165,12 @@
    "count": 235,
    "engine": "source-extract",
    "note": "从已有数据提取标题，非翻译"
+  },
+  {
+   "name": "th-zh-2026-10-24",
+   "count": 12,
+   "engine": "nllb-200-distilled-600M",
+   "note": "泰文法规标题机器翻译，未人工校对"
   }
  ],
  "files": [

@@ -33,7 +33,7 @@ for p in (_BACKEND, _ROOT):
     if p not in sys.path:
         sys.path.insert(0, p)
 
-from fastapi import FastAPI, HTTPException, Query
+from fastapi import Depends, FastAPI, HTTPException, Query
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.middleware.gzip import GZipMiddleware
 from fastapi.responses import JSONResponse
@@ -41,29 +41,34 @@ from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel, Field
 
 from . import db, search as search_mod, vectors as vec_mod, hybrid as hybrid_mod, embedder
+from . import security
 
 APP_VERSION = "0.1.0-phaseA"
 PROTO = os.path.join(_ROOT, "prototype")
 
 app = FastAPI(
     title="CALR · 中国—东盟法律法规数据库 API",
-    description="法规检索与数据服务（Phase A：数据可达性 + API 骨架）",
+    description="法规检索与数据服务",
     version=APP_VERSION,
 )
+
+# ── 安全中间件：请求体上限 + 按 IP 限流（见 app/security.py） ────────────
+app.middleware("http")(security.security_middleware)
 
 # ── gzip 压缩 ────────────────────────────────────────────────────────────
 # 静态数据文件很大（intl-catalog.js 原始 15.9 MB），但压缩率极高：
 # 实测 21.1 MB 静态资源 gzip 后仅 3.40 MB（压掉 84%），
 # 其中 intl-catalog.js 15.9 MB → 1.73 MB。
-# 这一项把首屏从 5.6 秒压到 1 秒级，而且前端代码一行不用改。
 app.add_middleware(GZipMiddleware, minimum_size=1024, compresslevel=6)
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],          # 静态页以 file:// 打开时也需要跨域
+    # 不再放开 "*"：默认仅同源 + file:// 的 "null"，可用 CALR_CORS_ORIGINS 显式追加域名
+    allow_origins=security.CORS_ORIGINS,
     allow_credentials=False,
-    allow_methods=["*"],
-    allow_headers=["*"],
+    allow_methods=["GET", "POST", "OPTIONS"],
+    allow_headers=["Content-Type", "X-API-Key"],
+    max_age=600,
 )
 
 
@@ -74,7 +79,8 @@ def health() -> Dict[str, Any]:
         m = db.meta()
         return {"ok": True, "version": APP_VERSION,
                 "db": {"laws": m.get("laws"), "articles": m.get("articles"),
-                       "builtAt": m.get("built_at")}}
+                       "builtAt": m.get("built_at")},
+                "security": security.status()}
     except Exception as e:
         return JSONResponse(status_code=503,
                             content={"ok": False, "error": str(e)})
@@ -304,7 +310,8 @@ def _fmt_no(no) -> str:
         return str(no)
 
 
-@app.post("/api/qa", summary="问答（条文级向量召回）")
+@app.post("/api/qa", summary="问答（条文级向量召回）",
+         dependencies=[Depends(security.require_api_key)])
 def qa(req: QARequest) -> Dict[str, Any]:
     """用条文级 bge-m3 向量召回真实条文，返回可直接引用的依据列表。
 
