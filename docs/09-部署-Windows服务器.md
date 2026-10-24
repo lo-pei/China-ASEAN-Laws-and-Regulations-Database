@@ -75,9 +75,30 @@ pip --version
 先在**你自己的电脑**上确认已生成（我这边的输出目录是项目的 `_out\`）：
 
 ```
-calr-runtime.tar.gz   约 800 MB   ← 站点 + 数据库 + 向量
-calr-model.tar.gz     约 2.1 GB   ← bge-m3 模型
+calr-runtime.tar.gz    709.7 MB   ← 站点 + 数据库 + 向量（原始 2,891 MB，压到 4:1）
+calr-model.tar.gz    1,260.4 MB   ← bge-m3 模型（原始 2,179 MB）
+                      ─────────
+              合计   1,970.1 MB ≈ 1.92 GB
 ```
+
+**SHA256（传到服务器后可以校验，防止传坏）**：
+
+```
+24A38EF0130B23BE8BF707A519FA0F48551C3A8FB3A0D5ECCD1A56975EF4274E  calr-model.tar.gz
+74743A5C1BC6C80930F34B421CD9BC493E33FE6D4EE13E5712564C7024876CA8  calr-runtime.tar.gz
+```
+
+服务器上校验（PowerShell）：
+
+```powershell
+Get-FileHash C:\calr\calr-runtime.tar.gz -Algorithm SHA256
+Get-FileHash C:\calr\calr-model.tar.gz  -Algorithm SHA256
+```
+
+哈希不一致就重传，别硬解压——解到一半报错会更难查。
+
+**打包内容已核对**：runtime 包 19,457 个条目（19,381 个文件 + 目录），
+model 包内含 `model.onnx_data`。
 
 ### 3.1 传输方式（挑一个）
 
