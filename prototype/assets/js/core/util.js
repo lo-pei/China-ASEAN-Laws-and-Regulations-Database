@@ -114,10 +114,42 @@
 
   /** 法条文本按「款」拆分为自然段数组（用于逐段首行缩进） */
   util.paragraphs = function (text) {
-    return String(text == null ? '' : text)
-      .split(/\r?\n/)
-      .map(function (x) { return x.trim(); })
-      .filter(Boolean);
+    var raw = String(text == null ? '' : text).split(/\r?\n/);
+    /* 智能合并 PDF/OCR 断行：
+       PDF 抽出的文本常在句子中间插入换行，直接按 \n 切会把一句话拆成好几段，
+       渲染出来就是「一行一句、参差不齐」。
+       规则：若上一行不以句末标点收尾，且下一行不是新条目（编号 / 第X条 / 括号项 /
+       项目符号），则把下一行接上去。真正的段落分隔（上一行以句号结尾）不受影响。 */
+    var END_PUNCT = /[。！？；：!?;:：”』」）)\]]\s*$/;
+    var NEW_ITEM = /^\s*(第[一二三四五六七八九十百千0-9]+[条章节款项]|[（(][一二三四五六七八九十0-9]+[）)]|[0-9]+[.、．)]|[①-⑳]|[一二三四五六七八九十]+、|[-—*·•]\s)/;
+    var merged = [];
+    for (var i = 0; i < raw.length; i++) {
+      var line = raw[i];
+      var t = String(line == null ? '' : line);
+      if (!t.trim()) { merged.push(''); continue; }
+      if (merged.length) {
+        var prevIdx = merged.length - 1;
+        var prev = merged[prevIdx];
+        if (prev && prev.trim() && !END_PUNCT.test(prev) && !NEW_ITEM.test(t)) {
+          /* 英文行尾是连字符时去掉连字符再拼；中文直接拼 */
+          if (/[A-Za-z]-$/.test(prev.trim())) {
+            /* 英文行尾连字符：去掉连字符直接拼（如 exam- / ple → example） */
+            merged[prevIdx] = prev.trim().slice(0, -1) + t.trim();
+          } else if (/[0-9A-Za-z)]\s*$/.test(prev) && /^[0-9A-Za-z(\[]/.test(t.trim())) {
+            /* 两侧都是拉丁字母/数字：补一个空格，避免 "processes; and(b)" 这种粘连 */
+            merged[prevIdx] = prev.replace(/\s+$/, '') + ' ' + t.trim();
+          } else {
+            /* 中文与其它情况直接拼，不插空格 */
+            merged[prevIdx] = prev + t;
+          }
+          continue;
+        }
+      }
+      merged.push(t);
+    }
+    return merged
+      .map(function (x) { return String(x).trim(); })
+      .filter(function (x) { return x.length > 0; });
   };
 
   /** 把法条文本渲染为逐段缩进的 <p> 序列（html 为可选的逐段渲染函数） */

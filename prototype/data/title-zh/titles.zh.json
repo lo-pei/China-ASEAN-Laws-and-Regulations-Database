@@ -1,7 +1,7 @@
 {
  "formatVersion": "calr-title-zh-v1",
- "generatedAt": "2026-10-24T00:42:14",
- "count": 18227,
+ "generatedAt": "2026-10-24T11:59:43",
+ "count": 18154,
  "titles": {
   "BN-BANKRUPTCY-RULES": {
    "zh": "破产规则",
@@ -4379,96 +4379,8 @@
    "model": null,
    "reviewed": false
   },
-  "BN-H108": {
-   "zh": "宪法_1959",
-   "en": "Constitutional Matters I – Constitution of Brunei Darussalam (2022 Edition)",
-   "batch": null,
-   "engine": null,
-   "model": null,
-   "reviewed": false
-  },
   "BN-H109": {
    "zh": "2013年先锋产业和先锋产品法",
-   "en": null,
-   "batch": null,
-   "engine": null,
-   "model": null,
-   "reviewed": false
-  },
-  "BN-H110": {
-   "zh": "个人数据保护令_2025",
-   "en": "Personal Data Protection Order, 2025 (S 1/2025)",
-   "batch": null,
-   "engine": null,
-   "model": null,
-   "reviewed": false
-  },
-  "BN-H111": {
-   "zh": "雇佣法_2009",
-   "en": "Employment Act (Chapter 278)",
-   "batch": null,
-   "engine": null,
-   "model": null,
-   "reviewed": false
-  },
-  "BN-H112": {
-   "zh": "电子交易法_2000",
-   "en": "Electronic Transactions Act (Chapter 196)",
-   "batch": null,
-   "engine": null,
-   "model": null,
-   "reviewed": false
-  },
-  "BN-H113": {
-   "zh": "版权令_1999",
-   "en": "Copyright Order, 1999 (S 14/2000)",
-   "batch": null,
-   "engine": null,
-   "model": null,
-   "reviewed": false
-  },
-  "BN-H114": {
-   "zh": "公司法_1957",
-   "en": "Companies Act (Chapter 39)",
-   "batch": null,
-   "engine": null,
-   "model": null,
-   "reviewed": false
-  },
-  "BN-H115": {
-   "zh": "所得税法_1949",
-   "en": "Income Tax Act (Chapter 35)",
-   "batch": null,
-   "engine": null,
-   "model": null,
-   "reviewed": false
-  },
-  "BN-H116": {
-   "zh": "仲裁法_2009",
-   "en": "Arbitration Act (Chapter 173)",
-   "batch": null,
-   "engine": null,
-   "model": null,
-   "reviewed": false
-  },
-  "BN-H117": {
-   "zh": "合同法_1939",
-   "en": "Contracts Act (Chapter 106)",
-   "batch": null,
-   "engine": null,
-   "model": null,
-   "reviewed": false
-  },
-  "BN-H118": {
-   "zh": "宪法财政程序令",
-   "en": null,
-   "batch": null,
-   "engine": null,
-   "model": null,
-   "reviewed": false
-  },
-  "BN-H119": {
-   "zh": "电子交易法",
    "en": null,
    "batch": null,
    "engine": null,
@@ -22995,86 +22907,6 @@
    "model": null,
    "reviewed": false
   },
-  "ID-H057": {
-   "zh": "就业创造法_2023",
-   "en": "Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang",
-   "batch": null,
-   "engine": null,
-   "model": null,
-   "reviewed": false
-  },
-  "ID-H058": {
-   "zh": "宪法合并单一文本_1945",
-   "en": "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 (Satu Naskah)",
-   "batch": null,
-   "engine": null,
-   "model": null,
-   "reviewed": false
-  },
-  "ID-H059": {
-   "zh": "仲裁与替代性争议解决法_1999",
-   "en": "Undang-Undang Nomor 30 Tahun 1999 tentang Arbitrase dan Alternatif Penyelesaian Sengketa",
-   "batch": null,
-   "engine": null,
-   "model": null,
-   "reviewed": false
-  },
-  "ID-H060": {
-   "zh": "电子信息与交易法_2008",
-   "en": "Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik",
-   "batch": null,
-   "engine": null,
-   "model": null,
-   "reviewed": false
-  },
-  "ID-H061": {
-   "zh": "商标与地理标志法_2016",
-   "en": "Undang-Undang Nomor 20 Tahun 2016 tentang Merek dan Indikasi Geografis",
-   "batch": null,
-   "engine": null,
-   "model": null,
-   "reviewed": false
-  },
-  "ID-H062": {
-   "zh": "个人数据保护法_2022",
-   "en": "Undang-Undang Nomor 27 Tahun 2022 tentang Pelindungan Data Pribadi",
-   "batch": null,
-   "engine": null,
-   "model": null,
-   "reviewed": false
-  },
-  "ID-H063": {
-   "zh": "公司法_2007",
-   "en": "Undang-Undang Nomor 40 Tahun 2007 tentang Perseroan Terbatas",
-   "batch": null,
-   "engine": null,
-   "model": null,
-   "reviewed": false
-  },
-  "ID-H064": {
-   "zh": "宪法_1945",
-   "en": "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945",
-   "batch": null,
-   "engine": null,
-   "model": null,
-   "reviewed": false
-  },
-  "ID-H065": {
-   "zh": "版权法_2014",
-   "en": "Undang-Undang Nomor 28 Tahun 2014 tentang Hak Cipta",
-   "batch": null,
-   "engine": null,
-   "model": null,
-   "reviewed": false
-  },
-  "ID-H066": {
-   "zh": "民法典_1847",
-   "en": null,
-   "batch": null,
-   "engine": null,
-   "model": null,
-   "reviewed": false
-  },
   "KH-H001": {
    "zh": "仲裁/争议解决法",
    "en": "Commercial Arbitration Law",
@@ -25011,102 +24843,6 @@
    "model": null,
    "reviewed": false
   },
-  "MM-H069": {
-   "zh": "宪法MY_2008",
-   "en": "ဖွဲ့စည်းပုံအခြေခံဥပဒေ (၂၀၀၈ ခုနှစ်)",
-   "batch": null,
-   "engine": null,
-   "model": null,
-   "reviewed": false
-  },
-  "MM-H070": {
-   "zh": "公司法_2017",
-   "en": "The Myanmar Companies Law (Pyidaungsu Hluttaw Law No. 29, 2017)",
-   "batch": null,
-   "engine": null,
-   "model": null,
-   "reviewed": false
-  },
-  "MM-H071": {
-   "zh": "版权法_2019",
-   "en": "The Copyright Law（官方页面标注 Issue Date 2019-05-24）",
-   "batch": null,
-   "engine": null,
-   "model": null,
-   "reviewed": false
-  },
-  "MM-H072": {
-   "zh": "投资法_2016",
-   "en": "Myanmar Investment Law (Pyidaungsu Hluttaw Law No. 40/2016)",
-   "batch": null,
-   "engine": null,
-   "model": null,
-   "reviewed": false
-  },
-  "MM-H073": {
-   "zh": "仲裁法_2016",
-   "en": "The Arbitration Law (Pyidaungsu Hluttaw Law No. 5, 2016)",
-   "batch": null,
-   "engine": null,
-   "model": null,
-   "reviewed": false
-  },
-  "MM-H074": {
-   "zh": "电子交易法_2004",
-   "en": "Electronic Transactions Law 2004",
-   "batch": null,
-   "engine": null,
-   "model": null,
-   "reviewed": false
-  },
-  "MM-H075": {
-   "zh": "所得税法MY_—",
-   "en": "ဝင်ငွေခွန် ဥပဒေ",
-   "batch": null,
-   "engine": null,
-   "model": null,
-   "reviewed": false
-  },
-  "MM-H076": {
-   "zh": "商标法_2019",
-   "en": "Trademark Law 2019",
-   "batch": null,
-   "engine": null,
-   "model": null,
-   "reviewed": false
-  },
-  "MM-H077": {
-   "zh": "宪法_2008",
-   "en": null,
-   "batch": null,
-   "engine": null,
-   "model": null,
-   "reviewed": false
-  },
-  "MM-H078": {
-   "zh": "专利法_2019",
-   "en": null,
-   "batch": null,
-   "engine": null,
-   "model": null,
-   "reviewed": false
-  },
-  "MM-H079": {
-   "zh": "著作权法_2019",
-   "en": null,
-   "batch": null,
-   "engine": null,
-   "model": null,
-   "reviewed": false
-  },
-  "MM-H080": {
-   "zh": "所得税法_1974",
-   "en": null,
-   "batch": null,
-   "engine": null,
-   "model": null,
-   "reviewed": false
-  },
   "MM-H111": {
    "zh": "刑法典",
    "en": "THE PENAL CODE",
@@ -25459,153 +25195,9 @@
    "model": null,
    "reviewed": false
   },
-  "MY-H088": {
-   "zh": "个人资料保护法_2010",
-   "en": "个人资料保护法（Personal Data Protection Act 2010）",
-   "batch": null,
-   "engine": null,
-   "model": null,
-   "reviewed": false
-  },
-  "MY-H089": {
-   "zh": "劳动法_1955_en_2023重印",
-   "en": "劳动法（Employment Act 1955）",
-   "batch": null,
-   "engine": null,
-   "model": null,
-   "reviewed": false
-  },
-  "MY-H090": {
-   "zh": "投资法_1986_en_2022修订",
-   "en": "投资促进法（Promotion of Investments Act 1986）",
-   "batch": null,
-   "engine": null,
-   "model": null,
-   "reviewed": false
-  },
-  "MY-H091": {
-   "zh": "商标法_1976",
-   "en": "商标法（Trade Marks Act 1976）",
-   "batch": null,
-   "engine": null,
-   "model": null,
-   "reviewed": false
-  },
-  "MY-H092": {
-   "zh": "民法_1956",
-   "en": "民法（Civil Law Act 1956）",
-   "batch": null,
-   "engine": null,
-   "model": null,
-   "reviewed": false
-  },
-  "MY-H093": {
-   "zh": "公司法_2016_en_2025修订",
-   "en": "公司法（Companies Act 2016）",
-   "batch": null,
-   "engine": null,
-   "model": null,
-   "reviewed": false
-  },
-  "MY-H094": {
-   "zh": "货物买卖法_1957",
-   "en": "货物买卖法（Sale of Goods Act 1957）",
-   "batch": null,
-   "engine": null,
-   "model": null,
-   "reviewed": false
-  },
   "MY-H095": {
    "zh": "仲裁法修正案",
    "en": null,
-   "batch": null,
-   "engine": null,
-   "model": null,
-   "reviewed": false
-  },
-  "MY-H096": {
-   "zh": "数字签名法_1997",
-   "en": "数字签名法（Digital Signature Act 1997）",
-   "batch": null,
-   "engine": null,
-   "model": null,
-   "reviewed": false
-  },
-  "MY-H097": {
-   "zh": "专利法_1983",
-   "en": "专利法（Patents Act 1983）",
-   "batch": null,
-   "engine": null,
-   "model": null,
-   "reviewed": false
-  },
-  "MY-H098": {
-   "zh": "仲裁法_2005",
-   "en": "ARBITRATION ACT 2005",
-   "batch": null,
-   "engine": null,
-   "model": null,
-   "reviewed": false
-  },
-  "MY-H099": {
-   "zh": "个人数据保护法_2010",
-   "en": "PERSONAL DATA PROTECTION ACT 2010",
-   "batch": null,
-   "engine": null,
-   "model": null,
-   "reviewed": false
-  },
-  "MY-H100": {
-   "zh": "联邦宪法_1957",
-   "en": "Federal Constitution",
-   "batch": null,
-   "engine": null,
-   "model": null,
-   "reviewed": false
-  },
-  "MY-H101": {
-   "zh": "电子商务法_2006",
-   "en": "ELECTRONIC COMMERCE ACT 2006",
-   "batch": null,
-   "engine": null,
-   "model": null,
-   "reviewed": false
-  },
-  "MY-H102": {
-   "zh": "所得税法_1967",
-   "en": "INCOME TAX ACT 1967",
-   "batch": null,
-   "engine": null,
-   "model": null,
-   "reviewed": false
-  },
-  "MY-H103": {
-   "zh": "版权法_1987",
-   "en": "COPYRIGHT ACT 1987",
-   "batch": null,
-   "engine": null,
-   "model": null,
-   "reviewed": false
-  },
-  "MY-H104": {
-   "zh": "雇佣法_1955",
-   "en": "EMPLOYMENT ACT 1955",
-   "batch": null,
-   "engine": null,
-   "model": null,
-   "reviewed": false
-  },
-  "MY-H105": {
-   "zh": "民法法令_1956",
-   "en": "CIVIL LAW ACT 1956",
-   "batch": null,
-   "engine": null,
-   "model": null,
-   "reviewed": false
-  },
-  "MY-H106": {
-   "zh": "合同法_1950",
-   "en": "CONTRACTS ACT 1950",
    "batch": null,
    "engine": null,
    "model": null,
@@ -143811,22 +143403,6 @@
    "model": null,
    "reviewed": false
   },
-  "VN-H080": {
-   "zh": "宪法_2013",
-   "en": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam 2013",
-   "batch": null,
-   "engine": null,
-   "model": null,
-   "reviewed": false
-  },
-  "VN-H081": {
-   "zh": "个人数据保护法令_2023",
-   "en": "Nghị định 13/2023/NĐ-CP về bảo vệ dữ liệu cá nhân",
-   "batch": null,
-   "engine": null,
-   "model": null,
-   "reviewed": false
-  },
   "VN-H086": {
    "zh": "投资法",
    "en": "Law on Investment",
@@ -143955,33 +143531,6 @@
    "reviewed": false,
    "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
   },
-  "BN-H020": {
-   "zh": "ARBITRATION ACT (Chapter 173)",
-   "en": "ARBITRATION ACT (Chapter 173)",
-   "batch": "title-fill-2026-10-24",
-   "engine": "source-extract",
-   "model": "source.name / 正文原文标题",
-   "reviewed": false,
-   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
-  },
-  "BN-H021": {
-   "zh": "COMPANIES ACT (Chapter 39)",
-   "en": "COMPANIES ACT (Chapter 39)",
-   "batch": "title-fill-2026-10-24",
-   "engine": "source-extract",
-   "model": "source.name / 正文原文标题",
-   "reviewed": false,
-   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
-  },
-  "BN-H023": {
-   "zh": "LABOUR ACT (Chapter 93)",
-   "en": "LABOUR ACT (Chapter 93)",
-   "batch": "title-fill-2026-10-24",
-   "engine": "source-extract",
-   "model": "source.name / 正文原文标题",
-   "reviewed": false,
-   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
-  },
   "BN-H024": {
    "zh": "INVENTIONS ACT (Chapter 72)",
    "en": "INVENTIONS ACT (Chapter 72)",
@@ -144018,36 +143567,9 @@
    "reviewed": false,
    "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
   },
-  "BN-H032": {
-   "zh": "EMPLOYMENT ACT (Chapter 278)",
-   "en": "EMPLOYMENT ACT (Chapter 278)",
-   "batch": "title-fill-2026-10-24",
-   "engine": "source-extract",
-   "model": "source.name / 正文原文标题",
-   "reviewed": false,
-   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
-  },
-  "BN-H033": {
-   "zh": "INCOME TAX ACT (Chapter 35)",
-   "en": "INCOME TAX ACT (Chapter 35)",
-   "batch": "title-fill-2026-10-24",
-   "engine": "source-extract",
-   "model": "source.name / 正文原文标题",
-   "reviewed": false,
-   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
-  },
   "BN-H035": {
    "zh": "INVESTMENT INCENTIVES ACT (Chapter 97)",
    "en": "INVESTMENT INCENTIVES ACT (Chapter 97)",
-   "batch": "title-fill-2026-10-24",
-   "engine": "source-extract",
-   "model": "source.name / 正文原文标题",
-   "reviewed": false,
-   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
-  },
-  "BN-H043": {
-   "zh": "CONTRACTS ACT (Chapter 106)",
-   "en": "CONTRACTS ACT (Chapter 106)",
    "batch": "title-fill-2026-10-24",
    "engine": "source-extract",
    "model": "source.name / 正文原文标题",
@@ -144063,63 +143585,9 @@
    "reviewed": false,
    "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
   },
-  "BN-H052": {
-   "zh": "CONSTITUTION OF BRUNEI DARUSSALAM",
-   "en": "CONSTITUTION OF BRUNEI DARUSSALAM",
-   "batch": "title-fill-2026-10-24",
-   "engine": "source-extract",
-   "model": "source.name / 正文原文标题",
-   "reviewed": false,
-   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
-  },
-  "BN-H055": {
-   "zh": "LIMITED LIABILITY PARTNERSHIPS ORDER, 2010",
-   "en": "LIMITED LIABILITY PARTNERSHIPS ORDER, 2010",
-   "batch": "title-fill-2026-10-24",
-   "engine": "source-extract",
-   "model": "source.name / 正文原文标题",
-   "reviewed": false,
-   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
-  },
   "BN-H056": {
    "zh": "BILLS OF EXCHANGE ACT (Chapter 172)",
    "en": "BILLS OF EXCHANGE ACT (Chapter 172)",
-   "batch": "title-fill-2026-10-24",
-   "engine": "source-extract",
-   "model": "source.name / 正文原文标题",
-   "reviewed": false,
-   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
-  },
-  "BN-H058": {
-   "zh": "COPYRIGHT ORDER, 1999",
-   "en": "COPYRIGHT ORDER, 1999",
-   "batch": "title-fill-2026-10-24",
-   "engine": "source-extract",
-   "model": "source.name / 正文原文标题",
-   "reviewed": false,
-   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
-  },
-  "BN-H059": {
-   "zh": "SUCCESSION AND REGENCY PROCLAMATION 1959",
-   "en": "SUCCESSION AND REGENCY PROCLAMATION 1959",
-   "batch": "title-fill-2026-10-24",
-   "engine": "source-extract",
-   "model": "source.name / 正文原文标题",
-   "reviewed": false,
-   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
-  },
-  "BN-H061": {
-   "zh": "INCOME TAX (PETROLEUM) ACT (Chapter 119)",
-   "en": "INCOME TAX (PETROLEUM) ACT (Chapter 119)",
-   "batch": "title-fill-2026-10-24",
-   "engine": "source-extract",
-   "model": "source.name / 正文原文标题",
-   "reviewed": false,
-   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
-  },
-  "BN-H064": {
-   "zh": "\"COMPUTER MISUSE ACT\"",
-   "en": "\"COMPUTER MISUSE ACT\"",
    "batch": "title-fill-2026-10-24",
    "engine": "source-extract",
    "model": "source.name / 正文原文标题",
@@ -144335,24 +143803,6 @@
   },
   "ID-H074": {
    "zh": "资本市场法（1995年第8号）",
-   "en": null,
-   "batch": "title-fill-2026-10-24",
-   "engine": "source-extract",
-   "model": "source.name / 正文原文标题",
-   "reviewed": false,
-   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
-  },
-  "KH-H016": {
-   "zh": "ព្រះរាជក្រឹត្យនៃច្បាប់ស្តីពីសារពើពន្ធ (Royal Kram No. 0523/004)",
-   "en": null,
-   "batch": "title-fill-2026-10-24",
-   "engine": "source-extract",
-   "model": "source.name / 正文原文标题",
-   "reviewed": false,
-   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
-  },
-  "KH-H1079": {
-   "zh": "ច្បាប់ស្តីពីការងារ",
    "en": null,
    "batch": "title-fill-2026-10-24",
    "engine": "source-extract",
@@ -145062,53 +144512,8 @@
    "reviewed": false,
    "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
   },
-  "MY-H131": {
-   "zh": "LAWS OF MALAYSIA — Act 646 — ARBITRATION ACT 2005",
-   "en": null,
-   "batch": "title-fill-2026-10-24",
-   "engine": "source-extract",
-   "model": "source.name / 正文原文标题",
-   "reviewed": false,
-   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
-  },
-  "MY-H132": {
-   "zh": "LAWS OF MALAYSIA — Act 777 — COMPANIES ACT 2016",
-   "en": null,
-   "batch": "title-fill-2026-10-24",
-   "engine": "source-extract",
-   "model": "source.name / 正文原文标题",
-   "reviewed": false,
-   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
-  },
-  "MY-H133": {
-   "zh": "LAWS OF MALAYSIA — Act 53 — INCOME TAX ACT 1967",
-   "en": null,
-   "batch": "title-fill-2026-10-24",
-   "engine": "source-extract",
-   "model": "source.name / 正文原文标题",
-   "reviewed": false,
-   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
-  },
   "MY-H134": {
    "zh": "数据保护法",
-   "en": null,
-   "batch": "title-fill-2026-10-24",
-   "engine": "source-extract",
-   "model": "source.name / 正文原文标题",
-   "reviewed": false,
-   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
-  },
-  "MY-H135": {
-   "zh": "LAWS OF MALAYSIA — Act 658 — ELECTRONIC COMMERCE ACT 2006",
-   "en": null,
-   "batch": "title-fill-2026-10-24",
-   "engine": "source-extract",
-   "model": "source.name / 正文原文标题",
-   "reviewed": false,
-   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
-  },
-  "MY-H136": {
-   "zh": "FEDERAL CONSTITUTION（1957年马来亚联合邦宪法；1963年改称马来西亚联邦宪法）",
    "en": null,
    "batch": "title-fill-2026-10-24",
    "engine": "source-extract",
@@ -145740,15 +145145,6 @@
   "VN-H026": {
    "zh": "Law on Enterprises (Lu\u0000t Doanh nghi\u0000p) No. 59/2020/QH14",
    "en": "Law on Enterprises (Lu\u0000t Doanh nghi\u0000p) No. 59/2020/QH14",
-   "batch": "title-fill-2026-10-24",
-   "engine": "source-extract",
-   "model": "source.name / 正文原文标题",
-   "reviewed": false,
-   "note": "从已有数据（来源名称或正文首条原题）提取，非机器翻译；zh 沿用原文不编造译文"
-  },
-  "VN-H030": {
-   "zh": "Labor Code (B\u0000 lu\u0000t Lao \u0000\u0000ng) No. 45/2019/QH14 — 合并本 18/VBHN-VPQH",
-   "en": null,
    "batch": "title-fill-2026-10-24",
    "engine": "source-extract",
    "model": "source.name / 正文原文标题",

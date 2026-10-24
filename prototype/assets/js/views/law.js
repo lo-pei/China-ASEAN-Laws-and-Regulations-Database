@@ -699,8 +699,9 @@
         '</span>' +
         '<span class="article__heading">' + esc(tr(a.heading)) + '</span>' +
         /* 条文级引注：复制「第 X 条」粒度的规范引用（写文书、做批注时最常用） */
-        '<button class="article__cite" type="button" data-article-cite="' + esc(a.id) + '" title="' +
-          esc(t('复制本条引用')) + '">' + esc(t('引用')) + '</button>' +
+        '<button class="article__cite" type="button" data-article-cite="' + esc(a.id) + '"' +
+          ' title="' + esc(t('复制本条引用')) + '" aria-label="' + esc(t('复制本条引用')) + '">' +
+          CALR.ui.icon('copy') + '</button>' +
         '<button class="article__toggle" type="button" data-article-toggle="' + esc(a.id) + '">' + esc(t('收起')) + '</button>' +
       '</div>';
 

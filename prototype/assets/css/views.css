@@ -747,3 +747,48 @@ mark.law-find-hit {
 /* 答案正文中的块级列表项（由行内「- 」分点还原） */
 .ans-li { display: block; position: relative; padding-left: 15px; margin: 5px 0; line-height: 1.75; }
 .ans-li::before { content: "•"; position: absolute; left: 3px; color: var(--calr-blue-500); }
+
+/* ---------- 条文引用按钮（重设计） ----------
+   原来每条条文头都常驻一个「引用」文字按钮且没有样式，浏览器用默认样式渲染，
+   视觉噪音很大。改为：默认隐藏，hover/键盘聚焦时才浮出一个 12px 复制图标。 */
+.article__cite {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 22px;
+  height: 22px;
+  margin-left: 6px;
+  padding: 0;
+  border: 0;
+  border-radius: 5px;
+  background: transparent;
+  color: var(--text-tertiary, #9AA4B2);
+  cursor: pointer;
+  opacity: 0;
+  transition: opacity .14s ease, background-color .14s ease, color .14s ease;
+  vertical-align: middle;
+}
+.article__cite svg,
+.article__cite i {
+  width: 13px;
+  height: 13px;
+}
+.article__head:hover .article__cite,
+.article__cite:focus-visible {
+  opacity: 1;
+}
+.article__cite:hover {
+  background: var(--bg-subtle, #F1F3F7);
+  color: var(--calr-blue-600, #2563EB);
+}
+/* 触屏设备没有 hover，直接常显，避免点不到 */
+@media (hover: none) {
+  .article__cite { opacity: .55; }
+}
+
+/* 条文正文两端对齐（原来默认左对齐，右侧参差不齐） */
+.article__p {
+  text-align: justify;
+  text-justify: inter-ideograph;
+  word-break: break-word;
+}
