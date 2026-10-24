@@ -356,27 +356,13 @@
 
       CALR.router.start();
 
-      /* 渐进加载法规全文：每载入一个分卷即重建索引并静默刷新当前页面。
-         【API 模式跳过】loadAll() 会把 10 个 fulltext 分卷（合计 11.87 MB）一次性拉下来，
-         这跟“前端条文走 API”直接冲突 —— API 模式下条文按需从 /api/laws/{id}/articles 取，
-         单部法只有 38.6 KB 到 1 MB，完全不需要预加载任何分卷。 */
-      if (CALR.fulltext && !root.__CALR_API_MODE) {
-        var refreshTimer = null;
-        function scheduleRefresh() {
-          if (refreshTimer) clearTimeout(refreshTimer);
-          refreshTimer = setTimeout(function () {
-            S().init();
-            dispatch(CALR.router.current(), { silent: true });
-          }, 450);
-        }
-        CALR.fulltext.loadAll(scheduleRefresh).then(function (res) {
-          var loadedCount = (res && res.loaded) ? res.loaded.length : 0;
-          if (!loadedCount) return;
-          if (refreshTimer) clearTimeout(refreshTimer);
-          S().init();
-          dispatch(CALR.router.current(), { silent: true });
-        });
-      }
+      /* 条文改为完全按需加载（详见 core/fulltext.js 的 ensureLaw）。
+         原实现在启动时调 loadAll()，把 10 个 fulltext 分卷（合计 11.87 MB）
+         一次性拉下来，但只换来 81 部法规的全文 —— 而打开某部法时 ensureLaw()
+         本来就会按需加载它所在的包。
+         API 模式：ensureLaw 走 /api/laws/{id}/articles（单部几十 KB 到 1 MB）。
+         离线模式：ensureLaw 走 data/{fulltext,intl,cn} 的分卷，按需注入。
+         两种模式都不需要启动时预加载。 */
 
       if (root.console) {
         console.log('%cCALR', 'color:#2B6CB0;font-weight:bold',
