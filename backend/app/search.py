@@ -173,6 +173,44 @@ def search(q: str, mode: str = "keyword", country: Optional[str] = None,
     if not scores and not country:
         return {"total": 0, "page": page, "size": size, "pages": 0, "items": [], "query": q}
 
+    # ---- 问句点名的国别：限定补跑一次，把该国法规拉进候选 ----
+    # 背景：中文问句在中国法里的词法命中远高于外文法规，
+    # BM25 阶段前几百名会被中国法占满，目标国的法规即使高度相关也进不了候选，
+    # 后面的加权就没机会看到它。所以这里先按国别补一轮。
+    q_countries = []
+    if not country:
+        try:
+            q_countries = detect_countries(q)
+        except Exception:
+            q_countries = []
+    only_country = q_countries[0] if len(q_countries) == 1 else None
+    if only_country:
+        ph1 = ",".join("?" * len(terms))
+        try:
+            prs2 = db.rows(
+                "SELECT p.term, p.law_id, p.tf FROM postings p "
+                "JOIN laws l ON l.id = p.law_id "
+                "WHERE p.term IN (" + ph1 + ") AND l.country = ?",
+                terms + [only_country])
+        except Exception:
+            prs2 = []
+        if prs2:
+            df2: Dict[str, int] = {}
+            post2: Dict[str, Dict[str, int]] = {}
+            for r in prs2:
+                df2[r["term"]] = df2.get(r["term"], 0) + 1
+                post2.setdefault(r["law_id"], {})[r["term"]] = r["tf"]
+            for lid, tf_map in post2.items():
+                if lid in scores:
+                    continue
+                v = 0.0
+                for t, tf in tf_map.items():
+                    d = max(1, df2.get(t, 1))
+                    # 用该国子集的 df 算 idf：在这个国家内部区分度更高
+                    idf = math.log(1 + (N - d + 0.5) / (d + 0.5))
+                    v += idf * (tf * (K1 + 1)) / (tf + K1 * (1 - B))
+                scores[lid] = v * 0.9      # 略低于全局同分，避免凭空压过全局强命中
+
     # ---- 加权：标题归一化精确匹配 + 标题命中率 + 中国优先 + 有正文优先 ----
     # 性能：先把纯 BM25 得分排序并做相关性门槛，只对前 CAND_LIMIT 名做标题分词等重活
     # （否则对上万候选逐个分词会让单次检索从 0.3s 涨到 2s）。
@@ -201,6 +239,8 @@ def search(q: str, mode: str = "keyword", country: Optional[str] = None,
                 "FROM laws WHERE id IN (" + ph2 + ")", chunk):
                 meta[r["id"]] = r
     art_cnt = _article_counts(cand) if cand else {}
+    # 全局最高 BM25 分，作为国别加分的量级基准
+    max_base = max(scores.values()) if scores else 0.0
 
     for lid, s in list(scores.items()):
         m = meta.get(lid)
@@ -210,9 +250,11 @@ def search(q: str, mode: str = "keyword", country: Optional[str] = None,
         t_toks = set(tokenize(title_blob))
 
         # ① 标题命中率：查询词有多少出现在标题里（区分「法规讲这个话题」与「只是提到这个词」）
+        # 权重从 30 提到 45：实测「泰国劳动法」「新加坡公司法」这类问句，
+        # 目标法规的标题其实就是查询词的子串，但原权重压不住正文词频。
         if q_terms:
             hit = len(q_terms & t_toks) / float(len(q_terms))
-            s += 30.0 * hit
+            s += 45.0 * hit
 
         # ② 标题归一化后与查询完全一致
         exact = False
@@ -234,6 +276,12 @@ def search(q: str, mode: str = "keyword", country: Optional[str] = None,
         nart = art_cnt.get(lid, 0)
         if nart > 0:
             s += 12 + min(8, math.log10(nart + 1) * 4)
+
+        # ⑤ 问句唯一点名了某个国家：该国法规加一个与全局最高分同量级的加分
+        #    用乘性量级而不是固定值，因为不同查询的 BM25 分数尺度差很多
+        #    （短查询几十分，长查询几百分）
+        if only_country and m["country"] == only_country:
+            s += 1.15 * max_base
         scores[lid] = s
 
     # 加权后重新排序（此时只有前 CAND_LIMIT 名参与，total 用上面算好的全量数）
