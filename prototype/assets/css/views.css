@@ -787,3 +787,96 @@ mark.law-find-hit {
   color: var(--text-tertiary, #9AA4B2);
   line-height: 1.6;
 }
+
+/* ---------- 文内查找栏（浏览器式） ----------
+   查找栏嵌在 .reader-toolbar 里；把整个工具栏吸附在 header 下方，
+   这样输入后不论页面滚到哪里，计数与上下跳按钮都停在顶部可见。 */
+.reader-toolbar {
+  position: sticky;
+  top: var(--header-h);
+  z-index: 20;
+  background: var(--bg-surface);
+  /* 吸附时与正文之间留一道阴影，避免和内容糊在一起 */
+  box-shadow: 0 1px 0 var(--border);
+}
+
+/* 查找组：胶囊容器，视觉上自成一区 */
+.reader-toolbar__find {
+  display: inline-flex;
+  align-items: center;
+  gap: 2px;
+  padding: 2px 4px 2px 2px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-pill, 999px);
+  background: var(--bg-subtle, #F1F3F7);
+}
+.reader-toolbar__find .law-find {
+  border: 0;
+  background: transparent;
+  box-shadow: none;
+}
+
+/* 命中计数：1/281 */
+.law-find__stat {
+  min-width: 52px;
+  padding: 0 6px;
+  font-family: var(--font-mono, ui-monospace, monospace);
+  font-size: 12.5px;
+  font-variant-numeric: tabular-nums;
+  color: var(--text-secondary);
+  text-align: right;
+  white-space: nowrap;
+}
+.law-find__stat:empty { display: none; }
+.law-find__stat.is-empty { color: var(--calr-red-600, #DC2626); }
+
+/* 上一个 / 下一个 / 关闭 */
+.law-find__nav {
+  display: inline-flex;
+  align-items: center;
+  gap: 1px;
+  margin-left: 2px;
+  padding-left: 4px;
+  border-left: 1px solid var(--border-strong, #D5DAE1);
+}
+.law-find__nav[hidden] { display: none; }
+.law-find__btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 26px;
+  height: 26px;
+  padding: 0;
+  border: 0;
+  border-radius: 6px;
+  background: transparent;
+  color: var(--text-secondary);
+  cursor: pointer;
+  transition: background-color var(--transition), color var(--transition);
+}
+.law-find__btn:hover {
+  background: var(--bg-surface);
+  color: var(--calr-blue-600, #2563EB);
+}
+.law-find__btn:active { transform: scale(.94); }
+.law-find__btn:focus-visible {
+  outline: 2px solid var(--calr-blue-300, #93C5FD);
+  outline-offset: 1px;
+}
+
+/* 命中高亮 */
+.law-find-hit {
+  background: #FFE58F;
+  color: #613400;
+  border-radius: 2px;
+  padding: 0 1px;
+  box-shadow: 0 0 0 1px #F5C000 inset;
+}
+html[data-theme="dark"] .law-find-hit { background: #7A5C00; color: #FFF3C4; }
+
+/* 窄屏：查找栏换行显示，按钮保持可点 */
+@media (max-width: 767px) {
+  .reader-toolbar { position: sticky; top: var(--header-h); }
+  .reader-toolbar__find { flex: 1 1 100%; }
+  .law-find__stat { min-width: 44px; }
+}

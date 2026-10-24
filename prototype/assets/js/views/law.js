@@ -262,8 +262,20 @@
                       '<input class="searchbox__input" id="law-find-q" type="search" autocomplete="off" ' +
                         'placeholder="' + esc(t('法条号 / 片段 / 关键词')) + '" aria-label="' + esc(t('在本文中查找')) + '">' +
                     '</span>' +
-                    '<button class="btn btn--outline btn--sm" id="law-find-btn" type="button">' + esc(t('查找')) + '</button>' +
-                    '<span class="mini muted law-find__stat" id="law-find-stat" role="status" aria-live="polite"></span>' +
+                    /* 命中计数：1/281 这种浏览器式显示 */
+                    '<span class="law-find__stat" id="law-find-stat" role="status" aria-live="polite"></span>' +
+                    /* 上一个 / 下一个 / 关闭 */
+                    '<span class="law-find__nav" id="law-find-nav" hidden>' +
+                      '<button class="law-find__btn" id="law-find-prev" type="button" ' +
+                        'title="' + esc(t('上一处')) + '" aria-label="' + esc(t('上一处')) + '">' +
+                        '<svg viewBox="0 0 20 20" width="14" height="14" aria-hidden="true"><path d="M5 12l5-5 5 5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg></button>' +
+                      '<button class="law-find__btn" id="law-find-next" type="button" ' +
+                        'title="' + esc(t('下一处')) + '" aria-label="' + esc(t('下一处')) + '">' +
+                        '<svg viewBox="0 0 20 20" width="14" height="14" aria-hidden="true"><path d="M5 8l5 5 5-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg></button>' +
+                      '<button class="law-find__btn" id="law-find-close" type="button" ' +
+                        'title="' + esc(t('关闭查找')) + '" aria-label="' + esc(t('关闭查找')) + '">' +
+                        '<svg viewBox="0 0 20 20" width="14" height="14" aria-hidden="true"><path d="M6 6l8 8M14 6l-8 8" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg></button>' +
+                    '</span>' +
                   '</span>' +
                 '</div>' +
 
@@ -476,31 +488,46 @@
         window.scrollTo(0, target);
       }
 
-      function doFind() {
+      /* dir: 1 = 下一处，-1 = 上一处，0 = 首次（默认下一处） */
+      function doFind(dir) {
         var inp = U().$('#law-find-q', main);
         var stat = U().$('#law-find-stat', main);
+        var nav = U().$('#law-find-nav', main);
         if (!inp) return;
         var q = (inp.value || '').trim();
         if (!q) {
           clearFindMark();
           findState = { matches: [], idx: -1, query: '', mark: null };
-          if (stat) stat.textContent = '';
+          if (stat) { stat.textContent = ''; stat.classList.remove('is-empty'); }
+          if (nav) nav.hidden = true;
           return;
         }
         var same = (q === findState.query);
         var prevIdx = findState.idx;
-        clearFindMark();
-        findState.matches = collectFindMatches(q);
-        findState.query = q;
+        /* 换了检索词才重扫；同一词只移动游标，避免每次重扫整篇（大法动辄数千条） */
+        if (!same || !findState.matches.length) {
+          clearFindMark();
+          findState.matches = collectFindMatches(q);
+          findState.query = q;
+        } else {
+          clearFindMark();
+        }
         var total = findState.matches.length;
         if (!total) {
           findState.idx = -1;
-          if (stat) stat.textContent = '';
+          if (stat) { stat.textContent = '0/0'; stat.classList.add('is-empty'); }
+          if (nav) nav.hidden = false;
           U().toast(t('未找到') + '「' + q + '」', 'warn');
           return;
         }
-        /* 同一检索词再次查找 → 下一处；换了检索词 → 从第一处开始 */
-        findState.idx = (same && prevIdx >= 0) ? (prevIdx + 1) % total : 0;
+        if (stat) stat.classList.remove('is-empty');
+        if (nav) nav.hidden = false;
+        var step = (dir === -1) ? -1 : 1;
+        if (!same || prevIdx < 0) {
+          findState.idx = 0;
+        } else {
+          findState.idx = (prevIdx + step + total) % total;
+        }
         var m = findState.matches[findState.idx];
         expandFindTarget(m.node);
         try {
@@ -515,17 +542,40 @@
         } catch (e) {
           scrollToRange(m.node);   /* 跨节点等异常情形：至少滚动到位 */
         }
-        if (stat) stat.textContent = (findState.idx + 1) + ' / ' + total;
+        if (stat) stat.textContent = (findState.idx + 1) + '/' + total;
       }
 
       var fq = U().$('#law-find-q', main);
       if (fq) {
         U().on(fq, 'keydown', function (e) {
-          if (e.key === 'Enter') { e.preventDefault(); doFind(); }
+          if (e.key === 'Enter') { e.preventDefault(); doFind(e.shiftKey ? -1 : 1); }
+          else if (e.key === 'Escape') { e.preventDefault(); closeFind(); }
+        });
+        /* 输入即查（浏览器查找栏的行为），防抖 260ms */
+        var _t = null;
+        U().on(fq, 'input', function () {
+          if (_t) clearTimeout(_t);
+          _t = setTimeout(function () { findState.query = ''; doFind(0); }, 260);
         });
       }
-      var fb = U().$('#law-find-btn', main);
-      if (fb) U().on(fb, 'click', function () { doFind(); });
+      var fp = U().$('#law-find-prev', main);
+      if (fp) U().on(fp, 'click', function () { doFind(-1); });
+      var fn = U().$('#law-find-next', main);
+      if (fn) U().on(fn, 'click', function () { doFind(1); });
+      var fc = U().$('#law-find-close', main);
+      if (fc) U().on(fc, 'click', function () { closeFind(); });
+
+      /** 关闭查找：清除高亮、清空状态，但保留输入框里的词方便再次打开 */
+      function closeFind() {
+        clearFindMark();
+        findState = { matches: [], idx: -1, query: '', mark: null };
+        var st = U().$('#law-find-stat', main);
+        if (st) { st.textContent = ''; st.classList.remove('is-empty'); }
+        var nv = U().$('#law-find-nav', main);
+        if (nv) nv.hidden = true;
+        var i2 = U().$('#law-find-q', main);
+        if (i2) i2.blur();
+      }
       U().on(U().$('#toggle-all', main), 'click', function () {
         var collapsed = U().$$('.article.is-collapsed', main).length > 0;
         U().$$('.article', main).forEach(function (el) { el.classList.toggle('is-collapsed', !collapsed); });
