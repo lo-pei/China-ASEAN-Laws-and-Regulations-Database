@@ -441,6 +441,20 @@ def qa(req: QARequest) -> Dict[str, Any]:
     }
 
 
+# ---------------------------------------------------------------- 错误可观测性
+# 默认只返回异常类型与一句话消息（不泄漏堆栈）；
+# 需要完整堆栈时设 CALR_DEBUG=1，仅本地排查用。
+import traceback as _tb
+
+
+@app.exception_handler(Exception)
+async def _calr_unhandled(request, exc):
+    detail = {"error": type(exc).__name__, "message": str(exc)[:400], "path": str(request.url.path)}
+    if os.environ.get("CALR_DEBUG", "").strip() in ("1", "true", "yes"):
+        detail["trace"] = _tb.format_exc()[-2000:]
+    return JSONResponse(status_code=500, content=detail)
+
+
 # ---------------------------------------------------------------- 静态站点
 if os.path.isdir(PROTO):
     app.mount("/", StaticFiles(directory=PROTO, html=True), name="prototype")
