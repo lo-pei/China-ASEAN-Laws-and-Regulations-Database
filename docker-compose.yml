@@ -9,18 +9,25 @@ services:
     ports:
       - "8000:8000"
     volumes:
-      # 只读挂载数据库（由 python backend/build_db.py 生成）
+      # 只读挂载数据库与向量索引（由 python backend/build_db.py 与 embed.py 生成）
       - ./backend/data:/app/backend/data:ro
+      # 嵌入模型可选挂载。没有模型时语义检索与条文级向量会自动降级为法规级检索，
+      # 接口不会报错（实测 health/vectors/search/qa 全部 200）。
+      # 需要完整语义能力时把模型放在 _work/models/bge-m3 并保留下面这行；
+      # 不需要时注释掉即可，镜像里已把 CALR_MODEL 指向 /models/bge-m3。
+      - ./_work/models/bge-m3:/models/bge-m3:ro
     environment:
       - CALR_DB=/app/backend/data/calr.db
+      - CALR_VEC=/app/backend/data/vectors
+      - CALR_MODEL=/models/bge-m3
       - TZ=Asia/Shanghai
     healthcheck:
       test: ["CMD", "python", "-c", "import urllib.request,sys; sys.exit(0 if urllib.request.urlopen('http://127.0.0.1:8000/api/health',timeout=3).status==200 else 1)"]
       interval: 30s
       timeout: 5s
       retries: 3
-      start_period: 20s
-    # 1.5GB 数据库 + BM25 计算，给足内存
+      start_period: 25s
+    # 1.6GB 数据库 + BM25 计算，给足内存
     deploy:
       resources:
         limits:
