@@ -35,13 +35,6 @@
 </noscript>
 
 <!-- 数据集（元数据层，条文全文缺失时的兜底条目） -->
-<script src="data/dataset-core.js"></script>
-<script src="data/dataset-extra.js"></script>
-<!-- 官方全文索引（条文正文来源，规范见 docs/06-全文数据规范.md） -->
-<script src="data/fulltext/manifest.js"></script>
-<!-- 全量法规目录（中国 1500+ 部：仅元数据，条文按分卷按需加载） -->
-<script src="data/cn-catalog.js"></script>
-<!-- 东盟法律目录层与全文分卷索引（来源：资源爬取，条文按分卷按需加载） -->
   <!-- 数据源决定：file:// 打开时加载完整 catalog 与预计算 IDF（离线兜底）；
        http(s) 打开说明后端在托管静态站，改用 /api/bootstrap（2.7 KB）+
        /api/laws/compact 后台补齐，首屏不必解析 15.9 MB 的 intl-catalog.js
@@ -60,17 +53,46 @@
     }
   })();
   </script>
+<script src="data/dataset-core.js"></script>
+<script src="data/dataset-extra.js"></script>
+<!-- 官方全文索引（条文正文来源，规范见 docs/06-全文数据规范.md） -->
+<script src="data/fulltext/manifest.js"></script>
+<!-- 全量法规目录（中国 1500+ 部：仅元数据，条文按分卷按需加载） -->
+<script>if (!window.__CALR_API_MODE) document.write('<script src="data/cn-catalog.js"><\/script>');</script>
+<!-- 东盟法律目录层与全文分卷索引（来源：资源爬取，条文按分卷按需加载） -->
 <!-- 东盟成员国国界（Natural Earth 公有领域数据，供首页地图使用） -->
 <script src="data/asean-map.js"></script>
-<script src="data/intl/manifest.js"></script>
+<script>if (!window.__CALR_API_MODE) document.write('<script src="data/intl/manifest.js"><\/script>');</script>
 <!-- 译文层索引：大模型翻译文本与官方原文分离存放 -->
-<script src="data/trans/manifest.js"></script>
+<script>if (!window.__CALR_API_MODE) document.write('<script src="data/trans/manifest.js"><\/script>');</script>
 <!-- 界面多语种译文表（缺失时自动回退中文原文） -->
-<script src="data/i18n-en.js"></script>
-<script src="data/i18n-vi.js"></script>
-<script src="data/i18n-th.js"></script>
-<script src="data/i18n-id.js"></script>
-<script src="data/i18n-ms.js"></script>
+<!-- 界面语言包按需加载：默认中文一个都不需要（5 个合计 552 KB）。
+     各语言包定义独立全局变量 CALR_I18N_EN / _VI / _TH / _ID / _MS，
+     注入后由 CALR_I18N_MERGE(code) 合并进 CALR_I18N 并重新渲染。 -->
+<script>
+(function (root) {
+  var FILES = { en: 'data/i18n-en.js', vi: 'data/i18n-vi.js', th: 'data/i18n-th.js',
+                id: 'data/i18n-id.js', ms: 'data/i18n-ms.js' };
+  var asked = {};
+  root.__CALR_ENSURE_LANG = function (code) {
+    var f = FILES[code];
+    if (!f || asked[code]) return;
+    asked[code] = true;
+    var s = document.createElement('script');
+    s.src = f;
+    s.onload = function () {
+      if (root.CALR_I18N_MERGE) root.CALR_I18N_MERGE(code);
+      /* 语言包到位后重新渲染当前页面 */
+      if (root.CALR && CALR.i18n && CALR.i18n.setLang) {
+        try { CALR.i18n.setLang(code); } catch (e) { /* 忽略 */ }
+      }
+    };
+    s.onerror = function () { asked[code] = false; };
+    document.head.appendChild(s);
+  };
+})(typeof window !== 'undefined' ? window : globalThis);
+</script>
+<script>if (!window.__CALR_API_MODE) document.write('<script src="data/terms-bridge.js"><\/script>');</script>
 <script src="data/i18n.js"></script>
 
 <!-- 核心层 -->
@@ -79,7 +101,6 @@
 <script src="assets/js/core/store.js"></script>
   <script src="assets/js/core/api.js"></script>
 <script src="assets/js/core/fulltext.js"></script>
-  <script src="data/terms-bridge.js"></script>
   <script src="assets/js/core/search.js"></script>
 <script src="assets/js/core/compare.js"></script>
 <script src="assets/js/core/terms.js"></script>

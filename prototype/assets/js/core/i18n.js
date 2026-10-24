@@ -36,6 +36,12 @@
     setLang: function (code) {
       if (!LANGS.some(function (l) { return l.code === code; })) return;
       current = code;
+      /* 界面语言包按需加载：非中文且该语言的包还没合并进来时，先注入。
+         注入完成后 loader 会调 CALR_I18N_MERGE 并再次触发 setLang，完成重渲染。 */
+      if (code !== 'zh' && root.__CALR_ENSURE_LANG &&
+          !((root.CALR_I18N || {})[code])) {
+        try { root.__CALR_ENSURE_LANG(code); } catch (e) { /* 忽略 */ }
+      }
       try { root.localStorage && root.localStorage.setItem(STORE_KEY, code); } catch (e) { /* 忽略 */ }
       document.documentElement.setAttribute('lang', code === 'zh' ? 'zh-CN' : code);
       document.documentElement.setAttribute('data-ui-lang', code);
