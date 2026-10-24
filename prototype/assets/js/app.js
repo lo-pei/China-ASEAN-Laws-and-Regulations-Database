@@ -315,6 +315,11 @@
       /* 静态 HTML 里的「跳到主内容」在语言确定后再写入 */
       var skip = root.document && root.document.querySelector('.skip-link');
       if (skip) skip.textContent = t('跳到主内容');
+  /* 记录刷新函数，语言切换后重跑一次（否则跳过链接一直停在上次的语言） */
+  root.__CALR_REFRESH_SKIP = function () {
+    var el = document.querySelector('.skip-link');
+    if (el) el.textContent = t('跳到主内容');
+  };
       var st = S().init();
 
       /* API 模式（后端托管静态站时）：首屏先用已有数据渲染，

@@ -46,6 +46,9 @@
       document.documentElement.setAttribute('lang', code === 'zh' ? 'zh-CN' : code);
       document.documentElement.setAttribute('data-ui-lang', code);
       listeners.forEach(function (fn) { try { fn(code); } catch (e) { /* 忽略 */ } });
+      /* 跳过链接写在静态 HTML 里，不在任何视图的重渲染范围内，
+         语言切换后需要单独刷新一次，否则一直停在上次的语言。 */
+      try { if (root.__CALR_REFRESH_SKIP) root.__CALR_REFRESH_SKIP(); } catch (e) { /* 忽略 */ }
     },
     onChange: function (fn) { listeners.push(fn); },
 

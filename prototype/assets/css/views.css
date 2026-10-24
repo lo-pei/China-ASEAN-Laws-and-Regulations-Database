@@ -283,7 +283,7 @@ mark.law-find-hit {
   display: flex;
   flex-direction: column;
   min-height: 0;
-  background: #FFFFFF;
+  background: var(--bg-surface);
   border: 1px solid var(--border);
   border-radius: 12px;
   overflow: hidden;
@@ -329,7 +329,7 @@ mark.law-find-hit {
   display: flex;
   flex-direction: column;
   min-height: 0;
-  background: #FFFFFF;
+  background: var(--bg-surface);
   border: 1px solid var(--border);
   border-radius: 12px;
   overflow: hidden;
@@ -437,7 +437,7 @@ mark.law-find-hit {
   width: min(560px, calc(100vw - 32px));
   max-height: calc(100vh - 80px);
   display: flex; flex-direction: column;
-  background: #FFFFFF;
+  background: var(--bg-surface);
   border-radius: 14px;
   box-shadow: 0 24px 60px rgba(15,23,42,.32), 0 4px 14px rgba(15,23,42,.14);
   overflow: hidden;
@@ -505,7 +505,7 @@ mark.law-find-hit {
 .home-toc__label {
   max-width: 0; opacity: 0; overflow: hidden; white-space: nowrap;
   font-size: var(--fs-mini); color: var(--text-secondary);
-  background: rgba(255, 255, 255, .95);
+  background: var(--bg-surface);
   padding: 0; border-radius: 4px;
   transition: max-width .18s ease, opacity .18s ease, padding .18s ease;
 }
@@ -631,7 +631,7 @@ mark.law-find-hit {
 /* 行内元素 */
 .ai-conv__check {
   flex: 0 0 auto; width: 15px; height: 15px; border-radius: 4px;
-  border: 1.5px solid var(--calr-gray-300); background: #fff;
+  border: 1.5px solid var(--calr-gray-300); background: var(--bg-surface);
   display: inline-flex; align-items: center; justify-content: center;
   font-size: 10px; color: #fff; line-height: 1;
 }
@@ -649,7 +649,7 @@ mark.law-find-hit {
   flex: 1 1 auto; min-width: 0; width: 100%;
   border: 1px solid var(--calr-blue-400); border-radius: 5px;
   padding: 2px 5px; font: inherit; font-size: var(--fs-mini);
-  background: #fff; color: var(--text-primary); outline: none;
+  background: var(--bg-surface); color: var(--text-primary); outline: none;
 }
 
 /* ⋯ 下拉菜单 */
@@ -657,7 +657,7 @@ mark.law-find-hit {
 .ai-menu {
   position: absolute; right: 6px; top: calc(100% - 2px); z-index: 30;
   min-width: 104px; padding: 4px;
-  background: #fff; border: 1px solid var(--border); border-radius: 8px;
+  background: var(--bg-surface); border: 1px solid var(--border); border-radius: 8px;
   box-shadow: 0 8px 24px rgba(16, 24, 40, .14);
   display: flex; flex-direction: column;
 }
@@ -724,7 +724,7 @@ mark.law-find-hit {
 .ai-conv__more:hover { background: var(--calr-gray-200); color: var(--text-primary); }
 .ai-conv__check {
   flex: 0 0 auto; width: 14px; height: 14px; border-radius: 4px;
-  border: 1.5px solid var(--calr-gray-300); background: #fff;
+  border: 1.5px solid var(--calr-gray-300); background: var(--bg-surface);
   display: inline-flex; align-items: center; justify-content: center;
   font-size: 9px; color: #fff; line-height: 1;
 }
@@ -733,7 +733,7 @@ mark.law-find-hit {
   flex: 1 1 auto; min-width: 0; width: 100%;
   border: 1px solid var(--calr-blue-400); border-radius: 6px;
   padding: 3px 6px; font: inherit; font-size: 12px;
-  background: #fff; color: var(--text-primary); outline: none;
+  background: var(--bg-surface); color: var(--text-primary); outline: none;
 }
 
 /* 多选工具条：贴顶、分隔更轻 */

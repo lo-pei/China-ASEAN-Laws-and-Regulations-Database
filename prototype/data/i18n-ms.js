@@ -831,6 +831,54 @@
   "复制本条引用": "Salin petikan peruntukan ini",
   "已复制：": "Disalin: ",
   "条条文": "seksyen",
-  "种界面语言": "bahasa antara muka"
+  "种界面语言": "bahasa antara muka",
+  "跨语言比对": "Perbandingan Peruntukan Merentas Bahasa",
+  "选取 2–3 个法域的条文并排比对，自动对齐适用范围、核心概念、法律后果等五个维度。": "Pilih peruntukan daripada 2–3 bidang kuasa dan bandingkan secara selari; sistem menjajarkan lima dimensi: skop, konsep teras, kesan undang-undang, prosedur dan tempoh, ambang.",
+  "规模口径": "Cara angka dikira",
+  "跳转到主内容": "Langkau ke kandungan utama",
+  "正在检索并载入相关条文…": "Mencari dan memuatkan peruntukan berkaitan…",
+  "暂无版本时间信息": "Tiada maklumat masa versi",
+  "展开更多筛选条件": "Tunjukkan penapis lain",
+  "同标题的其他记录": "Rekod lain dengan tajuk sama",
+  "版本与变迁": "Versi dan pindaan",
+  "放大字号": "Besarkan saiz fon",
+  "缩小字号": "Kecilkan saiz fon",
+  "回到顶部": "Kembali ke atas",
+  "关闭查找": "Tutup carian",
+  "下一处": "Padanan seterusnya",
+  "上一处": "Padanan sebelumnya",
+  /* EN fallback: 待母语校对 */ "面向中国与东盟十国共十二个法域（含多边条约）的法律法规检索平台，提供法规与条约检索、法律体系对照、跨语言条款比对、法律术语对照、规范引注导出，以及基于检索增强生成的智能问答，为跨境法律实务、合规审查与比较法研究提供数据支持。": "A legal-research platform covering twelve jurisdictions — China, the ten ASEAN member states and multilateral treaties. It offers statute and treaty search, legal-system comparison, cross-lingual article comparison, legal-terminology concordance, citation export, and retrieval-augmented question answering, supporting cross-border legal practice, compliance review and comparative-law research.",
+  /* EN fallback: 待母语校对 */ "平台有三种使用形态：直接用浏览器打开本地文件即可离线运行的纯静态形态；由后端服务托管、启用混合检索与条文级语义问答的后端形态；以及面向移动设备的自适应界面。三种形态共用同一套前端代码。": "The platform runs in three forms: a purely static form that works offline by opening local files in a browser; a back-end-served form that enables hybrid retrieval and article-level semantic question answering; and a responsive interface for mobile devices. All three share a single front-end codebase.",
+  /* EN fallback: 待母语校对 */ "项目为 2026 年中国（广西）—东盟“AI+法律”应用创新大赛参赛作品，由上海对外经贸大学一粒橡子队建设，仅供学术研究与竞赛演示使用。": "This project is an entry for the 2026 China (Guangxi)–ASEAN “AI + Law” Application Innovation Competition, built by Team One Acorn of Shanghai University of International Business and Economics. It is intended for academic research and competition demonstration only.",
+  /* EN fallback: 待母语校对 */ "法规文本取自各国官方法律信息门户与公开法律汇编，涉中国政府网、国家法律法规数据库、全国人大网；文莱总检察长署法律在线；柬埔寨法律与司法部；印度尼西亚法律文书与法规数据库；老挝官方公报；马来西亚总检察署法律在线；缅甸法律事务部；菲律宾官方公报；新加坡法规在线；泰国政府公报；越南法律数据库；东帝汶司法部；以及东盟条约官网等。": "Statutory texts are drawn from official legal-information portals and public compilations: for China, gov.cn, the National Laws and Regulations Database and npc.gov.cn; for Brunei, the Attorney General's Chambers Law Online; for Cambodia, the Ministry of Justice; for Indonesia, the legal documentation and regulation database; for Laos, the Official Gazette; for Malaysia, the Attorney General's Chambers Law Online; for Myanmar, the Ministry of Legal Affairs; for the Philippines, the Official Gazette; for Singapore, Singapore Statutes Online; for Thailand, the Royal Thai Government Gazette; for Vietnam, the legal database; for Timor-Leste, the Ministry of Justice; and the ASEAN treaties website.",
+  /* EN fallback: 待母语校对 */ "截至 2026 年 10 月 24 日：12 个法域、18,785 部法规、338,996 条条文、正文约 2.71 亿字符；译文层独立收录 1,566 部法规的 60,084 条逐条译文；中文标题覆盖 18,746 部（99.79%），其余保留官方原文标题。": "As of 24 October 2026: twelve jurisdictions, 18,785 statutes, 338,996 articles and roughly 271 million characters of text. The translation layer separately holds 60,084 article-level translations for 1,566 statutes. Chinese titles are available for 18,746 statutes (99.79%); the remainder keep their official original titles.",
+  /* EN fallback: 待母语校对 */ "法规原文属于官方公开文件的范畴。多数国家的法律、法规及国家机关的决议、决定、命令等官方文件不属于著作权保护范围，但官方公报的版式、数据库编排及第三方译文可能受保护。本平台仅收录官方已公开发布的法规文本正文，不复制其版式与第三方译文；若权利人提出异议，我们将及时核实并处理。译文层中标注为机器翻译的条目由开源模型生成，未经人工校对，仅供参考。": "Statutory texts are official public documents. In most jurisdictions, laws, regulations and resolutions, decisions and orders of state organs fall outside copyright protection, while the typography of official gazettes, database arrangement and third-party translations may be protected. This platform only includes the text of officially published statutes; it does not reproduce their typography or third-party translations. If a rights holder raises an objection, we will verify and act promptly. Entries marked as machine-translated in the translation layer were produced by open-source models without human proofreading and are for reference only.",
+  /* EN fallback: 待母语校对 */ "技术组件许可：语义检索使用 MIT 许可的开源模型 BAAI/bge-m3；标题翻译使用 CC-BY-NC-4.0 许可的 facebook/nllb-200-distilled-600M，仅用于非商业性的学术研究与竞赛演示。": "Component licences: semantic retrieval uses the MIT-licensed open-source model BAAI/bge-m3; title translation uses facebook/nllb-200-distilled-600M under CC-BY-NC-4.0, used only for non-commercial academic research and competition demonstration.",
+  /* EN fallback: 待母语校对 */
+  "每部法规记录官方来源名称与地址、抓取与入库日期、收录形态（全文／仅条目）以及原文语种，可在详情页一键回访官方页面核验。": "Each statute records the official source name and URL, the capture and ingestion dates, the coverage form (full text or catalogue entry only) and the source language, so the official page can be revisited for verification from the detail page.",
+  /* EN fallback: 待母语校对 */
+  "后端形态下，服务端仅记录必要的运行日志（访问时间、接口路径、响应状态、请求来源的匿名网络地址），用于故障排查与频率限制。这些日志不包含您的提问正文与检索词，仅保留有限时长，不用于识别个人身份，也不与任何第三方共享。": "In the back-end-served form, the server records only the operational logs needed for troubleshooting and rate limiting (access time, endpoint path, response status, anonymised network address of the request origin). These logs do not contain the text of your questions or search terms, are retained for a limited period only, and are not used to identify individuals or shared with third parties.",
+  /* EN fallback: 待母语校对 */
+  "用户可基于本平台数据进行检索、阅读与合理引用，引用时请注明出处为对应官方来源；平台同时提供符合 GB/T 7714-2015 与 Bluebook 规范的引注格式便于直接使用。": "You may search, read and reasonably quote the data on this platform, provided the corresponding official source is credited. The platform also generates citations in the GB/T 7714-2015 and Bluebook formats for direct use.",
+  /* EN fallback: 待母语校对 */
+  "“模型增强”功能中，API Key 仅保存在您的浏览器（默认仅本次会话，关闭标签页即失效；您勾选“记住”后写入浏览器本地存储）。该密钥不会被发送至本平台后端，后端也无法读取。": "In the Model Enhancement feature, your API key is stored only in your browser (by default for the current session only, cleared when the tab closes; if you tick “Remember”, it is written to browser local storage). The key is never sent to this platform's back end, and the back end cannot read it.",
+  /* EN fallback: 待母语校对 */
+  "平台未收录条文级修订记录，详情页的“版本与变迁”仅呈现法规层面的公布、施行、修正与版本日期；同名法规不代表同一部法的不同版本。": "The platform does not hold article-level amendment histories. The Versions and amendments panel on a detail page shows only statute-level promulgation, commencement, amendment and version dates; identically titled statutes do not necessarily represent different versions of the same law.",
+  /* EN fallback: 待母语校对 */
+  "人工智能辅助生成内容可能不准确或存在偏差，请以检索到的法条原文为准。所有 AI 生成内容均标注“AI 辅助生成，仅供参考”。": "AI-assisted output may be inaccurate or biased; always defer to the original statutory text retrieved from the database. Every AI-generated response is labelled “AI-assisted, for reference only”.",
+  /* EN fallback: 待母语校对 */
+  "未经许可，不得批量抓取、镜像、转售本平台数据，不得用于规避官方查询渠道的用途；后端服务对接口调用设有频率限制，请勿绕过。": "Without permission you may not bulk-crawl, mirror or resell this platform's data, nor use it to circumvent official查询 channels. The back end rate-limits API calls; do not circumvent those limits.",
+  /* EN fallback: 待母语校对 */
+  "平台中的中文标题为便于检索而整理，部分由机器翻译生成，与官方中文译名可能不一致；法规正文的中文译文同样可能未经人工校对。": "Chinese titles on this platform are compiled for searchability and some are machine-translated, so they may differ from official Chinese renderings; Chinese translations of statutory text may likewise be unproofread.",
+  /* EN fallback: 待母语校对 */
+  "平台中的机器翻译（含法规标题与条文译文）由开源模型生成，未经人工校对，不得作为正式译本使用。": "Machine translations on this platform (including statute titles and article translations) are produced by open-source models without human proofreading and must not be used as official translations.",
+  /* EN fallback: 待母语校对 */
+  "界面语言、深浅色模式、字号等偏好设置保存在用户浏览器本地，不会上传。": "Preferences such as interface language, colour theme and font size are stored locally in your browser and are never uploaded.",
+  /* EN fallback: 待母语校对 */
+  "纯静态形态下，检索与阅读完全在浏览器内完成，平台不接收任何数据。": "In the purely static form, searching and reading happen entirely inside the browser and the platform receives no data at all.",
+  /* EN fallback: 待母语校对 */
+  "本平台不采集与法律法规检索无关的个人信息，无需注册登录。": "This platform collects no personal information beyond what is needed for legal research, and requires no registration or sign-in.",
+  /* EN fallback: 待母语校对 */
+  "除您填写的接口地址外，本平台不向任何第三方发送您的数据。": "Apart from the API endpoint you enter yourself, this platform sends your data to no third party."
 };
 })(typeof window !== 'undefined' ? window : globalThis);
