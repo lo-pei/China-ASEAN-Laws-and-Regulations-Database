@@ -578,7 +578,9 @@
     }
     return res.items.map(function (it) {
       /* 检索结果页只呈现法规主体信息，不显示标签行与命中说明 */
-      return C().lawItem(it.law, { plain: true, terms: res.terms, snippet: it.snippet, hitArticle: it.hitArticle });
+      /* 把检索词一并带进详情页，用于正文自动高亮 */
+      return C().lawItem(it.law, { plain: true, terms: res.terms, snippet: it.snippet,
+                                   hitArticle: it.hitArticle, q: res.query || q });
     }).join('');
   }
 

@@ -138,6 +138,8 @@
       if (uiLang !== origLang && avail.indexOf(uiLang) >= 0) transLang = uiLang;
       else if (uiLang !== 'en' && origLang !== 'en' && avail.indexOf('en') >= 0) transLang = 'en';
       var readMode = query.read || (transLang ? 'both' : 'orig');
+      /* 从检索结果跳转过来时带的检索词，用于正文自动高亮 */
+      var arriveQ = (query.q || '').trim();
       if (['both', 'orig', 'trans'].indexOf(readMode) < 0) readMode = 'both';
       if (readMode === 'trans' && !transLang) readMode = 'orig';
       var dl = origLang;   /* 保留给打印与引用 */
@@ -449,11 +451,19 @@
       /* ---------- 文内查找：滚动到匹配位置；重复查找则依次向下 ---------- */
       var findState = { matches: [], idx: -1, query: '', mark: null };
 
+      /* 清除高亮。
+         注意：必须清掉**所有** mark，而不是只清最后一个 ——
+         查找会在同一篇里反复执行（输入即查、进入即高亮、上下跳），
+         只要残留一个 <mark>，正文就被切碎，后续查找会找不到跨节点的词，
+         表现为「高亮数 12 但计数 1/9」「高亮 2 处但计数 0/0」。 */
       function clearFindMark() {
-        var mk = findState.mark;
-        if (mk && mk.parentNode) {
-          var pa = mk.parentNode;
-          pa.replaceChild(document.createTextNode(mk.textContent), mk);
+        var rootEl = U().$('#law-body', main) || main;
+        var all = rootEl.querySelectorAll('.law-find-hit');
+        for (var i = all.length - 1; i >= 0; i--) {
+          var m = all[i];
+          var pa = m.parentNode;
+          if (!pa) continue;
+          pa.replaceChild(document.createTextNode(m.textContent), m);
           pa.normalize();
         }
         findState.mark = null;
@@ -545,21 +555,45 @@
         } else {
           findState.idx = (prevIdx + step + total) % total;
         }
-        var m = findState.matches[findState.idx];
-        expandFindTarget(m.node);
-        try {
-          var r = document.createRange();
-          r.setStart(m.node, m.start);
-          r.setEnd(m.node, m.end);
-          var mk = document.createElement('mark');
-          mk.className = 'law-find-hit';
-          r.surroundContents(mk);
-          findState.mark = mk;
-          scrollToRange(mk.firstChild || mk);
-        } catch (e) {
-          scrollToRange(m.node);   /* 跨节点等异常情形：至少滚动到位 */
+
+        /* 把**全部**命中都标黄（浏览器查找栏的行为），当前处再加深色。
+           从后往前包，避免前面的插入改变后面命中的文本偏移。 */
+        var curNode = null;
+        for (var k = findState.matches.length - 1; k >= 0; k--) {
+          var mm = findState.matches[k];
+          try {
+            expandFindTarget(mm.node);
+            var rr = document.createRange();
+            rr.setStart(mm.node, mm.start);
+            rr.setEnd(mm.node, mm.end);
+            var mkEl = document.createElement('mark');
+            mkEl.className = 'law-find-hit';
+            if (k === findState.idx) mkEl.className += ' is-current';
+            rr.surroundContents(mkEl);
+            if (k === findState.idx) {
+              findState.mark = mkEl;
+              curNode = mkEl;
+            }
+          } catch (e) {
+            /* 跨节点等异常：跳过这一处，不影响其余 */
+          }
+        }
+        if (curNode) scrollToRange(curNode.firstChild || curNode);
+        else {
+          var mc = findState.matches[findState.idx];
+          if (mc) scrollToRange(mc.node);
         }
         if (stat) stat.textContent = (findState.idx + 1) + '/' + total;
+      }
+
+      /* 带着检索词进来：填进查找框并自动高亮第一处 */
+      if (arriveQ) {
+        var fq0 = U().$('#law-find-q', main);
+        if (fq0) {
+          fq0.value = arriveQ;
+          /* 等布局稳定再扫，否则条文还没展开完，命中数会偏少 */
+          setTimeout(function () { findState.query = ''; doFind(0); }, 120);
+        }
       }
 
       var fq = U().$('#law-find-q', main);

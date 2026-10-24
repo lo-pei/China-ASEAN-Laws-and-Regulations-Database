@@ -197,7 +197,9 @@
         ? U().highlight(U().truncate(U().plain(U().tr(law.summary)), 140), terms) : '');
     var hit = opts.hitArticle;
     return '' +
-      '<a class="law-item" href="#/law/' + esc(law.id) + '">' +
+      /* 从检索结果进入详情页时把检索词带过去，详情页据此自动高亮（opt.q） */
+      '<a class="law-item" href="#/law/' + esc(law.id) +
+        (opts.q ? '?q=' + encodeURIComponent(opts.q) : '') + '">' +
         '<div class="law-item__head">' +
           '<div style="min-width:0">' +
             '<h3 class="law-item__title">' + U().highlight(title, terms) +

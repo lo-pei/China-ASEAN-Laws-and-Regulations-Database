@@ -937,3 +937,18 @@ html[data-theme="dark"] .law-find-hit { background: #7A5C00; color: #FFF3C4; }
 @media (max-width: 1023px) {
   .reader-toolbar--compact .reader-toolbar__find .law-find { width: 120px; }
 }
+
+/* 命中高亮：全部命中浅黄，当前处深黄 + 描边，滚动定位只针对当前处 */
+.law-find-hit {
+  background: #FFF3C4;
+  color: inherit;
+  border-radius: 2px;
+  padding: 0 1px;
+}
+.law-find-hit.is-current {
+  background: #FFD64A;
+  color: #3D2B00;
+  box-shadow: 0 0 0 1.5px #E8A300;
+}
+html[data-theme="dark"] .law-find-hit { background: #5C4700; color: #FFF3C4; }
+html[data-theme="dark"] .law-find-hit.is-current { background: #9A7500; color: #FFFDF2; box-shadow: 0 0 0 1.5px #FFC400; }
