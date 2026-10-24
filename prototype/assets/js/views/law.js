@@ -777,8 +777,52 @@
    * （此前整条文本作为一个块 ＋ white-space:pre-line，换行不会触发 text-indent，
    *   因此只有第一句缩进、后续各款顶格。）
    */
-  function paraHtml(a, lang) {
+  /**
+   * 译文补分段。
+   * 原法文常常分条款（多段落），但译文是一整段 —— 直接显示读者分不清层次。
+   * 这里按句子边界把译文切成与原法文相同的段数，视觉上就对齐了。
+   * 文字一个字都不动：切分结果去空白后必须严格等于原译文，否则原样返回。
+   */
+  function splitTransToParagraphs(transText, wantCount) {
+    if (!transText || wantCount < 2) return transText;
+    if (transText.indexOf('\n') >= 0) return transText;   /* 本来就分段，不动 */
+    var marks = [], re = /([.!?])\s+|([。！？])/g, m;
+    while ((m = re.exec(transText)) !== null) {
+      marks.push(m.index + (m[1] ? m[1].length : m[2].length));
+    }
+    if (marks.length < wantCount - 1) return transText;   /* 句子数量不够，不切 */
+    var cuts = [], total = transText.length, last = 0;
+    for (var i = 1; i < wantCount; i++) {
+      var target = Math.round(total * i / wantCount);
+      var best = -1, bestD = Infinity;
+      for (var j = 0; j < marks.length; j++) {
+        var pos = marks[j];
+        if (pos <= last + 1) continue;
+        var d = Math.abs(pos - target);
+        if (d < bestD) { bestD = d; best = pos; }
+      }
+      if (best > 0 && best < total) { cuts.push(best); last = best; }
+    }
+    if (cuts.length !== wantCount - 1) return transText;
+    var out = [], prev = 0;
+    cuts.forEach(function (c) { out.push(transText.slice(prev, c).trim()); prev = c; });
+    out.push(transText.slice(prev).trim());
+    var joined = out.join('\n');
+    /* 无损校验：去掉所有空白后必须完全一致 */
+    if (joined.replace(/\s+/g, '') !== transText.replace(/\s+/g, '')) return transText;
+    return joined;
+  }
+
+  function paraHtml(a, lang, origLang) {
     var raw = U().tr(a.text, lang) || '';
+    /* 译文（非原文语种）且原文分段更多时，补出同样的段落层次 */
+    if (origLang && lang && lang !== origLang && raw && raw.indexOf('\n') < 0) {
+      var origRaw = U().tr(a.text, origLang) || '';
+      if (origRaw.indexOf('\n') >= 0) {
+        var wantN = origRaw.split('\n').filter(function (x) { return x.trim(); }).length;
+        raw = splitTransToParagraphs(raw, wantN);
+      }
+    }
     return U().paragraphHtml(raw, function (paragraph) {
       var probe = {};
       Object.keys(a).forEach(function (k) { probe[k] = a[k]; });
@@ -817,11 +861,11 @@
 
     if (showOrig) {
       html += (showTrans ? '<div class="article__lang-label">' + esc(t('原文')) + ' · ' + esc(LANG_NAME[effOrig] || effOrig) + '</div>' : '') +
-        '<div class="article__text">' + paraHtml(a, effOrig) + '</div>';
+        '<div class="article__text">' + paraHtml(a, effOrig, effOrig) + '</div>';
     }
     if (showTrans) {
       html += '<div class="article__lang-label article__lang-label--trans">' + esc(t('译文')) + ' · ' + esc(LANG_NAME[trans] || trans) + '</div>' +
-        '<div class="article__text article__text--trans">' + paraHtml(a, trans) + '</div>';
+        '<div class="article__text article__text--trans">' + paraHtml(a, trans, effOrig) + '</div>';
     }
 
     var alts = U().altTitles(a.text, effOrig, 2).filter(function (x) {
