@@ -5,8 +5,8 @@
   "generator": "_work/merge/rebuild-index.js",
   "note": "每部法规一个 JSON（文件名 = 法规ID）。本目录为唯一权威存储；prototype/data/{intl,cn,fulltext}/*.js 由 _work/merge/build-packs.js 从本目录派生生成，请勿手工编辑那些分卷。",
   "lawCount": 18785,
-  "articleCount": 339322,
-  "chars": 270609804,
+  "articleCount": 339351,
+  "chars": 270627557,
   "byLayer": {
    "intl": 17164,
    "fulltext": 81,
@@ -78560,8 +78560,8 @@
    "amendedNote": null,
    "issuingBody": "Congress of the Philippines",
    "docNumber": "Republic Act No. 11641",
-   "articleCount": 25,
-   "chars": 49301,
+   "articleCount": 31,
+   "chars": 54184,
    "sourceUrl": "https://lawphil.net/statutes/repacts/ra2021/ra_11641_2021.html"
   },
   {
@@ -78698,8 +78698,8 @@
    "amendedNote": null,
    "issuingBody": "Congress of the Philippines",
    "docNumber": "Republic Act No. 11646",
-   "articleCount": 29,
-   "chars": 33411,
+   "articleCount": 30,
+   "chars": 34065,
    "sourceUrl": "https://lawphil.net/statutes/repacts/ra2022/ra_11646_2022.html"
   },
   {
@@ -98547,8 +98547,8 @@
    "amendedNote": null,
    "issuingBody": "Congress of the Philippines",
    "docNumber": "Republic Act No. 1378",
-   "articleCount": 23,
-   "chars": 16902,
+   "articleCount": 24,
+   "chars": 17177,
    "sourceUrl": "https://lawphil.net/statutes/repacts/ra1955/ra_1378_1955.html"
   },
   {
@@ -128585,8 +128585,8 @@
    "amendedNote": null,
    "issuingBody": "Congress of the Philippines",
    "docNumber": "Republic Act No. 2674",
-   "articleCount": 27,
-   "chars": 19022,
+   "articleCount": 28,
+   "chars": 19335,
    "sourceUrl": "https://lawphil.net/statutes/repacts/ra1960/ra_2674_1960.html"
   },
   {
@@ -129252,8 +129252,8 @@
    "amendedNote": null,
    "issuingBody": "Congress of the Philippines",
    "docNumber": "Republic Act No. 2701",
-   "articleCount": 20,
-   "chars": 18599,
+   "articleCount": 22,
+   "chars": 21171,
    "sourceUrl": "https://lawphil.net/statutes/repacts/ra1960/ra_2701_1960.html"
   },
   {
@@ -145329,8 +145329,8 @@
    "amendedNote": null,
    "issuingBody": "Congress of the Philippines",
    "docNumber": "Republic Act No. 3627",
-   "articleCount": 22,
-   "chars": 9542,
+   "articleCount": 26,
+   "chars": 10454,
    "sourceUrl": "https://lawphil.net/statutes/repacts/ra1963/ra_3627_1963.html"
   },
   {
@@ -189397,8 +189397,8 @@
    "amendedNote": null,
    "issuingBody": "Congress of the Philippines",
    "docNumber": "Republic Act No. 390",
-   "articleCount": 28,
-   "chars": 21881,
+   "articleCount": 29,
+   "chars": 22221,
    "sourceUrl": "https://lawphil.net/statutes/repacts/ra1949/ra_390_1949.html"
   },
   {
@@ -192433,8 +192433,8 @@
    "amendedNote": null,
    "issuingBody": "Congress of the Philippines",
    "docNumber": "Republic Act No. 402",
-   "articleCount": 20,
-   "chars": 10087,
+   "articleCount": 21,
+   "chars": 10324,
    "sourceUrl": "https://lawphil.net/statutes/repacts/ra1949/ra_402_1949.html"
   },
   {
@@ -212305,8 +212305,8 @@
    "amendedNote": null,
    "issuingBody": "Congress of the Philippines",
    "docNumber": "Republic Act No. 7227",
-   "articleCount": 23,
-   "chars": 36117,
+   "articleCount": 24,
+   "chars": 35831,
    "sourceUrl": "https://lawphil.net/statutes/repacts/ra1992/ra_7227_1992.html"
   },
   {
@@ -224633,8 +224633,8 @@
    "amendedNote": null,
    "issuingBody": "Congress of the Philippines",
    "docNumber": "Republic Act No. 7722",
-   "articleCount": 20,
-   "chars": 15851,
+   "articleCount": 21,
+   "chars": 16605,
    "sourceUrl": "https://lawphil.net/statutes/repacts/ra1994/ra_7722_1994.html"
   },
   {
@@ -232684,7 +232684,7 @@
    "issuingBody": "Congress of the Philippines",
    "docNumber": "Republic Act No. 8043",
    "articleCount": 22,
-   "chars": 18167,
+   "chars": 18579,
    "sourceUrl": "https://lawphil.net/statutes/repacts/ra1995/ra_8043_1995.html"
   },
   {
@@ -260766,8 +260766,8 @@
    "amendedNote": null,
    "issuingBody": "Congress of the Philippines",
    "docNumber": "Republic Act No. 9167",
-   "articleCount": 22,
-   "chars": 21741,
+   "articleCount": 24,
+   "chars": 22513,
    "sourceUrl": "https://lawphil.net/statutes/repacts/ra2002/ra_9167_2002.html"
   },
   {
@@ -274405,8 +274405,8 @@
    "amendedNote": null,
    "issuingBody": "Congress of the Philippines",
    "docNumber": "Republic Act No. 9718",
-   "articleCount": 28,
-   "chars": 24094,
+   "articleCount": 29,
+   "chars": 24682,
    "sourceUrl": "https://lawphil.net/statutes/repacts/ra2009/ra_9718_2009.html"
   },
   {
@@ -274428,8 +274428,8 @@
    "amendedNote": null,
    "issuingBody": "Congress of the Philippines",
    "docNumber": "Republic Act No. 9719",
-   "articleCount": 28,
-   "chars": 23851,
+   "articleCount": 29,
+   "chars": 24455,
    "sourceUrl": "https://lawphil.net/statutes/repacts/ra2009/ra_9719_2009.html"
   },
   {
@@ -274451,8 +274451,8 @@
    "amendedNote": null,
    "issuingBody": "Congress of the Philippines",
    "docNumber": "Republic Act No. 9720",
-   "articleCount": 28,
-   "chars": 23938,
+   "articleCount": 29,
+   "chars": 24535,
    "sourceUrl": "https://lawphil.net/statutes/repacts/ra2009/ra_9720_2009.html"
   },
   {
@@ -310240,7 +310240,7 @@
    "issuingBody": "Congress of the Philippines",
    "docNumber": "Republic Act No. 11148",
    "articleCount": 22,
-   "chars": 41944,
+   "chars": 42705,
    "sourceUrl": "https://lawphil.net/statutes/repacts/ra2018/ra_11148_2018.html"
   },
   {
@@ -311205,8 +311205,8 @@
    "amendedNote": null,
    "issuingBody": "Congress of the Philippines",
    "docNumber": "Republic Act No. 11186",
-   "articleCount": 29,
-   "chars": 30584,
+   "articleCount": 30,
+   "chars": 31391,
    "sourceUrl": "https://lawphil.net/statutes/repacts/ra2019/ra_11186_2019.html"
   },
   {
@@ -313367,8 +313367,8 @@
    "amendedNote": null,
    "issuingBody": "Congress of the Philippines",
    "docNumber": "Republic Act No. 11284",
-   "articleCount": 28,
-   "chars": 25269,
+   "articleCount": 29,
+   "chars": 26142,
    "sourceUrl": "https://lawphil.net/statutes/repacts/ra2019/ra_11284_2019.html"
   },
   {
@@ -314678,8 +314678,8 @@
    "amendedNote": null,
    "issuingBody": "Congress of the Philippines",
    "docNumber": "Republic Act No. 11336",
-   "articleCount": 27,
-   "chars": 26346,
+   "articleCount": 29,
+   "chars": 27174,
    "sourceUrl": "https://lawphil.net/statutes/repacts/ra2019/ra_11336_2019.html"
   },
   {
@@ -314793,8 +314793,8 @@
    "amendedNote": null,
    "issuingBody": "Congress of the Philippines",
    "docNumber": "Republic Act No. 11340",
-   "articleCount": 21,
-   "chars": 13926,
+   "articleCount": 22,
+   "chars": 14783,
    "sourceUrl": "https://lawphil.net/statutes/repacts/ra2019/ra_11340_2019.html"
   },
   {
