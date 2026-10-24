@@ -952,3 +952,22 @@ html[data-theme="dark"] .law-find-hit { background: #7A5C00; color: #FFF3C4; }
 }
 html[data-theme="dark"] .law-find-hit { background: #5C4700; color: #FFF3C4; }
 html[data-theme="dark"] .law-find-hit.is-current { background: #9A7500; color: #FFFDF2; box-shadow: 0 0 0 1.5px #FFC400; }
+
+/* 查找框压扁加宽（删掉两个按钮后横向有富余） */
+.reader-toolbar--compact .reader-toolbar__find .law-find .searchbox__input {
+  height: 24px;
+  padding-top: 0;
+  padding-bottom: 0;
+  font-size: 12.5px;
+}
+.reader-toolbar--compact .reader-toolbar__find .law-find {
+  width: 300px;
+  height: 28px;
+  padding: 0 8px;
+}
+@media (max-width: 1279px) {
+  .reader-toolbar--compact .reader-toolbar__find .law-find { width: 220px; }
+}
+@media (max-width: 1023px) {
+  .reader-toolbar--compact .reader-toolbar__find .law-find { width: 170px; }
+}

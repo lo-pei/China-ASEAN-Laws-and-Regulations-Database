@@ -250,11 +250,6 @@
                       'title="' + esc(t('放大字号')) + '" aria-label="' + esc(t('放大字号')) + '">A+</button>' +
                   '</span>' +
                   '<span class="reader-toolbar__sep"></span>' +
-                  '<span class="reader-toolbar__group">' +
-                    '<button class="btn btn--outline btn--sm" id="toggle-all">' + esc(t('全部展开')) + '</button>' +
-                    '<button class="btn btn--outline btn--sm" id="tts-btn">' + CALR.ui.icon('volume') + ' ' + esc(t('全文朗读')) + '</button>' +
-                  '</span>' +
-                  '<span class="reader-toolbar__sep"></span>' +
                   '<span class="reader-toolbar__group reader-toolbar__find">' +
                     '<span class="searchbox searchbox--sm law-find">' +
                       '<span class="searchbox__icon" aria-hidden="true">' + CALR.ui.icon('search') + '</span>' +
@@ -627,12 +622,6 @@
         var i2 = U().$('#law-find-q', main);
         if (i2) i2.blur();
       }
-      U().on(U().$('#toggle-all', main), 'click', function () {
-        var collapsed = U().$$('.article.is-collapsed', main).length > 0;
-        U().$$('.article', main).forEach(function (el) { el.classList.toggle('is-collapsed', !collapsed); });
-        U().$$('[data-article-toggle]', main).forEach(function (b) { b.textContent = collapsed ? t('收起') : t('展开'); });
-        this.textContent = collapsed ? t('折叠全部条文') : t('展开全部条文');
-      });
 
       /* 条文折叠 */
       U().$$('[data-article-toggle]', main).forEach(function (btn) {
@@ -716,33 +705,7 @@
       });
 
       /* TTS */
-      var ttsBtn = U().$('#tts-btn', main);
-      var speaking = false;
-      U().on(ttsBtn, 'click', function () {
-        if (!('speechSynthesis' in window)) { U().toast(t('当前浏览器不支持语音朗读'), 'warn'); return; }
-        if (speaking) {
-          window.speechSynthesis.cancel();
-          speaking = false;
-          ttsBtn.innerHTML = CALR.ui.icon('volume') + ' ' + esc(t('全文朗读'));
-          return;
-        }
-        var lang = dl === 'auto' ? CLang(avail) : dl;
-        var text = tr(law.title) + '。' + law.articles.map(function (a) {
-          return (tr(a.noLabel) || '') + (tr(a.heading) || '') + '。' + (U().tr(a.text, lang) || '');
-        }).join(' ');
-        var u = new SpeechSynthesisUtterance(U().truncate(text, 4000));
-        u.lang = SPEECH[lang] || 'zh-CN';
-        u.rate = 0.95;
-        u.onend = function () { speaking = false; ttsBtn.innerHTML = CALR.ui.icon('volume') + ' ' + esc(t('全文朗读')); };
-        speaking = true; ttsBtn.textContent = '⏹ ' + t('停止朗读');
-        window.speechSynthesis.speak(u);
-      });
-
-      function CLang(availList) {
-        var ui = CALR.i18n.lang();
-        return availList.indexOf(ui) >= 0 ? ui : (availList.indexOf('zh') >= 0 ? 'zh' : availList[0]);
-      }
-
+      
       function doCopy() {
         U().copy(citationText(law)).then(function (ok) {
           U().toast(ok ? t('引用格式已复制到剪贴板') : t('复制失败，请手动选择文本复制'), ok ? 'ok' : 'warn');
