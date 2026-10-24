@@ -1013,3 +1013,19 @@ html[data-theme="dark"] .law-find-hit.is-current { background: #9A7500; color: #
   hyphens: auto;
 }
 .center, .card__body > .center { text-align: center; }
+
+/* 条文目录里 Division/Subdivision 的短标记 */
+.toc__sub {
+  display: inline-block;
+  margin-left: 4px;
+  padding: 0 4px;
+  border-radius: 3px;
+  background: var(--bg-subtle, #F1F3F7);
+  color: var(--text-tertiary, #9AA4B2);
+  font-size: 10.5px;
+  vertical-align: 1px;
+  max-width: 120px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}

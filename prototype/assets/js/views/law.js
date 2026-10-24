@@ -316,8 +316,14 @@
                         '</button>' +
                         '<ul class="toc-group__list">' +
                           g.items.map(function (a) {
-                            return '<li><a href="#/law/' + esc(law.id) + '" data-anchor="' + esc(a.id) + '">' +
-                              esc(tr(a.noLabel) || ('第 ' + a.no + ' 条')) + ' ' + esc(U().truncate(tr(a.heading), 16)) + '</a></li>';
+                            var subTag = a.__tocSub
+                              ? '<span class="toc__sub" title="' + esc(a.__tocSub) + '">' +
+                                esc(U().truncate(a.__tocSub, 20)) + '</span>'
+                              : '';
+                            return '<li><a href="#/law/' + esc(law.id) + '" data-anchor="' + esc(a.id) +
+                              '" title="' + esc(a.__tocSub || '') + '">' +
+                              esc(tr(a.noLabel) || ('第 ' + a.no + ' 条')) + ' ' +
+                              esc(U().truncate(tr(a.heading), 16)) + subTag + '</a></li>';
                           }).join('') +
                         '</ul>' +
                       '</li>';
@@ -892,13 +898,28 @@
     U().on(document, 'keydown', function (e) { if (e.key === 'Escape') hideForce(); });
   }
 
-  /* 条文目录分组：按「章」聚合；无章节信息时归入单一分组 */
+  /* 条文目录分组：按「章」聚合；无章节信息时归入单一分组。
+     有些法域的 chapter 是完整层级路径（马来西亚公司法就是
+       'PART II FORMATION AND ADMINISTRATION OF COMPANIES — Division 1 Types of Companies'
+     这种），直接当分组名会因为太长被截断，看上去像十几个同名分组。
+     所以分组键只取顶层（' — ' 之前），Division/Subdivision 留作条目前的简短标记。 */
+  function tocTopLevel(title) {
+    var parts = String(title).split(/\s+[—–]\s+/);
+    return { top: parts[0].trim(), sub: parts.slice(1).join(' · ').trim() };
+  }
   function buildTocGroups(law) {
     var groups = [], index = {};
     law.articles.forEach(function (a) {
-      var title = tr(a.chapter) || t('全部条文');
-      if (!(title in index)) { index[title] = groups.length; groups.push({ title: title, items: [] }); }
-      groups[index[title]].items.push(a);
+      var raw = tr(a.chapter) || '';
+      var lv = raw ? tocTopLevel(raw) : { top: t('全部条文'), sub: '' };
+      if (!(lv.top in index)) { index[lv.top] = groups.length; groups.push({ title: lv.top, items: [] }); }
+      var it = a;
+      if (lv.sub) {
+        /* 不改动条文对象，只在渲染时带一个副标题 */
+        it = Object.create(a);
+        it.__tocSub = lv.sub;
+      }
+      groups[index[lv.top]].items.push(it);
     });
     return groups;
   }
