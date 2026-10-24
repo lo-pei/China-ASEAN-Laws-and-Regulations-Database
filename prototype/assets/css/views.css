@@ -971,3 +971,45 @@ html[data-theme="dark"] .law-find-hit.is-current { background: #9A7500; color: #
 @media (max-width: 1023px) {
   .reader-toolbar--compact .reader-toolbar__find .law-find { width: 170px; }
 }
+
+/* ---------- 全站正文段落两端对齐 ----------
+   条文段落（.article__p）本来就已经 justify 了；
+   但各页面标题下的描述、特性卡描述、时间线说明、页脚简介这些正文段落
+   仍是默认左对齐，右侧参差不齐。这里统一处理。
+   小字（.mini / .mini.muted，11px 及以下）不参与对齐 —— 行太短，
+   拉齐反而造成词间空隙过大、可读性下降。 */
+.page-head__desc,
+.feature-card__desc,
+.hist__note,
+.footer__branddesc,
+.prose > p,
+.faq__item > p,
+.card__body > p,
+.entry-card__desc,
+.sys-card__desc,
+.about-block > p {
+  text-align: justify;
+  text-justify: inter-ideograph;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+}
+/* 明确豁免：小字注释、居中块、短标签 */
+.mini,
+.mini.muted,
+.center,
+.tag,
+.btn,
+.law-item__meta,
+.article__lang-label,
+.article__no,
+.article__heading {
+  text-align: inherit;
+}
+.mini { text-align: left; }
+/* 12px 的小字说明也对齐（11px 的 .mini 除外） */
+.small, .small.muted {
+  text-align: justify;
+  text-justify: inter-ideograph;
+  hyphens: auto;
+}
+.center, .card__body > .center { text-align: center; }

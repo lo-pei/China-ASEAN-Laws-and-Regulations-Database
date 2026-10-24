@@ -203,7 +203,7 @@
             '<div class="law-head">' +
               '<h1 class="law-title-zh">' + esc(tr(law.title)) + '</h1>' +
               (altTitles.length ? '<div class="law-title-alt">' + altTitles.map(function (a) {
-                return '<span>' + esc(LANG_NAME[a.lang] || a.lang) + '：' + esc(a.text) + '</span>';
+                return '<span>' + esc(t(LANG_NAME[a.lang] || a.lang)) + '：' + esc(a.text) + '</span>';
               }).join('') + '</div>' : '') +
               '<div class="row">' +
                 /* 层级 / 时效性 / 收录形态已在下方信息表中列明，此处不再重复 */
@@ -823,7 +823,7 @@
     });
     if (alts.length) {
       html += '<div class="article__sub">' + alts.map(function (x) {
-        return '<div>' + esc(LANG_NAME[x.lang] || x.lang) + '：' + esc(x.text) + '</div>';
+        return '<div>' + esc(t(LANG_NAME[x.lang] || x.lang)) + '：' + esc(x.text) + '</div>';
       }).join('') + '</div>';
     }
     return html + '</div>';

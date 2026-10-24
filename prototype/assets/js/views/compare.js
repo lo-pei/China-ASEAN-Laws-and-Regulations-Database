@@ -60,8 +60,8 @@
       { name: '中越外商投资准入对比', pairs: [['CN', 'investment'], ['VN', 'investment']] },
       { name: '中泰劳动用工解除对比', pairs: [['TH', 'labor'], ['CN', 'labor']] },
       { name: '新马数据合规要求对比', pairs: [['SG', 'data'], ['MY', 'data']] },
-      { name: '印尼与越南外资门槛对比', pairs: [['ID', 'investment'], ['VN', 'investment']] },
-      { name: '中马公司治理对比', pairs: [['CN', 'company'], ['MY', 'company']] }
+      { name: t('印尼与越南外资门槛对比'), pairs: [['ID', 'investment'], ['VN', 'investment']] },
+      { name: t('中马公司治理对比'), pairs: [['CN', 'company'], ['MY', 'company']] }
     ];
     var out = [];
     defs.forEach(function (d) {

@@ -55,7 +55,7 @@
   .table-scroll, .meta-table { overflow-x: auto; -webkit-overflow-scrolling: touch; }
 
   /* 条文正文：窄屏两端对齐会拉出过大字距，改回左对齐更好读 */
-  .article__p { text-align: left; text-justify: auto; }
+  .article__p { text-align: justify; text-justify: inter-ideograph; hyphens: auto; }
 
 
   /* ⑤ 跨语言比对：三个法域选择器原本固定 3 列，390px 下每个只剩 80px，

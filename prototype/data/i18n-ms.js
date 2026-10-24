@@ -879,6 +879,11 @@
   /* EN fallback: 待母语校对 */
   "本平台不采集与法律法规检索无关的个人信息，无需注册登录。": "This platform collects no personal information beyond what is needed for legal research, and requires no registration or sign-in.",
   /* EN fallback: 待母语校对 */
-  "除您填写的接口地址外，本平台不向任何第三方发送您的数据。": "Apart from the API endpoint you enter yourself, this platform sends your data to no third party."
+  "除您填写的接口地址外，本平台不向任何第三方发送您的数据。": "Apart from the API endpoint you enter yourself, this platform sends your data to no third party.",
+  /* EN fallback: 待母语校对 */
+  "后端形态下，服务端仅记录必要的运行日志（访问时间、接口路径、响应状态、请求来源的匿名网络地址），用于故障排查与频率限制。这些日志不包含您的提问正文与检索词，仅保留有限时长，不用于识别个人身份，不向任何第三方提供。": "In the back-end-served form, the server records only the operational logs needed for troubleshooting and rate limiting (access time, endpoint path, response status, anonymised network address of the request origin). These logs do not contain the text of your questions or search terms, are retained for a limited period only, are not used to identify individuals, and are not provided to any third party.",
+  "印尼与越南外资门槛对比": "Indonesia dan Vietnam: ambang pelaburan asing",
+  "中马公司治理对比": "China dan Malaysia: tadbir urus korporat",
+  "术语（中文）": "Istilah (Cina)"
 };
 })(typeof window !== 'undefined' ? window : globalThis);

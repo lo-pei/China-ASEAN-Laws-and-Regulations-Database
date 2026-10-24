@@ -75,7 +75,7 @@
         var rows = [['术语（中文）', 'English'].concat(langs.slice(2).map(function (c) { return CALR.i18n.nativeName(c); })).concat(['领域', '译法确定性', '释义'])];
         all.forEach(function (tm) {
           rows.push([tm.zh, tm.en || ''].concat(langs.slice(2).map(function (c) { return (tm.translations || {})[c] || ''; }))
-            .concat([CALR.terms.domainName(tm.domain), { high: '确定', medium: '较确定', concept: '概念解释' }[tm.confidence] || '确定', (tm.definition && tm.definition.zh) || '']));
+            .concat([CALR.terms.domainName(tm.domain), { high: t('确定'), medium: t('较确定'), concept: t('概念解释') }[tm.confidence] || t('确定'), (tm.definition && tm.definition.zh) || '']));
         });
         U().download('CALR-法律术语对照表.csv', U().toCsv(rows), 'text/csv;charset=utf-8');
         U().toast(t('术语对照表已导出（CSV）'), 'ok');
@@ -104,7 +104,7 @@
     U().modal({
       title: tm.zh + ' · ' + (tm.en || ''),
       body: '<div class="row" style="margin-bottom:10px"><span class="tag tag--blue">' + esc(CALR.terms.domainName(tm.domain)) + '</span>' +
-        '<span class="tag tag--outline">' + esc({ high: '译法确定', medium: '译法较确定', concept: '无直接对应译法' }[tm.confidence] || '') + '</span></div>' +
+        '<span class="tag tag--outline">' + esc({ high: t('译法确定'), medium: t('译法较确定'), concept: t('无直接对应译法') }[tm.confidence] || '') + '</span></div>' +
         '<table class="table"><thead><tr><th style="width:120px">' + esc(t('语言')) + '</th><th>' + esc(t('对应译法')) + '</th></tr></thead><tbody>' +
         rows.map(function (r) {
           return '<tr><td>' + esc(r.name) + ' <span class="mini muted">' + esc(r.native) + '</span></td><td>' + esc(r.value) + '</td></tr>';
@@ -132,7 +132,7 @@
         return '<span><b>' + esc(r.name) + '</b>' + esc(U().truncate(r.value, 34)) + '</span>';
       }).join('') + '</div>' +
       '<div class="row" style="margin-top:8px"><span class="tag tag--outline">' + esc(CALR.terms.domainName(tm.domain)) + '</span>' +
-        '<span class="tag tag--outline">' + esc({ high: '译法确定', medium: '较确定', concept: '概念解释' }[tm.confidence] || '') + '</span>' +
+        '<span class="tag tag--outline">' + esc({ high: t('译法确定'), medium: t('较确定'), concept: t('概念解释') }[tm.confidence] || '') + '</span>' +
         (rows.length < 3 && tm.confidence === 'concept' ? '<span class="tag tag--gold">' + esc(t('无直接对应译法')) + '</span>' : '') +
       '</div></div>';
   }

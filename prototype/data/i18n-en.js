@@ -866,6 +866,10 @@
   "界面语言、深浅色模式、字号等偏好设置保存在用户浏览器本地，不会上传。": "Preferences such as interface language, colour theme and font size are stored locally in your browser and are never uploaded.",
   "纯静态形态下，检索与阅读完全在浏览器内完成，平台不接收任何数据。": "In the purely static form, searching and reading happen entirely inside the browser and the platform receives no data at all.",
   "本平台不采集与法律法规检索无关的个人信息，无需注册登录。": "This platform collects no personal information beyond what is needed for legal research, and requires no registration or sign-in.",
-  "除您填写的接口地址外，本平台不向任何第三方发送您的数据。": "Apart from the API endpoint you enter yourself, this platform sends your data to no third party."
+  "除您填写的接口地址外，本平台不向任何第三方发送您的数据。": "Apart from the API endpoint you enter yourself, this platform sends your data to no third party.",
+  "后端形态下，服务端仅记录必要的运行日志（访问时间、接口路径、响应状态、请求来源的匿名网络地址），用于故障排查与频率限制。这些日志不包含您的提问正文与检索词，仅保留有限时长，不用于识别个人身份，不向任何第三方提供。": "In the back-end-served form, the server records only the operational logs needed for troubleshooting and rate limiting (access time, endpoint path, response status, anonymised network address of the request origin). These logs do not contain the text of your questions or search terms, are retained for a limited period only, are not used to identify individuals, and are not provided to any third party.",
+  "印尼与越南外资门槛对比": "Indonesia vs Viet Nam: foreign-investment thresholds",
+  "中马公司治理对比": "China vs Malaysia: corporate governance",
+  "术语（中文）": "Term (Chinese)"
 };
 })(typeof window !== 'undefined' ? window : globalThis);
