@@ -78,10 +78,22 @@ function checkPack(rel) {
     const emptyVal = o.articles.filter(a => a.text && a.text[o.language] !== undefined && String(a.text[o.language]).trim() === '').length;
     if (missKey) loos(rel + ' → ' + id + ' 有 ' + missKey + ' 条缺少原文语言键 ' + o.language);
     if (emptyVal) loos(rel + ' → ' + id + ' 有 ' + emptyVal + ' 条原文语言键 ' + o.language + ' 值为空（正文缺失，需重新抓取）');
-    // 【2026-10-06 补强】heading 长度触及 80 字符上限 → 疑似被生成器截断（正文首段被切走）
+    // 【2026-10-24 修正判据】原判据是「heading 长度 >= 80」，实测是误报：
+    //   全库 3173 条 heading >= 80，其中 3150 条是真实长标题
+    //   （新加坡刑法典的罪名描述本来就长，例如
+    //    "Punishment of offences committed beyond, but which by law may be tried within Singapore"）。
+    //   真正的问题信号是「heading 恰好是正文的前缀」—— 抓取时把正文开头当成了标题。
+    //   按新判据全库只剩 23 条；且这 23 条语义上并不算错（标题确实就是正文首句），
+    //   所以只作提示，不修改数据，长标题的展示问题交给前端截断处理。
+    const _norm = x => String(x || '').replace(/\s+/g, ' ');
     const hTrunc = o.articles.filter(a => {
-      const h = a.heading && a.heading[o.language];
-      return h && String(h).length >= 80;
+      const hd = a.heading || {};
+      const h = hd[o.language] || hd.zh || hd.en;
+      if (!h || String(h).length < 80) return false;
+      const tx = a.text || {};
+      const b = tx[o.language] || tx.zh || tx.en || Object.values(tx)[0];
+      if (!b) return false;
+      return _norm(b).indexOf(_norm(h).slice(0, 50)) >= 0;
     }).length;
     if (hTrunc) SUPPRESS_TRUNC.push({ rel, id, n: hTrunc });
     // 【2026-10-06 补强】同一部法内条号必须唯一（SKILL §4.2）
@@ -193,7 +205,7 @@ if (overlap.length) note('dataset-core 与 cn-catalog 有 ' + overlap.length + '
              不影响本轮校验通过，供后续治理排期用） ---------- */
 if (SUPPRESS_TRUNC.length) {
   const n = SUPPRESS_TRUNC.reduce((s, x) => s + x.n, 0);
-  note('共 ' + SUPPRESS_TRUNC.length + ' 部法规 / ' + n + ' 条条文 heading 长度≥80，疑似正文首段被生成器截断；' +
+  note('共 ' + SUPPRESS_TRUNC.length + ' 部法规 / ' + n + ' 条条文的 heading 是正文前缀（抓取时把正文开头当成了标题）；' +
     '影响面见 _work/intl-harvest/build.js（已于 2026-10-06 修正截断逻辑），存量数据需重新抓取修复。例：' +
     SUPPRESS_TRUNC.slice(0, 3).map(x => x.id + '(' + x.n + ')').join('、'));
 }

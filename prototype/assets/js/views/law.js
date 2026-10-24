@@ -18,9 +18,45 @@
   views.law = {
     render: function (main, params, query) {
       var id = params[0];
+
+  /* 版本与变迁（④）：数据现实是没有条文级修订记录，所以只做法规级时间线，
+         并列出「同标题的其他记录」—— 明确标注同名不等于同法，不替用户下结论。 */
+      function renderHistoryData() {
+        /* 注意：本文件下文有 var root = U().$('#law-body', main) || main;
+           那个 root 是 DOM 元素，不是 window。这里必须用 window 取 API 模式标记，
+           否则 root.__CALR_API_MODE 永远是 undefined，整段逻辑被静默跳过。 */
+        if (!((typeof window !== 'undefined' ? window.__CALR_API_MODE : null) &&
+              CALR.api && CALR.api.enabled && CALR.api.enabled() && CALR.api.lawHistory)) return;
+        CALR.api.lawHistory(id).then(function (h) {
+          if (!h) return;
+          var box = U().$('#law-history', main);
+          if (!box) return;
+          var ev = (h.events || []).map(function (e) {
+            return '<li class="hist__item"><span class="hist__dot"></span>' +
+              '<span class="hist__label">' + esc(e.label) + '</span>' +
+              '<span class="hist__val">' + esc(e.value) + '</span></li>';
+          }).join('');
+          var sib = (h.siblings || []).length ? (
+            '<div class="hist__sib"><div class="hist__sibtitle">' + esc(t('同标题的其他记录')) +
+            '（' + h.siblings.length + '）</div><ul class="hist__siblist">' +
+            h.siblings.map(function (x) {
+              return '<li><a href="#/law/' + esc(x.id) + '">' + esc(CALR.store.lawTitle({ title: { zh: x.title } })) +
+                '</a> <span class="mini">' + esc(x.id) + (x.promulgatedDate ? ' · ' + esc(String(x.promulgatedDate)) : '') +
+                '</span></li>';
+            }).join('') + '</ul>' +
+            '<p class="hist__note">' + esc(h.note || '') + '</p></div>') : '';
+          box.innerHTML = '<div class="card"><div class="card__head"><h2 class="card__title">' +
+            esc(t('版本与变迁')) + '</h2></div><div class="card__body">' +
+            (ev ? '<ul class="hist">' + ev + '</ul>' : '<p class="mini">' + esc(t('暂无版本时间信息')) + '</p>') +
+            sib + '</div></div>';
+        }).catch(function () {});
+      }
+
+
       var law = S().law(id);
       if (!law) {
-        /* API 模式兜底：store 里没有（compact 后台补齐尚未完成，或直接访问详情页链接），
+
+    /* API 模式兜底：store 里没有（compact 后台补齐尚未完成，或直接访问详情页链接），
        就先向后端要这一部，拿到后写入 store 再重渲染。 */
     if (root.__CALR_API_MODE && CALR.api && CALR.api.enabled && CALR.api.enabled() &&
         CALR.api.law && !main.__calrLawFetching) {
@@ -297,8 +333,8 @@
                 return '<div style="margin-bottom:8px"><a href="#/law/' + esc(l.id) + '">' + esc(tr(l.title)) + '</a></div>';
               }).join('') : '<p class="mini muted">' + esc(t('暂未收录引用本法条的法规。')) + '</p>') + '</div></div>' +
 
-            '<div class="card" style="margin-bottom:16px"><div class="card__head"><h3 class="card__title">' + esc(t('修订历史')) + '</h3></div>' +
-              '<div class="card__body">' + (revisions.length
+            '<div class="card" style="margin-bottom:16px" id="law-history-card"><div class="card__head"><h3 class="card__title">' + esc(t('版本与变迁')) + '</h3></div>' +
+              '<div class="card__body" id="law-history">' + (revisions.length
                 ? '<ul class="timeline">' + revisions.map(function (r) {
                     return '<li><div class="timeline__date">' + esc(r.date || '') + '</div>' +
                       '<div class="timeline__text">' + esc(tr(r.summary)) + '</div>' +
@@ -336,6 +372,9 @@
           '</aside>' +
         '</div>' +
       '</div>';
+
+      /* 版本与变迁：接口是异步的，HTML 就位后填进侧栏卡片 */
+      renderHistoryData();
 
       /* ---------- 交互 ---------- */
       if (fontSize !== 'normal') document.documentElement.setAttribute('data-fontsize', fontSize);

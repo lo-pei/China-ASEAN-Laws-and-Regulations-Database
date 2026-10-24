@@ -1,7 +1,7 @@
 {
  "formatVersion": "calr-title-zh-v1",
  "generatedAt": "2026-10-24T13:24:36",
- "count": 18725,
+ "count": 18746,
  "titles": {
   "BN-BANKRUPTCY-RULES": {
    "zh": "破产规则",
@@ -153609,6 +153609,195 @@
    "origTitle": "พระราชกำหนดอนุญาตให้รัฐบาลจ่ายเงินไปพลางก่อน พ.ศ. 2523",
    "preprocessed": "พระราชกำหนดอนุญาตให้รัฐบาลจ่ายเงินไปพลางก่อน (1980)",
    "note": "机器翻译，未经人工校对；泰文数字已转写、佛历年份已换算为公历"
+  },
+  "KH-H3894": {
+   "zh": "民法典",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "nllb-200-distilled-600M",
+   "version": "v3",
+   "reviewed": false,
+   "note": "机器翻译，未经人工校对"
+  },
+  "KH-H3895": {
+   "zh": "民事诉讼法典",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "nllb-200-distilled-600M",
+   "version": "v3",
+   "reviewed": false,
+   "note": "机器翻译，未经人工校对"
+  },
+  "LA-H416": {
+   "zh": "2018经济争议解决法",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "version": "v3",
+   "reviewed": false,
+   "note": "从采集元数据的来源名提取"
+  },
+  "LA-H429": {
+   "zh": "劳动法",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "version": "v3",
+   "reviewed": false,
+   "note": "从采集元数据的来源名提取"
+  },
+  "LA-H440": {
+   "zh": "民法典",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "version": "v3",
+   "reviewed": false,
+   "note": "从采集元数据的来源名提取"
+  },
+  "LA-H445": {
+   "zh": "电子交易法",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "version": "v3",
+   "reviewed": false,
+   "note": "从采集元数据的来源名提取"
+  },
+  "LA-H446": {
+   "zh": "电子商务政令2021",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "version": "v3",
+   "reviewed": false,
+   "note": "从采集元数据的来源名提取"
+  },
+  "MM-H081": {
+   "zh": "仲裁法",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "nllb-200-distilled-600M",
+   "version": "v3",
+   "reviewed": false,
+   "note": "机器翻译，未经人工校对"
+  },
+  "MM-H082": {
+   "zh": "民事诉讼法典",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "nllb-200-distilled-600M",
+   "version": "v3",
+   "reviewed": false,
+   "note": "机器翻译，未经人工校对"
+  },
+  "MM-H083": {
+   "zh": "公司法",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "nllb-200-distilled-600M",
+   "version": "v3",
+   "reviewed": false,
+   "note": "机器翻译，未经人工校对"
+  },
+  "MM-H084": {
+   "zh": "进出口法",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "nllb-200-distilled-600M",
+   "version": "v3",
+   "reviewed": false,
+   "note": "机器翻译，未经人工校对"
+  },
+  "MM-H087": {
+   "zh": "劳动争端解决法",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "nllb-200-distilled-600M",
+   "version": "v3",
+   "reviewed": false,
+   "note": "机器翻译，未经人工校对"
+  },
+  "MY-H119": {
+   "zh": "资本市场和服务法",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "nllb-200-distilled-600M",
+   "version": "v3",
+   "reviewed": false,
+   "note": "机器翻译，未经人工校对"
+  },
+  "TH-H1079": {
+   "zh": "电子交易法（佛历 2544 年）",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "manual-glance",
+   "version": "v3",
+   "reviewed": false,
+   "note": "按 URL slug 的章节号规范为中文（信息来自 slug 本身）"
+  },
+  "TH-H1080": {
+   "zh": "税法典 第 3 章 公司所得税（第 65–76 条之三）",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "manual-glance",
+   "version": "v3",
+   "reviewed": false,
+   "note": "按 URL slug 的章节号规范为中文（信息来自 slug 本身）"
+  },
+  "TH-H1081": {
+   "zh": "税法典 第 3 章 所得税（第 38–64 条）",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "manual-glance",
+   "version": "v3",
+   "reviewed": false,
+   "note": "按 URL slug 的章节号规范为中文（信息来自 slug 本身）"
+  },
+  "TH-H1082": {
+   "zh": "税法典 第 4 章 增值税（第 77–79 条之七）",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "manual-glance",
+   "version": "v3",
+   "reviewed": false,
+   "note": "按 URL slug 的章节号规范为中文（信息来自 slug 本身）"
+  },
+  "TH-H1083": {
+   "zh": "税法典 第 5 章 特定商业税（第 91–91 条之二十一）",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "manual-glance",
+   "version": "v3",
+   "reviewed": false,
+   "note": "按 URL slug 的章节号规范为中文（信息来自 slug 本身）"
+  },
+  "TH-H1084": {
+   "zh": "税法典 第 6 章 印花税（第 103–129 条）",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "manual-glance",
+   "version": "v3",
+   "reviewed": false,
+   "note": "按 URL slug 的章节号规范为中文（信息来自 slug 本身）"
+  },
+  "TH-H1085": {
+   "zh": "税法典 第 1 编 一般规定（第 1–4 条）",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "manual-glance",
+   "version": "v3",
+   "reviewed": false,
+   "note": "按 URL slug 的章节号规范为中文（信息来自 slug 本身）"
+  },
+  "TH-H1135": {
+   "zh": "专利法",
+   "en": null,
+   "batch": "title-fill-2026-10-24",
+   "engine": "source-extract",
+   "version": "v3",
+   "reviewed": false,
+   "note": "从采集元数据的来源名提取"
   }
  }
 }

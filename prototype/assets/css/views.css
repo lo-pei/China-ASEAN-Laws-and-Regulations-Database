@@ -754,3 +754,36 @@ mark.law-find-hit {
   text-justify: inter-ideograph;
   word-break: break-word;
 }
+
+/* ---------- 版本与变迁（法规级时间线） ---------- */
+.hist { list-style: none; margin: 0; padding: 0; }
+.hist__item {
+  position: relative;
+  display: flex;
+  gap: 10px;
+  padding: 0 0 12px 16px;
+  border-left: 2px solid var(--border);
+}
+.hist__item:last-child { padding-bottom: 0; border-left-color: transparent; }
+.hist__dot {
+  position: absolute;
+  left: -5px; top: 5px;
+  width: 8px; height: 8px; border-radius: 50%;
+  background: var(--calr-blue-500, #3B82F6);
+}
+.hist__label {
+  flex: 0 0 40px;
+  font-size: var(--fs-mini);
+  color: var(--text-secondary);
+}
+.hist__val { font-size: var(--fs-small); word-break: break-word; }
+.hist__sib { margin-top: 14px; padding-top: 12px; border-top: 1px dashed var(--border); }
+.hist__sibtitle { font-size: var(--fs-small); font-weight: 600; margin-bottom: 6px; }
+.hist__siblist { list-style: none; margin: 0; padding: 0; font-size: var(--fs-small); }
+.hist__siblist li { padding: 3px 0; }
+.hist__note {
+  margin: 8px 0 0;
+  font-size: var(--fs-mini);
+  color: var(--text-tertiary, #9AA4B2);
+  line-height: 1.6;
+}

@@ -211,6 +211,62 @@ def law(law_id: str) -> Dict[str, Any]:
     return db.law_dict(r, with_articles=True)
 
 
+@app.get("/api/laws/{law_id}/history", summary="法规版本与变迁（法规级）")
+def law_history(law_id: str) -> Dict[str, Any]:
+    """返回一部法的生命周期时间线，以及同标题的其他记录。
+
+    数据现实：全库没有条文级修订记录（revisions / history / amendedBy 均为 0 部），
+    所以这里只做**法规级**时间线，且只使用已入库的元数据字段，不做任何推断。
+    """
+    row = db.row("SELECT * FROM laws WHERE id=?", [law_id])
+    if not row:
+        raise HTTPException(status_code=404, detail="法规不存在")
+    law = db.law_dict(row)
+
+    events = []
+    for key, label, kind in (
+        ("promulgatedDate", "公布", "promulgate"),
+        ("effectiveDate", "施行", "effective"),
+        ("amendedNote", "修正", "amend"),
+        ("versionDate", "版本", "version"),
+    ):
+        val = law.get(key)
+        if not val:
+            continue
+        if isinstance(val, dict):
+            val = val.get("zh") or val.get("en") or ""
+        val = str(val).strip()
+        if not val or val in ("—", "-", "不详"):
+            continue
+        events.append({"kind": kind, "label": label, "value": val})
+
+    # 同标题的其他记录：只做并列，不下「是否为同一部法不同版本」的结论
+    title = law.get("title") or {}
+    zh = (title.get("zh") if isinstance(title, dict) else None) or ""
+    siblings = []
+    if zh:
+        for r in db.rows(
+                "SELECT id,country,country_name,title_zh,status,promulgated,article_count "
+                "FROM laws WHERE title_zh=? AND id<>? ORDER BY promulgated LIMIT 20", [zh, law_id]):
+            siblings.append({
+                "id": r["id"], "country": r["country"], "countryName": r["country_name"],
+                "title": r["title_zh"], "status": r["status"],
+                "promulgatedDate": r["promulgated"], "articleCount": r["article_count"],
+            })
+
+    return {
+        "id": law["id"],
+        "title": title,
+        "status": law.get("status"),
+        "final": law.get("status") in ("repealed",),
+        "events": events,
+        "siblings": siblings,
+        "note": ("同名不等于同法。下列记录仅是按标题文字匹配到的其他法规，"
+                 "可能是同一部法的不同版本，也可能是不同的单行法（例如各国每年一部《经费拨款法》）。"
+                 "本系统没有条文级修订记录，无法判断哪一条在何时被改过。"),
+    }
+
+
 @app.get("/api/laws/{law_id}/articles", summary="法规条文")
 def articles(law_id: str) -> Dict[str, Any]:
     r = db.row("SELECT id,title_zh,article_count FROM laws WHERE id=?", (law_id,))
