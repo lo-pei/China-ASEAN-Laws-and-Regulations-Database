@@ -83,9 +83,25 @@
          有一批法规在 dataset-core 里的 coverage 是 'excerpt'（只有几条摘录），
          完整条文在 data/fulltext/*.js 里，以前靠启动时的 loadAll() 合并，
          loadAll 移除后必须在这里按需加载，否则永远只显示那几条摘录。 */
-      if (law.coverage !== 'full' && CALR.fulltext) {
-        var pack = CALR.fulltext.packFor ? CALR.fulltext.packFor(id) : null;
-        if (pack) {
+      /* 是否需要按需加载条文：
+         不再只看 coverage，而是看「条文是否真的已经在手上」。
+         原因：API 模式下 /api/laws/compact 返回 coverage='full' 但**不带 articles**
+         （articleCount 有值），一旦某条路径没把它降级成 catalog，
+         旧守卫会认为"已经加载好了"，导致条文永远为空、页面显示"条文文本正在校核"。
+         这里改为：只要这部法本该有条文（articleCount>0 或有分卷）且当前为空，就尝试加载。 */
+      var _hasArts = !!(law.articles && law.articles.length);
+      /* 该加载的情形（任一成立）：
+           ① coverage 不是 full —— 说明手上最多只有摘录，需要取全文
+              （静态 core 里 CN-DATA-2021 就是 4 条摘录、coverage='excerpt'）
+           ② 条文为空但声称有条文数 —— API 模式下 compact 只给 articleCount 不给 articles
+         不加载的情形：coverage='full' 且已有条文，说明已经加载好了。 */
+      var _expectArts = (Number(law.articleCount) || 0) > 0 ||
+                        !!(CALR.fulltext && CALR.fulltext.packFor && CALR.fulltext.packFor(id));
+      var _needLoad = _expectArts && (law.coverage !== 'full' || !_hasArts);
+      if (_needLoad) {
+        var pack = (CALR.fulltext && CALR.fulltext.packFor) ? CALR.fulltext.packFor(id) : null;
+        if (pack || _expectArts) {
+          /* API 模式下 pack 为 null，但 articleCount>0 说明可以通过接口取条文 */
           main.innerHTML = '<div class="container page">' +
             C().breadcrumb([{ text: t('首页'), href: '#/' }, { text: esc(tr(law.title)) }]) +
             '<div class="card card--pad" style="margin-top:16px">' + C().skeletonList(4) +
@@ -94,7 +110,7 @@
             S().init();
             if (ok) { CALR.app.refresh(); }
             else {
-              var dir = pack.kind === 'intl' ? 'prototype/data/intl/' : 'prototype/data/cn/';
+              var dir = (pack && pack.kind === 'intl') ? 'prototype/data/intl/' : 'prototype/data/cn/';
               main.innerHTML = '<div class="container page">' + C().emptyState(CALR.ui.icon('alert'), t('全文暂未载入'),
                 t('该法规的全文分卷未能加载，请检查 ' + dir + ' 目录是否完整。')) + '</div>';
             }
