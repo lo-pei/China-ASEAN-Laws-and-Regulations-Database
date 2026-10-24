@@ -68,9 +68,38 @@
     return null;
   }
 
+  /* ---------------- API 模式：条文直接从后端取 ----------------
+     分卷按法域打包，单卷平均 1.27 MB、最大 10.40 MB；为了看一部法去加载一个分卷
+     非常不划算。API 模式下改为按需请求 /api/laws/{id}/articles，
+     实测同一部法的条文只有 38.6 KB 到 1 MB（gzip 后 6 KB 到 120 KB）。 */
+  function apiModeOn() {
+    return !!(root.__CALR_API_MODE && root.CALR && root.CALR.api &&
+              root.CALR.api.enabled && root.CALR.api.enabled() && root.CALR.api.lawArticles);
+  }
+
+  var apiInflight = {};
+  function apiArticlesOf(lawId) {
+    if (apiInflight[lawId]) return apiInflight[lawId];
+    apiInflight[lawId] = root.CALR.api.lawArticles(lawId).then(function (d) {
+      var items = (d && d.items) || [];
+      if (!items.length) return false;
+      root.CALR_FULLTEXT = root.CALR_FULLTEXT || {};
+      root.CALR_FULLTEXT[lawId] = { articles: items, from: 'api', count: items.length };
+      delete apiInflight[lawId];
+      emit();
+      return true;
+    }).catch(function () {
+      delete apiInflight[lawId];
+      return false;
+    });
+    return apiInflight[lawId];
+  }
+
   /** 确保某部法规的全文已载入（法域文件 → 中国全量目录分卷 → 东盟法律分卷） */
   function ensureLaw(lawId) {
     if (entry(lawId)) return Promise.resolve(true);
+    /* API 模式优先：一条条取这一部法，不碰分卷（见函数上方说明） */
+    if (apiModeOn()) return apiArticlesOf(lawId);
     var pack = packFor(lawId);
     if (!pack) return Promise.resolve(false);
     if (pack.kind === 'jurisdiction') {

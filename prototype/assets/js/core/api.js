@@ -115,6 +115,10 @@
     bootstrap: function () { return get('/api/bootstrap'); },
     /* 轻量法规列表：只含列表页需要的字段，供后台补齐全量法规 */
     lawsCompact: function (opt) { return get('/api/laws/compact', opt); },
+    /* 某部法的全部条文（API 模式下替代条文分卷；返回 {id,title,count,items}） */
+    lawArticles: function (id) {
+      return get('/api/laws/' + encodeURIComponent(id) + '/articles');
+    },
     /* 法规版本与变迁（法规级时间线 + 同标题其他记录） */
     lawHistory: function (id) { return get('/api/laws/' + encodeURIComponent(id) + '/history'); },
     countries: function () { return get('/api/countries'); },
