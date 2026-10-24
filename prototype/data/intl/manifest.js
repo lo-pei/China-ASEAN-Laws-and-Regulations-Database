@@ -1876,7 +1876,7 @@
     "LA-H451",
     "LA-H453"
    ],
-   "articles": 5030
+   "articles": 5040
   },
   {
    "file": "mm-p01",
@@ -1938,7 +1938,7 @@
     "MM-H065",
     "MM-H066"
    ],
-   "articles": 452
+   "articles": 461
   },
   {
    "file": "mm-p04",
@@ -2044,7 +2044,7 @@
     "MY-H073",
     "MY-H074"
    ],
-   "articles": 1083
+   "articles": 1161
   },
   {
    "file": "my-p04",
@@ -18984,7 +18984,7 @@
     "VN-H050",
     "VN-H053"
    ],
-   "articles": 749
+   "articles": 755
   },
   {
    "file": "vn-p02",

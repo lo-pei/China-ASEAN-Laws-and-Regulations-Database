@@ -94,8 +94,8 @@
   --gutter: 32px;
   --header-h: 64px;
   --transition: 220ms cubic-bezier(.4, 0, .2, 1);
-  --sidebar-w: 320px;
-  --filter-w: 248px;
+  --sidebar-w: 344px;
+  --filter-w: 288px;
 }
 
 /* --- 深色主题（较柔和的炭灰蓝，不再用近黑） --- */

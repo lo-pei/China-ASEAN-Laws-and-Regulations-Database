@@ -25,7 +25,7 @@
  "structureMode": "ARTICLE",
  "structure": null,
  "articleCount": 61,
- "chars": 50479,
+ "chars": 50263,
  "source": {
   "name": "印度尼西亚国会（DPR RI）与总统",
   "url": "https://peraturan.bpk.go.id/Download/26683/UU%20Nomor%2011%20Tahun%202008.pdf"
@@ -115,7 +115,7 @@
     "id": "第 20 条"
    },
    "text": {
-    "id": ". . \n \n \n \nREPUBLIK INDONESIA \n \n \n \n \n \n- 12 -"
+    "id": ". ."
    }
   },
   {
@@ -146,7 +146,7 @@
     "id": "第 22 条"
    },
    "text": {
-    "id": ". . \n \n \n \nREPUBLIK INDONESIA \n \n \n \n \n- 13 -"
+    "id": ". ."
    }
   },
   {
@@ -187,7 +187,7 @@
     "id": "第 25 条"
    },
    "text": {
-    "id": ". . \n \n \n \nREPUBLIK INDONESIA \n \n \n \n \n \n- 14 -"
+    "id": ". ."
    }
   },
   {
@@ -231,7 +231,7 @@
     "id": "第 28 条"
    },
    "text": {
-    "id": ". . \n \n \n \nREPUBLIK INDONESIA \n \n \n \n \n- 15 -"
+    "id": ". ."
    }
   },
   {
@@ -302,7 +302,7 @@
     "id": "第 34 条"
    },
    "text": {
-    "id": ". . \n \n \n \nREPUBLIK INDONESIA \n \n \n \n \n \n- 17 -"
+    "id": ". ."
    }
   },
   {
@@ -687,5 +687,6 @@
    "dupIndex": 2,
    "partIndex": 2
   }
- ]
+ ],
+ "textCleaned": "2026-10-24 移除 PDF 页码/页眉行"
 }

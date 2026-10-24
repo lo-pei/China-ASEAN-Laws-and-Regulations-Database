@@ -5,8 +5,8 @@
   "generator": "_work/merge/rebuild-index.js",
   "note": "每部法规一个 JSON（文件名 = 法规ID）。本目录为唯一权威存储；prototype/data/{intl,cn,fulltext}/*.js 由 _work/merge/build-packs.js 从本目录派生生成，请勿手工编辑那些分卷。",
   "lawCount": 18785,
-  "articleCount": 338996,
-  "chars": 270581097,
+  "articleCount": 339099,
+  "chars": 270580334,
   "byLayer": {
    "intl": 17164,
    "fulltext": 81,
@@ -65911,7 +65911,7 @@
    "issuingBody": "JDIH BPK – Database Peraturan Badan Pemeriksa Keuangan Repub",
    "docNumber": "LN/TLN 出处：LN.2016/NO.252, TLN NO.5953, LL SETNEG : 51 HLM; 法律状态：Berlaku; 官方 PDF ",
    "articleCount": 238,
-   "chars": 95109,
+   "chars": 95174,
    "sourceUrl": "https://peraturan.bpk.go.id/Details/37595/uu-no-20-tahun-2016"
   },
   {
@@ -65934,7 +65934,7 @@
    "issuingBody": "印度尼西亚国会（DPR RI）与总统",
    "docNumber": "官方公布文本（BPK JDIH / DPR JDIH）",
    "articleCount": 2705,
-   "chars": 1265411,
+   "chars": 1265425,
    "sourceUrl": "https://peraturan.bpk.go.id/Download/302681/UU%20Nomor%206%20Tahun%202023.pdf"
   },
   {
@@ -65980,7 +65980,7 @@
    "issuingBody": "印度尼西亚国会（DPR RI）与总统",
    "docNumber": "官方公布文本（BPK JDIH / DPR JDIH）",
    "articleCount": 61,
-   "chars": 50479,
+   "chars": 50263,
    "sourceUrl": "https://peraturan.bpk.go.id/Download/26683/UU%20Nomor%2011%20Tahun%202008.pdf"
   },
   {
@@ -66049,7 +66049,7 @@
    "issuingBody": "印度尼西亚官方发布渠道",
    "docNumber": null,
    "articleCount": 377,
-   "chars": 198655,
+   "chars": 198113,
    "sourceUrl": null
   },
   {
@@ -66072,7 +66072,7 @@
    "issuingBody": "印度尼西亚官方发布渠道",
    "docNumber": null,
    "articleCount": 416,
-   "chars": 162119,
+   "chars": 162976,
    "sourceUrl": null
   },
   {
@@ -66095,7 +66095,7 @@
    "issuingBody": "印度尼西亚官方发布渠道",
    "docNumber": null,
    "articleCount": 384,
-   "chars": 150884,
+   "chars": 150972,
    "sourceUrl": null
   },
   {
@@ -66164,7 +66164,7 @@
    "issuingBody": "印度尼西亚官方发布渠道",
    "docNumber": null,
    "articleCount": 298,
-   "chars": 93018,
+   "chars": 95004,
    "sourceUrl": null
   },
   {
@@ -66187,7 +66187,7 @@
    "issuingBody": "印度尼西亚官方发布渠道",
    "docNumber": null,
    "articleCount": 41,
-   "chars": 60350,
+   "chars": 60246,
    "sourceUrl": null
   },
   {
@@ -66302,7 +66302,7 @@
    "issuingBody": "印度尼西亚官方发布渠道",
    "docNumber": null,
    "articleCount": 89,
-   "chars": 56443,
+   "chars": 56365,
    "sourceUrl": null
   },
   {
@@ -67567,7 +67567,7 @@
    "issuingBody": "royal_palace",
    "docNumber": "នស/រកម/១១១៩/០១៦",
    "articleCount": 43,
-   "chars": 53715,
+   "chars": 53683,
    "sourceUrl": "https://data.opendevelopmentcambodia.net/en/dataset/law-on-consumer-protection"
   },
   {
@@ -72442,8 +72442,8 @@
    "amendedNote": null,
    "issuingBody": null,
    "docNumber": null,
-   "articleCount": 49,
-   "chars": 25619,
+   "articleCount": 59,
+   "chars": 25238,
    "sourceUrl": null
   },
   {
@@ -73615,8 +73615,8 @@
    "amendedNote": null,
    "issuingBody": "缅甸官方发布渠道",
    "docNumber": "年份不详",
-   "articleCount": 6,
-   "chars": 1024,
+   "articleCount": 15,
+   "chars": 941,
    "sourceUrl": null
   },
   {
@@ -75478,8 +75478,8 @@
    "amendedNote": null,
    "issuingBody": "马来西亚官方发布渠道",
    "docNumber": "年份不详",
-   "articleCount": 5,
-   "chars": 40987,
+   "articleCount": 83,
+   "chars": 40434,
    "sourceUrl": null
   },
   {
@@ -339680,7 +339680,7 @@
    "issuingBody": null,
    "docNumber": "Subsidiary Legislation 236-RG1",
    "articleCount": 6,
-   "chars": 3229,
+   "chars": 3124,
    "sourceUrl": "https://sso.agc.gov.sg/SL/236-RG1?ViewType=Print&PrintType=html&ProvIds=all-."
   },
   {
@@ -377814,7 +377814,7 @@
    "issuingBody": null,
    "docNumber": "Subsidiary Legislation BSMA1998-OR1",
    "articleCount": 3,
-   "chars": 33450,
+   "chars": 32802,
    "sourceUrl": "https://sso.agc.gov.sg/SL/BSMA1998-OR1?ViewType=Print&PrintType=html&ProvIds=all-."
   },
   {
@@ -394259,7 +394259,7 @@
    "issuingBody": null,
    "docNumber": "Subsidiary Legislation CA1973-OR1",
    "articleCount": 1,
-   "chars": 724,
+   "chars": 677,
    "sourceUrl": "https://sso.agc.gov.sg/SL/CA1973-OR1?ViewType=Print&PrintType=html&ProvIds=all-."
   },
   {
@@ -408404,7 +408404,7 @@
    "issuingBody": null,
    "docNumber": null,
    "articleCount": 287,
-   "chars": 311632,
+   "chars": 310787,
    "sourceUrl": null
   },
   {
@@ -430276,8 +430276,8 @@
    "amendedNote": null,
    "issuingBody": "越南国会；越南政府门户网站（chinhphu.vn）",
    "docNumber": "官方公布文本",
-   "articleCount": 15,
-   "chars": 4148,
+   "articleCount": 21,
+   "chars": 4009,
    "sourceUrl": "https://xaydungchinhsach.chinhphu.vn/print/toan-van-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119231225213002261.htm"
   },
   {

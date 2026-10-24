@@ -89,7 +89,11 @@
 }
 
 /* ---------- 兜底：任何情况下都不应出现横向滚动条 ---------- */
-html, body { overflow-x: hidden; max-width: 100%; }
+/* 注意：这里必须用 clip 而不是 hidden。
+   overflow-x: hidden 会让 body 成为滚动容器，导致所有 position: sticky
+   的侧栏（检索页左侧筛选、详情页右侧目录）失效、跟着页面滚走。
+   clip 同样裁掉横向溢出，但不创建滚动容器，sticky 正常。 */
+html, body { overflow-x: clip; max-width: 100%; }
 
 /* ---------- 长条文标题截断（②） ----------
    实测全库有 3150 条 heading 是真实的长标题（新加坡刑法典的罪名描述本来就长），
@@ -106,3 +110,30 @@ html, body { overflow-x: hidden; max-width: 100%; }
 }
 /* 详情页的条文头允许完整显示，不做截断 */
 .article--expanded .article__heading { display: block; max-height: none; overflow: visible; }
+
+/* ---------- 检索页左侧筛选栏 / 详情页右侧栏（②③） ----------
+   目标：桌面端固定在视口、内容区域尽可能高、列表在栏内独立滚动。
+   上一层 .sticky-top / .sticky-col 已由 base.css 提供 position: sticky 与 max-height，
+   这里只补齐「卡片撑满」和「滚动条行为」。 */
+@media (min-width: 768px) {
+  .col-filter.sticky-top,
+  .col-sidebar.sticky-col {
+    display: flex;
+    flex-direction: column;
+  }
+  /* 筛选卡片：撑满可用高度，卡片体内部滚动 */
+  .col-filter.sticky-top > .card {
+    display: flex;
+    flex-direction: column;
+    max-height: calc(100vh - var(--header-h) - 32px);
+    margin-bottom: 0;
+  }
+  .col-filter.sticky-top > .card > .card__body {
+    flex: 1 1 auto;
+    min-height: 0;
+    overflow-y: auto;
+    overscroll-behavior: contain;
+  }
+  /* 详情页右侧目录：卡片之间留白，整栏可滚 */
+  .col-sidebar.sticky-col > .card:last-child { margin-bottom: 0; }
+}

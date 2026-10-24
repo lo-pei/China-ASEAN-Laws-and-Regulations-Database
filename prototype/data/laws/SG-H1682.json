@@ -25,7 +25,7 @@
  "structureMode": "ARTICLE",
  "structure": null,
  "articleCount": 6,
- "chars": 3229,
+ "chars": 3124,
  "source": {
   "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
   "url": "https://sso.agc.gov.sg/SL/236-RG1?ViewType=Print&PrintType=html&ProvIds=all-."
@@ -74,7 +74,7 @@
     "en": "Board to grant payment or allowance"
    },
    "text": {
-    "en": "3. The Board may grant in its discretion to an employee or to or for the benefit of one or more of the dependants of that employee or partly to that employee and partly to or for the benefit of one or more of such dependants a payment or allowance on or after the termination of that employee’s service with the Board by reason of his death, superannuation, resignation, retirement or discharge. Any payment or allowance so granted shall not exceed such fraction of the employee’s total salary during the full period of his continuous service with the Board as is set opposite the number of years of such service in the following scale:\nCompleted years of continuous service\nFraction of total salary\n10 years or less\n30/360\n11\n31/360\n12\n32/360\n13\n33/360\n14\n34/360\n15\n35/360\n16\n36/360\n17\n37/360\n18\n38/360\n19\n39/360\n20\n40/360\n21\n41/360\n22\n42/360\n23\n43/360\n24\n44/360\n25 years or over\n45/360.\nProvided that, except in case of death or where the employee is certified by the Board’s medical officer as incapable by reason of some infirmity of mind or body of discharging the duties of his office, no employee nor his dependants shall be eligible for any such payment or allowance unless the employee has completed 5 years continuous service and also has attained the age of 45 years."
+    "en": "3. The Board may grant in its discretion to an employee or to or for the benefit of one or more of the dependants of that employee or partly to that employee and partly to or for the benefit of one or more of such dependants a payment or allowance on or after the termination of that employee’s service with the Board by reason of his death, superannuation, resignation, retirement or discharge. Any payment or allowance so granted shall not exceed such fraction of the employee’s total salary during the full period of his continuous service with the Board as is set opposite the number of years of such service in the following scale:\nCompleted years of continuous service\nFraction of total salary\n10 years or less\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25 years or over\n45/360.\nProvided that, except in case of death or where the employee is certified by the Board’s medical officer as incapable by reason of some infirmity of mind or body of discharging the duties of his office, no employee nor his dependants shall be eligible for any such payment or allowance unless the employee has completed 5 years continuous service and also has attained the age of 45 years."
    }
   },
   {
@@ -124,5 +124,6 @@
   "batch": "CALR-TITLE-20261017-1818-SG-2467",
   "source": "Harbour Board Superannuation Scheme Regulations",
   "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
- }
+ },
+ "textCleaned": "2026-10-24 移除 PDF 页码/页眉行"
 }

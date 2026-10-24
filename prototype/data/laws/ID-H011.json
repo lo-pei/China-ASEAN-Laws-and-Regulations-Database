@@ -25,7 +25,7 @@
  "structureMode": "ARTICLE",
  "structure": null,
  "articleCount": 238,
- "chars": 95109,
+ "chars": 95174,
  "source": {
   "name": "JDIH BPK – Database Peraturan Badan Pemeriksa Keuangan Republik Indonesia（peratu",
   "url": "https://peraturan.bpk.go.id/Details/37595/uu-no-20-tahun-2016"
@@ -975,7 +975,7 @@
     "id": "第 74 条"
    },
    "text": {
-    "id": "(1)\nREPUBLIK INDONESIA\n-37 -"
+    "id": "(1)"
    },
    "partIndex": 2
   },
@@ -1806,7 +1806,7 @@
     "id": "第 31 条"
    },
    "text": {
-    "id": "(D\nPRES I DEN\nREPUBLIK INDONESIA\n- 11-"
+    "id": "(D"
    },
    "dupIndex": 3,
    "partIndex": 2
@@ -2070,7 +2070,7 @@
     "id": "第 51 条"
    },
    "text": {
-    "id": "(D\nPRES I DEN\nREPUBLIK INDONESIA\n-15-"
+    "id": "(D"
    },
    "dupIndex": 2,
    "partIndex": 2
@@ -2608,7 +2608,7 @@
     "id": "第 94 条"
    },
    "text": {
-    "id": "PRES I DEN\nREPUBLIK INDONESIA\n-22-"
+    "id": "Huruf a\nYang dimaksud barang dalam ketentuan ini termasuk barang impor.\nHuruf b Cukup jelas.\nHuruf c Hal ini dimaksudkan untuk mencegah pihak pelanggar menghilangkan barang bukti.\nHuruf d Cukup jelas."
    },
    "dupIndex": 2,
    "partIndex": 2
@@ -2719,7 +2719,7 @@
     "en": "2"
    },
    "text": {
-    "id": "REPUELIK INDONESIA\n-23-"
+    "id": "REPUELIK INDONESIA"
    },
    "dupIndex": 5,
    "partIndex": 2
@@ -2820,5 +2820,6 @@
    "dupIndex": 2,
    "partIndex": 2
   }
- ]
+ ],
+ "textCleaned": "2026-10-24 移除 PDF 页码/页眉行（清理后为空的条文已从原文还原）"
 }

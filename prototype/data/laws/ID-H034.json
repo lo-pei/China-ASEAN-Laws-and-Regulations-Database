@@ -25,7 +25,7 @@
  "structureMode": "ARTICLE",
  "structure": null,
  "articleCount": 384,
- "chars": 150884,
+ "chars": 150972,
  "source": {
   "name": "印度尼西亚官方发布渠道",
   "url": null
@@ -138,7 +138,7 @@
     "id": "第 6 条"
    },
    "text": {
-    "id": "q,#\nREPUBLIK IN DO N ESIA\n-6-"
+    "id": "q,#\nREPUBLIK IN DO N ESIA"
    },
    "partIndex": 2
   },
@@ -443,7 +443,7 @@
     "id": "第 29 条"
    },
    "text": {
-    "id": "REPUBLIK INDONESIA\n-15-"
+    "id": "Cukup jelas."
    },
    "partIndex": 2
   },
@@ -1063,7 +1063,7 @@
     "id": "第 73 条"
    },
    "text": {
-    "id": "REPUBLIK INDONESIA\n- J/ -"
+    "id": "- J/ -"
    },
    "partIndex": 2
   },
@@ -1777,7 +1777,7 @@
     "id": "第 134 条"
    },
    "text": {
-    "id": "REPUBLIK INDONESIA\n_60_\n(1)"
+    "id": "_60_\n(1)"
    },
    "partIndex": 2
   },
@@ -1833,7 +1833,7 @@
     "id": "第 138 条"
    },
    "text": {
-    "id": "(1)\n(2)\nREPU BLIK INDONESIA\n-61 -"
+    "id": "(1)\n(2)\nREPU BLIK INDONESIA"
    },
    "partIndex": 2
   },
@@ -2034,7 +2034,7 @@
     "id": "第 154 条"
    },
    "text": {
-    "id": "REPU BLIK INDONESIA\n-67-"
+    "id": "REPU BLIK INDONESIA"
    },
    "partIndex": 2
   },
@@ -2114,7 +2114,7 @@
     "id": "第 154 条"
    },
    "text": {
-    "id": "REPUBLIK IN DO N ESIA\n-68-"
+    "id": "REPUBLIK IN DO N ESIA"
    },
    "dupIndex": 3,
    "partIndex": 2
@@ -2915,7 +2915,7 @@
     "id": "第 47 条"
    },
    "text": {
-    "id": "REPUELIK INDONESIA\n-19-"
+    "id": "REPUELIK INDONESIA"
    },
    "dupIndex": 2,
    "partIndex": 2
@@ -3152,7 +3152,7 @@
     "id": "第 65 条"
    },
    "text": {
-    "id": "REPU BLIK INDONESIA\n-24-"
+    "id": "REPU BLIK INDONESIA"
    },
    "dupIndex": 3,
    "partIndex": 2
@@ -3793,7 +3793,7 @@
     "id": "第 115 条"
    },
    "text": {
-    "id": "REPUBLIK INDONESIA\n-33-"
+    "id": "Ayat (1) Yang dimaksud dengan \"Imbalan yang wajar,' adalah keseimbangan antara manfaat ekonomi yang mungkin didapatkan oleh Pemegang Paten dengan kemampuan keuangan negara untuk membayar.\nAyat (21 Cukup jelas."
    },
    "dupIndex": 2,
    "partIndex": 2
@@ -4318,7 +4318,7 @@
     "id": "第 158 条"
    },
    "text": {
-    "id": "q,w\nREPUBLIK INDONESIA\n_4t_"
+    "id": "q,w\n_4t_"
    },
    "dupIndex": 2,
    "partIndex": 2
@@ -4527,5 +4527,6 @@
    "dupIndex": 2,
    "partIndex": 2
   }
- ]
+ ],
+ "textCleaned": "2026-10-24 移除 PDF 页码/页眉行（清理后为空的条文已从原文还原）"
 }
