@@ -34,7 +34,7 @@
     "BN-H065",
     "BN-H067"
    ],
-   "articles": 1226
+   "articles": 1549
   },
   {
    "file": "bn-p03",
@@ -53,7 +53,7 @@
     "BN-H078",
     "BN-H079"
    ],
-   "articles": 90
+   "articles": 633
   },
   {
    "file": "bn-p04",
@@ -101,52 +101,22 @@
     "BN-H105",
     "BN-H106",
     "BN-H107",
-    "BN-H108",
-    "BN-H109",
-    "BN-H110",
-    "BN-H111",
-    "BN-H112",
-    "BN-H113",
-    "BN-H114",
-    "BN-H115"
+    "BN-H109"
    ],
-   "articles": 18
-  },
-  {
-   "file": "bn-p07",
-   "country": "BN",
-   "laws": [
-    "BN-H116",
-    "BN-H117",
-    "BN-H118",
-    "BN-H119"
-   ],
-   "articles": 4
+   "articles": 11
   },
   {
    "file": "bn-p08",
    "country": "BN",
    "laws": [
     "BN-H018",
-    "BN-H020",
-    "BN-H021",
-    "BN-H023",
     "BN-H024",
     "BN-H026",
     "BN-H029",
     "BN-H031",
-    "BN-H032",
-    "BN-H033",
     "BN-H035",
-    "BN-H043",
     "BN-H048",
-    "BN-H052",
-    "BN-H055",
     "BN-H056",
-    "BN-H058",
-    "BN-H059",
-    "BN-H061",
-    "BN-H064",
     "BN-H120",
     "BN-H121",
     "BN-H122",
@@ -165,7 +135,7 @@
     "BN-H143",
     "BN-H144"
    ],
-   "articles": 2054
+   "articles": 2042
   },
   {
    "file": "bn-p09",
@@ -1580,36 +1550,16 @@
     "ID-H053",
     "ID-H054",
     "ID-H055",
-    "ID-H056",
-    "ID-H057",
-    "ID-H058",
-    "ID-H059",
-    "ID-H060"
+    "ID-H056"
    ],
-   "articles": 180
-  },
-  {
-   "file": "id-p04",
-   "country": "ID",
-   "laws": [
-    "ID-H061",
-    "ID-H062",
-    "ID-H063",
-    "ID-H064",
-    "ID-H065",
-    "ID-H066"
-   ],
-   "articles": 6
+   "articles": 176
   },
   {
    "file": "id-p05",
    "country": "ID",
    "laws": [
-    "ID-H006",
     "ID-H016",
-    "ID-H018",
     "ID-H020",
-    "ID-H023",
     "ID-H067",
     "ID-H068",
     "ID-H069",
@@ -1618,7 +1568,7 @@
     "ID-H072",
     "ID-H074"
    ],
-   "articles": 2873
+   "articles": 2870
   },
   {
    "file": "kh-p01",
@@ -1807,8 +1757,6 @@
    "file": "kh-p04",
    "country": "KH",
    "laws": [
-    "KH-H016",
-    "KH-H1079",
     "KH-H1387",
     "KH-H1853",
     "KH-H2265",
@@ -1835,7 +1783,7 @@
     "KH-H3905",
     "KH-H3906"
    ],
-   "articles": 1777
+   "articles": 1816
   },
   {
    "file": "la-p01",
@@ -1880,7 +1828,7 @@
     "LA-H122",
     "LA-H123"
    ],
-   "articles": 2586
+   "articles": 2643
   },
   {
    "file": "la-p02",
@@ -1928,7 +1876,7 @@
     "LA-H451",
     "LA-H453"
    ],
-   "articles": 4694
+   "articles": 5030
   },
   {
    "file": "mm-p01",
@@ -1972,7 +1920,7 @@
     "MM-H053",
     "MM-H054"
    ],
-   "articles": 344
+   "articles": 819
   },
   {
    "file": "mm-p03",
@@ -1990,35 +1938,16 @@
     "MM-H065",
     "MM-H066"
    ],
-   "articles": 48
+   "articles": 452
   },
   {
    "file": "mm-p04",
    "country": "MM",
    "laws": [
     "MM-H067",
-    "MM-H068",
-    "MM-H069",
-    "MM-H070",
-    "MM-H071",
-    "MM-H072",
-    "MM-H073",
-    "MM-H074",
-    "MM-H075",
-    "MM-H076",
-    "MM-H077",
-    "MM-H078"
+    "MM-H068"
    ],
-   "articles": 12
-  },
-  {
-   "file": "mm-p05",
-   "country": "MM",
-   "laws": [
-    "MM-H079",
-    "MM-H080"
-   ],
-   "articles": 2
+   "articles": 33
   },
   {
    "file": "mm-p06",
@@ -2115,7 +2044,7 @@
     "MY-H073",
     "MY-H074"
    ],
-   "articles": 784
+   "articles": 1083
   },
   {
    "file": "my-p04",
@@ -2133,41 +2062,16 @@
     "MY-H085",
     "MY-H086"
    ],
-   "articles": 37
+   "articles": 536
   },
   {
    "file": "my-p05",
    "country": "MY",
    "laws": [
     "MY-H087",
-    "MY-H088",
-    "MY-H089",
-    "MY-H090",
-    "MY-H091",
-    "MY-H092",
-    "MY-H093",
-    "MY-H094",
-    "MY-H095",
-    "MY-H096",
-    "MY-H097",
-    "MY-H098"
+    "MY-H095"
    ],
-   "articles": 32
-  },
-  {
-   "file": "my-p06",
-   "country": "MY",
-   "laws": [
-    "MY-H099",
-    "MY-H100",
-    "MY-H101",
-    "MY-H102",
-    "MY-H103",
-    "MY-H104",
-    "MY-H105",
-    "MY-H106"
-   ],
-   "articles": 8
+   "articles": 22
   },
   {
    "file": "my-p07",
@@ -2196,14 +2100,9 @@
     "MY-H127",
     "MY-H129",
     "MY-H130",
-    "MY-H131",
-    "MY-H132",
-    "MY-H133",
-    "MY-H134",
-    "MY-H135",
-    "MY-H136"
+    "MY-H134"
    ],
-   "articles": 6550
+   "articles": 6545
   },
   {
    "file": "ph-p01",
@@ -17535,7 +17434,7 @@
     "SG-H3380",
     "SG-H3381"
    ],
-   "articles": 952
+   "articles": 957
   },
   {
    "file": "sg-p43",
@@ -18813,7 +18712,7 @@
     "TH-H1167",
     "TH-H1168"
    ],
-   "articles": 5202
+   "articles": 5344
   },
   {
    "file": "tl-p02",
@@ -18890,7 +18789,7 @@
     "TL-H085",
     "TL-H086"
    ],
-   "articles": 2257
+   "articles": 2264
   },
   {
    "file": "tl-p03",
@@ -19085,7 +18984,7 @@
     "VN-H050",
     "VN-H053"
    ],
-   "articles": 295
+   "articles": 749
   },
   {
    "file": "vn-p02",
@@ -19104,7 +19003,7 @@
     "VN-H064",
     "VN-H065"
    ],
-   "articles": 74
+   "articles": 259
   },
   {
    "file": "vn-p03",
@@ -19123,7 +19022,7 @@
     "VN-H076",
     "VN-H077"
    ],
-   "articles": 41
+   "articles": 480
   },
   {
    "file": "vn-p04",
@@ -19141,8 +19040,6 @@
     "VN-H041",
     "VN-H078",
     "VN-H079",
-    "VN-H080",
-    "VN-H081",
     "VN-H086",
     "VN-H087",
     "VN-H088",
@@ -19151,14 +19048,13 @@
     "VN-H091",
     "VN-H092"
    ],
-   "articles": 3384
+   "articles": 3435
   },
   {
    "file": "vn-p05",
    "country": "VN",
    "laws": [
     "VN-H026",
-    "VN-H030",
     "VN-H036",
     "VN-H042",
     "VN-H093",
@@ -19194,7 +19090,7 @@
     "VN-H124",
     "VN-H125"
    ],
-   "articles": 6031
+   "articles": 6030
   }
  ],
  "byLaw": {
@@ -19257,38 +19153,15 @@
   "BN-H105": "bn-p06",
   "BN-H106": "bn-p06",
   "BN-H107": "bn-p06",
-  "BN-H108": "bn-p06",
   "BN-H109": "bn-p06",
-  "BN-H110": "bn-p06",
-  "BN-H111": "bn-p06",
-  "BN-H112": "bn-p06",
-  "BN-H113": "bn-p06",
-  "BN-H114": "bn-p06",
-  "BN-H115": "bn-p06",
-  "BN-H116": "bn-p07",
-  "BN-H117": "bn-p07",
-  "BN-H118": "bn-p07",
-  "BN-H119": "bn-p07",
   "BN-H018": "bn-p08",
-  "BN-H020": "bn-p08",
-  "BN-H021": "bn-p08",
-  "BN-H023": "bn-p08",
   "BN-H024": "bn-p08",
   "BN-H026": "bn-p08",
   "BN-H029": "bn-p08",
   "BN-H031": "bn-p08",
-  "BN-H032": "bn-p08",
-  "BN-H033": "bn-p08",
   "BN-H035": "bn-p08",
-  "BN-H043": "bn-p08",
   "BN-H048": "bn-p08",
-  "BN-H052": "bn-p08",
-  "BN-H055": "bn-p08",
   "BN-H056": "bn-p08",
-  "BN-H058": "bn-p08",
-  "BN-H059": "bn-p08",
-  "BN-H061": "bn-p08",
-  "BN-H064": "bn-p08",
   "BN-H120": "bn-p08",
   "BN-H121": "bn-p08",
   "BN-H122": "bn-p08",
@@ -20520,21 +20393,8 @@
   "ID-H054": "id-p03",
   "ID-H055": "id-p03",
   "ID-H056": "id-p03",
-  "ID-H057": "id-p03",
-  "ID-H058": "id-p03",
-  "ID-H059": "id-p03",
-  "ID-H060": "id-p03",
-  "ID-H061": "id-p04",
-  "ID-H062": "id-p04",
-  "ID-H063": "id-p04",
-  "ID-H064": "id-p04",
-  "ID-H065": "id-p04",
-  "ID-H066": "id-p04",
-  "ID-H006": "id-p05",
   "ID-H016": "id-p05",
-  "ID-H018": "id-p05",
   "ID-H020": "id-p05",
-  "ID-H023": "id-p05",
   "ID-H067": "id-p05",
   "ID-H068": "id-p05",
   "ID-H069": "id-p05",
@@ -20704,8 +20564,6 @@
   "KH-H176": "kh-p03",
   "KH-H177": "kh-p03",
   "KH-H178": "kh-p03",
-  "KH-H016": "kh-p04",
-  "KH-H1079": "kh-p04",
   "KH-H1387": "kh-p04",
   "KH-H1853": "kh-p04",
   "KH-H2265": "kh-p04",
@@ -20853,18 +20711,6 @@
   "MM-H066": "mm-p03",
   "MM-H067": "mm-p04",
   "MM-H068": "mm-p04",
-  "MM-H069": "mm-p04",
-  "MM-H070": "mm-p04",
-  "MM-H071": "mm-p04",
-  "MM-H072": "mm-p04",
-  "MM-H073": "mm-p04",
-  "MM-H074": "mm-p04",
-  "MM-H075": "mm-p04",
-  "MM-H076": "mm-p04",
-  "MM-H077": "mm-p04",
-  "MM-H078": "mm-p04",
-  "MM-H079": "mm-p05",
-  "MM-H080": "mm-p05",
   "MM-H009": "mm-p06",
   "MM-H018": "mm-p06",
   "MM-H032": "mm-p06",
@@ -20939,25 +20785,7 @@
   "MY-H085": "my-p04",
   "MY-H086": "my-p04",
   "MY-H087": "my-p05",
-  "MY-H088": "my-p05",
-  "MY-H089": "my-p05",
-  "MY-H090": "my-p05",
-  "MY-H091": "my-p05",
-  "MY-H092": "my-p05",
-  "MY-H093": "my-p05",
-  "MY-H094": "my-p05",
   "MY-H095": "my-p05",
-  "MY-H096": "my-p05",
-  "MY-H097": "my-p05",
-  "MY-H098": "my-p05",
-  "MY-H099": "my-p06",
-  "MY-H100": "my-p06",
-  "MY-H101": "my-p06",
-  "MY-H102": "my-p06",
-  "MY-H103": "my-p06",
-  "MY-H104": "my-p06",
-  "MY-H105": "my-p06",
-  "MY-H106": "my-p06",
   "MY-H005": "my-p07",
   "MY-H013": "my-p07",
   "MY-H014": "my-p07",
@@ -20981,12 +20809,7 @@
   "MY-H127": "my-p07",
   "MY-H129": "my-p07",
   "MY-H130": "my-p07",
-  "MY-H131": "my-p07",
-  "MY-H132": "my-p07",
-  "MY-H133": "my-p07",
   "MY-H134": "my-p07",
-  "MY-H135": "my-p07",
-  "MY-H136": "my-p07",
   "PH-H007": "ph-p01",
   "PH-H011": "ph-p01",
   "PH-H012": "ph-p01",
@@ -36393,8 +36216,6 @@
   "VN-H041": "vn-p04",
   "VN-H078": "vn-p04",
   "VN-H079": "vn-p04",
-  "VN-H080": "vn-p04",
-  "VN-H081": "vn-p04",
   "VN-H086": "vn-p04",
   "VN-H087": "vn-p04",
   "VN-H088": "vn-p04",
@@ -36403,7 +36224,6 @@
   "VN-H091": "vn-p04",
   "VN-H092": "vn-p04",
   "VN-H026": "vn-p05",
-  "VN-H030": "vn-p05",
   "VN-H036": "vn-p05",
   "VN-H042": "vn-p05",
   "VN-H093": "vn-p05",

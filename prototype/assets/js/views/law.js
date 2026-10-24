@@ -339,26 +339,6 @@
       U().on(U().$('#export-pdf2', main), 'click', function () { window.print(); });
       var curForm = 'gbt';
 
-      /* 条文级引用：复制「法规 + 第 X 条」粒度的引注 */
-      U().$$('[data-article-cite]', main).forEach(function (b) {
-        U().on(b, 'click', function (ev) {
-          ev.preventDefault();
-          var aid = b.getAttribute('data-article-cite');
-          var art = S().resolveArticle(aid);
-          if (!art) { U().toast(t('复制失败，请手动选择文本复制'), 'warn'); return; }
-          var txt = citeOf(law, curForm || 'gbt', {
-            no: art.no,
-            noLabel: tr(art.noLabel) || ('第' + art.no + '条'),
-            heading: tr(art.heading)
-          });
-          var ok = U().copy ? U().copy(txt) : false;
-          if (!ok) {
-            try { navigator.clipboard.writeText(txt); ok = true; } catch (e2) { ok = false; }
-          }
-          U().toast(ok ? (t('已复制：') + txt) : t('复制失败，请手动选择文本复制'), ok ? 'ok' : 'warn');
-        });
-      });
-
       /* 引注格式切换 */
       var citeBox = U().$('#cite-text', main);
       var citeHint = U().$('#cite-hint', main);
@@ -698,10 +678,6 @@
           (a.partIndex && a.partIndex > 1 ? ' <span class="article__dup">' + esc(t('第{n}套编号').replace('{n}', a.partIndex)) + '</span>' : '') +
         '</span>' +
         '<span class="article__heading">' + esc(tr(a.heading)) + '</span>' +
-        /* 条文级引注：复制「第 X 条」粒度的规范引用（写文书、做批注时最常用） */
-        '<button class="article__cite" type="button" data-article-cite="' + esc(a.id) + '"' +
-          ' title="' + esc(t('复制本条引用')) + '" aria-label="' + esc(t('复制本条引用')) + '">' +
-          CALR.ui.icon('copy') + '</button>' +
         '<button class="article__toggle" type="button" data-article-toggle="' + esc(a.id) + '">' + esc(t('收起')) + '</button>' +
       '</div>';
 

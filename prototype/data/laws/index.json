@@ -5,8 +5,8 @@
   "generator": "_work/merge/rebuild-index.js",
   "note": "每部法规一个 JSON（文件名 = 法规ID）。本目录为唯一权威存储；prototype/data/{intl,cn,fulltext}/*.js 由 _work/merge/build-packs.js 从本目录派生生成，请勿手工编辑那些分卷。",
   "lawCount": 18785,
-  "articleCount": 334703,
-  "chars": 270613856,
+  "articleCount": 338996,
+  "chars": 270581097,
   "byLayer": {
    "intl": 17164,
    "fulltext": 81,
@@ -11883,8 +11883,8 @@
    "amendedNote": null,
    "issuingBody": "文莱官方发布渠道",
    "docNumber": "年份不详",
-   "articleCount": 1,
-   "chars": 145776,
+   "articleCount": 324,
+   "chars": 142691,
    "sourceUrl": null
   },
   {
@@ -11929,8 +11929,8 @@
    "amendedNote": null,
    "issuingBody": "文莱官方发布渠道",
    "docNumber": "年份不详",
-   "articleCount": 1,
-   "chars": 69056,
+   "articleCount": 215,
+   "chars": 67461,
    "sourceUrl": null
   },
   {
@@ -11952,8 +11952,8 @@
    "amendedNote": null,
    "issuingBody": "文莱官方发布渠道",
    "docNumber": "年份不详",
-   "articleCount": 1,
-   "chars": 49687,
+   "articleCount": 219,
+   "chars": 48025,
    "sourceUrl": null
   },
   {
@@ -11975,8 +11975,8 @@
    "amendedNote": null,
    "issuingBody": "文莱官方发布渠道",
    "docNumber": "年份不详",
-   "articleCount": 1,
-   "chars": 19488,
+   "articleCount": 48,
+   "chars": 19162,
    "sourceUrl": null
   },
   {
@@ -12067,8 +12067,8 @@
    "amendedNote": null,
    "issuingBody": "文莱官方发布渠道",
    "docNumber": null,
-   "articleCount": 1,
-   "chars": 8990,
+   "articleCount": 36,
+   "chars": 8748,
    "sourceUrl": null
   },
   {
@@ -12090,8 +12090,8 @@
    "amendedNote": null,
    "issuingBody": "文莱官方发布渠道",
    "docNumber": "年份不详",
-   "articleCount": 1,
-   "chars": 6973,
+   "articleCount": 30,
+   "chars": 6773,
    "sourceUrl": null
   },
   {
@@ -70924,8 +70924,8 @@
    "amendedNote": null,
    "issuingBody": null,
    "docNumber": null,
-   "articleCount": 1,
-   "chars": 8748,
+   "articleCount": 42,
+   "chars": 8362,
    "sourceUrl": "https://cdc.gov.kh/wp-content/uploads/2022/04/%E6%9F%AC%E5%9F%94%E5%AF%A8%E7%8E%8B%E5%9B%BD%E6%8A%95%E8%B5%84%E6%B3%95-Updated-13Dec21.pdf"
   },
   {
@@ -71407,8 +71407,8 @@
    "amendedNote": null,
    "issuingBody": "老挝国会",
    "docNumber": null,
-   "articleCount": 1,
-   "chars": 11708,
+   "articleCount": 58,
+   "chars": 11284,
    "sourceUrl": null
   },
   {
@@ -72442,8 +72442,8 @@
    "amendedNote": null,
    "issuingBody": null,
    "docNumber": null,
-   "articleCount": 1,
-   "chars": 25959,
+   "articleCount": 49,
+   "chars": 25619,
    "sourceUrl": null
   },
   {
@@ -72465,8 +72465,8 @@
    "amendedNote": null,
    "issuingBody": null,
    "docNumber": null,
-   "articleCount": 1,
-   "chars": 17235,
+   "articleCount": 70,
+   "chars": 16687,
    "sourceUrl": null
   },
   {
@@ -72557,8 +72557,8 @@
    "amendedNote": null,
    "issuingBody": null,
    "docNumber": null,
-   "articleCount": 1,
-   "chars": 21197,
+   "articleCount": 122,
+   "chars": 20318,
    "sourceUrl": null
   },
   {
@@ -72603,8 +72603,8 @@
    "amendedNote": null,
    "issuingBody": null,
    "docNumber": null,
-   "articleCount": 1,
-   "chars": 18992,
+   "articleCount": 99,
+   "chars": 18210,
    "sourceUrl": null
   },
   {
@@ -73385,8 +73385,8 @@
    "amendedNote": null,
    "issuingBody": "缅甸官方发布渠道",
    "docNumber": "年份不详",
-   "articleCount": 1,
-   "chars": 126369,
+   "articleCount": 476,
+   "chars": 123177,
    "sourceUrl": null
   },
   {
@@ -73500,8 +73500,8 @@
    "amendedNote": null,
    "issuingBody": "缅甸官方发布渠道",
    "docNumber": "年份不详",
-   "articleCount": 1,
-   "chars": 21392,
+   "articleCount": 102,
+   "chars": 20789,
    "sourceUrl": null
   },
   {
@@ -73523,8 +73523,8 @@
    "amendedNote": null,
    "issuingBody": "缅甸官方发布渠道",
    "docNumber": "年份不详",
-   "articleCount": 1,
-   "chars": 19415,
+   "articleCount": 119,
+   "chars": 18694,
    "sourceUrl": null
   },
   {
@@ -73546,8 +73546,8 @@
    "amendedNote": null,
    "issuingBody": "缅甸官方发布渠道",
    "docNumber": "年份不详",
-   "articleCount": 1,
-   "chars": 17050,
+   "articleCount": 106,
+   "chars": 16235,
    "sourceUrl": null
   },
   {
@@ -73569,8 +73569,8 @@
    "amendedNote": null,
    "issuingBody": "缅甸官方发布渠道",
    "docNumber": "年份不详",
-   "articleCount": 1,
-   "chars": 10946,
+   "articleCount": 9,
+   "chars": 10893,
    "sourceUrl": null
   },
   {
@@ -73638,8 +73638,8 @@
    "amendedNote": null,
    "issuingBody": "缅甸官方发布渠道",
    "docNumber": "年份不详",
-   "articleCount": 1,
-   "chars": 4766,
+   "articleCount": 32,
+   "chars": 4574,
    "sourceUrl": null
   },
   {
@@ -73661,8 +73661,8 @@
    "amendedNote": null,
    "issuingBody": "缅甸官方发布渠道",
    "docNumber": "年份不详",
-   "articleCount": 1,
-   "chars": 3640,
+   "articleCount": 42,
+   "chars": 3379,
    "sourceUrl": null
   },
   {
@@ -73684,8 +73684,8 @@
    "amendedNote": null,
    "issuingBody": "缅甸官方发布渠道",
    "docNumber": "年份不详",
-   "articleCount": 1,
-   "chars": 3252,
+   "articleCount": 32,
+   "chars": 3090,
    "sourceUrl": null
   },
   {
@@ -75317,8 +75317,8 @@
    "amendedNote": null,
    "issuingBody": "马来西亚官方发布渠道",
    "docNumber": "年份不详",
-   "articleCount": 1,
-   "chars": 74504,
+   "articleCount": 55,
+   "chars": 74118,
    "sourceUrl": null
   },
   {
@@ -75340,8 +75340,8 @@
    "amendedNote": null,
    "issuingBody": "Laws of Malaysia, Attorney General's Chambers Malaysia (lom.agc.gov.my)",
    "docNumber": "年份不详",
-   "articleCount": 1,
-   "chars": 64037,
+   "articleCount": 139,
+   "chars": 63028,
    "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2423872_BI/Act 787 (Online 2025).pdf"
   },
   {
@@ -75363,8 +75363,8 @@
    "amendedNote": null,
    "issuingBody": "马来西亚官方发布渠道",
    "docNumber": "年份不详",
-   "articleCount": 1,
-   "chars": 51131,
+   "articleCount": 61,
+   "chars": 50496,
    "sourceUrl": null
   },
   {
@@ -75409,8 +75409,8 @@
    "amendedNote": null,
    "issuingBody": "马来西亚官方发布渠道",
    "docNumber": "年份不详",
-   "articleCount": 1,
-   "chars": 50376,
+   "articleCount": 44,
+   "chars": 50077,
    "sourceUrl": null
   },
   {
@@ -75478,8 +75478,8 @@
    "amendedNote": null,
    "issuingBody": "马来西亚官方发布渠道",
    "docNumber": "年份不详",
-   "articleCount": 1,
-   "chars": 41008,
+   "articleCount": 5,
+   "chars": 40987,
    "sourceUrl": null
   },
   {
@@ -75501,8 +75501,8 @@
    "amendedNote": null,
    "issuingBody": "马来西亚官方发布渠道",
    "docNumber": "年份不详",
-   "articleCount": 1,
-   "chars": 33075,
+   "articleCount": 146,
+   "chars": 31898,
    "sourceUrl": null
   },
   {
@@ -75524,8 +75524,8 @@
    "amendedNote": null,
    "issuingBody": "马来西亚官方发布渠道",
    "docNumber": "年份不详",
-   "articleCount": 1,
-   "chars": 27516,
+   "articleCount": 63,
+   "chars": 27087,
    "sourceUrl": null
   },
   {
@@ -75547,8 +75547,8 @@
    "amendedNote": null,
    "issuingBody": "马来西亚官方发布渠道",
    "docNumber": "年份不详",
-   "articleCount": 1,
-   "chars": 23063,
+   "articleCount": 53,
+   "chars": 22703,
    "sourceUrl": null
   },
   {
@@ -75593,8 +75593,8 @@
    "amendedNote": null,
    "issuingBody": "Laws of Malaysia, Attorney General's Chambers Malaysia (lom.agc.gov.my)",
    "docNumber": "年份不详",
-   "articleCount": 1,
-   "chars": 18160,
+   "articleCount": 67,
+   "chars": 17723,
    "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1878737_BI/WJW240906 Act 712.pdf"
   },
   {
@@ -75639,8 +75639,8 @@
    "amendedNote": null,
    "issuingBody": "马来西亚官方发布渠道",
    "docNumber": "年份不详",
-   "articleCount": 1,
-   "chars": 14196,
+   "articleCount": 51,
+   "chars": 13849,
    "sourceUrl": null
   },
   {
@@ -75662,8 +75662,8 @@
    "amendedNote": null,
    "issuingBody": "Laws of Malaysia, Attorney General's Chambers Malaysia (lom.agc.gov.my)",
    "docNumber": "年份不详",
-   "articleCount": 1,
-   "chars": 14857,
+   "articleCount": 50,
+   "chars": 14516,
    "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/MY/Akta 552 - Akta Reka Bentuk Perindustrian 1996.pdf"
   },
   {
@@ -75685,8 +75685,8 @@
    "amendedNote": null,
    "issuingBody": "马来西亚官方发布渠道",
    "docNumber": "年份不详",
-   "articleCount": 1,
-   "chars": 12486,
+   "articleCount": 42,
+   "chars": 12202,
    "sourceUrl": null
   },
   {
@@ -75708,8 +75708,8 @@
    "amendedNote": null,
    "issuingBody": "马来西亚官方发布渠道",
    "docNumber": "年份不详",
-   "articleCount": 1,
-   "chars": 13202,
+   "articleCount": 35,
+   "chars": 12913,
    "sourceUrl": null
   },
   {
@@ -382275,8 +382275,8 @@
    "amendedNote": null,
    "issuingBody": null,
    "docNumber": "Subsidiary Legislation ITA1947-N1",
-   "articleCount": 1,
-   "chars": 69964,
+   "articleCount": 6,
+   "chars": 69941,
    "sourceUrl": "https://sso.agc.gov.sg/SL/ITA1947-N1?ViewType=Print&PrintType=html&ProvIds=all-."
   },
   {
@@ -407161,8 +407161,8 @@
    "amendedNote": null,
    "issuingBody": null,
    "docNumber": null,
-   "articleCount": 1,
-   "chars": 9764,
+   "articleCount": 48,
+   "chars": 9405,
    "sourceUrl": null
   },
   {
@@ -408196,8 +408196,8 @@
    "amendedNote": null,
    "issuingBody": null,
    "docNumber": null,
-   "articleCount": 1,
-   "chars": 25940,
+   "articleCount": 96,
+   "chars": 25192,
    "sourceUrl": null
   },
   {
@@ -425308,8 +425308,8 @@
    "amendedNote": null,
    "issuingBody": "东帝汶国民议会",
    "docNumber": "Lei n.º 7/2004",
-   "articleCount": 1,
-   "chars": 47769,
+   "articleCount": 8,
+   "chars": 47738,
    "sourceUrl": "https://www.mj.gov.tl/jornal/public/docs/2002_2005/leis_parlamento_nacional/7_2004.pdf"
   },
   {
@@ -430575,8 +430575,8 @@
    "amendedNote": null,
    "issuingBody": "越南官方发布渠道",
    "docNumber": "年份不详",
-   "articleCount": 1,
-   "chars": 67773,
+   "articleCount": 261,
+   "chars": 65326,
    "sourceUrl": null
   },
   {
@@ -430598,8 +430598,8 @@
    "amendedNote": null,
    "issuingBody": "越南官方发布渠道",
    "docNumber": "年份不详",
-   "articleCount": 1,
-   "chars": 50464,
+   "articleCount": 195,
+   "chars": 48979,
    "sourceUrl": null
   },
   {
@@ -430782,8 +430782,8 @@
    "amendedNote": null,
    "issuingBody": "越南官方发布渠道",
    "docNumber": "年份不详",
-   "articleCount": 1,
-   "chars": 37822,
+   "articleCount": 101,
+   "chars": 37047,
    "sourceUrl": null
   },
   {
@@ -430851,8 +430851,8 @@
    "amendedNote": null,
    "issuingBody": "越南官方发布渠道",
    "docNumber": "年份不详",
-   "articleCount": 1,
-   "chars": 25369,
+   "articleCount": 86,
+   "chars": 24804,
    "sourceUrl": null
   },
   {
@@ -430897,8 +430897,8 @@
    "amendedNote": null,
    "issuingBody": "越南官方发布渠道",
    "docNumber": "年份不详",
-   "articleCount": 1,
-   "chars": 22484,
+   "articleCount": 73,
+   "chars": 21854,
    "sourceUrl": null
   },
   {
@@ -430920,8 +430920,8 @@
    "amendedNote": null,
    "issuingBody": "越南官方发布渠道",
    "docNumber": "年份不详",
-   "articleCount": 1,
-   "chars": 21437,
+   "articleCount": 68,
+   "chars": 20855,
    "sourceUrl": null
   },
   {
@@ -430966,8 +430966,8 @@
    "amendedNote": null,
    "issuingBody": "越南官方发布渠道",
    "docNumber": "年份不详",
-   "articleCount": 1,
-   "chars": 19233,
+   "articleCount": 43,
+   "chars": 18922,
    "sourceUrl": null
   },
   {
@@ -430989,8 +430989,8 @@
    "amendedNote": null,
    "issuingBody": "越南官方发布渠道",
    "docNumber": "年份不详",
-   "articleCount": 1,
-   "chars": 17258,
+   "articleCount": 77,
+   "chars": 16681,
    "sourceUrl": null
   },
   {
@@ -431035,8 +431035,8 @@
    "amendedNote": null,
    "issuingBody": "越南官方发布渠道",
    "docNumber": "年份不详",
-   "articleCount": 1,
-   "chars": 14613,
+   "articleCount": 64,
+   "chars": 14139,
    "sourceUrl": null
   },
   {
@@ -431081,8 +431081,8 @@
    "amendedNote": null,
    "issuingBody": "越南官方发布渠道",
    "docNumber": "年份不详",
-   "articleCount": 1,
-   "chars": 11480,
+   "articleCount": 51,
+   "chars": 11108,
    "sourceUrl": null
   },
   {
@@ -431127,8 +431127,8 @@
    "amendedNote": null,
    "issuingBody": "越南官方发布渠道",
    "docNumber": "年份不详",
-   "articleCount": 1,
-   "chars": 7824,
+   "articleCount": 30,
+   "chars": 7676,
    "sourceUrl": null
   },
   {
@@ -431150,8 +431150,8 @@
    "amendedNote": null,
    "issuingBody": "越南官方发布渠道",
    "docNumber": "年份不详",
-   "articleCount": 1,
-   "chars": 8531,
+   "articleCount": 41,
+   "chars": 8182,
    "sourceUrl": null
   },
   {
@@ -431173,8 +431173,8 @@
    "amendedNote": null,
    "issuingBody": "越南官方发布渠道",
    "docNumber": "年份不详",
-   "articleCount": 1,
-   "chars": 7019,
+   "articleCount": 22,
+   "chars": 6898,
    "sourceUrl": null
   },
   {
@@ -431196,8 +431196,8 @@
    "amendedNote": null,
    "issuingBody": "越南官方发布渠道",
    "docNumber": "年份不详",
-   "articleCount": 1,
-   "chars": 7043,
+   "articleCount": 33,
+   "chars": 6763,
    "sourceUrl": null
   },
   {
