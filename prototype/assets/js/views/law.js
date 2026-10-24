@@ -227,33 +227,30 @@
               : '') +
 
             (showText
-              ? '<div class="reader-toolbar">' +
-                  '<span class="reader-toolbar__group"><span class="mini muted">' + esc(t('阅读模式')) + '</span>' +
+              ? '<div class="reader-toolbar reader-toolbar--compact">' +
+                  '<span class="reader-toolbar__group">' +
                     '<span class="btn-group">' +
                       readModeBtn('both', t('原文+译文'), readMode, !!transLang) +
                       readModeBtn('orig', t('仅原文'), readMode, true) +
                       readModeBtn('trans', t('仅译文'), readMode, !!transLang) +
                     '</span>' +
-                    '<span class="mini muted" style="margin-left:8px">' +
-                      esc(t('原文')) + '：' + esc(LANG_NAME[origLang] || origLang) +
-                      (transLang ? '　' + esc(t('译文')) + '：' + esc(LANG_NAME[transLang] || transLang)
-                                 : '　' + esc(t('暂无当前语言译文'))) +
+                    '<span class="mini muted reader-toolbar__lang">' +
+                      esc(LANG_NAME[origLang] || origLang) +
+                      (transLang ? ' / ' + esc(LANG_NAME[transLang] || transLang)
+                                 : ' / ' + esc(t('暂无当前语言译文'))) +
                     '</span></span>' +
                   '<span class="reader-toolbar__sep"></span>' +
-                  '<span class="reader-toolbar__group"><span class="mini muted">' + esc(t('字号')) + '</span>' +
-                    '<button class="btn btn--outline btn--sm" data-fs="normal">A</button>' +
-                    '<button class="btn btn--outline btn--sm" data-fs="large">A+</button>' +
-                    '<button class="btn btn--outline btn--sm" data-fs="xlarge">A++</button></span>' +
-                  '<span class="reader-toolbar__sep"></span>' +
-                  '<span class="reader-toolbar__group">' +
-                    '<button class="btn btn--outline btn--sm" id="toggle-all">' + esc(t('展开全部条文')) + '</button>' +
-                    '<button class="btn btn--outline btn--sm" id="theme-toggle">' + esc(t('深色模式')) + '</button>' +
-                    '<button class="btn btn--outline btn--sm" id="tts-btn">' + CALR.ui.icon('volume') + ' ' + esc(t('全文朗读')) + '</button>' +
+                  /* 字号只保留两个：缩小 / 放大。默认档不占按钮，用组标题提示当前档 */
+                  '<span class="reader-toolbar__group reader-toolbar__fz">' +
+                    '<button class="btn btn--outline btn--sm law-fz__btn" data-fs-dir="-1" type="button" ' +
+                      'title="' + esc(t('缩小字号')) + '" aria-label="' + esc(t('缩小字号')) + '">A−</button>' +
+                    '<button class="btn btn--outline btn--sm law-fz__btn" data-fs-dir="1" type="button" ' +
+                      'title="' + esc(t('放大字号')) + '" aria-label="' + esc(t('放大字号')) + '">A+</button>' +
                   '</span>' +
                   '<span class="reader-toolbar__sep"></span>' +
                   '<span class="reader-toolbar__group">' +
-                          '<button class="btn btn--outline btn--sm" id="export-pdf">' + esc(t('导出 PDF')) + '</button>' +
-                    '<button class="btn btn--outline btn--sm" id="export-terms">' + esc(t('术语对照表')) + '</button>' +
+                    '<button class="btn btn--outline btn--sm" id="toggle-all">' + esc(t('全部展开')) + '</button>' +
+                    '<button class="btn btn--outline btn--sm" id="tts-btn">' + CALR.ui.icon('volume') + ' ' + esc(t('全文朗读')) + '</button>' +
                   '</span>' +
                   '<span class="reader-toolbar__sep"></span>' +
                   '<span class="reader-toolbar__group reader-toolbar__find">' +
@@ -389,12 +386,35 @@
       renderHistoryData();
 
       /* ---------- 交互 ---------- */
-      if (fontSize !== 'normal') document.documentElement.setAttribute('data-fontsize', fontSize);
+      /* 字号三档：normal（默认，无按钮）/ large / xlarge。
+         A− / A+ 在档位之间步进，到边界就不再变。 */
+      var FS_LEVELS = ['normal', 'large', 'xlarge'];
+      function applyFontSize(v) {
+        fontSize = FS_LEVELS.indexOf(v) >= 0 ? v : 'normal';
+        if (fontSize === 'normal') document.documentElement.removeAttribute('data-fontsize');
+        else document.documentElement.setAttribute('data-fontsize', fontSize);
+        syncFontButtons();
+      }
+      function syncFontButtons() {
+        var i = FS_LEVELS.indexOf(fontSize);
+        U().$$('[data-fs-dir]', main).forEach(function (b) {
+          var d = parseInt(b.getAttribute('data-fs-dir'), 10);
+          var next = i + d;
+          var disabled = next < 0 || next >= FS_LEVELS.length;
+          b.disabled = disabled;
+          b.setAttribute('aria-disabled', disabled ? 'true' : 'false');
+        });
+      }
+      applyFontSize(fontSize);
 
-      U().$$('[data-fs]', main).forEach(function (b) {
+      U().$$('[data-fs-dir]', main).forEach(function (b) {
         U().on(b, 'click', function () {
-          var fs = b.getAttribute('data-fs');
-          document.documentElement.setAttribute('data-fontsize', fs);
+          var d = parseInt(b.getAttribute('data-fs-dir'), 10);
+          var i = FS_LEVELS.indexOf(fontSize);
+          var next = i + d;
+          if (next < 0 || next >= FS_LEVELS.length) return;
+          var fs = FS_LEVELS[next];
+          applyFontSize(fs);
           CALR.router.go(CALR.router.buildUrl('/law/' + law.id, { lang: dl, fs: fs }));
         });
       });
@@ -404,8 +424,6 @@
           CALR.router.go(CALR.router.buildUrl('/law/' + law.id, { read: b.getAttribute('data-read'), fs: fontSize }));
         });
       });
-      U().on(U().$('#theme-toggle', main), 'click', function () { CALR.app.toggleTheme(); });
-      U().on(U().$('#export-pdf', main), 'click', function () { window.print(); });
       U().on(U().$('#export-pdf2', main), 'click', function () { window.print(); });
       var curForm = 'gbt';
 
@@ -424,7 +442,6 @@
       });
       U().on(U().$('#copy-cite', main), 'click', doCopy);
       U().on(U().$('#copy-cite2', main), 'click', doCopy);
-      U().on(U().$('#export-terms', main), 'click', exportTerms);
       U().on(U().$('#export-terms2', main), 'click', exportTerms);
       var terms3 = U().$('#export-terms3', main);
       if (terms3) U().on(terms3, 'click', exportTerms);

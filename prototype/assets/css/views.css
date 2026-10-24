@@ -880,3 +880,60 @@ html[data-theme="dark"] .law-find-hit { background: #7A5C00; color: #FFF3C4; }
   .reader-toolbar__find { flex: 1 1 100%; }
   .law-find__stat { min-width: 44px; }
 }
+
+/* ---------- 精简版阅读工具栏 ----------
+   目标：1512 宽下一行排完，把检索框挤在同一行。
+   做法：按钮更矮、组间距从 8px 降到 5px、去掉「阅读模式」「字号」这两个文字标签、
+   语言说明缩到 11px 并用斜杠分隔。 */
+.reader-toolbar--compact {
+  gap: 4px;
+  padding: 6px 8px;
+  flex-wrap: nowrap;
+  overflow-x: auto;          /* 极窄屏时才出现横向滚动，不折行 */
+  scrollbar-width: none;
+}
+.reader-toolbar--compact::-webkit-scrollbar { display: none; }
+/* 语言说明在精简模式下隐藏：原文/译文的语种在「原文+译文」按钮已经能看出来，
+   留着会挤占一行 */
+.reader-toolbar--compact .reader-toolbar__lang { display: none; }
+.reader-toolbar--compact .btn--sm {
+  height: 28px;
+  padding: 0 9px;
+  font-size: 12.5px;
+}
+.reader-toolbar--compact .btn-group .btn--sm {
+  padding: 0 8px;
+}
+.reader-toolbar--compact .reader-toolbar__sep {
+  height: 16px;
+  margin: 0 1px;
+}
+.reader-toolbar--compact .reader-toolbar__lang {
+  font-size: 11px;
+  color: var(--text-tertiary, #9AA4B2);
+  white-space: nowrap;
+  margin-left: 6px;
+}
+/* 字号按钮：等宽正方形，视觉上成对 */
+.reader-toolbar--compact .law-fz__btn {
+  min-width: 30px;
+  padding: 0 6px;
+  font-variant-numeric: tabular-nums;
+}
+.reader-toolbar--compact .law-fz__btn[disabled] {
+  opacity: .38;
+  cursor: default;
+}
+/* 查找组占满剩余宽度，输入框可以拉长 */
+.reader-toolbar--compact .reader-toolbar__find {
+  margin-left: auto;
+}
+.reader-toolbar--compact .reader-toolbar__find .law-find {
+  width: 168px;
+}
+@media (max-width: 1279px) {
+  .reader-toolbar--compact .reader-toolbar__find .law-find { width: 150px; }
+}
+@media (max-width: 1023px) {
+  .reader-toolbar--compact .reader-toolbar__find .law-find { width: 120px; }
+}
