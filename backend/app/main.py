@@ -417,7 +417,12 @@ def qa(req: QARequest) -> Dict[str, Any]:
         if key in seen:
             continue
         seen.add(key)
-        text = {"zh": a["text_zh"], "en": a["text_en"]}
+        # 只放真正有内容的语言键：留空字符串会让前端误以为"有英文"。
+        text = {}
+        if a["text_zh"]:
+            text["zh"] = a["text_zh"]
+        if a["text_en"]:
+            text["en"] = a["text_en"]
         if a["text_orig"]:
             text[a["lang"] or "orig"] = a["text_orig"]
         cites.append({
