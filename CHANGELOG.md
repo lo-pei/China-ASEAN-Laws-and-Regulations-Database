@@ -38,4 +38,4 @@
 
 - 8 项 CI 检查全绿（382 个 JS 语法 + 7 个数据校验器）。
 - 模拟全新 checkout（临时隐藏 `_work/`）后 `verify.js`、`verify-fulltext.js` 均 exit 0。
-- 87 条 Markdown 相对链接 0 断链。
+- 85 条 Markdown 相对链接 0 断链。
