@@ -7,7 +7,7 @@
 ---
 
 
-> 部署到云服务器：见 [docs/07-部署指南.md](docs/07-部署指南.md)（含 Docker / systemd / Nginx / 验证清单）。
+> 部署到云服务器：见 [docs/deploy/](docs/deploy/)（[07 通用云服务器](docs/deploy/07-部署指南.md) · 08 B+ 完整版 · 09 Windows 服务器 · 10 Windows 实测复盘）。
 
 ## 一、这是什么
 
@@ -28,10 +28,10 @@
 | :--- | ---: |
 | 法域 | **12**（中国 + 东盟十国 + 多边条约） |
 | 法规 | **18,785** 部 |
-| 条文 | **338,996** 条 |
+| 条文 | **339,351** 条 |
 | 正文字符 | **2.71 亿** |
 | 译文 | 1,566 部 / **60,084** 条 |
-| 中文标题覆盖 | **99.68%** |
+| 中文标题覆盖 | **99.79%**（18,746 部） |
 | 界面语言 | 中 / 英 / 越 / 泰 / 印尼 / 马来 |
 
 ---
@@ -45,7 +45,7 @@
 ### 方式二：后端形态（推荐，检索质量与性能都更好）
 
 ```bash
-# 1) 建库（首次约 7 分钟，产出 backend/data/calr.db 约 1.6 GB）
+# 1) 建库（首次约 7 分钟，产出 backend/data/calr.db 约 1.2 GB）
 python backend/build_db.py
 
 # 2) 装依赖并起服务
@@ -60,7 +60,7 @@ uvicorn backend.app.main:app --host 0.0.0.0 --port 8000
 
 ### 可选：向量检索与语义问答
 
-后端形态下的混合检索与条文级问答依赖 bge-m3 向量索引（约 347 MB，不入库）：
+后端形态下的混合检索与条文级问答依赖 bge-m3 向量索引（约 310 MB，不入库）：
 
 ```bash
 python _work/phaseb/download.py                 # 下载模型
@@ -97,63 +97,80 @@ python _work/phaseb/embed.py --level article    # 条文级（GPU 约 4 小时�
 | **权威存储单一化** | `laws/<法规ID>.json` 是唯一权威，数据库与向量均为派生视图，随时可重建 |
 | **数据自足** | `prototype/` 单独拷走即可完整运行，不引用任何外部路径（有 11 项自动检查守门） |
 | **首屏 0.68 秒** | 按打开方式决定加载内容：API 模式跳过 15.9 MB catalog 与 3.7 MB IDF 表，首屏由 4.45 s 降到 0.68 s |
-| **8 个自动校验器** | 数据完整性、自足性、译文层一致性、i18n 完整性、项目红线，全部可复现，已接入 CI |
+| **7 数据校验器 + 全量语法检查** | 数据完整性、自足性、译文层一致性、i18n 完整性、项目红线；另有后端 13 项自测。前 7 项已接入 CI |
 | **移动端适配** | 390px / 768px 两档断点，5 个视图横向溢出为 0 |
 
 ---
 
 ## 五、目录结构
 
+> 完整说明与边界约定见 [docs/00-目录结构与维护指南.md](docs/00-目录结构与维护指南.md)。
+
 ```
-prototype/            前端（零构建、零依赖）
+prototype/            前端（零构建、零依赖，约 913 MB，可单独拷走运行）
   index.html          入口；按打开方式决定是否加载完整 catalog
-  assets/js/core/     store / search / qa / api / fulltext / i18n / router
-  assets/js/views/    home / search / law / compare / assistant / terms / sources
-  data/laws/          权威存储：18,785 个 <法规ID>.json
+  assets/js/          app.js + core/（store/search/qa/api/fulltext/i18n/router）+ views/ + ui/
+  assets/css/         tokens / base / components / views / home-v2 / mobile
+  assets/img/         站点图片与各国系统配图
+  data/laws/          权威存储：18,785 部 <法规ID>.json + index.json
   data/{cn,intl,fulltext}/   条文分卷（按需加载）
   data/trans/         译文层（21 分卷，与原文物理分离）
   data/title-zh/      中文标题档案（含来源与引擎）
+  data/*.js           前端数据入口（dataset-core/extra、catalog、i18n、bm25-idf 等）
 
 backend/              后端（FastAPI + SQLite + ONNX 向量）
-  build_db.py         laws/*.json → calr.db
+  build_db.py         laws/*.json → calr.db（约 1.2 GB）
   app/                main / db / search / vectors / hybrid / embedder / security
   test_api.py         13 项后端自测
+  DEPLOY.md           后端 Docker 部署说明
 
-tools/                校验工具
-rules/                项目红线与数据规范（SKILL）
-docs/                 项目文档（4 份）
-deliverables/         对外交付（4 份 docx）
-_work/                本地工作区（模型、缓存、批次报告；不入库）
+tools/                校验器、抓取脚本、评测快照与模板（正本；见 tools/README.md）
+rules/                数据契约与项目红线（3 份 SKILL-* 为权威；历史归档已标记）
+docs/                 项目文档（00 指南 + 01–06 交付 + deploy/ 07–10 运维 + _archive-* 历史）
+deliverables/         对外交付 docx（01–06 + 07 附件2 填写稿）
+.github/workflows/    CI：data-checks（7 个数据校验器 + 全量 JS 语法）
+_out/                 部署打包产物（4 个 tarball，约 2.2 GB；不入库）
+_work/                本地工作区（模型、批次、历史脚本；约 3.2 GB，缓存/备份已清理；不入库）
 ```
 
 ---
 
 ## 六、文档
 
-本项目文档整合为 **4 份**，均在 [`docs/`](docs/)（对应 docx 在同名 [`deliverables/`](deliverables/)）：
+文档共 **11 份**（00 目录指南 + 01–06 交付文档 + 07–10 部署文档），均在 [`docs/`](docs/)；有 docx 交付版的见 [`deliverables/`](deliverables/)。
+完整索引见 [docs/README.md](docs/README.md)，目录结构与维护规则见 [docs/00-目录结构与维护指南.md](docs/00-目录结构与维护指南.md)。
 
-| 文档 | 内容 |
-| :--- | :--- |
-| [01 · 项目总览](docs/01-项目总览.md) | 定位、数据规模、功能矩阵、两种运行形态、六个关键设计取舍 |
-| [02 · 数据规范与治理](docs/02-数据规范与治理.md) | 数据模型、入库流程、9 条质量硬约束、五类已治理缺陷的完整记录、6 条数据红线 |
-| [03 · 技术架构与检索](docs/03-技术架构与检索.md) | 架构图、三条检索链路、性能实测与瓶颈分析、安全设计、部署 |
-| [04 · 交付验收与后续规划](docs/04-交付验收与后续规划.md) | 校验体系、评测指标、已知问题、路线图、5 分钟复现步骤 |
+| 文档 | 内容 | docx |
+| :--- | :--- | :---: |
+| [00 · 目录结构与维护指南](docs/00-目录结构与维护指南.md) | 目录用途与边界、命名规范、归档规则、关键文件清单 | — |
+| [01 · 项目总览](docs/01-项目总览.md) | 定位、数据规模、功能矩阵、两种运行形态、六个关键设计取舍 | ✅ |
+| [02 · 数据规范与治理](docs/02-数据规范与治理.md) | 数据模型、入库流程、9 条质量硬约束、五类已治理缺陷的完整记录、6 条数据红线 | ✅ |
+| [03 · 技术架构与检索](docs/03-技术架构与检索.md) | 架构图、三条检索链路、性能实测与瓶颈分析、安全设计、部署 | ✅ |
+| [04 · 交付验收与后续规划](docs/04-交付验收与后续规划.md) | 校验体系、评测指标、已知问题、路线图、5 分钟复现步骤 | ✅ |
+| [05 · 演示视频脚本](docs/05-演示视频脚本.md) | 4 分 30 秒分镜脚本、旁白全稿、答辩 PPT 大纲 | ✅ |
+| [06 · 项目申报书正文](docs/06-项目申报书正文.md) | 大赛申报书五段正文（评分材料） | ✅ |
+| [07 · 云服务器部署](docs/deploy/07-部署指南.md) | A/B/B+ 三形态、Docker、systemd、Nginx、验证清单 | — |
+| [08 · B+ 完整部署](docs/deploy/08-部署-B+完整版.md) | 含 bge-m3 模型的增量部署与性能预期 | — |
+| [09 · Windows 服务器部署](docs/deploy/09-部署-Windows服务器.md) | Windows Server 2022 计划态部署步骤 | — |
+| [10 · Windows 实测复盘](docs/deploy/10-部署-Windows阿里云实测复盘.md) | 实际部署后的修正与避坑（最新） | — |
 
 ---
 
 ## 七、校验
 
 ```bash
-# 8 个检查器，全部应通过
-node _work/verify.js                  # 数据与引用完整性
+# 7 个数据校验器 + 后端自测，全部应通过；前 7 项已接入 CI
+node tools/verify.js                  # 数据与引用完整性
 node tools/verify-data.js             # 逐文件统计一致性
 node tools/verify-data-home.js        # 11 项数据自足性（A1–A11）
-node _work/verify-fulltext.js         # 分卷与权威存储逐条比对
+node tools/verify-fulltext.js         # 分卷与权威存储逐条比对
 node tools/test-trans-layer.js        # 译文层结构
-node _work/check-i18n.js              # 5 语种 × 829 键
-node _work/scan-forbidden2.js         # 项目红线禁用表述
+node tools/check-i18n.js              # 5 语种 × 870 键
+node tools/scan-forbidden2.js         # 项目红线禁用表述
 python backend/test_api.py            # 后端 13 项自测（需先起服务）
 ```
+
+CI 见 [.github/workflows/data-checks.yml](.github/workflows/data-checks.yml)；工具索引见 [tools/README.md](tools/README.md)。
 
 ---
 

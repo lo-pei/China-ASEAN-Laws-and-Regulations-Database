@@ -190,6 +190,7 @@ ok('层级/状态名称可取值', store.levelName('law') !== 'law' && store.sta
 
 /* ---------- 输出 ---------- */
 const out = path.join(ROOT, '_work', 'verify-report.txt');
+fs.mkdirSync(path.dirname(out), { recursive: true }); // CI 的全新 checkout 没有 _work/，先建目录
 fs.writeFileSync(out, log.join('\n') + '\n\nFAILED=' + problems.length + '\n' + problems.map(p => ' - ' + p).join('\n') + '\n', 'utf8');
 console.log(log.join('\n'));
 console.log('\n===== 校验结果：' + (problems.length ? problems.length + ' 项未通过 =====' : '全部通过 ====='));

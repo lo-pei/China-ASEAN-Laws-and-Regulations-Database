@@ -2,6 +2,8 @@
 
 > 适用：阿里云 ECS / 腾讯云 CVM，**Windows Server 2022**，**2 核 8 GB**，无域名、只用 IP 访问。
 > 目标：`http://<公网IP>:8000` 能打开，答辩演示够用。
+>
+> **实测修正**：本文为计划态步骤；实际部署后遇到的问题与修正（onnxruntime DLL、中文路径、PYTHONUTF8、任务计划等）见同目录 [10-部署-Windows阿里云实测复盘.md](10-部署-Windows阿里云实测复盘.md)，两者冲突时以 10 为准。
 
 ---
 
@@ -168,8 +170,10 @@ pip install -r backend\requirements.txt -i https://mirrors.aliyun.com/pypi/simpl
 python -c "import fastapi, uvicorn, onnxruntime, numpy, tokenizers; print('依赖 OK', onnxruntime.__version__)"
 ```
 
-`onnxruntime` 在 Windows 上装的是 `onnxruntime-directml` 版（requirements 里按平台选的），
-但代码里执行提供者写死为 `CPUExecutionProvider`，所以有没显卡都一样按 CPU 跑。
+`onnxruntime` 在 Windows 上默认会装到 `onnxruntime-directml` 版（requirements 里按平台选的），
+但代码里执行提供者写死为 `CPUExecutionProvider`。**实测注意**：在没有独显的 Windows Server 上，
+`onnxruntime-directml` 可能因缺少 DirectML / VC++ 运行库而 `DLL load failed`；
+应卸载并改装纯 CPU 版 `onnxruntime`，并安装 VC++ 运行库。详见 [10-部署-Windows阿里云实测复盘.md](10-部署-Windows阿里云实测复盘.md)。
 
 ---
 

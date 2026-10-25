@@ -99,7 +99,7 @@ def parse_lawphil(raw_html):
 def main():
     limit = int(sys.argv[1]) if len(sys.argv) > 1 else 0
     rows = []
-    with io.open(os.path.join(ROOT, "tools/recrawl-tasks.csv"), encoding="utf-8-sig") as fh:
+    with io.open(os.path.join(ROOT, "tools/reports/recrawl-tasks.csv"), encoding="utf-8-sig") as fh:
         for r in csv.DictReader(fh):
             if "lawphil.net" in (r.get("sourceUrl") or ""):
                 rows.append(r)

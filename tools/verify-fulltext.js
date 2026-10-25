@@ -1,5 +1,5 @@
 /* CALR 官方全文数据审计：逐文件检查完整性、来源标注与疑似编造
-   用法：node _work/verify-fulltext.js
+   用法：node tools/verify-fulltext.js
 */
 'use strict';
 const fs = require('fs');
@@ -160,6 +160,8 @@ out.push('');
 out.push('FAILED=' + problems.length);
 if (problems.length) out.push(problems.map(p => ' - ' + p).join('\n'));
 
-fs.writeFileSync(path.join(ROOT, '_work', 'verify-fulltext-report.txt'), out.join('\n'), 'utf8');
+const reportPath = path.join(ROOT, '_work', 'verify-fulltext-report.txt');
+fs.mkdirSync(path.dirname(reportPath), { recursive: true }); // CI 的全新 checkout 没有 _work/，先建目录
+fs.writeFileSync(reportPath, out.join('\n'), 'utf8');
 console.log(out.join('\n'));
 process.exit(problems.length ? 1 : 0);

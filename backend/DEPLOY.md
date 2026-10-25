@@ -2,6 +2,9 @@
 
 > 目标：在云服务器（阿里云 / 腾讯云）上用 Docker 跑起 API 服务，
 > 并把现有的 `prototype/` 静态站挂到同一个服务上，实现前后端同源。
+>
+> 部署路线总览见 [docs/deploy/README.md](../docs/deploy/README.md)；Windows 实测修正见
+> [docs/deploy/10-部署-Windows阿里云实测复盘.md](../docs/deploy/10-部署-Windows阿里云实测复盘.md)。
 
 ## 一、架构
 

@@ -1,62 +1,50 @@
 # ==========================================================================
-# 中国—东盟法律法规数据库 (CALR) · 仓库只收录对外交付所需内容
-# 本仓库跟踪：README.md、prototype/、rules/、tools/、backend/（代码）、
-#             docs/（4 份项目文档 md）、deliverables/（对应 docx）、.github/（CI）
-# 其余目录（_work、dataset 等）为本地工作区，不入库
+# 中国—东盟法律法规数据库（CALR）· 仓库只收录可交付内容
+#
+# 跟踪：README.md、docs/、deliverables/、prototype/、backend/（代码）、
+#       rules/、tools/、.github/、docker-compose.yml
+# 不跟踪：_work/（本地工作区）、_out/（部署打包产物）、backend/data/（数据库与向量）
+#
+# 注意：本文件采用「显式排除」而非「默认忽略一切 + 白名单」。
+#       新增顶层目录/文件会以 untracked 形式出现在 git status（可见、可审查），
+#       不会被静默吞掉；大目录靠下面的显式规则挡住。
 # ==========================================================================
 
-# 默认忽略一切，再逐个放行需要入库的路径
-/*
-!.gitignore
-!README.md
-!prototype/
-!rules/
-!tools/
-!backend/
-!docker-compose.yml
-!.github/
-!docs/
-!deliverables/
-
-# --- 即使被上面的规则放行，以下内容仍不入库 ---
-# Phase A 后端：只入库代码，不入库数据库（calr.db 约 1.6 GB，由 build_db.py 生成）
-# 注意：必须写 backend/data/* 而不是 backend/data/，
-#       否则整个目录被忽略，后面的 ! 反选对 .gitkeep 不生效
+# --- 本地工作区与生成物（体积大，永不入库）---
+_work/
+_out/
+_audit/
+.workbuddy/
 backend/data/*
 !backend/data/.gitkeep
 !backend/data/README.md
-backend/__pycache__/
+
+# --- 历史归档（仅本地保留；rules/_archive-* 例外：为保住唯一 tracked 副本而入库）---
+docs/_archive-*/
+deliverables/_archive-*/
+
+# --- Python 缓存与构建产物 ---
+__pycache__/
+*.pyc
 backend/**/__pycache__/
 backend/**/*.pyc
 backend/**/.pytest_cache/
 
-# 工作区与中间产物
-_work/
-dataset/
-rules/data/
-
-# docs/ 与 deliverables/ 已放行入库（供 README 链接可达），但归档目录不入库
-docs/_archive-*/
-deliverables/_archive-*/
-
-# 系统与编辑器
+# --- 系统与编辑器 ---
 .DS_Store
 Thumbs.db
 desktop.ini
 *.swp
-*~
 .vscode/
 .idea/
 
-# 临时与备份
+# --- 临时与备份 ---
 *.bak
 *.bak-*
 *.orig
 *.tmp
-*~
 *.pre-*
+*~
 
-# Office 打开文档时产生的临时锁文件
-deliverables/~$*
-*.docx/~$*
+# --- Office 打开文档时产生的临时锁文件 ---
 ~$*
