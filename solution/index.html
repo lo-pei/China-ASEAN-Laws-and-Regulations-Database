@@ -1,0 +1,916 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#0A1B33">
+<meta name="description" content="中国—东盟法律法规数据库（CALR）产品解决方案：12 法域、18,785 部法规、339,351 条条文的可溯源检索、跨语言条款比对与带引用的 AI 问答。">
+<meta name="color-scheme" content="light">
+<title>CALR · 东盟法律，一库通查 · 产品解决方案</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%230A1B33'/%3E%3Ctext x='16' y='22' font-family='Georgia,serif' font-size='12' font-weight='700' fill='%23C6A15B' text-anchor='middle'%3EC%3C/text%3E%3C/svg%3E">
+<link rel="stylesheet" href="assets/css/solution.css">
+<script>document.documentElement.classList.add('js');</script>
+</head>
+<body>
+<a class="skip-link" href="#main">跳到主要内容</a>
+
+<header class="site-nav" id="siteNav">
+  <div class="nav-shell">
+    <a class="brand" href="#hero">
+      <span class="brand-mark" aria-hidden="true">CALR</span>
+      <span class="brand-name">中国—东盟法律法规数据库</span>
+    </a>
+    <nav class="nav-links" id="navLinks" aria-label="章节导航">
+      <a href="#why">为什么</a>
+      <a href="#solution">方案</a>
+      <a href="#product">演示</a>
+      <a href="#data">数据</a>
+      <a href="#tech">技术</a>
+      <a href="#diff">差异</a>
+      <a href="#scenarios">场景</a>
+      <a href="#roadmap">路线</a>
+      <a href="#team">团队</a>
+    </nav>
+    <div class="nav-actions">
+      <a class="nav-cta" href="../prototype/index.html">打开真实产品<span aria-hidden="true"> ↗</span></a>
+      <button class="nav-toggle" id="navToggle" type="button" aria-expanded="false" aria-controls="navLinks" aria-label="打开章节导航">
+        <span class="nav-toggle-bars" aria-hidden="true"><span></span><span></span><span></span></span>
+      </button>
+    </div>
+  </div>
+  <div class="nav-progress" aria-hidden="true"><span class="nav-progress-bar" id="navProgress"></span></div>
+</header>
+
+<main id="main">
+  <noscript>
+    <div class="container"><p class="noscript-note">本页的样本检索、图表与真实法条展示需要启用 JavaScript。启用后可离线使用，不访问任何网络资源。</p></div>
+  </noscript>
+
+  <!-- ============ 01 Hero ============ -->
+  <section class="hero" id="hero" aria-labelledby="heroTitle">
+    <div class="hero-bg" aria-hidden="true"></div>
+    <div class="container hero-inner">
+      <p class="hero-eyebrow"><span class="dot" aria-hidden="true"></span>2026 中国（广西）—东盟「AI+法律」应用创新大赛 · 高校学生赛道</p>
+      <h1 id="heroTitle">东盟法律，<span class="accent">一库通查</span></h1>
+      <p class="hero-sub">面向 <strong>12 法域</strong>的法律检索、跨语言比对与可溯源 AI 问答平台</p>
+      <p class="hero-lede">把中国与东盟十国、东帝汶的官方法规文本，做成可检索、可对照、可引用的工程系统——不是把法规堆在网页上，而是让每一条结论都能回到条文原文。</p>
+      <div class="hero-cta">
+        <a class="btn btn-primary" href="../prototype/index.html">打开真实产品<span aria-hidden="true">→</span></a>
+        <a class="btn btn-outline" href="#product">3 分钟看完方案</a>
+      </div>
+      <dl class="hero-stats">
+        <div class="stat">
+          <dt>法域</dt>
+          <dd><span class="stat-num" data-meta="jurisdictions" data-counter>12</span><span class="stat-unit">个</span></dd>
+          <dd class="stat-note">中国 + 东盟十国 + 东帝汶</dd>
+        </div>
+        <div class="stat">
+          <dt>法规</dt>
+          <dd><span class="stat-num" data-meta="laws" data-counter>18,785</span><span class="stat-unit">部</span></dd>
+          <dd class="stat-note">权威存储一法一 JSON</dd>
+        </div>
+        <div class="stat">
+          <dt>条文</dt>
+          <dd><span class="stat-num" data-meta="articles" data-counter>339,351</span><span class="stat-unit">条</span></dd>
+          <dd class="stat-note">正文约 <span data-meta="chars" data-format="yi">2.71 亿</span>字符</dd>
+        </div>
+        <div class="stat">
+          <dt>译文</dt>
+          <dd><span class="stat-num" data-meta="translatedLaws" data-counter>1,566</span><span class="stat-unit">部</span></dd>
+          <dd class="stat-note">共 <span data-meta="translatedArticles">60,084</span> 条 · AI 辅助生成</dd>
+        </div>
+      </dl>
+      <figure class="hero-figure">
+        <div class="window-bar" aria-hidden="true">
+          <span class="window-dots"><i></i><i></i><i></i></span>
+          <span class="window-url">prototype/index.html — 产品入口</span>
+          <span class="window-tag">file:// 可直接打开</span>
+        </div>
+        <div class="hero-shot">
+          <img src="assets/shots/home-hero.png" width="1440" height="360" alt="产品首页真实截图：标题「中国—东盟法律法规数据库」、检索输入框与筛选说明">
+        </div>
+        <figcaption>真实界面截图（2026-10-24）· 零构建、零依赖，双击 <code>prototype/index.html</code> 即可运行</figcaption>
+      </figure>
+    </div>
+  </section>
+
+  <!-- ============ 02 为什么需要它 ============ -->
+  <section class="section why" id="why" aria-labelledby="whyTitle">
+    <div class="container">
+      <header class="section-head">
+        <p class="eyebrow"><span class="eyebrow-num">01</span>为什么需要它</p>
+        <h2 id="whyTitle">涉外法律查明，卡在三道缺口上</h2>
+        <p class="section-lede">涉外法治与区域经贸合作，先要「查得到、查得准、引得起」。现有做法在覆盖面、语言和可信度上都不够，人工查证的边际成本很高。</p>
+      </header>
+      <ul class="pain-grid">
+        <li class="pain-card reveal">
+          <span class="pain-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.5 2.4 4 5.6 4 9s-1.5 6.6-4 9c-2.5-2.4-4-5.6-4-9s1.5-6.6 4-9z"/></svg></span>
+          <span class="pain-num">01</span>
+          <h3>法域分散</h3>
+          <p>中国 + 东盟十国 + 东帝汶，12 个法域、12 套官方发布渠道；同一概念在各国写法、条号体例都不相同，逐一查证耗时。</p>
+          <p class="pain-cost">后果：查全一个问题的成本，往往高于读法条本身。</p>
+        </li>
+        <li class="pain-card reveal">
+          <span class="pain-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"><path d="M3.5 5h8M7.5 5v2.2c0 3.4-1.8 6-4 7.3M6 10.5c1.1 2 2.9 3.7 4.9 4.6"/><path d="M12.5 19l3.6-8.4L19.7 19M14 16.4h4.2"/></svg></span>
+          <span class="pain-num">02</span>
+          <h3>语言壁垒</h3>
+          <p>泰文、越南文、印尼文、马来文……中国用户读东盟法条依赖人工翻译；反过来，东盟用户读中国法规同样困难。</p>
+          <p class="pain-cost">后果：机翻读得懂，但无法回溯到原文，也不敢直接引用。</p>
+        </li>
+        <li class="pain-card reveal">
+          <span class="pain-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"><path d="M9.6 14.4l4.8-4.8"/><path d="M7.2 12l-1.3 1.3a3.6 3.6 0 0 0 5.1 5.1l1.3-1.3"/><path d="M16.8 12l1.3-1.3a3.6 3.6 0 0 0-5.1-5.1L11.7 6.9"/></svg></span>
+          <span class="pain-num">03</span>
+          <h3>溯源困难</h3>
+          <p>检索结果来自哪里、什么时候抓取、条文是否完整，常常无从核验；引注格式不统一，写作时还得手工拼装出处。</p>
+          <p class="pain-cost">后果：写进文书或报告的依据，经不起对方追问来源。</p>
+        </li>
+        <li class="pain-card reveal">
+          <span class="pain-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"><path d="M12 4.2l8.4 15H3.6z"/><path d="M12 10v4.2M12 17.2h.01"/></svg></span>
+          <span class="pain-num">04</span>
+          <h3>通用 AI 不可信</h3>
+          <p>通用大模型答得流畅，却常把不同国家的条文混在一起，甚至给出并不存在的条款，且不提供可点击的出处。</p>
+          <p class="pain-cost">后果：看起来都对，用起来不敢用。</p>
+        </li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- ============ 03 方案总览 ============ -->
+  <section class="section solution is-dark" id="solution" aria-labelledby="solutionTitle">
+    <div class="container">
+      <header class="section-head">
+        <p class="eyebrow"><span class="eyebrow-num">02</span>方案总览</p>
+        <h2 id="solutionTitle">一套自足的数据底座，<br class="only-wide">一条只给有出处答案的链路</h2>
+        <p class="section-lede">数据以「一法一 JSON」为唯一权威，检索走 BM25 + 向量 + RRF 融合，问答只返回带条文出处的依据。三层职责清晰，任何一层都可以单独替换。</p>
+      </header>
+      <div class="arch">
+        <div class="arch-layer">
+          <div class="arch-label">
+            <span class="arch-kicker">第一层 · 数据底座</span>
+            <span class="arch-meta"><span data-meta="laws">18,785</span> 部 · <span data-meta="articles">339,351</span> 条</span>
+          </div>
+          <div class="arch-boxes">
+            <div class="arch-box">
+              <h3>权威存储</h3>
+              <p><code>laws/&lt;法规ID&gt;.json</code> 一法一文件，可 diff、可逐部替换</p>
+            </div>
+            <div class="arch-box">
+              <h3>条文分卷</h3>
+              <p>按需加载的全文分卷，与权威存储逐条比对</p>
+            </div>
+            <div class="arch-box">
+              <h3>译文层</h3>
+              <p>21 个分卷，与原文物理分离，运行时合并</p>
+            </div>
+            <div class="arch-box">
+              <h3>派生视图</h3>
+              <p>SQLite 与向量索引均可随时重建</p>
+            </div>
+          </div>
+        </div>
+        <div class="arch-connector" aria-hidden="true"><span></span></div>
+        <div class="arch-layer">
+          <div class="arch-label">
+            <span class="arch-kicker">第二层 · 检索引擎</span>
+            <span class="arch-meta">BM25 + 向量 + RRF</span>
+          </div>
+          <div class="arch-boxes">
+            <div class="arch-box">
+              <h3>BM25 字面精确</h3>
+              <p>法规全称、文号、条号等精确匹配的第一命中来源</p>
+            </div>
+            <div class="arch-box">
+              <h3>bge-m3 向量语义</h3>
+              <p>同义改写与跨语言召回，条文级索引</p>
+            </div>
+            <div class="arch-box">
+              <h3>RRF 融合</h3>
+              <p>只看排名，无需归一化，也无需为每个查询调参</p>
+            </div>
+            <div class="arch-box">
+              <h3>国别约束</h3>
+              <p>把法域识别为检索条件，避免跨国条文混召回</p>
+            </div>
+          </div>
+        </div>
+        <div class="arch-connector" aria-hidden="true"><span></span></div>
+        <div class="arch-layer">
+          <div class="arch-label">
+            <span class="arch-kicker">第三层 · 应用与问答</span>
+            <span class="arch-meta">六个界面 · 同一份数据</span>
+          </div>
+          <div class="arch-boxes">
+            <div class="arch-box">
+              <h3>法规检索与详情</h3>
+              <p>多维筛选、原文与译文逐条对照、条文目录</p>
+            </div>
+            <div class="arch-box">
+              <h3>跨语言条款比对</h3>
+              <p>两国原文并排，五个维度提供对照框架</p>
+            </div>
+            <div class="arch-box">
+              <h3>术语与引注</h3>
+              <p>中英术语对照；四种规范引注格式导出</p>
+            </div>
+            <div class="arch-box">
+              <h3>AI 问答（带引用）</h3>
+              <p>只答库内条文，每条结论附法规名与条号</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <ul class="principles">
+        <li class="reveal">
+          <h3>可溯源</h3>
+          <p>每部法规都能回答「从哪来、何时抓取、是否完整」，可点回官方页面核验。</p>
+        </li>
+        <li class="reveal">
+          <h3>跨语言</h3>
+          <p>原文与 AI 译文分层呈现、逐条对照；译文标注引擎，永不写回原文正文。</p>
+        </li>
+        <li class="reveal">
+          <h3>AI 可解释</h3>
+          <p>问答只返回库内条文依据，每条结论附出处；没有出处就不作答。</p>
+        </li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- ============ 04 产品演示 ============ -->
+  <section class="section product" id="product" aria-labelledby="productTitle">
+    <div class="container">
+      <header class="section-head">
+        <p class="eyebrow"><span class="eyebrow-num">03</span>产品演示</p>
+        <h2 id="productTitle">六个界面，走完「查—读—比—问—引」</h2>
+        <p class="section-lede">以下均来自真实产品：两张界面截图摄于 2026-10-24；比对、问答与术语中的法条文字，逐字取自权威存储的 <span data-meta="sampleCount">25</span> 部真实样本。</p>
+      </header>
+
+      <div class="tour">
+        <div class="tour-rail-col">
+          <div class="tour-rail" role="tablist" aria-label="六项核心功能演示" aria-orientation="vertical">
+            <button type="button" role="tab" id="tab-search" class="tour-tab" aria-controls="panel-search" aria-selected="true">
+              <span class="tab-num" aria-hidden="true">01</span>
+              <span class="tab-body"><span class="tab-title">法规检索</span><span class="tab-hint">名称 / 文号 / 关键词 / 条号</span></span>
+              <span class="tab-arrow" aria-hidden="true">→</span>
+            </button>
+            <button type="button" role="tab" id="tab-detail" class="tour-tab" aria-controls="panel-detail" aria-selected="false" tabindex="-1">
+              <span class="tab-num" aria-hidden="true">02</span>
+              <span class="tab-body"><span class="tab-title">法规详情</span><span class="tab-hint">原文与 AI 译文逐条对照</span></span>
+              <span class="tab-arrow" aria-hidden="true">→</span>
+            </button>
+            <button type="button" role="tab" id="tab-compare" class="tour-tab" aria-controls="panel-compare" aria-selected="false" tabindex="-1">
+              <span class="tab-num" aria-hidden="true">03</span>
+              <span class="tab-body"><span class="tab-title">跨语言比对</span><span class="tab-hint">中越两国原文并排</span></span>
+              <span class="tab-arrow" aria-hidden="true">→</span>
+            </button>
+            <button type="button" role="tab" id="tab-qa" class="tour-tab" aria-controls="panel-qa" aria-selected="false" tabindex="-1">
+              <span class="tab-num" aria-hidden="true">04</span>
+              <span class="tab-body"><span class="tab-title">AI 智能问答</span><span class="tab-hint">每条结论附条文出处</span></span>
+              <span class="tab-arrow" aria-hidden="true">→</span>
+            </button>
+            <button type="button" role="tab" id="tab-terms" class="tour-tab" aria-controls="panel-terms" aria-selected="false" tabindex="-1">
+              <span class="tab-num" aria-hidden="true">05</span>
+              <span class="tab-body"><span class="tab-title">术语对照</span><span class="tab-hint">中英法律术语 5 组真实词条</span></span>
+              <span class="tab-arrow" aria-hidden="true">→</span>
+            </button>
+            <button type="button" role="tab" id="tab-cite" class="tour-tab" aria-controls="panel-cite" aria-selected="false" tabindex="-1">
+              <span class="tab-num" aria-hidden="true">06</span>
+              <span class="tab-body"><span class="tab-title">规范引注</span><span class="tab-hint">四种格式，要素全部来自库内</span></span>
+              <span class="tab-arrow" aria-hidden="true">→</span>
+            </button>
+          </div>
+          <p class="rail-hint"><span class="hint-keys">用 <kbd>←</kbd><kbd>→</kbd> 键切换 · 当前 </span><span id="tourCount">01 / 06</span><span class="hint-swipe"> · 左右滑动切换</span></p>
+        </div>
+
+        <div class="tour-panels">
+          <!-- 01 检索 -->
+          <div class="tour-panel" id="panel-search" role="tabpanel" aria-labelledby="tab-search" tabindex="0">
+            <div class="panel-head">
+              <h3>法规检索：把「哪一部、哪一条」一次找出来</h3>
+              <p>支持关键词、自然语言与条号三种入口；结果卡片直接给出国别、公布日期与命中条文，避免逐部点开。</p>
+            </div>
+            <div class="panel-split">
+              <div class="panel-col">
+                <ul class="points">
+                  <li><strong>三种检索方式</strong>关键词、自然语言、条号（如「第 12 条」直接命中条文）</li>
+                  <li><strong>四类筛选</strong>12 法域、主题、法律层级、时效性，可叠加使用</li>
+                  <li><strong>结果卡片</strong>中文名 + 英文名、国别、公布/施行日期、收录条数、命中条文摘要</li>
+                  <li><strong>命中词高亮</strong>，结果支持相关度与公布日期排序</li>
+                </ul>
+                <div class="panel-stat">
+                  <div>
+                    <span class="ps-num" data-meta="p3">16.7%</span>
+                    <span class="ps-label">检索 P@3（纯 BM25 为 5.7%）</span>
+                  </div>
+                  <div>
+                    <span class="ps-num" data-meta="countryAccuracy">99.1%</span>
+                    <span class="ps-label">国别准确率（纯 BM25 为 26.4%）</span>
+                  </div>
+                </div>
+                <p class="ps-note">110 题弱标注评测集，绝对值偏低估，看相对提升。</p>
+              </div>
+              <figure class="shot-frame shot-frame--portrait">
+                <div class="window-bar" aria-hidden="true">
+                  <span class="window-dots"><i></i><i></i><i></i></span>
+                  <span class="window-url">prototype/#/search?q=民法典</span>
+                </div>
+                <div class="shot-media">
+                  <img src="assets/shots/search-results.png" width="897" height="880" alt="法规检索真实截图：结果卡片列，显示中国民法典、东帝汶民法典、越南民法典等条目与命中条文">
+                </div>
+                <figcaption>检索「民法典」的真实结果（共 1,087 条）</figcaption>
+              </figure>
+            </div>
+            <a class="panel-link" href="../prototype/index.html#/search">在真实产品中检索<span aria-hidden="true">→</span></a>
+          </div>
+
+          <!-- 02 详情 -->
+          <div class="tour-panel" id="panel-detail" role="tabpanel" aria-labelledby="tab-detail" tabindex="0" hidden>
+            <div class="panel-head">
+              <h3>法规详情：原文在上，AI 译文在下，逐条对齐</h3>
+              <p>译文单独分区、标注引擎，绝不写回原文正文；右侧条文目录按章组织，长法规也能快速定位。</p>
+            </div>
+            <figure class="shot-frame">
+              <div class="window-bar" aria-hidden="true">
+                <span class="window-dots"><i></i><i></i><i></i></span>
+                <span class="window-url">prototype/#/law/CN-CIVILCODE-2020</span>
+              </div>
+              <div class="shot-media">
+                <img src="assets/shots/law-detail.png" width="1440" height="940" alt="法规详情真实截图：中华人民共和国民法典，第一条原文与英文 AI 译文对照，右侧为条文目录">
+              </div>
+              <figcaption>《中华人民共和国民法典》详情页（1260 条 · 109 章）</figcaption>
+            </figure>
+            <ul class="points points--cols">
+              <li><strong>逐条对照</strong>原文与 AI 译文分块显示，条号一一对应</li>
+              <li><strong>元数据表</strong>制定机关、文号、公布/施行日期、时效性、来源平台</li>
+              <li><strong>条文目录</strong>按章折叠，点击跳到指定条；支持文内查找与字号调节</li>
+              <li><strong>导出</strong>正文 PDF 与四种格式的规范引注</li>
+            </ul>
+            <a class="panel-link" href="../prototype/index.html#/law/CN-CIVILCODE-2020">在真实产品中打开民法典<span aria-hidden="true">→</span></a>
+          </div>
+
+          <!-- 03 比对 -->
+          <div class="tour-panel" id="panel-compare" role="tabpanel" aria-labelledby="tab-compare" tabindex="0" hidden>
+            <div class="panel-head">
+              <h3>跨语言条款比对：两国原文并排，不做结论替代</h3>
+              <p>选 2–3 个法域的条文，按五个维度并提供排对照框架。下面这段中越条文，逐字取自库内真实数据。</p>
+            </div>
+            <div class="compare-grid" id="compareGrid"></div>
+            <div class="dims">
+              <p class="dims-label">比对维度 · 按需选择，从上到下逐维对照</p>
+              <ul class="dim-list" id="dimList"></ul>
+            </div>
+            <p class="note note-warn">已知限制：单条条文常只涉及其中 1 个维度，比对报告因此偏薄（详见路线图）。此处只并列原文与维度框架，不生成结论性判断。</p>
+            <a class="panel-link" href="../prototype/index.html#/compare">在真实产品中做比对<span aria-hidden="true">→</span></a>
+          </div>
+
+          <!-- 04 问答 -->
+          <div class="tour-panel" id="panel-qa" role="tabpanel" aria-labelledby="tab-qa" tabindex="0" hidden>
+            <div class="panel-head">
+              <h3>AI 智能问答：先给条文，再给答案</h3>
+              <p>问题 → 命中条文原文 → 法规名与条号 → 可点开的出处。回答可以短，但出处必须完整。</p>
+            </div>
+            <div id="qaCard"></div>
+            <div id="qaMore"></div>
+            <a class="panel-link" href="../prototype/index.html#/assistant">在真实产品中提问<span aria-hidden="true">→</span></a>
+          </div>
+
+          <!-- 05 术语 -->
+          <div class="tour-panel" id="panel-terms" role="tabpanel" aria-labelledby="tab-terms" tabindex="0" hidden>
+            <div class="panel-head">
+              <h3>法律术语对照：先统一说法，再谈条款</h3>
+              <p>术语只给译法、不替代定义；具体含义以各法域原文中的定义条款为准。</p>
+            </div>
+            <div class="terms-wrap">
+              <table class="terms-table">
+                <caption class="sr-only">中英法律术语对照表</caption>
+                <thead>
+                  <tr><th scope="col">中文</th><th scope="col">English</th><th scope="col">常见使用场景</th></tr>
+                </thead>
+                <tbody id="termsBody"></tbody>
+              </table>
+            </div>
+            <a class="panel-link" href="../prototype/index.html#/terms">在真实产品中查术语<span aria-hidden="true">→</span></a>
+          </div>
+
+          <!-- 06 引注 -->
+          <div class="tour-panel" id="panel-cite" role="tabpanel" aria-labelledby="tab-cite" tabindex="0" hidden>
+            <div class="panel-head">
+              <h3>规范引注：把「出处」做成可导出的字段</h3>
+              <p>引注要素全部取自库内元数据（法规名、条号、公布日期、来源平台），不做拼装式猜测。详情页「下载与引用」可导出四种格式。</p>
+            </div>
+            <div class="cite-grid">
+              <article class="cite-card">
+                <h4>GB/T 7714-2015</h4>
+                <p>国内学术写作的通用参考文献格式。按「责任者 · 题名 · 文献类型 · 出处」组织要素。</p>
+                <ul>
+                  <li>法规名称（含公布机关）</li>
+                  <li>公布日期与施行日期</li>
+                  <li>来源平台与访问路径</li>
+                </ul>
+                <span class="tag">学术论文 / 报告</span>
+              </article>
+              <article class="cite-card">
+                <h4>Bluebook</h4>
+                <p>英美法写作常用的引注体例。按「法域缩写 + 法规名 + 条号 + 年份」组织要素。</p>
+                <ul>
+                  <li>法域与国家标识</li>
+                  <li>法规英文名或官方译名</li>
+                  <li>条号与版本年份</li>
+                </ul>
+                <span class="tag">涉外文书 / 英文写作</span>
+              </article>
+              <article class="cite-card">
+                <h4>简化式</h4>
+                <p>正文夹注用的短格式，只保留定位所需的最小要素。</p>
+                <ul>
+                  <li>法规名（可简写）</li>
+                  <li>条号</li>
+                </ul>
+                <span class="tag">正文夹注</span>
+              </article>
+              <article class="cite-card">
+                <h4>完整式</h4>
+                <p>首次引用或正式报告的完整格式，要素最全。</p>
+                <ul>
+                  <li>法规全称 + 文号</li>
+                  <li>公布机关 + 公布日期 + 条号</li>
+                  <li>来源平台与核验链接</li>
+                </ul>
+                <span class="tag">正式报告 / 法律意见</span>
+              </article>
+            </div>
+            <p class="note note-strong">这里只说明格式要素，不给出示例引注字符串：完整引注由详情页按库内真实元数据生成，避免出现不存在的文号或日期。</p>
+            <a class="panel-link" href="../prototype/index.html#/law/CN-CIVILCODE-2020">到详情页看「下载与引用」<span aria-hidden="true">→</span></a>
+          </div>
+        </div>
+      </div>
+
+      <!-- 现场试搜 -->
+      <div class="livedemo" id="livedemo">
+        <div class="livedemo-head">
+          <h3>现场试搜 · <span data-meta="sampleCount">25</span> 部真实样本法规</h3>
+          <p>与产品同一套数据结构。这里只内置 <span data-meta="sampleCount">25</span> 部样本，完整库为 <span data-meta="laws">18,785</span> 部；点开任一结果可查看元数据并跳转到真实产品。</p>
+        </div>
+        <div class="search-ui">
+          <div class="search-bar">
+            <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="6.5"/><path d="M16 16l4.5 4.5"/></svg>
+            <label class="sr-only" for="demoSearch">在样本法规中检索</label>
+            <input id="demoSearch" type="search" placeholder="名称 / 英文名 / 国别，如「民法典」" autocomplete="off" spellcheck="false">
+            <button class="search-clear" id="demoClear" type="button" aria-label="清空检索" hidden>清空</button>
+          </div>
+          <div class="quick-row">
+            <span class="quick-label">快捷词</span>
+            <div class="quick-chips" id="quickChips"></div>
+          </div>
+          <p class="search-status" id="searchStatus" role="status" aria-live="polite"></p>
+          <ul class="result-list" id="resultList"></ul>
+          <p class="search-foot">样本取自 <code>prototype/data/laws/</code> 的 12 个法域；条号、日期、层级与原文一致，未做改写。</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ 05 数据底座与治理 ============ -->
+  <section class="section data" id="data" aria-labelledby="dataTitle">
+    <div class="container">
+      <header class="section-head">
+        <p class="eyebrow"><span class="eyebrow-num">04</span>数据底座与治理</p>
+        <h2 id="dataTitle">12 法域的真实规模，和一条可核验的存储链</h2>
+        <p class="section-lede">按法域统计的法规数取自权威存储 <code>laws/index.json</code>，合计与总数严格一致；数据库与向量都只是派生视图，随时可以从权威存储重建。</p>
+      </header>
+
+      <div class="data-grid">
+        <div class="chart-card reveal">
+          <div class="chart-head">
+            <h3>法规数 · 按法域</h3>
+            <span class="chart-total">合计 <strong id="chartTotal">18,785</strong> 部</span>
+          </div>
+          <ul class="bar-chart" id="barChart" aria-label="按法域的法规数量条形图"></ul>
+          <p class="chart-foot">条形长度按法规数等比缩放，极小值保留最小可见宽度。覆盖不均衡（菲律宾、新加坡占比较高）是已知问题，已列入路线图的「覆盖率提升」。</p>
+        </div>
+
+        <div class="data-side reveal">
+          <h3>权威存储与派生视图</h3>
+          <ol class="chain">
+            <li>
+              <span class="chain-tag chain-tag--auth">唯一权威</span>
+              <strong><code>laws/&lt;法规ID&gt;.json</code></strong>
+              <p><span data-meta="laws">18,785</span> 个文件，一法一文件；便于人工审查、diff 与逐部替换。</p>
+            </li>
+            <li>
+              <span class="chain-tag">派生</span>
+              <strong>条文分卷</strong>
+              <p>按需加载的全文分卷，与权威存储逐条比对（<code>verify-fulltext.js</code>）。</p>
+            </li>
+            <li>
+              <span class="chain-tag">派生</span>
+              <strong>SQLite <span data-meta="dbSize">1.22 GB</span></strong>
+              <p>由 <code>backend/build_db.py</code> 生成，首次约 7 分钟；单文件可整库备份。</p>
+            </li>
+            <li>
+              <span class="chain-tag">派生</span>
+              <strong>向量索引 <span data-meta="vectors">18,861 / 334,779</span></strong>
+              <p>约 310 MB；滞后于当前库，已列入短期路线。</p>
+            </li>
+          </ol>
+        </div>
+      </div>
+
+      <div class="redlines reveal">
+        <div class="redlines-head">
+          <h3>六条数据红线</h3>
+          <p>不是口号，而是校验器会检查的工程约束。</p>
+        </div>
+        <ol class="redline-list">
+          <li><span class="rl-num">1</span><strong>逐字照录</strong>不节选、不改写、不摘要原文</li>
+          <li><span class="rl-num">2</span><strong>不编造</strong>不生成原文中不存在的内容；机器翻译必须标注引擎</li>
+          <li><span class="rl-num">3</span><strong>来源可追溯</strong>每部法规必须有官方来源链接</li>
+          <li><span class="rl-num">4</span><strong>译文与原文物理分离</strong>译文绝不写回原文正文</li>
+          <li><span class="rl-num">5</span><strong>AI 辅助生成标注</strong>AI 生成内容必须标注「AI 辅助生成，仅供参考」</li>
+          <li><span class="rl-num">6</span><strong>数据自足</strong><code>prototype/</code> 单独拷走即可运行</li>
+        </ol>
+      </div>
+
+      <div class="checks reveal">
+        <div class="checks-head">
+          <h3>校验体系 · CI 全绿</h3>
+          <p>7 个数据校验器 + 全量 JS 语法检查已接入 CI；另有 13 项后端自测。</p>
+        </div>
+        <ul class="check-list">
+          <li><code>verify.js</code><span>数据与引用完整性</span></li>
+          <li><code>verify-data.js</code><span>逐文件统计一致性、条号唯一</span></li>
+          <li><code>verify-data-home.js</code><span>11 项数据自足性检查（A1–A11）</span></li>
+          <li><code>verify-fulltext.js</code><span>分卷与权威存储逐条比对</span></li>
+          <li><code>test-trans-layer.js</code><span>译文层结构与懒加载</span></li>
+          <li><code>check-i18n.js</code><span>界面文案键值完整（<span data-meta="i18nKeys">870</span> 键）</span></li>
+          <li><code>scan-forbidden2.js</code><span>项目红线禁用表述</span></li>
+          <li><code>node --check</code><span>全量 JS 语法检查</span></li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ 06 技术架构 ============ -->
+  <section class="section tech is-dark" id="tech" aria-labelledby="techTitle">
+    <div class="container">
+      <header class="section-head">
+        <p class="eyebrow"><span class="eyebrow-num">05</span>技术架构</p>
+        <h2 id="techTitle">能离线跑、能实测、能重建</h2>
+        <p class="section-lede">同一套前端兼容纯静态与后端两种形态；检索质量与响应时间都是实测数字，不是估计值。</p>
+      </header>
+
+      <div class="stack-grid">
+        <article class="stack-card reveal">
+          <p class="stack-label">前端</p>
+          <h3>零构建 SPA</h3>
+          <ul>
+            <li>全部 classic <code>&lt;script&gt;</code>，无打包器、无框架运行时</li>
+            <li><code>file://</code> 与 <code>http(s)://</code> 自动切换数据源</li>
+            <li>6 语种界面（<span data-meta="i18nKeys">870</span> 键）</li>
+          </ul>
+        </article>
+        <article class="stack-card reveal">
+          <p class="stack-label">检索</p>
+          <h3>混合召回</h3>
+          <ul>
+            <li>BM25 字面精确 + bge-m3 向量语义，RRF 融合</li>
+            <li>国别约束把法域作为检索条件</li>
+            <li>条文级向量 <span data-meta="vectors">18,861 / 334,779</span></li>
+          </ul>
+        </article>
+        <article class="stack-card reveal">
+          <p class="stack-label">后端</p>
+          <h3>FastAPI + SQLite</h3>
+          <ul>
+            <li>只读单文件库，<span data-meta="dbSize">1.22 GB</span>，可整库备份</li>
+            <li>同一服务托管静态站与 <code>/api/*</code></li>
+            <li>检索 P50 <span data-meta="latency">0.3–0.6 s</span></li>
+          </ul>
+        </article>
+        <article class="stack-card reveal">
+          <p class="stack-label">推理</p>
+          <h3>ONNX 而非 PyTorch</h3>
+          <ul>
+            <li>省掉约 2.5 GB 依赖，CPU 上比 PyTorch 快 3–5 倍</li>
+            <li>配 DirectML 可直接用任意 DX12 显卡，无需 CUDA</li>
+            <li>无向量索引时自动降级为纯 BM25</li>
+          </ul>
+        </article>
+      </div>
+
+      <div class="metrics-grid">
+        <div class="metric-card">
+          <p class="metric-label">检索 P@3</p>
+          <p class="metric-value"><span data-meta="p3">16.7%</span></p>
+          <p class="metric-note">纯 BM25 为 5.7% · 相对 +11.0pt</p>
+        </div>
+        <div class="metric-card">
+          <p class="metric-label">国别准确率</p>
+          <p class="metric-value"><span data-meta="countryAccuracy">99.1%</span></p>
+          <p class="metric-note">纯 BM25 为 26.4% · 相对 +72.7pt</p>
+        </div>
+        <div class="metric-card">
+          <p class="metric-label">检索 P50</p>
+          <p class="metric-value"><span data-meta="latency">0.3–0.6 s</span></p>
+          <p class="metric-note">后端形态，单机实测</p>
+        </div>
+        <div class="metric-card">
+          <p class="metric-label">首屏时间</p>
+          <p class="metric-value"><span data-meta="firstScreen">0.68 s</span></p>
+          <p class="metric-note">纯静态形态为 4.2–4.45 s</p>
+        </div>
+        <div class="metric-card">
+          <p class="metric-label">SQLite 库</p>
+          <p class="metric-value"><span data-meta="dbSize">1.22 GB</span></p>
+          <p class="metric-note">建库约 7 分钟 · 可整库重建</p>
+        </div>
+        <div class="metric-card">
+          <p class="metric-label">校验状态</p>
+          <p class="metric-value">全绿</p>
+          <p class="metric-note">7 校验器 + 全量语法 + 13 项后端自测</p>
+        </div>
+      </div>
+      <p class="eval-note">评测口径：110 题弱标注评测集（含 4 道负例），金标为按关键词 IDF 机械挑出的候选，绝对值偏低估真实效果，应看相对提升而非绝对分数。</p>
+    </div>
+  </section>
+
+  <!-- ============ 07 差异化 ============ -->
+  <section class="section diff" id="diff" aria-labelledby="diffTitle">
+    <div class="container">
+      <header class="section-head">
+        <p class="eyebrow"><span class="eyebrow-num">06</span>差异化</p>
+        <h2 id="diffTitle">三类替代方案，差在四个地方</h2>
+        <p class="section-lede">通用大模型答得顺，商业数据库收得全，官方门户最权威——但它们都不是为「跨 12 法域、可引用、能离线」准备的。</p>
+      </header>
+      <div class="table-wrap">
+        <table class="diff-table">
+          <caption class="sr-only">本方案与通用大模型、商业法律数据库、官方门户的定性对比</caption>
+          <thead>
+            <tr>
+              <th scope="col">维度</th>
+              <th scope="col" class="is-us">本方案 · CALR</th>
+              <th scope="col">通用大模型</th>
+              <th scope="col">商业法律数据库</th>
+              <th scope="col">官方门户</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">法条出处</th>
+              <td class="is-us" data-label="本方案 · CALR">逐条附官方来源，可点回核验</td>
+              <td data-label="通用大模型">常无出处，或出处不可核验</td>
+              <td data-label="商业法律数据库">有出处，多为内部加工版本</td>
+              <td data-label="官方门户">原文权威，但单一法域</td>
+            </tr>
+            <tr>
+              <th scope="row">编造风险</th>
+              <td class="is-us" data-label="本方案 · CALR">只返回库内条文；没有出处就不作答</td>
+              <td data-label="通用大模型">存在幻觉，条款可能并不存在</td>
+              <td data-label="商业法律数据库">以收录库为准，但需订阅才能核验</td>
+              <td data-label="官方门户">不涉及生成</td>
+            </tr>
+            <tr>
+              <th scope="row">跨语言</th>
+              <td class="is-us" data-label="本方案 · CALR">原文 + AI 译文分层对照，标注 AI 生成</td>
+              <td data-label="通用大模型">能翻译，但不可回溯原文</td>
+              <td data-label="商业法律数据库">视产品而定，常需另行采购语种</td>
+              <td data-label="官方门户">多为本国语言</td>
+            </tr>
+            <tr>
+              <th scope="row">离线可用</th>
+              <td class="is-us" data-label="本方案 · CALR"><code>file://</code> 纯静态即可运行</td>
+              <td data-label="通用大模型">需联网与账号</td>
+              <td data-label="商业法律数据库">需订阅、需联网</td>
+              <td data-label="官方门户">需联网</td>
+            </tr>
+            <tr>
+              <th scope="row">覆盖法域</th>
+              <td class="is-us" data-label="本方案 · CALR">12 法域：中国 + 东盟十国 + 东帝汶</td>
+              <td data-label="通用大模型">无边界，但没有权威数据源</td>
+              <td data-label="商业法律数据库">取决于商业采购范围</td>
+              <td data-label="官方门户">仅本国</td>
+            </tr>
+            <tr>
+              <th scope="row">成本</th>
+              <td class="is-us" data-label="本方案 · CALR">零授权成本；2 核 8G CPU 可跑</td>
+              <td data-label="通用大模型">按 token 计费</td>
+              <td data-label="商业法律数据库">订阅费用较高</td>
+              <td data-label="官方门户">免费，但需逐个法域查找</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <ul class="diff-points">
+        <li class="reveal"><strong>可溯源</strong><span>结论 → 条文 → 官方来源，三步可回退</span></li>
+        <li class="reveal"><strong>离线可跑</strong><span>答辩现场不依赖网络与环境</span></li>
+        <li class="reveal"><strong>数据自足</strong><span>拷走 <code>prototype/</code> 即可完整运行</span></li>
+        <li class="reveal"><strong>成本低</strong><span>2 核 8G CPU 可跑，无授权费</span></li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- ============ 08 应用场景 ============ -->
+  <section class="section scenarios" id="scenarios" aria-labelledby="scenariosTitle">
+    <div class="container">
+      <header class="section-head">
+        <p class="eyebrow"><span class="eyebrow-num">07</span>应用场景</p>
+        <h2 id="scenariosTitle">谁在用，用来做什么</h2>
+        <p class="section-lede">四类用户，共同点是：都需要一条能写进文书、经得起追问的法条依据。</p>
+      </header>
+      <ul class="scenario-grid">
+        <li class="scenario-card reveal">
+          <span class="scenario-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"><path d="M12 4v16M5 8h14M8 8l-3 6h6zM16 8l-3 6h6z"/><path d="M8 20h8"/></svg></span>
+          <h3>法官 / 仲裁员</h3>
+          <p class="scenario-task">审理涉东盟商事案件，需要确认外国法条文的准确表述与效力状态。</p>
+          <ul class="scenario-tags"><li>跨语言比对</li><li>法规详情</li><li>来源核验</li></ul>
+          <p class="scenario-value">价值：引用的每一条都能追到官方来源，减少查明环节的反复确认。</p>
+        </li>
+        <li class="scenario-card reveal">
+          <span class="scenario-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"><rect x="3.5" y="7.5" width="17" height="11" rx="1.6"/><path d="M9 7.5V6a1.5 1.5 0 0 1 1.5-1.5h3A1.5 1.5 0 0 1 15 6v1.5M3.5 12.5h17"/></svg></span>
+          <h3>律师 / 企业法务</h3>
+          <p class="scenario-task">做跨境投资、数据合规的尽调与合同条款设计，需要多国同题条文的对照。</p>
+          <ul class="scenario-tags"><li>法规检索</li><li>术语对照</li><li>规范引注</li></ul>
+          <p class="scenario-value">价值：一次调研覆盖 12 法域，引注直接可导出，省掉手工拼装出处。</p>
+        </li>
+        <li class="scenario-card reveal">
+          <span class="scenario-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"><path d="M4 5.5A1.5 1.5 0 0 1 5.5 4H11v16H5.5A1.5 1.5 0 0 1 4 18.5zM20 5.5A1.5 1.5 0 0 0 18.5 4H13v16h5.5a1.5 1.5 0 0 0 1.5-1.5z"/></svg></span>
+          <h3>高校教研</h3>
+          <p class="scenario-task">讲授东盟法、比较法课程，需要可复现的原文与译文对照材料。</p>
+          <ul class="scenario-tags"><li>原文 + 译文</li><li>跨语言比对</li><li>离线演示</li></ul>
+          <p class="scenario-value">价值：课件里引的法条能一键回到原文，学生在浏览器里就能复现。</p>
+        </li>
+        <li class="scenario-card reveal">
+          <span class="scenario-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"><path d="M4 20V9l8-4.5L20 9v11"/><path d="M9 20v-6h6v6M4 20h16"/></svg></span>
+          <h3>涉外政务服务</h3>
+          <p class="scenario-task">为企业提供东盟投资政策指引，需要快速定位准入、注册、争议解决相关条文。</p>
+          <ul class="scenario-tags"><li>多维筛选</li><li>AI 问答</li><li>数据来源核验</li></ul>
+          <p class="scenario-value">价值：答复口径统一到条文原文，避免「凭印象解释政策」。</p>
+        </li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- ============ 09 落地与路线 ============ -->
+  <section class="section roadmap" id="roadmap" aria-labelledby="roadmapTitle">
+    <div class="container">
+      <header class="section-head">
+        <p class="eyebrow"><span class="eyebrow-num">08</span>落地与路线</p>
+        <h2 id="roadmapTitle">三种交付形态，和一份说实话的路线图</h2>
+        <p class="section-lede">同一套前端，按现场条件选择形态；路线图只写已经评估过成本的事，不新增未实现能力的承诺。</p>
+      </header>
+
+      <ul class="deploy-grid">
+        <li class="deploy-card reveal">
+          <span class="deploy-num">形态一</span>
+          <h3>纯静态离线</h3>
+          <p>双击 <code>prototype/index.html</code> 即可运行，不装 Node、不联网。</p>
+          <p class="deploy-use">适用：答辩现场兜底、断网环境、数据拷走即用。</p>
+        </li>
+        <li class="deploy-card reveal">
+          <span class="deploy-num">形态二</span>
+          <h3>容器化</h3>
+          <p>Dockerfile 与 compose 一键起服务，前后端与数据库一起打包。</p>
+          <p class="deploy-use">适用：服务器部署、团队共享、环境一致。</p>
+        </li>
+        <li class="deploy-card reveal">
+          <span class="deploy-num">形态三</span>
+          <h3>服务器托管</h3>
+          <p>systemd 托管 uvicorn，Nginx 反代；另有 Windows 服务器部署路径。</p>
+          <p class="deploy-use">适用：长期运行、对外提供访问。</p>
+        </li>
+      </ul>
+
+      <div class="roadmap-grid">
+        <article class="roadmap-col reveal">
+          <h3><span>短期</span>1–2 周</h3>
+          <ol>
+            <li><span class="pri pri-p0">P0</span><div><strong>重跑条文级向量</strong><p>4 小时 GPU，消除 51 部法规的召回偏差</p></div></li>
+            <li><span class="pri pri-p0">P0</span><div><strong>接入 GitHub Actions</strong><p>8 个校验器自动跑，防回归</p></div></li>
+            <li><span class="pri pri-p1">P1</span><div><strong>把条文也走 API</strong><p>首屏进一步降到 1 s 内，前端资源降到 1 MB 级</p></div></li>
+            <li><span class="pri pri-p1">P1</span><div><strong>补齐 README 与部署文档</strong><p>他人可独立跑起来</p></div></li>
+          </ol>
+        </article>
+        <article class="roadmap-col reveal">
+          <h3><span>中期</span>1–2 月</h3>
+          <ol>
+            <li><span class="pri pri-p1">P1</span><div><strong>补 39 部缺失标题</strong><p>需缅甸文 / 马来文 / 老挝文翻译能力</p></div></li>
+            <li><span class="pri pri-p1">P1</span><div><strong>判例数据模型与入库</strong><p>先做 2 份英文判例，验证模型</p></div></li>
+            <li><span class="pri pri-p2">P2</span><div><strong>条文变迁追踪</strong><p>数据已有 <code>revisions</code> 字段，尚未使用</p></div></li>
+            <li><span class="pri pri-p2">P2</span><div><strong>移动端 / PWA</strong><p>现场演示更灵活</p></div></li>
+            <li><span class="pri pri-p2">P2</span><div><strong>引注批量导出</strong><p>一次导出多条条文引注</p></div></li>
+          </ol>
+        </article>
+        <article class="roadmap-col reveal">
+          <h3><span>长期</span>持续</h3>
+          <ol>
+            <li><span class="pri">L</span><div><strong>修订与失效自动追踪</strong><p>定时抓取官方公报，比对版本变化</p></div></li>
+            <li><span class="pri">L</span><div><strong>条文级跨语言对齐</strong><p>中英泰越同一条文的平行对照</p></div></li>
+            <li><span class="pri">L</span><div><strong>用户体系</strong><p>收藏、批注、共享（需鉴权与持久化）</p></div></li>
+            <li><span class="pri">L</span><div><strong>覆盖率提升</strong><p>菲律宾 / 新加坡占比过高，需平衡其他法域</p></div></li>
+          </ol>
+        </article>
+      </div>
+
+      <div class="limits reveal">
+        <h3>已知边界（如实列出）</h3>
+        <ul>
+          <li><strong>条文级向量滞后</strong>向量基于清理前的存量构建，被切分的 51 部法规召回精度略降。</li>
+          <li><strong>AI 问答只召回、不生成</strong>后端返回条文依据，生成依赖用户自带 Key（BYOK）。</li>
+          <li><strong>比对报告维度覆盖低</strong>单条条文常只涉及 1 个维度，报告偏薄。</li>
+          <li><strong>判例未入库</strong>已收集判例 PDF，但暂无判例检索能力。</li>
+          <li><strong>无用户系统</strong>对话不落盘、无收藏批注，是隐私取舍。</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ 10 团队与交付 ============ -->
+  <section class="section team" id="team" aria-labelledby="teamTitle">
+    <div class="container">
+      <header class="section-head">
+        <p class="eyebrow"><span class="eyebrow-num">09</span>团队与交付</p>
+        <h2 id="teamTitle">可复现，才敢叫交付</h2>
+        <p class="section-lede">下面每个链接、每条命令都可以当场打开或执行；数据快照与校验结果与代码库同步。</p>
+      </header>
+
+      <div class="team-grid">
+        <div class="team-card reveal">
+          <p class="team-kicker">参赛队伍</p>
+          <h3>上海对外经贸大学 · 一粒橡子队</h3>
+          <p class="team-event">2026 中国（广西）—东盟「AI+法律」应用创新大赛 · 高校学生赛道 · 面向东盟法律服务方向</p>
+          <dl class="team-meta">
+            <div><dt>作品</dt><dd>中国—东盟法律法规数据库（CALR）</dd></div>
+            <div><dt>形态</dt><dd>纯静态 SPA + FastAPI / SQLite 后端，同一套前端</dd></div>
+            <div><dt>数据快照</dt><dd><span data-meta="generatedAt">2026-10-24</span></dd></div>
+            <div><dt>许可</dt><dd>仅用于学术研究与比赛演示</dd></div>
+          </dl>
+        </div>
+        <div class="links-card reveal">
+          <p class="team-kicker">文档与入口</p>
+          <ul class="link-list">
+            <li><a href="../prototype/index.html"><span class="link-name">打开真实产品</span><span class="link-desc">零依赖，双击即可运行<span aria-hidden="true">→</span></span></a></li>
+            <li><a href="../docs/README.md"><span class="link-name">文档索引</span><span class="link-desc">项目总览、数据治理、技术架构、交付验收<span aria-hidden="true">→</span></span></a></li>
+            <li><a href="../README.md"><span class="link-name">项目 README</span><span class="link-desc">定位、规模、功能、校验命令<span aria-hidden="true">→</span></span></a></li>
+            <li><a href="../CHANGELOG.md"><span class="link-name">变更记录</span><span class="link-desc">版本与数据批次变更<span aria-hidden="true">→</span></span></a></li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="repro reveal">
+        <div class="repro-head">
+          <h3>5 分钟复现</h3>
+          <p>三条路径：纯静态直接看、后端形态跑起来、校验命令全量跑一遍。</p>
+        </div>
+        <pre class="code-block"><code><span class="cm"># ① 纯静态形态：双击打开，无需安装任何东西</span>
+prototype/index.html
+
+<span class="cm"># ② 后端形态：建库 → 装依赖 → 起服务</span>
+python backend/build_db.py                    <span class="cm"># 首次约 7 分钟，产出约 1.2 GB 的 calr.db</span>
+pip install -r backend/requirements.txt
+uvicorn backend.app.main:app --port 8000      <span class="cm"># 打开 http://127.0.0.1:8000/</span>
+
+<span class="cm"># ③ 数据校验（与 CI 同款，全部应通过）</span>
+node tools/verify.js
+node tools/verify-data.js
+node tools/verify-data-home.js
+node tools/verify-fulltext.js
+node tools/test-trans-layer.js
+node tools/check-i18n.js
+node tools/scan-forbidden2.js</code></pre>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-top">
+      <div class="footer-brand">
+        <span class="brand-mark brand-mark--footer" aria-hidden="true">CALR</span>
+        <p>中国—东盟法律法规数据库<br><span>China–ASEAN Laws and Regulations Database</span></p>
+      </div>
+      <p class="footer-note">东盟法律，一库通查</p>
+    </div>
+    <div class="disclaimer">
+      <h2 class="disclaimer-title">免责声明</h2>
+      <p>本数据库仅用于学术研究与比赛演示。法规文本以各国官方公布版本为准；译文与问答内容由 AI 辅助生成，仅供参考，不构成法律意见。使用前请核对官方原文。</p>
+      <p>数据快照 <span data-meta="generatedAt">2026-10-24</span> · 本页零外部依赖，可离线打开 · <a href="#hero">回到顶部 ↑</a></p>
+    </div>
+    <p class="footer-bottom">© 2026 上海对外经贸大学 一粒橡子队 · CALR · 2026 中国（广西）—东盟「AI+法律」应用创新大赛</p>
+  </div>
+</footer>
+
+<div class="drawer-layer" id="lawDrawer" hidden>
+  <div class="drawer-overlay" id="drawerOverlay"></div>
+  <aside class="drawer" role="dialog" aria-modal="true" aria-labelledby="drawerTitle">
+    <button class="drawer-close" id="drawerClose" type="button" aria-label="关闭详情">
+      <span aria-hidden="true">×</span>
+    </button>
+    <div class="drawer-body" id="drawerBody"></div>
+  </aside>
+</div>
+
+<script src="assets/data/sample-laws.js"></script>
+<script src="assets/js/solution.js"></script>
+</body>
+</html>
