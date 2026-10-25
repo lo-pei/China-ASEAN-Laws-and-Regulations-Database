@@ -82,7 +82,9 @@ def tokenize(s: str):
 
 # ---------------------------------------------------------------- 工具
 def tget(t, *langs):
-    """从 {zh,en,orig} 这类对象里按优先级取文本；字符串直接返回。"""
+    """从 {zh,en,orig} 这类对象里按优先级取文本；字符串直接返回。
+    注意：末尾有「任意语言兜底」，只适合 orig/heading 这类"取到什么算什么"的场景。
+    给 text_en 用会把中文塞进英文槽，必须用 tget_strict。"""
     if not t:
         return ""
     if isinstance(t, str):
@@ -93,6 +95,23 @@ def tget(t, *langs):
             if v:
                 return str(v)
         for v in t.values():
+            if v:
+                return str(v)
+    return ""
+
+
+def tget_strict(t, *langs):
+    """只取指定语言，取不到返回空字符串。
+    用于 text_zh / text_en 这类"语言槽必须名副其实"的列。
+    背景：旧实现在这里回退到"任意语言"，导致 67,468 条中文被写进 text_en
+    （占全部条文的 19.88%），英文界面下译文位置显示的是中文。"""
+    if not t:
+        return ""
+    if isinstance(t, str):
+        return t
+    if isinstance(t, dict):
+        for lg in langs:
+            v = t.get(lg)
             if v:
                 return str(v)
     return ""
@@ -240,8 +259,8 @@ def main():
         body_parts = []
         for a in arts:
             txt = a.get("text") or {}
-            t_zh = tget(txt, "zh")
-            t_en = tget(txt, "en")
+            t_zh = tget_strict(txt, "zh")
+            t_en = tget_strict(txt, "en")
             t_orig = tget(txt, "orig") or tget(txt, "th") or tget(txt, "vi") or tget(txt, "id") or tget(txt, "ms")
             batch_arts.append((
                 lid, a.get("no"), a.get("dupIndex"),

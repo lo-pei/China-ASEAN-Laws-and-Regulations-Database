@@ -64,7 +64,11 @@
 <script src="data/asean-map.js"></script>
 <script>if (!window.__CALR_API_MODE) document.write('<script src="data/intl/manifest.js"><\/script>');</script>
 <!-- 译文层索引：大模型翻译文本与官方原文分离存放 -->
-<script>if (!window.__CALR_API_MODE) document.write('<script src="data/trans/manifest.js"><\/script>');</script>
+  <!-- 译文层索引：两种模式都要加载。
+       它只是「1,566 部法规 → 分卷」的映射表（135 KB，gzip 后约 20 KB），不含正文；
+       不加载它，API 模式下 transPackFor() 永远返回 null，所有译文都取不到，
+       表现就是「切到英文后译文位置是空的」。译文分卷本身仍按需加载。 -->
+  <script src="data/trans/manifest.js"></script>
 <!-- 界面多语种译文表（缺失时自动回退中文原文） -->
 <!-- 界面语言包按需加载：默认中文一个都不需要（5 个合计 552 KB）。
      各语言包定义独立全局变量 CALR_I18N_EN / _VI / _TH / _ID / _MS，
