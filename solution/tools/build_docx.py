@@ -104,7 +104,7 @@ def field(paragraph, code, size=9, color=GRAY):
     run._r.append(end)
 
 
-def build_cover(doc):
+def build_cover(doc, title, subtitle):
     doc.add_paragraph()
     p = new_para(doc, 'CALR  ·  中国—东盟法律法规数据库', size=11, bold=True,
                  color=RGBColor(0xFF, 0xFF, 0xFF), align=WD_ALIGN_PARAGRAPH.CENTER,
@@ -112,11 +112,11 @@ def build_cover(doc):
     shade(p, '0A1B33')
 
     p = new_para(doc, '', space_before=40)
-    p = new_para(doc, '产品解决方案说明书', size=30, bold=True, color=NAVY,
+    p = new_para(doc, title, size=30, bold=True, color=NAVY,
                  align=WD_ALIGN_PARAGRAPH.CENTER, space_before=40, space_after=10)
     p = new_para(doc, 'China–ASEAN Laws and Regulations Database', size=12,
                  color=GRAY, align=WD_ALIGN_PARAGRAPH.CENTER, space_after=6)
-    p = new_para(doc, '可溯源 · 跨语言 · 可解释的东盟法律检索与 AI 问答平台', size=13,
+    p = new_para(doc, subtitle, size=13,
                  color=NAVY2, align=WD_ALIGN_PARAGRAPH.CENTER, space_after=4)
     p = new_para(doc, '', space_after=8)
     border(p, 'C6A15B', 12)
@@ -147,14 +147,14 @@ def build_toc(doc, headings):
     page_break(doc)
 
 
-def add_header_footer(doc):
+def add_header_footer(doc, title):
     sec = doc.sections[0]
     sec.different_first_page_header_footer = True
 
     hp = sec.header.paragraphs[0]
     hp.text = ''
     hp.alignment = WD_ALIGN_PARAGRAPH.RIGHT
-    r = hp.add_run('CALR 产品解决方案说明书')
+    r = hp.add_run('CALR ' + title)
     set_font(r, size=8.5, color=GRAY)
 
     fp = sec.footer.paragraphs[0]
@@ -200,7 +200,8 @@ def replace_shots(doc):
         p_el.getparent().remove(p_el)
 
 
-def main(md_path, docx_path):
+def main(md_path, docx_path, title='产品解决方案说明书',
+         subtitle='可溯源 · 跨语言 · 可解释的东盟法律检索与 AI 问答平台'):
     md_path = os.path.abspath(md_path)
     docx_path = os.path.abspath(docx_path)
     tmp = docx_path + '.base.docx'
@@ -219,13 +220,10 @@ def main(md_path, docx_path):
 
     doc = Document(tmp)
     body = doc.element.body
-    title = '产品解决方案说明书'
 
     # 去掉 markdown 的第一个 H1（封面单独排版）
     for p in list(doc.paragraphs):
         if p.style is not None and p.style.name == 'Heading 1':
-            if p.text.strip():
-                title = p.text.strip()
             p._p.getparent().remove(p._p)
             break
 
@@ -239,7 +237,7 @@ def main(md_path, docx_path):
 
     # 先在文档末尾构建封面/目录，再整体移动到开头
     before = len(body)
-    build_cover(doc)
+    build_cover(doc, title, subtitle)
     build_toc(doc, headings)
     after = len(body)
     new_nodes = list(body)[before:after]
@@ -247,15 +245,15 @@ def main(md_path, docx_path):
         body.remove(node)
         body.insert(0, node)
 
-    add_header_footer(doc)
+    add_header_footer(doc, title)
     replace_shots(doc)
 
     props = doc.core_properties
     props.title = title
-    props.subject = '面向 12 法域的法律检索、跨语言比对与可溯源 AI 问答平台'
+    props.subject = subtitle
     props.author = '上海对外经贸大学 一粒橡子队'
     props.keywords = 'CALR; 中国—东盟; 法律法规数据库; 法律检索; 跨语言; AI 问答'
-    props.comments = '产品解决方案说明书（比赛评审版）'
+    props.comments = title + '（比赛评审版）'
 
     doc.save(docx_path)
     try:
@@ -266,4 +264,8 @@ def main(md_path, docx_path):
 
 
 if __name__ == '__main__':
-    main(sys.argv[1], sys.argv[2])
+    if len(sys.argv) < 3:
+        raise SystemExit('usage: build_docx.py <input.md> <output.docx> [title] [subtitle]')
+    doc_title = sys.argv[3] if len(sys.argv) > 3 else '产品解决方案说明书'
+    doc_subtitle = sys.argv[4] if len(sys.argv) > 4 else '可溯源 · 跨语言 · 可解释的东盟法律检索与 AI 问答平台'
+    main(sys.argv[1], sys.argv[2], doc_title, doc_subtitle)

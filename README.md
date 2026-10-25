@@ -8,7 +8,7 @@
 
 
 > 部署到云服务器：见 [docs/deploy/](docs/deploy/)（[07 通用云服务器](docs/deploy/07-部署指南.md) · 08 B+ 完整版 · 09 Windows 服务器 · 10 Windows 实测复盘）。
-> 产品解决方案 Demo + 说明书：见 [solution/](solution/)（HTML 交互演示 / DOCX / PDF，面向评审与答辩）。
+> 产品解决方案 Demo（PDF）与产品使用说明书（PDF）：见 [solution/提交物/](solution/提交物/)，均面向比赛评审/答辩。
 
 ## 一、这是什么
 
@@ -129,7 +129,7 @@ tools/                校验器、抓取脚本、评测快照与模板（正本�
 rules/                数据契约与项目红线（3 份 SKILL-* 为权威；历史归档已标记）
 docs/                 项目文档（00 指南 + 01–06 交付 + deploy/ 07–10 运维 + _archive-* 历史）
 deliverables/         对外交付 docx（01–06 + 07 附件2 填写稿）
-solution/             产品解决方案包（交互 Demo + 说明书 DOCX/PDF；面向评审/答辩）
+solution/             产品解决方案包（提交物：Demo PDF + 使用说明书 PDF）
 .github/workflows/    CI：data-checks（7 个数据校验器 + 全量 JS 语法）
 _out/                 部署打包产物（4 个 tarball，约 2.2 GB；不入库）
 _work/                本地工作区（模型、批次、历史脚本；约 3.2 GB，缓存/备份已清理；不入库）

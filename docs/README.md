@@ -30,7 +30,7 @@
 | 读者 | 路径 |
 | :--- | :--- |
 | 评委 / 3 分钟 | [01 §二 数据规模](01-项目总览.md) → [04 §七 成果小结](04-交付验收与后续规划.md) |
-| 产品方案演示 | [../solution/index.html](../solution/index.html)（交互 Demo；讲解动线见 [../solution/README.md](../solution/README.md)） |
+| 产品方案与使用 | [产品解决方案 Demo](../solution/提交物/产品解决方案Demo.pdf) · [产品使用说明书](../solution/提交物/产品使用说明书.pdf)（PDF，提交物） |
 | 完整了解 | 01 → 02 → 03 → 04 |
 | 部署运维 | [deploy/README.md](deploy/README.md)（按平台与形态选路线） |
 | 数据供给 / 翻译 agent | [rules/README.md](../rules/README.md)（先读契约，再动手） |
