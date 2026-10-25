@@ -298,7 +298,8 @@ def search(
 @app.get("/api/vectors", summary="向量索引状态")
 def vectors_status() -> Dict[str, Any]:
     return {"embeddings": vec_mod.info(), "model": embedder.available(),
-            "modelDir": embedder.DEFAULT_MODEL}
+            "modelDir": embedder.DEFAULT_MODEL,
+            "modelError": embedder.last_error()}
 
 
 @app.get("/api/search/articles", summary="在指定法规内检索条文")
@@ -392,6 +393,22 @@ def qa(req: QARequest) -> Dict[str, Any]:
                 "citations": cites[:req.topk * 2], "candidates": res["items"]}
 
     emb = embedder.get()
+    if emb is None:
+        # 模型加载失败：与上面的"向量不可用"走同一套降级，不要在这里抛 AttributeError。
+        # 失败原因见 embedder.last_error()，也暴露在 /api/vectors 的 modelError 字段。
+        res = search_mod.search(q=req.question, mode="semantic",
+                                country=req.country, page=1, size=req.topk)
+        cites: List[Dict[str, Any]] = []
+        for it in res["items"]:
+            for h in search_mod.article_hits(req.question, it["id"], limit=2):
+                a = h["article"]
+                cites.append({"lawId": it["id"], "lawTitle": it["title"],
+                              "country": it["country"], "no": a["no"],
+                              "noLabel": _fmt_no(a["no"]), "text": a["text"], "score": None})
+        return {"question": req.question, "mode": "bm25-fallback",
+                "note": "嵌入模型加载失败，已退回 BM25 检索。原因：%s"
+                        % (embedder.last_error() or "未知"),
+                "citations": cites[:req.topk * 2], "candidates": res["items"]}
     qv = emb.encode([req.question])[0]
     hits = vec_mod.search_articles(qv, topk=req.topk * 6)
 

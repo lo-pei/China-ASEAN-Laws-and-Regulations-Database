@@ -86,22 +86,58 @@ class Embedder:
         return np.vstack(out_chunks)
 
 
+_last_error: Optional[str] = None
+
+
+def last_error() -> Optional[str]:
+    """最近一次加载失败的原因（成功时为 None）。用于诊断，不参与逻辑。"""
+    return _last_error
+
+
 def get() -> Optional[Embedder]:
-    """懒加载单例；模型不可用时返回 None（调用方降级到纯 BM25）。"""
-    global _emb
+    """懒加载单例；模型不可用时返回 None（调用方必须判 None 后降级到纯 BM25）。
+
+    注意：这里会把失败原因记到 last_error()。
+    旧实现是 `except Exception: return None`，把"为什么加载不了"整个吞掉，
+    结果排查时只能看到调用侧一个莫名其妙的 AttributeError。
+    """
+    global _emb, _last_error
     if _emb is not None:
         return _emb
     with _lock:
         if _emb is not None:
             return _emb
         if not os.path.exists(os.path.join(DEFAULT_MODEL, "model.onnx")):
+            _last_error = "缺少 model.onnx（模型目录：%s）" % DEFAULT_MODEL
             return None
         try:
             _emb = Embedder(DEFAULT_MODEL)
-        except Exception:
+            _last_error = None
+        except Exception as e:
+            _last_error = "%s: %s" % (type(e).__name__, str(e)[:300])
             return None
         return _emb
 
 
 def available() -> bool:
-    return os.path.exists(os.path.join(DEFAULT_MODEL, "model.onnx"))
+    """模型文件是否齐全。
+    必须同时检查 model.onnx_data —— ONNX 的权重是外部存储的，
+    只拷了 0.7 MB 的图而没拷 2.16 GB 的权重时，onnxruntime 会加载失败，
+    但只看 model.onnx 会误判为"可用"。
+    文件缺失时把原因写进 last_error()，这样 /api/vectors 能直接看出缺哪个。"""
+    global _last_error
+    d = DEFAULT_MODEL
+    has_graph = os.path.exists(os.path.join(d, "model.onnx"))
+    has_data = os.path.exists(os.path.join(d, "model.onnx_data"))
+    has_tok = os.path.exists(os.path.join(d, "tokenizer.json"))
+    if has_graph and has_data and has_tok:
+        return True
+    miss = []
+    if not has_graph:
+        miss.append("model.onnx")
+    if not has_data:
+        miss.append("model.onnx_data（2.16 GB 外部权重）")
+    if not has_tok:
+        miss.append("tokenizer.json")
+    _last_error = "模型目录 %s 缺少：%s" % (d, "、".join(miss))
+    return False
