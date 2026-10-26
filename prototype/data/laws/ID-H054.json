@@ -1,15 +1,16 @@
 {
  "id": "ID-H054",
  "title": {
-  "zh": "UUD1945 1945 id naskah-asli 1945",
-  "en": "UUD1945 1945 id naskah-asli 1945",
-  "orig": null
+  "zh": "印度尼西亚共和国1945年宪法（原始文本）",
+  "en": "the 1945 Constitution of the Republic of Indonesia (Original Text)",
+  "orig": null,
+  "id": "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 (Naskah Asli)"
  },
  "country": "ID",
  "countryName": "印度尼西亚",
  "layer": "intl",
  "pack": "id-p03",
- "language": "en",
+ "language": "id",
  "level": "law",
  "category": null,
  "status": "active",
@@ -42,370 +43,407 @@
    "id": "ID-H054-A1",
    "no": 1,
    "noLabel": {
-    "en": "Article 1"
+    "en": "Article 1",
+    "zh": "第 1 条"
    },
    "text": {
-    "en": "(1) Negara Indonesia ialah Negara Kesatuan, yang berbentuk Republik.\n(2) Kedaulatan adalah di tangan rakyat, dan dilakukan sepenuhnya oleh Majelis Permusyawaratan Rakyat.\nBAB II\nMAJELIS PERMUSYAWARATAN RAKYAT"
+    "id": "(1) Negara Indonesia ialah Negara Kesatuan, yang berbentuk Republik.\n(2) Kedaulatan adalah di tangan rakyat, dan dilakukan sepenuhnya oleh Majelis Permusyawaratan Rakyat.\nBAB II\nMAJELIS PERMUSYAWARATAN RAKYAT"
    }
   },
   {
    "id": "ID-H054-A2",
    "no": 2,
    "noLabel": {
-    "en": "Article 2"
+    "en": "Article 2",
+    "zh": "第 2 条"
    },
    "text": {
-    "en": "(1) Majelis Permusyawaratan Rakyat terd iri atas anggota-anggota Dewan Perwakilan Rakyat, ditambah dengan utusan-utusan dari daerah-daerah dan golongan-golongan, menurut aturan yang ditetapkan dengan undang-undang.\n(2) Majelis Permusyawaratan Rakyat bersidang sedikitnya sekali dalam lima tahun di ibu kota negara.\n(3) Segala putusan Majelis Permusyawarat an Rakyat ditetapkan dengan suara yang terbanyak."
+    "id": "(1) Majelis Permusyawaratan Rakyat terd iri atas anggota-anggota Dewan Perwakilan Rakyat, ditambah dengan utusan-utusan dari daerah-daerah dan golongan-golongan, menurut aturan yang ditetapkan dengan undang-undang.\n(2) Majelis Permusyawaratan Rakyat bersidang sedikitnya sekali dalam lima tahun di ibu kota negara.\n(3) Segala putusan Majelis Permusyawarat an Rakyat ditetapkan dengan suara yang terbanyak."
    }
   },
   {
    "id": "ID-H054-A3",
    "no": 3,
    "noLabel": {
-    "en": "Article 3"
+    "en": "Article 3",
+    "zh": "第 3 条"
    },
    "text": {
-    "en": "Majelis Permusyawaratan Rakyat menetapkan Undang-Undang Dasar dan garis-garis besar daripada haluan negara.\nBAB III\nKEKUASAAN PEMERINTAHAN NEGARA"
+    "id": "Majelis Permusyawaratan Rakyat menetapkan Undang-Undang Dasar dan garis-garis besar daripada haluan negara.\nBAB III\nKEKUASAAN PEMERINTAHAN NEGARA"
    }
   },
   {
    "id": "ID-H054-A4",
    "no": 4,
    "noLabel": {
-    "en": "Article 4"
+    "en": "Article 4",
+    "zh": "第 4 条"
    },
    "text": {
-    "en": "(1) Presiden Republik Indonesia memegang kekuasaan pemerintahan menurut Undang- Undang Dasar.\n(2) Dalam melakukan kewajibannya Presiden dibantu oleh satu orang Wakil Presiden."
+    "id": "(1) Presiden Republik Indonesia memegang kekuasaan pemerintahan menurut Undang- Undang Dasar.\n(2) Dalam melakukan kewajibannya Presiden dibantu oleh satu orang Wakil Presiden."
    }
   },
   {
    "id": "ID-H054-A5",
    "no": 5,
    "noLabel": {
-    "en": "Article 5"
+    "en": "Article 5",
+    "zh": "第 5 条"
    },
    "text": {
-    "en": "(1) Presiden memegang kekuasaan membentuk undang-undang dengan persetujuan Dewan Perwakilan Rakyat.\n(2) Presiden menetapkan peraturan pemerintah untuk menjalankan undang-undang sebagaimana mestinya."
+    "id": "(1) Presiden memegang kekuasaan membentuk undang-undang dengan persetujuan Dewan Perwakilan Rakyat.\n(2) Presiden menetapkan peraturan pemerintah untuk menjalankan undang-undang sebagaimana mestinya."
    }
   },
   {
    "id": "ID-H054-A6",
    "no": 6,
    "noLabel": {
-    "en": "Article 6"
+    "en": "Article 6",
+    "zh": "第 6 条"
    },
    "text": {
-    "en": "(1) Presiden ialah orang Indonesia asli.\n(2) Presiden dan Wakil Presiden dipilih oleh Majelis Permusyawaratan Rakyat dengan suara yang terbanyak."
+    "id": "(1) Presiden ialah orang Indonesia asli.\n(2) Presiden dan Wakil Presiden dipilih oleh Majelis Permusyawaratan Rakyat dengan suara yang terbanyak."
    }
   },
   {
    "id": "ID-H054-A7",
    "no": 7,
    "noLabel": {
-    "en": "Article 7"
+    "en": "Article 7",
+    "zh": "第 7 条"
    },
    "text": {
-    "en": "Presiden dan Wakil Presiden memegang jabatannya selama masa lima tahun, dan sesudahnya dapat dipilih kembali."
+    "id": "Presiden dan Wakil Presiden memegang jabatannya selama masa lima tahun, dan sesudahnya dapat dipilih kembali."
    }
   },
   {
    "id": "ID-H054-A8",
    "no": 8,
    "noLabel": {
-    "en": "Article 8"
+    "en": "Article 8",
+    "zh": "第 8 条"
    },
    "text": {
-    "en": "Jika Presiden mangkat, berhenti, atau tidak  dapat melakukan kewajibannya dalam masa jabatannya, ia diganti oleh Wakil Presiden sampai habis waktunya."
+    "id": "Jika Presiden mangkat, berhenti, atau tidak  dapat melakukan kewajibannya dalam masa jabatannya, ia diganti oleh Wakil Presiden sampai habis waktunya."
    }
   },
   {
    "id": "ID-H054-A9",
    "no": 9,
    "noLabel": {
-    "en": "Article 9"
+    "en": "Article 9",
+    "zh": "第 9 条"
    },
    "text": {
-    "en": "Sebelum memangku jabatannya, Presiden dan Wakil Presiden bersumpah menurut agama, atau berjanji dengan sungguh-sungguh di hadapan Majelis Permusyawaratan Rakyat atau Dewan Perwakilan Rakyat sebagai berikut :\nSumpah Presiden (Wakil Presiden) :\n“Demi Allah, saya bersumpah akan memenuhi kewajiban Presiden Republik Indonesia (Wakil Presiden Republik Indonesia) dengan sebaik-baiknya dan seadil-adilnya, memegang teguh Undang-Undang Dasar dan menjalankan segala undang-undang dan peraturannya dengan selurus-lurusnya serta berbakti kepada Nusa dan Bangsa”.\nJanji Presiden (Wakil Presiden) :\n“Saya berjanji dengan sungguh-sungguh akan memenuhi kewajiban Presiden Republik Indonesia (Wakil Presiden R epublik Indonesia) dengan sebaik-baiknya dan seadil-adilnya, memegang teguh Undang-Undang Dasar dan menjalankan segala undang-undang dan peraturannya dengan selurus-lurusnya serta berbakti kepada Nusa dan Bangsa”."
+    "id": "Sebelum memangku jabatannya, Presiden dan Wakil Presiden bersumpah menurut agama, atau berjanji dengan sungguh-sungguh di hadapan Majelis Permusyawaratan Rakyat atau Dewan Perwakilan Rakyat sebagai berikut :\nSumpah Presiden (Wakil Presiden) :\n“Demi Allah, saya bersumpah akan memenuhi kewajiban Presiden Republik Indonesia (Wakil Presiden Republik Indonesia) dengan sebaik-baiknya dan seadil-adilnya, memegang teguh Undang-Undang Dasar dan menjalankan segala undang-undang dan peraturannya dengan selurus-lurusnya serta berbakti kepada Nusa dan Bangsa”.\nJanji Presiden (Wakil Presiden) :\n“Saya berjanji dengan sungguh-sungguh akan memenuhi kewajiban Presiden Republik Indonesia (Wakil Presiden R epublik Indonesia) dengan sebaik-baiknya dan seadil-adilnya, memegang teguh Undang-Undang Dasar dan menjalankan segala undang-undang dan peraturannya dengan selurus-lurusnya serta berbakti kepada Nusa dan Bangsa”."
    }
   },
   {
    "id": "ID-H054-A10",
    "no": 10,
    "noLabel": {
-    "en": "Article 10"
+    "en": "Article 10",
+    "zh": "第 10 条"
    },
    "text": {
-    "en": "Presiden memegang kekuasaan yang tertinggi atas Angkatan Darat, Angkatan Laut dan Angkatan Udara."
+    "id": "Presiden memegang kekuasaan yang tertinggi atas Angkatan Darat, Angkatan Laut dan Angkatan Udara."
    }
   },
   {
    "id": "ID-H054-A11",
    "no": 11,
    "noLabel": {
-    "en": "Article 11"
+    "en": "Article 11",
+    "zh": "第 11 条"
    },
    "text": {
-    "en": "Presiden dengan persetujuan Dewan Perwakilan Rakyat menyatakan perang, membuat perdamaian dan perjanjian dengan negara lain."
+    "id": "Presiden dengan persetujuan Dewan Perwakilan Rakyat menyatakan perang, membuat perdamaian dan perjanjian dengan negara lain."
    }
   },
   {
    "id": "ID-H054-A12",
    "no": 12,
    "noLabel": {
-    "en": "Article 12"
+    "en": "Article 12",
+    "zh": "第 12 条"
    },
    "text": {
-    "en": "Presiden menyatakan keadaan bahaya. Syar at-syarat dan akibatnya keadaan bahaya ditetapkan dengan undang-undang."
+    "id": "Presiden menyatakan keadaan bahaya. Syar at-syarat dan akibatnya keadaan bahaya ditetapkan dengan undang-undang."
    }
   },
   {
    "id": "ID-H054-A13",
    "no": 13,
    "noLabel": {
-    "en": "Article 13"
+    "en": "Article 13",
+    "zh": "第 13 条"
    },
    "text": {
-    "en": "(1) Presiden mengangkat duta dan konsul.\n(2) Presiden menerima duta negara lain."
+    "id": "(1) Presiden mengangkat duta dan konsul.\n(2) Presiden menerima duta negara lain."
    }
   },
   {
    "id": "ID-H054-A14",
    "no": 14,
    "noLabel": {
-    "en": "Article 14"
+    "en": "Article 14",
+    "zh": "第 14 条"
    },
    "text": {
-    "en": "Presiden memberi grasi, amnesti, abolisi dan rehabilitasi."
+    "id": "Presiden memberi grasi, amnesti, abolisi dan rehabilitasi."
    }
   },
   {
    "id": "ID-H054-A15",
    "no": 15,
    "noLabel": {
-    "en": "Article 15"
+    "en": "Article 15",
+    "zh": "第 15 条"
    },
    "text": {
-    "en": "Presiden memberi gelaran, tanda jasa dan lain-lain tanda kehormatan.\nBAB IV\nDEWAN PERTIMBANGAN AGUNG"
+    "id": "Presiden memberi gelaran, tanda jasa dan lain-lain tanda kehormatan.\nBAB IV\nDEWAN PERTIMBANGAN AGUNG"
    }
   },
   {
    "id": "ID-H054-A16",
    "no": 16,
    "noLabel": {
-    "en": "Article 16"
+    "en": "Article 16",
+    "zh": "第 16 条"
    },
    "text": {
-    "en": "(1) Susunan Dewan Pertimbangan Agung ditetapkan dengan undang-undang.\n(2) Dewan ini berkewajiban memberi jawab atas pertanyaan Presiden dan berhak memajukan usul kepada pemerintah.\nBAB V\nKEMENTERIAN NEGARA"
+    "id": "(1) Susunan Dewan Pertimbangan Agung ditetapkan dengan undang-undang.\n(2) Dewan ini berkewajiban memberi jawab atas pertanyaan Presiden dan berhak memajukan usul kepada pemerintah.\nBAB V\nKEMENTERIAN NEGARA"
    }
   },
   {
    "id": "ID-H054-A17",
    "no": 17,
    "noLabel": {
-    "en": "Article 17"
+    "en": "Article 17",
+    "zh": "第 17 条"
    },
    "text": {
-    "en": "(1) Presiden dibantu oleh menteri-menteri negara.\n(2) Menteri-menteri itu diangkat dan diperhentikan oleh Presiden.\n(3) Menteri-menteri itu memimpin departemen pemerintah.\nBAB VI\nPEMERINTAH DAERAH"
+    "id": "(1) Presiden dibantu oleh menteri-menteri negara.\n(2) Menteri-menteri itu diangkat dan diperhentikan oleh Presiden.\n(3) Menteri-menteri itu memimpin departemen pemerintah.\nBAB VI\nPEMERINTAH DAERAH"
    }
   },
   {
    "id": "ID-H054-A18",
    "no": 18,
    "noLabel": {
-    "en": "Article 18"
+    "en": "Article 18",
+    "zh": "第 18 条"
    },
    "text": {
-    "en": "Pembagian daerah Indonesia atas daerah besar dan kecil, dengan bentuk susunan pemerintahannya ditetapkan dengan undang-undang, dengan memandang dan mengingati dasar permusyawaratan dalam sistem pemerintahan negara, dan hak-hak asal-usul dalam daerah-daerah yang bersifat istimewa.\nBAB VII\nDEWAN PERWAKILAN RAKYAT"
+    "id": "Pembagian daerah Indonesia atas daerah besar dan kecil, dengan bentuk susunan pemerintahannya ditetapkan dengan undang-undang, dengan memandang dan mengingati dasar permusyawaratan dalam sistem pemerintahan negara, dan hak-hak asal-usul dalam daerah-daerah yang bersifat istimewa.\nBAB VII\nDEWAN PERWAKILAN RAKYAT"
    }
   },
   {
    "id": "ID-H054-A19",
    "no": 19,
    "noLabel": {
-    "en": "Article 19"
+    "en": "Article 19",
+    "zh": "第 19 条"
    },
    "text": {
-    "en": "(1) Susunan Dewan Perwakilan Rakyat ditetapkan dengan undang-undang.\n(2) Dewan Perwakilan Rakyat bersidang sedikitnya sekali dalam setahun."
+    "id": "(1) Susunan Dewan Perwakilan Rakyat ditetapkan dengan undang-undang.\n(2) Dewan Perwakilan Rakyat bersidang sedikitnya sekali dalam setahun."
    }
   },
   {
    "id": "ID-H054-A20",
    "no": 20,
    "noLabel": {
-    "en": "Article 20"
+    "en": "Article 20",
+    "zh": "第 20 条"
    },
    "text": {
-    "en": "(1) Tiap-tiap undang-undang menghendaki persetujuan Dewan Perwakilan Rakyat.\n(2) Jika sesuatu rancangan undang-undang tidak mendapat persetujuan Dewan Perwakilan Rakyat, maka rancangan tadi tidak boleh dimajukan lagi dalam persidangan Dewan Perwakilan Rakyat masa itu."
+    "id": "(1) Tiap-tiap undang-undang menghendaki persetujuan Dewan Perwakilan Rakyat.\n(2) Jika sesuatu rancangan undang-undang tidak mendapat persetujuan Dewan Perwakilan Rakyat, maka rancangan tadi tidak boleh dimajukan lagi dalam persidangan Dewan Perwakilan Rakyat masa itu."
    }
   },
   {
    "id": "ID-H054-A21",
    "no": 21,
    "noLabel": {
-    "en": "Article 21"
+    "en": "Article 21",
+    "zh": "第 21 条"
    },
    "text": {
-    "en": "(1) Anggota-anggota Dewan Perwakilan Rakyat berhak memajukan rancangan undang-undang.\n(2) Jika rancangan itu, meskipun disetujui oleh Dewan Perwakilan Rakyat, tidak disahkan oleh Presiden, maka rancangan tadi tidak boleh dimajukan lagi dalam persidangan Dewan Perwakilan Rakyat masa itu."
+    "id": "(1) Anggota-anggota Dewan Perwakilan Rakyat berhak memajukan rancangan undang-undang.\n(2) Jika rancangan itu, meskipun disetujui oleh Dewan Perwakilan Rakyat, tidak disahkan oleh Presiden, maka rancangan tadi tidak boleh dimajukan lagi dalam persidangan Dewan Perwakilan Rakyat masa itu."
    }
   },
   {
    "id": "ID-H054-A22",
    "no": 22,
    "noLabel": {
-    "en": "Article 22"
+    "en": "Article 22",
+    "zh": "第 22 条"
    },
    "text": {
-    "en": "(1) Dalam hal ihwal kegentingan yang memaksa, Presiden berhak menetapkan peraturan pemerintah sebagai pengganti undang-undang.\n(2) Peraturan pemerintah itu harus menda pat persetujuan Dewan Perwakilan Rakyat dalam persidangan yang berikut.\n(3) Jika tidak mendapat persetujuan, maka peraturan pemerintah itu harus dicabut.\nBAB VIII\nHAL KEUANGAN"
+    "id": "(1) Dalam hal ihwal kegentingan yang memaksa, Presiden berhak menetapkan peraturan pemerintah sebagai pengganti undang-undang.\n(2) Peraturan pemerintah itu harus menda pat persetujuan Dewan Perwakilan Rakyat dalam persidangan yang berikut.\n(3) Jika tidak mendapat persetujuan, maka peraturan pemerintah itu harus dicabut.\nBAB VIII\nHAL KEUANGAN"
    }
   },
   {
    "id": "ID-H054-A23",
    "no": 23,
    "noLabel": {
-    "en": "Article 23"
+    "en": "Article 23",
+    "zh": "第 23 条"
    },
    "text": {
-    "en": "(1) Anggaran pendapatan dan belanja ditetapkan tiap-tiap tahun dengan undang-undang.\nApabila Dewan Perwakilan Rakyat tidak  menyetujui anggaran yang diusulkan pemerintah, maka pemerintah menjalankan anggaran tahun yang lalu.\n(2) Segala pajak untuk keperluan negara berdasarkan undang-undang.\n(3) Macam dan harga mata uang ditetapkan dengan undang-undang.\n(4) Hal keuangan negara selanjutnya diatur dengan undang-undang.\n(5) Untuk memeriksa tanggung jawab tentang keuangan negara diadakan suatu Badan Pemeriksa Keuangan, yang peraturannya ditetapkan dengan undang-undang. Hasil pemeriksaan itu diberitahukan kepada Dewan Perwakilan rakyat.\nBAB IX\nKEKUASAAN KEHAKIMAN"
+    "id": "(1) Anggaran pendapatan dan belanja ditetapkan tiap-tiap tahun dengan undang-undang.\nApabila Dewan Perwakilan Rakyat tidak  menyetujui anggaran yang diusulkan pemerintah, maka pemerintah menjalankan anggaran tahun yang lalu.\n(2) Segala pajak untuk keperluan negara berdasarkan undang-undang.\n(3) Macam dan harga mata uang ditetapkan dengan undang-undang.\n(4) Hal keuangan negara selanjutnya diatur dengan undang-undang.\n(5) Untuk memeriksa tanggung jawab tentang keuangan negara diadakan suatu Badan Pemeriksa Keuangan, yang peraturannya ditetapkan dengan undang-undang. Hasil pemeriksaan itu diberitahukan kepada Dewan Perwakilan rakyat.\nBAB IX\nKEKUASAAN KEHAKIMAN"
    }
   },
   {
    "id": "ID-H054-A24",
    "no": 24,
    "noLabel": {
-    "en": "Article 24"
+    "en": "Article 24",
+    "zh": "第 24 条"
    },
    "text": {
-    "en": "(1) Kekuasaan kehakiman dilakukan oleh sebuah Mahkamah Agung dan lain-lain badan kehakiman menurut undang-undang.\n(2) Susunan dan kekuasaan badan-badan kehakiman itu diatur dengan undang-undang."
+    "id": "(1) Kekuasaan kehakiman dilakukan oleh sebuah Mahkamah Agung dan lain-lain badan kehakiman menurut undang-undang.\n(2) Susunan dan kekuasaan badan-badan kehakiman itu diatur dengan undang-undang."
    }
   },
   {
    "id": "ID-H054-A25",
    "no": 25,
    "noLabel": {
-    "en": "Article 25"
+    "en": "Article 25",
+    "zh": "第 25 条"
    },
    "text": {
-    "en": "Syarat-syarat untuk menjadi dan untuk diperhentikan sebagai hakim ditetapkan dengan undang-undang.\nBAB X\nWARGA NEGARA"
+    "id": "Syarat-syarat untuk menjadi dan untuk diperhentikan sebagai hakim ditetapkan dengan undang-undang.\nBAB X\nWARGA NEGARA"
    }
   },
   {
    "id": "ID-H054-A26",
    "no": 26,
    "noLabel": {
-    "en": "Article 26"
+    "en": "Article 26",
+    "zh": "第 26 条"
    },
    "text": {
-    "en": "(1) Yang menjadi warga negara ialah orang-orang bangsa Indonesia asli dan orang-orang bangsa lain yang disahkan dengan undang-undang sebagai warga negara.\n(2) Syarat-syarat yang mengenai kewa rganegaraan ditetapkan dengan undang-undang."
+    "id": "(1) Yang menjadi warga negara ialah orang-orang bangsa Indonesia asli dan orang-orang bangsa lain yang disahkan dengan undang-undang sebagai warga negara.\n(2) Syarat-syarat yang mengenai kewa rganegaraan ditetapkan dengan undang-undang."
    }
   },
   {
    "id": "ID-H054-A27",
    "no": 27,
    "noLabel": {
-    "en": "Article 27"
+    "en": "Article 27",
+    "zh": "第 27 条"
    },
    "text": {
-    "en": "(1) Segala warga negara bersamaan kedudukannya di dalam hukum dan pemerintahan dan wajib menjunjung hukum dan pemerintahan itu dengan tidak ada kecualinya.\n(2) Tiap-tiap warga negara berhak atas pekerjaan dan penghidupan yang layak bagi kemanusiaan."
+    "id": "(1) Segala warga negara bersamaan kedudukannya di dalam hukum dan pemerintahan dan wajib menjunjung hukum dan pemerintahan itu dengan tidak ada kecualinya.\n(2) Tiap-tiap warga negara berhak atas pekerjaan dan penghidupan yang layak bagi kemanusiaan."
    }
   },
   {
    "id": "ID-H054-A28",
    "no": 28,
    "noLabel": {
-    "en": "Article 28"
+    "en": "Article 28",
+    "zh": "第 28 条"
    },
    "text": {
-    "en": "Kemerdekaan berserikat dan berkumpul, meng eluarkan pikiran dengan lisan dan tulisan dan sebaganya ditetapkan dengan undang-undang.\nBAB XI\nA G A M A"
+    "id": "Kemerdekaan berserikat dan berkumpul, meng eluarkan pikiran dengan lisan dan tulisan dan sebaganya ditetapkan dengan undang-undang.\nBAB XI\nA G A M A"
    }
   },
   {
    "id": "ID-H054-A29",
    "no": 29,
    "noLabel": {
-    "en": "Article 29"
+    "en": "Article 29",
+    "zh": "第 29 条"
    },
    "text": {
-    "en": "(1) Negara berdasar atas Ketuhanan Yang Maha Esa.\n(2) Negara menjamin kemerdekaan tiap-tiap penduduk untuk memeluk agamanya masing-masing dan untuk beribadat menurut agamanya dan kepercayaannya itu.\nBAB XII\nPERTAHANAN NEGARA"
+    "id": "(1) Negara berdasar atas Ketuhanan Yang Maha Esa.\n(2) Negara menjamin kemerdekaan tiap-tiap penduduk untuk memeluk agamanya masing-masing dan untuk beribadat menurut agamanya dan kepercayaannya itu.\nBAB XII\nPERTAHANAN NEGARA"
    }
   },
   {
    "id": "ID-H054-A30",
    "no": 30,
    "noLabel": {
-    "en": "Article 30"
+    "en": "Article 30",
+    "zh": "第 30 条"
    },
    "text": {
-    "en": "(1) Tiap-tiap warga negara berhak dan wajib ikut serta dalam usaha pembelaan negara.\n(2) Syarat-syarat tentang pembelaan diatur dengan undang-undang.\nBAB XIII\nP E N D I D I K A N"
+    "id": "(1) Tiap-tiap warga negara berhak dan wajib ikut serta dalam usaha pembelaan negara.\n(2) Syarat-syarat tentang pembelaan diatur dengan undang-undang.\nBAB XIII\nP E N D I D I K A N"
    }
   },
   {
    "id": "ID-H054-A31",
    "no": 31,
    "noLabel": {
-    "en": "Article 31"
+    "en": "Article 31",
+    "zh": "第 31 条"
    },
    "text": {
-    "en": "(1) Tiap-tiap warga negara berhak mendapat pengajaran.\n(2) Pemerintah mengusahakan dan menyelenggar akan satu sistem pengajaran nasional, yang diatur dengan undang-undang."
+    "id": "(1) Tiap-tiap warga negara berhak mendapat pengajaran.\n(2) Pemerintah mengusahakan dan menyelenggar akan satu sistem pengajaran nasional, yang diatur dengan undang-undang."
    }
   },
   {
    "id": "ID-H054-A32",
    "no": 32,
    "noLabel": {
-    "en": "Article 32"
+    "en": "Article 32",
+    "zh": "第 32 条"
    },
    "text": {
-    "en": "Pemerintah memajukan kebudayaan nasional Indonesia.\nBAB XIV\nKESEJAHTERAAN SOSIAL"
+    "id": "Pemerintah memajukan kebudayaan nasional Indonesia.\nBAB XIV\nKESEJAHTERAAN SOSIAL"
    }
   },
   {
    "id": "ID-H054-A33",
    "no": 33,
    "noLabel": {
-    "en": "Article 33"
+    "en": "Article 33",
+    "zh": "第 33 条"
    },
    "text": {
-    "en": "(1) Perekonomian disusun sebagai usaha ber sama berdasar atas asas kekeluargaan.\n(2) Cabang-cabang produksi yang penting bagi negara dan yang menguasai hajat hidup orang banyak dikuasai oleh negara.\n(3) Bumi dan air dan kekayaan alam yang terkandung di dalamnya dikuasai oleh negara dan dipergunakan untuk sebesar-besar kemakmuran rakyat."
+    "id": "(1) Perekonomian disusun sebagai usaha ber sama berdasar atas asas kekeluargaan.\n(2) Cabang-cabang produksi yang penting bagi negara dan yang menguasai hajat hidup orang banyak dikuasai oleh negara.\n(3) Bumi dan air dan kekayaan alam yang terkandung di dalamnya dikuasai oleh negara dan dipergunakan untuk sebesar-besar kemakmuran rakyat."
    }
   },
   {
    "id": "ID-H054-A34",
    "no": 34,
    "noLabel": {
-    "en": "Article 34"
+    "en": "Article 34",
+    "zh": "第 34 条"
    },
    "text": {
-    "en": "Fakir miskin dan anak-anak yang terlantar dipelihara oleh negara.\nBAB XV\nBENDERA DAN BAHASA"
+    "id": "Fakir miskin dan anak-anak yang terlantar dipelihara oleh negara.\nBAB XV\nBENDERA DAN BAHASA"
    }
   },
   {
    "id": "ID-H054-A35",
    "no": 35,
    "noLabel": {
-    "en": "Article 35"
+    "en": "Article 35",
+    "zh": "第 35 条"
    },
    "text": {
-    "en": "Bendera Negara Indonesia ialah Sang Merah Putih."
+    "id": "Bendera Negara Indonesia ialah Sang Merah Putih."
    }
   },
   {
    "id": "ID-H054-A36",
    "no": 36,
    "noLabel": {
-    "en": "Article 36"
+    "en": "Article 36",
+    "zh": "第 36 条"
    },
    "text": {
-    "en": "Bahasa Negara ialah Bahasa Indonesia.\nBAB XVI\nPERUBAHAN UNDANG-UNDANG DASAR"
+    "id": "Bahasa Negara ialah Bahasa Indonesia.\nBAB XVI\nPERUBAHAN UNDANG-UNDANG DASAR"
    }
   },
   {
    "id": "ID-H054-A37",
    "no": 37,
    "noLabel": {
-    "en": "Article 37"
+    "en": "Article 37",
+    "zh": "第 37 条"
    },
    "text": {
-    "en": "(1) Untuk mengubah Undang-Undang Dasar se kurang-kurangnya 2/3 daripada jumlah anggota Majelis Permusyawaratan Rakyat harus hadir.\n(2) Putusan diambil dengan persetujuan sekurang-kurangnya 2/3 daripada jumlah anggota yang hadir.\nATURAN PERALIHAN\nPasal I\nPanitia Persiapan Kemerdekaan Indonesia mengatur dan menyelenggarakan kepindahan pemerintahan kepada Pemerintah Indonesia.\nPasal II\nSegala badan negara dan peraturan yang ada masih langsung berlaku, selama belum diadakan yang baru menurut Undang-Undang Dasar ini.\nPasal III\nUntuk pertama kali Presiden dan Wakil Presiden dipilih oleh Panitia Persiapan Kemerdekaan Indonesia.\nPasal IV\nSebelum Majelis Permusyawaratan Rakyat, Dewan Perwakilan Rakyat, dan Dewan Pertimbangan Agung dibentuk menurut Undang-Undang Dasar ini, segala kekuasaannya dijalankan oleh Presiden dengan bantuan sebuah komite nasional.\nATURAN TAMBAHAN\n(1) Dalam enam bulan sesudah akhirnya peperangan Asia Timur Raya, Presiden Indonesia mengatur dan menyelenggarakan segala hal yang ditetapkan dalam Undang-Undang Dasar ini.\n(2) Dalam enam bulan sesudah Majelis Permusyawaratan Rakyat dibentuk, Majelis itu bersidang untuk menetapkan Undang-Undang Dasar."
+    "id": "(1) Untuk mengubah Undang-Undang Dasar se kurang-kurangnya 2/3 daripada jumlah anggota Majelis Permusyawaratan Rakyat harus hadir.\n(2) Putusan diambil dengan persetujuan sekurang-kurangnya 2/3 daripada jumlah anggota yang hadir.\nATURAN PERALIHAN\nPasal I\nPanitia Persiapan Kemerdekaan Indonesia mengatur dan menyelenggarakan kepindahan pemerintahan kepada Pemerintah Indonesia.\nPasal II\nSegala badan negara dan peraturan yang ada masih langsung berlaku, selama belum diadakan yang baru menurut Undang-Undang Dasar ini.\nPasal III\nUntuk pertama kali Presiden dan Wakil Presiden dipilih oleh Panitia Persiapan Kemerdekaan Indonesia.\nPasal IV\nSebelum Majelis Permusyawaratan Rakyat, Dewan Perwakilan Rakyat, dan Dewan Pertimbangan Agung dibentuk menurut Undang-Undang Dasar ini, segala kekuasaannya dijalankan oleh Presiden dengan bantuan sebuah komite nasional.\nATURAN TAMBAHAN\n(1) Dalam enam bulan sesudah akhirnya peperangan Asia Timur Raya, Presiden Indonesia mengatur dan menyelenggarakan segala hal yang ditetapkan dalam Undang-Undang Dasar ini.\n(2) Dalam enam bulan sesudah Majelis Permusyawaratan Rakyat dibentuk, Majelis itu bersidang untuk menetapkan Undang-Undang Dasar."
    }
   }
  ]

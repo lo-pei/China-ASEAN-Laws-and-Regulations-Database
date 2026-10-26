@@ -1,18 +1,13 @@
 {
  "formatVersion": "calr-title-zh-v1",
- "updatedAt": "2026-10-24T17:27:20",
+ "updatedAt": "2026-10-26T15:59:15",
  "note": "法规标题中文译名的权威导出与交付物归档。译名正文以 prototype/data/laws/<id>.json 的 title.zh 为唯一真源，本目录为其汇总导出与过程存档。",
- "lawCount": 18854,
- "translatedCount": 18746,
+ "lawCount": 18785,
+ "translatedCount": 18748,
  "coverage": {
-  "PH": {
-   "total": 10619,
-   "zh": 10617,
-   "pct": 100.0
-  },
-  "SG": {
-   "total": 3714,
-   "zh": 3714,
+  "BN": {
+   "total": 1275,
+   "zh": 1275,
    "pct": 100.0
   },
   "CN": {
@@ -20,50 +15,55 @@
    "zh": 1586,
    "pct": 100.0
   },
-  "BN": {
-   "total": 1298,
-   "zh": 1261,
-   "pct": 97.1
+  "ID": {
+   "total": 36,
+   "zh": 36,
+   "pct": 100.0
+  },
+  "KH": {
+   "total": 187,
+   "zh": 187,
+   "pct": 100.0
+  },
+  "LA": {
+   "total": 80,
+   "zh": 74,
+   "pct": 92.5
+  },
+  "MM": {
+   "total": 80,
+   "zh": 68,
+   "pct": 85.0
+  },
+  "MY": {
+   "total": 74,
+   "zh": 63,
+   "pct": 85.1
+  },
+  "PH": {
+   "total": 10619,
+   "zh": 10619,
+   "pct": 100.0
+  },
+  "SG": {
+   "total": 3714,
+   "zh": 3714,
+   "pct": 100.0
   },
   "TH": {
    "total": 816,
-   "zh": 162,
-   "pct": 19.9
+   "zh": 808,
+   "pct": 99.0
   },
   "TL": {
    "total": 230,
    "zh": 230,
    "pct": 100.0
   },
-  "KH": {
-   "total": 189,
-   "zh": 162,
-   "pct": 85.7
-  },
-  "MY": {
-   "total": 97,
-   "zh": 68,
-   "pct": 70.1
-  },
   "VN": {
-   "total": 91,
-   "zh": 55,
-   "pct": 60.4
-  },
-  "MM": {
-   "total": 85,
-   "zh": 49,
-   "pct": 57.6
-  },
-  "LA": {
-   "total": 80,
-   "zh": 44,
-   "pct": 55.0
-  },
-  "ID": {
-   "total": 49,
-   "zh": 37,
-   "pct": 75.5
+   "total": 88,
+   "zh": 88,
+   "pct": 100.0
   }
  },
  "batches": [
@@ -171,6 +171,12 @@
    "count": 12,
    "engine": "nllb-200-distilled-600M",
    "note": "泰文法规标题机器翻译，未人工校对"
+  },
+  {
+   "name": "id-corpus-2026-10-26",
+   "count": 31,
+   "engine": "source-extract",
+   "note": "印尼语法规批次新增/变更中文标题（title.zh 为真源）"
   }
  ],
  "files": [

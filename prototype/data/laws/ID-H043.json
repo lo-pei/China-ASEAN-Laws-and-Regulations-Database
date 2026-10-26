@@ -1,9 +1,10 @@
 {
  "id": "ID-H043",
  "title": {
-  "zh": "UU27-2022PelindunganDataPribadi 2022",
-  "en": "UU27-2022PelindunganDataPribadi 2022",
-  "orig": null
+  "zh": "个人数据保护法",
+  "en": "Law No. 27 of 2022 on Personal Data Protection",
+  "orig": null,
+  "id": "Undang-Undang Nomor 27 Tahun 2022 tentang Pelindungan Data Pribadi"
  },
  "country": "ID",
  "countryName": "印度尼西亚",
@@ -22,10 +23,10 @@
  "officialCode": null,
  "topics": [],
  "coverage": "full",
- "structureMode": "ARTICLE",
+ "structureMode": "article",
  "structure": null,
- "articleCount": 165,
- "chars": 57131,
+ "articleCount": 75,
+ "chars": 29585,
  "source": {
   "name": "印度尼西亚官方发布渠道",
   "url": null
@@ -33,164 +34,149 @@
  "sourceFile": null,
  "fetchedAt": "2026-10-04",
  "completenessNote": "全文，共 165 条；取自《东盟法律分类》归档中的 MD 原件，逐字未改写。",
- "textQuality": null,
+ "textQuality": "clean",
  "ocrNoisySections": null,
  "pdfs": null,
  "duplicateOf": null,
  "articles": [
   {
-   "id": "ID-H043-A5",
-   "no": 5,
-   "noLabel": {
-    "id": "第 5 条"
-   },
-   "heading": {
-    "en": "ayat (l), Pasal 20, Pasal 28G ayat (1), Pasal 28H"
-   },
-   "text": {
-    "id": "ayat (4), dan Pasal 28J Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;\nSK No 016999A Dengan 2- Dengan Persetujuan Bersama DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA dan PRESIDEN REPUBLIK INDONESIA Menetapkan MEMUTUSKAN:\nUNDANG-UNDANG TENTANG PELINDUNGAN DATA\nPRIBADI.\nBAB I\nKETENTUAN UMUM\nPasal I\nDalam Undang-Undang ini yang dimaksud dengan:\n1. Data Pribadi adalah data tentang ora.ng perseorangan yang teridentifikasi atau dapat diidentifikasi secara tersendiri atau dikombinasi dengan informasi lainnya baik secara langsung maupun tidak langsung melalui sistem elektronik atau nonelektronik.\n2. Pelindungan Data Pribadi adalah keseluruhan upaya untuk melindungi Data Pribadi dalam rangkaian pemrosesan Data Fribadi guna menjamin hak konstitusional subjek Data Pribadi.\n3. Informasi adalah keterangan, pernyataan, gagasan, dan tanda-tanda yang mengandung nilai, makna, dan pesan, baik data, fakta, maupun penjelasannya yang dapat dilihat, didengar, dan dibaca yang disajikan dalam berbagai kemasan dan format sesuai dengan perkembangan teknologi informasi dan komunikasi secara elektronik ataupun nonelektronik.\n4. Pengendali Data Pribadi adalah setiap orang, badan publik, dan organisasi internasional yang bertindak . sendiri-sendiri atau bersama-sama dalam menentukan tujuan dan melakukan kendali pemrosesan Data Pribadi.\nSK No 017000 A\n5. Prosesor . . .\nPRESTDEN\n5. Prosesor Data Pribadi adalah setiap orang, badan publik, dan organisasi internasional yang bertindak sendiri-sendiri atau bersama-sama dalam melakukan pemrosesan Data Pribadi atas nama Pengendali Data Pribadi.\n6. Subjek Data Pribadi adalah orang perseorangan yang pada dirinya melekat Data Pribadi.\n7. Setiap Orang adalah orang perseorangan atau korporasi.\nS. Korporasi adalah kumpulan orang dan/ atau kekayaan yang terorganisasi baik yang berbadan hukum maupun tidak berbadan hukum.\n9. Badan Publik adalah lembaga eksekutif, legislatif, yudikatif, dan badan lain yang fungsi dan tugas pokoknya berkaitan dengan penyelenggaraan negara, yang sebagian atau seluruh dananya bersumber dari Anggaran Pendapatan dan Belanja Negara dan/ atau Anggaran Pendapatan dan Belanja Daerah, atau organisasi nonpemerintah sepanjang sebagian atau seluruh dananya bersumber dari Anggaran Pendapatan dan Belanja Negara dan/ atau Anggaran . Pendapatan dan Belanja Daerah, sumbangan masyarakat, dan/atau luar negeri.\n1O. Organisasi Internasional adalah organisasi yang diakui sebagai subjek hukum internasional dan mempunyai kapasitas untuk membuat perjanjian internasional.\n1 1. Pemerintah Pusat yang selanjutnya disebut Pemerintah adalah Presiden Republik Indonesia yang memegang kekuasaan pemerintahan Negara Republik Indonesia sebagaimana dimaksud dalam Undang- Undang Dasar Negara Republik Indonesia Tahun 1945."
-   }
-  },
-  {
    "id": "ID-H043-A2",
-   "no": 2,
+   "no": 1,
    "noLabel": {
-    "id": "第 2 条"
+    "zh": "第 2 条",
+    "en": "Article 2"
    },
    "text": {
-    "id": "(1) Undang-Undang ini berlaku untuk Setiap Orang, Badan Publik, dan Organisasi Internasional yang melakukan perbuatan hukum sebagaimana diatur dalam Undang-Undang ini:\na. yang berada di wilayah hukum Negara Republik Indonesia; dan b.diluar...\nSK No 155204A\nb. di luar rvilayah hukum Negara Republik Indonesia, yang memiliki akibat hukum:\n1. di wilayah hukum Negara Republik Indonesia; dan/atau\n2. bag Subjek Data Pribadi warga negara Indonesia di luar wilayah hukum Negara Republik Indonesia.\n(2) Undang-Undang ini tidak berlaku untuk pemrosesan Data Pribadi oleh orang perseorangan dalam kegiatan pribadi atau rumah tangga.\nBAB II\nASAS"
+    "id": "(1) Undang-Undang ini berlaku untuk Setiap Orang, Badan Publik, dan Organisasi Internasional yang melakukan perbuatan hukum sebagaimana diatur dalam Undang-Undang ini:\na. yang berada di wilayah hukum Negara Republik Indonesia; dan\nb. di luar wilayah hukum Negara Republik Indonesia, yang memiliki akibat hukum:\n1. di wilayah hukum Negara Republik Indonesia; dan/atau\n2. bagi Subjek Data Pribadi warga negara Indonesia di luar wilayah hukum Negara Republik Indonesia.\n\n(2) Undang-Undang ini tidak berlaku untuk pemrosesan Data Pribadi oleh orang perseorangan dalam kegiatan pribadi atau rumah tangga."
    }
   },
   {
    "id": "ID-H043-A3",
-   "no": 3,
+   "no": 2,
    "noLabel": {
-    "id": "第 3 条"
+    "zh": "第 3 条",
+    "en": "Article 3"
    },
    "text": {
-    "id": "Undang-Undang ini berasaskan : a.\nb. kepastian hukum;\nc. kepentingan umum;\nd. kemanfaatan;\ne. kehati-hatian;\nf. keseimbangan;\ng. pertanggungjawaban; dan\nh. kerahasiaan.\nBAB III\nJENIS DATA PRIBADI"
+    "id": "Undang-Undang ini berasaskan:\na. pelindungan;\nb. kepastian hukum;\nc. kepentingan umum;\nd. kemanfaatan;\ne. kehati-hatian;\nf. keseimbangan;\ng. pertanggungjawaban; dan\nh. kerahasiaan."
    }
   },
   {
    "id": "ID-H043-A4",
-   "no": 4,
+   "no": 3,
    "noLabel": {
-    "id": "第 4 条"
+    "zh": "第 4 条",
+    "en": "Article 4"
    },
    "text": {
-    "id": "(l) Data Pribadi terdiri atas:\na. Data Pribadi yang bersifat spesifik; dan\nb. Data Pribadi yang bersifat umum.\nSK No 155205 A (2lData...\nREPI.JBLIK INDONESIA l2l Data Pribadi yang bersifat spesifik sebagaimana dimaksud pada ayat (l) huruf a meliputi:\n. a. data dan informasi kesehatan;\nb. data biometrik;\nc. data genetika;\nd. catatan kejahatan;\ne. data anak;\nf. data ker.rangan pribadi; dan/ atau\ng. data lainnya sesuai dengan ketentuan peraturan perundang-undangan.\n(3) Data Pribadi yang bersifat umum sebagaimana dimaksud pada ayat (l) huruf b meliputi:\na. nama lengkap;\nb. jenis kelamin; c. d. e. f. agama; status perkawinan; dan/ atau Data Pribadi yang dikombinasikan mengidentifikasi seseorang. untuk BAB IV HAK SUBJEK DATA PRIBADI"
+    "id": "(1) Data Pribadi terdiri atas:\na. Data Pribadi yang bersifat spesifik; dan\nb. Data Pribadi yang bersifat umum.\n\n(2) Data Pribadi yang bersifat spesifik sebagaimana dimaksud pada ayat (1) huruf a meliputi:\na. data dan informasi kesehatan;\nb. data biometrik;\nc. data genetika;\nd. catatan kejahatan;\ne. data anak;\nf. data keuangan pribadi; dan/atau\ng. data lainnya sesuai dengan ketentuan peraturan perundang-undangan.\n\n(3) Data Pribadi yang bersifat umum sebagaimana dimaksud pada ayat (1) huruf b meliputi:\na. nama lengkap;\nb. jenis kelamin;\nc. kewarganegaraan;\nd. agama;\ne. status perkawinan; dan/atau\nf. Data Pribadi yang dikombinasikan untuk mengidentifikasi seseorang."
    }
   },
   {
-   "id": "ID-H043-A5-d2",
-   "no": 5,
+   "id": "ID-H043-A5",
+   "no": 4,
    "noLabel": {
-    "id": "第 5 条"
+    "zh": "第 5 条",
+    "en": "Article 5"
    },
    "text": {
-    "id": "Subjek Data Pribadi berhak mendapatkan Informasi tentang kejelasan identitas, dasar kepentingan hukum, tujuan permintaan dan penggu.naan Data Pribadi, dan akuntabilitas pihak yang meminta Data Pribadi."
-   },
-   "dupIndex": 2
+    "id": "Subjek Data Pribadi berhak mendapatkan Informasi tentang kejelasan identitas, dasar kepentingan hukum, tujuan permintaan dan penggunaan Data Pribadi, dan akuntabilitas pihak yang meminta Data Pribadi."
+   }
   },
   {
    "id": "ID-H043-A6",
-   "no": 6,
+   "no": 5,
    "noLabel": {
-    "id": "第 6 条"
+    "zh": "第 6 条",
+    "en": "Article 6"
    },
    "text": {
-    "id": "Subjek Data Pribadi berhak melengkapi, memperbarui, dan/atau memperbaiki kesalahan dan/atau ketidakakuratan Data Pribadi tentang dirinya sesuai dengan tujuan pemrosesan Data Pribadi.\nSK No 155206 A"
+    "id": "Subjek Data Pribadi berhak melengkapi, memperbarui, dan/atau memperbaiki kesalahan dan/atau ketidakakuratan Data Pribadi tentang dirinya sesuai dengan tujuan pemrosesan Data Pribadi."
    }
   },
   {
    "id": "ID-H043-A7",
-   "no": 7,
+   "no": 6,
    "noLabel": {
-    "id": "第 7 条"
-   },
-   "text": {
-    "id": ". .\nUBLIK INDONESlA"
-   }
-  },
-  {
-   "id": "ID-H043-A7-d2",
-   "no": 7,
-   "noLabel": {
-    "id": "第 7 条"
+    "zh": "第 7 条",
+    "en": "Article 7"
    },
    "text": {
     "id": "Subjek Data Pribadi berhak mendapatkan akses dan memperoleh salinan Data Pribadi tentang dirinya sesuai dengan ketentuan peraturan perundang-undangan."
-   },
-   "dupIndex": 2
+   }
   },
   {
    "id": "ID-H043-A8",
-   "no": 8,
+   "no": 7,
    "noLabel": {
-    "id": "第 8 条"
+    "zh": "第 8 条",
+    "en": "Article 8"
    },
    "text": {
-    "id": "Subjek Data Pribadi berhak untuk mengakhiri pemrosesan, menghapus, dan/ atau memusnahkan Data Pribadi tentang dirinya sesuai dengan ketentuan peraturan perundang-undangan."
+    "id": "Subjek Data Pribadi berhak untuk mengakhiri pemrosesan, menghapus, dan/atau memusnahkan Data Pribadi tentang dirinya sesuai dengan ketentuan peraturan perundang-undangan."
    }
   },
   {
    "id": "ID-H043-A9",
-   "no": 9,
+   "no": 8,
    "noLabel": {
-    "id": "第 9 条"
+    "zh": "第 9 条",
+    "en": "Article 9"
    },
    "text": {
-    "id": "Subjek Data Pribadi berhak menarik kembali persetqjuan pemrosesan Data Pribadi tentang dirinya yang telah diberikan kepada Pengendali Data Pribadi."
+    "id": "Subjek Data Pribadi berhak menarik kembali persetujuan pemrosesan Data Pribadi tentang dirinya yang telah diberikan kepada Pengendali Data Pribadi."
    }
   },
   {
    "id": "ID-H043-A10",
-   "no": 10,
+   "no": 9,
    "noLabel": {
-    "id": "第 10 条"
+    "zh": "第 10 条",
+    "en": "Article 10"
    },
    "text": {
-    "id": "(1) Subjek Data Pribadi berhak untuk mengajukan keberatan atas tindakan pengambilan keputusan yang hanya didasarkan pada pemrosesan secara otomatis, termasuk pemrofilan, yang menimbulkan akibat hukum atau berdampak signifrkan pada Subjek Data Pribadi.\n(2) Ketentuan lebih lanjut mengenai pengajuan keberatan atas pemrosesan secara otomatis sebagaimana dimaksud pada ayat (l) diatur dalam Peraturan Pemerintah."
+    "id": "(1) Subjek Data Pribadi berhak untuk mengajukan keberatan atas tindakan pengambilan keputusan yang hanya didasarkan pada pemrosesan secara otomatis, termasuk pemrofilan, yang menimbulkan akibat hukum atau berdampak signifikan pada Subjek Data Pribadi.\n\n(2) Ketentuan lebih lanjut mengenai pengajuan keberatan atas pemrosesan secara otomatis sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah."
    }
   },
   {
    "id": "ID-H043-A11",
-   "no": 11,
+   "no": 10,
    "noLabel": {
-    "id": "第 11 条"
+    "zh": "第 11 条",
+    "en": "Article 11"
    },
    "text": {
-    "id": "Subjek Data Pribadi berhak menunda atau membatasi pemrosesan Data Pribadi secara sesual dengan tujuan pemrosesan Data Pribadi."
+    "id": "Subjek Data Pribadi berhak menunda atau membatasi pemrosesan Data Pribadi secara proporsional sesuai dengan tujuan pemrosesan Data Pribadi."
    }
   },
   {
    "id": "ID-H043-A12",
-   "no": 12,
+   "no": 11,
    "noLabel": {
-    "id": "第 12 条"
+    "zh": "第 12 条",
+    "en": "Article 12"
    },
    "text": {
-    "id": "(I) Subjek Data Pribadi berhak menggugat dan menerima ganti rugi atas pelanggaran pemrosesan Data Pribadi tentang dirinya sesuai dengan ketentuan peraturan perundang-undangan.\n(2) Ketentuan . . .\nSK No 155207A PRESlDEN REPUBLIK INDONES]A\n(2) Ketentuan lebih lanjut mengenai pelanggaran pemrosesan Data Pribadi dan tata cara pengenaan ganti rugi sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah."
+    "id": "(1) Subjek Data Pribadi berhak menggugat dan menerima ganti rugi atas pelanggaran pemrosesan Data Pribadi tentang dirinya sesuai dengan ketentuan peraturan perundang-undangan.\n\n(2) Ketentuan lebih lanjut mengenai pelanggaran pemrosesan Data Pribadi dan tata cara pengenaan ganti rugi sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah."
    }
   },
   {
    "id": "ID-H043-A13",
-   "no": 13,
+   "no": 12,
    "noLabel": {
-    "id": "第 13 条"
-   },
-   "heading": {
-    "id": "ayat (1) dan ayat (2) dikecualikan untuk:"
+    "zh": "第 13 条",
+    "en": "Article 13"
    },
    "text": {
-    "id": "(1) Subjek Data Pribadi berhak mendapatkan dan/atau menggunakan Data Pribadi tentang dirinya dari Pengendali Data Pribadi dalam bentuk yang sesuai dengan struktur dan/ atau format yang lazim digunakan atau dapat dibaca oleh sistem elektronik.\n(2) Subjek Data Pribadi berhak dan Data Pribadi tentang dirinya ke Pengendali Data Pribadi lainnya, sepanjang sistem yang digunakan dapat saling berkomunikasi secara aman sesuai dengan prinsip Pelindungan Data Pribadi berdasarkan Undang-Undang ini.\n(3) Ketentuan lebih lanjut mengenai hak Subjek Data Pribadi untuk menggunakan dan Data Pribadi sebagaimana dimaksud pada ayat (2) diatur dalam Peraturan Pemerintah."
+    "id": "(1) Subjek Data Pribadi berhak mendapatkan dan/atau menggunakan Data Pribadi tentang dirinya dari Pengendali Data Pribadi dalam bentuk yang sesuai dengan struktur dan/atau format yang lazim digunakan atau dapat dibaca oleh sistem elektronik.\n\n(2) Subjek Data Pribadi berhak menggunakan dan mengirimkan Data Pribadi tentang dirinya ke Pengendali Data Pribadi lainnya, sepanjang sistem yang digunakan dapat saling berkomunikasi secara aman sesuai dengan prinsip Pelindungan Data Pribadi berdasarkan Undang-Undang ini."
    }
   },
   {
    "id": "ID-H043-A14",
-   "no": 14,
+   "no": 13,
    "noLabel": {
-    "id": "第 14 条"
+    "zh": "第 14 条",
+    "en": "Article 14"
    },
    "text": {
     "id": "Pelaksanaan hak Subjek Data Pribadi sebagaimana dimaksud dalam Pasal 6 sampai dengan Pasal 11 diajukan melalui permohonan tercatat yang disampaikan secara elektronik atau nonelektronik kepada Pengendali Data Pribadi."
@@ -198,165 +184,186 @@
   },
   {
    "id": "ID-H043-A15",
-   "no": 15,
+   "no": 14,
    "noLabel": {
-    "id": "第 15 条"
+    "zh": "第 15 条",
+    "en": "Article 15"
    },
    "text": {
-    "id": "(1) Hak-hak Subjek Data Pribadi sebagaimana dimaksud dalam Pasal 8, Pasal 9, Pasal 1O ayat (1), Pasal 11, dan"
+    "id": "(1) Hak-hak Subjek Data Pribadi sebagaimana dimaksud dalam Pasal 8, Pasal 9, Pasal 10 ayat (1), Pasal 11"
    }
   },
   {
-   "id": "ID-H043-A13-d2",
-   "no": 13,
-   "noLabel": {
-    "id": "第 13 条"
-   },
-   "heading": {
-    "en": "ayat (1) dan ayat (2) dikecualikan untuk:"
-   },
-   "text": {
-    "id": "a. kepentingan pertahanan dan keamanan nasional;\nb. kepentingan proses penegakan hukum;\nc. kepentingan umum dalam rangka penyelenggaraan negara; d.kepentingan...\nSK No 155208 A\nd. kepentingan pengawasan sektor jasa keuangan, moneter, sistem pembayaran, dan stabilitas sistem keuangan yang dilakukan dalam rangka penyelenggaraan negara; atau ' e. kepentingan statistik dan penelitian ilmiah.\n(2) Pengecualian sebagaimana dimaksud pada ayat (1) dilaksanakan hanya dalam rangka pelaksanaan ketentuan Undang-Undang.\nBAB V\nPEMROSESAN DATA PRIBADI"
-   },
-   "dupIndex": 2
-  },
-  {
    "id": "ID-H043-A16",
-   "no": 16,
+   "no": 15,
    "noLabel": {
-    "id": "第 16 条"
+    "zh": "第 16 条",
+    "en": "Article 16"
    },
    "text": {
-    "id": "(1) Pemrosesan Data Pribadi meliputi:\n' a. pemerolehan dan pengumpulan;\nb. pengolahan dan penganalisisan;\nc. penyimpanan;\nd. perbaikan dan pembaruan;\ne. penampilan, pengumuman, transfer, penyebarluasan, atau pengungkapan; dan/ atau\nf. penghapusan atau pemusnahan.\n(2) Pemrosesan Data Pribadi sebagaimana dimaksud pada\nayat (l) dilakukan sesuai dengan prinsip Pelindungan Data Pribadi meliputi:\na. Data Pribadi dilakukan secara terbatas dan spesifik, sah secara hukum, dan transparan;\nb. pemrosesan Data Pribadi dilakukan sesuai dengan tujuannya;\nc. pemrosesan Data Pribadi dilakukan dengan menjamin hak Subjek Data Pribadi;\nd. pemrosesan Data Pribadi dilakukan secara akurat, lengkap, tidak menyesatkan, mutakhir, dan dapat dipertan ggungi awabkan ;\nSK No 155209A e.pemrosesan...\ne. pemrosesan Data Pribadi dilakukan dengan melindungi keamanan Data Pribadi dari pengaksesan yang tidak sah, pengungkapan yang tidak sah, pengubahan yar:g tidak sah, penghilangan Data Pribadi;\nf. pemrosesan Data Pribadi dilakukan dengan memberitahukan tujuan dan aktivitas pemrosesan, serta kegagalan Pelindungan Data Pribadi;\ng. Data Pribadi dimusnahkan dan/atau dihapus setelah masa retensi beralhir atau berdasarkan permintaan Subjek Data Pribadi, kecuali ditentukan lain oleh peraturan perundang-undangan; dan\nh. pemrosesan Data Pribadi dilakukan secara bertanggung jawab dan dapat dibulrtikan secara jelas.\n(3) Ketentuan lebih lanjut mengenai pelaksanaan pemrosesan Data Pribadi sebagaimana dimaksud pada\nayat (1) diatur dalam Peraturan Pemerintah."
+    "id": "(1) Pemrosesan Data Pribadi meliputi:\na. pemerolehan dan pengumpulan;\nb. pengolahan dan penganalisisan;\nc. penyimpanan;\nd. perbaikan dan pembaruan;\ne. penampilan, pengumuman, transfer, penyebarluasan, atau pengungkapan; dan/atau\nf. penghapusan atau pemusnahan.\n\n(2) Pemrosesan Data Pribadi sebagaimana dimaksud pada ayat (1) dilakukan sesuai dengan prinsip Pelindungan Data Pribadi meliputi:\na. pengumpulan Data Pribadi dilakukan secara terbatas dan spesifik, sah secara hukum, dan transparan;\nb. pemrosesan Data Pribadi dilakukan sesuai dengan tujuannya;\nc. pemrosesan Data Pribadi dilakukan dengan menjamin hak Subjek Data Pribadi;\nd. pemrosesan Data Pribadi dilakukan secara akurat, lengkap, tidak menyesatkan, mutakhir, dan dapat dipertanggungjawabkan;\ne. pemrosesan Data Pribadi dilakukan dengan melindungi keamanan Data Pribadi dari pengaksesan yang tidak sah, pengungkapan yang tidak sah, pengubahan yang tidak sah, penyalahgunaan, perusakan, dan/atau penghilangan Data Pribadi;\nf. pemrosesan Data Pribadi dilakukan dengan memberitahukan tujuan dan aktivitas pemrosesan, serta kegagalan Pelindungan Data Pribadi;\ng. Data Pribadi dimusnahkan dan/atau dihapus setelah masa retensi berakhir atau berdasarkan permintaan Subjek Data Pribadi, kecuali ditentukan lain oleh peraturan perundang-undangan; dan\nh. pemrosesan Data Pribadi dilakukan secara bertanggung jawab dan dapat dibuktikan secara jelas.\n\n(3) Ketentuan lebih lanjut mengenai pelaksanaan pemrosesan Data Pribadi sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah."
    }
   },
   {
    "id": "ID-H043-A17",
-   "no": 17,
+   "no": 16,
    "noLabel": {
-    "id": "第 17 条"
+    "zh": "第 17 条",
+    "en": "Article 17"
    },
    "text": {
-    "id": "(l) Pemasangan alat pemroses atau pengolah data visual di tempat umum dan/ atau pada fasilitas pelayanan publik dilakukan dengan ketentuan:\na. untuk tujuan keamanan, pencegahan bencana, dan/atau pengumpulan, analisis, dan pengaturan Informasi lalu lintas;\nb. harus Informasi pada area yang telah dipasang alat pemroses atau pengolah data visual; dan\nc. tidak digunakan untuk seseorang.\n(2) Ketentuan sebagaimana dimaksud pada ayat (1)\nhuruf b dan huruf c dikecualikan untuk pencegahan tindak pidana dan proses penegakan hukum sesuai dengan ketentuan peraturan perundang-undangan. perusakan, dan/atau lalu lintas atau SK No 155344A"
+    "id": "(1) Pemasangan alat pemroses atau pengolah data visual di tempat umum dan/atau pada fasilitas pelayanan publik dilakukan dengan ketentuan:\na. untuk tujuan keamanan, pencegahan bencana, dan/atau penyelenggaraan lalu lintas atau pengumpulan, analisis, dan pengaturan Informasi lalu lintas;\nb. harus menampilkan Informasi pada area yang telah dipasang alat pemroses atau pengolah data visual; dan\nc. tidak digunakan untuk mengidentifikasi seseorang.\n\n(2) Ketentuan sebagaimana dimaksud pada ayat (1) huruf b dan huruf c dikecualikan untuk pencegahan tindak pidana dan proses penegakan hukum sesuai dengan ketentuan peraturan perundang-undangan."
    }
   },
   {
    "id": "ID-H043-A18",
-   "no": 18,
+   "no": 17,
    "noLabel": {
-    "id": "第 18 条"
+    "zh": "第 18 条",
+    "en": "Article 18"
    },
    "text": {
-    "id": ". .\n\nBLIK INDONESIA\n-10-"
+    "id": "(1) Pemrosesan Data Pribadi dapat dilakukan oleh 2 (dua) atau lebih Pengendali Data Pribadi.\n\n(2) Dalam hal Pemrosesan Data Pribadi dilakukan oleh 2 (dua) atau lebih Pengendali Data Pribadi harus memenuhi syarat minimal:\na. terdapat perjanjian antara para Pengendali Data Pribadi yang memuat peran, tanggung jawab, dan hubungan antar-Pengendali Data Pribadi;\nb. terdapat tujuan yang saling berkaitan dan cara pemrosesan Data Pribadi yang ditentukan secara bersama; dan\nc. terdapat narahubung yang ditunjuk secara bersama-sama."
    }
   },
   {
-   "id": "ID-H043-A18-d2",
+   "id": "ID-H043-A19",
    "no": 18,
    "noLabel": {
-    "id": "第 18 条"
+    "zh": "第 19 条",
+    "en": "Article 19"
    },
    "text": {
-    "id": "(1) Pemrosesan Data Pribadi dapat dilalrukan oleh 2 (dua) atau lebih Pengendali Data Pribadi.\n(2) Dalam hal Pemrosesan Data Pribadi dilakukan oleh 2 (dua) atau lebih Pengendali Data Pribadi harus memenuhi syarat minimal:\na. terdapat perjanjian antara para Pengendali Data Pribadi yang memuat peran, tanggung jawab, dan hubungan antar-Pengendali Data Pribadi;\nb. terdapat tujuan yang saling berkaitan dan cara pemrosesan Data Pribadi yang ditentukan secara bersama; dan\nc. terdapat narahubung yang ditunjuk secara bersama-sama.\nBAB VI\nKEWAJIBAN PENGENDALI DATA PRIBADI DAN PROSESOR DATA PRIBADI\nDAI,AM PEMROSESAN DATA PRIBADI\nBagian Kesatu\nUmum"
-   },
-   "dupIndex": 2
-  },
-  {
-   "id": "ID-H043-A19",
-   "no": 19,
-   "noLabel": {
-    "id": "第 19 条"
-   },
-   "text": {
-    "id": "Pengendali Data Pribadi dan Prosesor Data Pribadi meliputi:\na. Setiap Orang;\nb. Badan Publik; dan\nc. Organisasi Internasional.\nBagian Kedua\nKewajiban Pengendali Data Pribadi"
+    "id": "Pengendali Data Pribadi dan Prosesor Data Pribadi meliputi:\na. Setiap Orang;\nb. Badan Publik; dan\nc. Organisasi Internasional."
    }
   },
   {
    "id": "ID-H043-A20",
-   "no": 20,
+   "no": 19,
    "noLabel": {
-    "id": "第 20 条"
+    "zh": "第 20 条",
+    "en": "Article 20"
    },
    "text": {
-    "id": "(1) Pengendali Data Pribadi wajib memiliki dasar pemrosesan Data Pribadi.\n(2) Dasar...\nSK No l552ll A\n(2) Dasar pernmsesan Data Pribadi sebagaimana dimaksud pada ayat (1) meliputi:\na. persetujuan yang sah secara eksplisit dari Subjek Data Pribadi untuk 1 (sahr) atau beberapa tujuan tertentu yang telah disampait<an oleh Pengendali Data Pribadi kepada Subjek Data Pribadi;\nb. pemenuhan kewajiban perjanjian dalam hal Subjek Data Pribadi merupakan salah satu pihak atau untuk memenuhi permintaan Subjek Data Pribadi pada saat akan melalrukan pedanjian;\nc. pemenuhan kewajiban hukum dari Pengendali Data Pribadi sesuai dengan ketentuan peraturan perundang-undangan;\nd. pemenuhan pelindungan kepentingan vital Subjek Data Pribadi;\ne. pelaksanaan tugas dalam rangka kepentJngan umum, pelayanan publik, atau pelaksanaan . kewenangan Pengendali Data Pribadi berdasarkan peraturan perundang-undangan; dan/atau\nf. pemenuhan kepentingan yang sah lainnya dengan memperhatikan tujuan, kebututran, dan keseimbangan kepentingan Pengendali Data Pribadi dan hak Subjek Data Pribadi."
+    "id": "(1) Pengendali Data Pribadi wajib memiliki dasar pemrosesan Data Pribadi.\n\n(2) Dasar pemrosesan Data Pribadi sebagaimana dimaksud pada ayat (1) meliputi:\na. persetujuan yang sah secara eksplisit dari Subjek Data Pribadi untuk 1 (satu) atau beberapa tujuan tertentu yang telah disampaikan oleh Pengendali Data Pribadi kepada Subjek Data Pribadi;\nb. pemenuhan kewajiban perjanjian dalam hal Subjek Data Pribadi merupakan salah satu pihak atau untuk memenuhi permintaan Subjek Data Pribadi pada saat akan melakukan perjanjian;\nc. pemenuhan kewajiban hukum dari Pengendali Data Pribadi sesuai dengan ketentuan peraturan perundang-undangan;\nd. pemenuhan pelindungan kepentingan vital Subjek Data Pribadi;\ne. pelaksanaan tugas dalam rangka kepentingan umum, pelayanan publik, atau pelaksanaan kewenangan Pengendali Data Pribadi berdasarkan peraturan perundang-undangan; dan/atau\nf. pemenuhan kepentingan yang sah lainnya dengan memperhatikan tujuan, kebutuhan, dan keseimbangan kepentingan Pengendali Data Pribadi dan hak Subjek Data Pribadi."
    }
   },
   {
    "id": "ID-H043-A21",
-   "no": 21,
+   "no": 20,
    "noLabel": {
-    "id": "第 21 条"
+    "zh": "第 21 条",
+    "en": "Article 21"
    },
    "text": {
-    "id": "(1) Dalam hal pemrosesan Data Pribadi berdasarkan persetujuan sebagaimana dimaksud dalam Pasal 2O ayat (21 huruf a, Pengendali Data Pribadi wajib menyampaikan Informasi mengenai:\na. legalitas dari pemrosesan Data Pribadi;\nb. tujuan pemrosesan Data Pribadi;\nc. jenis dan relevansi Data Pribadi yang akan diproses;\nd. jangka waktu retensi dokumen yang memuat Data Pribadi;\ne. rincian mengenai Informasi yang\nf. jangka waktu pemrosesan Data Pribadi; dan\nC. hak Subjek Data Pribadi.\nSK No l552l2A\n(2) Dalam . . .\nPRESIEIEN\nREPUBLIK INOONESIA -t2-\n(2) Dalam hal terdapat perubahan Informasi sebagaimana dimaksud pada ayat (1), Pengendali Data Pribadi wajib . memberitahukan kepada Subjek Data Pribadi sebelum terjadi perubahan Informasi.\nPasa722\n(1) Persetujuan pemrosesan Data Pribadi dilakukan melalui persetujuan tertulis atau terekam.\n(2) Persetqiuan sebagaimana dimaksud pada ayat (1) dapat disampaikan secara elektronik atau nonelektronik.\n(3) Persetqjuan sebagaimana dimaksud pada ayat (1) mempunyai kekuatan hukum yang sama.\n(4). Dalam hal persetqluan sebagaimana dimaksud pada\nayat (1) memuat tujuan lain, permintaan persetqjuan harus memenuhi ketentuan:\na. dapat dibedakan secara jelas dengan hal lainnya;\nb. dibuat dengan forrnat yang dapat dipahami dan mudah diakses; dan\nc. menggunalan bahasa yang sederhana dan jelas.\n(5) Persetqjuan yang tidak memenuhi ketentuan sebagaimana dimaksud pada ayat (1) dan ayat (4) dinyatakan batal demi hukum.\n' Pasal 23 Klausul perjanjian yang di dalamnya terdapat permintaan pemrosesan Data Pribadi yang tidak memuat persetqjuan yang sah secara eksplisit dari Subjek Data Pribadi dinyatakan batal demi hukum."
+    "id": "(1) Dalam hal pemrosesan Data Pribadi berdasarkan persetujuan sebagaimana dimaksud dalam Pasal 20 ayat (2) huruf a, Pengendali Data Pribadi wajib menyampaikan Informasi mengenai:\na. legalitas dari pemrosesan Data Pribadi;\nb. tujuan pemrosesan Data Pribadi;\nc. jenis dan relevansi Data Pribadi yang akan diproses;\nd. jangka waktu retensi dokumen yang memuat Data Pribadi;\ne. rincian mengenai Informasi yang dikumpulkan;\nf. jangka waktu pemrosesan Data Pribadi; dan\ng. hak Subjek Data Pribadi."
+   }
+  },
+  {
+   "id": "ID-H043-A22",
+   "no": 21,
+   "noLabel": {
+    "zh": "第 22 条",
+    "en": "Article 22"
+   },
+   "text": {
+    "id": "(1) Persetujuan pemrosesan Data Pribadi dilakukan melalui persetujuan tertulis atau terekam.\n\n(2) Persetujuan sebagaimana dimaksud pada ayat (1) dapat disampaikan secara elektronik atau nonelektronik.\n\n(3) Persetujuan sebagaimana dimaksud pada ayat (1) mempunyai kekuatan hukum yang sama."
+   }
+  },
+  {
+   "id": "ID-H043-A23",
+   "no": 22,
+   "noLabel": {
+    "zh": "第 23 条",
+    "en": "Article 23"
+   },
+   "text": {
+    "id": "Klausul perjanjian yang di dalamnya terdapat permintaan pemrosesan Data Pribadi yang tidak memuat persetujuan yang sah secara eksplisit dari Subjek Data Pribadi dinyatakan batal demi hukum."
    }
   },
   {
    "id": "ID-H043-A24",
-   "no": 24,
+   "no": 23,
    "noLabel": {
-    "id": "第 24 条"
+    "zh": "第 24 条",
+    "en": "Article 24"
    },
    "text": {
-    "id": "Dalam melakukan pemrosesan Data Pribadi, Pengendali Data Pribadi wajib menunjukkan bukti persetqjuan yang telah diberikan oleh Subjek Data Pribadi.\nSK No 155213 A"
+    "id": "Dalam melakukan pemrosesan Data Pribadi, Pengendali Data Pribadi wajib menunjukkan bukti persetujuan yang telah diberikan oleh Subjek Data Pribadi."
    }
   },
   {
    "id": "ID-H043-A25",
-   "no": 25,
+   "no": 24,
    "noLabel": {
-    "id": "第 25 条"
+    "zh": "第 25 条",
+    "en": "Article 25"
    },
    "text": {
-    "id": "..\nPRESIOEN\nREPUBLIK INDONES]A"
+    "id": "(1) Pemrosesan Data Pribadi anak diselenggarakan secara khusus.\n\n(2) Pemrosesan Data Pribadi anak sebagaimana dimaksud pada ayat (1) wajib mendapat persetujuan dari orang tua anak dan/atau wali anak sesuai dengan ketentuan peraturan perundang-undangan."
    }
   },
   {
-   "id": "ID-H043-A25-d2",
+   "id": "ID-H043-A26",
    "no": 25,
    "noLabel": {
-    "id": "第 25 条"
+    "zh": "第 26 条",
+    "en": "Article 26"
    },
    "text": {
-    "id": "(1) Pemrosesan Data Pribadi anak khusus.\n(2) Pemrosesan Data Pribadi anak sebagaimana dimaksud pada ayat (1) wajib mendapat persetqjuan dari orang tua anak dan/ atau wali anak sesuai dengan ketentuan peraturan perundang-undangan."
-   },
-   "dupIndex": 2
+    "id": "(1) Pemrosesan Data Pribadi penyandang disabilitas diselenggarakan secara khusus.\n\n(2) Pemrosesan Data Pribadi penyandang disabilitas sebagaimana dimaksud pada ayat (1) dilakukan melalui komunikasi dengan menggunakan cara tertentu sesuai dengan ketentuan perundang-undangan.\n\n(3) Pemrosesan Data Pribadi penyandang disabilitas sebagaimana dimaksud pada ayat (2) wajib mendapat persetujuan dari penyandang disabilitas dan/atau wali penyandang disabilitas sesuai dengan ketentuan peraturan perundang-undangan."
+   }
   },
   {
-   "id": "ID-H043-A26",
+   "id": "ID-H043-A27",
    "no": 26,
    "noLabel": {
-    "id": "第 26 条"
+    "zh": "第 27 条",
+    "en": "Article 27"
    },
    "text": {
-    "id": "(1) Pemrosesan Data Pribadi disabilitas ' diselenggarakan secara khusus. secara disabilitas dilakukan\n(2) Pemrosesan Data Pribadi penyandang sebagaimana dimaksud pada ayat (1) melalui komunikasi dengan cara tertentu sesuai dengan ketentuan undangan.\n(3) Pemrosesalr Data Pribadi penyandang disabilitas sebagaimana dimaksud pada ayat (2) wajib mendapat persetujuan dari penyandang disabilitas dan/ atau wali penyandang disabilitas sesuai dengan ketentuan peraturan perundang-undangan.\nPasal2T\nPengendali Data Pribadi wajib melakukan pemrosesan Data Pribadi secara terbatas dan spesifik, sah secara hukum, dan transparan."
+    "id": "Pengendali Data Pribadi wajib melakukan pemrosesan Data Pribadi secara terbatas dan spesifik, sah secara hukum, dan transparan."
    }
   },
   {
    "id": "ID-H043-A28",
-   "no": 28,
+   "no": 27,
    "noLabel": {
-    "id": "第 28 条"
+    "zh": "第 28 条",
+    "en": "Article 28"
    },
    "text": {
-    "id": "Pengendali Data Pribadi wajib melakukan pemrosesan Data Pribadi sesuai dengan tujuan pemrosesan Data Pribadi.\n. Pasal 29\n(1) Pengendali Data Pribadi wajib memastikan akurasi, kelengkapan, dan konsistensi Data Pribadi sesuai dengan ketentuan peraturan perundang-undangan.\nSK No l55214A\n(2) Dalam . . .\nREPTIBLIK INDONESlA\n(2) Dalam memastikan akurasi, kelengkapan, dan konsistensi Data Pribadi sebagaimana dimaksud pada\nayat (l) Pengendali Data Pribadi wajib melakukan verifikasi."
+    "id": "Pengendali Data Pribadi wajib melakukan pemrosesan Data Pribadi sesuai dengan tujuan pemrosesan Data Pribadi."
+   }
+  },
+  {
+   "id": "ID-H043-A29",
+   "no": 28,
+   "noLabel": {
+    "zh": "第 29 条",
+    "en": "Article 29"
+   },
+   "text": {
+    "id": "(1) Pengendali Data Pribadi wajib memastikan akurasi, kelengkapan, dan konsistensi Data Pribadi sesuai dengan ketentuan peraturan perundang-undangan.\n\n(2) Dalam memastikan akurasi, kelengkapan, dan konsistensi Data Pribadi sebagaimana dimaksud pada ayat (1) Pengendali Data Pribadi wajib melakukan verifikasi."
    }
   },
   {
    "id": "ID-H043-A30",
-   "no": 30,
+   "no": 29,
    "noLabel": {
-    "id": "第 30 条"
+    "zh": "第 30 条",
+    "en": "Article 30"
    },
    "text": {
-    "id": "(1) Pengendali Data Pribadi wajib memperbarui dan/ atau' memperbaiki kesalahan dan/atau ketidakakuratan Data Fribadi paling lambat 3 x 24 (tiga kali dua puluh empat) jam terhitung sejak Pengendali Data Pribadi menerima permintaan pembaruan dan/atau perbaikan Data Pribadi.\n(2) Pengendali Data Pribadi wajib memberitahukan hasil pembaruan dan/atau perbaikan Data Pribadi kepada Subjek Data Pribadi."
+    "id": "(1) Pengendali Data Pribadi wajib memperbarui dan/atau memperbaiki kesalahan dan/atau ketidakakuratan Data Pribadi paling lambat 3 x 24 (tiga kali dua puluh empat) jam terhitung sejak Pengendali Data Pribadi menerima permintaan pembaruan dan/atau perbaikan Data Pribadi.\n\n(2) Pengendali Data Pribadi wajib memberitahukan hasil pembaruan dan/atau perbaikan Data Pribadi kepada Subjek Data Pribadi."
    }
   },
   {
    "id": "ID-H043-A31",
-   "no": 31,
+   "no": 30,
    "noLabel": {
-    "id": "第 31 条"
+    "zh": "第 31 条",
+    "en": "Article 31"
    },
    "text": {
     "id": "Pengendali Data Pribadi wajib melakukan perekaman terhadap seluruh kegiatan pemrosesan Data Pribadi."
@@ -364,49 +371,54 @@
   },
   {
    "id": "ID-H043-A32",
-   "no": 32,
+   "no": 31,
    "noLabel": {
-    "id": "第 32 条"
+    "zh": "第 32 条",
+    "en": "Article 32"
    },
    "text": {
-    "id": "(1) Pengendali Data Pribadi wajib memberikan akses kepada Subjek Data Pribadi terhadap Data Pribadi yang diproses beserta rekam jejak pemrosesan Data Pribadi sesuai dengan jangka waktu penyimpanan Data Pribadi.\n(2) Akses sebagaimana dimaksud pada ayat (1) diberikan paling lambat 3 x 24 (tiga kali dua puluh empat) jam terhitung sejak Pengendali Data Pribadi menerima permintaan akses."
+    "id": "(1) Pengendali Data Pribadi wajib memberikan akses kepada Subjek Data Pribadi terhadap Data Pribadi yang diproses beserta rekam jejak pemrosesan Data Pribadi sesuai dengan jangka waktu penyimpanan Data Pribadi.\n\n(2) Akses sebagaimana dimaksud pada ayat (1) diberikan paling lambat 3 x 24 (tiga kali dua puluh empat) jam terhitung sejak Pengendali Data Pribadi menerima permintaan akses."
    }
   },
   {
    "id": "ID-H043-A33",
-   "no": 33,
+   "no": 32,
    "noLabel": {
-    "id": "第 33 条"
+    "zh": "第 33 条",
+    "en": "Article 33"
    },
    "text": {
-    "id": "Pengendali Data Pribadi wajib menolak memberikan akses perubahan terhadap Data Fribadi kepada Subjek Data Pribadi dalam hal:\na. membahayakan keamanan, kesehatan fisik, atau kesehatan mental Subjek Data Pribadi dan/ atau orang lain;\nb. berdampak . . .\nSK No 155215 A\nb. berdampak pada pengungkapan Data Pribadi milik c orang lain; dan/ atau bertentangan dengan kepentingan pertahanan dan keamanan nasional."
+    "id": "Pengendali Data Pribadi wajib menolak memberikan akses perubahan terhadap Data Pribadi kepada Subjek Data Pribadi dalam hal:\na. membahayakan keamanan, kesehatan fisik, atau kesehatan mental Subjek Data Pribadi dan/atau orang lain;\nb. berdampak pada pengungkapan Data Pribadi milik orang lain; dan/atau\nc. bertentangan dengan kepentingan pertahanan dan keamanan nasional."
    }
   },
   {
    "id": "ID-H043-A34",
-   "no": 34,
+   "no": 33,
    "noLabel": {
-    "id": "第 34 条"
+    "zh": "第 34 条",
+    "en": "Article 34"
    },
    "text": {
-    "id": "(1) Pengendali Data Pribadi wajib melakukan penilaian dampak Pelindungan Data Pribadi dalam hal pemrosesan Data Pribadi memiliki potensi risiko tinggi terhadap Subjek Data Pribadi.\n(2) Pemrosesan Data Pribadi memiliki potensi risiko tinggi sebagaimana dimaksud pada ayat (1) meliputi:\na. pengambilan keputusan secara otomatis yang memiliki akibat hukum atau dampak yang . signifikan terhadap Subjek Data Pribadi;\nb. pemrosesan atas Data Pribadi yang bersifat spesifik;\nc. pemrosesan Data Pribadi dalam skala besar;\nd. pemrosesan Data Pribadi untuk kegiatan evaluasi, penskoran, atau pemantauan yang sistematis terhadap Subjek Data Pribadi;\ne. pemrosesan Data Pribadi untuk kegiatan pencocokan atau penggabungan sekelompok data;\nf. penggunaan teknologi baru dalam pemrosesan Data Pribadi; dan/ atau\ng. pemrosescrn Data Pribadi yang membatasi pelaksanaan hak Subjek Data Pribadi.\n(3) Ketentuan lebih lanjut mengenai penilaian dampak Pelindungan Data Pribadi diatur dalam Peraturan Pemerintah."
+    "id": "(1) Pengendali Data Pribadi wajib melakukan penilaian dampak Pelindungan Data Pribadi dalam hal pemrosesan Data Pribadi memiliki potensi risiko tinggi terhadap Subjek Data Pribadi.\n\n(2) Pemrosesan Data Pribadi memiliki potensi risiko tinggi sebagaimana dimaksud pada ayat (1) meliputi:\na. pengambilan keputusan secara otomatis yang memiliki akibat hukum atau dampak yang signifikan terhadap Subjek Data Pribadi;\nb. pemrosesan atas Data Pribadi yang bersifat spesifik;\nc. pemrosesan Data Pribadi dalam skala besar;\nd. pemrosesan Data Pribadi untuk kegiatan evaluasi, penskoran, atau pemantauan yang sistematis terhadap Subjek Data Pribadi;\ne. pemrosesan Data Pribadi untuk kegiatan pencocokan atau penggabungan sekelompok data;\nf. penggunaan teknologi baru dalam pemrosesan Data Pribadi; dan/atau\ng. pemrosesan Data Pribadi yang membatasi pelaksanaan hak Subjek Data Pribadi."
    }
   },
   {
    "id": "ID-H043-A35",
-   "no": 35,
+   "no": 34,
    "noLabel": {
-    "id": "第 35 条"
+    "zh": "第 35 条",
+    "en": "Article 35"
    },
    "text": {
-    "id": "Pengendali Data Pribadi wajib melindungi dan memastikan keamanan Data Pribadi yang diprosesnya, dengan melakukan:\na. pen]rusunan . . .\nSK No 155216A\na. penyusunan dan penerapan langkah teknis ' operasional untuk melindungi Data Pribadi dari gangguan pemrosesan Data Pribadi yang bertentangan dengan ketentuan peraturan perundang-undangan; dan\nb. penentuan tingkat keamanan Data Pribadi dengan memperhatikan sifat dan risiko dari Data Pribadi yang harus dilindungi dalam pemrosesan Data Pribadi."
+    "id": "Pengendali Data Pribadi wajib melindungi dan memastikan keamanan Data Pribadi yang diprosesnya, dengan melakukan:\na. penyusunan dan penerapan langkah teknis operasional untuk melindungi Data Pribadi dari gangguan pemrosesan Data Pribadi yang bertentangan dengan ketentuan peraturan perundang-undangan; dan\nb. penentuan tingkat keamanan Data Pribadi dengan memperhatikan sifat dan risiko dari Data Pribadi yang harus dilindungi dalam pemrosesan Data Pribadi."
    }
   },
   {
    "id": "ID-H043-A36",
-   "no": 36,
+   "no": 35,
    "noLabel": {
-    "id": "第 36 条"
+    "zh": "第 36 条",
+    "en": "Article 36"
    },
    "text": {
     "id": "Dalam melakukan pemrosesan Data Pribadi, Pengendali Data Pribadi wajib menjaga kerahasiaan Data Pribadi."
@@ -414,9 +426,10 @@
   },
   {
    "id": "ID-H043-A37",
-   "no": 37,
+   "no": 36,
    "noLabel": {
-    "id": "第 37 条"
+    "zh": "第 37 条",
+    "en": "Article 37"
    },
    "text": {
     "id": "Pengendali Data Pribadi wajib melakukan pengawasan terhadap setiap pihak yang terlibat dalam pemrosesan Data Pribadi di bawah kendali Pengendali Data Pribadi."
@@ -424,9 +437,10 @@
   },
   {
    "id": "ID-H043-A38",
-   "no": 38,
+   "no": 37,
    "noLabel": {
-    "id": "第 38 条"
+    "zh": "第 38 条",
+    "en": "Article 38"
    },
    "text": {
     "id": "Pengendali Data Pribadi wajib melindungi Data Pribadi dari pemrosesan yang tidak sah."
@@ -434,562 +448,395 @@
   },
   {
    "id": "ID-H043-A39",
-   "no": 39,
+   "no": 38,
    "noLabel": {
-    "id": "第 39 条"
+    "zh": "第 39 条",
+    "en": "Article 39"
    },
    "text": {
-    "id": "(1) Pengendali Data Pribadi wajib mencegah Data Pribadi diakses secara tidak sah.\n(2) Pencegahan sebagaimana dimaksud pada ayat (1) dilakukan dengan sistem keamanan terhadap Data Pribadi yang diproses dan/ atau memproses Data Pribadi sistem elektronik secara andal, aman, dan bertanggung jawab.\n(3) Pencegahan sebagaimana dimaksud pada ayat (21 dilakukan sesuai dengan ketentuan peraturan perundang-undangan.\nSK No l552l7A"
+    "id": "(1) Pengendali Data Pribadi wajib mencegah Data Pribadi diakses secara tidak sah.\n\n(2) Pencegahan sebagaimana dimaksud pada ayat (1) dilakukan dengan menggunakan sistem keamanan terhadap Data Pribadi yang diproses dan/atau memproses Data Pribadi menggunakan sistem elektronik secara andal, aman, dan bertanggung jawab.\n\n(3) Pencegahan sebagaimana dimaksud pada ayat (2) dilakukan sesuai dengan ketentuan peraturan perundang-undangan."
    }
   },
   {
    "id": "ID-H043-A40",
-   "no": 40,
+   "no": 39,
    "noLabel": {
-    "id": "第 40 条"
+    "zh": "第 40 条",
+    "en": "Article 40"
    },
    "text": {
-    "id": "..\n\nREPUBLIK INDONESIA\n-t7-"
+    "id": "(1) Pengendali Data Pribadi wajib menghentikan pemrosesan Data Pribadi dalam hal Subjek Data Pribadi menarik kembali persetujuan pemrosesan Data Pribadi.\n\n(2) Penghentian pemrosesan Data Pribadi sebagaimana dimaksud pada ayat (1) dilakukan paling lambat 3 x 24 (tiga kali dua puluh empat) jam terhitung sejak Pengendali Data Pribadi menerima permintaan penarikan kembali persetujuan pemrosesan Data Pribadi."
    }
   },
   {
-   "id": "ID-H043-A40-d2",
+   "id": "ID-H043-A41",
    "no": 40,
    "noLabel": {
-    "id": "第 40 条"
+    "zh": "第 41 条",
+    "en": "Article 41"
    },
    "text": {
-    "id": "(1) Pengendali Data Pribadi wajib menghentikan pemrosesan Data Pribadi dalam hal Subjek Data Pribadi menarik kembali persetujuan pemrosesan Data Pribadi.\n(2) Penghentian pemrosesan Data Pribadi sebagaimana dimaksud pada ayat (1) dilakukan paling lambat 3 x 24 (tiga kali dua puluh empat) jam terhitung sejak Pengendali Data Pribadi menerima permintaan penarikan kembdi persetqiuan pemrosesan Data Pribadi."
-   },
-   "dupIndex": 2
-  },
-  {
-   "id": "ID-H043-A41",
-   "no": 41,
-   "noLabel": {
-    "id": "第 41 条"
-   },
-   "text": {
-    "id": "(1) Pengendali Data Pribadi wajib melakukan penundaan dan pembatasan pemrosesan Data Fribadi baik sebagian maupun seluruhnya paling lambat 3 x 24 (tiga kali dua puluh empat) jam terhitung sejak Pengendali Data Pribadi menerima permintaan penundaan dan pembatasan pemrosesan Data Pribadi.\n(2) Penundaan dan pembatasan pemrosesan Data Pribadi sebagaimana dimaksud pada ayat (1) dikecualikan . dalam hal: a peraturan perundang-dilakukan penundaan dan Pribadi; pemrosesan Data\nb. dapat membahayakan keselamatan pihak lain; dan/ata.u\nc. Subjek Data Pribadi terikat perjanjian tertulis dengan Pengendali Data Pribadi yang tidak dilalrukan dan pembatasan pemrosesan Data Pribadi.\n(3) Pengendali Data Pribadi wajib memberitahukan telah dilaksanakan penundaan dan pembatasan pemrosesan Data Pribadi kepada Subjek Data Pribadi."
+    "id": "(1) Pengendali Data Pribadi wajib melakukan penundaan dan pembatasan pemrosesan Data Pribadi baik sebagian maupun seluruhnya paling lambat 3 x 24 (tiga kali dua puluh empat) jam terhitung sejak Pengendali Data Pribadi menerima permintaan penundaan dan pembatasan pemrosesan Data Pribadi.\n\n(2) Penundaan dan pembatasan pemrosesan Data Pribadi sebagaimana dimaksud pada ayat (1) dikecualikan dalam hal:\na. terdapat ketentuan peraturan perundang-undangan yang tidak memungkinkan dilakukan penundaan dan pembatasan pemrosesan Data Pribadi;\nb. dapat membahayakan keselamatan pihak lain; dan/atau\nc. Subjek Data Pribadi terikat perjanjian tertulis dengan Pengendali Data Pribadi yang tidak memungkinkan dilakukan penundaan dan pembatasan pemrosesan Data Pribadi."
    }
   },
   {
    "id": "ID-H043-A42",
-   "no": 42,
+   "no": 41,
    "noLabel": {
-    "id": "第 42 条"
+    "zh": "第 42 条",
+    "en": "Article 42"
    },
    "text": {
-    "id": "(1) Pengendali Data Pribadi wajib mengakhiri pemrosesan Data Pribadi dalam hal:\na. telah... terdapat ketentuan undangan yang tidak SK No l552l8A UBLIK INDONESIA\na. telah mencapai masa retensi;\nb. tujuan pemrosesan Data Pribadi telah tercapai; atau\nc. terdapat permintaan dari Subjek Data Pribadi.\n(2) Pengakhiran pemrosesan Data Pribadi sebagaimana dimaksud pada ayat (1) dilakukan sesuai dengan ketentuan peraturan perundang-undangan."
+    "id": "(1) Pengendali Data Pribadi wajib mengakhiri pemrosesan Data Pribadi dalam hal:\na. telah mencapai masa retensi;\nb. tujuan pemrosesan Data Pribadi telah tercapai; atau\nc. terdapat permintaan dari Subjek Data Pribadi.\n\n(2) Pengakhiran pemrosesan Data Pribadi sebagaimana dimaksud pada ayat (1) dilakukan sesuai dengan ketentuan peraturan perundang-undangan."
    }
   },
   {
    "id": "ID-H043-A43",
-   "no": 43,
+   "no": 42,
    "noLabel": {
-    "id": "第 43 条"
+    "zh": "第 43 条",
+    "en": "Article 43"
    },
    "text": {
-    "id": "(l) Pengendali Data Pribadi wajib menghapus Data Pribadi dalam hal:\na. Data Pribadi tidak lagi diperlukan untuk pencapaian tujuan pemrosesan Data Pribadi;\nb. Subjek Data Pribadi telah melakukan penarikan kembali persetqiuan pemrosesan Data Pribadi;\nc. terdapat permintaan dari Subjek Data Pribadi; atau\nd. Data Pribadi diperoleh dan/ atau diproses dengan cara melawan hukum.\n(21 Data Pribadi sebagaimana dimaksud pada ayat (1) dilakukan sesuai dengan ketentuan peraturan perundang-undangan."
+    "id": "(1) Pengendali Data Pribadi wajib menghapus Data Pribadi dalam hal:\na. Data Pribadi tidak lagi diperlukan untuk pencapaian tujuan pemrosesan Data Pribadi;\nb. Subjek Data Pribadi telah melakukan penarikan kembali persetujuan pemrosesan Data Pribadi;\nc. terdapat permintaan dari Subjek Data Pribadi; atau\nd. Data Pribadi diperoleh dan/atau diproses dengan cara melawan hukum.\n\n(2) Penghapusan Data Pribadi sebagaimana dimaksud pada ayat (1) dilakukan sesuai dengan ketentuan peraturan perundang-undangan."
    }
   },
   {
    "id": "ID-H043-A44",
-   "no": 44,
+   "no": 43,
    "noLabel": {
-    "id": "第 44 条"
+    "zh": "第 44 条",
+    "en": "Article 44"
    },
    "text": {
-    "id": "(1) Pengendali Data Pribadi wajib memusnahkan Data Pribadi dalam hal:\na. telah habis masa retensinya dan berketerangan dimusnahkan berdasarkarr jadwal retensi arsip;\n. b. terdapat permintaan dari Subjek Data Pribadi;\nc. tidak berkaitan dengan penyelesaian proses hukum suatu perkara; dan/ atau\nd. Data Pribadi diperoleh dan/ atau diproses dengan cara melawan hukum.\n(2) Pemusnahan Data Pribadi sebagaimana dimaksud pada ayat (1) dilakukan sesuai dengan ketentuan peraturan perundang-undangan."
+    "id": "(1) Pengendali Data Pribadi wajib memusnahkan Data Pribadi dalam hal:\na. telah habis masa retensinya dan berketerangan dimusnahkan berdasarkan jadwal retensi arsip;\nb. terdapat permintaan dari Subjek Data Pribadi;\nc. tidak berkaitan dengan penyelesaian proses hukum suatu perkara; dan/atau\nd. Data Pribadi diperoleh dan/atau diproses dengan cara melawan hukum.\n\n(2) Pemusnahan Data Pribadi sebagaimana dimaksud pada ayat (1) dilakukan sesuai dengan ketentuan peraturan perundang-undangan."
    }
   },
   {
    "id": "ID-H043-A45",
-   "no": 45,
+   "no": 44,
    "noLabel": {
-    "id": "第 45 条"
-   },
-   "text": {
-    "id": ". .\nSK No l552l9A PRES]DEN"
-   }
-  },
-  {
-   "id": "ID-H043-A45-d2",
-   "no": 45,
-   "noLabel": {
-    "id": "第 45 条"
+    "zh": "第 45 条",
+    "en": "Article 45"
    },
    "text": {
     "id": "Pengendali Data Pribadi wajib memberitahukan penghapusan dan/atau pemusnahan Data Pribadi kepada Subjek Data Pribadi."
-   },
-   "dupIndex": 2
+   }
   },
   {
    "id": "ID-H043-A46",
-   "no": 46,
+   "no": 45,
    "noLabel": {
-    "id": "第 46 条"
+    "zh": "第 46 条",
+    "en": "Article 46"
    },
    "text": {
-    "id": "(1) Dalam hal terjadi kegagalan Pelindungan Data Pribadi, Pengendali Data Pribadi wajib pemberitahuan secara tertulis paling lambat 3 x 24 (tiga kali dua puluh empat) jam kepada:\na. Subjek Data Pribadi; dan\nb. lembaga.\n(2) Pemberitahuan tertulis sebagaimana dimaksud pada\nayat (1) minimal memuat:\nData Pribadi yang terungkap; kapan dan bagaimana Data Pribadi terungkap; dan upaya penanganan dan pemulihan atas terungkapnya Data Pribadi oleh Pengendali Data Pribadi.\n(3) Dalam hal tertentu, Pengendali Data Pribadi wajib memberitahukan kepada masyarakat mengenai kegagalan Pelindungan Data Pribadi."
+    "id": "(1) Dalam hal terjadi kegagalan Pelindungan Data Pribadi, Pengendali Data Pribadi wajib menyampaikan pemberitahuan secara tertulis paling lambat 3 x 24 (tiga kali dua puluh empat) jam kepada:\na. Subjek Data Pribadi; dan\nb. lembaga.\n\n(2) Pemberitahuan tertulis sebagaimana dimaksud pada ayat (1) minimal memuat:\na. Data Pribadi yang terungkap;\nb. kapan dan bagaimana Data Pribadi terungkap; dan\nc. upaya penanganan dan pemulihan atas terungkapnya Data Pribadi oleh Pengendali Data Pribadi."
    }
   },
   {
    "id": "ID-H043-A47",
-   "no": 47,
+   "no": 46,
    "noLabel": {
-    "id": "第 47 条"
+    "zh": "第 47 条",
+    "en": "Article 47"
    },
    "text": {
-    "id": "Pengendali Data Pribadi wajib bertanggung jawab atas pemrosesan Data Pribadi dan menunjukkan pertanggungiawaban dalam kewajiban pelaksanaan prinsip Pelindungan Data Pribadi."
+    "id": "Pengendali Data Pribadi wajib bertanggung jawab atas pemrosesan Data Pribadi dan menunjukkan pertanggungjawaban dalam pemenuhan kewajiban pelaksanaan prinsip Pelindungan Data Pribadi."
    }
   },
   {
    "id": "ID-H043-A48",
-   "no": 48,
+   "no": 47,
    "noLabel": {
-    "id": "第 48 条"
+    "zh": "第 48 条",
+    "en": "Article 48"
    },
    "text": {
-    "id": "(1) Pengendali Data Pribadi berbentuk badan hukum yang melakukan penggabungan, pemisahan, pengambilalihan, peleburan, atau pembubaran badan hukum wajib pemberitahuan pengalihan Data Pribadi kepada Subjek Data Pribadi.\n(2) Pemberitahuan . . . a. b. c.\nSK No 155220A REPUBLIK INDONES\n(2) Pemberitahuan pengalihan Data Pribadi sebagaimana dimaksud pada ayat (1) dilakukan sebelum dan sesudah penggabungan, pemisahan, pengambilalihan, peleburan, atau pembubaran badan hukum.\n(3) Dalam hal Pengendali Data Pribadi berbentuk badan hukum melakukan pembubaran atau dibubarkan, penyimpanan, pentransferan, pemusnahan Data Pribadi dilalsanakan sesuai dengan ketentuan peraturan perundang-undangan.\n(4) Penyimpanan, pentransferan, penghapusan, atau pemusnahan Data Pribadi sebagaimana dimaksud 'pada ayat (3) diberitahukan kepada Subjek Data Pribadi.\n(5) Ketentuan lebih lanjut mengenai tata cara pemberitahuan sebagaimana dimaksud pada ayat (l),\nayat (21, dan ayat (4) diatur dalam Peraturan Pemerintah."
+    "id": "(1) Pengendali Data Pribadi berbentuk badan hukum yang melakukan penggabungan, pemisahan, pengambilalihan, peleburan, atau pembubaran badan hukum wajib menyampaikan pemberitahuan pengalihan Data Pribadi kepada Subjek Data Pribadi.\n\n(2) Pemberitahuan pengalihan Data Pribadi sebagaimana dimaksud pada ayat (1) dilakukan sebelum dan sesudah penggabungan, pemisahan, pengambilalihan, peleburan, atau pembubaran badan hukum."
    }
   },
   {
    "id": "ID-H043-A49",
-   "no": 49,
+   "no": 48,
    "noLabel": {
-    "id": "第 49 条"
+    "zh": "第 49 条",
+    "en": "Article 49"
    },
    "text": {
-    "id": "Pengendali Data Pribadi dan/ atau Prosesor Data Pribadi wajib melaksanakan perintah lembaga dalam rangka penyelenggaraan Pelindungan Data Pribadi sesuai dengan Undang-Undang ini."
+    "id": "Pengendali Data Pribadi dan/atau Prosesor Data Pribadi wajib melaksanakan perintah lembaga dalam rangka penyelenggaraan Pelindungan Data Pribadi sesuai dengan Undang-Undang ini."
    }
   },
   {
    "id": "ID-H043-A50",
-   "no": 50,
+   "no": 49,
    "noLabel": {
-    "id": "第 50 条"
+    "zh": "第 50 条",
+    "en": "Article 50"
    },
    "text": {
-    "id": "(1) Kewajiban Pengendali Data Pribadi sebagaimana dimaksud dalam Pasal 30, Pasal 32, Pasal 36, PasaJ42,"
+    "id": "(1) Kewajiban Pengendali Data Pribadi sebagaimana dimaksud dalam Pasal 30, Pasal 32, Pasal 36, Pasal 42"
    }
   },
   {
-   "id": "ID-H043-A43-d2",
-   "no": 43,
-   "noLabel": {
-    "id": "第 43 条"
-   },
-   "text": {
-    "id": "ayat (1) huruf a sampai dengan huruf c,"
-   },
-   "dupIndex": 2
-  },
-  {
-   "id": "ID-H043-A44-d2",
-   "no": 44,
-   "noLabel": {
-    "id": "第 44 条"
-   },
-   "heading": {
-    "en": "ayat (1) huruf b, Pasal 45, dan Pasal 46"
-   },
-   "text": {
-    "id": "ayat (1) huruf a, dikecualikan untuk: kepentingan pertahanan dan keamanan nasional' kepentingan proses penegakan hukum; kepentingan urnum dalam rangka negara; atau\nd. kepentingan pengawasan sektor jasa keuangan, moneter, sistem pembayaran, dan stabilitas sistem keuangan yang dilakukan dalam rangka penyelenggaraan negara.\n, atau a. b. c.\nSK No 155221A\n(2) Pengecualian PRESlOEN\n(2) Pengecualian sebagaimana dimaksud pada ayat (1) dilaksanakan hanya dalam rangka pelaksanaan ketentuan Undang-Undang.\nBagian Ketiga\nKewajiban Prosesor Data Pribadi"
-   },
-   "dupIndex": 2
-  },
-  {
    "id": "ID-H043-A51",
-   "no": 51,
+   "no": 50,
    "noLabel": {
-    "id": "第 51 条"
+    "zh": "第 51 条",
+    "en": "Article 51"
    },
    "text": {
-    "id": "(1) Dalam hal Pengendali Data Pribadi menunjuk Prosesor Data Pribadi, Prosesor Data Pribadi wajib melakukan pemrosesan Data Pribadi berdasarkan perintah Pengendali Data Pribadi.\n(2) Pemrosesan Data Pribadi sebagaimana dimaksud pada\nayat (1), dilaksanakan sesuai ketentuan yang diatur dalam Undang-Undang ini.\n(3) Pemrosesan Data Pribadi sebagaimana dimaksud pada\nayat (1) termasuk dalam tanggung jawab Pengendali Data Pribadi.\n(4) Prosesor Data Pribadi dapat melibatkan Prosesor Data Pribadi lain dalam melakukan pemrosesan Data Pribadi.\n(5) Prosesor Data Pribadi wajib mendapatkan persetqiuan tertulis dari Pengendali Data Pribadi sebelum melibatkan Prosesor Data Pribadi lain sebagaimana dimaksud pada ayat (4).\n(6) Dalam hal Prosesor Data Pribadi melakukan pemrosesan Data Pribadi di luar perintah dan tujuan yang ditetapkan Pengendali Data Pribadi, pemosesan Data Pribadi menjadi tanggung jawab Prosesor Data Pribadi."
+    "id": "(1) Dalam hal Pengendali Data Pribadi menunjuk Prosesor Data Pribadi, Prosesor Data Pribadi wajib melakukan pemrosesan Data Pribadi berdasarkan perintah Pengendali Data Pribadi.\n\n(2) Pemrosesan Data Pribadi sebagaimana dimaksud pada ayat (1), dilaksanakan sesuai ketentuan yang diatur dalam Undang-Undang ini."
    }
   },
   {
    "id": "ID-H043-A52",
-   "no": 52,
+   "no": 51,
    "noLabel": {
-    "id": "第 52 条"
+    "zh": "第 52 条",
+    "en": "Article 52"
    },
    "text": {
-    "id": "Ketentuan mengenai kewajiban Pengendali Data Pribadi sebagaimana dimaksud dalam Pasal 29, Pasal 31,"
+    "id": "Ketentuan mengenai kewajiban Pengendali Data Pribadi sebagaimana dimaksud dalam Pasal 29, Pasal 31, Pasal 35, Pasal 36, Pasal 37, Pasal 38"
    }
   },
   {
-   "id": "ID-H043-A35-d2",
-   "no": 35,
-   "noLabel": {
-    "id": "第 35 条"
-   },
-   "heading": {
-    "en": ", Pasal 36, Pasal 37, Pasal 38, dan Pasal 39"
-   },
-   "text": {
-    "id": "berlaku juga terhadap Prosesor Data Pribadi.\nSK No 155348 A Bagran\nBagian Keempat\nPejabat atau Petugas yang Melaksanakan Fungsi Pelindungan Data Pribadi"
-   },
-   "dupIndex": 2
-  },
-  {
    "id": "ID-H043-A53",
-   "no": 53,
+   "no": 52,
    "noLabel": {
-    "id": "第 53 条"
+    "zh": "第 53 条",
+    "en": "Article 53"
    },
    "text": {
-    "id": "(1) Pengendali Data Pribadi dan Prosesor Data Pribadi wajib menunjuk pejabat atau petugas yang melaksanakan fungsi Pelindungan Data Pribadi dalam hal:\na. pemros(:san Data Pribadi untuk kepentingan pelayanan publik;\nb. kegiatan inti Pengendali Data Pribadi memiliki sifat, ruang lingkup, dan/ atau tujuan yang memerlukan pemantauan secara teratur dan sistematis atas Data Pribadi dengan skala besar;' dan\nc. kegiatan inti Pengendali Data Pribadi terdiri dari pemrosesan Data Pribadi dalam skala besar untuk Data Pribadi yang bersifat spesifik dan/ atau Data Pribadi yang berkaitan dengan tindak pidana.\n(2) Pejabat atau petugas yang melaksanakan fungsi Pelindungan Data Pribadi sebagaimana dimaksud pada ayat (1) ditunjuk berdasarkan profesionalitas, pengetahuan mengenai hukum, praktik Pelindungan Data Pribadi, dan kemampuan untuk memenuhi tugas-tugasnya.\n(3). Pejabat atau petugas yang melaksanakan fungsi Pelindungan Data Pribadi sebagaimana dimaksud pada ayat (2) dapat berasal dari dalam dan/ atau luar Pengendali Data Pribadi atau Prosesor Data Pribadi."
+    "id": "(1) Pengendali Data Pribadi dan Prosesor Data Pribadi wajib menunjuk pejabat atau petugas yang melaksanakan fungsi Pelindungan Data Pribadi dalam hal:\na. pemrosesan Data Pribadi untuk kepentingan pelayanan publik;\nb. kegiatan inti Pengendali Data Pribadi memiliki sifat, ruang lingkup, dan/atau tujuan yang memerlukan pemantauan secara teratur dan sistematis atas Data Pribadi dengan skala besar;\ndan\nc. kegiatan inti Pengendali Data Pribadi terdiri dari pemrosesan Data Pribadi dalam skala besar untuk Data Pribadi yang bersifat spesifik dan/atau Data Pribadi yang berkaitan dengan tindak pidana."
    }
   },
   {
    "id": "ID-H043-A54",
-   "no": 54,
+   "no": 53,
    "noLabel": {
-    "id": "第 54 条"
+    "zh": "第 54 条",
+    "en": "Article 54"
    },
    "text": {
-    "id": "(1) Pejabat atau petugas yang melaksanakan fungsi Pelindungan Data Pribadi memiliki tugas paling sedikit:\nSK No 155223 A a menginformasikan dan memberikan saran kepada Pengendali Data Pribadi atau Frosesor Data Pribadi agar mematuhi ketentuan dalam Undang-Undang ini;\nb. memantau dan memastikan kepatuhan terhadap Undang-Undang ini dan kebljakan Pengendali Data Pribadi atau Prosesor Data Pribadi;\nc. memberikan saran mengenai penilaian dampak Pelindungan Data Pribadi dan memantau kine(a Pengendali Data Pribadi dan Prosesor Data Pribadi; dan\nd. berkoordinasi dan bertindak sebagai narahubung ' untuk isu yang berkaitan dengan pemrosesan Data Pribadi.\n(2) Dalam melaksanakan tugas sebagaimana dimaksud pada ayat (l), pejabat atau petugas yang melaksanakan fungsi Pelindungan Data Pribadi memperhatikan risiko terkait pemrosesan Data Pribadi, dengan mempertimbangkan sifat, ruang lingkup, konteks, dan tujuan pemrosesan.\n(3) Ketentuan lebih lanjut mengenai pejabat atau petugas yang melaksanakan fungsi Pelindungan Data Pribadi diatur dalam Peraturan Pemerintah.\nBAB VII\nTRANSFER DATA PRIBADI\nBagian Kesatu\nTransfer Data Pribadi Dalam Wilayah Hukum\nNegara Republik Indonesia"
+    "id": "(1) Pejabat atau petugas yang melaksanakan fungsi Pelindungan Data Pribadi memiliki tugas paling sedikit:\na. menginformasikan dan memberikan saran kepada Pengendali Data Pribadi atau Prosesor Data Pribadi agar mematuhi ketentuan dalam Undang-Undang ini;\nb. memantau dan memastikan kepatuhan terhadap Undang-Undang ini dan kebijakan Pengendali Data Pribadi atau Prosesor Data Pribadi;\nc. memberikan saran mengenai penilaian dampak Pelindungan Data Pribadi dan memantau kinerja Pengendali Data Pribadi dan Prosesor Data Pribadi; dan\nd. berkoordinasi dan bertindak sebagai narahubung untuk isu yang berkaitan dengan pemrosesan Data Pribadi."
    }
   },
   {
    "id": "ID-H043-A55",
-   "no": 55,
+   "no": 54,
    "noLabel": {
-    "id": "第 55 条"
+    "zh": "第 55 条",
+    "en": "Article 55"
    },
    "text": {
-    "id": "(1) Pengendali Data Pribadi dapat melakukan transfer . Data Pribadi kepada Pengendali Data Pribadi lainnya dalam wilayah hukum Negara Republik Indonesia. a.\nSK No 155224A\n(2) Pengendali . . .\n(2) Pengendali Data Pribadi yang melakukan transfer Data Pribadi dan yang menerima transfer Data Pribadi wajib melakukan Pelindungan Data Pribadi sebagaimana dimaksud dalam Undang-Undang ini.\nBagian Kedua\nTransfer Data Pribadi ke Luar Wilayah Hukum Negara Republik Indonesia"
+    "id": "(1) Pengendali Data Pribadi dapat melakukan transfer Data Pribadi kepada Pengendali Data Pribadi lainnya dalam wilayah hukum Negara Republik Indonesia.\n\n(2) Pengendali Data Pribadi yang melakukan transfer Data Pribadi dan yang menerima transfer Data Pribadi wajib melakukan Pelindungan Data Pribadi sebagaimana dimaksud dalam Undang-Undang ini."
    }
   },
   {
    "id": "ID-H043-A56",
-   "no": 56,
+   "no": 55,
    "noLabel": {
-    "id": "第 56 条"
+    "zh": "第 56 条",
+    "en": "Article 56"
    },
    "text": {
-    "id": "(1) Pengendali Data Pribadi dapat melakukan transfer Data Pribadi kepada Pengendali Data Pribadi dan/atau Prosesor Data Pribadi di luar wilayah hukum Negara Republik Indonesia sesuai dengan ketentuan yang diatur dalarn Undang- Undang ini.\n(2) Dalam melakukan transfer Data Pribadi sebagaimana dimaksud pada ayat (l), Pengendali Data Pribadi wajib memastikan negara tempat kedudukan Pengendali Data Pribadi dan/ atau Prosesor Data Pribadi yang . menerima transfer Data Pribadi memiliki tingkat Pelindungan Data Pribadi yang setara atau lebih tinggi dari yang diatur dalam Undang-Undang ini.\n(3) Dalam hal ketentuan sebagaimana dimaksud pada\nayat (21 tidak terpenuhi, Pengendali Data Pribadi wajib memastikan terdapat Pelindungan Data Pribadi yang memadai dan bersifat mengikat.\n(4) Dalam hal ketentuan sebagaimana dimaksud pada\nayat (21 dan ayat (3) tidak terpenuhi, Pengendali Data Pribadi wajib mendapatkan persetqiuan Subjek Data Pribadi.\n(5) Ketentuan lebih lanjut mengenai transfer Data Pribadi' diatur dalam Peraturan Pemerintah.\nSK No 155225 A BABVIII ...\nBAB VIII\nSANKSI ADMINISTRATIF"
+    "id": "(1) Pengendali Data Pribadi dapat melakukan transfer Data Pribadi kepada Pengendali Data Pribadi dan/atau Prosesor Data Pribadi di luar wilayah hukum Negara Republik Indonesia sesuai dengan ketentuan yang diatur dalam Undang-Undang ini.\n\n(2) Dalam melakukan transfer Data Pribadi sebagaimana dimaksud pada ayat (1), Pengendali Data Pribadi wajib memastikan negara tempat kedudukan Pengendali Data Pribadi dan/atau Prosesor Data Pribadi yang menerima transfer Data Pribadi memiliki tingkat Pelindungan Data Pribadi yang setara atau lebih tinggi dari yang diatur dalam Undang-Undang ini.\n\n(3) Dalam hal ketentuan sebagaimana dimaksud pada ayat (2) tidak terpenuhi, Pengendali Data Pribadi wajib memastikan terdapat Pelindungan Data Pribadi yang memadai dan bersifat mengikat.\n\n(4) Dalam hal ketentuan sebagaimana dimaksud pada ayat (2) dan ayat (3) tidak terpenuhi, Pengendali Data Pribadi wajib mendapatkan persetujuan Subjek Data Pribadi.\n\n(5) Ketentuan lebih lanjut mengenai transfer Data Pribadi diatur dalam Peraturan Pemerintah."
    }
   },
   {
    "id": "ID-H043-A57",
-   "no": 57,
+   "no": 56,
    "noLabel": {
-    "id": "第 57 条"
+    "zh": "第 57 条",
+    "en": "Article 57"
    },
    "text": {
-    "id": "(1) Pelanggaran terhadap ketentuan Pasal 2O ayat (l),' Pasal 21, Pasal 24, Pasal 25 ayat (2), Pasal 26ayat(31,"
+    "id": "(1) Pelanggaran terhadap ketentuan Pasal 20 ayat (1), Pasal 21, Pasal 24, Pasal 25 ayat (2), Pasal 26 ayat (3), Pasal 27, Pasal 28, Pasal 29, Pasal 30, Pasal 31, Pasal 32 ayat (1), Pasal 33, Pasal 34 ayat (1),"
    }
-  },
-  {
-   "id": "ID-H043-A27",
-   "no": 27,
-   "noLabel": {
-    "id": "第 27 条"
-   },
-   "text": {
-    "id": ", Pasal 28, Pasal 29, Pasal 30, Pasal 31,"
-   }
-  },
-  {
-   "id": "ID-H043-A32-d2",
-   "no": 32,
-   "noLabel": {
-    "id": "第 32 条"
-   },
-   "text": {
-    "id": "ayat (1), Pasal 33, Pasal 34 ayat (1), Pasal 35,"
-   },
-   "dupIndex": 2
-  },
-  {
-   "id": "ID-H043-A36-d2",
-   "no": 36,
-   "noLabel": {
-    "id": "第 36 条"
-   },
-   "text": {
-    "id": ", Pasal 37, Pasal 38, Pasal 39 ayat (1),"
-   },
-   "dupIndex": 2
-  },
-  {
-   "id": "ID-H043-A4-d2",
-   "no": 4,
-   "noLabel": {
-    "id": "第 4 条"
-   },
-   "text": {
-    "id": "O ayat (1), Pasal 41 ayat (1) dan ayat (3),"
-   },
-   "dupIndex": 2
-  },
-  {
-   "id": "ID-H043-A42-d2",
-   "no": 42,
-   "noLabel": {
-    "id": "第 42 条"
-   },
-   "text": {
-    "id": "ayat (1), Pasal 43 ayat (1), Pasal 44 ayat (1),"
-   },
-   "dupIndex": 2
-  },
-  {
-   "id": "ID-H043-A45-d3",
-   "no": 45,
-   "noLabel": {
-    "id": "第 45 条"
-   },
-   "text": {
-    "id": ", Pasal 46 ayat (1) dan ayat (3), Pasal 47,"
-   },
-   "dupIndex": 3
-  },
-  {
-   "id": "ID-H043-A48-d2",
-   "no": 48,
-   "noLabel": {
-    "id": "第 48 条"
-   },
-   "heading": {
-    "en": "ayat (l), Pasal 49, Pasal 51 ayat (1) dan"
-   },
-   "text": {
-    "id": "ayat (5), Pasal 52, Pasal 53 ayat (l), Pasal 55 ayat (21, dan Pasal 56 ayat (2) sampai dengan ayat (4) dikenai sanksi administratif.\n(2) Sanksi administratif sebagaimana dimaksud pada\nayat (l) berupa:\na. peringatantertulis;\nb. penghentian sementara kegiatan pemrosesan Data Pribadi;\nc. penghapusan atau pemusnahan Data Pribadi; dan/atau\nd. dendaadministratif.\n(3) Sanksi administratif berupa denda administratif sebagaimana dimaksud pada ayat (2) huruf d paling tinggi 2 (dua) persen dari perrdapatan tahunan atau . penerimaan tahunan terhadap variabel pelanggaran.\n(4) Penjatuhan sanksi administratif sebagaimana dimaksud pada ayat (2) diberikan oleh lembaga.\n(5) Ketentuan lebih lanjut mengenai tata cara pengenaan sanksi administratif selagaimana dimaksud pada\nayat (3) diatur dalam Peraturan Pemerintah.\nBAB IX. . .\nSK No 155226A UALIK INDONES BAB Ix KELEMBAGAAN"
-   },
-   "dupIndex": 2
   },
   {
    "id": "ID-H043-A58",
-   "no": 58,
+   "no": 57,
    "noLabel": {
-    "id": "第 58 条"
+    "zh": "第 58 条",
+    "en": "Article 58"
    },
    "text": {
-    "id": "(1) Pemerintah berperan dalam penyelenggaraan Pelindungan Data Pribadi sesuai dengan ketentuan Undang-Undang ini.\n(2) Penyelenggaraan Pelindungan Data Pribadi sebagaimana dimaksud pada ayat (1) dilaksanakan oleh lembaga.\n(3) kmbaga sebagaimana dimaksud pada ayat (21 ditetapkan oleh Presiden.\n(4) lembaga sebagaimana dimaksud pada ayat (21 ' bertanggung jawab kepada Presiden.\n(5) Ketentuan lebih lanjut mengenai lembaga sebagaimana dimalsud pada ayat (2) diatur dengan Peraturan Presiden."
+    "id": "(1) Pemerintah berperan dalam mewujudkan penyelenggaraan Pelindungan Data Pribadi sesuai dengan ketentuan Undang-Undang ini.\n\n(2) Penyelenggaraan Pelindungan Data Pribadi sebagaimana dimaksud pada ayat (1) dilaksanakan oleh lembaga.\n\n(3) Lembaga sebagaimana dimaksud pada ayat (2) ditetapkan oleh Presiden.\n\n(4) Lembaga sebagaimana dimaksud pada ayat (2) bertanggung jawab kepada Presiden.\n\n(5) Ketentuan lebih lanjut mengenai lembaga sebagaimana dimaksud pada ayat (2) diatur dengan Peraturan Presiden."
    }
   },
   {
    "id": "ID-H043-A59",
-   "no": 59,
+   "no": 58,
    "noLabel": {
-    "id": "第 59 条"
+    "zh": "第 59 条",
+    "en": "Article 59"
    },
    "text": {
-    "id": "l,embaga sebagaimana dimaksud dalam Pasal 58 ayat (2) melaksanakan:\na. perumusan dan penetapan kebijakan dan strategi Pelindungan Data Pribadi yang menjadi panduan bagi Subjek Data Pribadi, Pengendali Data Pribadi, dan ' Prosesor Data Fribadi;\nb. pengawasan terhadap penyelenggaraan Pelindungan Data Pribadi;\nc. penegakan hukum administratif terhadap pelanggaran Undang-Undang ini; dan\nd. fasilitasi penyelesaian sengketa di luar pengadilan."
+    "id": "Lembaga sebagaimana dimaksud dalam Pasal 58 ayat (2) melaksanakan:\na. perumusan dan penetapan kebijakan dan strategi Pelindungan Data Pribadi yang menjadi panduan bagi Subjek Data Pribadi, Pengendali Data Pribadi, dan Prosesor Data Pribadi;\nb. pengawasan terhadap penyelenggaraan Pelindungan Data Pribadi;\nc. penegakan hukum administratif terhadap pelanggaran Undang-Undang ini; dan\nd. fasilitasi penyelesaian sengketa di luar pengadilan."
    }
   },
   {
    "id": "ID-H043-A60",
-   "no": 60,
+   "no": 59,
    "noLabel": {
-    "id": "第 60 条"
+    "zh": "第 60 条",
+    "en": "Article 60"
    },
    "text": {
-    "id": "Lembaga sebagaimana dimaksud dalam Pasal 58 ayat (2) berwenang: a.. merumuskan dan menetapkan kebijakan di bidang Pelindungan Data Pribadi;\nSK No 155227 A\nb. melakukan . . .\nb. melakukan pengawasan terhadap kepatuhan Pengendali Data Pribadi;\nc. menjatuhkan sanksi administratif atas pelanggaran Pelindungan Data Pribadi yang dilakukan Pengendali Data Pribadi dan/atau Prosesor Data Pribadi;\nd. membantu aparat penegak hukum dalam penanganan dugaan tindak pidana Data Pribadi sebagaimana dimaksud dalam Undang-Undang ini;\ne. bekerja sama dengan lembaga Pelindungan Data Pribadi negara lain dalam rangka penyelesaian dugaan . pelanggaran Pelindungan Data Pribadi lintas negara;\nf. melakukan penilaian terhadap pemenuhan persyaratan transfer Data Pribadi ke luar wilayah hukum Negara Republik Indonesia;\ng. memberikan perintah dalam rangka tindak lanjut hasil pengawasan kepada Pengendali Data Pribadi dan/ atau Prosesor Data Pribadi;\nh. melakukan publikasi hasil pelaksanaan pengawasan Pelindungan Data Pribadi sesuai dengan ketentuan peraturan perundang-undangan ;\ni. menerima aduan dan/atau laporan tentang dugaan terjadinya pelanggaran Pelindungan Data Pribadi;\nj. melakukan dan atas pengaduan, laporan, dan/atau hasil pengawasan terhadap dugaan terjadinya pelanggaran Pelindungan Data Pribadi;\nk. memanggil dan menghadirkan Setiap Orang dan/ atau Badan Publik yang terkait dengan dugaan pelanggaran Pelindungan Data Pribadi;\nl. meminta keterangan, data, Informasi, dan dokumen dari Setiap Orang dan/ atau Badan Publik terkait dugaan pelanggaran Pelindungan Data Pribadi;\nm. memanggil dan menghadirkan ahli yang diperlukan dalam pemeriksaan dan penelusuran terkait dugaan pelanggaran Pelindungan Data Pribadi;\nSK No 155228 A\nn. melakukan . . . n melakukan pemeriksaan dan penelusuran terhadap sistem elektronik, sarana, ruang, dan/ atau tempat yang digunakan Pengendali Data Pribadi dan/atau Prosesor Data Pribadi, termasuk memperoleh akses terhadap data dan/atau menunjuk pihak ketiga; dan meminta bantuan hukum kepada kejaksaan dalam penyelesaian sengketa Pelindungan Data Pribadi. o"
+    "id": "Lembaga sebagaimana dimaksud dalam Pasal 58 ayat (2)\n\nberwenang:\n\na.. merumuskan dan menetapkan kebijakan di bidang\n\nPelindungan Data Pribadi;\n\nb. melakukan . . .\n\nb. melakukan pengawasan terhadap kepatuhan\n\nPengendali Data Pribadi;\n\nc. menjatuhkan sanksi administratif atas pelanggaran\n\nPelindungan Data Pribadi yang dilakukan Pengendali\n\nData Pribadi dan/atau Prosesor Data Pribadi;\n\nd. membantu aparat penegak hukum dalam penanganan dugaan tindak pidana Data Pribadi sebagaimana dimaksud dalam Undang-Undang ini;\n\ne. bekerja sama dengan lembaga Pelindungan Data\n\nPribadi negara lain dalam rangka penyelesaian dugaan\n\n. pelanggaran Pelindungan Data Pribadi lintas negara;\n\nf. melakukan penilaian terhadap pemenuhan persyaratan transfer Data Pribadi ke luar wilayah hukum Negara Republik Indonesia;\n\ng. memberikan perintah dalam rangka tindak lanjut hasil pengawasan kepada Pengendali Data Pribadi dan/ atau\n\nProsesor Data Pribadi;\n\nh. melakukan publikasi hasil pelaksanaan pengawasan\n\nPelindungan Data Pribadi sesuai dengan ketentuan peraturan perundang-undangan ;\n\ni. menerima aduan dan/atau laporan tentang dugaan terjadinya pelanggaran Pelindungan Data Pribadi;\n\nj. melakukan dan atas pengaduan, laporan, dan/atau hasil pengawasan terhadap dugaan terjadinya pelanggaran Pelindungan\n\nData Pribadi;\n\nk. memanggil dan menghadirkan Setiap Orang dan/ atau\n\nBadan Publik yang terkait dengan dugaan pelanggaran\n\nPelindungan Data Pribadi;\n\nl. meminta keterangan, data, Informasi, dan dokumen dari Setiap Orang dan/ atau Badan Publik terkait dugaan pelanggaran Pelindungan Data Pribadi;\n\nm. memanggil dan menghadirkan ahli yang diperlukan dalam pemeriksaan dan penelusuran terkait dugaan pelanggaran Pelindungan Data Pribadi;\n\nn. melakukan . . .\n\nREPUELIK INDONESIA n melakukan pemeriksaan dan penelusuran terhadap sistem elektronik, sarana, ruang, dan/ atau tempat yang digunakan Pengendali Data Pribadi dan/atau\n\nProsesor Data Pribadi, termasuk memperoleh akses terhadap data dan/atau menunjuk pihak ketiga; dan meminta bantuan hukum kepada kejaksaan dalam penyelesaian sengketa Pelindungan Data Pribadi.\n\no"
    }
   },
   {
    "id": "ID-H043-A61",
-   "no": 61,
+   "no": 60,
    "noLabel": {
-    "id": "第 61 条"
+    "zh": "第 61 条",
+    "en": "Article 61"
    },
    "text": {
-    "id": "Ketentuan mengenai tata cara pelaksanaan wewenang lembaga sebagaimana dimaksud dalam Pa6al 60 diatur dalam Peraturan Pemerintah.\nBAB X\nKERJA SAMA INTERNASIONAL"
+    "id": "Ketentuan mengenai tata cara pelaksanaan wewenang lembaga sebagaimana dimaksud dalam Pasal 60 diatur dalam Peraturan Pemerintah."
    }
   },
   {
    "id": "ID-H043-A62",
-   "no": 62,
+   "no": 61,
    "noLabel": {
-    "id": "第 62 条"
+    "zh": "第 62 条",
+    "en": "Article 62"
    },
    "text": {
-    "id": "(1) Kerja sama internasional dilakukan oleh Pemerintah dengan pemerintah negara lain atau Organisasi Internasional terkait dengan Pelindungan Data Pribadi.\n(2) Kerja sama internasional dalam rangka pelaksanaan Undang-Undang ini dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan dan prinsip hukum internasional.\nBAB xI PARTISIPASI MASYARAKAT"
+    "id": "(1) Kerja sama internasional dilakukan oleh Pemerintah dengan pemerintah negara lain atau Organisasi Internasional terkait dengan Pelindungan Data Pribadi.\n\n(2) Kerja sama internasional dalam rangka pelaksanaan Undang-Undang ini dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan dan prinsip hukum internasional."
    }
   },
   {
    "id": "ID-H043-A63",
-   "no": 63,
+   "no": 62,
    "noLabel": {
-    "id": "第 63 条"
+    "zh": "第 63 条",
+    "en": "Article 63"
    },
    "text": {
-    "id": "(1) Masyarakat dapat berperan baik secara langsung maupun tidak langsung dalam mendukung terselenggaranya Pelindungan Data Pribadi.\n(2) Pelaksanaan peran sebagaimana dimaksud pada\nayat (1) dapat dilakukan melalui pendidikan, pelatihan, advokasi, sssialis4si, dan/ atau pengawasan sesuai dengan ketentuan peraturan perundang-undangan.\nSK No 155229 A BABxII ...\nBAB xII PEI(YELESAI,AN SENGKETA DAN HUKUM ACARA"
+    "id": "(1) Masyarakat dapat berperan baik secara langsung maupun tidak langsung dalam mendukung terselenggaranya Pelindungan Data Pribadi.\n\n(2) Pelaksanaan peran sebagaimana dimaksud pada ayat (1) dapat dilakukan melalui pendidikan, pelatihan, advokasi, sosialisasi, dan/atau pengawasan sesuai dengan ketentuan peraturan perundang-undangan."
    }
   },
   {
    "id": "ID-H043-A64",
-   "no": 64,
+   "no": 63,
    "noLabel": {
-    "id": "第 64 条"
+    "zh": "第 64 条",
+    "en": "Article 64"
    },
    "text": {
-    "id": "(1) Penyelesaian sengketa BAB XIII I,ARANGAN DALAM PENGGUNAAN DATA PRIBADI Data Pribadi dilakukan melalui arbitrase, pengadilan, atau lembaga penyelesaian sengketa alternatif lainnya sesuai dengan ketentuan peraturan perundang-undangan.\n(2) Hukum acara yang berlaku dalam penyelesaian sengketa dan/ atau proses peradilan Pelindungan Data Pribadi sebagaimana dimaksud pada ayat (1) dilaksanakan berdasarkan hukum acara yang berlaku sesuai dengan ketentuan peraturan perundang-undangan.\n(3) Alat bukti yang sah dalam Undang-Undang ini meliputi:\na. alat bukti sebagaimana dimaksud dalam hukum acara; dan\nb. alat bukti lain berupa informasi elelrtronik dan/ atau dokumen elektronik sesuai dengan ketentuan peraturan perundang-undangan.\n(4) Dalam hal diperlukan untuk melindungi Data Pribadi, proses persidangan dilakukan secara tertutup."
+    "id": "(1) Penyelesaian sengketa Pelindungan Data Pribadi dilakukan melalui arbitrase, pengadilan, atau lembaga penyelesaian sengketa alternatif lainnya sesuai dengan ketentuan peraturan perundang-undangan.\n\n(2) Hukum acara yang berlaku dalam penyelesaian sengketa dan/atau proses peradilan Pelindungan Data Pribadi sebagaimana dimaksud pada ayat (1) dilaksanakan berdasarkan hukum acara yang berlaku sesuai dengan ketentuan peraturan perundang-undangan.\n\n(3) Alat bukti yang sah dalam Undang-Undang ini meliputi:\na. alat bukti sebagaimana dimaksud dalam hukum acara; dan\nb. alat bukti lain berupa informasi elektronik dan/atau dokumen elektronik sesuai dengan ketentuan peraturan perundang-undangan.\n\n(4) Dalam hal diperlukan untuk melindungi Data Pribadi, proses persidangan dilakukan secara tertutup."
    }
   },
   {
    "id": "ID-H043-A65",
-   "no": 65,
+   "no": 64,
    "noLabel": {
-    "id": "第 65 条"
+    "zh": "第 65 条",
+    "en": "Article 65"
    },
    "text": {
-    "id": "(1) Setiap Orang dilarang secara melawan hukum memperoleh atau mengumpulkan Data Pribadi yang bukan miliknya dengan maksud untuk menguntungkan diri sendiri atau orang lain yang dapat mengakibatkan kerugian Subjek Data Pribadi.\n(2) Setiap Orang dilarang secara melawan hukum mengungkapkan Data Pribadi yang bukan miliknya. dilarang secara melawan hukum Data Pribadi yang bukan miliknya.\nSK No 155230A\n(3) Setiap Orang"
+    "id": "(1) Setiap Orang dilarang secara melawan hukum memperoleh atau mengumpulkan Data Pribadi yang bukan miliknya dengan maksud untuk menguntungkan diri sendiri atau orang lain yang dapat mengakibatkan kerugian Subjek Data Pribadi.\n\n(2) Setiap Orang dilarang secara melawan hukum mengungkapkan Data Pribadi yang bukan miliknya.\n\n(3) Setiap Orang dilarang secara melawan hukum menggunakan Data Pribadi yang bukan miliknya."
    }
   },
   {
    "id": "ID-H043-A66",
-   "no": 66,
+   "no": 65,
    "noLabel": {
-    "id": "第 66 条"
+    "zh": "第 66 条",
+    "en": "Article 66"
    },
    "text": {
-    "id": ". .\n\nREPUBLIK INDONESIA\n-30-"
+    "id": "Setiap Orang dilarang membuat Data Pribadi palsu atau memalsukan Data Pribadi dengan maksud untuk menguntungkan diri sendiri atau orang lain yang dapat mengakibatkan kerugian bagi orang lain."
    }
   },
   {
-   "id": "ID-H043-A66-d2",
+   "id": "ID-H043-A67",
    "no": 66,
    "noLabel": {
-    "id": "第 66 条"
+    "zh": "第 67 条",
+    "en": "Article 67"
    },
    "text": {
-    "id": "Setiap Orang dilarang membuat Data Pribadi palsu atau memalsul<an Data Pribadi dengan maksud r.rntuk diri sendiri atau orang lain yang dapat mengakibatkan kerugian bagi orang lain.\nBAB XIV\nKETENTUAN PIDANA"
-   },
-   "dupIndex": 2
-  },
-  {
-   "id": "ID-H043-A67",
-   "no": 67,
-   "noLabel": {
-    "id": "第 67 条"
-   },
-   "text": {
-    "id": "(1) Setiap Orang yang dengan sengaja dan melawan hukum memperoleh atau mengumpulkan Data Pribadi yang bukan mililoeya dengan maksud untuk menguntungkan diri sendiri atau orang lain yang dapat mengakibatkan kerugian Subjek Data Pribadi sebagaimana dimaksud dalam Pasal 65 ayat (1) dipidana dengan pidana penjara paling lama 5 (lima) tahun dan/atau pidana denda paling banyak Rp5.000.000.000,00 (lima miliar rupiah).\n(2) Setiap Orang yang dengan sengaja dan melawan hukum mengunglapkan Data Pribadi yang bukan miliknya sebagaimana dimaksud dalam Pasal 65 ayat (2) dipidana dengan pidana penjara paling lama 4 (empat) tahun dan/atau pidana denda paling banyak Rp4.000.000.000,00 (empat miliar rupiah).\n(3) Setiap Orang yang dengan senqaja dan melawan hukum menggunakan Data Pribadi yang bukan miliknya sebagaimana dimaksud dalam Pasal 65 ayat (3) dipidana dengan pidana penjara paling lama 5 (lima) tahun dan/atau pidana denda paling banyak Rp5.00O.OOO.000,00 (lima miliar rupiah)."
+    "id": "(1) Setiap Orang yang dengan sengaja dan melawan hukum memperoleh atau mengumpulkan Data Pribadi yang bukan miliknya dengan maksud untuk menguntungkan diri sendiri atau orang lain yang dapat mengakibatkan kerugian Subjek Data Pribadi sebagaimana dimaksud dalam Pasal 65 ayat (1) dipidana dengan pidana penjara paling lama 5 (lima) tahun dan/atau pidana denda paling banyak Rp5.000.000.000,00 (lima miliar rupiah).\n\n(2) Setiap Orang yang dengan sengaja dan melawan hukum mengungkapkan Data Pribadi yang bukan miliknya sebagaimana dimaksud dalam Pasal 65 ayat (2) dipidana dengan pidana penjara paling lama 4 (empat) tahun dan/atau pidana denda paling banyak Rp4.000.000.000,00 (empat miliar rupiah).\n\n(3) Setiap Orang yang dengan sengaja dan melawan hukum menggunakan Data Pribadi yang bukan miliknya sebagaimana dimaksud dalam Pasal 65 ayat (3) dipidana dengan pidana penjara paling lama 5 (lima) tahun dan/atau pidana denda paling banyak Rp5.000.000.000,00 (lima miliar rupiah)."
    }
   },
   {
    "id": "ID-H043-A68",
-   "no": 68,
+   "no": 67,
    "noLabel": {
-    "id": "第 68 条"
+    "zh": "第 68 条",
+    "en": "Article 68"
    },
    "text": {
-    "id": "Setiap Orang yang dengan sengaja membuat Data Pribadi palsu atau memalsukan Data Pribadi dengan maksud untuk menguntrrngkan diri sendiri atau orang lain yang dapat mengakibatkan kerugian bagi orang lain sebagaimana dimaksud dalam Pasal 66 .tipidana dengan pidana penjara paling tama 6 (enam) tahun dan/atau pidana denda paling banyak Rp6.0OO. 000.000,00 (enam miliar rupiah).\nSK No 155350A"
+    "id": "Setiap Orang yang dengan sengaja membuat Data Pribadi palsu atau memalsukan Data Pribadi dengan maksud untuk menguntungkan diri sendiri atau orang lain yang dapat mengakibatkan kerugian bagi orang lain sebagaimana dimaksud dalam Pasal 66 dipidana dengan pidana penjara paling lama 6 (enam) tahun dan/atau pidana denda paling banyak Rp6.000.000.000,00 (enam miliar rupiah)."
    }
   },
   {
    "id": "ID-H043-A69",
-   "no": 69,
+   "no": 68,
    "noLabel": {
-    "id": "第 69 条"
+    "zh": "第 69 条",
+    "en": "Article 69"
    },
    "text": {
-    "id": "..\nBLIK INDONES"
+    "id": "Selain dijatuhi pidana sebagaimana dimaksud dalam Pasal 67 dan Pasal 68 juga dapat dijatuhi pidana tambahan berupa perampasan keuntungan dan/atau harta kekayaan yang diperoleh atau hasil dari tindak pidana dan pembayaran ganti kerugian."
    }
   },
   {
-   "id": "ID-H043-A69-d2",
+   "id": "ID-H043-A70",
    "no": 69,
    "noLabel": {
-    "id": "第 69 条"
+    "zh": "第 70 条",
+    "en": "Article 70"
    },
    "text": {
-    "id": "Selain dijatuhi pidana ssfagaimana dimaksud dalam"
-   },
-   "dupIndex": 2
-  },
-  {
-   "id": "ID-H043-A67-d2",
-   "no": 67,
-   "noLabel": {
-    "id": "第 67 条"
-   },
-   "heading": {
-    "en": "dan Pasal 68 juga dapat dijatuhi pidana"
-   },
-   "text": {
-    "id": "tambahan berupa perampasan keuntungan dan/ atau harta kekayaan yang diperoleh atau hasil dari tindak pidana dan pembayaran ganti kerugian."
-   },
-   "dupIndex": 2
-  },
-  {
-   "id": "ID-H043-A7-d3",
-   "no": 7,
-   "noLabel": {
-    "id": "第 7 条"
-   },
-   "text": {
-    "id": "O\n(1) Dafam hal tindak pidana sebagaimana dimaksud dalam Pasal 67 dan Pasal 68 dilakukan oleh Korporasi, pidana dapat dljatuhkan kepada pengurus, pemegang kendali, pemberi perintah, pemilik manfaat, dan/ atau Korporasi.\n(2) Pidana yang dapat d[jatuhkan terhadap Korporasi hanya pidana denda.\n(3) Pidana denda yang dijatuhkan kepada Korporasi paling banyak 10 (sepuluh) kali dari maksimal pidana denda yang diancamkan.\n(4) Selain dijatuhi pidana denda sebagaimana dimaksud pada ayat (2), Korporasi dapat dijatuhi pidana ' tambahan berupa:\na. perampasan keuntungan dan/ atau harta kekayaan yang diperoleh atau hasil dari tindak pidana;\nb. pembekuan seluruh atau sebagian usaha Korporasi;\nc. pelarangan permanen melakukan perbuatan tertentu;\nd. penutupan seluruh atau sebagian tempat usaha dan/ atau kegiatan Korporasi;\ne. melaksanakan kewajiban yang telah dilalaikan;\nf. pembayaran ganti kerugian;\ng. pencabutan izin; dan/atala\nh. pembubaranKorporasi.\nSK No 155232 A"
-   },
-   "dupIndex": 3
+    "id": "(1) Dalam hal tindak pidana sebagaimana dimaksud dalam Pasal 67 dan Pasal 68 dilakukan oleh Korporasi, pidana dapat dijatuhkan kepada pengurus, pemegang kendali, pemberi perintah, pemilik manfaat, dan/atau Korporasi."
+   }
   },
   {
    "id": "ID-H043-A71",
-   "no": 71,
+   "no": 70,
    "noLabel": {
-    "id": "第 71 条"
+    "zh": "第 71 条",
+    "en": "Article 71"
    },
    "text": {
-    "id": "..\nREPIIBLIK INDONESIA"
+    "id": "(1) Dalam hal pengadilan menjatuhkan putusan pidana denda, terpidana diberikan jangka waktu 1 (satu) bulan sejak putusan telah memperoleh kekuatan hukum tetap untuk membayar denda tersebut.\n\n(2) Dalam hal terdapat alasan kuat, jangka waktu sebagaimana dimaksud pada ayat (1) dapat diperpanjang untuk waktu paling lama 1 (satu) bulan."
    }
   },
   {
-   "id": "ID-H043-A71-d2",
+   "id": "ID-H043-A72",
    "no": 71,
    "noLabel": {
-    "id": "第 71 条"
+    "zh": "第 72 条",
+    "en": "Article 72"
    },
    "text": {
-    "id": "(1) Dalam hal pengadilan menjatuhkan putusan pidana denda, terpidana diberikan jangka waktu 1 (satu) bulan sejak putusan telah memperoleh kekuatan hukum tetap untuk membayar denda tersebut.\n(2) Dalam hal terdapat alasan kuat, jangka waktu sebagaimana dimaksud pada ayat (1) dapat diperpanjang untuk waktu paling lama I (satu) bulan.\n(3) Dalam hal terpidana tidak membayar pidana denda dalam jangka waktu sebagaimana dimaksud pada\nayat (1) atau ayat (2) maka harta kekayaan atau pendapatan terpidana dapat disita dan dilelang oleh jaksa untuk melunasi pidana denda yang tidak dibayar.\n(4) Dalam hal penyitaan dan pelelangan harta kekayaan atau pendapatan sebagaimana dimaksud pada ayat (3) tidak cukup atau tidak untuk dilaksanakan, pidana denda yang tidak dibayar diganti dengan pidana penjara paling lama sebagaimana diancamkan untuk tindak pidana yang bersangkutan.\n(5) Lamanya pidana penjara sebagaimspa dimaksud pada\nayat (4) yang ditentukan oleh hakim, dicantumkan dalam putusan pengadilan.\nPasal T2\n(1) Dafam hal penyitaan dan pelelangan harta kekayaan atau pendapatan sebagaimana dimaksud dalam"
-   },
-   "dupIndex": 2
-  },
-  {
-   "id": "ID-H043-A71-d3",
-   "no": 71,
-   "noLabel": {
-    "id": "第 71 条"
-   },
-   "heading": {
-    "en": "ayat (4) dilakukan terhadap terpidana"
-   },
-   "text": {
-    "id": "Korporasi dan tidak cukup untuk melunasi pidana . denda, Korporasi dikenakan pidana pengganti berupa pembekuan sebagian atau seluruh kegiatan usaha Korporasi untuk jangka wa.ktu paling lama 5 (lima) tahun.\n(2) I.arnanya pembekuan s6lagian atau seluruh kegiatan usaha Korporasi sebagaimana dimaksud pada ayat (1) yang ditentukan oleh hakim, dicantumkan dalam putusan pengadilan."
-   },
-   "dupIndex": 3
+    "id": "(1) Dalam hal penyitaan dan pelelangan harta kekayaan atau pendapatan sebagaimana dimaksud dalam Pasal 71 ayat (4) dilakukan terhadap terpidana Korporasi dan tidak cukup untuk melunasi pidana denda, Korporasi dikenakan pidana pengganti berupa pembekuan sebagian atau seluruh kegiatan usaha Korporasi untuk jangka waktu paling lama 5 (lima) tahun.\n\n(2) Lamanya pembekuan sebagian atau seluruh kegiatan usaha Korporasi sebagaimana dimaksud pada ayat (1) yang ditentukan oleh hakim, dicantumkan dalam putusan pengadilan."
+   }
   },
   {
    "id": "ID-H043-A73",
-   "no": 73,
+   "no": 72,
    "noLabel": {
-    "id": "第 73 条"
+    "zh": "第 73 条",
+    "en": "Article 73"
    },
    "text": {
-    "id": "..\nSK No 155233 A PRESlOEN"
+    "id": "Ketentuan sebagaimana dimaksud dalam Pasal 71 dan Pasal 72 juga berlaku dalam hal penjatuhan pidana tambahan berupa pembayaran ganti kerugian."
    }
   },
   {
-   "id": "ID-H043-A73-d2",
+   "id": "ID-H043-A74",
    "no": 73,
    "noLabel": {
-    "id": "第 73 条"
-   },
-   "text": {
-    "id": "Ketentuan sebagaimana dimaksud dalam Pasal 7L dan Pdsal 72 juga berlaku dalam hal penjatuhan pidana tambahan berupa pembayaran ganti kerugian.\nBAB XV\nKETENTUAN PERALIHAN"
-   },
-   "dupIndex": 2
-  },
-  {
-   "id": "ID-H043-A74",
-   "no": 74,
-   "noLabel": {
-    "id": "第 74 条"
+    "zh": "第 74 条",
+    "en": "Article 74"
    },
    "text": {
     "id": "Pada saat Undang-Undang ini mulai berlaku, Pengendali Data Pribadi, Prosesor Data Pribadi, dan pihak lain yang terkait dengan pemrosesan Data Pribadi, wajib menyesuaikan dengan ketentuan pemrosesan Data Pribadi berdasarkan Undang-Undang ini paling lama 2 (dua) tahun sejak Undang-Undang ini diundangkan."
@@ -997,874 +844,32 @@
   },
   {
    "id": "ID-H043-A75",
-   "no": 75,
+   "no": 74,
    "noLabel": {
-    "id": "第 75 条"
+    "zh": "第 75 条",
+    "en": "Article 75"
    },
    "text": {
-    "id": "Pada saat Undang-Undang ini mulai berlaku, semua ketentuan peraturan perundang-undangan yang mengatur mengenai Pelindungan Data Pribadi, dinyatakan masih tetap berlaku sepanjang tidak bertentangan dengan ketentuan dalam Undang-Undang ini.\nBAB XVI\nKETENTUAN PENUTUP"
+    "id": "Pada saat Undang-Undang ini mulai berlaku, semua ketentuan peraturan perundang-undangan yang mengatur mengenai Pelindungan Data Pribadi, dinyatakan masih tetap berlaku sepanjang tidak bertentangan dengan ketentuan dalam Undang-Undang ini."
    }
   },
   {
    "id": "ID-H043-A76",
-   "no": 76,
-   "noLabel": {
-    "id": "第 76 条"
-   },
-   "text": {
-    "id": "Undang-Undang ini mulai berlaku pada tanggal SK No 155234A Agar PRESlDEN REPUBLIK INOONESIA Agar setiap orang mengetahuinya, memerintahkan pengundangan Undang-Undang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.\nDisahkan di Jakarta pada tanggal L7 Oktober 2O22 PRESIDEN REPUBLIK INDONESIA, ttd JOKO WIDODO Diundangkan di Jakarta pada tanggd 17 Oktober 2022 MENTERI SEKRETARIS NEGARA REPUBLIK INDONESIA, ttd.\nPRATIKNO\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2022 NOMOR 196 Salinan sesuai dengan aslinya KEMENTERIAN SEKRETARIAT NEGARA KB Perundang-undangan trasi Hukum, ftrN ts!r,l ,* SK No 155338A Djaman I PRESlDEN PENJEI,ASAN ATAS UNDANG-UNDANG REPUBUK INDONESI,A NOMOR 27 TAHVN 2022 TET\\ITANG PELINDUNGAN DATA PRIBADI UMUM Ferkembangan teknologi informasi dan komurikasi yang melaju dengan pesat telah menimbulkan berbagai peluang dan tantangan. Teknologi informasi memunglinkan manusia untuk saling terhubung tanpa mengenal batas wilayah negara sehingga salah satu faktor pendorong globalisasi. Berbagai selrtor kehidupan telah memanfaatkan sistem teknologi informasi, seperti peryrelengaraan ele&onic @mmet@ (e-ammere) dalam sektor perUagangan/bisnis, eledrunic dtution (edtt@lion) daJarla bidang perdidikan, eledronic hmlth (e-leaftfl dalam bidang kesehatan, ele&onic gouqrunent (egovenunent) dalam bidang pemerintahan, serta teknologi informasi yang dimanfaatkan dalam bidang lainnya. Pemanfaatan teknologi informasi tersebut mengakibatkan Data Pribadi seseorang sanga.t mudah untuk dikumpulkan dan dipindahkan dari sahr pihak ke phak lain tanpa sepengetatnran Subjek Data Pribadi, sehingga mengancam hak konstitusional Subjek Data Pribadi.\nFelindungan Data Pribadi masuk dalam pelindungan hak asasi manusia Dengan demikian, pengaturan menyangkut Data Pribadi merupakan manifestasi pengakuan dan pelindungan atas hak dasar manusia. Keberadaan suatu Undang-Undang tentang Pelindungan Data Pribadi suahr keharusan yang tidak dapat ditunda lagl karena sanga.t mendesak bagi berbagai kepentingan nasional. Fergaulan intemasional Indonesia turut menuntut adanya Felindungan Data Pribadi. Felindungan tersebut dapa.t memperlancar perdagangan, industri, dan investasi yang bersifat transnasional.\nUndang-Undang tentang Felindungan Data Pribadi amanat dari Pasal2SG ayat (1) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 yang menyatakan bahwa, \"Setiap orang berhak atas perlindungan diri pribadi, keluarga, kehormatan, martabat, dan harta benda yang di bawah kekuasaannya, serta berhak atas rasa aman dan pelindungan dari ancaman ketakutan untuk berbuat atau tidak berbuat sesLratu yang merupakan hak asasi\". Persoalan Felindungan Data Pribadi mtrncul kar€na lreprihatinan akan terhadap Data Pribadi yang dapa.t dialami oleh orang dan/atau badan hukum. Felangaran tersehut dapat menimbu[€n kerugian materiel dan nonmateriel.\nSK No 155236A Perumusan . . .\nELIK INDONESIA\nPerumusan aturan tentang Pelindungan Data Pribadi dapat dipahami karena adanya kebutuhan untuk melindungi hak individu di dalam masyarakat sehubungan dengan pemrosesan Data Pribadi baik yang dilakukan secara elektronik dan nonelektronik menggunakan perangkat olah data. Pelindungan yang memadai atas Data Pribadi akan mampu memberikan kepercayaan masyarakat untuk menyediakan Data Pribadi guna berbagai kepentingan masyarakat yang lebih besar tanpa disalahgunakan atau melanggar hak pribadinya. Dengan demikian, pengaturan ini akan menciptakan keseimbangan antara hak individu dan masyarakat yang diwakili kepentingannya oleh negara. Pengaturan tentang Pelindungan Data Pribadi ini akan memberikan kontribusi yang besar terhadap terciptanya ketertiban dan kemajuan dalam masyarakat informasi.\nUntuk mengurangi tumpang tindih ketentuan tentang Pelindungan Data Pribadi maka pada dasarnya ketentuan dalam Undang-Undang ini adalah standar Pelindungan Data Pribadi secara urnurn, baik yang diproses sebagian atau keseluruhan dengan cara elektronik dan nonelektronik, dimana masing-masing sektor dapat menerapkan Pelindungan Data Pribadi sesuai karakteristik sektor yang Pengaturan Data Pribadi bertujuan antara lain melindungi dan menjamin hak dasar warga negara terkait dengan pelindungan diri pribadi, menjamin masyarakat untuk mendapatkan pelayanan dari Korporasi, Badan Publik, Organisasi Internasional, dan Pemerintah, mendorong pertumbuhan ekonomi digital dan industri teknologi informasi dan komunikasi, dan mendukung peningkatan daya saing industri dalam negeri.\nII. PASALDEMIPASAL\nPasal I\nCukupjelas."
-   }
-  },
-  {
-   "id": "ID-H043-A2-d2",
-   "no": 2,
-   "noLabel": {
-    "id": "第 2 条"
-   },
-   "text": {
-    "id": "Cukupjelas."
-   },
-   "dupIndex": 2
-  },
-  {
-   "id": "ID-H043-A3-d2",
-   "no": 3,
-   "noLabel": {
-    "id": "第 3 条"
-   },
-   "text": {
-    "id": "Hurufa\nYang dimaksud dengan \"asas pelindungan\" adalah bahwa setiap pemrosesErn Data Pribadi dilakukan dengan memberikan pelindungan kepada Subjek Data Pribadi atas Data Pribadinya dan Data Pribadi tersebut agar tidak disalahgunakan.\nSK No 155237 A Hurufb. . .\nHuruf b Yang dimaksud dengan \"asas kepastian hukum\" adalah bahwa setiap pemrosesan Data Pribadi dilakukan berdasarkan landasan hukum untuk mewujudkan Pelindungan Data Pribadi serta segala sesuatu yang mendukung sehingga mendapatkan pengakuan hukum di dalam dan di luar pengadilan.\nHuruf c Yang dimaksud dengan \"asas kepentingan umum\" adalah bahwa dalam Pelindungan Data Pribadi harus memperhatikan kepentingan umum atau masyarakat secara luas. Kepentingan umum tersebut antara lain negara dan pertahanan dan keamanan nasional.\nHuruf d Yang dimaksud dengan \"asas kemanfaatan\" adalah bahwa pengaturan Pelindungan Data Pribadi harus bermanfaat bagi kepentingan nasional, khususnya dalam mewujudkan cita-cita kesej a-hteraan umum.\nHuruf e Yang dimaksud dengan \"asas kehati-hatian\" adalah bahwa para pihak yang terkait dengan perrrosesan dan pengawasan Data Pribadi harus memperhatikan segenap aspek yang berpotensi mendatangkan kerugian.\nHuruf f Yang dimaksud dengan oasas keseimbangan\" adalah sebagai upaya Pelindungan Data Pribadi untuk menyeimbangkan antara hak atas Data Pribadi di satu pihak dengan hak negara yang sah berdasarkan kepentingan umum.\nHuruf g Yang dimaksud dengan \"asas pertanggungiawaban\" adalah bahwa semua pihak yang terkait dengan pemrosesan dan pengawasan Data Pribadi bertindak secara bertanggung jawab sehingga mampu menjamin keseimbangan hak dan kewajiban para pihak yang terkait termasuk Subjek Data Pribadi.\nHurufh\nYang dimaksud dengan \"asas kerahasiaan\" adalah bahwa Data Pribadi terlindungi dari pihak yang tidak berhak dan/atau dari kegiatan pemrosesan Data Pribadi yang tidak sah."
-   },
-   "dupIndex": 2
-  },
-  {
-   "id": "ID-H043-A4-d3",
-   "no": 4,
-   "noLabel": {
-    "id": "第 4 条"
-   },
-   "text": {
-    "id": "..\nSK No 155238 A REPUBLIK INOONESIA"
-   },
-   "dupIndex": 3
-  },
-  {
-   "id": "ID-H043-A4-d4",
-   "no": 4,
-   "noLabel": {
-    "id": "第 4 条"
-   },
-   "text": {
-    "id": "Ayat (1)\nHuruf a\nData Pribadi yang bersifat spesifik merupakan Data Pribadi yang apabila dalam pemrosesErnnya dapat mengakibatkan dampak lebih besar kepada Subjek Data Pribadi, antara lain tindakan diskriminasi dan kerugian yang lebih besar Subjek Data Pribadi.\nHurufb\nCrkup jelas.\nAyat (2)\nHuruf a\nYang dimaksud dengan \"data dan informasi kesehatan\" adalah catatan atau keterangan individu yang berkaitan dengan kesehatan fisik, kesehatan mental, dan/atau pelayanan kesehatan.\nHurufb\nYang dimaksud dengan \"data biometrilC adalah data yang berkaitan dengan fisik, fisiologis, atau karakteristik perilaku individu yang memungkinkan identilikasi unik terhadap individu, seperti gambar wajah atau data daktiloskopi. Data biometrik juga menjelaskan pada sifat keunikan dan/atau karakteristik seseorang yang harus ddaga dan dirawat, termasuk narnun tidak terbatas pada rekam sidik jari, retina mata, dan sampel DNA.\nHurufc\nYang dimaksud dengan odata genetika\" adalah semua data jenis apa.pun mengenai karakteristik suatu individu yang diwariskan atau diperoleh selama perkembangan prenatal awal.\nHurufd\nYang dimaksud dengan \"catatan kejahatan\" merupakan catatan tertulis tentang seseorang yang pernah melakukan perbuatan melawan hukum atau melanggar hukum atau sedang dalam proses peradilan atas perbuatan yang dilakukan, antara lain catatan kepolisian dan pencantunan dalam daftar pencegahan atau\nHuruf e Cukup jelas.\nHuruff...\nSK No 155239A\nHuruf f Yang dimaksud dengan \"data keuangan pribadi\" adalah termasuk narnun tidak terbatas kepada data jumlah simpanan pada bank termasuk tabungan, deposito, dan data karhr kredit.\nHurufg\nCukup jelas.\nAyat (3) Hurufa Cukup jelas.\nHuruf b Cukup jelas.\nHurufc\nCukup jelas.\nHuruf d Cukup jelas.\nHurufe\nCukup jelas.\nHuruff\nYang dimaksud dengan \"Data Pribadi yang dikombinasikan untuk mengidentiflkasi seseorang' antara lain nomor telepon seluler dan IP Address."
-   },
-   "dupIndex": 4
-  },
-  {
-   "id": "ID-H043-A5-d3",
-   "no": 5,
-   "noLabel": {
-    "id": "第 5 条"
-   },
-   "text": {
-    "id": "Cukup jelas."
-   },
-   "dupIndex": 3
-  },
-  {
-   "id": "ID-H043-A6-d2",
-   "no": 6,
-   "noLabel": {
-    "id": "第 6 条"
-   },
-   "text": {
-    "id": "Cukup jelas."
-   },
-   "dupIndex": 2
-  },
-  {
-   "id": "ID-H043-A7-d4",
-   "no": 7,
-   "noLabel": {
-    "id": "第 7 条"
-   },
-   "text": {
-    "id": "Hak untuk memperoleh salinan Data Pribadi dilakukan secara gratis, kecuali untuk kondisi tertentu yang memang membutuhkan biaya."
-   },
-   "dupIndex": 4
-  },
-  {
-   "id": "ID-H043-A8-d2",
-   "no": 8,
-   "noLabel": {
-    "id": "第 8 条"
-   },
-   "text": {
-    "id": "Cukup jelas."
-   },
-   "dupIndex": 2
-  },
-  {
-   "id": "ID-H043-A9-d2",
-   "no": 9,
-   "noLabel": {
-    "id": "第 9 条"
-   },
-   "text": {
-    "id": "..\nSK No 155240A"
-   },
-   "dupIndex": 2
-  },
-  {
-   "id": "ID-H043-A9-d3",
-   "no": 9,
-   "noLabel": {
-    "id": "第 9 条"
-   },
-   "text": {
-    "id": "Cukup jelas."
-   },
-   "dupIndex": 3
-  },
-  {
-   "id": "ID-H043-A1",
-   "no": 1,
-   "noLabel": {
-    "id": "第 1 条"
-   },
-   "text": {
-    "id": "O\nAyat (l) Yang dimaksud dengan \"pemrolilan\" adalah kegiatan mengidentifikasi seseorang termasuk narnun tidak terbatas pada riwayat pekerjaan, kondisi ekonomi, kesehatan, preferensi pribadi, minat, keandalan, perilaku, lokasi, atau pergerakan Subjek Data Pribadi secara elektronik.\nAyat (2) Cukup jelas.\nPasa1\nPasal\nPasal\nPasal\nCukup jelas. t2 Cukup jelas.\nCukup jelas.\nL4 Cukupjelas."
-   },
-   "partIndex": 2
-  },
-  {
-   "id": "ID-H043-A15-d2",
-   "no": 15,
-   "noLabel": {
-    "id": "第 15 条"
-   },
-   "text": {
-    "id": "Ayat (1) Hurufa Cukup jelas.\nHurufb\nYang dimaksud dengan \"kepentingan proses penegakan hukum\" adalah kepentingan yang berkaitan dengan upaya atau langkah dalam rangka menjalankan atau menegakkan aturan hukum berdasarkan ketentuan peraturan perundang-undangan antara lain proses penyelidikan, penyidikan, dan penuntutan.\nHuruf c Yang dimaksud dengan \"kepentingan umum dalam rangka penyelenggaraan negara\" antara lain penyelenggaraan administrasi kependudukan, jaminan sosial, perpajakan, kepabeanan, dan pelayanan perizinan berusaha terintegrasi secara elektronik.\nHuruf d . . .\nSK No 155241A Hurufd Yang dimaksud dengan \"sektor jasa keuangan\" adalah perbankan, pasar modal, asuransi, lembaga pembiayaan, dana pensiun, regulasi berbasis teknologi, teknologi finansial, dan teknologi yang berbasis lainnya yang berada dalam pengawasan Bank Indonesia, Otoritas Jasa Keuangan, dan l,embaga Penjamin Simpanan.\nHurufe\nCukup jelas.\nAyat (2) Cukup jelas."
-   },
-   "dupIndex": 2,
-   "partIndex": 2
-  },
-  {
-   "id": "ID-H043-A16-d2",
-   "no": 16,
-   "noLabel": {
-    "id": "第 16 条"
-   },
-   "text": {
-    "id": "Ayat (1) Hurufa Cukup jelas.\nHurufb\nCukup jelas.\nHurufc\nCukup jelas.\nHuruf d Cukup jelas.\nHuruf e Yang dimaksud dengan \"penampilan\" adalah perbuatan memperlihatkan Data Pribadi untuk tujuan tertentu dan pihak-pihak tertentu.\nYang dimaksud dengan pemberitahuan sebuah Informasi yang ditujukan kepada orang banyak dan bersifat umum.\nYang dimaksud dengan \"transfe/ adalah perpindahan, pengiriman, dan/atau penggandaan Data Pribadi baik secara elektronik maupun nonelektronik dari Pengendali Data Pribadi kepada pihak lain.\nHuruff\nCukup jelas.\nAyat (2) Cukup jelas.\nAyat (3) Cukup jelas. adalah"
-   },
-   "dupIndex": 2,
-   "partIndex": 2
-  },
-  {
-   "id": "ID-H043-A17-d2",
-   "no": 17,
-   "noLabel": {
-    "id": "第 17 条"
-   },
-   "text": {
-    "id": ". .\nSK No 155242A"
-   },
-   "dupIndex": 2,
-   "partIndex": 2
-  },
-  {
-   "id": "ID-H043-A17-d3",
-   "no": 17,
-   "noLabel": {
-    "id": "第 17 条"
-   },
-   "text": {
-    "id": "Cukup jelas."
-   },
-   "dupIndex": 3,
-   "partIndex": 2
-  },
-  {
-   "id": "ID-H043-A18-d3",
-   "no": 18,
-   "noLabel": {
-    "id": "第 18 条"
-   },
-   "text": {
-    "id": "Cukup je1as."
-   },
-   "dupIndex": 3,
-   "partIndex": 2
-  },
-  {
-   "id": "ID-H043-A19-d2",
-   "no": 19,
-   "noLabel": {
-    "id": "第 19 条"
-   },
-   "text": {
-    "id": "Cukup jelas."
-   },
-   "dupIndex": 2,
-   "partIndex": 2
-  },
-  {
-   "id": "ID-H043-A20-d2",
-   "no": 20,
-   "noLabel": {
-    "id": "第 20 条"
-   },
-   "text": {
-    "id": "Ayat (1) Cukup jelas.\nAyat(21\nHurufa\nCukup jelas.\nHuruf b Cukup jelas.\nHurufc\nCukup jelas.\nHurufd\nYang dimaksud dengan \"kepentingan vital Subjek Data Pribadi\" adalah terkait dengan keberlangsungan hidup dari Subjek Data Pribadi misalnya ketika pemrosesan Data Pribadi diperlukan untuk tindalan perawatan medis senus.\nHuruf e Cukup jelas.\nHuruff\nCukup jelas."
-   },
-   "dupIndex": 2,
-   "partIndex": 2
-  },
-  {
-   "id": "ID-H043-A21-d2",
-   "no": 21,
-   "noLabel": {
-    "id": "第 21 条"
-   },
-   "text": {
-    "id": "Ayat (1) Hurufa Cukup jelas.\nHuruf b Cukup jelas.\nHurufc\nCukup jelas.\nHurufd . . .\nSK No 155243 A Hurufd Cukup jelas.\nHuruf e Yang dimaksud dengan \"rincian mengenai Informasi yang dikumpulkan\" adalah daftar Informasi mengenai Data Pribadi Subjek Data Pribadi, baik berupa Data Pribadi yang bersifat umum maupun Data Pribadi yang bersifat spesifik, yang dikumpulkan oleh Pengendali Data Pribadi dalam rangka pemrosesan Data Pribadi.\nHuruff\nYang dimaksud dengan \"jangka waktu pemrosesan Data Pribadi\" adalah rentang waktu dimulainya hingga selesainya serangkaian kegiatan perrrosesan Data kibadi sesuai dengan tujuan perrrosesan Data Pribadi.\nHurufg\nCukup jelas.\nAyat (2) C\\:kup jelas.\nPasaJ22\nAyat (1) Cukup jelas.\nAyat (2) Cukup jelas.\nAyat (3) Cukup jelas.\nAyat (4) Hurufa Cukup jelas.\nHurufb\nCukup jelas.\nHurufc\nYang dimaksud dengan \"bahasa\" adalah Bahasa Indonesia.\nAyat (5) Cukup jelas."
-   },
-   "dupIndex": 2,
-   "partIndex": 2
-  },
-  {
-   "id": "ID-H043-A23",
-   "no": 23,
-   "noLabel": {
-    "id": "第 23 条"
-   },
-   "text": {
-    "id": "Cukup jelas.\nSK No 155340A"
-   },
-   "partIndex": 2
-  },
-  {
-   "id": "ID-H043-A24-d2",
-   "no": 24,
-   "noLabel": {
-    "id": "第 24 条"
-   },
-   "text": {
-    "id": "..\n_ 10_ Pasal24 Cukup jelas."
-   },
-   "dupIndex": 2,
-   "partIndex": 2
-  },
-  {
-   "id": "ID-H043-A25-d3",
-   "no": 25,
-   "noLabel": {
-    "id": "第 25 条"
-   },
-   "text": {
-    "id": "Cukup jel,as."
-   },
-   "dupIndex": 3,
-   "partIndex": 2
-  },
-  {
-   "id": "ID-H043-A26-d2",
-   "no": 26,
-   "noLabel": {
-    "id": "第 26 条"
-   },
-   "text": {
-    "id": "Cukup jelas.\nPasaJ2T\nYang dimaksud dengan \"secara terbatas dan spesifilC adalah Data Pribadi hanrs terbatas sesuai dengan tujuan pemrosesannya serta tujuan pernrosesan Data Pribadi harus secara eksplisit, sah, dan telah ditentukan pada saat Pribadi.\nData\nYang dimaksud dengan \"sah secara hukum\" adalah pemrosesan Data Pribadi dilakukan sesuai dengan ketentuan peraturan pertrndang-undangan.\nYang dimaksud dengan \"transparan\" adalah pemrosesan Data Pribadi dilakukan dengan mema stikan bahwa Subjek Data F?ibadi telah mengetahui Data Pribadi yang diproses dan bagaimana Data Pribadi tersebut diproses, serta setiap Informasi dan komunikasi yang berkaitan dengan penrosesan Data Pribadi tersebut mudah diakses dan dipahami, dengan menggunalan bahasa yangjelas."
-   },
-   "dupIndex": 2,
-   "partIndex": 2
-  },
-  {
-   "id": "ID-H043-A28-d2",
-   "no": 28,
-   "noLabel": {
-    "id": "第 28 条"
-   },
-   "text": {
-    "id": "Cukup jelas."
-   },
-   "dupIndex": 2,
-   "partIndex": 2
-  },
-  {
-   "id": "ID-H043-A29",
-   "no": 29,
-   "noLabel": {
-    "id": "第 29 条"
-   },
-   "text": {
-    "id": "Cukup jelas."
-   },
-   "partIndex": 2
-  },
-  {
-   "id": "ID-H043-A30-d2",
-   "no": 30,
-   "noLabel": {
-    "id": "第 30 条"
-   },
-   "text": {
-    "id": "Cukup jelas."
-   },
-   "dupIndex": 2,
-   "partIndex": 2
-  },
-  {
-   "id": "ID-H043-A31-d2",
-   "no": 31,
-   "noLabel": {
-    "id": "第 31 条"
-   },
-   "text": {
-    "id": "Cukup jelas."
-   },
-   "dupIndex": 2,
-   "partIndex": 2
-  },
-  {
-   "id": "ID-H043-A32-d3",
-   "no": 32,
-   "noLabel": {
-    "id": "第 32 条"
-   },
-   "text": {
-    "id": "Cukup jelas."
-   },
-   "dupIndex": 3,
-   "partIndex": 2
-  },
-  {
-   "id": "ID-H043-A33-d2",
-   "no": 33,
-   "noLabel": {
-    "id": "第 33 条"
-   },
-   "text": {
-    "id": "..\nSK No 155245 A FRESIOEN REPUBLIK INDONES"
-   },
-   "dupIndex": 2,
-   "partIndex": 2
-  },
-  {
-   "id": "ID-H043-A33-d3",
-   "no": 33,
-   "noLabel": {
-    "id": "第 33 条"
-   },
-   "text": {
-    "id": "Hurufa\nYang dimaksud dengan \"membahayakan keamanan, kesehatan fisik, atau kesehatan mental Subjek Data Pribadi dan/atau orang lain\" antara lain perubahan data riwayat penyakit yang berpotensi membahayakan keamanan diri sendiri dan/atau orang lain.\nHuruf b Yang dimaksud dengan \"berdampak pada pengungkapan Data Pribadi milik orang laino antara lain perubahan Data Pribadi nasabah yang berdampak pada pengungkapan Data Pribadi orang lain.\nHurufc\nCukupjetras."
-   },
-   "dupIndex": 3,
-   "partIndex": 2
-  },
-  {
-   "id": "ID-H043-A34-d2",
-   "no": 34,
-   "noLabel": {
-    "id": "第 34 条"
-   },
-   "text": {
-    "id": "Ayat (l) Penilaian dampak Pelindungan Data Pribadi dilakukan untuk mengwaluasi potensi risiko yang timbul dari suatu pemrosesErn Data kibadi serta upaya atau langkah yang harus dilakukan untuk memitigasi risiko, termasuk terhadap hak Subjek Data Pribadi dan mematuhi Undang-Undang ini.\nAyat (2) Cukup jelas.\nAyat (3) Cukup jelas."
-   },
-   "dupIndex": 2,
-   "partIndex": 2
-  },
-  {
-   "id": "ID-H043-A35-d3",
-   "no": 35,
-   "noLabel": {
-    "id": "第 35 条"
-   },
-   "text": {
-    "id": "Cukup jelas."
-   },
-   "dupIndex": 3,
-   "partIndex": 2
-  },
-  {
-   "id": "ID-H043-A36-d3",
-   "no": 36,
-   "noLabel": {
-    "id": "第 36 条"
-   },
-   "text": {
-    "id": "Cukup jelas."
-   },
-   "dupIndex": 3,
-   "partIndex": 2
-  },
-  {
-   "id": "ID-H043-A37-d2",
-   "no": 37,
-   "noLabel": {
-    "id": "第 37 条"
-   },
-   "text": {
-    "id": "Cukup jelas."
-   },
-   "dupIndex": 2,
-   "partIndex": 2
-  },
-  {
-   "id": "ID-H043-A38-d2",
-   "no": 38,
-   "noLabel": {
-    "id": "第 38 条"
-   },
-   "text": {
-    "id": "Cukup jelas."
-   },
-   "dupIndex": 2,
-   "partIndex": 2
-  },
-  {
-   "id": "ID-H043-A39-d2",
-   "no": 39,
-   "noLabel": {
-    "id": "第 39 条"
-   },
-   "text": {
-    "id": "Cukup jelas."
-   },
-   "dupIndex": 2,
-   "partIndex": 2
-  },
-  {
-   "id": "ID-H043-A4-d5",
-   "no": 4,
-   "noLabel": {
-    "id": "第 4 条"
-   },
-   "text": {
-    "id": "O Cukup jelas."
-   },
-   "dupIndex": 5,
-   "partIndex": 2
-  },
-  {
-   "id": "ID-H043-A41-d2",
-   "no": 41,
-   "noLabel": {
-    "id": "第 41 条"
-   },
-   "text": {
-    "id": "..\nSK No 155246 A REPUBLIK INDONES -t2-"
-   },
-   "dupIndex": 2,
-   "partIndex": 2
-  },
-  {
-   "id": "ID-H043-A41-d3",
-   "no": 41,
-   "noLabel": {
-    "id": "第 41 条"
-   },
-   "text": {
-    "id": "Cukup jelas."
-   },
-   "dupIndex": 3,
-   "partIndex": 2
-  },
-  {
-   "id": "ID-H043-A42-d3",
-   "no": 42,
-   "noLabel": {
-    "id": "第 42 条"
-   },
-   "text": {
-    "id": "Cukup jelas."
-   },
-   "dupIndex": 3,
-   "partIndex": 2
-  },
-  {
-   "id": "ID-H043-A43-d3",
-   "no": 43,
-   "noLabel": {
-    "id": "第 43 条"
-   },
-   "text": {
-    "id": "Cukup jelas."
-   },
-   "dupIndex": 3,
-   "partIndex": 2
-  },
-  {
-   "id": "ID-H043-A44-d3",
-   "no": 44,
-   "noLabel": {
-    "id": "第 44 条"
-   },
-   "text": {
-    "id": "Ayat (1) Yang dimaksud dengan \"memusnahkan' adalah tindakan untuk menghilangkan, melenyapkan, atau menghancurkan Data Pribadi sehingga tidak lagi dapat digunakan untuk mengidentilikasi Subjek Data Pribadi.\nAyat (21 Cukup jelas."
-   },
-   "dupIndex": 3,
-   "partIndex": 2
-  },
-  {
-   "id": "ID-H043-A45-d4",
-   "no": 45,
-   "noLabel": {
-    "id": "第 45 条"
-   },
-   "text": {
-    "id": "Cukup je1as."
-   },
-   "dupIndex": 4,
-   "partIndex": 2
-  },
-  {
-   "id": "ID-H043-A46-d2",
-   "no": 46,
-   "noLabel": {
-    "id": "第 46 条"
-   },
-   "text": {
-    "id": "(1) Yang dimaksud dengan okegagalan Pelindungan Data Pribadi\" adalah kegagalan melindungi Data Pribadi seseorang dalam hal kerahasiaan, integritas, dan ketersediaan Data Pribadi, termasuk pelanggaran keamanan, baik yang disengaja maupun tidak disengaja, yang mengarah pada perusakan, kehilangan, perubahan, pengungkapan, atau akses yang tidak sah terhadap Data Pribadi yang dikirim, disimpan, atau diproses.\n(21 Cukup.jelas.\n(3) Yang dimaksud dengan \"dalam hal tertentu\" antara lain jika kegagalan Pelindungan Data Pribadi mengganggu pelayanan publik dan/ atau berdampak serius terhadap kepentingan masyarakat."
-   },
-   "dupIndex": 2,
-   "partIndex": 2
-  },
-  {
-   "id": "ID-H043-A47-d2",
-   "no": 47,
-   "noLabel": {
-    "id": "第 47 条"
-   },
-   "text": {
-    "id": "Cukup jelas.\nAyat\nAyat\nAyat\nSK No 155247 A"
-   },
-   "dupIndex": 2,
-   "partIndex": 2
-  },
-  {
-   "id": "ID-H043-A48-d3",
-   "no": 48,
-   "noLabel": {
-    "id": "第 48 条"
-   },
-   "text": {
-    "id": "..\nPUELIK INDONESIA"
-   },
-   "dupIndex": 3,
-   "partIndex": 2
-  },
-  {
-   "id": "ID-H043-A48-d4",
-   "no": 48,
-   "noLabel": {
-    "id": "第 48 条"
-   },
-   "text": {
-    "id": "Ayat (1) Yang dimaksud dengan \"pemberitahuan\" adalah pemberitahuan kepada Subjek Data Pribadi atau pemberitahuan secara umum melalui media massa baik elektronik maupun nonelektronik.\nAyat (2) Cukup jelas.\nAyat (3) Cukup jelas.\nAyat (4) Cukup jelas.\nAyat (5) Cukup jelas."
-   },
-   "dupIndex": 4,
-   "partIndex": 2
-  },
-  {
-   "id": "ID-H043-A49-d2",
-   "no": 49,
-   "noLabel": {
-    "id": "第 49 条"
-   },
-   "text": {
-    "id": "Cukup jelas."
-   },
-   "dupIndex": 2,
-   "partIndex": 2
-  },
-  {
-   "id": "ID-H043-A50-d2",
-   "no": 50,
-   "noLabel": {
-    "id": "第 50 条"
-   },
-   "text": {
-    "id": "Cukup jelas."
-   },
-   "dupIndex": 2,
-   "partIndex": 2
-  },
-  {
-   "id": "ID-H043-A51-d2",
-   "no": 51,
-   "noLabel": {
-    "id": "第 51 条"
-   },
-   "text": {
-    "id": "Cukup jelas."
-   },
-   "dupIndex": 2,
-   "partIndex": 2
-  },
-  {
-   "id": "ID-H043-A52-d2",
-   "no": 52,
-   "noLabel": {
-    "id": "第 52 条"
-   },
-   "text": {
-    "id": "Cukup jelas."
-   },
-   "dupIndex": 2,
-   "partIndex": 2
-  },
-  {
-   "id": "ID-H043-A53-d2",
-   "no": 53,
-   "noLabel": {
-    "id": "第 53 条"
-   },
-   "text": {
-    "id": "Ayat (l) Yang dimaksud dengan \"pejabat atau petugas yang melaksanakan firngsi Pelindungan Data Pribadi\" adalah pejabat atau petugas yang bertanggung jawab untuk memastikan kepa.tuhan atas prinsip Pelindungan Data Pribadi dan mitiggsi risiko pelanggaran Pelindungan Data Pribadi.\nAyat(21\nCukup jelas.\nAyat (3) Cukup jelas."
-   },
-   "dupIndex": 2,
-   "partIndex": 2
-  },
-  {
-   "id": "ID-H043-A54-d2",
-   "no": 54,
-   "noLabel": {
-    "id": "第 54 条"
-   },
-   "text": {
-    "id": "Cukup jelas."
-   },
-   "dupIndex": 2,
-   "partIndex": 2
-  },
-  {
-   "id": "ID-H043-A55-d2",
-   "no": 55,
-   "noLabel": {
-    "id": "第 55 条"
-   },
-   "text": {
-    "id": "Cukup jelas.\nSK No 155248 A"
-   },
-   "dupIndex": 2,
-   "partIndex": 2
-  },
-  {
-   "id": "ID-H043-A56-d2",
-   "no": 56,
-   "noLabel": {
-    "id": "第 56 条"
-   },
-   "text": {
-    "id": "..\nREPUBLIK INDONES]A -t4- Pasal Pasal Pasal Pasal Cukup jelas.\nAyat (1) Cukup jelas.\nAyat(21\nCukup jelas.\nAyat (3) Yang dimaksud dengan \"pendapatan\" adalah arus masuk bruto dari manfaat ekonomi yang timbul dari alrtivitas normal entitas selama periode jika arus masuk tersebut mengakibatkan kenaikan ekuitas yang tidak berasal dari kontribusi penanam modal.\nAyat (4) Cukup jelas.\nAyat (s) Cukup jeLas.\nCukupjelas.\nHurufa\nCukup jelas.\nHuruf b Cukup jelas.\nHuruf c Cukup jelas.\nHurufd\nYang dimaksud dengan \"fasilitasi penyelesaian sengketa di luar pengadilan\" adalah pemberian sarana sengketa melalui prosedur yang disepakati para pihak, yakni penyelesaian di luar pengadilan dengan cara konsultasi, arbitrase, negosiasi, mediasi, konsiliasi, atau peniliaian ahli sesuai dengan ketentuan peraturan perundang-undangan."
-   },
-   "dupIndex": 2,
-   "partIndex": 2
-  },
-  {
-   "id": "ID-H043-A6-d3",
-   "no": 6,
-   "noLabel": {
-    "id": "第 6 条"
-   },
-   "text": {
-    "id": "O Hurufa\nDalam hal perumusan dan penetapan kebijakan Pelindungan Data Pribadi, lembaga melibatkan organisasi usaha sesuai dengan ketentuan peraturan perundang-undangan.\nSK No 155249A Hurufb. . .\nPRESIOEN\nREPI.JBLIK INOONESlA\nHuruf b Cukup jelas.\nHuruf c Cukup jelas.\nHuruf d Cukup jelas.\nHuruf e Cukup jelas.\nHuruf f Cukup jelas.\nHuruf g Cukup jelas.\nHurufh\nCukup jelas.\nHuruf i Cukup jelas.\nHurufj\nCukup.jelas.\nHuruf k Cukup jelas.\nHuruf I\nCukup jelas.\nHurufm\nCukup jelas.\nHuruf n Cukup jelas.\nHurufo\nCukup.jelas."
-   },
-   "dupIndex": 3,
-   "partIndex": 2
-  },
-  {
-   "id": "ID-H043-A61-d2",
-   "no": 61,
-   "noLabel": {
-    "id": "第 61 条"
-   },
-   "text": {
-    "id": "Cukup jelas."
-   },
-   "dupIndex": 2,
-   "partIndex": 2
-  },
-  {
-   "id": "ID-H043-A62-d2",
-   "no": 62,
-   "noLabel": {
-    "id": "第 62 条"
-   },
-   "text": {
-    "id": "Cukup jelas."
-   },
-   "dupIndex": 2,
-   "partIndex": 2
-  },
-  {
-   "id": "ID-H043-A63-d2",
-   "no": 63,
-   "noLabel": {
-    "id": "第 63 条"
-   },
-   "text": {
-    "id": "..\nSK No 155250A"
-   },
-   "dupIndex": 2,
-   "partIndex": 2
-  },
-  {
-   "id": "ID-H043-A63-d3",
-   "no": 63,
-   "noLabel": {
-    "id": "第 63 条"
-   },
-   "text": {
-    "id": "Cukup jelas."
-   },
-   "dupIndex": 3,
-   "partIndex": 2
-  },
-  {
-   "id": "ID-H043-A64-d2",
-   "no": 64,
-   "noLabel": {
-    "id": "第 64 条"
-   },
-   "text": {
-    "id": "Cukup jelas."
-   },
-   "dupIndex": 2,
-   "partIndex": 2
-  },
-  {
-   "id": "ID-H043-A65-d2",
-   "no": 65,
-   "noLabel": {
-    "id": "第 65 条"
-   },
-   "text": {
-    "id": "Cukup jelas."
-   },
-   "dupIndex": 2,
-   "partIndex": 2
-  },
-  {
-   "id": "ID-H043-A66-d3",
-   "no": 66,
-   "noLabel": {
-    "id": "第 66 条"
-   },
-   "text": {
-    "id": "Cukup jelas."
-   },
-   "dupIndex": 3,
-   "partIndex": 2
-  },
-  {
-   "id": "ID-H043-A67-d3",
-   "no": 67,
-   "noLabel": {
-    "id": "第 67 条"
-   },
-   "text": {
-    "id": "Cukup jelas."
-   },
-   "dupIndex": 3,
-   "partIndex": 2
-  },
-  {
-   "id": "ID-H043-A68-d2",
-   "no": 68,
-   "noLabel": {
-    "id": "第 68 条"
-   },
-   "text": {
-    "id": "Cukup jelas."
-   },
-   "dupIndex": 2,
-   "partIndex": 2
-  },
-  {
-   "id": "ID-H043-A69-d3",
-   "no": 69,
-   "noLabel": {
-    "id": "第 69 条"
-   },
-   "text": {
-    "id": "Cukup jelas."
-   },
-   "dupIndex": 3,
-   "partIndex": 2
-  },
-  {
-   "id": "ID-H043-A7-d5",
-   "no": 7,
-   "noLabel": {
-    "id": "第 7 条"
-   },
-   "text": {
-    "id": "O Cukup jelas."
-   },
-   "dupIndex": 5,
-   "partIndex": 2
-  },
-  {
-   "id": "ID-H043-A71-d4",
-   "no": 71,
-   "noLabel": {
-    "id": "第 71 条"
-   },
-   "text": {
-    "id": "Cukup jelas.\nPasalT2\nCukup jelas."
-   },
-   "dupIndex": 4,
-   "partIndex": 2
-  },
-  {
-   "id": "ID-H043-A73-d3",
-   "no": 73,
-   "noLabel": {
-    "id": "第 73 条"
-   },
-   "text": {
-    "id": "Cukup jelas."
-   },
-   "dupIndex": 3,
-   "partIndex": 2
-  },
-  {
-   "id": "ID-H043-A74-d2",
-   "no": 74,
-   "noLabel": {
-    "id": "第 74 条"
-   },
-   "text": {
-    "id": "Cukup jelas."
-   },
-   "dupIndex": 2,
-   "partIndex": 2
-  },
-  {
-   "id": "ID-H043-A75-d2",
    "no": 75,
    "noLabel": {
-    "id": "第 75 条"
+    "zh": "第 76 条",
+    "en": "Article 76"
    },
    "text": {
-    "id": "Cukup jelas."
-   },
-   "dupIndex": 2,
-   "partIndex": 2
-  },
-  {
-   "id": "ID-H043-A76-d2",
-   "no": 76,
-   "noLabel": {
-    "id": "第 76 条"
-   },
-   "text": {
-    "id": "Cukup jelas.\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 6820 SK No 155251A"
-   },
-   "dupIndex": 2,
-   "partIndex": 2
+    "id": "Undang-Undang ini mulai berlaku pada tanggal diundangkan."
+   }
   }
- ]
+ ],
+ "rebuildNote": {
+  "at": "2026-10-26",
+  "from": "_work/id/final2/ID-PDP-2022.json",
+  "beforeRecords": 75,
+  "beforeChars": 29585,
+  "reason": "原 articles 为 OCR 碎片（条号重复、文档顺序错乱），改用清洗结构化源重建；no 为顺序索引，noLabel 保留真实条号"
+ }
 }

@@ -1,15 +1,16 @@
 {
  "id": "ID-H050",
  "title": {
-  "zh": "Undang-Undang Nomor 19 Tahun 2016 tentang Perubahan Atas Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik",
-  "en": "Undang-Undang Nomor 19 Tahun 2016 tentang Perubahan Atas Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik",
-  "orig": null
+  "zh": "电子信息与交易法修正案",
+  "en": "Law No. 19 of 2016 on the Amendment to Law No. 11 of 2008 on Electronic Information and Transactions",
+  "orig": null,
+  "id": "Undang-Undang Nomor 19 Tahun 2016 tentang Perubahan atas Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik"
  },
  "country": "ID",
  "countryName": "印度尼西亚",
  "layer": "intl",
  "pack": "id-p03",
- "language": "en",
+ "language": "id",
  "level": "law",
  "category": null,
  "status": "active",
@@ -24,8 +25,8 @@
  "coverage": "full",
  "structureMode": "ARTICLE",
  "structure": null,
- "articleCount": 7,
- "chars": 3428,
+ "articleCount": 5,
+ "chars": 1664,
  "source": {
   "name": "印度尼西亚官方发布渠道",
   "url": null
@@ -42,73 +43,56 @@
    "id": "ID-H050-A1",
    "no": 1,
    "noLabel": {
-    "en": "Article 1"
+    "en": "Article 1",
+    "zh": "第 1 条"
    },
    "text": {
-    "en": "Setiap Orang yang dengan sengaja dan tanpa hak mendistribusikan dan/atau mentransmisikan dan/atau membuat dapat diaksesnya Informasi Elektronik dan/atau Dokumen Elektronik yang memiliki muatan yang melanggar kesusilaan sebagaimana dimaksud dalam Pasal 27 ayat (1) dipidana dengan pidana penjara paling lama 6 (enam) tahun dan/atau denda paling banyak Rp1.000.000.000,00 (satu miliar rupiah)."
+    "id": "Setiap Orang yang dengan sengaja dan tanpa hak mendistribusikan dan/atau mentransmisikan dan/atau membuat dapat diaksesnya Informasi Elektronik dan/atau Dokumen Elektronik yang memiliki muatan yang melanggar kesusilaan sebagaimana dimaksud dalam Pasal 27 ayat (1) dipidana dengan pidana penjara paling lama 6 (enam) tahun dan/atau denda paling banyak Rp1.000.000.000,00 (satu miliar rupiah)."
    }
   },
   {
    "id": "ID-H050-A2",
    "no": 2,
    "noLabel": {
-    "en": "Article 2"
+    "en": "Article 2",
+    "zh": "第 2 条"
    },
    "text": {
-    "en": "Setiap Orang yang dengan sengaja dan tanpa hak mendistribusikan dan/atau mentransmisikan dan/atau membuat dapat diaksesnya Informasi Elektronik dan/atau Dokumen Elektronik yang memiliki muatan perjudian sebagaimana dimaksud dalam Pasal 27 ayat (2) dipidana dengan pidana penjara paling lama 6 (enam) tahun dan/atau denda paling banyak Rp1.000.000.000,00 (satu miliar rupiah)."
+    "id": "Setiap Orang yang dengan sengaja dan tanpa hak mendistribusikan dan/atau mentransmisikan dan/atau membuat dapat diaksesnya Informasi Elektronik dan/atau Dokumen Elektronik yang memiliki muatan perjudian sebagaimana dimaksud dalam Pasal 27 ayat (2) dipidana dengan pidana penjara paling lama 6 (enam) tahun dan/atau denda paling banyak Rp1.000.000.000,00 (satu miliar rupiah)."
    }
   },
   {
    "id": "ID-H050-A3",
    "no": 3,
    "noLabel": {
-    "en": "Article 3"
+    "en": "Article 3",
+    "zh": "第 3 条"
    },
    "text": {
-    "en": "Setiap Orang yang dengan sengaja dan tanpa hak mendistribusikan dan/atau mentransmisikan dan/atau membuat dapat diaksesnya Informasi Elektronik dan/atau Dokumen Elektronik yang memiliki muatan penghinaan dan/atau pencemaran nama baik sebagaimana dimaksud dalam Pasal 27 ayat (3) dipidana dengan pidana penjara paling lama 4 (empat) tahun dan/atau denda paling banyak Rp750.000.000,00 (tujuh ratus lima puluh juta rupiah)."
+    "id": "Setiap Orang yang dengan sengaja dan tanpa hak mendistribusikan dan/atau mentransmisikan dan/atau membuat dapat diaksesnya Informasi Elektronik dan/atau Dokumen Elektronik yang memiliki muatan penghinaan dan/atau pencemaran nama baik sebagaimana dimaksud dalam Pasal 27 ayat (3) dipidana dengan pidana penjara paling lama 4 (empat) tahun dan/atau denda paling banyak Rp750.000.000,00 (tujuh ratus lima puluh juta rupiah)."
    }
   },
   {
    "id": "ID-H050-A4",
    "no": 4,
    "noLabel": {
-    "en": "Article 4"
+    "en": "Article 4",
+    "zh": "第 4 条"
    },
    "text": {
-    "en": "Setiap Orang yang dengan sengaja dan tanpa hak mendistribusikan dan/atau mentransmisikan dan/atau membuat dapat diaksesnya Informasi Elektronik dan/atau Dokumen Elektronik yang memiliki muatan pemerasan dan/atau pengancaman sebagaimana dimaksud dalam Pasal 27 ayat (4) dipidana dengan pidana penjara paling lama 6 (enam) tahun dan/atau denda paling banyak Rp1.000.000.000,00 (satu miliar rupiah)."
+    "id": "Setiap Orang yang dengan sengaja dan tanpa hak mendistribusikan dan/atau mentransmisikan dan/atau membuat dapat diaksesnya Informasi Elektronik dan/atau Dokumen Elektronik yang memiliki muatan pemerasan dan/atau pengancaman sebagaimana dimaksud dalam Pasal 27 ayat (4) dipidana dengan pidana penjara paling lama 6 (enam) tahun dan/atau denda paling banyak Rp1.000.000.000,00 (satu miliar rupiah)."
    }
   },
   {
    "id": "ID-H050-A5",
    "no": 5,
    "noLabel": {
-    "en": "Article 5"
+    "en": "Article 5",
+    "zh": "第 5 条"
    },
    "text": {
-    "en": "Ketentuan sebagaimana dimaksud pada ayat (3) merupakan delik aduan.\n**Pasal 45A**"
+    "id": "Ketentuan sebagaimana dimaksud pada ayat (3) merupakan delik aduan.\n**Pasal 45A**"
    }
-  },
-  {
-   "id": "ID-H050-A1-d2",
-   "no": 1,
-   "noLabel": {
-    "en": "Article 1"
-   },
-   "text": {
-    "en": "Setiap Orang yang dengan sengaja dan tanpa hak menyebarkan berita bohong dan menyesatkan yang mengakibatkan kerugian konsumen dalam Transaksi Elektronik sebagaimana dimaksud dalam Pasal 28 ayat (1) dipidana dengan pidana penjara paling lama 6 (enam) tahun dan/atau denda paling banyak Rp1.000.000.000,00 (satu miliar rupiah)."
-   },
-   "dupIndex": 2
-  },
-  {
-   "id": "ID-H050-A2-d2",
-   "no": 2,
-   "noLabel": {
-    "en": "Article 2"
-   },
-   "text": {
-    "en": "Setiap Orang yang dengan sengaja dan tanpa hak menyebarkan informasi yang ditujukan untuk menimbulkan rasa kebencian atau permusuhan individu dan/atau kelompok masyarakat tertentu berdasarkan atas suku, agama, ras, dan antargolongan (SARA) sebagaimana dimaksud dalam Pasal 28 ayat (2) dipidana dengan pidana penjara paling lama 6 (enam) tahun dan/atau denda paling banyak Rp1.000.000.000,00 (satu miliar rupiah).\n**Pasal 45B** Setiap Orang yang dengan sengaja dan tanpa hak mengirimkan Informasi Elektronik dan/atau Dokumen Elektronik yang berisi ancaman kekerasan atau menakut-nakuti yang ditujukan secara pribadi sebagaimana dimaksud dalam Pasal 29 dipidana dengan pidana penjara paling lama 4 (empat) tahun dan/atau denda paling banyak Rp750.000.000,00 (tujuh ratus lima puluh juta rupiah).\n**Pasal II** Undang-Undang ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Undang-Undang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.\n**Pasal I** Beberapa ketentuan dalam Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 58, Tambahan Lembaran Negara Republik Indonesia Nomor 4843) diubah sebagai berikut:1. Di antara angka 6 dan angka 7 **Pasal 1** disisipkan 1 (satu) angka, yakni angka 6a sehingga Pasal 1 berbunyi sebagai berikut:\nPasal 1 Dalam Undang-Undang ini yang dimaksud dengan:"
-   },
-   "dupIndex": 2
   }
  ]
 }

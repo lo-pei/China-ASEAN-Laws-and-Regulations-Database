@@ -107,11 +107,16 @@
           if (c.effectiveDate) existing.effectiveDate = c.effectiveDate;
           if (c.category && !existing.category) existing.category = c.category;
           if (c.chars && !existing.chars) existing.chars = c.chars;
+          /* 目录层的英文标题补进已登记的记录（英文界面显示「英文（中文原名）」） */
+          if (c.titleEn) {
+            if (typeof existing.title === 'string') existing.title = { zh: existing.title, en: c.titleEn };
+            else if (existing.title && !existing.title.en) existing.title.en = c.titleEn;
+          }
           return;
         }
         baseLaws.push({
           id: c.id, country: 'CN', level: c.level || 'law', status: c.status || 'active',
-          topics: ['general'], title: { zh: c.title },
+          topics: ['general'], title: c.titleEn ? { zh: c.title, en: c.titleEn } : { zh: c.title },
           docNumber: c.docNumber || null,
           issuingBody: c.issuingBody ? { zh: c.issuingBody } : null,
           promulgatedDate: c.date || null,

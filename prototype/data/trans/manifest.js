@@ -6,7 +6,7 @@
   'use strict';
   root.CALR_TRANS_MANIFEST = {
     "version": "1.0.0",
-    "updatedAt": "2026-10-23",
+    "updatedAt": "2026-10-26",
     "note": "D 译文层索引。译文与官方原文物理分离；界面读取时在内存中合并。",
     "files": [
       {
@@ -1823,6 +1823,210 @@
           "CN-TRADEMARK-2026"
         ],
         "articles": 3039,
+        "engine": "llm",
+        "model": "deepseek-v4.1-flash",
+        "reviewed": "machine"
+      },
+      {
+        "file": "id-p01.en",
+        "pack": "id-p01",
+        "country": "ID",
+        "sourceLang": "id",
+        "targetLang": "en",
+        "laws": [
+          "ID-H004",
+          "ID-H012",
+          "ID-H019",
+          "ID-H032",
+          "ID-H033",
+          "ID-H035",
+          "ID-H036"
+        ],
+        "articles": 1124,
+        "engine": "llm",
+        "model": "DeepSeek-V4.1-Flash",
+        "reviewed": "machine"
+      },
+      {
+        "file": "id-p01.zh",
+        "pack": "id-p01",
+        "country": "ID",
+        "sourceLang": "id",
+        "targetLang": "zh",
+        "laws": [
+          "ID-H004",
+          "ID-H012",
+          "ID-H019",
+          "ID-H032",
+          "ID-H033",
+          "ID-H035",
+          "ID-H036"
+        ],
+        "articles": 1094,
+        "engine": "llm",
+        "model": "DeepSeek-V4.1-Flash",
+        "reviewed": "machine"
+      },
+      {
+        "file": "id-p02.en",
+        "pack": "id-p02",
+        "country": "ID",
+        "sourceLang": "id",
+        "targetLang": "en",
+        "laws": [
+          "ID-H037",
+          "ID-H041",
+          "ID-H042",
+          "ID-H043",
+          "ID-H044",
+          "ID-H045"
+        ],
+        "articles": 380,
+        "engine": "llm",
+        "model": "DeepSeek-V4.1-Flash",
+        "reviewed": "machine"
+      },
+      {
+        "file": "id-p02.zh",
+        "pack": "id-p02",
+        "country": "ID",
+        "sourceLang": "id",
+        "targetLang": "zh",
+        "laws": [
+          "ID-H037",
+          "ID-H041",
+          "ID-H042",
+          "ID-H043",
+          "ID-H044",
+          "ID-H045"
+        ],
+        "articles": 380,
+        "engine": "llm",
+        "model": "DeepSeek-V4.1-Flash",
+        "reviewed": "machine"
+      },
+      {
+        "file": "id-p03.en",
+        "pack": "id-p03",
+        "country": "ID",
+        "sourceLang": "id",
+        "targetLang": "en",
+        "laws": [
+          "ID-H049",
+          "ID-H050",
+          "ID-H051",
+          "ID-H052",
+          "ID-H054",
+          "ID-H055",
+          "ID-H056"
+        ],
+        "articles": 99,
+        "engine": "llm",
+        "model": "DeepSeek-V4.1-Flash",
+        "reviewed": "machine"
+      },
+      {
+        "file": "id-p03.zh",
+        "pack": "id-p03",
+        "country": "ID",
+        "sourceLang": "id",
+        "targetLang": "zh",
+        "laws": [
+          "ID-H049",
+          "ID-H050",
+          "ID-H051",
+          "ID-H052",
+          "ID-H054",
+          "ID-H055",
+          "ID-H056"
+        ],
+        "articles": 99,
+        "engine": "llm",
+        "model": "DeepSeek-V4.1-Flash",
+        "reviewed": "machine"
+      },
+      {
+        "file": "id-p05.en",
+        "pack": "id-p05",
+        "country": "ID",
+        "sourceLang": "id",
+        "targetLang": "en",
+        "laws": [
+          "ID-H016",
+          "ID-H020",
+          "ID-H067",
+          "ID-H068",
+          "ID-H069",
+          "ID-H070",
+          "ID-H071",
+          "ID-H074"
+        ],
+        "articles": 2814,
+        "engine": "llm",
+        "model": "DeepSeek-V4.1-Flash",
+        "reviewed": "machine"
+      },
+      {
+        "file": "id-p05.zh",
+        "pack": "id-p05",
+        "country": "ID",
+        "sourceLang": "id",
+        "targetLang": "zh",
+        "laws": [
+          "ID-H016",
+          "ID-H020",
+          "ID-H067",
+          "ID-H068",
+          "ID-H069",
+          "ID-H070",
+          "ID-H071",
+          "ID-H072",
+          "ID-H074"
+        ],
+        "articles": 2870,
+        "engine": "llm",
+        "model": "DeepSeek-V4.1-Flash",
+        "reviewed": "machine"
+      },
+      {
+        "file": "vn-p04.en",
+        "pack": "vn-p04",
+        "country": "VN",
+        "sourceLang": "vi",
+        "targetLang": "en",
+        "laws": [
+          "VN-H001",
+          "VN-H004",
+          "VN-H018",
+          "VN-H021",
+          "VN-H086",
+          "VN-H088",
+          "VN-H089"
+        ],
+        "articles": 1565,
+        "engine": "llm",
+        "model": "deepseek-v4.1-flash",
+        "reviewed": "machine"
+      },
+      {
+        "file": "vn-p05.en",
+        "pack": "vn-p05",
+        "country": "VN",
+        "sourceLang": "vi",
+        "targetLang": "en",
+        "laws": [
+          "VN-H093",
+          "VN-H094",
+          "VN-H096",
+          "VN-H104",
+          "VN-H108",
+          "VN-H114",
+          "VN-H117",
+          "VN-H118",
+          "VN-H121",
+          "VN-H123"
+        ],
+        "articles": 1117,
         "engine": "llm",
         "model": "deepseek-v4.1-flash",
         "reviewed": "machine"
@@ -6526,6 +6730,172 @@
       },
       "CN-LAW-0255": {
         "en": "cn-p04.en"
+      },
+      "VN-H021": {
+        "en": "vn-p04.en"
+      },
+      "VN-H104": {
+        "en": "vn-p05.en"
+      },
+      "VN-H001": {
+        "en": "vn-p04.en"
+      },
+      "VN-H004": {
+        "en": "vn-p04.en"
+      },
+      "VN-H018": {
+        "en": "vn-p04.en"
+      },
+      "VN-H088": {
+        "en": "vn-p04.en"
+      },
+      "VN-H089": {
+        "en": "vn-p04.en"
+      },
+      "VN-H094": {
+        "en": "vn-p05.en"
+      },
+      "VN-H096": {
+        "en": "vn-p05.en"
+      },
+      "VN-H108": {
+        "en": "vn-p05.en"
+      },
+      "VN-H114": {
+        "en": "vn-p05.en"
+      },
+      "VN-H117": {
+        "en": "vn-p05.en"
+      },
+      "VN-H118": {
+        "en": "vn-p05.en"
+      },
+      "VN-H086": {
+        "en": "vn-p04.en"
+      },
+      "VN-H093": {
+        "en": "vn-p05.en"
+      },
+      "VN-H121": {
+        "en": "vn-p05.en"
+      },
+      "VN-H123": {
+        "en": "vn-p05.en"
+      },
+      "ID-H004": {
+        "en": "id-p01.en",
+        "zh": "id-p01.zh"
+      },
+      "ID-H012": {
+        "en": "id-p01.en",
+        "zh": "id-p01.zh"
+      },
+      "ID-H019": {
+        "en": "id-p01.en",
+        "zh": "id-p01.zh"
+      },
+      "ID-H032": {
+        "en": "id-p01.en",
+        "zh": "id-p01.zh"
+      },
+      "ID-H033": {
+        "en": "id-p01.en",
+        "zh": "id-p01.zh"
+      },
+      "ID-H035": {
+        "en": "id-p01.en",
+        "zh": "id-p01.zh"
+      },
+      "ID-H036": {
+        "en": "id-p01.en",
+        "zh": "id-p01.zh"
+      },
+      "ID-H037": {
+        "en": "id-p02.en",
+        "zh": "id-p02.zh"
+      },
+      "ID-H041": {
+        "en": "id-p02.en",
+        "zh": "id-p02.zh"
+      },
+      "ID-H042": {
+        "en": "id-p02.en",
+        "zh": "id-p02.zh"
+      },
+      "ID-H043": {
+        "en": "id-p02.en",
+        "zh": "id-p02.zh"
+      },
+      "ID-H044": {
+        "en": "id-p02.en",
+        "zh": "id-p02.zh"
+      },
+      "ID-H045": {
+        "en": "id-p02.en",
+        "zh": "id-p02.zh"
+      },
+      "ID-H049": {
+        "en": "id-p03.en",
+        "zh": "id-p03.zh"
+      },
+      "ID-H050": {
+        "en": "id-p03.en",
+        "zh": "id-p03.zh"
+      },
+      "ID-H051": {
+        "en": "id-p03.en",
+        "zh": "id-p03.zh"
+      },
+      "ID-H052": {
+        "en": "id-p03.en",
+        "zh": "id-p03.zh"
+      },
+      "ID-H054": {
+        "en": "id-p03.en",
+        "zh": "id-p03.zh"
+      },
+      "ID-H055": {
+        "en": "id-p03.en",
+        "zh": "id-p03.zh"
+      },
+      "ID-H056": {
+        "en": "id-p03.en",
+        "zh": "id-p03.zh"
+      },
+      "ID-H016": {
+        "en": "id-p05.en",
+        "zh": "id-p05.zh"
+      },
+      "ID-H020": {
+        "en": "id-p05.en",
+        "zh": "id-p05.zh"
+      },
+      "ID-H067": {
+        "en": "id-p05.en",
+        "zh": "id-p05.zh"
+      },
+      "ID-H068": {
+        "en": "id-p05.en",
+        "zh": "id-p05.zh"
+      },
+      "ID-H069": {
+        "en": "id-p05.en",
+        "zh": "id-p05.zh"
+      },
+      "ID-H070": {
+        "en": "id-p05.en",
+        "zh": "id-p05.zh"
+      },
+      "ID-H071": {
+        "en": "id-p05.en",
+        "zh": "id-p05.zh"
+      },
+      "ID-H074": {
+        "en": "id-p05.en",
+        "zh": "id-p05.zh"
+      },
+      "ID-H072": {
+        "zh": "id-p05.zh"
       }
     }
   };

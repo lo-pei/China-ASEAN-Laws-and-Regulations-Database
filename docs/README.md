@@ -43,15 +43,18 @@
 
 | 指标 | 权威值 | 来源 |
 | :--- | ---: | :--- |
-| 法域 | 12（中国 + 东盟十国 + 多边条约） | `prototype/data/laws/index.json` |
+| 法域 | 12（中国 + 东盟十国 + 东帝汶） | `prototype/data/laws/index.json` |
 | 法规 | 18,785 部 | 同上 `meta.lawCount` |
-| 条文 | 339,351 条 | 同上 `meta.articleCount` |
-| 正文字符 | 270,627,557 | 同上 `meta.chars` |
-| 中文标题 | 18,746 部（99.79%） | `prototype/data/title-zh/titles.zh.json` |
-| 译文 | 1,566 部 / 60,084 条 / 21 分卷 | `prototype/data/trans/manifest.js` |
+| 条文 | 335,689 条 | 同上 `meta.articleCount` |
+| 正文字符 | 269,474,033 | 同上 `meta.chars` |
+| 中文标题 | 18,748 部（99.80%） | `prototype/data/title-zh/titles.zh.json` |
+| 译文层 | 1,612 部 / 71,626 条 / 31 分卷（中→英 1,566/60,084；越→英 17/2,682；印尼→英/中 29/8,860） | `prototype/data/trans/manifest.js` |
 | 向量索引 | 18,861 部 / 334,779 条 | `backend/data/vectors/`（待按最新库重建） |
 | 界面语言键 | 870 键（vi/th/id/ms missing=0） | `node tools/check-i18n.js` |
 | SQLite 库 | 约 1.2 GB | `backend/data/calr.db` |
+
+> **2026-10-26 数据口径已更新**：印尼语法规正文校正、印尼→英/中与越→英译文入库、英译标题入库。
+> `docs/01–06` 与对应 docx 中的旧数字（339,351 / 18,746 / 1,566 部等）待下一轮统一同步。
 
 > 向量库比法规库多 76 部、条文少 4,572 条（因删改法规后尚未全量重建），详见 07/08/09 的说明。
 > **2026-10-25 已把 01–05 的 md 与 docx 同步到本表口径；06 待 owner 确认口径后处理。**

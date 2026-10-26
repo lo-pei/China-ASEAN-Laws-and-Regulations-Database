@@ -1522,7 +1522,7 @@
     "ID-H035",
     "ID-H036"
    ],
-   "articles": 5001
+   "articles": 1838
   },
   {
    "file": "id-p02",
@@ -1537,7 +1537,7 @@
     "ID-H045",
     "ID-H047"
    ],
-   "articles": 893
+   "articles": 446
   },
   {
    "file": "id-p03",
@@ -1552,7 +1552,7 @@
     "ID-H055",
     "ID-H056"
    ],
-   "articles": 176
+   "articles": 124
   },
   {
    "file": "id-p05",

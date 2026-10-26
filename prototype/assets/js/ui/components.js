@@ -185,10 +185,32 @@
     return null;
   }
 
+  /** 法规标题的展示形态：英文界面显示「英文译名（源语言原名）」
+      · 中国法规：括号内为中文原名
+      · 印尼法规：括号内为印尼语原名
+      中文界面仍显示原名；无当前语言译名时回退原文（并带「暂无译名」提示） */
+  function lawTitleDisplay(law) {
+    var f = law && law.title;
+    var lang = CALR.i18n.lang();
+    if (f && typeof f === 'object') {
+      if (lang !== 'zh' && law.country === 'CN' && f.en && f.zh && /[\u4e00-\u9fa5]/.test(f.zh)) {
+        return { main: f.en, orig: f.zh, origLang: 'zh' };
+      }
+      if (lang === 'en' && law.country === 'ID' && f.en && f.id) {
+        return { main: f.en, orig: f.id, origLang: 'id' };
+      }
+    }
+    return { main: CALR.i18n.field(f), orig: null, origLang: null };
+  }
+
   function lawItem(law, opts) {
     opts = opts || {};
-    var title = CALR.i18n.field(law.title);
-    var alts = U().altTitles(law.title, CALR.i18n.lang(), 2);
+    var td = lawTitleDisplay(law);
+    var title = td.main;
+    var alts = U().altTitles(law.title, CALR.i18n.lang(), 2).filter(function (a) {
+      /* 源语言原名已紧跟在英文译名后的括号里，不再作为并列标题重复展示 */
+      return !(td.orig && a.lang === td.origLang);
+    });
     var tlang = titleLangOf(law.title);
     var terms = opts.terms || [];
     /* 有条文文本的法规显示摘要；纯目录条目仅呈现条目信息 */
@@ -203,6 +225,7 @@
         '<div class="law-item__head">' +
           '<div style="min-width:0">' +
             '<h3 class="law-item__title">' + U().highlight(title, terms) +
+              (td.orig ? '（' + esc(td.orig) + '）' : '') +
               (tlang && tlang !== CALR.i18n.lang()
                 ? ' <span class="tag tag--outline" style="font-size:11px;font-weight:400;vertical-align:middle">' +
                   esc(CALR.i18n.t('原文标题 · 暂无当前语言译名')) + '</span>'

@@ -5,13 +5,16 @@
 
 ---
 
-## 一、三份权威契约
+## 一、六份权威契约
 
 | 契约 | 管什么 | 配套校验器 |
 | :--- | :--- | :--- |
 | [SKILL-条文入库与译文分离规范.md](SKILL-条文入库与译文分离规范.md) | 数据模型、条文入库、译文层物理分离、权威存储（947 行，含 2026-10-08 变更） | `node tools/verify-data.js` |
 | [SKILL-多国法律文本译本生产规范.md](SKILL-多国法律文本译本生产规范.md) | 译本生产流程、回执格式、术语一致性（calr-trans-v2.2） | `node tools/verify-trans-return.js`、`node tools/verify-glossary.js` |
 | [SKILL-法规标题中译规范.md](SKILL-法规标题中译规范.md) | 法规标题中译规则与来源标注（calr-title-zh-v1） | `node tools/verify-title-return.js` |
+| [SKILL-法规标题英译规范.md](SKILL-法规标题英译规范.md) | 中国法规标题中→英（calr-title-en-v1） | `node tools/verify-title-return.js` |
+| [SKILL-越南语法规英译规范.md](SKILL-越南语法规英译规范.md) | 越南法规 vi→en 标题与条文（calr-vi2en-v1） | `node tools/verify-trans-return.js` |
+| [SKILL-印尼语法规英译规范.md](SKILL-印尼语法规英译规范.md) | 印尼法规 id→en/zh 标题与条文（calr-id-en-v1） | `node tools/verify-trans-return.js` |
 
 **权威版本声明**：数据契约以 `SKILL-条文入库与译文分离规范.md` 为准。
 同名的旧快照 `SKILL.md`（v2.0，712 行）已归档，不再维护，两份并存时以本目录的 947 行版为准。

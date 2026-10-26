@@ -1,15 +1,16 @@
 {
  "id": "ID-H052",
  "title": {
-  "zh": "Undang-Undang Nomor 1 Tahun 2024 tentang Perubahan Kedua Atas Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik",
-  "en": "Undang-Undang Nomor 1 Tahun 2024 tentang Perubahan Kedua Atas Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik",
-  "orig": null
+  "zh": "电子信息与交易法第二次修正案",
+  "en": "Law No. 1 of 2024 on the Second Amendment to Law No. 11 of 2008 on Electronic Information and Transactions",
+  "orig": null,
+  "id": "Undang-Undang Nomor 1 Tahun 2024 tentang Perubahan Kedua atas Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik"
  },
  "country": "ID",
  "countryName": "印度尼西亚",
  "layer": "intl",
  "pack": "id-p03",
- "language": "en",
+ "language": "id",
  "level": "law",
  "category": null,
  "status": "active",
@@ -24,8 +25,8 @@
  "coverage": "full",
  "structureMode": "ARTICLE",
  "structure": null,
- "articleCount": 7,
- "chars": 18330,
+ "articleCount": 3,
+ "chars": 1097,
  "source": {
   "name": "印度尼西亚官方发布渠道",
   "url": null
@@ -42,75 +43,34 @@
    "id": "ID-H052-A1",
    "no": 1,
    "noLabel": {
-    "en": "Article 1"
+    "en": "Article 1",
+    "zh": "第 1 条"
    },
    "text": {
-    "en": "bahwa untuk menjaga ruang digital Indonesia yang bersih, sehat, beretika, produktif, dan berkeadilan, perlu diatur pemanfaatan Teknologi Informasi dan Transaksi Elektronik yang memberikan kepastian hukum, keadilan, dan melindungi kepentingan umum dari segala jenis gangguan sebagai akibat penyalahgunaan Informasi Elektronik, Dokumen Elektronik, Teknologi Informasi, dan/atau Transaksi Elektronik yang mengganggu ketertiban umum;"
+    "id": "bahwa untuk menjaga ruang digital Indonesia yang bersih, sehat, beretika, produktif, dan berkeadilan, perlu diatur pemanfaatan Teknologi Informasi dan Transaksi Elektronik yang memberikan kepastian hukum, keadilan, dan melindungi kepentingan umum dari segala jenis gangguan sebagai akibat penyalahgunaan Informasi Elektronik, Dokumen Elektronik, Teknologi Informasi, dan/atau Transaksi Elektronik yang mengganggu ketertiban umum;"
    }
   },
   {
    "id": "ID-H052-A2",
    "no": 2,
    "noLabel": {
-    "en": "Article 2"
+    "en": "Article 2",
+    "zh": "第 2 条"
    },
    "text": {
-    "en": "bahwa beberapa ketentuan dalam Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik sebagaimana telah diubah dengan Undang-Undang Nomor 19 Tahun 2016 tentang Perubahan atas Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik, dalam pelaksanaannya masih menimbulkan multitafsir dan kontroversi di masyarakat sehingga perlu dilakukan perubahan untuk mewujudkan rasa keadilan masyarakat dan kepastian hukum;"
+    "id": "bahwa beberapa ketentuan dalam Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik sebagaimana telah diubah dengan Undang-Undang Nomor 19 Tahun 2016 tentang Perubahan atas Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik, dalam pelaksanaannya masih menimbulkan multitafsir dan kontroversi di masyarakat sehingga perlu dilakukan perubahan untuk mewujudkan rasa keadilan masyarakat dan kepastian hukum;"
    }
   },
   {
    "id": "ID-H052-A3",
    "no": 3,
    "noLabel": {
-    "en": "Article 3"
+    "en": "Article 3",
+    "zh": "第 3 条"
    },
    "text": {
-    "en": "bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perlu membentuk Undang-Undang tentang Perubahan Kedua atas Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik;"
+    "id": "bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perlu membentuk Undang-Undang tentang Perubahan Kedua atas Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik;"
    }
-  },
-  {
-   "id": "ID-H052-A1-d2",
-   "no": 1,
-   "noLabel": {
-    "en": "Article 1"
-   },
-   "text": {
-    "en": "Pasal 5 ayat (1), Pasal 20, Pasal 28D ayat (1), Pasal 28E, Pasal 28F, Pasal 28G ayat (1), Pasal 28I, dan Pasal 28J Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;"
-   },
-   "dupIndex": 2
-  },
-  {
-   "id": "ID-H052-A2-d2",
-   "no": 2,
-   "noLabel": {
-    "en": "Article 2"
-   },
-   "text": {
-    "en": "Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 58, Tambahan Lembaran Negara Republik Indonesia Nomor 4843) sebagaimana telah diubah dengan Undang-Undang Nomor 19 Tahun 2016 tentang Perubahan atas Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik (Lembaran Negara Republik Indonesia Tahun 2016 Nomor 251, Tambahan Lembaran Negara Republik Indonesia Nomor 5952);\nDengan Persetujuan Bersama\nDEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA dan PRESIDEN REPUBLIK INDONESIA UNDANG-UNDANG TENTANG PERUBAHAN KEDUA ATAS UNDANG-UNDANG NOMOR 11 TAHUN 2008 TENTANG INFORMASI DAN TRANSAKSI ELEKTRONIK.\nAngka 1 Ayat 1 Keberadaan Informasi Elektronik dan/atau Dokumen Elektronik mengikat dan diakui sebagai alat bukti yang sah untuk memberikan kepastian hukum terhadap Penyelenggaraan Sistem Elektronik dan Transaksi Elektronik, terutama dalam pembuktian dan hal yang berkaitan dengan perbuatan hukum yang dilakukan melalui Sistem Elektronik.\nAyat 2 Khusus untuk Informasi Elektronik dan/atau Dokumen Elektronik berupa hasil intersepsi atau penyadapan atau perekaman yang merupakan bagian dari penyadapan harus dilakukan dalam rangka penegakan hukum atas permintaan kepolisian, kejaksaan, dan/atau institusi lainnya yang kewenangannya ditetapkan berdasarkan Undang-Undang.\nAyat 3 Cukup jelas.\nAyat 4 Cukup jelas.\nAngka 2 Ayat 1 Cukup jelas.\nAyat 2 Cukup jelas.\nAyat 3 Cukup jelas.\nAyat 4 Cukup jelas.\nAyat 5 Yang dimaksud dengan \"perjanjian kerja sama\" antara lain adalah perjanjian antar-Penyelenggara Sertifikasi Elektronik atau antar-Pemerintah yang Penyelenggara Sertifikasi Elektroniknya akan melakukan pengakuan timbal balik, baik secara bilateral maupun multilateral.\nAyat 6 Cukup jelas.\nAngka 3 Ayat 1\nHuruf a\nCukup jelas.\nHuruf b Yang dimaksud dengan \"segel elektronik\" adalah data elektronik yang dilekatkan, terasosiasi, atau terkait dengan Informasi Elektronik dan/ atau Dokumen Elektronik untuk menjamin asal, integritas, dan keutuhan dari Informasi Elektronik dan/atau Dokumen Elektronik yang digunakan oleh Badan Usaha atau instansi.\nHuruf c Yang dimaksud dengan \"penanda waktu elektronik\" adalah penanda yang mengikat antara waktu dan tanggal dengan Informasi Elektronik dan/ atau Dokumen Elektronik dengan menggunakan metode yang andal.\nHuruf d Yang dimaksud dengan \"layanan pengiriman elektronik tercatat\" adalah layanan yang menyediakan pengiriman Informasi Elektronik dan/atau Dokumen Elektronik, memberikan bukti terkait pengiriman Informasi Elektronik dan/atau Dokumen Elektronik, dan melindungi Informasi Elektronik dan/atau Dokumen Elektronik yang dikirimkan dari risiko kehilangan, pencurian, kerusakan, atau penambahan yang tidak sah.\nHuruf e Yang dimaksud dengan \"autentikasi situs web\" adalah layanan yang mengidentifikasi pemilik situs web dan mengaitkan situs web tersebut ke Orang atau Badan Usaha yang menerima Sertifikat Elektronik situs web dengan menggunakan metode yang andal.\nHuruf f Yang dimaksud dengan \"preservasi Tanda Tangan Elektronik dan/atau segel elektronik\" adalah layanan yang menjamin kekuatan hukum Tanda Tangan Elektronik dan/ atau segel elektronik dalam suatu Informasi Elektronik dan/atau Dokumen Elektronik masih dapat divalidasi meskipun masa berlaku Sertifikat Elektronik tersebut habis.\nHuruf g Yang dimaksud dengan \"identitas digital\" adalah Informasi Elektronik yang memuat identitas unik dari suatu subjek hukum yang pemanfaatannya berada di bawah penguasaan dari subjek hukum yang terasosiasi dengan identitas tersebut.\nHuruf h Cukup jelas.\nAyat 2 Cukup jelas.\nAngka 4 Ayat 1 Cukup jelas.\nAyat 2 Pelindungan terhadap hak anak merupakan prioritas Penyelenggara Sistem Elektronik dibandingkan dengan kepentingan komersial Penyelenggara Sistem Elektronik.\nYang dimaksud dengan \"pelindungan terhadap hak anak\" termasuk pelindungan terhadap data pribadi, privasi, dan keamanan diri anak baik secara fisik, mental, maupun psikis dari penyalahgunaan Informasi Elektronik dan/ atau Dokumen Elektronik yang melanggar hak anak.\nYang dimaksud dengan \"produk, layanan, dan fitur yang dikembangkan dan diselenggarakan oleh Penyelenggara Sistem Elektronik\" adalah produk, layanan, dan fitur yang secara khusus dirancang untuk digunakan atau diakses oleh anak, atau yang mungkin digunakan atau diakses oleh anak.\nAyat 3 Cukup jelas.\nAyat 4\nHuruf a\nCukup jelas.\nHuruf b Yang dimaksud dengan \"mekanisme verifikasi\" adalah tata cara untuk memastikan bahwa pengguna yang mengakses Sistem Elektronik adalah anak, dengan menggunakan teknologi.\nHuruf c Yang dimaksud dengan \"mekanisme pelaporan penyalahgunaan\" adalah tata cara pelaporan dalam sebuah layanan atau fitur yang dapat diakses dengan mudah oleh anak, orang tua, dan/atau wali anak.\nAyat 5 Cukup jelas.\nCukup jelas.\nAngka 6 Ayat 1 Undang-Undang ini memberikan peluang terhadap pemanfaatan Teknologi Informasi oleh penyelenggara negara, Orang, Badan Usaha, dan/atau masyarakat.\nPemanfaatan Teknologi Informasi harus dilakukan secara baik, bijaksana, bertanggung jawab, efektif, dan efisien agar dapat diperoleh manfaat yang sebesar-besarnya bagi masyarakat.\nAyat 2 Cukup jelas.\nAyat 2 ) Cukup jelas.\nAyat (2a) Yang dimaksud dengan \"Transaksi Elektronik risiko tinggi\" antara lain adalah transaksi keuangan yang tidak dilakukan dengan tatap muka secara fisik.\nAyat 3 Cukup jelas.\nAngka 7 Ayat 1 Pengaturan ini memberikan pelindungan bagi pengguna layanan Penyelenggara Sistem Elektronik di Indonesia dengan menjamin akses terhadap sistem hukum yang efektif dan efisien bagi pengguna dalam memenuhi hak dan kewajiban serta menyelesaikan sengketanya.Ketentuan ini dimaksudkan terhadap perjanjian yang berisi klausula baku yang ditujukan bagi masyarakat Indonesia secara umum dalam menggunakan layanan atau produk yang disediakan oleh Penyelenggara Sistem Elektronik.Yang dimaksud dengan \"diatur dengan hukum Indonesia\" termasuk penyelesaian sengketa yang timbul antara Penyelenggara Sistem Elektronik dan penggunanya.\nHuruf a\nCukup jelas.\nHuruf b Yang dimaksud dengan \"tempat pelaksanaan kontrak ada di wilayah Indonesia\" termasuk dalam hal layanan, produk, atau Sistem Elektronik yang diselenggarakan Penyelenggara Sistem Elektronik digunakan atau diakses oleh penggunanya dari Indonesia.\nHuruf c Yang dimaksud dengan \"Penyelenggara Sistem Elektronik memiliki tempat usaha di wilayah Indonesia\" termasuk Penyelenggara Sistem Elektronik memiliki kantor perwakilan di wilayah Indonesia atau Badan Usaha Indonesia.\nYang dimaksud dengan \"Penyelenggara Sistem Elektronik melakukan kegiatan usaha di wilayah Indonesia\" termasuk Penyelenggara Sistem Elektronik menawarkan layanan atau produk serta menyusun syarat dan ketentuan penggunaan layanan atau produknya dalam Bahasa Indonesia dan ditujukan bagi masyarakat Indonesia.\nAyat 2 Yang dimaksud dengan \"bahasa\" adalah Bahasa Indonesia.\nAngka 8 Ayat 1 Yang dimaksud dengan \"menyiarkan\" termasuk perbuatan mentransmisikan, mendistribusikan, dan membuat dapat diaksesnya Informasi Elektronik dan/atau Dokumen Elektronik dalam Sistem Elektronik.\nYang dimaksud dengan \"mendistribusikan\" adalah mengirimkan dan/atau menyebarkan Informasi Elektronik dan/atau Dokumen Elektronik kepada banyak Orang atau berbagai pihak melalui Sistem Elektronik.\nYang dimaksud dengan \"mentransmisikan\" adalah mengirimkan Informasi Elektronik dan/atau Dokumen Elektronik yang ditujukan kepada pihak lain melalui Sistem Elektronik.\nYang dimaksud dengan \"membuat dapat diakses\" adalah semua perbuatan lain selain mendistribusikan dan mentransmisikan melalui Sistem Elektronik yang menyebabkan Informasi Elektronik dan/atau Dokumen Elektronik dapat diketahui pihak lain atau publik.\nYang dimaksud dengan \"melanggar kesusilaan\" adalah melakukan perbuatan mempertunjukkan ketelanjangan, alat kelamin, dan aktivitas seksual yang bertentangan dengan nilai-nilai yang hidup dalam masyarakat di tempat dan waktu perbuatan tersebut dilakukan.\nPenafsiran pengertian kesusilaan disesuaikan dengan standar yang berlaku pada masyarakat dalam waktu dan tempat tertentu (contemporary community standard).\nYang dimaksud dengan \"diketahui umum\" adalah untuk dapat atau sehingga dapat diakses oleh kumpulan orang banyak yang sebagian besar tidak saling mengenal.\nAyat 2 Ketentuan pada ayat ini mengacu pada ketentuan perjudian dalam hal menawarkan atau memberikan kesempatan untuk permainan judi, menjadikannya sebagai mata pencaharian, menawarkan atau memberikan kesempatan kepada umum untuk bermain judi, dan turut serta dalam perusahaan untuk itu.\nAngka 9 Yang dimaksud dengan \"menyerang kehormatan atau nama baik\" adalah perbuatan yang merendahkan atau merusak nama baik atau harga diri orang lain sehingga merugikan orang tersebut, termasuk menista dan/atau memfitnah.\nAyat 1 Yang dimaksud dengan \"ancaman kekerasan\" adalah Informasi Elektronik dan/atau Dokumen Elektronik yang berisi muatan yang ditujukan untuk menimbulkan rasa takut, cemas, atau khawatir akan dilakukannya kekerasan.\nAyat 2 Yang dimaksud dengan \"ancaman pencemaran\" adalah ancaman menyerang kehormatan atau nama baik orang lain dengan cara menuduhkan suatu hal dengan maksud supaya hal tersebut diketahui umum.\nAngka 10 Ayat 1 Cukup jelas.\nAyat 2 Cukup jelas.\nAyat 3 Yang dimaksud dengan \"kerusuhan\" adalah kondisi yang mengganggu ketertiban umum di ruang fisik, bukan kondisi di ruang digital/siber.\nAngka 11 Yang dimaksud dengan \"korban\" adalah orang yang mengalami penderitaan fisik, mental, dan/atau kerugian ekonomi yang diakibatkan oleh tindak pidana.\nTermasuk dalam perbuatan yang dimaksud dalam ketentuan ini adalah perundungan di ruang digital (cyber bullying).\nAngka 12 Cukup jelas.\nAngka 13 Ayat 1 Fasilitasi pemanfaatan Teknologi Informasi, termasuk tata kelola Teknologi Informasi dan Transaksi Elektronik yang aman, beretika, cerdas, kreatif, produktif, dan inovatif.\nKetentuan ini termasuk memfasilitasi masyarakat luas, instansi pemerintah, dan pelaku usaha dalam mengembangkan produk dan jasa Teknologi Informasi dan komunikasi.\nAyat 2 Cukup jelas.\nAyat 2 ) Cukup jelas.\nAyat 2 ) Cukup jelas.\nAyat 2 ) Cukup jelas.\nAyat 2 ) Cukup jelas.\nAyat (2a) Cukup jelas.\nAyat (2b) Yang dimaksud dengan \"pemutusan Akses\" adalah tindakan pemblokiran Akses, penutupan akun, dan/atau penghapusan konten.\nTermasuk dalam \"melakukan pemutusan Akses\" adalah melakukan pemblokiran terhadap akun media sosial.\nAyat (2c) Cukup jelas.\nAyat (2d) Yang dimaksud dengan \"muatan berbahaya bagi keselamatan nyawa atau kesehatan individu atau masyarakat\" adalah Informasi Elektronik dan/atau Dokumen Elektronik yang dapat menyebabkan kerugian materiel dan/atau fisik yang signifikan bagi individu atau masyarakat.\nMisalnya, peristiwa atau kejadian yang menunjukkan bunuh diri atau menunjukkan tantangan yang berbahaya bagi keselamatan nyawa, yang dapat mendorong orang lain untuk melakukan perbuatan yang serupa.\nAyat 3 Cukup jelas.\nAyat 4 Cukup jelas.\nAyat 5 Cukup jelas.\nAyat 6 Cukup jelas.\nAngka 14 Ayat 1 Yang dimaksud dengan \"bertanggung jawab dalam mendorong terciptanya ekosistem digital\" adalah dengan menetapkan kebijakan yang memungkinkan Penyelenggara Sistem Elektronik mendapatkan kesempatan berusaha atau berinovasi yang sama (equal level of playing field) secara adil, wajar, dan non-diskriminatif, serta menjaga kualitas pelayanan dalam pemanfaatan Teknologi Informasi dan Transaksi Elektronik yang bertujuan memberikan nilai tambah pada ekosistem digital dalam pemanfaatan Teknologi Informasi dan Transaksi Elektronik, dan memberikan kesempatan kepada masyarakat untuk mendapatkan pilihan yang lebih baik dan berkualitas, serta mewujudkan terciptanya rasa aman atas pemanfaatan Sistem Elektronik yang diselenggarakan oleh Penyelenggara Sistem Elektronik.\nAyat 2 Yang dimaksud dengan \"melakukan penyesuaian pada Sistem Elektronik\" antara lain adalah pembatasan atau penambahan fitur suatu perangkat lunak atau perangkat keras pada Sistem Elektronik atau melarang penggunaan suatu fitur pada Sistem Elektronik di wilayah hukum Negara Republik Indonesia.\nYang dimaksud dengan \"tindakan tertentu\" antara lain adalah pelaksanaan kewajiban afirmatif oleh Penyelenggara Sistem Elektronik terhadap masyarakat yang terdampak akibat pemanfaatan perangkat lunak, perangkat keras, dan/ atau fitur Sistem Elektronik Penyelenggara Sistem Elektronik dan penyesuaian kegiatan usaha Penyelenggara Sistem Elektronik untuk menghadirkan kesempatan berusaha yang sama (equal level of playing field).\nAyat 3 Cukup jelas.\nAyat 4 Cukup jelas.\nAyat 5 Cukup jelas.\nAyat 6 Cukup jelas.\nAngka 15 Ayat 1 Yang dimaksud dengan \"Pejabat Pegawai Negeri Sipil tertentu\" adalah Pejabat Pegawai Negeri Sipil kementerian yang menyelenggarakan urusan pemerintahan di bidang komunikasi dan informatika yang telah memenuhi persyaratan berdasarkan ketentuan peraturan perundang-undangan.\nAyat 2 Cukup jelas.\nAyat 3 Cukup jelas.\nAyat 4 Cukup jelas.\nAyat 5\nHuruf a\nCukup jelas.\nHuruf b Cukup jelas.\nHuruf c Cukup jelas.\nHuruf d Cukup jelas.\nHuruf e Cukup jelas.\nHuruf f Cukup jelas.\nHuruf g Cukup jelas.\nHuruf h Cukup jelas.\nHuruf i Cukup jelas.\nHuruf j Yang dimaksud dengan \"ahli\" adalah orang yang memiliki keahlian khusus di bidang Teknologi Informasi yang dapat dipertanggungjawabkan baik secara akademis maupun praktis mengenai pengetahuannya tersebut.\nHuruf k Cukup jelas.\nHuruf 1 Yang dimaksud dengan \"memerintahkan kepada 'Penyelenggara Sistem Elektronik untuk melakukan pemutusan Akses\" termasuk memerintahkan Penyelenggara Sistem Elektronik untuk melakukan pemblokiran terhadap akun media sosial, rekening bank, uang elektronik, nama domain, alamat protokol internet (IP address), dan/atau aset digital.\nYang dimaksud dengan \"pemutusan Akses secara sementara\" adalah tindakan pemblokiran Akses, penutupan akun, dan/ atau penghapusan konten selama diperlukan dalam proses penegakan hukum.\nAyat 6 Cukup jelas.\nAyat 7 Cukup jelas.\nAyat 7 ) Cukup jelas.\nAyat (7a) Cukup jelas.\nAyat 8 Cukup jelas.\nAngka 16 Ayat 1 Cukup jelas.\nAyat 2 Cukup jelas.\nAyat 3 Cukup jelas.\nAyat 4 Cukup jelas.\nAyat 5 Cukup jelas.\nAyat 6 Cukup jelas.\nAyat 7\nHuruf a\nYang dimaksud dengan \"dilakukan untuk kepentingan umum\" adalah melindungi kepentingan masyarakat yang diungkapkan melalui hak berekspresi dan hak berdemokrasi, misalnya melalui unjuk rasa atau kritik.\nDalam negara demokratis, kritik menjadi hal penting sebagai bagian dari kebebasan berekspresi yang sedapat mungkin bersifat konstruktif, walaupun mengandung ketidaksetujuan terhadap perbuatan atau tindakan orang lain.\nPada dasarnya, kritik dalam pasal ini merupakan bentuk pengawasan, koreksi, dan saran terhadap hal-hal yang berkaitan dengan kepentingan masyarakat.\nHuruf b Cukup jelas.\nAyat 8 Cukup jelas.\nAyat 9 Cukup jelas.\nAyat 10 Cukup jelas.\nAyat 11 Cukup jelas.\nAngka 17 Cukup jelas.\nAngka 18 Cukup jelas.\nCukup jelas.\nAyat 1 Yang dimaksud dengan \"andal\" adalah Sistem Elektronik memiliki kemampuan yang sesuai dengan kebutuhan penggunaannya.\nYang dimaksud dengan \"aman\" adalah Sistem Elektronik terlindungi secara fisik dan nonfisik.\nYang dimaksud dengan \"beroperasi sebagaimana mestinya\" adalah Sistem Elektronik memiliki kemampuan sesuai dengan spesifikasinya, termasuk kemampuan Sistem Elektronik dalam mematuhi atau memenuhi kewajiban tata kelola Penyelenggaraan Sistem Elektronik yang diatur dalam peraturan perundang-undangan.\nAyat 2 Yang dimaksud dengan \"bertanggung jawab\" adalah ada subjek hukum yang bertanggung jawab secara hukum terhadap Penyelenggaraan Sistem Elektronik tersebut.\nAyat 3 Cukup jelas.\nAngka 5 ###### Isi Dokumen **UNDANG-UNDANG NOMOR 1 TAHUN 2024 TENTANG PERUBAHAN KEDUA ATAS UNDANG-UNDANG NOMOR 11 TAHUN 2008 TENTANG INFORMASI DAN TRANSAKSI ELEKTRONIK** **DENGAN RAHMAT TUHAN YANG MAHA ESA** **PRESIDEN REPUBLIK INDONESIA,** menimbang"
-   },
-   "dupIndex": 2
-  },
-  {
-   "id": "ID-H052-A3-d2",
-   "no": 3,
-   "noLabel": {
-    "en": "Article 3"
-   },
-   "text": {
-    "en": "bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perlu membentuk Undang-Undang tentang Perubahan Kedua atas Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik; mengingat"
-   },
-   "dupIndex": 2
-  },
-  {
-   "id": "ID-H052-A2-d3",
-   "no": 2,
-   "noLabel": {
-    "en": "Article 2"
-   },
-   "text": {
-    "en": "Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 58, Tambahan Lembaran Negara Republik Indonesia Nomor 4843) sebagaimana telah diubah dengan Undang-Undang Nomor 19 Tahun 2016 tentang Perubahan atas Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik (Lembaran Negara Republik Indonesia Tahun 2016 Nomor 251, Tambahan Lembaran Negara Republik Indonesia Nomor 5952);\nDengan Persetujuan Bersama\nDEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA dan PRESIDEN REPUBLIK INDONESIA memperhatikan memutuskan menetapkan UNDANG-UNDANG TENTANG PERUBAHAN KEDUA ATAS UNDANG-UNDANG NOMOR 11 TAHUN 2008 TENTANG INFORMASI DAN TRANSAKSI ELEKTRONIK.\n**Pasal I** Beberapa ketentuan dalam Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 58, Tambahan Lembaran Negara Republik Indonesia Nomor 4843) sebagaimana telah diubah dengan Undang-Undang Nomor 19 Tahun 2016 tentang Perubahan atas Undang-Undang Nomor 11 Tahun 2008 tentang Infor"
-   },
-   "dupIndex": 3
   }
  ]
 }

@@ -78,10 +78,14 @@ const SPELL_RULES = {
 };
 let SPELL = null;        // 当前 job 声明的拼写体系规则；null = 未声明
 let SPELL_NAME = '';     // 'en-US' | 'en-GB' | ''
+// 专名保留官方拼写，不参与拼写体系判定（如 ISO 的官方英文名用 -z）
+const SPELL_PROPER = [/International Organization for Standardization/g, /International Labour Organization/g, /World Trade Organization/gi, /World Health Organization/g];
 function spellCheck(v, tag, label) {
   if (!SPELL || !v) return;
-  for (const re of SPELL.hard) if (re.test(v)) fail(`${tag}${label}: 拼写不符声明的 ${SPELL_NAME}（${re}）→ §4.11.3`);
-  for (const re of SPELL.soft) if (re.test(v)) warn(`${tag}${label}: 疑似不符声明的 ${SPELL_NAME}（${re}）→ §4.11.3`);
+  let s = v;
+  for (const re of SPELL_PROPER) s = s.replace(re, '');
+  for (const re of SPELL.hard) if (re.test(s)) fail(`${tag}${label}: 拼写不符声明的 ${SPELL_NAME}（${re}）→ §4.11.3`);
+  for (const re of SPELL.soft) if (re.test(s)) warn(`${tag}${label}: 疑似不符声明的 ${SPELL_NAME}（${re}）→ §4.11.3`);
 }
 
 function readJson(p) {
@@ -218,6 +222,24 @@ if (fs.existsSync(receiptPath)) {
 
 /* ---------- 3. returns/*.json ---------- */
 /* 源文缓存（源相对截断检测用） */
+/* 源分片条号顺序缓存（R4 的对账基准）：
+   部分印尼法规的源数据 `no` 本身不升序（如《中央银行法》释义段把被释义条文的 Pasal 号当作记录号），
+   此时「严格升序」不是正确约束；正确约束是「回执条号序列与源分片逐位一致」。 */
+const srcOrderCache = new Map();
+function srcOrderOf(lawId, shardId) {
+  if (!jobDir) return null;
+  const key = lawId + '.' + shardId;
+  if (srcOrderCache.has(key)) return srcOrderCache.get(key);
+  let order = null;
+  const sp = path.join(jobDir, 'shards', key + '.json');
+  if (fs.existsSync(sp)) {
+    const S = readJson(sp);
+    if (S && Array.isArray(S.articles)) order = S.articles.map(a => a.no);
+  }
+  srcOrderCache.set(key, order);
+  return order;
+}
+
 const srcCache = new Map();
 function srcTextOf(lawId) {
   if (srcCache.has(lawId)) return srcCache.get(lawId);
@@ -273,6 +295,7 @@ for (const f of files) {
 
   const nos = [];
   let prev = -Infinity;
+  const srcOrder = srcOrderOf(o.lawId, o.shardId);
   for (let i = 0; i < arts.length; i++) {
     const a = arts[i];
     const at = `${tag}#${i}`;
@@ -288,7 +311,14 @@ for (const f of files) {
       }
     }
     nos.push(a.no);
-    if (a.no <= prev) fail(`${at}: no 未严格升序（${prev} → ${a.no}，R4）`);
+    if (srcOrder) {
+      // R4（源顺序基准）：源文本身不升序时，要求回执与源分片逐位同序
+      if (srcOrder[i] !== a.no) {
+        fail(`${at}: no 与源分片第 ${i + 1} 条不一致（源 ${srcOrder[i]} → 回执 ${a.no}，R4 不得改号/乱序）`);
+      }
+    } else if (a.no <= prev) {
+      fail(`${at}: no 未严格升序（${prev} → ${a.no}，R4）`);
+    }
     prev = a.no;
 
     // R21/R22/R27 层级字段格式（chapter / heading）—— 仅中译外任务
@@ -381,11 +411,34 @@ for (const f of files) {
   if (!seenLaw.has(o.lawId)) seenLaw.set(o.lawId, new Set());
   for (const n of nos) seenLaw.get(o.lawId).add(n);
   if (!shardSpan.has(o.lawId)) shardSpan.set(o.lawId, []);
-  shardSpan.get(o.lawId).push({ shardId: o.shardId, min: Math.min(...nos), max: Math.max(...nos), count: nos.length });
+  shardSpan.get(o.lawId).push({ shardId: o.shardId, nos, min: Math.min(...nos), max: Math.max(...nos), count: nos.length });
 }
 
 /* ---------- 4. 分片间不重叠、不留缝（与任务包 shards 对账） ---------- */
 for (const [lawId, spans] of shardSpan) {
+  if (job) {
+    // 有任务包时用「逐片条号集合精确对账」代替 min/max 区间启发：
+    // 源 `no` 不升序的法规（如 ID-H067/H068）用区间判断会误报重叠。
+    const it = jobItems.get(lawId);
+    if (it) {
+      for (const sh of it.shards || []) {
+        const sp = spans.find(s => String(s.shardId) === String(sh.shardId));
+        if (!sp) continue;
+        const expect = srcOrderOf(lawId, sh.shardId);
+        if (expect) {
+          const gotSet = sp.nos.slice().sort((a, b) => a - b);
+          const expSet = expect.slice().sort((a, b) => a - b);
+          const miss = expSet.filter(n => !gotSet.includes(n));
+          const extra = gotSet.filter(n => !expSet.includes(n));
+          if (miss.length) fail(`${lawId}.${sh.shardId}: 漏条 ${JSON.stringify(miss.slice(0, 12))}（R2）`);
+          if (extra.length) fail(`${lawId}.${sh.shardId}: 多条/改号 ${JSON.stringify(extra.slice(0, 12))}（R19）`);
+        } else if (sp.min !== sh.fromNo || sp.max !== sh.toNo) {
+          warn(`${lawId}.${sh.shardId}: 实际条号范围 ${sp.min}-${sp.max} 与任务包 ${sh.fromNo}-${sh.toNo} 不符（若非空条文则需确认）`);
+        }
+      }
+    }
+    continue;
+  }
   const sorted = spans.slice().sort((a, b) => a.min - b.min);
   for (let i = 1; i < sorted.length; i++) {
     if (sorted[i].min <= sorted[i - 1].max) {
